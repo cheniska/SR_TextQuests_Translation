@@ -144,7 +144,7 @@
 | гонга, донга, ганга, тонга | gonga, donga, ganga, tonga | Menzols: предметы мензолов |
 | гуанава (напиток) | guanava | Menzols, Energy |
 | гангана (напиток); кинза | gangana; kindza (Energy) / cilantro (Bank: «cilantro sauce») | Energy, Bank |
-| пальма ноэлема | Noelemah palm | Bank (Examen: noelemakh — привести к Noelemah) |
+| пальма ноелемах (ноэлема) | Noelemakh palm (РЕШЕНО пользователем 2026-10-02: kh; было Noelemah) | Bank, Examen |
 | табуретовая водка; янвелоб | stool vodka (Spy: stoolvodka, опечатка); yanvelba | Spy, Examen |
 | мутновонючий | muddystink | Bank: Muddystink Avenue |
 | зелёный шаракеш; красная пачрямба | green sharakesh; red pachryamba | Newflora (пароли) |
@@ -173,7 +173,7 @@
 | Верховный судья | Chief Judge | Gladiator |
 | Вождь / Великий вождь | Chief / Great Chief | Menzols |
 | Старший Бог Зю | Elder God Zyu | Boat |
-| Ваа (древняя цивилизация) | Waa | Boat |
+| Ваа (древняя цивилизация) | Vaa (РЕШЕНО пользователем 2026-10-02: транслит; в КР1 было Waa) | Boat |
 | гробница Гоши | tomb of Goshi | Tomb |
 | Толлосуум | TOLLOSOOOM | Gladiator |
 | долина Мгаррдок | Mgharrdoq valley | Commando |
@@ -208,7 +208,7 @@
 | Прежевальский | Prezhevalski | Tomb |
 | Кац, Вован | Katz, Vovan | Spy |
 | Айлаунлат | Aylaunlat | Newflora |
-| Гэ, Вау, Ху | Gae, Wow, Hoo | Boat |
+| Гэ, Вау, Ах, Бах (Боги легенды); господин Хуу (гаалец, глава экспедиции) | Ge, Vau, Akh, Bakh; Mr. Khuu (РЕШЕНО пользователем 2026-10-02: транслит; в КР1 было Gae, Wow, Hoo) | Boat |
 
 ### Bank (КР1, проверка 2026-09-30) — добавлено при вычитке
 | RU | EN | Кат. | Где | Комментарий |
@@ -308,3 +308,13 @@
 | «Ротта» (боевой супербайк, Манглор) | "Rotta" (Manglor-made combat super-bike) | Техника | Commando Loc11-1 |
 | самтарский снайпер/штурмовик | Samtar sniper / stormtrooper | Прочее | Commando Loc37-1 |
 | дисковая мина; управляемая торпеда | disc mine; guided torpedo | Оружие | Commando |
+
+### Boat (КР1, переписан 2026-10-02)
+| RU | EN | Кат. | Где | Комментарий |
+|---|---|---|---|---|
+| Церемония Переправы на Лодке | Ceremony of the Boat Crossing | Прочее | Boat Loc1-1 | обряд туземцев в Храме-пирамиде |
+| Храм (пирамида) | Temple | Место | Boat Loc1-1 | постройка цивилизации Vaa (по теории Khuu) |
+| библиотека Ваа | library of the Vaa | Место | Boat Loc4-1 | |
+| демон Од | demon Od | Персонаж | Boat Loc3-1 | злой демон легенды |
+| Боги (четыре сына Зю) | Gods | Персонаж | Boat Loc3-1 | |
+| пролив | strait | Прочее | Boat | КР1 "straits" — заменено на ед. ч. |

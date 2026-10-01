@@ -30,8 +30,8 @@ ShuPrison(4), ShuQuest(7), XenoZeroSignalQuest(1) — todo; состав уто�
 Источник RU: `TextQuests\SR1TextQuests\Rus\<Name>.txt`; английский (ревизия): `TextQuests\SR1TextQuests\Eng\<Name>.txt` (исходный КР1-вариант сохранён в `0_квесты кр 1 в тхт англ\qmm\<Name>.txt`).
 Методика и инструменты — `KR1_REVIEW_GUIDE.md`; заметки — `TextQuests\SR1TextQuests\Eng\notes\<Name>_notes.txt`; журнал правок — `Eng\notes\<Name>_fixes.txt`.
 Срез на 2026-09-30 (`qtr.py check Eng\X.txt Rus\X.txt`, ошибок/предупр. в КР1-варианте; кир = записей с кириллицей):
-- Осталось вычитать (срез check КР1-варианта, ошибок/предупр.): Boat 1, Build 3, Diehard 3, Energy 3, Fishing 1, Gladiator 2+1, Ikebana 1, Menzols 5+2 (файл `Menzolsrus.txt`, 798 записей), Spy 2, Tomb 1+1. Остальные квесты КР1 готовы (журнал ниже; актуальная сводка — `QUEST_STATUS.txt`).
-Очередь вычитки (актуально на 2026-10-02): Boat, Build, Diehard, Energy, Fishing, Gladiator, Ikebana, Menzols, Spy, Tomb. Перепроверка времён в Bank — выполнена 2026-10-02.
+- Осталось вычитать (срез check КР1-варианта, ошибок/предупр.): Build 3, Diehard 3, Energy 3, Fishing 1, Gladiator 2+1, Ikebana 1, Menzols 5+2 (файл `Menzolsrus.txt`, 798 записей), Spy 2, Tomb 1+1. Остальные квесты КР1 готовы (журнал ниже; актуальная сводка — `QUEST_STATUS.txt`).
+Очередь вычитки (актуально на 2026-10-02): Build, Diehard, Energy, Fishing, Gladiator, Ikebana, Menzols, Spy, Tomb. Перепроверка времён в Bank — выполнена 2026-10-02.
 
 | Квест | Дата | Записей | Правок (примерно) | Заметки |
 |---|---|---|---|---|
@@ -58,3 +58,4 @@ ShuPrison(4), ShuQuest(7), XenoZeroSignalQuest(1) — todo; состав уто�
 | Diamond | 2026-10-02 | 287 (243 уникальных) | переписан заново | время по контексту RU; check 0/0 |
 | Commando | 2026-10-02 | 231 (193 уникальных) | переписан заново | время по контексту RU; check 0/0 |
 | Bank (перепроверка времён) | 2026-10-02 | 552 (414 уникальных) | 4 правки (Loc32-1/2, Loc53-1, Path245b) | времена соответствуют RU; потеря «пальмы ноелемах» восстановлена; структура 0, check 0/0 |
+| Boat | 2026-10-02 | 76 (52 уникальных) | переписан заново | время по контексту RU; имена транслитом (Khuu, Vau, Ge, Vaa); лор ~7 фактов; структура 0; check 0/0 |

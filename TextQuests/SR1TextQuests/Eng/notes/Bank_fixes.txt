@@ -516,3 +516,4 @@ The Jlobber Bank was a large building on the main street of Gaz-Golder. ==> Jlob
 a plate of palm fruit with cilantro sauce ==> a plate of Noelemah palm fruit with cilantro sauce
 "Psychotropic medicines". Where are you going? ==> "Psychotropic medicines". Where will you go?
 - I almost won, but what's your computer doing?! ==> - I've almost won, and what is your computer doing?!
+Noelemah ==> Noelemakh
