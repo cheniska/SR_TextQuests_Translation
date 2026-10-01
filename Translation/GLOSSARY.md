@@ -178,9 +178,9 @@
 | Толлосуум | TOLLOSOOOM | Gladiator |
 | долина Мгаррдок | Mgharrdoq valley | Commando |
 | цитадель Хардор | Citadel of Hardor | Siege |
-| племена Айока, Аючча, Айнунга, Грогле, Уги | Ayoka, Ayucha, Ainunga, Grogle, Ugi tribes | Menzols, Build |
+| племена Айока, Аючча, Айнунга, Грогле, Уги | Ayoka, Ayuchcha, Aynunga, Grogle, Ugi tribes (РЕШЕНО 2026-10-02: строгая транслитерация; КР1 Ayucha, Ainunga) | Menzols, Build |
 | гора Буанка | Buanka Mountain | Menzols |
-| тотем Айруниты / Великого Шавны | totem of Ayrunitha / of the Great Shavna | Menzols |
+| тотем Айруниты / Великого Шавны | totem of Ayrunita / of the Great Shavna (КР1 Ayrunitha) | Menzols |
 
 ### Персонажи (встречаются в нескольких записях)
 | RU | EN | Квест |
@@ -201,9 +201,9 @@
 | Иналта, Клеси-вае | Inalta, Klesi-wae | Commando |
 | Брар, Руберхер, Плехер, Тарахуб, Вертгад (Вердгад), Шлемельх | Brar, Ruberher, Pleher, Tarahub, Vertgad (Verdgad — вариант), Schlemelh | Siege |
 | Гаусс (по Гауссу) | Gauss | Siege |
-| Мурза, Агаррача, Бабаха, Унглаха, Гронка, Лвамба, Дамба, Каштанга, Дунга, Грангоча, Жманка, Бурручача, Мганука, Клинка, Алхунка, Грамба, Ранинта | Murza, Agarracha, Babakha, Unglakha, Gronka, Lwamba, Damba, Kashtanga, Dunga, Grangocha, Zhmanka, Burruchacha, Mganuka, Klinka, Alhunka, Gramba, Raninta | Menzols |
+| Мурза, Агаррача, Бабаха, Унглаха, Гронка, Лвамба, Дамба, Каштанга, Дунга, Грангоча, Жманка, Бурручача, Мганука, Клинка, Алхунка, Грамба, Ранинта | Murza, Agarracha, Babakha, Unglakha, Gronka, Lvamba (КР1 Lwamba), Damba, Kashtanga, Dunga, Grangocha, Zhmanka, Burruchacha, Mganuka, Klinka, Alkhunka, Gramba, Raninta | Menzols |
 | Великий Шавна | Great Shavna (Shawna — опечатка) | Menzols |
-| идол Мгагуча | Mgagucha idol | Menzols |
+| идол Мгагуча | the idol Mgagucha / the Mgagucha (КР1 "Mgagucha idol") | Menzols |
 | Санёч, Сапожников | Sanych, Sapozhnikov | Rush |
 | Прежевальский | Prezhevalski | Tomb |
 | Кац, Вован | Katz, Vovan | Spy |
@@ -318,3 +318,27 @@
 | демон Од | demon Od | Персонаж | Boat Loc3-1 | злой демон легенды |
 | Боги (четыре сына Зю) | Gods | Персонаж | Boat Loc3-1 | |
 | пролив | strait | Прочее | Boat | КР1 "straits" — заменено на ед. ч. |
+
+### Menzols (КР1, вычитка 2026-10-02)
+Имена — строгая транслитерация (решение пользователя): Лвамба → Lvamba (КР1 Lwamba), Алхунка → Alkhunka (КР1 Alhunka), Аючча → Ayuchcha, Айнунга → Aynunga, Айрунита → Ayrunita.
+| RU | EN | Кат. | Где | Комментарий |
+|---|---|---|---|---|
+| Рене Маккалистер | Renee McCallister | Персонаж | Menzols Loc1-1 | начальник станции НИИ им. Рафмана |
+| НИИ этнографии и космоархеологии имени Грега Рафмана | Greg Raffman Research Institute of Ethnography and Space Archaeology | Организация | Menzols QuestDescription | полное название (см. Bank) |
+| Бамбука; Алана; Грамба | Bambuka; Alana; Gramba | Персонаж | Menzols Loc39-1, Loc50-2, Loc175-1 | сын Лвамбы; жена Бурручачи; торговец |
+| племя Мгачка-Бурганке; племя Акноэ | Mgachka-Burganke tribe; Aknoe tribe | Место | Menzols Loc32-1, Loc161-2 | |
+| Блестящая Деревня | the Shining Village | Место | Menzols Loc45-1, Loc84-1 | так мензолы зовут лагерь учёных; КР1 Shiny/Brilliant — не использовать |
+| Дальний Лес | the Far Forest | Место | Menzols Loc44-2 | |
+| Нью-Ред-Стрит | New Red Street | Место | Menzols Loc24-1 | пародия на Уолл-стрит |
+| священная водяная повозка | sacred water cart | Прочее | Menzols Loc5-1 | катер учёных; КР1 carriage/wagon — не использовать |
+| Карающая Рука | the Punishing Hand | Прочее | Menzols Path40b, Loc117-1 | станнер в устах рейнджера |
+| амулет Водной (Водяной) Стихии | amulet of the Water Element | Прочее | Menzols Loc67-1, Loc161-2 | пробка от гуанавы; КР1 Water Elemental — заменено |
+| Великая Охота | the Great Hunt | Прочее | Menzols Loc194-1 | |
+| ручной станнер | hand stunner / stunner | Оружие | Menzols Loc84-1 | |
+| дикая сова; дикие орехи пинашки | wild owl; wild pinashka nuts | Фауна/флора | Menzols Loc39-2, Loc23-1 | КР1 "pinecone nuts" — неверно |
+| кора трататоги | tratatoga bark | Флора | Menzols Loc2-1 | из неё гуанава |
+| гацинский жук | Gatsin beetle | Фауна | Menzols Loc2-1 | |
+| сенной грипп | hay flu | Прочее | Menzols Loc4-1 | КР1 hay fever |
+| ортодальный гуманоид, драдический медведь, палеопигмей | orthodal humanoid, dradic bear, paleopygmy | Прочее | Menzols Loc2-1 | псевдонаучные термины |
+| банга, гронга | banga, gronga | Прочее | Menzols Loc152-2 | присказка «купить бангу, не имея гронги» |
+| танга | tanga | Предмет | Menzols | силки на дикую сову (дополняет гонга/донга/ганга/тонга) |

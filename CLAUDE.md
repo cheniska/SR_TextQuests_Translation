@@ -21,6 +21,8 @@
 - Время глаголов — по контексту RU-записи; внутри записи единое. Эвристика: `py -3.14 tense.py <Rus.txt> <N> < /dev/null`.
 - Токены (`<clr>…<clrEnd>`, `<Ranger>`, `<ToPlanet>`, `<FromPlanet>`, `<Date>`, `<Money>`, `<>`, `[pN]`, `{…}`) — дословно. В репликах прямые `"` и ` - `.
 - Новый квест без указания пользователя не начинать; спорное — в notes и вопросом пользователю.
+- КР1: квесты УЖЕ переведены — режим ВЫЧИТКИ (основа — английский КР1, правки по RU через fixes, `KR1_REVIEW_GUIDE.md`), не перевод с нуля (уточнение пользователя 2026-10-02). Целиком переписывать только записи с грубыми ошибками.
+- Попутно с переводом/вычиткой: любые лорные факты из RU — в LORE_FACTS.md, любые новые термины — в GLOSSARY.md; после сборки — `qtr_struct.py` (структура txt = RU).
 
 ## Среда
 - Python ТОЛЬКО `py -3.14 файл.py < /dev/null` (никогда `py -3.14 -`); в Bash `export PYTHONUTF8=1`.
@@ -47,8 +49,8 @@ GLOSSARY.md, LORE_FACTS.md, удалить файлы `X.*` из `Translation/wo
 Правка готового Eng-файла (UTF-16): Python-скрипт: decode utf-16 → replace → писать `b'\xff\xfe'+s.encode('utf-16-le')`, затем `qtr.py check`.
 
 ## Текущее состояние (2026-10-02)
-- КР1 (SR1TextQuests): готово 16 из 25 (Penetrator, Bank, Boat, Bondiana, Casino, Commando, Diamond, Examen, Galaxy, Gobsaur, Hachball, Murder, Newflora, Poroda, Rush, Siege).
-- Осталось в КР1 (английский КР1 есть, нашей вычитки нет; check-ошибки в КР1-варианте): Build 3, Diehard 3, Energy 3, Fishing 1, Gladiator 2+1, Ikebana 1, Menzols 5+2 (файл `Eng/Menzolsrus.txt`, 798 зап.), Spy 2, Tomb 1+1.
+- КР1 (SR1TextQuests): готово 17 из 25 (Penetrator, Bank, Boat, Menzols, Bondiana, Casino, Commando, Diamond, Examen, Galaxy, Gobsaur, Hachball, Murder, Newflora, Poroda, Rush, Siege).
+- Осталось в КР1 (английский КР1 есть, нашей вычитки нет; check-ошибки в КР1-варианте): Build 3, Diehard 3, Energy 3, Fishing 1, Gladiator 2+1, Ikebana 1, Spy 2, Tomb 1+1.
 - Перепроверка времён в Bank — выполнена 2026-10-02 (времена соответствуют RU, 4 мелкие правки). «гомока» → gomoka — принято пользователем.
 - Структура всех готовых квестов КР1 проверена `qtr_struct.py` — 0 расхождений.
 - Дальше (по запросу пользователя): SR2HD (30+ полностью русских: см. STATUS.md), моды (Ref*, Shu*, Rev*, Xeno*…).

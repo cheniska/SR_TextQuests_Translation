@@ -1,0 +1,39 @@
+Menzols - заметки к вычитке (корпус КР1), 2026-10-02
+Результат: SR1TextQuests\Eng\Menzols.txt (798 записей, 578 уникальных; check 0/0; qtr_struct 0). RU: SR1TextQuests\Rus\Menzols.txt (не менялся).
+Исходный английский КР1: Eng\Menzolsrus.txt (не тронут; копия в "0_квесты кр 1 в тхт англ\qmm\Menzolsrus.txt"). Новое имя Eng\Menzols.txt - по имени RU-файла.
+Метод: записи todo 0-98 (QuestDescription..Loc45-1) переведены заново по RU (начал как перевод, затем пользователь уточнил: квест уже переведён - перешёл на вычитку). Остальные 479 уникальных - английский КР1 + правки по RU (журнал Eng\notes\Menzols_fixes.txt, qtr_apply + qtr_post). Точные повторы теперь переведены одинаково (5 ошибок check КР1 устранены).
+Формат: запись | тип | было | стало | комментарий.
+
+=== СМЫСЛ: КР1 расходился с RU ===
+Loc73-1..3 | СМЫСЛ | "kshonga liked Agarracha very much, and he agreed" | "Agarracha likes kshonga very much, and he agrees" | «кшонга очень понравился Агарраче» - перевёрнуто в КР1.
+Loc80-1 | СМЫСЛ | "Alhunka did not like Agarracha" | "Agarracha did not like Alkhunka" | «Алхунка не понравился Агарраче» - перевёрнуто.
+Loc117-1 | СМЫСЛ | "a cave bear Babakha" | "the cave bear Babunga" | перепутаны имена шамана и медведя.
+Loc178-3 | СМЫСЛ | в начало записи скопирован текст Loc178-2 | только текст по RU |
+Path464b | ПОТЕРЯ | пропущено «Старый Лвамба не продает тангу своего сына!» | восстановлено (запись целиком) |
+Loc86-1 | СМЫСЛ | "for a reason, and they were forbidden to throw them away" | "for a number of reasons... and various taboos forbade them to throw them away at the dump" | «по ряду причин... запрещали разные табу».
+Loc191-1 | СМЫСЛ | "you're sitting across from the chief, sipping guanava from his mug" (пьёт рейнджер) | гуанаву пьёт вождь |
+Loc192-1 | СМЫСЛ | "<clr>drink guanava with kshonga<clrEnd>" | "<clr>treat<clrEnd> kshonga to guanava" | выделено «угостить» (против «торговать»).
+Loc185-1 | СМЫСЛ | "coaxed Murza into saying that it would be a great honor..." | "flattered Murza, saying that it would be a great honor for you..." |
+Loc123-1 | ГРАММАТИКА | "Gronka ... her ballads" | "his ballads" |
+Loc531b, Path532b | СМЫСЛ | "is pitying the kshonga with seven Menzolers" | "rewards kshonga with seven menzolers" | «жалует».
+Loc21-2 (в части 0-98) | СМЫСЛ | концовка скопирована из Loc21-1 | по RU |
+Loc23-1 | СМЫСЛ | "pinecone nuts" | "pinashka nuts" | «дикие орехи пинашки».
+Loc4-1 | СМЫСЛ | "hay fever" | "hay flu" | «сенной грипп» (выдуманная болезнь мензолов).
+Loc2-1 | СМЫСЛ | "Mr." выпало; "mooing" | "Mr. <Ranger>"; "satisfied mumble" |
+Loc84-1 | СМЫСЛ | "rendering you unconscious... depending on your body weight" | "knocking the target unconscious... depending on body mass" |
+Loc120b, Loc77-1 | СМЫСЛ | "fist-bumped you" / "fist-pumped you" | "fell on you with their fists" | «набросились с кулаками».
+
+=== ЕДИНООБРАЗИЕ ===
+Имена (решение пользователя - транслитерация): Lwamba -> Lvamba, Alhunka -> Alkhunka, Ayucha -> Ayuchcha, Ainunga -> Aynunga, Ayrunitha -> Ayrunita, Shawna -> Shavna (опечатка КР1), Zmanka -> Zhmanka.
+Термины: Shiny/Brilliant Village -> Shining Village; sacred carriage/wagon -> sacred (water) cart; Water Elemental -> Water Element (стихия, не существо); the Babunga cave bear -> the cave bear Babunga; statue -> statuette; Leader -> Chief; «Великий вождь» -> Great Chief; Menzol(s) -> menzol(s) (строчные, как в глоссарии); gong -> gonga; "Exchange to X" -> "Trade for the X"; "the kshonga" -> "kshonga" (мензолы говорят о чужаке как об имени, без артикля).
+Повтор Path183/Path394 («еще вопрос»/«еще вопросы»): "I have another question" / "I have other questions" (предупреждение check снято).
+
+=== ВРЕМЯ ===
+Повествование - прошедшее (как в RU); записи-состояния и концовки в настоящем по RU («Вам нужно подумать...», Loc12-1 «думаете вы... наклоняетесь» - настоящее, Loc29-1, Loc107-*). Реплики - как в RU.
+
+=== СОМНЕНИЯ ===
+Loc5-1 | СОМНЕНИЕ | фразы на мензольском «Днга аугг кганга длоотта кму?» / «Ээнти экринта кганга лупуп» | транслит "Dnga augg kganga dlootta kmu?" / "Eenti ekrinta kganga lupup" | смысл не раскрыт.
+Loc152-2 | ПРИСКАЗКА | «купить бангу, не имея гронги» | "buying a banga without having a gronga" | вымышленные предметы, транслит.
+Loc81-1 | ПАРОДИЯ | «умение завоевывать друзей и оказывать влияние на людей» | "how to win friends and influence people" | Д. Карнеги.
+Loc24-1 | ПАРОДИЯ | «воротила с Нью-Ред-Стрит» | "tycoon from New Red Street" | Уолл-стрит.
+Loc187-1 | ПРИМЕЧАНИЕ | рейнджер говорит о себе «кшонга» в 3-м лице | сохранено ("Kshonga really needs...") |
