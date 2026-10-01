@@ -1,0 +1,3 @@
+Rush (КР1) - переписан заново 2026-10-01 (81 уникальная из 134). Время по RU: Loc1/2/5/9/13 (описание трассы) и Loc4/18, Par-метки - настоящее; остальное повествование - прошедшее; речи персонажей - как в RU.
+ТЕРМИНЫ: Maloqs (КР1 Malocs), Faeyans, Sanych, Sapozhnikov, Mrakobes (имя пеленга, транслит.), Windchaser (прозвище Саныча 'Ветрогон'), Zaporozhets (эмблема), Dalani Aanolo; бензин -> gas (американский); Circle -> Lap; 'Earthlings' для землян.
+СМЫСЛ: Par4-x 'Speed: N km/h'; 'шампанское к бою' -> break out the champagne; Path65b в RU опечатка кавычек - исправлена.

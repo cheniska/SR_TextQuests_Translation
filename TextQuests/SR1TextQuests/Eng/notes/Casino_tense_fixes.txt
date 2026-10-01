@@ -1,0 +1,8 @@
+@Loc3-1 ==> You and Glyddl have each put down <clr>50<clrEnd> cr. The dice are thoroughly shuffled. Now you need to choose one of them.
+@Loc3-2 ==> You and Glyddl have each put <clr>50<clrEnd> cr on the table. The bets are made, the dice are shuffled, the bag lies in the center of the table. Time to begin!
+@Loc3-3 ==> The starting bets of <clr>50<clrEnd> cr have taken their place on the table. Time to draw a die from the bag!
+@Loc3-4 ==> You put down <clr>50<clrEnd> cr. Glyddl puts down the same amount. Now you need to draw a die from the bag.
+@Loc3-6 ==> The bets of <clr>50<clrEnd> cr are made. Now everything depends on Lady Luck alone.
+@Loc3-7 ==> The bag with the dice lies in the center of the table, next to the pile of money. Just think, all of this will be played for in a single hand! And you need to choose your die right now.
+@Loc3-8 ==> The dice are well shuffled. You discreetly touch your talisman under the table - it is very important now to draw a good die!
+@Loc3-9 ==> The dice are thoroughly shuffled. Now everything depends on your luck alone.

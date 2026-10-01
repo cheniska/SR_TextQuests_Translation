@@ -1,0 +1,6 @@
+Examen (КР1) - переписан заново 2026-10-01. КР1-английский - машинный (буквальный), в смеси времён; кириллица в Path21b/22/23b (alсaris с кириллической "с").
+СМЫСЛ/ИСПРАВЛЕНИЯ: Path13 "К ЧЁРТУ!!!!" (в КР1 "THANKS!!!!"); Path89b "пеленг" (в КР1 "the bearer"); Path100 "Надо помочь ребятам!" (в КР1 "humanoids"); Loc10-1 "voodka" -> yanvelba (глоссарий); Loc12/Par "(гениально)" -> brilliant (было "ingeniously"); человек = Human (Loc10, Loc22, Loc25, Path25-27b; в КР1 "person"); Path26b "сухой закон" -> dry law; Loc6-1 "Ведь из стен ... вышли такие известные..." -> alumni; Loc9-1 Орион - спутник планеты (moon).
+ОЦЕНКИ: "отлично" -> "excellent", "неуд" -> "fail".
+ПАРОДИИ/ШУТКИ: Loc22-1 химический бред (trepalium, confucium, radium hydropyrite...), Loc13-1 учебные фильмы, "ДОМИНАТОРЫ РЖАВЫЕ" -> "you rusty DOMINATORS", Манаманама -> Manamanama, "НИ ПУХА, НИ ПЕРА" -> BREAK A LEG.
+ЕДИНООБРАЗИЕ: alcaris(es), Gaalian, Faeyan, Peleng, Maloq, student ID card, exam sheet, rector, rostrum, U.S. spelling.
+СОМНЕНИЯ: Path23b "ржавые" (ругательство: rusty/rotten); noelemakh (вид пальм, транслит.).

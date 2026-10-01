@@ -1,0 +1,71 @@
+Bank - заметки к проверке (корпус КР1)
+Результат: SR1TextQuests\Eng\Bank.txt (552 записи, check 0 ошибок / 0 предупреждений). Оригинал RU: SR1TextQuests\Rus\Bank.txt (не менялся).
+Исходный английский (перевод КР1, не правленный): "0_квесты кр 1 в тхт англ\qmm\Bank.txt" (байт-в-байт равен Eng\Bank.txt до правки).
+Журнал всех замен (можно воспроизвести): Eng\notes\Bank_fixes.txt. Правки вёл в виде "old ==> new", применял qtr_apply.py + qtr_post.py.
+Формат записи: запись | тип | было | стало | комментарий.
+Типы: СМЫСЛ (перевод КР1 расходился с оригиналом), ГРАММАТИКА (массовые правки), ЕДИНООБРАЗИЕ (термины и написания), ТЕРМИН, ПОТЕРЯ, СОМНЕНИЕ, ПАРОДИЯ.
+
+=== СМЫСЛ: перевод КР1 не соответствовал оригиналу ===
+Par2-4 | СМЫСЛ | "Half past 2" | "Half past one" | «Половина второго» = 13:30 (идёт после «с 12 до часу» и перед 14:30).
+Par2-9 | СМЫСЛ | "A quarter to 19:00 or a quarter to 20:00" | "Either a quarter past six or a quarter to seven" | «То ли четверть седьмого, то ли без четверти семь».
+Loc89-2 | СМЫСЛ | абзац 2 был скопирован из Loc89-1 ("You did not like that he was not alone...") | "He was not alone... For some reason this did not surprise you at all." | В RU 89-2 «Вас это почему-то совсем не удивило»; переписаны и остальные абзацы под единый стиль с 89-1.
+Loc32-2 | СМЫСЛ | нет предложений про дежавю («Почему-то оно показалось вам знакомым... Странный сегодня день - как будто все это уже было») | добавлены; "Привычно?!" = "Out of habit?!" | Вторичное посещение: "Repeat visits are forbidden!".
+Loc4-1 | СМЫСЛ | "voodka" | "yanvelba" | В RU «янвелб»; запись в глоссарии уже была (Spy/Examen).
+Loc19-1 | СМЫСЛ | "Library: 10.00-19.00, round the clock" | "no break" | «без перерыва».
+Loc20-1 | СМЫСЛ | "a small tall peleng", "a fifty hundred terabytes" | "a short Peleng", "fifty terabytes" | «небольшого роста», «полсотни терабайт».
+Loc102-1 | СМЫСЛ | "hand-held shotgun" | "hand-held dart gun" | «ручной самострел» стреляет иглой (в тексте дальше "a small needle").
+Loc73-1 | СМЫСЛ/ТОКЕН | потерян <Ranger> | "Ranger <Ranger>" | RU «рейнджер <Ranger>»; в КР1 было "the Ranger".
+Loc39-1, Loc40-1 | ТОКЕН | потеряны <clr> | восстановлены: "<clr>Agressin<clrEnd> and <clr>Revelatin<clrEnd>", "<clr>fifty-bugz<clrEnd> bill" | «пятидесятибагзовой купюры».
+Loc100-1 | СМЫСЛ | "<clr>100<clrEnd> bugzes changed hands" | "a <clr>100-bugz<clrEnd> bill" | «стобагзовая купюра».
+Loc85-1 | СМЫСЛ | фраза госпожи Хрямбы задублирована в два варианта | один вариант + "finally deigned to drop the formalities" | В RU «перейти на "ты"» - в англ. нет ты/вы, передано как "drop the formalities".
+Loc96-1 | СМЫСЛ | "how some humanoids live", "more and more office" | "some people really know how to live", "all I get is the office... the office, the office..." | «Эх, живут же некоторые! ... все кабинет, кабинет...».
+Loc98-1 | СМЫСЛ | бессмысленное "neither with a chance to hunt... Nor you to rob a bank" | "No penchecrakus hunting for you... No bank robbing for you either!" | В RU «Ни тебе на пенчекряков поохотиться! ... Ни тебе банк ограбить!».
+Loc97-1 | СМЫСЛ | "Резидент Оол может подавиться своими заданиями" | "can shove his assignments" | плюс "speak of the devil" («легок на помине»).
+Loc93-1 | СМЫСЛ | "he brought you another mug" | "the driver brought another mug for each of you" | «еще по одной кружке».
+Loc90-1, Loc90-2 | СМЫСЛ | "ended in a zero draw" | "a dull, scoreless draw" | «блеклой нулевой ничьей»; и "You walk" -> "You walked" (RU прошедшее).
+Path187b | СМЫСЛ | "half past eight" | "half past seven" | «на половину восьмого» = 19:30 (совпадает с Loc76: ровно 19:30).
+Path188b | СМЫСЛ | "our team plays host to last year's champion" | "our team is playing away against last year's champion" | «играет в гостях» (и Loc89: «поймать хозяев поля на контратаке» - хозяева = чемпион).
+Path96b, Path97b | СМЫСЛ | пропущено "five sentient races of the Galaxy" | добавлено | «пять разумных рас Галактики».
+Path154b | СМЫСЛ | пропущено "Вы почему-то предполагали, что он окажется именно таким" | "For some reason you had expected it to be exactly like that." |
+Path169b..178b | СМЫСЛ | шахматная запись "Kp e1 - e2?? - K g8 - f6" | "K e1 - e2?? - N g8 - f6" | RU «Кр» = король, «К» = конь (ход g8-f6 - ходит конь, в англ. нотации N). Латинские "Kp" в EN были ошибкой.
+Path169b | СМЫСЛ | "went back to the hallway, whistling and hooting" | "to the computer's whistles and jeers" | «Под его свист и улюлюканье» (компьютера).
+Path231b, Path245b | СМЫСЛ | "Poor, little Penchecrakuses" | "Poor little penchecrakus cubs" | «пенчекрята» (детёныши).
+Path233b, Path246b | СМЫСЛ | "sentenced to life imprisonment" | "life at hard labor" | «пожизненной каторге».
+Path285b | СМЫСЛ | "You had to slurp your way back" | "trudge back to headquarters empty-handed" | «не солоно хлебавши».
+Path318b | СМЫСЛ | "you waited... but you never did" | "he never came back" |
+Path320b | СМЫСЛ | "Otkrovin" | "Revelatin" | единое название (глоссарий).
+Path309 | ГРАММАТИКА/СМЫСЛ | "paying for broken glass <clr>100<clrEnd>" | "paying <clr>100<clrEnd> bugzes for the broken glass" |
+Path273b | СМЫСЛ | "why waste the commander's soul?" | "why pour salt on the Commander's wounds?" | «зачем травить душу».
+Path274b | СМЫСЛ | "Oh, you said you like hatchball." | "Some fan you are - you said you loved Hachball!.." | «Эх, ты, а говорил, что хэчбол любишь!..»
+
+=== ПОТЕРЯ / АДАПТАЦИЯ ===
+Path284b, Path288b | ПОТЕРЯ | «...а голубой...» / «А ты сам-то, часом, не голубой?!» (голубой = цвет цветка и "гей") | "and blue..." / "Are you gay, by any chance?!" | Игра слов цвет/гей не передаётся (в англ. "blue" не значит "gay"). Перевод КР1 был "not gay?" - неверный отрицательный смысл. Оставил прямо "gay". Можно придумать замену цвета (напр. "pink"), но тогда правится и предшествующий список цветов.
+Path168 | СОМНЕНИЕ | «Контора пишет!!! Если сдаешься, то так сразу и скажи!» (идиома канцелярской работы; реплика читы/игрока в ответ на "сдаётесь?") | "The office is hard at work!!! If you're giving up, just say so!" | Идиому не удалось передать лучше; KR1 было "The office writes!!!".
+Loc71-1 | СОМНЕНИЕ | «синдромом Аах-Да» | "Aah-Yes syndrome" | В RU «Да» = англ. yes; КР1 было "Aah-Yees" (опечатка). Альтернатива - транслит "Aah-Da".
+Loc49-1 | АДАПТАЦИЯ | «Хода нет - ходи с бубей?» (карточная поговорка) | "Nothing to play - lead a diamond?" |
+Loc60-8 | ПАРОДИЯ | Жбонд, корабль "007" | Ranger Jbond, "007" | Джеймс Бонд (сохранено).
+Path94 | ПАРОДИЯ | Спинкертон, Шолмс | N. Spinkerton, H. Sholmes | Пинкертон + Шерлок Холмс (сохранено).
+Path42b и др. | ПАРОДИЯ | системы сигнализации Рамблера, Яху, Яндекса | Rambler, Yahoo, Yandex | реальные российские интернет-компании; оставлены как есть.
+Path96/238/284 | ТЕРМИН | «Иикэ-Баана», мн.ч. «Иикэ-Бааны»; «икебана» (нарицательное) | "Iike-Baana", "Iike-Baanas"; "ikebana" | КР1 было Eeke-Baana (решение пользователя: Iike-Baana). Автор «Ка-Баан» = Waart-Hoog (как в глоссарии КР1).
+
+=== ЕДИНООБРАЗИЕ (массовые замены) ===
+Hatchball/hatchball -> Hachball (глоссарий: Hatchball не использовать); Schwach -> Shvakh; Zhlobber -> Jlobber; Hryamba, Ms. Khryamba -> Mrs. Khryamba; Schlambur -> Shlyambur;
+Ool resident / the Ool resident / the resident Ool / Resident Oola -> Resident Ool; Gas-Golder -> Gaz-Golder; Swamp of Health -> Health Swamp; Healing Muds -> Medicinal Mud; Young Spy's Course -> Young Spy Course;
+gaalian, Gaal laptop, Gaal master, Gaals, Gaelic -> Gaalian(s); peleng(s), pelenges -> Peleng(s); прил. «пеленгский» -> Pelengan (Pelengan planets, Pelengan standards, Pelengan notions); "Peleng-style" оставлено (глоссарий);
+maloq -> Maloq (кроме driver-maloq по глоссарию); bansai -> banzai; disk/CD -> disc; B-killer virus -> B-killer Virus; Lakushay/lyakusa/"U'Byu lyakusha" -> lyakusha U'Byu / Lyakusha U'Byu;
+Gbaranyan -> Grabanyan; Ruffman -> Raffman; "Central Pelengsky Bank" -> Central Peleng Bank; 50.000 / 2.500 / 1.000 -> 50,000 / 2,500 / 1,000 (времена 0.32, 1.07 и т.п. не тронуты);
+метки выбора: "Set the X as the external/internal shell" (Поставить в качестве ... оболочки), "Install the X", "Add Sleeping pills", "Tell about penchecrakus hunting";
+Trojan (программа, «Троянец») vs Trojan Horse (результат, «Троянский конь»): различие сохранено по оригиналу;
+«смена дежурных» = "the guards change" (Par12, Path265/317, Loc62-1 - одно выражение).
+
+=== ГРАММАТИКА (выборочно) ===
+Время/повествование: Loc60-2 "you feel" -> "you felt"; Loc60-9 "you decide/will be" -> "decided/would be"; Loc90-1/2 "You walk" -> "walked"; Path154b/Path159b и др. согласованы во времени.
+Порядок слов/предлоги/артикли (Loc3-1, Loc4-1, Loc13, Loc32, Loc61, Loc65-69, Loc75-79, Loc86-87, Path40b, Path132b, Path138b и др.); "it's" -> "its" (Loc32-1, Path132b, Path133b, Path232b); "an moron" -> "a cretin"; "the Lakushay"; двойное отрицание в Loc2-1 ("no return ... was out of the question").
+Пунктуация: "?." / "!." / "...-and" / лишние пробелы внутри <clr>...<clrEnd> нормализованы (qtr_post.py); потерянные закрывающие кавычки (Loc41-1, Path54, Path91, Loc30-1).
+Убраны лишние финальные точки в коротких Par/Path-заголовках (Par2-x, Path45, Path49); в англ. названиях книг - без точки внутри кавычек (как в RU).
+
+=== СОМНЕНИЯ / открытое ===
+Loc38-1 | СОМНЕНИЕ | «шраканоподобной застенчивости» | "shrakan-like shyness" | Что такое «шракан» - неясно (вероятно вымышленное существо); оставлено транслитом.
+Path96 | СОМНЕНИЕ | автор «Ка-Баан» в RU, "Waart-Hoog" в EN | оставлено по КР1 и глоссарию | Имя автора в англ. версии иное, чем в оригинале; в Path238b «гаальского мастера Ка-Баана» тоже Waart-Hoog.
+Path49, Loc55-1 | СОМНЕНИЕ | «В. Долбановский» (Bank) vs "S. Triker (!)" в квесте Hachball | оставлено V. Dolbanovsky | см. глоссарий (несогласованность между квестами).
+Par12-x, Path201-207 | ПРИМЕЧАНИЕ | время записано как 0.32, 1.07... (цифры через точку) | не менять: значения используются логикой квеста |

@@ -1,0 +1,3 @@
+﻿Commando (КР1) - переписан заново 2026-10-02 (193 уникальных из 231). Время по RU: большая часть повествования - прошедшее; Loc22, Loc49-51 частично и боевые Path (b) со смесью - как в RU внутри каждой записи; речи - как в RU.
+ТЕРМИНЫ: fibrogen, Maloq, Gaalian, Inalta, Klesi-wae, Mgharrdoq valley, Granz Margius, Rotta (Manglor-made super-bike), Samtar stormtroopers/sniper, canister (кассета), grapeshot (картечь), disc mine, guided torpedo.
+СМЫСЛ/СОМНЕНИЯ: 'Пустить/Запустить' ракету/торпеду = Launch, 'Стрелять' = Fire (единообразно); 'путемета' (опечатка RU Path152) - machine gun; 'кассета' = canister (как в Siege); 'Мгаррдок' - Mgharrdoq (как в КР1). Токены {[p9]*10}, <clr>/<clrEnd> сохранены.

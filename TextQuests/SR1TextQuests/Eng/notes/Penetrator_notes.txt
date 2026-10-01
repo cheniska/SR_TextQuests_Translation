@@ -1,0 +1,8 @@
+Penetrator (КР1) - перевод 2026-10-01. Основа: Eng\Penetratorrus - 61 тыс.txt (наполовину русский, полуанглийский черновик) - переписан целиком по RU.
+ВРЕМЕНА: русский оригинал смешивает настоящее и прошедшее. В английском всё повествование - Past Simple (2-е лицо). Настоящее оставлено только в Par*-строках (состояния), QuestDescription/GovMessage, репликах и обращении "You will have time to ponder..." (Loc34/36), "when you are in the <FromStar> system" (Loc12).
+ФОРМАТ: в копии Eng строка 250 была без TAB (Path28) - исправлено.
+ПАРОДИЯ: Loc42-1/Path29b "Чудеса на виражах!" (мультсериал TaleSpin) -> "TaleSpin!". Path29 "кибер-хибер, хакер-макер" -> "cyber-shmyber, hacker-shmacker". Loc62 реклама "Космические бомжи" от ELEMENTAL GAMES -> "Space Bums".
+ИГРА СЛОВ: Path26/Path80 "извращенно извращаться от извращенных попыток... извращенное силовое поле" -> "dodgily dodge its dodgy attempts ... dodgy force field".
+КНОПКА: "Прекратить" -> "End" (как в КР1-черновике).
+СОМНЕНИЯ: "рейл-штурмовик" -> "Rail Assault Craft"; "дерьмометр" -> "shit meter"; "Остается только..." -> "All you could do was..."; Par1-2..10 - формы мн.ч. "<> shot/shots".
+ЕДИНООБРАЗИЕ: финалы "Mission failed.", "A mind-blowing sight, as a Faeyan ranger I knew named Iya-Iya used to say!".

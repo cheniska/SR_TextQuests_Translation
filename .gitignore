@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+Translation/work/
+*.bak
+*.~pas
+*.tmp
+Thumbs.db

@@ -1,0 +1,59 @@
+# Очередь перевода
+
+Колонки: квест | источник RU | результат EN | статус (`todo`/`wip`/`done`) | Лор | дата | заметки.
+Источник и результат для SR2HD: `TextQuests\SR2HD\questsRus\<Name>.txt` → `questsEng\<Name>_eng.txt`.
+Подсказки-черновики на английском: `0_квесты кр 2 тхт\qmm_to_translate\_преев\Новая папка\` (проверять по RU).
+
+## SR2HD — полностью на русском (todo)
+Amnesia, Colonization, Complex, Deadoralive, Diver, Domoclan, Doomino, Drugs, Easywork, Evilgenius,
+Faruk, Feipsycho, Filial, Forum, Glavred, Gluki, Kiberrazum, Kidnapped, Losthero, Mafia, Megatest,
+Park, Pharaon, Photorobot, Piratesnest, Proprolog, Taxist, Testing, Tourists, Vulkan, Xenolog
+
+## SR2HD — частично на английском (todo: доперевести)
+Bomber, Citadels, Gaidnet, Maze, Provoda, Rvk
+
+## Остальные SR2HD (42 квеста)
+Уже полностью на английском — не переводятся; проверять по запросу.
+
+## Моды (`TextQuests\<Мод>\Rus` → `Eng`, папки Eng пустые)
+AdvancedQuests(1), ExpBeerQuest(1), RefLongerPrison(1), RefQuest(8), RevTextQuests(2), SR1TextQuests(25),
+ShuPrison(4), ShuQuest(7), XenoZeroSignalQuest(1) — todo; состав уточнить перед началом (часть уже есть
+на английском в `0_квесты кр 1 в тхт англ`).
+
+## Журнал выполненных
+| Квест | Дата | Записей | Лор (фактов) | Заметки |
+|---|---|---|---|---|
+| Moi | 2026-09-30 | 1227 (1063 уникальных) | ~45 | check 0 ошибок/0 предупр.; структура = Moi_eng.qmm (0 расхождений, qmm не тронут); адаптации: Hoo/Uh Crew, Frodo/fraud, шепелявость, bazaar; «Клин» → Jam; KDV → Space Marines, Khrepka → Hturnip (решено); Moi приведён к глоссарию КР1 (Eeke-Baana, penchecrakus, Human) |
+
+## КР1 (SR1TextQuests) — вычитка готового английского (начато 2026-09-30)
+Задача: английский текст уже переведён в КР1; проверяем грамматику, смысл (сверка с RU), единообразие терминов; RU не меняем; qmm не трогаем.
+Источник RU: `TextQuests\SR1TextQuests\Rus\<Name>.txt`; английский (ревизия): `TextQuests\SR1TextQuests\Eng\<Name>.txt` (исходный КР1-вариант сохранён в `0_квесты кр 1 в тхт англ\qmm\<Name>.txt`).
+Методика и инструменты — `KR1_REVIEW_GUIDE.md`; заметки — `TextQuests\SR1TextQuests\Eng\notes\<Name>_notes.txt`; журнал правок — `Eng\notes\<Name>_fixes.txt`.
+Срез на 2026-09-30 (`qtr.py check Eng\X.txt Rus\X.txt`, ошибок/предупр. в КР1-варианте; кир = записей с кириллицей):
+- Осталось вычитать (срез check КР1-варианта, ошибок/предупр.): Boat 1, Build 3, Diehard 3, Energy 3, Fishing 1, Gladiator 2+1, Ikebana 1, Menzols 5+2 (файл `Menzolsrus.txt`, 798 записей), Spy 2, Tomb 1+1. Остальные квесты КР1 готовы (журнал ниже; актуальная сводка — `QUEST_STATUS.txt`).
+Очередь вычитки (актуально на 2026-10-02): Boat, Build, Diehard, Energy, Fishing, Gladiator, Ikebana, Menzols, Spy, Tomb; перепроверка времён в Bank.
+
+| Квест | Дата | Записей | Правок (примерно) | Заметки |
+|---|---|---|---|---|
+| Bank | 2026-09-30 | 552 (414 уникальных) | ~330 замен + 4 записи целиком | 7 ошибок check в КР1-варианте (токены, одинаковый RU → разный EN); смысловые ошибки: Par2-4, Par2-9, Loc89-2, Loc32-2, Path187b, Path188b, Path96b, Path154b, шахматная нотация Кр/К → K/N; единообразие: Hachball, Shvakh, Jlobber, Khryamba, Resident Ool, Pelengan, Iike-Baana и др.; лор ~45 фактов; check 0/0 |
+
+| Penetrator | 2026-10-01 | 233 (205 уникальных) | лор ~17 фактов; перевод заново (КР1-файл был наполовину русским) | единое прошедшее время повествования; check 0/0; Eng\Penetrator.txt (старый «…rus - 61 тыс.txt» оставлен) |
+
+| Hachball | 2026-10-01 | 212 (192 уникальных) | переписан заново (КР1: настоящее время, смысловые ошибки, 9 потерянных токенов) | американская орфография; лор ~12 фактов; check 0/0 |
+
+| Casino | 2026-10-01 | 212 (154 уникальных) | переписан заново | время/кавычки/орфография; Klissans→Dominators; check 0/0; лор ~5 фактов |
+- Сводный статус всех txt-квестов: QUESTS\QUEST_STATUS.txt (генерирует qstatus.py; ручные статусы — словарь MANUAL, обновлять после каждого квеста)
+
+| Examen | 2026-10-01 | 162 (146 уникальных) | переписан заново | лор ~7 фактов; машинный КР1-английский; check 0/0 |
+
+| Siege | 2026-10-01 | 287 (255 уникальных) | переписан заново | машинный КР1-английский; check 0/0; лор ~5 фактов |
+
+| Poroda | 2026-10-01 | 139 (76 уникальных) | переписан заново | время по контексту RU; check 0/0; лор ~4 факта |
+| Gobsaur | 2026-10-01 | 176 (63 уникальных) | переписан заново | время по контексту RU; check 0/0 |
+| Murder | 2026-10-01 | 185 (150 уникальных) | переписан заново | повествование в прошедшем (RU); check 0/0 |
+| Rush | 2026-10-01 | 134 (81 уникальная) | переписан заново | время по контексту RU; check 0/0 |
+| Newflora | 2026-10-01 | 384 (303 уникальных) | переписан заново | время по контексту RU; check 0/0 |
+| Bondiana | 2026-10-01 | 380 (295 уникальных) | переписан заново | время по контексту RU; check 0/0 |
+| Galaxy | 2026-10-01 | 357 (330 уникальных) | переписан заново | время по контексту RU; check 0/0 |
+| Diamond | 2026-10-02 | 287 (243 уникальных) | переписан заново | время по контексту RU; check 0/0 |
+| Commando | 2026-10-02 | 231 (193 уникальных) | переписан заново | время по контексту RU; check 0/0 |

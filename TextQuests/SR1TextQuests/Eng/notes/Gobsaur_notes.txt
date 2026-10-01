@@ -1,0 +1,3 @@
+Gobsaur (КР1) - переписан заново 2026-10-01 (63 уникальных записи из 176). Время - по контексту RU: прошлое в Loc1-3, Loc5, Loc15, Path4b/13b/19b/56b (частично); настоящее в Par4/5-crit, Loc6-1, Loc13-1, Loc16-1, Loc17-par4-crit, большинстве Path-b (RU в настоящем).
+ТЕРМИНЫ: gobsaur (строчными, вид животного; в КР1 было Gobsaur), Yalgir Elfedu, Analla Onk (имена транслитерированы), Faeyan, disk (американская орфография).
+СМЫСЛ: Path18b - игра слов реклама/рекламации -> advertising / ad pitches; Par4-1 - не осознает голод -> doesn't realize he is hungry; Path17 и Path89 (почти одинаковые RU) - одна формулировка Throw the bone to the gobsaur.
