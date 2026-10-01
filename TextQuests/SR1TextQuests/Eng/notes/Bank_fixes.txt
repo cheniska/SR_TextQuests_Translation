@@ -512,3 +512,7 @@ Ah, and I should give you one more try! ==> Ah, and now I'm supposed to give you
 slip out of the bank before the guards arrived and caught you with the Chess Cheater on a secret Gaalian laptop ==> slip out of the bank before the guards could arrive and catch you with the Chess Cheater on a secret Gaalian laptop
 [Path154b] The Jlobber Bank was a large building on the main street of Gaz-Golder. ==> Jlobber Bank occupied a huge building on the main street of Gaz-Golder. For some reason you had expected it to be exactly like that.
 The Jlobber Bank was a large building on the main street of Gaz-Golder. ==> Jlobber Bank occupied a huge building on the main street of Gaz-Golder.
+# 2026-10-02: перепроверка времён
+a plate of palm fruit with cilantro sauce ==> a plate of Noelemah palm fruit with cilantro sauce
+"Psychotropic medicines". Where are you going? ==> "Psychotropic medicines". Where will you go?
+- I almost won, but what's your computer doing?! ==> - I've almost won, and what is your computer doing?!

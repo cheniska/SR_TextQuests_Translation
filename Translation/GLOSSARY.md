@@ -302,7 +302,7 @@
 | Звёздный крикет (карточная игра); папаша Крукс | Star Cricket; Papa Kruks | Diamond |
 | кровавая кинза | Bloody Kindza | Diamond |
 | Ли Фунг | Lee Fung | Diamond |
-| гомока (вымышл. материал, "не из гомоки сделаны") | gomoka | Diamond |
+| гомока (вымышл. материал, "не из гомоки сделаны") | gomoka (РЕШЕНО пользователем 2026-10-02) | Diamond |
 | лялякуш (пеленгский народный танец) | lyalyakush | Diamond |
 | партия «Гранз Маргиус» | "Granz Margius" party | Организация | Commando Loc60-1 |
 | «Ротта» (боевой супербайк, Манглор) | "Rotta" (Manglor-made combat super-bike) | Техника | Commando Loc11-1 |

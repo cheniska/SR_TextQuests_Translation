@@ -24,6 +24,7 @@
 
 ## Среда
 - Python ТОЛЬКО `py -3.14 файл.py < /dev/null` (никогда `py -3.14 -`); в Bash `export PYTHONUTF8=1`.
+  В облачной сессии (Linux) лаунчера `py` нет — те же скрипты запускать `python3 файл.py ... < /dev/null`.
 - Очень длинный перевод передавать через Write в файл-скрипт/текст (в командной строке Bash лимит длины — ENAMETOOLONG).
 - Пути КР1: `R=TextQuests/SR1TextQuests`, `W=Translation/work`.
 
@@ -37,6 +38,7 @@ py -3.14 qtr.py todo   $R/Rus/X.txt $W/X.todo.txt < /dev/null     # уникал
 py -3.14 qtr_partcheck.py X < /dev/null                           # если делал по частям; потом cat X.p??.txt > X.todo_en.txt
 py -3.14 qtr.py fill $R/Rus/X.txt $W/X.todo_en.txt $W/X.work.txt < /dev/null   # раскладка на точные повторы
 py -3.14 qtr.py pack $W/X.work.txt $R/Rus/X.txt $R/Eng/X.txt < /dev/null       # check должен быть 0/0
+py -3.14 qtr_struct.py $R/Eng/X.txt $R/Rus/X.txt < /dev/null                  # структура: BOM, CRLF, типы, строки/абзацы = RU; должно быть 0
 ```
 Затем: `Eng/notes/X_notes.txt` (термины, сомнения, смысл), строка в `Translation/STATUS.md`
 (`| Имя | дата | N (M уникальных) | переписан заново | время по контексту RU; check 0/0 |`), запись в `MANUAL` в `qstatus.py`
@@ -45,9 +47,9 @@ GLOSSARY.md, LORE_FACTS.md, удалить файлы `X.*` из `Translation/wo
 Правка готового Eng-файла (UTF-16): Python-скрипт: decode utf-16 → replace → писать `b'\xff\xfe'+s.encode('utf-16-le')`, затем `qtr.py check`.
 
 ## Текущее состояние (2026-10-02)
-- КР1 (SR1TextQuests): готово 16 из 25 (Penetrator, Bank, Bondiana, Casino, Commando, Diamond, Examen, Galaxy, Gobsaur, Hachball, Murder, Newflora, Poroda, Rush, Siege).
+- КР1 (SR1TextQuests): готово 15 из 25 (Penetrator, Bank, Bondiana, Casino, Commando, Diamond, Examen, Galaxy, Gobsaur, Hachball, Murder, Newflora, Poroda, Rush, Siege).
 - Осталось в КР1 (английский КР1 есть, нашей вычитки нет; check-ошибки в КР1-варианте): Boat 1, Build 3, Diehard 3, Energy 3, Fishing 1, Gladiator 2+1, Ikebana 1, Menzols 5+2 (файл `Eng/Menzolsrus.txt`, 798 зап.), Spy 2, Tomb 1+1.
-- Перепроверка: времена в Bank (вычитан до правила про время).
-- Открытый вопрос: «гомока» (Diamond Path271b) — смысл неизвестен, транслитерировано gomoka.
+- Перепроверка времён в Bank — выполнена 2026-10-02 (времена соответствуют RU, 4 мелкие правки). «гомока» → gomoka — принято пользователем.
+- Структура всех 15 готовых квестов КР1 проверена `qtr_struct.py` — 0 расхождений.
 - Дальше (по запросу пользователя): SR2HD (30+ полностью русских: см. STATUS.md), моды (Ref*, Shu*, Rev*, Xeno*…).
 - Подробная сводка по всем квестам: `QUEST_STATUS.txt` (перегенерировать `py -3.14 qstatus.py < /dev/null`).

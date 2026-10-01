@@ -25,7 +25,7 @@
    - `#` — комментарий. Маркер абзаца в `old` тоже ` ¶ `. Нельзя начинать `old` с `@`.
 5. **Сборка:** `py -3.14 qtr_apply.py work\X.orig.txt work\X.fixes.txt Rus\X.txt work\X.fixed.txt < /dev/null` (печатает `NOFIND` для правок, не нашедших цель — разобрать каждую), затем `py -3.14 qtr_post.py work\X.fixed.txt work\X.work.txt < /dev/null` (нормализует пробелы внутри `<clr>…<clrEnd>` и ведущие пробелы реплик), затем `py -3.14 qtr.py check work\X.work.txt Rus\X.txt < /dev/null` — 0 ошибок и 0 предупреждений. Эти три команды удобно держать в одном sh-скрипте и запускать после каждой порции правок.
 6. **Прочитать результат** целиком (`Read work\X.work.txt`), поправить оставшееся во втором проходе (добавить в fixes и пересобрать). Повторы (одинаковый RU) приводятся к одному EN автоматически, near-дубли — следить вручную (check предупреждает).
-7. **Запись:** `py -3.14 qtr.py pack work\X.work.txt Rus\X.txt Eng\X.txt < /dev/null`.
+7. **Запись:** `py -3.14 qtr.py pack work\X.work.txt Rus\X.txt Eng\X.txt < /dev/null`. Затем проверка структуры: `py -3.14 qtr_struct.py Eng\X.txt Rus\X.txt < /dev/null` (BOM, CRLF, типы и порядок записей, число строк и пустые абзацы как в RU) — 0 расхождений.
 8. **Учёт:** `Eng\notes\X_notes.txt` (образец — Bank_notes.txt; типы СМЫСЛ, ГРАММАТИКА, ЕДИНООБРАЗИЕ, ПОТЕРЯ, СОМНЕНИЕ, ПАРОДИЯ, ТЕРМИН); `cat work\X.fixes*.txt > Eng\notes\X_fixes.txt`; термины — в `GLOSSARY.md` (и сообщить пользователю); лор — в `lore\LORE_FACTS.md`; строка в `STATUS.md`; удалить `work\X.*`.
 
 ## Что обычно правим в КР1-варианте
