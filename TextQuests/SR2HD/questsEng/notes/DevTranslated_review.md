@@ -377,3 +377,29 @@
 - QuestDescription: «Не без финансовых вливаний от заинтересованных лиц» — опущено.
 - Loc2-3: «едва вы успели войти в кабинет и снять уличную одежду» → "before you had managed to get dressed".
 - Loc12-1: добавлено «half a minute of ogling» (нет в RU); Loc13-1: «встал по стойке смирно» → "stood up quietly".
+
+## Stealth
+- check: многочисленные потерянные/лишние <clr>/<clrEnd> (Loc1-2, 1-3, 3-3, 5-3, 8-3, 116-2, 117-1, 142-1, 143-1, 148-1); Par8-2/8-3 — осталась кириллица («х:<>»).
+- Loc51-2: «Всяко лягушатника заденешь неслабо» → "it has a big effect on just about everyone" (потеряно презрительное прозвище пеленгов).
+- Loc53-1: «В ящике находятся предметы… на поясе обычно помещается что-то одно» → "The boxes full of accessories… keep your hands free" (искажено).
+- Loc52-1: «Порешу гадов болотных!» → "I'll get you, you animals!"; «Бляха медная!» → "Damn!".
+- QuestSuccessGovMessage: «ваше время ведь так дорого, рейнджер» — опущено; ирония про «гарантии» передана.
+- Loc51-1: «фасетоглазый доходяга» — смысл передан не везде; "You push the box… and jumped" (времена).
+
+## Svarokok
+- QuestDescription: «нет даже у гаальцев» → "Even the Haalians" (опечатка в названии расы); «Если вы привезёте нам образец» → "If you bring as a sample".
+- Loc8-2: «нож немного затупился» → "your knife turned a little" (неверно).
+- Loc20-2 / Loc5-1: «ловкость» → "skill" (ок по смыслу, но стат «Ловкость»); «скрытен» → "secretive".
+- Loc24-6: «пока обезвоженный плод летел вниз» → "the forced fruit".
+- Loc24-8: «вам и в подмётки не годится» → "would be a fool to you" (неуклюже); Par1-crit: «здоровье основательно подорвано» → "deeply exhausted".
+- check: Par6-6 / Par6-9 почти одинаковые RU переведены по-разному.
+
+## Xenopark
+- **Имена**: «Ляпцва Хиц» → "Brigee Bardozze", «Вацха Шпицук» → "Rabby Terezze" (полная замена; в Election оф. — Lyapzva Hiz).
+- **QuestSuccessGovMessage**: «10% от ежедневного дохода» → "yearly income".
+- **Loc13-5**: «Ка-баан Здоох» → "Pestupohn Yer" (Path100); «иикэ-баанистами» → "ihike-bahanists".
+- **Path102**: «Песчаный шип» → "Sand ship" (игра слов; по смыслу «шип» — колючка).
+- Loc6-1: «чанов с неаппетитными субстанциями» → "tubs with some hockey" (бессмыслица).
+- Loc5-1: «в "угадай животное" играть» → "Nick the animal" (неудачно); Loc13-2: «несокрушимой мощи» → "undeletable might"; «врасплох захватил» → "took… at advantage".
+- QuestDescription: добавлено пояснение «xenomorphs (the Peleng term for rare animals)».
+- Loc13-3: «мясистые губы» → "flashy lips"; Loc15-1: "organic flash" (flesh).

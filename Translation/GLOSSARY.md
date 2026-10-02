@@ -1141,3 +1141,54 @@ Prezhevalski → Prezhevalsky (Tomb); Grishhill → Grishkhill (Diehard); Sir Lo
 | Лякуша Толстосум (пеленг, директор) | Lyakusha Moneybags | адаптация |
 | Герасим Герасимович (глухонемой заместитель) | Gerasim Gerasimovich | |
 | ГОПБСТ — галактический отряд по борьбе с терроризмом | GCTU (Galactic Counterterrorism Unit) | |
+
+### Stealth
+| RU | EN (оф.) | Комментарий |
+|---|---|---|
+| квест «Stealth» (2006 © Руслан Чёрный) | Stealth (2006 © Ruslan Cherniy) | строгий транслит: Ruslan Chyorny |
+| корабль-невидимка (прототип) | stealth ship (prototype) | |
+| боевики; наёмники | commandos; mercenaries | |
+| гаалюква (ягоды, заживляют раны) | halluberry | |
+| очки «Мегавижн» | Megavision glasses | |
+| пиво «Махпелла дарк» | Machpella Dark | |
+| шестилапые; лягушатник (о пеленгах, презр.) | six-paws / six-pawed; froggers | |
+| фасетоглазый (о фэянине) | (faceted-eyed) | |
+| ховерлетный пулемёт; шестиствольник; плазменный ствол | (hoverlet machine gun); six-barrel; plasma gun | |
+| серебряный кредит (монета) | silver credit | |
+
+### Svarokok
+| RU | EN (оф.) | Комментарий |
+|---|---|---|
+| «Сварококс» (малокское народное лекарство от ожогов бластером) | "Swarokox" | |
+| сварокок (шестилапый хищник; лечебна передняя правая лапка) | swarokok | ср. «сварококк» (Election, оф. quackadile) |
+| Баргагра (пожилой малок) | Bargagra | |
+| граг (старинная малокская мера длины) | grag | |
+| кнаш (зверёк-приманка) | knash (мн. knashes) | |
+| картенга (дерево); хрум-хрямст (колючий кустарник) | cartenga; crumpius | |
+| ловкость; сила; скрытность | skill; strength; concealment | |
+| Шварц Шнегер (малок-культурист, президент) | Schwarz Sheneger | пародия |
+| «Матрица-49: Нео и доминаторы»; «Доспехи малока - 15», Древочан | "Matrix-49: Neo and Dominators"; "Maloq armour - 15", Drevochan | пародии |
+
+### Xenopark
+| RU | EN (оф.) | Комментарий |
+|---|---|---|
+| ксенопарк Ляпцвы Хица (пеленг-владелец) | Brigee Bardozze's xenopark | !! ≠ Lyapzva Hiz (оф. Election) и Hitz (наш, Moi) — оф. разнобой; в Xenopark имя заменено пародией на Брижит Бардо |
+| Вацха Шпицук (главный кормилец) | Rabby Terezze | !! адаптация, RU-имя потеряно |
+| ксеноморфы | xenomorphs | оф. добавлено пояснение "the Peleng term for rare animals" |
+| шпецокляк (юный зверёк-проказник) | sploshling | |
+| Кванары (курорт) | Cvanarian (…) | |
+| Бледно-Красный талмуд (список вымерших существ) | the Incarnadine Talmud | |
+| хаббат (большой, грозный; планета Табот) | habbath (Big habbath; Taboth) | |
+| болотный жвырклац (планета Чвак) | swamp phatklink | = phatklinks (оф. Election) |
+| шмеленги (древняя раса, предки пеленгов) | the Shmelengs (Shmeleng civilisation) | |
+| Большие Хляби на Лупцаваке; Великие Топи на Чваке; Огромный Плюх на Малой Жокпе | Big Cataracts on Luptzvack; Big Swales on Chvack; Huge Plumper on Small Uprat | |
+| благородный айшаут (разумное растение, планета Фаяэтон) | graceful aishout (Faeyaton) | |
+| песчаный шип (Марс) | Sand ship (sic, игра слов шип/ship) | |
+| клисанский прото-шпок | Klissan proto-shpock | |
+| протоплазма; протопузырь; жабродюза | protoplasm; protobladder; (gillnozzle) | |
+| пеленг Пенцаквак | Penzquack | |
+| корма: Лаап-Ша (железистая); гранулированные зирки; вацкая крямбусина; «Шарики Хаапта»; «Просто Фотоны»; углеводородная настойка; КВАК ТО-УС Кожноцветный | Laap-Sha; granulated sparklings; kryambusina; Haapt balls; "Just Photons"; hydrocarbon tincture; Quack-Tose Rind | частично по тексту |
+| авторы: Клякуш Чапацвак (археолог); Ка-баан Здоох (гаальский иикэ-баанист); Гаррах-Сильный (отряд «Мускулистая Нога»); Эйцхала Стырило (честный торговец); Александр (рейнджер, 3003) | Klyakush Chapazzvack; Pestupohn Yer (sic); Garrakh the Strong ("Muscled Leg"); Eitzkhala Snipe-It; Alexander | |
+| гаальские философы Пи-Фига Гоор, Краан-Та | Peehee-Phiga-Gohor, Krahan-T | пародия |
+| иикэ-баанисты | ihike-bahanists (sic) | ≠ Iike-Baana |
+| Ассоциация Киллеров | (Assassins' Association) | |
