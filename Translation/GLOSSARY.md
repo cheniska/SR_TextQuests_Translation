@@ -1733,3 +1733,17 @@ ekup; Brigee Bardozze (ксенопарк); crossbow (ручной самост�
 | древнегаальская буква «Ыо-то» | the ancient gaalian letter "Yo-to" | Gluki |
 | жужастики | buzzlings | Gluki |
 | ксеноксиологи | xenoxiologists | Gluki |
+
+| капитан Тадрун (он же Герр Буйнофф, малок); доктор Мортимер Гроссбух | Captain Tadrun (= Herr Buynoff); Doctor Mortimer Grossbukh | Losthero |
+| старший прапорщик Хватайло; сержант Фростов | Senior Warrant Officer Khvataylo; Sergeant Frostov | Losthero |
+| доктор Рее-Кляйн (гаальский изобретатель); физган (физпушка) | Doctor Ree-Klein; physgun | Losthero (отсылка к Half-Life) |
+| ежкин корень | yozhkin root | Losthero (транслит; ср. «ёжкин кот») |
+| примат (фэянин-антрополог в образе обезьяны) | the primate | Losthero |
+| восьмилап; гуманотракоид; камуфлированный леопард | eightpaw; humanotrackoid; camouflaged leopard | Losthero |
+| бог Рэндом (покровитель рейнджеров) | the great god Random | Losthero |
+| художник Кундынский | Kundynsky | Losthero (пародия на Кандинского; транслит) |
+| сигареты «Лямборо хэви»; «Pahmella dark (здэлано гоалцами)» | "Lamboro Heavy"; "Pahmella dark, (meid bai goalians)" | Losthero |
+| малососус (болезнь малоков) | malososus | Losthero |
+| кырыбнетика (оговорка) | kyrybernetics | Losthero |
+| ШПАКиК; «Увольвокскечу» | ShPAKiK; "Uvolvokskechu" | Losthero (авторы; пасхалка Loc35-1) |
+| баракко (стиль) | "barrakko" | Losthero |
