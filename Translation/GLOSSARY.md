@@ -685,3 +685,56 @@ Prezhevalski → Prezhevalsky (Tomb); Grishhill → Grishkhill (Diehard); Sir Lo
 | титаноискатель | titanium-searcher | |
 | штраф-стоянка; техосмотр | penalty lot; tech-inspection | |
 | галактическое содружество | the Interstellar Coalition | ! оф. перевёл Содружество как Coalition |
+
+### Edelweiss
+| RU | EN (оф.) | Комментарий |
+|---|---|---|
+| радиопередающий комплекс «Эдельвейс» | the Edelweiss radio device / unit | |
+| орбитальный гиперпередатчик | orbital hyper-transmitter | |
+| Гайолак (фэянин-геолог) | Guyolak | (стр. транслит: Gayolak) |
+| кольчатый ползун | annulus creeper (также "annelus") | местный червь-хищник |
+| система «Фиолетовый Клык» | the Violet Fang system | пародия на Bluetooth |
+| отвертка-трансформер; циркулярная пила; анализатор местности/породы | multi-tool screwdriver; circular saw; terrain / rock analyzer | |
+| шлюзовая камера; каюта | lock chamber / air lock (разнобой); bunkroom | |
+| гидравлический скафандр | hydraulic spacesuit | |
+| «<Ranger>ерак» (дразнилка) | "Little <Ranger>" | |
+
+### Election
+Британский вариант; расы с заглавной (Gaals, Faes, Humans, Pelengs, Maloqs). Имена-каламбуры журналистов и пеленгов адаптированы.
+| RU | EN (оф.) | Комментарий |
+|---|---|---|
+| Галактический Совет | the Galaxy Council | |
+| Замо Чу (пеленг) | Kill Young | игра «замочу» — адаптация |
+| Уду-Шилл (пеленг) | Strangle Lee (также Strangl Lee, Stangl Lee) | игра «удушил» |
+| Абу Линкольн Хуссейн; Линч (первый президент) | Abu Linkoln Husseyn; Linch | |
+| журналист-пачкун; чёрный пиар; имиджмейкер | the dirty reporter; black PR; image maker | |
+| Олд Хрыч (журнал «Молодое поколение») | Old Gink (Young Generation Magazine) | |
+| проф. Ноо Пасаран, гаалец (альманах «Этика межрасовых отношений») | Professor Noo Pasaran (Interracial Relations Ethics Almanac) | |
+| Цап Каце, пеленг (газета «Комок грязи») | Zap Katze (Lump of Mud) | |
+| Ща Даам, гаалец (ТВ «Духовная сущность иике-бааны») | Shooch Yaa (Spiritual Essence of the Iike-Baana) | |
+| Джим Хаккер («Новости компьютерных игр») | Jim Hakker (Computer Game News Weekly) | |
+| Карра Ббах, малок («Гражданская оборона в необычных обстоятельствах») | Karra Bbach (Unconventional Situations Civil Defence) | |
+| од-далани Талл Муд, фэянин (журнал «Бичевание лженауки») | Od-dalani Tall Mud ("Lynching Pseudo-Science") | od-dalani = наш |
+| сержант Баррыха, малок (стенгазета «Служивые будни») | Sergeant Barrack (Service Routine) | |
+| Нука Цыц, пеленг (ТВ «Закон и как его обойти»; рубрика «Осторожно: стукач!») | Hush Baba ("The Law and How to Dodge It"; "Beware: the Informer!") | |
+| Бульбу Льбуль, фэянин («Квантовая механика для младших школьников») | Blubb Lubb (Quantum Mechanics for Elementary School) | |
+| ток-шоу «Свобода снова», ведущий Славик Шустренький | "Justice and All" talk show, host Harvard Scorn | адаптация |
+| ТВ «Смирно, салаги!!!» (малоки); газета «Человеческая правда»; журнал «Научный вестник» (фэяне) | "Attention, sailor boys!!!"; "Human Truth"; Scientific Report | |
+| секта Мега-Мазохистов-Мизантропов | the Mega-Masochists & Misanthropes sect | |
+| Комитет Защитников и Полузащитников Прав Людей и Других Млекопитающих | Human and Other Mammal Rights Backers and Quarter-backers Committee | |
+| группировка «Малокский Порядок»; секта «Путь в Никуда», лякуша ГашишХан | Maloq Order; "Path to Nowhere", lyakusha Hash Khan | |
+| студенческая группа «Свободу во всём!» (пеленги) | "Freedom in Everything!" | |
+| Музей Изящных Искусств и Абстрактной Логики (гаальский) | Gaalian Fine Arts and Abstract Logic Museum | |
+| Эйпентакский Университет (фэянский) | Aipentack University | ср. Aipentak (Badday) |
+| агенты Дзухаллага; «Джампер» | Dzukhallag agents; Jumper | |
+| ксенопарк Ляпцвы Хица | Lyapzva Hiz xenopark | ≠ "Hitz's xenopark" (наш, Moi) → берём оф. Hiz |
+| ветеран Гралгарской битвы обер-майор Бух | Arch-Major Booze, Grulgarian War Vet | |
+| малокский истребитель «Шмель»; плазмотанк; псевдоядерная боеголовка; грузовой звездолёт | Maloq Bumblebee fighter; plasmatank / plasmotank; pseudonuclear warhead; cargo astracopter | |
+| гиперпространственные пираты | pirates of the hyperstate | |
+| втыкилла | vtequila | ≠ Vtykilla (наш, Moi) → берём оф. |
+| хэчбол | hatch-ball / hatchball | разнобой |
+| самострел (любимое оружие пеленгов) | crossbow | ≠ «ручной самострел» = hand-held dart gun (Bank) |
+| малокский ОМОН | Maloq special force unit | |
+| Змей-Горыныч; Баба Яга; Василиса Премудрая и Калистрат Мудрило | firedrake; old witch; Riddles of the Sphynx and Calistrate Wiseast | адаптация |
+| малиновый пиджак | Hawaiian shirt | адаптация |
+| налог на беременность; налог на борьбу с доминаторами | pregnancy tax; tax for maintaining the struggle with the Dominators | |

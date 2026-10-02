@@ -87,3 +87,30 @@
 - Опечатки: "Time t leave", "a trifle to difficult", "buy that time", "A steal building", "several Suva" (SUVs), "stranding", "welding a spear" (wielding), "Layer" (Lair), "He was bold" (bald), "It off from there", "pretty tired to go to sleep", "Shipck", "Stopping the car toy stepped".
 - Разнобой: Stoltz / Stilt; guanawa (в др. квестах guanava).
 - Предупреждения check: Path220/Path585, Path115/Path584 — одинаковые RU-формулы переведены по-разному (несущественно).
+
+## Edelweiss
+- `qtr.py check`: одинаковый RU переведён по-разному — Loc4-1/4-2/4-3, Loc26-3/Loc28-10, Path33/Path193 ("To the air lock" / "To the lock chamber").
+- Path82: «Намекнуть на то, что геолог все же выходит наружу» → "Suggest that the geologist should come outside" (смысл другой: намекнуть, что он сам выходит).
+- Loc41-4: «а мы уж разберёмся в обстоятельствах смерти» → "and investigate the circumstances" (поручено рейнджеру — неверно).
+- Loc41-6: «рассказали про страшную находку» → "your careful discovery".
+- Loc41-9: «для выхода на поверхность» → "to go under the surface".
+- Loc41-5: "I huge worm attacked me!"; Loc29-3: "You hear a circular saw can heard".
+- Loc82-2: «<Ranger>ерак» → "Little <Ranger>" (игра слов потеряна, допустимо).
+- Разнобой: annulus / annelus creeper; Gaal / gaalian.
+
+## Election
+- **Path231**: «Я время от времени хожу в спортзал» → "I don't have time to go to the gym" (смысл обратный; реакция в Path231b — про «время от времени»).
+- Path230b: «презиравшие физические упражнения фэяне» → "the Maloqs who despised all physical exercise" (раса перепутана).
+- Path91b: «малоки, фэяне и гаальцы разделяют» → "Maloqs, Faes and Humans".
+- Path72b: «другие расы разделяли ваше мнение о пеленгах» → "seemed to share the opinion of the Pelengs".
+- Path252b: реплика Нуки Цыца приписана "Shooch Yaa".
+- Loc104-3: «Охранникам (в основном малокам и людям)» → "Maloqs and Pelengs".
+- Loc104-2: «предупреждали о низкой популярности» → "urging you to improve your positions".
+- Loc107-1: названия животных (жвырклац, глинобрюх, пенчекряк, сварококк) заменены выдуманными англ. (veterbratosaur, anemonobrate, ducklapus, quackadile).
+- Path206b: фэяне «приобрели лиловый оттенок» → "turned lily".
+- Loc22-1: «предвыборная программа» → "plan of the election process"; Loc27-1: «чистый лист» → "black piece of paper".
+- Loc66-1: "Advertising T-shits" (опечатка — нецензурно!).
+- Loc79-7: «отреагировали довольно вяло» → "very distressing"; Loc83-6: «любящих разгульную жизнь» → "who enjoy racketing".
+- Path115b: «с отсталыми расами» → "other races"; Path167: «до пяти лет» → "for five years"; Path168: «на планетах» → "countries"; Path223: будущее время → "has been reduced".
+- Разнобой имён: Strangl/Strangle/Stangl Lee; Karra Bbach/Bach; Blubb/Blub Lubb; Od-dalani/Od-delani; plasmatank/plasmotank; hatch-ball/hatchball.
+- Опечатки: "feasts" (feats), "Fist of all", "drag trafficking", "Maloiqs", "Malloqs", "Fayans", "Faeyns", "slow number", "stingy swamp mud".
