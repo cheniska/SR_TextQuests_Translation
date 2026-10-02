@@ -53,6 +53,19 @@ def toks(s):
     return collections.Counter(TOK.findall(s))
 
 
+def toks_pair(a, b):
+    """Токены перевода a и исходника b для сравнения. Кириллические <...> в исходнике - не теги игры,
+    а авторские псевдотеги (напр. <Цензурой>): им может соответствовать столько же латинских <...> в переводе."""
+    ta, tb = toks(a), toks(b)
+    ps = [t for t in tb if t.startswith('<') and CYR.search(t)]
+    n = sum(tb.pop(t) for t in ps)
+    if n:
+        extra = ta - tb
+        if all(re.fullmatch(r'<[A-Za-z][A-Za-z -]*>', t) for t in extra) and sum(extra.values()) == n:
+            ta = ta - extra
+    return ta, tb
+
+
 def dup_groups(src_recs, thr=0.9, minlen=20):
     """-> (exact, near): exact = [[типы...]] с одинаковым текстом; near = [(тип1, тип2, ratio)] с ratio>=thr, но не равные."""
     by = collections.defaultdict(list)
@@ -128,7 +141,7 @@ def compare(work, src):
             err.append('порядок записей изменён')
     else:
         for (t, a), (_, b) in zip(w, s):
-            ta, tb = toks(a), toks(b)
+            ta, tb = toks_pair(a, b)
             if ta != tb:
                 err.append('%s: токены разметки: ожидалось %s, есть %s' % (
                     t, dict(tb - ta) or '-', dict(ta - tb) or '-'))

@@ -1301,3 +1301,21 @@ ekup; Brigee Bardozze (ксенопарк); crossbow (ручной самост�
 | гравитонный нож; плазмоган | graviton knife; plasma gun | Amnesia |
 | ручной станнер; оптический прицел; глушитель; аптечка | hand stunner; telescopic sight; silencer; first-aid kit | Amnesia |
 | газета «Научный вестник» | "Scientific Report" | Amnesia (= оф. журнал фэян) |
+
+## SR2HD Untranslated: Complex (2026-10-02)
+| RU | EN | Квест |
+|---|---|---|
+| рудовыкапывательный / горнодобывающий комплекс «Полноценность» | the "Plenitude" ore-digging / mining complex | Complex |
+| Шромор (малок, механик); Наргиле (пеленг, прозвище = кальян); Хиггинс (человек, «профессор»); Ладиени (фэянин, од-далани); Гаа-Тар (гаалец, руководитель) | Shromor; Nargile; Higgins; Ladieni (od-dalani); Gaa-Tar | Complex |
+| Антропоморфный Протуберанец (кличка Шромора в зрамакке) | Anthropomorphic Prominence | Complex |
+| зрамакка (малокский спорт: регби в грязи стальными мячами); црамакка (пеленгская) | zramakka; tsramakka | Complex |
+| пеленгские научные степени: псахи, цшахи, квахи, хацашфахи | psakhi, tsshakhi, kvakhi, khatsashfakhi | Complex |
+| Рехешлих (родина Наргиле); Эйланк (фэянская планета); Рамгатру; цивилизация акабосов | Rekheshlikh; Eilank; Ramgatrue (ванилла); akabos | Complex |
+| LameBoy (малокская консоль); МегаМалок-Икс / -Игрек; Икс Нулевое; кнопка PWN4GE!!! | LameBoy; MegaMaloq-X / -Y; X Zero; PWN4GE!!! | Complex |
+| офисный планктон | office plankton | Complex (буквализация идиомы) |
+| кают-компания; комната отдыха | wardroom; lounge | Complex |
+| плазменный отбойный молоток | plasma jackhammer | Complex |
+| книги: «Куда податься? Лучшие вузы Рахиша» (Ум Ница); «Инфразвуки вселенской печали» (Гыы Вобред-Таа); «Основы прикладной лоботомии в картинках» (акад. О. Трубидзе); «Зрамакка: из грязи в князи» (Хук П. Равой) | "Where to Go? The Best Universities of Rakhish" (Um Nitsa); "Infrasounds of Universal Sorrow" (Gyy Vobred-Taa); "Fundamentals of Applied Lobotomy in Pictures" (Academician O. Trubidze); "Zramakka: From Rags to Riches" (Hook P. Ravoy) | Complex (пародийные имена — транслит, звучание сохраняет отсылку) |
+| доктор Виажитте Ево; Фсио Пофик; «Трудно быть багом» сестёр Страдатских; Menux | Doctor Viazhitte Evo; Fsio Pofik; "Hard to Be a Bug" by the Stradatsky sisters; Menux | Complex |
+| Келлер побери (ругательство) | Keller take it | Complex |
+| «Свомперы», «Быки» (команды зрамакки) | the "Swompers", the "Bulls" | Complex |

@@ -14,8 +14,9 @@ bad = 0
 for i, ((t, a), (t2, b)) in enumerate(zip(en, todo)):
     if t != t2:
         print('ТИП не совпал на', i, t, t2); bad += 1; break
-    if qtr.toks(a) != qtr.toks(b):
-        print(t, 'токены', dict(qtr.toks(b) - qtr.toks(a)), dict(qtr.toks(a) - qtr.toks(b))); bad += 1
+    ta, tb = qtr.toks_pair(a, b)
+    if ta != tb:
+        print(t, 'токены', dict(tb - ta), dict(ta - tb)); bad += 1
     if qtr.CYR.search(a):
         print(t, 'кириллица', a[:50]); bad += 1
     if a.count('\n') != b.count('\n'):
