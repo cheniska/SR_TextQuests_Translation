@@ -1,0 +1,15 @@
+Colonization — заметки переводчика (2026-10-02)
+================================================
+Переведён с нуля с RU (старый Colonization_eng.txt был на русском). Записей 609 (540 уникальных), check 0/0, qtr_struct 0.
+
+Термины/имена — см. GLOSSARY.md (раздел Colonization). Имена транслитом (Amiolis, Raganrok, Barbarg, Grazhd Tsivill, Zhorsh Bdush, Katsap).
+Решения:
+- «торговый центр» в RU — одно слово для гражданского здания (15 000 cr) и особого (50 000 cr); переведено одинаково "trade center" (как в RU; различение — в Loc109-1: "space trade center ... civil trade center"). Вариант shopping/trade давал предупреждение check.
+- мВт → MW; шуточная расшифровка «мультиВортексные трансячейки» → "MultiVortex Wave-transcells".
+- Аббревиатуры: ЭС → "power plants", ГСП → "force field generator", ЦОД (заглушка Path22b) → "DSC" (Droid Service Center).
+- Клисанские корабли во сне (Loc13-2) — по ванилле: Mutenoc, Egemon; доминаторы Terron, Blazer.
+- «перейти на "ты"/"выкать"» (Loc1-x) → "drop the formalities / stand on ceremony".
+- Таблицы <fix> (Loc24-1) — подписи столбцов подогнаны по ширине к RU.
+- Числа вида «5 000 cr» записаны как "5,000 cr"; значения в {…} не трогались.
+- Отладочные/авторские тексты (Loc93-1 титры, Loc120-1 «переход читеров», Path309b) переведены; имена авторов: Артем Пяткин → Artem Pyatkin, Русских Денис → Denis Russkikh, ники как есть.
+- Лозунг анархии — с рифмой: "Down with presidents, down with kings! Let anarchy reign over all things!"

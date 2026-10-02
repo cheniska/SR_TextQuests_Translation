@@ -1628,3 +1628,29 @@ ekup; Brigee Bardozze (ксенопарк); crossbow (ручной самост�
 | напитки «Кристально чистая пустота» / «Кристальная чистота пустоты» | "Crystal Clear Void" / "Crystal Clarity of the Void" | GLAVRED |
 | «Коварство и морковь» | "Intrigue and Lovage" | GLAVRED (Шиллер; созвучие сохранено) |
 | палер (оружие) | paler | GLAVRED (неизвестное слово, транслит) |
+
+| Центр Колонизации Незаселенных Планет (ЦКНП) | Center for the Colonization of Uninhabited Planets (CCUP) | Colonization |
+| фэянин Амиолис (временный управляющий колонии, бывший рейнджер) | the faeyan Amiolis | Colonization |
+| малок Раганрок (главный по строительству); малок Барбарг (военачальник) | the maloq Raganrok; the maloq Barbarg | Colonization |
+| Гражд Цивилл (специалист по гражданским вопросам) | Grazhd Tsivill | Colonization (говорящее имя, транслит) |
+| Жорш Бдуш | Zhorsh Bdush | Colonization (пародия, транслит) |
+| Далани (во сне); Кацап (во сне); эгемон Риггер | Dalani; Katsap; the Egemon Rigger | Colonization (сны) |
+| мутенок / мутята (клисанский корабль) | Mutenoc / tiny Mutenocs | Colonization (по ванилле: Mutenoc, Egemon) |
+| варлекс (язык варваров); кшонга (дроид на языке варваров) | varlex; kshonga | Colonization |
+| велесианские долбогрызы; велесианский соловей | Velesian dumbgnawers; a Velesian nightingale | Colonization (долбогрызы — как в Amnesia) |
+| К Малокрху дипломатию! | To the Maloqarch with diplomacy! | Colonization |
+| дерево ляобаб; растения квакто-усы; пауки-пиреллы; снежные черви | the lyaobab tree; kvakto-whiskers; pirella spiders; snow worms | Colonization |
+| мВт (мультиВортексные трансячейки) | MW (MultiVortex Wave-transcells) | Colonization (шуточная расшифровка) |
+| ЭС (электростанция); ГСП (генератор силового поля); ЦОД (центр обслуживания дроидов) | power plant; force field generator; DSC (Droid Service Center) | Colonization (аббревиатуры расшифрованы) |
+| отрасли: гражданская, энергетическая, производственная, военная, особая | sectors: civil, energy, production, military, special | Colonization |
+| ресурсы: энергия, вода, пища, техника | resources: energy, water, food, machinery | Colonization |
+| водоочистное сооружение; пищевой завод; завод техники; дроидный завод | water purification facility; food factory; machinery factory; droid factory | Colonization |
+| солнечная / атомная / плазменная / орбитальная электростанция | solar / nuclear / plasma / orbital power plant | Colonization |
+| криобетонная стена; генератор силового поля | cryoconcrete wall; force field generator | Colonization |
+| здание правительства; торговый центр; магазин оборудования; информационный центр; космопорт | government building; trade center; equipment store; information center; spaceport | Colonization («торговый центр» — и гражданский, и особый: trade center, как в RU одним словом) |
+| галолист, галобумага, галотекст, галоблокнот, галодокумент, галокомпьютер | holosheet, holopaper, holotext, holonotepad, holodocument, holocomputer | Colonization |
+| полибетон; кевроволокно; стереовизор; гиперрация | polyconcrete; kevrofiber; stereovision set; hyper-radio | Colonization |
+| законсервировать колонию | mothball the colony | Colonization |
+| «нищий мир» | "beggar world" | Colonization |
+| Вандервол Третий | Vandervol the Third | Colonization |
+| «Долой президентов, долой королей! Анархия пусть воцарится скорей!» | "Down with presidents, down with kings! Let anarchy reign over all things!" | Colonization (рифма сохранена) |
