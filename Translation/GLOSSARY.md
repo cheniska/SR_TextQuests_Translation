@@ -442,7 +442,7 @@ Prezhevalski → Prezhevalsky (Tomb); Grishhill → Grishkhill (Diehard); Sir Lo
 | мастер Хамс | master Khams | Персонаж | Spy Loc19-1 | пародия на мастера Гамбса («12 стульев») |
 | фирма «Васюк и Ко» | Vasyuk & Co. | Организация | Spy Loc18-1 | отсылка к Нью-Васюкам |
 | стереопередача «Глас планеты» ; стереотеатр; стереовидение | stereo program "The Voice of the Planet"; stereo theater; stereovision | Прочее | Spy Loc8-1, Loc43-1, Loc18-1 | |
-| Галактический Совет | the Galactic Council | Организация | Spy Par9-crit | |
+| Галактический Совет | the Galaxy Council (2026-10-02; было Galactic Council) | Организация | Spy Par9-crit | |
 | Microsoft United; MEGADOOM | Microsoft United; MEGADOOM | Организация/Прочее | Spy Loc34-1 | как в RU |
 | диспетчер космопорта; дежурный | spaceport dispatcher; duty officer | Должность | Spy Loc51-1, Loc88-1 | |
 | путана | hooker | Прочее | Spy Loc64-1 | |
@@ -728,7 +728,7 @@ Prezhevalski → Prezhevalsky (Tomb); Grishhill → Grishkhill (Diehard); Sir Lo
 | Музей Изящных Искусств и Абстрактной Логики (гаальский) | Gaalian Fine Arts and Abstract Logic Museum | |
 | Эйпентакский Университет (фэянский) | Aipentack University | ср. Aipentak (Badday) |
 | агенты Дзухаллага; «Джампер» | Dzuhallag agents (исправлено 2026-10-02); Jumper | |
-| ксенопарк Ляпцвы Хица | Lyapzva Hiz xenopark | ≠ "Hitz's xenopark" (наш, Moi) → берём оф. Hiz |
+| ксенопарк Ляпцвы Хица | Brigee Bardozze's xenopark (2026-10-02; было Lyapzva Hiz) | ≠ "Hitz's xenopark" (наш, Moi) → берём оф. Hiz |
 | ветеран Гралгарской битвы обер-майор Бух | Arch-Major Booze, Grulgarian War Vet | |
 | малокский истребитель «Шмель»; плазмотанк; псевдоядерная боеголовка; грузовой звездолёт | Maloq Bumblebee fighter; plasmatank / plasmotank; pseudonuclear warhead; cargo astracopter | |
 | гиперпространственные пираты | pirates of the hyperstate | |
@@ -1587,7 +1587,7 @@ ekup; Brigee Bardozze (ксенопарк); crossbow (ручной самост�
 | профессор Чен; пеленг Шухе Ро; Рафаэль (директор центра); профессор Макар; Анатолий Васильевич; бармен Дмитрий; Афанасий; Руктук; Патер; Катар; Спарк; Гор; доктор Пшльберг; Маврикус | Professor Chen; Shukhe Ro; Rafael; Professor Makar; Anatoly Vasilyevich; Dmitry; Afanasy; Ruktuk; Pater; Katar; Spark; Gor; Dr. Pshlberg; Mavrikus | Proprolog |
 | «Вредный Джо» (кондитер с Венеры) | "Grumpy Joe" | Proprolog (прозвище, на нём держится шутка) |
 | институт Истории Освоения Космоса; Лаборатория темпоральных перемещений личности | the Institute of the History of Space Exploration; Laboratory of Temporal Personality Transfer | Proprolog |
-| Галактический Совет | the Galactic Council | Proprolog (ванилла) |
+| Галактический Совет | the Galaxy Council (решение пользователя 2026-10-02) | Proprolog |
 | центр рейнджеров Надежда; научная база Черпак; военная база Угорь | the Nadezhda Ranger Center; the Cherpak Science Base; the Eel military base | Proprolog |
 | системы Кефрон, Бетельгейзе, Солнце; планеты Полуось, Вестала, Орленон | Kefron, Betelgeuse, Sol; Semiaxis, Vestala, Orlenon | Proprolog |
 | ТГПС / ТГПБ (точки гиперперехода) | HPS / HPB | Proprolog |
@@ -1897,8 +1897,8 @@ ekup; Brigee Bardozze (ксенопарк); crossbow (ручной самост�
 | Корченица; Михаэль Шульман | Korchenitsa; Mikhael Shulman (грамматически правильный транслит — везде) | оф. Foncers, Rally |
 | землянин, земляне | earthling, earthlings | оф. Foncers (Earthman/Earthen) |
 | аэротакси | aerotaxi | оф. Jumper (aerocab), Muzon (hover-taxi) |
-| ксенопарк Ляпцвы Хица | Lyapzva Hiz (берём; прочие варианты убирать, если их нет в ванилле) | Hitz (Moi) уже убран; Brigee Bardozze есть в ванилле — уточнение у пользователя |
+| ксенопарк Ляпцвы Хица | ОТМЕНЕНО — см. строку «хозяин ксенопарка» ниже | Brigee Bardozze есть в ванилле — уточнение у пользователя |
 | Галактический Совет | Galaxy Council (решение пользователя; ванилла Galactic Council отклонена) | наши: Colonization, Proprolog, Xenolog, Domoclan, GLAVRED, Tourists, Piratesnest, Spy (30 замен) |
 | плазмотанк | plasma tank | оф. Election |
 | Макрохард (компания) | Macrohard (ванилла; RU пишет то MacroHard, то Macrohard) | оф. Muzon, Pachvarash; наши Gaidnet, Easywork |
-| хозяин ксенопарка | Brigee Bardozze — есть в ванилле (описание квеста Xenopark); Lyapzva Hiz/Hitz в ванилле нет | ждёт решения пользователя |
+| Ляпцва Хиц (хозяин ксенопарка) | Brigee Bardozze ВЕЗДЕ (решение пользователя 2026-10-02; есть в ванилле, Lyapzva Hiz/Hitz — нет) | оф. Election Path366, Xenopark, наш Moi |
