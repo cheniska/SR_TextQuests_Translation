@@ -1704,3 +1704,16 @@ ekup; Brigee Bardozze (ксенопарк); crossbow (ручной самост�
 | передача «Как получить КДП 1110%» | "How to Achieve 1110% Efficiency" | Piratesnest |
 | Агро-Сити; река Нейле; гора Аверест; Великая Лунная равнина | Agro-City; the Neile river; Mount Averest; the Great Lunar Plain | Piratesnest (вторая луна <ToPlanet>) |
 | набор «Юный радиотехник» / «Юный террорист» | "Young Radio Technician" / "Young Terrorist" | Piratesnest |
+
+| Убил Гайдс (три тёзки: «Суровый», «Вольт», «Нейро»); Билли | Ubil Gaids ("Grim", "Volt", "Neuro"); Billy | Forum (имя транслитом — пародия на Билла Гейтса; прозвища переведены) |
+| Суровый (малок, торговец оружием); сурововец | Grim; Grimite | Forum (прозвище, переведено) |
+| пач-кер; пачеджек (пачерджек) | pach-ker; pachejack | Forum (карточная игра: покер + пеленгский пачеджек) |
+| карты пач-кера: большой хэчер, хэчер, очко, шип, маска, грязь | Big Hatcher, Hatcher, Point, Spike, Mask, Mud | Forum |
+| комбинации: двойной хэчер, двойное очко, удар шипом, удар (лицом) в грязь | Double Hatcher, Double Point, Spike Strike, Face in the Mud / fell face-first in the Mud | Forum |
+| квазинейронный сверхсервер; манаимпульсный кристалл | quasi-neural superserver; manaimpulse crystal | Forum |
+| дата-центр ЦОД-КОМ | DC-COM | Forum |
+| гравифлайер; галофон; хай-гравископ; свейлоновая нить | gravflyer; galophone; hi-graviscope; sveylon thread | Forum |
+| кубик с рубиком; рубик | a cube with a rubik; a rubik | Forum (каламбур на кубик Рубика) |
+| «Ку, пацак!» | "Koo, patsak!" | Forum (отсылка к «Кин-дза-дза») |
+| охранник Сентей | Sentey | Forum |
+| код. фраза «Хочешь жить - умей стрелять» | "If you want to live, learn to shoot" | Forum |
