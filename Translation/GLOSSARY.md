@@ -483,3 +483,28 @@ Prezhevalski → Prezhevalsky (Tomb); Grishhill → Grishkhill (Diehard); Sir Lo
 | ЗГУ, ЗАП, ЗКМ | Horror Generator charge; Hell Cannon charge; Collapse Machine charge | Cybersport (заряд Генератора Ужаса / Адской Пушки / Коллапс-машины — по Loc6-1) |
 | Идент. войск | Troop ID | Cybersport (число-код состава войск) |
 | ники: Репейник Монго, УкропЪ/Петрушка, Выпейадник, 4уВаК, Тьмуберущий | Burdock Mongo, Dille/Parsley, Boozedock, d00D, Darktaker | Cybersport (латинские ники mEgAiGrOk, Qwerty10x, Absolut13, KoR-Abel — без изменений) |
+
+### Massacri (мод RevTextQuests, 2026-10-02)
+| RU | EN | Квест |
+|---|---|---|
+| Массакри (кличка); Генус Мальком | Massacri; Genus Malcom | Massacri (Мальком ~ Malcom: звучание то же — как Holmes/Sholmes) |
+| Алекс Максвел; Том Бэйкерсон; Эрик Мразерс | Alex Maxwell; Tom Bakerson; Eric Mrazers | Massacri (звучание не меняется — англ. форма) |
+| Ферджис Пунолоп; Николай (Коля) Никольский; Пузатько Б.И.; Грахх (малок) | Ferdzhis Punolop; Nikolai (Kol) Nikolsky; Puzatko B.I.; Grakhkh | Massacri (строгий транслит) |
+| Азиа (местная валюта) | Azia | Massacri |
+| город Теурран; улица Домостроителей; станция Квардемара | Teurran; Housebuilders Street; Kvardemara station | Massacri |
+| пиво «Махпелла Тёмное» / «Mahpella Dark»; Махпелла | "Mahpella Dark"; the Mahpella | Massacri |
+| костюм-симбиот; симбиот; биокостюм | symbiote suit; symbiote; biosuit | Massacri |
+| звуковик; звуковой излучатель; звуковой бластер | sonic gun; sonic emitter; sonic blaster | Massacri |
+| плазмограната («жидкое пламя»); шест (из стеклопластика); метательный нож | plasma grenade ("liquid fire"); staff; throwing knife | Massacri |
+| мультиувеличитель / мультиумножитель / мультиусилитель силы | strength multi-amplifier / multi-amplifier | Massacri |
+| лучемёт (тяжёлый, ионный) | beam gun (heavy, ion) | Massacri |
+| КВАР; ультраферон; кспотомас | KVAR; ultraferon; kspotomas | Massacri (болезни; КВАР не расшифрован — вопрос пользователю) |
+| кьюттон (ед. силы удара) | kyutton | Massacri |
+| завлаб | lab head | Massacri |
+| психушка; психбольница/психиатрическая лечебница | madhouse; psychiatric hospital | Massacri |
+| стереовидение; стереовизор; биоэкран; биокарта памяти; гиперлифт; сталелонн; гравикар; плазмолёт | stereovision; stereovisor; bioscreen; bio memory card; hyperlift; steelon; gravcar; plasma plane | Massacri |
+| бомжи (параметр) | the bums | Massacri |
+| «Сбей доминатора», «Замочи Рачехана» (игры) | "Shoot Down the Dominator", "Whack the Rachekhan" | Massacri |
+| Гаалдок | Gaaldok | Massacri |
+| Карнедж (автор, подпись) | Carnage | Massacri Loc211-1 |
+| Террон, Блазер, Келлер (доминаторы) | Terron, Blazer, Keller | Massacri Path2b |
