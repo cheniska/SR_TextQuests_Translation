@@ -704,7 +704,7 @@ Prezhevalski → Prezhevalsky (Tomb); Grishhill → Grishkhill (Diehard); Sir Lo
 Британский вариант; расы с заглавной (Gaals, Faes, Humans, Pelengs, Maloqs). Имена-каламбуры журналистов и пеленгов адаптированы.
 | RU | EN (оф.) | Комментарий |
 |---|---|---|
-| Галактический Совет | the Galaxy Council | |
+| Галактический Совет | the Galaxy Council | = итоговая форма (2026-10-02) |
 | Замо Чу (пеленг) | Kill Young | игра «замочу» — адаптация |
 | Уду-Шилл (пеленг) | Strangle Lee (также Strangl Lee, Stangl Lee) | игра «удушил» |
 | Абу Линкольн Хуссейн; Линч (первый президент) | Abu Lincoln Hussein (исправлено 2026-10-02; было Abu Linkoln Husseyn); Linch | |
@@ -997,7 +997,7 @@ Prezhevalski → Prezhevalsky (Tomb); Grishhill → Grishkhill (Diehard); Sir Lo
 | Брехуша и Лапшивес (пеленгские имена) | Yapper and Bamster | |
 | трубка-плевалка | spitting-pipe | |
 | константа Капеота | the Capeot constant | |
-| Галактический Совет | the Galaxy Council | |
+| Галактический Совет | the Galaxy Council | = итоговая форма (2026-10-02) |
 | Рачехан (пират, клад трёхсотлетней давности) | Rachekhan | |
 | пиратские присяжные (PirateClanPrison) | — (оф. не переведено) | |
 
@@ -1261,12 +1261,12 @@ ekup; Brigee Bardozze (ксенопарк); crossbow (ручной самост�
 | землянин, земляне | earthling, earthlings (строчные) | по ванилле; Galaxy, Newflora, Rush исправлены; название корабля "Earthling Fellowship" (Murder) — с заглавной |
 | лучемёт | blaster | ванилла/оф.; Massacri beam guns → blasters. «лучевое орудие» (Penetrator) = beam gun — другое понятие, оставлено |
 | Галактическое Содружество / Содружество | Interstellar Coalition / the Coalition | по ванилле (решение пользователя); Tomb, Hachball, Menzols, Moi исправлены |
-| Галактический совет | Galactic Council | ванилла (50); оф. Galaxy Council отклонён |
+| Галактический совет | Galaxy Council | ПЕРЕРЕШЕНО пользователем 2026-10-02 (совет Коалиции; было Galactic Council по ванилле) — заменено во всех наших |
 | гравикар | gravicar | оф.; Massacri gravcars → gravicars |
 | аэротакси | aerotaxi | везде, в т.ч. оф. Jumper/Muzon исправлены 2026-10-02 |
 | энерголечение | energy treatment | оф.; Diamond energy therapy → energy treatment |
 | стереотеатр | stereo theater | оставлено (амер. орфография; у оф. разнобой) |
-| плазмотанк | plasma tank | ванилла |
+| плазмотанк | plasma tank | ванилла; оф. Election plasmotank → plasma tank (2026-10-02) |
 | Троянский конь (программа) | Trojan Horse / Trojan | полное при первом упоминании, далее Trojan — допустимо |
 | гуанава | guanava | оф. ничья guanava/guanawa |
 | сиболусовт | sibolusovtus (мн. sibolusovtuses) | ванилла/оф.; sibolusoft отклонён |
@@ -1881,7 +1881,7 @@ ekup; Brigee Bardozze (ксенопарк); crossbow (ручной самост�
 | ухоногий сиболусовт | auropedal sibolusovtus (вместо разнобоя auropedal / leg-eared / long-eared; sibolusoft → sibolusovtus) | Sibolusovt |
 | Штольц (заправка Штольца) | Stoltz (вместо разнобоя Stilt / Stoltz) | Driver |
 | Нука Цыц | Hush Baba (оф. форма; Path252b ошибочно Shooch Yaa) | Election |
-| Карра Ббах; Бульбу Льбуль; Странгл Ли; плазмотанк | Karra Bbach; Blub Lubb; Strangl Lee; plasmotank (унифицировано внутри оф. Election; в наших переводах — plasma tank) | Election |
+| Карра Ббах; Бульбу Льбуль; Странгл Ли; плазмотанк | Karra Bbach; Blub Lubb; Strangl Lee; plasma tank (2026-10-02; было plasmotank) | Election |
 | Борзухан | Borzukhan (Sortirovka1: Borzuhan → Borzukhan) | Sortirovka1 |
 | Егорыч | Yegorych (вместо оф. Igorych) | Rally |
 | пенчекряк (все оф. варианты penchekryak / penchekryacus / penchequack) | penchecrakus, мн. penchecrakuses | DevTranslated (22 файла) |
@@ -1898,4 +1898,7 @@ ekup; Brigee Bardozze (ксенопарк); crossbow (ручной самост�
 | землянин, земляне | earthling, earthlings | оф. Foncers (Earthman/Earthen) |
 | аэротакси | aerotaxi | оф. Jumper (aerocab), Muzon (hover-taxi) |
 | ксенопарк Ляпцвы Хица | Lyapzva Hiz (берём; прочие варианты убирать, если их нет в ванилле) | Hitz (Moi) уже убран; Brigee Bardozze есть в ванилле — уточнение у пользователя |
-
+| Галактический Совет | Galaxy Council (решение пользователя; ванилла Galactic Council отклонена) | наши: Colonization, Proprolog, Xenolog, Domoclan, GLAVRED, Tourists, Piratesnest, Spy (30 замен) |
+| плазмотанк | plasma tank | оф. Election |
+| Макрохард (компания) | Macrohard (ванилла; RU пишет то MacroHard, то Macrohard) | оф. Muzon, Pachvarash; наши Gaidnet, Easywork |
+| хозяин ксенопарка | Brigee Bardozze — есть в ванилле (описание квеста Xenopark); Lyapzva Hiz/Hitz в ванилле нет | ждёт решения пользователя |
