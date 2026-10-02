@@ -601,3 +601,87 @@ Prezhevalski → Prezhevalsky (Tomb); Grishhill → Grishkhill (Diehard); Sir Lo
 | инопланетник; хлюпик / задохлик | saucerman / stranger; wonky / weakling | малокское о немалоках |
 | актриса Палома Ундерсон | Paloma Underson | |
 | Элементал Геймс; СНК-геймз | Elemental Games; (SNK-Games — в EN не переведено) | |
+
+### Borzukhan
+Британский вариант (тот же стиль, что Banket: Pelengs/Humans с заглавной).
+| RU | EN (оф.) | Комментарий |
+|---|---|---|
+| лякуша Борзухан | Lyakusha Borzukhan (лякуша как титул — с заглавной) | пеленг-пират |
+| Карл (агент) | Carl | (стр. транслит: Karl) |
+| лёгкий флаер | light flyer | |
+| лазерная винтовка; энергобатарея (заряды) | laser gun; power clip / battery (charges) | |
+| станнер; аптечка / медаптечка | stunner; first-aid kit | |
+| энергореактор / главный энергогенератор | power reactor / main reactor | |
+| пеленгские галлюциногены | Peleng hallucinogen(s) | |
+| лесник (шутка) | forester | |
+
+### Codebox
+| RU | EN (оф.) | Комментарий |
+|---|---|---|
+| Великий Малокрх; День коронации Великого Малокрха | the Great Maloqarch; the Coronation of the Great Maloqarch | малокский правитель планеты |
+| Первый Великий Малокрх Раммор Заккарадский | Rammor Zakkaradsky, the First Great Maloqarch | |
+| Хранитель (сейфа) | the Keeper | |
+| Иксс (пеленг) | Ikss | |
+| гравитакси | gravi-taxi | = наш gravitaxi (Newflora) почти |
+| ключ / образец (головоломка «пятнашки») | password / example | |
+
+### Depth
+| RU | EN (оф.) | Комментарий |
+|---|---|---|
+| батискаф; подводный аппарат P I-00-M (P I-00-Ж, P II-00) | bathyscaph; submersible / submarine apparatus R I-00-M (R I-00-F, R II-00) | RU «P»/«Ж» → EN «R»/«F» |
+| фирма «Блинтел»; Потерянные острова | "Pantel"; the Lost Islands | изготовитель батискафа |
+| плавучая база «Русалочка» | the "Mermaid" (naval base) | |
+| «малыш» (прозвище батискафа) | "Kid" | |
+| гидролокатор; эхолот; захват-манипулятор (захваты-присоски) | hydro-locator; sonic depth finder; handler-gripper (oscular probes) | |
+| псевдовакуумный эффект Кальтербрунера | the Kalterbruener pseudo-vacuum effect | |
+| монстродил; красная с чёрной рамкой книга | monstrodile; red black-framed book | |
+| Жаб Ил Мусто с планеты Гаргынг | Jab Hick Gusto from the planet of Gargyng | пародия на Жак-Ив Кусто |
+| оптронная печь | optrone furnace | |
+| отдел секретных операций / спецотдел | secret operations department / OpSec Department | |
+| «Ни пуха, ни пера» — «К чёрту!» | "Break a leg" — "Thanks!!!" | адаптация |
+
+### Disk
+| RU | EN (оф.) | Комментарий |
+|---|---|---|
+| пароль «Жареный перепеленок» — «Недоперепеленок» | "Fried chicken" — "Half-baked fried chicken" | игра слов с «пеленг» потеряна |
+| бар «Сладкая тина» | the "Sweet Tina" bar | ошибка: тина = slime |
+| Бунгало (малок-охранник) | Bungalo | |
+| Газулап (пират) | Gazulap | |
+| «Галдолбон!» (гаальское слово-активатор) | "Galdolbon!" | |
+| боевая стойка «Ветви персика» | "Peach Branches" fighting position | |
+| галовидоаппарат | holographic camera | |
+| одноразовые атомные свечи | single-use atomic candles | |
+| пенчекряк | penchekryacus / penchekryak (разнобой в одном квесте) | |
+| окорочок четырёхрукий в кляре | four-armed, battered chicken leg | ругательство о пеленге |
+
+### Driver
+Британский вариант (litres, colour), расы с заглавной. Квест-пародия на вестерн/«Безумного Макса».
+| RU | EN (оф.) | Комментарий |
+|---|---|---|
+| Ролан; Рамина | Rolan; Ramina | |
+| червонцы (местная валюта) | platinum pieces (однажды "gold piece") | |
+| банда Ирокезов; логово Ирокезов | the Iroquois (gang); the Iroquois Layer (опечатка: Lair) | |
+| банда Скорпионов; бар «Гнездо скорпионов»; татуировка «Скорпиончик» | the Scorpions; the "Scorpion Nest" Bar / Scorpion Bar; "Scorpion" tattoo | |
+| Шпик (город); «славный город Шпик» | Shpick; Glorious town of Shpick | |
+| братья Кромальоне | Cromalione brothers | |
+| Голубые скалы; Большой провал; Лесное озеро | Blue Rocks; The Big Gap; Forest lake | |
+| бензозаправка Мо; заправка Штольца | Mow's Gas Station; Stoltz's / Stilt's Gas Station (разнобой) | |
+| Шуруп; Автомастерская Шурупа; Лу | the Screw; Screw's Repairs / Screw's Repair Shop; Lou | |
+| Шпинатная ферма Землероевых | the Digsons' Spinach farm | |
+| рубидиевые рудники / шахты | rubidium mines | |
+| Свалка (бывшая военная база) | Dump Site (ex-military base) | |
+| Йцолли (пеленг); Крок (Скорпион); Медведь (тату-мастер) | Yoizolly; Croc; the Bear | |
+| старшина Полищук; прапорщик Пилипенко; лейтенант Битчсон; сержант Взяточкин; ст. сержант Бакшиштягаев | Master Sergeant Fritzheimer; Warrant Officer O'Malley; Lieutenant Bitchson; Sergeant Bribekin; Sergeant Major Bucksheeshpullaya | пародии на ГАИ — имена адаптированы |
+| зам по водоснабжению Желтохвостиков Е.С. | water supply deputy E.C. Yellowtailer | |
+| ресторан «Франт»; «Отель Мамочки»; вино «Шато-Шпику» | Dandy Restaurant; Momma's Inn; Chateau-Chpique wine | |
+| колесник (обращение); день водителя | wheeler; trucker's day | |
+| бронированные гробовозки | armoured meat wagons | |
+| знахарь; лапки хвачика; глаз членистонога; жбанская мушка; третья сфера чи | healer; hind feet of a snatcher; eye of an arthropod; Zhbanish fly; third level of chi | |
+| рартанская (безалкогольная) кинза; кинзовый соус | Rartan kinza (non-alcohol); kinza sauce | здесь kinza строчными |
+| гуанава | guanawa | ≠ guanava (Badday) — разнобой оф. |
+| энерголечение | energy treatment | |
+| циклокалольная кислота; г-люконат; Винон, Гелиос, Арбен, Базол | cyclocalolic acid; g-luconate; Vinon, Helios, Arben, Basol | |
+| плазмоган (2956 года выпуска) | (Year 2956) plasma-gun | |
+| титаноискатель | titanium-searcher | |
+| штраф-стоянка; техосмотр | penalty lot; tech-inspection | |
+| галактическое содружество | the Interstellar Coalition | ! оф. перевёл Содружество как Coalition |
