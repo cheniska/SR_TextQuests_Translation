@@ -1728,7 +1728,7 @@ ekup; Brigee Bardozze (ксенопарк); crossbow (ручной самост�
 | Космический Хэчбол (автомат) | Space Hatchball | Gluki (hatchball — по ванилле) |
 | Межгалактическая комиссия по чрезвычайным ситуациям | Intergalactic Emergencies Commission | Gluki |
 | Галактическая Ассоциация Складов | Galactic Association of Warehouses | Gluki |
-| Галонет; галовизор; мезонный галафон | GaloNet; galovisor; meson galaphone | Gluki |
+| Галонет; галовизор; мезонный галафон | Galanet (по ванилле); galovisor; meson galaphone | Gluki |
 | малокский жук-копьеносец; малокский крока-дин | maloq spearbearer beetle; maloq kroka-din | Gluki |
 | древнегаальская буква «Ыо-то» | the ancient gaalian letter "Yo-to" | Gluki |
 | жужастики | buzzlings | Gluki |
