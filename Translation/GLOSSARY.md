@@ -1862,3 +1862,7 @@ ekup; Brigee Bardozze (ксенопарк); crossbow (ручной самост�
 | доктор Индий Джокс; револьвер «Сыт и Весел»; профессор Шпрех Зидоч; Лара Томбовна; климатизаторы «Отморозко» | Doctor Indiy Jox; "Sated & Wesson"; Professor Shprekh Zidoch; Lara Tombovna; "Otmorozko" climatizers | Pharaon |
 | боги: Гамон-Ра, Обсирис, Этот, Абдулбис, Ищида, Птюх, Нудиус; бык Опас; Богиня Электричества (статуя на Земле) | Gamon-Ra, Obsiris, Etot, Abdulbis, Ishchida, Ptyukh, Nudius; the bull Opas; the Goddess of Electricity | Pharaon |
 | Похметеп, Зоофилес, писарь Папира Са-Мар Аттель, Настрадамус, рымский гладиатор Минимус, Хачик Абрамян; фараоны Недохотеп, Серемхотет, Ханамнес; жрец Склерозус; Бюстиара; планеты Хиросаки, Граал; Кишковыворот | Pokhmetep, Zoofiles, Papira Sa-Mar Attel, Nastradamus, Rhoman gladiator Minimus, Khachik Abramyan; Nedokhotep, Seremkhotet, Khanamnes; Sklerozus; Bustiara; Hirosaki, Graal; the Gut-Twister | Pharaon |
+
+| фарюк (сорта: «Большой», «Полосатый», «Мохнатый», «Синий налив», «Желтоглазка», «Ботинок»/«Ботинкообразный») | faryuk ("Big", "Striped", "Furry", "Blue Fill", "Yellow-eye", "Boot"/"Boot-shaped") | Faruk |
+| ВОНь — Величина Относительной Неароматности; «нюхач»; «Тройной одеколон»; «Вонилин-ФУ» | STINK — Scale of Total Inverse Nasal Kindness; "sniffer"; "Triple Cologne"; "Stanillin-FU" | Faruk |
+| Шнобель, Дюбель, Пугель (агенты); Государственная Служба Контроля / Комитет Госконтроля; Ферма №1; тачка | Shnobel, Dyubel, Pugel; State Control Service / State Control Committee; Farm No. 1; wheelbarrow | Faruk |
