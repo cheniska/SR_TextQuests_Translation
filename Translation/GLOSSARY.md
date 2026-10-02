@@ -508,3 +508,96 @@ Prezhevalski → Prezhevalsky (Tomb); Grishhill → Grishkhill (Diehard); Sir Lo
 | Гаалдок | Hahaldok (РЕШЕНО пользователем 2026-10-02) | Massacri |
 | Карнедж (автор, подпись) | Carnage | Massacri Loc211-1 |
 | Террон, Блазер, Келлер (доминаторы) | Terron, Blazer, Keller | Massacri Path2b |
+
+## SR2HD DevTranslated — термины из официального перевода разработчиков (собрано 2026-10-02)
+Источник: пары `TextQuests/SR2HD/questsRus|questsEng/DevTranslated` (42 квеста, перевод разработчиков SR2HD).
+Цель — справочник для перевода квестов `Untranslated`: так термины звучат в официальной англ. версии игры.
+Пометки: `≠` — расходится с нашим глоссарием/правилами. **РЕШЕНИЕ пользователя 2026-10-02: при расхождении берём форму DevTranslated**
+(замены в наших готовых переводах — по сводному списку в конце раздела);
+`(стр. транслит: …)` — как было бы по нашему правилу транслитерации имён. Общие стилевые особенности оф. перевода:
+названия рас строчными (pelengs, maloqs, faeyans/faes, gaals/gaalians, humans), «Ranger» и «ranger» вперемешку.
+Ошибки самого оф. перевода — в `TextQuests/SR2HD/questsEng/notes/DevTranslated_review.md`.
+
+### Badday
+| RU | EN (оф.) | Комментарий |
+|---|---|---|
+| компания «Невитс и Гник» | Nevits & Gnik | пародия: «Стивен Кинг» задом наперёд (оф. оставил RU-перевёртыш) |
+| Парк Ужасов / парк ужасов | horror amusement park / park of horrors | |
+| хэчбол, хэчбольный матч | hatchball, hatchball game | ≠ Hachball (наш, КР1) → берём оф. |
+| Махпелла | Machpella | ≠ Mahpella (наш, Massacri) → берём оф.; «если Махпелла не идёт к рейнджеру…» → "If Machpella won't come to the Ranger, the Ranger must go to Machpella" |
+| гобзавр | gobsaurus | ≠ gobsaur (наш, КР1/Moi) → берём оф. |
+| жвырклацы | phatklinks | ≠ zhvyrklats (наш, Moi) → берём оф. |
+| кванга (листья) | quanga | ≠ kwanga (наш, Menzols) → берём оф. |
+| лякуша | lyakusha (мн. lyakushas) | = наш |
+| гуанава | guanava | = наш |
+| хелдас (ругательство «хелдас их раздери») | (опущено: "confounded") | наш heldas |
+| стереовизор | stereovision | наш stereovisor — у оф. «stereovision» и для прибора |
+| пеленгша | peleng girl / female peleng | |
+| Цесска Риц; Шицка | Cesska Ritz; Shitzka | (стр. транслит: Tsesska Rits; Shitska) — оф. сохраняет отсылки (Cessna?/Ritz; Shih Tzu?) |
+| Мшистое Болото; Тиноболотный Фестиваль | the Mossy Bog; the Slime-Bog Festival | пеленгские места/праздник |
+| погребальное болото; могильные пузыри; тинный букет | funeral bog; grave-bubbles; slime bouquet | пеленгский быт |
+| планета Эйпентак | Aipentak | фэянская |
+| принц Тардым Бабах | prince Tardim Babach | (стр. транслит: Tardym Babakh) |
+| «Квака минерале» (вода) | "Mineral Quaka" | |
+| надземка; вагон надземки | surface train; railcar | |
+| кибершвабра | cyber-mop | |
+| гравикар | gravicar | |
+| видеофон; голографический фотоальбом | videophone; holographic photo album | |
+| «Алиада Ансата» (книга) | "Aliada Ansata" | |
+| медицинский спирт | (medicinal / rubbing) alcohol | |
+| межгалактический язык | intergalactic language | |
+| ID-карта | ID card | |
+
+### Banket
+Перевод другим переводчиком: британская орфография (honour, armour), расы с заглавной (Maloqs, Pelengs, Faeyans, Gaalians, Humans).
+| RU | EN (оф.) | Комментарий |
+|---|---|---|
+| принц Тардым ба'Бах; ба'Бахи | Prince Tardym Ka'Boom; the Ka'Booms | игра слов «Бабах» → Ka'Boom; в Badday тот же принц «Тардым Бабах» → Tardim Babach — разнобой оф. |
+| принцесса Ханна ге-де ба'Бах Теодам Хруст «Разящая Взглядом»; Тари | Princess Hanna ge-de Ka'Boom Teodam Crunch "Looks Killer"; Tari | |
+| император Ван-Далл | Emperor Van-Dall | отец Тардыма |
+| Попыхун «Суровый Нос»; Топыкак «Три Зелёных Мышцы» | Popykhoon "Grimnose"; Topykak "Three Green Muscles" | временные имена сыновей принца |
+| Рвакусач (щенок) | Tearbity | |
+| Военнокомандующий | commander-in-chief | |
+| Дворец Правительства; церемониймейстер | Government Palace; master of ceremony | |
+| Поединок Чести | Duel of Honour | |
+| подруга по оружию | sister-in-arms | малокское «предложение руки» |
+| орден «Кривого Бластера»; орден «Чёрные Уши» | order of the Curved Blaster; order of Black Ears | |
+| время дара; обмен подарками; пиршество разума | time of the gift; gift exchange; epulation of mind | этапы малокского банкета |
+| кинза (малокский напиток) | Kinza (в тексте также опечатка "Chins") | ≠ kindza (наш, КР1) → берём оф. Kinza |
+| ваккати (малокские самогонщики) | wakkattee | |
+| хмельная колючка; праздник Первого Урожая хмельной колючки | heady thorn; festival of the First Harvest of heady thorn | |
+| хаббат (кровь хаббата) | habbath | |
+| ханайский уйлюлюк (молоко) | khanai yoickster | |
+| хищный жмотогриб (забродивший сок) | carnivorous skinflint-mushroom (barmy juice) | |
+| листья Маххоки; гигантская креветка | Makhoka leaves; shrimp | мясной салат для семьи монарха |
+| краки (съедобные ракушки) | Cracks | малокское лакомство |
+| жебемот | hypofrog | |
+| салат-колючка | spike-salad | |
+| сок фарюков; светлое отжуйское вино | faryuk juice; "white shabby-lee whine" | пародия на шабли |
+| репузатор; хухмель (настойка хухмельного корня); абсорбуль; дисциллятик; вода кипячёная (пастеризованный оксид водорода) | repusator; hiphops (hiphops root tincture); absorblob; (absorblob); boiled water (pasteurised hydrogen oxide) | компоненты кинзы; «диметилхлорановый» → "diethylmethylchlorane"; «абсорбуляторный пиробутанпропах» → "absorbulator pyrobutaneprostench" |
+| крепость / прозрачность / пузыристость | strength (Alcohol) / transparency / carbonation | параметры напитков |
+| гобзавр | gobzaurus | ≠ Badday gobsaurus — разнобой оф. |
+| пенчекряк; бои пенчекряков | penchekryak; penchekryak fight | ≠ penchecrakus (наш, КР1) — разнобой |
+| Махпелла | Makhpella | ≠ Badday Machpella — разнобой оф. |
+| Антиклисанская война | the Klissan War | |
+| мензолы; мензольская накидка «пуахава» | menzols; Menzola coat of puakhawa | |
+| Цыга Ромалыч (пеленг) | Tsiga Romalych / Taiga Romalych (разнобой) | пародия на «цыганку» |
+| Пройдоха Хныц (пеленг) | Slicker Khitz / Khnitz (разнобой) | |
+| госпожа Хрында Моргуль (пеленгша) | Mrs. Khrynda Morghul | |
+| дермонги | crapsters | |
+| пьезообои | pieza-wallpapers | |
+| пиротитановое (легированный пиротитан) лезвие | pyrotitanium (stainless pyrotitanium) blade | |
+| керопластовая броня | ceroplastic armour | |
+| кумассанские шёлка | kumassan silks | |
+| пироподиус захламидус (растение) | pyropodius zahlamidius | |
+| «Джампер» (ранец) | "Jumper" | |
+| реактивная винтовка; гравитанк; деструкторный излучатель; термоножи; голо-диск | jet-action rifle; gravitank; destruction emitter; thermal-knives; holodisk | |
+| Келлер; терронский крейсер; роботы серии Блазер | Kelleroid; Terron's hull; Blazer series / Blazeroids | доминаторы (ср. Massacri: Terron, Blazer, Keller) |
+| Мозг / супермозг / Супер-Мега мозг доминаторов | the Brain / superbrain / Super-Mega-Brain | |
+| гиперпираты | hyper-pirates | |
+| Дрына; дрынлянин | Dryna; Drynlander | поговорка «Находясь в Дрыне, поступай как дрынлянин» |
+| фэянская Академия Словесности | Faeyan Academy of Language Arts | |
+| пять рас Конфедерации; боец Конфедерации | five races of the Confederation; Confederation soldier | |
+| инопланетник; хлюпик / задохлик | saucerman / stranger; wonky / weakling | малокское о немалоках |
+| актриса Палома Ундерсон | Paloma Underson | |
+| Элементал Геймс; СНК-геймз | Elemental Games; (SNK-Games — в EN не переведено) | |
