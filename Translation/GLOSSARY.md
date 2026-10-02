@@ -707,7 +707,7 @@ Prezhevalski → Prezhevalsky (Tomb); Grishhill → Grishkhill (Diehard); Sir Lo
 | Галактический Совет | the Galaxy Council | |
 | Замо Чу (пеленг) | Kill Young | игра «замочу» — адаптация |
 | Уду-Шилл (пеленг) | Strangle Lee (также Strangl Lee, Stangl Lee) | игра «удушил» |
-| Абу Линкольн Хуссейн; Линч (первый президент) | Abu Linkoln Husseyn; Linch | |
+| Абу Линкольн Хуссейн; Линч (первый президент) | Abu Lincoln Hussein (исправлено 2026-10-02; было Abu Linkoln Husseyn); Linch | |
 | журналист-пачкун; чёрный пиар; имиджмейкер | the dirty reporter; black PR; image maker | |
 | Олд Хрыч (журнал «Молодое поколение») | Old Gink (Young Generation Magazine) | |
 | проф. Ноо Пасаран, гаалец (альманах «Этика межрасовых отношений») | Professor Noo Pasaran (Interracial Relations Ethics Almanac) | |
@@ -722,12 +722,12 @@ Prezhevalski → Prezhevalsky (Tomb); Grishhill → Grishkhill (Diehard); Sir Lo
 | ток-шоу «Свобода снова», ведущий Славик Шустренький | "Justice and All" talk show, host Harvard Scorn | адаптация |
 | ТВ «Смирно, салаги!!!» (малоки); газета «Человеческая правда»; журнал «Научный вестник» (фэяне) | "Attention, sailor boys!!!"; "Human Truth"; Scientific Report | |
 | секта Мега-Мазохистов-Мизантропов | the Mega-Masochists & Misanthropes sect | |
-| Комитет Защитников и Полузащитников Прав Людей и Других Млекопитающих | Human and Other Mammal Rights Backers and Quarter-backers Committee | |
+| Комитет Защитников и Полузащитников Прав Людей и Других Млекопитающих | Committee of Defenders and Midfielders of the Rights of Humans and Other Mammals (исправлено 2026-10-02; было Human and Other Mammal Rights Backers and Quarter-backers Committee) | |
 | группировка «Малокский Порядок»; секта «Путь в Никуда», лякуша ГашишХан | Maloq Order; "Path to Nowhere", lyakusha Hash Khan | |
 | студенческая группа «Свободу во всём!» (пеленги) | "Freedom in Everything!" | |
 | Музей Изящных Искусств и Абстрактной Логики (гаальский) | Gaalian Fine Arts and Abstract Logic Museum | |
 | Эйпентакский Университет (фэянский) | Aipentack University | ср. Aipentak (Badday) |
-| агенты Дзухаллага; «Джампер» | Dzukhallag agents; Jumper | |
+| агенты Дзухаллага; «Джампер» | Dzuhallag agents (исправлено 2026-10-02); Jumper | |
 | ксенопарк Ляпцвы Хица | Lyapzva Hiz xenopark | ≠ "Hitz's xenopark" (наш, Moi) → берём оф. Hiz |
 | ветеран Гралгарской битвы обер-майор Бух | Arch-Major Booze, Grulgarian War Vet | |
 | малокский истребитель «Шмель»; плазмотанк; псевдоядерная боеголовка; грузовой звездолёт | Maloq Bumblebee fighter; plasmatank / plasmotank; pseudonuclear warhead; cargo astracopter | |
@@ -807,8 +807,8 @@ Prezhevalski → Prezhevalsky (Tomb); Grishhill → Grishkhill (Diehard); Sir Lo
 | жеребьёвка | the draw | |
 | Проныра (прозвище представителя) | Slyboots | |
 | Расгуш (пеленг); Гозар (малок); Миатра (фэянин) | Rasgush; Gonzar (sic, также Gonsar); Miatra | Гозар → строгий транслит Gozar; оф. Gonzar |
-| Владимир Корченица; Михаэль Шульман (земляне, чемпион) | Vladimir Korchenitza; Mikhael Shulman | строгий транслит: Korchenitsa, Mikhael Shulman |
-| землянин | Earthman (мн. Earthen, sic) | |
+| Владимир Корченица; Михаэль Шульман (земляне, чемпион) | Vladimir Korchenitsa; Mikhael Shulman (исправлено 2026-10-02) | |
+| землянин | earthling (исправлено 2026-10-02; было Earthman, мн. Earthen) | |
 | равнинный участок; каньон; каменное плато | horizontal section; canyon; stone plateau | |
 
 ### Jumper
@@ -832,7 +832,7 @@ Prezhevalski → Prezhevalsky (Tomb); Grishhill → Grishkhill (Diehard); Sir Lo
 | фирма «Адид-Асс» (ботинки пилотов и охотников на гобзавров) | Addid-Ace | |
 | селенитовые коронки | selenite crowns | |
 | Альдиба; Рачехан | Aldeeb; Rachekhan | |
-| аэротакси | aerocab | |
+| аэротакси | aerotaxi (исправлено 2026-10-02; было aerocab) | |
 | ботинки космодесантника на магнитных подошвах | space-boots with magnetic soles | |
 
 ### Leonardo
@@ -917,7 +917,7 @@ Prezhevalski → Prezhevalsky (Tomb); Grishhill → Grishkhill (Diehard); Sir Lo
 | максифон | maxiphone | |
 | стиль «Тяп-ляп и готово» | "quick-and-dirty" | |
 | хэчбол | hatch-ball | |
-| аэротакси | hover-taxi | ≠ aerocab (Jumper) |
+| аэротакси | aerotaxi (исправлено 2026-10-02; было hover-taxi) | |
 | стереотеатр; стереошоу | stereo-theatre; stereo-show | |
 | ноды (у доминаторов) | nodes | |
 
@@ -943,7 +943,7 @@ Prezhevalski → Prezhevalsky (Tomb); Grishhill → Grishkhill (Diehard); Sir Lo
 | энергин (таблетка) | energine | |
 | Форшмачек вульгарис | Forshmacek Vulgaris | |
 | аэробус; гравибот; плазмоэкран; плазморучка; криобутсы | airbus; graviboat; plasmoscreen; plasma pen; cryoboots | |
-| Галактическое содружество | the Galaxy Commonwealth | |
+| Галактическое содружество | the Interstellar Coalition (исправлено 2026-10-02; было Galaxy Commonwealth) | |
 | аквадановые цвета | aqua colours | |
 
 ### Pachvarash
@@ -1033,7 +1033,7 @@ Prezhevalski → Prezhevalsky (Tomb); Grishhill → Grishkhill (Diehard); Sir Lo
 | гонки олдсмобилей (машины на ДВС, 4 колеса, без антиграва) | old-school car races | |
 | Клим Егорыч (механик) | Klim Igorych | ≠ строгий транслит Yegorych (оф. ошибка) |
 | Святогор Корченица; Гамильтон Дудочкин; Эдуард Поллонсо (пилоты-люди) | Svyatogor Korchenitsa; Hamilton Dudochkin; Edward Pollonso | Korchenitsa ≠ Korchenitza (оф. Foncers) |
-| Михаэль Шульман | Michael Schulmann | ≠ Mikhael Shulman (оф. Foncers) — разнобой |
+| Михаэль Шульман | Mikhael Shulman (исправлено 2026-10-02; было Michael Schulmann) | |
 | марки «Зубилло-999», «Бетта-Джульетта», «Поршень Аллигатор», «Суу-баару WRX STI SBR VO» | Studebumper, Betta Julietta, Gator Piston, Soobaru WRX STI SBR VO | |
 | малокские Бэ-Эм-Жэ; ФЕЙ-рарри (фэянские); Сии-троян (гаальские); «Ламбо-Джинни» | BMUUs; FAE-rarri; Seetroyan; Lambo Genie | |
 | Баа-стиаан Боо-эль (гаальский пилот) | Baastian Boo-el | |
@@ -1263,7 +1263,7 @@ ekup; Brigee Bardozze (ксенопарк); crossbow (ручной самост�
 | Галактическое Содружество / Содружество | Interstellar Coalition / the Coalition | по ванилле (решение пользователя); Tomb, Hachball, Menzols, Moi исправлены |
 | Галактический совет | Galactic Council | ванилла (50); оф. Galaxy Council отклонён |
 | гравикар | gravicar | оф.; Massacri gravcars → gravicars |
-| аэротакси | aerotaxi | оставлено (у оф. разнобой aerocab / hover-taxi) |
+| аэротакси | aerotaxi | везде, в т.ч. оф. Jumper/Muzon исправлены 2026-10-02 |
 | энерголечение | energy treatment | оф.; Diamond energy therapy → energy treatment |
 | стереотеатр | stereo theater | оставлено (амер. орфография; у оф. разнобой) |
 | плазмотанк | plasma tank | ванилла |
@@ -1272,7 +1272,7 @@ ekup; Brigee Bardozze (ксенопарк); crossbow (ручной самост�
 | сиболусовт | sibolusovtus (мн. sibolusovtuses) | ванилла/оф.; sibolusoft отклонён |
 | Корченица | Korchenitsa | оф. (43 против 5) |
 | Борзухан | Borzukhan | ванилла/оф. |
-| Михаэль Шульман | Mikhael Schulmann | фамилия по ванилле (Schulmann), приоритет ванилла > транслит; имя — оф. Mikhael |
+| Михаэль Шульман | Mikhael Shulman | ПЕРЕРЕШЕНО пользователем 2026-10-02: грамматически правильный транслит (вместо ванильного Schulmann); Foncers, Rally |
 | Макрохард Нондоуз | Macrohard Nondows | ванилла |
 | принц Тардым Ба'бах | Prince Tardym Ka'Boom | ванилла/оф. |
 | фэяне (разг.: фэяшка, фэй) | fae | ванилла (53) и оф. (71); полное — faeyan |
@@ -1886,3 +1886,16 @@ ekup; Brigee Bardozze (ксенопарк); crossbow (ручной самост�
 | Егорыч | Yegorych (вместо оф. Igorych) | Rally |
 | пенчекряк (все оф. варианты penchekryak / penchekryacus / penchequack) | penchecrakus, мн. penchecrakuses | DevTranslated (22 файла) |
 | армрестлинг: заломить кисть; приём на резкость (рывок) | top-roll (his wrist); quick jerk | Fishingcup |
+
+### РЕШЕНИЕ пользователя 2026-10-02 по противоречиям глоссария — ПРИМЕНЕНО
+| RU | EN (итог) | Где исправлено |
+|---|---|---|
+| Абу Линкольн Хуссейн | Abu Lincoln Hussein (наше; оф. Abu Linkoln Husseyn отклонено) | оф. Election (96 замен: Linkoln→Lincoln, Husseyn→Hussein, ширина колонок в таблицах сохранена) |
+| Комитет Защитников и Полузащитников Прав Людей и Других Млекопитающих | Committee of Defenders and Midfielders of the Rights of Humans and Other Mammals (наше) | оф. Election |
+| Галактическое содружество | the Interstellar Coalition (оф. Galaxy Commonwealth убран) | оф. Olympiada |
+| Дзухаллаг | Dzuhallag | оф. Election |
+| Корченица; Михаэль Шульман | Korchenitsa; Mikhael Shulman (грамматически правильный транслит — везде) | оф. Foncers, Rally |
+| землянин, земляне | earthling, earthlings | оф. Foncers (Earthman/Earthen) |
+| аэротакси | aerotaxi | оф. Jumper (aerocab), Muzon (hover-taxi) |
+| ксенопарк Ляпцвы Хица | Lyapzva Hiz (берём; прочие варианты убирать, если их нет в ванилле) | Hitz (Moi) уже убран; Brigee Bardozze есть в ванилле — уточнение у пользователя |
+
