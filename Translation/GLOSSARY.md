@@ -342,3 +342,15 @@
 | ортодальный гуманоид, драдический медведь, палеопигмей | orthodal humanoid, dradic bear, paleopygmy | Прочее | Menzols Loc2-1 | псевдонаучные термины |
 | банга, гронга | banga, gronga | Прочее | Menzols Loc152-2 | присказка «купить бангу, не имея гронги» |
 | танга | tanga | Предмет | Menzols | силки на дикую сову (дополняет гонга/донга/ганга/тонга) |
+
+### Fishing (КР1, переведён заново 2026-10-02)
+| RU | EN | Кат. | Где | Комментарий |
+|---|---|---|---|---|
+| пруд Грезус | Grezus Pond | Место | Fishing Loc131-1 | транслит; КР1 "Grezzus" — не использовать |
+| рыбинспектор; рыбохрана (общество рыбохраны) | fish inspector; fish protection service (fish protection society) | Должность/Организация | Fishing Par10-crit, Loc142-1, Loc167-1 | КР1 "fishing inspector(ate)" |
+| День рыбохраны | Fish Protection Day | Прочее | Fishing Loc168-1 | |
+| фиброгеновая шашка | fibrogen charge | Предмет | Fishing Par14-1, Loc165-1 | fibrogen — как в Commando; КР1 "Fibrogene bomb" |
+| контейнер-криокапсула | cryocapsule (container) | Предмет | Fishing QuestDescription | КР1 "Crio-capsule" — опечатка |
+| щелочной пистолет | alkali pistol | Оружие | Fishing Path320b | КР1 "acid pistol" — неверно |
+| пеленгская удочка (жестяная палка с леской) | Peleng rod | Предмет | Fishing Loc132-1 | |
+| наживка: пиявки, тараканы | bait: leeches, cockroaches | Прочее | Fishing Par1-1, Par2-1 | |

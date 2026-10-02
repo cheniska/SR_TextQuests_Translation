@@ -30,8 +30,8 @@ ShuPrison(4), ShuQuest(7), XenoZeroSignalQuest(1) — todo; состав уто�
 Источник RU: `TextQuests\SR1TextQuests\Rus\<Name>.txt`; английский (ревизия): `TextQuests\SR1TextQuests\Eng\<Name>.txt` (исходный КР1-вариант сохранён в `0_квесты кр 1 в тхт англ\qmm\<Name>.txt`).
 Методика и инструменты — `KR1_REVIEW_GUIDE.md`; заметки — `TextQuests\SR1TextQuests\Eng\notes\<Name>_notes.txt`; журнал правок — `Eng\notes\<Name>_fixes.txt`.
 Срез на 2026-09-30 (`qtr.py check Eng\X.txt Rus\X.txt`, ошибок/предупр. в КР1-варианте; кир = записей с кириллицей):
-- Осталось вычитать (срез check КР1-варианта, ошибок/предупр.): Build 3, Diehard 3, Energy 3, Fishing 1, Gladiator 2+1, Ikebana 1, Spy 2, Tomb 1+1. Остальные квесты КР1 готовы (журнал ниже; актуальная сводка — `QUEST_STATUS.txt`).
-Очередь вычитки (актуально на 2026-10-02): Build, Diehard, Energy, Fishing, Gladiator, Ikebana, Spy, Tomb. Перепроверка времён в Bank — выполнена 2026-10-02.
+- Осталось вычитать (срез check КР1-варианта, ошибок/предупр.): Build 3, Diehard 3, Energy 3, Gladiator 2+1, Ikebana 1, Spy 2, Tomb 1+1. Остальные квесты КР1 готовы (журнал ниже; актуальная сводка — `QUEST_STATUS.txt`).
+Очередь вычитки (актуально на 2026-10-02): Build, Diehard, Energy, Gladiator, Ikebana, Spy, Tomb. Перепроверка времён в Bank — выполнена 2026-10-02.
 
 | Квест | Дата | Записей | Правок (примерно) | Заметки |
 |---|---|---|---|---|
@@ -60,3 +60,4 @@ ShuPrison(4), ShuQuest(7), XenoZeroSignalQuest(1) — todo; состав уто�
 | Bank (перепроверка времён) | 2026-10-02 | 552 (414 уникальных) | 4 правки (Loc32-1/2, Loc53-1, Path245b) | времена соответствуют RU; потеря «пальмы ноелемах» восстановлена; структура 0, check 0/0 |
 | Boat | 2026-10-02 | 76 (52 уникальных) | переписан заново | время по контексту RU; имена транслитом (Khuu, Vau, Ge, Vaa); лор ~7 фактов; структура 0; check 0/0 |
 | Menzols | 2026-10-02 | 798 (578 уникальных) | записи 0-98 заново, остальное — ~490 правок КР1 (журнал Menzols_fixes.txt) | результат Eng/Menzols.txt (Menzolsrus.txt — КР1, не тронут); смысловые ошибки КР1: Loc73, Loc80, Loc117, Loc178-3, Path464b, Loc86, Loc191, Path531b; имена транслитом (Lvamba, Alkhunka, Ayuchcha, Aynunga, Ayrunita); лор ~25 фактов; структура 0; check 0/0 |
+| Fishing | 2026-10-02 | 105 (89 уникальных) | переведён заново с RU | время по контексту RU; ошибки КР1 (Klissans вместо Dominators, acid pistol, flip-flops); Grezus; лор ~9 фактов; структура 0; check 0/0 |
