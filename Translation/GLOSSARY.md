@@ -1578,3 +1578,29 @@ ekup; Brigee Bardozze (ксенопарк); crossbow (ручной самост�
 | «По пачварашам!» | "To your pachvarashes!" | Mafia |
 | вертолет «Алкарис» | the "Alcaris" helicopter | Mafia |
 | Алганак; Рахиш; Рамгатру | Alganak; Rakhish; Ramgatrue | Mafia (ванилла) |
+
+## SR2HD Untranslated: Proprolog (2026-10-02)
+| RU | EN | Квест |
+|---|---|---|
+| рейнджер Ленс (XXII век) | ranger Lens | Proprolog (транслит) |
+| профессор Чен; пеленг Шухе Ро; Рафаэль (директор центра); профессор Макар; Анатолий Васильевич; бармен Дмитрий; Афанасий; Руктук; Патер; Катар; Спарк; Гор; доктор Пшльберг; Маврикус | Professor Chen; Shukhe Ro; Rafael; Professor Makar; Anatoly Vasilyevich; Dmitry; Afanasy; Ruktuk; Pater; Katar; Spark; Gor; Dr. Pshlberg; Mavrikus | Proprolog |
+| «Вредный Джо» (кондитер с Венеры) | "Grumpy Joe" | Proprolog (прозвище, на нём держится шутка) |
+| институт Истории Освоения Космоса; Лаборатория темпоральных перемещений личности | the Institute of the History of Space Exploration; Laboratory of Temporal Personality Transfer | Proprolog |
+| Галактический Совет | the Galactic Council | Proprolog (ванилла) |
+| центр рейнджеров Надежда; научная база Черпак; военная база Угорь | the Nadezhda Ranger Center; the Cherpak Science Base; the Eel military base | Proprolog |
+| системы Кефрон, Бетельгейзе, Солнце; планеты Полуось, Вестала, Орленон | Kefron, Betelgeuse, Sol; Semiaxis, Vestala, Orlenon | Proprolog |
+| ТГПС / ТГПБ (точки гиперперехода) | HPS / HPB | Proprolog |
+| боты (серии: истребители, транспортники, созидатели, переработчики) | bots (fighters, transports, creators, processors) | Proprolog |
+| ОСЭБ (Отряд Сопротивления Экспансии Ботов); ОСЭБовец | BERS (Bot Expansion Resistance Squad); BERS fighter | Proprolog |
+| гравимот; пневмодрезина; аппарат АН (незначительности) | gravimot; pneumatic railcar; IA (insignificance apparatus) | Proprolog |
+| слизь (сдаётся на научные базы) | slime | Proprolog |
+| ртутный / ламповый / полупроводниковый радар; пятипалый захват; генератор защиты «Альфа»/«Бета»; промлазер; насадка(-на-насадку) | Mercury / Vacuum tube / Semiconductor radar; five-fingered grabber; "Alpha"/"Beta" shield generator; industrial laser; attachment(-for-the-attachment) | Proprolog |
+| Генератор помех; Кварковая бомба; перегонный аппарат | Jammer; Quark bomb; still | Proprolog |
+| двадевизор | 2D-visor | Proprolog (пародия на стереовизор) |
+| венерианский пирог; Центральная Кондитерская; госпиталь «Хелфер»; кефронская известь | Venusian pie; the Central Confectionery; the "Helfer" hospital; Kefron lime | Proprolog |
+| крейсер «Ганнибал»; эсминцы «Петр Первый», «Николай Второй», «Александр Третий», «Иван Четвертый»; корабли 'Воробец', 'Рождественская корова'; «Алкарис» | the "Hannibal"; "Peter the First", "Nicholas the Second", "Alexander the Third", "Ivan the Fourth"; 'Vorobets', 'Christmas Cow' | Proprolog |
+| орден «Серебряная шпилька» | the "Silver Hairpin" order | Proprolog |
+| ТЦ «20 парсек под килем»; КБ «Южное» | "20 Parsecs Under the Keel" trade center; the Yuzhnoye Design Bureau | Proprolog |
+| «Крутой Уокер» | Walker, Texas Ranger | Proprolog (русское прокатное название сериала) |
+| Папа Ромский | the Pope of Rum | Proprolog (каламбур Римский + ром) |
+| ЦЕ2АШ5ОАШ | CEE-TWO-AITCH-FIVE-OH-AITCH | Proprolog (C2H5OH по буквам) |
