@@ -31,7 +31,8 @@ ShuPrison(4), ShuQuest(7), XenoZeroSignalQuest(1) — todo; состав уто�
 Методика и инструменты — `KR1_REVIEW_GUIDE.md`; заметки — `TextQuests\SR1TextQuests\Eng\notes\<Name>_notes.txt`; журнал правок — `Eng\notes\<Name>_fixes.txt`.
 Срез на 2026-09-30 (`qtr.py check Eng\X.txt Rus\X.txt`, ошибок/предупр. в КР1-варианте; кир = записей с кириллицей):
 - Осталось вычитать (срез check КР1-варианта, ошибок/предупр.): Build 3, Diehard 3, Energy 3, Gladiator 2+1, Ikebana 1, Spy 2, Tomb 1+1. Остальные квесты КР1 готовы (журнал ниже; актуальная сводка — `QUEST_STATUS.txt`).
-Очередь вычитки (актуально на 2026-10-02): Build, Diehard, Energy, Gladiator, Ikebana, Spy, Tomb. Перепроверка времён в Bank — выполнена 2026-10-02.
+Перепроверка времён в Bank — выполнена 2026-10-02. С 2026-10-02 оставшиеся квесты КР1 переводятся заново с RU (КР1 — справочник).
+Очередь (актуально на 2026-10-02): Gladiator, Diehard, Energy, Ikebana, Build, Spy.
 
 | Квест | Дата | Записей | Правок (примерно) | Заметки |
 |---|---|---|---|---|
