@@ -1350,7 +1350,7 @@ ekup; Brigee Bardozze (ксенопарк); crossbow (ручной самост�
 | «Пёстрый Голубь» (корабль Вёрсла) | "Particolored Pigeon" | Kidnapped (форма авторов: шифр Виженера на монете «kiiltgjtfjph kqxwzr» + ключ «virsle» = «particolored pigeon») |
 | экипаж: Эрок, Махсим, Кашкель, Тисануш, Цвага, Юпитер, Мальпа (Мальп), Робер, Баргам, Брего, Феликс, Лиони, Триклоп, Барни Бакс, Флэнки Тим | Erok, Makhsim, Kashkel, Tisanush, Tsvaga, Jupiter, Malpa (Malp), Robert, Bargam, Brego, Felix, Lioni, Triclops, Barney Bucks, Flanky Tim | Kidnapped (Робер = фр. Robert; Триклоп = трёхглазый гаалец → Triclops) |
 | Лянчер Швокс (агент Дзухаллага); Тарикс | Lyancher Shvoks; Tariks | Kidnapped |
-| Гавар (малок-инструктор); Норхберч Винерхан (лякуша-программист); Ческа Йцукен (лякуша) | Gavar; Norkhberch Vinerkhan; Cheska Qwerty | Kidnapped (Йцукен = раскладка → Qwerty) |
+| Гавар (малок-инструктор); Норхберч Винерхан (лякуша-программист); Ческа Йцукен (лякуша) | Gavar; Norkhberch Vinerkhan; Cheska Ytsuken | Kidnapped (2026-10-02 исправлено: было Qwerty — меняло звучание; строгий транслит) |
 | Апч'хан Ядохвост (заказчик похищения); Дред Неумолимый | Apch'khan Poisontail; Dred the Relentless | Kidnapped |
 | фантом (фэянский пират, как лякуша у пеленгов); фантом Мир Орниоли (атаман); банда Кучхума | phantom (со строчной, как lyakusha); the phantom Mir Ornioli; Kuchkhum's gang | Kidnapped (пояснение пользователя 2026-10-02) |
 | вротбылтыся (крепкий напиток) | vrotbyltysya | Kidnapped |
@@ -1437,12 +1437,12 @@ ekup; Brigee Bardozze (ксенопарк); crossbow (ручной самост�
 | канал «Дом-ТВ», реалити-шоу «Дурдом-2» | "House-TV", "Madhouse-2" | Domoclan (пародия на «Дом-2», игра дом/дурдом сохранена) |
 | болезни: Ака Сециянка, Новый Молизон, Луатанация, Великий Малососус | Aka Sezyanka, New Molizone, Luatanza, Grand Malosausus | Domoclan (ванилла) |
 | типичная инфузория (выдуманная болезнь) | typical infusorian | Domoclan |
-| корабли доминаторов: штипы, меноки, смерши, урганты, эквенторы; вертиксы; ноды; «домики» | shtips, menoks, smershes, urgants, equantors; vertixes; nodes; "doms" | Domoclan (ванилла/оф.; menoks — транслит, в ванилле нет) |
+| корабли доминаторов: штипы, меноки, смерши, урганты, эквенторы; вертиксы; ноды; «домики» | shtips, menocs, smershes, urgants, equantors; vertixes; nodes; "doms" | Domoclan (ванилла: Equantor, Urgant, Smersh, Menoc, Shtip, Bertor; vertix — DevTranslated) |
 | келлерята | Keller's little ones | Domoclan |
 | ВКЧД, МКЧД; «ФНС!» | VKChD, MKChD; "FNS!" | Domoclan (аббревиатуры не расшифрованы — вопрос) |
 | малокская техника: «Киберпаук», «Марсианский Скорпион», «Бог Войны», «Горн-4: Крыло Ангела», «Горн-5: Падший Ангел», RMC 320 «Шагающая Смерть», яхта «Альбатрос», «Платформа 22» | "Cyberspider", "Martian Scorpion", "God of War", "Gorn-4: Angel Wing", "Gorn-5: Fallen Angel", "RMC 320 "Walking Death", Space Yacht "Albatross", "Platform 22" | Domoclan |
 | позывной вертолета «Proenix-3»; вертолет поддержки / транспортный | "Proenix-3"; support / transport helicopter | Domoclan |
 | «Галактический Рейтинг Рейнджеров» | "Galactic Ranger Rating" | Domoclan |
-| Йцукен (вместо Ленина) | Qwerty | Domoclan (шутка про раскладку) |
+| Йцукен (вместо Ленина) | Ytsuken | Domoclan (строгий транслит; Qwerty отклонено — меняет звучание) |
 | Красная книга | the Red Book | Domoclan |
 | Ковбой Мальборо | the Marlboro Man | Domoclan |

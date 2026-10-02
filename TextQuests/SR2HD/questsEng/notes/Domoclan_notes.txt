@@ -1,15 +1,15 @@
 Domoclan (SR2HD Untranslated) — заметки к переводу, 2026-10-02
-Переведён с RU (1034 записи, 859 уникальных). check 0/0 (до правки ключа), qtr_struct 0 против исходного Eng.
+Переведён с RU (1034 записи, 859 уникальных). check 0/0, qtr_struct 0 против RU.
 
-КЛЮЧ Loc130-2 / Loc130-10: в RU-txt запись «Вы решили немного поспать...» имеет ключ Loc130-2, в исходном Eng-txt (парном к Domoclan_eng.qmm) — Loc130-10 (текст тот же). В нашем Domoclan_eng.txt оставлен ключ Loc130-10, как в исходном Eng (иначе текст может не попасть в eng.qmm). Поэтому qtr.py check / qtr_struct против RU дают 1 расхождение (ожидаемо). ВОПРОС пользователю: оставить Loc130-10 или вернуть Loc130-2.
+КЛЮЧ Loc130-2: в исходном Eng-txt эта запись была Loc130-10; по решению пользователя ключ как в RU (Loc130-2). check 0/0, qtr_struct 0 против RU.
 
 Термины: см. GLOSSARY.md, блок «SR2HD Untranslated: Domoclan».
 - Имена-отсылки (принцип «звучание сохраняет отсылку»): Анатоль Курагин → Anatole Kuragin («Война и мир»); Джумпер → Jumper; Френи-Икс → Freni-X; Шадоу-Мен → Shadow-Man; Сардж → Sarge; Кэти → Katie. Кос-Моонавт / Ура-Гаан — транслит (Kos-Moonavt, Ura-Gaan; каламбур «космонавт»/«ураган» в EN теряется).
 - «Робы» — белые балахоны сектантов → robes (в т.ч. в параметрах Par36).
-- Болезни — по ванилле: Aka Sezyanka, New Molizone, Luatanza, Grand Malosausus. Корабли доминаторов — shtips, smershes, urgants, equantors (ванилла), vertix (DevTranslated Rally); «меноки» в ванилле нет → menoks.
+- Болезни — по ванилле: Aka Sezyanka, New Molizone, Luatanza, Grand Malosausus. Корабли доминаторов — shtips, smershes, urgants, equantors (ванилла), vertix (DevTranslated Rally); «меноки» → menocs (ванилла, 4-й тип: Equantor, Urgant, Smersh, Menoc, Shtip, Bertor).
 - ВКЧД / МКЧД (Loc261-6) и «ФНС» (Loc261-1) — не расшифрованы, оставлены латиницей VKChD / MKChD / FNS. Вопрос пользователю, если известна расшифровка.
 - «Дом-ТВ» / «Дурдом-2» → "House-TV" / "Madhouse-2" (пародия на «Дом-2»).
-- «Патамучта баклажан!» (Par17-1, мем) → "Coz eggplant!". «Йцукен» (вместо «как завещал великий Ленин») → Qwerty.
+- «Патамучта баклажан!» (Par17-1, мем) → "Coz eggplant!". «Йцукен» (вместо «как завещал великий Ленин») → Ytsuken (строгий транслит, решение пользователя; ср. Ytsukeng в Murder).
 - Par24: «Не наем / Наем пароль» — видимо, опечатка от «нашли/не нашли» → Haven't found / Found the password.
 - Loc144-2: RU «Только четверо настоящих», но перечислены три — сохранено как в RU (four).
 - Par6–Par36 — служебные отладочные параметры, переведены дословно.
