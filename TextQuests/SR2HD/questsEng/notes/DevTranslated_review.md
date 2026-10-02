@@ -1,6 +1,9 @@
 # Проверка официального перевода SR2HD (DevTranslated), 2026-10-02
 
-Сверка `questsEng/DevTranslated/<Name>_eng.txt` с `questsRus/DevTranslated/<Name>.txt` (файлы НЕ менялись).
+Сверка `questsEng/DevTranslated/<Name>_eng.txt` с `questsRus/DevTranslated/<Name>.txt` (на момент ревью файлы не менялись).
+
+**ИСПРАВЛЕНО 2026-10-02 (по указанию пользователя «исправь ошибки в DevTranslated квестах»):** все пункты этого ревью внесены в оф. файлы `questsEng/DevTranslated/*_eng.txt` (смысловые ошибки, обратный смысл, перепутанные расы, опечатки, чужой/неполный текст в записях, кириллица, битая кодировка, потерянные/лишние токены, структура строк = RU); PirateClanPrison: 10 «пиратских» записей переведены по RU; разнобой терминов приведён к формам решения «ванилла > DevTranslated» (penchecrakus, gobsaurus/gobsauri, Makhpella, hatchball, dalani/od-dalani, Book of Shame, ekup, helldas, stereovision; Elus Dalany→Dalani; Sibolusovt: ухоногий → auropedal везде; Driver: Stilt→Stoltz; Election: имена унифицированы). Итог: у всех 42 — `qtr.py check` 0 ошибок и `qtr_struct.py` 0, кроме Pizza Path78b (баг в RU: `<clrEnd>Белые<clrEnd>`; в EN оставлена корректная разметка `<clr>white<clrEnd>`). Сознательно НЕ трогались адаптации разработчиков (пародийные имена/названия, песни, стихи: Xenopark Brigee Bardozze, Ministry Ge Chevara, Robots/Pilot имена, Muzon группы, Olympiada песни, Loho-Khan и т.п.), расы с заглавной (Maloq/Peleng) и предупреждения check о «почти одинаковых» фразах. Ложные пункты ревью: Xenopark «Sand Ship» — в RU сама игра слов «шип = ship (корабль пустыни)», оставлено; пустых EN (Leonardo Loc83-2/Path152b, Olympiada Loc80-3, Evidence Loc63-3) в файлах нет.
+
 Автопроверка `qtr.py check` + чтение всех уникальных записей RU/EN подряд.
 В списке только существенное: смысловые ошибки, пропуски, потерянные/лишние токены, разнобой терминов.
 Мелкую стилистику и вольности, не меняющие смысл, не выписываю.

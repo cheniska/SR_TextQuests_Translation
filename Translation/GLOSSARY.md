@@ -1873,3 +1873,15 @@ ekup; Brigee Bardozze (ксенопарк); crossbow (ручной самост�
 | вреллы (аборигены гаальской планеты), врелл, воин-врелл, охотник-врелл; Верховный Шаман; «Спор богов» (ритуал посвящения); «большой» народ; Серпак (как вреллы зовут рейнджера); Сагард (торговец и охотник); кучум (жилище) | vrells, vrell, vrell warrior, vrell hunter; Supreme Shaman; "Dispute of the Gods"; the "big" people; Serpak; Sagard; kuchum | Maze |
 | хвачер (чудовище пещеры) / хвачик (детёныш, вылупившийся из яйца хвачера); хвачерон; пенчекряк; боги Правдимука (бог просвещения, заступник) и Шмякодин (бог грубой силы, обвинитель) | snatcher / snatchling (ср. «лапки хвачика» → snatcher в др. квесте); snatcheron; penchecrakus; Pravdimuka, Shmyakodin | Maze |
 | криспо (личинка-искатель корней); манишка (кусок кожи для тренировки хвачиков); «Путеводная звезда» (компас); Кора-Динатор; порошок смятения из корня Чвахи; селявка | krispo; dickey; "Guiding Star"; Kora-Dinator; powder of confusion made from Chvakha root; minnow | Maze |
+
+### Правка оф. DevTranslated (2026-10-02, по указанию пользователя) — унифицированные формы
+| RU | EN | Квест |
+|---|---|---|
+| ухоногий сиболусовт | auropedal sibolusovtus (вместо разнобоя auropedal / leg-eared / long-eared; sibolusoft → sibolusovtus) | Sibolusovt |
+| Штольц (заправка Штольца) | Stoltz (вместо разнобоя Stilt / Stoltz) | Driver |
+| Нука Цыц | Hush Baba (оф. форма; Path252b ошибочно Shooch Yaa) | Election |
+| Карра Ббах; Бульбу Льбуль; Странгл Ли; плазмотанк | Karra Bbach; Blub Lubb; Strangl Lee; plasmotank (унифицировано по файлу) | Election |
+| Борзухан | Borzukhan (Sortirovka1: Borzuhan → Borzukhan) | Sortirovka1 |
+| Егорыч | Yegorych (вместо оф. Igorych) | Rally |
+| пенчекряк (все оф. варианты penchekryak / penchekryacus / penchequack) | penchecrakus, мн. penchecrakuses | DevTranslated (22 файла) |
+| армрестлинг: заломить кисть; приём на резкость (рывок) | top-roll (his wrist); quick jerk | Fishingcup |
