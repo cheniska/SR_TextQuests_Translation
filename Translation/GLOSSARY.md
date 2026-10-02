@@ -1404,3 +1404,45 @@ ekup; Brigee Bardozze (ксенопарк); crossbow (ручной самост�
 | карта желтая / красная / серебристая | yellow / red / silver card | Diver |
 | «Устав гарнизонной и караульной службы» | "Garrison and Guard Duty Regulations" | Diver |
 | фирма «Блин да Медь» (зубные щётки; пародия на Blend-a-med) | "Blin-da-Med" | Diver (звучание сохраняет отсылку) |
+
+## SR2HD Untranslated: Domoclan (2026-10-02)
+| RU | EN | Квест |
+|---|---|---|
+| секта «Община Свидетелей Доминатора»; братья; сектанты | the "Community of Dominator Witnesses"; brothers; sectarians | Domoclan |
+| Веиего Первый (глава, Верховный Отец общины; Его святейшество) | Veiego the First (Supreme Father; His Holiness) | Domoclan |
+| Тиик-Фаан (гаалец-вербовщик) | Tiik-Faan | Domoclan |
+| Аакси-Тоон (гаалец, агент правительства) | Aaksi-Toon | Domoclan |
+| Наргар (малок, начальник охраны/военного корпуса) | Nargar | Domoclan |
+| Рагнар (дед-рейнджер Наргара) | Ragnar | Domoclan |
+| доктор Анатоль Курагин | Doctor Anatole Kuragin | Domoclan (отсылка к «Войне и миру», англ. форма Anatole сохраняет звучание) |
+| Рачихас (пеленг, старший лейтенант) | Rachikhas | Domoclan |
+| Леонид | Leonid | Domoclan |
+| Джумпер (фэянин) | Jumper | Domoclan (англ. слово в RU-транскрипции — звучание сохранено) |
+| Френи-Икс (гаалец-учёный); Стен (глава лаборатории); Кэти (гобзаврик) | Freni-X; Sten; Katie | Domoclan |
+| Тваан-Оомсок; Гаал-Ра; Ифитлекс; Борис; Кос; Димуська | Tvaan-Oomsok; Gaal-Ra; Ifitleks; Boris; Kos; Dimuska | Domoclan |
+| караул ворот: Кос-Моонавт, Шадоу-Мен, Сардж, Стен, Ура-Гаан | Kos-Moonavt, Shadow-Man, Sarge, Sten, Ura-Gaan | Domoclan |
+| город Лас-Селябинск (столица) | Las Selyabinsk | Domoclan |
+| система Тарон | the Taron system | Domoclan |
+| храм; часовня; центральный зал; сад; жилой поселок; рабочий/служебный район | temple; chapel; main hall; garden; residential settlement; working / service district | Domoclan |
+| военный (охранный) корпус; медицинский корпус; лаборатория (оружейный отдел); склады; столовая; оружейная | military (guard) building; medical building; laboratory (Weapons Department); warehouses; canteen; armory | Domoclan |
+| посвящение; заповеди; омовение; святая чаша | initiation; commandments; ablution; holy chalice | Domoclan |
+| робы (белые, сектантские) | robes | Domoclan |
+| караульный устав; караульный | guard regulations; sentry | Domoclan |
+| карта доступа (временная) | (temporary) access card | Domoclan |
+| снотворное «Храпеин» | "Snoreine" sleeping pills | Domoclan |
+| препарат «Хелс» | "Health" | Domoclan |
+| газировка «Буратино»; пиво «Малокское Крепкое» | Buratino Soda; Maloq Strong | Domoclan |
+| стиральный порошок «Тетя Гасит» | "Auntie Gasit" laundry detergent | Domoclan |
+| ОС «Nondows Tvista»; игра «Сапер»; «Взломанный Рай» | Nondows Tvista; Minesweeper; "Hacked Paradise" | Domoclan |
+| канал «Дом-ТВ», реалити-шоу «Дурдом-2» | "House-TV", "Madhouse-2" | Domoclan (пародия на «Дом-2», игра дом/дурдом сохранена) |
+| болезни: Ака Сециянка, Новый Молизон, Луатанация, Великий Малососус | Aka Sezyanka, New Molizone, Luatanza, Grand Malosausus | Domoclan (ванилла) |
+| типичная инфузория (выдуманная болезнь) | typical infusorian | Domoclan |
+| корабли доминаторов: штипы, меноки, смерши, урганты, эквенторы; вертиксы; ноды; «домики» | shtips, menoks, smershes, urgants, equantors; vertixes; nodes; "doms" | Domoclan (ванилла/оф.; menoks — транслит, в ванилле нет) |
+| келлерята | Keller's little ones | Domoclan |
+| ВКЧД, МКЧД; «ФНС!» | VKChD, MKChD; "FNS!" | Domoclan (аббревиатуры не расшифрованы — вопрос) |
+| малокская техника: «Киберпаук», «Марсианский Скорпион», «Бог Войны», «Горн-4: Крыло Ангела», «Горн-5: Падший Ангел», RMC 320 «Шагающая Смерть», яхта «Альбатрос», «Платформа 22» | "Cyberspider", "Martian Scorpion", "God of War", "Gorn-4: Angel Wing", "Gorn-5: Fallen Angel", "RMC 320 "Walking Death", Space Yacht "Albatross", "Platform 22" | Domoclan |
+| позывной вертолета «Proenix-3»; вертолет поддержки / транспортный | "Proenix-3"; support / transport helicopter | Domoclan |
+| «Галактический Рейтинг Рейнджеров» | "Galactic Ranger Rating" | Domoclan |
+| Йцукен (вместо Ленина) | Qwerty | Domoclan (шутка про раскладку) |
+| Красная книга | the Red Book | Domoclan |
+| Ковбой Мальборо | the Marlboro Man | Domoclan |
