@@ -1860,3 +1860,60 @@ ekup; Brigee Bardozze (ксенопарк); crossbow (ручной самост�
 | хэчбольный мяч | hatchball ball | наш Mafia (было hachball) |
 | сиболусовт | sibolusovtus (мн. sibolusovtuses) | оф. Evidence Loc88-1 — остатки sibolusoft исправлены |
 | сварокок | swarokok | оф. Election Loc107-1 (было svarokok) |
+
+### Аудит персонажей и имён (2026-10-02) — дописано то, чего не было в глоссарии
+Метод: имена собственные из RU всех переведённых квестов (КР1, SR2HD Untranslated/DevTranslated), сверка с глоссарием; EN — как в файлах. Реальные лица/литературные персонажи без изменения формы (Цезарь, Гамлет, Шерлок, Фродо, Гэндальф, Пушкин…) не вносились. Пометка «оф.» — форма разработчиков (DevTranslated).
+| RU | EN | Квест |
+|---|---|---|
+| Гнусный Зловонный Демон (шуточное имя монстра) | Evil Stinking Demon | Badday (оф.) |
+| Кутузау (малокский наследник); Цыга Ромалыч | Kootuzau; Tsiga Romalych | Banket (оф.) |
+| Землероевская ферма | the Digsons' farm | Driver (оф.) |
+| Фрнкин-Бок (бабушка из Урюпинска) | Frecken-Bock; Urupinsk | Ministry (оф.) |
+| скульпторы Шмыгин, Хомячков-Лошадкин; «Наглый малок», «Хромой пеленг», «Галатея с тахионным резцом» | Snicker, Humster Horsegrove; "A bold Maloq", "Lame Peleng", "Galatea with a tachyon cutter" | Olympiada (оф., адаптация) |
+| Верстаче (модельер) | Vershace | Pilot (оф.) |
+| Кусай-Бей (чемпион по кулачным боям) | Bite-Punch | Prison, PirateClanPrison (оф.) |
+| петушкан с планеты Арнарик Гаудад | Arnarique Goudad (оф.; в моде Cybersport — Arnarik Gaudad) | Pizza (оф.) |
+| подвеска Фер-Максон; Климушка; Граалгар | PherMacson; Klimushka; Graalgar | Rally (оф.) |
+| Моца-Царт (пеленгский композитор) | Mot Zart | STQ_Baron1 (оф.) |
+| капитан Взгрыз; рядовые Бобсон, Шотнаг; династия Бдзынь | Captain Vzgryz; Private Bobson, Shotnag; the Bdzyn dynasty | STQ_Baron3 (оф.) |
+| Паша Бен, Шак Мулда, Ашпарака (пеленги), Зерогуд, Огандрок, Дабчек (малоки); Кузьмич | Pasha Ben, Shack Mulda, Azhparaka, Zerogood, Ogandrock, Dabcheck; Kuzmich | STQ_Headhunter (оф.) |
+| капитан Очевид | Sherl (оф. адаптация) | Sibolusovt |
+| Йонийооо ака Зелтопузик полосатый; Артемер; Органдок (рейнджер-малок); река Йа-Ноцкац | Ioneeyooo aka Yellow-bellied Striped One; Artemer; Organdok; Aye-Notskats | Sibolusovt (оф.) |
+| поезд Лянчак-Пейхац | the Lyanchak-Peykhats | Sortirovka1 (оф.) |
+| Нюк Скайлайнер (надпись на мече) | Nuke Skyliner | Stealth (оф.) |
+| рейнджеры Антон и Рабинович; Шпук, Лапак, Иваныч | Anton and Schulman (оф. адаптация Рабиновича); Schpook, Lapack; «Иваныч» опущено | Xenopark (оф.) |
+| Кварибы; планета Оокани; Шталомийские Габозавры; доктор Свайков | the Cvaribbeans; Ohokany; Stalomian Gabosauruses; Doctor Svaikoff | Xenopark (оф.) |
+| капитан Квакша Цыпик; Цвацкие Топи; Хачик-Хан; Николак Вацков; Песчаный Шип | Quacksha Chuck (оф. адаптация); Tzvackian Swales; Khachick-Khan; Kuciano Pavalozzi (оф. адаптация); the Sand Ship | Xenopark (оф.) |
+| Большие Хляби на Лупцаваке, Великие Топи на Чваке, Огромный Плюх на Малом Упрате | Big Cataracts on Luptzvack, Big Swales on Chvack, Huge Plumper on Small Uprat | Xenopark (оф.) |
+| поисковые системы Рамблер, Яху, Яндекс | Rambler, Yahoo, Yandex | Bank |
+| Старший Бог Зю; демон Од; Толстый Бах | the Elder God Zyu; Od; Fat Bakh | Boat |
+| Клеше (модельер) | Cleshe | Diamond |
+| Манаманама (пеленгский поэт) | Manamanama | Examen |
+| дреди; Дрэдроунд (в RU также Дрендроунт, Дрендроуд, Дрэндроунд, Дэндроуд) | Dreaddy; Dreadround | Gladiator |
+| учёные Ялгир Элфеду, Аналла Онк | Yalgir Elfedu, Analla Onk | Gobsaur |
+| Бидон Помоев; Рулон Обоев (капитан корабля «Землянское братство») | Bidon Pomoev; Rulon Oboev | Murder |
+| водка Белентайн; Марта с Карнерас Прайм | Belentine; Martha from Karneras Prime | Newflora |
+| Высочайший Аргот | the Supreme Argot | Poroda |
+| далани Ааноло | dalani Aanolo | Rush |
+| Коши (язык эпсилон-дельта-восемь) | Goshi | Siege |
+| Кац (старик) | Kats | Spy |
+| Головуу; Баламуут (планета чемпионата); Боб Пацифист | Golovaa; Balamut; Bob Pacifist | Citadels |
+| система Кастор | Castor | Colonization |
+| Антропоморфный Протуберанец (кличка) | Anthropomorphic Prominence | Complex |
+| Глой Нусс (агент фэянской разведки); Кууча фон Юч | Gloy Nuss; Kuucha von Yucha | Drugs |
+| Федя Клюквин (парикмахер-маньяк) | Fedya Klyukvin | Easywork |
+| Злобный Гений; Артэлон | Evil Genius; Artellon | Evilgenius |
+| провинция Йопт, город Мунь-Чань; Пузилендия (пузилендский); хоботорылы, жабодроны, шушкешаны; Матильда; Пупыркин | Yopt, Mun-Chun; Puzilandian; Chuke-Puks, ..., Shushkeshans; Matilda; Pupyrkin | GLAVRED |
+| Эрок, Брего, Тиисануш; доктор Лоор-Тафи; Трикл (триклоп) | Erok, Brego, Tiisanush; Doctor Loor-Tafi; Triclops | Kidnapped |
+| Джеери (гаалец); плазменный автомат Томпсона | Dzheeri; Thompson | Mafia |
+| Ицпидук Шпык; Бука; Великий Маг; Великое Недоразумение; Перекрёсток; Пламя Истины | Itspiduk Shpyk; the Boogeyman; the Great Mage; the Great Misunderstanding; the Crossroads; the Flame of Truth | Moi |
+| Морфеус; Кевин Мотник; Шцуцык (бог алхимиков); лякуша Тапек; Рашмас (шепеляво «Рафмаф»); Рыжий, Полкан, Колян | Morpheus; Kevin Motnik; Shtsutsyk; lyakusha Tapek; Rakthath (lisp); Redhead, Polkan, Kolyan | Moi |
+| Змей Горыныч, Баба-Яга (Бабуся-Ягуся), Федот-стрелец, Мартынко, кот Васька, Калистрат-Мудрила, Вещий Каурка, лайнер «Галюня Блянка» | Zmey Gorynych, Baba Yaga, Fedot the Archer, Martynko, Vaska the cat, Calistrate Wiseast, Wise Kaurka, "Galyunya Blyanka" | Park |
+| лякуша Барзумян (оговорка вместо Борзухан) | Barzumyan | Pharaon |
+| Вася (Вась) | Vasya (Vasyas) | Photorobot |
+| Меркурий; система Мегрез | Mercury; Megrez | Proprolog |
+| Маркаб | Markab | Rvk |
+| лесной рейнджер Бен; Биил-Гээтс; Редпис; Айруун Вууд-Каатер | Ben; Biil-Geets; Redpeace; Ayroon Wuud-Kaatter | Testing |
+| Сергей Сергеевич | Sergey Sergeyevich | Xenolog |
+| заведение Лысого Перца | Bald Pepper's | Amnesia |
+

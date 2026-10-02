@@ -51,3 +51,11 @@
 | Гаалдок | Hahaldok (РЕШЕНО пользователем 2026-10-02) | Massacri |
 | Карнедж (автор, подпись) | Carnage | Massacri Loc211-1 |
 | Террон, Блазер, Келлер (доминаторы) | Terron, Blazer, Keller | Massacri Path2b |
+
+### Аудит имён (2026-10-02) — дописано
+| RU | EN | Квест |
+|---|---|---|
+| профессор Николай Никольский | Professor Nikolai Nikolsky | Massacri |
+| Эйс, Флэш, Гусаров, Даб (приветы автора) | Ace, Flash, Gusarov, Dab | Massacri |
+| отряд Древочурок | Treechumps | Cybersport |
+
