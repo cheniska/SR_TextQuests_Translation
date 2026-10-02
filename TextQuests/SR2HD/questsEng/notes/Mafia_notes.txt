@@ -1,0 +1,21 @@
+Mafia — заметки переводчика (2026-10-02)
+========================================
+Переведён с нуля с RU (старый Mafia_eng.txt был на русском; записи = RU, 1072, уникальных 944). check 0/0, qtr_struct 0.
+
+Термины и имена — см. GLOSSARY.md (раздел Mafia). Имена транслитом; Koor-Le'One (пародия на Corleone) — звучание сохраняет отсылку.
+Отдел Сдерживания → the Containment Department; дабы → dabs; втыкилла → vtequila (по оф. DevTranslated).
+
+Адаптации
+- КЛИЗМА (Кровевосстанавливающая Лейкоцитная Иммуногенная Защитная Медицинская Аптечка) → "Erythrocyte-Normalizing Emergency Medical Aid kit - the ENEMA kit" (акроним-шутка сохранена).
+- «Ухйооо» (коктейль и возглас) → "Whoooa".
+- картошка-слэйв (фри = free → slave) → slave fries; кола-кока → cola-coca.
+- Библиотека: полка «В» (Взлом замков…, «Военные действия…», «Вскрытие вен…», «Виндовс…») → полка "C": "Cracking Locks for Beginners", "Combat Operations: From A to Z", "Cutting Your Veins for Dummies", "Computer Windows: A User's Manual".
+- Стих Лаай-Тоома (пародия на высокий штиль с отглагольными существительными) переведён рифмованно (AAAB CCCB).
+- Головоломка передатчика: в EN два названия на "A" сохранены (Autodiagnostics, Autotuning); решение то же: Autodiagnostics, Radio module, Autotuning, Signal calibration, Satellite link, Power.
+- «Пассворд» и «Parol» → "Password" и "Parol".
+- «прими его ил» (пеленгское «упокой») → "may the silt receive him"; «По пачварашам!» → "To your pachvarashes!".
+- Числовые головоломки ключей (Loc220) и последовательность взлома (Вправо/Влево → Right/Left) сохранены без изменений.
+
+Опечатки RU
+- Loc177-1 «круглых классных глаз» — опечатка (в Loc178-1 «красных»); переведено "round red eyes" в обоих.
+- Loc255-1: в списке — «Радиопередатчик», в выборе (Path628) — «Радиомодуль»; оставлено как в RU (Radio transmitter / Radio module).

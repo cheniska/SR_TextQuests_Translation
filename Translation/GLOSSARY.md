@@ -1548,3 +1548,33 @@ ekup; Brigee Bardozze (ксенопарк); crossbow (ручной самост�
 | города: Лайт-Бринг-Сити, Дрейкбург, Эйслэнд, Леосания, Гелитаун, Пяткинск | Light-Bring City, Drakeburg, Iceland, Leosania, Helitown, Pyatkinsk | Evilgenius |
 | Добрые Бомбы Для Добрых Людей; Internet Explosive | Good Bombs for Good People; Internet Explosive | Evilgenius |
 | стих-подсказка к бомбе («Огонь святой, Мрак ночной…») | "Sacred fire, Midnight dire, Heaven's light, Leaves so bright, Sunny chime, Snowy rime, Banner of love, Fire in the blood." | Evilgenius (цветовые образы сохранены) |
+
+## SR2HD Untranslated: Mafia (2026-10-02)
+| RU | EN | Квест |
+|---|---|---|
+| Отдел Сдерживания (Дзухаллага) | the Containment Department | Mafia |
+| дабы (местная валюта) | dabs | Mafia |
+| Калм-сити; Лост Дрим; пригород; деловой район; район развлечений | Calm City; Lost Dream; the suburb; the business district; the entertainment district | Mafia (англ. названия — звучание то же) |
+| кланы: семья Коор-Ле'Оне; Фэйада; Карл-стрит | the Koor-Le'One family; the Faeyada; Karl Street | Mafia (Koor-Le'One — пародия на Corleone, звучание сохраняет отсылку) |
+| Тооми; Сааль Ер-Ри; Джеери; Виито; Ва Линь; Ли Хун; господин Уук; Андид; Лаай-Тоом; Акнеруб (аворок) | Toomi; Saal Er-Ri; Dzheeri; Viito; Va Lin; Li Khun; Mr. Uuk; Andid; Laai-Toom; Aknerub | Mafia (транслит) |
+| Брайанская вилла | the Bryan Villa | Mafia |
+| бар «Старая берлога»; пиццерия «Ахтунг»; оружейный салон «Спусковой крючок»; закусочная «Макмак» | the "Old Den" bar; the "Achtung" pizzeria; the "Trigger" gun salon; the "MacMac" diner | Mafia |
+| взломщик (тактильный механический), сканер | cracker (tactile mechanical), scanner | Mafia |
+| КЛИЗМА (Кровевосстанавливающая Лейкоцитная Иммуногенная Защитная Медицинская Аптечка) | ENEMA kit (Erythrocyte-Normalizing Emergency Medical Aid kit) | Mafia (акроним-шутка адаптирован) |
+| протопузырь; кисель; Морской Обед | protobubble; kissel; Seafood Lunch | Mafia |
+| Махпелла темное; Звездный ликер; коктейль «Ухйооо»; малокское твердокрасное | Makhpella Dark; Star Liqueur; the "Whoooa" cocktail; Maloq Hard Red | Mafia |
+| пиво «Старомалок»; Зеленый Сюрприз; втыкилла | "Old Maloq" beer; Green Surprise; vtequila | Mafia (vtequila — по оф.) |
+| Ерм-ашель; суп «Убойный»; бутерброд с хлебом | Erm-ashel; "Killer" soup; bread sandwich | Mafia |
+| кола-кока; картошка-слэйв; кетчупбургер; фрозенкэт; аргхбургер; грррбургер; всебургер | cola-coca; slave fries; ketchupburger; frozencat; arghburger; grrrburger; everythingburger | Mafia |
+| «Белый гобзавр»; «Фэянское разноцветное»; «Гаальское грезогонное»; калольная кислота | "White Gobsaurus"; "Faeyan Multicolored"; "Gaalian Dreamshine"; calolic acid | Mafia |
+| Ионный Низкочастотный Регенератор Тканей | Ionic Low-Frequency Tissue Regenerator | Mafia |
+| авороки; ферма «Тридцать Три Аворока» | avoroks; the "Thirty-Three Avoroks" farm | Mafia |
+| шарики Хаапта | Haapt balls | Mafia |
+| верпенчекряк | were-penchecrakus | Mafia |
+| лякуша Пенчекрякник; «Взлом замков для начинающих» | the lyakusha Penchekryaknik; "Cracking Locks for Beginners" | Mafia (полка «В» → "C", названия книг-соседей подобраны на C) |
+| «Ремонт и настройка радиопередатчиков» | "Repair and Tuning of Radio Transmitters" | Mafia |
+| система "Nondows"; замок «Симсим» | "Nondows"; the "Simsim" lock | Mafia |
+| «прими его ил» (пеленгское) | may the silt receive him | Mafia |
+| «По пачварашам!» | "To your pachvarashes!" | Mafia |
+| вертолет «Алкарис» | the "Alcaris" helicopter | Mafia |
+| Алганак; Рахиш; Рамгатру | Alganak; Rakhish; Ramgatrue | Mafia (ванилла) |
