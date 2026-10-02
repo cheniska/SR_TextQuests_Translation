@@ -6,7 +6,7 @@ Testing — заметки переводчика (2026-10-02)
 Решения:
 - «Добра и Света Последний Рыцарь» / «Добрис Посрыц» — имя-аббревиатура; в EN "the Last Knight of Good and Light" / "Goli Lakni" (GOod+LIght, LAst+KNIght). Добрис → Goli, Посрыц → Lakni во всех записях. Архаичная речь старца — thou/thee.
 - «ай-ди-ди-кью-ди» (iddqd, кириллицей) → "eye-dee-dee-cue-dee".
-- Шутки: «Как дела? - Как перхоть бела» → "How's it going? - Like dandruff - white and flowing!"; «коллеги/калеки» → "Colleagues? Cripple-leagues"; «Втыкилла» → "Stabquila"; «Неписи мастдайные» → "NPCs must die"; «Жизнь сакс мастдайный» → "Life sux, must die".
+- Шутки: «Как дела? - Как перхоть бела» → "How's it going? - Like dandruff - white and flowing!"; «коллеги/калеки» → "Colleagues? Cripple-leagues"; «Втыкилла» → "Vtequila"; «Неписи мастдайные» → "NPCs must die"; «Жизнь сакс мастдайный» → "Life sux, must die".
 - Загадка на языке гоши — слова транслитом, логика разбора (Path353b) сохраняется.
 - «Икая», «Убоинг», «Шухер», «Айбоо-Лиит» — транслит (отсылки слышны).
 - Крутой Уокер (рус. название сериала «Walker, Texas Ranger») → "Tough Walker"; «техасские рейнджеры» → "Texas Rangers".

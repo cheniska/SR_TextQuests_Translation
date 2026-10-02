@@ -1668,7 +1668,7 @@ ekup; Brigee Bardozze (ксенопарк); crossbow (ручной самост�
 | сварокок; трехногий пенчекряк-мутант; болотные термиты | svarokok; the three-legged mutant penchecrakus; swamp termites | Testing |
 | ай-ди-ди-кью-ди (чит-код) | eye-dee-dee-cue-dee | Testing (iddqd из Doom) |
 | шокер «Шухер»; компания «Айбоо-Лиит» (аптечки); «Пьер Кардамон» / «Валокордин Юдашкин» | the "Shukher" stun gun; "Aiboo-Liit"; "Pierre Cardamom" / "Valocordin Yudashkin" | Testing |
-| «Втыкилла» (напиток) | "Stabquila" | Testing (каламбур с текилой) |
+| «Втыкилла» (напиток) | "Vtequila" | Testing (ИСПРАВЛЕНО 2026-10-02: было Vtequila; по оф. DevTranslated) |
 | игра Master of Iike-Baana: The Dark Shadows of Evil Lord / The Evil Shadow Lord of Darkness | (как есть, латиницей в RU) | Testing |
 | язык гоши: «киддат панты», «пантова чуввыха», «киддат чуввых» | the Goshi language: "kiddat panty", "pantova chuvvykha", "kiddat chuvvykha" | Testing (загадка, транслит) |
 | Ведущий Шахманду; вертикс; штип | the Shakhmandoo Leader; vertix; shtip | Testing (по ванилле/глоссарию) |
@@ -1684,7 +1684,7 @@ ekup; Brigee Bardozze (ксенопарк); crossbow (ручной самост�
 | гаалец Нааклю Ко (биограф Кацапа); Бамбахчик (малок-подрывник) | Naaklyu Ko; Bambakhchik | Piratesnest |
 | клички: Лохнесс, Громила Дуб, Паранойис, Дрын Бывалый, Косяк | Loch Ness, Thug Oak, Paranoyis, Dryn the Seasoned, Joint | Piratesnest |
 | «Болотная ряска» (рахишианский коктейль); рахишианское стволовое дерево | "Swamp Duckweed"; the Rakhishian trunk tree | Piratesnest |
-| пиво «Махпельское темное»; втыкилла; малокское ядерное | "Makhpella Dark" beer; stabquila; Maloq Nuclear | Piratesnest (втыкилла — как "Stabquila" в Testing) |
+| пиво «Махпельское темное»; втыкилла; малокское ядерное | "Makhpella Dark" beer; vtequila; Maloq Nuclear | Piratesnest (втыкилла — vtequila по оф.; было vtequila, исправлено 2026-10-02) |
 | «Приключения капитана Полоскина»; писатель Тяп Ляп | "The Adventures of Captain Poloskin"; the writer Tyap Lyap | Piratesnest |
 | пароли шкафа: «Запеленговал металлоразведчик» / «И Полоскин отключил экран» | "The metal scout has taken a bearing" / "And Poloskin switched off the screen" | Piratesnest |
 | телепортер «ФэйДжоуль» / FeiДжоуль | FeiJoule | Piratesnest |
