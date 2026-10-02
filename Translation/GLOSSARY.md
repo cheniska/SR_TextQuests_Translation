@@ -1828,4 +1828,4 @@ ekup; Brigee Bardozze (ксенопарк); crossbow (ручной самост�
 | Пунца Чекуляска (пеленг-игрок); В. Комрадович, «Доомино. Все аспекты игры» | Puntsa Chekulyaska; V. Komradovich, "Doomino. All Aspects of the Game" | Doomino |
 | Потенциал Гармонии; Сын Гаала; Высшее Сознание; «амм» | the Potential of Harmony; a Son of Gaal; the Higher Consciousness; "amm" | Doomino |
 | тактики: «зоркий плеан», «слепой пенчекряк» («противопучеглазник»), «бездумный сбрасыватель», «фэянский гамбит», «красная жара», «хитрая енотовидная собака» | "keen-eyed plean", "blind penchecrakus" ("anti-goggle-eye"), "mindless dumper", "faeyan gambit", "red heat", "sly raccoon dog" | Doomino |
-| УБУЖ (Универсальный Безалкогольный Утолитель Жажды); терроноид; бакс (вид спорта) ; галакнига; «<FromPlanet>древ» | UNTQ (Universal Non-alcoholic Thirst Quencher); terronoid; buks; galabook; "<FromPlanet>woodworks" | Doomino |
+| УБУЖ (Универсальный Безалкогольный Утолитель Жажды); терроноид; букс (вид спорта); галакнига; «<FromPlanet>древ» | UNTQ (Universal Non-alcoholic Thirst Quencher); terronoid; buks; galabook; "<FromPlanet>woodworks" | Doomino |
