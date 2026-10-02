@@ -419,3 +419,16 @@ Prezhevalski → Prezhevalsky (Tomb); Grishhill → Grishkhill (Diehard); Sir Lo
 | полная Иикэ-Баана | a complete Iike-Baana | Прочее | Ikebana Par1-crit | 5 цветов × 3 цветка |
 | красный, жёлтый, зелёный, синий, фиолетовый (цветки) | red, yellow, green, blue, violet (flowers) | Прочее | Ikebana Par3-7 | КР1 purple |
 | спорткомитет; жюри; главный судья | sports committee; jury; chief judge | Организация | Ikebana Loc1-1, Loc4-1, Loc6-1 | |
+
+### Build (КР1, переведён заново 2026-10-02)
+| RU | EN | Кат. | Где | Комментарий |
+|---|---|---|---|---|
+| отделка (базы); отделано | finishing; finished | Прочее | Build Par4-1, Path14 | КР1 "decoration" |
+| консервация (постройки); законсервировать | mothballing; to mothball | Прочее | Build Loc45-1, Path155 | КР1 "conservation" |
+| комиссия (приёмочная) | the commission | Организация | Build QuestDescription | КР1 committee |
+| фаза активности (планеты) | activity phase | Прочее | Build Loc16-1 | |
+| меланитовая побелка | melanite whitewash | Предмет | Build Loc9-3, Path20b | |
+| защитная энергетическая субстанция; стабилизатор субстанции | protective energy substance; substance stabilizer | Предмет | Build Path158b | |
+| Малокское министерство стандартов | Maloq Ministry of Standards | Организация | Build Loc9-4 | |
+| плазменная винтовка | plasma rifle | Оружие | Build Path77b | |
+| прораб; младшие прорабы; секретарь | foreman; junior foremen; secretary | Должность | Build Loc1-1, Path3b, Loc2-1 | |

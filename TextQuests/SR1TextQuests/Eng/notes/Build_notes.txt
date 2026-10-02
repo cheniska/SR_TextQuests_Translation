@@ -1,0 +1,7 @@
+Build (КР1) - переведён заново с RU 2026-10-02 (92 уникальных из 192). КР1 - справочник терминов (forpost, Trigor, Gredd tumor, Great Book of Colonization, kindza - по глоссарию; американская орфография: tumor, Colonization).
+Время по RU: повествование в прошедшем (КР1 - настоящее); Loc2-4 «Вот уже и утро наступило», Loc36-6 «алые лучи предвещают» - как в RU.
+Блок «сирена + РАПОРТ» в Loc36-1..5 вставлен шаблоном (дословно одинаков).
+Check-ошибки КР1 (Loc45/48/49/50; Path34b/52b/69b; Path155/166/169/171) устранены.
+СМЫСЛ (ошибки КР1, исправлены переводом): Loc9-3 «меланитовая побелка отваливается» (КР1 "walls are all bare"); Loc36-1 «вбивали сваи и укрепляли балки»; Path131b «зарезан заточкой»; Path82b «ядовитое облако» (КР1 "yellow mist"); Path77b «голыми руками» (КР1 "hands and axes"); Loc16-1 «все рабочие отказались» (КР1 "professional builders").
+ТЕРМИНЫ: finishing (отделка), mothballing (консервация), the commission, activity phase, melanite whitewash, protective energy substance, substance stabilizer, Maloq Ministry of Standards, plasma rifle.
+Структура 0; check 0/0.
