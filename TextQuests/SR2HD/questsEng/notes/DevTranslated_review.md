@@ -246,3 +246,25 @@
 - **Par4-crit**: «потеряли сознание» → "lost conscience".
 - Loc63-3: «гоняли по системам пиратов» → "run around pirate systems" (смысл искажён); Loc1-1: «в зелёной рясе» → "cloak" (а Loc64-1 "cassock").
 - Опечатки: "You burrow", "al last", "You health", "waived", "get though it".
+
+## Pilot
+- **Loc89-1**: «добывать для пеленгов какой-то сертификат» → "some unofficial certificate for the Pelengs" (ок, добавлено "unofficial").
+- **Loc1-1**: имена адаптированы ("Dalany Highbrow", "Snipeman Hogger") — RU «Заумий», «Тырь Захапыч»; «Лоо-Хэн» → "Loho-Khan".
+- **Loc8-1**: «бежать в ближайший магазин за мешком носовых платков» — ок; "made a foozle to take it", "stringed himself up".
+- **Loc14-1**: «очередной неудачник» → "next looser"; Loc53-1: «Варево из морских трепыхуний» → "Lorelai with sea slatters" (бессмыслица).
+- **Loc59-1**: «Теперь осталось её дожать» → "Now we need to break the bridge".
+- **Loc121-1**: «капитан должен сам определить» → "the cap must define himself".
+- Loc120-x: "Stating point"; Loc1-1 "{2} scores minimum"; Loc81-1 «тренажёрный терминал» — "traini…" ок.
+- Разнобой: gobzaurus (здесь) / gobsaurus.
+
+## PirateClanPrison
+- **Главное**: EN — копия перевода Prison; 10 записей, где RU пиратской версии отличается, НЕ переведены заново (EN = Prison): Par4-crit, **Par7-crit** (радио: «с зоны откидывается…» → текст про досрочное освобождение), **Loc1-1** («продажные пиратские присяжные» → "The jury"), **Loc3-1** (речь начальника: «так было, пока наша планета была частью Коалиции…» → речь из Prison про исправление), Loc37-1 («за штурвалом корабля» → "attacking the Dominators"), Loc62-1 (сочинение «Наши бравые пираты»), **Loc105-1** (амнистия из-за захвата систем Коалиции пиратами → "re-election of the beloved president"), Path58b («заключённый» → "ranger"), Path90b («вензеля» → "ranger badge"), Path319b («знакомых» → "ranger friend").
+- check: Loc166-1, Path393b — потерян <Ranger>; Path391b — {40} → {100}.
+- Par9-2: «опущенный тип» → "a downcast"; Par5-2 "a wonky"; Path242 «Судью на мыло!!!» → "Show'em boy!!!" (вольно).
+- Loc3-1 (и в Prison): речь начальника переведена, но не совпадает по смыслу с RU (добавлено про книги и работу).
+- Loc17-1: «без света читать можешь» → "pass for a Batman" (адаптация).
+- Опечатки: "You health", "You whole body", "You intellect", "send a bullet", "you're your conduct", "intro non-traditional medicine", "a sent his bullet", "Penchekyrak".
+
+## Prison
+- RU = PirateClanPrison без пиратских правок; EN совпадает с EN PirateClanPrison (кроме записи Loc28-1). Те же опечатки и check-ошибки (Loc166-1: потерян <Ranger>).
+- Loc3-1: речь начальника тюрьмы переведена не по RU (EN добавляет про книги, работу, азартных игроков).

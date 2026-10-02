@@ -961,3 +961,41 @@ Prezhevalski → Prezhevalsky (Tomb); Grishhill → Grishkhill (Diehard); Sir Lo
 | дроид | druid (sic) | ошибка оф. |
 | компания MacroHard | MacroHard | = Muzon |
 | гравикар | gravicar | |
+
+### Pilot
+| RU | EN (оф.) | Комментарий |
+|---|---|---|
+| сертификат категории Z-45/6a | category Z-45/6a certificate | |
+| грузовые лайнеры типа Шаттлонов SLK-5; грузолайнер; грузотренажёр | Shattlon SLK-5 airfreighters; airfreighter; airfreighter trainer | |
+| Центр Сертификации | the Certificate Centre | |
+| фэянин Анит | Anit | |
+| гаалец Лоо-Хэн | Loho-Khan | строгий транслит: Loo-Khen |
+| далани Заумий (фэянин-теоретик) | Dalany Highbrow | адаптация «говорящего» имени |
+| Тырь Захапыч (человек-взяточник) | Snipeman Hogger | адаптация; строгий транслит Tyr Zakhapych |
+| Бигбуба (из отдела обработки информации) | Bugbubba (Document control department) | |
+| Айхарра Меддона (малокская планета?) | Aikharue Meddona | |
+| леди Круть, глава Всегалактического банка | Lady Tuff, Head of All-galactic bank | |
+| белуцианский лимон | Belucian lemon | |
+| стиль причёски «лец-хэффан» | "letz-heffan" | |
+| блюда: похлёбка из стручков антибийской тянучки; варево из морских трепыхуний; бульон из селезёнки егнода с семенами маритуманы; грибожабы; запупынки; хвостогребы в листьях ни-гу-гу; сок ягод бамбай-буги-ду; чулийская репа; настойка из габаняшек; карамарта | Antibian stickjaw pods hoosh; sea slatters; raggoon spleen broth with maritumana seeds; shroomtoads; umbikettes; tailpullers in hush-hush leaves; Bambai-boogie-due berry juice; Chulian turnip; Gablingkot; caramarta | меню столовой |
+| билет (экзаменационный) | test-paper | |
+| женосимуляторы | (≈) | |
+
+### Prison / PirateClanPrison
+| RU | EN (оф.) | Комментарий |
+|---|---|---|
+| тюрьма; начальник тюрьмы; сокамерник; заключённый (зэк) | prison / jail; the warden; cellmate; inmate / convict | |
+| пахан; блатной; местный авторитет; шестёрка; опущенный; стукач | the Don; respected criminal; local criminal authority; punk; downcast (sic); stoolie | |
+| баланда; «порция блатного»; «обед чемпиона» | skilly; "OG portion"; "champ dinner" | |
+| тараканьи бега; таракан / супертаракан; таракановоды | cockroach races; Cockroach / Super-Cockroach; roach-breeders | |
+| тараканы Янычар Третий, Рахишский Рысак, Пенчекряк Идеальный, Тамерлан (ученик Чингисхана) | Janizary the Third, Rakhish Runner, Penchekryak the Ideal, Tamerlane (apprentice of Tengiz Khan) | |
+| Шайтан-бабай | Sheitan-Babai | |
+| подкоп | sap / tunnel | |
+| кубик Рубика; дудка; магнитофон; пузырь спирта | Cube Puzzle / cube-puzzle; fife / pipe; tape recorder; bottle of alcohol | |
+| рагобамские жабы; певцы-куанавты (пеленгские) | Ragobam bullfrogs; quanaut-singers | |
+| Брехуша и Лапшивес (пеленгские имена) | Yapper and Bamster | |
+| трубка-плевалка | spitting-pipe | |
+| константа Капеота | the Capeot constant | |
+| Галактический Совет | the Galaxy Council | |
+| Рачехан (пират, клад трёхсотлетней давности) | Rachekhan | |
+| пиратские присяжные (PirateClanPrison) | — (оф. не переведено) | |
