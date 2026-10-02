@@ -919,3 +919,45 @@ Prezhevalski → Prezhevalsky (Tomb); Grishhill → Grishkhill (Diehard); Sir Lo
 | аэротакси | hover-taxi | ≠ aerocab (Jumper) |
 | стереотеатр; стереошоу | stereo-theatre; stereo-show | |
 | ноды (у доминаторов) | nodes | |
+
+### Olympiada
+| RU | EN (оф.) | Комментарий |
+|---|---|---|
+| «Клерки без границ» (соревнования офисных служащих) | Clerks without End | sic (≠ «без границ» = Without Borders) |
+| Ашот, Бибик, Вычет, Гомэр, Дзен (клерки, А–Д) | Ashot, Bibik, Cutter, Domer, Elfer | адаптация (A–E) |
+| Цвачек (пеленг-гид); великий Чвахер (убил последнего клисана в системе) | Tsvacek; the great Chvakher | строгий транслит: Tsvachek |
+| отель «Призмовый рай» | "Prism Paradise" | |
+| борьба (рартанская малокская); великий Рартан | (Rartan Maloq) wrestling; the Great Rartan | |
+| Шмякуш (болотные игры, пеленгское состязание) | Plumpush (swamping games) | |
+| энерголепка; крионовые перчатки | energy modelling; cryonic gloves | |
+| энциклопедика; энциклопедические обманки | Encyclopedica; Encyclopaedic Cheats | |
+| Иикэ-Баана (гаальская игра) | Iike-Baana | |
+| ваяние каменной скульптуры; киборгодром; драки воздуходубинами; виртуальное космическое ориентирование | Stone Sculpture Making; Cyborgdrom; Air bat Scuffles; Virtual Space Orientation | марафон (пятиборье) |
+| Репин-Акваданский (творец энерголепки) | Aquadan Matisse | адаптация |
+| следография; химореактивная поэзия | pathograthy (sic); chemical reaction poetry | |
+| далани Самимураками (фэянин-энциклопедист) | dalani Samimurakami | |
+| Айканаут (фэянин-учёный) | Aikanaut | |
+| добавка Хрям-Хрум (для пенчекряков) | Yum-Yum | |
+| «Дикие лякушшки» (хэчбольная команда); хэчинг (приём) | Wild Fruggiesss; hatching | |
+| энергин (таблетка) | energine | |
+| Форшмачек вульгарис | Forshmacek Vulgaris | |
+| аэробус; гравибот; плазмоэкран; плазморучка; криобутсы | airbus; graviboat; plasmoscreen; plasma pen; cryoboots | |
+| Галактическое содружество | the Galaxy Commonwealth | |
+| аквадановые цвета | aqua colours | |
+
+### Pachvarash
+| RU | EN (оф.) | Комментарий |
+|---|---|---|
+| пачвараш (священное животное: 3 ноги, 6 глаз) | pachvarash (мн. pachvarashes) | |
+| Священный Лякушатник | the Sacred Lyakushery | |
+| старший распределитель лякуша Бюр О'Крат | Chief Distributor lyakusha Buor O'Cratt | пародия «бюрократ»; строгий транслит Byur O'Krat |
+| Храм (административное здание) | the Temple | |
+| смена пола; разрешение на смену пола | change of sex; change of sex authorisation | |
+| стукачество (тягчайшее преступление у пеленгов) | whistling (sic) | ≠ "informer" (оф. Election); лучше informing / snitching |
+| ар (мера длины норы); чг (мера веса) | ar; hg | |
+| скальп; вождь | scalp; the Chief | |
+| цианютик (куст, ядовитый корень) | tsianutick | |
+| хелдас | helldas | ≠ heldas (наш, Bondiana) — оф. разнобой |
+| дроид | druid (sic) | ошибка оф. |
+| компания MacroHard | MacroHard | = Muzon |
+| гравикар | gravicar | |

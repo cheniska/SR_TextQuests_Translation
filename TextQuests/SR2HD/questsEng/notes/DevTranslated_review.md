@@ -223,3 +223,26 @@
 - Loc73-2/73-8/73-10: <clr> сдвинуты ("system of <clrEnd>").
 - Par2-2: «<> день» → "days"; Loc302-1: «так и не подали заявку» → "You forgot to check in".
 - Опечатки: "You lied in your room", "it least", "right a better", "witch allowed", "the crowed", "tow persons", "greet got the better", "You rating ahs", "You had a chance over a pint" (chat), "to very the performance", "You ear is pierced", "local hoodlums in you cell".
+
+## Olympiada
+- **QuestDescription**: «Клерки без границ» → "Clerks without End"; «только первое место» → "fist place".
+- **Loc80-1**: «команда планеты <ToPlanet>» → "a Peleng team" (раса додумана); **Loc80-3**: EN пустой.
+- **Loc47-3**: «великий человек и творец Репин-Акваданский» → "Human architect Aquadan Matisse"; «следография» → "pathograthy"; «с живописью» → "visual arts".
+- **Loc7-1**: «маленькими и худосочными» → "short"; «горошинами выкатываться» → "like hit balls".
+- **Loc19-3**: «эрудиция нормальная» → "IQ is normal" (≠ знания/интеллект — разные параметры).
+- **Loc47-1**: «Нет. Не рабоче-пролетарской» → "Not some trifling Sumo" (адаптация).
+- **Loc96-2**: блатная песня → ирландская "Whiskey in the Jar" (адаптация).
+- **Loc93-2**: «А мне на лишний ящик кинзы еженедельно капает» — пропущено.
+- Par39-1: «трезвы как стёклышко» → "as sober as a monkey"; Par39-5 «мертвецки пьяны» → "stoned".
+- Loc18-1: "Dress in cryonic gloves"; Loc1-1 «тихо летел» → "flying fast", "ready it" (read); Loc88-2 "Gleet all this for a lark"; Loc94-1 "By my mania"; Loc83-2 "fat bold Human"; Loc50-2 "loosing"; "penchekrayks… weight".
+
+## Pachvarash
+- **QuestDescription**: «вторым по тяжести преступлением после стукачества» → "after whistling" (бессмыслица; ср. Election "informer"); «change if sex».
+- **Loc57-1/57-2**: «Никакого дроида за вашей спиной» → "no druid".
+- **Loc60-1**: «вам и в голову не пришло искупаться… в болотце» — передано; «озеро раскалённой магмы» → "boiling lava" (ок); «it's great to be something but Peleng»; "soon we age going to steal".
+- **Loc63-8**: «В вашей норе всё по-прежнему» → "Everything has changed" (обратный смысл).
+- **Loc71-1**: «короткая нора» → "The hollow burrow".
+- **Par3-x**: «Длина норы» → "Burrow depth" (а в Loc60-1 подчёркнуто, что рыть надо было под углом, а не вертикально — «длина», не «глубина»).
+- **Par4-crit**: «потеряли сознание» → "lost conscience".
+- Loc63-3: «гоняли по системам пиратов» → "run around pirate systems" (смысл искажён); Loc1-1: «в зелёной рясе» → "cloak" (а Loc64-1 "cassock").
+- Опечатки: "You burrow", "al last", "You health", "waived", "get though it".
