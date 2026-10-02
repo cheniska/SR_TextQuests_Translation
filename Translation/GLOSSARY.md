@@ -1088,3 +1088,56 @@ Prezhevalski → Prezhevalsky (Tomb); Grishhill → Grishkhill (Diehard); Sir Lo
 | майор Угром (начальник охраны госпиталя) | Major Ugrom | |
 | дроидофобия | droidophobia | |
 | журнал «Гордость рейнджера» | "Ranger Pride" | = Evidence |
+
+### Shashki
+| RU | EN (оф.) | Комментарий |
+|---|---|---|
+| Галактический чемпионат по Гиперпрыгающим Плазмошашкам (ГППШ) | the Intergalactic Tournament in Hyper-jumping Plasma-checker(s) (HJPC) | |
+| горы Тыркавказа | the Tyrcaucases Mountains | |
+| турбоавтобус | turbobus | |
+| выставка «Идиотские изобретения»; «Светофор для дальтоников» | "Idiotic inventions"; "Traffic light for daltonians" | |
+
+### Sibolusovt
+| RU | EN (оф.) | Комментарий |
+|---|---|---|
+| (ухоногий) сиболусовт | (auropedal / leg-eared / long-eared) sibolusovtus (мн. sibolusovtuses) | ≠ sibolusoft (оф. Evidence) — разнобой; «ухоногий» переведён по-разному |
+| сим-трава (корень, настойка) | (sim-grass) | |
+| фирма «Буур и М» (оборудование для экспедиций) | "Bouhours and M" | |
+| поисковик «Yanxex» | Gloogle | адаптация |
+| «Строение биологических организмов» | "Animal Anatomy" | |
+| сказка «Тайна необитаемой планеты» | "The Secret of the Uninhabited Planet" | |
+| SV (стереовизор) | stereovision | |
+| Клисанская война | the Klissan war | |
+| хетчбол | (hatchball) | |
+
+### Ski
+| RU | EN (оф.) | Комментарий |
+|---|---|---|
+| сеть горнолыжных курортов | mountain-ski resorts system | |
+| трасса для новичков / для профессионалов / обычная | track for beginners / for pros / average track | |
+| подъёмник кресельный / кабиночный | ski lift with chairs / with cabins | |
+| трассоукладчики | tracklayers | |
+| менеджер по строительству (малок); заместитель (гаалец); бухгалтер (фэянин) | construction manager; deputy; accountant | |
+| сектор Перец | the Pepper sector | |
+| малокские табуретки | Maloq stools | = Muzon |
+
+### Sortirovka1
+| RU | EN (оф.) | Комментарий |
+|---|---|---|
+| военная сортировочная станция; главный сортировщик | military sorting (customs) station; chief sorter | |
+| составы; вагоны (с солдатами, оружием, топливом, техникой); пути | trains; personnel / weaponry / fuel / machinery cars; tracks | |
+| большие тягачи; тягачи «Аргберджер», «Тшайпью», «Тошарак», «Санлео», «Айсоу» | locotractors; Argberger, Tshaipyu, Tosharak, Sanleo, Isou | |
+| Борзухан (лякуша, пеленг) | Borzuhan | ≠ Borzukhan (оф. в квесте Borzukhan) — разнобой |
+| пиво «Machpella Dark» | Machpella Dark | |
+| ОС «Дорс» (Макрохард) | Macrohard Doors | ≠ MacroHard Nondows (Muzon) |
+| киберпанк-группа Blin 182; игра «Сиртет» | Blin 182; Sirtet | в Muzon Blin 182 → Drink 182 |
+| галакредиты | galacredits | |
+| плазмотанк | plasma tank | ≠ plasmatank / plasmotank (Election) |
+
+### SpaceLines
+| RU | EN (оф.) | Комментарий |
+|---|---|---|
+| компания «SpaceLines» (пассажироперевозки); лайнеры | SpaceLines; liners | |
+| Лякуша Толстосум (пеленг, директор) | Lyakusha Moneybags | адаптация |
+| Герасим Герасимович (глухонемой заместитель) | Gerasim Gerasimovich | |
+| ГОПБСТ — галактический отряд по борьбе с терроризмом | GCTU (Galactic Counterterrorism Unit) | |

@@ -340,3 +340,40 @@
 - QuestSuccessGovMessage: «Кроме имеющих более высокое звание пиратов» → "Except pirates who know more than you" (неверно — речь о звании).
 - Loc3-1: «стоило после этого сделать шаг вперёд» → "But it cost you to take a step forward" (ложный друг «стоило»); Loc8-1 «стоило вам разоружиться» → "so it was worth it to disarm yourself" (та же ошибка).
 - Loc5-1: «не дали себя сломить даже повторением малокских скороговорок за одним из охранников» → "you even repeated maloq tongue-twisters" (смысл перевёрнут).
+
+## Shashki
+- Loc4-1/10-1: картавость председателя («Зд'авствуйте») передана шепелявостью ("Hewo", "pwanet") — адаптация; «усатый» → "bearded" (Loc4-1, Loc10-1; в начале Loc4-1 — "with moustache").
+- Loc4-1: «Команда планеты <ToPlanet> провела недавно финальный матч» → "took part in the final game" (ок); «если хорошо проведёте» → "if you are a success after the game".
+- Path5b: «находится через одну шашку» → "situated in a checker" (неверно); «нечётным числом клеток» → "unequal number of squares" (неверно: odd).
+- Loc10-1: "which will defined"; Loc10-9 "right to a tag"; QuestDescription «Галактического» → "Intergalactic".
+
+## Sibolusovt
+- **Loc4-1**: «сквозь тучи проглянуло зелёное солнце» → "the yellow sun" (в Loc2-1 — зелёное, это сюжетная деталь).
+- **Термин**: «ухоногий сиболусовт» передан по-разному — auropedal, leg-eared, long-eared; сам зверь — sibolusovtus (в Evidence — sibolusoft).
+- check: одинаковый RU Path259/Path260 → "Continue to run away…" / "continue to run away…" (регистр).
+- Loc7-1: «Вы угрюмо посмотрели на мутное небо» → "the right dim sky".
+- Loc1-1: «Не шевелитесь, не говорите, не дышите… От этого ваша жизнь зависит» — ок; Par34-crit: «воздуха в ваших лёгких не осталось даже на донышке» → "even at the bottom" (буквально).
+- Loc150-1: «стояли ещё до Клисанской войны» → "even during the Klissan war".
+- Loc7-3: «прожечь пол» → "ignite the floor"; опечатки: "fragments of brink", "though about", "clear conscious", "that you die" (would die).
+
+## Ski
+- Loc57-1: «Вы культурно провели остаток дня в местном баре» → "Being a civilised individual"; «заснули как убитый» → "like a dog".
+- Loc57-3: «поднялись цены на малокские табуретки» → "they raised the Maloq stool market" (ок); "stereoTV" (≠ stereovision).
+- Loc8-1: "the restaurant constructed"; Loc13-1 "Your invited"; Loc57-2 "skies" (skis), "fell of".
+- Loc55-3: <clr> сдвинут ("holds 50 people" внутри <clr>).
+
+## Sortirovka1
+- **Path11b**: EN — чужой текст ("You pushed the lever with all your might…") вместо рассказа о завершении работы, расчёте заработка и предложении Борзухана (подработка за 3000 cr) — check: потеряна формула и <clr>.
+- check: Loc16-1 — осталась кириллица («Для включения счётчика…»).
+- QuestSuccessGovMessage: пропущена фраза «Устремился чайник вверх, корешок фуражкой задел…» (бессмыслица в RU, ок).
+- Loc13-1: «поскольку ты работаешь уже не на командование» → "since you're not a commanding officer" (неверно).
+- Loc17-1: «про какие-то лапки-усики» → "some sort of furry pet".
+- Имя: «Борзухан» → "Borzuhan" (в квесте Borzukhan оф. — Borzukhan).
+- Опечатки: "it's be easier", "took and swig", "If didn't already know", "to take to break down".
+
+## SpaceLines
+- check: Loc35-1 «{[p1]div1,5}» → «{[p1]div1.5}», Loc39-1 «{[p1]/1,2}» → «{[p1]/1.2}» — изменены формулы (возможен сбой вычисления в движке); Loc2-5 — потерян <clr>; Path51 — лишний <clr>.
+- Loc1-1: «Пожав друг другу руки, что было не так просто с четырёхруким оппонентом» → "which you found to be very confusing to do with Lyakusha" (потеряна четырёхрукость); «Глухонемой, — с небольшой иронией добавил он» — ирония перенесена на представление.
+- QuestDescription: «Не без финансовых вливаний от заинтересованных лиц» — опущено.
+- Loc2-3: «едва вы успели войти в кабинет и снять уличную одежду» → "before you had managed to get dressed".
+- Loc12-1: добавлено «half a minute of ogling» (нет в RU); Loc13-1: «встал по стойке смирно» → "stood up quietly".
