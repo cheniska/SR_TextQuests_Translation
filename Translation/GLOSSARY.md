@@ -1808,3 +1808,9 @@ ekup; Brigee Bardozze (ксенопарк); crossbow (ручной самост�
 | препараты: плинтусизин, пачрамбитол, парадубин, настойка устолбяки; нейрофугасная инъекция; нейроинтерференционные средства | plintusizine, pachrambitol, paradubine, ustolbyaka tincture; neurophougasse injection; neurointerference agents | Feipsycho |
 | доминаторский босс Текстон (выдумка рейнджера) | Texton | Feipsycho |
 | «Абсолютно упругое стекло ФэянТреск»; Gazenwagen2128506 | "Absolutely Elastic Glass FaeyanCrack"; Gazenwagen2128506 | Feipsycho |
+
+| Виктор Шмальц; бармен Глеб; мастер вождения Михалко Шумалько | Viktor Shmalts; Gleb; Mikhalko Shumalko | Taxist |
+| «Область Исторического Приближения» (заповедник прошлого) | the "Historical Approximation Area" | Taxist |
+| посёлки: Портово, Песчаник, Югол, Шахтинск, Статово, Малово, Грынино | Portovo, Peschanik, Yugol, Shakhtinsk, Statovo, Malovo, Grynino | Taxist |
+| гольдены (местная валюта; жарг. «шершавые», «вечно-жёлтые») | goldens ("scratchies", "ever-yellows") | Taxist |
+| гиносол; гинопровод; «Эквенторное. 3300 г.» (напиток) | ginosol; gino-line; "Ekventornoye. 3300" | Taxist |
