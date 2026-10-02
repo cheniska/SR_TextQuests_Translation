@@ -1747,3 +1747,16 @@ ekup; Brigee Bardozze (ксенопарк); crossbow (ручной самост�
 | кырыбнетика (оговорка) | kyrybernetics | Losthero |
 | ШПАКиК; «Увольвокскечу» | ShPAKiK; "Uvolvokskechu" | Losthero (авторы; пасхалка Loc35-1) |
 | баракко (стиль) | "barrakko" | Losthero |
+
+| генерал Громыхал; техник Фантом Дэр (малоки) | General Gromykhal; technician Fantom Der | Bomber |
+| Министерство Обороны и Нападения; Институт наступательной стратегии; проект «Невидимка» | Ministry of Defense and Offense; Institute of Offensive Strategy; Project "Stealth" | Bomber |
+| бомбардировщик-невидимка, самолет-невидимка | stealth bomber, stealth aircraft | Bomber |
+| газовые бомбы (капсулы с отравляющим газом); термические снаряды (плазменные заряды); сейсмические мины | gas bombs (toxic gas capsules); thermal shells (plasma charges); seismic mines | Bomber |
+| Паника / Разрушения / Смертность (параметры) | Panic / Destruction / Casualties | Bomber |
+| Горизонталь A…E; Вертикаль 1…5 (выбор сектора) | Horizontal A…E; Vertical 1…5 | Bomber |
+| «Золотой городок» (элитный квартал) | "Golden Town" | Bomber |
+| «Зеленорожие дьяволы» (хэчбольная команда); «Одноглазые и хромоногие Безухи» | "Green-Mugged Devils"; "One-Eyed and Lame-Legged Earless" | Bomber |
+| шантальское вино; дуремарские гиацинты | Shantal wine; Duremar hyacinths | Bomber |
+| «Mega-DOOM» (игра); Поединок Чести (у малоков) | "Mega-DOOM"; Honor Duel | Bomber |
+| как с пеленга шерсти (идиома) | about as useful as a peleng's fur | Bomber |
+| город «Титаник» | "Titanic" | Bomber |
