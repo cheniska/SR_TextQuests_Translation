@@ -1,0 +1,8 @@
+Ikebana (КР1) - переведён заново с RU 2026-10-02 (116 уникальных из 181). КР1 - справочник терминов.
+ИМЕНА (по правилу транслитерации; замечание пользователя 2026-10-02): господин Баал-Да -> Mr. Baal-Da (КР1 Sir Loo-Gan - выдумка КР1), Ка-Баан -> Ka-Baan (КР1 Waart-Hoog; Bank исправлен так же). Iike-Baana (решение пользователя, КР1 Eeke-Baana).
+Время по RU: повествование в прошедшем (КР1 - настоящее).
+Check-ошибка КР1 (Path23b/Path24b переведены по-разному) устранена.
+ИГРА СЛОВ: Path45 «внутренняя гармошка, в смысле - гармония» -> "inner harmonica - I mean, harmony"; Path53 «Лошадью ходи!» -> "Move your knight, your knight!" (КР1 убрал); Path56 «Заходи с козырей!» -> "Lead with your trumps!"; Path46 «как объевшийся неоном фэянец» -> "as violet as a Faeyan who has overdosed on neon".
+Loc8-1, Loc9-1 - в RU реплики без тире, сохранено.
+ТЕРМИНЫ: Galaxy Iike-Baana Championship, Iike-Baanist, Iike-Baanic philosophy, complete Iike-Baana, violet (КР1 purple).
+Структура 0; check 0/0.

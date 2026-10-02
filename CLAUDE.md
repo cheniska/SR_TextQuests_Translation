@@ -50,8 +50,8 @@ GLOSSARY.md, LORE_FACTS.md, удалить файлы `X.*` из `Translation/wo
 Правка готового Eng-файла (UTF-16): Python-скрипт: decode utf-16 → replace → писать `b'\xff\xfe'+s.encode('utf-16-le')`, затем `qtr.py check`.
 
 ## Текущее состояние (2026-10-02)
-- КР1 (SR1TextQuests): готово 22 из 25 (Penetrator, Bank, Boat, Menzols, Fishing, Bondiana, Casino, Commando, Diamond, Examen, Galaxy, Gobsaur, Hachball, Murder, Newflora, Poroda, Rush, Siege, Tomb, Gladiator, Diehard, Energy).
-- Осталось в КР1 (английский КР1 есть, нашей вычитки нет; check-ошибки в КР1-варианте): Build 3, Ikebana 1, Spy 2.
+- КР1 (SR1TextQuests): готово 23 из 25 (Penetrator, Bank, Boat, Menzols, Fishing, Bondiana, Casino, Commando, Diamond, Examen, Galaxy, Gobsaur, Hachball, Murder, Newflora, Poroda, Rush, Siege, Tomb, Gladiator, Diehard, Energy, Ikebana).
+- Осталось в КР1 (английский КР1 есть, нашей вычитки нет; check-ошибки в КР1-варианте): Build 3, Spy 2.
 - Перепроверка времён в Bank — выполнена 2026-10-02 (времена соответствуют RU, 4 мелкие правки). «гомока» → gomoka — принято пользователем.
 - Структура всех готовых квестов КР1 проверена `qtr_struct.py` — 0 расхождений.
 - АВТОРЕЖИМ (запрос пользователя 2026-10-02): переводить оставшиеся КР1 подряд (Diehard, Energy, Ikebana, Build, Spy), после каждого — коммит+пуш; спорное не спрашивать сразу, а копить здесь и выдать списком в конце. Оформление: `python3 qfinish.py ...` (см. шапку файла).

@@ -410,3 +410,12 @@
 Строгий транслит (х → kh, ж → zh, ц → ts, й → y, ё → yo, -ский → -sky); прежние КР1-варианты не использовать:
 Prezhevalski → Prezhevalsky (Tomb); Grishhill → Grishkhill (Diehard); Sir Loo-Gan → Mr. Baal-Da, Waart-Hoog → Ka-Baan (Ikebana, Bank); Jlobber → Zhlobber, Yaitsentner → Yaytsentner (Bank); Glyddl → Glydl (Casino); Catarina → Katarina, Hya → Khya, Ukaenk → Ukenk (Murder); Ruberher → Ruberkher, Pleher → Plekher, Tarahub → Tarakhub, Schlemelh → Shlemelkh (Siege); Sanych → Sanyoch (Rush); Katz → Kats (Spy).
 ОТКРЫТО (вопрос пользователю — пародийные имена): Qwerty/Ytsukeng (Murder), Jbond/Zhbond, Sholmes/Sholms, Popadopoulos/Popadopulos, Billinger/Billindzher (Bank); McCallister оставлен (одобрен).
+
+### Ikebana (КР1, переведён заново 2026-10-02)
+| RU | EN | Кат. | Где | Комментарий |
+|---|---|---|---|---|
+| Чемпионат Галактики по Иикэ-Баане; Чемпион Галактики | Galaxy Iike-Baana Championship; Galaxy Champion | Прочее | Ikebana QuestDescription | |
+| иикэ-баанист; иикэ-бааническая философия | Iike-Baanist; Iike-Baanic philosophy | Прочее | Ikebana QuestSuccessGovMessage, Path97b | |
+| полная Иикэ-Баана | a complete Iike-Baana | Прочее | Ikebana Par1-crit | 5 цветов × 3 цветка |
+| красный, жёлтый, зелёный, синий, фиолетовый (цветки) | red, yellow, green, blue, violet (flowers) | Прочее | Ikebana Par3-7 | КР1 purple |
+| спорткомитет; жюри; главный судья | sports committee; jury; chief judge | Организация | Ikebana Loc1-1, Loc4-1, Loc6-1 | |
