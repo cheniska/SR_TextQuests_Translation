@@ -1,3 +1,4 @@
 Galaxy (КР1) - переписан заново 2026-10-01 (330 уникальных из 357; КР1-английского не было). Время по RU: Loc4/5/7/12-16/26/27-28/35-47(частично)/59-63, Path-описания - настоящее; прочее повествование - прошедшее; речи - как в RU.
 ТЕРМИНЫ: Kuakish, Butterbroad (Джек в Loc1 / Джон в Path178 - Jack/John), Human Town, Dzukhallag, Revelin, amnesin, Swamp Herald, lyakusha, Supervision Office/Service, Supreme Supervisor, case (кейс), laptop.
 СМЫСЛ: 'титановые канделябры' - titanium candelabra (шутка сохранена); 'Все страньше и страньше' - Curiouser and curiouser (Алиса); орионский преферанс - Orion preference (black misere); 'Трахнуть ее!' - 'Bang her! Over the head with something heavy.'; двустишие про сортир переведено в рифму.
+Loc7-5 | ЕДИНООБРАЗИЕ | "Having taken one more glass" | "Having taken another glass" | 2026-10-02: снято предупреждение check (как Loc7-2).
