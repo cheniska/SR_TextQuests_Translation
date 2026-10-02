@@ -1,0 +1,7 @@
+Diehard (КР1) - переведён заново с RU 2026-10-02 (138 уникальных из 163). КР1 - справочник терминов (kalolic acid, cardiogenic effect, Grishhill - по глоссарию).
+Время по RU: повествование в прошедшем, записи в настоящем (Loc14-1, Loc22-1, Loc26-1, Loc36-1, Path11b, Path29b-34b, Path61b, Path79b) - как в RU.
+Check-ошибки КР1 (потерян <Ranger> в QuestSuccessGovMessage; Path29/32, Path30/33 переведены по-разному) устранены.
+СМЫСЛ (ошибки КР1, исправлены переводом): Loc41-1 «галогенный нож» (КР1 plasma blades); Path51b «Гарвард» (КР1 убрал); Path22 «Подгребать руками вверх» - КР1 "Steer down"; Path3b, Path6b «поняли, что ничего не поняли» - каламбур сохранён ("realized that you had not realized anything"); Loc1-1 «два раза выругались матом» - "swore twice".
+Path31b: в RU «с небольшим упреждением» при выборе «подальше перед мишенью» - оставлено как в RU (возможна ошибка автора, на логику не влияет).
+ТЕРМИНЫ: acid-kalolic medium, kalolic pressure, cardiogenic shock, halogen knife, suit-mask, aqualung, lift, the Gaalian mafia, SUBJECT.
+Структура 0; check 0/0.

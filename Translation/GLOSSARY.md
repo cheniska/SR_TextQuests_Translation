@@ -381,3 +381,13 @@
 | галло-наркотики | gallo-narcotics | Предмет | Gladiator Path134b | |
 | главный судья | the chief judge | Должность | Gladiator Par4-1 | (Верховный судья — Chief Judge) |
 | Галактические соревнования гладиаторов | the Galactic Gladiator Competition | Прочее | Gladiator Loc56-1 | |
+
+### Diehard (КР1, переведён заново 2026-10-02)
+| RU | EN | Кат. | Где | Комментарий |
+|---|---|---|---|---|
+| кислокалольная среда; калольное нагнетание | acid-kalolic medium; kalolic pressure | Прочее | Diehard Loc22-1, Loc25-1 | калольная кислота — kalolic acid (уже в глоссарии) |
+| кардиогенарный удар / эффект сердечного коллапса | cardiogenic shock / cardiac collapse effect | Прочее | Diehard Loc24-1, Loc28-1 | |
+| галогенный нож | halogen knife | Предмет | Diehard Loc41-1 | режет двери и стены; КР1 "plasma blades" — неверно |
+| скафандр-маска; акваланг; подъёмник | suit-mask; aqualung; lift | Предмет | Diehard Loc1-1 | КР1 "platform" для подъёмника |
+| гаальская мафия; гаальские силы безопасности | the Gaalian mafia; Gaalian security forces | Организация | Diehard Loc41-1, Loc28-1 | |
+| ИСПЫТУЕМЫЙ (обращение оператора) | SUBJECT | Интерфейс | Diehard Loc1-1 | капслок как в RU |
