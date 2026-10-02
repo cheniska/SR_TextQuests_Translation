@@ -1829,3 +1829,9 @@ ekup; Brigee Bardozze (ксенопарк); crossbow (ручной самост�
 | Потенциал Гармонии; Сын Гаала; Высшее Сознание; «амм» | the Potential of Harmony; a Son of Gaal; the Higher Consciousness; "amm" | Doomino |
 | тактики: «зоркий плеан», «слепой пенчекряк» («противопучеглазник»), «бездумный сбрасыватель», «фэянский гамбит», «красная жара», «хитрая енотовидная собака» | "keen-eyed plean", "blind penchecrakus" ("anti-goggle-eye"), "mindless dumper", "faeyan gambit", "red heat", "sly raccoon dog" | Doomino |
 | УБУЖ (Универсальный Безалкогольный Утолитель Жажды); терроноид; букс (вид спорта); галакнига; «<FromPlanet>древ» | UNTQ (Universal Non-alcoholic Thirst Quencher); terronoid; buks; galabook; "<FromPlanet>woodworks" | Doomino |
+
+| ГайдНет (Гайд); ИСС (информационная сеть сервера); узел, мост, порт, защитник/стражник; пользовательский / хакерский режим | GaidNet (Gaid); SIN (server information network); node, bridge, port, defender/guard; user / hacker mode | Gaidnet |
+| HackSense (ХакСенс); эксплоиты Shear, Sword, Jumper, Mirror, Blind, Graft; защитники Ivy-13, Dragon-4, StoneWall, Hydra-3, Gunner-7, Guardian-21; Post-AutoBot | HackSense; (латиница из RU — без изменений) | Gaidnet |
+| ментал (единица информации); загрузка мозга; тревога | mental; brain load; alarm | Gaidnet |
+| киберблоха; иллюзионные проекторы; микровидеокамеры; фазотрон; стокаторный жижометр; Дворец v13.2 | cyberflea; illusion projectors; micro video cameras; phasotron; stochator slurrometer; Palace v13.2 | Gaidnet |
+| Вовка / Василий Васильевич Пупкин (ID-13); Хи Ю Ань; Петр Иванов; Га Ноцри-Боо | Vovka / Vasily Vasilyevich Pupkin; Khi Yu An; Pyotr Ivanov; Ga Notsri-Boo | Gaidnet |
