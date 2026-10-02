@@ -2,6 +2,6 @@ Fishing (КР1) - переведён заново с RU 2026-10-02 (89 уник�
 Время по RU: повествование в прошедшем (КР1 был в настоящем); записи-состояния (Loc148-1, начало Loc149-*) и реплики - как в RU.
 ТЕРМИНЫ: Humanitarian Medical Bureau, graphenic mesotite, Lepraz, mertinium, Grezus Pond (КР1 Grezzus - транслит строже), fish inspector / fish protection service, Fish Protection Day, fibrogen charge (как fibrogen в Commando; КР1 Fibrogene bomb), cryocapsule (КР1 Crio-capsule), alkali pistol.
 СМЫСЛ (ошибки КР1, исправлены переводом): Loc133-1 «гроза доминаторов» - КР1 "dread of the Klissans" -> "the terror of the Dominators"; Path320b «щелочной пистолет» - КР1 "acid pistol" -> "alkali pistol"; Loc142-1/Loc154-1 «калоши» - КР1 "flip-flops" -> "galoshes"; Loc131-1 клерк дремал на выключенном терминале (КР1 - "dusty computer keyboard"); Loc168-1 «утопил его» - КР1 "I sank in the pond".
-ПАРОДИЯ/ИГРА СЛОВ: Loc165-1 «пеленги изобрели часовую стрелку» (рыба плывёт по часовой стрелке) -> "it was the Pelengs who invented the clock hand".
+ПАРОДИЯ/ИГРА СЛОВ: Loc165-1 «пеленги изобрели часовую стрелку» (рыба плывёт по часовой стрелке) -> "it was the Pelengs who invented clockwise" (решение пользователя 2026-10-02: абсурдное хвастовство, перекличка с "swim clockwise").
 Loc171-1..10: первая реплика одинакова, различие RU «а?» (1-5) / «а?!» (6-10) сохранено ("eh?" / "eh?!").
 Структура (qtr_struct.py) 0; check 0/0.
