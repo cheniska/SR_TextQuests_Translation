@@ -1757,6 +1757,6 @@ ekup; Brigee Bardozze (ксенопарк); crossbow (ручной самост�
 | «Золотой городок» (элитный квартал) | "Golden Town" | Bomber |
 | «Зеленорожие дьяволы» (хэчбольная команда); «Одноглазые и хромоногие Безухи» | "Green-Mugged Devils"; "One-Eyed and Lame-Legged Earless" | Bomber |
 | шантальское вино; дуремарские гиацинты | Shantal wine; Duremar hyacinths | Bomber |
-| «Mega-DOOM» (игра); Поединок Чести (у малоков) | "Mega-DOOM"; Honor Duel | Bomber |
+| «Mega-DOOM» (игра); Поединок Чести (у малоков) | "Mega-DOOM"; Duel of Honour (оф., Banket) | Bomber |
 | как с пеленга шерсти (идиома) | about as useful as a peleng's fur | Bomber |
 | город «Титаник» | "Titanic" | Bomber |
