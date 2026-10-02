@@ -1446,3 +1446,35 @@ ekup; Brigee Bardozze (ксенопарк); crossbow (ручной самост�
 | Йцукен (вместо Ленина) | Ytsuken | Domoclan (строгий транслит; Qwerty отклонено — меняет звучание) |
 | Красная книга | the Red Book | Domoclan |
 | Ковбой Мальборо | the Marlboro Man | Domoclan |
+
+## SR2HD Untranslated: Drugs (2026-10-02)
+| RU | EN | Квест |
+|---|---|---|
+| Кууча фон Юча (пеленг-промышленник, наркоделец) | Kuucha fon Yucha | Drugs (строгий транслит; «фон» → fon, сохраняет звучание пародии «куча вонюча»; ВОПРОС пользователю: fon или von) |
+| Мальчик (имя старого пеленга-слуги с протезом) | Boy | Drugs (имя-шутка: «Ни фига себе Мальчик?! Песок сыплется!» — переведено, на значении держится шутка; ВОПРОС пользователю) |
+| Глой Нусс (агент фэянской разведки) | Gloy Nuss | Drugs |
+| Гробб (хозяин трактира, человек); трактир «У гниющего Гробба» | Grobb; "Rotting Grobb's" | Drugs |
+| Грубб (полоумный автор задачки) | Grubb | Drugs |
+| Фрэд (тупой гаалец) | Fred | Drugs |
+| Грышш Ах (малок, начальник охраны); Глок (охранник) | Gryshsh Akh; Glok | Drugs |
+| лавочник Х-Люпь, уборщик Грязия, повар Ти-На; Великий Лякуша | the shopkeeper Kh-Lyup, the janitor Gryaziya, the cook Ti-Na; the Great Lyakusha | Drugs (логические задачи) |
+| лжец / говорящий правду / уникум | liar / truth-teller / unique | Drugs |
+| лякуша Борзухан (подпись на фото) | Lyakusha Borzukhan | Drugs (как в глоссарии оф.) |
+| глинобрюх (болотное животное; самка глинобрюха) | claybelly (female claybelly) | Drugs |
+| пленготерм (пеленгская мера длины) | plengotherm | Drugs |
+| универсальное противоядие | universal antidote | Drugs |
+| волшебное слово / пароль; шифр 16, 13, 18, 1, 17, 30 (ПАРОЛЬ) | magic word / password; Presto, cipher 19, 20, 5, 18, 16, 15 | Drugs (адаптация: 6 разных букв, перестановка по qmm та же; ВОПРОС пользователю) |
+| заклинания: Ахалай махалай…; Абра швабра кадабра; Сим-сим, сезам, откройся; Бамбара чуфара…; Крибли крабле бумс | Hocus-pocus, mumbo-jumbo; Abra-mopra-cadabra; Open, sesame!; Bambara-chufara, skoriki-moriki; Kribly-krably-boom | Drugs |
+| двери: «Два умника», «Человеческий детеныш», «Трое друзей» (зачёркнуто → «козлов»), «Взрывающийся малок», «Выход» | "Two Brainiacs", "Man-Cub", "Three Friends" (→ "Jerks"), "Exploding Maloq", "Exit" | Drugs |
+| таблички: «Большой начальник», «Отходы», «Лаборатория», «Спальня» | "Big Boss", "Waste", "Laboratory", "Bedroom" | Drugs |
+| магазины «Цветочек» (оружейный), «Всякая всячина» (старьёвщик) | "Little Flower", "Odds and Ends" | Drugs |
+| журнал «Шныряющие пеленги» | "Snooping Pelengs" | Drugs |
+| пеленгский напиток «Болотный удар» | "Swamp Punch" | Drugs |
+| Галактический Телеграф | the Galactic Telegraph | Drugs |
+| общегалактический язык | Galactic Common | Drugs |
+| упыри | ghouls | Drugs |
+| суперглюковый генератор | superglitch generator | Drugs |
+| десантный нож; гаальский пистолет с бесконечным боезапасом; стилет | commando knife; gaalian pistol with infinite ammo; stiletto | Drugs |
+| «ВСЕ НА БОРЬБУ С КОЛОРАДСКИМ ЖУКОМ!» | "EVERYONE TO THE FIGHT AGAINST THE COLORADO POTATO BEETLE!" | Drugs |
+| «Пасти порву, моргала выколю!!! Волки позорные!!!» («Джентльмены удачи») | "I'll tear your jaws off, gouge your peepers out!!! You lousy wolves!!!" | Drugs |
+| ЗЫ / ЗЗЫ | P.S. / P.P.S. | Drugs |
