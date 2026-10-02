@@ -1378,3 +1378,29 @@ ekup; Brigee Bardozze (ксенопарк); crossbow (ручной самост�
 | «БАХ!» (флажок дроида) | "BANG!" | Kidnapped |
 | прикинуться шлангом | play possum | Kidnapped (адаптация идиомы) |
 | «Слушаюсь, мой капитан!» | "Aye aye, my captain!" | Kidnapped |
+
+## SR2HD Untranslated: Diver (2026-10-02)
+| RU | EN | Квест |
+|---|---|---|
+| «Водолаз» (квест) | "Diver" | Diver |
+| экологическая организация «Зеленая радость» | environmental organization "Green Joy" | Diver |
+| исследовательская шхуна «Последняя надежда» | research schooner "Last Hope" | Diver |
+| подводная станция слежения 27-01 | underwater tracking station 27-01 | Diver |
+| ракетная шахта; техническая шахта | missile silo; maintenance shaft | Diver |
+| технический / контрольный / внешний шлюз | maintenance / control / outer airlock | Diver |
+| технический отсек; ракетный отсек; ангар | maintenance bay; missile bay; hangar | Diver |
+| центр управления | Control Center | Diver |
+| кают-компания | wardroom (как в Complex) | Diver |
+| люк-диафрагма; диафрагма | iris hatch; iris | Diver |
+| головка ракеты, боеголовка | warhead | Diver |
+| фал (контейнера) | tether | Diver |
+| ласты | fins | Diver |
+| проксиловая шашка | proxyl charge | Diver |
+| подводное терморужье; тепловой резак | underwater thermal rifle; heat cutter | Diver |
+| водолазный лом с сервоусилителем | servo-assisted diving crowbar | Diver |
+| ракета САСР-13 | SASR-13 missile | Diver |
+| батискаф В-14 «Линарис» | V-14 "Linaris" bathyscaph | Diver |
+| Терминал Б / В / Г (удалённый); терминал 4 (а)–(ж) | Terminal B / C / D (remote); terminal 4 (a)–(g) | Diver (буквы — порядковые: А,Б,В,Г → A,B,C,D) |
+| карта желтая / красная / серебристая | yellow / red / silver card | Diver |
+| «Устав гарнизонной и караульной службы» | "Garrison and Guard Duty Regulations" | Diver |
+| фирма «Блин да Медь» (зубные щётки; пародия на Blend-a-med) | "Blin-da-Med" | Diver (звучание сохраняет отсылку) |

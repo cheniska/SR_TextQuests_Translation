@@ -7,7 +7,7 @@
 Подсказки-черновики на английском: `0_квесты кр 2 тхт\qmm_to_translate\_преев\Новая папка\` (проверять по RU).
 
 ## SR2HD Untranslated — полностью на русском (todo)
-Colonization, Diver, Domoclan, Doomino, Drugs, Easywork, Evilgenius,
+Colonization, Domoclan, Doomino, Drugs, Easywork, Evilgenius,
 Faruk, Feipsycho, Filial, Forum, Glavred, Gluki, Kiberrazum, Losthero, Mafia, Megatest,
 Park, Pharaon, Photorobot, Piratesnest, Proprolog, Taxist, Testing, Tourists, Vulkan, Xenolog
 
@@ -31,6 +31,7 @@ ShuPrison(4), ShuQuest(7), XenoZeroSignalQuest(1) — todo; состав уто�
 | Complex | 2026-10-02 | 734 (665 уникальных) | ~10 | переведён с RU; загадки адаптированы (пароль live/evil, звуки r/p/t vs l/m/v); check 0/0; структура 0 |
 | Deadoralive | 2026-10-02 | 490 (435 уникальных) | ~10 | переведён с RU; Dzuhallag по ванилле (Galaxy исправлен); check 0/0; структура 0 |
 | Kidnapped | 2026-10-02 | 1484 (1337 уникальных) | ~15 | переведён с RU; самый большой квест (PHG); «Пёстрый Голубь» = Particolored Pigeon (авторский шифр); Makhpella по ванилле; check 0/0; структура 0 |
+| Diver | 2026-10-02 | 305 (281 уникальных) | переведён с RU; время по контексту RU; check 0/0, struct 0 |
 
 ## КР1 (SR1TextQuests) — вычитка готового английского (начато 2026-09-30)
 Задача: английский текст уже переведён в КР1; проверяем грамматику, смысл (сверка с RU), единообразие терминов; RU не меняем; qmm не трогаем.
