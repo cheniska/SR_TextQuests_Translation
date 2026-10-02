@@ -268,3 +268,30 @@
 ## Prison
 - RU = PirateClanPrison без пиратских правок; EN совпадает с EN PirateClanPrison (кроме записи Loc28-1). Те же опечатки и check-ошибки (Loc166-1: потерян <Ranger>).
 - Loc3-1: речь начальника тюрьмы переведена не по RU (EN добавляет про книги, работу, азартных игроков).
+
+## Pizza
+- **Loc10-6**: «Раньше фэяне питались неоном и минералами» → "Earlier on the Pelengs used to eat only neon and minerals" (раса перепутана; дальше в той же записи — Faeyans).
+- **Loc3-1**: «Народ и пицца неразделимы!!!» → "Freedom and pizzas for all!!!" (вольно); «палац» → "palace", но Path28 → "hotel".
+- **Loc10-1**: «Путаны» → "The prostates" (опечатка, нецензурный смысл!).
+- **QuestDescription**: «Для этого нужно, чтобы представитель… занял» → "In order to facilitate that a representative… won" (неграмотно).
+- Loc4-5: «Слушаю-с» → "Sire"; Loc10-4: "you call for the water" (waiter); Loc4-4: "beef stake".
+- check: Loc4-3 — лишний <ToPlanet>; Path78b — <clr> без <clrEnd>.
+- Par25-5 "You almost fed up"; Loc31-1 "What you reaction will be?"; Loc29-x «вы выиграли второй/третий приз!» → "!!!".
+
+## Player
+- Перевод в целом точный. Loc2-1: «если есть хоть малейшая вероятность того, что обертон определён неправильно» → "if there is just a small possibility of damaging it" (близко); "unicity".
+- Loc8-1: «показания… не позволяют точно определить» → "don't allow us to define" (потеряно «точно»); Loc8-2 «ткнём наугад» → "push by guess".
+- QuestDescription: «в течение <Day> дней» → "in <Day> days" (двусмысленно); Loc1-1 «как обычно, пропустили мимо ушей» ок.
+- Опечатки/пунктуация: "failed your mission..", "Your mission is failed", "Let's chose", "defining the overtone type.(that is".
+
+## Rally
+- **Имена**: «Егорыч» → "Igorych" (неверно; Yegorych); «Михаэль Шульман» → "Michael Schulmann" (≠ Foncers "Mikhael Shulman").
+- **Loc3-3**: «Только молодые очень, не вышло бы чего» → "They're just really young; it won't work" (искажено).
+- **Loc8-4**: «за двенадцатое место» → "twentieth place".
+- **Loc3-7**: «то пеленга интересного встречу» → "an interesting date with a peleng" (додумано).
+- **Loc8-1**: «Сверхбыстрый зверь для подготовленных пилотов» → "for training drivers".
+- **Loc10-3**: «Так бы и запустил ракету в дюзу» → "It's like launching a nozzle-tipped rocket" (бессмыслица); «пару штрихов» → "two racing stripes".
+- **Loc7-2**: «Парни придут ближе к началу» → "The guys are getting closer to the start line".
+- Loc3-6: «Если обходится без Адских Машин и роботов-убийц» → "We could really do without…" (смысл изменён).
+- Loc3-4: «Чего есть, того не миновать!» и пр. — шутки переданы вольно; Loc3-1 «как два пальца в бензобаке» → "As easy as fondling a gas tank".
+- Опечатки: "Here are you <Money> cr.", "you stammered as you took as you sat", "You cars", "doesn't your car needs", "highly morale image", "250-000 cr".

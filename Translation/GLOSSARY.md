@@ -999,3 +999,50 @@ Prezhevalski → Prezhevalsky (Tomb); Grishhill → Grishkhill (Diehard); Sir Lo
 | Галактический Совет | the Galaxy Council | |
 | Рачехан (пират, клад трёхсотлетней давности) | Rachekhan | |
 | пиратские присяжные (PirateClanPrison) | — (оф. не переведено) | |
+
+### Pizza
+| RU | EN (оф.) | Комментарий |
+|---|---|---|
+| чемпионат по приготовлению пиццы | the Pizza Tournament (pizza cooking tournament) | |
+| сеть ресторанов «Пицца-хак» | "Pizza-Hack" restaurant chain | |
+| палац «Гранд-Коктейль» | the "Grand Cocktail" palace | |
+| пеленгский шоу-балет «Жвырклац»; танец «Соблазнение девственницы» | Peleng show-ballet "Zhvirklatz"; "Seducing the Virgin" | ≠ zhvyrklats (наш) / phatklinks (оф. Election) — разнобой |
+| корреспондент Балдимир Компостер | Chill Doughnut'puke | адаптация |
+| Виро Нульф (человек); Глюк О'Наат (гаалец); Вкусь Выкусь (пеленг) | Viro Nulph; Gluck O'Naate; Bit Bitey | |
+| толщина; калорийность; «животность»; «рыбность»; «растительность»; экзотичность; эстетичность | thickness; calories; meatness; fishness; vegginess; exoticness; estheticness | параметры пиццы |
+| пушистые гамадрилы (земные обезьяны) | fluffy baboons | |
+| гравилеты-лимузины | gravihover-limousines | |
+| антигравитационная мегаволновка с активной абсорбцией | anti-gravitation megawave with active absorption | |
+| ультрафотонные светильники | ultra-photon lamps | |
+| гимн «Славься, бесстрашный рейнджер галактики» | "Glory-glory to the fearless rangers of the Galaxy" | |
+| иике-бааны (гаальские) | iike-baanas | |
+
+### Player
+| RU | EN (оф.) | Комментарий |
+|---|---|---|
+| DND-проигрыватель; DND-диски | DND-player; DND-disks | |
+| Музей Фэянской Технологии | the Museum of Faeyan Technology | |
+| прибор-настройщик; обертон; клетка | tuner; overtone; box | |
+| аэрокар | aerocar | |
+| система начальной настройки обертона | overtone primary setting system | |
+
+### Rally
+| RU | EN (оф.) | Комментарий |
+|---|---|---|
+| гонки олдсмобилей (машины на ДВС, 4 колеса, без антиграва) | old-school car races | |
+| Клим Егорыч (механик) | Klim Igorych | ≠ строгий транслит Yegorych (оф. ошибка) |
+| Святогор Корченица; Гамильтон Дудочкин; Эдуард Поллонсо (пилоты-люди) | Svyatogor Korchenitsa; Hamilton Dudochkin; Edward Pollonso | Korchenitsa ≠ Korchenitza (оф. Foncers) |
+| Михаэль Шульман | Michael Schulmann | ≠ Mikhael Shulman (оф. Foncers) — разнобой |
+| марки «Зубилло-999», «Бетта-Джульетта», «Поршень Аллигатор», «Суу-баару WRX STI SBR VO» | Studebumper, Betta Julietta, Gator Piston, Soobaru WRX STI SBR VO | |
+| малокские Бэ-Эм-Жэ; ФЕЙ-рарри (фэянские); Сии-троян (гаальские); «Ламбо-Джинни» | BMUUs; FAE-rarri; Seetroyan; Lambo Genie | |
+| Баа-стиаан Боо-эль (гаальский пилот) | Baastian Boo-el | |
+| «Малокософт» | Maloqsoft | |
+| фирма «ПеленгХак» | PelengHack | |
+| железные жупии (мини-колония); робот-нанитоид | iron zoopies; nanitoid (repair-robot) | |
+| поршни из ошмётков келлероидов (доминаторские материалы) | pistons from kelleroid scrap metal | |
+| кварковая бомба | quark bomb | |
+| электроника Wosh; диск сцепления REMBO; обвес «Кость Страха»; балка «Террон-style»; Космобритва | Wosh Electronics; REMBO; "Fear Bone"; Terron-style; space razors | |
+| розовый фэянский карбон | pink faeyan carbon | |
+| GE (команда/мастерская: Михаил Читер, Маньяк Росс, рейнджер Гамми) | GE (Mikhael Cheater, Madman Ross, ranger Gamma) | отсылка к разработчикам |
+| пит-борд; боксы | pit board; the pits | |
+| наушники из кожи гобзавра | (gobsaur-leather headset) | |
