@@ -100,7 +100,7 @@
 | лякуша; Верховный Лякуша | lyakusha; Chief Lyakusha | Casino, Hachball, Bank |
 | алкарис | alcaris | птичья раса с Ориона (Examen); Alkaris/alkaris — опечатка |
 | мензол, мензолы | menzol, menzols | Menzols; «кшонга» (как мензолы зовут чужака) → kshonga (мн. kshongas) |
-| дреди; Дрэдроунд | Dreaddy (Dreaddies); Draedrownd | Gladiator: полуразумные существа с хоботами |
+| дреди; Дрэдроунд | Dreaddy (Dreaddies); Dredround (2026-10-02: строгий транслит имени; КР1 Draedrownd) | Gladiator: полуразумные существа с хоботами |
 
 ### Общие термины
 | RU | EN | Квест |
@@ -193,7 +193,7 @@
 | Жбонд, Попадопулос, Грабанян | Jbond, Popadopoulos, Grabanyan | Bank |
 | Глыдл | Glyddl | Casino |
 | Клоск, Марадупель, В. Долбановский | Klosk, Maradupel, V. Dolbanovsky (имена транслитерируем, не адаптируем) | Hachball |
-| Йцохен, Тарон, Грок, Талан | Ytzokheng, Taron, Grock, Talan | Gladiator |
+| Йцохен, Тарон, Грок, Талан, Суэдэ Сан | Ytsokhen, Taron, Grok, Talan, Suede San (2026-10-02: строгий транслит; КР1 Ytzokheng, Grock) | Gladiator |
 | Катарина Фу, Бидон Помоев, далани Хья, од-далани Укэнк, Йцукенг | Catarina Fu, Bidon Pomoev, dalani Hya, od-dalani Ukaenk, Qwerty | Murder |
 | Тригор | Trigor | Build |
 | Эдиссон | Edisson | Energy |
@@ -366,3 +366,18 @@
 | цивилизация «великой энергетики» | the civilization of "great energy" | Прочее | Tomb Loc21-1 | КР1 "infinite energy" — неверно |
 | капсула сна; ксенокалькулятор | sleep capsule; xenocalculator | Предмет | Tomb Path45b, Loc1-1 | |
 | психобаланс; Великая философия | psychobalance; the Great Philosophy | Прочее | Tomb Loc17-1 | школьные предметы гаальцев |
+
+### Gladiator (КР1, переведён заново 2026-10-02)
+| RU | EN | Кат. | Где | Комментарий |
+|---|---|---|---|---|
+| черпало (оружие пеленгов) | scoop | Оружие | Gladiator Loc68-1 | |
+| дубина / булава (малоков) | club / mace | Оружие | Gladiator Loc68-1 | |
+| лучемёт | blaster | Оружие | Gladiator Loc75-1 | КР1 "plasma gun" |
+| сумка с грязью (оружие пеленгов) | bag of mud | Оружие | Gladiator Loc59-1 | |
+| ОХОТА (казнь-соревнование) | the HUNT / the hunt | Прочее | Gladiator Loc90-1, Loc96-par3-crit | |
+| соревнования по поеданию внутренностей (живых существ) | gut-eating competition (competition in eating the guts of living creatures) | Прочее | Gladiator Par3-crit, Path133b | КР1 "belly eaters" |
+| камеры самоистязания | self-torture chambers | Место | Gladiator Path158b | |
+| калоидная смола | kaloid resin | Предмет | Gladiator Loc96-1 | КР1 callouid tar |
+| галло-наркотики | gallo-narcotics | Предмет | Gladiator Path134b | |
+| главный судья | the chief judge | Должность | Gladiator Par4-1 | (Верховный судья — Chief Judge) |
+| Галактические соревнования гладиаторов | the Galactic Gladiator Competition | Прочее | Gladiator Loc56-1 | |
