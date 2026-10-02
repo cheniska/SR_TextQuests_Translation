@@ -100,7 +100,7 @@
 | лякуша; Верховный Лякуша | lyakusha; Chief Lyakusha | Casino, Hachball, Bank |
 | алкарис | alcaris | птичья раса с Ориона (Examen); Alkaris/alkaris — опечатка |
 | мензол, мензолы | menzol, menzols | Menzols; «кшонга» (как мензолы зовут чужака) → kshonga (мн. kshongas) |
-| дреди; Дрэдроунд | Dreaddy (Dreaddies); Dredround (2026-10-02: строгий транслит имени; КР1 Draedrownd) | Gladiator: полуразумные существа с хоботами |
+| дреди; Дрэдроунд | Dreaddy (Dreaddies); Dreadround (2026-10-02: строгий транслит имени; КР1 Draedrownd) | Gladiator: полуразумные существа с хоботами |
 
 ### Общие термины
 | RU | EN | Квест |
@@ -190,11 +190,11 @@
 | Жлоббер, Шлямбур, Яйцентнер, Биллинджер | Zhlobber, Shlyambur, Yaytsentner, Billinger | Bank |
 | Рене (Р.) Маккалистер, доктор | Rene (R.) McCallister, Dr. McCallister | Bank (Path54 «Р. Маккалистер», «доктор Маккалистер»), Menzols (Loc1-1 полное имя); мужчина — Rene, не Renee (КР1) |
 | Спинкертон, Шолмс | Spinkerton, Sholmes | Bank |
-| Жбонд, Попадопулос, Грабанян | Jbond, Popadopoulos, Grabanyan | Bank |
+| Жбонд, Попадопулос, Грабанян | Zhbond, Popadopoulos, Grabanyan | Bank |
 | Глыдл | Glydl | Casino |
 | Клоск, Марадупель, В. Долбановский | Klosk, Maradupel, V. Dolbanovsky (имена транслитерируем, не адаптируем) | Hachball |
 | Йцохен, Тарон, Грок, Талан, Суэдэ Сан | Ytsokhen, Taron, Grok, Talan, Suede San (2026-10-02: строгий транслит; КР1 Ytzokheng, Grock) | Gladiator |
-| Катарина Фу, Бидон Помоев, далани Хья, од-далани Укэнк, Йцукенг | Katarina Fu, Bidon Pomoev, dalani Khya, od-dalani Ukenk, Qwerty | Murder |
+| Катарина Фу, Бидон Помоев, далани Хья, од-далани Укэнк, Йцукенг | Katarina Fu, Bidon Pomoev, dalani Khya, od-dalani Ukenk, Ytsukeng | Murder |
 | Тригор | Trigor | Build |
 | Эдиссон | Edisson | Energy |
 | Гришхилл | Grishkhill | Diehard |
@@ -409,7 +409,7 @@
 ### Исправление имён по правилу транслитерации (2026-10-02, по замечанию пользователя)
 Строгий транслит (х → kh, ж → zh, ц → ts, й → y, ё → yo, -ский → -sky); прежние КР1-варианты не использовать:
 Prezhevalski → Prezhevalsky (Tomb); Grishhill → Grishkhill (Diehard); Sir Loo-Gan → Mr. Baal-Da, Waart-Hoog → Ka-Baan (Ikebana, Bank); Jlobber → Zhlobber, Yaitsentner → Yaytsentner (Bank); Glyddl → Glydl (Casino); Catarina → Katarina, Hya → Khya, Ukaenk → Ukenk (Murder); Ruberher → Ruberkher, Pleher → Plekher, Tarahub → Tarakhub, Schlemelh → Shlemelkh (Siege); Sanych → Sanyoch (Rush); Katz → Kats (Spy).
-ОТКРЫТО (вопрос пользователю — пародийные имена): Qwerty/Ytsukeng (Murder), Jbond/Zhbond, Sholmes/Sholms, Popadopoulos/Popadopulos, Billinger/Billindzher (Bank); McCallister оставлен (одобрен).
+ОТКРЫТО (вопрос пользователю — пародийные имена): Ytsukeng/Ytsukeng (Murder), Zhbond/Zhbond, Sholmes/Sholms, Popadopoulos/Popadopulos, Billinger/Billindzher (Bank); McCallister оставлен (одобрен).
 
 ### Ikebana (КР1, переведён заново 2026-10-02)
 | RU | EN | Кат. | Где | Комментарий |
@@ -446,3 +446,12 @@ Prezhevalski → Prezhevalsky (Tomb); Grishhill → Grishkhill (Diehard); Sir Lo
 | Microsoft United; MEGADOOM | Microsoft United; MEGADOOM | Организация/Прочее | Spy Loc34-1 | как в RU |
 | диспетчер космопорта; дежурный | spaceport dispatcher; duty officer | Должность | Spy Loc51-1, Loc88-1 | |
 | путана | hooker | Прочее | Spy Loc64-1 | |
+
+### Пародийные имена — решение пользователя 2026-10-02
+Принцип: если написание сохраняет отсылку и НЕ меняет звучание — отсылку сохраняем; если меняет звучание — строгий транслит (сохраняя отсылку, где можно).
+- Йцукенг → Ytsukeng (Murder; было Qwerty — меняло звучание).
+- Жбонд → Zhbond (Bank; было Jbond — «дж» вместо «ж»).
+- Шолмс → Sholmes, Попадопулос → Popadopoulos, Биллинджер → Billinger (Bank) — оставлены: звучание то же, отсылка (Holmes, Papadopoulos, Dillinger) сохранена.
+- Дрэдроунд → Dreadround (Gladiator; звучание оригинала + отсылка к dread/Dreaddy; КР1 Draedrownd).
+- дреди → Dreaddy, ТОЛЛОСУУМ → TOLLOSOOOM — оставлены (варианты: TOLLOSUUM строгий, TOLLOSOOM).
+- McCallister оставлен (одобрен).
