@@ -1604,3 +1604,27 @@ ekup; Brigee Bardozze (ксенопарк); crossbow (ручной самост�
 | «Крутой Уокер» | Walker, Texas Ranger | Proprolog (русское прокатное название сериала) |
 | Папа Ромский | the Pope of Rum | Proprolog (каламбур Римский + ром) |
 | ЦЕ2АШ5ОАШ | CEE-TWO-AITCH-FIVE-OH-AITCH | Proprolog (C2H5OH по буквам) |
+
+| Пузиленд; пузилендский | Puziland; Puzilandian | GLAVRED |
+| диктатор Лу-Пин-Дук; Чуке-Пукс; «Святой Пукс» | dictator Lu-Pin-Duk; Chuke-Puks; "Holy Puks" | GLAVRED |
+| Совет Цензоров: Мастер Гонский (Мастер-Гонский), Имбец фон Дауни, Однобраз Аяя, Ля-ле-Шмак, Туф-Туев | Council of Censors: Master Gonsky (Master-Gonsky), Imbets von Dauni, Odnobraz Ayaya, Lya-le-Shmak, Tuf-Tuev | GLAVRED |
+| Дун-Дук, Мунь-Чунь, Шакиш-Ма, Йопт, Дерде-Кефир, Анан-Ус, Хали-Гали | Dun-Duk, Mun-Chun, Shakish-Ma, Yopt, Derde-Kefir, Anan-Us, Khali-Gali | GLAVRED (регионы Пузиленда) |
+| Лякуша Биндюжник; Групер Мукей | the lyakusha Bindyuzhnik; Gruper Mukey | GLAVRED |
+| бар «У веселого космонавта»; «Новости Пузиленда» | "The Merry Cosmonaut" bar; "Puziland News" | GLAVRED |
+| Библиотека/Университет Значительной Пучности | Library/University of Considerable Bloatedness | GLAVRED |
+| рубрики: Новости, Рецензии, Железо, Внекомпьютерные игры, Игрострой, Юмор; Стиль, Дизайн | sections: News, Reviews, Hardware, Non-Computer Games, Game Dev, Humor; Style, Design | GLAVRED |
+| журналы: ИгроМандия, Страна Гидр, Великий Торчун, ПопСа игры, Гаме.СЕКСЕ | magazines: IgroMandia, Land of Hydras, The Great Stoner, PopSa Games, Gaame.SEXE | GLAVRED (пародии) |
+| «Дятли Долзен»; ДиректБакс12; InfoGoners Interactive; «Ночной Блокпост»; «Пакусы-Какусы» | "Woodpeckerz Must"; DirectBucks12; InfoGoners Interactive; "Night Checkpoint"; "Pakusy-Kakusy" | GLAVRED (пародии) |
+| БООМ III; Диаболо 666; МалёхаСофт; Лох-О-Трон; ПузиLend LTD | BOOM III; Diabolo 666; MalyokhaSoft; Lokh-O-Tron; PuziLend LTD | GLAVRED |
+| Кунгочи-Кошаши (мэтр игростроя) | Kungochi-Koshashi | GLAVRED (пародия на Хидео Кодзиму, транслит) |
+| КВМ (игра), премия КИВИМ | KWM ("KiWi Munching"), the KIWIM award | GLAVRED |
+| Тарды-Курлыев, Кен-Мун-Дак, Лук-Я-Навт, Поль-Ни-Голяк, Мальчи-Пальчи, святой Гадс, Фукс, Кукер | Tardy-Kurlyev, Ken-Mun-Dak, Luk-Ya-Navt, Pol-Ni-Golyak, Malchi-Palchi, Saint Gads, Fuks, Kuker | GLAVRED |
+| Сормаста; Пресногорье; Куимнане; Витасуге; озеро Пос-О-Гон; Громенвиль | Sormasta; Presnogorye; Kuimnane; Vitasuge; Lake Pos-O-Gon; Gromenvil | GLAVRED |
+| поселок Большие Овнища | the village of Great Dunghills | GLAVRED |
+| «Кама с Утра»; «Кругом дураки» | "Kama Soon-Tra"; "Round About Fools" | GLAVRED (каламбуры) |
+| Перкундерный Водрум; Гармульный Персель; «Заслуженный мАляр» | Perkunderous Vodrum; Garmulous Persel; "Honored House PAINTer" | GLAVRED (бессмыслица/каламбур) |
+| Шопенгунгер, Спигноза, Кахка; Тигран Худой «Гландиатор» | Schopenhunger, Spignoza, Kahka; Tigran Khudoy "Glandiator" | GLAVRED (пародии) |
+| характеристики дятла: болтун, ловкач, оптимист, долботок | chatterbox, dodger, optimist, pecktapper | GLAVRED |
+| напитки «Кристально чистая пустота» / «Кристальная чистота пустоты» | "Crystal Clear Void" / "Crystal Clarity of the Void" | GLAVRED |
+| «Коварство и морковь» | "Intrigue and Lovage" | GLAVRED (Шиллер; созвучие сохранено) |
+| палер (оружие) | paler | GLAVRED (неизвестное слово, транслит) |
