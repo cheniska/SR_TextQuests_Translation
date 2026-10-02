@@ -8,15 +8,15 @@
 | RU | EN | Кат. | Где | Статус / комментарий |
 |---|---|---|---|---|
 | Рейнджер | Ranger | Прочее | общий | оф. |
-| Малок | Maloq | Раса | общий | оф. |
-| Пеленг | Peleng | Раса | общий | оф. |
-| Гаалец | Gaalian | Раса | общий | оф.; у раздела «Гаал» — Gaal |
-| Фэянин | Faeyan | Раса | общий | оф. |
-| Человек | Human | Раса | общий | оф. |
-| Клисанин | Klissan | Раса | общий | оф. |
-| Доминаторы | Dominators | Организация | общий | оф. |
+| Малок | maloq | Раса | общий | оф.; расы со строчной — решение 2026-10-02 (ванилла) |
+| Пеленг | peleng | Раса | общий | оф.; строчные (2026-10-02) |
+| Гаалец | gaal (сущ.), gaalian (прил.) | Раса | общий | ванилла (2026-10-02; было Gaalian) |
+| Фэянин | faeyan (разг. fae) | Раса | общий | оф.; строчные (2026-10-02) |
+| Человек | human | Раса | общий | оф.; строчные (2026-10-02) |
+| Клисанин | klissan | Раса | общий | оф.; строчные (2026-10-02) |
+| Доминаторы | dominators | Организация | общий | оф.; строчные (2026-10-02) |
 | кредиты / cr | credits / cr | Единицы | общий | оф. |
-| Коалиция планет | Coalition of Planets | Организация | общий | оф.; проверить по уже переведённым квестам |
+| Коалиция планет | Coalition of Planets | Организация | общий | в переводах не встречалось (2026-10-02); «Коалиция/Содружество» → the Coalition, «Галактическое Содружество» → Interstellar Coalition |
 
 <!-- Новые строки добавлять ниже, по алфавиту RU не сортировать — дописывать в конец, чтобы видеть порядок появления. -->
 
@@ -61,14 +61,14 @@
 | крысокабан; мертвяки | ratboar; undead | Жаргон | Loc261-4 | зомби/скелет/волк — обычные |
 | пенчекряк (penchecrakus, мн. penchecrakuses), крямбусина, жвырклац, кракозябки, стреглячки, брюхозавр, гобзавр, лякуша | penchecrakus, kryambusina, zhvyrklats, krakozyabki, dragonflitters, bellysaur, gobsaur, lyakusha | Жаргон | Loc5-3.. | выдуманные слова — транслит.; стреглячки/брюхозавр адаптированы; гобзавр = Gobsaur из KR1 |
 | КДВ | Space Marines | Организация | Loc4-2 | космодесантные войска (пользователь) |
-| Содружество | Commonwealth | Организация | Path924b | не путать с Coalition of Planets |
+| Содружество | the Coalition (ПЕРЕРЕШЕНО 2026-10-02 по ванилле; было Commonwealth) | Организация | Path924b | полное «Галактическое Содружество» — Interstellar Coalition |
 | космолингва | Galactic Standard | Прочее | Loc86-1 | |
 | Втыкилла | vtequila (ПЕРЕРЕШЕНО 2026-10-02 по оф./ванилле; было Vtykilla) | Предмет | Loc28-1 | напиток |
 | Commercial Games | (как есть) | Организация | Path93b | владелец прав на "Master" |
 | Игрулечки | Gamesies | Предмет | Loc25-5 | игровой журнал |
-| Хэчбол | Hachball | Прочее | Loc25-3 | как в KR1 |
+| Хэчбол | hatchball (ПЕРЕРЕШЕНО 2026-10-02 по ванилле; было Hachball) | Прочее | Loc25-3 | |
 | Клисанин | Klissan | Раса | Loc25-3 | оф. |
-| Супермалок, Телекузик, Гиви Чертыхадзе, ксенопарк Хица | Supermaloq, Telekuzik, Givi Chertykhadze, Hitz's xenopark | Прочее | Path537.. | пародии/шутки; Чертыхадзе и Хица подтверждены пользователем (Хица — отсылка из другого квеста) |
+| Супермалок, Телекузик, Гиви Чертыхадзе, ксенопарк Хица | Supermaloq, Telekuzik, Givi Chertykhadze, Brigee Bardozze's xenopark (ПЕРЕРЕШЕНО 2026-10-02 по ванилле; было Hitz) | Прочее | Path537.. | пародии/шутки; Чертыхадзе и Хица подтверждены пользователем (Хица — отсылка из другого квеста) |
 | Хрепка (искажённая «Репка») | The Hturnip | Прочее | Path537 | пользователь |
 | патч 45.058 БУ | patch 45.058 BOO | Прочее | Path1068b | пользователь |
 
@@ -123,7 +123,7 @@
 | зубастость; агрессивность | toothiness (toothness — опечатка); aggressiveness (Agressiveness — опечатка) | Poroda |
 | фиброген | fibrogen | Commando |
 | кванзор; резерватор | quanzor; reservator | Energy |
-| калольная кислота; кардиогенарный эффект | kalolic acid; cardiogenic effect | Diehard |
+| калольная кислота; кардиогенарный эффект | calolic acid (ПЕРЕРЕШЕНО 2026-10-02 по оф. Driver; было kalolic); cardiogenic effect | Diehard |
 | неонизация | neonization (американская орфография; КР1 neonisation) | Murder |
 | глэп (наркотик) | glap | Murder |
 | опухоль Гред | Gredd tumour | Build |
@@ -216,7 +216,7 @@
 | Курс молодого шпиона (лингофон) | Young Spy Course | Предмет | Bank Loc13-1, Loc32-1 | без притяжательного "'s"; пародия на «курс молодого бойца» |
 | Болото здоровья (вегетарианский ресторан) | Health Swamp | Место | Bank Loc19-1 | варианты КР1 "Swamp of Health" не использовать |
 | Лечебные грязи (аптека) | Medicinal Mud | Место | Bank Loc19-1, Loc32-1 | КР1: Healing Muds — заменено |
-| янвелб | yanvelba | Напиток | Bank Loc4-1 | КР1 "voodka" — неверно |
+| янвелб | ekup (ПЕРЕРЕШЕНО 2026-10-02 по ванилле; было yanvelba) | Напиток | Bank Loc4-1 | КР1 "voodka" — неверно |
 | Аах-Да (синдром) | Aah-Yes syndrome | Термин | Bank Loc71-1 | транслит-вариант Aah-Da; КР1 "Aah-Yees" — опечатка |
 | темпоральный манометр | temporal manometer | Предмет | Bank Loc68-1, Loc69-1 | переносит малые объёмы материи назад во времени |
 | темпоральная амнезия | temporal amnesia | Термин | Bank Loc61-2, Loc69-1 | |
@@ -233,9 +233,9 @@
 | Галактический Кубок | Galactic Cup | Организация | Bank Path188b | хэчбол |
 | Полицейский Вестник Галактики | Police Herald of the Galaxy | Прочее | Bank Loc55-1 | |
 | «смена дежурных» | the guards change | Жаргон | Bank Par12, Path265, Loc62-1 | единая формулировка |
-| пеленгский (прил.) | Pelengan | Раса | Bank | Pelengan planets/standards/notions; "Peleng-style" оставлено |
+| пеленгский (прил.) | peleng (ПЕРЕРЕШЕНО 2026-10-02; было Pelengan) | Раса | Bank | peleng planets/standards; "Peleng-style" оставлено |
 | Резидент Оол | Resident Ool | Персонаж | Bank | не "Ool resident"/"the Ool resident"/"Oola" |
-| ручной самострел | hand-held dart gun | Предмет | Bank Loc102-1 | КР1 "hand-held shotgun" — неверно |
+| ручной самострел | hand crossbow (ПЕРЕРЕШЕНО 2026-10-02 по ванилле; было hand-held dart gun) | Предмет | Bank Loc102-1 | КР1 "hand-held shotgun" — неверно |
 | Троянец / Троянский конь | Trojan / Trojan Horse | Предмет | Bank | программа vs результат; метки "Set the X as the external/internal shell" |
 | Вирус В-киллер | B-killer Virus | Предмет | Bank | с заглавной V |
 | стобагзовая/пятидесятибагзовая купюра | 100-bugz / fifty-bugz bill | Единицы | Bank Loc100-1, Loc40-1 | <clr> сохранён |
@@ -255,7 +255,7 @@
 | RU | EN | Категория | Квест | Комментарий |
 |---|---|---|---|---|
 | Дуб О'Лом (капитан) | Dub O'Lom | Имя | Hachball Path175b | транслитерация |
-| хэч-хряп | hach-hryap | Прочее | Hachball Loc10-1 | пеленгская борьба — предок хэчбола |
+| хэч-хряп | hatch-hryap (2026-10-02; было hach-hryap) | Прочее | Hachball Loc10-1 | пеленгская борьба — предок хэчбола |
 | стадион «Макарана» | "Makarana" stadium | Место | Hachball Loc8-1 | пародия на «Маракану» |
 | «Контроль удачи» | "Luck Control" | Организация | Hachball | букмекерская контора Верховного Лякуши |
 | раздевалка | locker room | Прочее | Hachball | не changing room |
@@ -274,7 +274,7 @@
 | Рулон Обоев; корабль «Землянское Землячество» | Rulon Oboev; ship "Earthling Fellowship" (КР1 "Earthy Alliance") | Murder |
 | Коротышка Ли; шериф Джон Бэнкс | Shorty Lee; Sheriff John Banks | Murder |
 | далани / од-далани (титулы фэян); айоническая философия; Книга Позора | dalani / od-dalani (строчными перед именем); Aionic philosophy (КР1 Iaeonic); Book of Shame | Murder |
-| янвелб, гуанава (напитки) | yanvelba, guanava | Murder |
+| янвелб, гуанава (напитки) | ekup (было yanvelba), guanava | Murder |
 | Ветрогон (прозвище Саныча); Мракобес (пеленг); «Запорожец» (эмблема) | Windchaser; Mrakobes; Zaporozhets | Rush |
 | неонная органика / неофлора / неоники | neon-organic food / neon flora / neonics | Newflora |
 | Билли Боунс; Разис | Billy Bones; Razis | Newflora |
@@ -283,12 +283,12 @@
 | маскировочный экран; таксопарк | cloaking screen; taxi depot | Newflora |
 | пароли: зелёный шаракеш, пурпурный лякуша, белая ческа, красная пачрямба | green sharakesh, purple lyakusha, white cheska, red pachryamba | Newflora |
 | Тассил; Фалько; Рачехан | Tassil; Falco; Rachekhan | Bondiana |
-| хелдас | heldas (мн. heldases) | Bondiana |
+| хелдас | helldas (мн. helldases; 2026-10-02, было heldas) | Bondiana |
 | обруч-невидимка; ракетный пояс | invisibility hoop; jetpack | Bondiana |
 | Куакиш; Баттерброад; Хьюман-таун | Kuakish; Butterbroad; Human Town | Galaxy |
 | Верховный Надзиратель; Управление/Служба надзора | Supreme Supervisor; Supervision Office/Service | Galaxy |
 | Дзухаллаг | Dzuhallag (ванилла, 17; было Dzukhallag — исправлено 2026-10-02) | Galaxy, Deadoralive |
-| Откровин; амнезин | Revelin; amnesin | Galaxy |
+| Откровин; амнезин | Revelatin (2026-10-02, было Revelin); amnesin | Galaxy |
 | Золотая Пиявка с Водорослями (и Личинками) | Golden Leech with Seaweed (and Larvae) | Galaxy |
 | Болотный вестник | Swamp Herald | Galaxy |
 | Йомир; Зелиф; Рикшар; Крамер | Yomir; Zelif; Rikshar; Kramer | Diamond |
@@ -296,11 +296,11 @@
 | РГ-сейф | RG safe | Diamond |
 | "Стальной" банк | "Steel" Bank | Diamond |
 | "Селёдочная харчевня" | "Herring Tavern" | Diamond |
-| энерголечение | energy therapy | Diamond |
+| энерголечение | energy treatment (2026-10-02, было energy therapy) | Diamond |
 | креотитановый | creotitanium | Diamond |
 | неонные пушки | neon guns | Diamond |
 | Звёздный крикет (карточная игра); папаша Крукс | Star Cricket; Papa Kruks | Diamond |
-| кровавая кинза | Bloody Kindza | Diamond |
+| кровавая кинза | Bloody Kinza (2026-10-02, было Bloody Kindza) | Diamond |
 | Ли Фунг | Lee Fung | Diamond |
 | гомока (вымышл. материал, "не из гомоки сделаны") | gomoka (РЕШЕНО пользователем 2026-10-02) | Diamond |
 | лялякуш (пеленгский народный танец) | lyalyakush | Diamond |
@@ -385,7 +385,7 @@
 ### Diehard (КР1, переведён заново 2026-10-02)
 | RU | EN | Кат. | Где | Комментарий |
 |---|---|---|---|---|
-| кислокалольная среда; калольное нагнетание | acid-kalolic medium; kalolic pressure | Прочее | Diehard Loc22-1, Loc25-1 | калольная кислота — kalolic acid (уже в глоссарии) |
+| кислокалольная среда; калольное нагнетание | acid-calolic medium; calolic pressure (2026-10-02, было kalolic) | Прочее | Diehard Loc22-1, Loc25-1 | калольная кислота — calolic acid |
 | кардиогенарный удар / эффект сердечного коллапса | cardiogenic shock / cardiac collapse effect | Прочее | Diehard Loc24-1, Loc28-1 | |
 | галогенный нож | halogen knife | Предмет | Diehard Loc41-1 | режет двери и стены; КР1 "plasma blades" — неверно |
 | скафандр-маска; акваланг; подъёмник | suit-mask; aqualung; lift | Предмет | Diehard Loc1-1 | КР1 "platform" для подъёмника |
@@ -492,17 +492,17 @@ Prezhevalski → Prezhevalsky (Tomb); Grishhill → Grishkhill (Diehard); Sir Lo
 | Ферджис Пунолоп; Николай (Коля) Никольский; Пузатько Б.И.; Грахх (малок) | Ferdzhis Punolop; Nikolai (Kol) Nikolsky; Puzatko B.I.; Grakhkh | Massacri (строгий транслит) |
 | Азиа (местная валюта) | Azia | Massacri |
 | город Теурран; улица Домостроителей; станция Квардемара | Teurran; Housebuilders Street; Kvardemara station | Massacri |
-| пиво «Махпелла Тёмное» / «Mahpella Dark»; Махпелла | "Mahpella Dark"; the Mahpella | Massacri |
+| пиво «Махпелла Тёмное» / «Mahpella Dark»; Махпелла | "Makhpella Dark"; the Makhpella (2026-10-02, было Mahpella) | Massacri |
 | костюм-симбиот; симбиот; биокостюм | symbiote suit; symbiote; biosuit | Massacri |
 | звуковик; звуковой излучатель; звуковой бластер | sonic gun; sonic emitter; sonic blaster | Massacri |
 | плазмограната («жидкое пламя»); шест (из стеклопластика); метательный нож | plasma grenade ("liquid fire"); staff; throwing knife | Massacri |
 | мультиувеличитель / мультиумножитель / мультиусилитель силы | strength multi-amplifier / multi-amplifier | Massacri |
-| лучемёт (тяжёлый, ионный) | beam gun (heavy, ion) | Massacri |
+| лучемёт (тяжёлый, ионный) | blaster (heavy, ion) (2026-10-02, было beam gun) | Massacri |
 | КВАР; ультраферон; кспотомас | KVAR; ultraferon; kspotomas | Massacri (болезни; КВАР не расшифрован — вопрос пользователю) |
 | кьюттон (ед. силы удара) | kyutton | Massacri |
 | завлаб | lab head | Massacri |
 | психушка; психбольница/психиатрическая лечебница | madhouse; psychiatric hospital | Massacri |
-| стереовидение; стереовизор; биоэкран; биокарта памяти; гиперлифт; сталелонн; гравикар; плазмолёт | stereovision; stereovisor; bioscreen; bio memory card; hyperlift; steelon; gravcar; plasma plane | Massacri |
+| стереовидение; стереовизор; биоэкран; биокарта памяти; гиперлифт; сталелонн; гравикар; плазмолёт | stereovision; stereovision (set) (было stereovisor); bioscreen; bio memory card; hyperlift; steelon; gravcar; plasma plane | Massacri |
 | бомжи (параметр) | the bums | Massacri |
 | «Сбей доминатора», «Замочи Рачехана» (игры) | "Shoot Down the Dominator", "Whack the Rachekhan" | Massacri |
 | Гаалдок | Hahaldok (РЕШЕНО пользователем 2026-10-02) | Massacri |
@@ -510,6 +510,7 @@ Prezhevalski → Prezhevalsky (Tomb); Grishhill → Grishkhill (Diehard); Sir Lo
 | Террон, Блазер, Келлер (доминаторы) | Terron, Blazer, Keller | Massacri Path2b |
 
 ## SR2HD DevTranslated — термины из официального перевода разработчиков (собрано 2026-10-02)
+**ВНИМАНИЕ (2026-10-02):** таблицы этого раздела — журнал ИСХОДНОГО состояния оф. файлов и прежних сравнений (`≠ … → берём оф.`). Действующие формы — в разделах «РЕШЕНИЕ пользователя по сверке с ванилла», «Разнобой терминов — РЕШЕНИЕ» и «Правка оф. DevTranslated» ниже (они важнее строк этого раздела; напр. penchecrakus, Book of Shame, dalani, Borzukhan, Yegorych, sibolusovtus уже исправлены и в оф. файлах).
 Источник: пары `TextQuests/SR2HD/questsRus|questsEng/DevTranslated` (42 квеста, перевод разработчиков SR2HD).
 Цель — справочник для перевода квестов `Untranslated`: так термины звучат в официальной англ. версии игры.
 Пометки: `≠` — расходится с нашим глоссарием/правилами. **РЕШЕНИЕ пользователя 2026-10-02: при расхождении берём форму DevTranslated**
@@ -1194,7 +1195,7 @@ Prezhevalski → Prezhevalsky (Tomb); Grishhill → Grishkhill (Diehard); Sir Lo
 | Ассоциация Киллеров | (Assassins' Association) | |
 
 ## ИТОГ SR2HD DevTranslated: выбранные оф. формы и замены в наших переводах (2026-10-02)
-Правило пользователя: при расхождении — в пользу DevTranslated; внутренний разнобой разработчиков решается по частоте во всех 42 файлах DevTranslated (`*_eng.txt`). Колонка «Наши вхождения» — где и сколько раз наша форма встречается в наших переводах (КР1 Eng, Moi_eng, Rev: Cybersport/Massacri). **Замены ещё НЕ сделаны — ждут подтверждения пользователя.**
+Правило пользователя: при расхождении — в пользу DevTranslated; внутренний разнобой разработчиков решается по частоте во всех 42 файлах DevTranslated (`*_eng.txt`). Колонка «Наши вхождения» — где и сколько раз наша форма встречается в наших переводах (КР1 Eng, Moi_eng, Rev: Cybersport/Massacri). **УСТАРЕЛО: таблица — исторический черновик; замены сделаны по решениям ниже (часть предложений отменена, см. «РЕШЕНИЕ пользователя по сверке с ванилла»).**
 
 | RU | Наша форма | Оф. варианты (частота) | Предлагаемая форма | Наши вхождения |
 |---|---|---|---|---|
@@ -1437,7 +1438,7 @@ ekup; Brigee Bardozze (ксенопарк); crossbow (ручной самост�
 | канал «Дом-ТВ», реалити-шоу «Дурдом-2» | "House-TV", "Madhouse-2" | Domoclan (пародия на «Дом-2», игра дом/дурдом сохранена) |
 | болезни: Ака Сециянка, Новый Молизон, Луатанация, Великий Малососус | Aka Sezyanka, New Molizone, Luatanza, Grand Malosausus | Domoclan (ванилла) |
 | типичная инфузория (выдуманная болезнь) | typical infusorian | Domoclan |
-| корабли доминаторов: штипы, меноки, смерши, урганты, эквенторы; вертиксы; ноды; «домики» | shtips, menocs, smershes, urgants, equantors; vertixes; nodes; "doms" | Domoclan (ванилла: Equantor, Urgant, Smersh, Menoc, Shtip, Bertor; vertix — DevTranslated) |
+| корабли доминаторов: штипы, меноки, смерши, урганты, эквенторы; вертиксы; ноды; «домики» | shtips, menocs, smershes, urgants, equantors; vertixes; nodes; "dommies" (было "doms"; как в Kidnapped) | Domoclan (ванилла: Equantor, Urgant, Smersh, Menoc, Shtip, Bertor; vertix — DevTranslated) |
 | келлерята | Keller's little ones | Domoclan |
 | ВКЧД, МКЧД; «ФНС!» | VKChD, MKChD; "FNS!" | Domoclan (аббревиатуры не расшифрованы — вопрос) |
 | малокская техника: «Киберпаук», «Марсианский Скорпион», «Бог Войны», «Горн-4: Крыло Ангела», «Горн-5: Падший Ангел», RMC 320 «Шагающая Смерть», яхта «Альбатрос», «Платформа 22» | "Cyberspider", "Martian Scorpion", "God of War", "Gorn-4: Angel Wing", "Gorn-5: Fallen Angel", "RMC 320 "Walking Death", Space Yacht "Albatross", "Platform 22" | Domoclan |
@@ -1500,8 +1501,8 @@ ekup; Brigee Bardozze (ксенопарк); crossbow (ручной самост�
 | пиво «Синюшник»; ручка фирмы «Кляксэр» | "Sinyushnik" beer; the "Klyakser" pen company | Easywork |
 | психоневрологический диспансер «Лиловый одуванчик» | the "Lilac Dandelion" psychoneurological clinic | Easywork |
 | пароль «пассворд»; слово «чтобтысдох» | the password "password"; the word "dropdeadyoujunk" | Easywork |
-| БД MacroHard Nondows 3.14 Access | MacroHard Nondows 3.14 Access | Easywork |
-| галактическая почта; робот-информатор; турцентр; гравитакси; гравимобиль; флаер; поезд на гравиподушке | galactic post office; information robot; tourist center; gravitaxi; gravimobile; flyer; gravity-cushion train | Easywork |
+| БД MacroHard Nondows 3.14 Access | Macrohard Nondows 3.14 Access (по ванилле Macrohard) | Easywork |
+| галактическая почта; робот-информатор; турцентр; гравитакси; гравимобиль (= гравикар); флаер; поезд на гравиподушке | galactic post office; information robot; tourist center; gravitaxi; gravicar (было gravimobile; как в Amnesia); flyer; gravity-cushion train | Easywork |
 | лжец / правдивец / хитрец (чередует правду и ложь) | liar / truth-teller / trickster | Easywork |
 | легкий/тяжелый пехотинец, коммандо, снайпер, электронщик; взрывчатка, граната с газом, ЭМИ-бомба, электронная разведка, десантный флаер | light/heavy infantryman, commando, sniper, electronics expert; explosives, gas grenade, EMP bomb, electronic recon(naissance), landing flyer | Easywork |
 | ругательства робота: «Гобзавр опущенный!», «Альдегид твою перекись водорода через бензоат натрия!» | "You degraded gobsaur!", "Aldehyde your hydrogen peroxide through sodium benzoate!" | Easywork |
@@ -1561,7 +1562,7 @@ ekup; Brigee Bardozze (ксенопарк); crossbow (ручной самост�
 | бар «Старая берлога»; пиццерия «Ахтунг»; оружейный салон «Спусковой крючок»; закусочная «Макмак» | the "Old Den" bar; the "Achtung" pizzeria; the "Trigger" gun salon; the "MacMac" diner | Mafia |
 | взломщик (тактильный механический), сканер | cracker (tactile mechanical), scanner | Mafia |
 | КЛИЗМА (Кровевосстанавливающая Лейкоцитная Иммуногенная Защитная Медицинская Аптечка) | ENEMA kit (Erythrocyte-Normalizing Emergency Medical Aid kit) | Mafia (акроним-шутка адаптирован) |
-| протопузырь; кисель; Морской Обед | protobubble; kissel; Seafood Lunch | Mafia |
+| протопузырь; кисель; Морской Обед | protobladder (оф. Xenopark; было protobubble); kissel; Seafood Lunch | Mafia |
 | Махпелла темное; Звездный ликер; коктейль «Ухйооо»; малокское твердокрасное | Makhpella Dark; Star Liqueur; the "Whoooa" cocktail; Maloq Hard Red | Mafia |
 | пиво «Старомалок»; Зеленый Сюрприз; втыкилла | "Old Maloq" beer; Green Surprise; vtequila | Mafia (vtequila — по оф.) |
 | Ерм-ашель; суп «Убойный»; бутерброд с хлебом | Erm-ashel; "Killer" soup; bread sandwich | Mafia |
@@ -1595,7 +1596,7 @@ ekup; Brigee Bardozze (ксенопарк); crossbow (ручной самост�
 | гравимот; пневмодрезина; аппарат АН (незначительности) | gravimot; pneumatic railcar; IA (insignificance apparatus) | Proprolog |
 | слизь (сдаётся на научные базы) | slime | Proprolog |
 | ртутный / ламповый / полупроводниковый радар; пятипалый захват; генератор защиты «Альфа»/«Бета»; промлазер; насадка(-на-насадку) | Mercury / Vacuum tube / Semiconductor radar; five-fingered grabber; "Alpha"/"Beta" shield generator; industrial laser; attachment(-for-the-attachment) | Proprolog |
-| Генератор помех; Кварковая бомба; перегонный аппарат | Jammer; Quark bomb; still | Proprolog |
+| Генератор помех; Кварковая бомба; перегонный аппарат | Noise Generator (оф. Robots: noise generator; было Jammer); Quark bomb; still | Proprolog |
 | двадевизор | 2D-visor | Proprolog (пародия на стереовизор) |
 | венерианский пирог; Центральная Кондитерская; госпиталь «Хелфер»; кефронская известь | Venusian pie; the Central Confectionery; the "Helfer" hospital; Kefron lime | Proprolog |
 | крейсер «Ганнибал»; эсминцы «Петр Первый», «Николай Второй», «Александр Третий», «Иван Четвертый»; корабли 'Воробец', 'Рождественская корова'; «Алкарис» | the "Hannibal"; "Peter the First", "Nicholas the Second", "Alexander the Third", "Ivan the Fourth"; 'Vorobets', 'Christmas Cow' | Proprolog |
@@ -1665,7 +1666,7 @@ ekup; Brigee Bardozze (ксенопарк); crossbow (ручной самост�
 | лесной рейнджер Бен (малок) | the forest ranger Ben | Testing |
 | Айроон Вууд-Кааттер (гаалец с пилой) | Ayroon Wuud-Kaatter | Testing (отсылка к Iron Woodcutter, транслит в гаальском стиле) |
 | астролайнер «Убоинг-747» | the astroliner "Uboing-747" | Testing (Boeing + «убой», транслит) |
-| сварокок; трехногий пенчекряк-мутант; болотные термиты | svarokok; the three-legged mutant penchecrakus; swamp termites | Testing |
+| сварокок; трехногий пенчекряк-мутант; болотные термиты | swarokok (оф. Svarokok/STQ; было svarokok); the three-legged mutant penchecrakus; swamp termites | Testing |
 | ай-ди-ди-кью-ди (чит-код) | eye-dee-dee-cue-dee | Testing (iddqd из Doom) |
 | шокер «Шухер»; компания «Айбоо-Лиит» (аптечки); «Пьер Кардамон» / «Валокордин Юдашкин» | the "Shukher" stun gun; "Aiboo-Liit"; "Pierre Cardamom" / "Valocordin Yudashkin" | Testing |
 | «Втыкилла» (напиток) | "Vtequila" | Testing (ИСПРАВЛЕНО 2026-10-02: было Stabquila; по оф. DevTranslated) |
@@ -1830,7 +1831,7 @@ ekup; Brigee Bardozze (ксенопарк); crossbow (ручной самост�
 | тактики: «зоркий плеан», «слепой пенчекряк» («противопучеглазник»), «бездумный сбрасыватель», «фэянский гамбит», «красная жара», «хитрая енотовидная собака» | "keen-eyed plean", "blind penchecrakus" ("anti-goggle-eye"), "mindless dumper", "faeyan gambit", "red heat", "sly raccoon dog" | Doomino |
 | УБУЖ (Универсальный Безалкогольный Утолитель Жажды); терроноид; букс (вид спорта); галакнига; «<FromPlanet>древ» | UNTQ (Universal Non-alcoholic Thirst Quencher); terronoid; buks; galabook; "<FromPlanet>woodworks" | Doomino |
 
-| ГайдНет (Гайд); ИСС (информационная сеть сервера); узел, мост, порт, защитник/стражник; пользовательский / хакерский режим | GaidNet (Gaid); SIN (server information network); node, bridge, port, defender/guard; user / hacker mode | Gaidnet |
+| ГайдНет (Гайд); ИСС (информационная сеть сервера); узел, мост, порт, защитник/стражник; пользовательский / хакерский режим | GuideNet (the Guide) (было GaidNet/Gaid; как в Piratesnest и оф. Olympiada); SIN (server information network); node, bridge, port, defender/guard; user / hacker mode | Gaidnet |
 | HackSense (ХакСенс); эксплоиты Shear, Sword, Jumper, Mirror, Blind, Graft; защитники Ivy-13, Dragon-4, StoneWall, Hydra-3, Gunner-7, Guardian-21; Post-AutoBot | HackSense; (латиница из RU — без изменений) | Gaidnet |
 | ментал (единица информации); загрузка мозга; тревога | mental; brain load; alarm | Gaidnet |
 | киберблоха; иллюзионные проекторы; микровидеокамеры; фазотрон; стокаторный жижометр; Дворец v13.2 | cyberflea; illusion projectors; micro video cameras; phasotron; stochator slurrometer; Palace v13.2 | Gaidnet |
@@ -1849,8 +1850,8 @@ ekup; Brigee Bardozze (ксенопарк); crossbow (ручной самост�
 
 | корпорация «Эсэн и Ко»; ксетвоизлучатель; «Авалон Инк.»; ресторан «Ани Айона»; клиника «Святой Арени» | "Esen & Co"; xetvo-emitter; "Avalon Inc."; "Ani Ayona"; "Saint Areni" clinic | Photorobot |
 | Эйса-Ган (гендиректор, фэянин); детективы Джером Бэнкс и Эндрю Нотиксов; фоторобот | Eysa-Gan; Jerome Banks, Andrew Notiksov; identikit | Photorobot |
-| блюда: гобзавр в яблоках, колбасбургер, болотные пауки в сахаре (пауки-убийцы с Рахиша), гламигида по-пхедокски, сладкая Иике-Баана, лапки сварокока в шоколаде, мороженое «Дэтэ М», оннарайк в зелени, Счуу-Ка под цубой, экструдер на палочке | gobsaur in apples, sausageburger, swamp spiders in sugar (killer spiders from Rakhish), glamigida Pkhedok-style, sweet Iike-Baana, svarokok paws in chocolate, "Dete M" ice cream, onnarayk with greens, Schuu-Ka under tsuba, extruder on a stick | Photorobot |
-| напитки: «Махпелла Лайт», кровь пенчекряка, шраканская слизь, раствор неон-пропана, вода из реки Страан-Ная; гаальский «Янвелб» | "Makhpella Light", penchecrakus blood, Shrakan slime, neon-propane solution, water from the Straan-Naya river; "Yanvelb" | Photorobot |
+| блюда: гобзавр в яблоках, колбасбургер, болотные пауки в сахаре (пауки-убийцы с Рахиша), гламигида по-пхедокски, сладкая Иике-Баана, лапки сварокока в шоколаде, мороженое «Дэтэ М», оннарайк в зелени, Счуу-Ка под цубой, экструдер на палочке | gobsaurus in apples, sausageburger, swamp spiders in sugar (killer spiders from Rakhish), glamigida Pkhedoc-style, sweet Iike-Baana, swarokok paws in chocolate, "Dete M" ice cream, onnarayk with greens, Schuu-Ka under tsuba, extruder on a stick | Photorobot |
+| напитки: «Махпелла Лайт», кровь пенчекряка, шраканская слизь, раствор неон-пропана, вода из реки Страан-Ная; гаальский «Янвелб» | "Makhpella Light", penchecrakus blood, Shrakan slime, neon-propane solution, water from the Straan-Naya river; "Ekup" | Photorobot |
 | гравицапа; петросяны; фильм «Пенчекряки в матросках»; Нондусы Эквенторовичи, Махпеллы Рачехановны | gravitsapa; petrosyans; "Penchecrakuses in Sailor Suits"; Nondus Ekventorovichs, Makhpella Rachekhanovnas | Photorobot |
 
 | Блюндерр (второй инженер, малок); профессор Фуньдай (фэянин в защитном конусе); профессор Налив-Айка (гаалец; «Заливайка-Непроливайка») | Blyunderr; Professor Fundai; Professor Naliv-Ayka ("Zalivayka-Neprolivayka") | Provoda |
@@ -1868,7 +1869,7 @@ ekup; Brigee Bardozze (ксенопарк); crossbow (ручной самост�
 | Шнобель, Дюбель, Пугель (агенты); Государственная Служба Контроля / Комитет Госконтроля; Ферма №1; тачка | Shnobel, Dyubel, Pugel; State Control Service / State Control Committee; Farm No. 1; wheelbarrow | Faruk |
 
 | Дорд (старший научный сотрудник, малок); Хфыв (пеленг); диктатор Бдангдыр; малокский творец Рентер, марш «За победой»; Всегалактическая Академия Наук; Галактический Академик; вечерняя школа рейнджеров; гравимузин | Dord; Khfyv; dictator Bdangdyr; Renter, "For Victory"; All-Galactic Academy of Sciences; Galactic Academician; evening school for rangers; gravimousine | Megatest |
-| ответы теста: Пхедок, Эйманаполон, Умий, Эйпентак; клисанские корабли Мутёнок, Ургант, Катаури, Эгемон; уссурийский чай, втыкилла, сок из гранулированных зирок, янвелб; наркотики Скраб, Звездная пыль, Какао, Глэп; разрывное орудие, прожектор вихря, промышленный лазер, ракетница | Pkhedoc, Eimanapolon, Umiy, Aipentak; Mutenoc, Urgant, Katauri, Egemon; Ussuri tea, Vtequila, juice of granulated zirks, Yanvelb; Scrub, Stardust, Cocoa, Glep; rupture gun, vortex projector, industrial laser, rocket launcher (оружие — не сверено с ванилла) | Megatest |
+| ответы теста: Пхедок, Эйманаполон, Умий, Эйпентак; клисанские корабли Мутёнок, Ургант, Катаури, Эгемон; уссурийский чай, втыкилла, сок из гранулированных зирок, янвелб; наркотики Скраб, Звездная пыль, Какао, Глэп; разрывное орудие, прожектор вихря, промышленный лазер, ракетница | Pkhedoc, Eimanapolon, Umiy, Aipentak; Mutenoc, Urgant, Katauri, Egemon; Ussuri tea, Vtequila, juice of granulated zirks, Ekup; Scrub, Stardust, Cocoa, Glap; rupture gun, vortex projector, industrial laser, rocket launcher (оружие — не сверено с ванилла) | Megatest |
 
 | вреллы (аборигены гаальской планеты), врелл, воин-врелл, охотник-врелл; Верховный Шаман; «Спор богов» (ритуал посвящения); «большой» народ; Серпак (как вреллы зовут рейнджера); Сагард (торговец и охотник); кучум (жилище) | vrells, vrell, vrell warrior, vrell hunter; Supreme Shaman; "Dispute of the Gods"; the "big" people; Serpak; Sagard; kuchum | Maze |
 | хвачер (чудовище пещеры) / хвачик (детёныш, вылупившийся из яйца хвачера); хвачерон; пенчекряк; боги Правдимука (бог просвещения, заступник) и Шмякодин (бог грубой силы, обвинитель) | snatcher / snatchling (ср. «лапки хвачика» → snatcher в др. квесте); snatcheron; penchecrakus; Pravdimuka, Shmyakodin | Maze |
@@ -1880,7 +1881,7 @@ ekup; Brigee Bardozze (ксенопарк); crossbow (ручной самост�
 | ухоногий сиболусовт | auropedal sibolusovtus (вместо разнобоя auropedal / leg-eared / long-eared; sibolusoft → sibolusovtus) | Sibolusovt |
 | Штольц (заправка Штольца) | Stoltz (вместо разнобоя Stilt / Stoltz) | Driver |
 | Нука Цыц | Hush Baba (оф. форма; Path252b ошибочно Shooch Yaa) | Election |
-| Карра Ббах; Бульбу Льбуль; Странгл Ли; плазмотанк | Karra Bbach; Blub Lubb; Strangl Lee; plasmotank (унифицировано по файлу) | Election |
+| Карра Ббах; Бульбу Льбуль; Странгл Ли; плазмотанк | Karra Bbach; Blub Lubb; Strangl Lee; plasmotank (унифицировано внутри оф. Election; в наших переводах — plasma tank) | Election |
 | Борзухан | Borzukhan (Sortirovka1: Borzuhan → Borzukhan) | Sortirovka1 |
 | Егорыч | Yegorych (вместо оф. Igorych) | Rally |
 | пенчекряк (все оф. варианты penchekryak / penchekryacus / penchequack) | penchecrakus, мн. penchecrakuses | DevTranslated (22 файла) |
