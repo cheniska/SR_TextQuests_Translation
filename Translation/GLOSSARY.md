@@ -479,7 +479,7 @@ Prezhevalski → Prezhevalsky (Tomb); Grishhill → Grishkhill (Diehard); Sir Lo
 | Вялый Гопарь Ы; Древний Зверостолоп Пух | the Limp Gopar Y; the Ancient Beastoaf Pooh | Cybersport |
 | Защитный потенциал, Большие казармы, Дополнительные батареи, Быстрое производство, Ударная сила | Defense Potential, Large Barracks, Extra Batteries, Rapid Production, Striking Power | Cybersport (улучшения) |
 | фумигатор «фРейд-Макс» | fRaid-Max fumigator | Cybersport |
-| Параметры-аббревиатуры: УРР, УРП, УРЗ, УРО | Development level; Production development; Beast development; Weapons development | Cybersport (расшифровка по формулам qmm: УРП из заводов/казарм, УРЗ из зверских, УРО из орудий, УРР — сводный; «Р» в УРР — ?) |
+| Параметры-аббревиатуры: УРР, УРП, УРЗ, УРО | Development level; Production development; Beast development; Weapons development | Cybersport (расшифровка по формулам qmm: УРП из заводов/казарм, УРЗ из зверских, УРО из орудий, УРР — сводный; «Р» не ясна — принят вариант «Development level», решение пользователя 2026-10-02) |
 | ЗГУ, ЗАП, ЗКМ | Horror Generator charge; Hell Cannon charge; Collapse Machine charge | Cybersport (заряд Генератора Ужаса / Адской Пушки / Коллапс-машины — по Loc6-1) |
 | Идент. войск | Troop ID | Cybersport (число-код состава войск) |
 | ники: Репейник Монго, УкропЪ/Петрушка, Выпейадник, 4уВаК, Тьмуберущий | Burdock Mongo, Dille/Parsley, Boozedock, d00D, Darktaker | Cybersport (латинские ники mEgAiGrOk, Qwerty10x, Absolut13, KoR-Abel — без изменений) |
