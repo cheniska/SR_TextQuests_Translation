@@ -93,7 +93,7 @@
 | малка (разг.) | maloq | «шофёр-малка» → driver-maloq |
 | клисанин, клисане | klissan, klissans (строчные, ванилла) | Klisans (2) — опечатка |
 | человек (раса) | human, humans | ПЕРЕРЕШЕНО 2026-10-02 по ванилле: строчные (Human Town — имя собственное) |
-| землянин / земной / Земля | Human / Earth (Earth apricot juice) / Earth | «earthman», «earthling» (по 1) не использовать |
+| землянин / земной / Земля | earthling(s) (строчные, ванилла; 2026-10-02) / Earth (Earth apricot juice) / Earth | «earthman», «earthling» (по 1) не использовать |
 | гуманоид | humanoid | |
 | Доминатор(ы) | dominator(s) (строчные, ванилла) | |
 | крашаджан(ский) | Krashadzhan | Newflora |
@@ -111,7 +111,7 @@
 | терраформатор | terraformer (terraforming) | Newflora |
 | субсеть | subnet | Newflora |
 | скринсэйвер; Вирус В-киллер; Троянский конь; Взломщик Паролей; Шахматный Шулер | screensaver; B-killer Virus; Trojan Horse; Password Cracker; Chess Cheater | Bank |
-| психостимулятор; Агрессин, Откровин | psychostimulant; Agressin, Revelatin | Bank |
+| психостимулятор; Агрессин, Откровин | psychostimulant; Agressin, Revelatin (везде; Revelin в Galaxy исправлен 2026-10-02) | Bank |
 | лингофонный; ментоскопирование; стереовизор | lingophone; mentoscopy; stereovision (ванилла/оф.) | Bank |
 | Слабительное (таблетки) | Laxative | Bank |
 | хэчбол, хэчинг | hatchball (ПЕРЕРЕШЕНО 2026-10-02 по ванилле; в названиях Hatchball), hatching | Hachball, Bank |
@@ -165,7 +165,7 @@
 | (НИИ) этнографии и космоархеологии им. Грега Рафмана | Greg Raffman Research Institute of Ethnography and Space Archaeology (Ruffman — опечатка) | Bank, Menzols |
 | Межпланетная хэчбольная федерация | Interplanetary Hatchball Federation | Hachball |
 | Галактическая Федерация Иикэ-Баана | Galactic Iike-Baana Federation | Ikebana |
-| Галактическое Содружество | Galactic Commonwealth | Tomb, Hachball; в Moi RU просто «Содружества» → Commonwealth (без «Galactic», оставлено) |
+| Галактическое Содружество | Interstellar Coalition (ванилла; 2026-10-02; просто «Содружество» → the Coalition) | Tomb, Hachball; в Moi RU просто «Содружества» → Commonwealth (без «Galactic», оставлено) |
 | Президентский дворец; Малый/Большой президентский зал | Presidential Palace; Small/Grand Presidential Hall | Spy |
 | …зал (Круглый, Овальный, Квадратный, Треугольный, Красный, Жёлтый, Синий, Голубой, Зелёный, Белый, Чёрный, Фиолетовый, Дубовый, Концертный) | Round/Oval/Square/Triangular/Red/Yellow/Blue/Gay (игра слов «голубой»)/Green/White/Black/Violet/Oak/Concert Hall (2026-10-02: в RU «зал», не «комната»; КР1 Room) | Spy |
 | Министр обороны/финансов/образования/культуры/труда/здравоохранения/экологии/туризма; иностранных/внутренних дел | Minister of Defense/Finance/Education/Culture/Labor/Health/Environment/Tourism; Foreign/Interior Minister | Spy |
@@ -1252,3 +1252,26 @@ gobsaurus (мн. gobsauri); **penchecrakus** (ванилла = наше, оф. p
 ekup; Brigee Bardozze (ксенопарк); crossbow (ручной самострел → hand crossbow); stereovision; Machpella; phatklink; quanga; kinza (kinza sauce, Bloody Kinza); vtequila; helldas.
 Таблица «ИТОГ SR2HD DevTranslated» выше в части penchekryak / gobzaurus / Disgrace Book / Dalany / hatch-ball / Lyapzva Hiz — отменена этим решением.
 Не менялось (вне решения): «Ranger» с заглавной в середине фразы у нас (в ванилле чаще ranger) — вопрос пользователю.
+
+### Разнобой терминов — РЕШЕНИЕ пользователя 2026-10-02 (ПРИМЕНЕНО)
+| RU | EN (итог) | Комментарий |
+|---|---|---|
+| Откровин | Revelatin | Galaxy: Revelin → Revelatin |
+| землянин, земляне | earthling, earthlings (строчные) | по ванилле; Galaxy, Newflora, Rush исправлены; название корабля "Earthling Fellowship" (Murder) — с заглавной |
+| лучемёт | blaster | ванилла/оф.; Massacri beam guns → blasters. «лучевое орудие» (Penetrator) = beam gun — другое понятие, оставлено |
+| Галактическое Содружество / Содружество | Interstellar Coalition / the Coalition | по ванилле (решение пользователя); Tomb, Hachball, Menzols, Moi исправлены |
+| Галактический совет | Galactic Council | ванилла (50); оф. Galaxy Council отклонён |
+| гравикар | gravicar | оф.; Massacri gravcars → gravicars |
+| аэротакси | aerotaxi | оставлено (у оф. разнобой aerocab / hover-taxi) |
+| энерголечение | energy treatment | оф.; Diamond energy therapy → energy treatment |
+| стереотеатр | stereo theater | оставлено (амер. орфография; у оф. разнобой) |
+| плазмотанк | plasma tank | ванилла |
+| Троянский конь (программа) | Trojan Horse / Trojan | полное при первом упоминании, далее Trojan — допустимо |
+| гуанава | guanava | оф. ничья guanava/guanawa |
+| сиболусовт | sibolusovtus (мн. sibolusovtuses) | ванилла/оф.; sibolusoft отклонён |
+| Корченица | Korchenitsa | оф. (43 против 5) |
+| Борзухан | Borzukhan | ванилла/оф. |
+| Михаэль Шульман | Mikhael Schulmann | фамилия по ванилле (Schulmann), приоритет ванилла > транслит; имя — оф. Mikhael |
+| Макрохард Нондоуз | Macrohard Nondows | ванилла |
+| принц Тардым Ба'бах | Prince Tardym Ka'Boom | ванилла/оф. |
+| фэяне (разг.: фэяшка, фэй) | fae | ванилла (53) и оф. (71); полное — faeyan |
