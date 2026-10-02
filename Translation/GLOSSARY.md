@@ -1654,3 +1654,25 @@ ekup; Brigee Bardozze (ксенопарк); crossbow (ручной самост�
 | «нищий мир» | "beggar world" | Colonization |
 | Вандервол Третий | Vandervol the Third | Colonization |
 | «Долой президентов, долой королей! Анархия пусть воцарится скорей!» | "Down with presidents, down with kings! Let anarchy reign over all things!" | Colonization (рифма сохранена) |
+
+| корпорация "Elementar Games"; компания "Macrohard"; система Macrohard Nondows | "Elementar Games"; "Macrohard"; Macrohard Nondows | Testing (в RU латиницей; Macrohard Nondows — как в ванилле) |
+| далани Иррацион (фэянин); Биил-Гээтс (гаалец, пародия на Билла Гейтса) | the dalani Irratsion; Biil-Geets | Testing |
+| буказоиды (бкз) — виртуальная валюта игры | bukazoids (bkz) | Testing |
+| Рейнджерсвилль; бар «Трехногий Пенчекряк»; магазин «Икая»; ООО «Шагрот и сыновья» | Rangersville; the "Three-Legged Penchecrakus" bar; the "Ikaya" store; "Shagrot and Sons, LLC" | Testing («Икая» — отсылка к IKEA, транслит) |
+| «техасские рейнджеры»: Крутой Уокер, Лезок (малок), Кацап (пеленг), Думер (фэянин), Бинокуляр (гаалец) | the "Texas Rangers": Tough Walker, Lezok, Katsap, Doomer, Binocular | Testing (Бинокуляр — гаалец без третьего глаза, перевод по смыслу) |
+| старый Гипс (пеленг-гадалка) | Old Gips | Testing |
+| Добра и Света Последний Рыцарь = Добрис Посрыц | the Last Knight of Good and Light = Goli Lakni | Testing (имя-аббревиатура адаптировано: GOod+LIght / LAst+KNIght; Добрис → Goli, Посрыц → Lakni) |
+| лесной рейнджер Бен (малок) | the forest ranger Ben | Testing |
+| Айроон Вууд-Кааттер (гаалец с пилой) | Ayroon Wuud-Kaatter | Testing (отсылка к Iron Woodcutter, транслит в гаальском стиле) |
+| астролайнер «Убоинг-747» | the astroliner "Uboing-747" | Testing (Boeing + «убой», транслит) |
+| сварокок; трехногий пенчекряк-мутант; болотные термиты | svarokok; the three-legged mutant penchecrakus; swamp termites | Testing |
+| ай-ди-ди-кью-ди (чит-код) | eye-dee-dee-cue-dee | Testing (iddqd из Doom) |
+| шокер «Шухер»; компания «Айбоо-Лиит» (аптечки); «Пьер Кардамон» / «Валокордин Юдашкин» | the "Shukher" stun gun; "Aiboo-Liit"; "Pierre Cardamom" / "Valocordin Yudashkin" | Testing |
+| «Втыкилла» (напиток) | "Stabquila" | Testing (каламбур с текилой) |
+| игра Master of Iike-Baana: The Dark Shadows of Evil Lord / The Evil Shadow Lord of Darkness | (как есть, латиницей в RU) | Testing |
+| язык гоши: «киддат панты», «пантова чуввыха», «киддат чуввых» | the Goshi language: "kiddat panty", "pantova chuvvykha", "kiddat chuvvykha" | Testing (загадка, транслит) |
+| Ведущий Шахманду; вертикс; штип | the Shakhmandoo Leader; vertix; shtip | Testing (по ванилле/глоссарию) |
+| «Транклюкатор-3: Восстание машин» | "Tranklukator-3: Rise of the Machines" | Testing |
+| гранэкские бурли; рамгатрские кобры | Graneka burls; Ramgatrue cobras | Testing (планеты по ванилле) |
+| Пехи Дан (Шухэо, Пхедок); Лаенни-Га (Эйланк, Атлан); Доолки; Бооз | Pekhi Dan (Shukheo, Pkhedoc); Laenni-Ga (Eilank, Atlan); Doolki; Booz | Testing (анекдот; Shukheo/Pkhedoc/Eilank — ванилла) |
+| эффект псевдосмерти | the pseudo-death effect | Testing |
