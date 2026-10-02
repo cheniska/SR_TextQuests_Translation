@@ -1760,3 +1760,13 @@ ekup; Brigee Bardozze (ксенопарк); crossbow (ручной самост�
 | «Mega-DOOM» (игра); Поединок Чести (у малоков) | "Mega-DOOM"; Duel of Honour (оф., Banket) | Bomber |
 | как с пеленга шерсти (идиома) | about as useful as a peleng's fur | Bomber |
 | город «Титаник» | "Titanic" | Bomber |
+
+| Гашиш-Вам (пеленг-миллионер); Жлопопс; Ушава (полковник Дзухаллага, лякуша); Ооронба (гаалец-космоботаник) | Gashish-Vam; Zhlopops; Ushava (Colonel, Lyakusha Ushava); Ooronba | Vulkan |
+| пилоты Коля и Толян; механик Сан Саныч; малок-рейнджер Рграт | Kolya, Tolyan; San Sanych; Rgrat | Vulkan |
+| остров Уравшал; Грозная гора (вулкан); Саммат-Наур — негасимые горнила (ворота, отсылка к Толкину) | Uravshal island; the Dread Mountain; "Sammat-Naur - the Unquenchable Furnaces" | Vulkan |
+| племя Абрамгутанов; мурзлики (местная валюта) | the Abramgutans; murzliks | Vulkan |
+| ранзавр; гранатошишка; плазмолёт | ranzaur; grenade cone; plasma plane | Vulkan |
+| нуль-пространственная бомба; биосканер; газоплазменные сгустки | null-space bomb; bioscanner; gas-plasma clots | Vulkan |
+| «Коки-малоки»; «Макрохард»; «Яблоко. Ломайся разно»; «Лошкамч впаримч» (пеленгская фирма) | "Koki-Maloki"; "Macrohard"; "Apple. Break Differently"; "Loshkamch Vparimch" | Vulkan |
+| Всегалактическая Шпионская пеленгская Служба Дзухаллаг | the All-Galactic Peleng Spy Service Dzuhallag | Vulkan |
+| реплики аборигенов (тарабарщина): Нихренантес, Имбицилобус дебилос, Захренос и др. | Nikhrenantes, Imbecilobus debilos, Zakhrenos etc. (транслит) | Vulkan |
