@@ -1840,3 +1840,9 @@ ekup; Brigee Bardozze (ксенопарк); crossbow (ручной самост�
 | Однег (гаалец, директор филиала); Такум (таксист); Бар Бара Стрейзанд | Odneg; Takum; Bar Bara Streisand | Filial |
 | отель «Отель»; «козарма» (ошибка на табличке); сверхпластид; «Восстановление пароля»; игра «Dom 4D» | the "Hotel" hotel; "barraks"; super-plastide; "Password Recovery"; "Dom 4D" | Filial |
 | «Селамат паги!» (приветствие таможенника) | "Selamat pagi!" | Filial |
+
+| военкомат; призыв; повестка; призывник; медкомиссия; агитбригада; белый билет; стройбат; бронь | draft office; the draft; draft notice; conscript; medical board; agitation brigade; white ticket; construction battalion; exemption | Rvk |
+| механики, связисты, пилоты, штурманы, бортстрелки | mechanics, signalmen, pilots, navigators, gunners | Rvk |
+| Комитет Защитников и Полузащитников Прав Людей и Других Млекопитающих; правозащитники; партия «Пацифисты седьмого дня»; стукачи; рейды по барам | Committee of Defenders and Midfielders of the Rights of Humans and Other Mammals; human rights activists; the "Seventh-day Pacifists"; informers; bar raids | Rvk |
+| генерал Рядовой; профессор Тупица; В.В. Од; мистер Буржуин; Билл Гейтс Восемнадцатый; призывники Ксерокс, Сканер, М.С.Ворд; доктор Морф | General Private; Professor Dimwit; V.V. Od; Mister Burzhuin; Bill Gates the Eighteenth; Xerox, Scanner, M.S.Word; Doctor Morph | Rvk |
+| орден Сутулого с закруткой на спине; Коллегиум комиссаров; Главный Ефрейтор; Книга Аккордов Фитнеса; система «West-Uni» | Order of the Stooped with a Twist on the Back; Collegium of Commissars; Chief Lance Corporal; the Fitness Book of Chords; "West-Uni" | Rvk |
