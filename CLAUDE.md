@@ -50,11 +50,11 @@ GLOSSARY.md, LORE_FACTS.md, удалить файлы `X.*` из `Translation/wo
 Правка готового Eng-файла (UTF-16): Python-скрипт: decode utf-16 → replace → писать `b'\xff\xfe'+s.encode('utf-16-le')`, затем `qtr.py check`.
 
 ## Текущее состояние (2026-10-02)
-- КР1 (SR1TextQuests): готово 24 из 25 (Penetrator, Bank, Boat, Menzols, Fishing, Bondiana, Casino, Commando, Diamond, Examen, Galaxy, Gobsaur, Hachball, Murder, Newflora, Poroda, Rush, Siege, Tomb, Gladiator, Diehard, Energy, Ikebana, Build).
-- Осталось в КР1 (английский КР1 есть, нашей вычитки нет; check-ошибки в КР1-варианте): Spy 2.
+- КР1 (SR1TextQuests): готово 25 из 25 (Penetrator, Bank, Boat, Menzols, Fishing, Bondiana, Casino, Commando, Diamond, Examen, Galaxy, Gobsaur, Hachball, Murder, Newflora, Poroda, Rush, Siege, Tomb, Gladiator, Diehard, Energy, Ikebana, Build, Spy).
+- КР1 ЗАВЕРШЁН 2026-10-02 (все 25: check 0/0, qtr_struct 0).
 - Перепроверка времён в Bank — выполнена 2026-10-02 (времена соответствуют RU, 4 мелкие правки). «гомока» → gomoka — принято пользователем.
 - Структура всех готовых квестов КР1 проверена `qtr_struct.py` — 0 расхождений.
-- АВТОРЕЖИМ (запрос пользователя 2026-10-02): переводить оставшиеся КР1 подряд (Diehard, Energy, Ikebana, Build, Spy), после каждого — коммит+пуш; спорное не спрашивать сразу, а копить здесь и выдать списком в конце. Оформление: `python3 qfinish.py ...` (см. шапку файла).
+- АВТОРЕЖИМ 2026-10-02 завершён (КР1 доделан); спорное копилось ниже. Оформление: `python3 qfinish.py ...` (см. шапку файла).
 - ВОПРОСЫ ПОЛЬЗОВАТЕЛЮ (накоплено): (1) [снят: в Build только племя Уги] (2) удалить дубликат `Eng/Menzolsrus.txt`? (3) Gladiator — строгий транслит Ytsokhen/Grok/Dredround вместо КР1 Ytzokheng/Grock/Draedrownd — ок? термины дреди → Dreaddy, ТОЛЛОСУУМ → TOLLOSOOOM оставлены по КР1-глоссарию; (4) Fishing Loc165-1 «пеленги изобрели часовую стрелку» → "invented the clock hand" — ок? (5) пародийные имена по строгому транслиту: Qwerty→Ytsukeng (Murder), Jbond→Zhbond, Sholmes→Sholms, Popadopoulos→Popadopulos, Billinger→Billindzher (Bank) — менять? (McCallister оставлен).
 - ИМЕНА: перед каждым квестом сверять ВСЕ имена персонажей (и из глоссария КР1) со строгим транслитом (х→kh, ж→zh, ц→ts, й→y, ё→yo, -ский→-sky); 2026-10-02 исправлены Tomb, Diehard, Bank, Casino, Murder, Siege, Rush (см. конец GLOSSARY.md).
 - Дальше (по запросу пользователя): SR2HD (30+ полностью русских: см. STATUS.md), моды (Ref*, Shu*, Rev*, Xeno*…).

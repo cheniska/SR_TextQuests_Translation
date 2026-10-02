@@ -167,7 +167,7 @@
 | Галактическая Федерация Иикэ-Баана | Galactic Iike-Baana Federation | Ikebana |
 | Галактическое Содружество | Galactic Commonwealth | Tomb, Hachball; в Moi RU просто «Содружества» → Commonwealth (без «Galactic», оставлено) |
 | Президентский дворец; Малый/Большой президентский зал | Presidential Palace; Small/Grand Presidential Hall | Spy |
-| …комната (Круглая, Овальная, Красная, Жёлтая, Синяя, Зелёная, Белая, Чёрная, Розовая, Фиолетовая, Дубовая, Концертная, Бильярдная, Курительная, Конференц-зал) | Round/Oval/Red/Yellow/Blue/Green/White/Black/Pink/Violet/Oak/Concert/Billiard/Smoking/Conference Room | Spy |
+| …зал (Круглый, Овальный, Квадратный, Треугольный, Красный, Жёлтый, Синий, Голубой, Зелёный, Белый, Чёрный, Фиолетовый, Дубовый, Концертный) | Round/Oval/Square/Triangular/Red/Yellow/Blue/Gay (игра слов «голубой»)/Green/White/Black/Violet/Oak/Concert Hall (2026-10-02: в RU «зал», не «комната»; КР1 Room) | Spy |
 | Министр обороны/финансов/образования/культуры/труда/здравоохранения/экологии/туризма; иностранных/внутренних дел | Minister of Defense/Finance/Education/Culture/Labor/Health/Environment/Tourism; Foreign/Interior Minister | Spy |
 | Командор | Commander (Bank: Commander Shvakh) | Bank |
 | Верховный судья | Chief Judge | Gladiator |
@@ -432,3 +432,17 @@ Prezhevalski → Prezhevalsky (Tomb); Grishhill → Grishkhill (Diehard); Sir Lo
 | Малокское министерство стандартов | Maloq Ministry of Standards | Организация | Build Loc9-4 | |
 | плазменная винтовка | plasma rifle | Оружие | Build Path77b | |
 | прораб; младшие прорабы; секретарь | foreman; junior foremen; secretary | Должность | Build Loc1-1, Path3b, Loc2-1 | |
+
+### Spy (КР1, переведён заново 2026-10-02)
+| RU | EN | Кат. | Где | Комментарий |
+|---|---|---|---|---|
+| жучок | bug | Предмет | Spy QuestDescription | пеленгского производства (камера+микрофон, мимикрирующая поверхность) |
+| рубль (местная валюта) | ruble | Единицы | Spy Par10-1 | |
+| Шандыбер; Клинт Блинтон; Заборнов; Порепин; Церебрели; Тим | Shandyber; Klint Blinton; Zabornov; Porepin; Tserebreli; Tim | Персонаж | Spy Loc8-1, Loc7-1, Loc37-1, Loc45-1, Loc49-1, Par6-crit | строгий транслит (пародии на реальных лиц) |
+| мастер Хамс | master Khams | Персонаж | Spy Loc19-1 | пародия на мастера Гамбса («12 стульев») |
+| фирма «Васюк и Ко» | Vasyuk & Co. | Организация | Spy Loc18-1 | отсылка к Нью-Васюкам |
+| стереопередача «Глас планеты» ; стереотеатр; стереовидение | stereo program "The Voice of the Planet"; stereo theater; stereovision | Прочее | Spy Loc8-1, Loc43-1, Loc18-1 | |
+| Галактический Совет | the Galactic Council | Организация | Spy Par9-crit | |
+| Microsoft United; MEGADOOM | Microsoft United; MEGADOOM | Организация/Прочее | Spy Loc34-1 | как в RU |
+| диспетчер космопорта; дежурный | spaceport dispatcher; duty officer | Должность | Spy Loc51-1, Loc88-1 | |
+| путана | hooker | Прочее | Spy Loc64-1 | |
