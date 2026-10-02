@@ -1717,3 +1717,19 @@ ekup; Brigee Bardozze (ксенопарк); crossbow (ручной самост�
 | «Ку, пацак!» | "Koo, patsak!" | Forum (отсылка к «Кин-дза-дза») |
 | охранник Сентей | Sentey | Forum |
 | код. фраза «Хочешь жить - умей стрелять» | "If you want to live, learn to shoot" | Forum |
+
+| Говорун (синяя говорящая птица) | Govorun ("Govor-run is good!") | Gluki (имя транслитом; отсылка к птице Говорун из «Тайны третьей планеты») |
+| рейнджер Абуренци; Йцували; гаалец Олтоан; фэянин Лискевиш; пеленг-медик Цушкен | Aburentsi; Ytsuvali; Oltoan; Liskevish; Tsushken | Gluki |
+| Ворчащий (детский страх-монстр) | the Grumbler | Gluki (прозвище, переведено) |
+| (автоматический) протоколизатор = черный ящик; блок синхронизации | (automatic) protocolizer = black box; synchronization unit | Gluki |
+| теранольф (ед. энергии); основное хранилище, резервные банки | teranolf; main storage, reserve banks | Gluki |
+| синтезатор ТХ-8.0; реагенты т/Т/х/Х/тх; колбы «Т»/«Х» | TH-8.0 synthesizer; t/T/h/H/th reagents; "T"/"H" flasks | Gluki (Х → H) |
+| регенерирующий / деструкцирующий / нейтральный раствор | regenerating / destructive / neutral solution | Gluki |
+| Космический Хэчбол (автомат) | Space Hatchball | Gluki (hatchball — по ванилле) |
+| Межгалактическая комиссия по чрезвычайным ситуациям | Intergalactic Emergencies Commission | Gluki |
+| Галактическая Ассоциация Складов | Galactic Association of Warehouses | Gluki |
+| Галонет; галовизор; мезонный галафон | GaloNet; galovisor; meson galaphone | Gluki |
+| малокский жук-копьеносец; малокский крока-дин | maloq spearbearer beetle; maloq kroka-din | Gluki |
+| древнегаальская буква «Ыо-то» | the ancient gaalian letter "Yo-to" | Gluki |
+| жужастики | buzzlings | Gluki |
+| ксеноксиологи | xenoxiologists | Gluki |
