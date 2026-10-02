@@ -1,0 +1,6 @@
+Pharaon — заметки к переводу (2026-10-02)
+Переведён с нуля с RU (старый EN — русский текст). check 0/0, qtr_struct 0.
+- Загадка с буквами: транслит богов (Ares, Vmaz, Zver, Zevs, Zema, Mars, Mers) и сыновей (Anusptis, Vertepopes, Eptimat, Zampolet, Moykhrenes, Ramzets, Seremtut) сохраняет соответствие начальных букв: у каждого бога ровно четыре сына-подопечных, как в RU. Поэтому Zevs (не Zeus), Eptimat (не Yeptimat).
+- Пародийные имена — по принципу «сохраняем отсылку, если звучание не меняется»: Индий Джокс → Indiy Jox; «Сыт и Весел» → "Sated & Wesson"; Шпрех Зидоч → Shprekh Zidoch.
+- «Этот» (бог письменности, пародия на Тота; игра «Этот/этот») → Etot.
+- ИКАР → ICAR (Institute of Commercial ARchaeology), ГАО → GAS.
