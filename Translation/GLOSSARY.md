@@ -1524,3 +1524,27 @@ ekup; Brigee Bardozze (ксенопарк); crossbow (ручной самост�
 | робот-пешеход («адский Цербер») | walker robot ("infernal Cerberus") | Kiberrazum |
 | «Пойнт... Тшеймс Пойнт...» (пародия на «Бонд. Джеймс Бонд») | "Point... Tshames Point..." | Kiberrazum (звучание сохранено) |
 | Эйс Смирнов, Давыдушка (авторы в титрах) | Ace Smirnov, Davydushka | Kiberrazum (ники авторов; Эйс = Ace) |
+
+## SR2HD Untranslated: Evilgenius (2026-10-02)
+| RU | EN | Квест |
+|---|---|---|
+| Злой Гений / злой гений; Злой Властелин | Evil Genius / evil genius; Evil Overlord | Evilgenius |
+| миньоны (военные, рабочие, ученые, дипломаты) | minions (military/soldiers, workers, scientists, diplomats) | Evilgenius |
+| Ихорь (советник-пеленг) | Ikhor | Evilgenius (пародия на Игоря; транслит сохраняет звучание) |
+| Артэллон (телохранитель-фэянин) | Artellon | Evilgenius |
+| генерал Побаш Ке (малок) | General Pobash Ke | Evilgenius |
+| Борж Джуш (злой гений-предшественник) | Borzh Dzhush | Evilgenius (пародия на George Bush; строгий транслит) |
+| Адская Машина; проект АМ; Большая Красная/Желтая Кнопка | the Infernal Machine; the IM project; the Big Red/Yellow Button | Evilgenius |
+| узлы базы: бараки, лаборатории, комнаты отдыха | base modules: barracks, laboratories, rec rooms | Evilgenius |
+| почтительность миньонов | the minions' loyalty | Evilgenius |
+| плазменный разрядник | plasma discharger | Evilgenius |
+| гипноблок (в монокле) | hypnoblock | Evilgenius |
+| хробайтовые сплавы | khrobayt alloys | Evilgenius |
+| Пираньи-Мутанты | Mutant Piranhas | Evilgenius |
+| гранэкская секвойя; рамгатрский баобаб | Graneka sequoia; Ramgatrue baobab | Evilgenius (планеты по ванилле) |
+| молгаар их всех возьми (ругательство) | molgaar take them all | Evilgenius |
+| Внушительный Стол | the Imposing Desk | Evilgenius |
+| Путь Косой Змеи / Слюнявого Мангуста / Дряхлого Слоника | the Way of the Cross-Eyed Snake / Drooling Mongoose / Decrepit Little Elephant | Evilgenius |
+| города: Лайт-Бринг-Сити, Дрейкбург, Эйслэнд, Леосания, Гелитаун, Пяткинск | Light-Bring City, Drakeburg, Iceland, Leosania, Helitown, Pyatkinsk | Evilgenius |
+| Добрые Бомбы Для Добрых Людей; Internet Explosive | Good Bombs for Good People; Internet Explosive | Evilgenius |
+| стих-подсказка к бомбе («Огонь святой, Мрак ночной…») | "Sacred fire, Midnight dire, Heaven's light, Leaves so bright, Sunny chime, Snowy rime, Banner of love, Fire in the blood." | Evilgenius (цветовые образы сохранены) |
