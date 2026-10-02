@@ -773,3 +773,85 @@ Prezhevalski → Prezhevalsky (Tomb); Grishhill → Grishkhill (Diehard); Sir Lo
 | просвещённый зороастризм | enlightened Zoroastrianism | |
 | коалиция | the Coalition | |
 | доминаторы | dominators | оф. строчными |
+
+### Fishingcup
+| RU | EN (оф.) | Комментарий |
+|---|---|---|
+| чемпионат по ловле рыбы (96-й) | the 96th Fishing Championship | |
+| Стервятник (пеленг, пятикратный чемпион) | Vulture | без артикля |
+| марка (местная валюта чемпионата) | mark(s) | |
+| удочки «Рефлекс», «Аква», «Вата», «Фильтр» | Reflex, Aqua, Cotton, Filter fishing rod | |
+| снасти; леска; крючок; поплавок | (fishing) tackle; line; hook; float | |
+| черик; мурлок; вольт (рыбы) | cheric; murlock; wolt | |
+| зелёные / белые / обычные черви | green / white / ordinary worms | |
+| пособие для рыбаков | fishing manual | |
+| ларёк «Рыболов не спит» | stand "Fishermen Never Sleep" | |
+| пеленгская компания Цахта-пияхта | Tsakhta Piyakhta | |
+| солнечная система Антирыба | the Antifish solar system | |
+| Союз рыболовов | Fishermen's Union | |
+| Гринпис (гаальский) | Greenpeace | |
+| межгалактический совет | the intergalactic council | |
+| фэянский; гаалец; пеленг; малок | faeyan; gaal; peleng; maloq | оф. строчными |
+| армрестлинг: рывок; заломить кисть; прием на резкость | hook; press; top-roll | оф. путает приёмы |
+
+### Foncers
+| RU | EN (оф.) | Комментарий |
+|---|---|---|
+| фонсер; гонки на фонсерах | foncer; foncer races | оф. британская орфография (manoeuvre, honour) |
+| модели «Ураган», «Торнадо», «Вихрь», «Бриз» | Hurricane, Tornado, Vortex, Breeze | |
+| генератор защитного поля; антигравитационная турбина; маневровые движки | forcefield generator; anti-gravity turbine; manoeuvring controls / sliders | разнобой оф. |
+| поток (энергии) | flow | |
+| боксы; главный механик | the boxes; the chief mechanic | |
+| Квалификация; Полуфинал; Финал | the Qualifiers / qualifying round; the Semi-final race; the Final race | |
+| жеребьёвка | the draw | |
+| Проныра (прозвище представителя) | Slyboots | |
+| Расгуш (пеленг); Гозар (малок); Миатра (фэянин) | Rasgush; Gonzar (sic, также Gonsar); Miatra | Гозар → строгий транслит Gozar; оф. Gonzar |
+| Владимир Корченица; Михаэль Шульман (земляне, чемпион) | Vladimir Korchenitza; Mikhael Shulman | строгий транслит: Korchenitsa, Mikhael Shulman |
+| землянин | Earthman (мн. Earthen, sic) | |
+| равнинный участок; каньон; каменное плато | horizontal section; canyon; stone plateau | |
+
+### Jumper
+| RU | EN (оф.) | Комментарий |
+|---|---|---|
+| «Джампер» / «Прыгун» (прыжковый ранец); «Бегун» | "Jumper"; "Runner" | оф. британская орфография |
+| Институт Изобретений и Инноваций (ИИИИ); Институт Инновационных Изобретений и Исследований | the Institute of Inventions and Innovations (IIII) | оф. разнобой: Loc50-1 "the Inventions and Innovations" |
+| Академия Антропологических и Аморфных Аномалий | the Academy of Anthropological and Amorphous Anomalies | |
+| профессор Хаб (фэянин) | professor Hab | |
+| эрго (единица энергии) | ergo | |
+| телепортатор; кнопка экстренного возврата; зарядное устройство; ускоритель | teleport; emergency return button; charger; accelerator | |
+| ряды Жёлтый/Красный/Фиолетовый/Синий/Зелёный | Yellow/Red/Violet/Blue/Green row | |
+| рейнджер Вася | Ranger Bob | адаптация |
+| венерианский попрыгаец; прыгавайцы | Venerian jumpling; jumpawaiians | |
+| брюхопотам | bellypotamus | |
+| гобзавр | gobzaurus | ≠ gobsaur (наш) → см. итог |
+| пенчекряк | penchequack (sic) | разнобой оф.: penchekryak (Evidence) |
+| кванга (мензольский плод) | quanga | ≠ kwanga (наш, Menzols) |
+| Бамбай (ругательство: «чтоб тебе Бамбай приснился») | Bambay | |
+| пеленгская похлёбка «кышь-мышь» | Peleng soup "hoosh-moosh" | |
+| фирма «Адид-Асс» (ботинки пилотов и охотников на гобзавров) | Addid-Ace | |
+| селенитовые коронки | selenite crowns | |
+| Альдиба; Рачехан | Aldeeb; Rachekhan | |
+| аэротакси | aerocab | |
+| ботинки космодесантника на магнитных подошвах | space-boots with magnetic soles | |
+
+### Leonardo
+| RU | EN (оф.) | Комментарий |
+|---|---|---|
+| «Леонардо» (квест; автор Иван Алексеев aka .vanoM, v1.3a) | "Leonardo" | |
+| турнир / конкурс художников | the drawing / painting competition | |
+| Касяк (пеленг-художник, наркоман); Руу-бель (гаалец); Леонид Хмелев (человек) | Kasyak; Roo-bel; Leonid Khmelev | |
+| судьи Лееви-таан (гаалец-реалист), Сатимов (человек-примитивист), Б'Угарра (малок от спонсоров) | Leevi-taan; Satimov; B'Ugarra | |
+| фантазия; аккуратность; грамотность | imagination; precision; competence | параметры |
+| интересность; чистота; композиция и колорит | appeal; cleanness; composition and color | |
+| реализм, сюрреализм, кубизм, импрессионизм, примитивизм | Realism, Surrealism, Cubism, Impressionism, Primitivism | |
+| обычные / флуоресцентные краски; краски «ЗэКи» | common / fluorescent paints; "ZK" | |
+| «Всемирная История Искусств» (запрещена на малокских планетах); «Пособие по вышиванию»; «С. Лем. Рассказы»; «Как научиться рисовать, не нарисовав ни одного рисунка» | "World Art History"; "Embroidery Manual"; "S. Lem. Stories"; "How to Draw Without Drawing Even a Single Picture" | |
+| ворстселлер | worstseller | |
+| гравикар | gravicar | |
+| стереовизор | stereovision | |
+| пиво «Махпелла Дарк» | "Machpella Dark" | ≠ Mahpella (наш) — оф. Machpella / Makhpella |
+| гобзавр | gobsaurus | разнобой оф.: gobzaurus (Jumper) |
+| фарюки (тухлые, метательные) | faryuks | |
+| художник Унк, «Вопль» | Van Gone, "The Shout" | адаптация пародии (Мунк «Крик») |
+| «Сталс» (корабль) | stealth aircraft | |
+| наноботы | nanobots | |

@@ -135,3 +135,55 @@
 - Loc127-1, Loc132-1, Loc109-1, Loc126-1: потеряны открывающие/закрывающие кавычки.
 - Path306: «А что с уликами-то?» → "What? With the evidence?" (≠ Path305 при одинаковом RU); Path195 vs Path199 «Оставить шкаф в покое» → shelf / closet.
 - Опечатки: "trama", "expect your lips", "Your are in", "solider", "at least one", "Of course, You", "managed too", "its plugged in", "a deeply".
+
+## Fishingcup
+- **Path24/Path26**: цены и качество перепутаны: «Фильтр плохого качества за 220» → "medium-quality Filter for 330"; «Вата среднего качества за 330» → "inferior-quality Cotton for 220".
+- **Path582b**: «нашли [p24] марок» → "find nothing but a fishing manual" (потеряна находка денег и параметр).
+- **Loc128-1/128-2**: «[p9] г, больше, чем у всех остальных» → "It is [p9] g more than the rest" (смысл: «на [p9] г больше»); в 128-2 добавлено вручение чека, которого в RU нет.
+- Loc13-1: «поднялись вверх по дороге» → "walk down the road"; Loc62-1: «прошли по резкому спуску» → "along the gently sloping shore"; Loc63-1: «небольшие заросли» → "dense reeds".
+- Loc44-1: «У тебя ничего не выйдет» → "Nothing works out for you"; Loc32-6: «Что бы ещё такого сделать?» → "You feel like doing something like this again".
+- Армрестлинг (Path589–597b): приёмы перепутаны — «заломить кисть» → то press, то top-roll; Path592b «заломить» → "top-roll"; Path593b «рывок» → "hook".
+- Loc37-1: правило ничьей пересказано неточно; Loc27-1: <clr> вокруг описания снастей частично потерян (check: Loc11-1 и Loc27-1 без <clr>, QuestDescription без второго <Ranger>).
+- Par10-1: лишний разрыв строки "weight:\n: <>"; Par1-1 «у вас нет денег» → "You haven’t enough money".
+- Опечатки: "decent" (descent), "waters dark", "he's is", "This is where you start" ок; типографские ’ вместо '.
+
+## Foncers
+- **QuestSuccessGovMessage**: «Доминаторам не устоять!!!» → "Dominators won't succumb!!!" (смысл обратный).
+- **Par4-5**: «Хорошая маневренность» → "Average manoeuvrability" (≠ Par4-4 Normal); Par4-1 «Ужасная» → "Minimal"; Par2-2 «Очень плохой» → "The worst".
+- **Loc19-2**: «на коротком участке можно выиграть или проиграть значительно быстрее» → "Your race time will change more on a longer segment" (искажено).
+- Loc19-3: «Так как реакции живого существа недостаточно…» → "Due to a lack of friction… In the event that…" (додумано); «сойти с трассы» → "fall back".
+- QuestDescription: «на планете <ToPlanet>» → "on a planet in the <ToStar> star system"; «подвергся нападению» → "pirates shot down".
+- Loc18-1/18-3: «Ничья — это не проигрыш/не выигрыш» → "No side is losing/winning yet" (ок по смыслу, но непоследовательно с Loc18-2).
+- Loc33-1: «траурное обрамление» → "penitential framing"; «устроители» → "sponsors"; Loc33-2 «корзина с шарами» → "basket with the pin palling lots" (бессмыслица).
+- Loc29 Path29: «Забыть о скорости, максимально экономить защитное поле» → "Spend the power feeding your forcefield very carefully"; Path47 «про трассу» → "about the tournament".
+- Path30b: «сошёл с дистанции» → "left the distance"; Loc9-4 → "couldn't keep up".
+- Loc1-2/1-3: пробелы внутри кавычек `" Hurricane "`; Loc1-3 "asking::", "novice..".
+- Разнобой имён: Gonzar / Gonsar; "forcer" (Loc33-3). Опечатки: "The forth day", "Number 17 parameters", "is purrs". Реплики через "- " вместо кавычек.
+
+## Jumper
+- **QuestSuccessGovMessage**: «И бывают же такие хамы среди рейнджеров» → "How can a ranger be such a can?!" (бессмыслица).
+- **Loc2-2**: «полтора десятка платформ» → "half a dozen"; «не спешить» → "drag your heels".
+- **Loc2-4**: «Последние трое совершенно не пострадали» → "The last took stuntmen"; «смазывают жиром края платформы» — передано неверно по смыслу ("force… to grease").
+- **Loc22-1**: «подошва правого ботинка… ушла налево» → "flew off to the right" (шутка потеряна).
+- **Loc25-1**: песня про малока, который «больше не сможет играть в хэчбол» → "song about a lustful Maloq" (смысл изменён).
+- **Loc38-1**: «оформить заявку вполне можно и без этого» → "we can prepare" (сбивка лица); Loc47-1: «отсчитал вам 1000 cr» → "was glad to tell you 1000 cr".
+- **Loc50-1**: «Институт Инновационных Изобретений и Исследований» → "the Inventions and Innovations" (пропущено «Institute of»).
+- Path5: «пособие по инвалидности не настолько велико» → "not big enough to affect grasshopper" (бессмыслица).
+- Loc5-1: «Не дождётесь, крысы нафталиновые» → "Snooks, lab rats"; Loc12-2: «в антипропагандистских журналах» → "unofficial magazines"; Loc17-1: «ушибленным достоинством» → "injured manhood… no self-maiming".
+- Loc50-2: "I hate cursors"; Loc11-1: «чтобы не упасть» → "to miss falling down".
+- Адаптации песен (Loc16-1, Loc24-1, Loc20-1 «ТУ-1034» → "Boeing 737") — допустимо.
+- Par10-1: meters / metres разнобой; Par1-2 "№1" vs "No 1"; Path63 "TO Blue-2"; Loc25-2 "tree hundred", "a urn"; Loc21-2 "<Ranger> have been"; Loc25-1 "signed with relief"; Loc26-1 "half of my yearly salary" (RU полугодовое).
+- check: Par9-1 / Par9-2 разнобой ("Teleport is spent/charged" — ок, ложное предупреждение).
+
+## Leonardo
+- **QuestDescription**: «системы <ToStar>» → "in the <ToStar> galaxy"; «целых <Money> cr» → "up to <Money> cr".
+- **Loc7-2**: перевод обрезан — нет первой фразы про зал; **Loc51-1**: пропущен второй абзац (зал, служка, краски); **Loc51-5**: в EN текст Loc51-2 («вынули руку из кармана») вместо «Не стоит рисковать!»; **Loc83-2**: EN пустой; **Path152b**: EN пустой.
+- **Loc87-1**: «в отличие от своего оппонента» → "one of his opponents" (RU: единственный оппонент).
+- Loc2-2, Loc2-4, Loc5-1, Loc49-1: потеряны <clr> (check).
+- Loc2-5: пропущено «Кроме того, эти параметры отвечают и за некоторые другие навыки»; Loc2-6: "a cubist tree an impressionistic gravicar" (пропущено "or").
+- Loc76-5/96-5: «Без всяких там "мастихинов"» → "Know in comprehensible words like 'spatula'" (опечатка "Know in" = "No incomprehensible").
+- Loc84-1: «светло-фиолетового» → "violet blue".
+- Path62b: «Ужасная работа. Мазня какая-то!» → "How disgusting!" (сокращено); Path58b — потеряна открывающая кавычка.
+- Path215b: порядок абзацев переставлен (реплика провожатого перед описанием); «устаревшая ещё тысячу лет назад» — пропущено.
+- Path10 "But the book aside"; Loc87-1 "has answer incorrectly"; Path170b "rough out and eye and then and the pupil"; закрывающие «» вместо " (Loc88-1, Path90b).
+- Разнобой: Machpella (здесь) / Makhpella (Banket); gobsaurus / gobzaurus.
