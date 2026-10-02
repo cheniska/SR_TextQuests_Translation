@@ -505,6 +505,6 @@ Prezhevalski → Prezhevalsky (Tomb); Grishhill → Grishkhill (Diehard); Sir Lo
 | стереовидение; стереовизор; биоэкран; биокарта памяти; гиперлифт; сталелонн; гравикар; плазмолёт | stereovision; stereovisor; bioscreen; bio memory card; hyperlift; steelon; gravcar; plasma plane | Massacri |
 | бомжи (параметр) | the bums | Massacri |
 | «Сбей доминатора», «Замочи Рачехана» (игры) | "Shoot Down the Dominator", "Whack the Rachekhan" | Massacri |
-| Гаалдок | Gaaldok | Massacri |
+| Гаалдок | Hahaldok (РЕШЕНО пользователем 2026-10-02) | Massacri |
 | Карнедж (автор, подпись) | Carnage | Massacri Loc211-1 |
 | Террон, Блазер, Келлер (доминаторы) | Terron, Blazer, Keller | Massacri Path2b |
