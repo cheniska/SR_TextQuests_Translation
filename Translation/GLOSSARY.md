@@ -162,7 +162,7 @@
 | резидент Оол | Resident Ool | Bank |
 | Гуманитарное Медицинское Бюро | Humanitarian Medical Bureau | Fishing |
 | Великая книга колонизации | Great Book of Colonisation | Build |
-| Институт этнографии им. Грега Рафмана | Greg Raffman Research Institute of Ethnography (Ruffman — опечатка) | Bank, Menzols |
+| (НИИ) этнографии и космоархеологии им. Грега Рафмана | Greg Raffman Research Institute of Ethnography and Space Archaeology (Ruffman — опечатка) | Bank, Menzols |
 | Межпланетная хэчбольная федерация | Interplanetary Hachball Federation | Hachball |
 | Галактическая Федерация Иикэ-Баана | Galactic Iike-Baana Federation | Ikebana |
 | Галактическое Содружество | Galactic Commonwealth | Tomb, Hachball; в Moi RU просто «Содружества» → Commonwealth (без «Galactic», оставлено) |
@@ -188,7 +188,7 @@
 | командор Швах | Commander Shvakh (Schwach — вариант, не использовать) | Bank |
 | госпожа Хрямба | Mrs. Khryamba | Bank |
 | Жлоббер, Шлямбур, Яйцентнер, Биллинджер | Jlobber, Shlyambur, Yaitsentner, Billinger | Bank |
-| Маккалистер | McCallister | Bank, Menzols |
+| Рене (Р.) Маккалистер, доктор | Rene (R.) McCallister, Dr. McCallister | Bank (Path54 «Р. Маккалистер», «доктор Маккалистер»), Menzols (Loc1-1 полное имя); мужчина — Rene, не Renee (КР1) |
 | Спинкертон, Шолмс | Spinkerton, Sholmes | Bank |
 | Жбонд, Попадопулос, Грабанян | Jbond, Popadopoulos, Grabanyan | Bank |
 | Глыдл | Glyddl | Casino |
@@ -323,7 +323,7 @@
 Имена — строгая транслитерация (решение пользователя): Лвамба → Lvamba (КР1 Lwamba), Алхунка → Alkhunka (КР1 Alhunka), Аючча → Ayuchcha, Айнунга → Aynunga, Айрунита → Ayrunita.
 | RU | EN | Кат. | Где | Комментарий |
 |---|---|---|---|---|
-| Рене Маккалистер | Renee McCallister | Персонаж | Menzols Loc1-1 | начальник станции НИИ им. Рафмана |
+| Рене Маккалистер | Rene McCallister | Персонаж | Menzols Loc1-1 | начальник станции НИИ им. Рафмана; = «Р. Маккалистер», автор книги «Уникальная цивилизация мензолов» (Bank Path54); КР1 "Renee" — женская форма, исправлено |
 | НИИ этнографии и космоархеологии имени Грега Рафмана | Greg Raffman Research Institute of Ethnography and Space Archaeology | Организация | Menzols QuestDescription | полное название (см. Bank) |
 | Бамбука; Алана; Грамба | Bambuka; Alana; Gramba | Персонаж | Menzols Loc39-1, Loc50-2, Loc175-1 | сын Лвамбы; жена Бурручачи; торговец |
 | племя Мгачка-Бурганке; племя Акноэ | Mgachka-Burganke tribe; Aknoe tribe | Место | Menzols Loc32-1, Loc161-2 | |

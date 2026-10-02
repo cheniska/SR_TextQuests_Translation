@@ -37,3 +37,4 @@ Loc152-2 | ПРИСКАЗКА | «купить бангу, не имея гро�
 Loc81-1 | ПАРОДИЯ | «умение завоевывать друзей и оказывать влияние на людей» | "how to win friends and influence people" | Д. Карнеги.
 Loc24-1 | ПАРОДИЯ | «воротила с Нью-Ред-Стрит» | "tycoon from New Red Street" | Уолл-стрит.
 Loc187-1 | ПРИМЕЧАНИЕ | рейнджер говорит о себе «кшонга» в 3-м лице | сохранено ("Kshonga really needs...") |
+Loc1-1 | ЕДИНООБРАЗИЕ | "Renee McCallister" | "Rene McCallister" | Рене - мужчина (женская форма Renee - ошибка КР1); сверено с Bank: "R. McCallister" (Path54/91), "Dr. McCallister".
