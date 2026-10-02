@@ -46,10 +46,10 @@ Loc49-1 | АДАПТАЦИЯ | «Хода нет - ходи с бубей?» (к
 Loc60-8 | ПАРОДИЯ | Жбонд, корабль "007" | Ranger Jbond, "007" | Джеймс Бонд (сохранено).
 Path94 | ПАРОДИЯ | Спинкертон, Шолмс | N. Spinkerton, H. Sholmes | Пинкертон + Шерлок Холмс (сохранено).
 Path42b и др. | ПАРОДИЯ | системы сигнализации Рамблера, Яху, Яндекса | Rambler, Yahoo, Yandex | реальные российские интернет-компании; оставлены как есть.
-Path96/238/284 | ТЕРМИН | «Иикэ-Баана», мн.ч. «Иикэ-Бааны»; «икебана» (нарицательное) | "Iike-Baana", "Iike-Baanas"; "ikebana" | КР1 было Eeke-Baana (решение пользователя: Iike-Baana). Автор «Ка-Баан» = Waart-Hoog (как в глоссарии КР1).
+Path96/238/284 | ТЕРМИН | «Иикэ-Баана», мн.ч. «Иикэ-Бааны»; «икебана» (нарицательное) | "Iike-Baana", "Iike-Baanas"; "ikebana" | КР1 было Eeke-Baana (решение пользователя: Iike-Baana). Автор «Ка-Баан» = Ka-Baan (как в глоссарии КР1).
 
 === ЕДИНООБРАЗИЕ (массовые замены) ===
-Hatchball/hatchball -> Hachball (глоссарий: Hatchball не использовать); Schwach -> Shvakh; Zhlobber -> Jlobber; Hryamba, Ms. Khryamba -> Mrs. Khryamba; Schlambur -> Shlyambur;
+Hatchball/hatchball -> Hachball (глоссарий: Hatchball не использовать); Schwach -> Shvakh; Zhlobber -> Zhlobber; Hryamba, Ms. Khryamba -> Mrs. Khryamba; Schlambur -> Shlyambur;
 Ool resident / the Ool resident / the resident Ool / Resident Oola -> Resident Ool; Gas-Golder -> Gaz-Golder; Swamp of Health -> Health Swamp; Healing Muds -> Medicinal Mud; Young Spy's Course -> Young Spy Course;
 gaalian, Gaal laptop, Gaal master, Gaals, Gaelic -> Gaalian(s); peleng(s), pelenges -> Peleng(s); прил. «пеленгский» -> Pelengan (Pelengan planets, Pelengan standards, Pelengan notions); "Peleng-style" оставлено (глоссарий);
 maloq -> Maloq (кроме driver-maloq по глоссарию); bansai -> banzai; disk/CD -> disc; B-killer virus -> B-killer Virus; Lakushay/lyakusa/"U'Byu lyakusha" -> lyakusha U'Byu / Lyakusha U'Byu;
@@ -66,7 +66,7 @@ Trojan (программа, «Троянец») vs Trojan Horse (результ�
 
 === СОМНЕНИЯ / открытое ===
 Loc38-1 | СОМНЕНИЕ | «шраканоподобной застенчивости» | "shrakan-like shyness" | Что такое «шракан» - неясно (вероятно вымышленное существо); оставлено транслитом.
-Path96 | СОМНЕНИЕ | автор «Ка-Баан» в RU, "Waart-Hoog" в EN | оставлено по КР1 и глоссарию | Имя автора в англ. версии иное, чем в оригинале; в Path238b «гаальского мастера Ка-Баана» тоже Waart-Hoog.
+Path96 | СОМНЕНИЕ | автор «Ка-Баан» в RU, "Ka-Baan" в EN | оставлено по КР1 и глоссарию | Имя автора в англ. версии иное, чем в оригинале; в Path238b «гаальского мастера Ка-Баана» тоже Ka-Baan.
 Path49, Loc55-1 | СОМНЕНИЕ | «В. Долбановский» (Bank) vs "S. Triker (!)" в квесте Hachball | оставлено V. Dolbanovsky | см. глоссарий (несогласованность между квестами).
 Par12-x, Path201-207 | ПРИМЕЧАНИЕ | время записано как 0.32, 1.07... (цифры через точку) | не менять: значения используются логикой квеста |
 

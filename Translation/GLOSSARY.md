@@ -116,7 +116,7 @@
 | Слабительное (таблетки) | Laxative | Bank |
 | хэчбол, хэчинг | Hachball (РЕШЕНО; Hatchball не использовать), haching | Hachball, Bank |
 | Иикэ-Баана | Iike-Baana (КР1: Eeke-Baana; решение пользователя — Iike-Baana) | Ikebana, Bank |
-| господин Баал-Да; мастер Ка-Баан | Sir Loo-Gan; Master Waart-Hoog | Ikebana, Bank |
+| господин Баал-Да; мастер Ка-Баан | Mr. Baal-Da; Master Ka-Baan (2026-10-02: транслит; КР1 Sir Loo-Gan, Waart-Hoog) | Ikebana, Bank |
 | клюг (игра) | Klugg | Casino |
 | дерквак; длинноносый хохлач | derquack; longnosed crester (мн. cresters) | Casino (фигуры в игре) |
 | корма: Озверин (диетический), Подогреф Шпал, Чаппи-чупс, Свинскас, Кэтти-кит | Brutalizin (dietary), Underheater, Chappie-Chups, Pigskas, Katekit | Poroda |
@@ -154,7 +154,7 @@
 | RU | EN | Квест |
 |---|---|---|
 | Центральный Пеленгский Банк | Central Peleng Bank (РЕШЕНО; Pelengsky не использовать) | Bank |
-| Банк Жлоббера | Jlobber Bank | Bank |
+| Банк Жлоббера | Zhlobber Bank | Bank |
 | Газ-Гольдер | Gaz-Golder | Bank |
 | Рахиш | Rakhish | Bank |
 | Хэчбол-бар «У гнилого омута» | Hachball bar "At the Rotten Pool" (РЕШЕНО: Hachball) | Bank |
@@ -187,26 +187,26 @@
 |---|---|---|
 | командор Швах | Commander Shvakh (Schwach — вариант, не использовать) | Bank |
 | госпожа Хрямба | Mrs. Khryamba | Bank |
-| Жлоббер, Шлямбур, Яйцентнер, Биллинджер | Jlobber, Shlyambur, Yaitsentner, Billinger | Bank |
+| Жлоббер, Шлямбур, Яйцентнер, Биллинджер | Zhlobber, Shlyambur, Yaytsentner, Billinger | Bank |
 | Рене (Р.) Маккалистер, доктор | Rene (R.) McCallister, Dr. McCallister | Bank (Path54 «Р. Маккалистер», «доктор Маккалистер»), Menzols (Loc1-1 полное имя); мужчина — Rene, не Renee (КР1) |
 | Спинкертон, Шолмс | Spinkerton, Sholmes | Bank |
 | Жбонд, Попадопулос, Грабанян | Jbond, Popadopoulos, Grabanyan | Bank |
-| Глыдл | Glyddl | Casino |
+| Глыдл | Glydl | Casino |
 | Клоск, Марадупель, В. Долбановский | Klosk, Maradupel, V. Dolbanovsky (имена транслитерируем, не адаптируем) | Hachball |
 | Йцохен, Тарон, Грок, Талан, Суэдэ Сан | Ytsokhen, Taron, Grok, Talan, Suede San (2026-10-02: строгий транслит; КР1 Ytzokheng, Grock) | Gladiator |
-| Катарина Фу, Бидон Помоев, далани Хья, од-далани Укэнк, Йцукенг | Catarina Fu, Bidon Pomoev, dalani Hya, od-dalani Ukaenk, Qwerty | Murder |
+| Катарина Фу, Бидон Помоев, далани Хья, од-далани Укэнк, Йцукенг | Katarina Fu, Bidon Pomoev, dalani Khya, od-dalani Ukenk, Qwerty | Murder |
 | Тригор | Trigor | Build |
 | Эдиссон | Edisson | Energy |
-| Гришхилл | Grishhill | Diehard |
+| Гришхилл | Grishkhill | Diehard |
 | Иналта, Клеси-вае | Inalta, Klesi-wae | Commando |
-| Брар, Руберхер, Плехер, Тарахуб, Вертгад (Вердгад), Шлемельх | Brar, Ruberher, Pleher, Tarahub, Vertgad (Verdgad — вариант), Schlemelh | Siege |
+| Брар, Руберхер, Плехер, Тарахуб, Вертгад (Вердгад), Шлемельх | Brar, Ruberkher, Plekher, Tarakhub, Vertgad (Verdgad — вариант), Shlemelkh | Siege |
 | Гаусс (по Гауссу) | Gauss | Siege |
 | Мурза, Агаррача, Бабаха, Унглаха, Гронка, Лвамба, Дамба, Каштанга, Дунга, Грангоча, Жманка, Бурручача, Мганука, Клинка, Алхунка, Грамба, Ранинта | Murza, Agarracha, Babakha, Unglakha, Gronka, Lvamba (КР1 Lwamba), Damba, Kashtanga, Dunga, Grangocha, Zhmanka, Burruchacha, Mganuka, Klinka, Alkhunka, Gramba, Raninta | Menzols |
 | Великий Шавна | Great Shavna (Shawna — опечатка) | Menzols |
 | идол Мгагуча | the idol Mgagucha / the Mgagucha (КР1 "Mgagucha idol") | Menzols |
-| Санёч, Сапожников | Sanych, Sapozhnikov | Rush |
-| Прежевальский | Prezhevalski | Tomb |
-| Кац, Вован | Katz, Vovan | Spy |
+| Санёч, Сапожников | Sanyoch, Sapozhnikov | Rush |
+| Прежевальский | Prezhevalsky | Tomb |
+| Кац, Вован | Kats, Vovan (КР1 Katz) | Spy |
 | Айлаунлат | Aylaunlat | Newflora |
 | Гэ, Вау, Ах, Бах (Боги легенды); господин Хуу (гаалец, глава экспедиции) | Ge, Vau, Akh, Bakh; Mr. Khuu (РЕШЕНО пользователем 2026-10-02: транслит; в КР1 было Gae, Wow, Hoo) | Boat |
 
@@ -225,7 +225,7 @@
 | Центр (разведка) | the Center | Организация | Bank Loc4-1 | |
 | пенчекрята | penchecrakus cubs | Фауна | Bank Path231b | детёныши пенчекряков |
 | Иикэ-Бааны (мн.) / икебана | Iike-Baanas / ikebana | Прочее | Bank Path238, Path96b | нарицательное «икебана» — ikebana |
-| Ка-Баан (автор) | Waart-Hoog | Персонаж | Bank Path96 | как в КР1; в RU «Ка-Баан» (см. Ikebana) |
+| Ка-Баан (автор) | Ka-Baan | Персонаж | Bank Path96 | как в КР1; в RU «Ка-Баан» (см. Ikebana) |
 | С. Прдун | S. Prdun | Персонаж | Bank Path92 | малокский егерь-автор |
 | Л. Тумба | L. Tumba | Персонаж | Bank Path45 | пеленгская феминистка; Ms. Tumba |
 | Грабанян / Гбараньян | Grabanyan | Персонаж | Bank Path42 | КР1 Gbaranyan — заменено |
@@ -268,7 +268,7 @@
 | лазерные зенитки | laser anti-air guns | Оружие | Siege | |
 | разметка по Гауссу; область Крохера | Gauss grid; Kroher area | Термин | Siege | |
 | Грихур, Арахун, Вейеркрах, Габаран, Стальной Гарри | Grikhur, Arakhun, Weierkrach, Gabaran, Steel Harry | Имена | Siege | транслитерация |
-| Руберхер | Ruberher | Имя | Siege | в КР1 "Ruberkher" — исправлено по глоссарию |
+| Руберхер | Ruberkher | Имя | Siege | в КР1 "Ruberkher" — исправлено по глоссарию |
 | галакарта | Galacard | Предмет | Siege Path105b | |
 | «Звёздный град» | "Star City" | ТВ-шоу | Siege Path105b | |
 | Рулон Обоев; корабль «Землянское Землячество» | Rulon Oboev; ship "Earthling Fellowship" (КР1 "Earthy Alliance") | Murder |
@@ -405,3 +405,8 @@
 | гидромобиль; видеофон | hydromobile; videophone | Предмет | Energy Loc39-1, Loc53-1 | |
 | спейс-хип (танец) | space-hip | Прочее | Energy Loc35-1 | |
 | КПД | efficiency | Интерфейс | Energy Loc47-1 | |
+
+### Исправление имён по правилу транслитерации (2026-10-02, по замечанию пользователя)
+Строгий транслит (х → kh, ж → zh, ц → ts, й → y, ё → yo, -ский → -sky); прежние КР1-варианты не использовать:
+Prezhevalski → Prezhevalsky (Tomb); Grishhill → Grishkhill (Diehard); Sir Loo-Gan → Mr. Baal-Da, Waart-Hoog → Ka-Baan (Ikebana, Bank); Jlobber → Zhlobber, Yaitsentner → Yaytsentner (Bank); Glyddl → Glydl (Casino); Catarina → Katarina, Hya → Khya, Ukaenk → Ukenk (Murder); Ruberher → Ruberkher, Pleher → Plekher, Tarahub → Tarakhub, Schlemelh → Shlemelkh (Siege); Sanych → Sanyoch (Rush); Katz → Kats (Spy).
+ОТКРЫТО (вопрос пользователю — пародийные имена): Qwerty/Ytsukeng (Murder), Jbond/Zhbond, Sholmes/Sholms, Popadopoulos/Popadopulos, Billinger/Billindzher (Bank); McCallister оставлен (одобрен).
