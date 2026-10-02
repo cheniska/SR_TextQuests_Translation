@@ -354,3 +354,15 @@
 | щелочной пистолет | alkali pistol | Оружие | Fishing Path320b | КР1 "acid pistol" — неверно |
 | пеленгская удочка (жестяная палка с леской) | Peleng rod | Предмет | Fishing Loc132-1 | |
 | наживка: пиявки, тараканы | bait: leeches, cockroaches | Прочее | Fishing Par1-1, Par2-1 | |
+
+### Tomb (КР1, переведён заново 2026-10-02)
+| RU | EN | Кат. | Где | Комментарий |
+|---|---|---|---|---|
+| Гоши (древняя цивилизация); руны Гоши | the Goshi; Goshi runes | Раса/Прочее | Tomb QuestDescription | гробница Гоши — a Goshi tomb |
+| веха рода; ключ жрецов | the mark of the clan; the key of the priests | Прочее | Tomb Loc14-1, Loc20-1 | КР1 "tribal mark" |
+| ящик «гиру» | "giru" box | Предмет | Tomb Path46b | |
+| руны земли, света, огня, тьмы, воды, ветра | runes of earth, light, fire, darkness, water, wind | Прочее | Tomb Path6-11 | стихии строчными |
+| плазмонож | plasma knife | Предмет | Tomb Loc23-1 | |
+| цивилизация «великой энергетики» | the civilization of "great energy" | Прочее | Tomb Loc21-1 | КР1 "infinite energy" — неверно |
+| капсула сна; ксенокалькулятор | sleep capsule; xenocalculator | Предмет | Tomb Path45b, Loc1-1 | |
+| психобаланс; Великая философия | psychobalance; the Great Philosophy | Прочее | Tomb Loc17-1 | школьные предметы гаальцев |
