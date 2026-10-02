@@ -1489,11 +1489,11 @@ ekup; Brigee Bardozze (ксенопарк); crossbow (ручной самост�
 | актриса Прунелла Лягуше-Мухошлеп XIV | Prunella Lyagushe-Mukhoshlep XIV | Easywork |
 | Смиттерс Либерман (журналист-сектант) | Smitters Liberman | Easywork |
 | Чвондер (за кого пьяный пеленг принимает рейнджера) | Chvonder | Easywork |
-| рейнджер Заливайко («Меньше заливать надо, Заливайко») | Zalivayko ("Tell fewer tall tales, Zalivayko") | Easywork (строгий транслит; каламбур передан смыслом) |
+| рейнджер Заливайко («Меньше заливать надо, Заливайко») | Zalivayko ("Tell fewer tall tales, Zalivayko") | Easywork (фамилия — «табличка на его форме», форма на -ко; строгий транслит, проверено 2026-10-02; каламбур передан смыслом) |
 | певец Джокер, хит «Баллада о мутенке» | the singer Joker, "The Ballad of the Little Mutant" | Easywork |
 | маньяк-парикмахер Федя Клюквин (сериал) | Fedya Klyukvin | Easywork |
 | город Каа-Заань; лес Ооли; горы Кааро-Ами (пик Аами), Кааро-Оми | the town of Kaa-Zaan; the Ooli forest; the Kaaro-Ami mountains (Aami Peak), Kaaro-Omi | Easywork |
-| бар «Д-эль» (вывеска «Бар Д-эль» мигает → «Бор Д-эль» ≈ «бордель») | the "D-ello" bar (sign "Bar D-ello" flickers to "Bor D-ello" ≈ bordello) | Easywork (адаптация каламбура; ВОПРОС пользователю) |
+| бар «Д-эль» (вывеска «Бар Д-эль» мигает → «Бор Д-эль» ≈ «бордель») | the "D-ello" bar (sign "Bar D-ello" flickers to "Bor D-ello" ≈ bordello) | Easywork (адаптация каламбура; ПРИНЯТО пользователем 2026-10-02) |
 | улица Красного Треугольника; улица Яркого Альтаира; Грязеболотный Проспект им. Вонючего Клепши | Red Triangle Street; Bright Altair Street; Stinky Klepsha Mudswamp Avenue | Easywork |
 | дом Левого Усеченного Октаэдра, Прямопоперечно-гиперболическая квартира | Left Truncated Octahedron building, Rectitransverse-Hyperbolic apartment | Easywork |
 | хрюпели; шварка (местные деньги) | khryupels; shvarka | Easywork |
