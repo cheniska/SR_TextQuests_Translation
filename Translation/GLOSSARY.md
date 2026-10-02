@@ -1192,3 +1192,32 @@ Prezhevalski → Prezhevalsky (Tomb); Grishhill → Grishkhill (Diehard); Sir Lo
 | гаальские философы Пи-Фига Гоор, Краан-Та | Peehee-Phiga-Gohor, Krahan-T | пародия |
 | иикэ-баанисты | ihike-bahanists (sic) | ≠ Iike-Baana |
 | Ассоциация Киллеров | (Assassins' Association) | |
+
+## ИТОГ SR2HD DevTranslated: выбранные оф. формы и замены в наших переводах (2026-10-02)
+Правило пользователя: при расхождении — в пользу DevTranslated; внутренний разнобой разработчиков решается по частоте во всех 42 файлах DevTranslated (`*_eng.txt`). Колонка «Наши вхождения» — где и сколько раз наша форма встречается в наших переводах (КР1 Eng, Moi_eng, Rev: Cybersport/Massacri). **Замены ещё НЕ сделаны — ждут подтверждения пользователя.**
+
+| RU | Наша форма | Оф. варианты (частота) | Предлагаемая форма | Наши вхождения |
+|---|---|---|---|---|
+| хэчбол; хэчинг; хэч-хряп | Hachball / hachball; haching; hach-hryap | hatch-ball 22, hatchball 18+1, hatching (Olympiada) | **hatch-ball** (почти ничья с hatchball — вопрос пользователю); hatching; hatch-hryap | Hachball 109, Bank 38, Moi 1 (≈148) |
+| Махпелла | Mahpella | Machpella 13, Makhpella 2 | **Machpella** | Massacri 5 |
+| гобзавр | gobsaur(s) | gobzaurus 21, gobsaurus 12 | **gobzaurus** (мн. gobzauruses) | Gobsaur 101, Moi 2, Massacri 2, Cybersport 1 (имя файла Gobsaur не трогаем) |
+| жвырклац | zhvyrklats | phatklink(s) 23, Zhvirklatz 1 (балет) | **phatklink** | Moi 2 |
+| кванга | kwanga | quanga 2 | **quanga** | Menzols 76 |
+| кинза; кинзовый соус; кровавая кинза | kindza; cilantro (sauce); Bloody Kindza | kinza 12 (Kinza 1) | **kinza**; kinza sauce; Bloody Kinza | Bank 5, Energy 4, Diamond 3, Siege 3, Build 1 (≈16) |
+| янвелб | yanvelba | ekup 3, janwelb 1 | **ekup** (по частоте; звучит чуждо — вопрос пользователю) | Examen 2, Bank 1, Murder 1 |
+| пенчекряк | penchecrakus (-es) | penchekryak(s) 48, penchekryacus 12, penchequack 2 | **penchekryak** (мн. penchekryaks) | Poroda 88, Bank 34, Moi 8, Diamond 1, Penetrator 1, Cybersport 1, Massacri 1 (≈134) |
+| втыкилла | Vtykilla | vtequila 4 | **vtequila** | Moi 2 |
+| Книга Позора | Book of Shame | Disgrace Book 1 | **the Disgrace Book** | Murder 3 |
+| далани; од-далани | dalani; od-dalani | Dalany 27, Od-dalany 13; dalani 2, Od-dalani 1 | **dalany; od-dalany** (с заглавной перед именем — как у оф.) | Murder 65, Rush 1 |
+| хелдас | heldas (-es) | helldas 3 | **helldas** (мн. helldases) | Bondiana 73 |
+| гуанава | guanava | guanava 6, guanawa 6 | **guanava** (ничья, оставляем нашу) | — |
+| ксенопарк Ляпцвы Хица | Hitz's xenopark | Lyapzva Hiz 1 (Election), Brigee Bardozze 1 (Xenopark, адаптация) | **Lyapzva Hiz** (сохраняет RU; вопрос пользователю) | Moi 1 |
+| пеленгский (прил.) | Pelengan | атрибутивное Peleng 445, Pelengan 0 | **Peleng** (Peleng planets, Peleng pirates) — отменяет прежнее решение «Pelengan» | Newflora 45, Diamond 37, Hachball 26, Galaxy 16, Bank 11, Bondiana 6, Murder 5, Casino 1, Poroda 1 (148) |
+| ручной самострел / самострел | hand-held dart gun | crossbow (Election) | **crossbow** | Bank 1, Hachball 1 |
+| стереовизор | stereovisor | stereovision 65 | **stereovision** | Massacri 11, Diamond/Bank/Hachball/Siege/Spy (≈12) |
+| стукач | — | stoolie 29, informer 8 | stoolie | — |
+| сиболусовт | — | sibolusovtus 114, sibolusoft 5 | sibolusovtus | — |
+
+**Совпадает с оф. (менять не нужно):** Peleng(s) с заглавной (оф. 577 против 297), Maloq(s) (785/240), Faeyan(s) (оф. также «fae»), Klissan(s), Dominator(s) с заглавной (77/28), Iike-Baana, lyakusha, Rachekhan, Commonwealth, guanava, stereovision (часть наших уже).
+**Спорно у оф. (вопрос пользователю):** гаалец — оф. существительное чаще «gaal(s)/Gaal(s)» (367), чем «Gaalian(s)» (≈208, включая прилагательное); у нас Gaalian(s) (222 вхождения). Рекомендация: оставить Gaalian(s).
+**Имена у оф. с разнобоем (для будущих переводов):** Korchenitza (Foncers) / Korchenitsa (Rally); Mikhael Shulman / Michael Schulmann; Borzukhan / Borzuhan; Tardim Babach / Tardym Ka'Boom; MacroHard Nondows / Macrohard Doors; Lyapzva Hiz / Brigee Bardozze.

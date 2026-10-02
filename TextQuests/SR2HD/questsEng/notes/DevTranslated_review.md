@@ -403,3 +403,14 @@
 - Loc5-1: «в "угадай животное" играть» → "Nick the animal" (неудачно); Loc13-2: «несокрушимой мощи» → "undeletable might"; «врасплох захватил» → "took… at advantage".
 - QuestDescription: добавлено пояснение «xenomorphs (the Peleng term for rare animals)».
 - Loc13-3: «мясистые губы» → "flashy lips"; Loc15-1: "organic flash" (flesh).
+
+## ИТОГ (2026-10-02)
+Просмотрены все 42 квеста. Самые серьёзные проблемы оф. перевода:
+- **PirateClanPrison**: EN — копия Prison; пиратские правки RU (10 записей: присяжные, речь начальника, амнистия, радио) не переведены.
+- **Sortirovka1 Path11b**, **Robots Loc76-5**, **Leonardo Loc51-5**: EN — чужой текст из другой записи.
+- Пустые EN: Leonardo Loc83-2, Path152b; Olympiada Loc80-3; Evidence Loc63-3.
+- Обратный смысл: Codebox Path187, Election Path231, Depth Loc37-2, Foncers QuestSuccessGovMessage («Доминаторам не устоять» → "won't succumb"), Ministry Loc63-8, Pachvarash Loc63-8, STQ_Ataman1 Path5.
+- Перепутаны расы: Election (Path230b, Path91b, Loc104-3), Pizza Loc10-6 (пеленги вместо фэян), Olympiada Loc80-1.
+- Замены имён/пародий без опоры на RU: Xenopark (Ляпцва Хиц → Brigee Bardozze), Ministry (Ко Чегара → Ge Chevara), Rally (Егорыч → Igorych), Robots, Pilot, Olympiada.
+- Изменённые формулы/токены: SpaceLines Loc35-1, Loc39-1 (1,5 → 1.5); PirateClanPrison Path391b ({40} → {100}); многочисленные потери <clr>, <Ranger> (см. _check по квестам).
+- Нецензурные опечатки: Election Loc66-1 "T-shits", Pizza Loc10-1 "prostates".
