@@ -1506,3 +1506,21 @@ ekup; Brigee Bardozze (ксенопарк); crossbow (ручной самост�
 | легкий/тяжелый пехотинец, коммандо, снайпер, электронщик; взрывчатка, граната с газом, ЭМИ-бомба, электронная разведка, десантный флаер | light/heavy infantryman, commando, sniper, electronics expert; explosives, gas grenade, EMP bomb, electronic recon(naissance), landing flyer | Easywork |
 | ругательства робота: «Гобзавр опущенный!», «Альдегид твою перекись водорода через бензоат натрия!» | "You degraded gobsaur!", "Aldehyde your hydrogen peroxide through sodium benzoate!" | Easywork |
 | послать к доминаторовой матери | tell someone to go to the dominators' mother | Easywork |
+
+## SR2HD Untranslated: Kiberrazum (2026-10-02)
+| RU | EN | Квест |
+|---|---|---|
+| Киберразум (компьютерный разум корпорации) | the Cybermind (мн. Cyberminds) | Kiberrazum |
+| корпорация «Умбротек» | the "Umbrotek" corporation | Kiberrazum (пароль «Умбротек» → "Umbrotek") |
+| Симонс; Стив (охранник «Умбротека») | Simons; Steve | Kiberrazum (английские имена в рус. записи — исходная форма) |
+| «Адский распылитель» | the "Hell Sprayer" | Kiberrazum |
+| киберпространственная консоль; киберпространство | cyberspace console; cyberspace | Kiberrazum |
+| система двойного контролирования / двойного контроля | the dual control system | Kiberrazum |
+| Альфа пласт | the Alpha Layer | Kiberrazum |
+| зелёный сектор; охранный сектор; сектор Киберразума; канал №1–4; ловушка | green sector; security sector; Cybermind sector; channel No. 1–4; trap | Kiberrazum |
+| мини-взломщики; стандартные взломщики; модернизированные взломщики; элитные взломщики; стандартные / элитные блокираторы | mini crackers; standard crackers; upgraded crackers; elite crackers; standard / elite blockers | Kiberrazum |
+| МиВ, СВ, МоВ, ЭВ, СБ, ЭБ (параметры-счётчики) | MC, SC, UC, EC, SB, EB | Kiberrazum (расшифровка по Par12–14, 29–31) |
+| пластикобетон | plastic concrete | Kiberrazum |
+| робот-пешеход («адский Цербер») | walker robot ("infernal Cerberus") | Kiberrazum |
+| «Пойнт... Тшеймс Пойнт...» (пародия на «Бонд. Джеймс Бонд») | "Point... Tshames Point..." | Kiberrazum (звучание сохранено) |
+| Эйс Смирнов, Давыдушка (авторы в титрах) | Ace Smirnov, Davydushka | Kiberrazum (ники авторов; Эйс = Ace) |
