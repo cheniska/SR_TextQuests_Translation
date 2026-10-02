@@ -891,3 +891,31 @@ Prezhevalski → Prezhevalsky (Tomb); Grishhill → Grishkhill (Diehard); Sir Lo
 | «Instance FisherMann GMbH»; ЧП Мормышкин (подвал №5) | "Instance FisherMann GMbH"; private entrepreneur Marmyshkine | |
 | «Вольные корсары» | the free corsairs | |
 | плазморужьё; стереофон | plasmagun; stereophone | |
+
+### Muzon
+| RU | EN (оф.) | Комментарий |
+|---|---|---|
+| MUZZ-фестиваль (300-летний, самый элитный в галактике) | MUZZ-festival | |
+| рокнроллеры (местная валюта) | rockarollars | |
+| гипер-рок | hyper-rock | |
+| группы Letallica, Pink Asteroid, Blin 182 | Alumminica, Pink Asteroid, Drink 182 | оф. адаптация пародий |
+| «Пятьсот Чили Неферс» | "Rock Hard Chilly Peppers" | |
+| лаптоп Inter Dendium 5; ОС Nondows 3.141592; корпорация MacroHard | Inter Dendium 5; Nondows 3.141592; MacroHard | |
+| стадион им. Марадонги Непобедимого | the hatch-ball stadium named after Hackhum the Unconquerable | |
+| пират Бин-Лааден | Pirate Bing | |
+| малокский режиссёр Таррантир | Quinthor Terrortino | |
+| «Дюк Хрюкем Форева» | "Duke Pukem Forever" | |
+| фэянский тенор Игле Сясь; группа Smash&Crash | Eggg Lispius; Smash&Crash | |
+| гитара «Hender» (фэянской сборки, 27 струн) | "Hender Destructocaster" | |
+| принц Тардым ба'Бах (походная табуретка) | Prince Tardym Ka'Boom | ср. Tardim Babach (Badday), Tardym Ka'Boom (Banket) |
+| цивилизация гоши (древний язык) | Goshi civilisation | |
+| научная база «Фэяночка» | Faeyanette Scientific Base | |
+| секта «Сыны Господа» | "God Sons" Sect | |
+| рейнджер Дохляга; рейнджер Лаамер | Ranger Feebling; Ranger Laamer | |
+| Маарли (тату-мастер) | Maarlie | |
+| максифон | maxiphone | |
+| стиль «Тяп-ляп и готово» | "quick-and-dirty" | |
+| хэчбол | hatch-ball | |
+| аэротакси | hover-taxi | ≠ aerocab (Jumper) |
+| стереотеатр; стереошоу | stereo-theatre; stereo-show | |
+| ноды (у доминаторов) | nodes | |

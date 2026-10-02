@@ -210,3 +210,16 @@
 - Loc141-x: жаргонное «на» передано непоследовательно ("dude", "like", "that").
 - QuestSuccessGovMessage: «Да вас просто так не проведёшь!» → "Indeed, you are not that easy!".
 - Опечатки: "bold head", "loose", "buts" (butts), "toiled", "Secretarial", "go it", "I rather have", "A came here", "You mission is failed", "run" (ran), "waived".
+
+## Muzon
+- Перевод очень вольный (адаптация шуток и пародий: Letallica → Alumminica, Blin 182 → Drink 182, «Мурка» → "Smoke On The Water", Бин-Лааден → Bing) — допустимо, но отходит от RU.
+- **Path324b/325b**: «с диким криком обворованного мензола» → "battle cry of a penchekryak in heat"; Path325b: «врезали гитарой по колонке» → "smashed… against the floor" / «вместо гитары сломалась колонка» — расширено.
+- **Loc71-1**: «двадцатью семью струнами» передано, но «фэянской сборки» → "custom-made Faeyan" (ок).
+- **Loc199-1**: «древнего обитателя человеческих планет» → "an inhabitant of Human planets" (потеряно «древнего»).
+- **Loc62-1**: «На столе» → "on the bedside table"; стереовизор «висит над кроватью» → "hovering".
+- **QuestSuccessGovMessage**: «прямую трансляцию» → "the show on the stereovision"; «Рок-н-ролл ЖИВ!!!» → "Rock on!!!".
+- **Par5-crit**: «Все мутанты!», «Виват анархия!» → "Your problem is you!", "I wanna be an Anarchist!" (адаптация).
+- **Loc237-1**: почтовый адрес адаптирован ("@hotmale.com"); Loc73-9 ".spama.net" → ".spam.no".
+- Loc73-2/73-8/73-10: <clr> сдвинуты ("system of <clrEnd>").
+- Par2-2: «<> день» → "days"; Loc302-1: «так и не подали заявку» → "You forgot to check in".
+- Опечатки: "You lied in your room", "it least", "right a better", "witch allowed", "the crowed", "tow persons", "greet got the better", "You rating ahs", "You had a chance over a pint" (chat), "to very the performance", "You ear is pierced", "local hoodlums in you cell".
