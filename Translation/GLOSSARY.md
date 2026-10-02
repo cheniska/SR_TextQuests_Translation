@@ -1801,3 +1801,10 @@ ekup; Brigee Bardozze (ксенопарк); crossbow (ручной самост�
 | Остров Желтых песков; Остров Джунглей; Скала Деревянная; Аэропорт-на-Скале; Площадка №7-МХ; Золотое побережье; Кораллер; Остров имени Махпеллы; Скала Камня | Island of Yellow Sands; Island of Jungles; Wooden Rock; Airport-on-the-Rock; Platform No. 7-MH; the Golden Coast; Koraller; Makhpella Island; Stone Rock | Tourists |
 | дороги: Джунглей, Большой Реки, Медовая, Каньонная, Пустынная, Голубых Гор, Саванная, Древняя, Подводная, Угольная, Гейзеров, Солевая, Заснеженная, Болотистая, Туманная | Jungle, Great River, Honey, Canyon, Desert, Blue Mountains, Savanna, Ancient, Underwater, Coal, Geyser, Salt, Snowy, Swampy, Foggy Road | Tourists |
 | кевропластик; плазиковры; галапортреты; пластибумага | kevroplastic; plasi-carpets; gala-portraits; plastipaper | Tourists |
+
+| доктор Хайдерсон; профессор Кален-Чугун | Doctor Khayderson; professor Kalen-Chugun | Feipsycho |
+| пациенты: Адын Шифрин, Аргх Пажар (малок-пожарник), Артемий Пылевзбучивый, Шпрюххен Зю-Чихпых (пеленгша), Мозалг-Доп-Лагниф | Adyn Shifrin, Argkh Pazhar, Artemy Pylevzbuchivy, Shpryukhkhen Zyu-Chikhpykh, Mozalg-Dop-Lagnif | Feipsycho |
+| пациенты: Паци-Наци, А-Батч (инфернетчик), Болф-Ан, Гдабо-бан; Чокнутый Дракон; Маньяк Ы | Patsi-Natsi, A-Batch (infernetter), Bolf-An, Gdabo-ban; the Crazy Dragon; Maniac Y | Feipsycho |
+| препараты: плинтусизин, пачрамбитол, парадубин, настойка устолбяки; нейрофугасная инъекция; нейроинтерференционные средства | plintusizine, pachrambitol, paradubine, ustolbyaka tincture; neurophougasse injection; neurointerference agents | Feipsycho |
+| доминаторский босс Текстон (выдумка рейнджера) | Texton | Feipsycho |
+| «Абсолютно упругое стекло ФэянТреск»; Gazenwagen2128506 | "Absolutely Elastic Glass FaeyanCrack"; Gazenwagen2128506 | Feipsycho |
