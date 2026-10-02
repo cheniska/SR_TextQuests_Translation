@@ -391,3 +391,17 @@
 | скафандр-маска; акваланг; подъёмник | suit-mask; aqualung; lift | Предмет | Diehard Loc1-1 | КР1 "platform" для подъёмника |
 | гаальская мафия; гаальские силы безопасности | the Gaalian mafia; Gaalian security forces | Организация | Diehard Loc41-1, Loc28-1 | |
 | ИСПЫТУЕМЫЙ (обращение оператора) | SUBJECT | Интерфейс | Diehard Loc1-1 | капслок как в RU |
+
+### Energy (КР1, переведён заново 2026-10-02)
+| RU | EN | Кат. | Где | Комментарий |
+|---|---|---|---|---|
+| пси-электростанция; пси-блок; пси-энергия | psi-power plant; psi-block; psi-energy | Прочее | Energy | |
+| резервуар (параметр «Резервуар 2F») | Reservoir 2F | Интерфейс | Energy Par1-1 | КР1 "Block" |
+| общее / основное хранилище (пси-энергии) | the general (psi-energy) storage / the main storage | Прочее | Energy Loc37-1, Loc34-1 | |
+| фриз; нагнетатель (левый/правый); турбины | freeze; injector (left/right); turbines | Прочее | Energy Par12 | нагнетатель — как в КР1 |
+| квазиэнергия; квазифизика | quasi-energy; quasi-physics | Прочее | Energy QuestDescription | |
+| метарезонанс; прогрессивный распад энергии | metaresonance; progressive decay of energy | Прочее | Energy Loc9-1, Loc34-1 | |
+| галакарта | galacard | Предмет | Energy Loc35-1 | КР1 "Gala-card" |
+| гидромобиль; видеофон | hydromobile; videophone | Предмет | Energy Loc39-1, Loc53-1 | |
+| спейс-хип (танец) | space-hip | Прочее | Energy Loc35-1 | |
+| КПД | efficiency | Интерфейс | Energy Loc47-1 | |
