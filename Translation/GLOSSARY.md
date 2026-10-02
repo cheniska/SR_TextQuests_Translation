@@ -455,3 +455,4 @@ Prezhevalski → Prezhevalsky (Tomb); Grishhill → Grishkhill (Diehard); Sir Lo
 - Дрэдроунд → Dreadround (Gladiator; звучание оригинала + отсылка к dread/Dreaddy; КР1 Draedrownd).
 - дреди → Dreaddy, ТОЛЛОСУУМ → TOLLOSOOOM — оставлены (варианты: TOLLOSUUM строгий, TOLLOSOOM).
 - McCallister оставлен (одобрен).
+| шракан; шраканоподобный | shrakan; shrakan-like | Bank (низшие полуразумные виды у пеленгов — по пояснению пользователя) |
