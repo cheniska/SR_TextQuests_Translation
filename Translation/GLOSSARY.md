@@ -63,7 +63,7 @@
 | КДВ | Space Marines | Организация | Loc4-2 | космодесантные войска (пользователь) |
 | Содружество | Commonwealth | Организация | Path924b | не путать с Coalition of Planets |
 | космолингва | Galactic Standard | Прочее | Loc86-1 | |
-| Втыкилла | Vtykilla | Предмет | Loc28-1 | напиток; транслитерация, решение пользователя |
+| Втыкилла | vtequila (ПЕРЕРЕШЕНО 2026-10-02 по оф./ванилле; было Vtykilla) | Предмет | Loc28-1 | напиток |
 | Commercial Games | (как есть) | Организация | Path93b | владелец прав на "Master" |
 | Игрулечки | Gamesies | Предмет | Loc25-5 | игровой журнал |
 | Хэчбол | Hachball | Прочее | Loc25-3 | как в KR1 |
@@ -1668,7 +1668,7 @@ ekup; Brigee Bardozze (ксенопарк); crossbow (ручной самост�
 | сварокок; трехногий пенчекряк-мутант; болотные термиты | svarokok; the three-legged mutant penchecrakus; swamp termites | Testing |
 | ай-ди-ди-кью-ди (чит-код) | eye-dee-dee-cue-dee | Testing (iddqd из Doom) |
 | шокер «Шухер»; компания «Айбоо-Лиит» (аптечки); «Пьер Кардамон» / «Валокордин Юдашкин» | the "Shukher" stun gun; "Aiboo-Liit"; "Pierre Cardamom" / "Valocordin Yudashkin" | Testing |
-| «Втыкилла» (напиток) | "Vtequila" | Testing (ИСПРАВЛЕНО 2026-10-02: было Vtequila; по оф. DevTranslated) |
+| «Втыкилла» (напиток) | "Vtequila" | Testing (ИСПРАВЛЕНО 2026-10-02: было Stabquila; по оф. DevTranslated) |
 | игра Master of Iike-Baana: The Dark Shadows of Evil Lord / The Evil Shadow Lord of Darkness | (как есть, латиницей в RU) | Testing |
 | язык гоши: «киддат панты», «пантова чуввыха», «киддат чуввых» | the Goshi language: "kiddat panty", "pantova chuvvykha", "kiddat chuvvykha" | Testing (загадка, транслит) |
 | Ведущий Шахманду; вертикс; штип | the Shakhmandoo Leader; vertix; shtip | Testing (по ванилле/глоссарию) |
