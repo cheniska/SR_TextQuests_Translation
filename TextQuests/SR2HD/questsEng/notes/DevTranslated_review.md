@@ -114,3 +114,24 @@
 - Path115b: «с отсталыми расами» → "other races"; Path167: «до пяти лет» → "for five years"; Path168: «на планетах» → "countries"; Path223: будущее время → "has been reduced".
 - Разнобой имён: Strangl/Strangle/Stangl Lee; Karra Bbach/Bach; Blubb/Blub Lubb; Od-dalani/Od-delani; plasmatank/plasmotank; hatch-ball/hatchball.
 - Опечатки: "feasts" (feats), "Fist of all", "drag trafficking", "Maloiqs", "Malloqs", "Fayans", "Faeyns", "slow number", "stingy swamp mud".
+
+## Elus
+- Разнобой титулов: «далани / од-далани» → "Dalany / Od-dalany" (в Election — Od-dalani, Od-delani).
+- Loc22-1: «присуждается всем, кто занял второе место вслед за Онайком» → "who came in a close second" (ок); «Книга Позора» → "Disgrace Book".
+- Loc26-1: текст расширен неверно ("There is a number of figures in the lower part of the screen including those you need to choose").
+- Loc29-4: "FORTH" (fourth); Loc32-1: «на душе стало легче» → "Your heart was higher".
+- Loc2-1: «первая выбирается случайно» → "chosen occasionally".
+
+## Evidence
+- **Par25-crit**: «увлеклись дегустированием напитков… дёрнули лишнего» → "testing the narcotics… overdosed" (речь об алкоголе из бара).
+- **Loc129-1**: «хозяин квартиры не полный идиот, чтобы оставлять наркотики…» → "The apartment's owner is such an idiot that he would leave narcotics…?" (смысл искажён).
+- Loc1-1: «пласталь и стеклобетон» → "plastic and concrete"; "gigopolis".
+- Loc34-1: «не нашли места, где можно припрятать улику» → "where rags might be stored".
+- Loc52-1: «что-то вы увлеклись просмотром» → "something distracted your viewing" (обратный смысл).
+- Loc28-2: «десятки децибел» → "gigawatt speakers".
+- Loc74-1: «янвелб» → "ekup" (в Driver — janwelb).
+- Loc111-2: «разминулся с полицейским» → "the police walked in" (ед. → мн., ок по смыслу).
+- Loc124-1: игра слов «Типерь» → "Now I now" + 'k' (адаптация, ок).
+- Loc127-1, Loc132-1, Loc109-1, Loc126-1: потеряны открывающие/закрывающие кавычки.
+- Path306: «А что с уликами-то?» → "What? With the evidence?" (≠ Path305 при одинаковом RU); Path195 vs Path199 «Оставить шкаф в покое» → shelf / closet.
+- Опечатки: "trama", "expect your lips", "Your are in", "solider", "at least one", "Of course, You", "managed too", "its plugged in", "a deeply".

@@ -738,3 +738,38 @@ Prezhevalski → Prezhevalsky (Tomb); Grishhill → Grishkhill (Diehard); Sir Lo
 | Змей-Горыныч; Баба Яга; Василиса Премудрая и Калистрат Мудрило | firedrake; old witch; Riddles of the Sphynx and Calistrate Wiseast | адаптация |
 | малиновый пиджак | Hawaiian shirt | адаптация |
 | налог на беременность; налог на борьбу с доминаторами | pregnancy tax; tax for maintaining the struggle with the Dominators | |
+
+### Elus
+| RU | EN (оф.) | Комментарий |
+|---|---|---|
+| Элус (фэянская игра); элуни (пожизненное звание) | Elus; elunie (мн. elunies; иногда Elunie) | |
+| далани; од-далани (титулы фэян) | Dalany; Od-dalany | ≠ dalani / od-dalani (наш, КР1 Murder; в Election оф. Od-dalani) — разнобой оф. |
+| элуни Онайк, Эо Лантид, Лун Ган, Эллинар, Крокус | Elunie O'Nyke, Eo Lantid, Loon Gun, Ellinar, Crocus | фэяне |
+| далани Мокус, Фокус; од-далани Блюк | Dalany Mocus, Phocus; Od-dalany Bliuk | |
+| ассистент Глюк; профессор Груздь; доцент Тупой | Assistant Gliuk; Associate professor Agaric; Assistant professor Clod | адаптированы |
+| Макс (однокашник) | Max | |
+| Книга Позора | the Disgrace Book | ≠ Book of Shame (наш, КР1 Murder) → берём оф. |
+| культура Фэй | Fai culture | |
+| ромб; круг (фигуры) | lozenge; circle | |
+
+### Evidence
+| RU | EN (оф.) | Комментарий |
+|---|---|---|
+| Улики (квест; автор ru_ND, 2011–2012) | Evidence | |
+| компромат; пакетик (с наркотиком); улика | dirt / compromising evidence; package; evidence | |
+| фэянин (посредник) | the fae | оф. строчными, «fae» как ед. ч. |
+| гигаполис; пласталь и стеклобетон | gigopolis (sic); plastic and concrete | оф. ошибка: пласталь ≠ plastic; у нас лучше gigapolis, plasteel and glass concrete |
+| бахилы; перчатки | booties (shoe booties); gloves | |
+| стереовизор | stereovision | |
+| кухонный комбайн | food processor | |
+| втыкилла | vtequila | ≠ Vtykilla (наш, Moi) → берём оф. |
+| янвелб | ekup | ≠ janwelb (оф. Driver) — разнобой оф. |
+| пенчекряк; тапочки с мордашками пенчекряков | penchekryak; penchekryak slippers | ≠ penchecrakus (наш) |
+| хэтчбол (поле) | hatchball (field) | |
+| сиболусовт; «Разведение сиболусовтов», Никлаай Дооздов | sibolusoft; "Breeding Sibolusofts", Niklaai Doozdov | |
+| «Основы судебного делопроизводства», Йилкач Щлецозорг | "The Basics of Legal Proceedings", Iilkach Shletsozorg | |
+| «Незапланированные и утомительные приключения вольного торговца Дрейка» | "The Unplanned and Laborious Adventures of Drake the Free Trader" | книга |
+| еженедельник «Гордость рейнджера» | "Ranger Pride" | журнал |
+| просвещённый зороастризм | enlightened Zoroastrianism | |
+| коалиция | the Coalition | |
+| доминаторы | dominators | оф. строчными |
