@@ -1792,3 +1792,12 @@ ekup; Brigee Bardozze (ксенопарк); crossbow (ручной самост�
 | харчевня «Бiля Цуцика»; Зазеркалье; ацтои (народ Земли); лагерь «СЮНЬ-ХРЮНЬ»; «Перпердон-пардон»; «Бом Гав-Гав-УЁН»; Какатреб | "Bilya Tsutsyka" Tavern; the Looking-Glass; the Aztoys; "SYUN-KHRYUN"; "Perperdon-Pardon"; "Bom Gav-Gav-UYON"; Kakatreb | Park |
 | орден Саблезубого веника в валенке; электромобиль «Бета-Джульетта КК - ИКС» | Order of the Saber-Toothed Broom in a Felt Boot; "Beta-Juliet KK - X" | Park |
 | «Каждый Охотник Желает Знать...» (радуга) | "Richard Of York Gave Battle In Vain" (адаптация, ROYGBIV) | Park |
+
+| мосты А–З (городок мэра) | bridges A–H (кириллица А Б В Г Д Е Ж З → латиница A B C D E F G H) | Tourists |
+| цвета мостов: салатовый, голубой, синий, аквамариновый | lime green, light blue, blue, aquamarine | Tourists |
+| «Лабиринт Минотавра»; электронный гид; плазмобус; гравитакси; Гексагон (правительственное здание) | "Labyrinth of the Minotaur"; electronic guide; plasmabus; gravitaxi; the Hexagon | Tourists |
+| лякуша Бачеквак, лякуша Шасапус (Дзухаллаг); бамбай Ургаррар (кандидат в Галактический Совет) | Lyakusha Bachekvak, Lyakusha Shasapus; bambay Urgarrar | Tourists |
+| Абу Линкольн Хуссейн (первый диктатор планеты) | Abu Lincoln Hussein | Tourists |
+| Остров Желтых песков; Остров Джунглей; Скала Деревянная; Аэропорт-на-Скале; Площадка №7-МХ; Золотое побережье; Кораллер; Остров имени Махпеллы; Скала Камня | Island of Yellow Sands; Island of Jungles; Wooden Rock; Airport-on-the-Rock; Platform No. 7-MH; the Golden Coast; Koraller; Makhpella Island; Stone Rock | Tourists |
+| дороги: Джунглей, Большой Реки, Медовая, Каньонная, Пустынная, Голубых Гор, Саванная, Древняя, Подводная, Угольная, Гейзеров, Солевая, Заснеженная, Болотистая, Туманная | Jungle, Great River, Honey, Canyon, Desert, Blue Mountains, Savanna, Ancient, Underwater, Coal, Geyser, Salt, Snowy, Swampy, Foggy Road | Tourists |
+| кевропластик; плазиковры; галапортреты; пластибумага | kevroplastic; plasi-carpets; gala-portraits; plastipaper | Tourists |
