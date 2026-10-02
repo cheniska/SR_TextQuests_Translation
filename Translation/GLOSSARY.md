@@ -1275,3 +1275,29 @@ ekup; Brigee Bardozze (ксенопарк); crossbow (ручной самост�
 | Макрохард Нондоуз | Macrohard Nondows | ванилла |
 | принц Тардым Ба'бах | Prince Tardym Ka'Boom | ванилла/оф. |
 | фэяне (разг.: фэяшка, фэй) | fae | ванилла (53) и оф. (71); полное — faeyan |
+
+## SR2HD Untranslated: Amnesia (2026-10-02)
+| RU | EN | Квест |
+|---|---|---|
+| Яа Саам (гаальский резидент спецслужб) | Yaa Saam | Amnesia |
+| Паатрон (наркобарон, гаалец) | Paatron | Amnesia |
+| доктор Тяпша Ляпц (пеленг) | Doctor Tyapsha Lyapts | Amnesia |
+| Пуляй Косорукий (пеленг-бандит) | Pulyay Crookhand (имя транслит., прозвище переведено) | Amnesia |
+| Бух'ерик (пеленгский фермер в задаче; «бухарик») | Bukh'erik | Amnesia |
+| хрякоплюхи; долбогрызы (звери из задачи) | boarsplats; dumbgnawers | Amnesia (адаптация) |
+| банда «Тупые ослы» | the "Dumb Donkeys" gang | Amnesia |
+| бар «Золотая лилия» | the Golden Lily bar | Amnesia |
+| магазин «Все для охотников и охоты на них» | "Everything for Hunters and for Hunting Them" | Amnesia |
+| пароли: «Грязная пачрямба»; «Дети Гаала» | "Dirty pachryamba"; "Children of Gaal" | Amnesia |
+| портвейн «Золотой лякуш»; болотный настой | "Golden Lyakush" port; swamp brew | Amnesia |
+| коктейль «Слезы Махпеллы»; Волкодав; Лысый Перец | "Tears of Machpella"; Wolfhound; Bald Pepper | Amnesia |
+| гаальская фабрика «Грин Пиис» | Greenpeace | Amnesia (как Гринпис в глоссарии) |
+| книги: «Как незаметно подобраться к пенчекряку», «Поваренная книга голодного гобзавра», «Правила пользования ружьем на древнем языке гоши» | "How to Sneak Up on a Penchecrakus", "The Hungry Gobsaurus Cookbook", "Rifle Operating Rules in the Ancient Goshi Language" | Amnesia |
+| кредитная карточка Galactic Express | Galactic Express card | Amnesia |
+| муниципальная больница №3; санитар | Municipal Hospital No. 3; orderly | Amnesia |
+| резидентура спецслужб; явка / конспиративная квартира | secret service station; safe house | Amnesia |
+| ментограмма; принудительное ментоскопирование | mentogram; compulsory mentoscopy | Amnesia |
+| гравимобиль / гравиавтомобиль | gravicar | Amnesia (= гравикар) |
+| гравитонный нож; плазмоган | graviton knife; plasma gun | Amnesia |
+| ручной станнер; оптический прицел; глушитель; аптечка | hand stunner; telescopic sight; silencer; first-aid kit | Amnesia |
+| газета «Научный вестник» | "Scientific Report" | Amnesia (= оф. журнал фэян) |
