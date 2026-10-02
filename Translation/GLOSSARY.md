@@ -1770,3 +1770,14 @@ ekup; Brigee Bardozze (ксенопарк); crossbow (ручной самост�
 | «Коки-малоки»; «Макрохард»; «Яблоко. Ломайся разно»; «Лошкамч впаримч» (пеленгская фирма) | "Koki-Maloki"; "Macrohard"; "Apple. Break Differently"; "Loshkamch Vparimch" | Vulkan |
 | Всегалактическая Шпионская пеленгская Служба Дзухаллаг | the All-Galactic Peleng Spy Service Dzuhallag | Vulkan |
 | реплики аборигенов (тарабарщина): Нихренантес, Имбицилобус дебилос, Захренос и др. | Nikhrenantes, Imbecilobus debilos, Zakhrenos etc. (транслит) | Vulkan |
+
+| ксенолог Рулез (фэянин); профессор Сер Сееви (СС, Сергей Сергеич, гаалец); ксенобиолог Матля (фэянин); студент Андрей Гурин | Rulez; professor Ser Seevi (SS, Sergey Sergeich); Matlya; Andrey Gurin | Xenolog |
+| Ляо Мо; Журдано Гуно (убитые ксенологи) | Lyao Mo; Zhurdano Guno | Xenolog |
+| акабосы Кибоб, Кизут; шаман Кираш | Kibob, Kizut; Kirash | Xenolog |
+| ляобаб (дерево); Киж-миж; Саногон (напиток акабосов); «Гуано» (ритуальная игра — камень/ножницы/бумага) | lyaobab; Kizh-mizh; Sanogon; "Guano" | Xenolog |
+| ксеностанция; ксенолог; ксенобиолог; фэянская водянка | xenostation; xenologist; xenobiologist; faeyan dropsy | Xenolog |
+| робот-охранник Т-1000; «Гардтех» | T-1000 guard robot; "Guardtech" | Xenolog |
+| планета Мутрас, система Звонкая; научный центр Мирный, система Трудная | planet Mutras, Zvonkaya system; Mirny research center, Trudnaya system | Xenolog |
+| галит (единица размера); ацитонус; нуль-бомба; «Гравикарчик» | galit; acitonus; null bomb; "Gravicarlet" | Xenolog |
+| древнебуржунский язык; таблица Квазиса; группа «Ту-ту»; космоRAP | Ancient Burzhunian; Kvazis's table; "Tu-Tu"; cosmoRAP | Xenolog |
+| пеленгские гумысы, шлячисы, пачониумы (в RU «пенегские» — опечатка?) | peleng gumyses, shlyachises, pachoniums | Xenolog |
