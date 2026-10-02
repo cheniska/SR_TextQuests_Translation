@@ -502,7 +502,7 @@ Prezhevalski → Prezhevalsky (Tomb); Grishhill → Grishkhill (Diehard); Sir Lo
 | кьюттон (ед. силы удара) | kyutton | Massacri |
 | завлаб | lab head | Massacri |
 | психушка; психбольница/психиатрическая лечебница | madhouse; psychiatric hospital | Massacri |
-| стереовидение; стереовизор; биоэкран; биокарта памяти; гиперлифт; сталелонн; гравикар; плазмолёт | stereovision; stereovision (set) (было stereovisor); bioscreen; bio memory card; hyperlift; steelon; gravcar; plasma plane | Massacri |
+| стереовидение; стереовизор; биоэкран; биокарта памяти; гиперлифт; сталелонн; гравикар; плазмолёт | stereovision; stereovision (set) (было stereovisor); bioscreen; bio memory card; hyperlift; steelon; gravicar (было gravcar); plasma plane | Massacri |
 | бомжи (параметр) | the bums | Massacri |
 | «Сбей доминатора», «Замочи Рачехана» (игры) | "Shoot Down the Dominator", "Whack the Rachekhan" | Massacri |
 | Гаалдок | Hahaldok (РЕШЕНО пользователем 2026-10-02) | Massacri |
@@ -1902,3 +1902,7 @@ ekup; Brigee Bardozze (ксенопарк); crossbow (ручной самост�
 | плазмотанк | plasma tank | оф. Election |
 | Макрохард (компания) | Macrohard (ванилла; RU пишет то MacroHard, то Macrohard) | оф. Muzon, Pachvarash; наши Gaidnet, Easywork |
 | Ляпцва Хиц (хозяин ксенопарка) | Brigee Bardozze ВЕЗДЕ (решение пользователя 2026-10-02; есть в ванилле, Lyapzva Hiz/Hitz — нет) | оф. Election Path366, Xenopark, наш Moi |
+| гравикар | gravicar | наш Mafia: gravcar → gravicar (80 замен, 2026-10-02) |
+| хэчбольный мяч | hatchball ball | наш Mafia (было hachball) |
+| сиболусовт | sibolusovtus (мн. sibolusovtuses) | оф. Evidence Loc88-1 — остатки sibolusoft исправлены |
+| сварокок | swarokok | оф. Election Loc107-1 (было svarokok) |
