@@ -735,7 +735,7 @@ Prezhevalski → Prezhevalsky (Tomb); Grishhill → Grishkhill (Diehard); Sir Lo
 | хэчбол | hatch-ball / hatchball | разнобой |
 | самострел (любимое оружие пеленгов) | crossbow | ≠ «ручной самострел» = hand-held dart gun (Bank) |
 | малокский ОМОН | Maloq special force unit | |
-| Змей-Горыныч; Баба Яга; Василиса Премудрая и Калистрат Мудрило | firedrake; old witch; Riddles of the Sphynx and Calistrate Wiseast | адаптация |
+| Змей-Горыныч; Баба Яга; Василиса Премудрая и Калистрат Мудрило | Zmey Gorynych; Baba Yaga; Vasilisa the Wise and Calistrate Wiseast (РЕШЕНИЕ пользователя 2026-10-02: сказочные имена как в Park; в оф. Election заменены firedrake / old witch / Riddles of the Sphynx) | Election, Park |
 | малиновый пиджак | Hawaiian shirt | адаптация |
 | налог на беременность; налог на борьбу с доминаторами | pregnancy tax; tax for maintaining the struggle with the Dominators | |
 
@@ -1783,7 +1783,7 @@ ekup; Brigee Bardozze (ксенопарк); crossbow (ручной самост�
 | пеленгские гумысы, шлячисы, пачониумы (в RU «пенегские» — опечатка?) | peleng gumyses, shlyachises, pachoniums | Xenolog |
 
 | парк сказочных аттракционов «Куриные лапки»; операция «Жареная Цыпа» | "Chicken Legs" fairy-tale amusement park; operation "Fried Chick" | Park |
-| Змей Горыныч; Баба-Яга; Василиса Премудрая; Кощей Бессмертный; Иван-Царевич; Иван-дурак; Царевна-Лягушка | Zmey Gorynych; Baba Yaga; Vasilisa the Wise; Koschei the Deathless; Ivan Tsarevich; Ivan the Fool; the Frog Princess (сказочная викторина — русские формы сохранены; оф. Election адаптирует: firedrake, old witch) | Park |
+| Змей Горыныч; Баба-Яга; Василиса Премудрая; Кощей Бессмертный; Иван-Царевич; Иван-дурак; Царевна-Лягушка | Zmey Gorynych; Baba Yaga; Vasilisa the Wise; Koschei the Deathless; Ivan Tsarevich; Ivan the Fool; the Frog Princess (РЕШЕНИЕ пользователя 2026-10-02: сказочные формы; Election приведён к ним) | Park |
 | Калистрат Мудрило (робот-мудрец) | Calistrate Wiseast (оф., Election) | Park |
 | судьи Илья Муромский, Добряня Никитин, Алеха Поповин | Ilya Muromsky, Dobryanya Nikitin, Alekha Popovin | Park |
 | доцент Гриня Загрино; профессор Корневой; капитан Шаграйчик; Г. Раздолбаев-средний; Чайник Салагин; Фуфлик Зафиндяйло; Фури-Бури-Дури | Grinya Zagrino; professor Korenevoy; Captain Shagraychik; G. Razdolbayev the Middle; Chaynik Salagin; Fuflik Zafindyaylo; Furi-Buri-Duri | Park |
