@@ -1199,7 +1199,7 @@ Prezhevalski → Prezhevalsky (Tomb); Grishhill → Grishkhill (Diehard); Sir Lo
 | RU | Наша форма | Оф. варианты (частота) | Предлагаемая форма | Наши вхождения |
 |---|---|---|---|---|
 | хэчбол; хэчинг; хэч-хряп | Hachball / hachball; haching; hach-hryap | hatch-ball 22, hatchball 18+1, hatching (Olympiada) | **hatch-ball** (почти ничья с hatchball — вопрос пользователю); hatching; hatch-hryap | Hachball 109, Bank 38, Moi 1 (≈148) |
-| Махпелла | Mahpella | Machpella 13, Makhpella 2 | **Machpella** | Massacri 5 |
+| Махпелла | Mahpella | Machpella 13, Makhpella 2 | **Makhpella** (исправлено 2026-10-02: в ванилле Makhpella 19×) | Massacri 5 |
 | гобзавр | gobsaur(s) | gobzaurus 21, gobsaurus 12 | **gobzaurus** (мн. gobzauruses) | Gobsaur 101, Moi 2, Massacri 2, Cybersport 1 (имя файла Gobsaur не трогаем) |
 | жвырклац | zhvyrklats | phatklink(s) 23, Zhvirklatz 1 (балет) | **phatklink** | Moi 2 |
 | кванга | kwanga | quanga 2 | **quanga** | Menzols 76 |
@@ -1240,7 +1240,7 @@ Prezhevalski → Prezhevalsky (Tomb); Grishhill → Grishkhill (Diehard); Sir Lo
 | пеленгский (прил.) | атрибутивное peleng (peleng ship/pirate), Pelengan 0 | Peleng 445 | Pelengan | **peleng/Peleng** атрибутивно — V и D согласны |
 | гаалец / гаальский | сущ. **gaal(s)** 110, прил. **gaalian**; Gaalians 1 | gaal 367 / Gaalian ≈208 | Gaalian(s) сущ.+прил. | V: сущ. gaal(s), прил. gaalian |
 | Иикэ-Баана; лякуша; Рахехан; Рахиш; ментоскопия | Iike-Baana, lyakusha, Rachekhan's Scale, Rakhish, mentoscopy | — | так же | совпадает |
-| Махпелла, жвырклац, кванга, кинза, втыкилла, хелдас | — (нет в V) | Machpella, phatklink, quanga, kinza, vtequila, helldas | Mahpella, zhvyrklats, kwanga, kindza, Vtykilla, heldas | V не помогает — по D |
+| жвырклац, кванга, кинза, втыкилла, хелдас | — (нет в V) | phatklink, quanga, kinza, vtequila, helldas | zhvyrklats, kwanga, kindza, Vtykilla, heldas | V не помогает — по D |
 
 **Регистр названий рас.** V последовательно пишет расы со строчной (сущ. и прил.): peleng 162/9, pelengs 77/0, maloq 232/8, faeyan 121/5, gaal(s) 110/4, human(s) 161/2, dominators 556/21 (строчные/заглавные в середине фразы). D — разнобой с перевесом заглавных (Peleng 259/331, Maloq 214/444). O — заглавные (решения КР1: Peleng, Maloq, Faeyan, Gaalian, Human, Dominator). Вопрос пользователю.
 
@@ -1249,7 +1249,7 @@ Prezhevalski → Prezhevalsky (Tomb); Grishhill → Grishkhill (Diehard); Sir Lo
 Итоговые формы (заменены во всех наших переводах: КР1 Eng, Rev, Moi_eng; check 0/0, qtr_struct 0 у всех):
 peleng(s) (в т.ч. вместо Pelengan), maloq(s), faeyan(s), gaal(s)/gaalian, human(s), klissan(s), dominator(s); hatchball, hatching, hatch-hryap;
 gobsaurus (мн. gobsauri); **penchecrakus** (ванилла = наше, оф. penchekryak отклонён); **Book of Shame** (ванилла; оф. Disgrace Book отклонён); **dalani / od-dalani** (ванилла; оф. Dalany отклонён);
-ekup; Brigee Bardozze (ксенопарк); crossbow (ручной самострел → hand crossbow); stereovision; Machpella; phatklink; quanga; kinza (kinza sauce, Bloody Kinza); vtequila; helldas.
+ekup; Brigee Bardozze (ксенопарк); crossbow (ручной самострел → hand crossbow); stereovision; phatklink; quanga; kinza (kinza sauce, Bloody Kinza); vtequila; helldas.
 Таблица «ИТОГ SR2HD DevTranslated» выше в части penchekryak / gobzaurus / Disgrace Book / Dalany / hatch-ball / Lyapzva Hiz — отменена этим решением.
 Не менялось (вне решения): «Ranger» с заглавной в середине фразы у нас (в ванилле чаще ranger) — вопрос пользователю.
 
@@ -1290,7 +1290,7 @@ ekup; Brigee Bardozze (ксенопарк); crossbow (ручной самост�
 | магазин «Все для охотников и охоты на них» | "Everything for Hunters and for Hunting Them" | Amnesia |
 | пароли: «Грязная пачрямба»; «Дети Гаала» | "Dirty pachryamba"; "Children of Gaal" | Amnesia |
 | портвейн «Золотой лякуш»; болотный настой | "Golden Lyakush" port; swamp brew | Amnesia |
-| коктейль «Слезы Махпеллы»; Волкодав; Лысый Перец | "Tears of Machpella"; Wolfhound; Bald Pepper | Amnesia |
+| коктейль «Слезы Махпеллы»; Волкодав; Лысый Перец | "Tears of Makhpella"; Wolfhound; Bald Pepper | Amnesia |
 | гаальская фабрика «Грин Пиис» | Greenpeace | Amnesia (как Гринпис в глоссарии) |
 | книги: «Как незаметно подобраться к пенчекряку», «Поваренная книга голодного гобзавра», «Правила пользования ружьем на древнем языке гоши» | "How to Sneak Up on a Penchecrakus", "The Hungry Gobsaurus Cookbook", "Rifle Operating Rules in the Ancient Goshi Language" | Amnesia |
 | кредитная карточка Galactic Express | Galactic Express card | Amnesia |
@@ -1334,3 +1334,10 @@ ekup; Brigee Bardozze (ксенопарк); crossbow (ручной самост�
 | Рэм-Боо (забытый гаальский бог машин для убийства) | Ram-Boo | Deadoralive (пародия на Рэмбо) |
 | фонд «Помоги.Борг»; книга «Масти Иикэ-Бааны» | "Help.Borg"; "Suits of Iike-Baana" | Deadoralive |
 | Дзухаллаг | Dzuhallag (по ванилле; Galaxy исправлен) | Deadoralive |
+
+## РЕШЕНИЕ пользователя 2026-10-02: Махпелла → Makhpella
+В ванильном ланге — Makhpella (19×, мн. ч. Makhpellas 4×); прежняя пометка «нет в V» была ошибочной. Наши переводы приведены к Makhpella (Massacri 5, Amnesia 1). Оф. DevTranslated не правятся (там разнобой Machpella/Makhpella).
+
+| RU | EN | Квест |
+|---|---|---|
+| Махпелла; пиво «Махпелла Дарк»; «Слезы Махпеллы» | Makhpella; "Makhpella Dark"; "Tears of Makhpella" | Massacri, Amnesia, Kidnapped |
