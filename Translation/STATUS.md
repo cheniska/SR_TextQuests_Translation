@@ -16,7 +16,7 @@ Bomber, Citadels, Gaidnet, Maze, Provoda, Rvk
 
 ## SR2HD DevTranslated (42 квеста)
 Уже полностью на английском — не переводятся; проверять по запросу.
-2026-10-02: все 42 разобраны (по запросу пользователя) — термины в GLOSSARY.md (раздел «SR2HD DevTranslated» + «ИТОГ»), лор в LORE_FACTS.md (разделы «(SR2HD DevTranslated)»), ошибки оф. перевода — `questsEng/notes/DevTranslated_review.md` (оф. файлы НЕ правились). Замены в наших переводах по итогам — ждут решения пользователя (см. «ИТОГ» в GLOSSARY.md).
+2026-10-02: все 42 разобраны (по запросу пользователя) — термины в GLOSSARY.md (раздел «SR2HD DevTranslated» + «ИТОГ»), лор в LORE_FACTS.md (разделы «(SR2HD DevTranslated)»), ошибки оф. перевода — `questsEng/notes/DevTranslated_review.md` (оф. файлы НЕ правились). 2026-10-02: после сверки с Lang_Eng_Vanilla замены выполнены во всех наших переводах (КР1, Rev, Moi): check 0/0, структура 0 (см. «РЕШЕНИЕ … ванилла» в GLOSSARY.md).
 
 ## Моды (`TextQuests\<Мод>\Rus` → `Eng`, папки Eng пустые)
 AdvancedQuests(1), ExpBeerQuest(1), RefLongerPrison(1), RefQuest(8), RevTextQuests(2), SR1TextQuests(25),

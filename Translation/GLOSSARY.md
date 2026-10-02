@@ -81,21 +81,21 @@
 ### Расы: формы слов
 | RU (формы) | EN | Комментарий |
 |---|---|---|
-| пеленг, пеленги, пеленгов/-ам | Peleng, Pelengs | сущ. с заглавной (строчные «peleng(s)» в КР1 тоже есть — не использовать) |
-| пеленгский/-ая/-ое/-ие (прил.) | Pelengan (РЕШЕНО) | КР1 разнобой: Pelengan (56), атрибутивное «Peleng X» (Peleng pirates, Peleng standards), Pelengsky (6, только Bank: «Central Pelengsky Bank» рядом с «Central Peleng Bank»). Рекомендую Pelengan; «пеленгский стиль» → Peleng-style |
+| пеленг, пеленги, пеленгов/-ам | peleng, pelengs | ПЕРЕРЕШЕНО 2026-10-02 по ванилле: расы со строчной (заглавная — в начале фразы и в именах собственных: Central Peleng Bank) |
+| пеленгский/-ая/-ое/-ие (прил.) | peleng (атрибутивно; ПЕРЕРЕШЕНО 2026-10-02 по ванилле и оф., Pelengan не использовать) | КР1 разнобой: Pelengan (56), атрибутивное «Peleng X» (Peleng pirates, Peleng standards), Pelengsky (6, только Bank: «Central Pelengsky Bank» рядом с «Central Peleng Bank»). Рекомендую Pelengan; «пеленгский стиль» → Peleng-style |
 | непеленг | non-Peleng | Newflora |
-| фэянин, фэяне, фэян | Faeyan, Faeyans | (45/17) |
-| фэянский/-ая/-ое (прил.) | Faeyan | «Faeyan computer»; разг. фэяшка/фэяшек/фэй → Faeyan / Faeyans. Опечатки КР1: Feyan, Feyanin, Fayean, Yaeyan |
-| гаалец, гаальцы, гаальцев | Gaalian, Gaalians | (81/26) |
-| гаальский/-ая (прил.) | Gaalian | встречаются «Gaal» (10, «Gaal laptop»), Gaelic, Gaals — не использовать |
-| малок, малоки, малоков | Maloq, Maloqs | (32+32/11); Maloqi (9), Maloc(s), Malok — разнобой, писать Maloq(s) |
-| малокский/-ая (прил.) | Maloq | «Maloq cuisine», «Maloqs' planets»; «малокский стиль» → Maloq-style |
+| фэянин, фэяне, фэян | faeyan, faeyans (строчные, ванилла) | (45/17) |
+| фэянский/-ая/-ое (прил.) | faeyan | «Faeyan computer»; разг. фэяшка/фэяшек/фэй → Faeyan / Faeyans. Опечатки КР1: Feyan, Feyanin, Fayean, Yaeyan |
+| гаалец, гаальцы, гаальцев | gaal, gaals | ПЕРЕРЕШЕНО 2026-10-02 по ванилле (было Gaalian(s)) |
+| гаальский/-ая (прил.) | gaalian (строчные, ванилла) | встречаются «Gaal» (10, «Gaal laptop»), Gaelic, Gaals — не использовать |
+| малок, малоки, малоков | maloq, maloqs (строчные, ванилла) | (32+32/11); Maloqi (9), Maloc(s), Malok — разнобой, писать Maloq(s) |
+| малокский/-ая (прил.) | maloq | «Maloq cuisine», «Maloqs' planets»; «малокский стиль» → Maloq-style |
 | малка (разг.) | maloq | «шофёр-малка» → driver-maloq |
-| клисанин, клисане | Klissan, Klissans | Klisans (2) — опечатка |
-| человек (раса) | Human, Humans | РЕШЕНО: раса — всегда Human(s) с заглавной (в т.ч. «a Human nurse»); «human race» = человечество оставляем строчной |
+| клисанин, клисане | klissan, klissans (строчные, ванилла) | Klisans (2) — опечатка |
+| человек (раса) | human, humans | ПЕРЕРЕШЕНО 2026-10-02 по ванилле: строчные (Human Town — имя собственное) |
 | землянин / земной / Земля | Human / Earth (Earth apricot juice) / Earth | «earthman», «earthling» (по 1) не использовать |
 | гуманоид | humanoid | |
-| Доминатор(ы) | Dominator(s) | |
+| Доминатор(ы) | dominator(s) (строчные, ванилла) | |
 | крашаджан(ский) | Krashadzhan | Newflora |
 | лякуша; Верховный Лякуша | lyakusha; Chief Lyakusha | Casino, Hachball, Bank |
 | алкарис | alcaris | птичья раса с Ориона (Examen); Alkaris/alkaris — опечатка |
@@ -112,9 +112,9 @@
 | субсеть | subnet | Newflora |
 | скринсэйвер; Вирус В-киллер; Троянский конь; Взломщик Паролей; Шахматный Шулер | screensaver; B-killer Virus; Trojan Horse; Password Cracker; Chess Cheater | Bank |
 | психостимулятор; Агрессин, Откровин | psychostimulant; Agressin, Revelatin | Bank |
-| лингофонный; ментоскопирование; стереовизор | lingophone; mentoscopy; stereovisor (stereovision) | Bank |
+| лингофонный; ментоскопирование; стереовизор | lingophone; mentoscopy; stereovision (ванилла/оф.) | Bank |
 | Слабительное (таблетки) | Laxative | Bank |
-| хэчбол, хэчинг | Hachball (РЕШЕНО; Hatchball не использовать), haching | Hachball, Bank |
+| хэчбол, хэчинг | hatchball (ПЕРЕРЕШЕНО 2026-10-02 по ванилле; в названиях Hatchball), hatching | Hachball, Bank |
 | Иикэ-Баана | Iike-Baana (КР1: Eeke-Baana; решение пользователя — Iike-Baana) | Ikebana, Bank |
 | господин Баал-Да; мастер Ка-Баан | Mr. Baal-Da; Master Ka-Baan (2026-10-02: транслит; КР1 Sir Loo-Gan, Waart-Hoog) | Ikebana, Bank |
 | клюг (игра) | Klugg | Casino |
@@ -138,14 +138,14 @@
 |---|---|---|
 | пенчекряк | penchecrakus, pl. penchecrakuses | Poroda, Bank (Moi приведён к КР1) |
 | банзай | banzai (РЕШЕНО: banzai; bansai, ban-zai — варианты КР1, не использовать) | малые травоядные малокских планет (Moi, Bank) |
-| гобзавр | gobsaur (строчными, вид животного; в КР1 Gobsaur) | Gobsaur |
+| гобзавр | gobsaurus, мн. gobsauri (ПЕРЕРЕШЕНО 2026-10-02 по ванилле) | Gobsaur |
 | пещерный медведь Бабунга | cave bear Babunga | Menzols |
-| кванга (плод) | kwanga | Menzols |
+| кванга (плод) | quanga (оф.; 2026-10-02) | Menzols |
 | гонга, донга, ганга, тонга | gonga, donga, ganga, tonga | Menzols: предметы мензолов |
 | гуанава (напиток) | guanava | Menzols, Energy |
-| гангана (напиток); кинза | gangana; kindza (Energy) / cilantro (Bank: «cilantro sauce») | Energy, Bank |
+| гангана (напиток); кинза | gangana; kinza (оф.; kinza sauce) | Energy, Bank |
 | пальма ноелемах (ноэлема) | Noelemakh palm (РЕШЕНО пользователем 2026-10-02: kh; было Noelemah) | Bank, Examen |
-| табуретовая водка; янвелоб | stool vodka (Spy: stoolvodka, опечатка); yanvelba | Spy, Examen |
+| табуретовая водка; янвелоб | stool vodka (Spy: stoolvodka, опечатка); ekup (ванилла/оф.; 2026-10-02) | Spy, Examen |
 | мутновонючий | muddystink | Bank: Muddystink Avenue |
 | зелёный шаракеш; красная пачрямба | green sharakesh; red pachryamba | Newflora (пароли) |
 | Лепрас-5 | Leprass-5 (пиратский корабль) | Murder |
@@ -157,13 +157,13 @@
 | Банк Жлоббера | Zhlobber Bank | Bank |
 | Газ-Гольдер | Gaz-Golder | Bank |
 | Рахиш | Rakhish | Bank |
-| Хэчбол-бар «У гнилого омута» | Hachball bar "At the Rotten Pool" (РЕШЕНО: Hachball) | Bank |
+| Хэчбол-бар «У гнилого омута» | hatchball bar "At the Rotten Pool" | Bank |
 | Компьютерный магазин Шлямбура | Shlyambur Computer Shop | Bank |
 | резидент Оол | Resident Ool | Bank |
 | Гуманитарное Медицинское Бюро | Humanitarian Medical Bureau | Fishing |
 | Великая книга колонизации | Great Book of Colonisation | Build |
 | (НИИ) этнографии и космоархеологии им. Грега Рафмана | Greg Raffman Research Institute of Ethnography and Space Archaeology (Ruffman — опечатка) | Bank, Menzols |
-| Межпланетная хэчбольная федерация | Interplanetary Hachball Federation | Hachball |
+| Межпланетная хэчбольная федерация | Interplanetary Hatchball Federation | Hachball |
 | Галактическая Федерация Иикэ-Баана | Galactic Iike-Baana Federation | Ikebana |
 | Галактическое Содружество | Galactic Commonwealth | Tomb, Hachball; в Moi RU просто «Содружества» → Commonwealth (без «Galactic», оставлено) |
 | Президентский дворец; Малый/Большой президентский зал | Presidential Palace; Small/Grand Presidential Hall | Spy |
@@ -1243,3 +1243,12 @@ Prezhevalski → Prezhevalsky (Tomb); Grishhill → Grishkhill (Diehard); Sir Lo
 | Махпелла, жвырклац, кванга, кинза, втыкилла, хелдас | — (нет в V) | Machpella, phatklink, quanga, kinza, vtequila, helldas | Mahpella, zhvyrklats, kwanga, kindza, Vtykilla, heldas | V не помогает — по D |
 
 **Регистр названий рас.** V последовательно пишет расы со строчной (сущ. и прил.): peleng 162/9, pelengs 77/0, maloq 232/8, faeyan 121/5, gaal(s) 110/4, human(s) 161/2, dominators 556/21 (строчные/заглавные в середине фразы). D — разнобой с перевесом заглавных (Peleng 259/331, Maloq 214/444). O — заглавные (решения КР1: Peleng, Maloq, Faeyan, Gaalian, Human, Dominator). Вопрос пользователю.
+
+### РЕШЕНИЕ пользователя по сверке с ванилла (2026-10-02) — ПРИМЕНЕНО
+Приоритет источников: **ванилла (Lang_Eng_Vanilla) > DevTranslated (по частоте) > наше**. Расы — со строчной (сущ. и прил.), заглавная только в начале фразы и в именах собственных. Гаальцы: сущ. gaal(s), прил. gaalian.
+Итоговые формы (заменены во всех наших переводах: КР1 Eng, Rev, Moi_eng; check 0/0, qtr_struct 0 у всех):
+peleng(s) (в т.ч. вместо Pelengan), maloq(s), faeyan(s), gaal(s)/gaalian, human(s), klissan(s), dominator(s); hatchball, hatching, hatch-hryap;
+gobsaurus (мн. gobsauri); **penchecrakus** (ванилла = наше, оф. penchekryak отклонён); **Book of Shame** (ванилла; оф. Disgrace Book отклонён); **dalani / od-dalani** (ванилла; оф. Dalany отклонён);
+ekup; Brigee Bardozze (ксенопарк); crossbow (ручной самострел → hand crossbow); stereovision; Machpella; phatklink; quanga; kinza (kinza sauce, Bloody Kinza); vtequila; helldas.
+Таблица «ИТОГ SR2HD DevTranslated» выше в части penchekryak / gobzaurus / Disgrace Book / Dalany / hatch-ball / Lyapzva Hiz — отменена этим решением.
+Не менялось (вне решения): «Ranger» с заглавной в середине фразы у нас (в ванилле чаще ranger) — вопрос пользователю.
