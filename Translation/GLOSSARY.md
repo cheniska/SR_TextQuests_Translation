@@ -1903,7 +1903,7 @@ ekup; Brigee Bardozze (ксенопарк); crossbow (ручной самост�
 | Глой Нусс (агент фэянской разведки); Кууча фон Юч | Gloy Nuss; Kuucha von Yucha | Drugs |
 | Федя Клюквин (парикмахер-маньяк) | Fedya Klyukvin | Easywork |
 | Злобный Гений; Артэлон | Evil Genius; Artellon | Evilgenius |
-| провинция Йопт, город Мунь-Чань; Пузилендия (пузилендский); хоботорылы, жабодроны, шушкешаны; Матильда; Пупыркин | Yopt, Mun-Chun; Puzilandian; Chuke-Puks, ..., Shushkeshans; Matilda; Pupyrkin | GLAVRED |
+| провинция Йопт, город Мунь-Чань; Пузилендия (пузилендский); хоботорылы, жабодроны, шушкешаны; Матильда; Пупыркин | Yopt, Mun-Chun; Puzilandian; Trunksnouts, Toaddrones, Shushkeshans; Matilda; Pupyrkin | GLAVRED |
 | Эрок, Брего, Тиисануш; доктор Лоор-Тафи; Трикл (триклоп) | Erok, Brego, Tiisanush; Doctor Loor-Tafi; Triclops | Kidnapped |
 | Джеери (гаалец); плазменный автомат Томпсона | Dzheeri; Thompson | Mafia |
 | Ицпидук Шпык; Бука; Великий Маг; Великое Недоразумение; Перекрёсток; Пламя Истины | Itspiduk Shpyk; the Boogeyman; the Great Mage; the Great Misunderstanding; the Crossroads; the Flame of Truth | Moi |
