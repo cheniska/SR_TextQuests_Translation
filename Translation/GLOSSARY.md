@@ -855,3 +855,39 @@ Prezhevalski → Prezhevalsky (Tomb); Grishhill → Grishkhill (Diehard); Sir Lo
 | художник Унк, «Вопль» | Van Gone, "The Shout" | адаптация пародии (Мунк «Крик») |
 | «Сталс» (корабль) | stealth aircraft | |
 | наноботы | nanobots | |
+
+### Logic
+| RU | EN (оф.) | Комментарий |
+|---|---|---|
+| Барабум (малокская логическая игра); Кубок Барабума | Barabum; the Barabum cup | |
+| Гомарджоб (организатор) | Homarjob | строгий транслит: Gomardzhob |
+| Уралбан (семикратный чемпион); «Убаран» (оговорка) | Uralban; Ubaran | |
+| Дракар Громыко (легендарный воин) | Drakar Gromiko | строгий транслит: Gromyko |
+| «Дракары и Бамбаи… Аралиты и Каргасы…» (обращение к малокам) | "Drakars and Bambais... Aralitas and Kargases..." | Бамбай: оф. Bambay (Jumper) / Bambais |
+| кланы «Красных Топоров» и «Синих Топоров» | the Red Axes clan; the Blue Axes clan | |
+| дух Малососуса | the Spirit of Malossossus | |
+| приём Грязного Шнапса; тактика Пьяного Гобзавра | the Dirty Schnapps trick; the Drunk Gobsaurus technique | |
+| «Бай малокс фор малокс» (древняя малокская поговорка) | "By maloqs for maloqs" | |
+| курсы межпланетной культуры | interplanetary culture courses | |
+
+### Ministry
+| RU | EN (оф.) | Комментарий |
+|---|---|---|
+| Прямокишечный остров; Министерство по всяческим делам Прямокишечного острова | Rectal Island; Ministry for various affairs of Rectal Island | |
+| Холмогорье (район) | Hillside | |
+| команданте Ко Чегара (вахтёр, бывший партизан) | commandant Ge Chevara | ≠ RU «Ко Чегара» (оф. переделал под Че Гевару); строгий транслит Ko Chegara |
+| лесной брат; пилотка сопротивления | forest brother; the garrison cap of the resistance | |
+| главдом (Главный в Домике) Бобчинский / Добчинский | the housemaster (The Master of the House) Bobchinsky / Dobchinsky | пародия на Гоголя |
+| секретарша Дуня Рачехановна | Dunia Rachehanovna | строгий транслит: Dunya Rachekhanovna |
+| Канцелярия; Секретариат | the Registry; the Secretariat | |
+| начальник транспортного цеха; менеджер по кисточкам и молоткам (каптёр) | head of the transportation shop; Brush and Hammer Manager (hammers manager) | |
+| 21 (карточная игра); перебор; ничья | 21; overshoot; drawn | |
+| трусы с сердечками; значок рейнджера; пилотка; ломик | underpants with hearts; ranger badge; garrison cap; crowbar | |
+| трёхглазая рыба; пиявка | three-eye(d) fish; bloodsucker | |
+| Га-Ноцри (желтолицый) | Ga-Notsri | пародия |
+| янвелб с кинзой | ekup with dill | ≠ yanvelba / kindza (наш) — оф. разнобой: janwelb, Kinza |
+| гуанава | guanawa | ≠ guanava (наш и оф. Driver) — разнобой |
+| Бабай | Babai | ср. Bambay (Jumper) — другое слово |
+| «Instance FisherMann GMbH»; ЧП Мормышкин (подвал №5) | "Instance FisherMann GMbH"; private entrepreneur Marmyshkine | |
+| «Вольные корсары» | the free corsairs | |
+| плазморужьё; стереофон | plasmagun; stereophone | |

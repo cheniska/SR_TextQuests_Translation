@@ -187,3 +187,26 @@
 - Path215b: порядок абзацев переставлен (реплика провожатого перед описанием); «устаревшая ещё тысячу лет назад» — пропущено.
 - Path10 "But the book aside"; Loc87-1 "has answer incorrectly"; Path170b "rough out and eye and then and the pupil"; закрывающие «» вместо " (Loc88-1, Path90b).
 - Разнобой: Machpella (здесь) / Makhpella (Banket); gobsaurus / gobzaurus.
+
+## Logic
+- **QuestSuccessGovMessage**: «более тысячи заявок» → "over 100 applications".
+- **QuestDescription**: «после чего везде и всегда пропагандировать эту игру как самую умную» → "Then everyone will call our game the most intellectual" (смысл: пропагандировать должен рейнджер).
+- **Loc17-1/17-3**: пропущена фраза про пистолеты и винтовки, которые малоки дарят спортсменам; «Гордясь собой» → "Pounding your chest".
+- **Loc23-2**: «потерпел поражение» → "has surrendered" (≠ Loc23-1, где «признал поражение» → "has recognized"; перепутано).
+- Loc3-2: «весьма посредственный ход» → "that's an okay move"; Loc3-3: «костей, похожих на фэянские» — пропущено.
+- Loc2-1: «выжженного поля» → "bright game field"; «В зале принялись отчаянно свистеть» → "The crowd goes wild" (ок).
+- Loc24-1: <clr> потерян (check).
+- Опечатки: "This must Uralban", "one felt closer", "your opponent here is the commentator's hints", "I haven't a match like that", "pass by", "impales itself on it The".
+
+## Ministry
+- **Loc121-1, Loc153-6**: имя «Ко Чегара» → "Ge Chevara" (оф. переделал отсылку; RU-форма иная).
+- **Loc117-1/117-2**: «Справа небольшая лестница» → "To the left" (а команданте тоже слева); "small stares doing down".
+- **Loc129-6/133-1**: пропущено правило «если я с двух карт не наберу 21, а ты наберёшь — победа за тобой».
+- **Loc129-8**: «Оформите бумаги в канцелярии» → "Obtain the papers from the Registry"; «установит квоты» → "define quotes".
+- **Loc132-1**: «Попробовал бы сказать иначе. Расколола бы башку» → "You were right you did not try another comment" (неуклюже).
+- **Loc155-1**: «Занято» → "Interesting" (≠ Loc144-2 "Taken").
+- **Loc145-4**: «янвелб с кинзой» → "ekup with dill".
+- Loc125-1: «по отлову блох» → "catching flies"; Loc127-5: «укусила вас за руку» → "by the leg"; Path531b: «С серьёзной физиономией» → "With a serious grin"; Path746: «через две секунды» → "in a couple of minutes".
+- Loc141-x: жаргонное «на» передано непоследовательно ("dude", "like", "that").
+- QuestSuccessGovMessage: «Да вас просто так не проведёшь!» → "Indeed, you are not that easy!".
+- Опечатки: "bold head", "loose", "buts" (butts), "toiled", "Secretarial", "go it", "I rather have", "A came here", "You mission is failed", "run" (ran), "waived".
