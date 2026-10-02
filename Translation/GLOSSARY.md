@@ -1346,13 +1346,13 @@ ekup; Brigee Bardozze (ксенопарк); crossbow (ручной самост�
 | RU | EN | Квест |
 |---|---|---|
 | «Похищенный» (квест) | "Kidnapped" | Kidnapped |
-| Эндрю Вёрсл (капитан, атаман Клана; на монете ключ «virsle») | Andrew Vyorsl | Kidnapped (строгий транслит ё→yo; см. notes) |
+| Эндрю Вёрсл (капитан, атаман Клана) | Andrew Virsle | Kidnapped (РЕШЕНИЕ пользователя 2026-10-02: авторская форма — ключ шифра Виженера на монете «virsle»; не транслит Vyorsl, чтобы загадка работала) |
 | «Пёстрый Голубь» (корабль Вёрсла) | "Particolored Pigeon" | Kidnapped (форма авторов: шифр Виженера на монете «kiiltgjtfjph kqxwzr» + ключ «virsle» = «particolored pigeon») |
 | экипаж: Эрок, Махсим, Кашкель, Тисануш, Цвага, Юпитер, Мальпа (Мальп), Робер, Баргам, Брего, Феликс, Лиони, Триклоп, Барни Бакс, Флэнки Тим | Erok, Makhsim, Kashkel, Tisanush, Tsvaga, Jupiter, Malpa (Malp), Robert, Bargam, Brego, Felix, Lioni, Triclops, Barney Bucks, Flanky Tim | Kidnapped (Робер = фр. Robert; Триклоп = трёхглазый гаалец → Triclops) |
 | Лянчер Швокс (агент Дзухаллага); Тарикс | Lyancher Shvoks; Tariks | Kidnapped |
 | Гавар (малок-инструктор); Норхберч Винерхан (лякуша-программист); Ческа Йцукен (лякуша) | Gavar; Norkhberch Vinerkhan; Cheska Qwerty | Kidnapped (Йцукен = раскладка → Qwerty) |
 | Апч'хан Ядохвост (заказчик похищения); Дред Неумолимый | Apch'khan Poisontail; Dred the Relentless | Kidnapped |
-| фантом Мир Орниоли (атаман); банда Кучхума | Phantom Mir Ornioli; Kuchkhum's gang | Kidnapped |
+| фантом (фэянский пират, как лякуша у пеленгов); фантом Мир Орниоли (атаман); банда Кучхума | phantom (со строчной, как lyakusha); the phantom Mir Ornioli; Kuchkhum's gang | Kidnapped (пояснение пользователя 2026-10-02) |
 | вротбылтыся (крепкий напиток) | vrotbyltysya | Kidnapped |
 | ныря (корабельный грызун); «Ныря вентиляционно-кладовая»; нырёныш | nyrya (мн. nyryas); "Vent-and-pantry nyrya"; little nyrya | Kidnapped |
 | корабельный деконструктор келлероидной серии; домики (жарг. доминаторы) | kelleroid-series shipboard deconstructor; dommies | Kidnapped |
