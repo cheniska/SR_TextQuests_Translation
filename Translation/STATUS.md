@@ -7,7 +7,7 @@
 Подсказки-черновики на английском: `0_квесты кр 2 тхт\qmm_to_translate\_преев\Новая папка\` (проверять по RU).
 
 ## SR2HD Untranslated — полностью на русском (todo)
-Colonization, Deadoralive, Diver, Domoclan, Doomino, Drugs, Easywork, Evilgenius,
+Colonization, Diver, Domoclan, Doomino, Drugs, Easywork, Evilgenius,
 Faruk, Feipsycho, Filial, Forum, Glavred, Gluki, Kiberrazum, Kidnapped, Losthero, Mafia, Megatest,
 Park, Pharaon, Photorobot, Piratesnest, Proprolog, Taxist, Testing, Tourists, Vulkan, Xenolog
 
@@ -29,6 +29,7 @@ ShuPrison(4), ShuQuest(7), XenoZeroSignalQuest(1) — todo; состав уто�
 | Moi | 2026-09-30 | 1227 (1063 уникальных) | ~45 | check 0 ошибок/0 предупр.; структура = Moi_eng.qmm (0 расхождений, qmm не тронут); адаптации: Hoo/Uh Crew, Frodo/fraud, шепелявость, bazaar; «Клин» → Jam; KDV → Space Marines, Khrepka → Hturnip (решено); Moi приведён к глоссарию КР1 (Eeke-Baana, penchecrakus, Human) |
 | Amnesia | 2026-10-02 | 631 (528 уникальных) | ~10 | переведён с RU; время по контексту RU; загадки с числами сохранены; check 0/0; структура 0 |
 | Complex | 2026-10-02 | 734 (665 уникальных) | ~10 | переведён с RU; загадки адаптированы (пароль live/evil, звуки r/p/t vs l/m/v); check 0/0; структура 0 |
+| Deadoralive | 2026-10-02 | 490 (435 уникальных) | ~10 | переведён с RU; Dzuhallag по ванилле (Galaxy исправлен); check 0/0; структура 0 |
 
 ## КР1 (SR1TextQuests) — вычитка готового английского (начато 2026-09-30)
 Задача: английский текст уже переведён в КР1; проверяем грамматику, смысл (сверка с RU), единообразие терминов; RU не меняем; qmm не трогаем.

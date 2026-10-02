@@ -287,7 +287,7 @@
 | обруч-невидимка; ракетный пояс | invisibility hoop; jetpack | Bondiana |
 | Куакиш; Баттерброад; Хьюман-таун | Kuakish; Butterbroad; Human Town | Galaxy |
 | Верховный Надзиратель; Управление/Служба надзора | Supreme Supervisor; Supervision Office/Service | Galaxy |
-| Дзухаллаг | Dzukhallag | Galaxy |
+| Дзухаллаг | Dzuhallag (ванилла, 17; было Dzukhallag — исправлено 2026-10-02) | Galaxy, Deadoralive |
 | Откровин; амнезин | Revelin; amnesin | Galaxy |
 | Золотая Пиявка с Водорослями (и Личинками) | Golden Leech with Seaweed (and Larvae) | Galaxy |
 | Болотный вестник | Swamp Herald | Galaxy |
@@ -1319,3 +1319,18 @@ ekup; Brigee Bardozze (ксенопарк); crossbow (ручной самост�
 | доктор Виажитте Ево; Фсио Пофик; «Трудно быть багом» сестёр Страдатских; Menux | Doctor Viazhitte Evo; Fsio Pofik; "Hard to Be a Bug" by the Stradatsky sisters; Menux | Complex |
 | Келлер побери (ругательство) | Keller take it | Complex |
 | «Свомперы», «Быки» (команды зрамакки) | the "Swompers", the "Bulls" | Complex |
+
+## SR2HD Untranslated: Deadoralive (2026-10-02)
+| RU | EN | Квест |
+|---|---|---|
+| Нолоо (город-столица); нолоо (временная местная валюта) | Noloo; noloo | Deadoralive |
+| Рокторнак (малок-агент, «Рок»); Даасу (гаалец со шрамом, напарник); Хаар-На (гаалец); Церзаш (пеленг) | Roktornak ("Rok"); Daasu; Khaar-Na; Tserzash | Deadoralive |
+| преступная организация «Эгемония»; «эгемоны» | the "Egemony"; "egemons" | Deadoralive (искажённая «гегемония» — сохранено искажение) |
+| карточка «Шиза Голд» («Лежат себе и пусть лежат!») | "Shiza Gold" card ("Let it lie there and keep on lying!") | Deadoralive (пародия на Visa Gold) |
+| отель «Осмос»; фэянский бар «Тессерактовый корень»; супермаркет «Pi-Тёрочка» | the "Osmos" hotel; the "Tesseract Root"; "Pi-Eleven" | Deadoralive («Пятёрочка» адаптирована через 7-Eleven) |
+| наркотики: транспонирование, абстрагирование, экстраполяция | transposition, abstraction, extrapolation | Deadoralive |
+| коктейль «Зона-52» / «З-52» | "Zone-52" / "Z-52" | Deadoralive |
+| бластер «Мухобойка Марк V» | "Flyswatter Mark V" | Deadoralive |
+| Рэм-Боо (забытый гаальский бог машин для убийства) | Ram-Boo | Deadoralive (пародия на Рэмбо) |
+| фонд «Помоги.Борг»; книга «Масти Иикэ-Бааны» | "Help.Borg"; "Suits of Iike-Baana" | Deadoralive |
+| Дзухаллаг | Dzuhallag (по ванилле; Galaxy исправлен) | Deadoralive |

@@ -1,0 +1,19 @@
+Deadoralive - заметки к переводу
+Результат: questsEng\Untranslated\Deadoralive_eng.txt. Оригинал: questsRus\Untranslated\Deadoralive.txt (не менялся).
+Переведено с RU заново. Реплики - через тире. check 0/0, структура 0 (и против исходного Deadoralive_eng.txt).
+
+=== ТЕРМИНЫ / РЕШЕНИЯ ===
+Дзухаллаг -> Dzuhallag (ванилла 17 раз; DevTranslated 1 раз Dzukhallag). Попутно исправлен Galaxy (5 мест) и строка глоссария.
+янвелб -> ekup (по глоссарию).
+"Эгемония" -> "Egemony" (в RU искажённое "гегемония"; сохранено искажение).
+"Шиза Голд" -> "Shiza Gold" (звучит как Visa Gold, отсылка сохранена). Слоган "лежат себе и пусть лежат" -> "let it lie there and keep on lying".
+"Pi-Тёрочка" (Пятёрочка) -> "Pi-Eleven" (АДАПТАЦИЯ: Пятёрочка неизвестна англоязычным, взят 7-Eleven).
+Рэм-Боо -> Ram-Boo (Рэмбо).
+"Ты чьих будешь?" -> "Whose boy are you?".
+Пьяная речь фэянина без гласных: "Ппрбуй см. Т чт ндо." / "Пй. Т увжшь мня или нт?" -> "Tr t yrslf. Jst wht y nd." / "Drnk. D y rspct m r nt?".
+Path25b: цепочка синонимов бегства (наутёк, стрекача, удирание, драпанье, рвать когти, смотать удочки) -> took to his heels, made a dash for it, fleeing, bolting, running for dear life, skedaddle.
+Подпись "ЫЛырвалКстж" -> "YLyrvalKstzh" (бессмыслица).
+
+=== ОПЕЧАТКИ ОРИГИНАЛА ===
+"Нооло" / "нооло" (Path19b, Path30) - опечатка RU, в EN везде Noloo / noloo.
+Par41-1 "Параметр номер 14" при Par41 - как в RU.
