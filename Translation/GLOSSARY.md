@@ -1712,7 +1712,7 @@ ekup; Brigee Bardozze (ксенопарк); crossbow (ручной самост�
 | комбинации: двойной хэчер, двойное очко, удар шипом, удар (лицом) в грязь | Double Hatcher, Double Point, Spike Strike, Face in the Mud / fell face-first in the Mud | Forum |
 | квазинейронный сверхсервер; манаимпульсный кристалл | quasi-neural superserver; manaimpulse crystal | Forum |
 | дата-центр ЦОД-КОМ | DC-COM | Forum |
-| гравифлайер; галофон; хай-гравископ; свейлоновая нить | gravflyer; galophone; hi-graviscope; sveylon thread | Forum |
+| гравифлайер; галофон; хай-гравископ; свейлоновая нить | gravflyer; galaphone (= галафон, единое написание, как Galanet); hi-graviscope; sveylon thread | Forum |
 | кубик с рубиком; рубик | a cube with a rubik; a rubik | Forum (каламбур на кубик Рубика) |
 | «Ку, пацак!» | "Koo, patsak!" | Forum (отсылка к «Кин-дза-дза») |
 | охранник Сентей | Sentey | Forum |
