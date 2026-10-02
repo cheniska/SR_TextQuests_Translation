@@ -1046,3 +1046,45 @@ Prezhevalski → Prezhevalsky (Tomb); Grishhill → Grishkhill (Diehard); Sir Lo
 | GE (команда/мастерская: Михаил Читер, Маньяк Росс, рейнджер Гамми) | GE (Mikhael Cheater, Madman Ross, ranger Gamma) | отсылка к разработчикам |
 | пит-борд; боксы | pit board; the pits | |
 | наушники из кожи гобзавра | (gobsaur-leather headset) | |
+
+### Robots
+| RU | EN (оф.) | Комментарий |
+|---|---|---|
+| Межгалактический Чемпионат по сражениям на боевых роботах | the Intergalactic combat robot battle tournament | |
+| БаттлМех | BattleMech | |
+| Жакло КаакДам (гаалец) | John "God" O'Damned | адаптация (RU: Жакло КаакДам) |
+| Дзен Кочан (фэянин) | Zen Cha-Cha | адаптация |
+| Стальной Сильвестр (человек) | Steel Silvester | |
+| бластер; ракетная установка; торпедный аппарат | blaster; rocket launcher; torpedo tube | |
+| силовой щит; противоракетный манёвр; генератор помех | power shield; antirocket manoeuvre; noise generator | |
+| лазерный усилитель; улучшенная система наведения ракет; насадка на торпедный аппарат | laser intensifier; improved rocket navigator; heading for the torpedo tube (sic) | |
+| мастерские | the boxes | |
+
+### STQ (пиратские сюжетные квесты: Ataman1–2, Baron1–4, Headhunter)
+| RU | EN (оф.) | Комментарий |
+|---|---|---|
+| атаман (пиратское звание) | warlord | |
+| головорез (пиратское звание) | cut-throat | |
+| барон; верховный барон; ханы и бароны; авторитеты | baron; supreme baron; dons and barons (sic: хан → don); authorities | |
+| пиратское сообщество / братство; пиратский синдикат | pirate society / brotherhood; pirate enterprise | |
+| пиратская база / станция; военная база | pirate base / station; military base | |
+| общественная касса, взносы в неё (общак) | the societal fund and social contributions | |
+| акриновые технологии | akrin technology | |
+| Чушкач (командир пиратской станции, верховный барон) | Chushkach | |
+| адмирал Дурдым (командующий специальным флотом Коалиции) | Admiral Durdym | |
+| блокиратор субпортала | the blockirator to the subportal | |
+| тюремный корабль; литерный рейс № 327 | prison ship / spaceliner; Flight No. 327 | |
+| малокский диалект «сливки» | (old maloq dialect) | оф. название опущено |
+| турели (лазерные, пулемётные, ракетные); мины широкого спектра воздействия GOST 13197-67 | laser / machine gun / rocket turrets; "Super mines. GOST 13197-67" | |
+| пеленгский композитор Моц-Царт | peleng composer Mot Zart | |
+| ныри (космические грызуны) | nyrus | |
+| транспортёр «Т-3400» (фэянский, на гравиподушке); «Джамперметр» | T-3400 transporter; Jumpmeter | |
+| бугневилли (единица массы) | bug | |
+| «Хранилище 13»; «Перегонная»; «Сортировочная»; Манёвренные коридоры | Depot 13; Distillation Room; Sorting Room | |
+| рядовой Бейвзуб (малок), сорок вторая рота | Private Kicktooth, Forty-second company | |
+| Служба внутренней проверки | Bureau of Administrative Review | |
+| сварокок | swarokok | ≠ см. квест Svarokok |
+| ящик «Гуудини» | "Houdini" | |
+| майор Угром (начальник охраны госпиталя) | Major Ugrom | |
+| дроидофобия | droidophobia | |
+| журнал «Гордость рейнджера» | "Ranger Pride" | = Evidence |

@@ -295,3 +295,48 @@
 - Loc3-6: «Если обходится без Адских Машин и роботов-убийц» → "We could really do without…" (смысл изменён).
 - Loc3-4: «Чего есть, того не миновать!» и пр. — шутки переданы вольно; Loc3-1 «как два пальца в бензобаке» → "As easy as fondling a gas tank".
 - Опечатки: "Here are you <Money> cr.", "you stammered as you took as you sat", "You cars", "doesn't your car needs", "highly morale image", "250-000 cr".
+
+## Robots
+- **Loc76-5**: «Трибуны разразились аплодисментами… манёвр вашего противника» → EN другой записи ("Though the torpedo passed by due to the generator…") — подмена текста (check: Loc70-5/Loc76-5).
+- **Loc43-4/44-4/45-2**: «торпеды с улучшенной системой наведения, которой иногда удаётся преодолеть помехи» → "which causes more noise" (смысл искажён); «тепло распрощавшись с собутыльниками» → "giving your competitors a warm clasp".
+- **Loc1-1**: имена соперников адаптированы ("John "God" O'Damned", "Zen Cha-Cha") — RU «Жакло КаакДам», «Дзен Кочан».
+- Loc53-1: «Насадка на торпедный аппарат» → "Heading for the torpedo tube"; Loc53-2: перевод п. 2 испорчен ("when 2 will volley your enemy or 3 rockets").
+- Loc50-1: «ЧЕМПИОНА ВСЕЛЕННОЙ» → "THE GALAXY CHAMP"; QuestSuccessGovMessage: «смотрело репортажи» → "listening to the sportscasts".
+- Опечатки: "tree types", "he's till able", "The bar is namely empty", "absent once", "the Peeling's answer", "You stroke the fans dumb", "drawback", "kept their breath".
+
+## STQ_Ataman1
+- Loc4-1: «стоит тем начать замечать нестыковки» → "It's time to take note of the disparity" (смысл изменён: в RU — избавляются от тех, кто начинает замечать).
+- Loc5-1: «работая на них» → "working in them"; «атаман» → "warlord".
+- Path5: «Но можешь ли ты за них ответить?» → "But can you say anything against them?" (обратный смысл).
+- Path3: «Так и есть» → "Very well".
+
+## STQ_Ataman2
+- check: одинаковый RU (Loc2-1, Loc7-1, Loc8-1) переведён по-разному ("didn't look its best" / "didn't look very good"). "It's case" (its).
+- Loc4-1: «валю жестянку» → "throw down a tin can"; «медиков-психиатров, после чего вернулись» → "who then return" (субъект перепутан).
+- Loc16-1: «изящным оскорблением на древнем малокском диалекте "сливки"» → "Responding to the know-it-all's fine insult in an old maloq dialect" (кто кого оскорбил — перепутано, название диалекта опущено); «ничуть не смущаясь» → "almost laughing"; Loc15-1 «Верный своей задумке» → "True to your dream".
+
+## STQ_Baron1
+- Loc5-2: «оброненный атакующими вас военными» → "had probably been defended by the soldiers" (неверно).
+- Loc1-1: «Из ворот налево» → "though the gates on the left"; «шагать навстречу улепётывающим… пиратам» → "move in the opposite direction" (обрезано по смыслу).
+- Loc12-1: «Однажды о вашей победе напишут» → "However, they'll write"; Loc5-1 «пиратского синдиката» → "pirate enterprise".
+- Par1-crit: "levels fell off" (levers).
+
+## STQ_Baron2
+- Loc18-1: «грузоподъёмность… 120 бугневиллей. Больше в него физически не влезет» → "120 bug… will not fly".
+- Loc25-1: «Вы уже подумали, было» → "I believed" (1-е лицо).
+- Loc4-1: "You look left and right and noticed" (времена); Loc16-6: «Дозаправка вам явно не помешает» → "Refueling clearly won't bother you" (смысл).
+
+## STQ_Baron3
+- Loc15-2: «дёрнули дорожку за край» → "kept to the edge of the path" (неверно; ковровая дорожка); Loc15-3 «дёрнули дорожку на себя» → "took to the path".
+- Loc23-5: «меня тут каждый сварокок знает» → "Every swarokok here knows me"; «Вы обвели пустой ангар широким жестом» → "You walked around the empty hangar with a stately air".
+- Loc23-6: «Сход - развал!» → "The landing area is a disaster!"; «доминатор подери!» → "dang it!!".
+- Loc22-1: «который вы про себя идентифицировали» → "quietly named aloud"; Loc23-4 "The maloq smile broadly".
+
+## STQ_Baron4
+- Loc3-1: «ханы и бароны» → "dons and barons".
+- Loc4-1: «сдамасской стали» → "Damascus steel" (ок); "Shush your weapons, boys" — пропущена открывающая кавычка.
+
+## STQ_Headhunter
+- QuestSuccessGovMessage: «Кроме имеющих более высокое звание пиратов» → "Except pirates who know more than you" (неверно — речь о звании).
+- Loc3-1: «стоило после этого сделать шаг вперёд» → "But it cost you to take a step forward" (ложный друг «стоило»); Loc8-1 «стоило вам разоружиться» → "so it was worth it to disarm yourself" (та же ошибка).
+- Loc5-1: «не дали себя сломить даже повторением малокских скороговорок за одним из охранников» → "you even repeated maloq tongue-twisters" (смысл перевёрнут).
