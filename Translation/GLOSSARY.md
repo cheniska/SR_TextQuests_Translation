@@ -1676,3 +1676,31 @@ ekup; Brigee Bardozze (ксенопарк); crossbow (ручной самост�
 | гранэкские бурли; рамгатрские кобры | Graneka burls; Ramgatrue cobras | Testing (планеты по ванилле) |
 | Пехи Дан (Шухэо, Пхедок); Лаенни-Га (Эйланк, Атлан); Доолки; Бооз | Pekhi Dan (Shukheo, Pkhedoc); Laenni-Ga (Eilank, Atlan); Doolki; Booz | Testing (анекдот; Shukheo/Pkhedoc/Eilank — ванилла) |
 | эффект псевдосмерти | the pseudo-death effect | Testing |
+
+| Русман (агент планеты <FromPlanet>); Джош Бдуш | Rusman; Dzhosh Bdush | Piratesnest (ср. Жорш Бдуш → Zhorsh Bdush в Colonization) |
+| ресторан «Жирная Вилка»; бар «ТЮРЕМОК» | the "Fat Fork" restaurant; "THE CLINKHOUSE" bar | Piratesnest |
+| пират Череп / Корсар Череп (кличка) | Skull / Corsair Skull | Piratesnest (прозвище переведено) |
+| Кацап (босс-пеленг Дзухаллага); Комер Сан; Цишка; Гацапа; Громилла (малок) | Katsap; Komer San; Tsishka; Gatsapa; Gromilla | Piratesnest |
+| гаалец Нааклю Ко (биограф Кацапа); Бамбахчик (малок-подрывник) | Naaklyu Ko; Bambakhchik | Piratesnest |
+| клички: Лохнесс, Громила Дуб, Паранойис, Дрын Бывалый, Косяк | Loch Ness, Thug Oak, Paranoyis, Dryn the Seasoned, Joint | Piratesnest |
+| «Болотная ряска» (рахишианский коктейль); рахишианское стволовое дерево | "Swamp Duckweed"; the Rakhishian trunk tree | Piratesnest |
+| пиво «Махпельское темное»; втыкилла; малокское ядерное | "Makhpella Dark" beer; stabquila; Maloq Nuclear | Piratesnest (втыкилла — как "Stabquila" в Testing) |
+| «Приключения капитана Полоскина»; писатель Тяп Ляп | "The Adventures of Captain Poloskin"; the writer Tyap Lyap | Piratesnest |
+| пароли шкафа: «Запеленговал металлоразведчик» / «И Полоскин отключил экран» | "The metal scout has taken a bearing" / "And Poloskin switched off the screen" | Piratesnest |
+| телепортер «ФэйДжоуль» / FeiДжоуль | FeiJoule | Piratesnest |
+| Macrohard Nondows Twista; ГайдНет; Гайд; ГалаГугл | Macrohard Nondows Twista; GuideNet; the Guide; GalaGoogle | Piratesnest |
+| рубли (валюта второй луны, «из дерева сделаны») | rubles | Piratesnest |
+| кислоты: урановая, изиодная, карбоновая, азотная, фосфорная, дизодановая, серная, слабая угольная | uranic, iziodic, carboxylic, nitric, phosphoric, dizodanic, sulfuric, weak carbonic | Piratesnest (загадка с колбами) |
+| рыбы-трипаньи; рыбки-пирашки; рагобамская жаба; морские бугрики; снежные слизни | tripan fish; pirashka fish; ragobam toad; sea bumplings; snow slugs | Piratesnest |
+| лепрас / лепрасовый (о пеленге) | Lepraz | Piratesnest (= лепрасовый вид, Fishing) |
+| хрякохлюп (ругательство) | boarslurp | Piratesnest (ср. хрякоплюхи → boarsplats, Amnesia) |
+| жабсон (пеленгская музыка) | toad-chanson | Piratesnest |
+| сигареты «Пеленгейтор» | "Pelengator" cigarettes | Piratesnest |
+| планета Элиния (гаальское посольство); Аафриика (гаальская планета) | Elinia; Aafriika | Piratesnest |
+| сектор Хиша, система Пхедок; сектор Гурт, система Тарон, планета Рамгатру | Hisha sector, Pkhedoc system; Gurt sector, Taron system, planet Ramgatrue | Piratesnest (ванилла) |
+| болото Цаввацах; Марринианский горный хребет | the Tsavvatsakh swamp; the Marrinian mountain range | Piratesnest (Рахиш) |
+| Великая Пеленгская Война; Гяйтер; ССР — Союз Свободного Рахиша | the Great Peleng War; Gyayter; the UFR - the Union of Free Rakhish | Piratesnest (пародия; телепередача) |
+| Конфедерация Отсталых Рас | the Confederation of Backward Races | Piratesnest (малокский фильм) |
+| передача «Как получить КДП 1110%» | "How to Achieve 1110% Efficiency" | Piratesnest |
+| Агро-Сити; река Нейле; гора Аверест; Великая Лунная равнина | Agro-City; the Neile river; Mount Averest; the Great Lunar Plain | Piratesnest (вторая луна <ToPlanet>) |
+| набор «Юный радиотехник» / «Юный террорист» | "Young Radio Technician" / "Young Terrorist" | Piratesnest |
