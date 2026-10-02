@@ -9,7 +9,7 @@
 ## SR2HD Untranslated — полностью на русском (todo)
 Doomino,
 Faruk, Feipsycho, Filial, Glavred, Megatest,
-Park, Pharaon, Photorobot, Taxist, Tourists
+Pharaon, Photorobot, Taxist, Tourists
 
 ## SR2HD Untranslated — частично на английском (todo: доперевести)
 Citadels, Gaidnet, Maze, Provoda, Rvk
@@ -49,6 +49,7 @@ ShuPrison(4), ShuQuest(7), XenoZeroSignalQuest(1) — todo; состав уто�
 | Bomber | 2026-10-02 | 363 (322 уникальных) | ~2 | переведён с нуля с RU (старый EN — русский текст); check 0/0, struct 0 |
 | Vulkan | 2026-10-02 | 576 (503 уникальных) | ~2 | переведён с нуля с RU (старый EN — русский текст); check 0/0, struct 0 |
 | Xenolog | 2026-10-02 | 380 (328 уникальных) | ~2 | переведён с нуля с RU (старый EN — русский текст); check 0/0, struct 0 |
+| Park | 2026-10-02 | 325 (261 уникальных) | ~2 | переведён с нуля с RU (старый EN — русский текст); check 0/0, struct 0 |
 
 ## КР1 (SR1TextQuests) — вычитка готового английского (начато 2026-09-30)
 Задача: английский текст уже переведён в КР1; проверяем грамматику, смысл (сверка с RU), единообразие терминов; RU не меняем; qmm не трогаем.

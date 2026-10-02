@@ -1781,3 +1781,14 @@ ekup; Brigee Bardozze (ксенопарк); crossbow (ручной самост�
 | галит (единица размера); ацитонус; нуль-бомба; «Гравикарчик» | galit; acitonus; null bomb; "Gravicarlet" | Xenolog |
 | древнебуржунский язык; таблица Квазиса; группа «Ту-ту»; космоRAP | Ancient Burzhunian; Kvazis's table; "Tu-Tu"; cosmoRAP | Xenolog |
 | пеленгские гумысы, шлячисы, пачониумы (в RU «пенегские» — опечатка?) | peleng gumyses, shlyachises, pachoniums | Xenolog |
+
+| парк сказочных аттракционов «Куриные лапки»; операция «Жареная Цыпа» | "Chicken Legs" fairy-tale amusement park; operation "Fried Chick" | Park |
+| Змей Горыныч; Баба-Яга; Василиса Премудрая; Кощей Бессмертный; Иван-Царевич; Иван-дурак; Царевна-Лягушка | Zmey Gorynych; Baba Yaga; Vasilisa the Wise; Koschei the Deathless; Ivan Tsarevich; Ivan the Fool; the Frog Princess (сказочная викторина — русские формы сохранены; оф. Election адаптирует: firedrake, old witch) | Park |
+| Калистрат Мудрило (робот-мудрец) | Calistrate Wiseast (оф., Election) | Park |
+| судьи Илья Муромский, Добряня Никитин, Алеха Поповин | Ilya Muromsky, Dobryanya Nikitin, Alekha Popovin | Park |
+| доцент Гриня Загрино; профессор Корневой; капитан Шаграйчик; Г. Раздолбаев-средний; Чайник Салагин; Фуфлик Зафиндяйло; Фури-Бури-Дури | Grinya Zagrino; professor Korenevoy; Captain Shagraychik; G. Razdolbayev the Middle; Chaynik Salagin; Fuflik Zafindyaylo; Furi-Buri-Duri | Park |
+| группа «Аленушки International»; Аленка; робот РПФМ-16 ОРДА; звероконек-бодунок ЖПА-28 | "Alyonushki International"; Alyonka; RPFM-16 ORDA; Little Hungover Beast-Horse ZhPA-28 | Park |
+| слот-фигуры: квакожабр, пенчекряк, хохлач, бердяйчик | croakfrog, penchecrakus, crester, berdyaychik | Park |
+| харчевня «Бiля Цуцика»; Зазеркалье; ацтои (народ Земли); лагерь «СЮНЬ-ХРЮНЬ»; «Перпердон-пардон»; «Бом Гав-Гав-УЁН»; Какатреб | "Bilya Tsutsyka" Tavern; the Looking-Glass; the Aztoys; "SYUN-KHRYUN"; "Perperdon-Pardon"; "Bom Gav-Gav-UYON"; Kakatreb | Park |
+| орден Саблезубого веника в валенке; электромобиль «Бета-Джульетта КК - ИКС» | Order of the Saber-Toothed Broom in a Felt Boot; "Beta-Juliet KK - X" | Park |
+| «Каждый Охотник Желает Знать...» (радуга) | "Richard Of York Gave Battle In Vain" (адаптация, ROYGBIV) | Park |
