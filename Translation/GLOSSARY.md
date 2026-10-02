@@ -1221,3 +1221,25 @@ Prezhevalski → Prezhevalsky (Tomb); Grishhill → Grishkhill (Diehard); Sir Lo
 **Совпадает с оф. (менять не нужно):** Peleng(s) с заглавной (оф. 577 против 297), Maloq(s) (785/240), Faeyan(s) (оф. также «fae»), Klissan(s), Dominator(s) с заглавной (77/28), Iike-Baana, lyakusha, Rachekhan, Commonwealth, guanava, stereovision (часть наших уже).
 **Спорно у оф. (вопрос пользователю):** гаалец — оф. существительное чаще «gaal(s)/Gaal(s)» (367), чем «Gaalian(s)» (≈208, включая прилагательное); у нас Gaalian(s) (222 вхождения). Рекомендация: оставить Gaalian(s).
 **Имена у оф. с разнобоем (для будущих переводов):** Korchenitza (Foncers) / Korchenitsa (Rally); Mikhael Shulman / Michael Schulmann; Borzukhan / Borzuhan; Tardim Babach / Tardym Ka'Boom; MacroHard Nondows / Macrohard Doors; Lyapzva Hiz / Brigee Bardozze.
+
+## Сверка с основной локализацией игры Lang_Eng_Vanilla (2026-10-02)
+Источник: `Lang_Eng_Vanilla.txt` (файл пользователя; английская локализация SR2 — миссии, предметы, диалоги). Частоты: V = ванилла, D = DevTranslated (42 квеста), O = наши переводы (КР1 + Rev + Moi).
+
+| RU | V (ванилла) | D (DevTranslated) | O (наше) | Вывод |
+|---|---|---|---|---|
+| хэчбол | hatchball 2 | hatch-ball 22 / hatchball 19 | Hachball ≈148 | **hatchball** — V снимает ничью у D |
+| гобзавр | Gobsaurus (Gobsaurus Man), мн. **gobsauri** | gobzaurus 21 / gobsaurus 12 | gobsaur | **gobsaurus**, мн. gobsauri — V против частоты D |
+| пенчекряк | **penchecrakus** 15 (мн. -es), Ravenous Penchecrakus, Penchecrakia | penchekryak 48 | penchecrakus | V = НАШЕ — конфликт с D |
+| Книга Позора (малоков) | **Book of Shame** | Disgrace Book 1 | Book of Shame | V = НАШЕ |
+| далани | **dalani** (wisest dalani) | Dalany 27 | dalani | V = НАШЕ |
+| янвелб | **ekup** 1 | ekup 3 / janwelb 1 | yanvelba | **ekup** — V подтверждает |
+| хозяин ксенопарка (Ляпцва Хиц) | **Brigee Bardozze** (миссия о ксенопарке) | Lyapzva Hiz 1 / Brigee Bardozze 1 | Hitz | **Brigee Bardozze** — по V |
+| самострел | Crossbow (предмет) | crossbow | hand-held dart gun | **crossbow** |
+| стереовизор | stereovision 12 | stereovision 65 | stereovisor | **stereovision** |
+| сиболусовт | Sibolusovtus | sibolusovtus | — | sibolusovtus |
+| пеленгский (прил.) | атрибутивное peleng (peleng ship/pirate), Pelengan 0 | Peleng 445 | Pelengan | **peleng/Peleng** атрибутивно — V и D согласны |
+| гаалец / гаальский | сущ. **gaal(s)** 110, прил. **gaalian**; Gaalians 1 | gaal 367 / Gaalian ≈208 | Gaalian(s) сущ.+прил. | V: сущ. gaal(s), прил. gaalian |
+| Иикэ-Баана; лякуша; Рахехан; Рахиш; ментоскопия | Iike-Baana, lyakusha, Rachekhan's Scale, Rakhish, mentoscopy | — | так же | совпадает |
+| Махпелла, жвырклац, кванга, кинза, втыкилла, хелдас | — (нет в V) | Machpella, phatklink, quanga, kinza, vtequila, helldas | Mahpella, zhvyrklats, kwanga, kindza, Vtykilla, heldas | V не помогает — по D |
+
+**Регистр названий рас.** V последовательно пишет расы со строчной (сущ. и прил.): peleng 162/9, pelengs 77/0, maloq 232/8, faeyan 121/5, gaal(s) 110/4, human(s) 161/2, dominators 556/21 (строчные/заглавные в середине фразы). D — разнобой с перевесом заглавных (Peleng 259/331, Maloq 214/444). O — заглавные (решения КР1: Peleng, Maloq, Faeyan, Gaalian, Human, Dominator). Вопрос пользователю.
