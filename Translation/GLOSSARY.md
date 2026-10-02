@@ -1341,3 +1341,40 @@ ekup; Brigee Bardozze (ксенопарк); crossbow (ручной самост�
 | RU | EN | Квест |
 |---|---|---|
 | Махпелла; пиво «Махпелла Дарк»; «Слезы Махпеллы» | Makhpella; "Makhpella Dark"; "Tears of Makhpella" | Massacri, Amnesia, Kidnapped |
+
+## SR2HD Untranslated: Kidnapped (2026-10-02)
+| RU | EN | Квест |
+|---|---|---|
+| «Похищенный» (квест) | "Kidnapped" | Kidnapped |
+| Эндрю Вёрсл (капитан, атаман Клана; на монете ключ «virsle») | Andrew Vyorsl | Kidnapped (строгий транслит ё→yo; см. notes) |
+| «Пёстрый Голубь» (корабль Вёрсла) | "Particolored Pigeon" | Kidnapped (форма авторов: шифр Виженера на монете «kiiltgjtfjph kqxwzr» + ключ «virsle» = «particolored pigeon») |
+| экипаж: Эрок, Махсим, Кашкель, Тисануш, Цвага, Юпитер, Мальпа (Мальп), Робер, Баргам, Брего, Феликс, Лиони, Триклоп, Барни Бакс, Флэнки Тим | Erok, Makhsim, Kashkel, Tisanush, Tsvaga, Jupiter, Malpa (Malp), Robert, Bargam, Brego, Felix, Lioni, Triclops, Barney Bucks, Flanky Tim | Kidnapped (Робер = фр. Robert; Триклоп = трёхглазый гаалец → Triclops) |
+| Лянчер Швокс (агент Дзухаллага); Тарикс | Lyancher Shvoks; Tariks | Kidnapped |
+| Гавар (малок-инструктор); Норхберч Винерхан (лякуша-программист); Ческа Йцукен (лякуша) | Gavar; Norkhberch Vinerkhan; Cheska Qwerty | Kidnapped (Йцукен = раскладка → Qwerty) |
+| Апч'хан Ядохвост (заказчик похищения); Дред Неумолимый | Apch'khan Poisontail; Dred the Relentless | Kidnapped |
+| фантом Мир Орниоли (атаман); банда Кучхума | Phantom Mir Ornioli; Kuchkhum's gang | Kidnapped |
+| вротбылтыся (крепкий напиток) | vrotbyltysya | Kidnapped |
+| ныря (корабельный грызун); «Ныря вентиляционно-кладовая»; нырёныш | nyrya (мн. nyryas); "Vent-and-pantry nyrya"; little nyrya | Kidnapped |
+| корабельный деконструктор келлероидной серии; домики (жарг. доминаторы) | kelleroid-series shipboard deconstructor; dommies | Kidnapped |
+| ренегал (гаалец-ренегат) | renegal | Kidnapped (ванилла: Renegal Hull) |
+| бамбай (жарг. малок) | bambay | Kidnapped (ванилла) |
+| Клан (пиратский), Братство, верховный барон, доминион, атаман | the Clan, the Brotherhood, the supreme baron, the dominion, ataman | Kidnapped |
+| «эпоха пиратского романтизма»; «Восхождение Рачехана» | "pirate romanticism"; "The Rise of Rachehan" | Kidnapped (Rachehan — ванилла) |
+| бластер «FF-12»; Сонарная Отвёртка; программа «Шифровальщик флибустьера»; маскировочное устройство | "FF-12" blaster; Sonar Screwdriver; "Buccaneer's Cipher" program; cloaking device | Kidnapped |
+| «Пособие по взлому замков при дверях и сейфах» Дж. Валентайна; «Учебное пособие по взлому» | "A Manual for Picking the Locks of Doors and Safes" by J. Valentine; "A Hacking Manual" | Kidnapped |
+| микромодули «Форсер», «Дронз» | "Forcer", "Dronze" micromodules | Kidnapped (ванилла) |
+| «Пожирак» / «пожик» (лапша, пародия на «Доширак») | "Gobblerak" | Kidnapped |
+| пиво «Махпелла дарк»; «Иди к Махпелле!» | "Makhpella Dark"; "Go to Makhpella!" | Kidnapped |
+| «Асивас» (пародия на Adidas) | "Asivas" | Kidnapped |
+| галатамайские джоганы (фэянское лакомство с сернистым запахом) | Galatamayan jogans | Kidnapped |
+| журнал PlayFei; глэп; жевательная трава; кинза | PlayFei; glap; chewing grass; kinza | Kidnapped |
+| мерцин, некрил, кортзин; акабосс | mercine, nekril, kortzin; akabos | Kidnapped (mercine, akabos — ванилла) |
+| Гаалдок (планета), статуя Аабисс («самоотверженный»); Гралгар; Инклада; Асьян; Гешши, Валуйх (пеленгские диалекты) | Gaaldok, the Aabiss statue ("selfless"); Gralgar; Inklada; Asyan; Geshshi, Valuykh | Kidnapped |
+| Шхуна (пиратское место) | the Schooner | Kidnapped |
+| «хаббат с тобой!»; «Чёрт кварку разорви!»; «Чёрт подорви!»; сибулосовты балдхоногие; балдха | "Habbath take you!"; "Devil rip a quark!"; "Blast it!"; bald-legged sibulosovts; numbskull | Kidnapped |
+| «На'а-Ви - чемпионы!»; «Таухито - ложь» | "Na'a-Vi are the champions!"; "Taukhito is a lie" | Kidnapped |
+| дубляж Куврилова (пародия на Гаврилова); RNN | Kuvrilov's single-voice dubbing; RNN | Kidnapped |
+| гаальский «ферзевой га-ам'бит» | the gaalian "Queen's Ga-am'bit" | Kidnapped |
+| «БАХ!» (флажок дроида) | "BANG!" | Kidnapped |
+| прикинуться шлангом | play possum | Kidnapped (адаптация идиомы) |
+| «Слушаюсь, мой капитан!» | "Aye aye, my captain!" | Kidnapped |
