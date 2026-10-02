@@ -460,3 +460,26 @@ Prezhevalski → Prezhevalsky (Tomb); Grishhill → Grishkhill (Diehard); Sir Lo
 | RU | EN | Квест |
 |---|---|---|
 | шракан; шраканоподобный | shrakan; shrakan-like | Bank (низшие полуразумные виды у пеленгов — по пояснению пользователя) |
+
+### Cybersport (мод RevTextQuests, 2026-10-02)
+| RU | EN | Квест |
+|---|---|---|
+| Зверские уродцы 13: Хэппи Энд; «Уродцы» | Beastly Freaks 13: Happy End; "Freaks" | Cybersport |
+| World Rulezzz Cyber Game; Всегалактический Киберспортивный Турнир | World Rulezzz Cyber Game; All-Galactic Cybersport Tournament | Cybersport |
+| Арнарик Гаудад (планета) | Arnarik Gaudad | Cybersport |
+| «Лолингрин» (напиток) | Lolingrin | Cybersport |
+| клуб «Адский санаторий» | the "Hellish Sanatorium" club | Cybersport |
+| «Неверворк» (геймерский комплект); гравитонный манипулятор | Neverwork; graviton manipulator | Cybersport |
+| ВиндЫ v.QD; крякнуто слесарем Ивановым | Windoze v.QD; cracked by locksmith Ivanov | Cybersport |
+| транклюкатор | tranklyukator | Cybersport |
+| лампонюх | lamponyukh | Cybersport |
+| Завод, Казарма, Защитный Экран, Генератор Ужаса, Зверский завод, Зверская казарма, Адская Пушка, Коллапс-машина, Радар, База | Factory, Barracks, Defense Screen, Horror Generator, Beast Factory, Beast Barracks, Hell Cannon, Collapse Machine, Radar, Base | Cybersport |
+| Болванчики, Обормоты, Уродцы, Бяки-буки, Страшилища, Отморозки, Чудища | Dummies, Goofballs, Freaks, Bogey-Boos, Horrors, Psychos, Monsters | Cybersport (юниты) |
+| Душегрызы, Древочурки, Зверостолопы, Страхоштуки | Soulgnawers, Treechumps, Beastoafs, Scarethings | Cybersport (зверские юниты) |
+| Вялый Гопарь Ы; Древний Зверостолоп Пух | the Limp Gopar Y; the Ancient Beastoaf Pooh | Cybersport |
+| Защитный потенциал, Большие казармы, Дополнительные батареи, Быстрое производство, Ударная сила | Defense Potential, Large Barracks, Extra Batteries, Rapid Production, Striking Power | Cybersport (улучшения) |
+| фумигатор «фРейд-Макс» | fRaid-Max fumigator | Cybersport |
+| Параметры-аббревиатуры: УРР, УРП, УРЗ, УРО | Development level; Production development; Beast development; Weapons development | Cybersport (расшифровка по формулам qmm: УРП из заводов/казарм, УРЗ из зверских, УРО из орудий, УРР — сводный; «Р» в УРР — ?) |
+| ЗГУ, ЗАП, ЗКМ | Horror Generator charge; Hell Cannon charge; Collapse Machine charge | Cybersport (заряд Генератора Ужаса / Адской Пушки / Коллапс-машины — по Loc6-1) |
+| Идент. войск | Troop ID | Cybersport (число-код состава войск) |
+| ники: Репейник Монго, УкропЪ/Петрушка, Выпейадник, 4уВаК, Тьмуберущий | Burdock Mongo, Dille/Parsley, Boozedock, d00D, Darktaker | Cybersport (латинские ники mEgAiGrOk, Qwerty10x, Absolut13, KoR-Abel — без изменений) |
