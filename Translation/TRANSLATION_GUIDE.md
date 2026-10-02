@@ -33,15 +33,15 @@
 ## Пути
 | Что | Где |
 |---|---|
-| Исходник RU | `QUESTS\TextQuests\<Мод>\Rus\<Name>.txt` (для SR2HD: `SR2HD\questsRus\<Name>.txt`) |
-| Результат EN | `QUESTS\TextQuests\<Мод>\Eng\<Name>.txt` (SR2HD: `questsEng\<Name>_eng.txt`) |
+| Исходник RU | `QUESTS\TextQuests\<Мод>\Rus\<Name>.txt` (для SR2HD: `SR2HD\questsRus\Untranslated\<Name>.txt`; переведённые разработчиками — в `DevTranslated`) |
+| Результат EN | `QUESTS\TextQuests\<Мод>\Eng\<Name>.txt` (SR2HD: `questsEng\Untranslated\<Name>_eng.txt`) |
 | Рабочая копия | `QUESTS\Translation\work\<Name>.work.txt` (UTF-8, создаёт `qtr.py unpack`) |
 | Инструмент | `QUESTS\qtr.py` |
 | Лор | `QUESTS\Translation\lore\` (см. `LORE_GUIDE.md`) |
 | Глоссарий | `QUESTS\Translation\GLOSSARY.md` |
 | Очередь и статус | `QUESTS\Translation\STATUS.md` |
 
-В `SR2HD\questsEng\*_eng.txt` сейчас лежит **русский** текст для 32 квестов и частично английский для 6
+В `SR2HD\questsEng\Untranslated\*_eng.txt` сейчас лежит **русский** текст для 32 квестов и частично английский для 6
 (см. `STATUS.md`) — перезаписываем их переводом только после проверки `qtr.py pack`.
 
 ## Формат txt (TGE)

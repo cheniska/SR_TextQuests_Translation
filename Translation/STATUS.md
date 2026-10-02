@@ -1,18 +1,20 @@
 # Очередь перевода
 
 Колонки: квест | источник RU | результат EN | статус (`todo`/`wip`/`done`) | Лор | дата | заметки.
-Источник и результат для SR2HD: `TextQuests\SR2HD\questsRus\<Name>.txt` → `questsEng\<Name>_eng.txt`.
+Источник и результат для SR2HD: `TextQuests\SR2HD\questsRus\<Sub>\<Name>.txt` → `questsEng\<Sub>\<Name>_eng.txt`,
+где `<Sub>` = `Untranslated` (38 квестов, не переведённых разработчиками — список в `questsEng\readme.txt`) или
+`DevTranslated` (42 квеста, переведены разработчиками). Разделено 2026-10-02 по указанию пользователя.
 Подсказки-черновики на английском: `0_квесты кр 2 тхт\qmm_to_translate\_преев\Новая папка\` (проверять по RU).
 
-## SR2HD — полностью на русском (todo)
+## SR2HD Untranslated — полностью на русском (todo)
 Amnesia, Colonization, Complex, Deadoralive, Diver, Domoclan, Doomino, Drugs, Easywork, Evilgenius,
 Faruk, Feipsycho, Filial, Forum, Glavred, Gluki, Kiberrazum, Kidnapped, Losthero, Mafia, Megatest,
 Park, Pharaon, Photorobot, Piratesnest, Proprolog, Taxist, Testing, Tourists, Vulkan, Xenolog
 
-## SR2HD — частично на английском (todo: доперевести)
+## SR2HD Untranslated — частично на английском (todo: доперевести)
 Bomber, Citadels, Gaidnet, Maze, Provoda, Rvk
 
-## Остальные SR2HD (42 квеста)
+## SR2HD DevTranslated (42 квеста)
 Уже полностью на английском — не переводятся; проверять по запросу.
 
 ## Моды (`TextQuests\<Мод>\Rus` → `Eng`, папки Eng пустые)

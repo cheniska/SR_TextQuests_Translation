@@ -89,6 +89,19 @@ def stem_keys(fn):
     return s
 
 
+def list_txt(d):
+    """txt-файлы папки и её подпапок первого уровня (SR2HD: Untranslated/DevTranslated), кроме notes."""
+    out = []
+    for fn in sorted(os.listdir(d)):
+        p = os.path.join(d, fn)
+        if os.path.isdir(p):
+            if fn.lower() != 'notes':
+                out += [(p, f) for f in sorted(os.listdir(p)) if f.lower().endswith('.txt')]
+        elif fn.lower().endswith('.txt'):
+            out.append((d, fn))
+    return sorted(out, key=lambda x: x[1].lower())
+
+
 def main():
     rows = []
     for mod in sorted(os.listdir(TQ)):
@@ -100,15 +113,14 @@ def main():
         eng_dirs = [d for d in os.listdir(mp) if d.lower() in ('eng', 'questseng')]
         eng = {}
         for d in eng_dirs:
-            for fn in os.listdir(os.path.join(mp, d)):
-                if not fn.lower().endswith('.txt') or fn.lower() == 'readme.txt':
+            for fd, fn in list_txt(os.path.join(mp, d)):
+                if fn.lower() == 'readme.txt':
                     continue
-                eng[stem_keys(fn).lower()] = os.path.join(mp, d, fn)
+                eng[stem_keys(fn).lower()] = os.path.join(fd, fn)
         rus_names = []
         for d in rus_dirs:
-            for fn in sorted(os.listdir(os.path.join(mp, d))):
-                if fn.lower().endswith('.txt'):
-                    rus_names.append((os.path.splitext(fn)[0], os.path.join(mp, d, fn)))
+            for fd, fn in list_txt(os.path.join(mp, d)):
+                rus_names.append((os.path.splitext(fn)[0], os.path.join(fd, fn)))
         rus_stems = {n.lower() for n, _ in rus_names}
         for name, rp in rus_names:
             n_rus, _ = stats(rp)
