@@ -1835,3 +1835,8 @@ ekup; Brigee Bardozze (ксенопарк); crossbow (ручной самост�
 | ментал (единица информации); загрузка мозга; тревога | mental; brain load; alarm | Gaidnet |
 | киберблоха; иллюзионные проекторы; микровидеокамеры; фазотрон; стокаторный жижометр; Дворец v13.2 | cyberflea; illusion projectors; micro video cameras; phasotron; stochator slurrometer; Palace v13.2 | Gaidnet |
 | Вовка / Василий Васильевич Пупкин (ID-13); Хи Ю Ань; Петр Иванов; Га Ноцри-Боо | Vovka / Vasily Vasilyevich Pupkin; Khi Yu An; Pyotr Ivanov; Ga Notsri-Boo | Gaidnet |
+
+| корпорация «Гай Накс» (мультипликация, роботы); гансам («Гай Накс Гансам 00»); «Малокософт Дверь 3.11» | "Gai Nax" (отсылка к Gainax); gunsam ("Gai Nax Gunsam 00", отсылка к Gundam); "Maloqsoft Door 3.11" | Filial |
+| Однег (гаалец, директор филиала); Такум (таксист); Бар Бара Стрейзанд | Odneg; Takum; Bar Bara Streisand | Filial |
+| отель «Отель»; «козарма» (ошибка на табличке); сверхпластид; «Восстановление пароля»; игра «Dom 4D» | the "Hotel" hotel; "barraks"; super-plastide; "Password Recovery"; "Dom 4D" | Filial |
+| «Селамат паги!» (приветствие таможенника) | "Selamat pagi!" | Filial |
