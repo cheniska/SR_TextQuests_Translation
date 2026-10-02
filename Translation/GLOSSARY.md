@@ -1478,3 +1478,31 @@ ekup; Brigee Bardozze (ксенопарк); crossbow (ручной самост�
 | «ВСЕ НА БОРЬБУ С КОЛОРАДСКИМ ЖУКОМ!» | "EVERYONE TO THE FIGHT AGAINST THE COLORADO POTATO BEETLE!" | Drugs |
 | «Пасти порву, моргала выколю!!! Волки позорные!!!» («Джентльмены удачи») | "I'll tear your jaws off, gouge your peepers out!!! You lousy wolves!!!" | Drugs |
 | ЗЫ / ЗЗЫ | P.S. / P.P.S. | Drugs |
+
+## SR2HD Untranslated: Easywork (2026-10-02)
+| RU | EN | Квест |
+|---|---|---|
+| транспортная фирма «Танзупар» | the "Tanzupar" transport company | Easywork |
+| Молгаар (гаалец-сектант, глава культа; «Величайший», «Великий Наставник») | Molgaar ("Greatest One", "Great Mentor") | Easywork |
+| культ Молгаара; Неодоминаторы; Создатель; ментограммы; тотальное ментоскопирование | Molgaar's cult; Neodominators; the Creator; mentograms; total mentoscopy | Easywork |
+| профессор Лягуш Мухуш (пеленг, музей истории Гаальского народа); Прунелла / Прунеллочка | Professor Lyagush Mukhush; Prunella / Prunellochka | Easywork |
+| актриса Прунелла Лягуше-Мухошлеп XIV | Prunella Lyagushe-Mukhoshlep XIV | Easywork |
+| Смиттерс Либерман (журналист-сектант) | Smitters Liberman | Easywork |
+| Чвондер (за кого пьяный пеленг принимает рейнджера) | Chvonder | Easywork |
+| рейнджер Заливайко («Меньше заливать надо, Заливайко») | Zalivayko ("Tell fewer tall tales, Zalivayko") | Easywork (строгий транслит; каламбур передан смыслом) |
+| певец Джокер, хит «Баллада о мутенке» | the singer Joker, "The Ballad of the Little Mutant" | Easywork |
+| маньяк-парикмахер Федя Клюквин (сериал) | Fedya Klyukvin | Easywork |
+| город Каа-Заань; лес Ооли; горы Кааро-Ами (пик Аами), Кааро-Оми | the town of Kaa-Zaan; the Ooli forest; the Kaaro-Ami mountains (Aami Peak), Kaaro-Omi | Easywork |
+| бар «Д-эль» (вывеска «Бар Д-эль» мигает → «Бор Д-эль» ≈ «бордель») | the "D-ello" bar (sign "Bar D-ello" flickers to "Bor D-ello" ≈ bordello) | Easywork (адаптация каламбура; ВОПРОС пользователю) |
+| улица Красного Треугольника; улица Яркого Альтаира; Грязеболотный Проспект им. Вонючего Клепши | Red Triangle Street; Bright Altair Street; Stinky Klepsha Mudswamp Avenue | Easywork |
+| дом Левого Усеченного Октаэдра, Прямопоперечно-гиперболическая квартира | Left Truncated Octahedron building, Rectitransverse-Hyperbolic apartment | Easywork |
+| хрюпели; шварка (местные деньги) | khryupels; shvarka | Easywork |
+| пиво «Синюшник»; ручка фирмы «Кляксэр» | "Sinyushnik" beer; the "Klyakser" pen company | Easywork |
+| психоневрологический диспансер «Лиловый одуванчик» | the "Lilac Dandelion" psychoneurological clinic | Easywork |
+| пароль «пассворд»; слово «чтобтысдох» | the password "password"; the word "dropdeadyoujunk" | Easywork |
+| БД MacroHard Nondows 3.14 Access | MacroHard Nondows 3.14 Access | Easywork |
+| галактическая почта; робот-информатор; турцентр; гравитакси; гравимобиль; флаер; поезд на гравиподушке | galactic post office; information robot; tourist center; gravitaxi; gravimobile; flyer; gravity-cushion train | Easywork |
+| лжец / правдивец / хитрец (чередует правду и ложь) | liar / truth-teller / trickster | Easywork |
+| легкий/тяжелый пехотинец, коммандо, снайпер, электронщик; взрывчатка, граната с газом, ЭМИ-бомба, электронная разведка, десантный флаер | light/heavy infantryman, commando, sniper, electronics expert; explosives, gas grenade, EMP bomb, electronic recon(naissance), landing flyer | Easywork |
+| ругательства робота: «Гобзавр опущенный!», «Альдегид твою перекись водорода через бензоат натрия!» | "You degraded gobsaur!", "Aldehyde your hydrogen peroxide through sodium benzoate!" | Easywork |
+| послать к доминаторовой матери | tell someone to go to the dominators' mother | Easywork |
