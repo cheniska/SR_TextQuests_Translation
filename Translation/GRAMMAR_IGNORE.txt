@@ -411,3 +411,7 @@ word: crd Kar
 word: Amidamary AndronXXX Berezovskaya Bombadil Bombandul Choo-Joy crisinium Galrang Hazzared Hazzzard Kadze Kemper
 word: Konstanto Lovi penchecrakus-leather qty Rommeylovich Shker SpaceCraft Starport starport Stepan supercorporations Terminador
 word: TomBombadull Umnitsum WinDiesel X-Neitron XLVI
+
+# learn sr1,sr2,mods,dev
+word: Anodium anodium Cathodium cathodium Frede GalSt gravicraft Magellanov Morseus ShadowTheAge Tarryas thermoreactor
+word: tsya Zimund

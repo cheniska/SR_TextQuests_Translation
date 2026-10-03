@@ -105,3 +105,15 @@
 | планета Галранг; кризиниум (топливо) | Galrang; crisinium | SpaceCraft |
 | ОС «Nondows Twista 7»; Галанет; втыкилла | Nondows Twista 7; Galanet; vtequila | SpaceCraft |
 | ул. Березовская, ул. Им. 126-го Съезда Галактического Совета | Berezovskaya Street, 126th Congress of the Galactic Council Street | SpaceCraft |
+
+### Abandoned (мод RefQuest, автор ShadowTheAge; 2026-10-03)
+| RU | EN | Квест |
+|---|---|---|
+| капитан Магелланов; Зимунд Фреде (старший научный сотрудник); стажёр Лоб Тарряс | Captain Magellanov; Zimund Frede; trainee Lob Tarryas | Abandoned |
+| Катодий, Анодий (стержни реактора) | Cathodium, Anodium | Abandoned |
+| квази-кварковый термореактор ГалСт 29047-2046 | quasi-quark thermoreactor GalSt 29047-2046 | Abandoned |
+| цепи А, Б, В, Г (энергосистема базы) | circuits A, B, C, D | Abandoned |
+| флаер ФП-304 / ФП-300 / CH-300 (разнобой в RU); гравилёт | flyer FP-304 / FP-300 / CH-300; gravicraft | Abandoned |
+| баллоны; таблички «Токсично», «Азот», «Огнеопасно» | cylinders; plates "Toxic", "Nitrogen", "Flammable" | Abandoned |
+| азбука Морзеуса | Morseus code | Abandoned |
+| мастер-пароль (мастер-код) | master password (master code) | Abandoned |
