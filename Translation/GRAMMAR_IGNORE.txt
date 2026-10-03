@@ -399,3 +399,7 @@ match: WORD_ESSAY_HYPHEN four digit
 match: YOUR Your
 match: YOUR_NN You're
 match: YOU_RE_AREN_T We're ain't
+
+# learn sr1,sr2,mods,dev
+word: ith repohht
+match: STARS_AND_STEPS ONE STEP

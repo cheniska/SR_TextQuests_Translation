@@ -74,3 +74,11 @@
 | перебросить (кость); проваленная комбинация | reroll; failed combination | Yahtzee |
 | Святая рагожаба! (пеленгское восклицание) | Holy ragotoad! | Yahtzee |
 | игроки: Сократец, Цаппи, Тапчитах, Ксира, Рикашиши, Уча Швах, Улюкхан, Клептицанка, Циплярва | Sokratets, Tsappi, Tapchitakh, Ksira, Rikashishi, Ucha Shvakh, Ulyukkhan, Kleptitsanka, Tsiplyarva | Yahtzee |
+
+### Siege (мод RefQuest — правленая версия КР1 Siege, 2026-10-03)
+| RU | EN | Квест |
+|---|---|---|
+| Ставка Секторального Командования | Sector Command Headquarters | Siege (RefQuest) |
+| маршал Вердгад (в КР1-версии — Вертгад/Vertgad) | Marshal Verdgad | Siege (RefQuest) |
+| Красная Армия; Космические Десантные Войска Красной Армии | Red Army; Red Army Space Landing Troops | Siege (RefQuest) |
+| однорукий бандит | one-armed bandit | Siege (RefQuest) |
