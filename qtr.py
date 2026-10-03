@@ -63,6 +63,11 @@ def toks_pair(a, b):
         extra = ta - tb
         if all(re.fullmatch(r'<[A-Za-z][A-Za-z -]*>', t) for t in extra) and sum(extra.values()) == n:
             ta = ta - extra
+    # сломанный в исходнике тег (напр. "<clrEnd," без ">") в переводе можно починить
+    for m in re.findall(r'<(clrEnd|clr)(?![>\w])', b):
+        t = '<%s>' % m
+        if ta[t] > tb[t]:
+            ta[t] -= 1
     return ta, tb
 
 
