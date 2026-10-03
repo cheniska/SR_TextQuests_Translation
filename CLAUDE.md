@@ -57,6 +57,7 @@ GLOSSARY.md, LORE_FACTS.md, удалить файлы `X.*` из `Translation/wo
 - КР1 (SR1TextQuests): готово 25 из 25 (Penetrator, Bank, Boat, Menzols, Fishing, Bondiana, Casino, Commando, Diamond, Examen, Galaxy, Gobsaur, Hachball, Murder, Newflora, Poroda, Rush, Siege, Tomb, Gladiator, Diehard, Energy, Ikebana, Build, Spy).
 - КР1 ЗАВЕРШЁН 2026-10-02 (все 25: check 0/0, qtr_struct 0).
 - AdvancedQuests (мод): Yahtzee переведён 2026-10-03 — мод завершён.
+- RefQuest (мод) ЗАВЕРШЁН 2026-10-03: Yahtzee_pravki, Muzon, Siege, Hospital, SpaceCraft, Abandoned, GS, LongLiveTheRanger (все с RU; check 0/0, struct 0, грамматика). Цикл модов: `qreuse.py` → части в `Translation/work/X.pNN.txt` → `qtr_partcheck.py X` → `qbuild.py RU EN` → check/struct/`qgrammar.py run mods --files X.txt` → `qfinish_mod.py` → `qcheck_all.py`.
 - Перепроверка времён в Bank — выполнена 2026-10-02 (времена соответствуют RU, 4 мелкие правки). «гомока» → gomoka — принято пользователем.
 - Структура всех готовых квестов КР1 проверена `qtr_struct.py` — 0 расхождений.
 - АВТОРЕЖИМ 2026-10-02 завершён (КР1 доделан); спорное копилось ниже. Оформление: `python3 qfinish.py ...` (см. шапку файла).

@@ -1,0 +1,10 @@
+LongLiveTheRanger (RefQuest, «Да здравствует рейнджер») — перевод с RU 2026-10-03; 1080 записей (946 уникальных); check 0/0, qtr_struct 0, грамматика разобрана.
+- Опечатки RU в именах унифицированы: Онсбрук→Onsburk, Сан-Барнор→San-Barnar, Плантос→Plontos, Амазония→Amanozia, Шмякуш→Shpikush; «Тосумма» — род. падеж, имя Tols Tosumm (исправлено и в Loc84-1).
+- Заметки разработчика переведены дословно: Loc196-1, Loc347-1 («somewhere around here the nobility strikes back»), Loc369-1 («this crap needs to be reworked»), Loc131-1 (список изменений версии 1.1.0).
+- Оборванные фразы RU сохранены оборванными: Loc246-1 («The problem is that»), Path2b (конец про советника), Path117b, Path78b («otherwise .»).
+- Path273b: в RU повтор «он слишком Генерал слишком» — в EN сглажено.
+- Loc48-2/3: в RU «<clrEnd>монет» без пробела — в EN пробел добавлен.
+- Токены <Player> (Path745b, Path747b) и {p5} оставлены как в RU.
+- «Очумазые ручки» (пародия на ТВ «Очумелые ручки») → "Grubby Hands" club.
+- «Тысяча пенчекряков!» → "A thousand penchecrakuses!" (канон penchecrakus).
+- Путь «Ваше Высочество» (до коронации) / «Ваше Величество» — сохранено различие RU (Your Highness / Your Majesty).

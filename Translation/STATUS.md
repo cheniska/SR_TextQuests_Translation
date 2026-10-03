@@ -130,3 +130,4 @@ ShuPrison(4), ShuQuest(7), XenoZeroSignalQuest(1) — todo; состав уто�
 - 2026-10-03 RefQuest/SpaceCraft: 492 записей (467 уникальных); переведён с RU; check 0/0, struct 0, грамматика 0
 - 2026-10-03 RefQuest/Abandoned: 579 записей (550 уникальных); переведён с RU; check 0/0, struct 0, грамматика 0
 - 2026-10-03 RefQuest/GS: 820 записей (654 уникальных); переведён с RU; check 0/0, struct 0
+- 2026-10-03 RefQuest/LongLiveTheRanger: 1080 записей (946 уникальных); переведён с RU; check 0/0, struct 0, грамматика разобрана

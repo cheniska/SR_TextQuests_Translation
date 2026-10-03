@@ -57,12 +57,14 @@ def toks_pair(a, b):
     """Токены перевода a и исходника b для сравнения. Кириллические <...> в исходнике - не теги игры,
     а авторские псевдотеги (напр. <Цензурой>): им может соответствовать столько же латинских <...> в переводе."""
     ta, tb = toks(a), toks(b)
-    ps = [t for t in tb if t.startswith('<') and CYR.search(t)]
-    n = sum(tb.pop(t) for t in ps)
-    if n:
-        extra = ta - tb
-        if all(re.fullmatch(r'<[A-Za-z][A-Za-z -]*>', t) for t in extra) and sum(extra.values()) == n:
-            ta = ta - extra
+    for o, pat in (('<', r'<[A-Za-z][A-Za-z -]*>'), ('{', r'\{[A-Za-z][A-Za-z\' -]*\}')):
+        # то же для {текст} с кириллицей (не формула, а текст в фигурных скобках, напр. "{не согласилась}")
+        ps = [t for t in tb if t.startswith(o) and CYR.search(t)]
+        n = sum(tb.pop(t) for t in ps)
+        if n:
+            extra = collections.Counter({t: c for t, c in (ta - tb).items() if t.startswith(o)})
+            if all(re.fullmatch(pat, t) for t in extra) and sum(extra.values()) == n:
+                ta = ta - extra
     # сломанный в исходнике тег (напр. "<clrEnd," без ">") в переводе можно починить
     for m in re.findall(r'<(clrEnd|clr)(?![>\w])', b):
         t = '<%s>' % m

@@ -147,3 +147,30 @@
 | «Чтозабред-ТВ»; ведущий Парофенов; Лёхкопро Дажнов (КГБ) | "WhatNonsense-TV"; Parofenov; Lyokhkopro Dazhnov | GS |
 | Ака Сециянка, Чекумаш (болезни) | Aka Setsiyanka, Chekumash | GS |
 | корпус «Идеал», ИМХО-9000; Великий Аттрактор | "Ideal" hull, IMHO-9000; Great Attractor | GS |
+
+## LongLiveTheRanger (мод RefQuest; «Да здравствует рейнджер», 2026-10-03)
+| RU | EN | Квест |
+|---|---|---|
+| Люксимтаун; люксимтаунцы; Люксим (в песне) | Luximtown; Luximtowners; Luxim | LongLiveTheRanger |
+| Вольгия; Южный предел; Приморье | Volgiya; Southern March; the Seaside | LongLiveTheRanger |
+| Швейциг (графство), швейцигцы; Онсбурк (в RU раз «Онсбрук» — унифицировано) | Shveitsig, Shveitsigers; Onsburk | LongLiveTheRanger |
+| Бурундиния, бурундийцы; Лев (столица); Рес-Этьем; Павуррия | Burundinia, Burundians; Lev; Res-Etyem; Pavurria | LongLiveTheRanger |
+| Военно-Бурундская дорога; перевалы Сан-Барнар (раз «Сан-Барнор» — унифицировано) и Крестовский | Military Burund Road; San-Barnar, Krestovsky Pass | LongLiveTheRanger |
+| Междуречные ворота; Купеческие ворота; Врата Победы; Цитадель | Interfluve Gate; Merchants' Gate; Victory Gate; the Citadel | LongLiveTheRanger |
+| Восточный тракт; Малый тракт | Eastern Highway; Lesser Highway | LongLiveTheRanger |
+| Лингея; Селекия (Селекийская империя); Канхея (Канхейская гегемония / Торговая федерация); Секреел (гегемония) | Lingea; Selekia (Selekian Empire); Kankheya (Kankheyan Hegemony / Trade Federation); Sekreel | LongLiveTheRanger |
+| Карафия, Ниргаз, Ко-оледад, Маренские о-ва, Кириадские о-ва, Парфьянны, Камабург, Вренлицы, Со'олянну, Рейскен, Дррагдры, Кнеште, Ураддено, Рагматру | Karafia, Nirgaz, Ko-oledad, Marenn Islands, Kiriada Islands, Parfyanns, Kamaburg, Vrenlitsy, So'olyannu, Reisken, Drragdry, Kneshte, Uraddeno, Ragmatru | LongLiveTheRanger |
+| Империя Гонко, гонкийцы; Керейская Имперская Федерация; Зеррелия, зеррельский; Штиркия (герцогство) | Gonko Empire, gonkians; Kereian Imperial Federation; Zerrelia, Zerrelian; Shtirkia | LongLiveTheRanger |
+| Дануби; Центральные моря; Айзенбрен; Кашелаунские поля; Мирицский бой; Рейкверг; Драмбург | Danubi; Central Seas; Aizenbren; Kashelaun Fields; Battle of Miritsk; Reikverg; Dramburg | LongLiveTheRanger |
+| Замутило (советник, пеленг); Шпикуш Наж (шпион; раз «Шмякуш» — унифицировано); Умикрупис (чародей, фэянин) | Zamutilo; Shpikush Nazh; Umikrupis | LongLiveTheRanger |
+| Моу и Рио Плонтос (раз «Плантос» — унифицировано); граф Леонид Рузастый; Толс Тосумм (купец); Ногну Ка; генерал Бурдраг; Ди-Н'ис | Mou and Rio Plontos; Count Leonid Ruzasty; Tols Tosumm; Nognu Ka; General Burdrag; Dee-N'is | LongLiveTheRanger |
+| герцогиня Де'Вуаро; граф О'онни Анвойский; Аманозия (раз «Амазония» — унифицировано); Дарея; Ра-Анея; род Кроонотос | Duchess De'Vuaro; Count O'onni Anvoysky; Amanozia; Dareya; Ra-Aneya; Kroonotos family | LongLiveTheRanger |
+| предки-короли: Бамдарог IV Завоеватель; Ля'Вышмет Наворот I Хитрейший; Алессандер XVIII Великий; Молдоис IV Мудрый; Оло'отео VII Философ; Хелдурос XXXVI (вождь варваров) | Bamdarog IV the Conqueror; La'Vyshmet Navorot I the Most Cunning; Alessander XVIII the Great; Moldois IV the Wise; Olo'oteo VII the Philosopher; Khelduros XXXVI | LongLiveTheRanger |
+| династия Селкулов; Кардан III Победитель; Золтан II Мудрый; Алессандер VII Покоритель; Моу Первая; герои Минкх и Далао Пожар | Selkul dynasty; Kardan III Selkul the Victor; Zoltan II the Wise; Alessander VII the Subjugator; Mou the First; Minkh and Dalao Pozhar | LongLiveTheRanger |
+| генерал Соболев (легендарный) | General Sobolev | LongLiveTheRanger |
+| «Омирендовактупус» (голосовая команда амулета); коэффициент Удачливости Лааркиона | "Omirendovaktupus"; Laarkion Luck Coefficient | LongLiveTheRanger |
+| Культ Мира; Эпоха Внешних Королевств; от о.к. (летоисчисление); Чёрная гвардия; Свод Полководцев Севера; Орден милосердия, Сестра милосердия | Cult of Peace; Era of the Outer Kingdoms; F.C.; Black Guard; Compendium of the Commanders of the North; Order of Mercy, Sister of Mercy | LongLiveTheRanger |
+| плазмоарбалет; посох грома / импульсный модулятор; подавитель магической энергии; хеландион; кондотьеры | plasma crossbow; staff of thunder / pulse modulator; magic energy suppressor; chelandia; condottieri | LongLiveTheRanger |
+| пушечный линкор «Эгида»; Космос и Дух Созидания (молитвы) | cannon ship of the line "Aegis"; the Cosmos and the Spirit of Creation | LongLiveTheRanger |
+| клуб «Очумазые ручки» (пародия на «Очумелые ручки») | "Grubby Hands" club | LongLiveTheRanger |
+| «Тысяча пенчекряков!» | "A thousand penchecrakuses!" (по канону penchecrakus) | LongLiveTheRanger |
