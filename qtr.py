@@ -68,6 +68,11 @@ def toks_pair(a, b):
         t = '<%s>' % m
         if ta[t] > tb[t]:
             ta[t] -= 1
+    # непарные теги в исходнике (напр. "<clrEnd>Белые<clrEnd>"): в переводе можно поставить парные <clr>...<clrEnd>
+    d = ta['<clr>'] - tb['<clr>']
+    if 0 < d <= tb['<clrEnd>'] - tb['<clr>'] and tb['<clrEnd>'] - ta['<clrEnd>'] == d and ta['<clr>'] == ta['<clrEnd>']:
+        ta['<clr>'] -= d
+        ta['<clrEnd>'] += d
     return ta, tb
 
 
