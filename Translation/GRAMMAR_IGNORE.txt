@@ -1,0 +1,268 @@
+# Исключения для qgrammar.py (проверка грамматики LanguageTool). UTF-8.
+#   word: слово1 слово2 ...   - считать верными (регистр не важен); имена/термины из GLOSSARY*.md учитываются сами
+#   rule: RULE_ID ...          - отключить правило целиком
+#   match: RULE_ID текст       - не показывать конкретную находку (правило + выделенный текст)
+# Блоки «# learn» дописывает `python3 qgrammar.py run --learn` - только после ручного разбора отчёта.
+
+# Правила, дающие у нас почти одни ложные срабатывания (решение 2026-10-03)
+rule: LAY_AROUND SINGED_CONTRACT A_BIT BESIDES_BESIDE LOSE_LIVES MD_BASEFORM AGREEMENT_SENT_START A_INFINITIVE
+rule: COLLECTIVE_NOUN_VERB_AGREEMENT_VBP COLLECTIVE_NOUN_VERB_AGREEMENT_VBD GROUND_FIRST_FLOOR HAVE_A_LOOK AFTERWARDS_US
+rule: NORTH_POLE THE_HOT_DOG POSSESSIVE_APOSTROPHE NOUN_APOSTROPHE_S_VERB QUESTION_WITHOUT_VERB EN_DIACRITICS_REPLACE_ORTHOGRAPHY_VOILA
+rule: EN_DIACRITICS_REPLACE_ORTHOGRAPHY_PORTIERE EN_DIACRITICS_REPLACE_ORTHOGRAPHY_FIANCEE EN_DIACRITICS_REPLACE_ORTHOGRAPHY_DEJA_VU
+rule: TRADEMARK COPYRIGHT KEY_WORDS UNDER_COMPOUNDS STREET_LIGHTS_COMPOUND BACK_COMPOUNDS HEAD_COMPOUNDS LINE_COMPOUNDS
+rule: HOLE_COMPOUNDS MAN_COMPOUNDS UNDER_COVER_COMPOUND LAUGHING_STOCK DROP_DEAD_HYPHEN HANDS_FREE_HYPHEN
+
+# learn sr1,sr2,mods
+word: - bret - Grob A-ek-Kaa a-SSO-ciate a-strikin a-tellin Aaaaaaa Aaah Aaayaaa-dammit-aaayaaa-son-of-a aahing Abdurakhman abl
+word: Abubububububukhayavra Abvuarnanna Abyr accu-u-ursed adogib Aenthie aerobus aerocars Aerocars afterburn Aggh-kha agin
+word: agro-band ahold aircars airwaves akaboses akinakes al alcarises alkaris all-maloq Allah-akbar Alliancik
+word: Allix Alyonushka AntiDominator antiviruses Anyuta Apch Arrgh atamans ath Atten-tion augg authorithieth
+word: autodiagnostics Autodiagnostics autodoc autodriver avorok Avrakhuurna Ba-a-abe backwa bal balyk bambai bambays
+word: Bararakh Barkharar barmakhrenna Bea-a-auty bellysaurs berdyaychiks biochips biocurrents bioplasmoid bioregen bioscreens birmakh
+word: blazeroid bm bodybags bolide BolotA bombinhome.maloc Booo boooom BOOOOOOOOOOOOOOMMMMMM boredly Borjomi boyth
+word: brainbedders breef bret bridgephobia bringest Brrrr bukazoid-to-gold Bukh burako buwwing bwa-ha-ha-ha Bwa-ha-ha-ha
+word: bwa-ha-ha-ha-ha Byu Bz-bzzzz-z Bzzz Bzzz-bzzz-bzzzzzzz Bzzzzz ca-ards Cadabra calcs calleth Camer camoufla
+word: camufli Ce-e-eti che-e-eat CHEKUMASH cher chickpig chikla chois Chuke-Puksist clrEnd CLXXII coldbloodedly
+word: Computers-schmomputers conta contomi copth corpusculation corrida corridorphobia cov Coz crapz creditas-pelengas creds
+word: Crester---Crester---Crester Croakfrog---Croakfrog---Croakfrog croakfrogs Croakfrogs cryoblaster cryoplastic cussword cusswords cyber-shmyber cybersecretary dar Das
+word: Davydovich de-e-ar dea decibelic deconstructors Deconstructors Dema demol derquacks di dictaphone Diplomacy-shmiplomacy
+word: dissimilated div Div dlootta Dnga dodgily doooomed doorframe downcasts draught Dreik drin
+word: driver-maloq Drnk drr dukhinam Duu Dwarfetto dyear Dzu Dzuhs ea Earthwoodworks eeeeeee
+word: Eenti Eka Ekcellent ekcellent ekrinta ElectROMonter ElectROMoter electrosyringe elven enclasped encryptor ered
+word: erik Eriki-shmoriki Erokis euphorigens ev ex-cel-lent exercycle Expens Eye-d-d-dee-d-d-dee-c-c-cue-d-d-dee faeyan-like Faeyan-style faeyan-style
+word: Fakesinging Fallin Fantastish farryuks featherbed featherfallers Febutsats fhtagn fi-ive fishbones five-coloured Five-Hund-red
+word: flatterist fli-i-ight flophouse Fo-o-od fo-or fogey Fomefing footwraps forgo-o-ot forthed fra frag
+word: freeside froggy ftuck fun-hu Gaidses Galduran galits gallings ganga like gansgta-rap garde gazion
+word: Gey-ey-ey gino Glug-glug gns Gnusik godling gongas good-natured-looking Goooal Gramps gramps grav
+word: grav-plane graviboats gravicarlets gravicars Gravicars gravistabilizer gravistabilizers greenbellied greenbelly grimoires Grob gudz
+word: guesssed gunlayers hacker-shmacker halogenerator hamadryas hammerthor HammerThor harakiri Harun-Rakhit he-e-eart hee-hee Hee-hee-hee
+word: Hee-yah Heeey Helionaut Hellf hellspawn helthy Hey-ey-ey Hgh-hga-hga-ee-go-go Hic hic hilling hiro
+word: Hiromatu hith Hmmm holo-disks holo-firecrackers holo-projector holobook holocameras holocomputers holophotographs holopicture holovisor
+word: Hoorraay HOUM hoverjets hra Hroo Hrow hry Hry hu hu-u-ma-an hu-uman hu-undred
+word: Hurra-ah HURRRAAAAH HURRRAAAH hydropyrate hyerovato hyperball hypercommunication hyperdiode hyperfuel Hyperjump hyperjump hyperjumps
+word: hyperpassage hypnosleep ibn Ich ide idioto Iike-Baanists Ikke-Baana industria inglory interfeiso interweavings
+word: ist Ivanushka Ivanych Iz Izengard ja Janizaries Jst ju-de Judeo-Masonic jure Kaa-Loo
+word: KABOOM Kaboom kadysh KaKoI-to kalolo Kasik katana katanas kay kelleroids keroplast kganga
+word: Khattab Khrr Khrrr KhT Khuakhar kidlivers kiiltgjtfjph kilupa Kinzas Kitteh kmu knowest
+word: KOCMOHABT Kolobok Konnichiwa Koor-Le KoR-Abel Koshi kqxwzr kredits krr kschongha KSED Kshongas
+word: kshongas Kuchkhum Kuksik kuku Kulyababer Kuvrilov kvatsuki Kvazis kwadakhis Kwake Kwality kyuttons
+word: l-o-o-ong latht le-eft lectro-peepers lectronics Leninnasharnirah Lenka Leva Levsha lezginka Lightbringer lightshow
+word: liner-pictorist Lissen livin liz lockpick Logus Lom lookin-seein Lookin-seein looong loooong Loriki-Yoriki
+word: lu lupup ly lyeh lytdybr Ma-ake mafiosi mafioso makhoonkaah Maloq-accomplice Maloq-cellmate Maloq-dot-net
+word: Maloq-made maloq-style Mantoli marugan Masurai Mausers Maza maître mechanoids mediocrely medkit medkits
+word: mEgAiGrOk MeGaIgRoK MegaMaloq-Y Mengeles mentals mentoscoped Menzolers menzolers mertiniums mglw Mhm mhuch
+word: microlending micromodular micromodule MicroPross microworld mimicrating MKChDs mmmm Mmmmm MMMMMM mohawk molotho
+word: Mommysavemehelpsoooooos mon MonSTer mozgu muffledly Mugdernized Multiblooms Multiplastic multiplastic music.peleng Muthos Mwa-ha-ha
+word: Mwa-ha-ha-ha Mwa-ha-ha-ha-ha nafh nagl nanitoids nanocircuit nanocircuits nanoelements natürlich nd Nescafe Nesmeyana
+word: neuro-server neurochairs neurowhip Newgame nglui nikobaris-ka nnothing NOITAMROFNI non-faeyan non-pelengs non-Zinas Nooo
+word: nooo NOOO Noooothing Nothiiing nowherecrafter nowherecrfter nowmal nt Nymbadurla obsicrian odynbazh off-worlders
+word: offworlder Ogol oinkers omfg omg one-bukazoid onnarayks Oo oo Oo-oo-oo-oo Oo-oo-oo-oo-oo-oo-oo Oo-oo-oo-oo-yo-yo-yo-yo-kh-kh-kh-oo-oo-oo
+word: Oo-ooh Ooooh OOOOOO OOOOOX OOOOXX OOOXXX OOXXXX opiran orde Ostap osteochondria Ostra
+word: Osya otsyeda ou ove-e-er Ovir owdinawy OXXXXX pa-bam-pa-ba-ba-bam-ta-da-dam Pachker Pah panicker paranoidly
+word: paraplastic partyZANDR Partyzandr Peleng-cellmate peleng-gaalian Peleng-inmate peleng-style Peleng-woman pelengess pelengessa.peleng pelengesses pelengling
+word: Pelengus Penchecrakus---Croakfrog---Crester Penchecrakus---Penchecrakus---Penchecrakus Pendalf Pentis PEOOOPLE pers pessimestia Petrenko Philidor phosphoresces physics-schmysics
+word: piezo Pikapu-Trikapu pirashkas PISSLING pla pla-ay planktonlings playest Pleeease plengotherms pneumo-handcar pokhacha
+word: polyhalogen Polymaterials polymaterials polymetallic polyplastic polyplastics pop-moderne Popov portiere Posol Post-AutoBot predatorily
+word: Primazh Proenix Profy protosafe Proudwing pseudoneural Pseudoneural Psssst Ptyuha Pulyays Pupsik Puzilander
+word: Puzilanders Pyatkin qick quantumness quanzors quasilinear questi qwerty ra ra-anger ra-ta-ta-ta-ta Rak
+word: Rakhish-Earth Rambov ranger-san rangering ranzaurs rar ratboars re-espect redbelly refueler Regenerine-X renegals
+word: repulsor repulsors reservators resorto revoir ri riaskaportal.peleng roachly robo-brains robo-cranes robo-loader robo-spectators
+word: robo-stuffed roflmao rspct Russkikh rustlings Ruy sacri safecracker salo sandworm sausageburgers sceptical
+word: scr scumsnot Semiaxians Semiaxites servodroid servodroids shashlik shel shesh-besh Shesh-Besh Shhhh shinies
+word: shippy-wippy shuriken Siii-leeence Sivka-Burka skyscraperzilla slanty slaughterfest sleepin slimewormers smersh Smokatina snatchlings
+word: Snatchlings SNK sno-o-ot-nose somesing somewherez Sp spa-aa-aceships spacefarer spaceporto spe speakest squea
+word: Sripcha-zlinzha-utraba st stanillin Stanillin stari stereocameras stereographics stereographs stereomicrophones stereomovies stol StoneWall
+word: Stoolies stoolies studentry stwange subcontainers Subether subether submeson subpersonalities subresonance suck-k-ked suic
+word: Sulleyman summat Supercruiser superdiseases superhard superservers sux swarokoks sweetlips sy Sya synchrophaser
+word: ta-a-aken tawk te te-e-e-s-s-s technomaniac technopark teef Teenender teh Teleporter teleporter TELEPORTER
+word: teleporters Teranolfs teranolfs terraformers terronoids TerrorFormer th-reagent Th-th-a-t-t Th-th-thanks theven thiiis thinkest
+word: Thith tho-ose thuch Thunderdrubber thx tiebreak Tiebreak TOADWORM Tolkienists tommy toro-butoro touristo
+word: tra-la-la Tra-la-la Trah-tibidoh-tibidoh trr-brr Tsk tsk ttouch turbotrain turnoff Uboing ufological Uguptian
+word: ultrahypermarkets ultraplasma ultratransparent uncombedness underpoured unecological unfresh unfriendlily unhealing unidentifiability unnailed unoiled
+word: unwelcomingly uth vadzho Vait vanom vant vatakasi Ve ve-e-ery vek verstehen Vhat
+word: Vhy vibroblade vibroknife vichapko VIGENERE vigi vigl viosan virtubuck visiogram Vivat VKChDs
+word: Vorobets Vsekh Wa wa-ant waaaa-aaa waaaaa waaay Waik-masaki waithing Wakarimas-ka wanth wassup
+word: waterer Weeell Weekdayz Wel-l-l welcomingly well-posedness wgah Wh-wh-why Wh-what-what Wha wha-a-am Wha-a-at
+word: wha-a-at Wha-at Whaaaaat Whaddaya whaddaya Whaddya whath Whazzup wherez whirr Whooooooooa wht
+word: Wonder-r-rful worrrm wtf xenobiologists Xenobiology xenocalculators xenologists Xenologists xenology xenostations Xetvo-emitters xetvo-emitters
+word: xxx XXXI XXXVIII xxxx XXXXXXX Y-y-y-kyu Y-ye-es Ye-e-es Ye-e-es-sir Ye-eah Ye-es Yee-haaa
+word: YLyrvalKstzh yo-ou Yooou yrslf Yzuken Zashmonor Zhapor Zhelezyaka Zhmot Zhuchka Zinas zinlovden
+word: Zis zis Zoopsychology zyambda Zzzz
+match: ADVERB_OR_HYPHENATED_ADJECTIVE huge computerized
+match: ADVERB_OR_HYPHENATED_ADJECTIVE powerful armored
+match: ADVERB_VERB_ADVERB_REPETITION so be so
+match: ALLOW_TO to crack
+match: ALLOW_TO to follow
+match: ALLOW_TO_DO keep
+match: ALL_MOST_SOME_OF_NOUN All of Coalition
+match: ALL_MOST_SOME_OF_NOUN all of three
+match: AM_I am
+match: AND_BUT and but
+match: ANY_BODY any body
+match: ANY_BODY any one
+match: ANY_MORE any more
+match: ARRIVE_AT_IN arrived at
+match: ASK_NO_PREPOSITION to you
+match: ASK_TO asked to
+match: AS_IS_VBG was
+match: AT_IN_THE_KITCHEN at the hall
+match: AT_IN_THE_KITCHEN at the kitchen
+match: AUXILIARY_DO_WITH_INCORRECT_VERB_FORM lights
+match: A_MY those our
+match: A_NNS a little sweepstakes
+match: A_NNS an armed forces
+match: A_RB_NN ankle-deep water
+match: A_RB_NN especially rough
+match: A_TO a to
+match: A_UNCOUNTABLE An antique furniture
+match: A_UNCOUNTABLE a loaded transport
+match: A_UNCOUNTABLE a progress
+match: A_UNCOUNTABLE a special water
+match: A_UNCOUNTABLE a transport
+match: A_UNCOUNTABLE an intelligence
+match: BUY_VBG Buy
+match: CAN_I_VBD running
+match: CAPITALIZATION_NNP_DERIVED draconian
+match: CD_NN bot
+match: CD_NN hundred
+match: CD_NN twelve
+match: CD_OF_MY_FRIEND plane
+match: COMMA_PERIOD_CONFUSION 1.000
+match: COMMA_PERIOD_CONFUSION 2.000
+match: CONFUSION_WORSE_WORST worse
+match: CONSEQUENCES_OF_FOR consequences into
+match: DAMAGE_OF_TO damage of
+match: DEPEND_ON depends
+match: DID_BASEFORM disobeyed
+match: DID_BASEFORM had
+match: DIE_DICE dice
+match: DOUBLE_NEGATIVE no
+match: DO_HE_VERB do
+match: DT_DT a the
+match: DT_JJ_NO_NOUN A mental
+match: ENGLISH_WORD_REPEAT_RULE for for
+match: ENGLISH_WORD_REPEAT_RULE had had
+match: ENGLISH_WORD_REPEAT_RULE in in
+match: ENGLISH_WORD_REPEAT_RULE on on
+match: ENGLISH_WORD_REPEAT_RULE sun Sun
+match: ENGLISH_WORD_REPEAT_RULE you you
+match: ENGLISH_WORD_REPEAT_RULE you-thank you-thank
+match: ENGLISH_WRONG_WORD_IN_CONTEXT_STATUE_STATUTE statue
+match: EN_A_VS_AN A
+match: EN_A_VS_AN a
+match: EN_A_VS_AN an
+match: EN_CONTRACTION_SPELLING Hows
+match: EN_CONTRACTION_SPELLING dont
+match: EN_DATE_WEEKDAY_CURRENTYEAR Thursday, May 5
+match: EN_MULTITOKEN_SPELLING_TWO deja vu
+match: EN_SPLIT_WORDS_HYPHEN floor- apparently
+match: EVERYDAY_EVERY_DAY everyday
+match: FILL_OF_WITH Fill a quarter of
+match: FILL_OF_WITH fill the pockets of
+match: FILL_OF_WITH filling the corridors of
+match: GOING_TO_VBD Lost
+match: HARD_WORKING_COMPOUND hard working
+match: HAVE_PART_AGREEMENT voice
+match: HERE_HEAR here, here
+match: HE_VERB_AGR bring
+match: HE_VERB_AGR make
+match: HE_VERB_AGR teach
+match: INCORRECT_CONTRACTIONS couldn'
+match: IN_ANYWAY in anyway
+match: IN_ON_A_TRIP in your travels
+match: IN_WHO who
+match: ITS_TO_IT_S its
+match: IT_IS_2 its
+match: I_AM_VB I am go
+match: I_AM_VB I'm conscript
+match: KIND_OF_A kind of a
+match: KIND_OF_A sort of a
+match: KNOW_NOW know
+match: LETS_LET Let's
+match: LET_IT_INFINITIVE to say
+match: LET_IT_INFINITIVE to see
+match: LOOK_WATCH looked
+match: LOOSE_LOSE loose
+match: LOTS_OF_NN plenty of riffraff
+match: MANY_NN many military need
+match: MANY_NN_U several lying
+match: MATERIEL materiel
+match: MD_BE_NON_VBP be threaten
+match: MISSING_TO_BEFORE_A_VERB needs come
+match: MISSING_TO_BEFORE_A_VERB trying bring
+match: MISSING_TO_BEFORE_A_VERB want see
+match: MISSING_VERB_AFTER_WHAT What
+match: MODAL_OF would of
+match: MOST_COMPARATIVE more better
+match: MUCH_COUNTABLE much
+match: NICE_TOO_ME too
+match: NNP_AGREEMENT  take
+match: NODT_DOZEN hundred
+match: NODT_DOZEN million
+match: NON3PRS_VERB says
+match: NON3PRS_VERB wants
+match: ON_IN_THE_CORNER at the lower right corner
+match: ORDER_OF_WORDS_WITH_NOT couldn't they
+match: ORDER_OF_WORDS_WITH_NOT won't they
+match: OTHER_OTHERS Other
+match: PERIOD_QUOTE_PERIOD Mgr.".
+match: PERIOD_QUOTE_PERIOD blood.".
+match: PERIOD_QUOTE_PERIOD prot.".
+match: PERS_PRONOUN_AGREEMENT be
+match: PLURAL_VERB_AFTER_THIS penetrate
+match: PLURAL_VERB_AFTER_THIS remain
+match: PLURAL_VERB_AFTER_THIS seem
+match: PREPOSITION_VERB receive
+match: PRONOUN_NOUN You lot
+match: PRP_REPITION it you
+match: PRP_REPITION you I
+match: PRP_THE you a
+match: PRP_VB You reputation
+match: PRP_VB you conscience
+match: PRP_VB you reputation
+match: PRP_VBG you stinking
+match: QUALITY_PARTITIVE that kind of workers
+match: QUESTION_MARK .
+match: QUESTION_MARK ...
+match: SECOND_LARGEST_HYPHEN second highest
+match: SILL_STILL sill
+match: SINGULAR_NOUN_ADV_AGREEMENT desert
+match: SOME_FACULTY staff
+match: SOME_TIME_SOMETIMES Some time
+match: SPURIOUS_APOSTROPHE OG's
+match: STARS_AND_STEPS one star
+match: TAT tat
+match: THANK_THE_NN Thank
+match: THAT_VERY_COOL This
+match: THEE thee
+match: THERE_MISSING_VERB there
+match: THERE_S_MANY Here's 5 rubles
+match: THERE_S_MANY there's all sorts
+match: THERE_S_MANY there's some numbers
+match: THERE_THEIR there
+match: THERE_WAS_MANY There was no mikes
+match: THE_PUNCT the  ,
+match: THE_SUPERLATIVE newest
+match: THE_THEY the
+match: THOUGH_THOUGHT though
+match: TOO_DETERMINER too that
+match: TOO_TO too
+match: TO_TOO to
+match: TR Tr
+match: UNLIKELY_OPENING_PUNCTUATION :
+match: VERB_NOUN_CONFUSION back down
+match: VERB_NOUN_CONFUSION set up
+match: VERB_NOUN_CONFUSION throw away
+match: WANT_TO_NN to delicate
+match: WERE_VBB were
+match: WERE_WHERE were
+match: WHOS who's
+match: WORTH_WHILE worth while
+match: WRONG_GENITIVE_APOSTROPHE apparatus's
+match: YOUR your
+match: YOUR_NN you're
+match: YOU_GOOD You coming
+match: YOU_GOOD we done
+
+# learn sr1,sr2,mods
+word: Ekventornoye Gaame L¬ SEXE
