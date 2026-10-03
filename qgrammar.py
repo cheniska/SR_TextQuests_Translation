@@ -3,7 +3,7 @@
 
   python3 qgrammar.py setup                 -> скачать LanguageTool (Maven) в ~/.cache/qgrammar и собрать запускатель
   python3 qgrammar.py run [группы] [--files ПОДСТРОКА,...]
-        группы: sr1 sr2 mods dev (по умолчанию: sr1 sr2 mods — наши переводы; dev = DevTranslated разработчиков)
+        группы: sr1 sr2 mods dev (по умолчанию все: sr1 sr2 mods dev; dev = DevTranslated разработчиков)
         --learn: внести ВСЕ текущие находки в GRAMMAR_IGNORE.txt (только после разбора отчёта!)
         --all: показать и советы по стилю/запятым
         -> Translation/work/grammar_report.txt  (сводка по правилам, находки с контекстом, список «опечаток»)
@@ -193,7 +193,7 @@ def is_spelling(rule):
 
 
 def run(args):
-    groups = [a for a in args if a in GROUPS] or ['sr1', 'sr2', 'mods']
+    groups = [a for a in args if a in GROUPS] or ['sr1', 'sr2', 'mods', 'dev']
     only, show_all, learn = [], '--all' in args, '--learn' in args
     if '--files' in args:
         only = args[args.index('--files') + 1].split(',')

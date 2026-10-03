@@ -265,4 +265,137 @@ match: YOU_GOOD You coming
 match: YOU_GOOD we done
 
 # learn sr1,sr2,mods
-word: Ekventornoye Gaame L¬ SEXE
+word: Ekventornoye Gaame SEXE
+match: MORFOLOGIK_RULE_EN_US L¬
+
+# learn dev
+word: - grags a-ny-thing Aaa Aahhh absorbulator acerb agan Aggrrhhhakhoglogkhorrrrvakhhhh agoo-goo Ah-chooo Ahtung Aishaut
+word: Aishouts Akhggggglmmvbl Alexeev alky Alrighteez ampheads amylum anabasis Anta aquadane archdemons Arrrrggghhh
+word: Arrrrgghhh Artiom astronautie Attentio audiorecords Auh auropedals autofeeder aven Awright Bambais Bardozzes
+word: be-medalled becometh beeeastly Bercut Bettas Bibuba BigBlueCircle BigBlueLozenge bigtime BigYellowCircle BigYellowLozenge blah-blity
+word: blueskinned BMUU bonce Boo-go-ga boogs bugnevilles businesspeleng c-couldn capac cargobay Cata-whatsyms catch-a-dipus-on-a-SUV
+word: cated ccm cencored cenozred centecium cha-a-ampions CHA-CHAffy chappy Cheet cherics Chingachgook Cin
+word: coalmines coapsular comandante Comandante conveyer Cratt crepitating criambusina CRIAMBUSINE criambusine Cro-o-ak curayaba
+word: Cvanarians da Dablkhbylbulbikhhhirgrriggrizlbnikhh Dall daltonian deadfall degustation dem di-gou Digsons dimethylchlorane dissipl
+word: ditsiple divais dodderer dogtag dogtags drrrunk dru drumrolling Dryck dumbhead duraham earflap
+word: Eeeeek Eeeeh Encyclopaedica encyclopaedist endshpil epicness erm errr Errr Errrr Errrrr Estragon
+word: faceplanted Faes faes falleth Faugh fetidity Finito flivver flutterlings folkways foncers foofaraw
+word: footlicker furcation furpus Gaaldock Gaalian-made Gaelinian Garbyrghur Garn Geeee gigapolis gillneck gleet
+word: Gobisaurus gobsaurus-leather godzillion GoodDay Goooooooooal gou-tuu Grags grags gravi-taxis gravi-wheelchairs gravitrain Gree-cha-cha
+word: greedorshroom green-Maloq guck Habbaths habbaths halluberries hayride headstart Helios-schmelios Hellooooo heroino-marihuanic heterogeny
+word: Hewo hexanotoluol hiccing Hmmmm hohoho Holo holoprojector hoo di-hell Hoorah hoppity-crawling horseracing hotrodding
+word: hovergun Hrrr huf hun hydrolizers hypnote hyporhumid hyr-hyr-hrr-ha I-have-just-eaten-a-whole-cantle-of-Belucian-lemon ichryk infaeyan inmaloq
+word: insectoid ist or ivnin izzat jacketing Jerbooster jerbooster jerboosters Juliettas kabob kara-heh Kargases
+word: Khahamp Khahapt Kinetisizer kinetisizer kinza-sauce Klimmy knotwork krocus Kum kurayaba laundrette Leo-san
+word: levl Locotractor locotractor Loho-Eb Loho-Kha looney lorelai lunker lunkers Lyatseskish machineguns Maloq-bodyguards
+word: Maloq-bouncer Maloq-miner Maloq-volunteers Maloq-warrior manbag mega-polis mercipane mercs meself mibser midflight midthought
+word: Mikhailov mini-locotractors minicomps mit Mmkey monty mudding murlocks musclehead muzak MWAA-HA-HA-HA Naate
+word: naggy nametags nanorobot nanorobots Naw nevermind niar Nicht niuphtiuline noesis Nomad-Maloqs non-Maloq
+word: non-Maloqs Nonstone nonstone Noohoo-Dle Nyke nyru odiferous Offroad offroad ohlalaian oleasterous onEarth
+word: Ooo Oooff ough outerspace pachvarach palpi palpus palpuses Parm passaran peasy peetiquette
+word: Peleng-friend Peleng-know-all Peleng-waiter pelengists penchecrakus-fight phlies phluctual piezomasagin plasmack plasmagenes plasmaguns plasmopen
+word: plasteel plein plu poochercorn poolroom posytrone pricelist problemo protoplasma pseudoclouds Psh Psh-psh-psh-psh
+word: pulpi pulpus Pur pwace pwanet pyro pyro-technician pyrobutaneprostench qq-qua-ka quitine rachitis ramper
+word: rapitzuck rea ReadMe reboring Reheuza rekreation rekriation Repin-Aquadansky rhythming rightabouts rock spalls Rrrrright
+word: Rurick rythmisation Saab safecracking Samaldock saucermen schmencils schneller scumdog scut se Shamon
+word: shirigim shish shroom shrooms shroomtoad sinewed skumbak Slivki SmallBlueCircle SmallBlueLozenge SmallYellowCircle SmallYellowLozenge
+word: smartasses SmithA Sowbelly sowbelly spee spycam Ssmall stanner Steeveenzon stereocamera stereofilm stereomovie
+word: stereoprogram stereotheater stereovisions stodger StownBridge Studebumpers su-u-u-ummer succus sunray sunrays Super-Whatsitcalled superbiochemical
+word: superfemale superkit supernew SuperStart Superweight sweetzie swordbelts swordskills Symgrass symgrass Tchernyi teakettle
+word: theosophistry tmp toruks trackography tragradag Traitress tuu-hell ugarra Ugarra undervacuum unthorned Uoooblokkghkabrghhhhblblekhhhhh
+word: Urgom VAZZE vazze Vazze vertix-armed VOs waterweeds watin We-e-ll whaddayawant whangdoodle whatdoyoucallit
+word: whatsitcalled Whatsitcalled Whatthehellblnelkotttdamyuuuuu whippity-quick Whoaaa whooo-whaa Whydidntyouwarnmethatiwontbeabletospeaaagbldisgustiiinnnnnn wizzat wolts wong wost writeups
+word: xD xeno xeno-zoologist xenomorph Xenomorph xenomorph-feeding xenoparks xxxxx yager Yessir yor Yor
+word: zig
+match: ACCOMPANY_WITH accompanied with
+match: ADVERB_OR_HYPHENATED_ADJECTIVE simple segmented
+match: ADVERB_OR_HYPHENATED_ADJECTIVE solitary sunken
+match: ADVERB_VERB_ADVERB_REPETITION so stung so
+match: ADVERB_VERB_ADVERB_REPETITION there is there
+match: ADVERTISEMENT_OF_FOR advertisement of
+match: ALL_MOST_SOME_OF_NOUN some of average
+match: ANYMORE_ADVERB anymore
+match: APOSTROPHE_PLURAL_ Pasha's
+match: ARRIVAL_TO_THE_HOUSE arrival to the hospital
+match: ARRIVAL_TO_THE_HOUSE arrival to the planet
+match: ARTICLE_ADJECTIVE_OF less
+match: ATD_VERBS_TO_COLLOCATION Jumps require
+match: A_COLLECTIVE_OF_NN range of explosion
+match: A_NNS a second later bits
+match: A_RB_NN militantly slogan
+match: A_UNCOUNTABLE a water
+match: BEEN_PART_AGREEMENT pour
+match: BE_NO_VB no
+match: BOTH_AS_WELL_AS as well as
+match: CANT cant
+match: CD_NN habitant
+match: CD_NN inhabitant
+match: CD_NN parsec
+match: COMMA_PERIOD_CONFUSION 5.000
+match: COMPRISED_OF was comprised of
+match: CONDITIONAL_CLAUSE won't come
+match: CONFUSION_OF_ME_I me and my lads
+match: DE_THE de
+match: DOWNPAYMENT downpayment
+match: ENGLISH_WORD_REPEAT_RULE crunch crunch
+match: EN_DIACRITICS_REPLACE_ORTHOGRAPHY_APERITIF aperitif
+match: EN_DIACRITICS_REPLACE_ORTHOGRAPHY_COUP_D_Q_ETAT coup d'etat
+match: EN_SPLIT_WORDS_HYPHEN groups- clever
+match: EVERYONE_OF everyone
+match: HAVE_PART_AGREEMENT are
+match: HAVE_PART_AGREEMENT laser
+match: HEP hep
+match: HUMANS_BEINGS Human's eyes
+match: IF_OF couple
+match: INVALID_DATE May 5 - 5
+match: IN_OR_WITH_REGARDS_TO_OF in regards to
+match: IS_VBZ 's does
+match: IS_VBZ ’s not beans
+match: IT_IS Its
+match: IT_IS_2 It's
+match: I_AFRAID afraid even
+match: KIND_OF_A kind of an
+match: LOT_OF a lot pecking
+match: MAKER_COMPOUNDS car makers
+match: MID_HYPHEN mid level
+match: MISSING_HYPHEN 90 minute
+match: MODAL_OF should of
+match: MUST_MOST must of
+match: NON3PRS_VERB goes
+match: NON3PRS_VERB looks
+match: NON3PRS_VERB suckers
+match: NON3PRS_VERB tells
+match: OFF_OF of
+match: OF_ALL_TIMES of all times
+match: ONE_PLURAL 1 grams
+match: ON_IN_THE_AFTERNOON on the evening
+match: OPPOSITE_FROM_TO opposite from the
+match: OPPOSITE_FROM_TO opposite from you
+match: PERIOD_QUOTE_PERIOD hours.".
+match: PREFER_OVER_TO prefer ordnance over hand-to-hand combat
+match: PRESIDENT_ELECT president elect
+match: PRONOUN_NOUN I apparatuses
+match: PRONOUN_NOUN you lot
+match: PRP_DON don
+match: PRP_JJ You
+match: PRP_MUS mus
+match: PRP_PAST_PART been
+match: PRP_PAST_PART just been
+match: PRP_PAST_PART never seen
+match: PRP_VB you en
+match: PRP_VBG you gaping
+match: ROOM_COMPOUNDS pool room
+match: SECOND_LARGEST_HYPHEN second best
+match: SECOND_LARGEST_HYPHEN second severest
+match: SECOND_LARGEST_HYPHEN third best
+match: SOU_YOU sou
+match: THE_PUNCT a,
+match: THIS_NNS this
+match: UNLIKELY_OPENING_PUNCTUATION ]
+match: USE_TO_VERB use to
+match: VERB_NOUN_CONFUSION take off
+match: WHITE_HOUSE white house
+match: WORD_ESSAY_HYPHEN four digit
+match: YOUR Your
+match: YOUR_NN You're
+match: YOU_RE_AREN_T We're ain't
