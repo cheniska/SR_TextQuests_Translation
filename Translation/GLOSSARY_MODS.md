@@ -90,3 +90,18 @@
 | столичная городская больница №4 | City Hospital No. 4 in the capital | Hospital |
 | отделение (палата); пострадавшие; план этажа | ward; the injured; floor plan | Hospital |
 | «Красные повязки» (боевики социалистов) | the "Red Bands" | Hospital |
+
+### SpaceCraft (мод RefQuest, 2026-10-03)
+| RU | EN | Квест |
+|---|---|---|
+| SpaceCraft XLVI (пошаговая стратегия); компания Hazzared (в финале Hazzzard) | SpaceCraft XLVI; Hazzared (Hazzzard) | SpaceCraft |
+| Том Бомбандул (в финале — Том Бомбадил; ник TomBombadull) | Tom Bombandul (Tom Bombadil; TomBombadull) | SpaceCraft |
+| Умницум (пеленг, руководитель киберспортивной команды) | Umnitsum | SpaceCraft |
+| командор (лидер армии в игре) | Commander | SpaceCraft |
+| командоры: Прораб Степан, Кемпер Лови, Шкер Офтен, Терминадор II, Ками Кадзе, Константо Роммейлович | Foreman Stepan, Kemper Lovi, Shker Often, Terminador II, Kami Kadze, Konstanto Rommeylovich | SpaceCraft |
+| юниты: пулеметчик, ракетчик, подрывник, легкий танк, тяжелый танк, боевой робот, артиллерийская установка | machine gunner, rocketeer, sapper, light tank, heavy tank, combat robot, artillery unit | SpaceCraft |
+| здания: электростанция, модуль генерации поля (модуль купола), шахта, барак, (автоматическая) турель, завод, центр исследований, радар, старпорт, ионная пушка; грузовой корабль | power plant, field generator module (dome module), mine, barracks, (automatic) turret, factory, research center, radar, starport, ion cannon; cargo ship | SpaceCraft |
+| ЗД / УП / УТ / УЗ (таблица юнитов) | HP / DI / DV / DB | SpaceCraft |
+| планета Галранг; кризиниум (топливо) | Galrang; crisinium | SpaceCraft |
+| ОС «Nondows Twista 7»; Галанет; втыкилла | Nondows Twista 7; Galanet; vtequila | SpaceCraft |
+| ул. Березовская, ул. Им. 126-го Съезда Галактического Совета | Berezovskaya Street, 126th Congress of the Galactic Council Street | SpaceCraft |

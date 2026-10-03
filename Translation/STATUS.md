@@ -127,3 +127,4 @@ ShuPrison(4), ShuQuest(7), XenoZeroSignalQuest(1) — todo; состав уто�
 - 2026-10-03 RefQuest/Muzon: 497 записей (448 уникальных); копия DevTranslated Muzon + Path833; check 0/0, struct 0
 - 2026-10-03 RefQuest/Yahtzee_pravki: 175 записей (165 уникальных); правленая версия Yahtzee: 12 записей доперевод; check 0/0, struct 0
 - 2026-10-03 RefQuest/Hospital: 169 записей (144 уникальных); переведён с RU; check 0/0, struct 0, грамматика 0
+- 2026-10-03 RefQuest/SpaceCraft: 492 записей (467 уникальных); переведён с RU; check 0/0, struct 0, грамматика 0
