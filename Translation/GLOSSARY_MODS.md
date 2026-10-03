@@ -63,3 +63,14 @@
 
 ### ShuPrison (2026-10-03)
 Термины — те же, что в оф. Prison/PirateClanPrison (GLOSSARY.md): RU мода = RU оф. квестов + параметр Par38 «Параметр номер 38: <>» → "Parameter number 38: <>". Eng собран из нашей исправленной оф. версии.
+
+### Yahtzee (мод AdvancedQuests, 2026-10-03)
+| RU | EN | Квест |
+|---|---|---|
+| ятзи (пеленгская игра в кости) | yahtzee | Yahtzee |
+| школа (верхняя часть таблицы: единицы…шестёрки); основная игра; штраф за школу | the School; main game; School penalty | Yahtzee |
+| комбинации: пара, сет, каре, покер, две пары, фулл хаус, малый стрит, большой стрит, сумма | Pair, Set, Four of a Kind, Poker, Two Pairs, Full House, Small Straight, Large Straight, Sum | Yahtzee |
+| единицы, двойки, тройки, четвёрки, пятёрки, шестёрки | Ones, Twos, Threes, Fours, Fives, Sixes | Yahtzee |
+| перебросить (кость); проваленная комбинация | reroll; failed combination | Yahtzee |
+| Святая рагожаба! (пеленгское восклицание) | Holy ragotoad! | Yahtzee |
+| игроки: Сократец, Цаппи, Тапчитах, Ксира, Рикашиши, Уча Швах, Улюкхан, Клептицанка, Циплярва | Sokratets, Tsappi, Tapchitakh, Ksira, Rikashishi, Ucha Shvakh, Ulyukkhan, Kleptitsanka, Tsiplyarva | Yahtzee |

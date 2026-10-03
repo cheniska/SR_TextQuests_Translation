@@ -31,8 +31,7 @@ IGNORE = os.path.join(ROOT, 'Translation', 'GRAMMAR_IGNORE.txt')
 GROUPS = {
     'sr1': ['TextQuests/SR1TextQuests/Eng/*.txt'],
     'sr2': ['TextQuests/SR2HD/questsEng/Untranslated/*.txt'],
-    'mods': ['TextQuests/RevTextQuests/Eng/*.txt', 'TextQuests/ShuPrison/Eng/*.txt',
-             'TextQuests/ShuQuest/Eng/*.txt'],
+    'mods': ['TextQuests/[!S]*/Eng/*.txt', 'TextQuests/Shu*/Eng/*.txt'],  # все моды (кроме SR1TextQuests/SR2HD)
     'dev': ['TextQuests/SR2HD/questsEng/DevTranslated/*.txt'],
 }
 

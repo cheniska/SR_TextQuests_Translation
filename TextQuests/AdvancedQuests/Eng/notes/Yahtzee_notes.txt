@@ -1,0 +1,17 @@
+Yahtzee (мод AdvancedQuests) — заметки переводчика (2026-10-03)
+
+Переведён с RU целиком: 175 записей (164 уникальных); check 0/0, struct 0, qgrammar 0 (кроме новых имён).
+
+Термины
+- ятзи -> yahtzee (строчная в тексте, Yahtzee в заголовке правил).
+- «школа» (русская терминология покера на костях: верхняя секция единицы…шестёрки) -> the School; «основная игра» -> main game.
+- Комбинации оставлены близко к RU-названиям: Сет -> Set, Каре -> Four of a Kind, Покер -> Poker (5 одинаковых; в оригинальном Yahtzee это «Yahtzee»), Сумма -> Sum (в Yahtzee — Chance). Имена согласованы между Par, Path и правилами Loc74-1.
+- Par6..10, Par36 «c1c <>» … — служебные метки автора, оставлены как есть. «Параметр номер N» -> Parameter number N (как в Colonization).
+- Номер раунда -> Round: {<>} of {15}; Номер попытки -> Roll: {<>}.
+
+Имена (транслит): Сократец Sokratets (отсылка к Сократу сохранена звучанием), Цаппи Tsappi, Тапчитах Tapchitakh, Ксира Ksira, Рикашиши Rikashishi, Уча Швах Ucha Shvakh, Улюкхан Ulyukkhan, Клептицанка Kleptitsanka, Циплярва Tsiplyarva.
+
+Адаптации
+- «Святая рагожаба» -> Holy ragotoad (по образцу ragobam toad).
+- «обман или поедание жаб» -> a cheating competition or a toad-eating contest.
+- В RefQuest есть Yahtzee_pravki.txt — вероятно, правленая версия этого же квеста (не переводился).
