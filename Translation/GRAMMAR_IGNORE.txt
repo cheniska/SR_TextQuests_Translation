@@ -415,3 +415,18 @@ word: TomBombadull Umnitsum WinDiesel X-Neitron XLVI
 # learn sr1,sr2,mods,dev
 word: Anodium anodium Cathodium cathodium Frede GalSt gravicraft Magellanov Morseus ShadowTheAge Tarryas thermoreactor
 word: tsya Zimund
+
+# learn mods
+word: - Chush A-A-A-CHOO Adny aeromobile aerotrain Atomixes BadgerM Banni biosloted boorashek Bordo Buildinge
+word: Byl Cemente Chush clr Dazhnov de-eal deutoplasm dryakhloust DYU-U-U-UK Dyuk Ehh exergy
+word: freeride freeriders freeriding Gaa Go-Lovaa gon grabby Gryaznulya Hasse Hee-hee-HA-hee-hee Kalvinski Kazachok
+word: Keil kevlar knockoff Kuur-Moped Kuur-Shevel Lok-Shiin Lyokhkopro Massaraksh Mesostructural Mityay mohnito Moonstill
+word: Naise nanitodes Nedosypaylo Nersemm Parofenov Pekts Phe-e-ew Ploshak pulemenka pulemenki Puzyrkollo quadrovision
+word: Ri-ight Rzhavy Seryoga Setsiyanka Sifon smetaana snowcat snowcats Svartox te-ender thi-i-is ti-iny
+word: Tokt upgr Vanka virtuosically Voolga Vsky WhatNonsense-TV Yokki Yolu-Puki zhupi zolden zoldens
+word: Zoldens étale
+match: ADVERB_OR_HYPHENATED_ADJECTIVE ordinary tracked
+match: A_CD_NNS a 750
+match: EN_MULTITOKEN_SPELLING_TWO Banni Banassi
+match: MANY_NN_U many manage
+match: YOU_GOOD You okay

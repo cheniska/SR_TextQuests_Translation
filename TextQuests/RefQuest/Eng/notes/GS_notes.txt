@@ -1,0 +1,9 @@
+GS (RefQuest, «Горнолыжный спорт») — перевод с RU 2026-10-03; 820 записей (654 уникальных); check 0/0, qtr_struct 0.
+- Опечатки/ошибки RU сохранены по токенам: Loc159-1 «<clr>двести<lcrEnd>» (в EN тот же токен), Loc172-1 «,clr>готов<clrEnd>» (в EN «,clr>done for<clrEnd>»).
+- «Сваротокс» (Loc53-1) — разнобой RU, унифицировано в Svartox.
+- Loc186-1: игра «в названии не хватает буквы «м»» (Аскет) непереводима — передано как «the name was more honest than any ad».
+- Клички Ржавый/Грязнуля/Сифон — транслит (Rzhavy, Gryaznulya, Sifon), Болт — перевод (Bolt; шутка «от Винта! то есть от Болта» → Screw/Bolt).
+- Path523 «Саам О'гня мне, барин!» → "Saam O'gon for me, my good man!".
+- «Сюрпиз от шеф-повара» (опечатка RU) → "Chef's Surprise".
+- Loc179-1 «ЦементЪ стъроитъельный» → "Buildinge Cemente" (передана безграмотность).
+- Path58 «молибден-мейнтнеривый субстракт» → molybdenum-meitnerium substrate.

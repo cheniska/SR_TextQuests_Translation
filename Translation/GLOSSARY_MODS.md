@@ -117,3 +117,33 @@
 | баллоны; таблички «Токсично», «Азот», «Огнеопасно» | cylinders; plates "Toxic", "Nitrogen", "Flammable" | Abandoned |
 | азбука Морзеуса | Morseus code | Abandoned |
 | мастер-пароль (мастер-код) | master password (master code) | Abandoned |
+
+## GS (мод RefQuest; «Горнолыжный спорт», 2026-10-03)
+| RU | EN | Квест |
+|---|---|---|
+| Куур-Шевель (город-курорт); Куур-Мопед (соседний) | Kuur-Shevel; Kuur-Moped | GS |
+| Лок-Шиин (гаал, консул <FromPlanet>) | Lok-Shiin | GS |
+| Кубок Четырёх (фрирайд); Чемпионат; фрирайд/фрирайдер | Cup of Four; Championship; freeride/freerider | GS |
+| ГайдНет | GuideNet | GS |
+| ратрак | snowcat | GS |
+| аэропоезд; аэромобиль | aerotrain; aeromobile | GS |
+| квадровизор | quadrovision | GS |
+| Комитет Галактической Безопасности (КГБ) | Committee of Galactic Security (CGS) | GS |
+| соперники: Гаа Дьюк, Недосыпайло, Чуш Пекц (ляку́ша) | Gaa Dyuk, Nedosypaylo, Chush Pekts | GS |
+| бармены: Сильвер; Митяй «Болт»; Ржавый (оператор подъёмника); Грязнуля; Сифон; Босс (фэянин) | Silver; Mityay "Bolt"; Rzhavy; Gryaznulya; Sifon; the Boss | GS (клички — транслит: шутка на них не держится) |
+| Джеки-Чамп (главный судья) | Jackie-Champ | GS |
+| Плошак, Серёга, Ванька, Петрович | Ploshak, Seryoga, Vanka, Petrovich | GS |
+| Свартокс (в RU также «Сваротокс» — унифицировано); Сварококс | Svartox; Swarokox | GS |
+| снегоходы Пасифик/Слайсер/Кроулер; мощность в гобзаврах | Pacific/Slicer/Crawler snowmobiles; gobsauri | GS |
+| комплекты Го-Ловаа / Атомиксы / Волки; палки «Йокки» | Go-Lovaa / Atomixes / Wolves; "Yokki" poles | GS |
+| отели «Аскет» (бунгало) / «Лейн» / «Рояль» | "Ascetic" / "Lane" / "Royal" | GS |
+| бар «Спортивный интерес»; клуб «Платинум»; ресторан «Кальвински»; диджей Банни Банасси | "Sporting Interest"; "Platinum"; "Kalvinski"; Banni Banassi | GS |
+| «Самогап» | "Moonstill" | GS |
+| Саам О'гонь; Кейль Токт; ФАД-139; Мохнито; Пузырколло; Бордо; пиво Рачехан Лайт | Saam O'gon; Keil Tokt; FAD-139; mohnito; Puzyrkollo; Bordo; Rachehan Light | GS |
+| пулеменки; боорашек; соус «Му-Нэз»; молибден-мейтнериевый субстракт | pulemenki; boorashek; "Moo Naise"; molybdenum-meitnerium substrate | GS |
+| коктейль «Смешать, но не взбалтывать» | "Stirred, not shaken" | GS |
+| Йолу-Пуки (пароль контейнера) | Yolu-Puki | GS |
+| дряхлоуст; жупи; нанитоды | dryakhloust; zhupi; nanitodes | GS |
+| «Чтозабред-ТВ»; ведущий Парофенов; Лёхкопро Дажнов (КГБ) | "WhatNonsense-TV"; Parofenov; Lyokhkopro Dazhnov | GS |
+| Ака Сециянка, Чекумаш (болезни) | Aka Setsiyanka, Chekumash | GS |
+| корпус «Идеал», ИМХО-9000; Великий Аттрактор | "Ideal" hull, IMHO-9000; Great Attractor | GS |
