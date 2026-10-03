@@ -447,3 +447,6 @@ match: A_UNCOUNTABLE a certain freedom
 match: LOOK_AT_TO looked at the mirror
 match: ROYAL_MAIL royal army
 match: THERE_MISSING_VERB here
+
+# learn sr1,sr2,mods,dev
+word: stinkillin Stinkillin

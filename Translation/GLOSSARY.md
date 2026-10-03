@@ -1820,7 +1820,7 @@ ekup; Brigee Bardozze (ксенопарк); crossbow (ручной самост�
 | Похметеп, Зоофилес, писарь Папира Са-Мар Аттель, Настрадамус, рымский гладиатор Минимус, Хачик Абрамян; фараоны Недохотеп, Серемхотет, Ханамнес; жрец Склерозус; Бюстиара; планеты Хиросаки, Граал; Кишковыворот | Pokhmetep, Zoofiles, Papira Sa-Mar Attel, Nastradamus, Rhoman gladiator Minimus, Khachik Abramyan; Nedokhotep, Seremkhotet, Khanamnes; Sklerozus; Bustiara; Hirosaki, Graal; the Gut-Twister | Pharaon |
 
 | фарюк (сорта: «Большой», «Полосатый», «Мохнатый», «Синий налив», «Желтоглазка», «Ботинок»/«Ботинкообразный») | faryuk ("Big", "Striped", "Furry", "Blue Fill", "Yellow-eye", "Boot"/"Boot-shaped") | Faruk |
-| ВОНь — Величина Относительной Неароматности; «нюхач»; «Тройной одеколон»; «Вонилин-ФУ» | STINK — Scale of Total Inverse Nasal Kindness; "sniffer"; "Triple Cologne"; "Stanillin-FU" | Faruk |
+| ВОНь — Величина Относительной Неароматности; «нюхач»; «Тройной одеколон»; «Вонилин-ФУ» | STINK — Scale of Total Inverse Nasal Kindness; "sniffer"; "Triple Cologne"; "Stinkillin-FU" | Faruk |
 | Шнобель, Дюбель, Пугель (агенты); Государственная Служба Контроля / Комитет Госконтроля; Ферма №1; тачка | Shnobel, Dyubel, Pugel; State Control Service / State Control Committee; Farm No. 1; wheelbarrow | Faruk |
 
 | Дорд (старший научный сотрудник, малок); Хфыв (пеленг); диктатор Бдангдыр; малокский творец Рентер, марш «За победой»; Всегалактическая Академия Наук; Галактический Академик; вечерняя школа рейнджеров; гравимузин | Dord; Khfyv; dictator Bdangdyr; Renter, "For Victory"; All-Galactic Academy of Sciences; Galactic Academician; evening school for rangers; gravimousine | Megatest |
