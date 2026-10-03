@@ -1175,7 +1175,7 @@ Prezhevalski → Prezhevalsky (Tomb); Grishhill → Grishkhill (Diehard); Sir Lo
 
 **Совпадает с оф. (менять не нужно):** Peleng(s) с заглавной (оф. 577 против 297), Maloq(s) (785/240), Faeyan(s) (оф. также «fae»), Klissan(s), Dominator(s) с заглавной (77/28), Iike-Baana, lyakusha, Rachekhan, Commonwealth, guanava, stereovision (часть наших уже).
 **Спорно у оф. (вопрос пользователю):** гаалец — оф. существительное чаще «gaal(s)/Gaal(s)» (367), чем «Gaalian(s)» (≈208, включая прилагательное); у нас Gaalian(s) (222 вхождения). Рекомендация: оставить Gaalian(s).
-**Имена у оф. с разнобоем (для будущих переводов):** Korchenitza (Foncers) / Korchenitsa (Rally); Mikhael Shulman / Michael Schulmann; Borzukhan / Borzuhan; Tardim Babach / Tardym Ka'Boom; MacroHard Nondows / Macrohard Doors; Lyapzva Hiz / Brigee Bardozze.
+**Имена у оф. с разнобоем (журнал; все приведены к решениям пользователя, см. ниже):** Korchenitza (Foncers) / Korchenitsa (Rally); Mikhael Shulman / Michael Schulmann [РЕШЕНО: везде Shulman]; Borzukhan / Borzuhan; Tardim Babach / Tardym Ka'Boom; MacroHard Nondows / Macrohard Doors; Lyapzva Hiz / Brigee Bardozze.
 
 ## Сверка с основной локализацией игры Lang_Eng_Vanilla (2026-10-02)
 Источник: `Lang_Eng_Vanilla.txt` (файл пользователя; английская локализация SR2 — миссии, предметы, диалоги). Частоты: V = ванилла, D = DevTranslated (42 квеста), O = наши переводы (КР1 + Rev + Moi).
