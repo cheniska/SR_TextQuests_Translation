@@ -27,7 +27,8 @@ def raw_check(path):
     return err
 
 
-def main(en_p, ru_p):
+def struct_errors(en_p, ru_p):
+    """-> (число записей RU, [расхождения])"""
     err = raw_check(en_p)
     en, ru = qtr.records(qtr.read_tge(en_p)), qtr.records(qtr.read_tge(ru_p))
     if [t for t, _ in en] != [t for t, _ in ru]:
@@ -39,9 +40,14 @@ def main(en_p, ru_p):
                 err.append('%s: строк %d, в RU %d' % (t, len(la), len(lb)))
             elif [not x.strip() for x in la] != [not x.strip() for x in lb]:
                 err.append('%s: пустые строки-абзацы не на тех местах' % t)
+    return len(ru), err
+
+
+def main(en_p, ru_p):
+    n, err = struct_errors(en_p, ru_p)
     for e in err:
         print('СТРУКТУРА:', e)
-    print('%s: записей %d, расхождений структуры: %d' % (en_p, len(ru), len(err)))
+    print('%s: записей %d, расхождений структуры: %d' % (en_p, n, len(err)))
     return 1 if err else 0
 
 
