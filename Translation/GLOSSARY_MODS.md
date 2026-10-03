@@ -82,3 +82,11 @@
 | маршал Вердгад (в КР1-версии — Вертгад/Vertgad) | Marshal Verdgad | Siege (RefQuest) |
 | Красная Армия; Космические Десантные Войска Красной Армии | Red Army; Red Army Space Landing Troops | Siege (RefQuest) |
 | однорукий бандит | one-armed bandit | Siege (RefQuest) |
+
+### Hospital (мод RefQuest, 2026-10-03)
+| RU | EN | Квест |
+|---|---|---|
+| Лее'Кар (гаалец, врач) | Lee'Kar | Hospital |
+| столичная городская больница №4 | City Hospital No. 4 in the capital | Hospital |
+| отделение (палата); пострадавшие; план этажа | ward; the injured; floor plan | Hospital |
+| «Красные повязки» (боевики социалистов) | the "Red Bands" | Hospital |
