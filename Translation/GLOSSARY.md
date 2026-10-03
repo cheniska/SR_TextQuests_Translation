@@ -1881,7 +1881,7 @@ ekup; Brigee Bardozze (ксенопарк); crossbow (ручной самост�
 | Йонийооо ака Зелтопузик полосатый; Артемер; Органдок (рейнджер-малок); река Йа-Ноцкац | Ioneeyooo aka Yellow-bellied Striped One; Artemer; Organdok; Aye-Notskats | Sibolusovt (оф.) |
 | поезд Лянчак-Пейхац | the Lyanchak-Peykhats | Sortirovka1 (оф.) |
 | Нюк Скайлайнер (надпись на мече) | Nuke Skyliner | Stealth (оф.) |
-| рейнджеры Антон и Рабинович; Шпук, Лапак, Иваныч | Anton and Schulman (оф. адаптация Рабиновича); Schpook, Lapack; «Иваныч» опущено | Xenopark (оф.) |
+| рейнджеры Антон и Рабинович; Шпук, Лапак, Иваныч | Anton and Shulman (оф. адаптация Рабиновича; написание Shulman — решение 2026-10-03); Schpook, Lapack; «Иваныч» опущено | Xenopark (оф.) |
 | Кварибы; планета Оокани; Шталомийские Габозавры; доктор Свайков | the Cvaribbeans; Ohokany; Stalomian Gabosauruses; Doctor Svaikoff | Xenopark (оф.) |
 | капитан Квакша Цыпик; Цвацкие Топи; Хачик-Хан; Николак Вацков; Песчаный Шип | Quacksha Chuck (оф. адаптация); Tzvackian Swales; Khachick-Khan; Kuciano Pavalozzi (оф. адаптация); the Sand Ship | Xenopark (оф.) |
 | Большие Хляби на Лупцаваке, Великие Топи на Чваке, Огромный Плюх на Малом Упрате | Big Cataracts on Luptzvack, Big Swales on Chvack, Huge Plumper on Small Uprat | Xenopark (оф.) |
@@ -1916,4 +1916,4 @@ ekup; Brigee Bardozze (ксенопарк); crossbow (ручной самост�
 | лесной рейнджер Бен; Биил-Гээтс; Редпис; Айруун Вууд-Каатер | Ben; Biil-Geets; Redpeace; Ayroon Wuud-Kaatter | Testing |
 | Сергей Сергеевич | Sergey Sergeyevich | Xenolog |
 | заведение Лысого Перца | Bald Pepper's | Amnesia |
-
+| Рабинович (Moi, Xenopark) | Shulman (РЕШЕНИЕ пользователя 2026-10-03: Рабинович → Shulman везде, по оф. адаптации Xenopark; написание — как настоящая еврейская фамилия Shulman, ср. Mikhael Shulman; было Rabinovich / оф. Schulman) | Moi, Xenopark (оф.) |
