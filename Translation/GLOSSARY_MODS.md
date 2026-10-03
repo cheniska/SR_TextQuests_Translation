@@ -59,3 +59,6 @@
 | Эйс, Флэш, Гусаров, Даб (приветы автора) | Ace, Flash, Gusarov, Dab | Massacri |
 | отряд Древочурок | Treechumps | Cybersport |
 
+
+### ShuPrison (2026-10-03)
+Термины — те же, что в оф. Prison/PirateClanPrison (GLOSSARY.md): RU мода = RU оф. квестов + параметр Par38 «Параметр номер 38: <>» → "Parameter number 38: <>". Eng собран из нашей исправленной оф. версии.

@@ -117,3 +117,5 @@ ShuPrison(4), ShuQuest(7), XenoZeroSignalQuest(1) — todo; состав уто�
 |---|---|---|---|---|
 | Cybersport | 2026-10-02 | 196 (168 уникальных) | переведён с RU | аббревиатуры параметров расшифрованы по формулам qmm; check 0/0, структура 0 |
 | Massacri | 2026-10-02 | 896 (731 уникальных) | переведён с RU | пародия на Венома/Карнажа; валюта Азиа; КВАР — не расшифрован (вопрос); check 0/0, структура 0 |
+
+- 2026-10-03 ShuPrison (Prison, PirateClanPrison): Eng собран из исправленных оф. DevTranslated Prison/PirateClanPrison (RU мода отличается только Par38-1); check 0/0, struct 0.
