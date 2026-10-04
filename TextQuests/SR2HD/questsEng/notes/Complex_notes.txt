@@ -9,7 +9,7 @@ Path189: авторские псевдотеги <Цензурой> <цензу�
 Чат-ники <neza_Boodka> ("Незабудка" - рассеянный фэянин) и <centr_vselennoi>/<center_vselennoi> - это токены (<...>), оставлены как есть. ПОТЕРЯ: игра "незабудка" не видна.
 
 === АДАПТАЦИИ ===
-"работа не волк, а гобзавр" -> "work is not just some wolf - it is a full-blown gobsaurus".
+"работа не волк, а гобзавр" -> "work, as they say, won't run off into the woods like a wolf - it's a gobsaurus, and it'll come looking for you" (2026-10-04: в англ. нет пословицы о работе и волке; ближайшие "work will keep" и "keep the wolf from the door" по смыслу не подходят, поэтому вторая половина русской пословицы раскрыта прямо).
 "рюмочку чая" -> "a little shot glass of tea".
 Loc38-1 Ревизор: "I have called you here to tell you a most unpleasant piece of news" / "The Inspector General is coming?".
 Path188 "Фас, куси его, Шарик!" -> "Sic 'em, bite him, Fido!" (собачья кличка адаптирована). Хиггинс говорит "по-йодовски": "Mourn I do for thy ruined soul".
@@ -18,5 +18,5 @@ Path188 "Фас, куси его, Шарик!" -> "Sic 'em, bite him, Fido!" (с
 
 === СОМНЕНИЯ / ОШИБКИ ОРИГИНАЛА ===
 Loc108-5: в RU говорит "Ладиени", но по контексту (проницательности гаальца) - Гаа-Тар. В EN исправлено на Gaa-Tar.
-Path121b: "учитывая его уравновешенность" (о безумном Хиггинсе) - видимо, ирония или опечатка "неуравновешенность"; в EN "level-headedness" (иронично).
+Path121b: "учитывая его уравновешенность" (о безумном Хиггинсе) - видимо, ирония или опечатка "неуравновешенность"; в EN "level-headedness" (иронично) — ирония, подтверждено пользователем 2026-10-04.
 Loc155-2 "Оно... отличалась" - опечатка RU, переведено по смыслу.

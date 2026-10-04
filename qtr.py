@@ -75,6 +75,11 @@ def toks_pair(a, b):
     if 0 < d <= tb['<clrEnd>'] - tb['<clr>'] and tb['<clrEnd>'] - ta['<clrEnd>'] == d and ta['<clr>'] == ta['<clrEnd>']:
         ta['<clr>'] -= d
         ta['<clrEnd>'] += d
+    # незакрытый в исходнике тег (напр. "<color=0,255,0>В норме<color>"): в переводе можно закрыть как </color>
+    d = ta['</color>'] - tb['</color>']
+    if 0 < d <= tb['<color>'] and tb['<color>'] - ta['<color>'] == d:
+        ta['</color>'] -= d
+        ta['<color>'] += d
     return ta, tb
 
 

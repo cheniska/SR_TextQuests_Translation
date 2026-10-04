@@ -98,7 +98,7 @@
 | гуманоид | humanoid | |
 | Доминатор(ы) | dominator(s) (строчные, ванилла) | |
 | крашаджан(ский) | Krashadzhan | Newflora |
-| лякуша; Верховный Лякуша | lyakusha; Chief Lyakusha | Casino, Hachball, Bank |
+| лякуша; Верховный Лякуша | lyakusha; Chief Lyakusha (КР1, титул «Верховный Лякуша планеты»); в SR2HD — the Great Lyakusha (оф. Xenopark; решение пользователя 2026-10-04: Vulkan, Kidnapped, Drugs) | Casino, Hachball, Bank; SR2HD |
 | алкарис | alcaris | птичья раса с Ориона (Examen); Alkaris/alkaris — опечатка |
 | мензол, мензолы | menzol, menzols | Menzols; «кшонга» (как мензолы зовут чужака) → kshonga (мн. kshongas) |
 | дреди; Дрэдроунд | Dreaddy (Dreaddies); Dreadround (2026-10-02: строгий транслит имени; КР1 Draedrownd) | Gladiator: полуразумные существа с хоботами |
@@ -1543,7 +1543,7 @@ ekup; Brigee Bardozze (ксенопарк); crossbow (ручной самост�
 | «Вредный Джо» (кондитер с Венеры) | "Grumpy Joe" | Proprolog (прозвище, на нём держится шутка) |
 | институт Истории Освоения Космоса; Лаборатория темпоральных перемещений личности | the Institute of the History of Space Exploration; Laboratory of Temporal Personality Transfer | Proprolog |
 | Галактический Совет | the Galaxy Council (решение пользователя 2026-10-02) | Proprolog |
-| центр рейнджеров Надежда; научная база Черпак; военная база Угорь | the Nadezhda Ranger Center; the Cherpak Science Base; the Eel military base | Proprolog |
+| центр рейнджеров Надежда; научная база Черпак; военная база Угорь | the Hope Ranger Center (переводим, решение пользователя 2026-10-04); the Cherpak Science Base; the Eel military base | Proprolog |
 | системы Кефрон, Бетельгейзе, Солнце; планеты Полуось, Вестала, Орленон | Kefron, Betelgeuse, Sol; Semiaxis, Vestala, Orlenon | Proprolog |
 | ТГПС / ТГПБ (точки гиперперехода) | HPS / HPB | Proprolog |
 | боты (серии: истребители, транспортники, созидатели, переработчики) | bots (fighters, transports, creators, processors) | Proprolog |
@@ -1775,7 +1775,7 @@ ekup; Brigee Bardozze (ксенопарк); crossbow (ручной самост�
 | Гарик Наливайко; чемпион Головаа; ведущий | Garik Nalivayko; Golovaa | Citadels |
 | участники: далани Мокус, Боб Пацифист, Энерго, Череп, Уляпик, Брог, Ян Бздышек | dalani Mocus (оф. Mocus), Bob Pacifist, Energo, Skull, Ulyapik, Brog, Yan Bzdyshek | Citadels |
 | куб (генератор идей); стандарты кубов Шарп, Дупп, Смарт; МОРФ (TM) — прибор для редактирования кубов | cube; Sharp, Dupp, Smart; MORPH (TM) | Citadels |
-| ресурсы: энергия, металл, электроника (Эн, Ме, Эле); батареи, рудники, лаборатории; щит, база; режимы ОТКЛОНЕНИЯ / РЕАЛИЗАЦИИ | energy, metal, electronics (En, Me, El); batteries, mines, laboratories; shield, base; DISCARD / EXECUTION mode | Citadels |
+| ресурсы: энергия, металл, электроника (Эн, Ме, Эле); батареи, рудники, лаборатории; щит, база; режимы ОТКЛОНЕНИЯ / РЕАЛИЗАЦИИ | energy, metal, electronics (En, Met, El — «Me» путалось с местоимением, 2026-10-04); batteries, mines, laboratories; shield, base; DISCARD / EXECUTION mode | Citadels |
 | проекты (карты): Пожиратели энергии, Гусеничные киборги, Энергоэлементалы, Телекинетический взрыв, Металл в энергию, Магнитные воры, Самонаводящиеся крылатые ракеты, Пчелы-камикадзе, Ховерлетный гнет, Блок прямого преобразования энергии, Ракетный град, Тотальный ремонт, Налет бомбардировщиков, Экономные ремонтники, Сборочный блок, Магнитные штурмовики, Солнечные батареи, Роботы-шахтеры, Кибернетические разведчики, Атомная ракета, Усиление щита, Комплекс Добыча-Производство, Танковая атака, Диверсанты, Ремонтники, Стальной крот-минер, Энергоблок, Дикобразы, Энергетические паразиты, Интеллектуальный навар брони, Плазменный таран, Пауки, Лазерный удар, Мотыльки, Ниндзя-киборги, Тротиловая ракета, Землетрясение | Energy Eaters, Tracked Cyborgs, Energy Elementals, Telekinetic Blast, Metal to Energy, Magnetic Thieves, Homing Cruise Missiles, Kamikaze Bees, Hoverjet Oppression, Direct Energy Conversion Unit, Missile Hail, Total Repair, Bomber Raid, Thrifty Repairmen, Assembly Unit, Magnetic Stormtroopers, Solar Batteries, Miner Robots, Cybernetic Scouts, Nuclear Missile, Shield Boost, Mining-Production Complex, Tank Attack, Saboteurs, Repairmen, Steel Mole-Sapper, Power Unit, Porcupines, Energy Parasites, Smart Armor Plating, Plasma Ram, Spiders, Laser Strike, Moths, Ninja Cyborgs, TNT Missile, Earthquake | Citadels |
 
 | доомино (гаальская игра, пластинки, дубль, «дубль-шесть»); Открытый галактический чемпионат по доомино | doomino (tiles, double, "double six"); the Open Galactic Championship in doomino | Doomino |
@@ -1811,7 +1811,7 @@ ekup; Brigee Bardozze (ксенопарк); crossbow (ручной самост�
 
 | Блюндерр (второй инженер, малок); профессор Фуньдай (фэянин в защитном конусе); профессор Налив-Айка (гаалец; «Заливайка-Непроливайка») | Blyunderr; Professor Fundai; Professor Naliv-Ayka ("Zalivayka-Neprolivayka") | Provoda |
 | мистинг (непереведённая единица настройки); магистральные кабели; геотермальная электростанция; планетарный генератор защитного поля; метеоритный рой | misting; trunk cables; geothermal power plant; planetary protective field generator; meteor swarm | Provoda |
-| ряд (A–E) / уровень (1–5) в схеме калибровки; час «Жо» | column / level; "Zh-hour" | Provoda |
+| ряд (A–E) / уровень (1–5) в схеме калибровки; час «Жо» | column / level; "Crap O'Clock" (2026-10-04) | Provoda |
 
 | фараон Перехотеп Тринадцатый; Угупет / угупетский / угуптяне; Институт Коммерческой Археологии (ИКАР); Галактическое Археологическое Общество (ГАО) | pharaoh Perekhotep the Thirteenth; Ugupet / Ugupetian / Uguptians; Institute of Commercial ARchaeology (ICAR); Galactic Archaeological Society (GAS) | Pharaon |
 | боги-хранители ключей: Арес, Вмаз, Звер, Зевс, Зема, Марс, Мерс; сыновья: Анусптис, Вертепопес, Ептимат, Замполет, Мойхренес, Рамзец, Серемтут | Ares, Vmaz, Zver, Zevs, Zema, Mars, Mers; Anusptis, Vertepopes, Eptimat, Zampolet, Moykhrenes, Ramzets, Seremtut (буквенная загадка: транслит сохраняет начальные буквы) | Pharaon |
@@ -1918,3 +1918,18 @@ ekup; Brigee Bardozze (ксенопарк); crossbow (ручной самост�
 | Сергей Сергеевич | Sergey Sergeyevich | Xenolog |
 | заведение Лысого Перца | Bald Pepper's | Amnesia |
 | Рабинович (Moi, Xenopark) | Shulman (РЕШЕНИЕ пользователя 2026-10-03: Рабинович → Shulman везде, по оф. адаптации Xenopark; написание — как настоящая еврейская фамилия Shulman, ср. Mikhael Shulman; было Rabinovich / оф. Schulman) | Moi, Xenopark (оф.) |
+
+## Правки по замечаниям пользователя 2026-10-04 (SR2HD Untranslated)
+| RU | EN | Квест |
+|---|---|---|
+| «Патамучта баклажан!» | "Cuz reasons!" | Domoclan |
+| «Не наем / Наем пароль» (искаж. «не знаем / знаем») | "Don't kno" / "Kno the password" | Domoclan |
+| «круглых классных глаз» (игра слов с «красных») | "round rad eyes" | Mafia |
+| «работа не волк, а гобзавр» | "work won't run off into the woods like a wolf - it's a gobsaurus, and it'll come looking for you" | Complex |
+| «поздно пить Боржоми»; «Утро вечера мудренее» | "there's no use crying over spilled milk"; "Better sleep on it" | Taxist |
+| мешок с фарюками | a sack of faryuks (фарюк — глоссарий Faruk) | Taxist |
+| Югол (опечатки «Юголо», «Оголом» = Югол) | Yugol | Taxist |
+| «Мама мыла раму» (букварь) | "See Spot run" (букварь Dick and Jane) | Xenolog |
+| пенегские гумысы, шлячисы, пачониумы | peneg gumyses, shlyachises, pachoniums (не пеленги) | Xenolog |
+| остров имени Короля Клисан (шутка: у клисан не было короля) | the island named after the King of the Klissans | Tourists |
+| Имена авторов в титрах | не переводим: латиница как есть, кириллица — транслит в авторском порядке (Russkikh Denis) | все квесты |
