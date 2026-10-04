@@ -98,7 +98,7 @@
 | гуманоид | humanoid | |
 | Доминатор(ы) | dominator(s) (строчные, ванилла) | |
 | крашаджан(ский) | Krashadzhan | Newflora |
-| лякуша; Верховный Лякуша | lyakusha; Chief Lyakusha (КР1, титул «Верховный Лякуша планеты»); в SR2HD — the Great Lyakusha (оф. Xenopark; решение пользователя 2026-10-04: Vulkan, Kidnapped, Drugs) | Casino, Hachball, Bank; SR2HD |
+| лякуша; Верховный Лякуша; Великий Лякуша (Великие Лякуши) | lyakusha; the Supreme Lyakusha (ванилла Lang_Eng_Vanilla: «Supreme Lyakusha» ×20 — правитель планеты, выборы Верховного Лякуши); the Great Lyakusha / Great Lyakushas (ванилла: Great Lyakushas Council; оф. Xenopark) — 2026-10-04 | Casino, Hachball; Vulkan, Kidnapped; Drugs, Xenopark |
 | алкарис | alcaris | птичья раса с Ориона (Examen); Alkaris/alkaris — опечатка |
 | мензол, мензолы | menzol, menzols | Menzols; «кшонга» (как мензолы зовут чужака) → kshonga (мн. kshongas) |
 | дреди; Дрэдроунд | Dreaddy (Dreaddies); Dreadround (2026-10-02: строгий транслит имени; КР1 Draedrownd) | Gladiator: полуразумные существа с хоботами |
