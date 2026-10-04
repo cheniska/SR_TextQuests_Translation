@@ -1,9 +1,9 @@
 # Очередь перевода
 
 Колонки: квест | источник RU | результат EN | статус (`todo`/`wip`/`done`) | Лор | дата | заметки.
-Источник и результат для SR2HD: `TextQuests\SR2HD\questsRus\<Sub>\<Name>.txt` → `questsEng\<Sub>\<Name>_eng.txt`,
-где `<Sub>` = `Untranslated` (38 квестов, не переведённых разработчиками — список в `questsEng\readme.txt`) или
-`DevTranslated` (42 квеста, переведены разработчиками). Разделено 2026-10-02 по указанию пользователя.
+Источник и результат для SR2HD: `TextQuests\SR2HD\questsRus\<Name>.txt` → `questsEng\<Name>_eng.txt` (одна папка с 2026-10-04);
+Untranslated — 38 квестов, не переведённых разработчиками (список в `questsEng\readme.txt`), DevTranslated — 42 квеста
+разработчиков (список `DEV` в `qcheck_all.py`).
 Подсказки-черновики на английском: `0_квесты кр 2 тхт\qmm_to_translate\_преев\Новая папка\` (проверять по RU).
 
 ## SR2HD Untranslated — полностью на русском (todo)
@@ -20,8 +20,10 @@
 
 ## Моды (`TextQuests\<Мод>\Rus` → `Eng`, папки Eng пустые)
 AdvancedQuests(1), ExpBeerQuest(1), RefLongerPrison(1), RefQuest(8), RevTextQuests(2), SR1TextQuests(25),
-ShuPrison(4), ShuQuest(7), XenoZeroSignalQuest(1) — todo; состав уточнить перед началом (часть уже есть
-на английском в `0_квесты кр 1 в тхт англ`).
+ShuPrison(4), ShuQuest(7), XenoZeroSignalQuest(1).
+Готово: SR1TextQuests, AdvancedQuests, RefQuest, RevTextQuests, ShuPrison, ShuQuest/Colonization.
+TODO (2026-10-04): ExpBeerQuest/TheBeerQuest, RefLongerPrison/Prison, XenoZeroSignalQuest/ZeroSignal,
+ShuQuest/LongLiveTheRanger, PirateClanPrison, Prison, PrisonMenu, mark05 (сверить с готовыми версиями через qreuse.py).
 
 ## Журнал выполненных
 | Квест | Дата | Записей | Лор (фактов) | Заметки |

@@ -53,7 +53,14 @@ py -3.14 qtr_struct.py $R/Eng/X.txt $R/Rus/X.txt < /dev/null                  # 
 GLOSSARY.md, LORE_FACTS.md, удалить файлы `X.*` из `Translation/work`.
 Правка готового Eng-файла (UTF-16): Python-скрипт: decode utf-16 → replace → писать `b'\xff\xfe'+s.encode('utf-16-le')`, затем `qtr.py check`.
 
-## Текущее состояние (2026-10-02)
+## Работа нескольких агентов / передача (2026-10-04)
+- Источник истины — ветка `main`. Перед началом: `git pull origin main`; работать в своей ветке, коммит+push после каждой единицы работы; в `main` сливать только по указанию пользователя (fast-forward/merge, без force-push). Два агента НЕ правят один квест одновременно — квест «занимается» строкой `wip` в STATUS.md (закоммитить сразу).
+- Перед коммитом любой правки Eng-файлов: `python3 qcheck_all.py < /dev/null` (весь корпус ~2–3 мин; лучше в фоне или с подстрокой, напр. `qcheck_all.py SR2HD`), `python3 qdialog.py < /dev/null` (0 строк), по изменённым — `qgrammar.py run ... --files X`. Должно быть 0 проблем.
+- Облачная сессия (Linux): `python3 - <<EOF ... </dev/null` НЕ работает (поздний `< /dev/null` подменяет heredoc) — писать скрипт в файл и запускать `python3 файл.py < /dev/null`. Массовые удаления — только с защитой переменных (`"${d:?}/${s:?}"`). Текст разработчиков бывает с фигурными кавычками (“ ” ’) — у нас везде прямые.
+- Что осталось (НЕ начинать без указания пользователя): моды ExpBeerQuest (TheBeerQuest), RefLongerPrison (Prison), XenoZeroSignalQuest (ZeroSignal), ShuQuest (LongLiveTheRanger, PirateClanPrison, Prison, PrisonMenu, mark05 — сначала сверить с уже готовыми RefQuest/LongLiveTheRanger, ShuPrison, DevTranslated Prison/PirateClanPrison через `qreuse.py`). Всё остальное (КР1, SR2HD целиком, AdvancedQuests, RefQuest, RevTextQuests, ShuPrison, ShuQuest/Colonization) — готово.
+- `SR1TextQuests/Eng/*rus - NN тыс.txt` — старые справочные файлы, не квесты (qcheck_all их не сопоставляет); не удалять без указания.
+
+## Текущее состояние (2026-10-02; актуальный итог — раздел выше и STATUS.md)
 - КР1 (SR1TextQuests): готово 25 из 25 (Penetrator, Bank, Boat, Menzols, Fishing, Bondiana, Casino, Commando, Diamond, Examen, Galaxy, Gobsaur, Hachball, Murder, Newflora, Poroda, Rush, Siege, Tomb, Gladiator, Diehard, Energy, Ikebana, Build, Spy).
 - КР1 ЗАВЕРШЁН 2026-10-02 (все 25: check 0/0, qtr_struct 0).
 - AdvancedQuests (мод): Yahtzee переведён 2026-10-03 — мод завершён.
