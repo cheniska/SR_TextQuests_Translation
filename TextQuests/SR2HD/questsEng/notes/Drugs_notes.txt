@@ -1,5 +1,5 @@
 Drugs (SR2HD Untranslated) — заметки к переводу (2026-10-02)
-Источник: questsRus/Untranslated/Drugs.txt (544 записи, 447 уникальных). Набор записей = исходный Drugs_eng.txt (544).
+Источник: questsRus/Drugs.txt (544 записи, 447 уникальных). Набор записей = исходный Drugs_eng.txt (544).
 Проверка: qtr.py check 0 ошибок / 0 предупреждений; qtr_struct против RU — 0 расхождений.
 
 ЗАГАДКИ (логика qmm не тронута):

@@ -3,7 +3,7 @@
 
   python3 qgrammar.py setup                 -> скачать LanguageTool (Maven) в ~/.cache/qgrammar и собрать запускатель
   python3 qgrammar.py run [группы] [--files ПОДСТРОКА,...]
-        группы: sr1 sr2 mods dev (по умолчанию все: sr1 sr2 mods dev; dev = DevTranslated разработчиков)
+        группы: sr1 sr2 mods dev (по умолчанию все: sr1 sr2 mods dev; dev = квесты SR2HD, переведённые разработчиками (qcheck_all.DEV))
         --learn: внести ВСЕ текущие находки в GRAMMAR_IGNORE.txt (только после разбора отчёта!)
         --all: показать и советы по стилю/запятым
         -> Translation/work/grammar_report.txt  (сводка по правилам, находки с контекстом, список «опечаток»)
@@ -20,7 +20,7 @@
 import sys, os, re, glob, subprocess, collections, difflib
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-import qtr
+import qtr, qcheck_all
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 CACHE = os.path.join(os.path.expanduser('~'), '.cache', 'qgrammar')
@@ -30,9 +30,9 @@ IGNORE = os.path.join(ROOT, 'Translation', 'GRAMMAR_IGNORE.txt')
 
 GROUPS = {
     'sr1': ['TextQuests/SR1TextQuests/Eng/*.txt'],
-    'sr2': ['TextQuests/SR2HD/questsEng/Untranslated/*.txt'],
+    'sr2': ['TextQuests/SR2HD/questsEng/*.txt'],  # без квестов разработчиков (qcheck_all.DEV)
     'mods': ['TextQuests/[!S]*/Eng/*.txt', 'TextQuests/Shu*/Eng/*.txt'],  # все моды (кроме SR1TextQuests/SR2HD)
-    'dev': ['TextQuests/SR2HD/questsEng/DevTranslated/*.txt'],
+    'dev': ['TextQuests/SR2HD/questsEng/*.txt'],  # только qcheck_all.DEV
 }
 
 # Правила, противоречащие конвенциям проекта (прямые кавычки, " - " вместо тире, стиль) или чистый шум.
@@ -131,7 +131,10 @@ def corpus(groups, only):
     files = []
     for g in groups:
         for pat in GROUPS[g]:
-            files += sorted(glob.glob(os.path.join(ROOT, pat)))
+            fs = sorted(glob.glob(os.path.join(ROOT, pat)))
+            if g in ('sr2', 'dev'):
+                fs = [f for f in fs if os.path.basename(f).lower() != 'readme.txt' and qcheck_all.is_dev(f) == (g == 'dev')]
+            files += fs
     files = [f for f in files if not qtr.CYR.search(os.path.basename(f))]  # «...rus - 59 тыс.txt» - справочные
     if only:
         files = [f for f in files if any(o.lower() in os.path.basename(f).lower() for o in only)]

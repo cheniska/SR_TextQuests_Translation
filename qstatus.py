@@ -136,7 +136,7 @@ def stem_keys(fn):
 
 
 def list_txt(d):
-    """txt-файлы папки и её подпапок первого уровня (SR2HD: Untranslated/DevTranslated), кроме notes."""
+    """txt-файлы папки и её подпапок первого уровня (на случай подпапок), кроме notes."""
     out = []
     for fn in sorted(os.listdir(d)):
         p = os.path.join(d, fn)

@@ -3,7 +3,7 @@
 
   python3 qcheck_all.py [ПОДСТРОКА ...] [-v] < /dev/null      (Windows: py -3.14)
 
-Для каждого Eng-файла (TextQuests/*/Eng, SR2HD/questsEng/*) находит русский оригинал
+Для каждого Eng-файла (TextQuests/*/Eng, SR2HD/questsEng) находит русский оригинал
 (Eng->Rus, questsEng->questsRus, суффикс _eng убирается, регистр имени не важен) и запускает:
   * структуру qtr_struct (BOM, CRLF, типы/порядок записей, число строк, пустые абзацы);
   * проверку qtr.compare (токены разметки, пустые переводы, согласованность повторов; предупреждения - кириллица и пр.).
@@ -19,13 +19,26 @@ import qtr_struct
 
 CYR = re.compile(r'[А-Яа-яЁё]')
 
+# SR2HD: квесты, переведённые разработчиками (бывшая папка DevTranslated; с 2026-10-04 все квесты SR2HD в одной папке)
+DEV = set('''Badday Banket Borzukhan Codebox Depth Disk Driver Edelweiss Election Elus Evidence Fishingcup Foncers
+Jumper Leonardo Logic Ministry Muzon Olympiada Pachvarash Pilot PirateClanPrison Pizza Player Prison Rally Robots
+STQ_Ataman1 STQ_Ataman2 STQ_Baron1 STQ_Baron2 STQ_Baron3 STQ_Baron4 STQ_Headhunter Shashki Sibolusovt Ski
+Sortirovka1 SpaceLines Stealth Svarokok Xenopark'''.lower().split())
+
+
+def is_dev(path):
+    """файл SR2HD из перевода разработчиков (Eng или Rus)"""
+    p = path.replace(os.sep, '/')
+    name = re.sub(r'_eng$', '', os.path.basename(p)[:-4], flags=re.I).lower()
+    return '/SR2HD/' in p and name in DEV
+
 
 def pairs():
     eng = glob.glob(os.path.join(ROOT, 'TextQuests', '*', 'Eng', '*.txt')) + \
-          glob.glob(os.path.join(ROOT, 'TextQuests', '*', 'questsEng', '*', '*.txt'))
+          glob.glob(os.path.join(ROOT, 'TextQuests', '*', 'questsEng', '*.txt'))
     out, used = [], set()
     for e in sorted(eng):
-        if os.path.basename(os.path.dirname(e)) == 'notes':
+        if os.path.basename(os.path.dirname(e)) == 'notes' or os.path.basename(e).lower() == 'readme.txt':
             continue
         if CYR.search(os.path.basename(e)):          # «...rus - 59 тыс.txt» - справочные копии
             continue
@@ -38,7 +51,7 @@ def pairs():
         if cand:
             used.add(cand[0])
     rus = glob.glob(os.path.join(ROOT, 'TextQuests', '*', 'Rus', '*.txt')) + \
-          glob.glob(os.path.join(ROOT, 'TextQuests', '*', 'questsRus', '*', '*.txt'))
+          glob.glob(os.path.join(ROOT, 'TextQuests', '*', 'questsRus', '*.txt'))
     return out, sorted(set(rus) - used)
 
 

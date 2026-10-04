@@ -1,5 +1,5 @@
 Easywork (SR2HD Untranslated) — заметки к переводу (2026-10-02)
-Источник: questsRus/Untranslated/Easywork.txt (754 записи, 644 уникальных). Результат: questsEng/Untranslated/EASYWORK_eng.txt.
+Источник: questsRus/Easywork.txt (754 записи, 644 уникальных). Результат: questsEng/EASYWORK_eng.txt.
 Переведено С НУЛЯ с RU по указанию пользователя (старый англ. файл — машинный, 752 записи; расхождение записей —
 следствие машинного перевода: в старом был Par1-2, не было Par32-1, Path1304/1304b). Теперь набор записей = RU.
 Проверка: qtr.py check 0/0; qtr_struct против RU — 0 расхождений.

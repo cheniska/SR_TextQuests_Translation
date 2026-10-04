@@ -163,7 +163,7 @@ def main(a):
     stats = {'lines': 0, 'skip': 0, 'shown': 0}
     pairs, _ = qcheck_all.pairs()
     for e, r in pairs:
-        if r is None or (not dev and '/DevTranslated/' in e.replace(os.sep, '/')):
+        if r is None or (not dev and qcheck_all.is_dev(e)):
             continue
         if subs and not any(s.lower() in e.lower() for s in subs):
             continue

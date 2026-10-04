@@ -221,7 +221,7 @@ Doomino — заметки к переводу (2026-10-02)
 ### Drugs  [Drugs_notes.txt]
 ================================================================
 Drugs (SR2HD Untranslated) — заметки к переводу (2026-10-02)
-Источник: questsRus/Untranslated/Drugs.txt (544 записи, 447 уникальных). Набор записей = исходный Drugs_eng.txt (544).
+Источник: questsRus/Drugs.txt (544 записи, 447 уникальных). Набор записей = исходный Drugs_eng.txt (544).
 Проверка: qtr.py check 0 ошибок / 0 предупреждений; qtr_struct против RU — 0 расхождений.
 
 ЗАГАДКИ (логика qmm не тронута):
@@ -248,7 +248,7 @@ Drugs (SR2HD Untranslated) — заметки к переводу (2026-10-02)
 ### Easywork  [Easywork_notes.txt]
 ================================================================
 Easywork (SR2HD Untranslated) — заметки к переводу (2026-10-02)
-Источник: questsRus/Untranslated/Easywork.txt (754 записи, 644 уникальных). Результат: questsEng/Untranslated/EASYWORK_eng.txt.
+Источник: questsRus/Easywork.txt (754 записи, 644 уникальных). Результат: questsEng/EASYWORK_eng.txt.
 Переведено С НУЛЯ с RU по указанию пользователя (старый англ. файл — машинный, 752 записи; расхождение записей —
 следствие машинного перевода: в старом был Par1-2, не было Par32-1, Path1304/1304b). Теперь набор записей = RU.
 Проверка: qtr.py check 0/0; qtr_struct против RU — 0 расхождений.
@@ -776,9 +776,9 @@ Xenolog — заметки переводчика (2026-10-02)
 ================================================================
 # Проверка официального перевода SR2HD (DevTranslated), 2026-10-02
 
-Сверка `questsEng/DevTranslated/<Name>_eng.txt` с `questsRus/DevTranslated/<Name>.txt` (на момент ревью файлы не менялись).
+Сверка `questsEng/<Name>_eng.txt` с `questsRus/<Name>.txt` (на момент ревью файлы не менялись).
 
-**ИСПРАВЛЕНО 2026-10-02 (по указанию пользователя «исправь ошибки в DevTranslated квестах»):** все пункты этого ревью внесены в оф. файлы `questsEng/DevTranslated/*_eng.txt` (смысловые ошибки, обратный смысл, перепутанные расы, опечатки, чужой/неполный текст в записях, кириллица, битая кодировка, потерянные/лишние токены, структура строк = RU); PirateClanPrison: 10 «пиратских» записей переведены по RU; разнобой терминов приведён к формам решения «ванилла > DevTranslated» (penchecrakus, gobsaurus/gobsauri, Makhpella, hatchball, dalani/od-dalani, Book of Shame, ekup, helldas, stereovision; Elus Dalany→Dalani; Sibolusovt: ухоногий → auropedal везде; Driver: Stilt→Stoltz; Election: имена унифицированы). Итог: у всех 42 — `qtr.py check` 0 ошибок и `qtr_struct.py` 0, кроме Pizza Path78b (баг в RU: `<clrEnd>Белые<clrEnd>`; в EN оставлена корректная разметка `<clr>white<clrEnd>`). Сознательно НЕ трогались адаптации разработчиков (пародийные имена/названия, песни, стихи: Xenopark Brigee Bardozze, Ministry Ge Chevara, Robots/Pilot имена, Muzon группы, Olympiada песни, Loho-Khan и т.п.), расы с заглавной (Maloq/Peleng) и предупреждения check о «почти одинаковых» фразах. Ложные пункты ревью: Xenopark «Sand Ship» — в RU сама игра слов «шип = ship (корабль пустыни)», оставлено; пустых EN (Leonardo Loc83-2/Path152b, Olympiada Loc80-3, Evidence Loc63-3) в файлах нет.
+**ИСПРАВЛЕНО 2026-10-02 (по указанию пользователя «исправь ошибки в DevTranslated квестах»):** все пункты этого ревью внесены в оф. файлы `questsEng/*_eng.txt` (смысловые ошибки, обратный смысл, перепутанные расы, опечатки, чужой/неполный текст в записях, кириллица, битая кодировка, потерянные/лишние токены, структура строк = RU); PirateClanPrison: 10 «пиратских» записей переведены по RU; разнобой терминов приведён к формам решения «ванилла > DevTranslated» (penchecrakus, gobsaurus/gobsauri, Makhpella, hatchball, dalani/od-dalani, Book of Shame, ekup, helldas, stereovision; Elus Dalany→Dalani; Sibolusovt: ухоногий → auropedal везде; Driver: Stilt→Stoltz; Election: имена унифицированы). Итог: у всех 42 — `qtr.py check` 0 ошибок и `qtr_struct.py` 0, кроме Pizza Path78b (баг в RU: `<clrEnd>Белые<clrEnd>`; в EN оставлена корректная разметка `<clr>white<clrEnd>`). Сознательно НЕ трогались адаптации разработчиков (пародийные имена/названия, песни, стихи: Xenopark Brigee Bardozze, Ministry Ge Chevara, Robots/Pilot имена, Muzon группы, Olympiada песни, Loho-Khan и т.п.), расы с заглавной (Maloq/Peleng) и предупреждения check о «почти одинаковых» фразах. Ложные пункты ревью: Xenopark «Sand Ship» — в RU сама игра слов «шип = ship (корабль пустыни)», оставлено; пустых EN (Leonardo Loc83-2/Path152b, Olympiada Loc80-3, Evidence Loc63-3) в файлах нет.
 
 Автопроверка `qtr.py check` + чтение всех уникальных записей RU/EN подряд.
 В списке только существенное: смысловые ошибки, пропуски, потерянные/лишние токены, разнобой терминов.
