@@ -15,6 +15,8 @@
 - Лякуша Джубба, замороженные должники-статуи → Джабба Хатт и Хан Соло в карбоните («Звёздные войны»). HD. [SRHD:Quest.KillShip.64.Start#2]
 - «Сила с вами», путь Риолки и Симфы → «Звёздные войны» (Сила, Люк и Лея?). КР2. [SR2, SRHD:Quest.DefSystem.29.End]
 - «Титанчик» → «Титаник»; «Плэйгуманоид» → Playboy. КР2. [SR2, SRHD:Quest.DefSystem.33.End#2]
+- «Истина где-то рядом» → «Секретные материалы». КР2. [SR2, SRHD:Quest.SendLetter.22.End#1]
+- Мария, Хуан Карлос, Марио, Франциско, пуговица-доказательство родства, 2182-я серия → латиноамериканские мыльные оперы. КР2. [SR2:Quest.SendLetter.54.Start; SRHD:Quest.SendLetter.54.Start; SR2, SRHD:Quest.SendLetter.54.End#2]
 ## Игры и IT
 - «Третий кварк» → Quake III; «Давыдушка-Хэллфайр» → Дэвид Хеллфайр? (неясно). КР2. [SR2:Quest.DefShip.27.Start; SR2:Quest.DefShip.27.Special]
 - «Межпланетные Вояджеры» → «Космические рейнджеры» (самоотсылка); защита «СтрахВормс» → StarForce. КР2. [SR2:Quest.DefShip.39.Start; SR2:Quest.DefShip.39.Special#3]
@@ -26,13 +28,18 @@
 - Казнь «флудера официального форума» → интернет-форумы (в т.ч. форум игры). КР2. [SR2:Quest.KillShip.49.End]
 - «Мистические пейджеры» (МП) → «Космические рейнджеры» (КР); Гус Дууб ДМ → Duke Nukem (Forever) / долгострой. HD. [SRHD:Quest.KillShip.54.Start#2]
 - «Палец Раазраба» → «палец разраба» (разработчика). HD. [SRHD:Quest.DefSystem.55.Start#2]
+- «Виндовс», «Линух», «Юних», «Малокософт» → Windows, Linux, Unix, Microsoft. КР2. [SR2, SRHD:Quest.SendLetter.21.Start#1; SR2, SRHD:Quest.SendLetter.21.Start#2]
+- «Камикадзе-астероиды» пахана, сводящие эквентору «целостность структуры на ноль», — отсылка к игровой механике астероидов в системах. КР2. [SR2:Quest.SendLetter.53.Start; SR2:Quest.SendLetter.53.End]
 ## Музыка
 - Элвис Пресли, «замороженный в 1977 году» → год смерти Пресли; слухи «Элвис жив». КР2. [SR2:Quest.DefShip.20.Start; SRHD:Quest.DefShip.20.Special]
+- «Миллион, миллион, миллиард…» о розах → «Миллион алых роз» (А. Пугачёва). Только КР2 (в HD строки нет). [SR2:Quest.SendLetter.52.End]
 ## Литература и фольклор
 - «В. Долбановский-средний» (КР2) → ?; «П. Ушкин» (HD) → А. С. Пушкин. [SR2:Quest.DefShip.31.Special#1; SRHD:Quest.DefShip.31.Special#1]
 - «Суррогатово море» → Саргассово море. HD. [SRHD:Quest.DefSystem.42.Start#1]
 - Ревизор, взятки, кабак → Н. В. Гоголь, «Ревизор». HD. [SRHD:Quest.DefSystem.50.Start]
+- «Наша прелесть!» о Шлеме Освобождения → Голлум, «Властелин колец». КР2. [SR2, SRHD:Quest.SendLetter.50.End#1]
 ## Реальные люди и компании
+- «Малокософт» → Microsoft; «программная уязвимость… лицензионное ПО». КР2. [SR2, SRHD:Quest.SendLetter.47.Start#1; SR2, SRHD:Quest.SendLetter.47.End#1]
 ## Политика и быт реального мира
 - «Кю-Клакс-Клуц» → Ку-клукс-клан. КР2. [SR2:Quest.DefShip.17.Special]
 - «Грынь Пис» → Greenpeace. КР2. [SR2:Quest.DefShip.18.Special]
@@ -52,3 +59,9 @@
 - «Фей-нуй» → фэн-шуй. КР2. [SR2:Quest.DefShip.40.Start#2]
 - Надпись «Made in China» на древнем двигателе. КР2. [SR2, SRHD:Quest.KillShip.35.Start#1]
 - Книга рекордов Бригса → Гиннесса; «Гнусный Отец» → «Крёстный отец». КР2. [SR2:Quest.DefSystem.13.Start#1]
+- Мадам Гааль-Со, музей роботов-копий → мадам Тюссо. КР2. [SR2, SRHD:Quest.SendLetter.15.Start]
+- «Проктер & Кемарь» → Procter & Gamble. КР2. [SR2, SRHD:Quest.SendLetter.19.Start]
+- «Ключ к шифру, который сам по себе является ключом к шифру…»; «секретные разведданные» оказываются двумя бутылками коньяка из погреба шефа. КР2. [SR2, SRHD:Quest.SendLetter.28.Start#1; SR2, SRHD:Quest.SendLetter.28.End#2]
+- Феонардо → Леонардо да Винчи; картина-«Введите пароль» — пародия на DRM. КР2. [SR2, SRHD:Quest.SendLetter.32.Start#1; SR2, SRHD:Quest.SendLetter.32.End#2]
+- Сканер мыслей при наведении на малока ничего не показывает — шутка о том, что у малоков нет мыслей. КР2. [SR2, SRHD:Quest.SendLetter.48.End#3]
+- «Иике-баана» → икебана. КР2. [SR2:Quest.SendLetter.63.Start#1]
