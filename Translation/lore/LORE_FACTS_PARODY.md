@@ -15,6 +15,7 @@
 - Fallin 356 → Fallout, Kwake CLXXII → Quake, Y-COM «Альянсик» → X-COM, Muthos Games → Mythos Games, MicroPross → MicroProse. [вывод] КР1. [TQ1:Newflora:Loc60-1]
 - Самоирония разработчиков: реклама «нового бестселлера от ELEMENTAL GAMES — „Космические бомжи“» (тараканьи бега, охота на крыс, «лучшие бомжи страны» в роли NPC, 29.99$). [вывод] КР1. [TQ1:Penetrator:Loc62-1]
 - DND-проигрыватель, зажёвывающий диски, → DVD-плеер (и видеомагнитофон, «жующий» кассеты). [вывод] КР2. [TQ2:Player:QuestDescription]
+- «Макрохардовский „Дорс“» → Microsoft Windows; «Сиртет» → «Тетрис»; Blin 182 → Blink-182; пиво «Machpella Dark» — от Махпеллы КР1. [вывод] КР2. [TQ2:Sortirovka1:Loc2-1; TQ2:Sortirovka1:Loc2-3]
 
 ## Музыка
 
