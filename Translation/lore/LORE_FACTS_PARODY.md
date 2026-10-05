@@ -12,7 +12,7 @@
 ## Игры и IT
 - Системы сигнализации Рамблера, Яху и Яндекса → поисковики Rambler, Yahoo, Яндекс; процессор «Миллениум-III» → Pentium III / Windows Millennium; «Контора пишет!» и записи ходов «Кр e1 – e2??» — шахматный юмор. [вывод] КР1. [TQ1:Bank:Path42b; TQ1:Bank:Loc20-1; TQ1:Bank:Path168]
 - Клюг («не глюк») — вариант игры «камень-ножницы-бумага» с циклическим старшинством, оформленный как покер; пиво-«троечка» — отсылка к нумерации пива «Балтика». [вывод] КР1. [TQ1:Casino:Loc97-1; TQ1:Casino:Loc2-4]
-- Fallin 356 → Fallout, Kwake CLXXII → Quake, Y-COM «Альянсик» → X-COM, Muthos Games → Mythos Games, MicroPross → MicroProse; «Генерал 1784.9а» (Newgame Software) — вероятно, самоотсылка к пошаговой стратегии «Генерал» Elemental Games. [вывод] КР1. [TQ1:Newflora:Loc60-1]
+- Fallin 356 → Fallout, Kwake CLXXII → Quake, Y-COM «Альянсик» → X-COM, Muthos Games → Mythos Games, MicroPross → MicroProse. [вывод] КР1. [TQ1:Newflora:Loc60-1]
 
 ## Музыка
 
