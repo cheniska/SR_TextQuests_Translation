@@ -35,6 +35,7 @@
 - КР2. Пират: «Слышишь, брат, ты туды не ходы, ты другая сторона ходы. А то доминатор в башка попадот, савсэм мёртвый будэшь!» — «Джентльмены удачи» («Ты туда не ходи, ты сюда ходи…»); «В систему желаешь прыгнуть ты… Тёмная сторона сильна там!» — магистр Йода («Звёздные войны»). [SR2, SRHD:Talk.Pirate.ComputerDisagreeFlyToStar1; SR2, SRHD:Talk.Pirate.FlyToStar4]
 - КР2 (HD). «А может тебе ещё вина красного, да Махпеллу рыжую?» — переделка присказки «…а может, тебе ещё ключ от квартиры, где деньги лежат» / «вина красного да бабу рыжую» [вывод]; «Деньги-деньги, мы все любим деньги» [неясно]. [SRHD:Talk.Attack.RangerItsMyTranc; SRHD:Talk.PirateClan.Truce.PirateOk1]
 - КР2. Наёмники «Отмороженные котики» — «Морские котики» (ВМС США). [SR2, SRHD:RobotsMap.13.GovTextLoss#2]
+- КР2 (HD). Доктор Индий Джокс — Индиана Джонс; бурильщики Бориса Виллоса, «специалиста по астероидам», — Брюс Уиллис («Армагеддон»); рядовой Джон Энсон Райан — терминатор («Терминатор», «Спасти рядового Райана»); броненосец «Князь Алексей Потьомков Ставридческий», крейсер «Очагов», эсминец «Варяг», авианосец «Аврора» — «Броненосец „Потёмкин“» и русский флот; радиостанция «Азия минус» — «Европа Плюс»; «Минас Тырь» — Минас Тирит («Властелин колец»); реалити-шоу «Остров смерти» — «Последний герой». [SRHD:RobotsMap.62.GovTextStart; SRHD:RobotsMap.49.GovTextStart; SRHD:RobotsMap.66.GovTextStart#1; SRHD:RobotsMap.64.RobotsStart; SRHD:RobotsMap.64.GovTextLoss; SRHD:RobotsMap.67.GovTextStart#2; SRHD:RobotsMap.23.GovTextWin#1; SRHD:RobotsMap.61.RobotsStart; SRHD:RobotsMap.39.GovTextStart#2]
 ## Игры и IT
 - «Третий кварк» → Quake III; «Давыдушка-Хэллфайр» → Дэвид Хеллфайр? (неясно). КР2. [SR2:Quest.DefShip.27.Start; SR2:Quest.DefShip.27.Special]
 - «Межпланетные Вояджеры» → «Космические рейнджеры» (самоотсылка); защита «СтрахВормс» → StarForce. КР2. [SR2:Quest.DefShip.39.Start; SR2:Quest.DefShip.39.Special#3]
@@ -51,6 +52,7 @@
 - «Паратруперс» → Paratrooper (компьютерная игра). КР2. [SR2, SRHD:GovGreetings.68.Text#1]
 - КР2 (HD). «Ящик старого линуксианского» — отсылка к ОС Linux [вывод]; «Уважаемый пользователь! Напоминаем вам, что это не банкомат, а игровой автомат». [SRHD:Talk.PirateClan.Truce.PirateOk; SRHD:Talk.PirateClan.Money.PirateNo5]
 - КР2. Компания «Elemental Games» — реальный разработчик «Космических рейнджеров»; «Macrohard» — Microsoft; «Невитс и Гник» — Стивен Кинг (наоборот) [вывод]; «Зверские Уродцы 13: Хэппи Энд» и «World Rulezzz Cyber Game» — киберспорт (WCG). [SR2:PlanetQuest.StartText.36; SR2, SRHD:PlanetQuest.StartText.14; SR2:PlanetQuest.StartText.35; SR2:PlanetQuest.StartText.38]
+- КР2 (HD). Компания «Клапан» и «Четвертьраспад: эпизод 451» — Valve и Half-Life; уровень «перекрёстный огонь» — Crossfire; братство Бов, пророк Кээйн, Храм Скорпиона — Brotherhood of Nod и Кейн (Command & Conquer); «вертибёрд» — Fallout; корпорация «СНК» — разработчик HD СНК-Games. [SRHD:RobotsMap.53.GovTextStart#1; SRHD:RobotsMap.60.GovTextStart; SRHD:RobotsMap.55.GovTextStart#1; SRHD:RobotsMap.57.GovTextStart#2]
 ## Музыка
 - Элвис Пресли, «замороженный в 1977 году» → год смерти Пресли; слухи «Элвис жив». КР2. [SR2:Quest.DefShip.20.Start; SRHD:Quest.DefShip.20.Special]
 - «Миллион, миллион, миллиард…» о розах → «Миллион алых роз» (А. Пугачёва). Только КР2 (в HD строки нет). [SR2:Quest.SendLetter.52.End]
@@ -98,6 +100,7 @@
 - КР2. «Братан, давай уже, сникерсни!» — реклама шоколадки «Сникерс»; «1001-ый приём древнего человеческого боевого искусства — карате. Смываюсь!» — анекдот о «приёме карате». [SR2, SRHD:Talk.Pirate.FlyToMe1; SR2, SRHD:Talk.Pirate.ComputerInFear1]
 - КР2. Охранная фирма «Касперла» — «Лаборатория Касперского»; гонщик Михаэль Шульман, семикратный победитель гонки на фонсерах, — Михаэль Шумахер; «Хавайские курорты», «Хавайский Треугольник» — Гавайи и Бермудский треугольник; фирма «Блэкдиггерс» — «чёрные копатели». [SR2, SRHD:RobotsMap.02.RobotsStart#2; SR2, SRHD:RobotsMap.09.RobotsWin#2; SR2, SRHD:RobotsMap.08.GovTextStart#1; SR2:RobotsMap.24.GovTextStart]
 - КР2. Компания «Домик в деревне» — торговая марка молочных продуктов. [SR2:RobotsMap.23.GovTextStart]
+- КР2 (HD). «Малокософт» — Microsoft; нефтяная компания «Ракушка» — Shell; курорт Мауна-Роа — Мауна-Лоа; «Бесшумный океан» — Тихий океан; «Жёлтый Крест» — Красный Крест. [SRHD:RobotsMap.43.GovTextStart#2; SRHD:RobotsMap.65.GovTextStart; SRHD:RobotsMap.44.GovTextStart#1; SRHD:RobotsMap.25.GovTextStart; SRHD:RobotsMap.46.GovTextStart#1]
 ## Политика и быт реального мира
 - «Кю-Клакс-Клуц» → Ку-клукс-клан. КР2. [SR2:Quest.DefShip.17.Special]
 - «Грынь Пис» → Greenpeace. КР2. [SR2:Quest.DefShip.18.Special]
