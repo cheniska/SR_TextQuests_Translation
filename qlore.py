@@ -17,6 +17,12 @@
   find REGEX [LANG...]       — поиск по тексту во всех (или указанных) лангах
   get REF...                 — показать текст по ссылкам (SR2:Quest.DefShip.17.Start#2)
   check FILE.md...           — проверить, что все ссылки [LANG:ключ] в файлах существуют
+  merge STAGE.txt            — разложить черновик по разделам свода. Строка черновика:
+                               '@Раздел/Подраздел<TAB>- [факт] КР2. Текст. [SR2:ключ]'
+                               Раздел — начало заголовка '## ' (Малоки, Доминаторы, Рейнджеры…),
+                               Подраздел — начало '### ' внутри него (номер ветви '5' или слово);
+                               '@PARODY/Игры', '@DOUBTS' — в соответствующие файлы.
+                               Строка добавляется в конец подраздела. Без '@' — пропуск.
 """
 import os, re, sys, difflib
 
@@ -108,8 +114,13 @@ def dump(prefix, lang='SRHD'):
             marks += ['=' + r for r in same[:4]]
             if not same:
                 for l in PAIR.get(lang, []):
+                    best = None
                     for k2, v2 in bykey.get((l, base(k)), []):
-                        r = difflib.SequenceMatcher(None, n, norm(v2)).ratio()
+                        r = difflib.SequenceMatcher(None, n, norm(v2), autojunk=False).ratio()
+                        if best is None or r > best[0]:
+                            best = (r, k2, v2)
+                    if best:
+                        r, k2, v2 = best
                         sign = '~' if r >= 0.5 else '≠'
                         marks.append('%s%s:%s(%d%%)' % (sign, l, k2, r * 100))
                         if r < 0.97:
@@ -143,11 +154,78 @@ def check(files):
         for i, line in enumerate(open(fn, encoding='utf-8'), 1):
             for l, k in REF_RE.findall(line):
                 k = k.rstrip('.')
+                if '.' not in k:   # пример формата в шапке ('SR2:ключ')
+                    continue
                 total += 1
                 if k not in data[l]:
                     bad += 1
                     print('%s:%d: нет ключа %s:%s' % (fn, i, l, k))
     print('ссылок: %d, битых: %d' % (total, bad))
+    return bad
+
+
+LORE = os.path.join(ROOT, 'Translation', 'lore')
+FILES = {'': 'GALAXY_LORE.md', 'PARODY': 'GALAXY_LORE_PARODY.md', 'DOUBTS': 'GALAXY_LORE_DOUBTS.md'}
+
+
+def _insert(lines, path, text):
+    sec = path[0].strip() if path else ''
+    sub = path[1].strip() if len(path) > 1 else ''
+    start = 0
+    if sec:
+        cand = [i for i, l in enumerate(lines) if l.startswith('## ') and l[3:].lower().startswith(sec.lower())]
+        if not cand:
+            cand = [i for i, l in enumerate(lines) if l.startswith('## ') and sec.lower() in l.lower()]
+        if not cand:
+            return False
+        start = cand[0]
+    end = len(lines)
+    for j in range(start + 1, len(lines)):
+        if lines[j].startswith('## ') or lines[j].startswith('# '):
+            end = j
+            break
+    if sub:
+        cand = [i for i in range(start + 1, end) if lines[i].startswith('### ')
+                and (lines[i][4:].lower().startswith(sub.lower() + '.') or lines[i][4:].lower().startswith(sub.lower()))]
+        if not cand:
+            return False
+        start = cand[0]
+        for j in range(start + 1, end):
+            if lines[j].startswith('#'):
+                end = j
+                break
+    k = end
+    while k > start + 1 and lines[k - 1].strip() == '':
+        k -= 1
+    lines.insert(k, text)
+    return True
+
+
+def merge(stage):
+    docs = {}
+    bad = n = 0
+    for raw in open(stage, encoding='utf-8'):
+        raw = raw.rstrip('\n')
+        if not raw.startswith('@'):
+            continue
+        tag, _, text = raw.partition('\t')
+        path = tag[1:].split('/')
+        fkey = path[0] if path[0] in FILES and path[0] else ''
+        if fkey:
+            path = path[1:]
+        fn = os.path.join(LORE, FILES[fkey])
+        if fn not in docs:
+            docs[fn] = open(fn, encoding='utf-8').read().split('\n')
+        if fkey == 'DOUBTS' and not path:
+            path = ['Пункты']
+        if _insert(docs[fn], path, text):
+            n += 1
+        else:
+            bad += 1
+            print('!!! раздел не найден:', tag, text[:60])
+    for fn, lines in docs.items():
+        open(fn, 'w', encoding='utf-8').write('\n'.join(lines))
+    print('добавлено: %d, не найдено разделов: %d' % (n, bad))
     return bad
 
 
@@ -163,6 +241,8 @@ if __name__ == '__main__':
         find(a[1], a[2:])
     elif a[0] == 'get':
         get(a[1:])
+    elif a[0] == 'merge':
+        sys.exit(1 if merge(a[1]) else 0)
     elif a[0] == 'check':
         sys.exit(1 if check(a[1:]) else 0)
     else:
