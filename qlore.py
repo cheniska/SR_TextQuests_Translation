@@ -22,7 +22,11 @@
                                Раздел — начало заголовка '## ' (Малоки, Доминаторы, Рейнджеры…),
                                Подраздел — начало '### ' внутри него (номер ветви '5' или слово);
                                '@PARODY/Игры', '@DOUBTS' — в соответствующие файлы.
-                               Строка добавляется в конец подраздела. Без '@' — пропуск.
+                               Факт добавляется в конец общей части подраздела (перед первым
+                               '#### '-блоком персонажа; в разделе с '### ' без подраздела —
+                               перед первым '### '). Строка '#### Имя…' — в конец подраздела;
+                               следующие за ней строки с тем же тегом — внутрь этого блока
+                               (общие факты того же тега ставить ДО заголовка). Без '@' — пропуск.
 """
 import os, re, sys, difflib
 
@@ -181,7 +185,13 @@ LORE = os.path.join(ROOT, 'Translation', 'lore')
 FILES = {'': 'GALAXY_LORE.md', 'PARODY': 'GALAXY_LORE_PARODY.md', 'DOUBTS': 'GALAXY_LORE_DOUBTS.md'}
 
 
-def _insert(lines, path, text):
+def _insert(lines, path, text, after=None):
+    """Вставка строки в раздел. Общий факт — перед первым блоком персонажа (####)
+    раздела; заголовок #### — в конец раздела; строка блока (after=индекс
+    предыдущей строки этого блока) — сразу за ней. Возвращает индекс или None."""
+    if after is not None:
+        lines.insert(after + 1, text)
+        return after + 1
     sec = path[0].strip() if path else ''
     sub = path[1].strip() if len(path) > 1 else ''
     start = 0
@@ -190,7 +200,7 @@ def _insert(lines, path, text):
         if not cand:
             cand = [i for i, l in enumerate(lines) if l.startswith('## ') and sec.lower() in l.lower()]
         if not cand:
-            return False
+            return None
         start = cand[0]
     end = len(lines)
     for j in range(start + 1, len(lines)):
@@ -201,25 +211,33 @@ def _insert(lines, path, text):
         cand = [i for i in range(start + 1, end) if lines[i].startswith('### ')
                 and (lines[i][4:].lower().startswith(sub.lower() + '.') or lines[i][4:].lower().startswith(sub.lower()))]
         if not cand:
-            return False
+            return None
         start = cand[0]
         for j in range(start + 1, end):
-            if lines[j].startswith('#'):
+            if lines[j].startswith('#') and not lines[j].startswith('#### '):
                 end = j
                 break
+    elif any(lines[j].startswith('### ') for j in range(start + 1, end)):
+        end = next(j for j in range(start + 1, end) if lines[j].startswith('### '))
+    if not text.startswith('#### '):
+        blk = [j for j in range(start + 1, end) if lines[j].startswith('#### ')]
+        if blk:
+            end = blk[0]
     k = end
     while k > start + 1 and lines[k - 1].strip() == '':
         k -= 1
     lines.insert(k, text)
-    return True
+    return k
 
 
 def merge(stage):
     docs = {}
     bad = n = 0
+    last = None
     for raw in open(stage, encoding='utf-8'):
         raw = raw.rstrip('\n')
         if not raw.startswith('@'):
+            last = None
             continue
         tag, _, text = raw.partition('\t')
         path = tag[1:].split('/')
@@ -231,9 +249,14 @@ def merge(stage):
             docs[fn] = open(fn, encoding='utf-8').read().split('\n')
         if fkey == 'DOUBTS' and not path:
             path = ['Пункты']
-        if _insert(docs[fn], path, text):
+        after = last[2] if last and last[0] == tag and not text.startswith('#') else None
+        k = _insert(docs[fn], path, text, after)
+        if k is not None:
             n += 1
+            # строки блока персонажа (####) идут следом за ним, пока тег тот же
+            last = (tag, fn, k) if text.startswith('#### ') or after is not None else None
         else:
+            last = None
             bad += 1
             print('!!! раздел не найден:', tag, text[:60])
     for fn, lines in docs.items():
