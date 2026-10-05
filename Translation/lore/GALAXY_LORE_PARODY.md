@@ -72,6 +72,7 @@
 - «Товар, деньги, товар» → формула Маркса «Т — Д — Т». КР2 (HD). [SRHD:ShipGreetings.426.Text]
 - Корпуса «Тортило» (черепаха Тортила, «Золотой ключик»), «Мутабор» («Калиф-аист» В. Гауфа), «Весёлый Роджер». [вывод] КР2. [SR2, SRHD:HullType.17.Name; SR2, SRHD:HullType.0.Name]
 - КР2 (HD). «Собрание сочинений В. Отстоевского — среднего» (Ф. М. Достоевский; ср. «Долбановский-средний» в DefShip). [SRHD:Script.PC_pla16.130]
+- КР1, КР2. «Ты ЧЕЛОВЕК, и это звучит гордо» — М. Горький, «На дне» («Человек — это звучит гордо!»). [SR1:FormRuins.PB.ChangeNationality.AfterOperationPeople; SR2, SRHD:FormRuins.PB.ChangeNationality.AfterOperationPeople]
 ## Реальные люди и компании
 - «Малокософт» → Microsoft; «программная уязвимость… лицензионное ПО». КР2. [SR2, SRHD:Quest.SendLetter.47.Start#1; SR2, SRHD:Quest.SendLetter.47.End#1]
 - «Д-Уст» → ДДТ / дуст (инсектицид). КР2 (HD). [SRHD:Quest.SendLetter.77.End#1]
@@ -86,6 +87,7 @@
 - «Айбо-3001»: «логотип первой в мире робототехнической компании, создавшей маленького дроида Айбо» → Sony AIBO. «Братец Марио» → Super Mario. КР2. [SR2, SRHD:Reward.30.Text; SR2, SRHD:Reward.42.Text]
 - Мичурер (селекция терроноидов) → И. В. Мичурин. КР2. [SR2, SRHD:UselessItems.Remains_23.Name]
 - «Бозоны Шмигса» → бозон Хиггса; ателье «Фаринапини» → Pininfarina; «Свароковски» → Swarovski. КР2 (HD). [SRHD:MicroModuls.415.Text#1; SRHD:MicroModuls.489.Text#1]
+- КР2. «Галаксиздрав настоятельно рекомендует…» — «Минздрав предупреждает»; «закон CopyRight — „правильно скопировано“» — шутка о пиратском ПО. [SR2:FormRuins.MC.Stimulants.MC5#5; SR2:FormRuins.PB.Program.PBStart#1]
 ## Политика и быт реального мира
 - «Кю-Клакс-Клуц» → Ку-клукс-клан. КР2. [SR2:Quest.DefShip.17.Special]
 - «Грынь Пис» → Greenpeace. КР2. [SR2:Quest.DefShip.18.Special]
