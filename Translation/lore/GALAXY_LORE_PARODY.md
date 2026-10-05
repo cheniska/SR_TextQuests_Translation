@@ -53,6 +53,7 @@
 - КР2 (HD). «Ящик старого линуксианского» — отсылка к ОС Linux [вывод]; «Уважаемый пользователь! Напоминаем вам, что это не банкомат, а игровой автомат». [SRHD:Talk.PirateClan.Truce.PirateOk; SRHD:Talk.PirateClan.Money.PirateNo5]
 - КР2. Компания «Elemental Games» — реальный разработчик «Космических рейнджеров»; «Macrohard» — Microsoft; «Невитс и Гник» — Стивен Кинг (наоборот) [вывод]; «Зверские Уродцы 13: Хэппи Энд» и «World Rulezzz Cyber Game» — киберспорт (WCG). [SR2:PlanetQuest.StartText.36; SR2, SRHD:PlanetQuest.StartText.14; SR2:PlanetQuest.StartText.35; SR2:PlanetQuest.StartText.38]
 - КР2 (HD). Компания «Клапан» и «Четвертьраспад: эпизод 451» — Valve и Half-Life; уровень «перекрёстный огонь» — Crossfire; братство Бов, пророк Кээйн, Храм Скорпиона — Brotherhood of Nod и Кейн (Command & Conquer); «вертибёрд» — Fallout; корпорация «СНК» — разработчик HD СНК-Games. [SRHD:RobotsMap.53.GovTextStart#1; SRHD:RobotsMap.60.GovTextStart; SRHD:RobotsMap.55.GovTextStart#1; SRHD:RobotsMap.57.GovTextStart#2]
+- КР1. «Данное задание не прошло сертификацию Elemental Games» — предупреждение о пользовательских квестах (разработчик КР). [SR1:FormGov.QuestCertificate.NotCertificate]
 ## Музыка
 - Элвис Пресли, «замороженный в 1977 году» → год смерти Пресли; слухи «Элвис жив». КР2. [SR2:Quest.DefShip.20.Start; SRHD:Quest.DefShip.20.Special]
 - «Миллион, миллион, миллиард…» о розах → «Миллион алых роз» (А. Пугачёва). Только КР2 (в HD строки нет). [SR2:Quest.SendLetter.52.End]
@@ -101,6 +102,7 @@
 - КР2. Охранная фирма «Касперла» — «Лаборатория Касперского»; гонщик Михаэль Шульман, семикратный победитель гонки на фонсерах, — Михаэль Шумахер; «Хавайские курорты», «Хавайский Треугольник» — Гавайи и Бермудский треугольник; фирма «Блэкдиггерс» — «чёрные копатели». [SR2, SRHD:RobotsMap.02.RobotsStart#2; SR2, SRHD:RobotsMap.09.RobotsWin#2; SR2, SRHD:RobotsMap.08.GovTextStart#1; SR2:RobotsMap.24.GovTextStart]
 - КР2. Компания «Домик в деревне» — торговая марка молочных продуктов. [SR2:RobotsMap.23.GovTextStart]
 - КР2 (HD). «Малокософт» — Microsoft; нефтяная компания «Ракушка» — Shell; курорт Мауна-Роа — Мауна-Лоа; «Бесшумный океан» — Тихий океан; «Жёлтый Крест» — Красный Крест. [SRHD:RobotsMap.43.GovTextStart#2; SRHD:RobotsMap.65.GovTextStart; SRHD:RobotsMap.44.GovTextStart#1; SRHD:RobotsMap.25.GovTextStart; SRHD:RobotsMap.46.GovTextStart#1]
+- КР2. Мультимиллиардер мистер Сороскин, финансирующий пиратов, — Джордж Сорос [вывод]. [SR2:Investment.PiratesSubsidy.Text#2]
 ## Политика и быт реального мира
 - «Кю-Клакс-Клуц» → Ку-клукс-клан. КР2. [SR2:Quest.DefShip.17.Special]
 - «Грынь Пис» → Greenpeace. КР2. [SR2:Quest.DefShip.18.Special]
@@ -119,6 +121,7 @@
 - Чубайкен → А. Чубайс. КР1. [SR1:Quest.KillShip.18.Start#1]
 - Бушок (Ковбой) → Дж. Буш. КР1. [SR1:Quest.KillShip.20.Start]
 - «Одноглазый Хамас» → ХАМАС. [вывод] КР2. [SR2:Illness.Stimulant.1.Name]
+- КР2. «Укрепляем вертикаль власти и резко сокращаем государственный аппарат… Голосуйте за кандидата от правящей партии!» — российская политическая риторика 2000-х. [SR2:FormGov.Bribe.QuestionOk3]
 ## Прочее
 - Лопата «Землюка Раскидати», вилы «Наколюка Янавоза» → шуточные «японские» названия; «да пребудет с вами сила Тимирязева» → Звёздные войны + К. А. Тимирязев. КР2. [SR2:Quest.DefShip.18.Special]
 - RNN → CNN. КР2. [SR2:Quest.DefShip.18.Special]
@@ -139,3 +142,4 @@
 - «Закажи другу друга» → «Позвони другу» / агентства знакомств. [вывод] КР2. [SR2:ShipGreetings.418.Text]
 - Подписи «Командор Бройлерр», «Генерал Закусонов», «дядя Фэй», шифровки про «отелившуюся бурёнку» и «троюродную тётушку» — кодовые вызовы спецотдела. КР2 (HD). [SRHD:Script.PC_part2.149; SRHD:Script.PC_part4.126; SRHD:Script.PC_part6.174]
 - КР2 (HD). «Фэйяншуй» — фэн-шуй; «фейсбол (официальный перевод с древнеангликанского)» — футбол/Facebook [вывод]; «Пандорика» — «Доктор Кто» [вывод]. [SRHD:ABMap.10.Desc; SRHD:ABMap.07.Desc; SRHD:ABMap.03.Name]
+- КР2 (HD). Названия достижений: «Потомок Брежнева» (все медали), «Богатенький Буратино», «Зато мы делаем ракеты», «Аста ла виста» («Терминатор 2»), «Почтальон Печкин», «Застрахуй братуху» (реклама), «Это наша корова» (м/ф «Трое из Простоквашино»), «Если б я был султан...» (песня), «Настоящий полковник», «За ВДВ!», «Врагу не сдаётся...» («Варяг»), «Блаззард» (Blizzard), «На пыльных тропинках далёких планет» (песня «Трава у дома»), «Нода бене» (nota bene), «Рачехан и все-все-все», «Монстр мания», «Великий Нехочуха», «Эль контрабандисто». [SRHD:Achievements.BREZHNEV.Name; SRHD:Achievements.MONEY.Name; SRHD:Achievements.ROCKET.Name; SRHD:Achievements.KELLERDESTROY.Name; SRHD:Achievements.DELIVERY.Name; SRHD:Achievements.INSURANCE.Name; SRHD:Achievements.ROBBER.Name; SRHD:Achievements.GIRLSHIRE.Name; SRHD:Achievements.COMMANDOR.Name; SRHD:Achievements.TERRONBATTLE.Name; SRHD:Achievements.DEFENDER.Name; SRHD:Achievements.BLAZERPROGRAM.Name; SRHD:Achievements.EXPLORER.Name; SRHD:Achievements.NODES.Name; SRHD:Achievements.PIRATEWIN.Name; SRHD:Achievements.BERTORSLAYER.Name; SRHD:Achievements.BUMMER.Name; SRHD:Achievements.CONTRABAND.Name]
