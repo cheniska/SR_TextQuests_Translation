@@ -160,8 +160,21 @@ def check(files):
                 if k not in data[l]:
                     bad += 1
                     print('%s:%d: нет ключа %s:%s' % (fn, i, l, k))
-    print('ссылок: %d, битых: %d' % (total, bad))
-    return bad
+    # 'SR2, SRHD:ключ' допустимо только если тексты КР2 и HD под этим ключом совпадают
+    txt = {l: dict(load(l)) for l in ('SR2', 'SRHD')}
+    dual = 0
+    for fn in files:
+        for i, line in enumerate(open(fn, encoding='utf-8'), 1):
+            for k in re.findall(r'SR2, SRHD:([^\s;,\]\)]+)', line):
+                k = k.rstrip('.')
+                if '.' not in k:
+                    continue
+                a, b = norm(txt['SR2'].get(k, '')), norm(txt['SRHD'].get(k, ''))
+                if not a or a != b:
+                    dual += 1
+                    print('%s:%d: «SR2, SRHD:%s» — тексты КР2 и HD различаются, нужны раздельные ссылки' % (fn, i, k))
+    print('ссылок: %d, битых: %d, ошибочных двойных: %d' % (total, bad, dual))
+    return bad + dual
 
 
 LORE = os.path.join(ROOT, 'Translation', 'lore')
