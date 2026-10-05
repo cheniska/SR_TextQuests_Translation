@@ -183,8 +183,24 @@ def check(files):
                 if not a or a != b:
                     dual += 1
                     print('%s:%d: «SR2, SRHD:%s» — тексты КР2 и HD различаются, нужны раздельные ссылки' % (fn, i, k))
-    print('ссылок: %d, битых: %d, ошибочных двойных: %d' % (total, bad, dual))
-    return bad + dual
+    # каждый факт (пункт с меткой, «Раскрыто…», «Варианты…», пародия «- КР…») — со ссылкой на ланг
+    noref = 0
+    fact_re = re.compile(r'- (\[|Раскрыто|Варианты|КР[12])')
+    for fn in files:
+        sec, code = '', False
+        for i, line in enumerate(open(fn, encoding='utf-8'), 1):
+            if line.startswith('```'):
+                code = not code
+            if line.startswith('#'):
+                sec = line
+            aux = ('PARODY' in fn or 'DOUBTS' in fn) and sec.startswith('## ') and line.startswith('- ')
+            if code or sec.startswith(('## Правила', '## Прогресс')) or not (fact_re.match(line) or aux):
+                continue
+            if not REF_RE.search(line.split(' ' + COND_MARK)[0]):
+                noref += 1
+                print('%s:%d: факт без ссылки: %s' % (fn, i, line.strip()[:100]))
+    print('ссылок: %d, битых: %d, ошибочных двойных: %d, фактов без ссылки: %d' % (total, bad, dual, noref))
+    return bad + dual + noref
 
 
 # ---------- условия записей (планета-заказчик не конкретная, а любая подходящая) ----------
