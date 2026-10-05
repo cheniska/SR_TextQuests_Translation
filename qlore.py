@@ -41,7 +41,30 @@ LANGS = ['SR1', 'SR2', 'SRHD']
 # по одинаковому ключу сравниваем только КР2 и HD (HD — расширение КР2, номера совпадают);
 # КР1 — другие квесты под теми же номерами
 PAIR = {'SR2': ['SRHD'], 'SRHD': ['SR2'], 'SR1': []}
-REF_RE = re.compile(r'\b(SR1|SR2|SRHD):([^\s;,\]\)]+)')
+REF_RE = re.compile(r'\b(SR1|SR2|SRHD|TQ1|TQ2):([^\s;,\]\)]+)')
+# текстовые квесты как «ланги»: TQ1 = КР1 (SR1TextQuests), TQ2 = SR2HD; ключ «Квест:Запись» (Bank:Loc1-1)
+TQ = {'TQ1': os.path.join('TextQuests', 'SR1TextQuests', 'Rus'),
+      'TQ2': os.path.join('TextQuests', 'SR2HD', 'questsRus')}
+ALL = LANGS + list(TQ)
+
+
+def parse_tq(lang):
+    d = os.path.join(ROOT, TQ[lang])
+    res = []
+    for fn in sorted(os.listdir(d)):
+        if not fn.endswith('.txt'):
+            continue
+        q = fn[:-4]
+        raw = open(os.path.join(d, fn), 'rb').read().decode('utf-16').lstrip('\ufeff')
+        for line in raw.split('\r\n'):
+            k, sep, v = line.partition('\t')
+            if not sep:
+                continue
+            if k == '*' and res and res[-1][0].startswith(q + ':'):
+                res[-1][1] += ' ¶ ' + v
+            elif k != '*':
+                res.append([q + ':' + k, v])
+    return res
 
 
 def parse(lang):
@@ -73,8 +96,8 @@ def parse(lang):
 
 def flat():
     os.makedirs(OUT, exist_ok=True)
-    for lang in LANGS:
-        rows = parse(lang)
+    for lang in ALL:
+        rows = parse_tq(lang) if lang in TQ else parse(lang)
         with open(os.path.join(OUT, lang + '.flat'), 'w', encoding='utf-8') as f:
             for k, v in rows:
                 f.write(k + '\t' + v + '\n')
@@ -142,21 +165,21 @@ def dump(prefix, lang='SRHD'):
 
 def find(rx, langs):
     r = re.compile(rx, re.I)
-    for l in langs or LANGS:
+    for l in langs or ALL:
         for k, v in load(l):
             if r.search(v) or r.search(k):
                 print('%s:%s\t%s' % (l, k, v))
 
 
 def get(refs):
-    data = {l: dict(load(l)) for l in LANGS}
+    data = {l: dict(load(l)) for l in ALL}
     for ref in refs:
         l, _, k = ref.partition(':')
         print('%s\t%s' % (ref, data.get(l, {}).get(k, '!!! НЕТ ТАКОГО КЛЮЧА')))
 
 
 def check(files):
-    data = {l: set(k for k, _ in load(l)) for l in LANGS}
+    data = {l: set(k for k, _ in load(l)) for l in ALL}
     bad = total = 0
     for fn in files:
         for i, line in enumerate(open(fn, encoding='utf-8'), 1):
@@ -331,7 +354,9 @@ def cond(files):
     print('строк с обновлёнными условиями: %d' % n)
 
 LORE = os.path.join(ROOT, 'Translation', 'lore')
-FILES = {'': 'GALAXY_LORE.md', 'PARODY': 'GALAXY_LORE_PARODY.md', 'DOUBTS': 'GALAXY_LORE_DOUBTS.md'}
+FILES = {'': 'GALAXY_LORE.md', 'PARODY': 'GALAXY_LORE_PARODY.md', 'DOUBTS': 'GALAXY_LORE_DOUBTS.md',
+         # лор текстовых квестов (канон: КР1 + SR2HD)
+         'TQ': 'LORE_FACTS.md', 'TQPARODY': 'LORE_FACTS_PARODY.md', 'TQDOUBTS': 'LORE_FACTS_DOUBTS.md'}
 
 
 def _insert(lines, path, text, after=None):
@@ -396,7 +421,7 @@ def merge(stage):
         fn = os.path.join(LORE, FILES[fkey])
         if fn not in docs:
             docs[fn] = open(fn, encoding='utf-8').read().split('\n')
-        if fkey == 'DOUBTS' and not path:
+        if fkey in ('DOUBTS', 'TQDOUBTS') and not path:
             path = ['Пункты']
         after = last[2] if last and last[0] == tag and not text.startswith('#') else None
         k = _insert(docs[fn], path, text, after)
