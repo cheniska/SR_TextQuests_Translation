@@ -30,7 +30,16 @@
 - КР1 (25): [x] Bank [x] Boat [x] Bondiana [x] Build [x] Casino [x] Commando [x] Diamond [x] Diehard [x] Energy
   [x] Examen [x] Fishing [x] Galaxy [x] Gladiator [x] Gobsaur [x] Hachball [x] Ikebana [x] Menzols [x] Murder
   [x] Newflora [x] Penetrator [x] Poroda [x] Rush [x] Siege [x] Spy [x] Tomb
-- SR2HD (80): по списку `TextQuests/SR2HD/questsRus` — отмечаются здесь по мере прохода.
+- SR2HD (80): [ ] Amnesia [ ] Badday [ ] Banket [ ] Bomber [ ] Borzukhan [ ] Citadels [ ] Codebox
+  [ ] Colonization [ ] Complex [ ] Deadoralive [ ] Depth [ ] Disk [ ] Diver [ ] Domoclan [ ] Doomino [ ] Driver
+  [ ] Drugs [ ] Easywork [ ] Edelweiss [ ] Election [ ] Elus [ ] Evidence [ ] Evilgenius [ ] Faruk [ ] Feipsycho
+  [ ] Filial [ ] Fishingcup [ ] Foncers [ ] Forum [ ] GLAVRED [ ] Gaidnet [ ] Gluki [ ] Jumper [ ] Kiberrazum
+  [ ] Kidnapped [ ] Leonardo [ ] Logic [ ] Losthero [ ] Mafia [ ] Maze [ ] Megatest [ ] Ministry [ ] Moi
+  [ ] Muzon [ ] Olympiada [ ] Pachvarash [ ] Park [ ] Pharaon [ ] Photorobot [ ] Pilot [ ] PirateClanPrison
+  [ ] Piratesnest [ ] Pizza [ ] Player [ ] Prison [ ] Proprolog [ ] Provoda [ ] Rally [ ] Robots [ ] Rvk
+  [ ] STQ_Ataman1 [ ] STQ_Ataman2 [ ] STQ_Baron1 [ ] STQ_Baron2 [ ] STQ_Baron3 [ ] STQ_Baron4 [ ] STQ_Headhunter
+  [ ] Shashki [ ] Sibolusovt [ ] Ski [ ] Sortirovka1 [ ] SpaceLines [ ] Stealth [ ] Svarokok [ ] Taxist
+  [ ] Testing [ ] Tourists [ ] Vulkan [ ] Xenolog [ ] Xenopark
 
 Формат факта: `- [метка] КР1. Текст факта. [TQ1:Квест:Запись; TQ1:Квест:Запись]`
 
