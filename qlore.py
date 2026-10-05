@@ -187,6 +187,8 @@ def check(files):
     noref = 0
     fact_re = re.compile(r'- (\[|Раскрыто|Варианты|КР[12])')
     for fn in files:
+        if 'SUMMARY' in fn:   # обзор-выжимка без ссылок, ссылки — в полном своде
+            continue
         sec, code = '', False
         for i, line in enumerate(open(fn, encoding='utf-8'), 1):
             if line.startswith('```'):
