@@ -41,7 +41,7 @@ LANGS = ['SR1', 'SR2', 'SRHD']
 # по одинаковому ключу сравниваем только КР2 и HD (HD — расширение КР2, номера совпадают);
 # КР1 — другие квесты под теми же номерами
 PAIR = {'SR2': ['SRHD'], 'SRHD': ['SR2'], 'SR1': []}
-REF_RE = re.compile(r'\b(SR1|SR2|SRHD|TQ1|TQ2):([^\s;,\]\)]+)')
+REF_RE = re.compile(r'\b(SR1|SR2|SRHD|TQ1|TQ2):([^\s;,\]\)`]+)')
 # текстовые квесты как «ланги»: TQ1 = КР1 (SR1TextQuests), TQ2 = SR2HD; ключ «Квест:Запись» (Bank:Loc1-1)
 TQ = {'TQ1': os.path.join('TextQuests', 'SR1TextQuests', 'Rus'),
       'TQ2': os.path.join('TextQuests', 'SR2HD', 'questsRus')}
@@ -186,7 +186,7 @@ def check(files):
             line = line.split(' ' + COND_MARK)[0]   # пометка условий — не ссылки
             for l, k in REF_RE.findall(line):
                 k = k.rstrip('.')
-                if '.' not in k:   # пример формата в шапке ('SR2:ключ')
+                if ('.' not in k and ':' not in k) or k.startswith('Квест'):   # примеры формата в шапке
                     continue
                 total += 1
                 if k not in data[l]:
