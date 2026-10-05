@@ -17,6 +17,10 @@
   find REGEX [LANG...]       — поиск по тексту во всех (или указанных) лангах
   get REF...                 — показать текст по ссылкам (SR2:Quest.DefShip.17.Start#2)
   check FILE.md...           — проверить, что все ссылки [LANG:ключ] в файлах существуют
+  cond FILE.md...             — дописать к фактам с ссылками на Quest.*/GovGreetings/ShipGreetings/
+                               RobotsMap пометку ⟨условия: …⟩ из полей ланга: планета-заказчик
+                               не конкретная, а ЛЮБАЯ подходящая (раса, правление, экономика,
+                               пиратский клан, статус игрока). Идемпотентно; запускать после merge.
   merge STAGE.txt            — разложить черновик по разделам свода. Строка черновика:
                                '@Раздел/Подраздел<TAB>- [факт] КР2. Текст. [SR2:ключ]'
                                Раздел — начало заголовка '## ' (Малоки, Доминаторы, Рейнджеры…),
@@ -156,6 +160,7 @@ def check(files):
     bad = total = 0
     for fn in files:
         for i, line in enumerate(open(fn, encoding='utf-8'), 1):
+            line = line.split(' ' + COND_MARK)[0]   # пометка условий — не ссылки
             for l, k in REF_RE.findall(line):
                 k = k.rstrip('.')
                 if '.' not in k:   # пример формата в шапке ('SR2:ключ')
@@ -169,6 +174,7 @@ def check(files):
     dual = 0
     for fn in files:
         for i, line in enumerate(open(fn, encoding='utf-8'), 1):
+            line = line.split(' ' + COND_MARK)[0]
             for k in re.findall(r'SR2, SRHD:([^\s;,\]\)]+)', line):
                 k = k.rstrip('.')
                 if '.' not in k:
@@ -180,6 +186,131 @@ def check(files):
     print('ссылок: %d, битых: %d, ошибочных двойных: %d' % (total, bad, dual))
     return bad + dual
 
+
+# ---------- условия записей (планета-заказчик не конкретная, а любая подходящая) ----------
+COND_MARK = '⟨условия:'
+_RACE = {'Maloc': 'малоки', 'Peleng': 'пеленги', 'People': 'люди', 'Fei': 'фэяне', 'Gaal': 'гаальцы'}
+_RACE_ADJ = {'Maloc': 'малокская', 'Peleng': 'пеленгская', 'People': 'людская', 'Fei': 'фэянская', 'Gaal': 'гаальская'}
+_GOV = {'Democracy': 'демократия', 'Republic': 'республика', 'Monarchy': 'монархия',
+        'Dictatorship': 'диктатура', 'Anarchy': 'анархия'}
+_ECO = {'Mixed': 'смешанная', 'Industrial': 'индустриальная', 'Agriculture': 'аграрная'}
+_STATUS = {'Warrior': 'воин', 'Trader': 'торговец', 'Pirate': 'пират'}
+_SHIP = {'Ranger': 'рейнджер', 'Diplomat': 'дипломат', 'Transport': 'транспорт', 'Liner': 'лайнер',
+         'Pirate': 'пират', 'Pirat': 'пират', 'Warrior': 'военный'}
+_ALL5 = {'Maloc', 'Peleng', 'People', 'Fei', 'Gaal'}
+_COND_REF = re.compile(r'((?:SR1|SR2|SRHD)(?:, (?:SR1|SR2|SRHD))*):([^\s;,\]\)]+)')
+_REC = re.compile(r'^(Quest\.(?:DefShip|KillShip|DefSystem|SendLetter)\.\d+|GovGreetings\.\d+|ShipGreetings\.\d+|RobotsMap\.\d+)\.')
+
+
+def _vals(v):
+    return [x.strip() for x in v.split(',') if x.strip()]
+
+
+def _planet(rec, races, gov=None, eco=None, clan=None, word='планета'):
+    """«любая пеленгская планета (диктатура…)»"""
+    rr = [r for r in races if r in _RACE]
+    nonpir = 'OnlyNonPirate' in races or clan == ['No']
+    if not rr or set(rr) == _ALL5:
+        s = 'любая %s' % word if not rr or set(rr) == _ALL5 else ''
+        s = 'любая %s любой расы' % word if set(rr) == _ALL5 else 'любая %s' % word
+    elif len(rr) == 1:
+        s = 'любая %s %s' % (_RACE_ADJ[rr[0]], word)
+    else:
+        s = 'любая %s расы: %s' % (word, ', '.join(_RACE[r] for r in rr))
+    extra = []
+    if gov:
+        extra.append('правление — ' + '/'.join(_GOV.get(g, g) for g in gov))
+    if eco:
+        extra.append('экономика — ' + '/'.join(_ECO.get(e, e) for e in eco))
+    if nonpir:
+        extra.append('не под пиратами')
+    elif clan == ['Yes']:
+        extra.append('под властью пиратского клана')
+    return s + (' (%s)' % '; '.join(extra) if extra else '')
+
+
+def _cond_text(rec, f):
+    """f — поля записи {поле: значение}; возвращает строку условий или ''."""
+    g = lambda k: [x for x in _vals(f.get(k, '')) if x != 'Any']
+    parts = []
+    if rec.startswith('Quest.'):
+        typ = rec.split('.')[1]
+        if typ == 'SendLetter':
+            parts.append('заказчик — ' + _planet(rec, g('FromRace')))
+            if g('ToRace'):
+                parts.append('получатель — ' + _planet(rec, g('ToRace')))
+        else:
+            parts.append('заказчик — ' + _planet(rec, _vals(f.get('PlanetRace', 'Any'))))
+            if g('ShipRace') and set(g('ShipRace')) != _ALL5:
+                parts.append('раса корабля-цели: ' + ', '.join(_RACE.get(r, r) for r in g('ShipRace')))
+    elif rec.startswith('GovGreetings.'):
+        parts.append('говорит правительство — ' + _planet(rec, g('CurPlanetRace'), g('CurPlanetGoverment'),
+                                                        g('CurPlanetEconomy'), _vals(f.get('CurPlanetPirateClan', '')) or None))
+    elif rec.startswith('ShipGreetings.'):
+        who = 'любой корабль'
+        if g('ShipType') and len(set(g('ShipType'))) < 5:
+            who = 'корабль: ' + '/'.join(dict.fromkeys(_SHIP.get(t, t) for t in g('ShipType')))
+        if g('ShipRace') and set(g('ShipRace')) != _ALL5:
+            who += ', раса — ' + ', '.join(_RACE.get(r, r) for r in g('ShipRace'))
+        parts.append('говорит ' + who)
+        if g('LastPlanetRace') or g('LastPlanetGoverment') or g('LastPlanetEconomy'):
+            parts.append('прилетел с планеты — ' + _planet(rec, g('LastPlanetRace'), g('LastPlanetGoverment'), g('LastPlanetEconomy')))
+    elif rec.startswith('RobotsMap.'):
+        parts.append('планета — ' + _planet(rec, _vals(f.get('PlanetRace', 'Any'))))
+    st = g('Status') or g('PlayerStatus')
+    if st:
+        parts.append('игрок — ' + '/'.join(_STATUS.get(x, x) for x in st))
+    if g('PlayerRace'):
+        parts.append('раса игрока — ' + ', '.join(_RACE.get(r, r) for r in g('PlayerRace')))
+    if f.get('DominatorsAlreadyDefeated') == 'Yes':
+        parts.append('после победы над доминаторами')
+    if f.get('CoalitionAlreadyDefeated') == 'Yes':
+        parts.append('после падения Коалиции')
+    return '; '.join(parts)
+
+
+def cond(files):
+    """Дописывает к фактам с ссылками на квесты/приветствия/планетарные бои пометку
+    ⟨условия: …⟩ из полей ланга (идемпотентно: старая пометка заменяется)."""
+    fields = {}
+    for l in LANGS:
+        d = {}
+        for k, v in load(l):
+            m = _REC.match(k)
+            if m and len(v) < 120:
+                d.setdefault(m.group(1), {})[k[len(m.group(1)) + 1:]] = v
+        fields[l] = d
+    n = 0
+    for fn in files:
+        lines = open(fn, encoding='utf-8').read().split('\n')
+        for i, line in enumerate(lines):
+            base = line.split(' ' + COND_MARK)[0]
+            seen = {}
+            for langs, k in _COND_REF.findall(re.sub(r'`[^`]*`', '', base)):   # примеры в `...` — не ссылки
+                m = _REC.match(k.rstrip('.') + '.')
+                if not m:
+                    continue
+                rec = m.group(1)
+                for l in langs.split(', '):
+                    f = fields[l].get(rec)
+                    if f is None:
+                        continue
+                    t = _cond_text(rec, f)
+                    if t:
+                        seen.setdefault(t, []).append('%s:%s' % (l, rec.split('.', 1)[1] if rec.startswith('Quest.') else rec))
+            if seen:
+                if len(seen) == 1:
+                    tag = ' %s %s⟩' % (COND_MARK, next(iter(seen)))
+                else:
+                    tag = ' %s %s⟩' % (COND_MARK, ' | '.join('%s — %s' % (', '.join(dict.fromkeys(v)), t) for t, v in seen.items()))
+                new = base + tag
+            else:
+                new = base
+            if new != line:
+                lines[i] = new
+                n += 1
+        open(fn, 'w', encoding='utf-8').write('\n'.join(lines))
+    print('строк с обновлёнными условиями: %d' % n)
 
 LORE = os.path.join(ROOT, 'Translation', 'lore')
 FILES = {'': 'GALAXY_LORE.md', 'PARODY': 'GALAXY_LORE_PARODY.md', 'DOUBTS': 'GALAXY_LORE_DOUBTS.md'}
@@ -262,6 +393,7 @@ def merge(stage):
     for fn, lines in docs.items():
         open(fn, 'w', encoding='utf-8').write('\n'.join(lines))
     print('добавлено: %d, не найдено разделов: %d' % (n, bad))
+    cond(list(docs))   # пометки ⟨условия: …⟩ у новых фактов
     return bad
 
 
@@ -279,6 +411,8 @@ if __name__ == '__main__':
         get(a[1:])
     elif a[0] == 'merge':
         sys.exit(1 if merge(a[1]) else 0)
+    elif a[0] == 'cond':
+        cond(a[1:])
     elif a[0] == 'check':
         sys.exit(1 if check(a[1:]) else 0)
     else:
