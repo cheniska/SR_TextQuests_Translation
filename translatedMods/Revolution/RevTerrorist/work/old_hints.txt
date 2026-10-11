@@ -1,0 +1,14 @@
+7	<br><br>Получено опыта: #0# очков.	<br><br>Experience gained: #0# points.
+8	Бизнес-центр #0# в системе #1# уничтожен! По понятным причинам забрать награду уже не получится.	Business Center #0# in system #1# has been destroyed! For obvious reasons, it will no longer be possible to pick up the award.
+9	Трагедия в системе #0#! Доведенный до отчаяния рейнджер уничтожил бизнес-центр #1# при помощи кварковых бомб. Свой поступок он объяснил невозможностью выплатить кредит. На внеочередном заседании Галактического Совета было принято решение о выплате пособия малоимущим рейнджерам, чтобы впредь не допустить подобных инцидентов.	Tragedy in system #0#! A desperate ranger destroyed business center #1# with quark bombs. He explained his action by the inability to repay the loan. At an extraordinary meeting of the Galactic Council, it was decided to pay an allowance to the poor rangers in order to prevent such incidents from happening in the future.
+10	Вы настоящий герой, #0#! Ваши решительные действия спасли множество невинных жизней! Кроме того, уничтожение нашей станции нанесло бы тяжелый удар по экономике всего сектора! От имени сети бизнес-центров, позвольте вручить вам особенный подарок: микромодуль #1#!<br>	You are a true hero, #0#! Your decisive action has saved many innocent lives! In addition, the destruction of our station would deal a heavy blow to the economy of the entire sector! On behalf of the network of business centers, let me give you a special gift: micromodule #1#!<br>
+12	#0#:<br>- Аллах Акбар!	#0#:<br>- Allah Akbar!
+13	Эх, я бы помог тебе с выплатой долга, жаль только не располагаю подобной суммой...	Oh, I'd like to help you pay off your debt, but I don't have that kind of money...
+14	А сколько ты им задолжал?	How much do you owe them?
+15	А, ну да, правильно, так и надо буржуев этих бить!	Oh, yes, that's right, that's the way to beat these bourgeois!
+16	Слушай сюда, террорист. Бери #0# cr. и отстань от несчастной станции!	Listen here terrorist. Take #0# cr. and get away from the unfortunate station!
+17	#0#, загляните в наш бизнес-центр #1#. Мы хотим поблагодарить вас от имени всех сотрудников!	#0#, visit our business center #1#. We want to thank you on behalf of all the staff!
+18	#0# cr. А почему ты спрашиваешь?	#0#cr. Why are you asking?
+21	#0#, не мешай, я лечу отдавать долг кредиторам, хе-хе.	#0#, don't bother me, I'm going to repay creditors, hehe.
+22	Спасибо тебе, #0#, выручил коллегу-рейнджера в час нужды. Век не забуду!	Thank you #0# for helping out a fellow ranger in his hour of need. I will never forget!
+23	#0#:--->#1#<br>- #1#, вам следует немедленно развернуть свой корабль и совершить посадку на планету #2#, где вас ждёт справедливый суд!<br>- Не так быстро, для начала мне нужно расплатиться с долгами.	#0#:--->#1#<br>- #1#, you should immediately turn your ship around and land on planet #2#, where justice awaits you!<br>- Not so fast, first, I need to pay off my debts.

@@ -1,0 +1,22 @@
+8	No, I won't give it to you so easily
+9	Buy from me
+10	Come on, transfer money
+11	Well, whatever you want
+20	Wait, but the elections are taking place on <0>, not here
+23	No, probably nothing new yet
+31	I just offered to help
+45	If you want, I will help you
+46	I'll try to help you
+48	No, just one is enough for you
+59	Glad to help
+76	Yes, you are right, I want to know about your purpose of being here
+78	Prepare the money
+80	10 tons of narcos, as ordered, on board
+141	Okay, so be it, I'll fly
+153	With nothing, I already need to fly
+156	It's interesting to hear a pirate talking about military honor
+159	Didn't dispersed anyone, just helped a little
+205	Well it happened
+206	Yes, of course, catch
+208	Strong need
+211	Lifepod

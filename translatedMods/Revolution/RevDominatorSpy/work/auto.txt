@@ -1,0 +1,3 @@
+Выполняет различные задачи по слежению, управляется как с находящегося поблизости корабля, так и с удаленного командного центра.	Performs various monitoring tasks; can be controlled from a nearby ship or a remote command center.
+Управляемый разведзонд	Controlled Recon Probe
+Шпионское устройство пеленгов.	A peleng spy device.

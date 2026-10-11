@@ -1,0 +1,17 @@
+Акринатор	Acrynator
+Скорость двигателя: <bonSpeed> ед.	Engine speed: <bonSpeed>
+Дальность прыжка: <bonJump> пк.	Jump range: <bonJump> pc
+Дальность радара: <bonRadar> млн. км.	Radar range: <bonRadar> million km.
+Мощность сканера: <bonScan><clr>%<clrEnd>	Scanner power: <bonScan><clr>%<clrEnd>
+Мощность захвата: <bonHook> т.	Gripper power: <bonHook> t.
+Мощность защитного поля: <bonDef><clr>%<clrEnd>	Shield power: <bonDef><clr>%<clrEnd>
+Урон энергетического оружия: <bonWEnergy> ед.	Energy weapon damage: <bonWEnergy> units
+Урон осколочного оружия: <bonWSplinter> ед.	Splinter weapon damage: <bonWSplinter> units
+Урон ракетного оружия: <bonWMissile> ед.	Missile weapon damage: <bonWMissile> units
+Дальность стрельбы: <bonWRadius> млн км	Firing range: <bonWRadius> million km
+Броня корпуса: <bonHull> ед.	Hull armor: <bonHull>
+Навык точности: <bonSkill1>	Attack skill: <bonSkill1>
+Эффективность дроида: <bonDroid> ед.	Droid effectiveness: <bonDroid>
+Масса корабля: <bonMass><clr>%<clrEnd>	Ship mass: <bonMass><clr>%<clrEnd>
+Навык техники: <bonSkill3>	Technology skill: <bonSkill3>
+Навык манёвренности: <bonSkill2>	Mobility skill: <bonSkill2>

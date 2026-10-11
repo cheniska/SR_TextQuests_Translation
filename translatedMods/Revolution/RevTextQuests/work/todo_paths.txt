@@ -1,0 +1,6 @@
+1	PlanetQuest/List/96/Genre
+2	PlanetQuest/List/96/Name
+3	PlanetQuest/List/97/Genre
+4	PlanetQuest/List/97/Name
+5	PlanetQuest/StartText/96
+6	PlanetQuest/StartText/97

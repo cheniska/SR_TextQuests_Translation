@@ -1,0 +1,16 @@
+1	ABMap/19/Desc
+2	ABMap/19/Name
+3	ABMap/21/Desc
+4	ABMap/21/Name
+5	ABMap/22/Desc
+6	ABMap/22/Desc
+7	ABMap/22/Name
+8	ABMap/24/Desc
+9	ABMap/24/Desc
+10	ABMap/24/Name
+11	ABMap/26/Desc
+12	ABMap/26/Desc
+13	ABMap/26/Name
+14	ABMap/28/Desc
+15	ABMap/28/Desc
+16	ABMap/28/Name

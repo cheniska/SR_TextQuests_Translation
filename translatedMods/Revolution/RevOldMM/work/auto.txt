@@ -1,0 +1,9 @@
+Скорость двигателя: <bonSpeed> ед.	Engine speed: <bonSpeed>
+Дальность прыжка: <bonJump> пк.	Jump range: <bonJump> pc
+Архиватор	Archiver
+Сила энергетического оружия: <bonWEnergy> ед.	Energy weapons damage: <bonWEnergy>
+Мощность защитного поля: <bonDef><clr>%<clrEnd>	Shield power: <bonDef><clr>%<clrEnd>
+Мощность захвата: <bonHook> ед.	Gripper power: <bonHook>
+Дальность захвата: <bonHookRadius> млн км	Gripper range: <bonHookRadius> M km
+Броня корпуса: <bonHull> ед.	Hull armor: <bonHull>
+Стоимость: <clr>+50%<clrEnd>	Cost: <clr>+50%<clrEnd>

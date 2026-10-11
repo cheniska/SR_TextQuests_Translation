@@ -1,0 +1,7 @@
+Зонд	Probe
+Оперон	Operon
+Керинд	Cerind
+Тектон	Tecton
+Шаклас	Shacklas
+Нейтра	Neutra
+Глазнюк	Oculus

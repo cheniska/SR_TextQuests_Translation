@@ -1,0 +1,4 @@
+1	InfoWindow for RangerDigger of unhabitated planets
+4	Water: <Data1> / Plains: <Data2> / Mountains: <Data3>
+10	Aquamator
+12	Optirall

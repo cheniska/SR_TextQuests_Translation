@@ -1,0 +1,16 @@
+1	<0> --> <PlayerFull><br><br><Player>, ну ты и тормоз! Что, не мог раньше этих отморозков прикончить?	<0> --> <PlayerFull><br><br><Player>, you're a drag! What, could not kill these scumbags before?
+2	Держитесь, вам недолго осталось. Щас я этих пиратов разнесу	Hold on, you don't have long. Right now I'll smash these pirates
+5	Я высокопоставленный  чиновник с планеты <0>. За мной гонится стайка пиратов. Они могут меня уничтожить. Тебе нужно меня спасти, иначе может произойти все что угодно!<br>Слушай, ты что, действительно такой тупой, раз не понял этого сразу, а?	I am a high-ranking official from the planet <0>. A bunch of pirates are chasing me. They can destroy me. You need to save me, otherwise anything can happen!<br>Listen, are you really that stupid for not understanding this right away, huh?
+7	Здарова, братец. Видал я, как ты капсулу подобрал. Слушай, а зачем тебе этот кусок металла? Отдай мне, а?	Hey, brother. I saw how you picked up the capsule. Listen, why do you need this piece of metal? Give it to me, huh?
+8	И правда, его даже не купит никто. Сейчас выброшу, держи	Indeed, no one will even buy it. I'll throw it out now, hold on
+9	Э нет, так не пойдет. Что ты можешь предложить за нее?	Uh no, that won't do. What can you offer for her?
+13	<Player>, отвали, я на работе.	<Player>, back off, I'm at work.
+14	Отвали от него, иначе будешь иметь дело со мной!	Get away from him or you'll have to deal with me!
+15	И с кем же вы желаете наладить отношения?	And who do you want to establish a relationship with?
+21	С чем пожаловали?	What are you up to?
+23	Мне нужно выпилить дыру в капсуле. Говорят, там гуманоид находится	I need to cut a hole in the capsule. They say there is a humanoid
+25	<Player>, мать твою! На нас напали, убери этих ублюдков, немедленно! Иначе не поздоровится ни им, ни тебе.	<Player>, you motherfucker! We're under attack, get those bastards out of here now! Otherwise, neither they nor you will be greeted.
+26	Да ты не такой простак, каким кажешься, <Player>!<br>Я могу предложить тебе <0> cr, <1> тонн оружия или <2> тонн наркотиков. Выбирай.	You're not as simple as you seem, <Player>!<br>I can offer you <0> cr, <1> tons of weapons, or <2> tons of drugs. Choose.
+30	Скорей его сюда! Сейчас мы выпилим дверь в этой капсуле.<br>Надеюсь, содержащийся внутри гуманоид неагрессивен? <br>А, черт с ним, все равно спасать надо.<br><Player>, подождите несколько минут, сходите в бар, выпейте. Вот вам <0> cr, закажите кружку янвелба.	Hurry him here! We will now cut a door into this capsule.<br>I hope the humanoid contained inside is non-aggressive? <br>Ah, to hell with him, you still need to save.<br><Player>, wait a few minutes, go to a bar, have a drink. Here's <0> cr, order a mug of yanwelb.
+39	Э... Чего?	Uh... What?
+41	Используется для эвакуации из терпящего бедствие корабля.	Used to evacuate from a ship in distress.

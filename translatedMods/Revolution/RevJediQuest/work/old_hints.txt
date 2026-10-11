@@ -1,0 +1,29 @@
+2	Здорово, <0>! Как жизнь?	Hey, <0>! What's up?
+3	Не до ваших просьб сейчас. Галактику надо спасать!	Not up to your requests now. The galaxy must be saved!
+4	Рассказывай. Что за просьба?	Tell me. What's the request?
+6	Было всё прекрасно, пока чья-то немытая морда на экране не появилась. Чего надо?	Everything was fine until someone's unwashed face appeared on the screen. What do you want?
+7	Зачем так грубо? Мы не хотим открывать огонь. Впрочем, всё сейчас от тебя зависит...	Why so rude? We don't want to open fire. However, it's all up to you...
+8	Спокойно, <0>. Всё будет хорошо. Сейчас ты просто отдашь нам ту вещичку, которую тебе передал некто <clr>Иван Кенобенко<clrEnd>. И тогда никто не пострадает.	Keep calm, <0>. Everything will be fine. Now you just give us the little thing that someone <clr>Ivan Kenobenko<clrEnd> gave you. And then no one gets hurt.
+9	Это твой последний шанс, <0>. Лучше отдай её нам. Жизнь ведь дороже...	This is your last chance, <0>. Better give it to us. Life is more precious...
+10	Я не понял, вы на что вообще намекаете!?	I don't understand, what are you hinting at!?
+11	Я не понимаю. Вы о чём?	I don't understand. What are you talking about?
+12	Отдать? Ах, отдать?! *покрыть семиэтажным матом*	Give? Ah, give away? *drow them in seven-story fucks*
+13	Здравствуй. Если не ошибаюсь, <0>?	Hello. If I'm not mistaken, <0>?
+14	Странно. Тогда прошу прощения за беспокойство.	Strange. Then I apologize for the inconvenience.
+15	Как я рад нашей встрече! Я искал тебя. И я был уверен, что Сила приведёт меня к тебе!	How glad I am to meet you! I've been looking for you. And I was sure that the Force would lead me to you!
+17	Вовсе нет! Я говорю правду! Постой! Не отключай связь! Нет!....	Not at all! I am telling the truth! Wait! Don't disconnect! Not!....
+18	Кто ты и зачем меня искал?	Who are you and why were you looking for me?
+19	Сочувствую. А я какое отношение к этому имею?	Excuse me. And what do I have to do with it?
+22	И тебе привет. Жизнь прекрасна, скоро вот с доминаторами покончу. Чего хотел?	Hello to you too. Life is beautiful, soon I will finish with the dominators. What did you want?
+24	Но я на самом деле её потерял!	But I actually lost it!
+25	Канай отсюда, рога поотшибаю, редиска!	Get outta here, I'll knock your horns off, radish!
+26	Сейчас выброшу её за борт. Держи, <0>. И, прошу тебя, сдержи своё обещание.	I'll throw it overboard now. Hold on, <0>. And please, keep your promise.
+31	Здравствуй, <0>. Да хранит тебя Сила! Позволь обратиться к тебе c просьбой.	Hello, <0>. May the Force keep you! Let me make a request to you.
+32	С доминаторами ты можешь и не покончить. Если умрёшь... из-за какой-нибудь глупости...	You may not be done with the dominators. If you die... because of some stupidity...
+33	Ты всё понимаешь! И у тебя осталось всего пять секунд до возможной гибели. Уже четыре... три... два...	You understand everything! And you only have five seconds left before your eventual death. Already four... three... two...
+34	Теперь мы обречены...	Now we are doomed...
+36	Я не отдам вам то, что вам не принадлежит. И не смейте мне угрожать, а то ведь я и разозлиться могу	I will not give you what is not yours. And don't you dare threaten me, otherwise I might get angry
+38	Не знаю такого. Ошибочка вышла	I don't know him. Mistake came out
+41	Тут такое дело... потерял я её	It's like this... I lost it
+42	Сила не обманула тебя. Я тот человек, который тебе нужен. Забирай свой меч!	The Force did not deceive you. I am the person you need. Take your sword!
+48	Джедайский световой меч. Синий.	Jedi lightsaber. Blue.

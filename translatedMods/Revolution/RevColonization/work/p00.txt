@@ -1,0 +1,38 @@
+6	Epidemic details
+8	Set up the sale of goods from the warehouse
+9	<color=0,48,192>Turn off</color> the sale of goods from the warehouse
+10	Let's train merchants
+11	Change sales volume from warehouses
+12	No, not until we train anyone
+14	Increase by <color=0,48,192>10%</color>
+15	Reduce by <color=0,48,192>10%</color>
+17	Reduce price
+18	Increase price
+25	I want to sell you one thing
+28	I won't sell anything
+30	Deal canceled
+34	No, the amount is too big for me, another time
+44	Now the products are expensive, I will share them
+52	I will donate some money
+53	I think medicines are never superfluous
+54	<0> times more
+56	<0> times less
+57	Those in need will receive <0> cr from me
+58	<0> tons
+102	Expand the production of <color=0,48,192>alcohol</color>
+103	Expand the production of <color=0,48,192>luxury</color>
+104	We won't produce anything yet
+105	Not yet, maybe I can help you later
+108	Yes, I weighed everything, close the base
+109	I'm talking about a find
+113	Disconnect
+114	I need information about the progress of production <0>
+121	Warehouse management
+123	Production speed
+124	Increase production by one ton
+127	I changed my mind, let the goods lie in your warehouse
+129	Close production <0>
+131	Protoplasm
+133	Satellite
+136	Copper figurine of an unknown ranger
+138	Z-transmitter

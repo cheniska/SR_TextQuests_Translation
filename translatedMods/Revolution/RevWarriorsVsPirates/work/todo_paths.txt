@@ -1,0 +1,4 @@
+1	Script/Mod_RevWarriorsVsPirates/N1
+2	Script/Mod_RevWarriorsVsPirates/N3
+3	Script/Mod_RevWarriorsVsPirates/N2
+4	Script/Mod_RevWarriorsVsPirates/D1

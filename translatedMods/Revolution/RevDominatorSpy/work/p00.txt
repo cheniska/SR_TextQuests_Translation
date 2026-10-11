@@ -1,0 +1,4 @@
+7	Flying out
+8	No, I'm not interested
+10	Please wait, all data will be collected soon
+28	PIRS-scanner

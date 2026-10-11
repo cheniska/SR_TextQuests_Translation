@@ -1,0 +1,8 @@
+Уважаемый <Player>!	Dear <Player>!
+Продукты	Foodstuffs
+Минералы	Minerals
+Медикаменты	Medical Supplies
+Наркотики	Narcotics
+Оружие	Weapons
+Алкоголь	Alcohol
+Роскошь	Luxury

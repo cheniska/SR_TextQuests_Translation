@@ -1,0 +1,16 @@
+1	Sizer
+2	A level two micromodule. Increases the dimensions and pressure in the engine's filter chambers, resulting in a substantial speed increase thanks to faster filtration of incoming fuel. Scientists have never managed to make it work properly in engines of <color=50,255,200>non-dominator</color> origin.
+3	Size: <clr>+30<clrEnd>%
+4	A level two micromodule. Removes some elements from an energy weapon and replaces the most essential ones with lighter analogs. As a result, the device becomes <clr>60<clrEnd>% lighter, but loses some power.
+5	Size: <clr>-60<clrEnd>%
+6	Kamikaze
+7	A level two micromodule. Adds an afterburner function and opens the remaining weapon slots, while closing the artifact, scanner and shield generator slots. When properly installed in an engine, a sharp increase in speed has been observed in exchange for a severe drop in jump range.
+9	A level two micromodule. Once built in, it ensures a more even distribution of energy beams. By increasing size, it helps to drive noise out of the shield generator's system units more effectively. When installed in a grip, it removes the power control system, making the grip weaker in exchange for pull range. Cannot function in <color=50,255,200>Coalition</color> forces' equipment.
+11	Cryptonus
+12	A level one micromodule. Builds cryptonic structures into the hull, increasing its durability. The structures occupy two artifact slots and take up a little extra space on the ship, so the hull's usable volume decreases and its cost increases.
+13	Hull size: <clr>-5%<clrEnd>
+14	AntiArt
+15	A level one micromodule. Closes two artifact slots, placing two weapon slots in them. Compatible with the hulls of <color=255,70,0>maloqs</color>, <color=220,140,245>faeyans</color> and <color=255,215,25>gaalians</color>.
+16	Buzzer
+17	A level one micromodule. Built into the mechanical part of a radar, greatly increasing its power. Compatible only with <color=50,255,200>dominator</color> equipment.
+18	Radar range: <bonRadar> million km

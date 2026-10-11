@@ -1,0 +1,13 @@
+1	ShipInfo/AddInfo/CustomInfos/RevDiggersInfo/Description
+2	ShipInfo/AddInfo/CustomInfos/RevDiggersInfo/OnActCode/14/24/05/03/04/03/06/06
+3	UselessItems/RevDiggersFakeSatellite0/Text
+4	UselessItems/RevDiggersFakeSatellite0/Text
+5	UselessItems/RevDiggersFakeSatellite1/Text
+6	UselessItems/RevDiggersFakeSatellite2/Text
+7	UselessItems/RevDiggersFakeSatellite3/Text
+8	UselessItems/RevDiggersFakeSatellite4/Text
+9	UselessItems/RevDiggersFakeSatellite5/Text
+10	UselessItems/RevDiggersFakeSatellite6/Name
+11	UselessItems/RevDiggersFakeSatellite6/Text
+12	UselessItems/RevDiggersFakeSatellite7/Name
+13	UselessItems/RevDiggersFakeSatellite7/Text

@@ -1,0 +1,5 @@
+1	simulator
+2	Cybersport
+3	action horror
+5	You must defeat all rivals in an esports tournament for the strategy game "Beastly Freaks 13: Happy End". The "World Rulezzz Cyber Game" organizing committee is already waiting for you.
+6	You must help the police solve a series of horrifying mysterious crimes.

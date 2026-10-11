@@ -1,0 +1,1 @@
+1	<Player>, we are informing you that our squad is going to liberate the <Star> system. Command has allocated quark bombs for this purpose. The operation is scheduled to begin on <Date>.<br>We would be glad if you joined the operation.

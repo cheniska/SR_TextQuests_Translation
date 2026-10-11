@@ -1,0 +1,12 @@
+1	<color=48,236,248>Torsion Reactor</color>
+2	A sample of dominator equipment, taken apart and put back together by Coalition scientists with a screwdriver and a soldering iron. Some parts and functions have been lost.
+3	<color=48,236,248>Tech Detector</color>
+4	A sample of dominator equipment, taken apart and put back together by Coalition scientists with a screwdriver and a soldering iron. Some parts and functions have been lost. May jam <clr>radar<clrEnd>.
+5	<color=48,236,248>Dianode</color>
+6	A sample of dominator equipment, taken apart and put back together by Coalition scientists with a screwdriver and a soldering iron. Some parts and functions have been lost.
+7	<color=48,236,248>Pixelyte</color>
+8	<color=48,236,248>Sensotron</color>
+9	<color=48,236,248>Stackbarrel</color>
+10	A sample of dominator equipment, taken apart and put back together by Coalition scientists with a screwdriver and a soldering iron. Some parts and functions have been lost. A poor-quality fuel feed system reduces <clr>engine speed<clrEnd>.
+11	<color=48,236,248>Menthoprobe</color>
+12	A sample of dominator equipment, taken apart and put back together by Coalition scientists with a screwdriver and a soldering iron. Remarkably, a <clr>fully functional<clrEnd> model despite the absence of some components.

@@ -1,0 +1,39 @@
+5	Nanocaniphilic
+6	Argonoimpulsive
+7	Rentgenhotronic
+8	Ultrabosonic
+9	<color=49,239,255> assembly droid</color>
+32	Technolytic Shield Generator I-III
+33	Technolytic Shield Generator I
+35	Technolytic Shield Generator II
+36	Reliability: <clr>+17%<clrEnd>
+37	Technolytic Shield Generator III
+38	Realiability: <clr>+33%<clrEnd>
+39	Technolytic Gripper I-III
+40	Technolytic Gripper I
+41	Technolytic Gripper II
+42	Reliability: <clr>+17%<clrEnd>
+43	Technolytic Gripper III
+44	Reliability: <clr>+33%<clrEnd>
+45	Technolytic Radar I-III
+46	Technolytic Radar I
+47	Technolytic Radar II
+48	Reliability: <clr>+17%<clrEnd>
+49	Technolytic Radar III
+50	Reliability: <clr>+33%<clrEnd>
+51	Technolytic Scanner I-III
+52	Technolytic Scanner I
+53	Technolytic Scanner II
+54	Reliability: <clr>+17%<clrEnd>
+55	Technolytic Scanner III
+56	Reliability: <clr>+33%<clrEnd>
+57	Twin Engine I-III
+58	Twin Engine I
+60	Twin Engine II
+61	Twin Engine III
+62	Twin Fuel Tank I-III
+63	Twin Fuel Tank I
+65	Twin Fuel Tank II
+66	Twin Fuel Tank III
+67	</color>Uncontrollable Killer
+70	</color>Unrestrained Killer

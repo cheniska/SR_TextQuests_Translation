@@ -1,0 +1,12 @@
+1	MicroModuls/KlingEquip1/Name
+2	MicroModuls/KlingEquip1/Text
+3	MicroModuls/KlingEquip10/Name
+4	MicroModuls/KlingEquip10/Text
+5	MicroModuls/KlingEquip11/Name
+6	MicroModuls/KlingEquip11/Text
+7	MicroModuls/KlingEquip12/Name
+8	MicroModuls/KlingEquip13/Name
+9	MicroModuls/KlingEquip2/Name
+10	MicroModuls/KlingEquip2/Text
+11	MicroModuls/KlingEquip7/Name
+12	MicroModuls/KlingEquip7/Text

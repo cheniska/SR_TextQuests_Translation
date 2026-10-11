@@ -1,0 +1,9 @@
+2	SetName(item, 'Probe '+Name(item)+'-'+Rnd(1,99));
+3	High-orbit class <color=255,239,99>D</color> satellite. Performs surface reconnaissance of any type of simple terrain.<br>Average reliability.
+5	Low-orbit class <color=255,239,99>D</color> satellite. Surveys flat areas. Guaranteed long service life.
+6	High-orbit class <color=255,239,99>C</color> satellite. Surveys land and mountainous terrain. Average reliability.
+7	Low-orbit class <color=255,239,99>C</color> satellite. Scans deep-sea areas and the adjacent land excellently. Requires constant repairs.
+8	Class <color=255,239,99>B</color> spy satellite. Used by special services. Effective at surveying any terrain, but has low reliability.
+9	Low-orbit class <color=255,239,99>B</color> satellite. Scans mountain ranges and adjacent territories excellently.<br>Practically eternal.
+11	Low-orbit class <color=255,239,99>A</color> satellite. Makes periodic dives for a thorough study of the planet's liquid or gaseous environment. Durability is, naturally, not high.
+13	Class <color=255,239,99>A</color> military satellite.<br>Almost equally effective at surveying any type of terrain. High reliability.

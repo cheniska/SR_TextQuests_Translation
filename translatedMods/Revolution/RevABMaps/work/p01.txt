@@ -1,0 +1,14 @@
+1	There are ordinary hyperspatial bubbles, and then there are ones you can hardly find a name for. This particular one has repeatedly come up in conversations among experienced pilots as one of the most baffling and unpredictable places. For that, in the end, it was nicknamed <color=0,69,231>"Nonsense"</color>.
+3	Battles in this region of hyperspace have always been famed for their intensity and ruthlessness toward newcomers from the explored arm of the Galaxy. No wonder this bubble was named after one of the most turbulent phenomena of boundless space.
+5	Being a discoverer is sometimes a thankless job. Thinking the same, the discoverer of <color=0,69,231>"Strolokobs"</color> named the newly found bubble after a timid little maloq beast, then immediately activated his subportal and was gone.
+6	Perhaps you will be bolder and will be able to study this intriguing place more closely?
+7	Strolokobs
+8	Singing merry songs, the gallant explorers flew into this ill-fated bubble... They flew in, and stayed there forever.
+9	The unsolved mysteries of <color=0,69,231>"Tachanka"</color> still await their hero, hiding within them either unseen treasures or ominous prophecies of the coming end of the world...
+10	Tachanka
+11	A tangled place, unnatural to any humanoid accustomed to classical space, whose origin the greatest gaal minds in the Galaxy are still trying to grasp. Perhaps you will manage to penetrate its ancient secrets?
+12	One way or another, you will first have to deal with the inhospitable inhabitants of the <color=0,69,231>fifth dimension</color>.
+13	Fifth Dimension
+14	Although some orthodox scientists believe that the laws of evolution in parallel universes must be diametrically opposite to ours, some inexplicable phenomena of hyperspace simply reject that concept.
+15	This bubble, too, made a real sensation in the scientific community in its day. What is this giant spider? Is it sapient? Is it a living creature? A dead one? Is this form merely an artificial, grotesque reflection of a being from our plane of reality? No convincing answers to any of these questions have been found to this day...
+16	Spider Lair

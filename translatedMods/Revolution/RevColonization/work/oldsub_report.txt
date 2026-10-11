@@ -1,0 +1,13 @@
+19	токены/числа/длина	Продажа <0> со склада <color=0,48,192>включена</color>.<br>   - Продав => Sale <0> from stock <color=0,48,192>on</color>.<br> - Sell <1><color=0
+26	раса с заглавной	На планете <0> бушует эпидемия. Проживающие там мензолы страдают от ре => An epidemic is raging on planet <0>. The Menzols living there are suff
+31	раса с заглавной	Мензолы - последняя надежда Галактики. Экспедиция на планете <0> при с => Menzols are the galaxy's last hope. An expedition to planet <0>, in co
+33	токены/числа/длина	Сегодня состоялось открытие медицинского центра имени рейнджера <color => The Ranger Medical Center <color=0,48,192><0></color> was opened today
+61	раса с заглавной	Сегодня исследователи с планеты <0> сделали любопытное открытие в обла => Today, researchers from planet <0> made a curious discovery in the fie
+62	раса с заглавной	Персонал планетарного центра на планете <0> обнаружил сенсационную нах => The personnel of the planetary center on planet <0> has discovered a s
+63	раса с заглавной	По последним данным, на планете <0>, где в настоящий момент располагае => According to the latest information, an agrarian revolution has begun 
+64	раса с заглавной	Срочные новости с планеты <0>! Впервые представитель мензольской расы  => Breaking news from planet <0>! For the first time, a representative of
+69	раса с заглавной	Гаальское правительство отзывает своих специалистов с колонизационной  => The Gaalian government is withdrawing its specialists from the coloniz
+70	раса с заглавной	Сегодня на колонизационной базе планеты <0> произошла трагедия: был вз => Today, a tragedy occurred at the colonization base of planet <0>: the 
+71	раса с заглавной	Малокские власти подали жалобу в Галактический Совет на рейнджера <Pla => Maloqian authorities have filed a complaint with the Galactic Council 
+73	токены/числа/длина	Торговая экспансия мензольской расы продолжается! Благодаря усилиям ис => The trade expansion of the Menzol race continues! Thanks to the effort
+75	раса с заглавной	Сегодня на планете <0> был ликвидирован последний очаг заражения гранэ => Today, planet <0> was eradicated from the last outbreak of the Granek 

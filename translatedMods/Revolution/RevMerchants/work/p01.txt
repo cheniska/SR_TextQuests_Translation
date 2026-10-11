@@ -1,0 +1,42 @@
+1	Oh, Ranger, we've been waiting for you. Our loaders will move your containers to the warehouses in a flash. So, hand over the declaration... Aha. Well, everything is in order. Your <Money> cr. is already in your account. Have a nice day!
+2	Oh, Ranger! You... You're even ahead of schedule. The customer of your cargo reports that they thank you for your promptness and are transferring a bonus to your account, in the amount of <Money> cr. Our loaders have already set to work, and we wish you a good day.
+3	Ranger, according to our data, you should have delivered this cargo several days ago! The customer reports that a penalty is being deducted from your payment. The remaining sum of <Money> cr. has been transferred to your account. All the best.
+4	Ranger, do you know how late this delivery is?! You're getting in the way of the e-co-no-my! Our loaders will unload the delivered goods now, but don't even count on a reward - all of it has been applied to paying off your debt to the Business Center Network. Dismissed!!
+5	We regret to inform you that, owing to your failure to deliver as per the contract concluded with you, a penalty in the amount of <clr>the value of the goods you were transporting<clrEnd>, multiplied by the Corrective Coefficient (CC), will be deducted from you
+6	Business Center Network.
+7	So, at the moment we have the following contracts:
+8	Point of departure: <PlanetFrom>
+9	Point of arrival: <PlanetTo>
+10	Time for transport: <Days>
+11	Cargo type: <Type>
+12	Cargo mass: <Weight> t.
+13	Reward: <Money> cr.
+14	Feel free to choose whichever contract you like!
+15	Unfortunately, contracts are scarce at the moment. Come back later.
+16	So, the currently active contract is:
+17	Identifier: 35.82.uy7-1
+18	Time remaining for transport: <Days>
+19	Despite the conclusion of a contract with clearly stipulated terms, you have decided to breach the agreement. We inform you that we are taking measures to exert pressure on you.
+20	Sincerely, the Administration.
+21	Delivery from <FromPlanet> (<FromStar> system, sector <FromSector>) to <ToPlanet> (<ToStar> system, sector <ToSector>). Days left - <Days>.
+22	And also, if you're interested, you, like many pilots, are entitled to apply for a vacancy as one of our couriers. We always have great demand for them!
+23	What vacancy are you talking about?
+24	I've delivered the cargo as ordered...
+25	So, vacancy-vacancy-vacancy...<br><br>Aha, here it is!<br><br>Working as a courier is a chance to work whenever you have free time! You set your own schedule! You take orders when it suits you and get paid after each order!<br>What's more, if you deliver fast, you can get tips from customers.<br>The most competit... You're not listening at all, are you? Fine, never mind.<br><br>Here's the contract. Yes, the point is to transport cargo between planets on time. Are you going to sign it already or not?!
+26	Take the second contract
+27	Take the first contract
+28	Thanks! I'll go warm up the engines
+29	I think I'm not ready to take on contracts yet
+30	Yeah, got it...
+31	View information about the current order
+32	I want to work as a courier
+33	Excellent. We've entered you in the database. You can pick an order right now and get started.
+34	Excellent! The cargo is already being prepared, and the customer has been notified that transport has begun. Good flight, <Player>!
+35	Nah, I don't feel like it yet
+36	Well, hand it over
+37	Thank you...
+38	All the best
+39	Take the third contract
+40	Items
+41	Explosives
+43	Miniature explosive charge, detonates remotely.

@@ -1,0 +1,5 @@
+Отлично	Great
+Ладно	All right
+Назад	Back
+Конец связи	Over and out.
+Был рад помочь!	My pleasure!

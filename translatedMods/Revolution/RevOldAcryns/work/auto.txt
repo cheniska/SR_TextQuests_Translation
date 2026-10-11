@@ -1,0 +1,8 @@
+Скорость двигателя: <bonSpeed> ед.	Engine speed: <bonSpeed>
+Дальность прыжка: <bonJump> пк.	Jump range: <bonJump> pc
+Мощность осколочного оружия: <bonWSplinter> ед.	Splinter weapon power: <bonWSplinter> units
+Мощность ракетного оружия: <bonWMissile> ед.	Missile weapon power: <bonWMissile> units
+Эффективность дроида: <bonDroid> ед.	Droid effectiveness: <bonDroid>
+Мощность энергетического оружия: <bonWEnergy> ед.	Energy weapon power: <bonWEnergy> units
+Мощность защитного поля: <bonDef><clr>%<clrEnd>	Shield power: <bonDef><clr>%<clrEnd>
+Броня корпуса: <bonHull> ед.	Hull armor: <bonHull>

@@ -1,0 +1,2 @@
+8	Prom
+10	Size: <clr>+40%<clrEnd>

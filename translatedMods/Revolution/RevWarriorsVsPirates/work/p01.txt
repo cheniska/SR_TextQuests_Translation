@@ -1,0 +1,4 @@
+1	According to unconfirmed information, a sabotage is being prepared in the #0# system. An anonymous source reports that a group of pirates plans to attack military base #1#. Despite the lack of direct evidence, the government of planet #2# has already ordered the base's security reinforced.
+2	Today an attack by pirates on military base #0# was repelled! The government of planet #1# expresses special gratitude to the representatives of Dzuhallag for the timely intelligence that made it possible to prepare the defense. The pirate clan denies any involvement in the attack.
+3	A pirate attack destroyed the military base in the #0# system. A Galactic Council representative made an official statement about tightening security at other strategically important facilities. An internal investigation of the authorities of planet #1# is under way.
+4	Ranger! The base is under attack! Instead of lounging around here, help our fighters deal with the pirates!

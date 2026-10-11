@@ -1,0 +1,15 @@
+1	<Player>, it's me again. Well, the present is ready: I reconstructed a handheld phaser from memory, and now it's yours. I'll toss it out the airlock now, and you fly over and pick it up near the base.<br>See you!
+2	No, I don't need any of that. I have an escape pod. It needs to be cut open, it's jammed.
+3	Alive, you could say... Come back in a couple of days for your reward. Meanwhile I'll get back on my feet and settle in at my new place.
+4	Doctor, how are you?
+5	    You, <Player>, are at a pirate station. No laws apply here, and you can carry out any buying and selling deals in peace, fearing no one. We have free sale of dope and weapons. You can take a look at our equipment, we have plenty of junk of all kinds.<br>Interested in special services?<br>For money we'll change your citizenship...
+6	This one, in the hold? Interesting. And how expensive! Maybe we should open it carefully?
+7	Done. Pull the "prisoner" out of there.
+8	You ask a lot of questions. Drink up!
+11	News from the scientific world:<br> <0> in the <1> system has been ceremonially renamed Science Base <2>! However, for the next couple of days the scientists intend to devote themselves to synthesizing alcohol-containing substances, which are later planned to be used for wiping ultra-precise equipment, so antidominator research is suspended. According to our analysts' calculations, renaming the station cost the Interstellar Coalition <3> cr.
+12	Aaaaaaah!!! I've been sitting for two days in this damned contraption, and it doesn't seem to open either from the inside or from the outside! Take me... no, the military will lock me up or even shoot me for what I did... Take me to a pirate base. In return you'll get from me... Damn, I have nothing... Uh... Ah, you'll get a cool gun. Damn, damn, damn! There's no feedback in this tin can... Anyway, Ranger, I'm counting on your greed - help me, and I'll help you... I'm in an escape pod. At the place where <clr>Science Base<clrEnd> <0>... used to be...
+13	Breaking news!<br> An explosion occurred today in the <0> system: a series of explosions destroyed Science Base <1>. Experts consider an explosion in the fuel compartment the preliminary version of the tragedy.
+14	Well, thanks...
+15	Hey, <Player>! Fly closer to the pirate base. Someone here wants to talk to you
+16	<Player>, it's me again. Well, the present is ready: I reconstructed a handheld phaser from memory, and now it's yours. I'll toss it out the airlock now, and you fly over and pick it up near the base. See you!
+18	Used to evacuate from a ship in distress.
