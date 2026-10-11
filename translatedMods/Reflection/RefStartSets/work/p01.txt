@@ -1,0 +1,113 @@
+1	A kit aimed purely at gaining speed. The weapons are long-range, so weak defense is no great hindrance in using this kit.
+2	Bomber
+3	Stunning Bomber
+4	Energy Bomber
+5	Mixed Bomber
+6	Ultrabomber
+7	Keller Charmer
+8	Wormhole Regular
+9	Tranclucator Charmer
+10	Combat Tranclucator Charmer
+11	Defensive Charmer
+12	Ahem...<br>Not a bad choice for those who like shooting from afar. A couple of missile launchers and suitable equipment. You are unlikely to feel the heat of battle, but do you need it?
+13	Improved Trade
+14	Best Ranger
+15	Arch-Best Ranger
+16	Wormhole Researcher
+17	No, I think I'll look at the list once more
+18	Yes, I'm sure, I'll take it!
+19	I'll be going, I suppose... Still have the Galaxy to save...
+20	One of the cheapest kits (for the government, of course).<br>Ahem, what was I saying?...<br>The hull is quite roomy, the pair of Tretons has decent damage and a very long range. In the ship's medicine chest you will find a "Trade Mark" stimulator, so we do not advise you to fight any time soon. Overall this kit has decent defense, so you shouldn't suffer much from dominator attacks.
+21	Best Ranger (repair kit)
+22	Pirate Missile
+23	Smuggler
+24	Planet Explorer
+25	Government Agent
+26	It seems that in putting this kit together the military gentlemen relied entirely on their own experience of fighting pirates.<br>Because this kit allows nothing else. For fighting dominators you need weapons with more stable damage than Caphasitors. There are also no artifacts that boost weapons or provide protection...<br>Still, it's not for me to judge.<br>Enjoy.<br>And please, don't ask why it is on that list.
+27	A good warrior's choice. Unfortunately, defense has been sacrificed to destroying the enemy, so alas...<br>You will have to repair the hull often.
+28	A kit purely for a special agent.<br>An excellent engine, a couple of missile launchers... A significant gain in speed, naturally.<br>You won't see acryn equipment here, just as on the Ironclad... And why would a special agent need it? To shoot down dominators?<br>I got carried away, sorry
+29	This kit can safely be called "Might and Main."<br>Nothing will change, quite the opposite.<br>The emphasis is on damage, with a little defense.<br>These weapons will certainly serve you for a long time!
+30	Hm...<br>A pair of long-range Tretons...<br>Overall, a trading kit (certainly not for war).<br>With that, good luck in this difficult business.
+31	Breakdowns? Forget about them.<br>With this kit you definitely won't have to get repaired.<br>Although personally I see no practical sense in it.<br>There will always be more damage anyway!<br>Oh well, not my concern...
+32	An interesting choice.<br>If you want to test the capabilities of this kit, fly up close to any star.<br>Just don't forget to patch up the Reflector.
+33	A kit purely for those who love to shoot at enemies from a billion kilometers away.<br>Only missiles, only protection from the same missiles. Nothing else is needed!
+34	An aggressor's kit. Only attack, no defense.<br>Then again, defense isn't needed if the enemy falls on the very first day.
+35	A kit for total defense. The maximum protection the Coalition can provide at this time.
+36	A scout's kit... Speed and defense...<br>I don't know, though, how and where you could use it, but all right.
+37	A kit for big fans of technology, plus assembly... And disassembly.
+38	A trading kit, with decent speed too. You will make it to the planet, that's for sure...
+39	A bomber's kit. A set of bombs and detonators. It will surely be beautiful.
+40	Energy bomber...<br>If the enemy happens to be strong, just knock out their equipment with bombs and shoot this helpless heap of scrap metal.
+41	A kit that is sort of a bomber's, but sort of not. Leave it in front of a swarm of enemies and watch them drift helplessly in space.
+42	A kit assembled from all the variations of bombers. Just pelt the enemy with bombs and watch this beauty
+43	A bomber's kit, but especially powerful... thanks to more powerful bombs.<br>Just don't forget to get far away.
+44	A kit for those who aren't afraid of an invasion of lovers of exploring everything that falls into their mischievous manipulators.<br>Note that this kit has almost no weapons!
+45	This kit is for those who think it's better to send helpers into battle while taking the hits yourself...<br>Or for the hero who covers the gaps in the Coalition's defense with their chest, or, to be more precise, their hull.
+46	A kit for those who think five guns is good and fourteen is even better!
+47	A bit of humor is always useful<br>A kit purely for those who like to command rather than fight.<br>A few tranclucators and a set of weapons for them.
+48	The so-called "best ranger" kit.<br>I won't say it's really the best of the best, but... Okay?<br>Use it in good health. Just don't tell anyone you got this kit - you aren't the best ranger yet, and we could get into trouble...
+49	A slightly improved trading kit.<br>A few goods to get started, this and that... A little of everything, in short!
+50	A kit specially for the wormhole researcher - several weapons that, by our statistics, are recognized as the best for fighting in hyperbubbles, and artifacts to stimulate the appearance of those very wormholes.<br>Maybe you'll dig up something useful there...
+51	A kit for a ranger who never leaves the BH, 24/7<br>Several weapons that are, by our statistics, the best for the BH, and several artifacts.<br>What could be better, <PlayerFull>?
+52	The arch-best ranger?<br>Well, we don't even know what to give the arch-best ranger.<br>Except maybe one little cannon.<br>In fact, they themselves are more than enough, and most likely this gift will be of no use to them.
+53	There are several kits:<br>-Repair<br>-Fragmentation<br>-Pygamore<br>-Ironclad<br>-Dumbo<br>-Dandy<br>-Fast<br>-Pirate<br>-Energy<br>-Extreme Energy<br>-Missile<br>-Attack<br>-Defense<br>-Recon<br>-Young Technician<br>-Fast Trade<br>-Bomber<br>-Stunning Bomber<br>-Electric Bomber<br>-Mixed Bomber<br>-Ultrabomber<br>-Keller Charmer<br>-Tranclucator Charmer<br>-Combat Tranclucator Charmer<br>-Defensive Charmer<br>-Best Ranger<br>-Arch-Best Ranger<br>-Improved Trade<br>-Wormhole Researcher<br>-Wormhole Regular<br>Which do you prefer?
+54	So, your choice:<br><br>Repair Hull<br>Treton<br>Junior Droid<br>Nanitoids<br>And a few less important things<br><br>Do you agree to take this configuration? Note that you will not be able to use this program again!
+55	So, your choice: <br><br>Myoplasmic Hull<br>Two Multiresonators<br>Fragmentation Cannon<br>Techdisruptor<br>Screw-on<br>And a few less important things<br><br><br>Do you agree to take this configuration? Note that you will not be able to use this program again!
+56	So, your choice: <br><br>Dumbo<br>Three Missile Launchers<br>Matter Psi-Accelerator<br>Oblivion Connector<br>and a few less important things<br><br>Do you agree to take this configuration? Note that you will not be able to use this program again!
+57	So, your choice: <br><br>Pygamore Hull<br>Three Missile Launchers<br>Rals<br>Rocketang<br>and a few less important things<br><br>Do you agree to take this configuration? Note that you will not be able to use this program again!
+58	So, your choice: <br><br>Fast Hull<br>Three Tretons<br>Antigravitazer<br>Nozzlenator<br>Matter Psi-Accelerator<br>and a few less important things<br><br>Do you agree to take this configuration? Note that you will not be able to use this program again!
+59	So, your choice: <br><br>Ironclad Hull<br>Two Tretons<br>Multiresonator<br>a'Egis<br>Antigravitazer<br>and a few less important things<br><br>Do you agree to take this configuration? Note that you will not be able to use this program again!
+60	So, your choice: <br><br>Repair Hull<br>Multiresonator<br>Two Electronic Cutters<br>Polarizer<br>a'Egis<br>and a few less important things<br><br>Do you agree to take this configuration? Note that you will not be able to use this program again!
+61	So, your choice: <br><br>Dandy Hull<br>Two Tretons<br>Probability Analyzer<br>Prolonger<br>Scanner Cache<br>and a few less important things<br><br>Do you agree to take this configuration? Note that you will not be able to use this program again!
+62	So, your choice: <br><br>Myoplasmic Hull<br>Turbogravitron<br>Two Fluxes<br>Reflector<br>Fiver<br>and a few less important things<br><br>Do you agree to take this configuration? Note that you will not be able to use this program again!
+63	So, your choice: <br><br>Fast Hull<br>Treton<br>Black Goo<br>Matter Psi-Accelerator<br>and a few less important things<br><br>Do you agree to take this configuration? Note that you will not be able to use this program again!
+64	So, your choice: <br><br>Dumbo Hull<br>Three Missile Launchers<br>Booster<br>Rals<br>and a few less important things<br><br>Do you agree to take this configuration? Note that you will not be able to use this program again!
+65	So, your choice: <br><br>Myoplasmic Hull<br>Two Fluxes<br>Fragmentation Cannon<br>Three Tranclucators and a set of weapons for them<br>and a few less important things<br><br>Do you agree to take this configuration? Note that you will not be able to use this program again!
+66	So, your choice:<br><br>Fast Hull<br>Treton<br>Matter Psi-Accelerator<br>Quark bombs<br>and a few less important things<br><br>Do you agree to take this configuration? Note that you will not be able to use this program again!
+67	So, your choice: <br><br>Myoplasmic Hull<br>Two Multiresonators<br>Fragmentation Cannon<br>Three Tranclucators and a set of weapons for them<br>and a few less important things<br><br>Do you agree to take this configuration? Note that you will not be able to use this program again!
+68	So, your choice: <br><br>Myoplasmic Hull<br>Two Fluxes<br>Multiresonator<br>Fragmentation Cannon<br>and a few less important things<br><br>Do you agree to take this configuration? Note that you will not be able to use this program again!
+69	So, your choice: <br><br>Fast Hull<br>Treton<br>Matter Psi-Accelerator<br>Neutron bombs<br>and a few less important things<br><br>Do you agree to take this configuration? Note that you will not be able to use this program again!
+70	So, your choice: <br><br>Fast Hull<br>Treton<br>Matter Psi-Accelerator<br>Stun bombs<br>and a few less important things<br><br>Do you agree to take this configuration? Note that you will not be able to use this program again!
+71	So, your choice: <br><br>Fast Hull<br>Treton<br>Matter Psi-Accelerator<br>Several different bombs<br>and a few less important things<br><br>Do you agree to take this configuration? Note that you will not be able to use this program again!
+72	So, your choice: <br><br>Myoplasmic Hull<br>Treton<br>Matter Psi-Accelerator<br>Several transfactorial beacons<br>and a few less important things<br><br>Do you agree to take this configuration? Note that you will not be able to use this program again!
+73	So, your choice: <br><br>Myoplasmic Hull<br>Two Flow Blasters<br>Several Subportals<br>Junior Droid<br>and a few less important things<br><br>Do you agree to take this configuration? Note that you will not be able to use this program again!
+74	So, your choice: <br><br>Repair Hull<br>Two Electronic Cutters<br>Junior Droid<br>Nanitoids<br>and a few less important things<br><br>Do you agree to take this configuration? Note that you will not be able to use this program again!
+75	So, your choice: <br><br>Fast Hull<br>Treton<br>Prolonger<br>Hypergenerator<br>and a few less important things<br><br>Do you agree to take this configuration? Note that you will not be able to use this program again!
+76	So, your choice: <br><br>Dandy Hull<br>Two Tretons<br>Hypergenerator<br>Probability Analyzer<br>and a few less important things<br><br>Do you agree to take this configuration? Note that you will not be able to use this program again!
+77	So, your choice: <br><br>Invincible Hull<br>Three Tranclucators and a set of weapons for them<br>Two Turbogravitrons<br>Three Multiresonators<br>and a few less important things<br><br>Do you agree to take this configuration? Note that you will not be able to use this program again!
+78	So, your choice: <br><br>Myoplasmic Hull<br>Two Fluxes<br>Fragmentation Cannon<br>a'Egis<br>Swallower<br>and a few less important things<br><br>Do you agree to take this configuration? Note that you will not be able to use this program again!
+79	So, your choice: <br><br>Pirate Acryn Hull<br>Two Caphasitors<br>Esodapher<br>Husker<br>Oblivion Connector<br>and a few less important things<br><br>Do you agree to take this configuration? Note that you will not be able to use this program again!
+80	So, your choice: <br><br>Fast Hull<br>Treton<br>Matter Psi-Accelerator<br>EM bombs<br>and a few less important things<br><br>Do you agree to take this configuration? Note that you will not be able to use this program again!
+81	So, your choice: <br><br>Myoplasmic Hull<br>Two Multiresonators<br>Fragmentation Cannon<br>Three Tranclucators<br>and a few less important things<br><br>Do you agree to take this configuration? Note that you will not be able to use this program again!
+82	So, your choice: <br><br>Myoplasmic Hull<br>Three Flow Blasters<br>Several Subportals<br>Junior Droid<br>and a few less important things<br><br>Do you agree to take this configuration? Note that you will not be able to use this program again!
+83	Are you sure you want to take the best kit for the best ranger?
+84	So, your choice:<br><br>Repair Hull<br>Three Tranclucators and a set of weapons for them<br>Two Turbogravitrons<br>Three Multiresonators<br>and a few less important things<br><br>Do you agree to take this configuration? Note that you will not be able to use this program again!
+85	The best ranger, but with the emphasis on absorbing damage? Not a bad strategy.
+86	So, your choice:<br><br>Pirate Acryn Hull<br>Three Lirecrons<br>Booster<br>Oblivion Connector<br>and a few less important things<br><br>Do you agree to take this configuration? Note that you will not be able to use this program again!
+87	A long-range class... It doesn't need much defense - as long as it can reach the enemy. The ideal raider.
+88	So, your choice:<br><br>Two Tretons<br>A cargo of assorted not-quite-legal goods<br>Roomy "Dandy" Hull<br><br>Do you agree to take this configuration? Note that you will not be able to use this program again!
+89	A decent start for anyone who wants to make a living selling contraband.
+90	So, your choice:<br><br>Electronic Cutter<br>Three probes for different surface types<br>Black Goo<br>Hypergenerator<br>Three Null Generators<br><br>Do you agree to take this configuration? Note that you will not be able to use this program again!
+91	A few probes. Maybe you'll go straight off to dig up the Shadow of the Empire and other goodies from mods? Tauhit, for example...
+92	So, your choice:<br><br>Fast Hull<br>Two Tretons<br><br>Do you agree to take this configuration? Note that you will not be able to use this program again!
+93	I heard about the ranger support program...
+94	Speed and small capacity - an agent doesn't need much!
+95	Thank you, see you soon!
+96	Pygamore
+97	Ironclad
+98	Pirate
+99	Energy
+100	Fast
+101	Let's do it. It certainly won't hurt
+102	Dumbo
+103	Fragmentation
+104	Ahem...<br>Yes, there is one.<br>Given the grave situation on the fronts, the Galaxy Council has decided to equip rangers too, supplying them with money to repair equipment in battle.<br>There are several kits to choose from.<br>Shall we move on to the selection?<br><br>
+105	Repair
+106	Extreme Energy
+107	Missile
+108	No, I think my own gear is enough for me
+109	Attack
+110	Defense
+111	Recon
+112	Young Technician
+113	Fast Trade
