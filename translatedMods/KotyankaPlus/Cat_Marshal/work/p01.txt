@@ -1,4 +1,4 @@
 1	S.E.R.P.
-2	<color=248,252,248>Strategic Unified Reconnaissance Interceptor - a project of the Earth Confederation to create maneuverable formations that were planned for use in punitive operations against the pirate encampments funded by Dzukhallag. The war ended, raids dropped sharply and the project ended up on a shelf, until it came to a group of energetic designers during the protracted war with the dominators.</color>
+2	<color=248,252,248>Strategic Unified Reconnaissance Interceptor - a project of the Earth Confederation to create maneuverable formations that were planned for use in punitive operations against the pirate encampments funded by Dzuhallag. The war ended, raids dropped sharply and the project ended up on a shelf, until it came to a group of energetic designers during the protracted war with the dominators.</color>
 3	Gripper range: <bonHookRadius> million km
 4	Shield power: <bonDef>%

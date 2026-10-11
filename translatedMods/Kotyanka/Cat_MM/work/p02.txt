@@ -6,7 +6,7 @@
 76	Vartuthead
 77	A first-level micromodule. Adds a <clr>human-made<clrEnd> warhead modification unit that coats the warheads with a thin layer of quark charge. It obviously affects the size and the repair difficulty of the weapon and, thanks to the subsequent interference of a <clr>Peleng<clrEnd> intern who turned out to be a saboteur of the <clr>pirate brotherhood<clrEnd>, halves the reliability.
 78	Densissima
-79	A first-level micromodule. The essence of the "Fifth Room" project carried out by the scientists of the <clr>Gaal and Faeyan<clrEnd>. Reshapes the hull, quadrupling its capacity, but since no material was added, the conditions for installing a <clr>gripper<clrEnd>, <clr>shield generator<clrEnd>, <clr>radar<clrEnd> and <clr>scanner<clrEnd> become unachievable, repairs get harder and the protective properties drop. Later it was stolen by the head of <clr>Dzukhallag<clrEnd> and adapted to install an extra mud jacuzzi.
+79	A first-level micromodule. The essence of the "Fifth Room" project carried out by the scientists of the <clr>Gaal and Faeyan<clrEnd>. Reshapes the hull, quadrupling its capacity, but since no material was added, the conditions for installing a <clr>gripper<clrEnd>, <clr>shield generator<clrEnd>, <clr>radar<clrEnd> and <clr>scanner<clrEnd> become unachievable, repairs get harder and the protective properties drop. Later it was stolen by the head of <clr>Dzuhallag<clrEnd> and adapted to install an extra mud jacuzzi.
 80	Reliability: <clr>-60%<clrEnd>
 81	Size: <clr>+300%<clrEnd>
 82	Cost: <clr>+200%<clrEnd>

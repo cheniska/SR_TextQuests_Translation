@@ -74,7 +74,7 @@
 74	I suppose that's enough rowdiness for now
 75	Hey, wanderers! There are too many of us now! Time to put the extra boozers ashore, at the planetary defense guns, and hand their money to the common fund!
 76	Hundred percent sure! Spread my order, go on!
-77	Dzukhallag managed to intercept a new order of the Supreme Baron - owing to a shortage of funds he ordered the liquidation of half the pirate ships. This is an excellent opportunity for our forces to liberate several systems.
+77	Dzuhallag managed to intercept a new order of the Supreme Baron - owing to a shortage of funds he ordered the liquidation of half the pirate ships. This is an excellent opportunity for our forces to liberate several systems.
 78	The Supreme Baron has ordered the liquidation of half our fleet to get rid of boozers and idlers. Let us strike at those who tarnish the glorious name of the pirate with chronic drunkenness and cowardice!
 79	I need a squad of the best! Summon the Custodes!
 80	Perhaps it's not the time for such strength
@@ -86,7 +86,7 @@
 86	Raise all the scoundrels and rascals! We go to storm!
 87	Send the mustered pirates to storm!
 88	Start already!
-89	Dzukhallag managed to intercept a new order of the Supreme Baron - he is gathering all the Clan's forces at one of the secret bases to deliver a strike. This is an excellent opportunity for our forces to liberate several systems.
+89	Dzuhallag managed to intercept a new order of the Supreme Baron - he is gathering all the Clan's forces at one of the secret bases to deliver a strike. This is an excellent opportunity for our forces to liberate several systems.
 90	The Supreme Baron has ordered the gathering of all free guys! Everyone report to Rogeria!
 91	Waiting impatiently
 92	Stand down! Not the time...

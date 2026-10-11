@@ -32,6 +32,6 @@
 32	Potent Warrior
 33	A series of hulls intended for those reckless pilots whose minds are flooded with bloodlust.
 34	Argorezzhryuk
-35	An experimental development of the best scientists of the faeyan race, later stolen by Dzukhallag agents and spread by them throughout the galaxy. In the Regget sector, in the Ozeum system, on the planet Ikka, an ancient ship was found with a technology of defensive turrets against different types of weaponry. However, using all 3 turrets simultaneously proved a failed idea for the fleet of an ancient empire, which is why we learned of its technologies.
+35	An experimental development of the best scientists of the faeyan race, later stolen by Dzuhallag agents and spread by them throughout the galaxy. In the Regget sector, in the Ozeum system, on the planet Ikka, an ancient ship was found with a technology of defensive turrets against different types of weaponry. However, using all 3 turrets simultaneously proved a failed idea for the fleet of an ancient empire, which is why we learned of its technologies.
 36	Roxinorox
 37	Kremargentor

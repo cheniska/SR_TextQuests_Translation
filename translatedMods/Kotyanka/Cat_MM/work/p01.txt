@@ -63,7 +63,7 @@
 63	A first-level micromodule. A <clr>Faeyan<clrEnd> development made to order for the <clr>Maloqs<clrEnd> after analyzing the Battle of Gralgar. Colossal repair capabilities at the price of an equally colossal reduction in reliability and with a colossal size that never bothered the Maloqs. Compatibility with faeyan droids has entered textbooks as an excellent example of faeyan black humor.
 64	Reliability: <clr>-65%<clrEnd>
 65	Rangecite
-66	A first-level micromodule. Created by a <clr>Coalition<clrEnd> gaal developer of targeting systems abducted by Dzukhallag. Adds an expensive, heavy and fragile system to <clr>non-missile<clrEnd> weapons, noticeably increasing the range of fire. The now-deceased developer did not believe the promises and vengefully <clr>excluded<clrEnd> any compatibility with the weapons of <clr>Pelengs<clrEnd> altogether, substituting their signatures with those of the <End>pirate clan<clrEnd>.
+66	A first-level micromodule. Created by a <clr>Coalition<clrEnd> gaal developer of targeting systems abducted by Dzuhallag. Adds an expensive, heavy and fragile system to <clr>non-missile<clrEnd> weapons, noticeably increasing the range of fire. The now-deceased developer did not believe the promises and vengefully <clr>excluded<clrEnd> any compatibility with the weapons of <clr>Pelengs<clrEnd> altogether, substituting their signatures with those of the <End>pirate clan<clrEnd>.
 67	Size: <clr>+75%<clrEnd>
 68	Cost: <clr>+75%<clrEnd>
 69	Vitucite
