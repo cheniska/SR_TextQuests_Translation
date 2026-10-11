@@ -1,0 +1,26 @@
+97	We will expand the production of consumer goods
+98	Expand the production of <color=0,48,192>minerals</color>
+99	Expand the production of <color=0,48,192>food</color>
+100	Alas, war does not help agriculture. How many tons of food are you willing to donate to our mission?
+101	Expand the production of <color=0,48,192>medicines</color>
+106	That doesn't interest me, I don't want to spend my money on underdeveloped savages
+107	We're wrapping up the project. From now on the base is disbanded
+110	So, how much of your hard-earned capital are you willing to share with those in need, <Player>?
+111	By the way, we contacted our colleagues on planet <color=0,48,192><0></color>; they are interested in this archaeological artifact and can buy it from you for a decent sum, but you will have to deliver it there yourself, sorry about that. Just be careful and unload to the warehouse everything except what you want to hand over. Those government loaders mix things up so often, you know.
+112	</color>The ship <color=0,48,192><0></color> has already set a course to approach you. When the distance between your ships is at a minimum, <color=0,48,192><1></color> will be in open space, where you can pick up the find, provided you have a gripper, of course.<br>
+115	  - The merchants are <color=0,48,192>at the base</color>. They will start selling the goods as soon as the warehouse is full.
+116	  - The merchants will return to the base in <color=0,48,192><0></color>
+117	<br> - Sale of goods from the warehouse: <color=0,48,192>inactive</color>
+118	</color>Production of <color=0,48,192><0></color>:<br> - Warehouse capacity: <color=0,48,192><1></color> t.<br> - Warehouse space remaining: <color=0,48,192><2></color> cubic meters.<br> - Finished products: <color=0,48,192><3></color> t.<br> - Production rate: <color=0,48,192><4></color> t. per day.<br>
+119	I see. Let's move on to other matters
+120	Quite right, <Player>. How many medicines can you donate?
+122	Increase warehouse capacity by <0> units.
+125	I want to pick up a lot of <0> from the warehouse
+126	Pick up <0> t. of <1>
+128	<color=0,48,192>Activate</color> the sale of goods from the warehouse
+130	Yes, I'm sure. We stop the production of <0>
+132	A biological substance. A decomposition product of klissans.
+134	if(!ShipInNormalSpace(Player())) MessageBox('You must be in space to launch the satellite!');
+135	An antique human communications satellite in excellent condition.
+137	A statuette dedicated to a Ranger of antiquity. Presumably of menzol origin.
+139	A device of unknown purpose found by archaeologists in menzol ruins. Judging by its design, it once served to transmit signals over vast distances.
