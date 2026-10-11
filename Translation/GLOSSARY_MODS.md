@@ -174,3 +174,28 @@
 | пушечный линкор «Эгида»; Космос и Дух Созидания (молитвы) | cannon ship of the line "Aegis"; the Cosmos and the Spirit of Creation | LongLiveTheRanger |
 | клуб «Очумазые ручки» (пародия на «Очумелые ручки») | "Grubby Hands" club | LongLiveTheRanger |
 | «Тысяча пенчекряков!» | "A thousand penchecrakuses!" (по канону penchecrakus) | LongLiveTheRanger |
+
+## ShusRangers/ShuMercsHQ (ToTranslate, 2026-10-11; Lang.txt)
+| RU | EN | Комментарий |
+|---|---|---|
+| бзонк | bzonk | выдуманный «бонг», решение пользователя (транслит) |
+| Забава табуретов / Седой ходунец / Вестеркросс | Game of Stools / Grey Walker / Westercross | решение пользователя |
+| чмобыр | schmo | мягкое оскорбление, решение пользователя |
+| Абэндшмэрны (отсылка на Моргенштерна) / Гаогаги | Biebers / Gaogags | американский поп-артист вместо Моргенштерна, Гага остаётся |
+| Бумбыр Баргабырвсрат (+путаница Пупыр/Бурбон) | Bumbyr Bargabyrvsrat (Bumpkin / Bourbon) | решение пользователя |
+| Ака Сециянка | Aka Sezyanka | по глоссарию/ванилле |
+| Бластер Ципцилот | Blaster Tziptzilot | написание из ключей самого мода |
+| Элайма Некентида / Вдубас Драгомыс / Серго Виттей / И`ван Макс | Elayma Nekentida / Vdubas Dragomys / Sergo Vittey / I`van Max | управляющие штаба (фэй / малок / человек / пеленг) |
+| Штойн (профессор) | Shtoyn | |
+| глюонизация, глюонный излучатель/торментор/торпедная установка | gluonization, Gluon Emitter / Tormentor / Torpedo Launcher | |
+| Экспирин; Эксдюралити; тетроазин; поликсенат; фрагилиум | Expirin; Exdurality; tetroazine; polyxenate; fragilium | |
+| ГСОМ; Ураган | GSOM; Hurricane | |
+| Звёздный скат | Star Stingray | корпус |
+| транклюкатор; Долбобот | tranclucator; Dolbobot | по ключам мода |
+| Кумачовые петушки (Дрочёвые Петухи) | Crimson Cockerels (Choke-the-Chicken Roosters) | адаптация каламбура |
+| Забава… янвелб | ekup | по ванилле |
+| ЗАО «Нанозайм» | Nanoloan Inc. | |
+| Повидло-2019 / СТАРС-ПоВ-2 / юникрон | Jam-2019 / STARS-PoV-2 / unicron | пародия на Ковид, решение: сохранить звучание |
+| Грок / Телеграфф / Мракс / Гаалвито | Grok / Telegraff / Mrax / Gaalvito | пародийные бренды |
+| Мерканавт; Жаба Лэ; Сасус; Буратти Вейрон | Mercanaut; Zhaba Le; Sasus; Buratti Veyron | |
+| КОЗ | CHO (Coalition Health Organization) | предположение, на проверку |

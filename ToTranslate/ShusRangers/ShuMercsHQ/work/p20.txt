@@ -1,0 +1,171 @@
+2026	Pal, this news may shock you, but even if your radar reached me, it's far from certain your guns will.
+2027	Buddy, you made my day! Do you really think everyone is as naive as you? Catch up with me first, and only then pester me with all this nonsense.
+2028	Do you only have the guts to yap from a long distance? Demand cargo from your granny!
+2029	Is it just me, or are you really high? At least ask your onboard computer what your chances are of catching up with me.
+2030	Wake up first, you're talking some kind of gibberish here.
+2031	Go on, take my cargo. Or are you only that fierce over the communicator?
+2032	Cargo, you say? All right, I'm ready to drop a sealed bag with the contents of the toilet just for you. Or did you mean something else?
+2033	I'd teach you a lesson, but I pity space ecology. Think how much debris would be left from your little boat...
+2034	I won't give you the cargo on principle. Just hang in there.
+2035	You win. Stop firing, I'll dump the cargo now.
+2036	And why not? No, I'm not dumping part of the cargo because of you, there really just isn't much room on the ship.
+2037	I'll dump the cargo, but I've taken a good note of you! Better not let me see you again.
+2038	I slaved over this cargo from dawn to dusk, and not so that I'd hand it over to a brat like you afterward. Fine, take it, but this is the last time!
+2039	After all, guns are the weightiest argument in a civilized dispute. Don't shoot, the cargo's coming.
+2040	Huh? Money? Oh, of course, just feed me bread and let me wire money to the first lunatic broadcasting from the other end of the system. In case it didn't sink in, which I wouldn't be surprised by, that's sarcasm.
+2041	Where do you people even come from?<br>What money, for crying out loud? You can't even catch me!
+2042	And if I suddenly refuse, you'll get very, very angry with me and won't catch up?<br>Oh no, don't do that! I beg you!
+2043	What's the point of paying you if from this distance you pose absolutely no threat to me?
+2044	I get worried for our pirate trade when I meet people like you. Before extorting, at least fly closer to the victim! Everything has to be taught to modern youth...
+2045	Ha-ha! I take it your insolence is directly proportional to the distance between us?
+2046	Oh, aren't we bold! Send me your little photo, as soon as I land on the nearest planet I'll definitely sell it to journalists. Just imagine: a report called "Moron of the Year"! I can already see it: "He robs ships from incredible distances!"<br>Hey, what's with you? Cool down, pal, it's a joke.
+2047	Only if you catch up with me and name a convincing reason to pay you. Ah yes, you won't manage that. Well, then no.
+2048	With the best will in the world I couldn't transfer you money over such a huge distance, so sorry. No, I'm not laughing - that's interference.
+2049	Transferring now. What do you mean it didn't arrive? Well... I'm not involved here. There.
+2050	Fly off, you half-baked robber! I'll ping my buddy now, and he'll straighten out your thrusters!
+2051	Bro, you've got something mixed up: I'm not your ATM, so move your engine off to some gobsaurus's lair, okay?
+2052	I robbed my money honestly and I'm not giving it to you!
+2053	Wha-at? Did I imagine it, or did you really just want to demand money from me?<br>Come on, scram out of here while I'm still kind!
+2054	It's not my money but that transport's over there, demand it from him.
+2055	No-no-no! I'm already paying a mortgage. Do you want to ruin me, huh?
+2056	But then I won't have enough for my parrot's food! Do you really want the poor bird to go hungry?<br>How cruel you are.
+2057	All right, all right, you can put your guns away, here's the money. It's not mine anyway, so consider I lost nothing!
+2058	I saved and saved, robbed, smuggled, lost sleep, ate badly! And then you show up! Aren't you ashamed, huh? Oh well, take it...
+2059	Well, now I'll have to dig out my stash... There, now it's enough! Take it, just leave me alone!
+2060	Maloq solid-red mixed with green surprise! You're so clingy! All right, all right, take it, well done, you're cool.
+2061	Easy come, easy go. I'll fly off and try again to catch that transport...
+2062	My grandma told me: "Don't fly at night, grandson!" And I didn't listen...
+2063	And I so wanted to buy that gun... Went by every day, admiring the shop window... Oh well, I'll have to pay, take it...
+2064	And indeed: everyone in the galaxy should share and then everyone will be fine! Today I'll give to you, tomorrow you'll give to me!
+2065	You're exaggerating, where would I get that kind of money?!
+2066	What Ba-O'Baab did you fall off of? I've never even held such a sum in my hands!
+2067	Pal, please don't shoot at me! I just don't have such a sum!
+2068	I'm afraid I simply don't have that kind of money. Maybe we can settle on a smaller sum?
+2069	Ehh, you flattered me... If I had that kind of money, I wouldn't be hanging in cold space, I'd be relaxing somewhere on Mauna Roa right now...
+2070	How is your financial situation?
+2071	I see
+2072	Thank you, now my account holds <Money> cr.
+2073	Give money to a partner
+2074	<Player>, my account holds <Money> cr.
+2075	Take <Money> cr.
+2076	So, <Player>, how much are you ready to chip in?
+2077	Buddy, didn't I tell you I'm from the society of ecologists? No, I'm categorically against cluttering up outer space.
+2078	What, leave the junk alone? Where do you people come from... Fine, shtip with you, I don't need it that badly anyway.
+2079	No way! Who are you for me to listen to you? No, <Target> won't get off from me so easily, and now you're next in line yourself.
+2080	I have my own scores to settle with the pilot of the vessel <Target>, which I strongly recommend you not get into.
+2081	Why don't you fly off, you hapless peacemaker, to visit Makhpella for tea?
+2082	Do you hear, <Target>? If it comforts you before death, at least someone here stood up for you!
+2083	Your efforts are in vain. The vessel <Target> will be destroyed very, very soon. Just accept it.
+2084	Hey, <Target>, should I let you go? No? Well, all right. Did you hear, <Player>? This transport itself wants me to rob it very badly, don't deprive it of such joy.
+2085	Why did you butt in! I almost knocked him off! All right, so be it, today is a lucky day for this rascal.
+2086	Well, since you ask... Nah, you're a tough guy, I won't mess with you.
+2087	<Target>, fly off before I change my mind! Now I'll have to look for somebody else to test the new little gun on...
+2088	I'd only just warmed up, and here you come with your peacemaking! Fine, let him live.
+2089	Well, <Player>, it's not nice to spoil the fun like that... Today you're protecting every transport you meet, and what next? Will you save every hryakoplyukh? Fine, I don't want to deal with animal protectors... <Target>, fly, I'm letting you go.
+2090	It's at moments like this you start to feel pity for the victim of your own robbery! Maybe I should let you go to the business center for a loan?
+2091	Hm... You might at least have shot yourself some minerals, you galactic pauper!
+2092	This money wouldn't compensate me even for having to look at your mug on the display.
+2093	Are you trying to move me to pity? I'm tempted to lend you money just so you could offer a less pitiful sum!
+2094	Wow, you're something! I spend more on one visit to the bar! By the way, what are the rates there these days... Oh, Gaidnet says rum got more expensive... Listen, don't you dare leave me without rum!
+2095	How can that be? I'm here trying, carefully sawing up your ship, and you offer me so little! You don't value my work at all!
+2096	It's good the galaxy is full of suckers like you! Otherwise I'd have to work.
+2097	Congratulations, you've just bought yourself a one-time ticket for passage through the system! Would you like to purchase a season pass for the whole year?
+2098	Should've done that right away. Otherwise I have to chase after you, burn fuel...
+2099	Another time I'd shake more out of you, but I'm in too good a mood today. Or is it the liqueur? Ah, never mind.
+2100	Don't worry, all proceeds will go exclusively to the benefit of our noble clan!
+2101	Buddy, you've got it all mixed up! I'm not a training asteroid! Take these <Money> cr., just stop mangling my tub!
+2102	Enough, enough, you're tougher than me, tougher than everyone here, I agree! Take <Money> cr., I saved them for a very long time, just let me fly far away!
+2103	I've been thinking, and came to the conclusion that I don't need these <Money> cr. at all. Maybe you'll take them yourself, and we'll part peacefully?
+2104	I admit I somewhat overestimated my strength and underestimated yours. I offer you <Money> cr. to leave me alone at last.
+2105	Buddy, you truly deserve this money! I offer you a tempting sum of <Money> cr., after which I peacefully fly away. Deal?
+2106	Ships with this marker infochip will be automatically moved into the specified script group in those scripts where special checks for this are provided
+2107	Ships with this marker infochip will receive fatal damage if hit by a ship/weapon/item of the type specified in the infochip (several infochips can be attached at once if the target needs to die from several different types of damage)
+2108	Ships with this marker infochip will react adequately to a player in camouflage
+2109	The newest development of the <color=255,240,100>pirate clan</color> - a massive <color=255,240,100>EMP torpedo</color> capable of disabling an entire battleship for a time.
+2110	Produces an EMP blast when an EMP torpedo hits the target (attached to the target)
+2111	Substituted from the stimulant section.
+2112	Gluonization effect (fades over time)
+2113	Gluonization
+2114	Checks whether the player attacked a ship guarded by his mercenary, and if so, ends the mercenary's quest
+2115	Forbids the mercenary from negotiating during an attack on the target on the player's order.
+2116	Automatically brakes the ship when crossing a certain approach range boundary to the specified object
+2117	Hidden infochip for auto-recharge and auto-upgrade of shipyards
+2118	Automatically adds custom faction icons when the player organization's tranclucator returns to the hold (at that moment the game resets the tranc's script group)
+2119	Automatically changes the player's owner on entering and leaving a system being attacked/defended by his mercenaries
+2120	Ready
+2121	</color> days
+2122	This station has been
+2123	fitted with a <color=255,240,100>portal generator</color> that allows it to make hyperspace jumps:
+2124	Maximum jump range: <Data1> pc
+2125	Ready to jump in: <TextData1>
+2126	Portal Generator
+2127	Just a marker that this quest ship doesn't need a scripted dialog attached
+2128	Automatically removes all specified ships from the group if the player attacks them (can also display a recorded notification)
+2129	Automatically displays a notification and spoils relations with the attacking mercenaries and the player if the specific target or ships of its group take damage
+2130	Releases/recalls trancs to/from the hold, and also, via the pointer from ChangeShipScriptGroupInfo, puts them into script groups
+2131	Forces the ship to destroy an item if at least one gun in space can reach it, without disabling the ship's own logic
+2132	Blocks the player's unlimited access to the equipment of the strike group's mercenaries
+2133	Bottle of aged ekup
+2134	A taste worthy of kings.
+2135	Documents for construction approval
+2136	Documents for relocation approval
+2137	A couple of papers needed to obtain a permit for building your own mercenary HQ.<br><clr><clrEnd><br>
+2138	Coalition Council permit: <color=255,0,0>Not received</color>
+2139	Coalition Council permit: <color=0,255,0>Received</color>
+2140	Clan Council permit: <color=255,0,0>Not received</color>
+2141	Clan Council permit: <color=0,255,0>Received</color>
+2142	Permit of the planet <Planet>: <color=255,0,0>Not received</color>
+2143	Permit of the planet <Planet>: <color=0,255,0>Received</color>
+2144	A couple of papers needed to obtain a permit for relocating the mercenary HQ.<br><clr><clrEnd><br>
+2145	Construction site: <color=255,240,100>Not chosen</color>
+2146	Relocation site: <color=255,240,100>System <Star></color>
+2147	Construction site: <color=255,240,100>System <Star></color>
+2148	Sturdy aluminum case
+2149	MessageBox('Your curiosity has served you well more than once, so without much thought you flung the case open and at first couldn't believe your own eyes...' + CT('FormInfo.br') + '<clr><clrEnd>' + CT('FormInfo.br') + 'Hundreds of neat stacks in the case held thousands and even millions of credits! You managed to count about <color=0,50,200>10,000,000</color> cr. before your gaze fell on a strange elongated object in the very corner of the container.' + CT('FormInfo.br') + '<clr><clrEnd>' + CT('FormInfo.br') + '"Is that a bom..." flashed through your head before a powerful explosion cut short forever the life of a great but excessively curious Ranger-simpleton.');
+2150	It seems the client asked that it not be opened.
+2151	Bundle of dynamite
+2152	A small bundle of sticks of ancient high-explosive.
+2153	Limited edition with a diamond screen.
+2154	Heard you've got serious problems? Well, I could solve them all in no time...
+2155	Only <color=255,240,100>99.9%</color> per annum!
+2156	Oh come on, I won't demand everything from you at once - you're my bro! You'll pay when you can, and deadlines in this business are just a paper formality...
+2157	The people love strong power, and do you know where the strength is, brother? The strength, brother, is always in money! And don't believe nameless paupers who claim otherwise.
+2158	A personal bromated flyer? A space yacht? A mansion over the mouth of an active volcano!? Just put your almighty signature right here.
+2159	Gold bars
+2160	Ordinary gold bars. As usual, extremely heavy and, as usual, extremely expensive.
+2161	Luxury
+2162	Jewelry, works of art and other luxury items.
+2163	Weapons
+2164	All kinds of weapons: bladed, hand-held, nuclear, psychotropic and others.
+2165	Drugs
+2166	Banned gaostimulants and other narcotic products.
+2167	Holographic tablet
+2168	An ordinary tablet, the kind commonly sold on any halfway developed planet.
+2169	Huge diamond
+2170	A diamond weighing <color=255,240,100>10000</color> carats. It's unlikely anyone in the galaxy even knows what it costs, rather they don't know what to price it at.
+2171	Container
+2172	An ordinary-looking container. What's inside is unknown.
+2173	Flash drive
+2174	A very old flash drive, even covered with rust, with family photographs. They must have been very dear to its owner.
+2175	A military-grade memory block with blueprints of eighth-generation infantry assault weapons. Top secret.
+2176	A unique digital storage device containing <clr>1<clrEnd> zetacoin. The casing is <clr>42%<clrEnd> pure platinum.
+2177	Powder keg
+2178	A keg of genuine black rifle powder, the kind that once, in deep antiquity, packed the holds of pirate galleons. Arr!
+2179	Radioactive waste
+2180	They radiate so hard your nose falls off.
+2181	Suspicious envelope
+2182	A well-sealed envelope with unknown contents.
+2183	TNT stick
+2184	An obsolete variety of military explosive.
+2185	"Arninator" statuette
+2186	A miniature model of a long-obsolete combat robot. On the stand a worn engraving is visible with the words: <color=255,240,100>"In memory of unity"</color>.
+2187	Tziptzilot's Key
+2188	A key to a personal cell at the <color=255,240,100>Mercenary Center</color>.
+2189	15, 50, 35, Mercenary
+2190	0, 0, 100, Cruiser
+2191	34, 33, 33, Mercenary
+2192	Cockerel
+2193	Mercenary
+2194	Cruiser
+2195	Organization HQ
+2196	HQ
