@@ -29,7 +29,7 @@
 46	Duplex Scanner II
 47	Duplex Scanner III
 48	EM-generator
-50	Additonal effect: <clr>EM-interference<clrEnd>
+50	Additional effect: <clr>EM-interference<clrEnd>
 51	Electrogenic Gripper I-III
 52	Electrogenic Gripper I
 55	Electrogenic Gripper II
@@ -51,7 +51,7 @@
 79	Cost: <clr>+35%<clrEnd>
 80	Fooravean I-IV
 81	Fooravean Hull I
-83	(only for <clr>feyans<clrEnd>)
+83	(only for <clr>faeyans<clrEnd>)
 84	Fooravean Hull II
 85	Fooravean Hull III
 86	Fooravean Hull IV
@@ -75,7 +75,7 @@
 108	Microgenic Gripper II
 109	Microgenic Gripper III
 110	Microgenic Radar I-III
-111	Miicrogenic Radar I
+111	Microgenic Radar I
 112	Microgenic Radar II
 113	Microgenic Radar III
 114	Microgenic Scanner I-III
@@ -88,7 +88,7 @@
 122	Phase Engine III
 123	Pickuhup I-IV
 124	Pickuhup Hull I
-126	(only for <clr>gaals<clrEnd>)
+126	(only for <clr>gaalians<clrEnd>)
 127	Pickuhup Hull II
 128	Pickuhup Hull III
 129	Pickuhup Hull IV
@@ -112,12 +112,12 @@
 150	ScanBot R1
 152	ScanBot R2
 153	ScanBot R3
-154	Shquash I-IV
-155	Shquash Hull I
+154	Plumpush I-IV
+155	Plumpush Hull I
 157	(only for <clr>pelengs<clrEnd>)
-158	Shquash Hull II
-159	Shquash Hull III
-160	Shquash Hull IV
+158	Plumpush Hull II
+159	Plumpush Hull III
+160	Plumpush Hull IV
 161	Stationic Shield Generator I-III
 162	Stationic Shield Generator I
 164	Stationic Shield Generator II
