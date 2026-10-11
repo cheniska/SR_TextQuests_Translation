@@ -214,3 +214,4 @@
 | Стеллар; Конструкторское бюро (КБ); крипторы; экстрамерность; Ниргенд Азур; Нан | Stellar; Design Bureau (DB); cryptors; extradimensionality; Nirgend Azur; Nan | Kotyanka/Cat_DesignDepartment |
 | Космические Пейджеры; Мэлджи-Чек | Space Pagers; Meldzhi-Check | Kotyanka/Cat_DesignDepartment (пародии) |
 | ЧД (сленг КР: чёрная дыра, «червоточина»); ментощуп (клисанское оборудование) | wormhole; mentoprobe | Kotyanka/Cat_DesignDepartment (решение пользователя 2026-10-11) |
+| Махпелла; пиво «Махпелла Дарк» (оконч. решение 2026-10-02, подтверждено 2026-10-11) | Makhpella; Makhpella Dark (НЕ Machpella/Mahpella: ванилла 19×) | все моды |
