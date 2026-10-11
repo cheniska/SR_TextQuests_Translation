@@ -1,0 +1,51 @@
+191	Counterintelligence prevented a terrorist attack at the planetary holotheater "Rodina" on planet #pl1#. The terrorist, a peleng, is most likely an emissary of the separatists. His ties with the enemies of the official government are being established, but the public is already outraged - sure that these pelengs have once again shown what they are ready to do for their goals.
+192	Condemnation of the separatists and the governments supporting them - such was the decision the Galaxy Council made following its session on what is happening on planet #pl1#.<br>The separatists themselves attempted a landing at one of the most damaged faeyan ports. Alas, the faeyan fleet is by now almost completely repaired, even the sunken ships, and the landing was destroyed on approach. The faeyan Headquarters states that an operation to seize peleng territory may begin.
+193	Info item for detecting the deaths of the best rangers
+194	Info item for outputting news about attacks by the "tough warrior"
+195	Taikon Hall
+196	GUM
+197	Iskra
+198	Energy
+199	Mayak
+200	Shelesto
+201	Anabakko
+202	Ligari
+203	Venecchio
+204	Allento
+205	Fonstort
+206	Vetrum
+207	Cold Coriander
+208	Mezinno
+209	Laistar
+210	Azirium
+211	Yassif Yurazelsky
+212	Lazarre Kagan
+213	Sergo Kir
+214	Valdemar Al-Leni
+215	Phoenix Dzerzhinsky
+216	Aizif Zhelyazny
+217	"Sun," "The Hour Has Struck," "Steel Warriors," "I Am Waiting"
+218	Gribozhueva
+219	"The Rest Is Unimportant," "Al-Dagor," "The Troubles," "Scarlet Lily"
+220	"Tsufay," "Operation Coalition Force," "Song of the Radioactive Desert," "The Battle of Gralgar"
+221	Kalkite Tip
+222	Lesser Anglum
+223	Kanven-iviris Medal
+224	Order of Merit
+225	Guards Pennant
+226	Gold Star of the Hero
+227	Triple Oreon
+228	Killer Blow
+229	Behemoth
+230	Ashian Ribbon
+231	Greater Anglum
+232	Uranium Milk
+233	Warrior's Table of Ranks
+234	Kiselrodde
+235	Molotochkina
+236	Litvinova
+237	Herald
+238	The achievements of ranger name in the fight against the extremely dangerous strategic dominator ships - the Bertors - have not gone unnoticed by the Galaxy Council. For the valor shown, the ranger was assigned a new award, and among colleagues they already call the ranger the "Bertor Killer"!
+239	Bertor Killer
+240	Legends about ranger name have long been roaming the Galanet and the whole free Galaxy. A mighty savior who appears out of nowhere and crushes hordes of enemies in the name of freeing the Coalition from the yoke of cybernetic tyrants - that is how the admiring residents portray the ranger. Behind the ranger already - just imagine: <clr>100<clrEnd> liberated systems! This renowned warrior has been decorated a hundred times already, and the Galaxy Council decided: they deserve to be decorated once more! Meanwhile, sociologists note that the nickname "Liberator" has stuck firmly to the ranger's name in popular memory.
+241	Liberator
