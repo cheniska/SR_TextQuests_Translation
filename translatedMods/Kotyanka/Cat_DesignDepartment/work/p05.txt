@@ -1,0 +1,125 @@
+246	Available: <color=255,0,0>out of stock</color>.<br>
+247	Available: [var].<br>
+248	Dear <Player>! Today we are ready to offer the following micromodules.<br>-------------------------------------------<br>
+249	Dear <Player>! Today is a special day, a <clr>50<clrEnd>% discount on the entire range! Here is what we offer:<br>-------------------------------------------<br>
+250	[var1]. Micromodule [var2]<br>
+251	To our deepest regret, we cannot offer you anything, <Player> - all available micromodules are sold out. But don't be downcast, our technicians and engineers are already working on a new batch. Take the opportunity to save up more Nirgend Azur.
+252	Decline the purchase
+253	I want to buy micromodules for "<clr>Stellar<clrEnd>" company equipment
+254	Buy the micromodule "<clr>[Name]<clrEnd>"
+255	Final price:
+256	Credits: [var] cr
+257	Food: [var] t
+258	Medicines: [var] t
+259	Technology: [var] t
+260	Luxury goods: [var] t
+261	Minerals: [var] t
+262	Alcohol: [var] t
+263	Weapons: [var] t
+264	Drugs: [var] t
+265	Nirgend Azur: [var] t
+266	Nan: [var] t
+267	Blazer nodes: [var] t
+268	Keller nodes: [var] t
+269	Terron nodes: [var] t
+270	Development time: [var] days
+271	Reliability:
+272	Equipment type:
+273	Tank capacity: [var] units
+274	Engine speed: [var] units
+275	Jump range: [var] units
+276	Radar range: [var] units
+277	Scanner power: [var] units
+278	Droid efficiency: [var] units
+279	Gripper power: [var] units
+280	Gripper range: [var] units
+281	Shield generator: [var]%
+282	Allow MM installation:
+283	Unknown
+284	Stellar
+285	Race (materials for creation):
+286	(standard reliability)
+287	Dominator series:
+288	Shield generator bonus:
+289	Droid efficiency bonus:
+290	Gripper power bonus:
+291	Hull armor bonus:
+292	Engine jump bonus:
+293	Ship mass:
+294	Radar range bonus:
+295	Scanner efficiency bonus:
+296	Engine speed bonus:
+297	Energy weapon bonus:
+298	Missile weapon bonus:
+299	Weapon range bonus:
+300	Splinter weapon bonus:
+301	Weapon type "[PType]" is incompatible with shot type "[ShotType]".
+302	The minimum damage must not be higher than the maximum.
+303	With effect type "[Special]" the minimum and maximum damage must be equal.
+304	finish
+305	Hull capacity/durability:
+306	Energy susceptibility:
+307	Missile susceptibility:
+308	Splinter susceptibility:
+309	Neutral
+310	Hull type:
+311	Engine speed: -150 units. Radar range: -1000 units. Shield generator: +10 units. Gripper power: -100 units. Gripper range: -100 units. Weapon power: +60 units. Firing range: +100 units.
+312	Engine speed: +400 units. Jump range: +20 units. Radar range: +3000 units. Scanner power: +30 units. Shield generator: -10 units. Gripper power: +300 units. Gripper range: +300 units. Weapon power: -30 units. Firing range: -50 units.
+313	No additional bonuses.
+314	Bonuses from hull type:
+315	Extra hull armor:
+316	Asteroid damage:
+317	Extra targeting systems:
+318	Extra maneuvering systems:
+319	Extra repair systems:
+320	Artifact slots:
+321	Closed
+322	Open
+323	Shield slot:
+324	Repair droid slot:
+325	Afterburner slot:
+326	Gripper slot:
+327	Radar slot:
+328	Scanner slot:
+329	Extra weapon slots:
+330	Pay
+331	Take it
+332	I changed my mind and want to cancel the design of standard equipment
+333	I changed my mind and want to cancel the design of the hull
+334	Are you sure? We cannot return the resources you handed over, for objective reasons.
+335	Yes, I confirm the cancellation of the project
+336	I changed my mind and want to cancel the design of the weapon
+337	Weapon design
+338	Standard equipment design
+339	Hull design
+340	Designing and building equipment is a long and quite expensive process. Right now you can design <clr>weapons<clrEnd>, <clr>standard equipment<clrEnd> and <clr>hulls<clrEnd>. What are you interested in?
+341	Start the design
+342	Hm-m... Yes, you are right, something needs to be changed
+343	Oops! Clicked the wrong thing, I will repeat it now, don't panic.
+344	No, thanks, I am happy with the current settings
+345	Load it right now - I have waited long enough
+346	To start the development project you need to gather these resources:<br>-----------------------[var]<br>-----------------------<br>If you have anything, lay it out.
+347	So, let us see what you have chosen... The "number of guns" field is empty... <Player>, how can that be, fill out the form more carefully. Our time is not unlimited, whoever you may be!
+348	The number of guns is still zero... <Player>, were you recently concussed in battle? Concentrate, you can do it, I believe in you!
+349	The number of guns is still zero... <Player>, would you like to become our test subject? We have become interested in how your brain works... or whatever you have there.
+350	I see, you cannot read! Well then, just poke at random, I guess.
+351	What? Ah, you are still here. Go on.
+352	As compensation for the time spent on you, we are charging you [var] cr. But don't let that stop you, go on.
+353	You have no active projects right now. We can begin the procedure of drawing up the technical specification.
+354	The weapon you designed has been assembled. Let us know when you are ready to pick up the order.
+355	Weapon project number [DD_weapon_exist].<br>-----------------------<br>[PType] [PType_Var]<br>[MinDmg] [MinDmg_Var]<br>[MaxDmg] [MaxDmg_Var]<br>[Range] [Range_Var]<br>[WSpeed] [WSpeed_Var]<br>[Shots] [Shots_Var]<br>[Frag] [Frag_Var]<br>[ShotType] [ShotType_Var]<br>[Special] [Special_Var]<br>[ABType] [ABType_Var]<br>[MM] [MM_Var]<br>[MiningFactor] [MiningFactor_Var]<br>[Race] [Race_Var]<br>[Size] [Size_Var]<br>[Count] [Count_Var]<br>-----------------------<br>
+356	Weapon project number [DD_weapon_exist].<br>-----------------------<br>[PType] [PType_Var]<br>[MinDmg] [MinDmg_Var]<br>[MaxDmg] [MaxDmg_Var]<br>[Range] [Range_Var]<br>[WSpeed] [WSpeed_Var]<br>[Shots] [Shots_Var]<br>[Frag] [Frag_Var]<br>[ShotType] [ShotType_Var]<br>[Special] [Special_Var]<br>[ABType] [ABType_Var]<br>[MM] [MM_Var]<br>[MiningFactor] [MiningFactor_Var]<br>[Race] [Race_Var]<br>[Size] [Size_Var]<br>[MissileMinSpeed] [MissileMinSpeed_Var]<br>[MissileMaxSpeed] [MissileMaxSpeed_Var]<br>[MissileChanceHit] [MissileChanceHit_Var]<br>[MissileAmmo] [MissileAmmo_Var]<br>[MissileCount] [MissileCount_Var]<br>[Count] [Count_Var]<br>-----------------------<br>
+357	Weapon project number [DD_weapon_exist].<br>-----------------------<br>[PType] [PType_Var]<br>[MinDmg] [MinDmg_Var]<br>[MaxDmg] [MaxDmg_Var]<br>[Range] [Range_Var]<br>[WSpeed] [WSpeed_Var]<br>[Shots] [Shots_Var]<br>[Frag] [Frag_Var]<br>[ShotType] [ShotType_Var]<br>[Special] [Special_Var]<br>[ABType] [ABType_Var]<br>[MM] [MM_Var]<br>[MiningFactor] [MiningFactor_Var]<br>[Race] [Race_Var]<br>[Size] [Size_Var]<br>[MissileMinSpeed] [MissileMinSpeed_Var]<br>[MissileMaxSpeed] [MissileMaxSpeed_Var]<br>[MissileChanceHit] [MissileChanceHit_Var]<br>[MissileAmmo] [MissileAmmo_Var]<br>[Count] [Count_Var]<br>-----------------------<br>
+358	You can still change the parameters, but you will have to go through the whole process again.
+359	Fine, I will fly in when you are done.
+360	Show the project resources
+361	Show the project parameters
+362	<br>Dominator series: [series]
+363	We have finished assembling the standard equipment. Let us know when you are ready to pick up the order.
+364	Move the equipment to the ship
+365	Standard equipment project.<br>-----------------------<br>[var]-----------------------<br>
+366	The hull you ordered has been assembled. Let us know when you are ready to pick up the order.
+367	Move the hull to the warehouse. I will do the replacement myself
+368	Hull project number [DD_hull_number].<br>-----------------------<br>[var]-----------------------<br>
+369	Equipment design
+370	I cannot give you anything right now. Maybe another time
