@@ -1,0 +1,58 @@
+104	We keep a record of every installed improvement. What equipment would you like to have inspected?
+105	Select the equipment from which the parts will be extracted. <br><br>Please note that after the parts are removed, repair will be <color=220,20,20>impossible</color>. The remaining spare parts our center keeps as payment for the dismantling... And what would you do with them anyway?
+106	Despite the vast expanses of the Galaxy, some compounds are still extremely rare and urgently needed by our industry.<br>There are various reasons for this - some compounds stubbornly refuse to be synthesized, and with others quality drops sharply in synthesis.<br>One way or another, we buy up all the rare mineral compounds that interest our specialists.<br><br>After scanning your ship for rare metals, we found a batch in your hold worth <0> cr.<br>Will you sell?
+107	Hull coating
+108	Dismantling of unneeded equipment
+109	Installation of additional equipment
+110	Agree
+111	<clrEnd>Equipment wear resistance will <clr>decrease<clrEnd> by <0>%
+112	Right, right... The additional parts will cost you <0> cr.<br>Which parameter should be improved?
+113	Right, right... The additional parts will cost you <0> cr.<br><br>We have four probe improvement options available, listed along with the projected outcome of our actions:<br>----------------<br>1. Auxiliary deep-sea probes<br>Additional probes with sonars are used to expand and improve coverage when studying bodies of water.<br>Water: <1> -> <2><br>----------------<br>2. Biosensors<br>Additional sensors tuned specifically for biological objects. As a result, the probe's resources are spent more efficiently on plains.<br>Plains: <3> -> <4><br>----------------<br>3. Rangefinders<br>A set of additional echolocation and visual measurement systems and an analysis unit that lets the probe analyze mountain systems en masse, at times without even needing to visit any canyons or valleys.<br>Mountains: <5> -> <6><br>----------------<br>4. Auxiliary sensors<br>Simply installing extra sensors can raise the effectiveness of any probe across all parameters<br>Water: <7> -> <8><br>Plains: <9> -> <10><br>Mountains: <11> -> <12><br>----------------<br><br>So, what interests you?
+114	Of course, take them
+115	Equipment reflashing
+116	By "reflashing" we mean replacing a number of modules in the equipment with newer ones, and carrying out a corresponding software update. In fact it is not reflashing at all but an upgrade, but the name had already stuck by then...<br>In a word, by reflashing old equipment we can get results out of it on the level of its newest analogs. The equipment's wear resistance will, naturally, <clr>decrease<clrEnd> by <0>%<br>So which equipment do you want reflashed?
+117	To what technological type shall we reflash?
+118	Turn in rare minerals
+119	Sorry, but it is impossible to improve a lifeboat in any way. A priori. Please buy yourself a proper hull, or stop sending our specialists into a pre-infarction state by showing up in their hangars with... that.
+120	Our technicians try to work with quality and professionalism, but every item has its limit. The welds that result from this improvement will not be as strong in tension as the factory ones, so overall the hull's resistance to damage will decrease, but of course closing up the technical openings for slots more than <clr>compensates<clrEnd> for it. In addition, with the improvement the hull size <0>. You should also know that we cannot remove <clr>series restrictions<clrEnd> in any way. Cost of the service: <1> cr.<br>So, which part of the ship should we change?
+121	Unique physgun accuracy improvement
+122	Collect the tranclucator
+123	By the way, your order for building a tranclucator has been completed. You can collect it
+124	I want to assemble a tranclucator
+125	By the way, if you don't have a tranclucator, we can assemble one for you at a low price.
+126	We can assemble a tranclucator for you, if you like. For that we'll need <0> cr., <1> t. of equipment, and also an <clr>engine<clrEnd> and a <clr>fuel tank<clrEnd>.
+127	Excellent! Order received, come back in <clr>90<clrEnd> days!
+128	Your brand-new tranclucator has been waiting for you!<br><br>We moved it into your ship's hold. Use it in good health.
+129	Your order for building a tranclucator has been completed. You can collect it at any Technology Center of the Network
+130	<color=255,20,20>(already installed)</color>
+131	I think I want to look at the other capabilities of your technicians
+132	Three layers, for <0> cr
+133	Two layers, for <0> cr
+134	One layer, for <0> cr
+135	Oh well, if I liked the lifeboat so much... A pity.
+136	And if you like shooting down asteroids or exploring planets, we have good news - our network buys rare minerals at excellent prices.
+137	(installed)
+138	cost: <0> cr.
+139	cost:
+140	Auxiliary equipment improvement
+141	Equipment and hull improvement
+142	t.
+143	Mountains:
+144	Plains:
+145	Water:
+146	Tranclucator upgrades
+147	So, several services are available to you:<br><br><br>1. Equipment reflashing<br>2. Equipment rollback<br>3. Equipment improvement<br>4. Hull improvement
+148	Upgrade the tranclucator
+149	So, several services are available to you:<br><br><br>1. Probe upgrades<br><0>
+150	The <color=255,240,100>lifeboat</color> launch mechanism, which normally works like clockwork, was not adapted for launching in just one single place... in <color=255,240,100>hyperspace</color>. But, as so often happens with the irony of fate, it was precisely there that your ship was pulled a few seconds before a deafening explosion forever cut short your heroic life, full of incredible adventures.<br>You are dead, <Player>, and now all the glory will go to other rangers! But your name will be entered forever in the list of war heroes, and your family will receive the standard insurance payment of <Money> cr.
+151	Ship
+152	Technology Center
+153	TC
+154	Have you long dreamed of upgrading your old rusty tub inherited from your great-grandmother? Hurry to the star system, where our highly qualified specialists will gladly turn it into a real beauty! Technology center name - the best rates in sector sector!
+155	Attention all pilots! In the star system of sector sector, the chief architect has just cut the red ribbon on the new technology center name! The information on your galactic maps has already been updated.
+156	A new technology center name opened today in the star system of sector sector. We strongly urge all concerned pilots to have their starships inspected as soon as possible.
+157	We are pleased to inform you that our network of technology centers is expanding! The new service station name awaits pilots in the star system of sector sector! Don't fly past! Only with us will you find the best technology services in the whole Galaxy!
+158	Info box for the abandoned ship (will crash without zeroing out damage)
+159	Lifeboat info box
+160	Valuable minerals are especially important compounds found in the Universe that are used in strategic branches of activity of the intelligent races and also have important properties - for example, a characteristic luster and color, for which they are prized as finishing materials.
+161	Such resources are bought at high prices at <clr>Technology Centers<clrEnd>
