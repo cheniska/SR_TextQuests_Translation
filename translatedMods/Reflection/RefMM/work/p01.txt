@@ -1,0 +1,140 @@
+1	Acrynoform v1.01
+2	A third-level micromodule. Adds a "smart" acryn to any equipment of <color=255,70,0>non-maloq</color> make, designed to help the devices perform their main functions. Because of software conflicts, the effect of the device's own acryn will be suppressed. Alas, equipment without an acryn reduces the effectiveness of the "smart" acryn to <clr>2%<clrEnd>, so installation into non-acryn equipment has been blocked in software.
+3	Gripper range: <bonHookRadius> million km
+4	Reduces acryn debuffs by <clr>20<clrEnd>%
+5	Reduces acryn bonuses by <clr>30<clrEnd>%
+6	Tank capacity: <bonFuel> units
+7	Acrynoform v1.02
+8	A second-level micromodule. Adds a "smart" acryn to any equipment of <color=255,70,0>non-maloq</color> make, designed to help the devices perform their main functions. Because of software conflicts, the effect of the device's own acryn will be suppressed. Alas, equipment without an acryn reduces the effectiveness of the "smart" acryn to <clr>2%<clrEnd>, so installation into non-acryn equipment has been blocked in software.
+9	Reduces acryn debuffs by <clr>40<clrEnd>%
+10	Reduces acryn bonuses by <clr>60<clrEnd>%
+11	Acrynoform v1.03
+12	A first-level micromodule. Adds a "smart" acryn to any equipment of <color=255,70,0>non-maloq</color> make, designed to help the devices perform their main functions. Because of software conflicts, the effect of the device's own acryn will be suppressed. Alas, equipment without an acryn reduces the effectiveness of the "smart" acryn to <clr>2%<clrEnd>, so installation into non-acryn equipment has been blocked in software.
+13	Reduces acryn debuffs by <clr>60<clrEnd>%
+14	Reduces acryn bonuses by <clr>90<clrEnd>%
+15	Antidroid
+16	A third-level micromodule. A development by <color=255,70,0>maloq</color> scientists, who were showered with requests from famous warriors and fellow maloqs about the need to knock out the enemy repair <clr>droid<clrEnd> as quickly as possible in battle. The learned men thought it over and decided to add a system with an extra small barrel whose purpose is to detect the enemy droid and try to disable it with aimed fire. But, most strangely, the micromodule managed to integrate into the droid itself too, and in that case the system tries to destroy its own carrier module, which naturally reduces the repair droid's <clr>effectiveness<clrEnd>.
+17	Additional effect: <clr>blocks the droid<clrEnd>
+18	Artichoke
+19	A first-level micromodule. A non-standard modification of <color=50,150,230>human</color> and <color=220,140,245>faeyan</color> multiresonators. Adds ion and EMP charges to their ammunition, and also installs an alternative guidance system used on space stations.
+20	Cost: <clr>+70%<clrEnd>
+21	Additional effect: <clr>EM interference, ionization, engine overheating<clrEnd>
+22	Asterite
+23	A third-level micromodule. By changing the protective layer, it makes the hull more resistant to <clr>asteroid hits<clrEnd>. A hull with such a coating also resists <clr>hits from enemy projectiles<clrEnd> somewhat better.
+24	Reduces hull susceptibility to <clr>asteroid impacts<clrEnd> by <clr>25<clrEnd>%
+25	A second-level micromodule. By changing the protective layer, it makes the hull more resistant to <clr>asteroid hits<clrEnd>. A hull with such a coating also resists <clr>hits from enemy projectiles<clrEnd> somewhat better.
+26	Reduces hull susceptibility to <clr>asteroid impacts<clrEnd> by <clr>50<clrEnd>%
+27	A first-level micromodule. By changing the protective layer, it makes the hull more resistant to <clr>asteroid hits<clrEnd>. A hull with such a coating also resists <clr>hits from enemy projectiles<clrEnd> somewhat better.
+28	Reduces hull susceptibility to <clr>asteroid impacts<clrEnd> by <clr>75<clrEnd>%
+29	FFM-7
+30	A first-level micromodule. Part of a small series of joint <color=220,140,245>faeyan</color>-<color=50,150,230>human</color> developments under the common motto "Faster, Farther, Mightier," which formed the basis of the abbreviated name of all micromodules in the series. The license to use this series was bought by the <color=255,70,0>maloqs</color> because they liked the name. Improves the characteristics of the <clr>gripper<clrEnd>, <clr>engine<clrEnd> and <clr>radar<clrEnd> in several parameters, but only very, very <clr>slightly<clrEnd>.
+31	Gripper pull speed up close: <bonHookMinSpeed>
+32	FFM-9
+33	A second-level micromodule. Part of a small series of joint <color=220,140,245>faeyan</color>-<color=50,150,230>human</color> developments under the common motto "Faster, Farther, Mightier," which formed the basis of the abbreviated name of all micromodules in the series. The license to use this series was bought by the <color=255,70,0>maloqs</color> because they liked the name. Increases several parameters of any <clr>weapon<clrEnd>, albeit slightly.
+34	Missile and torpedo speed: <clr>+75<clrEnd> units
+35	Slightly increases the weapon's <clr>rate of fire<clrEnd>, so that it fires faster than enemy weapons
+36	FFM-11
+37	A first-level micromodule. Part of a small series of joint <color=220,140,245>faeyan</color>-<color=50,150,230>human</color> developments under the common motto "Faster, Farther, Mightier," which formed the basis of the abbreviated name of all micromodules in the series. The license to use this series was bought by the <color=255,70,0>maloqs</color> because they liked the name. Raises all characteristics of <clr>energy<clrEnd> and <clr>splinter<clrEnd> weapons.
+38	Rate of fire: +<clr>1<clrEnd>
+39	Firing order: <bonShotSpeed>
+40	A first-level micromodule. Part of a small series of joint <color=220,140,245>faeyan</color>-<color=50,150,230>human</color> developments under the common motto "Faster, Farther, Mightier," which formed the basis of the abbreviated name of all micromodules in the series. The license to use this series was bought by the <color=255,70,0>maloqs</color> because they liked the name. Slightly increases all characteristics of <clr>missile<clrEnd> weaponry.
+41	Missile and torpedo speed: <clr>+115<clrEnd> units
+42	Number of salvos: <clr>+1<clrEnd>
+43	Weapon ammo: <bonAmmo> pcs.
+44	Battery
+45	A first-level micromodule. Turns the <clr>Flux<clrEnd> into a heavy defensive weapon by duplicating standard parts and adding a heavy external charge concentrator. The resulting design is extremely sturdy and massive, but the cost of repairing such an installation also becomes significantly higher.
+46	Size: <clr>+200<clrEnd>%
+47	Cost: <clr>+400<clrEnd>%
+48	Reliability: <clr>+120<clrEnd>%
+49	Rate of fire: <clr>+2<clrEnd>
+50	Centy
+51	A second-level micromodule. Replaces the most expensive parts of the equipment with cheaper analogues and degrades the overall appearance as much as possible, which leads to a colossal price reduction - by <clr>10<clrEnd> times - while preserving performance at the same level. Unfortunately, <color=50,255,200>dominator</color> equipment is <color=255,20,20>immune</color> to such manipulations.
+52	Shuttle
+53	A third-level micromodule. Turns any <clr>ship<clrEnd> into a trader's dream... And into the dream of a pirate who wants to take something from such a trader.
+54	Size: <clr>+150%<clrEnd>
+55	Cost: <clr>+35%<clrEnd>
+56	Increases hull susceptibility by <clr>75<clrEnd>%
+57	Closes <clr>2 artifact slots, afterburner, gripper, scanner and 1 weapon bay<clrEnd>
+58	Farshot
+59	A first-level micromodule. A set of various improvements to the <clr>splinter weapon<clrEnd>, which together significantly increase its total <clrEnd>range<clrEnd> - even <clrEnd>better than universal micromodules<clrEnd>, thanks to the principle of specialization.
+60	Deformer
+61	A third-level micromodule. Turns the <clr>hull<clrEnd> into something better suited to the realities of space battles.
+62	Cost: <clr>+30%<clrEnd>
+63	Increases hull susceptibility by <clr>11<clrEnd>%
+64	Opens <clr>2 artifact slots and 2 weapon slots<clrEnd>, closing the <clr>scanner, afterburner and gripper<clrEnd>
+65	A second-level micromodule. Significantly improves the <clr>industrial laser<clrEnd> by the mundane addition of extra barrels and improved charge concentrators. Alas, the <color=255,215,25>gaals</color> resolutely <color=255,20,20>refused</color> to use this modification, as a peaceful tool is already excessively militarized.
+66	Size: <clr>+90%<clrEnd>
+67	Cost: <clr>+200%<clrEnd>
+68	EMP-I
+69	A third-level micromodule. A development of the <color=220,140,245>faeyans</color>. Replaces <clr>splinter weapon<clrEnd> projectiles with ones fitted with a special module that, when the projectile detonates, causes interference in the operation of enemy equipment, with increased firepower but shorter range and higher cost.
+70	Additional effect: <clr>EM interference<clrEnd>
+71	EMP-II
+72	A second-level micromodule. A development of the <color=220,140,245>faeyans</color>. Replaces <clr>splinter weapon<clrEnd> projectiles with ones fitted with a special module that, when the projectile detonates, causes interference in the operation of enemy equipment, with increased firepower but shorter range and higher cost. Quite powerful EM interference even damages the integrity of the enemy's equipment.
+73	Additional effect: <clr>ignores defense<clrEnd>
+74	EMP-III
+75	A first-level micromodule. A development of the <color=220,140,245>faeyans</color>. Replaces <clr>splinter weapon<clrEnd> projectiles with ones fitted with a special module that, when the projectile detonates, causes interference in the operation of enemy equipment, with increased firepower but shorter range and higher cost. Quite powerful EM interference even damages the integrity of the enemy's equipment, and can also disrupt the operation of the enemy's droid and weapons.
+76	Additional effect: <clr>EM interference, equipment destruction, blocks weapons and the droid<clrEnd>
+77	Harpoon
+78	A second-level micromodule. A <clr>Coalition<clrEnd> development aimed at retrofitting <clr>missile weapons<clrEnd>. An additional system for catapulting the projectile is integrated into the missile launch silos, and the ammunition itself gets more room for fuel and engine. Naturally, against the backdrop of a colossal speed gain, there is a drop in the damage dealt.
+79	Cost: <clr>+45%<clrEnd>
+80	Damage bonus: <clr>15<clrEnd>%
+81	Gyrostab
+82	A second-level micromodule. A package of <clr>splinter weapon<clrEnd> modifications, including installing a gyrostabilizer in the weapon slot, which improves the grouping of fire and therefore the permissible range, as well as rate of fire, which overall substantially increases the weapon's firepower, as well as its volume, cost and rate of wear.
+83	Durability: <clr>-20%<clrEnd>
+84	Distortion
+85	A third-level micromodule. By introducing a shot distortion technology <clr>into any Coalition weapon<clrEnd>, an EM wave effect appears on hitting the target, interfering with the operation of the enemy's equipment.
+86	Prospector
+87	A second-level micromodule. An extremely <clr>peaceful<clrEnd> hull modification created by the joint work of <color=220,140,245>faeyan</color> and <color=255,215,25>gaal</color> pacifist scientists. Intended for use by explorers of the wastelands of <clr>uninhabited planets<clrEnd>, since by installing the newest remote control systems for <clr>probe<clrEnd> activity, the possible <clr>number<clrEnd> used simultaneously is increased. As a nice bonus, the comfortable pilot's seat creates favorable conditions for <clr>stimulating<clrEnd> the body. Naturally, the hull's combat characteristics have <clr>decreased<clrEnd> considerably
+88	Increases hull susceptibility by <clr>20<clrEnd>% to <clr>all<clrEnd> types of weapons
+89	Closes <clr>1 weapon<clrEnd> bay
+90	Opens <clr>1<clrEnd> <clr>artifact<clrEnd> slot and an <clr>afterburner<clrEnd> slot
+91	Adds <clr>4<clrEnd> probes to the pilot's usage limit
+92	Adds <clr>1<clrEnd> stimulator to the pilot's limit
+93	Kappa Emitter
+94	A second-level micromodule. Based on Kappa radiation, it slightly boosts the damage of <clr>energy<clrEnd> and <clr>missile<clrEnd> weapons, also adding an <clr>ionization<clrEnd> effect to them. The radiation itself negatively affects the durability characteristics of the equipment.
+95	Additional effect: <clr>ionization<clrEnd>
+96	A third-level micromodule. A <clr>Coalition<clrEnd> modification of <clr>missiles<clrEnd>. Adds to each projectile a small and fairly light module that generates additional <clr>speed<clrEnd>.
+97	Controller
+98	A third-level micromodule. A <clr>Coalition<clrEnd> development to aid <clr>explorer rangers<clrEnd> - by adding an intelligent <clr>probe<clrEnd> control program to the onboard computer, it lets the pilot control two more.
+99	Probe limit: <bonZonds> pcs.
+100	Mechanicum
+101	A third-level micromodule. Introduces several very <clr>useful programs<clrEnd> into the ship's onboard computer. Thanks to the useful software, the AI provides qualitatively better conditions for <clr>equipment<clrEnd> and <clr>probes<clrEnd>, which has a positive effect on their wear resistance and other parameters. Naturally, <color=255,70,0>maloqs</color> and <color=198,128,80>pirates</color> <color=255,20,20>refused</color> such technologies as useless.
+102	Cost: <clr>+10%<clrEnd>
+103	Milito Patch 0.12
+104	A third-level micromodule. One of the <clr>early<clrEnd> versions of the patch. Performs a complete reflash of the <clr>weaponry<clrEnd>, which significantly raises its combat characteristics. The <color=255,215,25>gaals</color> and <color=255,70,0>maloqs</color> <color=255,20,20>refused</color> the patch - the former for understandable reasons, the latter because they need nothing but pure damage.
+105	Size: <clr>+5%<clrEnd>
+106	Milito Patch 0.65
+107	A second-level micromodule. A <clr>unique<clrEnd> version of the patch. As part of the development of micromodules that increase the combat power of ships, it was decided to also work on increasing survivability. This time <clr>nobody refused<clrEnd> the patch.
+108	Milito Patch 1.2.4
+109	A first-level micromodule. A <clr>unique<clrEnd> version of the patch. As part of the development of micromodules that increase the combat power of ships, it was decided to also work on increasing survivability. This time <clr>nobody refused<clrEnd> the patch.
+110	Milito Patch 1.3.14
+111	A first-level micromodule. A <clr>unique<clrEnd> version of the patch. After long experiments, the specialists of the design bureau that developed and advanced the "Milito" patch managed to create a new version of the patch specifically for <clr>missile launchers<clrEnd>. In view of this, the patch became semi-official. The <color=255,215,25>gaals</color> stubbornly stood their ground and <color=255,20,20>refused</color> this version of the patch too.
+112	Size: <clr>+15%<clrEnd>
+113	Additional effect: <clr>increased damage to damaged targets<clrEnd>
+114	Milito Patch 1.3.17
+115	A first-level micromodule. A <clr>unique<clrEnd> version of the patch. After long experiments, the specialists of the design bureau that developed and advanced the "Milito" patch managed to create a new version of the patch specifically for <clr>Lirecrons<clrEnd>. The <color=255,215,25>gaals</color> stubbornly stood their ground and <color=255,20,20>refused</color> this version of the patch too.
+116	Milito Patch 1.4.21
+117	A first-level micromodule. A <clr>unique<clrEnd> version of the patch. After long experiments, the specialists of the design bureau that developed and advanced the "Milito" patch managed to create a new version of the patch specifically for <clr>MaBoKiTs<clrEnd>. The <color=255,215,25>gaals</color> stubbornly stood their ground and <color=255,20,20>refused</color> this version of the patch too.
+118	Missiles per salvo: <bonShots> units
+119	Milito Patch 1.4.23
+120	A first-level micromodule. A <clr>unique<clrEnd> version of the patch. After long experiments, the specialists of the design bureau that developed and advanced the "Milito" patch managed to create a new version of the patch specifically for <clr>missile launchers<clrEnd>. The <color=255,215,25>gaals</color> stubbornly stood their ground and <color=255,20,20>refused</color> this version of the patch too.
+121	Milito Patch 1.4.27
+122	A first-level micromodule. A <clr>unique<clrEnd> version of the patch. After long experiments, the specialists of the design bureau that developed and advanced the "Milito" patch managed to create a new version of the patch specifically for <clr>torpedo-type devices<clrEnd>. The <color=255,215,25>gaals</color> stubbornly stood their ground and <color=255,20,20>refused</color> this version of the patch too.
+123	Milito Patch 2.73
+124	A first-level micromodule. A patch of the <clr>newest<clrEnd> generation. The first project of a previously frozen series on rethinking early Coalition weaponry. The <color=255,215,25>gaals</color> stubbornly stood their ground and <color=255,20,20>refused</color> this version of the patch too.
+125	<clr>Treton<clrEnd> size: <clr>+30%<clrEnd>
+126	<clr>Treton<clrEnd> cost: <clr>+70%<clrEnd>
+127	<clr>Phaser<clrEnd> size: <clr>+30%<clrEnd>
+128	<clr>Phaser<clrEnd> cost: <clr>+90%<clrEnd>
+129	Milito Patch 0.21
+130	A third-level micromodule. One of the <clr>early<clrEnd> versions of the patch. Performs a complete reflash of the <clr>weaponry<clrEnd>, but aimed primarily at increasing firing range. The <color=255,215,25>gaals</color> and <color=255,70,0>maloqs</color> <color=255,20,20>refused</color> the patch - the former for understandable reasons, the latter because they need nothing but pure damage.
+131	Size: <clr>+8%<clrEnd>
+132	Cost: <clr>+17%<clrEnd>
+133	Milito Patch 0.44
+134	A second-level micromodule. One of the <clr>intermediate<clrEnd> versions of the patch. Performs a complete reflash of the <clr>weaponry<clrEnd>, which significantly raises its combat characteristics. The <color=255,215,25>gaals</color> and <color=255,70,0>maloqs</color> <color=255,20,20>refused</color> the patch - the former for understandable reasons, the latter because they need nothing but pure damage.
+135	Cost: <clr>+18%<clrEnd>
+136	Milito Patch 0.48
+137	A second-level micromodule. One of the <clr>early<clrEnd> versions of the patch. Performs a complete reflash of the <clr>weaponry<clrEnd>, which significantly raises its combat characteristics. A unique <color=255,70,0>maloq</color> development, showing the world an example of the radical use of technology in the name of increasing a weapon's firepower.
+138	Milito Patch 0.62
+139	A second-level micromodule. A <clr>pre-release<clrEnd> version of the patch. Performs a full-scale complete reflash of the <clr>weaponry<clrEnd>, which significantly raises its combat characteristics. A quite unexpected effect was the ability of the weapon to direct <clr>electromagnetic interference<clrEnd>. The <color=255,215,25>gaals</color> and <color=255,70,0>maloqs</color> refused the patch - the former for understandable reasons, the latter because they need nothing but pure damage.
+140	Milito Patch 1.0

@@ -1,0 +1,75 @@
+141	A first-level micromodule. The <clr>final<clrEnd> version of the patch. Fully and maximally improves any <clr>weaponry<clrEnd>, which raises its combat characteristics by an order of magnitude. The <color=255,215,25>gaals</color> stood their ground and still <color=255,20,20>refused</color> the patch, unlike the <color=255,70,0>maloqs</color>, who changed their opinion of the micromodule. The <color=198,128,80>pirates</color>, who closely watched and stole all the previous versions of the patch, this time <color=255,20,20>missed</color> the micromodule.
+142	Additional effect: <clr>deals more damage to damaged targets<clrEnd>
+143	Milito Patch 0.30
+144	A third-level micromodule. One of the <clr>early<clrEnd> versions of the patch. Aimed first of all at improving <clr>missile<clrEnd> weaponry, which is why it falls behind other early versions of the patch in improving other types of characteristics. Only the <color=255,215,25>gaals</color> <color=255,20,20>refused</color> the license.
+145	Cost: <clr>+15%<clrEnd>
+146	Milito Patch 1.1
+147	A first-level micromodule. An <clr>updated<clrEnd> version of the patch. Takes into account the comments and requests of users collected after the patch was released to the public. The <color=255,215,25>gaals</color> stood their ground and again <color=255,20,20>refused</color> the patch. The <color=198,128,80>pirates</color>, who closely watched and stole all the previous versions of the patch, again <color=255,20,20>missed</color> the micromodule this time.
+148	Cost: <clr>+55%<clrEnd>
+149	Additional effect: <clr>Increased damage to damaged targets<clrEnd>
+150	Milito Patch 1.1.15
+151	A first-level micromodule. A <clr>unique<clrEnd> version of the patch. After long experiments, the specialists of the design bureau that developed and advanced the "Milito" patch managed to create a new version of the patch based on the principle of resonances. In view of this, the patch became semi-official. The <color=255,215,25>gaals</color> stubbornly stood their ground and <color=255,20,20>refused</color> this version of the patch too.
+152	Additional effect: <clr>increased damage to damaged targets, ionization, EM interference, engine overheating<clrEnd>
+153	Minigunner
+154	A second-level micromodule. The well-forgotten old is new again - that is what <color=50,150,230>humans</color> decided when they recalled ancient developments of <clr>simple and extremely rapid-fire small arms<clrEnd>, which, most importantly, were cheap, unpretentious and easy to produce. That is why they took on reworking the <clr>industrial laser<clrEnd>. This development was very much to the liking of the <color=255,70,0>maloqs</color>, who obtained a license to use this micromodule.
+155	Rate of fire: +<clr>3<clrEnd>
+156	Nanocarrier
+157	A first-level micromodule. A <color=50,255,200>dominator</color> development. Reworks <clr>any weaponry<clrEnd> so that the piercing element begins to concentrate for pinpoint penetration of the enemy ship's defense and delivery of nanobots to the enemy hull, which <clr>makes it possible to restore your own ship using matter from the enemy ship<clrEnd>. Naturally, damage to an undefended target becomes smaller, and for some reason delivering the <clr>final blow<clrEnd> and destroying the enemy turn out to be impossible.
+158	The damage of <clr>any<clrEnd> weaponry is reduced by <clr>30<clrEnd> units.
+159	Additional effect: <clr>cannot destroy the target, restores structure by dealing damage<clrEnd>
+160	Lightener
+161	A second-level micromodule. To increase ship <clr>speed<clrEnd>, <color=220,140,245>faeyan</color> specialists created many additional subsystems that increase the capabilities of the engine and also improve fuel characteristics. But the group working on this micromodule made an unconventional decision. The faeyans invited the <color=255,70,0>maloqs</color>, who shared their developments for increasing hull size, after which they reversed their effect, additionally "sprinkling" it with antimatter.
+162	Thanks to the significant reduction in hull size, its <clr>maneuvering<clrEnd> and <clr>speed<clrEnd> qualities have increased significantly, but the unplanned change in hull shape led to non-standard operating conditions for the <clr>armor<clrEnd>, which <clr>did not do its capabilities any good<clrEnd>. And another price of the reduced ship capacity was an accidentally closed <clr>artifact<clrEnd> slot
+163	Reduces hull susceptibility by <clr>20<clrEnd>%
+164	Increases the <clr>mobility<clrEnd> skill by <clr>2<clrEnd>
+165	Closes <clr>1<clrEnd> <clr>artifact<clrEnd> slot
+166	A third-level micromodule. Embeds a unique semi-automatic blocker in the weapon that prevents destroying the target. Bought up by the peace committees of the <color=220,140,245>faeyan</color>, <color=255,215,25>gaal</color> and <color=50,150,230>human</color> races, and also stolen by the <color=198,128,80>pirates</color>, who also saw <clr>some benefit<clrEnd> in this micromodule.
+167	Cost: <clr>-10%<clrEnd>
+168	Additional effect: <clr>cannot destroy the target<clrEnd>
+169	Pacifier
+170	A third-level micromodule. Turns a weapon into a less dangerous tool of threats, which cannot even finish off a target - because internal algorithms block a lethal shot. The rights to use such a micromodule were bought only by the <color=255,215,25>gaals</color> and especially pacifist <color=50,150,230>humans</color>. On the plus side - the weapon becomes lighter, cheaper and more wear-resistant.
+171	Durability: <clr>+100%<clrEnd>
+172	Size: <clr>-80%<clrEnd>
+173	Cost: <clr>-40%<clrEnd>
+174	Reprocessor
+175	A third-level micromodule. Removes part of the <clr>ammunition<clrEnd> from a missile weapon, thereby reducing its weight. The <color=255,215,25>gaals</color>, for understandable reasons, <color=255,20,20>refused</color> the license.
+176	Turncoat-0.44
+177	A second-level micromodule. A modification of the ordinary <clr>Turncoat<clrEnd>. It is a weaker but more common version of it. Alas, only the <color=255,70,0>maloqs</color>, <color=130,200,40>pelengs</color> and <color=198,128,80>pirates</color> licensed its use. Although "licensing" can only be said of the maloqs, and not entirely even then...
+178	The <clr>positive properties of the acryn<clrEnd> become <clr>negative<clrEnd>, and the <clr>negative<clrEnd> ones become <clr>positive<clrEnd>.
+179	Turncoat-Ultra
+180	A first-level micromodule. A modification of the ordinary <clr>Turncoat<clrEnd>. This object not only turns all the acryn's minuses into pluses and its pluses into minuses, but also toys with the hull's susceptibility, making it super-susceptible to all types of damage except <clr>missile<clrEnd>, to which the hull becomes practically invulnerable.
+181	<clr>Susceptibility to energy damage: +200%<clrEnd>
+182	<clr>Susceptibility to splinter damage: +200%<clrEnd>
+183	<clr>Susceptibility to missile damage: -50%<clrEnd>
+184	Translator
+185	A third-level micromodule. Contains a set of guidance and control systems for long-range <clr>missiles<clrEnd>, suitable for all known types of <clr>salvo-fire<clrEnd> systems
+186	Lirolasmic
+187	A first-level micromodule. A <clr>Coalition<clrEnd> development. Improves the <clr>plasma gun<clrEnd> in every parameter to increase its competitiveness against other weapons of its class.
+188	Additional effect: <clr>armor weakening<clrEnd>
+189	Absorber
+190	A second-level micromodule. Reworks the mechanisms of the <clr>splinter weapon<clrEnd> to raise the effectiveness of its work. Naturally, the size and maintenance cost of such equipment have risen significantly. This micromodule was licensed by <color=50,150,230>humans</color> and <color=255,70,0>maloqs</color>, and the <color=130,200,40>pelengs</color>, as usual, stole it from the latter.
+191	Size: <clr>+80%<clrEnd>
+192	<clr>Slows the target<clrEnd>
+193	Additional effect: <clr>engine overheating<clrEnd>
+194	Presecutor
+195	A second-level micromodule. Installs a top-quality fuse and extra insulation for all wiring in a <color=255,70,0>maloq</color> or <color=130,200,40>peleng</color> shield generator, and also switches it to a gentle operating mode.
+196	Durability: <clr>+70%<clrEnd>
+197	Priorter
+198	A third-level micromodule. Improves any weapon, making it <clr>faster-firing<clrEnd>. Alas, the installation for reserve energy accumulation for a quicker shot takes up quite a lot of <clr>space<clrEnd>.
+199	<clr>Increases the weapon's rate of fire<clrEnd>
+200	Size: <clr>+10<clrEnd>%
+201	Junior Hardener
+202	A second-level micromodule. Contains a set of limiters and fuses protecting <clr>any Coalition equipment<clrEnd> from excessive damage. Alas, for this the <clr>upper ceiling of operation<clrEnd> of the equipment had to be lowered - precisely when the equipment wore out the most.
+203	Durability: <clr>+50%<clrEnd>
+204	Intermediate Hardener
+205	Durability: <clr>+75%<clrEnd>
+206	Senior Hardener
+207	A first-level micromodule. Contains a unique set of limiters and fuses protecting <clr>any Coalition equipment<clrEnd> from excessive damage. Alas, for this the <clr>upper ceiling of operation<clrEnd> of the equipment had to be lowered - precisely when the equipment wore out the most.
+208	Durability: <clr>+150%<clrEnd>
+209	Socketeer
+210	A third-level micromodule. Replaces the connectors of the <clr>weapon slot<clrEnd> with a set of adapters for <clr>two slots<clrEnd> for <clr>artifacts<clrEnd>
+211	Regravitor
+212	A second-level micromodule. Creates a gravitational counterweight, increasing the <clr>speed<clrEnd> of all <clr>Coalition<clrEnd> equipment - except <color=255,70,0>maloq</color>, which the installation at the set power simply <color=255,20,20>cannot handle</color>.
+213	Wind-up
+214	A first-level micromodule. A unique <color=255,215,25>gaal</color> development released in two variants. As is well known, a specialized tool is by definition better than a universal one. That is why the gaals decided to create a unique hypnotic-meditative module that lets certain pilot skills be fully unlocked at the cost of the complete degradation of others. Available only to the gaals themselves and to <color=50,150,230>humans</color> who believe all this nonsense.
+215	Increases the <clr>attack<clrEnd> skill by <clr>6<clrEnd>

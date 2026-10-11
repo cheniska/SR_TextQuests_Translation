@@ -1,0 +1,63 @@
+216	Increases the <clr>charisma<clrEnd> skill by <clr>6<clrEnd>
+217	Increases the <clr>leadership<clrEnd> skill by <clr>6<clrEnd>
+218	The other skills <clr>degrade completely<clrEnd>
+219	A first-level micromodule. A unique <color=255,215,25>gaal</color> development released in two variants. As is well known, a specialized tool is by definition better than a universal one. That is why the gaals decided to create a unique hypnotic-meditative module that lets certain pilot skills be fully unlocked at the cost of the complete degradation of others. Available only to the gaals themselves</color> and to humans who believe all this nonsense</color>.
+220	Increases the <clr>mobility<clrEnd> skill by <clr>6<clrEnd>
+221	Increases the <clr>technology<clrEnd> skill by <clr>6<clrEnd>
+222	Increases the <clr>commerce<clrEnd> skill by <clr>6<clrEnd>
+223	Aimer
+224	A third-level micromodule. A <clr>Coalition<clrEnd> development. Updates the formulas for calculating the flight of the target and the projectile to the latest word in science, which somewhat increases the pilot's ability to unlock their <clr>combat potential<clrEnd>.
+225	Increases the <clr>attack<clrEnd> skill by <clr>2<clrEnd>
+226	Maneuverator
+227	A third-level micromodule. A <clr>Coalition<clrEnd> development. Introduces several new and very effective <clr>evasive maneuvers<clrEnd> into the ship's onboard computer.
+228	Safeguard
+229	A third-level micromodule. A <clr>Coalition<clrEnd> development. Installs in the onboard computer several systems for detecting and reporting critical operating readings of the equipment, which allows somewhat reducing <clr>equipment wear<clrEnd> in emergencies.
+230	Increases the <clr>technology<clrEnd> skill by <clr>2<clrEnd>
+231	Hustler
+232	A third-level micromodule. A <clr>Coalition<clrEnd> development. Introduces into the onboard computer several simple pieces of <clr>financial analytics<clrEnd> advice from <clr>Tainkovv<clrEnd>, useful to an ordinary ranger, though useless to market bigwigs.
+233	Increases the <clr>commerce<clrEnd> skill by <clr>2<clrEnd>
+234	Cutie
+235	A third-level micromodule. A <clr>Coalition<clrEnd> development. A collection of useful little programs teaching etiquette on various planets. They help you not to screw up when <clr>dealing with the powers that be<clrEnd>.
+236	Increases the <clr>charisma<clrEnd> skill by <clr>2<clrEnd>
+237	Le Comandante
+238	A third-level micromodule. A <clr>Coalition<clrEnd> development. Contains a quasi-intelligent program to help the ranger in <clr>managing subordinates<clrEnd>.
+239	Increases the <clr>leadership<clrEnd> skill by <clr>2<clrEnd>
+240	Craftsman
+241	A second-level micromodule. A <clr>Coalition<clrEnd> development. Introduces into the onboard computer an AI with an elevated level of permissions, which greatly eases and improves the quality of almost <clr>any activity<clrEnd> a ranger engages in across the expanses of the Galaxy
+242	Increases <clr>all<clrEnd> skills by <clr>2<clrEnd>
+243	Helper
+244	A second-level micromodule. A <clr>Coalition<clrEnd> development created specially for novice rangers. Makes it easier for a ranger to gather starting capital by helping to obtain and carry out various government assignments, make deals and much more. The <color=255,70,0>maloqs</color> and <color=255,215,25>gaals</color> resolutely <color=255,20,20>rejected</color> this micromodule - the former because of "cheating" and the "corruption" of recruits' minds, the latter "because it prevents the individual from gaining important experience from the mistakes of the first days."
+245	Increases the <clr>technology<clrEnd> skill by <clr>1<clrEnd>
+246	Increases the <clr>commerce<clrEnd> skill by <clr>3<clrEnd>
+247	Termite
+248	A second-level micromodule. Replaces the warheads of <clr>splinter weapons<clrEnd> or <clr>missile launchers<clrEnd> with the "Termite" - a projectile filled with nanorobots specializing in destroying hull armor. Compatible with the weaponry of all races <color=255,20,20>except</color> the <color=255,70,0>maloqs</color>.
+249	Fuelizer
+250	A second-level micromodule. A micro-installation for generating high-yield fuel. Can be used in all <clr>Coalition engines<clrEnd>, improving their efficiency.
+251	Scavenger-Energos
+252	A first-level micromodule. A <color=198,128,80>pirate</color> development, stolen by the <color=130,200,40>pelengs</color>. Replaces some of the weapon's focusing and boosting elements with <clr>additional barrels<clrEnd>. Plus, the built-in computer is reconfigured to work on reducing the enemy's ability to <clr>resist<clrEnd>. Naturally, the damage of an individual barrel drops to an unacceptable level, but pirates will accept anything for victory.
+253	<color=254,9,0>Version for energy and splinter weaponry</color>
+254	Size: <clr>+40%<clrEnd>
+255	Rate of fire: +<clr>2<clrEnd>
+256	Additional effect: <clr>EM interference, equipment destruction, engine damage, blocks the droid and weapons, maximized engine overheating<clrEnd>
+257	Scavenger-Rocket
+258	A first-level micromodule. A <color=198,128,80>pirate</color> development, stolen by the <color=130,200,40>pelengs</color>. Replaces some of the weapon's focusing and boosting elements with <clr>additional missile silos<clrEnd>. Plus, the built-in computer is reconfigured to work on reducing the enemy's ability to <clr>resist<clrEnd>. Naturally, the damage of an individual missile drops to an unacceptable level, but pirates will accept anything for victory.
+259	<color=254,9,0>Version for missile weaponry</color>
+260	A first-level micromodule. Seriously reworks the <clr>Treton<clrEnd>, making it more powerful, more expensive and heavier. The rights to use it were bought only by the <color=255,70,0>maloqs</color>, <color=130,200,40>pelengs</color> and <color=50,150,230>humans</color>, and also, as usual, <color=198,128,80>pirated</color> by the <clr>gentlemen of the great hyperway<clrEnd>.
+261	Durability: <clr>+20%<clrEnd>
+262	A first-level micromodule. Improves the <clr>Caphasitor<clrEnd> by increasing its <clr>rate of fire<clrEnd>. Alas, the increased rate of fire is bad for damage, but the damage becomes <clr>more stable<clrEnd>
+263	Cost: <clr>-20%<clrEnd>
+264	Additional effect: <clr>has no damage spread<clrEnd>
+265	Enlarger
+266	A third-level micromodule. An attempt by <clr>Coalition<clrEnd> scientists to raise the effectiveness of <clr>any equipment<clrEnd>, as well as of the hull, by one order of magnitude with a micromodule. Alas, because of a calculation error the effectiveness increased by only <clr>one conventional unit<clrEnd>, which later led to the dissolution of the design bureau. The ubiquitous <color=198,128,80>pirates</color>, naturally, stole the "secret" development, but came to their senses too late - they had already spent time on it, so they had to take it.
+267	Durability: <clr>+1%<clrEnd>
+268	Size: <clr>+1%<clrEnd>
+269	Cost: <clr>+1%<clrEnd>
+270	Missile and torpedo speed: <clr>+1<clrEnd> unit
+271	Increases hull susceptibility by <clr>1<clrEnd>%
+272	Increases the <clr>first<clrEnd> skill by <clr>1<clrEnd>
+273	Opens the <clr>first and the first from the end<clrEnd> equipment slots
+274	Raises the weapon's <clr>rate of fire<clrEnd> by <clr>1 conventional unit<clrEnd>
+275	Reduces the hull's <clr>susceptibility to asteroid hits<clrEnd> by <clr>1<clrEnd>%
+276	Grabber
+277	A second-level micromodule. Reworks the gripper systems for <clr>longer-range and faster<clrEnd> but <clr>weaker<clrEnd> attraction of an object. <color=255,20,20>Does not work</color> with <color=255,215,25>gaal</color> products.
+278	Gripper pull speed from afar: <bonHookMaxSpeed>.
