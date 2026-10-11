@@ -1,0 +1,180 @@
+1846	Go on, hand it over, just make it quick
+1847	Oh well, so be it - where should I put this autograph for you?
+1848	I don't have time for any nonsense right now
+1849	Listen, mister, I don't hand out any autographs, got it?! Now fly off before you get hurt!
+1850	[<clr>Examine the contents of the stash<clrEnd>]
+1851	And to you, no sick... Ah, right.
+1852	Enter the answer
+1853	By the way, pass this to your superiors: I have information about that malicious defaulter you were chasing, the one who brazenly cheated me. Forwarding the data.
+1854	They hire defective robots from Gaalvito ads, damn it...
+1855	Have you gone totally cuckoo over there? What automatic requests?! I won't respond to anything!
+1856	No way, you sly mug! I'll settle all my accounts with you right now!
+1857	This is a mistake! I've been set up! I'm not the one you need!
+1858	Yes, damn it, I most certainly do!
+1859	We'll see yet who confiscates whom...
+1860	I want to submit a request to review the debtor's identity
+1861	Thank you for your assistance, the information is being forwarded to the coordination center. Have a nice day.
+1862	Answer accepted. Sending a request to the support service, please wait.
+1863	After the check we conducted, we found interference with the identity recognition system. On behalf of <clr>Nanoloan Inc.<clrEnd> I apologize for the inconvenience. Have a nice day!
+1864	I regret to say your answer is incorrect again. The permitted number of attempts to compose a request is <clr>exhausted<clrEnd>.
+1865	Prepare for a scheduled confiscation. Have a nice day!
+1866	(x<clr>^2<clrEnd> - <clr>4<clrEnd>)<clr>^2<clrEnd> + <clr>3<clrEnd>(x<clr>^2<clrEnd> - <clr>4<clrEnd>) - <clr>10<clrEnd> = <clr>0<clrEnd>
+1867	Question: What is x<clr>^2<clrEnd> equal to?
+1868	A maloq bought a bottle of ekup from a peleng for <clr>300<clrEnd> cr. It is known that the peleng inflated the price of the bottle, and it cost the maloq <clr>280<clrEnd> cr. more than the contents.
+1869	Question: How many credits did the ekup in the bottle cost?
+1870	You gave an incorrect answer, attempts left <Count>:
+1871	In that case, as a measure of protection against automatic requests, you must give the correct answer to the following question (attempts left <Count>):
+1872	Dear <Player>, you are greeted by the automatic robot collector of <clr>Nanoloan Inc.<clrEnd>. According to our data, you have become the holder of promissory note <clr>No. 7854<clrEnd>. The amount of your current debt is <Cost> cr.
+1873	Please repay the stated debt as soon as possible. Otherwise we will be forced to confiscate all your cash property. The confiscation will be carried out by the <clr>impact-fragmentation<clrEnd> method, which the board of directors has recognized as the most effective in matters of recovering debts in particularly large amounts.
+1874	Collector B1-B4
+1875	Collector B0-B4
+1876	Would you like to file a request with our support service to review your case?
+1877	In that case I will not be able to send the request and will continue carrying out the assigned task. Have a nice day!
+1878	<clr>Nanoloan Inc.<clrEnd> thanks you for the timely repayment of your debt. Have a nice day!
+1879	<clr>Nanoloan Inc.<clrEnd> wishes you a nice day!
+1880	<clr>Nanoloan Inc.<clrEnd> no longer has any claims against you. Have a nice day!
+1881	Dear <Player>, you are greeted by the automatic collector bot of <clr>Nanoloan Inc.<clrEnd>. Please disconnect from this communication channel so as not to interfere with the bot's performance of its direct duties.
+1882	Oh, I see you dealt with those tin cans. And I never doubted you for a second! There he is - a legend in the flesh! And, uh... Forgive an old peleng, I didn't mean any harm by it. Let's quickly forget this unfortunate incident, shall we? Let's sit in the bar at the <clr>mercenary base<clrEnd>, put our heads together... First ekup's on me! You did save my life, after all, as they say.
+1883	Thanks a lot, pal - I'll never forget it! By the way, if you suddenly have any business with the <clr>hirelings at their base<clrEnd> - feel free to ask. I'm something like a local authority there, heh-heh, so I'll help as much as I can. Oh, and I almost forgot - catch a little present. To wet the acquaintance, so to speak. So long, Ranger!
+1884	Why did you do that, Ranger? I wanted to settle everything peacefully, and now we'll have to do it the old way...
+1885	We have nothing more to talk about, <Player>. End of transmission.
+1886	Whoa, it's Ranger <Player> himself! Saw you in the news recently. I'm a big fan of yours, and my niece <clr>Chekvusha<clrEnd> is just crazy about you! Tell me, may I ask for your autograph?
+1887	Thank you, <Player>! My niece will be so happy! I'll send you a tablet now, just put your fingerprint on it.
+1888	Ehh, my poor <clr>Chekvushechka<clrEnd>, how upset she'll be! I already promised her I'd definitely bring your autograph. Maybe you'll change your mind?
+1889	Thank you, <Player>! My niece will be so happy! I'll send you a tablet now, just leave your fingerprint on it.
+1890	You're rude, of course, <Player>. Talentless Rangerlings like you are a dime a dozen, and what good are they?
+1891	I won't distract you anymore - go to the devil yourself.
+1892	Why did you do that? I wanted to settle everything amicably, and now we'll have to do it the old way. Ehh...
+1893	Hey-hey, what's the matter with you, have you totally lost it!? Oh well, one pirate more, one pirate less, the Galaxy won't be any poorer...
+1894	Sorry, <Player>, but those lousy creditors gave me no peace. I didn't even know what hellhole to hide from them in. If you get rid of them, drop by the base - I owe you a case of beer and good snacks.
+1895	In <clr>Tziptzilot<clrEnd>'s vault you found just two items. A debit card with an impressive balance of <Money> cr. and a strange statuette, which you decided to keep just in case.
+1896	Newbie
+1897	Cadet
+1898	Pilot
+1899	Captain
+1900	Destroyer
+1901	Ace
+1902	Commander
+1903	Admiral
+1904	Greenhorn
+1905	Cabin Boy
+1906	Raider
+1907	Skipper
+1908	Cutthroat
+1909	Ataman
+1910	Khan
+1911	Baron
+1912	So, we recalled that you and he weren't on good terms, so we dealt with him in our own way, and therefore he won't bother you anymore.
+1913	Chief, an unpleasant type has gotten onto our station, his name is
+1914	I'm interested in changing allegiance
+1915	And rightly so. I never liked this system much either.
+1916	What, getting a bit hot, huh? We can pick you up from the <Star> system in <Days> days. Just keep in mind that after such an overload the generator will need at least <Cooldown> days to recover.
+1917	Do you confirm the request?
+1918	Well, if anything, watch yourself there - don't expose yourself. You're far more useful to us alive and well, boss.
+1919	Then hold on there, we're setting off now! And be ready to jump aboard within <WaitDays> days. Our generator simply can't withstand a longer delay at the intermediate hypercoordinate.
+1920	Of course, boss. How exactly do you want to use our generator?
+1921	As you may have noticed, boss, right now our HQ is inside a hyperspace bubble. By my calculations, we'll reach the <Star> system in just <DaysLeft> days. There's not much for us to do all that time, so I suggest you take a prime seat in the bar and wait for arrival in comfort.
+1922	As you say, boss.
+1923	Course to the <Star> system set - the hyperspace bubble is ready. Waiting for your confirmation to jump.
+1924	Sure? If you change your mind later, our bureaucrat hacks will have to warm up the printer again and copy all sorts of papers.
+1925	You're a bit fickle in your wishes, boss. Still, it's none of my business.
+1926	All right, give me all this damn waste paper. This month we'll be able to save on toilet paper.
+1927	Got you, collapsing the bubble.
+1928	It's your business, really, but keep in mind that we won't be able to jump anywhere today. The generator needs to cool down first.
+1929	Okay, chief - starting the hyperspace jump.
+1930	Portal opening in: 3... 2... 1...
+1931	Sorry, boss, but it seems there's simply nowhere for us to move right now.
+1932	No problem, chief. We can jump to <Star> in just <JumpTime> days, but first we need to get all the necessary papers.
+1933	As you remember, when arranging the permit to build the HQ you had to obtain <clr>permits<clrEnd> from representatives of all <clr>local planets<clrEnd>. If we want to relocate the HQ to another system, we'll have to resort to this dreary bureaucracy again. As head of the organization, it is you who must handle such documents. Will you agree to take it on?
+1934	In that case we can't move to the <Star> system. Sorry, boss - such is modern galactic law. For violating it our organization would be declared renegade, after which no sane client would want to deal with us.
+1935	Good. Then take this stack of paperwork and carefully fill it out with representatives of <clr>all planets<clrEnd> in the <Star> system. The procedure is standard, so there shouldn't be any particular problems.
+1936	Come back here as soon as you finish all the red tape, and I'll gladly order the boys to prepare for the jump.
+1937	Got you, boss. Which system do you want us to relocate to?
+1938	Requesting emergency extraction from the <Star> system
+1939	I want to relocate the HQ to another system
+1940	I changed my mind about moving the HQ to the <Star> system
+1941	Collected all the necessary signatures, we can head to <Star>
+1942	I want to change the HQ's position in this system
+1943	[too close to the star]
+1944	[too far from the star]
+1945	No, I think I'll manage here myself
+1946	Confirmed, launch
+1947	Relax and enjoy the flight
+1948	You asked me, and now I somehow doubt it...
+1949	Yes, sure as never in my life
+1950	Jump!
+1951	Good luck!
+1952	I changed my mind, deflate the bubble
+1953	What, again!? No way will I demean myself before these jerks again!
+1954	Ehh, what wouldn't you do for the job you love... I agree
+1955	To the <Star> system
+1956	Well, what are you waiting for? Let's go!
+1957	I think I'll use the generator some other time
+1958	To the coordinates of <clr>my ship<clrEnd>
+1959	To the coordinates of the planet <Planet>
+1960	Relax and wait for the return
+1961	Coordinates of <Place> set - the hyperspace bubble is formed. Waiting for your confirmation to jump.
+1962	the planet <Planet>
+1963	<clr>your ship<clrEnd>
+1964	Got you, boss. To what coordinates should we jump?
+1965	Glad to see you in good health, chief! We're about to jump back to the <Star> system. The generator is on its last legs, but its power should be enough for the final push. I suggest you rest and recover for now, we'll be home soon.
+1966	What was that, Ranger <Player>? Did I hear that right? You want me to issue you a permit to relocate to us an armed station that will answer to no government, where criminals can hide, and that will loom as a constant threat over our security? Perhaps I should also hand you the keys to the apartment where the money is kept?
+1967	A mercenary HQ, you say? Decided to carve yourself a tasty piece of our "intra-system pie"? Whoa, <Player>, that's quite a leap. Can you handle it?
+1968	I'd like to get a permit to relocate my mercenary HQ to your system
+1969	You have successfully completed the relocation of the HQ to the <Star> system. From now on your mercenaries will carry out their operations right from there.
+1970	The <Star> system you previously chose as the new HQ base was captured - further construction is impossible.
+1971	The <Star> system you previously chose as the new HQ base is not under the control of the <color=255,240,100>Coalition</color> - further construction is impossible.
+1972	The <Star> system you previously chose as the new HQ base is not under the control of the <color=255,240,100>pirate clan</color> - further construction is impossible.
+1973	You chose the <Star> system as the new location of your HQ. Before construction begins you need to obtain the approval of the rulers of all <color=255,240,100>local planets</color>.
+1974	You chose the <Star> system as the new location of your HQ and have already collected all the necessary papers and signatures. You can safely head back to the <clr>HQ<clrEnd> to finish the preparations and make the hyperspace jump.
+1975	<color=255,240,100>Relocating the HQ to another system</color>
+1976	It's done, boss - accept the work! The newest, mightiest and most quaketacular of all <color=255,240,100>battle cruisers</color> is ready!
+1977	Project: <clr>Battle Cruiser<clrEnd>
+1978	Description: Our genuine pride - a battle cruiser of our own for the <OrganisationName> organization! And although keeping even one such behemoth in service at the HQ shipyard will cost serious overhead, this beauty's firepower will multiply the defense of the whole system.
+1979	Pay for the construction - you won't regret it! Oh, and by the way, my own cousin is ready to take on the contract, so you can rest easy about the quality of work.
+1980	Cost: <Cost> cr.
+1981	Production time: <ProductionTime> days
+1982	Battle Cruiser
+1983	We finished assembling the <color=255,240,100>tranclucator</color>, boss. The new mechanical friend is waiting for you in the warehouse with enviable impatience.
+1984	[will become available in <NextProductionDaysLeft> days]
+1985	Project: <clr>Tranclucator<clrEnd>
+1986	Description: A standard tranclucator of the "Dolbobot" class, the kind my great-grandfather already used as autonomous labor. Since the start of Dominator aggression many have looked warily at these "guys", but you can rest easy - their electronic brains are totally unfit for a sudden "machine uprising". They're far too dumb.
+1987	But don't forget that after building such a machine you can order the next one no sooner than <clr>a year later<clrEnd>. Such are the conditions of private licensed production - nothing to be done about it.
+1988	Minimum reputation: <RequiredReputation>
+1989	Tranclucator
+1990	Are you crazy, my life is still dear to me! Look for cannon fodder on another frequency.
+1991	No way, pal! If I get taken out, who will fluff my aged mother's pillow?
+1992	If you're itching to look for adventures on your own center of gravity, then personally I'm not so keen.
+1993	Go to the wormhole with your attacks-shmattacks! Because of you I dropped out of level 98 here!
+1994	I don't want to fight anyone, but I'm ready to be a second.
+1995	You've called at a very inconvenient time. I'm up to my neck in business.
+1996	I've got plenty of my own business right now, turn to somebody else.
+1997	No time to be distracted, absolutely no time to be distracted! I have no time for you, pal.
+1998	At another time I'd help you, but for now far higher priority tasks are in front of me.
+1999	You sure picked a time, didn't you. I have no time to solve your problems right now, buddy.
+2000	Maybe you'd like some red wine and ginger Makhpella too? Now get away from my tranclucator, quickly, or next time my guns will do the talking!
+2001	You, <Player>, must be sick? You look healthy, though...<br>Anyway, deal with your tranclucators yourself, I won't take part in this circus.
+2002	Good idea! My hands have been itching for a long time to give this upstart a proper thrashing!
+2003	Indeed, why shouldn't I shake the dust off the old days? There's still powder in the powder horns!
+2004	I'd just been thinking I had nobody to test my new little gun on, and here you come with your proposal! I'm in!
+2005	Agreed, his scrap only spoils the beautiful scenery. All power to the guns!
+2006	If I remember right, the captain of this ship owed me a large sum once... Indeed, I have something to discuss with him.
+2007	Won't you help me in the battle with <Target>? Together we'll finish him off for sure!
+2008	You have a unique chance to warm up your guns! Let's show <Target> who deserves respect in this system!
+2009	Bored already, I bet, without any action? Join my attack on <Target>, because your face looks totally sour.
+2010	<Target> just called you a very nasty name on a closed channel! I'm already flying to knock some sense into him for your insulted honor, and you reload and follow me!
+2011	I'm flying to settle things with <Target>. Are you with me?
+2012	Oh, come off it, it's obvious from your eyes that you'll let me down at the most critical moment.
+2013	No, I don't trust you one bit. Don't even count on my help.
+2014	Look at yourself in the mirror! It's written on your forehead: "Don't trust me, no way!"
+2015	You're some shady character, and I don't intend to have any joint business with you.
+2016	Definitely! But first name at least three reasons why I should trust you.
+2017	I haven't quarreled with this vessel's captain.
+2018	What do you mean, we served in the fleet together! And I don't advise you to quarrel with him either: you'll be safer.
+2019	I'm no help to you here: I sincerely value good relations with this pilot.
+2020	No, he's my friend! We've eaten a whole pood of salt together in the boundless expanses of space.
+2021	You're suggesting I attack a friend? No, thank you.
+2022	What could this innocent robot have ever done to you? My answer is a categorical no.
+2023	No way, I don't intend to damage someone else's property! If you have any problems with this tranclucator's owner - say so.
+2024	When I was a kid I had a wind-up toy robot, and this tranclucator looks very much like it. Sorry, I don't want to cloud childhood memories.
+2025	Wow, you're something! I nearly choked on my sandwich laughing! You might as well have flown even farther away and threatened from there!
