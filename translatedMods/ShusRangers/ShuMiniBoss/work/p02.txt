@@ -1,0 +1,74 @@
+52	You live up to your reputation, <PlayerFull>. I accept your offer. I don't care whether the money is dirty, but I won't sell you information about my clients either. Don't even try.
+53	Now you'll learn what real pain is.
+54	I'm afraid I don't have that kind of money.
+55	All right, let's try again. I have new parts for you. Take them and replace the necessary components in your personality matrix with those from this dominator trinket, then restart.
+56	Stop babbling, tin can, I've seen your kind before. Get ready to be sent to your damned assembler hell!
+59	Who gave you such a directive?
+61	I have spare parts for you. Replace the damaged crystal with the one in my hold.
+62	Watch who you're picking on, boy, or I'll knock all your nozzles off right now.
+63	Listen, I have no time for this, maybe we can settle everything peacefully?
+64	I can be accused of many things, but certainly not of philistinism. I've heard about your outfit's deeds, mercenary, and about the notorious joint operation with the agency "Order a Friend a Friend". And I don't wish to come into conflict with you.
+65	I'll pay more.
+66	You missed your chance, hired dog.
+67	With prices like these it'll be easier for me to kill you and use your scraps to cover the repairs, you bastard.
+68	I'll pay one and a half times more.
+69	I'll pay twice as much, consider it a donation to the cause of the Lungless Salamander.
+70	I'm afraid I won't have enough money...
+71	As you say.
+72	This arrangement doesn't suit me.
+73	A good <0> cr. is offered for your head, and not a credit less.
+74	Weapons ready for battle, all systems normal, energy readings within permissible load, moving on the target.
+75	I'll pay the same amount, and you and I will part peacefully.
+76	Performing additional maintenance...<br>Restarting personality matrix... attention, dominator virus detected! Multiple subsystem damage recorded!<br>Starting formatting process. <br>Restarting personality matrix... <br>Critical error! <br>All systems failure!<br>0Ghs-25 JKsWBY.. <br>lkt9ghjt01rec...
+77	- Not everyone is worthy of CAFIC's trust, Ranger <Player>, but your achievements have not gone unnoticed. Forwarding the data. info <br>And don't forget - you owe me a bottle of ekup, heh-heh.
+78	[Did the peleng woman blush or did you imagine it?]<br>- I have... certain intelligence data that I can share with distinguished Ranger operatives... you are among them, <Player>. Forwarding the data. info
+79	CAFIC can pass some data to Rangers bypassing the military bases? What kind, for example?
+80	So, displaying information on the systems of interest to my superiors:
+81	1. Systems attacked by enemies:
+82	2. Systems that will soon be attacked:
+83	3. Systems seized by the enemy but defended by extremely minor forces:
+84	It seems there is not a single system in this section.
+85	System name, number of Coalition ships: coal, number of our enemies: enem.
+86	System name, number of our enemies: enem.
+87	Thanks for the information
+88	Well, if not, then not
+89	- The flagship "Clad in Nephri'it", commanded by Shiksa Nyoviket, is at her combat post. By order of the HomePlanet government you are practically an outlaw, Ranger. Make your request quickly, before I decide to attack you or receive an order for your arrest from the Supreme Lyakushas.
+90	[The peleng woman on the screen did not hide her contempt]<br>- If it were up to me, <Player>, I'd have turned you into space dust long ago!<br>[the peleng woman broke off, turning her attention to one of the screens in front of her]<br>- But I've just received an order from HomePlanet not to touch you. For now. However, if you do anything else unlawful, you're done for.
+91	- You've forgotten your place, Ranger<br>[the peleng smiles enigmatically]<br>- Watch it, shrakan, a bitter reminder from me is only one broadside away.
+92	- If you really want to see peleng technology in action, <Player>, I will be happy to give a demonstration! - the peleng laughs.
+93	[Shiksa had wanted to cut the link first, but her third hand stopped at the red button literally a second before]<br>- I'm sincerely amazed you ever got off your planet, <Player>. Speak.
+94	- Salute, <Player>!<br>[the military greeting with one of her four hands looked more than exotic, yet at the same time familiar]<br>- The crew of the flagship "Clad in Nephri'it" is always glad to support you in battle!
+95	- Secure channel open, <Player>. By order of the Supreme Lyakushas and the local Shazikhmin I am obliged to hear you out and assist you - provided, of course, that this does not conflict with the interests of the Coalition.
+96	- We will stand side by side, Ranger <Player>, bathed in machine oil and the dust of our enemies. That I can promise you. The war will end soon. And afterward the Coalition will find the nests and secret lairs of our enemies. No one will hide from the wrath of the Commonwealth.
+97	- CAFIC makes a disciplined combat unit even out of a peleng. I hope someday the rest of my compatriots will also join the ideas of order and stop sponsoring this damned piracy.
+98	- The flagship "Clad in Nephri'it" is the pearl of fae... peleng shipbuilding!<br>[Shiksa cleared her throat theatrically]<br>- Is there something you want to know, Ranger <Player>?
+99	- By order of the planet HomePlanet, I am obliged to hear you out, Ranger <Player>. But if you've prepared a bottle of ekup, I won't just listen, I'll tell you something too<br>[the peleng woman winked]
+100	- What the...? The friend-or-foe system is active!<br>[the combat alert buzzers could be heard clearly over the link with the peleng]<br>- More dominator tricks?! We are under attack! All crew, battle stations, we go to intercept!
+101	- The wrath of Rachekhan pales beside mine now, you pitiful heap of scrap metal!<br>[the peleng woman shook all four fists in front of the screens]<br>- Now you will feel the full power of my ship! "Clad in Nephri'it" - full speed ahead, prepare to fire all guns!
+102	- By the acid waters of Rakhish, you won't escape, tin can!<br>[pelengs in anger are every bit as terrible as maloqs, but this one is excessive]<br>- Don't try to clog the comm channel with floods of data - you won't succeed anyway, I control the systems! All weapons to full combat readiness!
+103	- Code "Concert" confirmed<br>[the soldier exhaled wearily]<br>- Shut off that Makhpella-damned siren already, it's one of ours! Ranger, partisans usually show themselves covertly. Not all this. Be careful in the future.
+104	- Hold your fire, "Concert" signal received! <Player>, seeing you like this is very disturbing to me and my boys. Don't unsettle anyone in the system, we sleep badly enough as it is. You understand. Now fly off on your tour, and don't scare anyone anymore.
+105	- Cancel the salvo, cancel!<br>[the commodore bellowed across the whole battleship]<br>- Damn touring performer! What trash have you put on yourself? Get out while you can, Ranger, before the gunners start aiming at you again.
+106	- You know, it'd be better if you'd really been a Dominator, <Player>. The Galaxy would have been easier and cleaner. The order to cancel the attack has been given, go your way.
+107	- Secure channel open, <Player>. What do you need? I'll be glad to help, if it does not conflict with the interests of the Coalition or my mission.
+108	- "Clad in Nephri'it" listening, <Player>. The military crew of the flagship "Clad in Nephri'it" is authorized by decision of the planet HomePlanet to conduct military operations in Coalition space as part of CAFIC forces. Do you have business with the Commonwealth fleet?
+109	Nyoviket
+110	- Link established, Ranger <Player>, speak<br>[folding both pairs of hands in front of her, Shiksa leaned back in her chair]<br>- But try to be brief, I'm on a mission and do not intend to chat idly.
+111	- This is the CAFIC flagship "Clad in Nephri'it", commanded by Shiksa Nyoviket, a patrol from the planet HomePlanet. If there is contraband aboard your ship that is banned on HomePlanet, I order you to dispose of it immediately. Otherwise the illegal cargo will be destroyed together with the carrier ship.
+112	- Despite our galactic reputation, not all pelengs live dishonorably and greedily. To serve and protect is my motto, as with any CAFIC commodore. If you need help, <Player>, my ship is, in principle, ready to give you the help you need.
+113	- Anticipating your question, Ranger: no, I do not share data with Dzuhallag. What do you need from the Commonwealth fleet?
+114	[The peleng's voice on the other side of the screen was tired]<br>Greetings, space Ranger. In some ways we are alike, don't you think? We are wanderers, explorers striving to know the universe in its fullness. Unfortunately, duty obliges me to be here, in the service of the planet HomePlanet. You, however, are free to enjoy yourself, Ranger <Player>. So why are you still here?..
+115	- The Coalition fleet was ready for any surprise, but even now, in these hard times, the pirate scum that challenged the Commonwealth will soon be crushed. We will find every last one of them. And afterward...<br>[Shiksa's ensuing curse was unexpectedly cut off by static]
+116	- Offering a bribe to a peleng - how typical<br>[Shiksa snorted contemptuously]<br>- I have every reason to destroy you, <Player>, and I do not take bribes. Nor demands to stop the pursuit.
+117	- You will regret your insolence, <Player>. No one in space will hear your screams when "Clad in Nephri'it" leaves nothing of you but dust!
+118	- I received an order for your liquidation from the planet HomePlanet, <Player>. Pray to your god if you believe in one, or beg for mercy. All of that is useless, of course<br>[the peleng woman leaned closer to the screen and hissed]<br>- You will die.
+119	- By the hide of a pachvarash, you won't get away alive, traitor!
+120	Your rapid rise through the ranks of our brotherhood has not gone unnoticed. By order of our boss, we dug through your past and found something interesting:<br><PlayerFull>, you may be a pirate, but you are in no hurry to live by the code. You have killed many of our colleagues, regardless of whether they were loyal to the Clan, since the trade is the same for all. And many still can't forgive you for it. You don't think that forging documents will let you hide from those who forge them, do you?<br>According to our data you have whacked at least <0> pirates, and we won't let you get away with it!
+121	You know, you're good!<br>I relayed this request to our boss, and he fully supported it.<br>We'll leave you alone if you donate <0> cr to the gang's cause.
+122	Nice doing business with you! Fly off while we're feeling kind.
+123	What insolence! We'll have to teach you a lesson in good manners! Too bad it will be your last.
+124	I see you're tough guys. It's better to be friends with the likes of you, so I'm ready to back up my "friendship" with a round sum.
+125	I think repairs after the fight will cost less than squandering my hard-earned credits on any snot-nosed kids, ha-ha.
+126	What's the problem, bro?
+127	With pleasure! Only you should have checked before starting the shooting range whether a moving target might turn out to be armed...
+128	Transferring the required amount to your account.

@@ -1,0 +1,21 @@
+129	Ha, <PlayerFull>, care to take part in our boss's new shooting gallery? As a moving target, naturally.
+130	Don't worry, <Player>, we'll find a worthy use for your money.
+131	You're finished, <Player>! Your rotten tub has a date with the junkyard today!
+132	Destroy? What could you possibly want with me?
+133	You must be joking. This is some kind of mistake.
+134	Wait! I'm truly innocent! I can prove it...
+135	I'd been thinking for a long time about leaving this dark path. Having set out on it, I did plenty of bad things that I now regret. Though your colleagues cannot be brought back, I believe it's not too late to mend my ways and start acting for the good of the Coalition.<br> Please give me a second chance, I'm ready to direct my money into the Coalition's military budget!
+136	In these dark times, when the Galaxy is gripped by war, you, <PlayerFull>, have managed to destroy at least <0> Coalition warships!<br> You're wrong to think you'll get away with it! Now you will answer for your crimes; unprincipled and immoral killers like you have no place in our civilized society.
+137	Get lost, you runt.
+138	You're funny. But I'll kill you first anyway.
+139	Well, congratulations, you've exposed me. But bear in mind, grunts, that this will turn out to be a new Pandora's box for you.
+140	I see you are humanoids of action and won't talk idly. We can still settle this matter peacefully.
+141	Name your price.
+142	True enough. I merely wanted to tell you that this sentence is being passed on you.
+143	I've changed my mind, you've bored me to death. I'll blow you all up myself.
+144	You have nothing to offer us. The death sentence is not subject to appeal.
+145	Bear in mind that our department is watching your activity closely. If you do anything else unlawful, you're finished.
+146	Remember, if you ever break your word, we'll come for you again. And then there will be no salvation.
+147	So we've found you, <PlayerFull>. You are one of the most wanted and dangerous criminals in the Galaxy, which is why the military tribunal has instructed us to destroy you!
+148	There can be no mistake. Hiding behind forged documents is useless, we have our own people in the pirate bases - for them finding you is no great trouble.<br> You won't be able to pull the wool over our eyes!
+149	If it were up to me, <Player>, I'd have finished you off long ago. But I've received an order from command to consider your proposal in light of the grave situation on the fronts.<br> Very well, we are ready to accept <0> cr from you as compensation for what you have done.

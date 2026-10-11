@@ -1,0 +1,48 @@
+2	Grand Inquisitor
+3	Not a series in essence, but a single specimen with the crushing power of a battleship. Each of its shots is somebody's defeat; each hit on it is a barely noticeable scratch.
+4	Ha-ha-ha! I never thought you valued your life so cheaply! I'd stop respecting myself if I accepted such a paltry sum from you!
+5	I don't think my people will like such an offer. We spent quite a lot of time and effort tracking you down, so in your place I'd cough up a more serious sum...
+6	You're laughing at me, you scum! Boys, take out this trash!
+7	Ha! Another student of the legendary school of assassins of master <clr>La-ashans<clrEnd>, I'd recognize that signature anywhere! And what could you possibly want from me?
+8	Well, now you'll learn why you shouldn't have joined that "few".
+10	<PlayerFull>, do you know what the brotherhood does to renegades? No? Well, you're about to find out!
+11	I am your worst nightmare!
+12	I represent the interests of my client, not the whole pirate clan. Even if you are innocent, I've already been paid for your head, and I'm a man of my word.<br>
+13	I passed your request on to the ataman, and it seems he really was wrong about you. He is ready to meet you halfway for a modest sum of <0> cr.
+14	Have no doubt, the ataman keeps his word.
+15	Who are you and what do you want from me?
+16	Yes, I'm no longer bound by the oaths of the brotherhood, so I can blow your ship to bits with a clear conscience!
+17	What is this outrage?! I've already paid for the return of my Ranger rank, and I was told there would be no problems with the clan over it!
+18	In that case, I'll destroy you first, then get to your client if he doesn't calm down and keeps sending hired killers after me.
+19	I assure you, your employer is mistaken. If I were a Coalition spy, we wouldn't be trying to settle this peacefully now. I can compensate you for your contract, as a sign of good will and loyalty to the pirates, of course.
+20	You know, I've changed my mind. It'll be easier to get rid of you here and now.
+21	This option suits me. I hope no such misunderstandings arise between us in the future.
+22	Do you know what happens to those who pester me over trifles? No? Well, you're about to find out!
+23	<Player>, come in! I have a very important request for you. Rangers must help each other out!
+24	Thank you, <Player>! I'll try to make it to the nearest planet. If I make it, I'll certainly retire to a well-earned rest.<br>
+25	You seem suspicious for a Ranger, and your name isn't in the rankings either. Kindly explain yourself.
+26	Sorry to say, I don't have time for this. Ask someone else for help.
+27	Suppose I believe you. State your request.
+28	Your story doesn't inspire my trust. I have to decline.
+29	Good. I've recorded the module's location in the ship's computer.
+30	Sorry, but searching for some unknown gizmo in an enemy system isn't part of my plans.
+31	I am <clr>Crazy Jack<clrEnd>! One of the most famous liquidators. One of our atamans didn't like that, after such success in the clan, you defected to the Coalition lapdogs for no apparent reason. Something tells me you are definitely working for them and digging under us at the same time! That is why I have been ordered to destroy you.
+32	I work for the department that studies the tactical logic of the dominators. Our activity is supervised by CAFIC with the support of scientists, and that, as you understand, involves a certain secrecy, especially when it comes to working with experimental developments such as the camouflage device. For this reason my name was struck from the rankings.<br>My last assignment was to observe battles between the dominator series <clr>"Blazer"<clrEnd> and <clr>"Keller"<clrEnd> in sector <0>. Command was interested both in the behavior of individual ships and in their coordination during battle, but I was forced to cut my mission short.
+33	For several months the mission went according to plan, but an unexpected torpedo hit damaged the delicate electronics, and my ship was left without its cloak. It is not designed for combat at all, so my only chance of survival was to flee.<br>The module with the observation results is of great value, and my chances of survival were slim, so I decided to drop it on the uninhabited planet <0>. As you see, I miraculously survived, but the dominators may follow any minute. Even if I die, my work must not go to waste! Go to the <1> system and find the module there, then hand it over to the nearest science base.
+34	Find the memory module on planet <0> in the <1> system and deliver it to the nearest science base.
+36	Let's take a look at your find. Amazing! <Player>, you have done us a great service. As a token of gratitude, allow me to present you with a small cash reward of <0> cr.<br>That's not all. We have loaded the following programs into your ship's computer:<br>Intercom. Number of copies: <clr>5<clrEnd> pcs.<br>Distress signal. Number of copies: <clr>3<clrEnd> pcs.<br><clr>
+37	No logic firmware available. External instructions required.<br><br>Device functions are limited.
+38	[A few minutes later the ship's computer indicator reports the task complete]<br><br>Restarting the system with the standard data set...<br><br>- Greetings, <Player>! This is <0>. What are your orders?
+39	So, it seems I have ways to fight <clr>dominator<clrEnd> logic. Computer, activate <clr>System Shutdown<clrEnd>!
+40	Ship's computer, load the standard tranclucator program set and initialize it on this robot. With full access rights, naturally.
+41	Excellent. I'll handle the rest myself. End of transmission.
+42	A memory module containing important information about dominator tactics.
+43	Linking neural network error.<br>Possible cause: fault in the directive control channel of autonomous combat unit <0>.<br>Directive preceding the fault: destroy <1>.<br>Fault search service unavailable, possible cause: damage to personality matrix <2>.<br>Logical rewrite: execution of the directive preceding the fault followed by self-destruction of the autonomous combat unit.
+44	Autonomous combat unit <0>.<br>Manufacturer: Trinn Association.<br>Restarting personality matrix... attention, personality matrix restart is impossible. <br>Reason: critical damage. Diagnostic system damaged. Further analysis is not possible.
+45	Personality matrix error. Unable to process incoming request.
+46	Attention, you have insufficient rights to perform this action. A subsequent systems restart will cause the complete self-destruction of the autonomous combat unit. Priority denied.
+47	Autonomous combat unit <0>.<br>Manufacturer: Trinn Association.<br>Loading log file...<br>Log file unavailable, possible cause: damage to the autonomous combat unit's crystal drive at the time of the logical rewrite.
+48	Autonomous combat unit <0>.<br>Manufacturer: Trinn Association.<br>Preliminary repairs completed. A new crystal has been installed.<br>Restarting personality matrix... attention, personality matrix restart is impossible. <br>Reason: critical damage. Diagnostic system damaged. Further analysis is not possible.
+49	Didn't think I'd find you right here, <PlayerFull>. But it seems I got lucky this time after all. Nothing personal, colleague. I think, as a professional, you'll understand me.
+50	For a layman, it's an honor to fall at the hands of one of us, Ranger. You should be proud. Many in this Galaxy wish you dead, but only a few dare to carry out their plans.
+51	Don't want to fight? I expected more from you, with your reputation. Keep in mind that several clients are paying for you at once, and I won't back off.
