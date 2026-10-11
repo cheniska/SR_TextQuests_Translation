@@ -57,7 +57,7 @@
 62	Level one micromodule. Increases the capacity and cost of the ship's <clr>hull<clrEnd> through a more rational scheme for using the cargo bay's interior space and removing non-functional structures. Suitable only for <clr>maloq<clrEnd> vessels.
 64	Level one micromodule. Replaces the fuel filters, raising the degree of fuel purification, which leads to an increase in the <clr>engine's<clrEnd> speed.
 65	Level one micromodule. Built into the standard expansion slot of <clr>any equipment<clrEnd>. Takes an active part in the device's operation, optimizing the calculations and the unit's<br>operating scheme.
-66	Level one micromodule. Applies a decorative coating that gives any <clr>gaalian<clrEnd> equipment the coloring of a finished gaalian Iike-baana. The cost of such equipment rises substantially.
+66	Level one micromodule. Applies a decorative coating that gives any <clr>gaalian<clrEnd> equipment the coloring of a finished gaalian Iike-Baana. The cost of such equipment rises substantially.
 68	Level one micromodule. Replaces the navigation unit of the <clr>radar<clrEnd> with a new miniature, balanced and highly efficient element.
 69	Level one micromodule. Reduces the spacing in the molecular lattices of any equipment and compensates for changes in intramolecular forces. Cannot be applied to hulls and weapons, since they would lose their functionality. The micromodule has a positive effect on durability and allows the size of equipment to be reduced. Use in <clr>gaalian<clrEnd> devices is impossible.
 70	Reliability: <clr>+50%<clrEnd>

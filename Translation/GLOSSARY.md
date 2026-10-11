@@ -3318,10 +3318,13 @@
 | Чёрная кровь (стимулятор) | Black Blood | Evolution/EvoMC |
 | Псионик (стимулятор) | Psionic | Evolution/EvoMC |
 | Иц Забит (пеленгский мастер) | Itzibit | Evolution/EvoBalance |
-| Косозубая восьмерёнка (тюнинг-компания) | Helical Figure Eight | Evolution/EvoBalance |
+| Косозубая восьмерёнка (тюнинг-компания) | Helical Gearcoffer | Evolution/EvoBalance |
 | Чванг-Хан (лякуша) | Chvang-Khan | Evolution/EvoMM |
 | Сикпак Хапуга (пеленгский учёный) | Sikpak Khapuga | Evolution/EvoMM |
 | клирон (материал) | kliron | Evolution/EvoMM |
 | Навитек (модификация) | Navitek | Evolution/EvoMM |
 | Жжения / Двима (микромодули) | Burnz / Drover | ванилла |
 | ПБ Свободная Бухта | PB Free Bay | Evolution/EvoTranc |
+| Семеренка / Восьмеренка | Geartrunk / Gearcoffer | ванилла |
+| Свароковски (созвучная фамилия) | Swarokovski | Evolution |
+| Иике-Баана | Iike-Baana | ванилла |

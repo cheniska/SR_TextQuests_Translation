@@ -120,7 +120,7 @@
 332	Rook
 333	Knight
 334	Pumbaa
-335	Sevener
+335	Geartrunk
 336	Clunker
 337	Mister Bibbles
 338	General Stump

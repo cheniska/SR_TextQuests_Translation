@@ -15,7 +15,10 @@
 ## Решено пользователем (2026-10-11)
 - «Иц Забит» (EvoBalance 120-122) и «Ицзибит» (EvoMM) — один персонаж; в EvoBalance это ошибка мода, везде Itzibit.
 - «пп.» (EvoSB 92, EvoArtDominator, EvoTranc) — по контексту (цена «за N пп. и M нд.», рядом «потребуется протоплазма» / «ноды») = протоплазма; нд. = ноды. EN: pp. / nd.
-- «Косозубая восьмерёнка» → Helical Figure Eight (как «Восьмерёнка» = Figure Eight в Kotyanka/Cat_DesignDepartment). Квест ExpBeerQuest («СемерёнМашТрест») ещё не переведён — при его переводе сверить.
+- «Семеренка» / «Восьмеренка» (ванильный малокский квест на доставку) = Geartrunk / Gearcoffer; «Косозубая восьмерёнка» → Helical Gearcoffer; кличка робота «Семерёнка» (EvoTranc) → Geartrunk; Kotyanka/Cat_DesignDepartment «Восьмерёнка» исправлена Figure Eight → Gearcoffer.
+- «Свароковски» — созвучная фамилия (Swarovski), не животное: Swarokovski («gemstones by Swarokovski»); исправлено в EvoMM, EvoBalance, Kotyanka/Cat_Upgrade.
+- Иике-Баана: как в ванилле, Iike-Baana.
+- КВСМК → CAFIC (EvoRepairBox).
 
 ## Ошибки в оригинале мода
 - EvoAmmoBox 15: «Контейнер с ракетами для Ракетницы» — «Ракетница» не название оружия, на этом месте должно быть название оружия (в паре с «Лирекроном» и «Торпедным аппаратом»). Временно: Missile Launcher.
@@ -23,6 +26,7 @@
 
 ## Открытые вопросы пользователю
 - «БКТУ» (EvoSB 32, 33) оставлено как BKTU — расшифровка неизвестна.
-- «Мельдонит» → Meldonite; «клирон» → kliron; «Навитек» → Navitek; «Свароковски» → Swarokok (как в ванилле).
-- «Иике-баана» → Iike-baana.
-- «Добейся» (EvoFemRangers 109, последнее имя в списке женщин-агентов-людей после «Нетопырка») → Dobeysya (транслит; контекста нет).
+- «Мельдонит» → Meldonite; «клирон» → kliron; «Навитек» → Navitek.
+
+
+Список ошибок в RU модов — `translatedMods/MOD_TEXT_ERRORS.md`.
