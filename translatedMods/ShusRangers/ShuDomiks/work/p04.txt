@@ -12,7 +12,7 @@
 228	I knew I could interest you in this offer!
 229	So, wait a minute, let me check our current internal rate... Yes, yes, so, for <clr>one whole cybercoin<clrEnd> we are ready to offer you <CostCybercoin> cr. For ease of calculation, we will debit the entire sum of cybercoins accumulated by your "mining" device at once.
 230	So, <Player>, do you agree to sell us your crypto-data at the rate stated above?
-231	Be reasonable, <Player>! Why would you, an ordinary space worker, need these incomprehensible digital squiggles? Much better to flop onto a folding vibro-sofa with a can of "Makhpella" and turn up your brand-new stereovisor, eh?
+231	Be reasonable, <Player>! Why would you, an ordinary space worker, need these incomprehensible digital squiggles? Much better to flop onto a folding vibro-sofa with a can of "Makhpella" and turn up your brand-new stereovision, eh?
 232	In short, in your place I would think it over carefully once more.
 233	You're a joker, <Player>, I'll give you that! What use could a simple Ranger have for a set of encrypted symbols?
 234	In short, I urge you to reconsider our offer once more - it remains in force.

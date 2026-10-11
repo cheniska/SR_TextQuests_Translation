@@ -49,7 +49,7 @@
 103	- Code "Concert" confirmed<br>[the soldier exhaled wearily]<br>- Shut off that Makhpella-damned siren already, it's one of ours! Ranger, partisans usually show themselves covertly. Not all this. Be careful in the future.
 104	- Hold your fire, "Concert" signal received! <Player>, seeing you like this is very disturbing to me and my boys. Don't unsettle anyone in the system, we sleep badly enough as it is. You understand. Now fly off on your tour, and don't scare anyone anymore.
 105	- Cancel the salvo, cancel!<br>[the commodore bellowed across the whole battleship]<br>- Damn touring performer! What trash have you put on yourself? Get out while you can, Ranger, before the gunners start aiming at you again.
-106	- You know, it'd be better if you'd really been a Dominator, <Player>. The Galaxy would have been easier and cleaner. The order to cancel the attack has been given, go your way.
+106	- You know, it'd be better if you'd really been a dominator, <Player>. The Galaxy would have been easier and cleaner. The order to cancel the attack has been given, go your way.
 107	- Secure channel open, <Player>. What do you need? I'll be glad to help, if it does not conflict with the interests of the Coalition or my mission.
 108	- "Clad in Nephri'it" listening, <Player>. The military crew of the flagship "Clad in Nephri'it" is authorized by decision of the planet HomePlanet to conduct military operations in Coalition space as part of CAFIC forces. Do you have business with the Commonwealth fleet?
 109	Nyoviket

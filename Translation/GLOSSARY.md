@@ -3275,3 +3275,31 @@
 | гранэкская чума | Graneka plague | RevColonization |
 | ПИРС (Портативный Инфильтрирующий Рассеивающий Сканер) | PIDS (Portable Infiltrating Dispersing Scanner) | RevDominatorSpy |
 | инфошка | info item | RevRangersArts, RevJediQuest |
+| Алакай (далани) | Alakay | ShuKlissan |
+| Чушкач (барон) | Chushkach | ShuKlissan |
+| Дурдым (адмирал) | Durdym | ShuKlissan |
+| Орден Белого Знамени | Order of the White Banner | ShuKlissan |
+| Хандлер (секретный объект) | Handler | ShuKlissan |
+| Тортугац | Tortugats | ShuRG, ShuKlissan |
+| Дицея | Dicea | ShuRG |
+| Роджерия | Rogeria | ShuRG |
+| Гаалаксель | Gaalaxel | ShuRG |
+| Нифигац | Nifigats | ShuDomiks |
+| Ментальный Коммуникатор | Mental Communicator | ShuKlissan |
+| Z-трансмиттер | Z-transmitter | ShuKlissan |
+| нанитоид | nanitoid | ShuDomiks |
+| наноинклюзия | nanoinclusion | ShuKlissan |
+| жабродюзы | gillnozzles | ShuKlissan |
+| плазмощит | plasmashield | ShuKlissan |
+| плазмонить | plasmathread | ShuKlissan |
+| болт-матрица | bolt matrix | ShuKlissan |
+| киберкойн | cybercoin | ShuDomiks |
+| диггер | digger | ShuDomiks |
+| фумигатор | fumigator | ShuDomiks |
+| раттор | rattor | ShuDomiks |
+| Эквентор / эквентор | Equantor | ванилла (ShuDomiks, ShuBounty) |
+| Менок | Menoc | ванилла |
+| Мутёнок | Little Mutant | ванилла |
+| Энергопакет | Energopack | ванилла |
+| втыкилла | vtykilla | ShuSmugglers, ShuNukes |
+| КВСМК / КВМСК | CAFIC | ShuMiniBoss, ShuRebellion, ShuWarriors |

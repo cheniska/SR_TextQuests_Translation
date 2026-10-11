@@ -1,0 +1,82 @@
+547	I want to hand over material for the main research
+548	I want to hand over material for the Mental Communicator research
+549	I want to hand over material for the Z-Transmitter research
+550	Main research direction
+551	Mental Communicator Research
+552	Z-Transmitter Research
+553	Hand over all klissan equipment
+554	I have no klissan scraps in my hold
+555	Hand over all klissan scraps
+556	Excellent work, <Player>, <Planet> is no longer under the yoke of the klissan plague. A worthy reward is due to you, and we hope it will not be the last.
+557	<Player>, we have no words. This is not the first time the planets of the <People> system have been attacked by the enemy, and we had already despaired of waiting for real reinforcements, and then - you! Please accept your reward.
+558	We are glad to welcome you to our land, <Player>, for not without your contribution the planet <Planet> was torn from the clutches of the klissan... whatever it is they have. You truly deserved a reward.
+559	<Player>, what a fight, what a victory! Your battle will certainly go down in the history of the planet <Planet> and of the <Star> system in general. We thank you for your displayed courage.
+560	Brilliant, <Player>! No klissan invader threatens the safety of the inhabitants of the <Star> system anymore! We have prepared a whole ceremony timed to your award, please follow me.
+561	These klissans really are aggressive, aren't they, <Player>? But they got theirs in full, and certainly not without your merits, pal. Long live the Brotherhood!
+562	Klissans, dominators, Coalition... they're all the same - before our might! Time to start telling them to line up. <Player>, personal thanks to you for your active part in our latest great victory.
+563	And what, I ask you, is this greenery doing here three centuries later? Don't you know, <Player>? Maybe ask them something? Heh, yes, there'd be nobody left to ask after you. What I can say for certain is that the fight was just right!
+564	That's the way, <Player>! Nobody fights the way the Clan's boys fight! And today you proved this axiom in practice! You're entitled to a share of the loot too, of course, so come on in, don't linger.
+565	Good luck
+566	Unidentified hostile ships have been detected in the <Star> system in sector <Sector>. All vessels transiting this system are advised to change course urgently.
+567	Unidentified hostile ships have been detected in the <Star> system in sector <Sector>. Duty defense squadrons have already been put on alert.
+568	Unidentified hostile ships have been detected in the <Star> system in sector <Sector>. The system's Defense Directorate calls on all ships with sufficiently good equipment to take part in the operation to destroy the unknown invaders.
+569	Unknown Ship
+570	34,  33, 33, Unknown
+571	Act code for the katauri crit. Allows dealing 1.5x damage with any non-missile shot with a 25% chance, and if the target has less than half HP - double damage with a 33% chance.
+573	So the neurolink isn't burned by the star while it determines its position
+574	Act code for the nondus shield. The shield blocks all damage dealt to the ship and has strength of 30-40% of the nondus's HP pool; when it drops, it deals to all ships within a radius of 250 units damage equal to the last damage dealt to the nondus, doubled.
+576	Act code for rogit damage; gives a percentage damage bonus that is greater the greater the percentage of HP missing.
+578	Makes the ship completely invulnerable in combat so its health never drops below 1 and ShipDestroy() markers have no effect on it
+579	So that the leprosy doesn't bug the players to death
+580	LEPROSY STOPPO, ORDER OF SAINT LAZARUS STOPPO
+581	Makhpella: automatic equipment repair and protection from breakage at wear above 50 percent
+582	A device that lets you scan klissans and make contact with their brain center.
+583	Mental Communicator
+584	Order of the White Banner
+585	The only, yet incredibly honorable, award of the Pirate Clan. Awarded only for deeds that changed the course of history.
+787	A pump for continuous driving of protoplasm. Serves the klissans as a heart.
+789	Serves for processing and distributing the klissan's reserves of nutrients.
+791	A sensitive klissan organ serving to analyze the chemical composition of the environment.
+793	The organs of vision of klissan ships, picking up the radiation of other ships' gillnozzles.
+795	The remnants of klissan armor, consisting of a keratinized layer of special reflector cells.
+797	Serves as the brain center, responsible for the klissan's decision making.
+799	Intakes and accumulators of compressed air that serve the klissans as lungs.
+801	Hollows in the carapace that klissans can overgrow with various weaponry.
+802	Macrophase Shift Generator
+803	NewsAdd('The macrophase shift generator has been activated. Prepare for a klissan attack.');
+804	else MessageBox('Not enough generator charge');
+805	This device uses an artificial system of connected nerve centers and klissan motor bases and allows imitating the subspace pulses they use, which lead to the stabilization of an initiated wormhole with fixed portal characteristics.
+807	MessageBox('You press the activation button, but the transmitter does not react at all');
+808	MessageBox('Not enough charge to summon klissans');
+809	MessageBox('Activating the <color=0,50,200>Z-transmitter</color> in this system is impossible');
+810	MessageBox('The <color=0,50,200>Z-transmitter</color> has been successfully activated. The klissans will arrive in <color=0,50,200>10</color> days.');
+811	NewsAdd('Ranger, our long-range detection systems have detected activity aboard your ship caused by the Z-Transmitter. We equate it to an act of terrorism on the territory of the Coalition of Sapient Races.');
+812	When used in space, generates frequencies that summon klissans to the system.
+813	Charge energy: <Data1><color=255,240,100>%</color>.
+814	As you wish, <Player>. If you have any nanoinclusions you don't need, come to us right away.
+815	Excellent, <Player>. We take from you the nanoinclusion <Name> and credit <Count> nd. to your account.
+816	Dear <Player>! The large amount of protoplasm handed over to us lets us carry out some research into its structure. For this reason we have opened a collection of nanoinclusions, which will allow us to advance in studying the possibilities of changing colony structure for our purposes.
+817	- Nanoinclusion <Name> for <Count> nd.
+818	Unfortunately, we found no nanoinclusions in your hold.
+819	Decline to hand over nanoinclusions
+820	Hand over nanoinclusion <Name> for <Count> nd.
+821	Hand over nanoinclusions in exchange for nodes
+822	Exchange <Count> nodes for nanoinclusion <Name>
+823	I want to get a new nanoinclusion
+824	That is sensible, <Player>. Bring more nodes or protoplasm to replenish your node account.
+825	Excellent, <Player>. We have debited <NodCnt> nodes from your account.
+826	You receive the nanoinclusion <Name>. This is simply a wonderful choice! Remember that we are always glad to help in your difficult fight against the dominators.
+827	Your node account balance: <BaseNod> nd.
+828	Nanoinclusion cost: <Count> nd.
+829	. Nanoinclusion <Name>
+830	Dear <Player>! Today we are ready to offer you the following nanoinclusion created by our scientists:
+831	Dear <Player>! Today we are ready to offer you the following nanoinclusion created by our scientists:<Text>
+832	34,  33, 33, Klissan
+833	Gigas
+838	Unknown
+839	While you stroll around our planet, others are fighting klissans in orbit! Aren't you ashamed, <Player>?!!<br>These Rangers have no sense whatsoever...
+840	What are you doing here, Ranger <Player>?!!<br>It's no time for scientific pursuits and asking us for assignments. Get refueled, repaired - or whatever else you need - and back into battle! There are klissans in the system!<br>...<br>And don't argue with me, or my cerebral lobes will burst right before your eyes. And seeing that is a dubious pleasure, believe me.
+841	People are flocking to our system to help their brothers repel the klissan attack. Thanks to you too, <Player>.<br>Please hurry, you are needed there, in battle, in orbit of the planet <CurPlanet>, not here on its surface.
+842	Ranger <Player>, you have chosen not the most suitable time to land on a planet. Our system is in danger, the klissans are attacking with renewed force.<br>In this situation there is an evident conflict between the klissans and the gaalians. Remember that our goal is to resolve this conflict by peaceful means.<br>We have lived in this world so many years that we have lost the purpose. And what is the purpose of a gaal? There is no purpose, there is essence, and essence cannot be found in futility and bustle...
+843	What are you doing here, <Player>?!!<br>It's no time for scientific pursuits and asking us for assignments. Get refueled, repaired - or whatever else you need - and back into battle! There are klissans in the system!<br>...<br>And don't argue with me, or my cerebral lobes will burst right before your eyes. And seeing that is a dubious pleasure, believe me.
+844	Unfortunately even pirates are not immune to klissan attacks, <Player>. This is exactly such a case.<br>Please hurry with your takeoff, you are needed by us in battle, in orbit of the planet <CurPlanet>, not here on its surface.
