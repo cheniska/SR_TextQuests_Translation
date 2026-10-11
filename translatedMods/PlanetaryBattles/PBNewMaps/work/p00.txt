@@ -15,7 +15,7 @@
 188	Battle in the swamps
 202	Borehole
 216	Red forest
-230	Game of Domiki
+230	Game of Dommies
 243	Duel zone
 257	Outland
 274	Operation Elephant
