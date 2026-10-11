@@ -1,0 +1,15 @@
+891	0,   100,    0,  Brigand
+892	25,  75, 0,  Bandit
+893	50,  50, 0,  Marauder
+894	75,  25, 0,  Dealer
+895	100, 0,  0,  Magnate
+896	0,   75, 25, Thug
+897	25,  50, 25, Raider
+898	50,  25, 25, Huckster
+899	75,  0,  25, Merchant
+900	0,   50, 50, Corsair
+901	20,  30, 50, Mercenary
+902	50,  0,  50, Agent
+903	0,   25, 75, Warrior
+904	25,  0,  75, Defender
+905	0,   0,  100,    Hero

@@ -1,0 +1,258 @@
+1	Klondike
+2	Cash
+3	Bitcoin
+4	Oilman
+5	Promotional
+6	Honest Peleng
+7	Good Deal
+8	Payback
+9	Waste of Money
+10	Efficient Management
+11	Rented
+12	Express Delivery
+13	Black Gold
+14	Equal Exchange
+15	Wall Street
+16	Microloans
+17	Irrational
+18	Interest-Free
+19	Black Bookkeeping
+20	Premium
+21	High Risk
+22	Golden Antelope
+23	Diamond Pickaxe
+24	Named After Bobby Kotick
+25	Named After Todd Howard
+26	Named After Shavroddi
+27	Innovation and Investment
+28	Discount
+29	Speculator
+30	Prospect
+31	Overpayment
+32	Usurer
+33	Second Merchant
+34	Named After Rockefeller
+35	Amethyst
+36	Chrysolite
+37	Garnet
+38	Citrine
+39	Rectolite
+40	Annuity
+41	Named After Borzoddi
+42	Rocker
+43	Blackbeard
+44	Bottle of Rum
+45	Subversion
+46	Cadaveric Poison
+47	Tartarus
+48	Olive
+49	Separatists
+50	Growing Threat
+51	Raging Devil
+52	Heavy Metal
+53	Drunken Brawl
+54	Ravager
+55	Wild Card
+56	Bad Feeling
+57	Dancing Mountain
+58	Blue Horse
+59	Bashi-bazouk
+60	Arsonist
+61	Incendario
+62	Brandshifter
+63	Alurchin
+64	Anarch
+65	Stroke
+66	Folk Medicine
+67	Doctor Chaos
+68	Tired Soldier
+69	Venereology
+70	Madhouse
+71	Palliative Care
+72	Seven-Leaf Clover
+73	Sound Therapy
+74	Bone Marrow
+75	Muscle Memory
+76	Smallpox
+77	Post-Syndrome
+78	Unsanitary Conditions
+79	Punitive Psychiatry
+80	Paranoia
+81	Novocaine
+82	Defibrillation
+83	Lupus
+84	Autoimmune
+85	Aberration
+86	Blood Type
+87	Arterial
+88	Reincarnation
+89	Dangerous Addiction
+90	Open Fracture
+91	Inflammation
+92	Euthanasia
+93	Doctors' Plot
+94	Amputation
+95	Drunk Doctor
+96	Homeopathy
+97	Free Medicine
+98	Eternal Rest
+99	Lobotomy
+100	Asphyxia
+101	Iatrophobia
+102	Total Isolation
+103	Black Surgeon
+104	Foreign Body
+105	Homunculus
+106	Laying on of Hands
+107	Allergy
+108	Ward No. 7
+109	Steel Liver
+110	The Gang
+111	Hidden Cell
+112	Treason
+113	Hullabaloo
+114	Chiki-Briki
+115	Dead Harpy
+116	Friday
+117	Reckless Jack
+118	Chameleon
+119	Heavenly Delight
+120	Robin Hood
+121	Catastrophe
+122	Trekker
+123	Seed of Discord
+124	Hard Rock
+125	Torrent
+126	Eye of the Storm
+127	Sucker
+128	Schismatic
+129	Plasma Knife and Blaster
+130	Three Whales
+131	Free Bay
+132	Free
+133	Tailwind
+134	Peaceful Sky
+135	Crossing of Worlds
+136	Rustle of Leaves
+137	Accord
+138	Carefree
+139	Five Races
+140	Quiet Harbor
+141	Twilight
+142	Star Wind
+143	Patriot
+144	New Hope
+145	Majestic
+146	Pure Heart
+147	Mojave
+148	Texas
+149	Serene
+150	Firefly
+151	Last Hero
+152	Amber City
+153	New California
+154	Revolutionary
+155	Cilicia
+156	Cappadocia
+157	Macedia
+158	Illyria
+159	Asturia
+160	Galicia
+161	Catalonia
+162	Valencia
+163	Serifos
+164	Kefalinia
+165	Chalcidia
+166	Mallikia
+167	Karnatos
+168	Flat Earth
+169	Quasar
+170	Gravity Well
+171	Hadron Collider
+172	Dark Matter
+173	Antiparticles
+174	Neural Network
+175	Optical Illusions
+176	Ohm
+177	Short Circuit
+178	Deep Space
+179	Gauss
+180	Acceleration
+181	Tetrauzel
+182	Albedo
+183	Accretion
+184	White Dwarf
+185	Moonlight
+186	Solar Corona
+187	Supernova
+188	Parade of Planets
+189	Magnetar
+190	Pulsar
+191	Relic Radiation
+192	Void
+193	Parallax
+194	Intrusive Thoughts
+195	Ee'lon Ma-ask
+196	Frequency Modulation
+197	Reintegration
+198	Seven Sages
+199	Rennesance
+200	Antimatter
+201	Dark Energy
+202	Reionization
+203	Quasiparticles
+204	Event Horizon
+205	Empiricism
+206	Ghost Wheel
+207	Mezen
+208	Voalta
+209	Joule
+210	Borr
+211	Lombachevsky
+212	Yedinokamushkin
+213	Lomonogov
+214	Tosla
+215	Sablinnikov
+216	Goss Laser
+217	Resistance
+218	Blitzkrieg
+219	Spark
+220	Thunderclap
+221	Scarlet Dawn
+222	Iron Kaput
+223	Stargate
+224	Shield of the Coalition
+225	Flame of Justice
+226	Fire Rain
+227	Old School
+228	Honor and Valor
+229	Counterstrike
+230	Fire of the Inquisition
+231	Retribution
+232	Liquidation
+233	Triumph
+234	Named After General R.
+235	Civil Defense Headquarters
+236	General Govorov
+237	Artillery Preparation
+238	Crossfire
+239	Voroshilov Sharpshooters
+240	Determined Defense
+241	Suppressive Fire
+242	Supply
+243	Personnel
+244	Regrouping
+245	Interstellar
+246	Forge of Cadres
+247	Counter-Battery
+248	Named After Uncle Vasya
+249	Incinerating
+250	World Destroyer
+251	Named After Belisarius
+252	Named After Flavius Aetius
+253	Spear of the Coalition
+254	Defender's Blade
+255	2nd Guards
+256	16th Armored
+257	62nd Airborne
+258	Ken Agat

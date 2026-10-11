@@ -1,0 +1,43 @@
+906	Socialism
+907	The socialist system of the planet <Planet> in the <Star> system is under threat of overthrow. Corrupt officials, swindlers and other criminal elements have gladly supported an uprising raised by alien capitalists against the lawful authorities, which is trying to oust the revolutionary state. One thing is clear - both the authorities and the counterrevolutionaries will need weapons, in large quantities.
+908	Report from the <Star> system.<br>As a result of a series of military coups on the planet <Planet>, power has effectively passed to the anarchists. The population is extremely unhappy about this and has already bought up all the weapons in local stores, and demand has no intention of falling!
+909	Socialists staged a short and almost bloodless revolution on the planet <Planet> in the <Star> system. To restore industry they decided to lower purchase prices for means of production and raise them for luxury goods. Many so-called "people's deputies" are even demanding a ban on luxury goods and narcotic substances.
+910	The planet <Planet> (<Star> system) is once again the leader in inventing new medicines! A new wave of research has led to the write-off of many "outdated" drugs. Prices are at record lows!
+911	During a patrol of the <Star1> system by regular CAFIC units, a space anomaly called a hyperspace rift, or, colloquially, a black hole, was detected. Adventurers and scientists have already set out to study the anomaly and find its exit point.
+912	As predicted by the Institute for Spatial Manipulation with its usual 98.254% probability, a hyperspace anomaly has appeared in the <Star1> system. This once again confirms the superiority of modern science and its understanding of a considerable portion of the processes occurring in the Galaxy.
+913	The combat exploits of ranger <Name> thunder across the entire explored sector, so at the latest session of the Galactic Council it was decided to single out the hero's image and award him <Points> points in the ranger rating.
+914	At the latest session of the Galactic Council the CAFIC put forward the image of ranger <Name> as the most suitable for heroization. His valiant performance of ranger duty amazed many. He was also awarded <Points> points in the ranger rating.
+915	At the latest session of the Galactic Council even hardened soldiers were horrified by the list of ranger <Name>'s crimes. It was unanimously decided to place a bounty on his destruction, designating him a "most vicious pirate," and also to deduct <Points> points from the ranger rating.
+916	Over the past time ranger <Name> has particularly distinguished himself, contributing incredibly by his active operations in the sphere of trade
+917	The authorities of the planet <Planet> have finally managed to detain a dangerous criminal - <Name>. For his unlawful actions he received <Month> months in a strict-regime prison with confiscation of property.
+918	To protect the strategically important system <Star> in the <Sector> sector, the military base <Name> was put into orbit by decision of the Galactic Council.
+919	To improve control over ownerless property, the leadership of the pirate Clan decided to open the dominion <Name> in the <Star> system. We recommend avoiding visits to this system!
+920	The Galactic Council is extremely outraged by your behavior, <Player>. You kill soldiers, defenders and guardians of order! This is simply unacceptable! A criminal case has already been opened against you, and in the very near future an arrest warrant will be issued, and in the meantime you will wear this shameful badge <Reward>, specially intended for such dangerous recidivists as you.
+921	Attention!<br>The military base <WB> from the <WBStar> system will soon set out on a combat expedition. The target is the <StarEnemy> system, which contains strategic production. The date of departure is <Date>. Anyone who wishes may join!
+922	In the course of fierce battles the <Star> system (<Sector> sector) has been cleared of dominators! All participants in the battle are awaited at the award ceremony on the planet <Planet>.
+923	Your ship's plating could not withstand the hit of an enemy shell. You died, <Player>, and now all the glory will go to other rangers! But your name will be forever entered in the list of war heroes, and your family will receive the due insurance in the amount of <Money> cr.
+924	The planet <Planet> was seized by the dominators on <Date>. You did not manage to escape in time, and you were destroyed along with the other unlucky soldiers - to avoid riots on the planet...<br>You died, <Player>, and now all the glory will go to other rangers! But your name will be forever entered in the list of war heroes, and your family will receive the due insurance in the amount of <Money> cr.
+925	Go to the game results table
+926	Your ship's plating could not withstand another raid by enemy fighters. You died, <Player>, and now all the glory will go to other rangers! But your name will be forever entered in the list of war heroes, and your family will receive the due insurance in the amount of <Money> cr.
+927	Neutral
+928	Agricult.
+929	Harder conditions? Well, in that case you will receive more money!<br>Just in case, I'll repeat the assignment to you:
+930	Easier conditions? Then you will receive less money!<br>Just in case, I'll repeat the assignment to you:
+931	I don't need anything - extra money never hurts, and I don't want to spend it on what I can do without.
+932	I want harder conditions
+933	I want easier conditions
+934	So, we have struck a deal. Try to fulfill the terms of the contract on time. Otherwise you will have to forget both the reward and our good attitude toward you.
+935	A contract is worth more than money, <Player>, so try to fulfill what was promised on time.
+936	Attention! An error occurred during the planetary battle, possible damage to game data and (or) included modifications. Do you want to try to continue the game by skipping the mission (the battle will be counted as won)?
+937	I am of exactly the same opinion, dearest <Player>, and were it up to me - I would rehabilitate you at once in the eyes of the pirate community. But I sit here to count money and give orders, not to restore justice for everyone who asks. So if you want everything to be in order and your allegedly good name rehabilitated - better fly to the pirate base and find out what the trouble is there. And I'll get on with my own business, unless, of course, you have nothing more to say.
+938	The ship is <color=255,255,0>partially</color> ready for takeoff
+939	Engine start is impossible
+940	The ship is <color=0,100,0>ready</color> for takeoff
+941	System analysis:
+942	Fuel tank - Full
+943	Fuel tank - No fuel
+944	Repair the hull - <Money> cr
+945	Not enough funds for repairs
+946	Hull - In excellent condition
+947	Engine - Operational
+948	With an unrecognized signature

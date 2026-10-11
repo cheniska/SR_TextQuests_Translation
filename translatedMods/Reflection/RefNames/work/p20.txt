@@ -1,0 +1,49 @@
+1374	Hits the target with a charge consisting of ionized gas heated to near-stellar temperatures, and deals <CntAttacks>x(<MinDamage>-<MaxDamage>)<Bonus> units of damage at a range of up to <Radius>.
+1375	Acryn modification:
+1376	<FullShipBad>! Can you hear me?! I'll dump it, I'll dump the cargo! Just leave me alone!
+1377	Hey there, not so fast! I've already signed a contract with <Partner>.
+1378	Wait, you seem not to have noticed, but I already have a commander - <Partner>.
+1379	No-no-no, I've already struck a deal on this with <Partner>, and I'm not going to break it.
+1380	You're too late, I already serve faithfully another, whose name is <Partner>. So sorry.
+1381	I'm already under command. My commander, <Partner>, pays me well. Another time.
+1382	I'm not a representative of the oldest profession, and can't work for several people at once. My commander is <Partner>
+1383	You know, I'll tell you one smart thing, only don't be offended. I'M BUSY!!! I work for <Partner>, you get it, yes?
+1384	What's with you, <Player>, have you overplayed plasma checkers? How can you do that now when we're under attack? Get to the hangar and take off, quick, or we'll get the system blown through.
+1385	This is the dominion <CB>. We are ready to send you, <Player>, to the <FlyToStar> system. Just go to the hangar and take off, the portal will open instantly, the generator picks up the departing ship in automatic mode.
+1386	Ha, now that's the spirit! You can tell at once you're a real reckless pirate! Of course, if you can't wait for the guys to stop boozing and go capture some system - you can do it yourself too. The main thing is to have a cool ship that won't fall apart from a couple of accurate hits. All that's needed to bring a star system under our clan's control is to clear out all the military and rangers defending the system. Traders and other small fry needn't be touched, they make our business, and in their absence it'd get completely boring - there'd be nobody even to rob.
+1387	But keep in mind that there's no point capturing all the Coalition's systems at once. After all, almost all the useful products are made on their planets, the business centers where money trickles to us through intricate schemes are there, and their military somehow tries to save the galaxy from the dominators. On the planets under our control there's some... mess, everyone's drinking themselves silly and breaking the peace, whoever is still alive. If it's like that everywhere, we'll become easy prey for the scrap heaps. So let the Coalition suffer with the war, and we'll sit it out nicely in their rear until the dominators run out. What did the ancients on Earth say among humans - "raking embers with someone else's hands"? Well, that's what we'll do: once the dominators are shot, nobody will be able to stop us, because bureaucrats can be bribed, but scrap heaps can't, and so on. Got it?
+1388	Penchecrakus take you, <Player>, decide first what you want! Go to the hangar already and head to the <FlyToStar> system.
+1389	Hey, we've prepared everything here, started the reactor, and you!.. Showing a lack of discipline. Next time you'll fly yourself, without teleports!
+1390	Well, sorry, we can't do anything ourselves. Nobody, even after a half-liter bottle, has fully understood how this machine chooses the direction.
+1391	Have you gone completely mad, <Player>? Wait until we come out of hyper, and only then go near the generator. If there's any energy left in it, of course.
+1392	Ship is overloaded, takeoff <color=255,20,20>impossible</color>
+1393	No fuel tank, takeoff <color=255,20,20>impossible</color>
+1394	No engine, takeoff <color=255,20,20>impossible</color>
+1395	Identification: Object <Player>.<br>Code: Interference.<br>Order: Destroy.
+1396	A credit has been opened in your name in the business center network
+1397	No later than <Date> the debt must be repaid including interest - in the amount of <Money> cr.
+1398	A flight academy graduate who decided his skills would show better in the ranger corps. For excellent exam results he received the newest weaponry for his exemplary ship as a gift. Good reputation on all planets. No money in the account.
+1399	A small maneuverable ship, missile weapons - just what a strategist who prefers to wear the enemy down needs. No money in the account. Poor relations with maloqs and pelengs.
+1400	Several trade deals that ended in total failure led to the idea of joining the rangers. A large ship in terrible condition, slow engine. Good trade relations with all races, except the maloqs.
+1401	An exemplary bounty hunter ship. No money or goods. Despised by the gaals, since he poses a serious danger to the harmony of the Galaxy.
+1402	Has nothing except a huge batch of drugs in the warehouse. Reputation terrible even among his countrymen. Only on peleng planets is he a welcome guest who can be trusted with any dirty and vile errand.
+1403	A light, fast and well-protected ship, ideal for battles with the dominators. No money or cool equipment, except the newest gripper. In excellent standing on the planets of all races.
+1404	A small ship of a volunteer in conflict resolution with excellent equipment and a small remainder of money in the account. Relations with other races are warm.
+1405	An excellent trade ship. Hostile relations with the maloqs because of confiscations of jewelry made of precious metals. Part of the goods was saved.
+1406	Poor attitude from all races. A slow, weakly protected ship equipped with a droid and an excellent gripper for hauling looted goods aboard. A small stock of alcohol, stolen from under the noses of competitors, is kept in the warehouse.
+1407	A large maneuverable ship for long-distance flights with outdated equipment. Terrible relations with the maloqs, pelengs and faeyans. Only at home do they hope that Gaal's son will come to his senses after all and return to the path of Harmony.
+1408	Poor relations with the faeyans and gaals, which arose from carrying out special operations of the maloq government. A standard ship with good weaponry. Almost no money in the account.
+1409	Excellent relations with pelengs and humans. A ship with ideal weaponry. Wanted on the planets of the gaals and faeyans for carrying out contracts to liquidate their special agents.
+1410	A large, solid hull. Equipment outdated but in working order. Good reputation on all planets. Financial condition average, since representatives of other races often outwit the maloq in trade deals.
+1411	A small but formidable ship with excellent equipment. Because of constant clashes with gaal and faeyan military, he was forced to join the rangers.
+1412	A light and fast ship, ideal for bold raids on enemies. A decent sum in the account. Terrible relations with the faeyans and pelengs because of a couple of drug transports accidentally hit.
+1413	A small maneuverable ship with standard equipment. Difficult relations with faeyan and maloq authorities because of working for the peleng government. A large sum of money in the account.
+1414	An elite warship intended for battle with the dominators. Poor relations with all races because of constantly changing employers. Good financial condition.
+1415	A sizable peleng ship with a pair of small hidden compartments for carrying contraband. Equipment solid but worn. Thanks to caution and care in conversations, maintains good relations with all races. Financial condition average.
+1416	A large fortune, a well-equipped ship. A looted cargo of luxury goods in the warehouse. Poor relations with the faeyans and humans because of attacks on their peaceful ships.
+1417	A standard old ship with a compact missile cannon aboard. A small batch of drugs in the warehouse. Contraband deals in prohibited substances negatively affected relations with the gaals, faeyans and humans.
+1418	A small but well-equipped ship. Excellent shield. Poor relations with the pelengs because of drug confiscations. No money in the account.
+1419	A slow armored ship. Equipment old and worn through years of service. A good bank account. Has in the warehouse a huge batch of minerals after completing an assignment on an agrarian planet. Excellent relations with the maloqs and pelengs.
+1420	A roomy, slow, but fairly well-equipped ship. A good sum of money in the account for trading. Relations friendly with everyone except the maloqs, who failed to take away a batch of stools from a talkative traveling salesman.
+1421	A small maneuverable ship with good weaponry and the newest radar. A decent bank account. Poor attitude from both the peace-loving gaals and the peleng lyakushas.
+1422	A fast ship. Good weaponry and equipment. Difficult relations with the maloqs, gaals and faeyans, who do not understand the romantics of the great hyperspace road.
