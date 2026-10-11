@@ -1,0 +1,75 @@
+389	Klissan research? Ranger, are you out of your mind?<br><br>Right now - at this very moment - the klissans are right in front of our research complex in the <0> system!<br><br>If you want to study klissans so badly, drop everything at once and fly to that system!
+390	Ranger, are you still here? A <clr>Makhpella<clrEnd> is right next to our base, and you are still trying to tell us something about klissan research?! You must be joking, I hope?
+391	Judging by the data from our radio sensors, we have encountered <clr>another<clrEnd> representative of the klissan life form.<br><br>It is encouraging that, despite being in this system, this makhpella is not trying to attack our ships.<br><br>We pick up signals coming from the makhpella, but alas, the specialists of our base's <clr>communications<clrEnd> department recently left for a scientific symposium, so we cannot contact her in any way.<br><br>Meanwhile you, Ranger, have this device, and we hope you will use it for the good purpose of establishing contact.
+392	[Many diverse notifications were output to the ship's computer screen. It could not be said that you understood much of them, except that almost all the decryption algorithms of the <clr>Mental Communicator<clrEnd> seemed to have failed, yet the outdated programs with their original settings had somehow survived and fit the translation exactly]<br><br>Contacting...
+393	Hope I express that this is truth. Difficulty of studying material from foreign narrative is undeniable.
+394	Have I same question in direction of you.
+395	Group of my kin already is in this arm. Therefore not to see anything strange in my presence.
+396	Exactly so. I arrived with mission to establish for what reason my kin is held by you.<br><br>In case of resistance or not receiving answer I plan to deal with this situation by myself, without talk.
+397	Term "civil war" is not clear to me. I ask help in identification.
+398	What barbarism. Though, judging by stories about you, and how many you are and in what space you huddle, this is unsurprising.<br><br>Anyway, I and my kin want one thing: return of one of us. We caught her signals for help, and found trace of hyperspace puncture leading to your arm.<br><br>We gathered and argued long, but decided that better will be to come here and give you chance to explain what is happening.
+399	Very unwise. Well, if you want war, then I am forced to defend myself
+400	Good. What do you propose?
+401	None of this will help the search. So you propose to help you cope with your enemies?
+402	Interesting thoughts. However, it seems I have no choice. Otherwise I would have to act alone, perhaps taking part in battles with your own enemies.<br><br>Then let us consider that we are allies.
+403	Your species is subject to destruction for unreasonable aggression, <Player>. You chose such a path yourself.
+404	I perceive an attempt at contact from <Player>...<br><br>What interests you, organic specimen?
+405	What you imply by "feminine gender" seems to me more suitable to my personality, so I chose this form of communication. Some of my kin, owing to their character, would prefer other forms. Including, for example, those you would characterize as "masculine".<br><br>Our perception of the world differs from yours, for it is far less tied to creating beings like oneself.<br><br>If it bothers you, I can change the form of communication.
+406	Do you want to learn anything more from me, interstellar wanderer?
+407	For my species the so-called "dark green" is natural, or rather, the reflection by the surface of our bodies of a specific spectrum of rays.<br><br>However, on one planetoid two other... makhpellas and I managed to obtain a special kind of microorganism. We taught them to exist in symbiosis with us, and they <clr>help me recover from damage<clrEnd>. In return I feed them energy and the remnants of my damaged particles.
+408	In your language I found no term that would sufficiently describe this concept.<br><br>Once, very vile creatures invaded our arm, organic like you, but they made ships out of their own bodies and flew from star to star, devouring everything in their path. No one would have noticed them had one of our kin not perished because of them, and, while the last of his parts were being devoured by these creatures, he let out a mind-freezing cry for help.<br><br>All of us, participants in the raid on that ship, resolved from then on to stay closer and to meet constantly. Among other things, this is very useful for exchanging experience, though it constrains us, for we are not accustomed to spending much time on one another...
+409	Sorry, Ranger, but there is no point in my explaining this.<br><br>It is... both too personal and not. Both too spiritual and too base. No, I will not be able to tell you.
+410	Oh, this is most interesting!<br><br>Your civilization is very advanced for its years. Although you lack unity, you were nevertheless able to make many concessions for joint activity. That deserves praise.<br><br>On the other hand, we have far greater freedom and opportunities for experiment and cognition. But the experience of research on planets, and knowledge of them, is priceless to me.
+411	No stranger than being a small slimy creature with several appendages, forced to travel between the stars by means of machines huge compared to them. To depend so heavily on the serviceability of technology - it is simply terrible!<br><br>Our organs, meanwhile, give us incredible freedom and incredible capabilities. I am very sorry that if you are ever fated to know such sensations, it will be with great difficulty.
+412	Oh, nothing complicated, <Player>. Star systems are full of diverse planetoids, dust and scattered gases. Gravitational anomalies help me collect and process this material. It is so natural to me that it happens on autopilot.
+413	It's all right, <Player>. I have already taken care of this, and your virologists and bacteriologists passed me all their developments. I had to work on synthesizing the necessary compounds, but now I can defeat any virus known to you. Moreover, if I meet any other, I can use your strategies to create a new antidote.
+414	There will be time for talk afterward, my friend
+415	Welcome aboard the secret facility <clr>Handler<clrEnd>, <Player>. Your first impulse is surely to grab your blaster, but believe me, you lose nothing by letting me explain. As you have probably guessed, the pirate clan really is involved in the appearance of klissans in our Galaxy. More precisely, I personally - dalani <clr>Alakay<clrEnd>, chief director and inspirer of this project. And as you can see, we have indeed achieved considerable success...
+416	Easy now, <Player>... Yes, it seems this time I miscalculated and bet on a dark horse. The incompetence of the Clan's leaders knows no bounds.<br><br>So now we must come to an agreement, mustn't we?
+417	So, Ranger, we have found my kin. Release her.
+418	Then I will have to use force... Very, very sorry.
+419	It was not the easiest trial, but you coped with the task successfully, Ranger! The klissan lair is completely destroyed, and the Pirate Clan, implicated in the horrible story of the attempt to tame a Makhpella, has been neutralized and decapitated. We have already established who was the main cause of all this lawlessness - <clr>Dalani Alakay<clrEnd>, who was being treated by Coalition special units as a "find and destroy" target. The scientist, who had clearly lost his mind, had long ago tried to push his idea of controlling the klissans, for which he was arrested, and he escaped from custody with the support of unknown parties - a faint thread of yet another group of corrupt officials and Clan leaders could be traced there. The special services searched for him for many years, and now it turns out that it was the renegades under their new Baron who had sheltered the madman. You understand perfectly why we could not allow this technology to exist. It had to be done, <Player>, and we are grateful to you for eliminating the consequences of what was perhaps the most terrible of our failures. Your name, like those of all who took part in the assault on the secret pirate base, will go down in Coalition history forever.<br><br>Moreover, it was you, Ranger, who became the most important element in our relations with the Makhpella who appeared afterward from another arm. You were able to establish contact, and thanks to you our scientists are now removing the nanobots from Makhpella's body. Full-scale cooperation, alliance and exchange of experience - something no one would have thought of three hundred years ago! Fantastic! All sapient beings of the Galaxy are in your debt beyond repayment, Ranger.
+420	Well, say, for a villa on a remote resort planet where I can pursue any research...
+421	All right, all right, we'll start now. Only mind you - the process isn't quick, it will take several months, since the nanobots have to be removed from all her organs. Besides, Makhpella will clearly need rehabilitation...
+422	All right, all right, I'll fly soon...
+423	No, because before dealing with Makhpella one must seek advice from those who know better than I. What is this Makhpella?
+424	Me too. All right, time to take the situation into my own hands.
+425	Well... Hello, Makhpella! Do you understand me?
+426	It's gratifying to see klissans who still answer questions. In fact, despite curiosity, I'll ask the most important question - to what do we owe your visit?
+427	Wait, but it's you, here, in our Arm, despite the agreement between our species three hundred years ago...
+428	Do you mean the Makhpella whose organs' activity our regular forces are fighting is from your...
+429	Alas, we ourselves do not know. Our community is divided by civil war, and we cannot be entirely sure that the schismatics are not to blame for all this.
+430	Alas, we ourselves do not know. Our community is divided by civil war, and we cannot be entirely sure that the schismatics are not to blame for all this. Besides, our forces are busy fighting the dominators, which does not let us concentrate on suppressing pirate uprisings.
+431	When contradictions between groups of individuals become so acute that they take up arms to impose their views.
+432	It seems to me we have a chance to help each other. All the more so since we have already agreed - we will talk <clr>as equals<clrEnd>
+433	I don't know what you need explained, flying boulder. Better let my guns do the talking for me!
+434	Fire!
+435	The Coalition of Sapient Races has problems of its own. If we threw all our forces now into helping you, then, firstly, it's not certain the invaders wouldn't keep us from reaching your kin, and secondly, it's quite likely it would let our enemies deal us a fatal blow.
+436	Exactly. In return the Coalition guarantees it will help in searching for the other Makhpella and, if needed, freeing her. Besides, it's a good occasion to... exchange information about each other. Perhaps you will even want to apply for membership in the Coalition.
+437	Excellent! I will inform all the others. Ship's computer, transmit the message!
+438	The Coalition of Sapient Races has succeeded in establishing contact with the newly arrived Makhpella. As it turned out, she herself is searching for one of her kin who was sending distress signals from our Arm. The Interstellar Coalition cannot leave beings in trouble, whatever race they may be, and has extended a helping hand to the klissans. This day is a great day, for from this day we proudly speak of an alliance of the Coalition and the klissans, beings from two different arms - Orion and Perseus!
+439	Thanks to the courage and ingenuity of Ranger
+440	This is our space! Death to the invaders!
+441	Why do you speak of yourself in the feminine gender?
+442	Oh no, thanks. And thanks for the answer.
+443	Farewell, Makhpella
+444	And why do you have this shade? All the representatives of your species we've met before had dark green shades... of outer covering.
+445	Wow...
+446	You said something about... a "group"
+447	Very curious! Thanks for the story.
+448	And how do new Makhpellas come about?
+449	Oh well
+450	And how is your dialogue with the Coalition scientists going?
+451	Glad to hear it
+452	It must be very strange to feel yourself as dozens, even hundreds of pieces scattered across the galaxy at once.
+453	And there's some truth in that...
+454	Very curious, and how do you manage such an armada? Not from the standpoint of logistics or management, but from the standpoint of... well, so to speak, economics? After all, your organs get damaged and die!
+455	Then it's clear how Makhpella nearly crushed the Coalition three hundred years ago. Thanks.
+456	By the way, aren't you afraid of "catching" bacteria and viruses from us? After all, you're in such close contact with us!
+457	Wow. That's very good!
+458	I couldn't care less what your successes are. A special forces group awaits my order, and the sappers are already cutting the wires to the reactor control panels and the bombs planted in the base - we're not fools, dalani, and we know perfectly well that such affairs are always "locked with a key".
+459	I'd gladly blow everything sky-high here. But, unfortunately, we need Makhpella. Alive, capable and, above all - independent. Without your rotten nanobots!
+460	You know, I put my head together with the boys here, did some thinking, and know what I came up with? That it's time for you to get lost! This is our Makhpella, and she will become the instrument of our new order!
+461	And to my boys - not a bit! Fire!
+462	Even an island in the ocean, you'll be a persona non grata... Oh, anyway, you'll get a house and a library, just hand over Makhpella to us!
+463	Do what must be done. I've said my piece, and rest assured, my word is the word of the Coalition Council, or I'm no Ranger! Now I have business in orbit. Bye.
