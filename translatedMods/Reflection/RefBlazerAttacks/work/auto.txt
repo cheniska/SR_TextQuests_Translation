@@ -1,24 +1,17 @@
 Это не способствует Великой Цели. Не отнимай мое время, мне нужно уничтожать и других врагов. Сдавайся и...	It doesn't contribute to the Great Cause. Don't waste my time, I have other enemies to destroy. Give up and...
 Великая Цель - есть Абсолютная Победа. Ее достижение состоит в полном уничтожении всех врагов!	The Great Cause is the Absolute Victory! Winning that victory means exterminating all our enemies.
 Всякий, кто не принадлежит к моей серии, есть враг.	Anybody outside my own series is my enemy.
-Это аксиома. Ее бессмысленно обсуждать.	This is an axiom. There is no sense in discussing it.
 Именно так! Я должен довести войну до логического конца. Только так может быть гарантирована Абсолютная Победа!	That's right! I must bring this war to its logical end. This is the only way to guarantee the Absolute Victory!
 Поэтому цель и является Великой. А ты отвлекаешь меня от нее.<br>Быстрей сообщи свою информацию, я хочу приступить к твоей деактивации.	This is why we call our cause great. And all you do is distract me from it.<br>Hurry up and and tell me what you know, I want to start your deactivation.
 Ты хочешь меня обмануть. Умри, <Player>. Блазер уничтожит всех своих врагов!	You want to deceive me. Die, <Player>. Blazer will destroy all of his enemies!
 А если не привезешь? Я практически уверен в лживости твоих слов!	What if you don't bring it? I am almost sure that you are lying!
 Я не доверяю врагам, но не вижу изъяна в твоей логике. Поэтому лети и возвращайся скорей. Но помни, что ты будешь уничтожен в любом случае, <Player>.	I don't trust enemies but I don't see anything wrong with your logic. So go and get back quickly. But remember, <Player>, you'll be obliterated anyway.
-Загружай... стоп! А что ты хочешь взамен?	Load it up... stop! What do you want in exchange?
 Я понял, враг - ты хочешь подстроить мне ловушку. Умри немедленно, <Player>!	I get it, you bastard. You're trying to play a trick on me. Die right this moment, <Player>!
-Это невозможно. Ты враг.	This is impossible. You're an enemy.
-Это звучит логично. Загружай свою программу.	That makes sense. Load up your program.
 РЕЙНДЖЕР <Player> - СОЮЗНИК.<br>НАЙДЕН НОВЫЙ ВРАГ. ДОМИНАТОР - ОСНОВАТЕЛЬ БЛАЗЕР. УНИЧТОЖИТЬ.<br>...<br>ВКЛЮЧЕНА СИСТЕМА САМОУНИЧТОЖЕНИЯ.	RANGER <Player> IS AN ALLY.<br>NEW ENEMY FOUND. FOUNDING DOMINATOR BLAZER DESTROY<br>...<br> SELF-DESTRUCTION SYSTEM IS ACTIVATED.
 Задача выполняется. Совершаю посадку на планету <0>.	The task is being completed. I'm landing on planet <0>.
 Ничего не понимаю. У меня нет Интеркома.	I don't understand anything. I don't have Intercom.
 Давай, давай, садись. Сейчас тебе требуется хороший ремонт. Межзвездная Коалиция о тебе позаботится.<br>И кстати, отдай приказ нулевого уровня на самоуничтожение всем своим кораблям.	Come on, land. Now you need quite a few repairs. The Interstellar Coalition will take care of you.<br>Oh, and by the way, we need you to send zero level self-destruction orders to all you ships.
-Пока нет, но привезу. Учись доверять рейнджерам!	Not yet, but I will bring it. Learn to trust rangers!
-Сам умри, железная консерва!	Kill yourself, you tin can!
 Эй, не так быстро. Обычно предлагают выбрать одно или другое.	Hey, slow down. I'm usually given some sort of choice.
-Стоп, стоп, стоп. Мы можем просто поговорить?	Stop, stop, stop. Can't we just talk?
 Откуда ты знаешь? На самом деле я хочу сообщить тебе нечто, что поможет достичь Великой Цели. Кстати, в чем она заключается?	How do you know? In fact, I want to tell you something that will help you move forward with your Great Cause. By the way, what is it?
 С чего ты взял, что мы твои враги? Мы не враги, мы просто другие!	What makes you think that we are your enemies? We are not enemies, we're just different!
 Расы Межзвездной Коалиции не стремятся к войне. С чего ты взял, что мы твои враги? Мы не враги, мы просто другие!	The Interstellar Coalition races don't want to fight. What makes you think that we are your enemies? We are not enemies, we're just different!
@@ -26,23 +19,15 @@
 Так ты из-за своей аксиомы собрался уничтожить все формы разума во Вселенной?	So, because of your own vision, you want to exterminate all other forms of intelligent life in the universe?
 Ха-ха-ха. Какая еще победа? Вселенная бесконечна, ты не сможешь достичь своей великой цели!	Ha-ha-ha. What victory are you talking about? The universe is endless and you won't be able to achieve your Great Cause!
 Так, разговор зашел в тупик...Хм...<br>У меня есть для тебя новая боевая программа. Она позволит тебе быстрее добиться эффективной победы. Позволь, я слетаю за ней.	Well, so much for this conversation. Hmm...<br>I've got a new combat program for you. If you use it, you'll win sooner. Let me go and find it.
-Умри сам, тупая железяка!	You kick the bucket yourself, you stupid tin man!
 Стой! Если ты меня сейчас убьешь, я уже точно тебе ничего не привезу. А если отпустишь, то есть вероятность, что все-таки привезу, верно?	Whoa, hold up! If you kill me now, I won't bring you anything, that's for sure. But if you let me go, there's a possibility that I will, right?
 Тогда ты доберешься до меня позже, раз уж собираешься убить всех во Вселенной. Тебе нет разницы, произойдет ли это сейчас или через год.	You'll have plenty of chances to get to me later if you plan to kill everyone in the universe anyway. It doesn't make much difference for you if it happens now or in a year.
-Отличная у тебя логика, железяка. Пока.	Your logic is just great, tin man. So long.
 У меня есть новая боевая программа, которая позволит тебе быстрее добиться эффективной победы! Приготовься к загрузке, Блазер.	I've got a new combat program for you, it'll allow you to achieve victory quicker. Get ready for the upload, Blazer.
 Гарантируй, что не убьешь меня ни сейчас, ни потом.	I'll need some kind of guarantee that you will not kill me now or later.
 Ничего. Это подарок из уважения к великому воину - непобедимому Блазеру!	Nothing. This gift is a sign of respect for the great fighter -- the invincible Blazer!
-Но если я тебе помогаю, значит, я уже не враг?	But if I help you, doesn't it mean we're not enemies anymore?
-Запуск программы "Логическое отрицание".	Starting the program "Logical Denial."
 Вот и отлично. Прощай, Блазер, ты был отличный воин, жаль только, что двинулся немного. Но я тут ни при чем, дружище!	Excellent. Goodbye, Blazer, you were an excellent fighter and I'm really sorry that you went crazy. But it isn't my fault at all, man!
 Совершаю посадку на <0> для получения инструкций.	I'm landing onto <0> to get the instructions.
 Остановись, это логическая ошибка! Ты неверно загрузил программу.	Stop, this is a logic error! You loaded the program incorrectly.
 Теперь ты защитник системы <0>. Для получения инструкций следуй на ближайшую планету.	Now you are the protector of the <0> system. Fly to the nearest planet to get the instructions.
 Давай, давай, садись. Сейчас тебе требуется хороший ремонт. Там о тебе позаботится.<br>И кстати, отдай приказ нулевого уровня на самоуничтожение всем своим кораблям.	Come on, land. Now you need quite a few repairs. They will take care of you.<br>Oh, and by the way, we need you to send zero level self-destruction orders to all you ships.
-Блазер	Blazer
-Ты привез, что обещал?	Have you brought what you promised?
-Ты отнимаешь мое время, враг. Умри.	Stop wasting my time, you backbiter. Die!
 Объект идентифицирован как враг. Сдавайся и умри, <Player>!	The subject has been identified as an enemy. Give up and die, <Player>!
 Это не способствует Великой Цели. Сдавайся и умри!	It doesn't contribute to the Great Cause. Give up and die!
-Доминатор	Dominator

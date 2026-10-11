@@ -1,0 +1,20 @@
+1	from the enemies of the Coalition. For standing combat watch you have accumulated
+2	Sorry, ranger, but we could not find any systems near our base that need a patrol.
+3	So, the target system has been chosen.<br><br>For every day spent in the space of the system we pay <0> cr.<br><br>For every intruder ship destroyed we pay <1> cr. For large enemy ships the money is paid with an additional coefficient.
+4	Are you sure?<br><br>If you lay down your duties now, you will receive <0> cr.
+5	That's right, ranger! The enemies of the Coalition never sleep! Proceed to combat duty.
+6	Not now
+7	Yes, find something for me
+8	Pity
+9	I'll think about it
+10	Agreed. Moving out!
+11	Your goal is to defend the system
+12	No, I've changed my mind
+13	from the enemies of the Coalition.
+14	Patrolman! You have betrayed the Coalition, which means our contract is no longer valid
+15	Patrolman! You allowed our system to be lost! As a penalty for the loss of the system, we are terminating the contract and deducting 50% of the reward assigned to you.
+16	I want to lay down my duties
+17	Do you have any special assignment for me?
+18	Wha-a-a-at?! What assignment, you pirate mug?! Get out of here before we count your ribs!
+19	With our fleet crushed at Gralgar, the defense of systems was left in the care of insignificant local defense forces. Naturally, this resulted in a wave-like seizure of Coalition-controlled territory by the dominators.<br><br>After the Ranger Corps was convened, the command decided to hand out monetary rewards to free pilots who deliberately take part in defending our systems.<br><br>If you wish to take part in such an undertaking, we will assign a system for you to defend and announce the current rates according to the funding from the Coalition.
+20	What do you mean, "not now"? Ranger, it is because of people like you that we are losing right now!<br>...<br>All right, I got carried away. It is entirely your right. But we will be glad if you still change your mind and help our boys.

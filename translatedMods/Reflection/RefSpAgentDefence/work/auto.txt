@@ -1,5 +1,4 @@
 Пират	Pirate
-Спецагент	Secret Agent
 Скорость двигателя: <bonSpeed> ед.	Engine speed: <bonSpeed>
 Дальность захвата: <bonHookRadius> ед.	Gripper range: <bonHookRadius>
 Эффективность дроида: <bonDroid> ед.	Droid effectiveness: <bonDroid>

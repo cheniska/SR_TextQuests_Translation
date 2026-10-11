@@ -1,5 +1,4 @@
 Отмена	Cancel
-Бои: Быстрый запуск	Battles: Quick Launch
 100% <color=149,149,149>(Нет)</color>	100% <color=149,149,149>(None)</color>
 80% <color=149,149,149>(Поддержка с воздуха)</color>	80% <color=149,149,149>(Air Support)</color>
 80% <color=149,149,149>(Усиленная броня)</color>	80% <color=149,149,149>(Reinforced Armor)</color>
@@ -7,5 +6,3 @@
 Из модов	From Mods
 Время: <Val>	Time: <Val>
 Удачи!	Good luck!
-Бункер	Bunker
-Эрджишка	Deleter

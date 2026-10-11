@@ -2,7 +2,6 @@
 Скорость двигателя: <bonSpeed> ед.	Engine speed: <bonSpeed>
 Дальность прыжка: <bonJump> пк.	Jump range: <bonJump> pc
 Мощность захвата: <bonHook> т.	Gripper power: <bonHook> t.
-Размер: <clr>+30%<clrEnd>	Size: <clr>+80%<clrEnd>
 Масса корабля: <bonMass><clr>%<clrEnd>	Ship mass: <bonMass><clr>%<clrEnd>
 Броня корпуса: <bonHull> ед.	Hull armor: <bonHull>
 Урон ракетного оружия: <bonWMissile> ед.	Missile weapon damage: <bonWMissile> units

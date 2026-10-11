@@ -13,6 +13,6 @@
 Урон осколочного оружия: <bonWSplinter> ед.	Splinter weapon damage: <bonWSplinter> units
 Урон ракетного оружия: <bonWMissile> ед.	Missile weapon damage: <bonWMissile> units
 Скорость ракет: <bonMissileSpeed> ед.	Missile speed: <bonMissileSpeed> units
-Размер: <clr>+10%<clrEnd>	Cost: <clr>+20%<clrEnd>
+Размер: <clr>+10%<clrEnd>	Size: <clr>+10%<clrEnd>
 Дальность прыжка: <bonJump> пк.	Jump range: <bonJump> pc
 Масса корабля: <bonMass><clr>%<clrEnd>	Ship mass: <bonMass><clr>%<clrEnd>

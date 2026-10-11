@@ -1,4 +1,4 @@
-Размер: <clr>+10%<clrEnd>	Cost: <clr>+20%<clrEnd>
+Размер: <clr>+10%<clrEnd>	Size: <clr>+10%<clrEnd>
 Броня корпуса: <bonHull> ед.	Hull armor: <bonHull>
 Дальность стрельбы: <bonWRadius> млн км	Firing range: <bonWRadius> million km
 Эффективность дроида: <bonDroid> ед.	Droid effectiveness: <bonDroid>

@@ -53,9 +53,10 @@
 53	Script/Mod_RefGeorgia/59
 54	Script/Mod_RefGeorgia/6
 55	Script/Mod_RefGeorgia/60
-56	Script/Mod_RefGeorgia/7
-57	Script/Mod_RefGeorgia/8
-58	Script/Mod_RefGeorgia/9
-59	UselessItems/Hachapuri/OnUseCode/02
-60	UselessItems/Khinkali/Name
-61	UselessItems/Khinkali/Text
+56	Script/Mod_RefGeorgia/61
+57	Script/Mod_RefGeorgia/7
+58	Script/Mod_RefGeorgia/8
+59	Script/Mod_RefGeorgia/9
+60	UselessItems/Hachapuri/OnUseCode/02
+61	UselessItems/Khinkali/Name
+62	UselessItems/Khinkali/Text

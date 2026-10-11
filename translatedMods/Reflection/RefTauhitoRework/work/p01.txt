@@ -1,0 +1,37 @@
+1	"Tauhito" Hull
+2	An old Coalition design that passed only to the descendants of its testers as an inheritance, yet lacked any special properties until a disk with data on the original project was found by a certain ranger. The hull was recreated by specialists from the ranger center network, as close as possible to the original concept - the onboard computer introduces the pilot to cyberspace, allowing some stock-exchange and other financial manipulations to be carried out using its resources, and also maximizing the work of the scanner and radar. The price is a partially lost connection with reality, which leads to a decrease in some of the pilot's social abilities.
+3	Radar range: <bonRadar> million km.
+4	Scanner power: <bonScan>%
+5	<clr>The hull's cybernetic mind helps the pilot with various trade matters<clrEnd>
+6	While sitting on a planet, lowers the purchase price
+7	Flag for the takeoff ability (from the script)
+8	The government is generous and hands out programs
+9	Raises the price from sales
+10	May withhold part of the goods when selling them to an NPC
+11	With a small chance the deal will not be illegal
+12	Central control unit. Checks the player's hull and removes the info items if things are bad
+13	Passively raises trade rating (depends on trading skill)
+14	Increases the value of picked-up uselesses
+15	Makes the Biomir ability from RefArtsUpgrade generate a Trade Mark for the player
+16	NewsAdd('Biomir has refreshed your Trade Mark, adding another 70 days to its validity');
+17	Your cargo of narcotics cannot be sold profitably in this system
+18	 cr. on planet
+19	Your cargo of alcohol cannot be sold profitably in this system
+20	Your cargo of alcohol in the amount of
+21	Your cargo of minerals cannot be sold profitably in this system
+22	Your cargo of minerals in the amount of
+23	Your cargo of medical supplies cannot be sold profitably in this system
+24	Your cargo of medical supplies in the amount of
+25	Your cargo of foodstuffs cannot be sold profitably in this system
+26	Your cargo of foodstuffs in the amount of
+27	Tauhito's cybernetics has analyzed the offers to buy goods according to what you have on board. Here are its suggestions:
+28	Tauhito's cybernetics has additionally analyzed the offers to buy goods according to what you have on board, relying on data not of the current system but of the current sector. Here are its suggestions:
+29	 t. can be sold for
+30	 (sector
+31	Your cargo of narcotics in the amount of
+32	Your cargo of weapons cannot be sold profitably in this system
+33	Your cargo of weapons in the amount of
+34	Your cargo of technics cannot be sold profitably in this system
+35	Your cargo of technics in the amount of
+36	Your cargo of luxury goods cannot be sold profitably in this system
+37	Your cargo of luxury goods in the amount of

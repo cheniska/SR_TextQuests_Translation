@@ -14,22 +14,15 @@
 Урон ракетного оружия: <bonWMissile> ед.	Missile weapon damage: <bonWMissile> units
 Урон энергетического оружия: <bonWEnergy> ед.	Energy weapon damage: <bonWEnergy> units
 Масса корабля: <bonMass><clr>%<clrEnd>	Ship mass: <bonMass><clr>%<clrEnd>
-Размер: <clr>+10%<clrEnd>	Cost: <clr>+20%<clrEnd>
+Размер: <clr>+10%<clrEnd>	Size: <clr>+10%<clrEnd>
 Стоимость: <clr>+50%<clrEnd>	Cost: <clr>+50%<clrEnd>
-Дезинтегратор	Disintegrator
-Размер: <clr>-20%<clrEnd>	Cost: <clr>-30%<clrEnd>
 Скорость ракет: <bonMissileSpeed> ед.	Missile speed: <bonMissileSpeed> units
 (необходимо превышение мощности сканера над защитой цели)	(scanner power must exceed target's defense)
-Кластер	Cluster
 Навык техники: <bonSkill3>	Technology skill: <bonSkill3>
 Навык точности: <bonSkill1>	Attack skill: <bonSkill1>
 Размер: <clr>+25%<clrEnd>	Size: <clr>+25%<clrEnd>
 Размер: <clr>-50%<clrEnd>	Size: <clr>-50%<clrEnd>
 Стоимость: <clr>-25%<clrEnd>	Reliability: <clr>+25%<clrEnd>
-Мирный	Peaceful
-Размер: <clr>-30%<clrEnd>	Cost: <clr>+50%<clrEnd>
 Размер: <clr>-25%<clrEnd>	Reliability: <clr>+25%<clrEnd>
 Стоимость: <clr>+150%<clrEnd>	Cost: <clr>+150%<clrEnd>
 Размер: <clr>+20%<clrEnd>	Size: <clr>+20%<clrEnd>
-Трезубец	Trident
-Волновой	Undular

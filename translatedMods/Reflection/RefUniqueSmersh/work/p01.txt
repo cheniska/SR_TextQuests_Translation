@@ -1,0 +1,34 @@
+1	"Hornet" Hull
+2	<color=0,0,0>Close combat mode</color>
+3	A unique design by a Coalition special department. Built as a single prototype for field trials, but the design was rejected by the CAFIC, so no more such ships will ever appear in the Galaxy.
+4	<color=248,252,248>"There is no force against a club if you have no club of your own" - a well-known maloq saying.</color>
+5	<color=248,252,248>The fight against the dominators has always been the most problematic and, accordingly, the highest-priority direction of research for the Coalition. However, we must not forget that the Coalition has always been saved by the discord between the three series of dominators. By analogy, Coalition scientists decided to use the dominators' own capabilities against them and, thanks to participants from the Ranger Corps, were able to create a unique electronic computing complex for controlling weapon systems. Based on the logic of fighting their "brethren" of other series, the ECC aims the guns at the dominator's most vulnerable points, which the creators of Coalition targeting systems did not even suspect. In addition, this ECC can analyze all the damage dealt to the current target and, on that basis, conclude which weapons will deal the enemy the most damage.</color>
+6	Energy weapon power: <bonWEnergy> units
+7	Splinter weapon power: <bonWSplinter> units
+8	Hull repair by droid: <bonDroid> units
+9	<clr>Weapons installed on this hull deal more damage to dominators<clrEnd>
+10	<clr>A cloaking generator is installed on the hull<clrEnd>
+11	<color=0,0,0>Missile mode</color>
+12	Missile weapon power: <bonWMissile> units
+13	Missile and torpedo speed: <bonMissileSpeed> million km/d
+14	Increases damage to domiks and reports what is best to hit the target with
+15	if(HullDamageSuspectibility(target,0) > HullDamageSuspectibility(target,1) && HullDamageSuspectibility(target,0) > HullDamageSuspectibility(target,2)) tstr = tstr + ' is most susceptible to energy damage';
+16	else if(HullDamageSuspectibility(target,1) > HullDamageSuspectibility(target,0) && HullDamageSuspectibility(target,1) > HullDamageSuspectibility(target,2)) tstr = tstr + ' is most susceptible to splinter damage';
+17	else if(HullDamageSuspectibility(target,2) > HullDamageSuspectibility(target,1) && HullDamageSuspectibility(target,2) > HullDamageSuspectibility(target,0)) tstr = tstr + ' is most susceptible to missile damage';
+18	else tstr = tstr + ' is equally susceptible to every type of damage';
+19	MessageBox('Cloak switching is not ready yet!');
+20	MessageBox('Cloak switching must take place in open space!');
+21	if(0) SFT('Do you love mods?.. I am too lazy to write a loop, it is easier to copy-paste the same thing');
+22	MessageBox('Cloak restored - the dominators have lost track of you and again consider you one of their own');
+23	MessageBox('Cloak installed - the dominators have lost track of you and consider you one of their own');
+24	Enhancement type: <0>
+25	Switch the Hornet to energy type
+26	And what is that dominatorology you have there?
+27	Would you like to look at the result of the work of a Coalition special department and specialists in applied dominatorology? We are ready to give you access as a distinguished Coalition fighter
+28	energy-splinter
+29	missile
+30	Applied dominatorology is the most important direction in the study of the dominators. It is divided into the use of dominator technologies to defeat the threat in general, the use of new knowledge to fight ordinary dominators, and the use of the information obtained in our own developments.<br><br>One example of such work is what we want to offer you.<br><br>The "Hornet" hull is a unique hull built on advanced acryn technologies and revolutionary dominator designs. This hull has two modes - one strengthening the hull in relatively close combat and one aimed at fighting from afar.<br><br>Current price of the hull - <0> cr.
+31	Excellent! The hull has already been sent to the warehouse. Enjoy!
+32	I want to buy it!
+33	No, not now
+34	Switch the Hornet to missile type
