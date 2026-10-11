@@ -204,3 +204,10 @@
 | Центр наёмников (ЦН); Свободный порт (СП); Штаб | Mercenary Center (MC); Free Port (FP); HQ | ShuMercs |
 | Гильдия Фрилансеров; облёт; Берсерк; Фазовый ускоритель; Барьер | Freelancers Guild; survey flight; Berserk; Phase Accelerator; Barrier | ShuMercs |
 | Корпус "Мерценарий"; Элендар, Хааг-нор, Драк'рор, Шукрямба, Бродяга | "Mercenarius" Hull; Elendar, Haag-nor, Drak'ror, Shukryamba, Wanderer | ShuMercs, корабли фрилансеров |
+| Рамона (корабль); Хайнакин Файлуокер; Файлянэй; Арерия Линно Ваниллианская; Цухайнак | Ramona; Khaynakin Faylwoker; Faylyaney; Areria Linno of Vanillia; Tsukhaynak | Reflection RefLitRes |
+| Раамис Га; Гаалдок; Еврейский Дом | Raamis Ga; Gaaldok; Jewish House | RefLitRes |
+| Ниспер; ниспероид; акрин; транклюкатор; База Доминаторов | Nisper; nisperoid; acryn; tranclucator; Dominator Base | RefNisper |
+| ОКБ / ЭКБ при Научном совете | Experimental / Economic Design Bureau under the Science Council | RefNisper |
+| Имхоняр; Торпедяр; Вертиксяр; Апдэйтер | IMHOnar; Torpedar; Vertixar; Updater | RefNisper (микромодули) |
+| модульные роботы; жестянки | modular robots; tin cans | RefMaps |
+| Электропус; Нар-чай; Айлинойл-101 | Electropus; Nar Tea; Ailinoil-101 | RefMaps |
