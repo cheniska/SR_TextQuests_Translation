@@ -1,0 +1,53 @@
+1	A well-aimed shot from the enemy's gun hit the defense complex. It seems to have stopped working.
+2	Constantly anticipating an enemy attack, the defense complex overheated and broke down. Apparently only a full repair will help it.
+3	3) Send a swarm of nanobots at the offender that will inflict unpleasant effects on the enemy
+4	A unique micromodule. Created by Nisper specifically for the <clr>IMHO-9000<clrEnd>. This micromodule changes the design of the molecular chaotic deviation radiation system, making it possible to create a spatial distortion effect using EMP waves. As a result the IMHO-9000 deals more damage over a larger radius, and also leaves unstable highly charged particles on the plating of the enemy it hits.
+5	A unique Smersh hull created by Nisper especially for you. The ship's onboard computer has a program added for calculating the market and predicting more profitable deals, which can help in trading. In turn, the design of this hull was specially modified to boost the engine by allotting it more energy. Together these two factors give a great advantage to any trader.
+6	A fully functional bertor hull created by Nisper especially for you. This unit has all the advantages of an ordinary bertor in the form of a field-amplifying generator and a klig-making factory, but, owing to the complexity of the design and controls, a humanoid cannot use the full functionality of such a ship without losing effectiveness in all of their other actions.
+7	All skills: <bonSkill1>
+8	A new kind of acryn developed by the finest minds of the Coalition in cooperation with Nisper to increase the combat potential of the Coalition's dominators.
+23	<clr>Adds a chance to damage the target's engine.<clrEnd>
+24	<clr>Adds a target-slowing effect to the weapon.<clrEnd>
+26	<clr>Adds a strong target-slowing effect to the weapon.<clrEnd>
+28	<clr>Adds a very strong target-slowing effect to the weapon.<clrEnd>
+33	<clr>Adds a hull-ionizing effect on the target to the weapon.<clrEnd>
+39	<clr>Has a chance to block the enemy droid's operation.<clrEnd>
+68	<clr>Adds an effect of applying EM interference to the target to the weapon.<clrEnd>
+76	<clr>Has a chance to block the enemy weapons' operation.<clrEnd>
+101	Nisper's most unusual invention, based on Keller's developments. Besides the ordinary function of storing fuel, this tank is able to generate an enormous amount of energy through quantum conversions of the fuel. All this energy can subsequently be used to boost various ship systems.
+102	<color=248,252,248>A unique modification of pirate weapons developed by Nisper for destroying large objects with little armor. A weapon with this modification launches 7 high-precision ultra-fast missiles which on exploding can cause not only EM interference but also an ionization effect on a ship's plating.</color>
+103	Missiles per salvo: <bonShots> units
+104	Missile speed: +250 units
+105	<clr>Ionizes the target<clrEnd>
+106	One of three unique tranclucators developed by Nisper at the direction of the Coalition Council. This unit was improved by Nisper specifically for destroying large numbers of enemies.
+107	One of three unique tranclucators developed by Nisper at the direction of the Coalition Council. This unit was improved by Nisper specifically for destroying large ships.
+108	One of three unique tranclucators developed by Nisper at the direction of the Coalition Council. This unit was improved by Nisper specifically for distracting large numbers of enemies.
+109	A unique micromodule. Created by Nisper specifically for the <clr>torpedo tube<clrEnd>. This micromodule improves the torpedo launch system, allowing the torpedo tube to fire two more shots right after the first. Due to the complexity of the design it reduces the amount of explosive in the torpedoes, which results in lower damage. It also increases the size of the torpedo tube to store more torpedoes.
+110	Shots per turn: <bonAttacks> units
+111	A level one micromodule. Created by Nisper when he was studying acrynic technologies for weapons. When installed in <clr>any<clrEnd> weapon, it applies a number of acrynic bonuses to it.
+112	<clr>Increases the chance of valuable equipment dropping from a destroyed enemy<clrEnd>
+113	<clr>Adds a chance of goods dropping from the target's cargo bay<clrEnd>
+114	<clr>Adds a chance to block the target's weaponry and droid<clrEnd>
+115	A unique micromodule. Created by Nisper specifically for the <clr>vertix<clrEnd>. This micromodule improves the design of the space distortion system, making it possible to create a "wave crumpling of space" effect that also affects all electronics within range. Thanks to this, the vertix can break and disable any equipment of any enemy caught by the charge, and the more advanced targeting system can increase damage against an already wounded enemy.
+116	<clr>Creates EM interference on all enemies hit<clrEnd>
+117	<clr>Breaks the internal equipment of all enemies hit<clrEnd>
+118	Damage bonus against wounded enemies: up to <clr>33%<clrEnd>
+119	I see. And what about you? If it's that important, why don't you fly out and guard this system yourself?
+120	Fine, I understand.
+121	Correct. Your trade rating is high enough, which means you are suitable for participation in this assignment.
+122	Negative. Ranger <0>, in the Coalition databases your trade rating is too low to consider your candidacy for participation in this type of activity.
+123	Accepted. Beginning diagnostics and starting the module.
+124	Do I fit the definition of an experienced trader?
+125	Excellent. And what will I have to do?
+126	I agree and am ready to begin.
+127	Excellent. Now let's see who's tougher.
+128	Based on my calculations I created a new module designed to imitate the trading behavior of an ordinary Ranger. <br>The module's task is to earn as much profit as possible from trade between planets in a short time.<br>Your task is to earn more profit than this module in the same period of time.<br>Profit includes only the money you receive from trade. Assignments and other possible sources of income will not be counted.<br>You are allowed to use any economic tricks and ploys. You are allowed to trade not only on planets but also at stations. You are allowed to have unlimited starting capital and an unlimited number of starting units of goods.<br>The contest will last <0> days, after which the final tally of results will be made.<br>Note No. 1: the module's starting capital will depend on your starting capital. The value of the equipment installed on your ship, the value of equipment and goods in storage, the deposit and the current amount of money in your account will be taken into account.<br>Note No. 2: destroying the module will cancel the current mission and require restarting it.
+129	I see. But I still need time to think, so for now I do not agree to take part in this.
+130	Accepted. When you find the necessary samples, take them to the Dominator Base and give them to the scientists. After that you will receive further instructions.
+131	Fine, I agree. Very well, I'll find your samples for you.
+132	If I agree, where do I look for these debris and how much time will I have?
+133	Ooo, awesome! You found that thing after all. Even two *hic* things! Good for you!<br>Oh, wait, no. That's my eyes seeing double... Anyway, good job! Hurry up *hic* and fly to Nisper, and we'll have a drink to you here in the meantime.
+134	More expensive this time... I think I'll decline for now.
+135	Correct. Coalition scientists have developed a number of refinements for my modules and again need a large amount of resources. This time, accounting for all possible breakdowns, they are short <0> nodes and <1> cr.<br>As last time, they are seeking support among ordinary pilots and Rangers who could donate the necessary amount of resources.
+136	Correct. Coalition intelligence has reported that the dominators in the <0> system are building a new structure of unknown purpose, which, according to the Coalition scientists' assumptions, may somehow adversely affect my modules. <br>Several months ago it was decided to build a fleet of my modules to clear this system and destroy this structure before its construction is completed, but yesterday spies reported that the pirate clan intends to seize the mysterious structure before us.<br>Because of this, I was ordered to stop building new modules and begin carrying out the operation. By my calculations the pirates are about to enter the system and begin assaulting it, and my task is not to let them capture this system. If they manage to land on the planet, they will be able to pass blueprints of the already completed parts of the structure to their scientists, which could give them a tactical edge in the war. The Coalition Council asks all free Rangers to take part in this operation.
+137	Due to the unknown nature of this structure's effect, the Coalition Council has ordered me not to send my own construct into this battle.

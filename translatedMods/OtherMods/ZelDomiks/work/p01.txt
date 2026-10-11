@@ -1,0 +1,84 @@
+9	Firing range: <clr>+35<clrEnd> units
+10	Energy weapon power: <clr>-9<clrEnd> units
+11	Fragmentation weapon power: <clr>-12<clrEnd> units
+12	Firing range: <clr>+50<clrEnd> units
+13	Energy weapon power: <clr>-3<clrEnd> units
+14	Fragmentation weapon power: <clr>-4<clrEnd> units
+15	Energy weapon power: <clr>-6<clrEnd> units
+16	Fragmentation weapon power: <clr>-8<clrEnd> units
+17	Energy weapon power: <clr>-1<clrEnd> units
+18	Fragmentation weapon power: <clr>-2<clrEnd> units
+19	Firing range: <clr>+45<clrEnd> units
+20	Energy weapon power: <clr>+5<clrEnd> units
+21	Fragmentation weapon power: <clr>+5<clrEnd> units
+22	Firing range: <clr>+10<clrEnd> units
+25	Firing range: <clr>+15<clrEnd> units
+27	Firing range: <clr>+20<clrEnd> units
+29	Firing range: <clr>+30<clrEnd> units
+30	Energy weapon power: <clr>-11<clrEnd> units
+31	Fragmentation weapon power: <clr>-16<clrEnd> units
+32	Missile weapon power: <clr>-16<clrEnd> units
+34	Energy weapon power: <clr>-5<clrEnd> units
+35	Fragmentation weapon power: <clr>-5<clrEnd> units
+36	Missile weapon power: <clr>-8<clrEnd> units
+37	Energy weapon power: <clr>+8<clrEnd> units
+38	Missile weapon power: <clr>+5<clrEnd> units
+40	Energy weapon power: <clr>+4<clrEnd> units
+41	Fragmentation weapon power: <clr>+6<clrEnd> units
+42	Missile weapon power: <clr>+10<clrEnd> units
+43	Engine speed: <clr>-20<clrEnd> units
+44	Fragmentation weapon power: <clr>+10<clrEnd> units
+45	Missile weapon power: <clr>+14<clrEnd> units
+46	Firing range: <clr>+5<clrEnd> units
+47	Engine speed: <clr>-30<clrEnd> units
+48	Energy weapon power: <clr>+6<clrEnd> units
+49	Fragmentation weapon power: <clr>+9<clrEnd> units
+50	Missile weapon power: <clr>+15<clrEnd> units
+51	Energy weapon power: <clr>+12<clrEnd> units
+52	Fragmentation weapon power: <clr>+14<clrEnd> units
+53	Missile weapon power: <clr>+18<clrEnd> units
+54	Engine speed: <clr>-50<clrEnd> units
+55	Energy weapon power: <clr>+9<clrEnd> units
+56	Fragmentation weapon power: <clr>+12<clrEnd> units
+57	Missile weapon power: <clr>+20<clrEnd> units
+58	Engine speed: <clr>-40<clrEnd> units
+59	Fragmentation weapon power: <clr>+19<clrEnd> units
+60	Missile weapon power: <clr>+24<clrEnd> units
+61	Engine speed: <clr>-70<clrEnd> units
+62	Energy weapon power: <clr>+11<clrEnd> units
+63	Fragmentation weapon power: <clr>+15<clrEnd> units
+64	Missile weapon power: <clr>+25<clrEnd> units
+65	Energy weapon power: <clr>+18<clrEnd> units
+66	Fragmentation weapon power: <clr>+24<clrEnd> units
+67	Engine speed: <clr>-100<clrEnd> units
+69	Energy weapon power: <clr>-8<clrEnd> units
+70	Missile weapon power: <clr>-12<clrEnd> units
+71	Energy weapon power: <clr>-2<clrEnd> units
+72	Fragmentation weapon power: <clr>-6<clrEnd> units
+73	Missile weapon power: <clr>-6<clrEnd> units
+74	Fragmentation weapon power: <clr>+2<clrEnd> units
+75	Missile weapon power: <clr>+2<clrEnd> units
+77	Energy weapon power: <clr>+10<clrEnd> units
+78	Scanner power: <clr>-3<clrEnd> units
+79	Energy weapon power: <clr>-12<clrEnd> units
+80	Fragmentation weapon power: <clr>-18<clrEnd> units
+81	Missile weapon power: <clr>-18<clrEnd> units
+82	Fragmentation weapon power: <clr>-9<clrEnd> units
+83	Missile weapon power: <clr>-9<clrEnd> units
+84	Scanner power: <clr>-2<clrEnd> units
+85	Missile weapon power: <clr>-5<clrEnd> units
+86	Scanner power: <clr>-1<clrEnd> units
+87	Energy weapon power: <clr>-4<clrEnd> units
+88	Missile weapon power: <clr>-2<clrEnd> units
+89	Fragmentation weapon power: <clr>+3<clrEnd> units
+90	Missile weapon power: <clr>+3<clrEnd> units
+91	Missile weapon power: <clr>+6<clrEnd> units
+92	Projectile speed: <clr>+100<clrEnd> units
+93	Missile weapon power: <clr>+12<clrEnd> units
+94	Missile weapon power: <clr>+9<clrEnd> units
+95	Projectile speed: <clr>+150<clrEnd> units
+96	Projectile speed: <clr>+200<clrEnd> units
+97	Missile weapon power: <clr>18<clrEnd> units
+98	Projectile speed: <clr>+300<clrEnd> units
+99	Projectile speed: <clr>+250<clrEnd> units
+100	Projectile speed: <clr>+450<clrEnd> units
