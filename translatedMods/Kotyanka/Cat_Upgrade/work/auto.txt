@@ -45,6 +45,6 @@
 Мощность осколочного оружия: <bonWSplinter> ед.	Splinter weapon power: <bonWSplinter> units
 Мощность ракетного оружия: <bonWMissile> ед.	Missile weapon power: <bonWMissile> units
 Мощность энергетического оружия: <bonWEnergy> ед.	Energy weapon power: <bonWEnergy> units
-Рачехан	Rachehan
+Рачехан	Rachekhan
 Корпус "Таухито"	"Tauhito" Hull
 Масса корабля: <bonMass><clr>%<clrEnd>	Ship mass: <bonMass><clr>%<clrEnd>

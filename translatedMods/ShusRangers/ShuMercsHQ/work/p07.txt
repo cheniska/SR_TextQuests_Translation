@@ -40,7 +40,7 @@
 535	Contract fulfilled. The battleship was successfully captured and escorted to the pirate dominion. The Clan thanks you for your excellent work!
 536	Contract fulfilled. The battleship was successfully captured and escorted to the planet <BeginPlanet>. The Clan thanks you for your excellent work!
 537	<color=255,240,100>Pirate</color> contract to capture the battleship <TargetShip>
-538	Attention, group! Something has clearly gone wrong in our carefully calculated plan. The dominion has been destroyed, but we still have to deliver the battleship to the pirates. Changing course to the planet <BeginPlanet>, I hope our black-flag "friends" won't be too disappointed by such improvisation. Over.
+538	Attention, group! Something has clearly gone wrong in our carefully calculated plan. The dominion has been destroyed, but we still have to deliver the battleship to the pirates. Changing course to the planet <BeginPlanet>, I hope our black-flag "friends" won't be too disappointed by such improvization. Over.
 539	We act according to plan, don't deviate from the assigned task. Over.
 540	Even the best fail sometimes, <Player>. Don't worry, next time you'll surely be lucky!
 541	Attention, group! The target is within direct range of the <color=255,240,100>"Kraken"</color>, prepare to launch on my command.

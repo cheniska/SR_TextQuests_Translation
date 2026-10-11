@@ -90,7 +90,7 @@
 | «Горн-4: Крыло Ангела» | "Gorn-4: Angel Wing" | Domoclan |
 | «Горн-5: Падший Ангел» | "Gorn-5: Fallen Angel" | Domoclan |
 | «Гравикарчик» | "Gravicarlet" | Xenolog |
-| «Гражданская оборона в необычных обстоятельствах» | Unconventional Situations Civil Defence | Election |
+| «Гражданская оборона в необычных обстоятельствах» | Unconventional Situations Civil Defense | Election |
 | «Гуано» (ритуальная игра — камень/ножницы/бумага) | "Guano" | Xenolog |
 | «Дети Гаала» | "Children of Gaal" | Amnesia |
 | «Джампер» | Jumper |  |
@@ -99,7 +99,7 @@
 | «Дикие лякушшки» (хэчбольная команда) | Wild Fruggiesss |  |
 | «Долой президентов, долой королей! Анархия пусть воцарится скорей!» | "Down with presidents, down with kings! Let anarchy reign over all things!" | Colonization |
 | «домики» | "dommies" | Domoclan, Kidnapped |
-| «Доспехи малока - 15» | "Maloq armour - 15" |  |
+| «Доспехи малока - 15» | "Maloq armor - 15" |  |
 | «Дракары и Бамбаи… Аралиты и Каргасы…» (обращение к малокам) | "Drakars and Bambais... Aralitas and Kargases..." |  |
 | «Дронз» | "Dronze" micromodules | Kidnapped |
 | «Духовная сущность иике-бааны» | Spiritual Essence of the Iike-Baana |  |
@@ -290,7 +290,7 @@
 | акабосс | akabos | Kidnapped |
 | акабосы Кибоб | Kibob | Xenolog |
 | Академия Антропологических и Аморфных Аномалий | the Academy of Anthropological and Amorphous Anomalies |  |
-| аквадановые цвета | aqua colours |  |
+| аквадановые цвета | aqua colors |  |
 | акваланг | aqualung |  |
 | аквамариновый | aquamarine | Tourists |
 | аккуратность | precision |  |
@@ -526,7 +526,7 @@
 | бриллиант Софиты | Sofita diamond | Diamond |
 | Брог | Brog | Citadels |
 | Бродяга | Wanderer | ShuMercs |
-| бронированные гробовозки | armoured meat wagons |  |
+| бронированные гробовозки | armored meat wagons |  |
 | бронь | exemption | Rvk |
 | брюхозавр | bellysaur |  |
 | брюхопотам | bellypotamus |  |
@@ -578,7 +578,7 @@
 | Вейеркрах | Weierkrach | Siege |
 | велесианские долбогрызы | Velesian dumbgnawers | Colonization |
 | велесианский соловей | a Velesian nightingale | Colonization |
-| Великая книга колонизации | Great Book of Colonisation | Build |
+| Великая книга колонизации | Great Book of Colonization | Build |
 | Великая Лунная равнина | the Great Lunar Plain | Piratesnest |
 | Великая Охота | the Great Hunt |  |
 | Великая Пеленгская Война | the Great Peleng War | Piratesnest |
@@ -645,7 +645,7 @@
 | Вовка / Василий Васильевич Пупкин (ID-13) | Vovka / Vasily Vasilyevich Pupkin | Gaidnet |
 | вода | water | Colonization |
 | вода из реки Страан-Ная | water from the Straan-Naya river | Photorobot |
-| вода кипячёная (пастеризованный оксид водорода) | boiled water (pasteurised hydrogen oxide) |  |
+| вода кипячёная (пастеризованный оксид водорода) | boiled water (pasteurized hydrogen oxide) |  |
 | водка Белентайн | Belentine | Newflora |
 | водолазный лом с сервоусилителем | servo-assisted diving crowbar | Diver |
 | водоочистное сооружение | water purification facility | Colonization |
@@ -737,7 +737,7 @@
 | Галактический Кубок | Galactic Cup |  |
 | Галактический Совет | Galaxy Council | Proprolog, Xenolog |
 | Галактический Телеграф | the Galactic Telegraph | Drugs |
-| Галактический чемпионат по Гиперпрыгающим Плазмошашкам (ГППШ) | the Intergalactic Tournament in Hyper-jumping Plasma-checker(s) (HJPC) |  |
+| Галактический чемпионат по Гиперпрыгающим Плазмошашкам (ГППШ) | the Intergalactic Tournament in Hyperjumping Plasma-checker(s) (HJPC) |  |
 | Галактическое Археологическое Общество (ГАО) | Galactic Archaeological Society (GAS) | Pharaon |
 | Галактическое Общество Защиты Животных | Galactic Animal Protection Society |  |
 | Галактическое содружество | Interstellar Coalition (the Coalition) | Tomb |
@@ -835,7 +835,7 @@
 | голо-диск | holodisk |  |
 | Головаа | Golovaa | Citadels |
 | головка ракеты | warhead | Diver |
-| головорез (пиратское звание) | cut-throat |  |
+| головорез (пиратское звание) | cutthroat |  |
 | Головуу | Golovaa | Citadels |
 | голографический фотоальбом | holographic photo album |  |
 | голубой | light blue | Tourists |
@@ -988,7 +988,7 @@
 | дермонги | crapsters |  |
 | дерьмометр | shit meter |  |
 | десантный нож | commando knife | Drugs |
-| десантный флаер | landing flyer | Easywork |
+| десантный флаер | landing flier | Easywork |
 | деструкторный излучатель | destruction emitter |  |
 | Джеери | Dzheeri | Mafia |
 | Джеки-Чамп (главный судья) | Jackie-Champ | GS |
@@ -1134,7 +1134,7 @@
 | жучок | bug |  |
 | жюри | jury |  |
 | жёлтый | yellow |  |
-| Забава табуретов / Седой ходунец / Вестеркросс | Game of Stools / Grey Walker / Westercross |  |
+| Забава табуретов / Седой ходунец / Вестеркросс | Game of Stools / Gray Walker / Westercross |  |
 | Заборнов | Zabornov | Lo |
 | заведение Лысого Перца | Bald Pepper's | Amnesia |
 | завлаб | lab head | Massacri |
@@ -1386,7 +1386,7 @@
 | Кемпер Лови | Kemper Lovi | SpaceCraft |
 | Кен-Мун-Дак | Ken-Mun-Dak | GLAVRED |
 | Керейская Имперская Федерация | Kereian Imperial Federation | LongLiveTheRanger |
-| керопластовая броня | ceroplastic armour |  |
+| керопластовая броня | ceroplastic armor |  |
 | кетчупбургер | ketchupburger | Mafia |
 | кефронская известь | Kefron lime | Proprolog |
 | киберблоха | cyberflea | Gaidnet |
@@ -1698,7 +1698,7 @@
 | Лянчер Швокс (агент Дзухаллага) | Lyancher Shvoks | Kidnapped |
 | Ляо Мо | Lyao Mo | Xenolog |
 | ляобаб (дерево) | lyaobab | Xenolog |
-| лёгкий флаер | light flyer |  |
+| лёгкий флаер | light flier |  |
 | Лёхкопро Дажнов (КГБ) | Lyokhkopro Dazhnov | GS |
 | М.С.Ворд | M.S.Word | Rvk |
 | Маарли (тату-мастер) | Maarlie |  |
@@ -1749,7 +1749,7 @@
 | МалёхаСофт | MalyokhaSoft | GLAVRED |
 | манаимпульсный кристалл | manaimpulse crystal | Forum |
 | Манаманама (пеленгский поэт) | Manamanama | Examen |
-| маневровые движки | manoeuvring controls / sliders |  |
+| маневровые движки | maneuvering controls / sliders |  |
 | манишка (кусок кожи для тренировки хвачиков) | dickey | Maze |
 | Маньяк Ы | Maniac Y | Feipsycho |
 | маньяк-парикмахер Федя Клюквин (сериал) | Fedya Klyukvin | Easywork |
@@ -1805,7 +1805,7 @@
 | ментограмма | mentogram | Amnesia |
 | ментограммы | mentograms | Easywork |
 | ментоскопирование | mentoscopy | Bank |
-| ментощуп (клисанское оборудование) | mentoprobe | Kotyanka/Cat_DesignDepartment |
+| ментощуп (клисанское оборудование) | menthoprobe | Kotyanka/Cat_DesignDepartment |
 | Мерканавт | Mercanaut |  |
 | Меркурий | Mercury | Proprolog |
 | Мерс | Mers | Pharaon |
@@ -1888,7 +1888,7 @@
 | налог на беременность | pregnancy tax |  |
 | налог на борьбу с доминаторами | tax for maintaining the struggle with the Dominators |  |
 | Нан | Nan | Kotyanka/Cat_DesignDepartment |
-| нанитоды | nanitodes | GS |
+| нанитоды | nanitoids | GS |
 | наноботы | nanobots |  |
 | напитки «Кристально чистая пустота» / «Кристальная чистота пустоты» | "Crystal Clear Void" / "Crystal Clarity of the Void" | GLAVRED |
 | напитки: «Махпелла Лайт» | "Makhpella Light" | Photorobot |
@@ -2097,7 +2097,7 @@
 | пенчекряк | penchecrakus (pl. penchecrakuses) | Bank, Maze, Poroda |
 | пенчекряк | penchecrakus | Park |
 | пенчекряк (penchecrakus, мн. penchecrakuses) | penchecrakus |  |
-| Пенчекряк Идеальный | Penchekryak the Ideal |  |
+| Пенчекряк Идеальный | Penchecrakus the Ideal |  |
 | пенчекрята | penchecrakus cubs |  |
 | Первый Великий Малокрх Раммор Заккарадский | Rammor Zakkaradsky, the First Great Maloqarch |  |
 | перебор | overshoot |  |
@@ -2204,7 +2204,7 @@
 | подрывник | sapper | SpaceCraft |
 | подъёмник | lift |  |
 | подъёмник кресельный / кабиночный | ski lift with chairs / with cabins |  |
-| Поединок Чести | Duel of Honour | Bomber |
+| Поединок Чести | Duel of Honor | Bomber |
 | поезд Лянчак-Пейхац | the Lyanchak-Peykhats |  |
 | поезд на гравиподушке | gravity-cushion train | Easywork |
 | позывной вертолета «Proenix-3» | "Proenix-3" | Domoclan |
@@ -2287,7 +2287,7 @@
 | прораб | foreman |  |
 | просвещённый зороастризм | enlightened Zoroastrianism |  |
 | Просвистелкин / Грунт | Prosvistelkin / Grunt |  |
-| противоракетный манёвр | antirocket manoeuvre |  |
+| противоракетный манёвр | antirocket maneuvere |  |
 | протоплазма | protoplasm |  |
 | протопузырь | protobladder | Mafia |
 | профессор Груздь | Associate professor Agaric |  |
@@ -2358,7 +2358,7 @@
 | раздевалка | locker room | Hachball |
 | Разис | Razis | Newflora |
 | разметка по Гауссу | Gauss grid | Siege |
-| разрешение на смену пола | change of sex authorisation |  |
+| разрешение на смену пола | change of sex authorization |  |
 | разрывное орудие | rupture gun | Megatest |
 | район развлечений | the entertainment district | Mafia |
 | ракета САСР-13 | SASR-13 missile | Diver |
@@ -2701,7 +2701,7 @@
 | стройбат | construction battalion | Rvk |
 | студент Андрей Гурин | Andrey Gurin | Xenolog |
 | студенческая группа «Свободу во всём!» (пеленги) | "Freedom in Everything!" |  |
-| стукач | stoolie |  |
+| стукач | snitch |  |
 | стукачество (тягчайшее преступление у пеленгов) | whistling (sic) |  |
 | стукачи | informers | Rvk |
 | субсеть | subnet | Newflora |
@@ -2849,7 +2849,7 @@
 | узел | node | Gaidnet |
 | узлы базы: бараки | base modules: barracks | Evilgenius |
 | УкропЪ/Петрушка | Dille/Parsley | Cybersport |
-| ул. Березовская, ул. Им. 126-го Съезда Галактического Совета | Berezovskaya Street, 126th Congress of the Galactic Council Street | SpaceCraft |
+| ул. Березовская, ул. Им. 126-го Съезда Галактического Совета | Berezovskaya Street, 126th Congress of the Galaxy Council Street | SpaceCraft |
 | улика | evidence |  |
 | Улики (квест; автор ru_ND, 2011–2012) | Evidence |  |
 | улица Домостроителей | Housebuilders Street | Massacri |
@@ -2921,8 +2921,8 @@
 | фирма «Буур и М» (оборудование для экспедиций) | "Bouhours and M" |  |
 | фирма «Васюк и Ко» | Vasyuk & Co. |  |
 | фирма «ПеленгХак» | PelengHack |  |
-| флаер | flyer | Easywork |
-| флаер ФП-304 / ФП-300 / CH-300 (разнобой в RU) | flyer FP-304 / FP-300 / CH-300 | Abandoned |
+| флаер | flier | Easywork |
+| флаер ФП-304 / ФП-300 / CH-300 (разнобой в RU) | flier FP-304 / FP-300 / CH-300 | Abandoned |
 | Флэнки Тим | Flanky Tim | Kidnapped |
 | Флэш | Flash | Massacri |
 | Фокус | Phocus |  |
@@ -3030,7 +3030,7 @@
 | Центр Колонизации Незаселенных Планет (ЦКНП) | Center for the Colonization of Uninhabited Planets (CCUP) | Colonization |
 | Центр наёмников (ЦН) | Mercenary Center (MC) | ShuMercs |
 | центр рейнджеров Надежда | the Hope Ranger Center | Proprolog |
-| Центр Сертификации | the Certificate Centre |  |
+| Центр Сертификации | the Certificate Center |  |
 | центр управления | Control Center | Diver |
 | Центральная Кондитерская | the Central Confectionery | Proprolog |
 | Центральные моря | Central Seas | LongLiveTheRanger |
@@ -3045,7 +3045,7 @@
 | цианютик (куст, ядовитый корень) | tsianutick |  |
 | цивилизация «великой энергетики» | the civilization of "great energy" |  |
 | цивилизация акабосов | akabos | Complex |
-| цивилизация гоши (древний язык) | Goshi civilisation |  |
+| цивилизация гоши (древний язык) | Goshi civilization |  |
 | циклокалольная кислота | cyclocalolic acid |  |
 | Циплярва | Tsiplyarva | Yahtzee |
 | циркулярная пила | circular saw |  |
@@ -3122,7 +3122,7 @@
 | шлюзовая камера | lock chamber / air lock |  |
 | Шлямбур | Shlyambur | Bank |
 | шлячисы | shlyachises | Xenolog |
-| шмеленги (древняя раса, предки пеленгов) | the Shmelengs (Shmeleng civilisation) |  |
+| шмеленги (древняя раса, предки пеленгов) | the Shmelengs (Shmeleng civilization) |  |
 | Шмякодин | Shmyakodin | Maze |
 | Шмякуш (болотные игры, пеленгское состязание) | Plumpush (swamping games) |  |
 | Шнобель | Shnobel | Faruk |
@@ -3211,7 +3211,7 @@
 | энергореактор / главный энергогенератор | power reactor / main reactor |  |
 | Энергоэлементалы | Energy Elementals | Citadels |
 | энциклопедика | Encyclopedica |  |
-| энциклопедические обманки | Encyclopaedic Cheats |  |
+| энциклопедические обманки | Encyclopedic Cheats |  |
 | Эо Лантид | Eo Lantid |  |
 | Эпоха Внешних Королевств | Era of the Outer Kingdoms | LongLiveTheRanger |
 | эрго (единица энергии) | ergo |  |

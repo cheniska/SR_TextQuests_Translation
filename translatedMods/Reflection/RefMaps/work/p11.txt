@@ -1,6 +1,6 @@
-456	Oh, ranger, haven't you been fried there yet? No? Then let's hurry. We've already sent a flyer for you, wait.
+456	Oh, ranger, haven't you been fried there yet? No? Then let's hurry. We've already sent a flier for you, wait.
 457	We're on the spot. There are few objects and many factories here - the zone is quite new. So it will be easier for you. Good luck!
-458	Oh, ranger, haven't you been fried there yet? Well, wonderful. We've already sent a flyer for you.
+458	Oh, ranger, haven't you been fried there yet? Well, wonderful. We've already sent a flier for you.
 459	Ranger, you did not live up to our hopes! We will tell the Rangers' Center Network that you are a worthless commander! Leave!
 460	Hm-m-m.. You are, it seems, considered an expert in conducting battles with modular robots? Then you are our last hope!
 461	Our planet rotates quite synchronously with the star, because of which it has a notional day zone, night zone and twilight zone, only the twilight one is not extensive enough to. Moreover, such extreme conditions make it possible to conduct unique experiments. And one of them is taking place on the night side. There we are investigating the ability of various mixtures to lower the melting and boiling points of water to temperatures rapidly approaching absolute zero.
@@ -33,7 +33,7 @@
 488	Emblem
 489	Ranger!! How could you?!...
 490	Our model is quite simple - there is only one road here: from your base through the terronoid base to the kelleroids. Good luck!
-491	Excellent, ranger! Take the flyer from the central depression and fly back.
+491	Excellent, ranger! Take the flier from the central depression and fly back.
 492	Ranger! Only your rank saves you! Otherwise you'd already be in the electric chair. Beware of angering our government in the future.
 493	Ranger, we have an assignment for experts in conducting planetary battles of special secrecy!
 494	The project's name is "Gloom." Superficially speaking - about conditions of conducting battles in the extreme conditions of eternal night. Nothing more may be disclosed. Except that dominators were discovered at the facility, for whom such conditions are wonderful. That is why we offer you a contract for their destruction.

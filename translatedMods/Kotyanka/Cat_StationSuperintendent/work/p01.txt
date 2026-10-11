@@ -33,7 +33,7 @@
 33	Build a technology center
 34	Return to station selection
 35	Station Superintendent Project
-36	Welcome to the website of the "Station Superintendent" initiative.<br><br>Lately the infrastructure of the Galaxy has been too badly damaged because of the ongoing war, first of all the system of stations.<br><br>We are collecting donations to pay for the work of our group of builders, who are ready to fit out any space station in a short time within the acts issued by the <clr>Galactic Council<clrEnd>
+36	Welcome to the website of the "Station Superintendent" initiative.<br><br>Lately the infrastructure of the Galaxy has been too badly damaged because of the ongoing war, first of all the system of stations.<br><br>We are collecting donations to pay for the work of our group of builders, who are ready to fit out any space station in a short time within the acts issued by the <clr>Galaxy Council<clrEnd>
 37	Welcome to the website of the "Station Superintendent" initiative.<br><br>Lately the infrastructure of the Galaxy has been too badly damaged because of the ongoing war, first of all the system of stations.<br><br>We are collecting donations to pay for the work of our group of builders, who are ready to fit out any space station in a short time within the understandings agreed with the <clr>Supreme Baron<clrEnd>
 38	Select a construction sector
 39	Build a dominion

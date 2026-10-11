@@ -28,7 +28,7 @@
 158	An absolutely new line of <clr>Dominator<clrEnd> micromodules, incompatible with any other equipment. Despite the good characteristics, the rarity of the materials, the amount of space required and the overload of all the power circuits of the <clr>field generator<clrEnd> mean that in most cases the AI does not consider installing this micromodule worthwhile.
 159	Equipment durability: <clr>-67%<clrEnd>
 160	Zhurgenpran
-161	An absolutely new line of <clr>Dominator<clrEnd> micromodules, incompatible with any other equipment. Widespread among the Keller series, but occasionally found in the other two as well. It requires many rare materials, but a ship with a <clr>mentoprobe<clrEnd> that has this micromodule installed will surely be able to attract them.
+161	An absolutely new line of <clr>Dominator<clrEnd> micromodules, incompatible with any other equipment. Widespread among the Keller series, but occasionally found in the other two as well. It requires many rare materials, but a ship with a <clr>menthoprobe<clrEnd> that has this micromodule installed will surely be able to attract them.
 162	Equipment cost: <clr>+300%<clrEnd>
 163	Equipment durability: <clr>+50%<clrEnd>
 164	Drikhnagryaz

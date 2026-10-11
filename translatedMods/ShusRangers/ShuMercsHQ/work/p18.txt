@@ -21,7 +21,7 @@
 1716	Khvantson Zhmark
 1717	Resume: Very kind and friendly. Even too much. After a brief chat with him I wanted for a while to make a donation to the fund for families affected by the war with the Dominators, build a little house by a lake and become a fisherman. Besides that he has excellent reflexes and superb combat skills.
 1718	Daa-Ruto
-1719	Resume: By his own claim, in a past life he was an admiral of the fleet of some mighty galactic empire. In this life he is a stereovisor salesman, but he showed outstanding fighter-pilot potential during a trial simulation, which is why he made it onto this list.
+1719	Resume: By his own claim, in a past life he was an admiral of the fleet of some mighty galactic empire. In this life he is a stereovision salesman, but he showed outstanding fighter-pilot potential during a trial simulation, which is why he made it onto this list.
 1720	Onilkin
 1721	Onilkin
 1722	Resume: A retired pirate. Decided to quit the career of terror of liners and traders because of unrequited love, but couldn't last more than two days without a fight. And then an inexorable thirst for adventure led him straight to our doorstep. As they say: you can take the maloq out of the fight, but never the fight out of the maloq.
@@ -83,7 +83,7 @@
 1778	Hi, chief! I'm hauling a parcel to the planet <TargetPlanet>. The work isn't the most fun, of course, but it's easy and profitable.
 1779	If you have nothing urgent, I'll be off, or I could really be late...
 1780	Hey, chief! What brings you here? I'm picking up minerals here, watching the situation, looking for clients... The work is in full swing, in short. Are you here on business or just to chat?
-1781	Hi, boss! Did you see the last season of the series "Game of Stools"? Just awful! How could they flush the ending so badly?! Everyone expected the Grey Walker to beat everyone up in Westercross, but it turned out so dismal... So what did you want?
+1781	Hi, boss! Did you see the last season of the series "Game of Stools"? Just awful! How could they flush the ending so badly?! Everyone expected the Gray Walker to beat everyone up in Westercross, but it turned out so dismal... So what did you want?
 1782	Jus-s-st, wo-wo, a shot of tokilla on the tab-a-ale!!!
 1783	Ah, people used to have soulful songs, not like now. All sorts of Biebers and Gaogags have flooded the radio, it's sickening to even listen! Well, aren't I right, chief?
 1784	Freeze, this is Galanarcocontrol! Dump everything from the hold for inspection, or I won't answ... Oooops, my mistake.

@@ -21,10 +21,10 @@
 21	We cannot allow the dominators to keep using our complex, so we propose that you, as an experienced commander, take control of our landing party. We will pay well for hiring you and your robot-control abilities, rest assured!
 22	Excellent, <Player>! The laboratory is ours again, and here are your <Money> cr.! By the way, wouldn't you like to try our novelty, Ailinoil-101? No? But with this type of fuel the efficiency of your engine would rise by 101.2617198396 percent! All right, all right, I won't offer anymore. Your loss. The future belongs to Ailinoil!
 23	Fuel Laboratory
-24	Yes, an oversight in supply cost us dearly... The flyer has already left to pick you up, so we await you with your report.
+24	Yes, an oversight in supply cost us dearly... The flier has already left to pick you up, so we await you with your report.
 25	Ahem...
 26	In short - we are still finding out how it happened, but out of the entire landing party only <color=255,255,0>one</color> robot made it. Luckily, it ended up near a poorly defended neutral complex, which, however, is being attacked by the blazeroids, so you'll have to act quickly. will give You time to Seize the nearby positions and dig in on them... But don't dawdle - time here is v-very expensive!
-27	Excellent! Well, since the complex is completely in your hands, you can take the flyer left in a bunker nearby and return to us on it.
+27	Excellent! Well, since the complex is completely in your hands, you can take the flier left in a bunker nearby and return to us on it.
 28	So, the natives have shut themselves off from us completely, insisting on the desecration of their holy places, these scientists are swamping us with angry letters... Get out of here, <Player>, before the soldiers turn against you!
 29	Care for some coffee? Or maybe tea? Well, never mind, let's get down to business!
 30	Our planet was inhabited even before our arrival, but the aborigines did not reach heights of development and, having multiplied, did not occupy many territories, so at first we did not even notice their presence, and afterward scientists swarmed in, cordoned off the aborigines' settlement zone and began studying them.

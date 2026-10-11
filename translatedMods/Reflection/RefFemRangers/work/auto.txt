@@ -7,7 +7,7 @@
 Линда	Linda
 Анита	Anita
 Звездочка	Starlight
-Летучая	Flyer
+Летучая	Flier
 Сансет	Sunset
 Джинс	Jeans
 Аэсонэ	Galdrael

@@ -6,7 +6,7 @@
 236	Ranger, thank you for taking part in cleaning our proving ground! Wouldn't you like to take part in the firing? We are ready to give you access to "that very" Red Button!
 237	Well, if you don't want to - as you wish. Your reward in the amount of <Money> cr. has already been transferred to your account - enjoy.
 238	Missile Proving Ground
-239	What an outrage! We'll have to launch our missiles. Our flyer will pick you up, if it makes it in time, of course.
+239	What an outrage! We'll have to launch our missiles. Our flier will pick you up, if it makes it in time, of course.
 240	Blazeroids and kelleroids are busily using our factories. This is outrageous! Kill them all, and we will continue testing our missiles.
 241	Magnificent! The proving ground is ours! We await you with your report!
 242	Ranger <Player>, do you even understand how much all this cost us? Connections, agents, time... And all for nothing! Get out of here!
@@ -30,13 +30,13 @@
 260	Excellent, <Player>! Or else our invest.. Never mind, come back!
 261	How could it be, to suffer defeat at the hands of a bunch of frenzied robots! And lose our modular robot factory. Incredible!
 262	Ranger, wouldn't you like to take a rest?
-263	Why are you looking at me like that? Yes, we are offering you to take a break. We have an island. Wooded. With a lake in the center. You can swim, rest, sunbathe. The whole banquet at the house's expense, so decide quickly, before the flyer leaves!
+263	Why are you looking at me like that? Yes, we are offering you to take a break. We have an island. Wooded. With a lake in the center. You can swim, rest, sunbathe. The whole banquet at the house's expense, so decide quickly, before the flier leaves!
 264	Ranger <Player>, we found no dominators on the spot... Well, for clearing the island, and for some moral damage in general, we'll pay you <Money> cr., so be it. But don't demand more from us - we've been incredibly generous as it is!
 265	Sunny Day
-266	What? The robots rebelled? We've already sent a flyer for you, be patient a little.
+266	What? The robots rebelled? We've already sent a flier for you, be patient a little.
 267	Here we are.
 268	Make yourself at home. We are handing over to you a robot-building factory - they say jammed modular robots turn up in remote corners, so you can destroy them. We wish you a pleasant rest!
-269	Well, have you rested? What dominators?! <Player>, do you have heatstroke? We've already sent a flyer for you!
+269	Well, have you rested? What dominators?! <Player>, do you have heatstroke? We've already sent a flier for you!
 270	Ranger <Player>, do you even understand what will happen to all of us now?! Fly away from here immediately, before you experience the wrath of our government on your own hide!
 271	Ranger <Player>, this is a nightmare!
 272	Did you see the crowds at the spaceport? In the course of his Hagzh, the great gaal thinker of our time, Ool-tro Kaan, has arrived on our planet. He delivered a long speech before the pilgrims following him in lines, and afterward, using Fang-Shoi methods, began searching for an island for meditation and gathering Iike-Baana. And, as luck would have it, he chose an island where dominators still remain! However hard we tried to dissuade him from visiting this deserted patch of land, nothing came of it.

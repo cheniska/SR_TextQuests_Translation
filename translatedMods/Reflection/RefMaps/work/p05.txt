@@ -8,11 +8,11 @@
 193	Sad that your mission was unsuccessful, since other options on our part would lead at the very least to damage to the iceberg. Wouldn't you like some coffee ice cream? They say it's tasty.
 194	So you want to do us a favor to the extent of your ranger abilities?
 195	In the northern latitudes of our planet there is one extremely interesting circular current. And there is one extremely large iceberg. Research has established that it has been floating there for not one tens of thousands of years. As you understand, such unique conditions attracted to this huge block of ice scientists and designers of various orientations. They were even happier when it turned out that on top of the ice floe the temperature does not exceed two hundred kelvins, and they began testing their gadgets in full swing.
-196	As you have probably guessed, the dominators flew there too, scaring off all the scientists and soldiers. We have one self-unpacking base and a landing flyer, and also a task - to clear so convenient a proving ground. Will you take on the task?
+196	As you have probably guessed, the dominators flew there too, scaring off all the scientists and soldiers. We have one self-unpacking base and a landing flier, and also a task - to clear so convenient a proving ground. Will you take on the task?
 197	So, the proving ground is ours again, which means our scientists will be able to get back to their business. Wouldn't you like some coffee ice cream? They say it's tasty. Well, all right, here are your <Money> cr.
 198	Lonely Iceberg
-199	Wait a little, the landing flyer will pick you up now.
-200	The flyer has dropped the base, and it is ready for use.
+199	Wait a little, the landing flier will pick you up now.
+200	The flier has dropped the base, and it is ready for use.
 201	All sides of the conflict are at sea level, and the high ground with the main proving ground has not yet been seized by anyone. Good luck!
 202	The iceberg is fully under our control. Return with your report to the government building.
 203	Ranger <Player>, do you even understand what your defeat means for us? DO YOU UNDERSTAND???!!! This was not just a deposit! PURE GOLD was mined there! In nuggets, as big as a maloq's head! We didn't tell you about it so that you wouldn't try to pocket something on the sly! What will happen to our economy now?.. So, you're still here? Get out! Oh no, what now, what are we to do?..
@@ -41,5 +41,5 @@
 226	But meanwhile, the soil contains enough minerals for industrial extraction, but not enough to outweigh the income from human investment. The dominators, however, thought otherwise, and built a whole production complex. We cannot lose so valuable a resource as these wastes, so we ask you to help clear the wastes of dominators.
 227	Well, <Player>? The complex is ours now, and nothing prevents us from renting out the vast red expanses! Your <Money> cr. are already in your account, take them and sign for them!
 228	Red Wasteland
-229	Oh-ho-ho! What bad luck that is. Wait, we'll send a flyer to you now.
+229	Oh-ho-ho! What bad luck that is. Wait, we'll send a flier to you now.
 230	<color=0,0,255>Kelleroids</color> have built up this whole patch of land with their production sites, and only the landing zone is under our control, so you'll have a rough time. True, attacks from several directions should help. Anyway - just good luck!

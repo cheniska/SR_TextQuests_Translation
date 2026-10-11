@@ -7,7 +7,7 @@
 282	And now the dominators have fallen on our heads and begun actively developing mining industry! We don't want to spoil the patients' rest, much less evacuate them anywhere, so we ask you to take our group of modular robots and scatter the tin cans to the winds! For ensuring the patients' peace we pay double - if you're interested.
 283	Ranger <Player>, you ensured the safety of our patients, and as our gratitude please accept <Money> cr.
 284	Three Islands
-285	We have already sent a flyer for you.
+285	We have already sent a flier for you.
 286	So, we pass control to you.
 287	Each of the islands is controlled by one side. Note that the capabilities of the new mining complexes are still rather small, since resources are scarce here, and a precise strike right at the enemy's "heart" can bring quick victory. Good luck!
 288	Magnificent! The islands are ours! We await you with your report!

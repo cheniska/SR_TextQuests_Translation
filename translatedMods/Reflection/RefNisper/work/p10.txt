@@ -23,7 +23,7 @@
 413	You must defend the <0> system and prevent it from falling into the hands of the pirate clan until the information transfer is complete. Days remaining: <1>.
 414	Object identification complete. <br>Object <0> is a ranger.<br>Current object status: ally.<br>Communication approved.
 415	Object identification complete. <br>Object <0> is a ranger.<br>Current object status: <clr>enemy<clrEnd>.<br><br>Communication restricted.
-416	Negative. All instructions to destroy a particular humanoid being come from the Government of the planet <0>.<br>To initialize an alliance with a specific object, permission of the Galactic Council is required.
+416	Negative. All instructions to destroy a particular humanoid being come from the Government of the planet <0>.<br>To initialize an alliance with a specific object, permission of the Galaxy Council is required.
 417	Allied relations with the object are required for access to this information.
 418	Let's make peace!
 419	You know, your dominators deserve respect - strong fighters. Can I somehow become like that?<br>
@@ -32,7 +32,7 @@
 422	Request is incorrect.<br>Object <0> is an ally. The characteristic "friendship" is invalid for this format of relations, and is unavailable to a mind of my class.
 423	Request sent, please wait.<br>...<br>Request denied.<br>Reason: <clr>01.01-#FZ-11<clrEnd>. Short wording: "Execution of the main strategic task".<br>
 424	The request cannot be approved because these units were purpose-built for the needs of Nisper's combat modules, that is, ours. This equipment is optimized by removing control panels and other elements, owing to which it will not work in any way under the conditions of an average ranger ship.<br>
-425	The main strategic task is the protection of Coalition systems from any claimants to the destruction of its order, disruption of the activity of Coalition citizens, and also violation of the conventions of the Galactic Council.
+425	The main strategic task is the protection of Coalition systems from any claimants to the destruction of its order, disruption of the activity of Coalition citizens, and also violation of the conventions of the Galaxy Council.
 426	Object in contact: Ranger <0>.<br>Obtaining permission for communication with the object.<br>...<br>Communication with the object is prohibited.<br>Reason: <clr>18.24-#FZ-91<clrEnd><br><br>Unilateral termination of the communication session...
 427	Let's be friends?
 428	You're a good fellow, come under my control!

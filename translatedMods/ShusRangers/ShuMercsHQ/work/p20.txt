@@ -130,7 +130,7 @@
 2155	Only <color=255,240,100>99.9%</color> per annum!
 2156	Oh come on, I won't demand everything from you at once - you're my bro! You'll pay when you can, and deadlines in this business are just a paper formality...
 2157	The people love strong power, and do you know where the strength is, brother? The strength, brother, is always in money! And don't believe nameless paupers who claim otherwise.
-2158	A personal bromated flyer? A space yacht? A mansion over the mouth of an active volcano!? Just put your almighty signature right here.
+2158	A personal bromated flier? A space yacht? A mansion over the mouth of an active volcano!? Just put your almighty signature right here.
 2159	Gold bars
 2160	Ordinary gold bars. As usual, extremely heavy and, as usual, extremely expensive.
 2161	Luxury

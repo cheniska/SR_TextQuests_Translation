@@ -6,17 +6,17 @@
 56	Electropus
 57	Hmm... Well, the battle was extremely hard. Get some sleep, and we await you with your report
 58	So, here we are. The platform is very small, so a quick battle is expected.
-59	So, the platform is under our control. Hurray! The flyer will pick you up shortly.
+59	So, the platform is under our control. Hurray! The flier will pick you up shortly.
 60	So, in a fierce battle the dominators got the better of you after all. Sad, but a fact. We'll have to call in the special unit "Frostbitten Seals." I hope our budget can bear such expenses...
 61	Well, ranger <Player>... We have an assignment of special importance for you.
 62	We have one small islet. All of it is pure sand. But in its depths there is something for which fierce battles are being fought right now. It is Quarkite, a metal used to create antimatter. Naturally, the dominators who attacked our system landed all their landing units to seize the quarkite deposits.
 63	We cannot leave these deposits in their hands, so we ask you, the commander, to take control of our modular robots and deal with the invaders. We will pay in full for your services.
 64	So, <Player>, the island and the quarkite deposit are fully in our hands, and the Coalition is in no danger. We have already transferred <Money> cr. to you as a reward for your labors. Hurray to the great commander! Hurray!
 65	The Fuel War
-66	A fierce battle. Hold out there a little - our flyer will pick you up soon.
+66	A fierce battle. Hold out there a little - our flier will pick you up soon.
 67	So, we're here.
 68	It has turned out that the opponents are distributed in pairs, and unless one is destroyed, the other will not advance unhindered, so your immediate target is the kelleroids. And now - good luck!
-69	So, the quarkite deposit is in our hands again. The flyer is already approaching, it will take you to the capital, after which we eagerly await your report.
+69	So, the quarkite deposit is in our hands again. The flier is already approaching, it will take you to the capital, after which we eagerly await your report.
 70	Well, how sad... However, not entirely for you personally. We filmed your whole battle and posted it on GalaTube. And the sum collected, <Money> cr., we hand over to you.
 71	An assignment?.. An assignment! We have a little job for you.
 72	Our planet has had a unique climate for many millennia. Thanks to a special, naturally formed system of winds and currents, most of the planet is covered with snow, and winter reigns nearly all year, but a mild and snowy winter. Thanks to this our planet has become a resort on a galactic scale, becoming a center of attraction for all skiers, mountaineers and generally all those who love snow and winter.

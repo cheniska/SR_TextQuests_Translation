@@ -15,7 +15,7 @@
 110	So, our landing party has approached the South Beach and is ready to land. A landing of <color=0,0,205>kelleroids</color> has dug in at the East Center, <color=255,0,0>blazeroids</color> are conducting their own landing onto the West Beach, and the North Center has been occupied by <color=0,205,0>terronoids</color>.
 111	Before retreating, our men managed to lay mines on the beaches and here and there in the territory, so you can try to make use of them!
 112	Gold -3-, descend immediately to link up with the commander!
-113	Incredible work! One of the flyers will pick you up now, wait a little...
+113	Incredible work! One of the fliers will pick you up now, wait a little...
 114	Hmm... Well, never mind, ranger, the trials for our landing troops will turn out better for it! And as additional help in creating, or rather destroying, the bridgehead - <Money> cr.!
 115	We have an urgent assignment for a specialist in controlling modular robots. Sit down and listen!
 116	For quite a long time the government of our planet pursued a rather aggressive policy of expansionism and militarism. Our arsenals were among the largest in the entire arm, and few even thought of attacking us. Alas, for the sake of the privileges of joining the Coalition we had to renounce such a policy. But we wouldn't be maloqs if we had sunk all our weapons! Naturally, it lay in warehouses awaiting its hour. With time it began to become obsolete, and the dominators showed up. Well, we decided - to hand all this old junk over to the planetary defense headquarters, so that, should the occasion arise, it could be launched at an insolent invader who decided to get too close to our borders. And during the very next dominator attack we managed to turn many of them into space dust by this method. Alas, while our brave fighters were carrying over the new missile, enemy landing parties landed on the island with the missile silos.
@@ -33,7 +33,7 @@
 128	Radar Island
 129	[You heard absolutely nothing, so you decided something was wrong, and sent your ship a signal to pick you up quickly, because soon it would get too hot for you]
 130	Pardon me, <Player>, but with resource supply in the initial stages things somehow haven't worked out for us... But the landing of <color=0,0,205>kelleroids</color> has only just arrived. You have extra time to deploy your battle formations, so - good luck!
-131	Excellent! The radar is in our hands, and a flyer will descend for you now. We await you with your report.
+131	Excellent! The radar is in our hands, and a flier will descend for you now. We await you with your report.
 132	Marshalska Rokossovsky,Nagrile
 133	Hmm... Well, we'll have to use an orbital bombardment, and vanish at the sight of those "greenies"... Alas and alack.
 134	An assignment? Let's go! We have something to offer you!

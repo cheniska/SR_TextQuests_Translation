@@ -27,9 +27,9 @@
 167	And to the north of the central district of this park, where our rich man located his estate, there were numerous islands. During a routine check of the territory, dominator landing modules were discovered on one of them. Since the owner of the park is very jealous of his brainchild, I think he will be very favorable to his savior. So, will you take the risk?
 168	So-so... The park is in complete safety, which means that our savior receives from the generous hands of our planet's patron of the arts a monetary reward of <Money> cr.!
 169	Augean Garden
-170	Sad. Our flyer will try to pick you up as soon as possible.
+170	Sad. Our flier will try to pick you up as soon as possible.
 171	<color=255,0,0>Blazeroids</color> and <color=0,0,255>kelleroids</color> have only just landed, so all sides are in equal positions. We wish you luck!
-172	Our flyer will pick you up now. We await your report with impatience.
+172	Our flier will pick you up now. We await your report with impatience.
 173	Sad, of course, but the task set was very difficult, so we cannot demand anything of you. We will try to save the citizens with our own forces.
 174	Oh, ranger! You're just in time, we have something to offer you...
 175	Our planet was a border planet during the wars with the maloq-peleng alliance. Hundreds of thousands of bombs and missiles flew onto the surface, shot down by allied air defenses. Naturally, the Federation built an extensive network of bunkers for the population and garrison, mothballed after the creation of the Coalition.
