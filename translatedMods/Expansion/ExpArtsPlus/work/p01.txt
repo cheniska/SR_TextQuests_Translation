@@ -1,0 +1,73 @@
+1	if(MessageBoxYesNo('Reduce the weight of the item <color=0,150,200>' + DeleteTags(ItemFullName(item)) + '</color> by <color=0,150,200>30%</color>? The artifact will be destroyed.'))
+2	Creates its own gravitational field, reducing the ship's actual mass by <clr>25%<clrEnd>.
+3	When activated, allows reducing the size of the selected equipment by <clr>30%<clrEnd>, but not below the minimum permissible weight. Its own mass then becomes zero, which leads to self-annihilation.
+4	if(ItemDurability(CurItem()) < 50) MessageBox('The Polarizer lacks the durability reserve needed to activate the overload.');
+5	if(MessageBoxYesNo('Do you really want to overload the Polarizer?'))
+6	if(!ShipInNormalSpace(Player())) MessageBox('This item can be used only in open space');
+7	When activated, overloads its electric circuits, generating a powerful electromagnetic pulse that does serious damage to the shield generators of all enemies within <clr>500<clrEnd> units. It is badly worn in the process.
+8	MessageBox('All weapon slots are already open');
+9	if(ScriptItemActionType(t_OnAnotherItem)) MessageBox('This hull already has an additional gun turret');
+10	if(MessageBoxYesNo('Are you sure you want to build the Proton into the hull permanently?') == 1)
+11	Can be permanently built into a hull, reducing its capacity.
+12	if(ScriptItemActionType(t_OnAnotherItem)) MessageBox('This hull already has additional gun turrets');
+13	if(ScriptItemActionType(t_OnAnotherItem)) MessageBox('All weapon slots are already open');
+14	if(MessageBoxYesNo('Are you sure you want to build ARMS into the hull permanently?'))
+15	Can be inserted into a <clr>hull<clrEnd> - opens <clr>2<clrEnd> weapon slots, but reduces the hull size by <clr>10<clrEnd> percent and raises the cost by <clr>30<clrEnd> percent.
+16	Warning! The junior droid was damaged in battle. Repairs are needed.
+17	The Junior Droid is a lighter version of the main droid, connected to the common cable through a special synchronization system. It works together with the main droid, halving its wear and also speeding up repair work on the ship.
+18	This little droid can restore <clr>10<clrEnd> units of damaged ship hull and can work even in hyperspace. It also reduces the main droid's wear by a factor of <clr>2<clrEnd>.
+19	if(ItemDurability(CurItem()) < 90) MessageBox('The Swallower lacks the durability reserve needed to activate the overload');
+20	if(MessageBoxYesNo('Overload the Swallower to gain temporary invulnerability?'))
+21	When activated, multiplies the power of the ship's shield, giving it <clr>complete invulnerability<clrEnd> for one turn. It <clr>wears out<clrEnd> to a completely inoperable state in the process.
+22	Rals is a test version of new software for the missile weapon loading mechanism, built as a separate subunit. It allows two salvos instead of one thanks to optimized movement algorithms for the moving parts.
+23	When activated, sends all launched missiles a command for instant detonation, thereby eliminating them before they reach the designated target.
+24	A technology created on the basis of kelleroid nanomodules. It can imitate the factory <clr>acceleration unit<clrEnd> and also reduce engine wear in afterburner mode by a factor of <clr>2<clrEnd>.
+25	Horror! An enemy shot hit right in the black goo. Fuel production has stopped.
+26	The Black Goo has used up its resources. It must be refilled. But with what?
+27	Black Goo is a mixture produced by scientists of antiquity. The method of preparing Black Goo has been irretrievably lost, but several portions of this substance have survived in the Galaxy to this day. Placed in a fuel tank, the goo acts as a catalyst, gradually increasing the amount of fuel.
+28	Black Goo
+29	<color=255,17,0>Additional property disabled:</color>
+30	Under certain conditions it has a<br>chance of producing special nanoparticles which,<br>mixing with the fuel, benefit<br>the fuel tank and engine from within, gradually<br>restoring their structure.
+31	<color=0,255,0>Additional property active:</color>
+32	The erimeter's long service life has come to an end. It urgently needs repair, as it has begun to interfere with the gripper's operation.
+33	The Erimeter focuses the gripper beam, so its directionality narrows sharply and its efficiency increases. As a result, the gripper beam can pull in objects with a mass above the rated one.
+34	MessageBox('The maximum increase of the gripper characteristics has been reached.');
+35	if(!ItemImprovement(item)) str tStr = ' It will be impossible to upgrade such a gripper at a research station.';
+36	if(MessageBoxYesNo('Are you sure you want to permanently build the Erimeter into the gripper?' + tStr))
+37	Allows the gripper beam to pull in objects with a mass above the rated one by <clr>30<clrEnd> units. Raises the speed of pulling things in and the gripper radius.
+38	When combined with a gripper, permanently increases its range (the effect is stronger on unknown equipment).
+39	MessageBox('The zhupi colony on this hull has already reached the maximum possible size');
+40	if(!ItemImprovement(item)) str tStr=' It will be impossible to upgrade such a hull at a research station.';
+41	if(MessageBoxYesNo('Are you sure you want to permanently relocate the colony to this hull?' + tStr))
+42	When activated, the whole colony relocates to the hull, whose armor increases by <clr>1<clrEnd> unit. Zhupi become strongly attached to their habitat and never return to the container; they build themselves a new nest in the hull, thereby reducing its capacity.
+43	Preserves a lot of valuable enemy equipment when the enemy is eliminated, as well as valuable ore from asteroids.
+44	The plasmourethane component of the Rocketang layer has dried out from intense stellar activity. The nanomechanisms are paralyzed, repair is required.
+45	Rocketang is a system of nanomechanisms that coat the hull surface with a thin controlled plasmourethane film. What is unique about these nanomechanisms is that they pinpoint where a missile hits and instantly reinforce the ship's armor in that spot. In addition, the nanomechanisms can assemble missiles on their own, using as raw material the fragments of rocket projectiles they absorb while repelling enemy attacks.
+46	CustomArtTextData(TnewItem, 1, '<color=255,17,0>Additional property disabled:</color>');
+47	CustomArtTextData(TnewItem, 1, '<color=0,255,0>Additional property active:</color>');
+48	A plasmourethane defensive mechanism fitted with enhanced detectors and a built-in missile assembler. Blocks <clr>10-40%<clrEnd> of the damage from missile weapon hits, absorbing wreckage along the way from which it can later assemble complete combat projectiles.
+49	When material is available, restores <clr>1<clrEnd> charge daily in one of the equipped missile weapons, starting with the most depleted. To fuel the engines of the produced munitions it consumes <clr>1<clrEnd> unit of fuel each from the main tank.
+50	Charges available for assembly: <clr>0<clrEnd>\100 pcs.
+51	Charges available for assembly: <clr>0<clrEnd> pcs.
+52	Miniature robots repair up to <clr>10%<clrEnd> per day of one randomly chosen item on the ship whose integrity does not exceed <clr>60%<clrEnd>.
+53	They can repair even unique types of <clr>dominator<clrEnd> weapons, but will then consume <clr>nodes<clrEnd> from the hold daily.
+54	if(ItemIsBroken(CurItem())) MessageBox('a\'Egis is broken. Activation is impossible');
+55	if(MessageBoxYesNo('Do you really want to activate a\'Egis?'))
+56	MessageBox('No enemy ships detected in the system. a\'Egis has nowhere to redirect missiles');
+57	if(!ItemDurability(CurItem()) && m_count) MessageBox('a\'Egis failed after managing to redirect ' + m_count + ' missiles');
+58	if(!m_count) MessageBox('No enemy missiles detected in the area of effect');
+59	if(!ItemIsBroken(CurItem()) && m_count > 0) MessageBox('a\'Egis redirected ' + m_count + ' missiles');
+60	When activated at a distance of <clr>1000<clrEnd> units, hacks the guidance protection of enemy missiles and <clr>redirects<clrEnd> them at the one who launched the missile or at the enemy artifact closest to the carrier ship. It takes <clr>20<clrEnd>/<clr>15<clrEnd>/<clr>3<clrEnd>/<clr>2<clrEnd>/<clr>1<clrEnd>% wear for each redirected <clr>thermonuclear torpedo<clrEnd>/<clr>nuclear torpedo<clrEnd>/<clr>torpedo<clrEnd>/<clr>missile<clrEnd>/<clr>EM missile<clrEnd>.
+61	MessageBox('The maximum speed increase has been reached');
+62	if(!ItemImprovement(item)) str tStr = ' It will be impossible to upgrade such an engine at a research station.';
+63	if(MessageBoxYesNo('Are you sure you want to permanently build the Nozzlenator into the engine?' + tStr))
+64	When combined with an engine, permanently increases its speed (the effect is stronger on unknown equipment).
+65	if(MessageBoxYesNo('Reduce the weight of the item <color=0,150,200>' + DeleteTags(ItemFullName(item)) + '</color> by <color=0,150,200>40%</color>? The artifact will be destroyed.'))
+66	Creates its own gravitational field, reducing the ship's mass. The improved version of the artifact reduces the ship's mass by an additional <clr>5<clrEnd> percent compared with the base version of the Antigravitazer.
+67	When activated, allows reducing the size of the selected equipment by <clr>40%<clrEnd>, but not below the minimum permissible weight. Its own mass then becomes zero, which leads to self-annihilation.
+68	if(MessageBoxYesNo('Reduce the weight of the item <color=0,150,200>' + DeleteTags(ItemFullName(item)) + '</color> by <color=0,150,200>50%</color>? The artifact will be destroyed.'))
+69	Creates its own gravitational field, reducing the ship's mass. The improved version of the artifact reduces the ship's mass by an additional <clr>10<clrEnd> percent compared with the base version of the Antigravitazer.
+70	When activated, allows reducing the size of the selected equipment by <clr>50%<clrEnd>, but not below the minimum permissible weight. Its own mass then becomes zero, which leads to self-annihilation.
+71	Emits electrons that strengthen the ship's shield. The improved version of the artifact raises the shield generator's protection by <clr>2<clrEnd> percent more than the base version of the Polarizer. With a small probability it reflects the inflicted damage back at the enemy.
+72	Emits electrons that strengthen the ship's shield. The improved version of the artifact raises the shield generator's protection by <clr>4<clrEnd> percent more than the base version of the Polarizer. With a small probability it reflects the inflicted damage back at the enemy.
+73	if(ItemDurability(CurItem()) < 80) MessageBox('The Swallower lacks the durability reserve needed to activate the overload');

@@ -1,0 +1,59 @@
+74	In <clr>30%<clrEnd> of cases absorbs the thermal component of an energy weapon beam, turning hit pulses into harmless electrical surges. In addition to the main effect, adds <clr>1<clrEnd>% to the shield generator's power.
+75	When overloaded, multiplies the power of the ship's shield, giving it <clr>complete invulnerability<clrEnd> for one turn. It wears out almost completely in the process.
+76	if(ItemDurability(CurItem()) < 70) MessageBox('The Swallower lacks the durability reserve needed to activate the overload');
+77	Provides a chance of a double salvo from missile weapons. Also adds <clr>5<clrEnd> damage to missile weapons and <clr>100<clrEnd> to missile speed.
+78	Provides a chance of a double salvo from missile weapons. Also adds <clr>10<clrEnd> damage to missile weapons and <clr>200<clrEnd> to missile speed.
+79	CustomArtTextData(CurItem(), 1, '<color=0,255,0>Additional property active:</color>');
+80	CustomArtTextData(CurItem(), 1, '<color=255,17,0>Additional property disabled:</color>');
+81	Charges available for assembly: <Data2>\100 pcs.
+82	MessageBox(Name(CurItem()) + ': additional property active. When material is available, restores 1 charge daily in one of the missile weapons (starting with the most depleted), consuming 1 unit of fuel. Charges available for assembly: ' + CustomArtData(CurItem(), 2) + ' of 100.');
+83	MessageBox(Name(CurItem()) + ': additional property disabled. Charges available for assembly: ' + CustomArtData(CurItem(), 2) + ' of 100.');
+84	<color=248,252,248>Upgrade:</color> <clr>Small zhupi colony<clrEnd>
+85	<color=248,252,248>A small colony of zhupi has taken a liking to the surface of this hull. The hull armor is slightly increased.</color>
+86	Hull armor: <clr>+1<clrEnd>
+87	<color=248,252,248>Upgrade:</color> <clr>Zhupi colony<clrEnd>
+88	<color=248,252,248>A colony of zhupi has taken a liking to the surface of this hull. The hull armor is increased.</color>
+89	Hull armor: <clr>+2<clrEnd>
+90	<color=248,252,248>Upgrade:</color> <clr>Large zhupi colony<clrEnd>
+91	<color=248,252,248>A large colony of zhupi has taken a liking to the surface of this hull. The hull armor is greatly increased.</color>
+92	Hull armor: <clr>+3<clrEnd>
+93	<color=248,252,248>Upgrade:</color> <clr>Additional turret<clrEnd>
+94	<color=248,252,248>The Proton built into the hull coordinates the actions of the additional gun.</color>
+95	<color=248,252,248>Upgrade:</color> <clr>Focused Beam I<clrEnd>
+96	<color=248,252,248>The integrated erimeter slightly increases the gripper characteristics. The modification is more effective when used in equipment of unknown manufacture.</color>
+97	Gripper power: <clr>+25<clrEnd> t.
+98	Gripper range: <clr>+25<clrEnd> million km
+99	<color=248,252,248>Upgrade:</color> <clr>Focused Beam II<clrEnd>
+100	<color=248,252,248>A pair of integrated erimeters increases the gripper characteristics. The modification is more effective when used in equipment of unknown manufacture.</color>
+101	Gripper power: <clr>+50<clrEnd> t.
+102	Gripper range: <clr>+50<clrEnd> million km
+103	<color=248,252,248>Upgrade:</color> <clr>Focused Beam III<clrEnd>
+104	<color=248,252,248>Several integrated erimeters sharply increase the gripper characteristics. The modification is more effective when used in equipment of unknown manufacture.</color>
+105	Gripper power: <clr>+75<clrEnd> t.
+106	Gripper range: <clr>+75<clrEnd> million km
+107	Gripper pull speed: <clr>+2<clrEnd>
+108	<color=248,252,248>The integrated erimeter slightly increases the gripper characteristics.</color>
+109	Gripper power: <clr>+15<clrEnd> t.
+110	Gripper range: <clr>+15<clrEnd> million km
+111	<color=248,252,248>A pair of integrated erimeters increases the gripper characteristics.</color>
+112	Gripper power: <clr>+30<clrEnd> t.
+113	Gripper range: <clr>+30<clrEnd> million km
+114	<color=248,252,248>Several integrated erimeters sharply increase the gripper characteristics.</color>
+115	Gripper power: <clr>+45<clrEnd> t.
+116	Gripper range: <clr>+45<clrEnd> million km
+117	Gripper pull speed: <clr>+1<clrEnd>
+118	<color=248,252,248>Upgrade:</color> <clr>Additional Boosters I<clrEnd>
+119	<color=248,252,248>The integrated nozzlenator increases engine speed. The modification is more effective when used in equipment of unknown manufacture.</color>
+120	Engine speed: <clr>+60<clrEnd>
+121	<color=248,252,248>Upgrade:</color> <clr>Additional Boosters II<clrEnd>
+122	<color=248,252,248>Several integrated nozzlenators increase engine speed. The modification is more effective when used in equipment of unknown manufacture.</color>
+123	Engine speed: <clr>+120<clrEnd>
+124	<color=248,252,248>Upgrade:</color> <clr>Additional Boosters III<clrEnd>
+125	<color=248,252,248>A series of integrated nozzlenators increase engine speed. The modification is more effective when used in equipment of unknown manufacture.</color>
+126	Engine speed: <clr>+180<clrEnd>
+127	<color=248,252,248>The integrated nozzlenator increases engine speed.</color>
+128	Engine speed: <clr>+40<clrEnd>
+129	<color=248,252,248>Several integrated nozzlenators increase engine speed.</color>
+130	Engine speed: <clr>+80<clrEnd>
+131	<color=248,252,248>A series of integrated nozzlenators increase engine speed.</color>
+132	<color=248,252,248>ARMS built in:</color> <clr>additional armament<clrEnd>
