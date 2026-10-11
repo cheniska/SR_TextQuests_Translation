@@ -1,0 +1,139 @@
+217	Thank you with all my heart for not backing out at the sight of the price!
+218	All your artifacts have been repaired, restored, and now literally shine like new!
+219	Well, then we'll recommend you contact a research station. Maybe the rates there will suit you better
+220	Ah, you've upset me, <Player>! I was just about to give the order for a full inspection, and it turns out you didn't need a repair at all.
+221	Repairs, you say? You've come to the right place!
+222	Our Bureau specializes in, of course, design, but you can't design without knowing how to repair. For that reason our crew includes several repair teams, one of which is ready to help you.
+223	Of course, all the capabilities of our Bureau are available only to clients, but at the urgent request of the Ranger Centers Network we have opened this service to rangers even without issuing a client card
+224	So, we can offer you <clr>five<clrEnd> options for prompt repair to choose from:
+225	<clr>2.<clrEnd> Repair of the equipment that is part of all your configurations (including the current one)
+226	<clr>3.<clrEnd> Repair of all artifacts in slots and in the hold
+227	<clr>4.<clrEnd> Repair of all research probes
+228	<clr>5.<clrEnd> Repair of absolutely everything that can be repaired aboard
+229	Which do you prefer?
+230	It seems your mercenary's ship is in excellent condition and needs no repair.
+231	I just want to warn you right away - we found non-standard equipment on the mercenary's ship that can't be fixed just like that. We'll have to use <clr>nodes<clrEnd>.
+232	Don't neglect the loyalty of a mercenary, <Player>. Those guys are first-rate fighters!
+233	Ooh... There's a long job here! How did this mercenary manage to let his ship go like this?
+234	Still, please don't worry. When we're done with it, it will shine like new! The ship, that is - not the mercenary.
+235	Yes, it seems something really did break, but nothing serious. We'll fix it in a matter of hours.
+236	Here is the full cost of the work:
+237	Non-standard repair: <Indent><UnusualEquipmentRepairCost> cr.
+238	Add. materials: <Indent><NodesCost> nd.
+239	Total: <Indent><TotalCost> cr. and <NodesCost> nd.
+240	Total: <Indent><TotalCost> cr.
+241	It seems your partner's ship is in excellent condition and needs no repair.
+242	I just want to warn you right away - we found non-standard equipment on your partner's ship that can't be fixed just like that. We'll have to use <clr>nodes<clrEnd>.
+243	Ah, you shouldn't treat your partner like that, <Player>. In times like these we must help one another, and as for friends, we should hold on to them as dearly as life itself!
+244	Today you lend him a shoulder, tomorrow he lends you one. Ah, you shouldn't treat him so, really shouldn't...
+245	Ooh... There's a long job here! How did your partner manage to let his ship go like this?
+246	Still, please don't worry. When we're done with it, it will shine like new! The ship, that is - not your partner.
+247	It seems your ship is in excellent condition and needs no repair.
+248	I just want to warn you right away - we found non-standard equipment on your ship that can't be fixed just like that. We'll have to use <clr>nodes<clrEnd>.
+249	Thank you, but that's completely unacceptable to me
+250	Unacceptable, <Player>? What's unacceptable is drifting in space as a gas cloud, and spending credits on repairing a ship is a perfectly tolerable alternative.
+251	It's up to you, of course, but personally I'd recommend not skimping on your "birdie".
+252	Ooh... There's a long job here! How did you manage to let your ship go like this, <Player>?
+253	Still, please don't worry. When we're done with it, it will shine like new!
+254	It seems all your probes are in splendid condition and need no repair.
+255	Hmm, well, nothing serious, it seems. We'll fix and restore everything for <Cost> cr. Does that price suit you?
+256	Well, wonderful!
+257	All your probes have been repaired, restored, and now literally shine like new!
+258	Ah-ah-ah... You'll leave us with no work at all, and not a penny by lunchtime.
+259	Never mind, perhaps we'll have better luck with another client.
+260	Ooh... There's a long job here! How did your partner manage to let his ship go like this?
+261	Still, please don't worry. When we're done with it, it will shine like new! The ship, that is - not your partner.
+262	Yes, it's not cheap, but there's a mountain of work here - don't take offense.
+263	It seems your tranclucator is in excellent condition and needs no repair.
+264	I just want to warn you right away - we found non-standard equipment on the tranclucator that can't be fixed just like that. We'll have to use <clr>nodes<clrEnd>.
+265	I suggest you inspect the tranclucator and evaluate the result - the best repair in the Galaxy!
+266	It hurts to see such disrespect for such wonderful technology! A tranclucator, <Player>, is a smart, obedient, reliable machine, and you treat it like a trassion scanner!
+267	What kind of rangers are we getting these days, honestly? A technical marvel is offered to them on a silver platter, and all they do is turn up their noses. Pah!
+268	Ooh... There's a long job here! How did you manage to let your tranclucator go like this, <Player>?
+269	It seems there's nothing to work with!
+270	Looks like all your artifacts are in perfect order. Come back when you've dragged them into the black holes, heh-heh.
+271	Damn it! And I was so glad - thought we'd go out with the guys tonight after a day's work... You're a bad <PlayerRace>, <Player> - greedy.
+272	And artifacts, by the way, save the lives of decent guys in space! But go on... as they say, bon voyage.
+273	And by the way, almost forgot! The guys found special dominator guns aboard, and repairing them will require <clr>nodes<clrEnd> in any case. Sorry about that - a peculiarity of tin-can technology.
+274	Total: <Indent><TotalCost> cr. and <NodesCost> nd.
+275	And by the way, almost forgot! The guys found special dominator guns in the tranc, and repairing them will require <clr>nodes<clrEnd> in any case. Sorry about that - a peculiarity of tin-can technology.
+276	I need to repair all the equipment of all ships allied with me
+277	All your artifacts are in excellent condition and need no repair.
+278	So, so... There's some minor damage... Whoa, that one is more serious! But overall nothing terrible.
+279	We'll easily restore all your artifacts for just <Cost> cr. By the way, the organization's account currently holds <CurrentBalance> cr.
+280	All done, chief, just as you ordered. Anything else?
+281	As you know, boss. Though personally I'd recommend not dragging this out... You never know.
+282	No means no, as you say, chief. Maybe you need something else?
+283	Our specialists are competent and certified. They're no worse than the Coalition's, and definitely better than pirate drunks. By the way, the repair cost will pleasantly surprise you - just <clr>25%<clrEnd> of market rates. In essence, you pay us only for materials.
+284	Now about the repair itself - there are <clr>five<clrEnd> repair options to choose from:
+285	<clr>5.<clrEnd> Repair of everything that can be repaired aboard, including the hold
+286	So how will we repair?
+287	The mercenary's ship is in excellent condition, boss, and needs no repair.
+288	Oh, and one more thing. Non-standard equipment is installed on the mercenary's ship. To repair it we'll need additional materials, namely <clr>nodes<clrEnd>.
+289	So, so... Everything's smashed, worn out... All in all we have... A terrible condition of the ship and all its equipment!
+290	Such a repair will cost us a pretty penny. How could anyone let their ship go like that? Ah, those freelance mercenaries - crazy guys!
+291	So, so... Some breakdowns, but fixing them is a piece of cake.
+292	Here is the final calculation:
+293	Your partner's ship is in excellent condition, boss, and needs no repair.
+294	Oh, and one more thing. Non-standard equipment is installed on your partner's ship. To repair it we'll need additional materials, namely <clr>nodes<clrEnd>.
+295	Such a repair will cost us a pretty penny. How could anyone let their ship go like that? Isn't your partner afraid to fly it at all?
+296	Your bro's ship is in excellent condition, boss, and needs no repair.
+297	Repair only the artifacts
+298	This reply is substituted from the ShuMercs script
+299	Repair only the standard equipment
+300	Your ship is in excellent condition, boss, and needs no repair.
+301	Oh, and one more thing. Non-standard equipment is installed on your ship. To repair it we'll need additional materials, namely <clr>nodes<clrEnd>.
+302	Let's skip the repair for now
+303	Get started on the repair
+304	Such a repair will cost us a pretty penny. How could anyone let their ship go like that? Aren't you scared to fly it at all?
+305	Repair everything
+306	Repair only the non-standard equipment
+307	All your probes are in excellent condition and need no repair.
+308	We'll easily restore all your probes for just <Cost> cr. By the way, the organization's account currently holds <CurrentBalance> cr.
+309	The rebel's ship is in excellent condition, boss, and needs no repair.
+310	Quite a price tag, eh, boss? And you're lucky to be repaired at cost, too. By the way, the organization's account currently holds <CurrentBalance> cr.
+311	The femagent's ship is in excellent condition, boss, and needs no repair.
+312	Your tranclucator is in excellent condition, boss, and needs no repair.
+313	Oh, and one more thing. Non-standard equipment is installed on the tranclucator. To repair it we'll need additional materials, namely <clr>nodes<clrEnd>.
+314	So, so... Everything's smashed, worn out... All in all we have... A terrible condition of the tranclucator and all its equipment!
+315	Such a repair will cost us a pretty penny. How could anyone let their helper go like that? Aren't you scared to send it into space at all?
+316	Excellent. The repair is already complete.
+317	All your artifacts are in excellent condition and need no repair.
+318	We'll easily restore all your artifacts for just <Cost> cr. Agreed?
+319	Excellent, the money has been debited from your account, and our technicians are nearly done with the work.
+320	All the artifacts are now like new!
+321	Who knows, who knows, <Player>, since skimping on artifacts can lead to quite unpredictable and extremely unpleasant consequences...
+322	Have you, for example, heard the story of the ranger Gooli-Fer, whose own overgrown nanitoids strapped him to the pilot's seat and sent his ship to a dominator system to join the "machine liberation movement"?
+323	Or of the ranger Munchausen, famed for his incredible flight on an energy core, which happened after his blast wave localizer, punctured in battle, localized that very wave right in the middle of the engineering compartment?
+324	Oh, what a pity... I mean, we're glad your ship is in perfect order!
+325	But if something suddenly breaks, be sure to fly to us. You won't find service of such quality anywhere else in the Galaxy!
+326	Our repairmen can repair and perform maintenance on any equipment aboard the ship. All installed equipment - both standard and special - will be like new after our repair. The services are not cheap, but the work will be done perfectly.
+327	We can offer one of <clr>five<clrEnd> comprehensive repair options:
+328	So which of these do you need?
+329	Your mercenary's ship is in excellent condition and needs no repair.
+330	Go aboard and see the result. Not a single scratch!
+331	It may well be sensible, <Player>... So what, a mercenary, why spend extra money on him? But you'll hardly find anyone more reliable in a firefight than these guys, so I strongly recommend revising your investment priorities.
+332	Such a repair will cost you a pretty penny. How could anyone let their ship go like that? Ah, those mercenaries - fearless guys!
+333	Mercenary or not, he is a living humanoid, <Player>! Don't you feel even a bit sorry for your bodyguards?
+334	Well, if not for him, think of yourself, because a mercenary is your reliable shield! Let pirates get on your tail... Ah, but why am I wasting my time on you...
+335	So, so... There are some breakdowns, and we'll fix it all for a token fee. Okay?
+336	Your partner's ship is in excellent condition and needs no repair.
+337	Oh, and one more thing. Non-standard equipment is installed on your partner's ship. To repair it we'll need additional materials, namely <clr>nodes<clrEnd>.
+338	It's very unwise to skimp on your partner, <Player>. Let pirates get on your tail - you may manage to expose your partner to the blow, but then your turn will come too! And imagine what happens if the partner gets out of that scrape after all?
+339	Better to overpay a little for the repair than to end up in such a situation.
+340	Such a repair will cost you a pretty penny. How could anyone let their ship go like that? Isn't your partner afraid to fly it at all?
+341	Your... partner's ship is in excellent condition and needs no repair.
+342	Nothing for now, sorry
+343	Oh, and one more thing. Non-standard equipment is installed on your ship. To repair it we'll need additional materials, namely <clr>nodes<clrEnd>.
+344	Well, it only seems unacceptable to you now. But when pirates get on your tail, puncture your fuel tank, and the engine fails in battle... What will you do then?
+345	Better to repair everything at once so as not to end up in such a situation.
+346	Such a repair will cost you a pretty penny. How could anyone let their ship go like that? Aren't you afraid to fly it at all?
+347	All your probes are in excellent condition and need no repair.
+348	We'll easily restore all your probes for just <Cost> cr. Agreed?
+349	All your probes are now like new!
+350	Well, that's up to you, <Player>. I sincerely wish you luck exploring planets with faulty probes.
+351	Here is our calculation:
+352	Agreed, it's a lot - but what can you do? There are tons upon tons of breakdowns!
+353	Your tranclucator is in excellent condition and needs no repair.
+354	Inspect the tranclucator and evaluate the result. Not a single scratch!
+355	You're wrong to refuse the repair of your tranclucator, <Player>. An excellent machine and, above all, useful and obedient. It will cover you in battle and collect things from the whole system for you...

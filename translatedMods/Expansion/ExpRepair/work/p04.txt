@@ -1,0 +1,19 @@
+356	Ah, you don't appreciate good robotics! Probably that's why you're a ranger.
+357	Such a repair will cost you a pretty penny. How could anyone let their helper go like that? Aren't you afraid to send it into space at all?
+358	We could do it cheaper, but the "science types" already fleece us three times over for the license - tightwads!
+359	Ah, blast it! Another one slipped away!
+360	I told them - you charge too much, penchekryaks! Lower the percentage and we'll attract more people, and make even better profit on turnover, but no! The prestige of the work matters more to them, the status of a scientist, damn it all to a swing!
+361	Oh, I can feel we'll regret this license. And excuse me, <Player>. I have no complaints about you personally.
+362	Our center literally lives on such repairs, you understand? And without a wrench and a sledgehammer in your hands, what's the point of life at all?
+363	Our network of technology centers has long been famous for the highest-quality and fastest repairs in the Galaxy! What can I say! The very first center was FOUNDED on the desire to provide everyone with quality, affordable tech service. But I warn you at once - there is a surcharge for repairing non-standard equipment. Those skinflints at the research stations count their license pennies like no one else.
+364	I once served as a mercenary myself, and with them a caring client always gets reliable protection. As for those who abandoned the guys on the battlefield and held back an extra penny - you won't find them on the list of living pilots anymore.
+365	Still, please don't worry. When we're done with it, it will shine like new! The ship, that is - not the mercenary.
+366	Yes, it seems something really did break, but nothing serious. We'll fix it in a matter of hours.
+367	Hmm, well, nothing serious, it seems. We'll fix and restore everything for <Cost> cr. Does that price suit you?
+368	Ranger <Player>! Stop taking up the armed forces' precious time at once!
+369	While you're loafing around here, we have a military operation in preparation, an urgent request for reinforcements to the system, and I personally am long overdue for my lunch break.
+370	And when hungry, <Player>, I become fierce and terrible...
+371	Our repairmen can repair and perform maintenance on any STANDARD equipment aboard a ship. Moreover, the galactic fleet is a non-profit structure, which means our repair prices are lower than anywhere else. Also, as your rank grows, you will be given a larger and larger discount.
+372	Until then, I permit you to visit our observation deck or hone your combat skills on the training simulator.
+373	A pity that rangers are not part of the regular forces, or I'd simply order you to pay for his repairs. But if concepts like honor and mutual aid are unknown to you... Fly. Expose your partner to the blow. But know this - you make me sick.
+374	A pity that rangers are not part of the regular forces, or I'd simply order you to go through this repair. But if you want so badly to turn into space dust - go ahead. Fly, and good health to you.

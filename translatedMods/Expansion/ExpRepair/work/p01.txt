@@ -1,0 +1,111 @@
+1	Sorry, <Player>, but we have no license to repair non-standard equipment. Please contact a <color=0,50,200>research station</color> or a <color=0,50,200>technology center</color>.
+2	Listen, don't bring us this junk, okay? We're dealing with serious matters here, so haul this mess off to a <color=0,50,200>pirate base</color>. They like poking around in that sort of thing.
+3	Sorry, <Player>, but we don't keep the tools or specialists here for repairing non-standard equipment. Better ask at a <color=0,50,200>pirate base</color> - they're sure to have that stuff.
+4	Sorry, <Player>, but to repair non-standard equipment you must apply directly to the <color=0,50,200>station manager</color>. Those are the terms of our license.
+5	Sorry, <Player>, but our knowledge and tools<br>won't be enough to repair non-standard equipment.<br>Go to a <color=0,50,200>research station</color> or a<br><color=0,50,200>technology center</color> - they'll<br>surely help you there.
+6	This isn't serious, ranger <Player>. Do you know how much you can make on the stock exchange in the time you've taken from us? Of course you don't, or you wouldn't have become a pilot.
+7	Next time, please determine in advance whether you need repairs, and only then distract the center's staff.
+8	Well, we're always glad to profit from you, that is, to be of benefit to You!
+9	Our specialists are no match for the technicians of the research stations, of course, but we can do something too, right? Besides, we can give our client a discount if his trade rating is high enough.
+10	To avoid wasting time, and with it extra credits, our technical department needs to know the scope of the repair in advance.
+11	There are only <clr>four<clrEnd> such scopes:
+12	<clr>1.<clrEnd> Repair of the client's currently installed equipment
+13	<clr>2.<clrEnd> Repair of the client's equipment that is part of all of your configurations (including the current one)
+14	<clr>3.<clrEnd> Repair of all of the client's research probes
+15	<clr>4.<clrEnd> Repair of absolutely everything that can be repaired aboard the client's ship
+16	We won't go poking around in Your hold for equipment that is not registered in any configuration. You rangers have a terrible mess and chaos in there, which entails extra costs for the loading and unloading equipment.
+17	So which scope of repair do you need, where will you invest?
+18	Dear client, we regret to inform you of the sad... sorry, the glad news - there is nothing to repair on your mercenary's ship, all the credits will stay in Your account.
+19	Dear client, the ship of the mercenary you hired is now in perfect order.
+20	The repair was carried out to a high standard, because as we say here: "a client of our client is also our client!"
+21	Ahem... In your place I wouldn't refuse to service your mercenary.
+22	Those pros take full prepayment, and risking the investment like that... But it's up to You, of course, our client is always right if he has no credit debts.
+23	You're lucky your mercenary's equipment isn't leased, insurance definitely won't cover that...
+24	But well done, ranger <Player>, investing in personal protection is commendable. The repair will be carried out for all of Your credits!
+25	The equipment has been handed to specialists to assess the complexity of the repair. While you wait, would you like to buy a couple of CRit-Coins? Or install Penchekryak-Combat? Don't trust such investments? Well, that's your business. And here are the results of the technical inspection! Right, let's see...
+26	There is damage to the equipment, ranger. True, we don't have all the necessary tools, so we'll have to order them for delivery from Aali-Express.
+27	As a result, the full cost of the repair for You will equal the following sum: <Indent><TotalCost>.
+28	I respect your approach to working with employees - your partner's equipment is in perfect order and needs no repair.
+29	I'm sure your partner will be happy - we'll finish the repair in excellent time and to a high standard.
+30	In your place I'd think about demanding compensation for the contract. Friendship is friendship, but credits, you know, don't earn themselves.
+31	Is your partner insured for a large sum or something? How can you do that, ranger?!
+32	Though if the sum is very large... No, it's still low and mean - refusing to provide for your own employee!
+33	You should read a couple of books on corporate administration, ranger. You simply can't let the condition of your employees' equipment go like that.
+34	But you needn't worry, your failure to grasp the basics of working with employees will stay between us. And for your partner we'll provide the best repair our humble trading station can manage.
+35	Your "bro" doesn't need a repair. Lucky for us. We have no desire to do that kind of work.
+36	Unfortunately, our repair crew made no mistakes in their work, and the equipment repair went off normally and in full.
+37	Go to your "bro's" ship and check. And let him fly away from us, the whole station begs you!
+38	I thought you pirates ran on "brother for brother", or whatever you call it? And you pull a thing like that on him, by your own standards, a dirty trick.
+39	Not that we care, we're actually glad to avoid such work - pirates wreck the galactic economy just by existing!
+40	Do you know, ranger <Player>, that in the religion known as "RKN" piracy is recognized as one of the most terrible crimes before the Almighty?
+41	Though it's not for us to teach You, for the sake of our client we'll work even with such subjects.
+42	I hired the ship <ShipName> for my protection, can you help with repairs on his ship?
+43	Ranger <ShipName> - he needs repairs.
+44	My bro <ShipName>'s gear has gotten worn out, can you patch it up without any fuss?
+45	My partner <ShipName> is a rebel. Can you help with servicing his equipment?
+46	I'm investing in equipment repair!
+47	I'm investing in life, meaning - in everything at once!
+48	Let's invest in what's already installed on the ship.
+49	Probes are an investment in future profit, take care of repairing them.
+50	Repair all the equipment registered in my configurations.
+51	The life of secret agent <ShipName> is extremely important, can you take care of repairing his ship?
+52	My tranclucator <ShipName> seems to be malfunctioning. I need its equipment serviced.
+53	I changed my mind, I don't need a repair
+54	I'll pay only for standard equipment
+55	What a pity, that is, what joy - you won't have to pay for repairs. All the equipment is in excellent condition.
+56	Wonderful! The mechanics will finish any minute now.
+57	I suggest you go aboard your ship and evaluate the result - the best repair in the Galaxy!
+58	Thanks, but that's too expensive for me
+59	Too expensive, ranger - is investing in Elizabeth Watson's company, while repairs are an investment in Your own life!
+60	Along with You, Your credits are lost too, so we're doubly upset by the refusal, know that!
+61	We've been forbidden to swear in front of clients, <Player>, so I'll put it this way: we are bewildered! How could you let your own ship go like that?
+62	I hope the credits spent on the repair will be a lesson to You in how equipment aboard a ship must be looked after.
+63	I agree to pay for the full repair
+64	I'll pay only for non-standard repair
+65	The probes have been handed to specialists to assess the complexity of the repair. While you wait, would you like to buy a piece of the new hyperspace cable? A unique development, I tell you - scientists managed for the first time to establish a physical connection through subspace, can you imagine? And in the course of the work it turned out they had badly miscalculated the length of the cable and a long piece was left over. We cut it into small lengths and now offer them for purchase. In ten years, a piece of such an epoch-making event could bring You huge profit! Collectors from all over the world already smell profit and are flooding to our trading stations! You decline? Well, that's your business. And here are the results of the technical inspection! Right, let's see...
+66	Ranger, come on, admit it, you only order probes for show, want to look more presentable in front of the scientific community, huh? Your probes look as if they've never once landed on planets - their condition is that perfect!
+67	The probes have been handed to specialists to assess the complexity of the repair. While you wait, would you like to sign a network marketing contract with the "Oh-ri Flame" company? They give you a set of company goods at a big discount, and all that's left is to sell the goods to others. The company is very popular, and you'll never be short of clients, believe me! You won't even have to leave your ship! And you can also recruit personal managers who will buy goods from You for resale. Don't want to? Suit yourself. And here are the results of the technical inspection! Right, let's see...
+68	And you, I see, are a keen archaeologist - your probes are in terrible condition! You could at least have cleaned off the dirt. We'll need <Cost> cr. from You to bring them back to working order. Ready to shell out?
+69	Only the best for our clients!
+70	Your probes have been cleaned, lubricated, and even calibrated. I hope You'll hand your most valuable finds over to us.
+71	Quite right, ranger, what do you need that archaeology for?
+72	Better take out a loan from us, or open a deposit account - it'll be more useful for You and, above all, for us!
+73	Everything aboard your partner's ship is in excellent condition. That's fine, that's good, we wouldn't want to have any possible trouble working with traitors.
+74	Excellent, all done. Not a thing to find fault with, and nobody will know that we serviced traitors to their own people.
+75	You can check everything yourself, just don't tell your rebel partner what efforts we made for him. Extra profit is fine, of course, but the less often we have to work with such elements, the smaller the chance that the home planets of such subjects will impose sanctions on us.
+76	Having taken such a subject under your command, you are simply obliged to keep his ship in proper condition!
+77	His relations with his home state are strained as it is, and now you turn away from him too! Psychological trauma is very hard to treat, I'll have you know.
+78	The hardest part is carrying out the repair cleanly on the paperwork side. If we slip up, the home planet, which your partner upset by his behavior, will impose heavy sanctions on us.
+79	But You needn't worry, we have vast experience in such corrupt schemes! Oh, let's agree that you didn't hear that, shall we?
+80	The equipment has been handed to specialists to assess the complexity of the repair. While you wait, would you like to hear about a new way to earn without leaving the bridge of Your ship? You just have to leave reviews on the "Wild Berries" company website and get up to ten credits for each! Doubtful? Don't want to take part in "padding"? What a shame to deal with an honest ranger... And here are the results of the technical inspection! Right, let's see...
+81	The full sum of the required repair is as follows: <Indent><EquipmentRepairCost> cr.
+82	You'll have to invest quite a few credits, of course, but investing in life is worth it, isn't it?
+83	As expected of a representative of such a worthy profession - the ship is in superb condition!
+84	I've never had to sign so many non-disclosure papers... Even a document on non-disclosure of the signing of a non-disclosure document, can you imagine?!
+85	But we managed, the ship is fully prepared for any possible operations.
+86	You know, it's none of my business, of course... But you should be more careful with such decisions.
+87	Today you refused to pay for the repair of a humanoid in such a specific line of work, and tomorrow You are considered missing in action...
+88	Dangerous work, the special services - the ship is in terrible condition!
+89	We'll be glad to take care of the repair. Such humanoids ensure stability in the galaxy, and that in turn raises the stability of the economy.
+90	When the client's equipment and the equipment of the client's equipment are in perfect order, the heart rejoices! Your mechanical helper is in excellent condition!
+91	We were a bit rough while doing the repair, but tranclucators feel no physical sensations, do they?
+92	I'd have liked to make a real Terminator out of it, but just accept a quality repair.
+93	What, ranger <Player>, did you never get into the cartoons "Chicken on the Lagoon" or the "Pooh-dam" franchise? Or did you grow up without a communicator?
+94	Ehh... A pity, of course, I did so want to work on a real combat mech...
+95	You rangers are too cruel to tranclucators! Look at the condition of this equipment!.. It hurts to look at, ranger <Player>!
+96	Don't worry, my little one, my good little combat mech, if your wicked owner agrees, we'll definitely fix you up! There, there, cutie!
+97	Listen, <Player>, quit messing with our heads, okay? If you don't need a repair, don't distract people from their work, and if you do, haul your junk over here, and make it quick!
+98	Look, bro - our local Kulibins with their plasma wrench and gear fix absolutely everything, and for free with no SMS. Though the "for free" part - I was kidding, they have to live on something.
+99	Anyway, we can offer you <clr>five<clrEnd> options to choose from:
+100	<clr>1.<clrEnd> Repair of the equipment installed right now
+101	<clr>2.<clrEnd> Repair of the equipment in all your configurations (the current one too)
+102	<clr>3.<clrEnd> Repair of all artifacts we find aboard
+103	<clr>4.<clrEnd> Repair of all your research probes
+104	<clr>5.<clrEnd> All together, that is, absolutely everything, like "all inclusive"
+105	What'll it be?
+106	Your mercenary's ship is in perfect order, no repair needed.
+107	Well, here's the deal, <Player>. By our rates a full repair of your mercenary's tub comes to <FullCost> cr. However, considering your pirate rating, we're ready to offer you a personal discount of <Discount><clr>%<clrEnd>.
+108	Now that's fine! We've already debited your dough, and we'll finish the repair any minute now.
+109	Go on to your ship, <Player> - accept the work!
+110	I understand you, <Player>, let those mercenaries pay for their own repairs, they're not paupers after all.
+111	But if you suddenly change your mind - you're welcome at the repair dock. Extra credits definitely won't hurt me and the guys.

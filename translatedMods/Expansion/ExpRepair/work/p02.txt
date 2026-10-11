@@ -1,0 +1,105 @@
+112	What a hell of a wreck! Even our base is in better shape! How did your mercenary not get smashed to bits on landing?!
+113	Anyway, look... Normally we'd fix all this horror for no less than <FullCost> cr., but, considering your pirate rating, fine, we'll give a discount of <Discount><clr>%<clrEnd>.
+114	Right, let's have a look...
+115	Here is our discounted price:
+116	Equipment repair: <Indent><EquipmentRepairCost> cr.
+117	Artifact repair: <Indent><ArtsRepairCost> cr.
+118	Total: <Indent><TotalCost> cr.
+119	So, deal?
+120	Your bro's ship is in perfect order. Come back when something starts knocking under the hood, heh-heh.
+121	Well, here's the deal, <Player>. By our rates a full repair of your bro's tub comes to <FullCost> cr. However, considering your pirate rating, we're ready to offer you a personal discount of <Discount><clr>%<clrEnd>.
+122	Not by the code, <Player>, refusing a bro in need! Today you brush him off on the repair, and tomorrow what? I'll tell you what tomorrow. Tomorrow, <Player>, you're on your own, without your bro, with your stern bare, you'll get into an unequal fight, and in that same fight you'll vanish without a trace!
+123	Think it over once more - do you need that, or maybe it's better to overpay now than to spin round dances with space dust between the stars later.
+124	What a hell of a wreck! Even our base is in better shape! How did your bro not get smashed to bits on landing?!
+125	I think repairing the artifacts will be quite enough
+126	Repair the equipment of mercenary <ShipName>
+127	Repair the equipment of ranger <ShipName>
+128	Repair the equipment of bro <ShipName>
+129	Repair the equipment of rebel <ShipName>
+130	Repair everything
+131	Repair artifacts
+132	Repair current equipment
+133	Repair probes
+134	Repair equipment in all configurations
+135	Repair the equipment of secret agent <ShipName> [Blocked]
+136	Repair <ShipName>
+137	Nothing needed for now
+138	Repair the standard equipment
+139	Your "birdie" is in excellent condition, <Player>, no repair needed.
+140	Well, here's the deal, <Player>. By our rates a full repair of your ship comes to <FullCost> cr. However, considering your pirate rating, we're ready to offer you a personal discount of <Discount><clr>%<clrEnd>.
+141	Thanks, but I've kinda changed my mind
+142	What a tightwad you are, <Player>, holding back the dough for repairs!
+143	What if you run into tin cans in the next system? The electronics will beat you black and blue, you'll see!
+144	What a hell of a wreck! Even our base is in better shape! How did you not get smashed to bits on landing?!
+145	I'll pay only for the special guns
+146	Looks like all your probes are in perfect order. Come back when they start falling apart in flight, heh-heh.
+147	Well, here's the deal, <Player> - by our rates a full repair of all your trinkets comes to <FullCost> cr. However, considering your pirate rating, we're ready to offer you a personal discount of <Discount><clr>%<clrEnd>.
+148	With this discount the whole repair will cost you <Cost> cr. Deal?
+149	Ah, well, it's up to you. You won't do much studying with broken probes, true, but if you chip in a couple of credits, I can lend you a magnifying glass from my personal stock. To make up for the technical and mental underdevelopment, so to speak, heh-heh.
+150	Your Che's ship is in perfect order, only his brains need repair.
+151	Well, here's the deal, <Player>. By our rates a full repair of your Che's tub comes to <FullCost> cr. However, considering your pirate rating, we're ready to offer you a personal discount of <Discount><clr>%<clrEnd>.
+152	Of course, <Player>, I myself can't stomach these Ches either, they're all too crazy about their ideas. But think it over once more - what if that libertarian comes in handy in a fight? They're hot-blooded guys, after all.
+153	What a hell of a wreck! Even our base is in better shape! How did your Che not get smashed to bits on landing?!
+154	I understand, the numbers are steep, but bringing equipment back from the dead is no easy task either. So, deal?
+155	Your girl's ship is in perfect order. Come back when something starts knocking under the hood, heh-heh.
+156	Your tranc is in excellent condition as it is, no repair needed.
+157	Well, here's the deal, <Player>. By our rates a full repair of your tranclucator comes to <FullCost> cr. However, considering your pirate rating, we're ready to offer you a personal discount of <Discount><clr>%<clrEnd>.
+158	Go check the tranc, <Player> - appraise the work!
+159	Ah, <Player>! You don't know the value of a good tranclucator...
+160	It's a real marvel of engineering! Judge for yourself: doesn't ask money for service, hands over the things it collects without any fuss... Not a partner, a fairy tale.
+161	You'd better repair it before it goes cuckoo and shoots off to the nearest star at full speed!
+162	What a hell of a wreck! Even our base is in better shape! How has it not fallen apart from the stellar wind on you yet?!
+163	Ranger <Player>! Stop taking up the armed forces' precious time!
+164	We are busy building new modules, developing further improvements, new acryns - we have no time to dawdle and wait for you to make up your mind!
+165	Our repairmen can repair and perform maintenance on any STANDARD equipment aboard a ship. Besides, we are a non-profit structure under the control of the CAFIC, which means our repair prices are lower than anywhere else. We also have a system of discounts for military ranks.
+166	We offer <clr>four<clrEnd> options for comprehensive diagnostics and repair to choose from:
+167	<clr>1.<clrEnd> Repair of the equipment currently installed
+168	<clr>2.<clrEnd> Repair of the equipment that is part of all your configurations (including the current one)
+169	<clr>3.<clrEnd> Repair of all your research probes
+170	<clr>4.<clrEnd> Repair of all standard items that can be repaired aboard
+171	What do you choose, <Player>?
+172	It looks like everything is fine with your mercenary's ship. Our mechanics found no faults in the <clr>standard<clrEnd> equipment.
+173	Yes, it seems something has broken aboard your mercenary's ship. But don't be scared, our mechanics have everything covered, so a full repair of the <clr>standard<clrEnd> equipment will cost just <Cost> cr.
+174	Do you accept the timbering terms?
+175	That's the spirit, <Player>! We've already debited the money from your account, and the repair will be completed in the shortest possible time.
+176	Until then you can enjoy the wonderful view from our observation deck or check on the state of affairs in the docks.
+177	Mercenary, not mercenary - what's the difference?! This pilot is a serious combat unit that may prove extremely useful on the battlefield.
+178	In your place, <Player>, I'd think twice before denying your combat cover such a necessary repair. It will come back to bite you.
+179	Damn it, <Player>! And your mercenary calls this junk a ship?! In this state you can't even turn it in for scrap!
+180	Anyway, listen up. The situation is not hopeless, but such a repair won't come cheap, specifically - <Cost> cr.
+181	Just agree quickly, or the mechanics will be tinkering with this wreck until evening.
+182	Running a tactical inspection...
+183	It looks like everything is fine with your partner's ship. Our mechanics found no faults in the <clr>standard<clrEnd> equipment.
+184	Yes, it seems something has broken aboard your partner's ship. But don't be scared, our mechanics have everything covered, so a full repair of the <clr>standard<clrEnd> equipment will cost just <Cost> cr.
+185	Ranger <Player>! Don't you know that an unsatisfactory state of the materiel of personnel can lead to undesirably excessive losses on the battlefield? And in this particular case, to the loss of your faithful partner!
+186	A pity that rangers are not part of the regular forces. But if concepts like honor and mutual aid are unknown to you... Fly. Expose your partner to the blow.
+187	Damn it, <Player>! And your partner calls this junk a ship?! In this state you can't even turn it in for scrap!
+188	Repair the equipment of bro <ShipName> [Blocked]
+189	Repair the equipment of rebel <ShipName> [Blocked]
+190	Repair the equipment of secret agent <ShipName>
+191	It looks like everything is fine with your ship. Our mechanics found no faults in the <clr>standard<clrEnd> equipment.
+192	Yes, it seems something has broken aboard your ship. But don't be scared, our mechanics have everything covered, so a full repair of the <clr>standard<clrEnd> equipment will cost just <Cost> cr.
+193	Ranger <Player>! Don't you know that an unsatisfactory state of the materiel of personnel can lead to undesirably excessive losses on the battlefield? And in this particular case, to the loss of your own unit!
+194	A pity that rangers are not part of the regular forces. But if you want so badly to turn into space dust - go ahead. Fly, and good health to you.
+195	Damn it, <Player>! And you call this junk your ship?! In this state you can't even turn it in for scrap!
+196	Ranger <Player>! Don't you know that an unsatisfactory state of the materiel of personnel can lead to undesirably excessive losses on the battlefield? And in this particular case, to the loss of your own backside!
+197	Cancel the repair! Your probes are fine, they may even outlive you and me.
+198	Confirmed, malfunctions in the drives of materiel from the "personnel" are evident. We'll fix everything for <Cost> cr.
+199	Do you accept the recalibration terms?
+200	Cancel the refusal!!! How can you, <Player>?
+201	Judge for yourself, a probe is not just a geologist's best friend, it is also a ready scout in potential enemy territory! I strongly recommend reconsidering your negative disposition toward these all-metal hard workers.
+202	It looks like everything is fine with the ship of agent <ShipName>. Our mechanics found no faults in the <clr>standard<clrEnd> equipment.
+203	Yes, it seems something has broken aboard the ship of agent <ShipName>. But don't be scared, our mechanics have everything covered, so a full repair of the <clr>standard<clrEnd> equipment will cost just <Cost> cr.
+204	Ranger <Player>! Don't you know that an unsatisfactory state of the materiel of personnel can lead to undesirably excessive losses on the battlefield? And in this particular case, to the loss of our faithful agent!
+205	A pity that rangers are not part of the regular forces. But if concepts like honor and mutual aid are unknown to you... Fly. Expose a fragile girl to the blow.
+206	Damn it, <Player>! And our agent calls this junk a ship?! In this state you can't even turn it in for scrap!
+207	A pity that rangers are not part of the regular forces, or I'd simply order you to pay for her repairs. But if concepts like honor and mutual aid are unknown to you... Fly. Expose a fragile girl to the blow. But know this - you make me sick.
+208	It looks like everything is fine with your tranclucator. Our mechanics found no faults in the <clr>standard<clrEnd> equipment.
+209	Yes, it seems something has broken on your tranclucator. But don't be scared, our mechanics have everything covered, so a full repair of the <clr>standard<clrEnd> equipment will cost just <Cost> cr.
+210	What?! You don't want to repair your tranclucator?! Why, it's the perfect soldier! However terrible the situation on the battlefield, your tranclucator will selflessly and unfailingly carry out all your orders... To the very end.
+211	Hey, <Player>, do you even know how much effort and money the army and the fleet spend every year on training and drilling their soldiers? Do you know what one trained fighter costs the armed forces?
+212	Exactly!
+213	Damn it, <Player>! And you call this junk a tranclucator?! In this state you can't even turn it in for scrap!
+214	All right, first let's do an inspection...
+215	It looks like all your artifacts are in excellent condition and need no repair.
+216	Hmm, well, nothing serious, it seems. We'll fix and restore everything for <Cost> cr.
