@@ -1,0 +1,73 @@
+97	Transcendental Shield Generator
+98	Transcendental Shield Generator I
+99	<color=248,252,248>During testing of this shield generator, a side effect that improves its operation was discovered completely by accident. However, it begins to emit a large number of Schmigs bosons, which noticeably increase the mass of all surrounding objects and equipment.</color>
+100	Transcendental Shield Generator II
+101	Transcendental Shield Generator III
+102	Transcendental Droid
+103	Transcendental Droid I
+104	<color=248,252,248>During testing of this droid, a side effect that improves its operation was discovered completely by accident. However, it begins to emit a large number of Schmigs bosons, which noticeably increase the mass of all surrounding objects and equipment.</color>
+105	Transcendental Droid II
+106	Transcendental Droid III
+107	Transcendental Scanner
+108	Transcendental Scanner I
+109	<color=248,252,248>During testing of this scanner, a side effect that improves its operation was discovered completely by accident. However, it begins to emit a large number of Schmigs bosons, which noticeably increase the mass of all surrounding objects and equipment.</color>
+110	Transcendental Scanner II
+111	Transcendental Scanner III
+112	Transcendental Radar
+113	Transcendental Radar I
+114	<color=248,252,248>During testing of this radar, a side effect that improves its operation was discovered completely by accident. However, it begins to emit a large number of Schmigs bosons, which noticeably increase the mass of all surrounding objects and equipment.</color>
+115	Transcendental Radar II
+116	Transcendental Radar III
+117	Transcendental Fuel Tank
+118	Transcendental Fuel Tank I
+119	<color=248,252,248>During testing of this fuel tank, a side effect that improves its operation was discovered completely by accident. However, it begins to emit a large number of Schmigs bosons, which noticeably increase the mass of all surrounding objects and equipment.</color>
+120	Transcendental Fuel Tank II
+121	Transcendental Fuel Tank III
+122	Transcendental Gripper
+123	Transcendental Gripper I
+124	<color=248,252,248>During testing of this gripper, a side effect that improves its operation was discovered completely by accident. However, it begins to emit a large number of Schmigs bosons, which noticeably increase the mass of all surrounding objects and equipment.</color>
+125	Transcendental Gripper II
+126	Transcendental Gripper III
+127	Symbiotic Shield Generator
+128	Symbiotic Shield Generator I
+129	<color=248,252,248>Symbiotic equipment was created through the joint efforts of <clr>maloq<clrEnd> and <clr>peleng<clrEnd> scientists who tried to compensate for their races' technological lag by using a unique system of relationships between all kinds of biota and the ship's various components. At the creation stage a biogenic droid was used as a permanent experimental sample, whose characteristics were transferred with mixed success into the tested devices. Such equipment lasts longer and improves the impression others have of its owner as an adherent of an exotic trend in engineering thought and simply a responsible owner. However, your "little charges" are rather sensitive to changes in the "environment", which is your ship, and so perform their functions very reluctantly during active combat in space. As a result you have to look for a compromise and assess the surrounding situation more carefully.</color>
+130	Symbiotic Shield Generator II
+131	Symbiotic Shield Generator III
+132	Symbiotic Engine
+133	Symbiotic Engine I
+134	Symbiotic Engine II
+135	Symbiotic Engine III
+136	Symbiotic Fuel Tank
+137	Symbiotic Fuel Tank I
+138	Symbiotic Fuel Tank II
+139	Symbiotic Fuel Tank III
+140	Symbiotic Scanner
+141	Symbiotic Scanner I
+142	Symbiotic Scanner II
+143	Symbiotic Scanner III
+144	Symbiotic Radar
+145	Symbiotic Radar I
+146	Symbiotic Radar II
+147	Symbiotic Radar III
+148	Symbiotic Gripper
+149	Symbiotic Gripper I
+150	Symbiotic Gripper II
+151	Symbiotic Gripper III
+152	Nanobrolite Gripper
+153	Nanobrolite Gripper I
+154	Nanobrolite Gripper II
+155	Nanobrolite Gripper III
+156	Nanobrolite Radar
+157	Nanobrolite Radar I
+158	Nanobrolite Radar II
+159	Nanobrolite Radar III
+160	Nanobrolite Fuel Tank
+161	Nanobrolite Fuel Tank I
+162	Nanobrolite Fuel Tank II
+163	Nanobrolite Fuel Tank III
+164	Nanobrolite Scanner
+165	Nanobrolite Scanner I
+166	Nanobrolite Scanner II
+167	Nanobrolite Scanner III
+168	Monopsonic Engine
+169	Monopsonic Engine I

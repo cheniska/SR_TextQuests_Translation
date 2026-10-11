@@ -1,0 +1,54 @@
+173	Monopsonic Engine II
+174	Monopsonic Engine III
+175	Monopsonic Shield Generator
+176	Monopsonic Shield Generator I
+177	Monopsonic Shield Generator II
+178	Monopsonic Shield Generator III
+179	Monopsonic Fuel Tank
+180	Monopsonic Fuel Tank I
+181	Monopsonic Fuel Tank II
+182	Monopsonic Fuel Tank III
+183	Monopsonic Radar
+184	Monopsonic Radar I
+185	Monopsonic Radar II
+186	Monopsonic Radar III
+187	Monopsonic Scanner
+188	Monopsonic Scanner I
+189	Monopsonic Scanner II
+190	Monopsonic Scanner III
+191	Monopsonic Droid
+192	Monopsonic Droid I
+193	Monopsonic Droid II
+194	Monopsonic Droid III
+195	Monopsonic Gripper
+196	Monopsonic Gripper I
+197	Monopsonic Gripper II
+198	Monopsonic Gripper III
+199	Polymorphic Engine
+200	Polymorphic Engine I
+204	Polymorphic Engine II
+205	Polymorphic Engine III
+206	Polymorphic Fuel Tank
+207	Polymorphic Fuel Tank I
+208	Polymorphic Fuel Tank II
+209	Polymorphic Fuel Tank III
+210	Polymorphic Scanner
+211	Polymorphic Scanner I
+212	Polymorphic Scanner II
+213	Polymorphic Scanner III
+214	Polymorphic Radar
+215	Polymorphic Radar I
+216	Polymorphic Radar II
+217	Polymorphic Radar III
+218	Polymorphic Droid
+219	Polymorphic Droid I
+220	Polymorphic Droid II
+221	Polymorphic Droid III
+222	Polymorphic Gripper
+223	Polymorphic Gripper I
+224	Polymorphic Gripper II
+225	Polymorphic Gripper III
+226	Polymorphic Shield Generator
+227	Polymorphic Shield Generator I
+228	Polymorphic Shield Generator II
+229	Polymorphic Shield Generator III
