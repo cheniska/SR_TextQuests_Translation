@@ -1,0 +1,96 @@
+1	In addition, we are studying the effect of black holes.
+2	Hull "Assassin"
+3	Hull "Rock"
+4	Hull "Bolide"
+5	Fast Hull I-IV
+6	Invincible Hull I-IV
+7	Repair Hull I-IV
+8	Myoplasmic Hull I-IV
+9	Pygamore Hull I-IV
+10	Myoplasmic Fuel Tank I-III
+11	Myoplasmic Engine I-III
+12	Myoplasmic Radar I-III
+13	Myoplasmic Scanner I-III
+14	Myoplasmic Droid I-III
+15	Myoplasmic Gripper I-III
+16	Myoplasmic Shield Generator I-III
+17	Pygamore Fuel Tank I-III
+18	Pygamore Engine I-III
+19	Pygamore Radar I-III
+20	Pygamore Scanner I-III
+21	Pygamore Droid I-III
+22	Pygamore Gripper I-III
+23	Pygamore Shield Generator I-III
+24	Transcendental Engine I-III
+25	Upgraded Gripper I-III
+26	Upgraded Shield Generator I-III
+27	Upgraded Engine I-III
+28	Upgraded Fuel Tank I-III
+29	Upgraded Radar I-III
+30	Upgraded Scanner I-III
+31	Biogenic Droid I-III
+32	Nanobrolite Droid I-III
+33	Nanobrolite Engine I-III
+34	Nanobrolite Shield Generator I-III
+35	Ultra-alloy Scanner I-III
+36	Ultra-alloy Radar I-III
+37	Ultra-alloy Fuel Tank I-III
+38	Ultra-alloy Gripper I-III
+39	Kind Lyakusha I-IV
+40	Peaceful Corsair I-IV
+41	Honest Renegal I-IV
+42	Lightning I-IV
+43	Ironclad I-IV
+44	Dumbo I-IV
+45	Tick: combat mode
+46	Humans, barely having seen the prototype of this hull at the galactic black hole research conference, immediately christened it the "Tick". The name proved apt and instantly stuck to the hull
+47	The only drawback of this almost perfect transformer ship is that all the hull's key openings are too close together. Thus,
+48	in <color=220,20,20>attack</color> mode the armor plates slide back from the gun bay, partly blocking the engine exhaust nozzles, which causes a slight drop in its power, but increases the damage dealt.
+49	Tick: protective mode
+50	in <color=20,220,20>defense</color> mode the armor plates slide forward, narrowing the gun embrasures, which makes the targeting system's work much harder, since it can no longer effectively find the enemy's weak points, which substantially reduces the damage dealt and slightly the firing range, while increasing protection
+51	Tick: speed mode
+52	in <clr>hybrid<clrEnd> mode the armor plates spread slightly to the sides, which raises engine speed without hampering the gun targeting system, but increases the damage taken.
+53	Applicant
+54	A citizen who has completed the secondary education strictly established on Coalition territory. Ready to master the material given appropriate preparation.
+55	Student
+56	The lowest academic degree in galascience. Despite loud statements about the need to "advance science with students", the students themselves know the work schedule of food industry enterprises far better than definite integrals.
+57	Bachelor
+58	The second academic degree in galascience. Not very significant but, together with seniority, it can make it possible to obtain a high post at some university on any agrarian planet.
+59	Master
+60	On the whole, this is already a finished specialist who can be assigned to responsible work, but his experience and applied knowledge are still rather scant.
+61	Docent
+62	An already experienced specialist entitled to teach his core disciplines in theoretically any educational institution of the Inhabited Arm.
+63	Candidate of Science
+64	A rationalist and master of scientific explanation. Able to devise a plausible theory for any riddle of creation, from the mystery of sugar constantly vanishing from the department to the phenomenon of endless student laziness, feeble-mindedness, and courage.
+65	Doctor of Science
+66	Knows almost everything about almost everything but, most importantly, can explain it on his fingers to nearly any humanoid. An honorary title that not every specialist has the strength and desire to earn.
+67	Professor
+68	A proponent of the boldest, up to the point of sheer absurdity, theories and ideas. Without him the galaxy would not know such unimaginable theories as the "Theory of Bringability", the "String and Fret Theory", the "Big Fizzle Theory"<br>Fortunately, it was satirists who christened them so, not colleagues.
+69	Galascientist
+70	An honorary member of the Galactic Academy of Sciences, an unquestioned authority. His word is law for any wearer of a white coat, even if he is a maloq and his word is "AGHHHRRR!!!"
+71	black holes
+72	<br><clr><clrEnd><br>The highest scientific title that can be awarded to a mere humanoid.
+73	black hole
+74	<br><clr><clrEnd><br>To receive the next academic degree you must proceed to the nearest research station.
+75	black holes
+76	<br><clr><clrEnd><br>To receive the next academic degree you must study <Holes> more <HolesDeclension>.
+77	For your merits in studying the phenomenon of "black holes", you, <Player>, are awarded the academic degree #0#<br>#2#<br>#1#<br>#2#<br>And as a pleasant addition to your new title we present you with #3#.
+78	Your ship's AI has assessed the current situation as safe and switched to <0> mode.
+79	Your ship's AI has assessed the current situation as close to critical and switched to <0> mode.
+80	What effect would you like to try to apply to <0>?<br>At the moment the chances of obtaining a given acryn level are as follows:<br>First level - <1>%<br>Second level - <2>%<br>Third level - <3>%
+81	The Acryn Technologies Research Department is the vanguard of scientific thought in this field. Even despite sabotage and opposition from various anti-scientific sects and antigovernment groups, we equip the Coalition troops with ever more powerful acryns.<br><br>Your nan account currently stands at <0><br><br>Here is a list of operations we can offer you for use:
+82	Acrynation experiment
+83	Deacrynation experiment
+84	Your ship's AI has assessed the danger of the current situation as acceptable and switched to <0> mode.
+85	Hand over unidentified equipment
+86	Choose another item for acrynation
+87	The experiment was unsuccessful, and <0> was destroyed.<br>Don't say you weren't warned of this possibility.<br>As consolation I can say that a negative result is also a result. We did learn something, and in the future the chance of success will already be <1>%.<br>The chances of obtaining a higher-level acryn have also risen somewhat:<br>First level - <2>%<br>Second level - <3>%<br>Third level - <4>%
+88	The experiment was successful, and you receive <0> <1>.<br>Moreover, we have learned something, and in the future the chance of success will already be <2>%.<br>The chances of obtaining a higher-level acryn have also risen somewhat:<br>First level - <3>%<br>Second level - <4>%<br>Third level - <5>%
+89	I have no items of unidentified origin in my hold
+90	The following equipment of unknown origin is in your hold, of huge scientific interest to us:<br><0><br>
+91	I couldn't have hoped for more!<br>I've dreamed of this since the first time I got beaten up at school and my glasses were broken
+92	So how can I help you in studying the Black Holes?
+93	You see, we are currently engaged in researching black holes and... Yes, yes, I know we have a war with the dominators and all forces must be thrown into studying these steel fellows, but believe me - everything is under control. Most scientists still work on the dominator problem, and small groups are conducting research in other areas now. This approach lets us keep advancing along the path of scientific and technological progress even during a global galactic war. So, as I said, we are studying black holes. The Coalition encountered this phenomenon quite a long time ago, even before the klissan war, but we still know practically nothing about them. And the main reason is the almost complete lack of material - we simply have nothing to study. Nobody is particularly eager to climb into holes, because it's insanely dangerous: the laws of physics of the normal world don't work there, there are hyperspace clots - each hole leads into one of them - a completely unpredictable place, and we know absolutely nothing about the mysterious ships that live there. In a word, it's no easy job. And so we decided that the best way in this situation would be to hire rangers and other free pilots. They would bring us material, and we would pay rewards, and those who especially distinguish themselves could even be given scientific degrees. Who knows, maybe someday the Galactic Academy of Sciences will be headed by one of the rangers?<br>So, what do you say? Do you want to join our black hole research task force?
+94	Well... if not, then not. However, the offer stands. If you decide to help us, the doors are always open... That's figurative, in case. We have airlocks here and they're always shut, but for you we'll open them.
+95	No, let's do without such experiments for now, okay?<br>Better start bringing us material. The more actively you explore wormholes, the sooner you'll receive scientific degrees, and with them access to new, secret technologies, valuable gifts, and of course social benefits. Didn't you know? We even have a dentist.
+96	Acryn Technologies Department

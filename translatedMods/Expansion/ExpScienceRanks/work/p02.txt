@@ -1,0 +1,53 @@
+97	Why not? I've been a science fan since childhood. Once in chemistry class at school I tried to mix a compound that would give me superpowers... It didn't really work out that time, but now, with my current knowledge and your equipment...
+98	No, you know, it's not for me. I specialize more in dominators, or at worst in pirates
+99	Black Hole Research
+100	, but you can choose the effect type
+101	, as well as the effect type
+102	Manual control of Tick modes
+103	Manual control mode: <0>
+104	Turn off
+105	Turn on
+106	And now the most important part.<br>This is top-secret information, but it is thanks to You that we have managed to make such incredible progress in studying the technologies of unknown ships from hyperspace.<br>That is why You are honored to become the test pilot of a ship developed on the basis of these technologies. <br>It is assembled almost entirely from materials obtained in black holes, which made it possible to achieve a <clr>compatibility effect<clrEnd> with certain artifacts, previously unavailable to ordinary hulls.<br>The unique feature of this ship is its movable armor. It is a <clr>transformer ship with advanced AI<clrEnd>. It constantly monitors many parameters and reacts almost instantly to changes in the situation.<br>There are <clr>three modes<clrEnd>:<br><br>In<clr> attack <clrEnd>mode the armor plates slide back from the gun bay, partly blocking the engine exhaust nozzles, which causes a slight drop in its power, but increases the damage dealt.<br><br>In<clr> defense <clrEnd>mode the armor plates slide forward, narrowing the gun embrasures, which makes the targeting system's work much harder, since it can no longer effectively find the enemy's weak points, which substantially reduces the damage dealt and slightly the firing range, while increasing protection.<br><br>In <clr>hybrid <clrEnd>mode the armor plates spread slightly to the sides, which raises engine speed without hampering the gun targeting system, but makes the repair droid's work harder.
+107	The experiment was unsuccessful, and <0> was destroyed.<br>Don't say you weren't warned of this possibility.<br>As consolation I can say that a negative result is also a result. We did learn something, and in the future the chance of success will already be <1>%.
+108	The experiment was successful, you receive <0>, and your personal nan account is topped up with the weight of the removed acryn: <1>. <br>Moreover, we have learned something, and in the future the chance of success will already be <2>%.
+109	Very well, but note that this is not a service but precisely an experiment. So no <clr>claims<clrEnd> regarding its results <clr>will be accepted<clrEnd>. <br>-----------------------------------------------<br>There is a considerable <clr>probability<clrEnd> that in the attempt to remove acryn from the equipment it <clr>may be destroyed<clrEnd>. <br>We currently estimate the chance of a successful result at <0>%<br>-----------------------------------------------<br>Perhaps <clr>in time<clrEnd> we will manage to work out the necessary patterns, and <clr>the process will become more controlled<clrEnd>.<br>-----------------------------------------------<br>Don't forget that, because some elements are removed, the equipment's weight and price <clr>decrease by 10%<clrEnd>.
+110	The experiment was successful, and you receive <0>.<br>Moreover, we have learned something, and in the future the chance of success will already be <1>%.<br>The chances of obtaining a higher-level acryn have also risen somewhat:<br>First level - <2>%<br>Second level - <3>%<br>Third level - <4>%
+111	Despite the war with the dominators that has begun, because of which many specialists have moved to developing anti-dominator programs, our department continues its work studying life forms unknown to the Coalition and their technologies. If you managed to pick up any specimen of such, we ask you to hand it over to us as soon as possible.<br>The weight of the handed-over equipment is credited to your <clr>personal nan account<clrEnd> at a 1:1 ratio, and from this account you can pay for experiments in <clr>applying acryn<clrEnd>, <clr>removing acryn<clrEnd> from equipment, and more.<br><br>State of your nan account: <0> nan
+112	Very well, but note that this is not a service but precisely an experiment. So no <clr>claims<clrEnd> regarding its results <clr>will be accepted<clrEnd>.<br>-----------------------------------------------<br>There is a considerable <clr>probability<clrEnd> that in the attempt to apply acryn to the equipment it <clr>may be destroyed<clrEnd>.<br>We currently estimate the chance of a successful result at <0>%<br>-----------------------------------------------<br>Also, the <clr>effect level<clrEnd> is not always predictable<1>.<br>At the moment the chances are as follows:<br>First level - <2>%<br>Second level - <3>%<br>Third level - <4>%<br>-----------------------------------------------<br>The <clr>cost<clrEnd> of one experiment also depends on our progress in this field. But don't flatter yourself: the higher the acryn level we are able to apply to the equipment, the more will be deducted from your account.<br>The cost of an experiment is currently <5> nan, and you have <6> on your account.<br>-----------------------------------------------<br>Perhaps <clr>in time<clrEnd> we will manage to work out the necessary patterns, and <clr>the process will become more controlled<clrEnd>.<br>-----------------------------------------------<br>So far we have conducted <7> acrynation experiments.<br>-----------------------------------------------<br>Don't forget that, because new elements are installed, the equipment's weight and price <clr>increase by 10%<clrEnd>. To clarify, this difference is calculated relative to standard equipment with the same acryn but applied during the equipment's manufacture, so the equipment itself <clr>may become<clrEnd> even heavier and costlier to maintain if the applied acryn increased weight and cost in standard production.
+113	Thank you for your cooperation, <Player>! We are delighted by your interest in scientific research, please accept these <0> cr. as compensation for the risk. Also, under our tariff, after handing in <1> tons of equipment, your personal nan account stands at <2> nan.<br>Here is a list of what else interests us:<br><br><3><br>
+114	Thank you for your cooperation, <Player>! We are delighted by your interest in scientific research, please accept these <0> cr. as compensation for the risk. Also, under our tariff, after handing in <1> tons of equipment, your personal nan account stands at <2> nan.
+115	Hybrid
+116	Defense
+117	Attack
+118	on
+119	off
+120	Sorry, but we found no suitable acryns for this equipment. It is probably simply impossible to acrynate it.
+121	You have already explored <0> Black Holes and are therefore nominated for the new academic degree <1>.<br>A solemn ceremony and the presentation of a gift will be arranged for you at any research station.<br>Until then, the count of Black Holes you have explored is suspended.
+122	Glad to serve progress!
+123	(equipped)
+124	(Unique items cannot be acrynated)
+125	(Klissan organs cannot be acrynated)
+126	(Equipment of unknown manufacture cannot be acrynated)
+127	(Equipment with such an MM cannot be acrynated)
+128	<clr>Nans<clrEnd> - Nameless Analyzable Nugget - an abbreviation that came from small finds, not the kind you bring us now - equipment weighing tens of tons. At some point it became customary to take the nan as the conventional unit in research and to measure the value of material in nans.<br><br>The structure of equipment of unknown manufacture is extremely interesting to us, and their artifacts even more so, so we pay them close attention and value them highly.<br><br>A side result of our department's research has been developments in acrynation and deacrynation - it turned out that on unknown equipment the acryn elements are distributed, by the algorithms built into the equipment's programs, in such a way that removing the modification becomes possible after initiating a couple of commands!<br>Applying this principle, including in reverse, made it possible to "bring together" acryn and place it on equipment.<br><br>You pay for participation in such experiments precisely with <clr>nans<clrEnd>
+129	Hand in nans to the account (<0> t.)
+130	And what are nans, anyway?
+131	Fascinating. Thanks for the story.
+132	Detriment
+133	Quickshot
+134	Rocket-Launcher
+135	Speed-Drop
+136	Strike
+137	Glu
+138	Energize
+139	(Dominator weapons cannot be acrynated)
+140	Unfortunately, we found nothing aboard your ship that could interest us
+141	Which of these items do you intend to hand over to our department?
+142	(There is no acrynation base for non-standard items)
+143	Leave the department
+144	Acrynation experiment (raise your scientific rank)
+145	x4
+146	Take it
+147	Take all the unknown equipment
+148	Info box for hiding the scientific rank image on other ships on the 'Ship' form (if not the player)
+149	Info box for the Tick bonuses in BH
