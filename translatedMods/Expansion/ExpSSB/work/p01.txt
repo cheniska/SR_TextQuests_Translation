@@ -1,0 +1,65 @@
+1	The Blinker's fragile hull cracked in the midst of battle. The device no longer functions.
+2	The Blinker had already been working intermittently for quite a long time, but today it finally broke down for good.
+3	Blinker
+4	MessageBox('The artifact will not withstand activation, repair is required.');
+5	MessageBox('The fuel tank will not withstand the load.');
+6	MessageBox('The engine will not withstand the load.');
+7	MessageBox('There is no fuel tank on the ship.');
+8	MessageBox('There is no engine on the ship.');
+9	MessageBox('Not enough charge.');
+10	A space-time energy converter capable of creating "tunnels of absolute nothing". It runs on the dark energy of the universe, not yet fully studied by scientists. However, thanks to a built-in transformer, it can also charge from a standard power generator when installed on a ship. When installed on a ship, the charge replenishes 2 times faster.
+11	When used in space, creates a "tunnel" <Data1> million km long in which space-time in the classical sense is completely absent. Travel through this "tunnel" takes no time, but the "absolute nothing" creates a powerful negative thrust, as a result of which the engine and tank have to work at the limit of their capabilities.
+12	An enemy shot hit the holoprojector directly, knocking the device out of action.
+13	The holoprojector has served out its warranty norm. The device needs repair.
+14	Holoprojector
+15	A solid hologram projector equipped with a super-powerful quantor scanner. It can create dense holographic copies even of very large objects. The charge replenishes only when installed on a ship. It is powered by the main power generator.
+16	When used in space, creates copies of the parent ship that serve to distract the enemy. The lifetime of the holograms and their number depend on the charge.
+17	Accumulated charge: <Data1> / <color=255,240,100>1000</color>
+18	The Pulsar's construction could not withstand the overloads of space combat. The device is unfit for use and needs repair.
+19	The Pulsar's software provoked the creation of a side time vortex, which caused a closed chrono-collapse in the device. A software update and restoration of the normal temporal flow are required.
+20	Pulsar
+21	MessageBox('The Pulsar is synchronized with other equipment.');
+22	MessageBox('The Pulsar will not withstand the load, repair is required.');
+23	if(MessageBoxYesNo('Activate protection mode?'))
+24	A dark energy reactor operating on the principle of unfolding subspaces and finding time reserves that contradict the chronometry of space. The experimental specimen accelerates the course of physical processes in an enclosed volume, thereby raising the operation of almost any device to a qualitatively new level. When installed on a ship, the charge replenishes 2 times faster.
+25	Use: projects the ship's structure into other probabilistic outcomes of the Universe, selecting the most vulnerable parts and scanning their future, which lets it bypass cause-and-effect relationships and unnaturally increase hull protection.
+26	Charge: <Data1>/<color=255,240,100>2000</color>
+27	Feeds the pulsar charge to EQP, increasing effectiveness by VAR. EQP wears out quickly in the process.
+28	Feeds the pulsar charge to the installed weapons, increasing damage by 60%. The equipment wears out quickly in the process.
+29	Get updated data
+30	<0><br>Which artifact would you like to hand in for study?
+31	I have no unneeded artifacts
+32	Thank you for your cooperation. For <0> tons of artifacts you receive <1> cr.
+33	Upgrade an artifact
+34	I won't upgrade anything
+35	Find out the results of the probe research
+36	Hand in the surviving wreckage of hyperspace probes
+37	Take all the unneeded artifacts
+38	 (tranc)
+39	</color>Artifact type:             studied on:
+40	Yes, yes, we were expecting you. Unfortunately, we did not manage to learn much: the equipment did not survive the quantum modulation we subjected it to. However, we did manage to recover some information from the probes' memory blocks. This data most resembles a planned route; it lists the coordinates of star systems and time frames.
+41	<color=255,0,0>Mission failed.</color>
+42	Research station <0> destroyed
+43	Message from research station <0>: probe research complete.
+44	Having successfully dealt with the probes that attacked you in hyperspace, you picked up their surviving parts aboard your ship. The undamaged equipment can be delivered to a research station to find out the reasons for the probes' aggression. Or you can sell it for parts, why bother!
+45	You claim to have been attacked by probes in hyperspace? That is really interesting, usually either pirates or so-called "aliens" operate there. Thank you so much for giving us a new puzzle, ranger! We will do everything possible to solve it. I think first integral-corpuscular scanning, then...<br>Ah, sorry, I got sidetracked. Come back in a few days, we will surely be able to tell you more about this interesting phenomenon!
+46	Yes, yes, we were expecting you. Unfortunately, we did not manage to learn much: the equipment did not survive the quantum modulation we subjected it to. However, we did manage to recover some information from the probes' memory blocks. This data most resembles a planned route; it lists the coordinates of star systems and time frames.<br>The last coordinates point to the <0> system, while the time interval attached to them ends in a few weeks. We can tell you nothing more, <1>.<br>If I were you, I would definitely visit this star system before the deadline expires. Whatever is there, it must be of enormous scientific importance!
+47	Changed my mind
+48	Leave
+49	<color=0,255,0>Mission completed.</color><br>Having successfully dealt with the probes that attacked you in hyperspace, you picked up their surviving parts aboard your ship. The undamaged equipment can be delivered to a research station to find out the reasons for the probes' aggression. Or you can sell it for parts, why bother!
+50	Then I'm heading there immediately
+51	Yes, yes, we were expecting you. Unfortunately, we did not manage to learn much: the equipment did not survive the quantum modulation we subjected it to. However, we did manage to recover some information from the probes' memory blocks. This data most resembles a planned route; it lists the coordinates of star systems and time frames.<br>The last coordinates point to the <0> system, while the time interval attached to them ends in a few weeks. We can tell you nothing more, <1>.<br>If I were you, I would definitely visit this star system before the deadline expires. Whatever is there, it must be of enormous scientific importance!
+52	I'd like to use the services of your base
+53	Tick modernization
+54	<clrEnd>You have not yet helped in the study of artifacts.
+55	, will close:
+56	Help with defense
+57	</color>The communicator charge is not enough to open a black hole.
+58	</color>Our probes stumbled upon something valuable, but unknown ships are interfering with them. Deal with it.
+59	Good. And thanks to your supplies of additional material we made one more discovery. As thanks, allow me to present you with a unique artifact created with the new technologies.
+60	Subspace travel
+61	We have not studied this type of equipment. Bring more artifacts for research.
+62	Which micromodule would you like to use for the combination?
+63	You have chosen <0> and micromodule <1> for the combination. Is that right?
+64	Equipment of unknown origin is usually incompatible with micromodules because of technology conflicts, but with artifacts the conflict is noticeably lower, which is why they partly work on our equipment. The more of the artifacts you bring we study, the more we can offer.<br>Choose the equipment of unknown origin to combine with the micromodule.
+65	</color>Your communicator does not have enough charge to open the hypertunnel.

@@ -1,0 +1,50 @@
+66	What an interesting specimen. No scanners - biotic, mental, or technological - could detect any anomalies. Flawless work... It is great luck that we managed to capture the object alive. Perhaps an autopsy can show how the Aliens managed to create such a perfect camouflage system.
+67	Incredible! The object can speak Galalingua! Double luck that it is alive! Perhaps we can establish contact, how much we could learn from it! I'm afraid, colleagues, the autopsy is postponed a little. Security, take the object to the isolation chamber!
+68	Hmm... A record of such a ranger does exist, and your biometric readings match completely. Fine, let's suppose so, but that doesn't explain your strange ship.
+69	Stop-stop-stop, what autopsy?!
+70	I'm not going to any chamber, egghead! I'm no "alien", I'm very much "one of yours" - I'm an ordinary ranger!
+71	A thousand penchekryaks! My name is <0>, request the information from the Ranger Center Network.
+72	The Research Station Network launched a black hole research project, and this hull was the result of the research. I received an experimental specimen as thanks for helping to obtain materials.
+73	You were going to wipe my memory?!
+74	Well, that's good news, of course. And since you're so secretive, how can I find you if I need to?
+75	A ranger? How interesting... I'm afraid your ship says otherwise. The materials it is built from and the technologies used in it are unavailable to the Coalition, much less to ordinary rangers.
+76	Hm, strange, we received no information about research in this direction being conducted by ordinary scientific units. Perhaps it is simply an initiative "in the field" that was saved by the participation of rangers like you. The ship looks quite interesting nonetheless. We should probably make contact at the next connection with normal space and clarify this matter.<br><br>Still, this is... probably good. Memory erasure is a painful procedure.
+77	Of course. Do you even have any idea where you are? This base is a secret government facility, only a chosen few know of our existence, even the top brass are not all aware. We must guard our secrecy, and you should be thankful we have this technology, otherwise we would have had to eliminate all random pilots. You're lucky, we won't be doing that with you. I think you will be able to help us one way or another, especially now, when most of our probes have been destroyed. By the way, do you know what happened to them? No? Well, anyway, our defenses are now greatly weakened, and in the event of a new attack any help will come in handy.
+78	Object <clr>X-24&1/2<clrEnd> online.
+79	We can replace old parts with more compact and reliable ones, as a result of which the artifact's weight and wear will decrease, but the price will double.<br>Here is a list of what we can improve:<br><0>
+80	But this service is not free, some of the generator's parts are irretrievably destroyed in operation. Our costs will be about <0> cr.<br>So, shall we start preparing your transfer? It won't take long.
+81	Get information on open black holes
+82	</color>No hyperspace anomalies detected.
+83	<clrEnd>Anomalies detected in the following systems:
+84	<clrEnd>Return to subspace is scheduled in one day. If you don't want to end up in hyper for the next couple of months, I advise you to hurry.
+85	<clrEnd>Return to subspace is scheduled in two days. If you don't want to end up in hyper for the next couple of months, I advise you to hurry.
+86	<clrEnd>Return to subspace is scheduled in three days. If you don't want to end up in hyper for the next couple of months, I advise you to hurry.
+87	Excellent. We will issue you a special communicator, with which you will be able to reach our station from anywhere in the galaxy. Though it does need some time to recharge. As a reward for cooperation, our station will give you access to a number of unique services. Rest assured, our specialists really can work wonders, you won't be disappointed.<br>So, we have an agreement. Most important, remember: it is strictly forbidden to disclose information about our existence. If a leak does occur, we will have no choice but to end our cooperation and wipe the memory of you and of everyone who learns of our existence. Believe me, we like such an outcome no more than you do.
+88	Leave the base
+89	</color>The hyperspace tunnel is open, we will wait for you for three days.
+90	Thank you for your help in studying unknown equipment, as compensation receive <0> cr. for the lost artifact.
+91	<clrEnd>You are at the Subspace Base. Our location is strictly confidential, since the most outstanding minds from across the Galaxy conduct their research here, which gives the station truly priceless significance. Would you like to help our scientific research by sharing artifacts? Or perhaps you would like to make your non-standard equipment more wear-resistant? You could also act as a tester of our most secret and newest technologies.
+92	<color=0,255,0>Mission completed.</color><br>Yes, yes, we were expecting you. Unfortunately, we did not manage to learn much: the equipment did not survive the quantum modulation we subjected it to. However, we did manage to recover some information from the probes' memory blocks. This data most resembles a planned route; it lists the coordinates of star systems and time frames. The last coordinates point to the <0> system, while the time interval attached to them ends in a few weeks. We can tell you nothing more, <1>. If I were you, I would definitely visit this star system before the deadline expires. Whatever is there, it must be of enormous scientific importance!
+93	If I were you, I would definitely visit this star system before the deadline expires. Whatever is there, it must be of enormous scientific importance!
+94	The last coordinates point to the <0> system, while the time interval attached to them ends in a few weeks. We can tell you nothing more, <1>.
+95	Combine equipment with a micromodule
+96	How is the research going?
+97	Hand in an artifact for study
+98	All types
+99	You have selected:<br>Artifact name: <0>.<br>Artifact weight: <1> t.<br>Artifact price: <2> cr.<br>Artifact type: <3>.
+100	Decline
+101	Confirm
+102	The subspace transition is prepared. To which system shall we transfer you?
+103	We can modernize your Tick's hull to the current technological level. The work will cost you cost cr. Shall we proceed?
+104	For automatic destruction of hologram tranclucators (hidden)
+105	Hologram
+106	To zero out damage from hologram tranclucators, damn it (hidden)
+107	Makes the ship completely invulnerable in battle, so that its health does not fall below 1 and ShipDestroy() markers have no effect on it
+108	Object
+109	SSB
+110	Wreckage of unidentified probes
+111	Everything you managed to find after the strange attack of the probes.
+112	Subspace communicator
+113	MessageBox('The subscriber is not responding. It seems something is interfering with the signal.');
+114	A powerful transmitter capable of sending a signal into hyperspace. Used to establish direct communication with <color=255,240,100>Object X24 - 0.547</color>.
+115	Charge power: <ChargePercent><color=255,240,100>%</color>
