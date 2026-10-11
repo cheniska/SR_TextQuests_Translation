@@ -1,0 +1,140 @@
+1406	Maybe another time
+1407	Take <clr>"Expirin"<clrEnd> [<clr>pay from the organization's budget<clrEnd>]
+1408	Take <clr>"Expirin"<clrEnd> [<clr>pay out of your own pocket<clrEnd>]
+1409	Treat me completely
+1410	Treat me for <Disease>
+1411	Don't chicken out, boss. We'll have you on your feet in no time...
+1412	There, now you're like new! Alternative medicine works wonders, huh? If you catch some ailment again - you know where to go.
+1413	Don't chicken out, chief. We'll have you on your feet in no time!
+1414	Well, <Disease> is gone, but you're still sick. Shall we keep treating, boss?
+1415	List of remaining diseases and viruses:
+1416	It's your call, of course, boss, but you'd better not let it slide. Otherwise you could kick the bucket.
+1417	Another time, then. This stimulant isn't quite stable yet anyway. And we haven't identified all the side effects yet...
+1418	The <clr>"Expirin"<clrEnd> stimulant is the last word in optimizing brain neuron activity. Its main effect is an overall improvement in memory and learning ability of the user.
+1419	And in plain terms, you'll gain <clr><Percent>%<clrEnd> more experience for any of your actions. The stimulant lasts <Duration> months. It can be taken no more than once <clr>a year<clrEnd>, otherwise you'll turn into a talking machine, and we don't need a home-grown Dominator in the boss's chair. The synthesis cost of one dose, by the way, is quite high - <Cost> cr., but we can't cut costs any further - it's unsafe.
+1420	No, boss, sorry, but it's too early for you to take a new dose. Less than a <clr>year<clrEnd> has passed since the previous stimulant, and if you take <clr>"Expirin"<clrEnd> more often, the excess load on the brain could lead to irreversible mass degradation of neurons.
+1421	Sorry, boss, but you're already overloaded with various substances like <clr>Oogi-zborn<clrEnd>. A little more and you'll turn into a walking stimulant yourself, and we need you more in the role of chief.
+1422	Done. The <clr>"Expirin"<clrEnd> stimulant has been successfully injected into your body, how do you feel? Headache? Any zeros and ones before your eyes? Great, so these side effects no longer show up. But if you suddenly feel something wrong - tell me right away.
+1423	Enter a prefix for the mercenaries' names
+1424	What limit of mercenaries ready to launch should be set?
+1425	As you say, boss. We won't keep more than <NewLimit> mercenaries on standby.
+1426	As you say, boss. So we're <clr>no longer limiting<clrEnd> the preparation of mercenaries for launch.
+1427	As you say, boss. We <clr>won't keep<clrEnd> any more mercenaries ready to launch. But bear in mind that in case of an attack on the system we'll be defenseless, and there'll be nobody to send on big orders now.
+1428	What limit of mercenaries on free sorties should be set?
+1429	As you say, boss. We won't send more than <NewLimit> mercenaries out on "free roam".
+1430	As you say, boss. So we're <clr>no longer limiting<clrEnd> the hiring of mercenaries for "free roam".
+1431	As you say, boss. We <clr>won't send<clrEnd> any more mercenaries out on "free roam".
+1432	What limit of reserve mercenaries should be set?
+1433	As you say, boss. We won't keep more than <NewLimit> mercenaries in reserve.
+1434	As you say, boss. So we're <clr>no longer limiting<clrEnd> the recruitment of mercenaries into reserve.
+1435	As you say, boss. We <clr>won't keep<clrEnd> any more mercenaries in reserve. But bear in mind that if we run short of people, we'll have nowhere to get new ones.
+1436	developed planet
+1437	developed planets
+1438	What exactly would you like to know, boss?
+1439	I want to limit the maximum number of mercenaries on combat duty
+1440	I want to limit the maximum number of free mercenaries
+1441	I want to limit the maximum number of our reservists
+1442	I'm interested in changing the name of our falcons
+1443	How many fighters do we have under our command?
+1444	Tell me more about recruitment
+1445	Thanks for the information
+1446	<clr>Current statistics of active mercenaries:<clrEnd>
+1447	- On free earnings: <MercsOnFreeEarnings> ships
+1448	- On combat duty: <MercsAtReady> ships
+1449	- In the strike group: <MercsStrike> of <MercsMaxStrike> ships
+1450	- Bored in reserve: <MercsReserve> guys
+1451	We recruit newcomers only from the planets of the <HQStar> system, and only because we have official permission from the local authorities. Since there are only <PlanetsCount> <DevelopedPlanets> in the system, in <DaysCount> days we manage to train <TrainMercsCount>.
+1452	I also draw your attention to the fact that if you decide to expand the HQ and raise it to a <clr>new level<clrEnd>, the newcomers' preparedness will increase significantly, and at the same time the maximum number of pilots hired and the average quality of their weapons will rise.
+1453	just <clr>one<clrEnd> new mercenary
+1454	<clr>two<clrEnd> new mercenaries
+1455	<clr>three<clrEnd> new mercenaries
+1456	<clr>four<clrEnd> new mercenaries
+1457	as many as <clr>five<clrEnd> new mercenaries
+1458	Well, all right, I'm not rushing you. Want to learn anything else about contracts, boss?
+1459	Today we have a large order from the chairman of the <clr>Coalition Council<clrEnd>. Personally, I'm pretty far from all this politics, but between the pirates and the sitting government I'd choose the latter. Well, you decide as you see fit, chief.
+1460	Today we have only the biggest contracts on the table, chief. Work is offered by both the <clr>Coalition<clrEnd> and the <clr>pirate clan<clrEnd>. If for some reason you don't want to expose the boys to extra risk, I'll understand, but in my opinion a chance like this should be grabbed with all four hands.
+1461	Our guys are already busy with one large contract, boss. The mercenary code forbids taking a second one alongside it.
+1462	Sorry, boss, but we simply don't have the strength right now to carry out large contracts. Such dangerous tasks require at least <clr>two<clrEnd> ships ready on combat duty.
+1463	Our fighters haven't recovered from the last task yet. The lads need to rest, put their ships in order, flush the pipes there... you understand yourself.
+1464	Our fighters haven't returned from the last task yet, so come back later, boss.
+1465	There are no large contracts today, boss. But don't despair, in a week or two something will surely turn up.
+1466	Today we have a large order from an agent of the <clr>pirate clan<clrEnd>. They offered decent money, I think it's worth at least considering this contract.
+1467	Today we have only <clr>private orders<clrEnd>, chief. Nothing especially outstanding, but when there's no fish, even a lyakusha is a Rachekhan.
+1468	Today the only potential employers are the <clr>private sector<clrEnd> and the <clr>Coalition<clrEnd>. In principle it's a good choice, so my opinion is - take it.
+1469	Today we have a rich selection of contracts, chief! A real smorgasbord! The <clr>Coalition<clrEnd>, <clr>pirates<clrEnd> and even some <clr>private individuals<clrEnd> are all offering work at once, so choose whatever you want.
+1470	Today the only potential employers are the <clr>private sector<clrEnd> and the <clr>pirate clan<clrEnd>. I lean toward the private order myself, but the final choice, as usual, is yours.
+1471	And what does the Coalition itself need from us?
+1472	Right now I'm inclined to accept work from the pirates
+1473	What do the private clients want these days?
+1474	Well then, we'll wait
+1475	Hm, very strange, chief, but the client isn't answering at all. Maybe he stepped out for a smoke? Ask about the contract later, maybe in a day or two he'll finally show up.
+1476	<clr>Our current reputation:<clrEnd>
+1477	- Among the Coalition's top brass <CoalitionReputation>
+1478	- Among the pirates <PiratesReputation>
+1479	As you say, boss. Maybe you want to order something else?
+1480	Our specialists from the science department are ready at any moment to fix any onboard malfunction, run the life-giving <clr>tetroazine fluid<clrEnd> through the pipes of your vacuum steed, and also install in compatible equipment the special patented <clr>"Exdurality"<clrEnd> upgrade.
+1481	Ah yes, I completely forgot to say! Now we have our own "egg-heads" working for the benefit of the whole organization. One of their main discoveries was the <clr>tetroazine fluid<clrEnd> pumping technology, thanks to which the speed potential of almost any engine can be temporarily increased. The fluid particles are quickly flushed out of the fuel system, so the effect lasts no longer than <clr>a couple of months<clrEnd>, but even such a short boost can be extremely useful in our dangerous line of work.
+1482	Our scientists also devised a new way of <clr>repairing<clrEnd> non-standard equipment. The repair methods are already patented as alternative, so no license from the Coalition smart alecks is needed. Naturally, for you the repairs will be done at cost, that is, <clr>75%<clrEnd> cheaper than at any science base.
+1483	And finally, the science department is now busy developing a unique upgrade under the already patented name <clr>"Exdurality"<clrEnd>, which will be available exclusively to our organization's mercenaries. This upgrade raises the reliability of specific onboard equipment by exactly <clr>two times<clrEnd>. True, the list of devices compatible with it isn't very long yet, so keep upgrading the HQ to give our smart guys extra rooms for experiments, chalkboards and drafting boards.
+1484	[<clr>in use<clrEnd>]
+1485	And what "latest development" is this about?
+1486	And what about the portal generator?
+1487	And how much will it cost us to install the portal generator?
+1488	My equipment often acts up, <clr>"Exdurality"<clrEnd> would be just the thing
+1489	And what about our guys' gear in the field? An <clr>"Exdurality"<clrEnd> upgrade wouldn't hurt there either
+1490	I need to repair my equipment
+1491	Have them run <clr>tetroazine<clrEnd> through the system, I want to overclock the engine
+1492	Have them run tetroazine through the ship, I want to overclock the engine [restocking the fluid]
+1493	We can't afford that right now
+1494	Fine, proceed with the installation [<clr>pay from the organization's budget<clrEnd>]
+1495	Fine, proceed with the installation [<clr>pay out of your own pocket<clrEnd>]
+1496	I've changed my mind, cancel
+1497	Well then, another time
+1498	I guess I'll pass
+1499	Install the upgrade [<clr>pay from the organization's budget<clrEnd>]
+1500	Install the upgrade [<clr>pay out of your own pocket<clrEnd>]
+1501	Then not for now
+1502	Okay, tell them to start the run [<clr>pay from the organization's budget<clrEnd>]
+1503	Okay, tell them to start the run [<clr>pay out of your own pocket<clrEnd>]
+1504	Oh, you're sure to like this, boss. It's about a genuine <clr>portal generator<clrEnd>! The price is only <Cost> cr., after which we'll be able to "hop" between systems like a phatklink. You'll also get an exclusive "extraction" procedure from any point in the Galaxy - we'll be able to pull you straight out of the thick of battle at your first word. So, agree?
+1505	Besides, an acquaintance of mine from Dzuhallag, having heard that we have our own science department, offered to give access to one <clr>latest development<clrEnd> that could seriously help our goals.
+1506	And by the way, boss - haven't you decided yet to pay for installing the <clr>portal generator<clrEnd>?
+1507	I also remind you that we could use our own <clr>portal generator<clrEnd> here. We can install it at any moment.
+1508	The price is only <Cost> cr., after which we'll be able to "hop" between systems like a phatklink. You'll also get an exclusive "extraction" procedure from any point in the Galaxy - we'll be able to pull you straight out of the thick of battle at your first word. So, agree?
+1509	Well, it's a great pity. But if you do change your mind - be sure to let me know.
+1510	Excellent! Our guys have already started assembly. We'll be able to make the first jump in only <DaysLeft> days.
+1511	Only <Cost> cr., after which we'll be able to "hop" between systems like a phatklink. You'll also get an exclusive "extraction" procedure from any point in the Galaxy - we'll be able to pull you straight out of the thick of battle at your first word. So, agree?
+1512	No problem, boss. Which of our ships should I install <clr>"Exdurality"<clrEnd> on?
+1513	currently absent from the base
+1514	I guess we'll do without it for now
+1515	According to our engineers' calculations, the cost of upgrading the <EqName> will be <Cost> cr.
+1516	The price is high, of course, but that's all because of the extremely costly processing of fragilium. You don't think, boss, that I'm trying to make a buck off you right now? Well, maybe just enough for a little can of "Makhpella".
+1517	Okay, boss, wait a couple of minutes. Our techies are quick.
+1518	There, all done! Now if an entire Dominator fleet suddenly attacks you, your <EqName> will croak not at once, but only a couple of minutes after the battle begins. Admit it, a great investment?
+1519	So what do you want to upgrade, boss?
+1520	By the way, our technicians report that they've already combed through your whole ship but found no devices suitable for the upgrade.
+1521	Ehh, you're wrong, boss. In these difficult times you can't have too much reliability, but, as they say, it's your business.
+1522	True, our specialists can't yet swap parts in just anything. At the current stage the list of compatible equipment is limited to
+1523	That can be done. The <clr>"Exdurality"<clrEnd> modification is essentially a replacement of the device's entire working innards with more durable fragilium parts. It will cost more in repairs, but reliability will go up <clr>two times<clrEnd>.
+1524	 <clr>engines<clrEnd> and <clr>fuel tanks<clrEnd>.
+1525	 <clr>engines<clrEnd>, <clr>fuel tanks<clrEnd>, <clr>radars<clrEnd> and <clr>scanners<clrEnd>.
+1526	, and <clr>does not include<clrEnd> <clr>weapons<clrEnd>, since their wear is, for obvious reasons, higher than that of any other onboard devices.
+1527	Okay, boss. The specialists told me that a few gallons of fluid are ready for the run. Only keep in mind - this stuff isn't cheap, and I'd even say it's exclusive in its way. Based on the volume of your <clr>tank<clrEnd> and the average power of your <clr>engine<clrEnd>, the scientists will need about <Cost> cr. to recoup the production costs of that amount of tetroazine.
+1528	Got it. I'll pass it to the techies over the communicator now: "Get to work, guys. The boss said he wants to float like a butterfly and burn like a star. Start the tetroazine run!"
+1529	Hm, I wonder - will it blow if you hit the afterburner? In theory it shouldn't...
+1530	Sorry, boss, but to run tetroazine, the ship must have a fully closed fuel system consisting of an <clr>engine<clrEnd> and a <clr>tank<clrEnd>. Otherwise there'll be a leak, and tetroazine's toxicity is extremely high, so... No need to endanger the lives of your loyal staff.
+1531	Sorry, boss, but your fuel system has too <clr>non-standard a design<clrEnd>. The scientists say that at best tetroazine simply won't affect it, and at worst... Anyway, we'd better not even test it.
+1532	It's all right, it happens to everyone. Maybe you want to do something else?
+1533	Order accepted, chief. A brand-new <ShipName> will be waiting for you in the warehouse in exactly <Days> days.
+1534	And that's right. There's no sense weakening our own defenses like that in these troubled times.
+1535	Are you sure, boss? It's an expensive and powerful thing, after all. Who knows when we'll be able to build another, and the proceeds of <Cost> cr., it seems to me, simply aren't worth it.
+1536	Well, it's your call. The buyer is already on the way, and the sum of <Cost> cr. has been transferred to the organization's account as an advance.
+1537	It's all cool, boss! We're launching ships from the slips on schedule, no shortage of materials.
+1538	And if you want to order some <clr>special project<clrEnd>, I remind you that to get a license we may need a <clr>certain reputation<clrEnd> among the <clr>Coalition<clrEnd> or the <clr>pirate clan<clrEnd>.
+1539	Right now the <ShipName> you ordered is also in production, we'll finish assembling it in <DaysLeft> days.
+1540	Damn, looks like <clr>Grorbab<clrEnd> skimped on soundproofing again. Never mind, boss, if he doesn't patch the hole in the bulkheads in a couple of days, it'll be his skull that gets patched. Ah, you meant where the noise comes from? From our shipyard. Didn't I tell you?
+1541	Anyway, I proudly present to you our very own shipyard! In size and capacity it can't compare with a planetary one, of course, but its output is quite enough to cover our modest need for new specialized hulls.
+1542	By the way, in the very near future we plan to replace all outdated hull models with a new, unique ship of our own design - the <clr>"Star Stingray"<clrEnd>. The new hull's distinguishing features will be high maneuverability and long-lasting inertial thrust, thanks to which it will reach impressive speed, surpassing by a full faeyan head the capabilities of all other ships of its class. By the way, a prototype has already been delivered to your warehouse, so you can try this bird out yourself at any time.
+1543	Ah yes, and I almost forgot! If we prove our fierce devotion to the cause of the <clr>Coalition<clrEnd> or the <clr>pirate clan<clrEnd>, we can obtain a limited license to produce our own <clr>tranclucators<clrEnd>. The pleasure won't be cheap, of course, but you can't have too many robots around the place, right? Unless they're Dominators, heh-heh.
+1544	True, there are no <clr>special projects<clrEnd> for construction at the moment, but if any show up, we'll be ready to build at your first word.
+1545	Order ship construction
