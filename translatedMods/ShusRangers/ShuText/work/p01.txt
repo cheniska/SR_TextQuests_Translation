@@ -1,0 +1,222 @@
+1	The leader of the pirate movement. Only the stars are cooler than him.
+2	A rank-and-file fighter of the brotherhood. Good only for destroying peaceful ships and rookie Rangers.
+3	<WarPoints> pts. needed to earn the next rank.
+4	A budding pirate, able to fleece transport ships when nobody is looking, but all the great deeds in the field of piracy still lie ahead.
+5	A battle-hardened brotherhood fighter, able to rival Rangers and military fighters. That kind can really hurt you.
+6	An experienced pirate who has smelled gunpowder. Now he can hand out clouts to budding bandits himself. Does not bother with small change.
+7	Golden Rain
+8	Diamond Pickaxe
+9	Big Fig
+10	Named after Bobby Kotick
+11	Named after Todd Howard
+12	Named after Sergey Mavrodi
+13	Heavy Metal
+14	Around the Corner
+15	Drunken Brawl
+16	Dangerous Addiction
+17	Open Fracture
+18	Inflammation of Cunning
+19	Evantasia
+20	Doctors' Plot
+21	Amputation
+22	Drunk Doctor
+23	Homeopathy
+24	Free Medicine
+25	Eternal Rest
+26	Lobotomite
+27	Asphyxia
+28	Iatrophobia
+29	Total Isolation
+30	Black Surgeon
+31	Foreign Body
+32	Homunculus
+33	Merchant of Death
+34	Unsanitary Conditions
+35	Hospital Nightmare
+36	Accident
+37	Novocaine
+38	Hard Rock
+39	Torrent
+40	Mojave
+41	Texas
+42	Superposition
+43	Napoleon
+44	0,	100,	0,	Bandit
+45	25,	75,	0,	Gangster
+46	50,	50,	0,	Marauder
+47	75,	25,	0,	Wheeler-Dealer
+48	100,	0,	0,	Magnate
+49	0,	75,	25,	Thug
+50	25,	50,	25,	Raider
+51	50,	25,	25,	Peddler
+52	75,	0,	25,	Tradesman
+53	0,	50,	50,	Mercenary
+54	20,	30,	50,	Mercenary
+55	50,	0,	50,	Mercenary
+56	0,	25,	75,	Warlord
+57	25,	0,	75,	Warlord
+58	0,	0,	100,	Hero
+59	Samsung
+60	Password
+61	Aggregator
+62	Setting
+63	Debugger
+64	Kilobyte
+65	Disasm
+66	Delphi
+67	Sharp
+68	Unity
+69	Kling
+70	Megabyte
+71	Mechanoid
+72	Calculon
+73	Nexus
+74	Scout
+75	Bishop
+76	Gravitsap
+77	Compiler
+78	Desync
+79	Fusion
+80	Source
+81	Discord
+82	Daimon
+83	Gimper
+84	Adblock
+85	Codec
+86	Avast
+87	WinRAR
+88	Deblur
+89	Nokia
+90	Arduino
+91	Skynet
+92	GLaDOS
+93	Lenovo
+94	Logitech
+95	Intel
+96	Sven
+97	Kulpad
+98	Atheros
+99	Asus
+100	Clicker
+101	Matrox
+102	Metacritic
+103	Masthave
+104	Annal
+105	Ezer
+106	Okromer
+107	Vanom
+108	Commie
+109	Canon
+110	Nikinit
+111	Lexmark
+112	Emitter
+113	Choke
+114	Thyristor
+115	Triode
+116	Cathode
+117	Resistor
+118	Condenser
+119	Rheostat
+120	Ferrite
+121	Sennheiser
+122	Texan
+123	Panasonic
+124	Felix
+125	Shindows
+126	Spectrum
+127	Perfocard
+128	Cleaner
+129	Esel
+130	Downloader
+131	Bing
+132	Walker
+133	Shakaler
+134	JPEG
+135	RJ
+136	Wolfram
+137	Topatellor
+138	Blackdudder
+139	Kamonor
+140	DDoSer
+141	Malbolger
+142	Kafar
+143	Impossible
+144	Ironville
+145	Merchant
+146	Crafter
+147	Genos
+148	Kornilay
+149	Batnik
+150	Blockchain
+151	Webinar
+152	Designer
+153	Junior
+154	Manager
+155	Frontender
+156	Hackathon
+157	Frameworks
+158	Skycamer
+159	Beholder
+160	Cutter
+161	Ertix
+162	Deskjet
+163	Glass
+164	Desfree
+165	Clutch
+166	Cylon
+167	Biomech
+168	Macron
+169	Mechanicus
+170	Omnissium
+171	Timer
+172	Close
+173	Energen
+174	Zettabyte
+175	Spotify
+176	Lentach
+177	Devkit
+178	Qwerty
+179	Rammstein
+180	Missile
+181	Tech-Priest
+182	Purifier
+183	Necron
+184	Metal
+185	Invis
+186	Logout
+187	Sabaton
+188	Wizard
+189	Ario
+190	Hashtag
+191	Linker
+192	Tafilex
+193	Noni
+194	Linippa
+195	Egeniya
+196	Milirayki
+197	Ammiaka
+198	Leynia-Ga
+199	Galiro
+200	Alion
+201	Keniya-Ga
+202	Lezairi
+203	Elfeerko
+204	Aleni
+205	Yamainu
+206	Bayonet
+207	Yakui
+208	Ozoi
+209	Soveno
+210	Samurai
+211	Luppupa
+212	Donati
+213	Inoli-Ga
+214	Blum
+215	Klizmayani
+216	Lisinil
+217	Fleyanka-Ga
+218	Litani
+219	Ilon
+220	Menthali-Ga
+221	Lakhinat
+222	Ifilani-Ga

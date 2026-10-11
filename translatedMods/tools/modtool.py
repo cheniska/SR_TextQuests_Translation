@@ -102,7 +102,7 @@ def check(g):
         if r is None: print('NOID',n);bad+=1;continue
         if collections.Counter(tok.findall(r))!=collections.Counter(tok.findall(v)): print('TOK',n,tok.findall(r),tok.findall(v));bad+=1
         if cyr.search(v): print('CYR',n);bad+=1
-        if '\t' in v: print('TAB',n);bad+=1
+        if '\t' in v and '\t' not in r: print('TAB',n);bad+=1
         if "'" in r and r.count("'")!=v.count("'"): print('QUOTE',n,r.count("'"),v.count("'"));bad+=1
     miss=[n for n in todo if n not in en]
     print(g,'done',len(en),'of',len(todo),'bad',bad,'missing',miss[:5])
