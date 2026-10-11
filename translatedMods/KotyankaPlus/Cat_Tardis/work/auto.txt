@@ -1,0 +1,16 @@
+Дальность радара: <bonRadar> ед.	Radar range: <bonRadar>
+Мощность сканера: <bonScan> ед.	Scanner power: <bonScan>.
+Эффективность дроида: <bonDroid> ед.	Droid effectiveness: <bonDroid>
+Мощность захвата: <bonHook> ед.	Gripper power: <bonHook>
+Дальность захвата: <bonHookRadius> ед.	Gripper range: <bonHookRadius>
+Навык атаки: <bonSkill1>	Attack skill: <bonSkill1>
+Навык маневренности: <bonSkill2>	Mobility skill: <bonSkill2>
+Навык торговли: <bonSkill4>	Commerce skill: <bonSkill4>
+Навык обаяния: <bonSkill5>	Charisma skill: <bonSkill5>
+Навык лидерства: <bonSkill6>	Leadership skill: <bonSkill6>
+Масса корабля: <bonMass>%	Ship mass: <bonMass>%
+Хорошо	Good
+Вернуться на мостик	Back to the bridge
+Включен	On
+Выключен	Shutdown
+Обычный	Standard

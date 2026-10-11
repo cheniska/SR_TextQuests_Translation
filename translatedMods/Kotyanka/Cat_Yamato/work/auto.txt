@@ -1,0 +1,23 @@
+Дальность стрельбы: <bonWRadius> ед.	Firing range: <bonWRadius>
+Дальность прыжка: <bonJump> ед.	Jumping range: <bonJump>
+Мощность энергетического оружия: <bonWEnergy> ед.	Energy weapon power: <bonWEnergy> units
+Мощность осколочного оружия: <bonWSplinter> ед.	Splinter weapon power: <bonWSplinter> units
+Масса корабля: <bonMass>%	Ship mass: <bonMass>%
+Эффективность дроида: <bonDroid> ед.	Droid effectiveness: <bonDroid>
+Броня корпуса: <bonHull> ед.	Hull armor: <bonHull>
+Скорость двигателя: <bonSpeed> ед.	Engine speed: <bonSpeed>
+Дальность радара: <bonRadar> ед.	Radar range: <bonRadar>
+Навык маневренности: <bonSkill2>	Mobility skill: <bonSkill2>
+Навык торговли: <bonSkill4>	Commerce skill: <bonSkill4>
+Мощность ракетного оружия: <bonWMissile> ед.	Missile weapon power: <bonWMissile> units
+Навык точности: <bonSkill1>	Attack skill: <bonSkill1>
+Навык манёвренности: <bonSkill2>	Mobility skill: <bonSkill2>
+Навык техники: <bonSkill3>	Technology skill: <bonSkill3>
+Навык обаяния: <bonSkill5>	Charisma skill: <bonSkill5>
+Хорошо	Good
+Я передумал.	I changed my mind.
+Я подумаю	I'll think about it
+Ну, ладно	Oh, all right
+А давайте!	Let's do it!
+Следуй за мной	Follow me
+Далее	Next

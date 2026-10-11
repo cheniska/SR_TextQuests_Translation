@@ -1,0 +1,3 @@
+Скорость двигателя: <bonSpeed> ед.	Engine speed: <bonSpeed>
+Броня корпуса: <bonHull> ед.	Hull armor: <bonHull>
+Масса корабля: <bonMass>%	Ship mass: <bonMass>%

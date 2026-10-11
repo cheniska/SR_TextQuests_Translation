@@ -1,0 +1,12 @@
+Навык манёвренности: <bonSkill2>	Mobility skill: <bonSkill2>
+Навык техники: <bonSkill3>	Technology skill: <bonSkill3>
+Навык торговли: <bonSkill4>	Commerce skill: <bonSkill4>
+Навык обаяния: <bonSkill5>	Charisma skill: <bonSkill5>
+Броня корпуса: <bonHull> ед.	Hull armor: <bonHull>
+Скорость двигателя: <bonSpeed> ед.	Engine speed: <bonSpeed>
+Дальность прыжка: <bonJump> ед.	Jumping range: <bonJump>
+ (система	 (system
+). Осталось <0> дн.	). <0> days left.
+Земля	Earth
+Отлично!	Excellent!
+Ну, давайте	All right, let's do it

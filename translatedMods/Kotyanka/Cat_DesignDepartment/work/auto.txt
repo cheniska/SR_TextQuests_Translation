@@ -1,0 +1,95 @@
+энергетическое	energy
+ракетное	missile
+очень высокая	Very high
+высокая	High
+средняя	Average
+низкая	Low
+очень низкая	Very low
+ужасная	Awful
+осколочное	fragmentation
+Прометей	Prometheus
+Броня корпуса: <bonHull> ед.	Hull armor: <bonHull>
+Скорость двигателя: <bonSpeed> ед.	Engine speed: <bonSpeed>
+Дальность прыжка: <bonJump> пк.	Jump range: <bonJump> pc
+Дальность радара: <bonRadar> млн. км.	Radar range: <bonRadar> million km.
+Мощность сканера: <bonScan><clr>%<clrEnd>	Scanner power: <bonScan><clr>%<clrEnd>
+Эффективность дроида: <bonDroid> ед.	Droid effectiveness: <bonDroid>
+Мощность захвата: <bonHook> т.	Gripper power: <bonHook> t.
+Мощность защитного поля: <bonDef><clr>%<clrEnd>	Shield power: <bonDef><clr>%<clrEnd>
+Урон энергетического оружия: <bonWEnergy> ед.	Energy weapon damage: <bonWEnergy> units
+Урон ракетного оружия: <bonWMissile> ед.	Missile weapon damage: <bonWMissile> units
+Урон осколочного оружия: <bonWSplinter> ед.	Splinter weapon damage: <bonWSplinter> units
+Дальность стрельбы: <bonWRadius> млн км	Firing range: <bonWRadius> million km
+Стоимость: <clr>+60%<clrEnd>	Cost: <clr>+60%<clrEnd>
+Размер: <clr>-25%<clrEnd>	Size: <clr>-25%<clrEnd>
+Скорость ракет: <bonMissileSpeed> ед.	Missile speed: <bonMissileSpeed> units
+Стоимость: <clr>+25%<clrEnd>	Cost: <clr>+25%<clrEnd>
+Размер: <clr>+35%<clrEnd>	Size: <clr>+35%<clrEnd>
+Кластер	Cluster
+Генератор поля: <bonDef> ед.	Shield generator: <bonDef>%
+Мощность захвата: <bonHook> ед.	Gripper power: <bonHook>
+Дальность прыжка: <bonJump> ед.	Jumping range: <bonJump>
+Масса корабля: <bonMass>%	Ship mass: <bonMass>%
+Дальность радара: <bonRadar> ед.	Radar range: <bonRadar>
+Мощность сканера: <bonScan> ед.	Scanner power: <bonScan>.
+Навык атаки: <bonSkill1>	Attack skill: <bonSkill1>
+Навык маневренности: <bonSkill2>	Mobility skill: <bonSkill2>
+Навык техники: <bonSkill3>	Technology skill: <bonSkill3>
+Сила энергетического оружия: <bonWEnergy> ед.	Energy weapons damage: <bonWEnergy>
+Сила ракетного оружия: <bonWMissile> ед.	Missile weapons damage: <bonWMissile>
+Дальность стрельбы: <bonWRadius> ед.	Firing range: <bonWRadius>
+Сила осколочного оружия: <bonWSplinter> ед.	Fragmentation weapons damage: <bonWSplinter>
+Топливный бак	Fuel Tank
+Двигатель	Engine
+Радар	Radar
+Сканер	Scanner
+Дроид	Droid
+Захват	Gripper
+Генератор защиты	Shield Generator
+Нет	No
+Да	Yes
+Малоки	Maloqs
+Пеленги	Pelengs
+Люди	Humans
+Фэяне	Faeyans
+Гаальцы	Gaals
+Доминаторы	Dominators
+Пираты	Pirates
+Размер:	Size:
+Блазер	Blazer
+Келлер	Keller
+Террон	Terron
+Военный	Military
+Мирный	Peaceful
+Промышленный лазер	Industrial Laser
+Осколочное орудие	Fragmentation Weapons
+Лезка	Flux
+Ракетомет	Missile Launcher
+Третон	Treton
+Волновой фазер	Wave Phaser
+Потоковый бластер	Flow Blaster
+Электронный резак	Electronic Cutter
+Мультирезонатор	Multiresonator
+Атомный визион	Atomic Vision
+Дезинтегратор	Disintegrator
+Турбогравир	Turbogravitron
+ИМХО-9000	IMHO-9000
+Вертикс	Vertix
+Торпедный аппарат	Torpedo Tube
+Эсодафер	Esodapher
+Кафаситор	Caphasitor
+Лирекрон	Lirecron
+Дальность:	Range:
+ЭМ-помехи	EM-disturbances
+Ионизация	Ionization
+Добавить	Add
+Удалить	Delete
+В другой раз	Another time
+Окей	Okay
+Я передумал	I changed my mind
+Карта сокровищ	Treasure Map
+Точные координаты клада зашифрованы, потребуются зонды для его поиска.	The treasure's exact coordinates are encrypted, probes will be required to search for it.
+Ракета	Missile
+Самонаводящаяся ракета	Homing Missile
+Торпеда	Torpedo
+Самонаводящаяся торпеда	Homing Torpedo

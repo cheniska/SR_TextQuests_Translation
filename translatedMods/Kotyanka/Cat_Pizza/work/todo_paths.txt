@@ -1,0 +1,10 @@
+1	MicroModuls/490/Name
+2	MicroModuls/490/Text
+3	Script/PC_destroyer/18
+4	Script/PC_destroyer/27
+5	Script/PC_destroyer/46
+6	Script/PC_destroyer/47
+7	Script/PC_destroyer/5
+8	Script/PC_destroyer/53
+9	Script/PC_destroyer/54
+10	Script/PC_destroyer/55

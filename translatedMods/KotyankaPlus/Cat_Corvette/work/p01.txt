@@ -1,0 +1,22 @@
+1	Corvette "Swift"
+2	<color=248,252,248>A special corvette for the high ranks of the ranger corps - the elite of elites. Designed and produced in a limited batch on order of the CAFIC at the Martian shipyards. Improved missile systems and built-in defense systems, as well as especially powerful radars, allow the pilot to fully shift to the role of commander, controlling the battlefield and suppressing the enemy with fire.</color>
+3	<color=0,150,0>The ship is equipped with anti-missile defense systems</color>
+4	Radar range: <bonRadar> million km
+5	ShipCustomShipInfoDescription(Player(),'CatCorvette_Buffs','Additional defense: '+ShipCustomShipInfoData(0,CurInfo(),1)+'/'+ShipCustomShipInfoData(0,CurInfo(),2)+' units');
+6	Defense systems
+7	ShipCustomShipInfoDescription(0,CurInfo(),'Additional defense: '+ShipCustomShipInfoData(0,CurInfo(),1)+'/'+ShipCustomShipInfoData(0,CurInfo(),2)+' units');
+8	Excellent
+9	Well then, get to it
+10	Excellent! The money is debited, work is underway: consider that by the end of the day, or whenever you want to head out into open space, everything will be completely ready.
+11	Hm, let me take a look...<br><br>Oh-oh-oh, I recognize the work of the legendary Martian shipyards! Ergonomic and aggressive design combined with high technology.<br><br>Still, even for such a ship we know how to select<br>An improved coating and armor plates will raise the ship's resistance to external threats, which is important given its command role<br><br>Such an improvement will cost <0> cr.
+12	Excellent. The hull has already been moved to the warehouse. Use it in good health and destroy as many enemies of the Coalition as you can.<br><br>Good luck!
+13	Absolutely!
+14	Ho-ho, you even ask! I'll pay!
+15	Well, ranger, let's not beat around the bush: you're a seasoned fighter, you've been through not one or two battles, and you deserve great and honorable awards. But you can't live on awards alone, and the CAFIC has decided to offer people like you special, <clr>li-mi-ted<clrEnd> ships built at the <clr>Martian<clrEnd> shipyards on special order.<br><br>The price of such a toy is <0> cr. Interested?
+16	Do you have any unique upgrades for my ship?
+17	What's that gift you have?
+18	For rangers who have especially distinguished themselves in battles we have prepared a special gift - a unique hull.
+19	All that remains is for you to choose the configuration. We have <clr>three<clrEnd> to choose from<br>-----------<br>1) Light - 1000 units<br>2) Medium - 1200 units<br>3) Heavy - 1400 units<br>-----------<br>Choose!
+20	Light (1000 units)
+21	Medium (1200 units)
+22	Heavy (1400 units)

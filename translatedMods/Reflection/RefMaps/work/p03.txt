@@ -4,7 +4,7 @@
 99	Excellent! Now the shipyards will resume work as usual.
 100	Nagrile,Marshalska Rokossovsky
 101	How sad, how sad... So the Supply Center has been seized with no possibility of liberation? Good thing the personnel managed to evacuate, or it would have been bad. And you, <Player>, I ask to get off our planet and go to hell before something gets torn off!
-102	The assignment... Well, have a seat... Tea, coffee, yanvelb or just water? Well, nothing then. Then - listen
+102	The assignment... Well, have a seat... Tea, coffee, ekup or just water? Well, nothing then. Then - listen
 103	Due to the tense situation in the defense of our system, the Headquarters of the Most Supreme Command - why our military men fancied themselves most supreme when there is a Sector Defense Staff? - decided to relocate the actual planetary defense headquarters to one of the remote archipelagos - so that the dominators wouldn't reach it right away if anything happened. But, as luck would have it, during the latest raid, which, incidentally, we managed to repel, a landing party was dropped precisely on one of the islands - the one with the supply headquarters.
 104	So far the landing party is not yet properly deployed, so we need to hurry to the rescue. Capture of the local supply node will lead to reduced operability of the headquarters, which is unacceptable for us. We have already prepared a landing group, and we propose that you, as an experienced commander, lead it.
 105	So, ranger <Player>! The Supply Center of the Planetary Defense Headquarters has been liberated from the invaders, which means our sappers can get down to their work, and you receive your well-earned <Money> cr.!

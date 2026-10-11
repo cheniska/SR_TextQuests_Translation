@@ -1,0 +1,27 @@
+Навык атаки: <bonSkill1>	Attack skill: <bonSkill1>
+Навык маневренности: <bonSkill2>	Mobility skill: <bonSkill2>
+Навык обаяния: <bonSkill5>	Charisma skill: <bonSkill5>
+Навык лидерства: <bonSkill6>	Leadership skill: <bonSkill6>
+Броня корпуса: <bonHull>	Hull armor: <bonHull>
+Так, <PlayerFull>, что у вас там? Говорите, нашли кристалл на незаселенной планете? Действительно, лет ему столько, что мы даже не можем назвать точное число, все методы анализа дают какие-то зашкаливающие значения.	Say, <PlayerFull>, what do you have there? You say you found a crystal on an uninhibited planet? Indeed! It's so old we can't even give an exact date. All of our analytical methods are producing numbers that are off the charts.
+Нет, сейчас у меня нет такого количества нодов	No, I don't have that many nodes right now
+Хорошо, я подумаю.	Okay, I'll think about it.
+Жду не дождусь!	I can't wait!
+Да, покажите результаты!	Yes, let's see the results!
+Нет, я не заинтересован в покупке	No, I'm not interested in making a purchase
+Хорошо, запомню	Very well, I'll remember
+Нет, спасибо, обойдусь	No, thanks. I'll manage.
+Так что же там было в кристалле? Не терпится узнать!	So that's were the crystal was? I can't wait to find out!
+В таком случае, мы ждем, пока вы не пополните свой нод-счет на нужную сумму.	In any event, we'll be waiting for you to deposit the required amount in your node account.
+Исследовать старинный голокристалл	Examine the ancient holocrystal
+<PlayerFull>, ученые с научной базы <0> закончили расшифровку голографического кристалла и готовы рассказать вам о своем открытии! Ждем вас на базе <1> в ближайшее время!	<PlayerFull>, scientists at the <0> research station can have finished their investigation of the holographic crystal; they're ready to tell you what they've discovered! We'll be expecting you soon at base <1>!
+<PlayerFull>, к сожалению, научная база <0> была уничтожена в ходе исследований голографического кристалла. Теперь никто не сможет узнать, какие загадки он таил в себе. В качестве компенсации ассоциация рейнджеров начисляет вам <1> нодов для частичного возмещения затрат на исследования.	<PlayerFull>, the <0> research station was unfortunately destroyed during the investigation of the holographic crystal. Now no one will ever know what mysteries it contained. As compensation, the ranger assocation will credit <1> nodes to partially reimburse the research expenses.
+Купленный вами корпус уже доставлен на склад. Приятных полетов!	The hull you purchased has already been delivered to storage. Happy flying!
+Отлично, <PlayerFull>, сейчас мы уже формируем вычислительный кластер. Мы оповестим вас о результатах работы в ближайшее время.	Excellent, <PlayerFull>, we're already putting together a computing cluster. We let you know how it goes soon.
+Мы примерно представляем себе структуру криптоконтейнера, однако, других способов подбора ключа, кроме как методом прямого перебора, реализовать не получится. Лучше всего для реализации подобного метода подходят вычислители, создаваемые на базе доминаторских <clr>нодов<clrEnd>. Поэтому, для расшифровки нам необходимо <0> единиц нодов. Вы готовы их предоставить?	We have an approximation of the encrypted block's structure, but we can't use anything but brute force to figure out what the key is. The best way to implement this approach is use computers built from dominator <clr>nodes<clrEnd>. So to decrypt it, we need <0> nodes. Are you ready to supply them?
+Спасибо	Thanks
+Спасибо за информацию, запомню.	Thanks for the information. I'll remember.
+Спасибо, очень жаль...	Thanks. That's too bad...
+Ну что же, <0>, дело ваше. Мы сохраним наработки, поэтому, если возникнет необходимость, вы всегда сможете обратиться к нам позже.	Well, <0>, that's your problem. We're storing the preliminary work, so you can always contact us later should the need arise.
+Что мне с ним делать?	What am I supposed to do with it?
+Да, у меня есть достаточное количество нодов	Yes. I have enough nodes.

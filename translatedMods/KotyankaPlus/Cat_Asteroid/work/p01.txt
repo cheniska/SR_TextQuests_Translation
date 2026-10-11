@@ -1,0 +1,24 @@
+1	Chunk
+2	<color=248,252,248>This creation came to be over a bottle of Gaaldok ekup in the gloomy mind of the technician Uul Molek, who the next day handed over in his will the blueprints of this ship to the network of Technical Centers in the name of victory. Made of precious minerals and furnished with the latest technology, this gargantuan of shipbuilding, owing to its structural features, spends an enormous amount of energy mostly on simply staying aloft, yet the mobility of the weapon systems allows aiming the guns even without the pilot's effort. Because of the ship's shape and size, few want to deal with its owner. </color>
+3	Shield power: <bonDef> units
+4	Leadership skill <bonSkill6>
+5	Base <0> was destroyed, along with your investment in the project...
+6	Base <0> has finished construction and research, you can come!
+7	I don't understand what you're talking about
+8	The thing is that the technician Uul Molek, who recently passed away from a heart attack, left us in his will the blueprints of a very... extravagant ship. Judging by the documentation, it is to be made of precious minerals, furnished with costly equipment and an incredibly powerful energy core. We are interested in the possibility of building this unit and conducting some tests, after which you will be able to take it into your possession. If you haven't changed your mind, it will cost <0> cr.
+9	Let's get to work
+10	Excellent, I'll go have a look at it.
+11	Well, it's about the technician Uul Molek and his blueprints...
+12	Well, all that remains is to wait until you finish
+13	And when will you be able to finish?
+14	Goodbye
+15	Listen, you've got me interested. So what is this project and how much will it cost?
+16	I came back to find out - what about that project I sponsored?
+17	I'll gladly help you, for unique things are what makes life worth living!
+18	Hello, I would like to ask whether you have any projects right now where a ranger's help could come in handy?
+19	Huh? A-a-ah, it's you, <0>... Yes, we have a very interesting project here, though it comes to a fairly large sum of credits and management doesn't want to allocate money for it. However, judging by your reputation, you love everything unusual regardless of cost. So I decided to ask, perhaps our experiment will interest you?
+20	Yes-yes, we've been expecting you, for we managed to build this unit and conduct all the necessary tests, and you can get it right in the hangar. And thank you once again for your help in the research: this testing helped us very much in understanding certain things.<br>
+21	What project?
+22	I know nothing about it, you sponsored nothing at this station. Perhaps they can help you at <0>
+23	The work is experimental, and we run tests at every stage of the ship's construction. For now all I can say is that it isn't ready.<br>
+24	The work will be finished approximately <0>.

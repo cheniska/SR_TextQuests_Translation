@@ -1,0 +1,3 @@
+1	Slave I
+2	<color=248,252,248>At one time a certain La'Gget, a connoisseur of everything unusual and unknown, gave the business center network a large budget and an order to build ships from a previously unknown blueprint. This ship was certainly designed by someone not from the Coalition races. Where he found the blueprint he did not say, and nobody particularly asked, since the sum he offered was exorbitantly high.</color>
+3	Shield power: <bonDef> units

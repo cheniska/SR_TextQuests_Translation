@@ -1,0 +1,5 @@
+Дальность стрельбы: <bonWRadius> ед.	Firing range: <bonWRadius>
+Дальность прыжка: <bonJump> ед.	Jumping range: <bonJump>
+Броня корпуса: <bonHull> ед.	Hull armor: <bonHull>
+Скорость двигателя: <bonSpeed> ед.	Engine speed: <bonSpeed>
+Хорошо	Good

@@ -1,0 +1,2 @@
+1	HullType/Cat_Hulls_Pioner/Name
+2	HullType/Cat_Hulls_Pioner/Text

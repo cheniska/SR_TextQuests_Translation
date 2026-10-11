@@ -1,0 +1,1 @@
+Увеличивает мощность генерируемого энергетического импульса, за счет чего каждый <clr>третий<clrEnd> выстрел энергетических орудий усиливается.	It increases the yield of the power impulse generated augmenting every <clr>third<clrEnd> shot fired by the energy weapons.

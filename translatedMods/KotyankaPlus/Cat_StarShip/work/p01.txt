@@ -1,0 +1,3 @@
+1	Star Wanderer
+2	<color=248,252,248>A certain Alexander, a connoisseur of ancient technologies, got hold of the technical documentation from the year 2025 for a ship called the "Star Wanderer" from who knows where. Naturally, the technologies of those years are useless and pointless to use now, but thanks to acryn the design features of even very ancient ships can be recreated, equipping them with modern technologies. For reasons not entirely clear, acryn applied to the ancient material "Stainless Steel" gives a very strong increase on the scale of susceptibility and armor. The result was a very well-protected and fast transport ship.</color>
+3	Shield power: <bonDef> units

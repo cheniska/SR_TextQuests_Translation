@@ -1,0 +1,4 @@
+Б	Be
+В другой раз	Another time
+Нет, спасибо	No, thank you.
+Выбранный сектор: <0><br><br>Выберите систему:	Selected sector: <0><br><br>Select a system:

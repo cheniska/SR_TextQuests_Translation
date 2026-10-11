@@ -1,0 +1,6 @@
+1	UselessItems/ExpTraitors_PirateParrot/Name
+2	UselessItems/ExpTraitors_PirateParrot/ParrotLoyalty1
+3	UselessItems/ExpTraitors_PirateParrot/ParrotLoyalty2
+4	UselessItems/ExpTraitors_PirateParrot/ParrotLoyaltyText1
+5	UselessItems/ExpTraitors_PirateParrot/ParrotLoyaltyText2
+6	UselessItems/ExpTraitors_PirateParrot/Text

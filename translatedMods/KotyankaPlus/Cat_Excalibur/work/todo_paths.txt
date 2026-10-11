@@ -1,0 +1,4 @@
+1	MicroModuls/Cat_Excalibur/Text
+2	MicroModuls/Cat_Excalibur/Text
+3	Script/Excalibur/188
+4	Script/Excalibur/189

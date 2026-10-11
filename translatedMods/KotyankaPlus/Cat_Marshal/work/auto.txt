@@ -1,0 +1,9 @@
+Скорость двигателя: <bonSpeed> ед.	Engine speed: <bonSpeed>
+Дальность прыжка: <bonJump> пк.	Jump range: <bonJump> pc
+Дальность радара: <bonRadar> млн. км.	Radar range: <bonRadar> million km.
+Мощность сканера: <bonScan>%	Scanner power: <bonScan>%
+Урон энергетического оружия: <bonWEnergy> ед.	Energy weapon damage: <bonWEnergy> units
+Урон осколочного оружия: <bonWSplinter> ед.	Splinter weapon damage: <bonWSplinter> units
+Урон ракетного оружия: <bonWMissile> ед.	Missile weapon damage: <bonWMissile> units
+Дальность стрельбы: <bonWRadius> млн км	Firing range: <bonWRadius> million km
+Мощность захвата: <bonHook> т.	Gripper power: <bonHook> t.

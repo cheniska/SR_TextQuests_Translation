@@ -1,0 +1,5 @@
+1	MicroModuls/Cat_Ships_Keller/Name
+2	MicroModuls/Cat_Ships_Keller/Text
+3	MicroModuls/Cat_Ships_Keller/Text
+4	MicroModuls/Cat_Ships_Keller/Text
+5	MicroModuls/Cat_Ships_Keller/Text

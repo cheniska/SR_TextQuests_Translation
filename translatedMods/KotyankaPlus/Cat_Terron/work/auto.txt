@@ -1,0 +1,7 @@
+Мощность ракетного оружия: <bonWMissile> ед.	Missile weapon power: <bonWMissile> units
+Скорость ракет: <bonMissileSpeed> ед.	Missile speed: <bonMissileSpeed> units
+Масса корабля: <bonMass>%	Ship mass: <bonMass>%
+Эффективность дроида: <bonDroid> ед.	Droid effectiveness: <bonDroid>
+Броня корпуса: <bonHull> ед.	Hull armor: <bonHull>
+Навык манёвренности: <bonSkill2>	Mobility skill: <bonSkill2>
+Навык техники: <bonSkill3>	Technology skill: <bonSkill3>

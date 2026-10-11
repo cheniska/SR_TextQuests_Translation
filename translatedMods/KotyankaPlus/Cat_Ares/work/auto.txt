@@ -1,0 +1,9 @@
+Дальность стрельбы: <bonWRadius> ед.	Firing range: <bonWRadius>
+Дальность прыжка: <bonJump> ед.	Jumping range: <bonJump>
+Мощность энергетического оружия: <bonWEnergy> ед.	Energy weapon power: <bonWEnergy> units
+Мощность осколочного оружия: <bonWSplinter> ед.	Splinter weapon power: <bonWSplinter> units
+Мощность ракетного оружия: <bonWMissile> ед.	Missile weapon power: <bonWMissile> units
+Скорость двигателя: <bonSpeed> ед.	Engine speed: <bonSpeed>
+Дальность радара: <bonRadar> ед.	Radar range: <bonRadar>
+Мощность сканера: <bonScan> ед.	Scanner power: <bonScan>.
+Дальность захвата: <bonHookRadius> ед.	Gripper range: <bonHookRadius>

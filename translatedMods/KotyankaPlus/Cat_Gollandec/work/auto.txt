@@ -1,0 +1,4 @@
+Дальность прыжка: <bonJump> ед.	Jumping range: <bonJump>
+Скорость двигателя: <bonSpeed> ед.	Engine speed: <bonSpeed>
+Броня корпуса: <bonHull> ед.	Hull armor: <bonHull>
+Хорошо	Good

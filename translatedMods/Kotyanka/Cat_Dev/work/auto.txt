@@ -1,0 +1,14 @@
+Скорость двигателя: <bonSpeed> ед.	Engine speed: <bonSpeed>
+Дальность прыжка: <bonJump> ед.	Jumping range: <bonJump>
+Объем бака: <bonFuel> ед.	Fuel tank capacity: <bonFuel>
+Дальность радара: <bonRadar> ед.	Radar range: <bonRadar>
+Мощность сканера: <bonScan> ед.	Scanner power: <bonScan>.
+Эффективность дроида: <bonDroid> ед.	Droid effectiveness: <bonDroid>
+Мощность захвата: <bonHook> ед.	Gripper power: <bonHook>
+Дальность захвата: <bonHookRadius> ед.	Gripper range: <bonHookRadius>
+Генератор поля: <bonDef> ед.	Shield generator: <bonDef>%
+Сила энергетического оружия: <bonWEnergy> ед.	Energy weapons damage: <bonWEnergy>
+Сила ракетного оружия: <bonWMissile> ед.	Missile weapons damage: <bonWMissile>
+Сила осколочного оружия: <bonWSplinter> ед.	Fragmentation weapons damage: <bonWSplinter>
+Дальность стрельбы: <bonWRadius> ед.	Firing range: <bonWRadius>
+Масса корабля: <bonMass>%	Ship mass: <bonMass>%

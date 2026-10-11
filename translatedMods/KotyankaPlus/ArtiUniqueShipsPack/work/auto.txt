@@ -1,0 +1,28 @@
+По рукам!	Alrighty!
+В общем, с гордостью представляю тебе нашу собственную судостроительную верфь! По размерам и мощностям она, конечно, не сравнится с планетарной, но на покрытие нашей скромной потребности в новых специализированных корпусах её производительности вполне хватит.	Anyway, I proudly present to you our very own shipyard! In size and capacity it can't compare with a planetary one, of course, but its output is quite enough to cover our modest need for new specialized hulls.
+К слову, в самое ближайшее время планируется замена всех устаревших моделей корпусов на новый, уникальный в своём роде, корабль нашей собственной конструкции - <clr>"Звездный скат"<clrEnd>. Отличительной чертой нового корпуса станет повышенная манёвренность и длительное сохранение инерционной тяги, благодаря чему он сможет развивать впечатляющую скорость, на фэянскую голову превосходящую возможности всех прочих судов аналогичного класса. Кстати, опытный образец уже был доставлен к тебе на склад, так что можешь в любой момент самостоятельно опробовать эту птичку.	By the way, in the very near future we plan to replace all outdated hull models with a new, unique ship of our own design - the <clr>"Star Stingray"<clrEnd>. The new hull's distinguishing features will be high maneuverability and long-lasting inertial thrust, thanks to which it will reach impressive speed, surpassing by a full faeyan head the capabilities of all other ships of its class. By the way, a prototype has already been delivered to your warehouse, so you can try this bird out yourself at any time.
+Ах да, и чуть не забыл! Если мы докажем свою ярую приверженность делу <clr>Коалиции<clrEnd> или <clr>пиратскому клану<clrEnd>, то сможем заполучить ограниченную лицензию на производство собственных <clr>транклюкаторов<clrEnd>. Удовольствие, конечно, будет не из дешёвых, но лишних роботов в хозяйстве не бывает, верно? Если, конечно, они не доминаторы, хе-хе.	Ah yes, and I almost forgot! If we prove our fierce devotion to the cause of the <clr>Coalition<clrEnd> or the <clr>pirate clan<clrEnd>, we can obtain a limited license to produce our own <clr>tranclucators<clrEnd>. The pleasure won't be cheap, of course, but you can't have too many robots around the place, right? Unless they're Dominators, heh-heh.
+<color=255,240,100>Донесение из штаба:</color>	<color=255,240,100>Report from HQ:</color>
+Стоимость: <Cost> cr.	Cost: <Cost> cr.
+Навык манёвренности: <bonSkill2>	Mobility skill: <bonSkill2>
+Навык техники: <bonSkill3>	Technology skill: <bonSkill3>
+Скорость двигателя: <bonSpeed> ед.	Engine speed: <bonSpeed>
+Генератор поля: <bonDef> ед.	Shield generator: <bonDef>%
+Масса корабля: <bonMass><clr>%<clrEnd>	Ship mass: <bonMass><clr>%<clrEnd>
+Навык точности: <bonSkill1>	Attack skill: <bonSkill1>
+Навык обаяния: <bonSkill5>	Charisma skill: <bonSkill5>
+Навык лидерства: <bonSkill6>	Leadership skill: <bonSkill6>
+Дальность стрельбы: <bonWRadius> млн км	Firing range: <bonWRadius> million km
+Навык торговли: <bonSkill4>	Commerce skill: <bonSkill4>
+Дальность радара: <bonRadar> млн. км.	Radar range: <bonRadar> million km.
+Мощность сканера: <bonScan> ед.	Scanner power: <bonScan>.
+Мощность захвата: <bonHook> ед.	Gripper power: <bonHook>
+Эффективность дроида: <bonDroid> ед.	Droid effectiveness: <bonDroid>
+Сила ракетного оружия: <bonWMissile> ед.	Missile weapons damage: <bonWMissile>
+Сила энергетического оружия: <bonWEnergy> ед.	Energy weapons damage: <bonWEnergy>
+Сила осколочного оружия: <bonWSplinter> ед.	Fragmentation weapons damage: <bonWSplinter>
+Броня корпуса: <bonHull> ед.	Hull armor: <bonHull>
+Дальность стрельбы: <bonWRadius> ед.	Firing range: <bonWRadius>
+Дальность прыжка: <bonJump> пк.	Jump range: <bonJump> pc
+Скорость ракет: <bonMissileSpeed> ед.	Missile speed: <bonMissileSpeed> units
+ракетный	missile

@@ -1,0 +1,4 @@
+1	MicroModuls/Cat_Ships_Blazer/Name
+2	MicroModuls/Cat_Ships_Blazer/Text
+3	MicroModuls/Cat_Ships_Blazer/Text
+4	MicroModuls/Cat_Ships_Blazer/Text

@@ -1,0 +1,15 @@
+1	Artefacts/ArtAntigrav/Text
+2	Artefacts/ArtDef/Text
+3	Artefacts/ArtDefToArms1/Text
+4	Artefacts/ArtDefToEnergy/Text
+5	Artefacts/ArtDroid/Text
+6	Artefacts/ArtFastRacks/Text
+7	Artefacts/ArtGiperJump/Text
+8	Artefacts/ArtHook/Text
+9	Artefacts/ArtHull/Text
+10	Artefacts/ArtNano/Text
+11	Artefacts/ArtPDTurret/Text
+12	Artefacts/ArtRadar/Text
+13	Artefacts/ArtScaner/Text
+14	Artefacts/ArtSplinter/Text
+15	Artefacts/ArtWeaponToSpeed/Text

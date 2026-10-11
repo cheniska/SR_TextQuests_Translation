@@ -1,0 +1,10 @@
+1	MicroModuls/Cat_Klaxons_SpiderMan/Name
+2	MicroModuls/Cat_Klaxons_SpiderMan/Text
+3	MicroModuls/Cat_Klaxons_SpiderMan/Text
+4	MicroModuls/Cat_Klaxons_SpiderMan/Text
+5	MicroModuls/Cat_Klaxons_SpiderMan/Text
+6	MicroModuls/Cat_Klaxons_SpiderMan/Text
+7	MicroModuls/Cat_Klaxons_SpiderMan/Text
+8	MicroModuls/Cat_Klaxons_SpiderMan/Text
+9	MicroModuls/Cat_Klaxons_SpiderMan/Text
+10	MicroModuls/Cat_Klaxons_SpiderMan/Text

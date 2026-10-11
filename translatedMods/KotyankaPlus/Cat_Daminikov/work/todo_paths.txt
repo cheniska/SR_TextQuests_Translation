@@ -1,0 +1,7 @@
+1	MicroModuls/Cat_Ships_Daminikov/Name
+2	MicroModuls/Cat_Ships_Daminikov/Text
+3	MicroModuls/Cat_Ships_Daminikov/Text
+4	MicroModuls/Cat_Ships_Daminikov/Text
+5	MicroModuls/Cat_Ships_Daminikov/Text
+6	MicroModuls/Cat_Ships_Daminikov/Text
+7	MicroModuls/Cat_Ships_Daminikov/Text

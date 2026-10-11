@@ -1,0 +1,15 @@
+Дальность стрельбы: <bonWRadius> ед.	Firing range: <bonWRadius>
+Дальность прыжка: <bonJump> ед.	Jumping range: <bonJump>
+Мощность энергетического оружия: <bonWEnergy> ед.	Energy weapon power: <bonWEnergy> units
+Мощность осколочного оружия: <bonWSplinter> ед.	Splinter weapon power: <bonWSplinter> units
+Масса корабля: <bonMass>%	Ship mass: <bonMass>%
+Эффективность дроида: <bonDroid> ед.	Droid effectiveness: <bonDroid>
+Броня корпуса: <bonHull> ед.	Hull armor: <bonHull>
+Скорость двигателя: <bonSpeed> ед.	Engine speed: <bonSpeed>
+Дальность радара: <bonRadar> ед.	Radar range: <bonRadar>
+Навык маневренности: <bonSkill2>	Mobility skill: <bonSkill2>
+Навык торговли: <bonSkill4>	Commerce skill: <bonSkill4>
+Мощность ракетного оружия: <bonWMissile> ед.	Missile weapon power: <bonWMissile> units
+Дальность захвата: <bonHookRadius> ед.	Gripper range: <bonHookRadius>
+Мощность захвата: <bonHook> ед.	Gripper power: <bonHook>
+Навык манёвренности: <bonSkill2>	Mobility skill: <bonSkill2>

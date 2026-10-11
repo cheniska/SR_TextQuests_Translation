@@ -1,0 +1,24 @@
+1	Star Wanderer
+2	<color=248,252,248>An experimental prototype created by scientists from the wreckage of spaceships of an unknown race using acryn technologies. The uniqueness of this starship lies in the multitude of artifacts and micromodules already built in. Unfortunately, all attempts to launch serial production were unsuccessful owing to the lack of the corresponding manufacturing technologies.</color>
+3	Hull mass: <bonMass>%
+4	Shield power: <bonDef> units
+5	Base <0> was destroyed, along with your investment in the project...
+6	Base <0> has finished construction and research, you can come!
+7	I don't understand what you're talking about
+8	Let's get to work
+9	Excellent, I'll go have a look at it.
+10	For which you were looking for an experienced pilot...
+11	Okay
+12	Well, all that remains is to wait until you finish
+13	And when will you be able to finish?
+14	I must have got the wrong address, sorry.
+15	That's what I flew here for! I'm already transferring the money and unloading the nodes to your warehouse.
+16	I came back to find out - what about that project I sponsored?
+17	I need to think.
+18	Hello, I was recently surfing the Galanet and saw an article saying you are looking for an experienced pilot to sponsor and test a new experimental ship. Is that so?
+19	Yes, that's right. If you are <0> ready to allot us <1> cr. and <2> nodes, we pledge to prepare the ship for flights in the near future and hand it over to you. Do you agree?
+20	Yes-yes, we've been expecting you. We managed to build this unit and conduct all the necessary tests, you can get it in the hangar. And thank you once again for your help in the research, this testing helped us very much in understanding certain things.<br>
+21	What project?
+22	I know nothing, you sponsored nothing at this station. Perhaps they can help you at <0>
+23	The work is experimental, and we run tests at every stage of the ship's construction. For now all I can say is that it isn't ready.<br>
+24	The work will be finished approximately <0>.

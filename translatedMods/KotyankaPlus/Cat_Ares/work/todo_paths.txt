@@ -1,0 +1,4 @@
+1	MicroModuls/Cat_Ships_Ares/Name
+2	MicroModuls/Cat_Ships_Ares/Text
+3	MicroModuls/Cat_Ships_Ares/Text
+4	MicroModuls/Cat_Ships_Ares/Text

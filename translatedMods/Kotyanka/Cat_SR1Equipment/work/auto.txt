@@ -1,0 +1,7 @@
+Генератор поля: <bonDef> ед.	Shield generator: <bonDef>%
+Эффективность дроида: <bonDroid> ед.	Droid effectiveness: <bonDroid>
+Скорость двигателя: <bonSpeed> ед.	Engine speed: <bonSpeed>
+Мощность захвата: <bonHook> ед.	Gripper power: <bonHook>
+Дальность захвата: <bonHookRadius> ед.	Gripper range: <bonHookRadius>
+Дальность радара: <bonRadar> ед.	Radar range: <bonRadar>
+Мощность сканера: <bonScan> ед.	Scanner power: <bonScan>.

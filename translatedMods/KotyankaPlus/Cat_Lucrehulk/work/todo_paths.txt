@@ -1,0 +1,2 @@
+1	MicroModuls/Cat_Ships_Lucrehulk/Name
+2	MicroModuls/Cat_Ships_Lucrehulk/Text

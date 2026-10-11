@@ -1,0 +1,20 @@
+Броня корпуса: <bonHull> ед.	Hull armor: <bonHull>
+Мощность сканера: <bonScan> ед.	Scanner power: <bonScan>.
+Скорость двигателя: <bonSpeed> ед.	Engine speed: <bonSpeed>
+Навык манёвренности: <bonSkill2>	Mobility skill: <bonSkill2>
+Навык техники: <bonSkill3>	Technology skill: <bonSkill3>
+Навык торговли: <bonSkill4>	Commerce skill: <bonSkill4>
+Навык обаяния: <bonSkill5>	Charisma skill: <bonSkill5>
+Навык лидерства: <bonSkill6>	Leadership skill: <bonSkill6>
+Мощность энергетического оружия: <bonWEnergy> ед.	Energy weapon power: <bonWEnergy> units
+Мощность осколочного оружия: <bonWSplinter> ед.	Splinter weapon power: <bonWSplinter> units
+Мощность ракетного оружия: <bonWMissile> ед.	Missile weapon power: <bonWMissile> units
+Масса корабля: <bonMass>%	Ship mass: <bonMass>%
+Навык точности: <bonSkill1>	Attack skill: <bonSkill1>
+Мощность захвата: <bonHook> ед.	Gripper power: <bonHook>
+Дальность захвата: <bonHookRadius> ед.	Gripper range: <bonHookRadius>
+Эффективность дроида: <bonDroid> ед.	Droid effectiveness: <bonDroid>
+Дальность прыжка: <bonJump> ед.	Jumping range: <bonJump>
+Громодрын	Massodrope
+Ястреб	Hawk
+Вихрь	Vortex

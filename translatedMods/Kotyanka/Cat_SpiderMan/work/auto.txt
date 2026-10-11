@@ -1,0 +1,1 @@
+Дальность захвата: <bonHookRadius> ед.	Gripper range: <bonHookRadius>

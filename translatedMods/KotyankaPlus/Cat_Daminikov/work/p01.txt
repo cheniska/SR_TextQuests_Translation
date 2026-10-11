@@ -1,0 +1,7 @@
+1	Daminikov
+2	<color=248,252,248>The peleng government ordered from the gaals the best hull to the wishes of a national hero for completing a superhard task of finding information of gigantic strategic importance for the military fleet. Upon completion of the task by the gaals, the pelengs simply stole the ship, paying nothing. The gaals in response handed over blueprints for mass production to a private enterprise.</color>
+3	Shield power: <bonDef> units
+4	Gripper effectiveness: <bonHook> units
+5	Pull speed at close range: <bonHookMinSpeed> units
+6	Pull speed at long range: <bonHookMaxSpeed> units
+7	<color=248,252,248>The ship's additional properties refuse to work under the control of anyone other than</color> gaals and pelengs<color=248,252,248>.</color>

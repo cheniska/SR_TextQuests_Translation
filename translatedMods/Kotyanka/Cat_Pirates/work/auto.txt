@@ -1,0 +1,8 @@
+С возвращением, <0>. Никак, магазин наш пришел проверить? У нас там всегда много всякого хлама продается.	Welcome back, <0>. Anyway, have you come to check on our store? You can always find all kinds of junk there.
+Не, пожалуй, не сейчас	Nah, maybe not now
+Пять	Five
+Отлично	Great
+Ага, сейчас заценю барахлишко ваше.	Uh-huh, I'll check out your stuff right now.
+Да	Yes
+Нет	No
+Хорошо	Good

@@ -1,0 +1,24 @@
+1	Razor Crest
+2	<color=248,252,248>The gloomy mind of the great Uul Molek brought into the world a considerable number of mysterious and not very comprehensible creations, astonishing the whole Galaxy. This time the great technician was asked to make a small ship for a mercenary, but of a special alloy. The genius did not overthink it much and created a ship of strange shape with an improved targeting system and a more convenient placement of maneuvering thrusters - in short, everything an eternal warrior needs.</color>
+3	Base <0> was destroyed, along with your investment in the project...
+4	Base <0> has finished construction and research, you can come!
+5	The work will be finished approximately <0>.
+6	I don't understand what you're talking about
+7	The thing is that we got our hands on an unknown modification of a human ship. Judging by the documentation, badly damaged by beer and other low-alcohol products, it was made at one of the pirate bases in a single copy. We are interested in the possibility of repairing this unit and conducting some tests, after which you will be able to take it into your possession. If you haven't changed your mind, you pay <0> cr., and we'll handle everything else ourselves!
+8	Let's get to work!
+9	Excellent, I'll go have a look at it.
+10	Well, about the unique modification of a human ship...
+11	Okay
+12	Well, I'll be waiting
+13	And when will you be able to finish?
+14	I came back to find out what about that project I sponsored?
+15	Goodbye
+16	You've got me interested. So what is this project and how much will it cost?
+17	I'll gladly help you, for unique things are what makes life worth living!
+18	I came back to find out - what about that project I sponsored?
+19	Hello, I would like to ask whether you have any projects right now where a ranger's help could come in handy?
+20	Huh? A-a-ah, it's you, <0>... Forgive me - I was lost in thought for a moment... Yes, we have an unusual project here. True, it will cost us a rather large sum of credits, and management doesn't want to allocate money for it. However, judging by your reputation, you love everything unusual - regardless of cost. So I decided to ask: perhaps our experiment will interest you?
+21	Yes-yes, we've been expecting you.<br>We managed to build this unit and conduct all the necessary tests, you can take it into use in the station hangar.<br>And thank you once again for your help in the research - this testing helped us very much in understanding certain things.<br>
+22	What project?
+23	We haven't heard of anything like that. Ask at <0> - perhaps they've heard of such a thing there.
+24	The work is experimental, and we run tests at every stage of the ship's construction. For now all I can say is that it isn't ready.<br>

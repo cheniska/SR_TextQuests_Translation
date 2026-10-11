@@ -1,0 +1,20 @@
+1	Flying Dutchman
+2	<color=248,252,248>A prototype of a secret development of Coalition scientists in working with acryn technologies in the field of space shipbuilding. The manufacturing technology was stolen by pirates and modified to match their own design. Work is currently underway to launch serial production of this model.</color>
+3	Hull mass: <bonMass> %.
+4	Base <0> was destroyed, along with your investment in the project...
+5	Base <0> has finished configuring the onboard systems, you can come!
+6	I came back to find out: what about the ship, has the program been installed yet?
+7	Howdy, I heard you have a new unique hull, is that true?
+8	Yes, we do, but I'll say right away the hull is experimental, which means expensive and unique. Your services to the Pirate Clan inspire trust and, if you wish, we can sell you the hull, but first we'll load a tracking program into the onboard computer to get data for testing the systems. Does that suit you?
+9	Yes-yes, we've been expecting you, everything is ready, the ship is waiting for you in the warehouse!<br>
+10	I don't understand what you're talking about
+11	The work isn't dusty but it's long. Wait a couple more days.<br>
+12	The ship with the program will cost <0> cr. and <1> nodes.
+13	Let's get to work
+14	Excellent, I'll go have a look at it.
+15	All right, I must have landed at the wrong base.
+16	Well, all that remains is to wait until you finish
+17	Must have come to the wrong place...
+18	No argument there, but what about the price?
+19	Such a sum is no problem for me, show me your experiments!
+20	I need to save up some cash, I'll come by later.

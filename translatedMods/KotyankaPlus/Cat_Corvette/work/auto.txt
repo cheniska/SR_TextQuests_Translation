@@ -1,0 +1,3 @@
+Скорость ракет: <bonMissileSpeed> ед.	Missile speed: <bonMissileSpeed> units
+Я подумаю	I'll think about it
+Пожалуй, в другой раз	Maybe another time

@@ -1,0 +1,239 @@
+<color=30,255,30>Космические Рейнджеры HD: Революция</color>	<color=30,255,30>Space Rangers HD: Revolution</color>
+Команда разработчиков СНК-Games	CHK-Games Development Team
+Идея проекта и руководство	Project Concept and Management
+Яков Уваров	Yakov Uvarov
+Богдан Львов	Bohdan Lvov
+Михаил Белов	Mikhail Belov
+Александр Смирнов	Alexander Smirnov
+Игровой дизайн	Game Design
+Иван Ильичёв	Mikhail Belov
+Программирование	Programming
+Константин Савенков	Ivan Pashenko
+Дмитрий Иванюшин	Dmitry Ivanyushin
+Иван Пащенко	Sergey Berezhnoy
+Алексей Бондарчук	Bohdan Lvov
+Сергей Бережной	Ivan Alekseev
+Ведущий художник	Art Director
+Художники	Artists
+Иван Алексеев	Sergey Gishta
+Георгий Сучков	Bohdan Lvov
+Сергей Гишта	Yakov Uvarov
+Аниматор	Animator
+Тексты игрового мира	Gameworld Texts
+Владимир Жучкин	Ivan Alekseev
+Роберт Цатурян	Vladimir Zhuchkin
+Лучиан Моисеев	Alexander Smirnov
+Макс Михневич	Leonid Zhuravlev
+Богдан Марков	Nikita Skazkopodatelev
+Никита Лебедев (The Chewbacca)	Yuri Dzhul
+Александр Староверов	Nikita Maloletkov
+Авторы квестов	Quest Writers
+Александр Ложкин	Meanone
+Павел Оганесян	"End of War" - Nikita Maloletkov
+Степан Соловьёв	"From Orbit to Edge" - Viscount
+Никита Сказкоподателев	(lyrics and vocals - Sergey Sokol)
+Карты планетарных боёв	Planetary Map Design
+Юрий Джуль	Alexander Smirnov
+Звук и музыка	Music and Sound
+Никита Малолетков	Yakov Uvarov
+Денис Лиганов	Sergey Berezhnoy
+Артём Прищепов	Dmitry Sidorov
+Музыка в титрах	Credits Music
+"Конец войны" - Никита Малолетков	Maxim Pryakhin
+"От орбиты до края" - группа Виконт	Sergey Berezhnoy
+(стихи и вокал - Сергей Сокол)	Evgeniy Kuznetsov
+Корректура	Proofreading
+Тестирование	Testing
+Димитрий Сидоров	Ivan Ilyichev
+Клим Мельник	Anton Nikolaev
+Мстислав Кочаровский	Yakov Uvarov
+Дмитрий Евдокимов	Vladimir Zhuchkin
+Андрей Сизов	Yakov Uvarov
+Максим Пряхин	Sergey Berezhnoy
+Александр Сиденко	Konstantin Savenkov
+Алексей Темес	Vladimir Zhuchkin
+Евгений Кузнецов	Malodarom
+Александр Смирнов мл.	CheatRanger
+Игорь Калачев	Olesya Tusheva
+Аркадий Майдан	Ivan Kryuchkov
+Тестирование планетарных квестов	Planetary Quests Testing
+Леонид Журавлёв	Daria Filimonova
+Антон Николаев	Mstislav Kocharovskiy
+Евгений Никольский	Alexander Sukharev
+Документация	Documentation
+Сайт и форум	Site and Forum
+Таблица рекордов	Online Leaderboard
+Особое спасибо	Special Thanks
+Олесе Тушевой	Alexander Yazynin
+Ивану Крючкову	Ruslan Cherny
+Дарье Астафьевой	Yevgeniy Cherenkov
+Дарье Филимоновой	Sergey Simonov
+Вадиму Дашевскому	Nina Vatulich
+Давиду Ордовскому-Танаевскому	Artem Chivchalov
+Антону Николаеву	Oleg Okunev
+Дмитрию Лаврентьеву	Yekaterina Kravtsova
+Мстиславу Кочаровскому	JoniRam
+Александру Мардияну	Mikhail Seleznev
+Александру Сухареву	Nina Vatulich
+Евгению Никольскому	Denis Liganov
+Дмитрию Кормановскому	Vasily Shestovets
+и всем пользователям форумов	Alexander Vedeneev
+СНК-Games и "Млечный Путь"	K-D Music
+Команда разработчиков "Elemental Games"	Elemental Games Development Team
+Руководство, игровой дизайн	Management, Game Design
+Дмитрий Гусаров	Alexey Ismagilov
+Алексей Дубовой	Vasily Shestovets
+Александр Зеберг	Xenia Larionova
+Александр Паршин	Garry Gupalenko
+Ведущий художник-аниматор	Lead Animation Artist
+Александр Язынин	Yan Rosenberg
+Режиссер-аниматор	Animation Director
+Руслан Черный	Anna Plyusnina
+Дизайнер интерфейса	Interface Designer
+Евгений Черенков	Yuri Nesterenko
+3D графика	3D Graphics
+Сергей Симонов	Dmitry Gusarov
+Нина Ватулич	Ilya Plyusnin
+Артем Чивчалов	Ivan Magazinnikov
+2D графика	2D Graphics
+Олег Окунев	Denis Russkikh
+Екатерина Кравцова	Anton Mikhaylov
+Дизайн планет в космосе	Space Planet Design
+Михаил Селезнев	Natalya Beletskaya
+Дизайн планетарных карт	Planetary Map Design
+Музыка	Music
+Василий Шестовец	Artem Pyatkin
+Александр Веденеев	Ivan Magazinnikov
+Григорий Семенов	Ilya Plyusnin
+Денис Коржавин	Nikita Chernyshev
+Саундтрек	Soundtrack
+Ксения Ларионова	Dmitry Lapin
+Голоса в ролике	Trailer Voice Over
+Гарри Гупаленко	Sergey Kazacha
+Ян Розенберг	Ilya Efimov
+Анна Плюснина	Maxim Pankin
+Сюжет	Script
+Юрий Нестеренко	Alexander Smirnov
+Илья Плюснин	Sergey Igonkin
+Иван Магазинников	Alexander Zhurkovsky
+Денис Русских	Alexey Kosozhikhin
+Антон Михайлов	Anton Chivchalov
+Антон Чивчалов	Vladimir Levchenko
+Наталья Белецкая	Ivan Klevakichev
+Петр Хагги	Ilya Plyusnin
+Роман Веремчук	Yevgeniy Cherenkov
+Руководитель отдела квестов	Quest Department Head
+Артем Пяткин	Denis Russkikh
+Ведущие авторы квестов	Lead Quest Writers
+Никита Чернышёв	Konstantin Zavoloka
+Тарас Пристайло	Nikolay Dotsenko
+Андрей Анцут	Nadezhda Sverkunova
+Дмитрий Лапин	Alexey Sverkunov
+Сергей Казача	Oleg Tiktinsky
+Илья Ефимов	Maxim Shpagin
+Максим Панкин	Pavel Nosov
+Алексей Исмагилов	Dmitry Gusarov
+Сергей Игонькин	Alexey Dubovoy
+Александр Журковский	CheatRanger
+Алексей Косожихин	Alexey Dubovoy
+Владимир Левченко	Alexander Yazynin
+Иван Клевакичев	Ruslan Cherny
+Креативный директор и PR-менеджер	Creative Director & PR Manager
+Web-сайт и документация	Website & Documentation
+Анна Селезнева	Yuri Dzhul (Doctor M)
+Илья Язынин	Ruslan Cherny (R.T.)
+Василий Ватулич	Yevgeny Cherenkov (John)
+Константин Заволока	Evgeniy Chepikov (DeadMazay)
+Николай Доценко	Vladimir Kovalsky (Avtovor)
+Павел Куценко	Zheka Zubko (Sonic_X)
+Надежда Сверкунова	Andrey Chizhikov (StaR-ichok)
+Алексей Сверкунов	Alexander Mukbil (Proenix)
+Олег Тиктинский	Dmitry Nazarov (Mivulf)
+Максим Шпагин	Alexander Dmitranitsa (Piter Blood)
+Специальное спасибо	Special Thanks
+Павел Носов	Ivan Magazinnikov
+Любовь Берчанская	Alexander Smirnov
+Команда разработчиков аддона	Add-on Development Team
+<color=30,255,30>"Космические рейнджеры 2: Перезагрузка"</color>	<color=30,255,30>Space Rangers 2: Reboot"</color>
+Виктор Васильев (Gummy Bear)	Artem Pyatkin
+Координатор по внешним разработкам	External Coordinator
+Ведущий левел-дизайнер карт ПБ	PB Maps Lead Level Designer
+Руслан Чeрный	Alexander Lozhkin (Lightbringer)
+Создатели карт ПБ	PB Maps Authors
+Юрий Джуль (Доктор М)	Ivan Alekseev
+Руслан Чeрный (R.T.)	Anton Nikolaev (Koveras)
+Евгений Черенков (John)	Vladimir Zhuchkin (Bret)
+Евгений Чепиков (DeadMazay)	Leonid Zhuravlev (Leo san)
+Владимир Ковальский (Автовор)	Artem Radchenko (Carnage)
+Жека Зубко (Sonic_X)	Andrey Smolensky (QrazyDraqon)
+Андрей Чижиков (StaR-ichok)	Dmitry Kormanovsky (Kord)
+Александр Мукбиль (Proenix)	Ilya Tolkushin (Profy)
+Дмитрий Назаров (Mivulf)	Stepan Krasilnik (Angel)
+Александр Дмитраница (Piter Blood)	Ivan Alekseev
+Константин Егоров-Белоусов	Alexander Mukbil (Proenix)
+Руководство квестового отдела	Quest Department Management
+Артем Букирь (Artеmer)	Ivan Magazinnikov
+Михаил Меженин (Русский Маньяк)	Andrey Perevoznikov (Axiton)
+Руслан Черный (R.T.)	Dmitry Ushenko (>ALBA ATER<)
+Антон Николаев (Коверас)	Vladimir Lyubaev (Badboy)
+Владимир Жучкин (Bret)	Alexander Sukharev (iplinir)
+Леонид Журавлев (Лео сан)	Maxim Talyalev (Cat)
+Артем Радченко (Карнедж)	Anatoly Yakovishin (Anatys)
+Андрей Смоленский (QrazyDraqon)	Leonid Strelok (Shadow)
+Дмитрий Кормановский (Kord)	Dmitry Ustyuzhanin (Kostoprav)
+Илья Толкушкин (Profy)	Andrey Kuzminov (NaOH)
+Степан Красильник (Angel)	Alexander Mukbil (Proenix)
+Андрей Косинский (Kasik)	Ivan Ilyichev (Nikolas Dreik)
+Сергей Гишта (Ice)	Viktor Olkhovsky (HammerThor)
+Теймур Мамедов (Linx)	Alexey Ukolov (Cosmonaut)
+Роман Григорьев (Dezmant)	Dmitry Pivtsaev (Winston)
+Даниил Жбанов (Warrior)	Daniil Zhbanov (Warrior)
+Авторы правительственных заданий	Government Building Creators
+Андрей Перевозников (Axiton)	and the Elemental Games forum
+Дмитрий Ющенко (>ALBA ATER<)	Alexey Sitnikov
+Николай Малюков (Hater)	Yuri Zbyranik
+Владимир Любаев (Badboy)	Vladimir Zhuchkin (Bret)
+Александр Сухарев (iplinir)	Maxim Pankin
+Максим Талялёв (Кот)	Viktor Olkhovsky (HammerThor)
+Анатолий Яковишин (Anatys)	Alexey Ukolov (Cosmonaut)
+Леонид Стрелок (Shadow)	Alexander Mukbil (Proenix)
+Дмитрий Устюжанин (Kostoprav)	Alexander Konovalov (Maloc Neo)
+Андрей Кузьминов (NaOH)	Andrey Kostylev (Feanor)
+Артём Букирь (Artеmer)	Dmitry Sidorov (Dimusik)
+Иван Ильичёв (Nikolas Dreik)	Dmitry Ustyuzhanin (Kostoprav)
+Виктор Ольховский (HammerThor)	Eduard Knyazev (Indra)
+Алексей Уколов (Космонавт)	Mikhail Mikhaylov (very hard)
+Дизайн карт аркадных боев	Arcade Battles Map Design
+Эдуард Князев (Indra)	Igor Shamanov (Magus)
+Дмитрий Пивцаев (Винстон)	Sergey Starshinov (Husim)
+Фан - арт	Fan Art
+и форум "Elemental Games"	Oleg Migalovsky (Morcar)
+Алексей Ситников	Alexey Khizhnyak (Excelsior)
+Юрий Збыраник	Yuri Shelyakin (Corporat PSC)
+Леонид Журавлёв (Лео сан)	Ivan Ilyichev (Nikolas Dreik)
+Александр Коновалов (Maloc Neo)	Dmitry Semenov
+Андрей Костылев (Феанор)	Roman Truba
+Евгений Светлов (Gazahod)	David Ordovskiy-Tanaevskiy
+Дмитрий Сидоров (Dimusik)	Artem Morozov
+Михаил Михайлов (very hard)	Alexander Pashkovsky
+Игорь Шаманов (Magus)	Pavel Golubev
+Сергей Старшинов (Husim)	Yakov Uvarov
+Петр Крохин  (Groboid)	And all fans of the
+Роман Величкин (storm)	Elemental Games forum
+Александр Дрогичинский (AleksD)	Sergey Gerasev
+Олег Мигаловский (Morcar)	Yuri Miroshnikov
+Алексей Хижняк (Excelsior)	Nikolay Baryshnikov
+Юрий Шелякин (Corporat PSC)	Alexander Gurin
+Максим Деринг (Lap=ЮР=)	Anatoly Subbotin
+Огромное спасибо	Huge Thanks
+Союзу Независимых Квестописателей	Alexander Latyshev
+CHК-GAMES	Marina Savateyeva
+Дмитрию Семёнову	Alexander Trifonov
+Роману Трубе	Petr Vysotin
+Фирма "1С"	1C Company
+Пpодюсеp	Producer
+Помощник продюсера	Assistant Producer
+Маpкетинг и PR	Marketing & PR
+Дизайн и веpстка рекламных материалов	Promotional Materials Design and Layout
+Тестиpование	Testing
+Автовор	 Avtoror

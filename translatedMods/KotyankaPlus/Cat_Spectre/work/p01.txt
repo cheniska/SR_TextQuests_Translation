@@ -1,0 +1,3 @@
+1	Spectre
+2	<color=248,252,248>Meet the Spectre. Many call this ship perfect, and with good reason, for it was created specifically to suit everyone in their endeavors, whatever they do. And the open patent of this ship allows anyone who wishes to produce them, thanks to which it can be met on any human planet or even pirate station.</color>
+3	Shield power: <bonDef> units

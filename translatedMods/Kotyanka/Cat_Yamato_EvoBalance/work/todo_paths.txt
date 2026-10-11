@@ -1,0 +1,11 @@
+1	MicroModuls/Cat_Yamato_Rebuilt/Name
+2	MicroModuls/Cat_Yamato_Rebuilt/Text
+3	MicroModuls/Cat_Yamato_Rebuilt/Text
+4	MicroModuls/Cat_Yamato_Rebuilt/Text
+5	MicroModuls/Cat_Yamato_Rebuilt/Text
+6	MicroModuls/Cat_Yamato_Rebuilt/Text
+7	MicroModuls/Cat_Yamato_Upgraded/Name
+8	MicroModuls/Cat_Yamato_Upgraded/Text
+9	MicroModuls/Cat_Yamato_Upgraded/Text
+10	MicroModuls/Cat_Yamato_Upgraded/Text
+11	MicroModuls/Cat_Yamato_Upgraded/Text

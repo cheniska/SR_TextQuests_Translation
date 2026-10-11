@@ -1,0 +1,3 @@
+Акринатор	Acrynator
+Размер: <clr>+100%<clrEnd>	Size: <clr>+100%<clrEnd>
+Стоимость: <clr>+100%<clrEnd>	Cost: <clr>+100%<clrEnd>

@@ -1,0 +1,5 @@
+Мощность энергетического оружия: <bonWEnergy> ед.	Energy weapon power: <bonWEnergy> units
+Эффективность дроида: <bonDroid> ед.	Droid effectiveness: <bonDroid>
+Скорость двигателя: <bonSpeed> ед.	Engine speed: <bonSpeed>
+Хорошо	Good
+Я подумаю	I'll think about it

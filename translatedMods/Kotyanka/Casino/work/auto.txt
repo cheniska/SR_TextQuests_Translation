@@ -1,0 +1,5 @@
+Да	Yes
+Нет	No
+1 января	January 1
+Я передумал.	I changed my mind.
+Спасибо.	Thank you.

@@ -1,0 +1,50 @@
+Корпус "Добрейший лякуша"	Benevolent Lyakusha Hull
+<color=248,252,248>Данный корпус эксклюзивно прокачан известным пеленгским мастером Ицзибитом. Система управления настроена на максимальную атакующую мощь. Точно не подойдет любителям поторговать.</color>	<color=248,252,248>This hull has been upgraded by renowned peleng master Itzibit. The entire control system is configured for maximum firepower. Definitely not for commerce enthusiasts.</color>.
+Сила энергетического оружия: <bonWEnergy> ед.	Energy weapons damage: <bonWEnergy>
+Сила осколочного оружия: <bonWSplinter> ед.	Fragmentation weapons damage: <bonWSplinter>
+Сила ракетного оружия: <bonWMissile> ед.	Missile weapons damage: <bonWMissile>
+Дальность стрельбы: <bonWRadius> ед.	Firing range: <bonWRadius>
+Навык торговли: <bonSkill4>	Commerce skill: <bonSkill4>
+Корпус "Безобиднейший корсар"	Pacifist Corsair Hull
+<color=248,252,248>Данный корпус эксклюзивно прокачан известным пеленгским мастером Ицзибитом. Вся структура корабля разработана с учетом максимальной защиты. Его минус - это сложные электронные системы управления. Из-за их медлительности и неточности навыки пилота мало на что влияют.</color>	<color=248,252,248>This hull has been upgraded by renowned peleng master Itzibit. The ship's entire structure is aimed at optimizing its defensive capabilities to the fullest. Its main drawback amounts to overly complicated control systems. Due to their lacking speed and accuracy, the pilot's skills have very little impact.</color>
+Броня корпуса: <bonHull> ед.	Hull armor: <bonHull>
+Генератор поля: <bonDef> ед.	Shield generator: <bonDef>%
+Навык атаки: <bonSkill1>	Attack skill: <bonSkill1>
+Навык маневренности: <bonSkill2>	Mobility skill: <bonSkill2>
+Навык техники: <bonSkill3>	Technology skill: <bonSkill3>
+Корпус "Честнейший ренегал"	Honest Renegal Hull
+<color=248,252,248>Данный корпус эксклюзивно прокачан известным пеленгским мастером Ицзибитом. Благодаря инновационной технологии с шестью крыльями, создает вокруг корабля энергетическое поле, уменьшающее массу корабля, усиливающее дальность гиперпрыжка и, как приятный бонус, усиливающее работу захвата. Неприятный бонус в том, что его владельцу никто не дает скидок из зависти.</color>	<color=248,252,248>This hull has been upgraded by renowned peleng master Itzibit. Thanks to state-of-the-art six-wing technology, it forms an energy field around the ship, which reduces it's mass, boosts hyperjump range and, as a welcome bonus, enhances the gripper's functionality. The unwelcome bonus is that everyone around becomes so green with envy that you can forget about getting a discount on... well, anything.</color>
+Дальность прыжка: <bonJump> ед.	Jumping range: <bonJump>
+Дальность захвата: <bonHookRadius> ед.	Gripper range: <bonHookRadius>
+Масса корабля: <bonMass>%	Ship mass: <bonMass>%
+Корпус "Молния" V	Dandy Hull V
+<color=248,252,248>Агрессивный внешне спецкорпус, модернизированный в тюнинговой компании "Дядя Вася и сыновья", разработан для тех, кто любит путешествовать по галактике, предпочитая торговые операции и правительственные приключения кровопролитным сражениям.</color>	<color=248,252,248>Modernized by Uncle Jimmy and Sons styling company, this externally and internally elegant special designation hull is for those who love to travel the Galaxy, favoring commercial dealings and diplomatic adventures to bloody battles.</color>
+Дальность радара: <bonRadar> ед.	Radar range: <bonRadar>
+Корпус "Броненосец" V	Ironclad Hull V
+<color=248,252,248>Экспериментальный образец корпуса серии "Броненосец" нового поколения. Таких корпусов нет в продаже по причине их чрезмерной дороговизны в производстве, но один экземпляр был построен и успешно прошел все испытания. Ни у кого не повернется язык назвать это чудо инженерной мысли "утюгом".</color>	<color=248,252,248>A new generation experimental version of the Ironclad series of hulls. The design never made it to the open market due to extreme manufacturing costs. One unit, however, was fully constructed and even passed all production tests. And no one would ever dare call this engineering wonder a "press iron."</color>
+Скорость двигателя: <bonSpeed> ед.	Engine speed: <bonSpeed>
+Броня корпуса: <bonHull>	Hull armor: <bonHull>
+Корпус "Ушастик" V	Dumbo Hull V
+<color=248,252,248>Данный эксклюзивный корпус получен прямиком из дизайнерского ателье Фаринапини, где его полностью переработали. Кабина пилота убрана в кожу и дерево светлых тонов, в ней есть бар и стереосистема класса hi-hi. Снаружи корпус украшен ювелирными камнями от Свароковски и покрыт слоем специальной защиты, который не позволит всей этой красоте отвалиться при первом же входе в атмосферу.</color>	<color=248,252,248>This exclusive hull arrived on the market straight from the Farinapini design studio, where it received a full makeover. The cockpit was trimmed with leather and light tone wood flooring. A bar and a hi-hi category stereo sound system were installed. On the surface the hull was ornamented with Swarokok crystals and overlaid with a special defensive coating to prevent all this loveliness from falling off as soon as the ship enters a planet's atmosphere.</color>
+Навык обаяния: <bonSkill5>	Charisma skill: <bonSkill5>
+<color=248,252,248>Современные технологии смогли адаптировать доисторического великана для использования рейнджерами. Тем не менее, внутри периодически раздается странная музыка, напоминающая марш, а боевая мощь этой махины продолжает поражать даже самых прожженных вояк.</color>	<color=248,252,248>Thanks to modern technologies, this prehistoric giant has been adapted for ranger use. And yet, there's still the occasional outburst of music from within, resembling some kind of march, while the machine's firepower continues to astound even the most hardened of soldiers.</color>
+Навык лидерства: <bonSkill6>	Leadership skill: <bonSkill6>
+Акринатор	Acrynator
+Размер: <clr>-30%<clrEnd>	Size: <clr>-30%<clrEnd>
+Эффективность дроида: <bonDroid> ед.	Droid effectiveness: <bonDroid>
+Размер: <clr>-10%<clrEnd>	Size: <clr>-10%<clrEnd>
+Объем бака: <bonFuel> ед.	Fuel tank capacity: <bonFuel>
+Размер: <clr>-50%<clrEnd>	Size: <clr>-50%<clrEnd>
+Мощность сканера: <bonScan> ед.	Scanner power: <bonScan>.
+Мощность захвата: <bonHook> ед.	Gripper power: <bonHook>
+Стоимость: <clr>+40%<clrEnd>	Cost: <clr>+40%<clrEnd>
+Дальность прыжка: <bonJump> пк.	Jump range: <bonJump> pc
+Дальность радара: <bonRadar> млн. км.	Radar range: <bonRadar> million km.
+Навык точности: <bonSkill1>	Attack skill: <bonSkill1>
+Навык манёвренности: <bonSkill2>	Mobility skill: <bonSkill2>
+Мощность осколочного оружия: <bonWSplinter> ед.	Splinter weapon power: <bonWSplinter> units
+Мощность ракетного оружия: <bonWMissile> ед.	Missile weapon power: <bonWMissile> units
+Мощность энергетического оружия: <bonWEnergy> ед.	Energy weapon power: <bonWEnergy> units
+Рачехан	Rachehan
+Корпус "Таухито"	"Tauhito" Hull
+Масса корабля: <bonMass><clr>%<clrEnd>	Ship mass: <bonMass><clr>%<clrEnd>

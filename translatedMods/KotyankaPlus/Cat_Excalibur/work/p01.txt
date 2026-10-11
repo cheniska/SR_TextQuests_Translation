@@ -1,0 +1,4 @@
+1	<color=248,252,248>At the order of Baron Chushkach, his personal ship was refitted from a 23rd-century multipurpose fighter formerly belonging to the first pirate Baron - the "Excalibur", integrating modern computer circuits and computing modules into the system architecture. However, the main improvements concerned the propulsion unit, the missile weapon targeting systems and the installation into the hull of several advanced shield generators. Thanks to the changes made, the ship not only reached the efficiency level of the best modern fighters but surpassed them by a head.</color>
+2	Shield power: <bonDef> units
+3	We-e-ell...<br><br>So you are the Supreme Baron now, right?<br>I was the chief adviser and right hand of the previous baron.<br>He took care of instructions in case of his death, so here - these are the keys to his personal ship, now they are yours, as is the ship.
+4	Come on, let's see what he flew in.

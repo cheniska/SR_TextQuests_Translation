@@ -1,0 +1,4 @@
+1	Ares
+2	<color=248,252,248>This ship bears the proud name of Ares, the god of war according to the ancient mythology of humanity. Designed in cooperation between unscrupulous human scientists and the pirate clan. Ergonomics and materials unusual for fighters allow great success in defensive functions without worsening, but rather increasing, offensive qualities. And adding a pirate catalyst to the fuel gives a good speed boost along with a rich and intimidating green color of the engine flame.</color>
+3	Shield power: <bonDef> units
+4	Gripper effectiveness: <bonHook> units

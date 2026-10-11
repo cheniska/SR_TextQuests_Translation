@@ -1,0 +1,4 @@
+1	Terron - Copy
+2	<color=248,252,248>Ever since the Gralgar slaughter the maloq military had been gnawed by the thought of showing this piece of iron called Terron the true military might of a living mind. And a living maloq genius decided that "like cures like," and that is how this experimental hull came to be.</color>
+3	<color=248,252,248>The practicality of such an approach is hard to grasp for races whose skin differs in color from Martian soil, so the built-in AI does not let anyone use all the functions of this ship except true warriors of the Galaxy.</color>
+4	Asteroid damage absorption: <bonResistAsteroid>%

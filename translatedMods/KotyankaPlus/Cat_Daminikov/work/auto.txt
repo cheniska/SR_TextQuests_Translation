@@ -1,0 +1,6 @@
+Мощность ракетного оружия: <bonWMissile> ед.	Missile weapon power: <bonWMissile> units
+Масса корабля: <bonMass>%	Ship mass: <bonMass>%
+Броня корпуса: <bonHull> ед.	Hull armor: <bonHull>
+Скорость двигателя: <bonSpeed> ед.	Engine speed: <bonSpeed>
+Эффективность дроида: <bonDroid> ед.	Droid effectiveness: <bonDroid>
+Дальность захвата: <bonHookRadius> ед.	Gripper range: <bonHookRadius>

@@ -1,0 +1,48 @@
+1	Pocket Watch
+2	MessageBox('That was strange');
+3	Ether(4,'tardis_activate_quest','Activate the watch and remember everything');
+4	MessageBox('A huge flow of thoughts, memories and knowledge, which seem so familiar, floods your mind, while the watch, to your surprise, simply dissolves into thin air');
+5	Strange Mechanism
+6	A pocket watch that looks very old.
+7	When you get close to it you hear strange speech, as if someone were whispering in your head
+8	Expands capacity to 50000
+9	Expander
+10	if(0) SFT('Deleted');
+11	Responsible for replenishing energy in the Tardis, energy is replenished only if the hull is equipped
+12	Energy replenishment
+13	TARDIS - Totally Absolutely Radical Drifting Infosystem
+14	A different form of life and at the same time a means of traveling through time and space, invented on an unknown planet.
+15	A TARDIS cannot be called a time machine specifically or a spaceship specifically - they are far more complex than these narrowly specific concepts.
+16	This model is stuck in the form of a 1960s police box because of a broken "Chameleon" circuit.
+17	All TARDISes are bound to their pilots through a symbiotic link and telepathic circuit, which makes selling the ship pointless.
+18	If anyone other than its owner or his acquaintances tries to use a TARDIS, it attacks their mind, leading to complete or partial memory loss.
+19	Looking at this marvel of technology, deep inside, in the recesses of consciousness, a hope is born that at one time inspired awe in enemies
+20	Weapons do not work
+21	<0> what, haven't you opened it yet?<br>Come now, you completed the mission but haven't gotten your memories back yet. Open it quickly - your knowledge is unique, the universe needs it!
+22	This is a watch with which an ancient race sealed its memories, and you are one of the last representatives of your race.<br><br>Yes, you are not quite human, you just look like this species, <0><br><br>What? How do I know that? You told us yourself with convincing evidence, and then sealed your memories into this mechanism, which you strictly forbade us to study and asked us to hide so that no one would find it.<br>But, apparently, the owner of the memories always reaches to regain them.<br><br>What, haven't gotten them back yet?<br><Player>, hurry up, your ship that you left for safekeeping is about to be delivered to the warehouse.<br>Time-Shmime, as one famous Doctor used to say.<br>
+23	You are not the one we expected to see with this, ahem, "watch", so hand it over to us immediately - you have no choice!
+24	Are you sure this is safe? When it's nearby, I hear strange voices and see incomprehensible images in my head, so familiar and dear, but at the same time I understand nothing.
+25	[Hand over the watch]
+26	The TARDIS is listening to you attentively<br><br>Energy: <0>/1000<br>Current gain: +<1><br><br>TARDIS abilities:<br>  Rock Mode:<br>Redirects the energy flow intended for the engine to the shield for complete invulnerability<br> -Requires <clr>500<clrEnd> energy<br>  Hyperleap:<br>Almost instantly moves to any point in the Galaxy<br> -Requires <clr>800<clrEnd> energy<br><br>Energy accumulation modes:<br><br> Energy-saving mode<br> Normal mode <br> Defensive mode<br><br>The ship is currently in mode: <2><br>Rock Mode: <3><br> <br><br>
+27	Ship in normal mode<br><br>Turning on Rock Mode will require 500 energy
+28	<0>Energy-saving</color> mode<br> + Double energy generation<br> - shield disabled<br><br><1>Normal</color> mode<br> +- Normal energy generation<br> +- Shield operates normally<br><br><2>Defensive</color> mode<br> - Generation reduced by 50%<br> + Shield strengthened by 30%
+29	The ship is currently in Rock Mode<br><br>Turning off Rock Mode will require <clr>100<clrEnd> energy
+30	This ship can perform <clr>hyperleaps<clrEnd> - instantly transferring to another point in space. All that is needed is a large amount of energy and a destination.
+31	Uber-Hyper-Travel
+32	Invulnerability control
+33	Energy control
+34	Activate Energy-saving Mode
+35	Activate Normal Mode
+36	Activate Defensive Mode
+37	Return to the bridge
+38	Turn on Rock Mode
+39	Turn off Rock Mode
+40	Perform a hyperleap
+41	Energy saving
+42	Defensive
+43	What secrets might the nearly infinite warehouses of the TARDIS hold? At least, something interesting has come into your hands
+44	Activate the watch and remember everything
+45	I found a strange little thing here. Can you tell me what it is?
+46	TARDIS ability control
+47	To use the ability you must be in open space
+48	To perform a leap, for safety you must be in open space
