@@ -1,0 +1,62 @@
+120	I confirm the course change
+121	The <0> system is under enemy control, and our base cannot take part in an offensive operation without a corresponding order from the Galaxy Council.<br>Choose a system under the control of Coalition forces.
+122	Choose a different system
+123	Awaiting confirmation of the course change order.
+124	Awaiting confirmation of the relocation order.
+125	Base movement control
+126	For relocation within the system you must specify a new basing point for the station. Since you are right here yourself, you cannot set your ship as a waypoint, so you'll have to choose from the list of coordinates of the local <clr>planets<clrEnd>.
+127	Also reminding you that our base is currently relocating within the <0> system. We are moving at <1> million km/day and should reach the destination in <2> <3>.
+128	At the moment base <0> is relocating within the <1> system. We are moving at <2> million km/day and should reach the destination in <3> <4>.<br>You can cancel the order or adjust the current course if you see fit.
+129	Set a course for <color=0,50,200>my ship</color>
+130	The new basing point is <clr>too close to the star<clrEnd>, relocation is impossible.<br>Give other coordinates, <Player>. Grilling our own backsides is not in our immediate plans at all.
+131	The new basing point is <clr>too far from the star<clrEnd>, relocation is impossible.<br>Give other coordinates, <Player>. On the outskirts of the system we simply won't be able to defend it if the enemy attacks.
+132	The number of space stations in the <0> system is currently quite enough not to worry about its defense capability.<br>We believe that flying there would be an irrational strategic decision.
+133	Crew - prepare for hyperjump!<br>Ranger <Player> - keep your distance and watch. You don't see a sight like this often!
+134	The course to the current coordinates of planet <0> is set.<br><br>Distance to target: <1> million km<br>Base speed: <2> million km/day<br>Estimated travel time: <3> <4><br><br><5>
+135	The course to the current coordinates of <clr>your ship<clrEnd> is set.<br><br>Distance to target: <0> million km<br>Base speed: <1> million km/day<br>Estimated travel time: <2> <3><br><br><4>
+136	Order accepted, changing course.<br>...<br>Course successfully corrected.<br>Just try to correct it less often, okay? After sharp turns I get complaints from the galley about broken dishes.
+137	Stop order accepted - all stop! I said brake! Bra-a-ake!!!<br>...<br>Ugh, damn, they keep recruiting conscripts!<br>Well, the stopping maneuver is, so to speak, complete, and military base <0> is switching to stationary mode.
+138	All this is very interesting, of course, but why is this generator called "portal" and not, say, "bubble"?
+139	Max. jump range:
+140	Maximum jump range:
+141	It says here <color=0,50,200>"Portal generator"</color>, can you tell me what that is?
+142	Well, sounds pretty cool - start the installation!
+143	Is there some way I can <color=0,50,200>improve</color> your <color=0,50,200>portal generator</color>?
+144	Well, your very question already contains part of the answer. The developers simply decided that the name of such a serious device should not be associated with children's toys or bubble-bath foam generators. Try saying it out loud yourself - <clr>Bubble Machine<clrEnd>! See, that's the thing, it's funny!<br>On the other hand, <clr>portals<clrEnd> are also a crucial part of this generator's successful operation. It isn't enough to create a hyperspace bubble, you also have to move the ship into it. It is through such portals that a ship enters the created bubble. One portal for entry - another for exit.<br>By the way, you are surely familiar with the principle of these portals if you have ever visited the so-called "black holes". In fact they are no holes at all but essentially the same portals into hyperspace bubbles, which are sometimes also wrongly called <clr>"hyperspace clots"<clrEnd>. Such "clots" differ from the bubbles we create only in that they are of natural origin and of far more considerable size, and are not subject to external control, and therefore eject ships that fall inside not to a predetermined point but wherever.<br>Well, I think that's enough free lectures for today. Will you sponsor the installation of the portal generator or not?<br><br><0> <clr>12<clrEnd> pc<br>Generator charge time: <clr>45<clrEnd> days<br><1><br>Installation cost: <2> cr.
+145	pc
+146	Ready to jump in:
+147	An <color=255,240,100>additional energy core</color> has been installed on this station, significantly improving<br>the operation of the portal generator and all power-dependent subsystems:<br><clr><clrEnd><br>
+148	<0> <color=255,240,100>additional energy cores</color> have been installed on this station, significantly improving<br>the operation of the portal generator and all power-dependent subsystems:<br><clr><clrEnd><br>
+149	Well, that sounds reasonable - the mechanics have already gotten to work.<br>...<br>The new energy core has been successfully installed and incorporated into the station's power supply system.<0>
+150	<br>Oh, by the way, wouldn't you like to buy insurance against sudden lightning strikes? Sure? We've had more and more cases lately. The atmosphere is extremely electrified, you know...
+151	That's already the third, by the way.<br>Allow me to shake your generous hand on this occasion... Ow!!! Why are you shocking me!? Do you walk around your ship in nothing but fur coats or what!? And you call yourself a ranger - ugh!
+152	Your guns may come in handy yet - install the energy core <0>
+153	I believe the ability to retreat promptly matters far more to you than firepower - install the energy core <0>
+154	in the artifact bay
+155	in the gun bay
+156	Can I <color=0,50,200>improve</color> your <color=0,50,200>portal generator</color> even more?
+157	Contact <color=0,50,200>technology center</color> <0>
+158	Contact <color=0,50,200>business center</color> <0>
+159	Contact <color=0,50,200>medical center</color> <0>
+160	Contact <color=0,50,200>ranger center</color> <0>
+161	Contact <color=0,50,200>research station</color> <0>
+162	the station is in <color=0,50,200>forced retreat</color> mode and will try to leave the system if it takes more than <color=0,50,200><0>%</color> damage to its hull structure.
+163	Have the station retreat after taking more than <color=0,50,200>25%</color> hull damage
+164	Have the station retreat after taking more than <color=0,50,200>50%</color> hull damage
+165	Have the station retreat after taking more than <color=0,50,200>75%</color> hull damage
+166	Not a step back! Let the station fight to the last!
+167	the station is in <color=0,50,200>resolute defense</color> mode and will steadfastly repel all enemy attacks to the very end.
+168	You know what, I changed my mind about making that jump
+169	I'm ready, open the portal
+170	No, cancel the jump, I changed my mind
+171	End sponsorship (the initial payment will be lost)
+172	Send me to the <color=0,50,200><0></color> system
+173	another <color=0,50,200>technology center</color>
+174	another <color=0,50,200>business center</color>
+175	another <color=0,50,200>ranger center</color>
+176	another <color=0,50,200>research station</color>
+177	Very well, <Player>, and where do you want to send us?<br><0>
+178	one <color=0,50,200>medical center</color>
+179	Don't worry, <Player>, no one is forcing you to do it. Come back any time you feel like it.
+180	Cancel the long-range jump, I changed my mind
+181	Sorry, no systems available for a jump were found within the range of our portal generator.

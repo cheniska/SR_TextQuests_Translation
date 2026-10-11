@@ -1,0 +1,64 @@
+56	Increase structure by <0> for <1> cr.
+57	Increase armor by <0> for <1> cr.
+58	Excellent!
+59	I agree, here's the money
+60	I'm ending my sponsorship of this station
+61	Stop moving
+62	Plot a new course
+63	Let's go!
+64	Understood
+65	Excellent! Our virtuosos of the welding torch and the sledgehammer have already bought everything they need and gotten to work. The new compartment and the accompanying communications system will be commissioned soon.<br>You'll hardly have time to blink before everything's ready!
+66	Way to go, <Player>! Our virtuosos of the welding torch and the sledgehammer have already bought everything they need and gotten to work. The new compartment and the accompanying communications system will be commissioned soon.<br>You'll hardly have time to blink before everything's ready!
+67	What do you say?
+68	Not interested
+69	energy
+70	energy
+71	What do you say?
+72	The <clr>Hurricane<clrEnd> has been successfully installed and calibrated, and the gunners are already taking a crash course to work with the new neural interface.<br>Very soon our base will be able to boast the longest-range guns in the boundless cosmos, and all thanks to you, <Player>.
+73	You will cover the rest.
+74	Well, welcome to a military base with plastic armor!<br>Don't be down, soldier, upgrading the base is much cheaper now, and repairs out of your own pocket will no longer bite so hard.
+75	Your pocket will cover the rest.
+76	Excellent, <Player>! Under the reliable cover of brand-new armor our boys will be able to hold back the aggressor at the approaches to the base even longer, even if they end up having to give their lives for it!<br>By the way, the new armor is already being welded to the frame. Go have a look yourself, if you like.
+77	Full hull upgrade for <0> cr.
+78	Thanks to your money, our base has finally received the upgrade it so needed. With such a splendid hull we could well retrain as a real battleship! Just kidding - a base can't possibly become a battleship, but you're still a great guy, <Player>.<br>By the way, check the list of available improvements, there's surely something new there.
+79	I need a detailed report on the state of the station
+80	I wish to improve your station's hull
+81	Thanks to your money, a total reconstruction of the base was carried out. The station shines like new!<br>Check the available improvements, it must be possible by now to bolt something interesting onto it.
+82	The new plating has already been delivered to the base and is being fixed to the load-bearing frame right now.<br>Thank you for your cooperation, <Player>, now the staff will have <clr>20<clrEnd> extra seconds to run to the escape pods when dominators attack the system.
+83	Well, welcome to a space station with plastic armor!<br>Don't be upset - improving such a station is much cheaper, and repairs out of your own funds will no longer be nearly as expensive.
+84	The <clr>Hurricane<clrEnd> has been successfully installed and calibrated, and the gunners are already taking a crash course to work with the new neural interface.<br>Very soon our station will be able to boast the longest-range guns in the boundless cosmos, and all thanks to you, <Player>.
+85	Guess which ear is buzzing on me? Both, you say? Ah, you! That's the sound of a working <clr>SMDG<clrEnd>!<br>Now our base is a real tough nut to crack and can give a worthy rebuff to any enemy!
+86	Come on, try to guess which ear is buzzing on me? Both, you say? Ah, you! That's the sound of a working <clr>SMDG<clrEnd>!<br>Now our base is a real tough nut to crack and can give a worthy rebuff to any enemy!
+87	Set a course for planet <0>
+88	Change the order
+89	Understood, over and out
+90	Cancel that, over and out
+91	What?! Leave this system and fly to another? But we can't leave billions of inhabitants undefended! Come on, <Player>, let's show these foes together how badly they erred by coming here!
+92	Choose a system within sector <0>.
+93	Target, the <0> system, confirmed. Military base <1> is ready to make a hyperjump on your order.
+94	What?! <Player>, such questions are the competence of senior officers, and besides, you look like neither an experienced leader nor a brilliant strategist. Or do you want to compromise our sector's defense?<br>Better go back to your ranger duties. About-face! Forward march!
+95	Another military base is already in the <0> system, and the command does not approve of several military bases in one system.
+96	Full speed ahead!
+97	Your base must change its location
+98	day
+99	days
+100	restart~Cancel that, keep moving
+101	restart~Cancel that, over and out
+102	restart~Cancel the change of location
+103	Yes, sir!
+104	restart~Understood, over and out
+105	restart~Yes, quite impressive!
+106	Cancel the change of location
+107	Make a jump to another system
+108	At the moment base <0> is in stationary mode and we have received no other orders from the Galaxy Council. Nevertheless, the command respects your merits and combat experience, so you may choose where the station will fly in the near future.<br>We are ready to carry out the order.
+109	Right now our base is preparing to strike a system captured by the enemy. This task was set by the Galaxy Council and has top priority, so all flights are temporarily forbidden.<br>By the way, if you want, you can join the operation. An extra pair of hands and guns won't hurt us.
+110	Cut the chatter! We're in enemy territory. Take off immediately and help our boys destroy the enemy!
+111	Contact <color=0,50,200>military base</color> <0>
+112	Our base can make a tactical flight and take up a new position within the <0> system. We can also use the long-range hyperdrive for instant travel to another star.<br>Just don't forget that the first-priority task of base <1> is the defense of sector <2>, which means a jump beyond it is impossible.
+113	restart~Understood
+114	Flight within the system
+115	Cancel that, keep moving
+116	As you should know, our base's hyperdrives differ greatly in power from those installed on ordinary ships. The overloads during interstellar transitions greatly exceed permissible norms, so all personnel and passengers must be in special cryo-chambers, and all ships being carried must be protected by a stasis field.<br>We did not plan any hyperjumps in the near future, so we can't take extra passengers with us.<br>Contact us from your ship's bridge right after takeoff and give the hyperjump order from there.
+117	Main engines start in 3.. 2.. 1.. Go... Whoa! What a jolt! So, ranger, feel the full power of the Interstellar Coalition?<br>Five seconds, flight normal... If we meet no surprises on the way, we'll be there in <0> <1>.
+118	Make a jump to the <0> system
+119	For relocation within the system you must specify a new basing point for the station. We can set a course for the current coordinates of one of the <clr>planets<clrEnd>, or for the coordinates of your own <clr>ship<clrEnd>.

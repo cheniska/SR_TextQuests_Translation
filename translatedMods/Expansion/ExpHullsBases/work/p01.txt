@@ -1,0 +1,55 @@
+1	Hull "SMDG-1"
+2	<color=248,252,248>A modified station hull. The structure of this hull is used as a huge emitter of a singular matter deviation generator (SMDG for short), designed to improve protection by pinpoint distortion of matter at the points where enemy shells hit. The generator also creates a negative vacuum rarefaction in the path of the station guns' shots, thereby increasing their firepower. To power the device, the communications system had to be completely rebuilt and the gripper bay occupied by an additional energy core.</color>
+3	Shield power: <bonDef>%
+4	Hull "Hurricane"
+5	<color=248,252,248>A modified station hull. A brand-new targeting system replaces the standard radar and corrects the operation of the guns, also helping the gunners to fire accurately. As a result, the firing range and accuracy of the station's armament increase substantially.</color>
+6	</color>Polyxenate Hull
+7	<color=248,252,248>A modified station hull. The metal in the armor and load-bearing structures has been replaced by polyxenate - a strong, inexpensive polymer that requires far less effort and money to maintain.</color>
+8	We can send the station to the current position of one of the <clr>local planets<clrEnd> or set the coordinates of <clr>your<clrEnd> own <clr>starship<clrEnd> as the jump destination.
+9	I want to use your portal generator
+10	Understood, <Player>, <0> is switching to <color=0,50,200>forced retreat</color> mode. Now, upon taking <color=0,50,200>moderate damage</color>, we will attempt to jump to the nearest enemy-free system.
+11	Understood, <Player>, <0> is switching to <color=0,50,200>forced retreat</color> mode. Now, upon taking <color=0,50,200>average damage</color>, we will attempt to jump to the nearest enemy-free system.
+12	Understood, <Player>, <0> is switching to <color=0,50,200>forced retreat</color> mode. Now, upon taking <color=0,50,200>serious damage</color>, we will attempt to jump to the nearest enemy-free system.
+13	Understood, <Player>, <0> is switching to <color=0,50,200>resolute defense</color> mode. If the enemy attacks, we will hold out to the end.
+14	Sorry, but our generator is charging. The next jump cannot be made earlier than in <0> days.
+15	Your communicator connected to the communication channel of <0>, and soon the worried face of the manager appeared on the monitor:<br><br>The <1> system is under attack, <Player>, so I have no time for idle talk right now. State the purpose of your call, but quickly and to the point.
+16	We would be sincerely glad to fulfill your wish. So, how exactly do you want to use our generator?
+17	Sorry, <Player>, but we simply cannot leave the system at such a tense moment, when hundreds or even thousands of wounded may need our urgent help. It would go against the fundamental principles of <clr>medical ethics<clrEnd>.
+18	Sorry, but the engine room has told me that our engine power is not enough for a hyperjump.<br>If you like, go poke around in the engine. Maybe you can squeeze a couple of extra parsecs out of it.
+19	Sorry, but the engine room has told me that our engine power is not enough to move this behemoth.<br>If you like, go poke around in the engine. Maybe you can squeeze a few extra "knots" out of it.
+20	You are currently <clr>too close to the star<clrEnd>, <Player>. I'm afraid that such proximity to a cosmic luminary could pose a serious threat to the integrity of our station's hull.<br>You must specify other coordinates for the jump.
+21	You are <clr>too far<clrEnd> from the center of the system, <Player>. From such a distance our station will not be able to effectively perform its main duties, not to mention the inevitable problems with food logistics.<br>You must specify other coordinates for the jump.
+22	Energy weapon power: <color=255,240,100>+</color><0><br>Radar range: <color=255,240,100>+</color><1> million km<br>Scanner power: <color=255,240,100>+</color><2><br>Gripper power: <color=255,240,100>+</color><3><br>Gripper range: <color=255,240,100>+</color><4><br>Gripper speed: <color=255,240,100>+</color><5><br>Shield generator: <color=255,240,100>+</color><6>
+23	Excellent, <Player>! We'll start installing and configuring the generator at once.<br>...<br>Done! The generator is installed and has already begun charging, and our station will soon be able to cut through space faster than the swiftest spaceships.<br>You are a wonderful sponsor, <Player> - the whole staff is delighted with the possibilities that have opened up before us! Be sure to come back in <0> days to personally give the order for the first hyperspace jump.
+24	<br>Hmm, haven't you noticed before that that lamp over there burns far too brightly? The electrician must have mixed up the watts again, I'll have to ask them to replace it.
+25	possible
+26	poss.
+27	<br><br><clr>Portal generator:<clrEnd><br>Max. jump range: <0> pc<br>Ready to jump in: <1>
+28	Polyxenate
+29	SMDG-1
+30	Days until scheduled repair: <0>
+31	Scheduled repair: <0>
+32	Your communicator connected to the communication channel of military base <0>, and soon the stern face of the captain appeared on the monitor:<br><color=1,1,1></color><br>Well, well, whose vile mug has turned up on my screen? <Player>, what you did you did in vain, you pathetic outcast! By the way, they have already launched after you, and all the station's guns are trained on you right now. And don't even try to bring up your rights! We won't let you live to see a tribunal anyway.
+33	Your communicator connected to the communication channel of military base <0>, and soon the puzzled face of the captain appeared on the monitor:<br><color=1,1,1></color><br>What the hell, a connection from a pirate ship was allowed? Disconnect. Immediately!
+34	Your communicator connected to the communication channel of military base <0>, and soon the serious face of the captain appeared on the monitor:<br><color=1,1,1></color><br>Military base <1> is preparing for a hyperjump, so we cannot take outside ships aboard. Keep your distance!
+35	Your communicator connected to the communication channel of military base <0>, and soon the serious face of the captain appeared on the monitor:<br><color=1,1,1></color><br>This is military base <1>. What do you need, ranger?
+36	Your communicator connected to the communication channel of military base <0>, and soon the tense face of the captain appeared on the monitor:<br><color=1,1,1></color><br>What the hell do you want, <Player>?! Can't you see we're in combat? Shut off the damn comms right now and help destroy the enemy!
+37	Note that we will <clr>not go<clrEnd> to systems already <clr>captured<clrEnd> by the enemy. However, to a system that is only <clr>under threat of capture<clrEnd> (marked red in the list), if it belongs to the Clan, we will gladly jump.<br>We also <clr>cannot<clrEnd> jump to a system where there already is <0>, or where there are <clr>more than four<clrEnd> other space stations. Alas, the Supremes consider that an excessive waste of the common fund.
+38	Note that we <clr>cannot go<clrEnd> to systems already <clr>captured<clrEnd> by the enemy. However, systems that are only <clr>under threat of capture<clrEnd> (marked red in the list) may hold a large number of wounded needing urgent medical help, and we simply cannot ignore that.<br>We also <clr>cannot<clrEnd> jump to a system where there already is <0>, or where there are <clr>more than four<clrEnd> other space stations. Such actions are regarded by the Galaxy Council as irrational allocation of strategic resources and are punished to the full severity of wartime.
+39	another <color=0,50,200>pirate base</color>
+40	pirate base <0>
+41	Pirate Base <0>
+42	Your communicator connected to the communication channel of <0>, and soon the stern face of the manager appeared on the monitor:<br><br>We want no dealings with those who have broken our code, <Player>! Fly closer so we can settle accounts with you!
+43	Your communicator connected to the communication channel of <0>, and soon the irritated face of the manager appeared on the monitor:<br><br><Player>, you must know perfectly well how we feel about you. If not, here's a hint: it's quite far from the meaning of the word "cordiality".<br>Be so kind as to disconnect and never try to hail the base again. We won't jabber with those who violate the code of brotherhood!
+44	of pirate base <0>
+45	Sorry, bro, but we couldn't find a single wretched little system to which we could move this flying junkyard.
+46	Of course, <Player> - after all, it is thanks to you that we have this wonderful device. We can transport your ship to any system within the range of our portal generator (<0> pc).<br><br>Here is the full list of systems available for transport:
+47	Of course, <Player>! Come by whenever you decide, the boys will go all out for you!
+48	Hello, <Player>. Reminding you that <0> is currently making a hyperspace jump to the <1> system. For our safety - lest you fly into the control room - all departures from the station are strictly forbidden until the jump is complete.<br>By the navigators' calculations we will exit the hyperspace bubble in <2> days, after which you can leave us in complete safety. Until then, I suggest passing the time at the bar over a glass of vtykila, or gazing out the portholes at hyperspace.
+49	Oh, of course! What shall we do with our portal generator?
+50	Heh... Well, that's not how it's done, even if you have the right! But mind you, next time you'll have to pour our whole crew a glass of vtykila!
+51	Contact <color=0,50,200>pirate base</color> <0>
+52	I have a couple of questions about your station
+53	And what interests you about our station?
+54	I want to buy nuclear torpedoes for your station
+55	I want to install nuclear weapons on your station

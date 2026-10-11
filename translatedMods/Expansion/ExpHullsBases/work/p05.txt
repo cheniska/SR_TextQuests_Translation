@@ -1,0 +1,67 @@
+252	Naturally, the Galaxy Council could not simply leave such technology in the enemy's hands, thereby granting it a serious military advantage, and so as soon as news of the pirate development reached the upper ranks, the ban on reproducing hyperspace bubble technology was urgently lifted, and the best minds of the Coalition set to work.
+253	In the end, even though the ancient technologies proved extremely complex and knowledge of their workings is partly lost, the task that pirate technicians had struggled to solve for many years was solved by our scientists in just a few months of not particularly strenuous work. True, unlike those the gaalians used in the days of galactic expansion, the bubbles created by the portal generator are rather <clr>unstable<clrEnd>, and so cannot maintain a sufficiently reliable structure for transit for too long. But, as tests have shown, even a short time spent in the bubble is quite enough for any space object to be practically instantly moved a very considerable distance. The most significant drawback of the portal generator is that each such move requires serious <clr>energy expenditure<clrEnd>, which in turn creates considerable difficulties in installing portal generators on small and medium-sized ships. Incidentally, it is because of this drawback that the pirates ended up turning their dominions into huge space power plants. And yet, even despite all the drawbacks and limitations, the very possibility of instantly moving such massive objects such great distances - isn't that a true marvel of technology, <Player>?
+254	And now you simply have to say "yes", and we will immediately begin installing the latest <clr>portal generator<clrEnd> on our station!
+255	TextCorr4 <clr>12<clrEnd> pc
+256	Generator charge time: <clr>45<clrEnd> days
+257	Installation cost: upgrade_cost_portalGen cr.
+258	Oh, certainly, <Player> - you can!
+259	Since the generator's main problem is its high consumption of on-board energy, we could install an <clr>additional energy core<clrEnd> on the station.
+260	Better power supply would not only shorten the generator's charge time but also raise the maximum jump range and, at the same time, boost the operation of all the station's power-dependent subsystems. Unfortunately, a full-fledged energy core takes up quite a lot of space, so to install it we would have to give up one <clr>gun<clrEnd> or <clr>artifact<clrEnd> bay.
+261	What do you say? Is it worth the candle?
+262	TextCorr4 <clr>+12<clrEnd> pc
+263	Generator charge time: <clr>-10<clrEnd> days
+264	TextCorr weapon power: <clr>+7<clrEnd>
+265	Radar range: <clr>+250<clrEnd> million km
+266	Scanner power: <clr>+5<clrEnd>
+267	Gripper power: <clr>+25<clrEnd>
+268	Gripper range: <clr>+25<clrEnd>
+269	Gripper speed: <clr>+3<clrEnd>
+270	Shield power: <clr>+5<clrEnd>
+271	Just so you know, modernizing our base will cost you a pretty penny, but what a result! Those paper-pushers from the ministries will never add a single extra credit to the bill for our technical support. Luckily we have brave and generous guys like you, <Player>.
+272	Here is a detailed report on the current condition of our base's hull:
+273	And you should also know that since the money is yours, as a sponsor you can yourself take a feasible part in strategic planning of future upgrades. Share your technical experience, so to speak.
+274	You'll find the list of potential improvements below.
+275	Well, all right, here is our latest tech summary:
+276	Everything here is on its last legs right now because of some rearrangements, so if you want to help with repairs, the guys will only be glad.
+277	Well then, here is the engineering report on the current condition of our base's hull:
+278	I hope I needn't separately remind you that disclosure of such information is punishable by tribunal to the full extent?
+279	I hope you didn't ask out of idle curiosity, or I wiped the screen for you for nothing, it seems
+280	Bro, there's a real chance!
+281	This isn't just a hunk of iron - it's a legend! Yes, yes, remember how our dear old <clr>Rachekhan<clrEnd> stole the blueprints from the gaalians back in the era of their <clr>galactic expansion<clrEnd>? Our brothers-colleagues licked them clean and put together a device that hurls ships and stations around, just like I toss plasma checkers into an ATM! Space bends here like a faeyan after a liter of starship spirit!
+282	After the klissan war, the Galaxy Council did everything it could to keep our native tech away from the brothers, but we're no fools and bagged their diplomats along with all the blueprints... Well, or nearly all, the rest we just shook out of Coalition academics with bribes and plain blackmail, but never mind. And then our smart guys, like true geniuses, built in a month better than the colas did in years! True, our bubbles are like a bottomless barrel - they don't hold long. But long enough for a jump! The main drawback - it guzzles energy like an ambassador from Stopka guzzles vodka. But we'll be able to "hop" all over our Arm of the galaxy like a spry penchekryak and do what we can to get the pirate cause moving!
+283	So, bro, say "aye" and we'll bolt this thing on - the <clr>portal generator<clrEnd>! You'll become a living legend in our quiet pirate haven, and at the bar for you everything that burns is strictly on us.
+284	You, <Player>, are a solid dude, you really made us happy!
+285	We'll bolt this gizmo on right now and won't know a worry - you could light a cigarette off a star with it! The egghead techs called it this... what's it called... <clr>additional energy core<clrEnd>, that's it!
+286	You understand - the bigger this energy-egg... ugh... core, the more respect from the guys, plus the station charges faster from it, and jump range grows. And the weapons will whistle, and the radars will see farther than Dzuhallag, and the shield generator will be thicker than a maloq's forehead, in short - total bliss! So don't delay upgrading it, bro. You can stuff this gizmo in by clearing all the extra junk out of a <clr>gun<clrEnd> or <clr>artifact<clrEnd> bay, your choice.
+287	So lay your dough on the barrel and let's roll. Ready?
+288	Tell me about the <clr>"SMDG"<clrEnd> project
+289	Tell me about the <clr>"Hurricane"<clrEnd> project
+290	I'm interested in <clr>simplifying<clrEnd> station maintenance
+291	Type: <HullName>
+292	Durability: <CurrentHitPoints>/<FullHitPoints><ScheduledRepair>
+293	Max. <4> durability: <MaxHitPoints>
+294	Current armor: <CurrentArmor> + (<AdditionalArmor>)
+295	Max. possible armor: <MaxArmor>
+296	Hull cost: <HullCost> cr.<AddText>
+297	Stability and security of mining enterprises are the pledge of economic success. You have made the right investment, <Player>.
+298	Oh, we are always glad to have sponsors! You can install new equipment on our base, or share your combat experience. First, though, you need to pay a small sum of money cr as insurance in case you break something... anything can happen. What do you say?
+299	Pity, but it's your business. Sign here and here, and the Galaxy Council will handle our further development. In any case, thank you for your cooperation!
+300	Well then, all the gates are open to you - come in, make yourself at home, you'll be our guest!
+301	Well, bro, you made us really happy. We're always glad to help our pirate community. But before we let you root around in our base's innards, you must pay a contribution of money cr into the common fund. Deal?
+302	All right, all right, that's just our little check, you never know. You cut our expenses nicely, so we bow to you to the ground. And we'll sort out the rest ourselves.
+303	Helping advanced engineering and design organizations is the way to superiority over all enemies of progress, and we appreciate that, <Player>
+304	Pity, but it's your business. Sign here and here, and we'll handle our further development ourselves. In any case, thank you for your cooperation!
+305	Sign here and here, and now you are the official sponsor of our station! Please, let's move on to the control panel
+306	Go to station management
+307	I wish to end my sponsorship of this station
+308	Coordinating the actions of everyone who offers their ship's services is an important task for eliminating chaos on the market, <Player>, and the market will repay you with gratitude!
+309	Pity, but it's your business. Sign here and here, and we'll handle our further development ourselves, from the income we get from our direct duties. Unfortunately, that will require cutting spending on purchasing advanced technologies...
+310	In any case, thank you for your cooperation!
+311	The development of equipment and technology is an important step on the path of progress and of victory over the enemies of intelligent life, and your contribution will be a small boost to it.
+312	Well, now it's a different matter, now that the quartermaster has received all the receipts and been sent on break. Look, do whatever you think is useful for our might, but don't overdo it - we're watching you, mind!
+313	<Player>, it is a great honor for you to modernize our base. Not everyone do we entrust with such a responsible job. To gain access to the holy of holies, you need to pay money cr into the cash desk, after which you can start the modernization. What is your decision, <Player>?
+314	Shame on you, <Player>! You were granted such an honor, and here you stand before me and, without the slightest trace of respect, announce that you no longer wish to invest money in strengthening the defense of our native Galaxy! Maybe you're a traitor? What do you mean, no?!
+315	Anyway, put your pathetic signature right here and get out of my sight! From now on the modernization of our great base is in the reliable hands of the Galaxy Council.
+316	Auxiliary power supply
+317	So the stations won't "dump" gear into the hold, dummies
+318	Info box for MB movement

@@ -1,0 +1,70 @@
+182	Well, it's your right, <Player>, but I'd like to remind you that this inconsistency in your wishes has just cost us an entire hour of the whole flight center's work.
+183	I confirm the jump, proceed
+184	Cancel the transfer, deflate your bubble
+185	technology center <0>
+186	business center <0>
+187	medical center <0>
+188	ranger center <0>
+189	research station <0>
+190	Go to the current coordinates of <color=0,50,200>my ship</color>
+191	Go to the current coordinates of the planet
+192	Would you like to use our portal generator in some other way?
+193	Perhaps you would like to use our portal generator in some other way?
+194	I changed my mind, you don't need to change position right now
+195	ready
+196	ready
+197	planet <0>
+198	your ship
+199	As you say, <Player>. The bubble for transport to the <0> system has been successfully formed, <1> to open the portal.<br>We await final confirmation and then proceed with the jump.
+200	As you say, <Player>. The bubble for transport to the <0> system has been successfully formed, <1> to open the portal.<br>Confirm your readiness for the jump and we begin.
+201	technology center <0>
+202	business center <0>
+203	medical center <0>
+204	ranger center <0>
+205	research station <0>
+206	Your communicator connected to the communication channel of <0>, and soon the stern face of the manager appeared on the monitor:<br><br>We want no dealings with bandits and terrorists, <Player>! Don't come within a cannon shot of our station, or you will be quickly and unceremoniously destroyed!
+207	I guess a change of behavior mode isn't needed for now
+208	I want to <color=0,50,200>change the behavior mode</color> of the station in case of an enemy attack
+209	I want you to <color=0,50,200>send me</color> to another system
+210	Your station must make a <color=0,50,200>long-range jump</color> to another system
+211	Your station must make a <color=0,50,200>short jump</color> within the current system
+212	I guess not, I changed my mind
+213	You're right, I'd rather set the coordinates with <color=0,50,200>my own ship</color> (in the hangar)
+214	As you wish, <Player>, so we'll stay in the old place for now.
+215	We can send the station to the current position of one of the <clr>local planets<clrEnd>, and if you contacted us from space you could specify the exact coordinates of <clr>your own ship<clrEnd>.
+216	Technology Center <0>
+217	Business Center <0>
+218	Medical Center <0>
+219	Ranger Center <0>
+220	Research Station <0>
+221	As you say, <Player>. The <0> coordinates are set and the hyperspace bubble has been successfully formed. <1> to open the portal.<br>We await final confirmation and then proceed with the jump.
+222	Go to the <0> system
+223	Go to the system
+224	Confirmation received, beginning the hyperspace jump.<br>Opening the portal in: 3... 2... 1...
+225	Note that we <clr>cannot go<clrEnd> to systems <clr>captured<clrEnd> by the enemy or <clr>under threat of capture<clrEnd>. After all, our station is not a military installation and will take part in hostilities only as a last resort.<br>Also we <clr>cannot<clrEnd> jump to a system where there already is <0> or where there are <clr>more than four<clrEnd> other space stations. Such actions are regarded by the Galaxy Council as irrational allocation of strategic resources and are punished to the full severity of wartime.
+226	Very well, <Player>, our station remains in the <0> system for now. Let us know if you change your decision again.
+227	Greetings, ranger <Player>. Reminding you that <0> is currently making a hyperspace jump to the <1> system. For your own safety, all departures from the station are strictly forbidden until the jump is complete.<br>By the navigators' calculations we will exit the hyperspace bubble in <2> days, after which you can leave us in complete safety. Until then, I suggest you pass the time in our relaxation bay or visit the observation deck, which offers an absolutely stunning view of the hyperspace splendors.
+228	Sorry
+229	Understood, <Player>, collapsing the bubble.<br>I very much hope that next time you won't waste our time for nothing.
+230	Certainly, <Player>. Currently: <0><br>What behavior mode do you want to set instead?
+231	The jump isn't needed, I only want to <color=0,50,200>change the behavior mode</color> of the station in case of an enemy attack
+232	Well, as you wish. Perhaps you'd like to use our portal generator in some other way?
+233	Certainly, <Player>, you just need to specify the new coordinates.<br><0><br>So, where should we move our base?
+234	Of course, <Player>, after all, it is thanks to you that we have this wonderful device. We can transport your ship to any system within the range of our portal generator (<0> pc).<br>Please note that, unlike the wretched pirate contraption, which picks available systems on the poorly predictable principle of <clr>quantum uncertainty<clrEnd>, our generators undergo careful tuning and calibration before every long-range jump. The probability of an unsuccessful outcome followed by splitting into atoms is a negligible <clr>0.3%<clrEnd>, which in practice can safely be disdained. And you are a brave ranger, aren't you, <Player>?<br>Here is the full list of systems available for transport:
+235	The hyperportal has been successfully opened and will remain active for several minutes. Hurry to the hangar, <Player>, your ship will be moved into the bubble right at takeoff.
+236	No, nothing else for now, thank you
+237	Your communicator connected to the communication channel of <0>, and soon the calm face of the manager appeared on the monitor:<br><br>Good cycle, <Player>. How can our humble station help you?
+238	Your communicator connected to the communication channel of <0>, and soon the irritated face of the manager appeared on the monitor:<br><br><Player>, you must know perfectly well how we feel about you. If not, here's a hint: it's quite far from the meaning of the word "cordiality".<br>Be so kind as to free up the communication channel, and refrain from calling again until you change your behavior for the better.
+239	<WeaponType> weapon damage: <clr>+20<clrEnd>
+240	Splinter weapon damage: <clr>+20<clrEnd>
+241	Shield power: <clr>+7<clrEnd>%
+242	Upgrading a space station is no cheap undertaking, so the Galaxy Council limits itself to relatively inexpensive basic projects and subsequently carries out only rare scheduled reconstruction. You say you're ready to invest your own funds? Commendable!
+243	Here is the engineering summary of the current technical condition of our station's hull:
+244	By the way, you, <Player>, as a sponsor, can take direct part in planning the works and optimizing them, if you know technology, of course, or recommend where cheaper consumables can be bought.
+245	The list of available station improvement works is given below.
+246	Certainly, ranger <Player>, here is the engineering summary of the current technical condition of our station's hull:
+247	I hope this data can help you in your difficult and important work.
+248	Firing range: <clr>+60<clrEnd> million km
+249	Hull cost: <clr>-50%<clrEnd><br>Droid effectiveness: <clr>+60<clrEnd>
+250	Oh, that is a most remarkable device! But to describe it accessibly I will have to delve a little into galactic history.
+251	You see, the blueprints of ancient gaalian ships from the time of <clr>galactic expansion<clrEnd>, stolen back in the day by <clr>Rachekhan<clrEnd>, were discovered and put to use again by the present leaders of the pirate clan. As a result, even before the sudden aggression of the dominators, the pirates got their hands on a crude but extremely effective device capable of almost instantly moving large spaceships or even entire space stations through space! And unlike the bulky military hyperdrives, whose overloads can turn any unprotected organic matter aboard into mush, the portal generator's principle of operation is based on creating so-called <clr>"bubbles"<clrEnd> of curved space.
