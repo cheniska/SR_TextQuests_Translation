@@ -1,0 +1,44 @@
+1	Exactly. I feel that only <clr>you<clrEnd> can keep it safe. It is hard to explain, but I <clr>know<clrEnd> it. I can't tell you anything specific about the item, but believe me, it is very important to its owner. I am sure he will cover all expenses.
+2	Hey, <0>! How's life?
+3	No time for your requests now. The Galaxy has to be saved!
+4	Go on. What's the request?
+5	And naturally, I'm the one who'll have to keep this thing safe. By the way, what is it?
+6	Everything was fine until somebody's unwashed mug showed up on the screen. What do you want?
+7	Why so rude? We don't want to open fire. Then again, it all depends on you now...
+8	Easy, <0>. Everything will be fine. Right now you're just going to hand over to us that little thing which a certain <clr>Ivan Kenobenko<clrEnd> gave you. And then nobody gets hurt.
+9	This is your last chance, <0>. Better give it to us. Life is worth more...
+10	I don't get it, what are you even hinting at!?
+11	I don't understand. What are you talking about?
+12	Hand it over? Ah, hand it over?! *unleashes a seven-story string of obscenities*
+13	Greetings. If I'm not mistaken, <0>?
+14	Strange. Then I apologize for the disturbance.
+15	How glad I am to meet you! I was looking for you. And I was sure the Force would lead me to you!
+16	Oh, sorry, I completely forgot to introduce myself. My name is Lux Nebokhodov. I only recently signed up as a Ranger. As for why I was looking for you... I'll try to explain. I'll start from afar. My home planet is ruled by a very powerful lunatic, Darth Fludius. But he demands that everyone call him the Emperor. Anyway, all the planet's inhabitants suffer greatly from his whims.
+17	Not at all! I'm telling the truth! Wait! Don't cut the connection! No!....
+18	Who are you, and why were you looking for me?
+19	My condolences. And what do I have to do with it?
+20	I see through your plan. You want to trick this thing out of me too! Well, no, you'll never get it!
+21	Thank you, <0>! I knew I could fully trust the Force!... I feel it... I feel it... It says I should give you something... Take this artifact: I'm sure it will come in handy. Farewell, <1>! May the Force be with you!
+22	Hello to you too. Life is wonderful, soon I'll be done with the dominators. What did you want?
+23	Of course I believe you. Threw it out, sold it, lost it...<br><br>What, do you take me for an idiot!? Hand it over now!
+24	But I really did lose it!
+25	Scram, or I'll knock your horns off, radish!
+26	I'll throw it overboard now. Here you go, <0>. And please keep your promise.
+27	Allow me to introduce myself first. My name is Ivan Kenobenko. You see, <0>, I have a certain item that I swore to keep safe and hand over to its true owner when he is ready to accept it. But for certain reasons I won't be able to keep it with me... And so I am looking for someone who could keep it until the moment when the rightful owner of the item is able to claim it.
+28	The thing is... Well, I had a dream... That only I can save my people. And I also dreamed that you have something for me... a weapon... my superluminal sword... Tell me, did the Force not deceive me? Do you really have it?
+29	Hold on, I'm scanning your ship.... So... Really, it's not there! So you actually weren't pretending!? You really are that big a dope!? Well, never mind. Our client, Darth Feder... Meider... Medveider... Anyway, it doesn't matter, he ordered us to leave no living witnesses.
+30	Well, try and catch me
+31	Greetings, <0>. May the Force protect you! Allow me to ask a favor of you.
+32	You may not finish off the dominators. If you die... over some foolishness...
+33	You understand everything! And you only have five seconds left until possible death. Already four... three... two...
+34	Now we are doomed...
+35	All right, I agree. Give me your trinket, I'll keep it safe
+36	I won't give you what doesn't belong to you. And don't you dare threaten me, or I might get angry
+38	Never heard of him. My mistake
+41	Here's the thing... I lost it
+42	The Force did not deceive you. I am the person you need. Take your sword!
+43	Ivan Kenobenko
+44	Lux Nebokhodov
+46	MessageBox('You look at the trinket given to you by a certain Ivan Kenobenko. After turning it over in your hands several times and once again becoming convinced of the cretinism of its designers, who left nothing on this object resembling a button, a lever or any other control element, you put the trinket back. It seems its time has not yet come.');
+47	MessageBox('You peer at the plain trinket that Ivan Kenobenko left you some time ago. What became of him, you wonder? Meanwhile, the name of one star system keeps spinning stubbornly in your mind - ' + GetValueFromScript('Mod_RevJediQuest','PirateStarName') + '. Maybe you should visit it?');
+48	Jedi lightsaber. Blue.

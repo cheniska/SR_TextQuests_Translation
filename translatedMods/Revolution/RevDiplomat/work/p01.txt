@@ -1,0 +1,31 @@
+1	<0> --> <PlayerFull><br><br><Player>, you're so slow! What, couldn't you have finished off these thugs sooner?
+2	Hold on, it won't be long now. I'm about to blow these pirates apart
+5	I am a high-ranking official from planet <0>. A pack of pirates is chasing me. They may destroy me. You need to save me, or anything could happen!<br>Listen, are you really so dumb that you didn't get that right away, huh?
+7	Hey there, brother. I saw you pick up the pod. Listen, what do you need that hunk of metal for? Give it to me, huh?
+8	True, nobody would even buy it. I'll toss it out now, here you go
+9	Oh no, that won't do. What can you offer for it?
+13	<Player>, get lost, I'm at work.
+14	Get away from him, or you'll have to deal with me!
+15	And with whom would you like to establish relations?
+16	With gaal
+18	With pelengs
+19	With humans
+20	With maloqs
+21	What brings you here?
+23	I need to cut a hole in the pod. They say there's a humanoid inside
+24	Ha-ha, you ragamuffin. Who do you think you're picking on? We'll deal with the diplomat in a minute, and then we'll kick your tail!
+25	<Player>, damn it! We're under attack, get rid of these bastards, now! Or neither they nor you will like what happens.
+26	You're not as simple as you look, <Player>!<br>I can offer you <0> cr, <1> tons of weapons or <2> tons of drugs. Take your pick.
+27	That's not how real men do it, <Player>! All right, all right, you're a made man, I won't attack <0> anymore, just don't hit me.
+28	<Player>, what are you babbling about on the intercom?! We've almost been destroyed, <0> units of structure left, and you have the nerve to contact me?! <br>Kill these pirates quick, so I don't get nervous.
+29	Ah, <Player>, hangover over already? Good thing, too. <br>Our specialists cut the door open and found inside an unpresentable-looking, foul-mouthed ambassador, <clr>Satikin<clrEnd>. Despite threats to both us and you, he has decided to reward his rescuer after all. And you won't be left out. The ambassador offers two reward options to choose from: money in the amount of <0> cr, or the ambassador will put in a good word for you with representatives of one of the races. Choose
+30	Bring him here quick! We'll cut the door out of this pod now.<br>I hope the humanoid inside isn't aggressive? <br>Ah, to hell with it, he needs saving anyway.<br><Player>, wait a few minutes, go to the bar, have a drink. Here's <0> cr, order yourself a mug of ekup.
+31	Thanks for your support. By the way, I talked to ambassador acquaintances of other races, so I managed to raise your standing a little with the governments of planets of various races.
+32	All right, so be it - since you did, after all, save me, I'll give you the pod. <br>Maybe you can get something for it.
+34	Oh, <Player>, we'll make you regret your decision yet - hold the helm tight!
+35	Thanks for the help, <Player>!
+36	Well, we'll see who regrets it
+37	An excellent choice, <Player>!<br>The reward has been transferred to your account, and our role in this story has come to an end. Good luck.
+38	Excellent, I'll pass your request on to Satikin. <br>That concludes our role in this story. Farewell.
+39	Uh... What?
+41	Used to evacuate from a ship in distress.

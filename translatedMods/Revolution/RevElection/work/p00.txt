@@ -9,14 +9,14 @@
 46	I'll try to help you
 48	No, just one is enough for you
 59	Glad to help
-76	Yes, you are right, I want to know about your purpose of being here
+76	Yes, you are right, I want to know the purpose of your being here
 78	Prepare the money
-80	10 tons of narcos, as ordered, on board
+80	10 tons of dope, as ordered, I have it with me
 141	Okay, so be it, I'll fly
-153	With nothing, I already need to fly
+153	Nothing, and I need to get flying anyway
 156	It's interesting to hear a pirate talking about military honor
-159	Didn't dispersed anyone, just helped a little
-205	Well it happened
+159	I didn't disperse anyone, I just helped a little
+205	Well, it just happened
 206	Yes, of course, catch
-208	Strong need
+208	I really need it
 211	Lifepod

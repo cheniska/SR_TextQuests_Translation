@@ -4,7 +4,7 @@
 10	No, I won't give you anything
 11	Give me weapons
 12	I'm for drugs
-17	With Feyans
+17	With faeyans
 22	I don't communicate with boors and snickering officials
 33	Glad to help
 40	Lifepod

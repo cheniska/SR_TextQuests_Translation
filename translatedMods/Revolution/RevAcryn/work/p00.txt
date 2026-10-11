@@ -8,7 +8,7 @@
 35	Technolytic Shield Generator II
 36	Reliability: <clr>+17%<clrEnd>
 37	Technolytic Shield Generator III
-38	Realiability: <clr>+33%<clrEnd>
+38	Reliability: <clr>+33%<clrEnd>
 39	Technolytic Gripper I-III
 40	Technolytic Gripper I
 41	Technolytic Gripper II
