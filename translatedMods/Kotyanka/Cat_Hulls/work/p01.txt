@@ -1,0 +1,37 @@
+1	Ideal 2.0
+2	An improved version of the "Ideal" hulls with increased defensive indicators.
+3	Ideal 3.0
+4	An even more improved version of the "Ideal" hulls with increased defensive indicators. Found more rarely because of its higher price.
+5	Ideal 4.0
+6	A greatly improved version of the "Ideal" hulls with increased defensive indicators. Found rarely because of its very high price.
+7	Ideal Maximus
+8	The best version of the "Ideal" hulls, made to the latest word in technology, with maximum defensive indicators. Found incredibly rarely because of its enormous price and complexity of production.
+9	Tincanoid
+10	A series of hulls intended for carrying large and important cargo, providing good protection, but because of their size and armor such hulls are slow. Produced only for diplomats and liners.
+11	Pomace
+12	A series specially developed by peleng scientists for the best combination with the Shmyakush hull. However, it is also found on other military hulls for unknown reasons.
+13	Kardyrbuk
+14	The series of hulls was designed by a novice gaal engineer after the pattern of an old maloq series. Later the blueprints were bought by a "successful" human businessman and ultimately stolen by peleng scouts, who thought it was a top-secret gaal hull.
+15	Cybertambourine
+16	A mad project of giant hulls comparable in size to a planetoid, developed by the maloq Bo and the faeyan Fors. Their mania for gigantism and incredible financial potential managed to accomplish the impossible and create the "Cybertambourine"
+17	Proto-Maloqdin
+18	A well-known series from the time of the Klissan War, which is not very effective now, but gives its owner good protection. Found extremely rarely because no more hulls of this series are simply being produced.
+19	Leopard
+20	An unjustifiably expensive, but fast and powerful hull. Found for sale quite rarely because of its complexity to manufacture.
+21	Overlord
+22	A series recreated from the ancient blueprints of the human genius Milon Kask. An incredibly rare and expensive series granting unconditional superiority on the battlefield.
+23	Chariot
+24	An excellent cheap hull for diplomatic trips.
+25	Rider
+26	A rather popular series among pirates and mere raiders for its cheapness and mobility.
+27	Sarina
+28	An extended version of the hull for those who need to carry cargo.
+29	Sneak
+30	A budget hull for novice pilots.
+31	An enlarged hull for warriors who don't collect trophies on the battlefield.
+32	Potent Warrior
+33	A series of hulls intended for those reckless pilots whose minds are flooded with bloodlust.
+34	Argorezzhryuk
+35	An experimental development of the best scientists of the faeyan race, later stolen by Dzukhallag agents and spread by them throughout the galaxy. In the Regget sector, in the Ozeum system, on the planet Ikka, an ancient ship was found with a technology of defensive turrets against different types of weaponry. However, using all 3 turrets simultaneously proved a failed idea for the fleet of an ancient empire, which is why we learned of its technologies.
+36	Roxinorox
+37	Kremargentor

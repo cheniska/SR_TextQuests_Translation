@@ -1,0 +1,11 @@
+1	Space Battleship Yamato v2199
+2	<color=248,252,248>Yamato - a battleship of the Imperial Japanese Navy of the World War II era on the planet <clr>Earth<clrEnd>, raised from the seabed and converted into a spaceship in <clr>the year 2199<clrEnd>. It was crippled after an unequal battle in 2875, crashing on an uninhabited planet of an unknown system, and was long considered lost.. It is currently restored at one of the military bases from ancient blueprints.</color>
+3	<color=248,252,248>The military restored the hull from the blueprints, but the equipment is extremely outdated. Without upgrading all the ship's systems it is really just a museum piece...</color>
+4	Missile weapons do not work!
+5	Shield power: <bonDef> units
+6	Asteroid damage absorption: <bonResistAsteroid>%
+7	Space Battleship Yamato
+8	<color=248,252,248>Yamato - a battleship of the Imperial Japanese Navy of the World War II era on the planet <clr>Earth<clrEnd>, raised from the seabed and converted into a spaceship in <clr>the year 2199<clrEnd>. It was crippled after an unequal battle in 2875, crashing on an uninhabited planet of an unknown system, and was long considered lost. It is currently restored at one of the military bases from ancient blueprints, and also modified by the best minds of the Coalition at the order of the ranger who found the ship.</color>
+9	<color=248,252,248>On the captain's bridge the engraving "Per Aspera Ad Astra" shines</color>
+10	Shield power: <bonDef>%
+11	Engine jump: <bonJump> units

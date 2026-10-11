@@ -1,0 +1,15 @@
+1	Creates its own gravitational field, reducing the ship's effective mass by <clr>35<clrEnd> percent.
+2	Emits electrons that strengthen the ship's shield by <clr>10<clrEnd> percent. With a small chance reflects inflicted damage back at the enemy.
+3	Integrates into the shield's power unit. Uses <clr>2%<clrEnd> of its power to activate an additional gun turret.
+4	Redirects the energy flows of the ship's internal network. Reduces power feed to the shield <clr>by 80%<clrEnd>, thereby proportionally increasing the power of energy weapons.
+5	This little droid can restore <clr>30<clrEnd> units of damaged ship hull and can work even in hyperspace. Also reduces wear on the main droid by <clr>2<clrEnd> times.
+6	Provides a <clr>33%<clrEnd> chance of a double salvo from missile weapons.
+7	Moves the ship into a hypertunnel, making it possible to cover up to <clr>50<clrEnd> parsecs regardless of engine characteristics, and shortens the jump duration.
+8	Lets the gripper beam pull objects with a mass exceeding the rated one by <clr>100<clrEnd> units. Increases the pulling speed of items and the gripper radius.
+9	A colony of iron zoopies, headed by a queen, increases hull defense by <clr>10<clrEnd> units.
+10	Miniature robots repair per day up to <clr>10<clrEnd>% of one randomly chosen item on the ship whose integrity does not exceed <clr>60<clrEnd>%.
+11	Fires at missiles and torpedoes launched by enemies. Can destroy up to <clr>ten<clrEnd> targets per turn, depending on the density and intensity of fire. The artifact's range is <clr>300<clrEnd> units.
+12	A radar attachment that increases its range by <clr>1000<clrEnd> units. Allows obtaining information about ships in remote systems.
+13	A software booster of the scanner's computing power by <clr>20<clrEnd> percent. Increases the amount of information obtained about ships.
+14	Each projectile in the breech is fitted with a splitter warhead. Thanks to this, the hit effectiveness of splinter weapons increases by <clr>35%<clrEnd>.
+15	Increases engine speed by <clr>200<clrEnd> units by installing additional nozzles on the basis of one <clr>gun<clrEnd> compartment.

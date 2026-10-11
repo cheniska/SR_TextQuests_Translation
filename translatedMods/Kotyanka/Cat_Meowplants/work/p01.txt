@@ -1,0 +1,27 @@
+1	An auxiliary memory and analysis unit. Originally used by the special services to analyze the handwriting of serial killers, but after a small upgrade it became a good analyzer of any killing of sentient beings, allowing the bearer to maximize .<br><br>Experience gained from kills: <clr>+267%<clrEnd>
+2	Exponent
+3	Gives +1000 to radar and +20 to scanner. The bearer becomes very responsible.
+4	Akabos's Nose
+5	Raises maneuverability by +3, all splinter weapons fire twice per shot, raises susceptibility to energy damage by 40%.
+6	Vavilov's Tail
+7	Raises trade, charm and leadership by +5. Requires consuming 15 t. of alcohol per month, otherwise the character will fall ill
+8	Kitsune
+9	Increases speed by 100, doubles the effectiveness of the Snotinator
+10	Gonzales
+11	Maximizes tech, -3 to charm, -2 to leadership, during the turn eliminates the corrosion effect on the target
+12	Pragmatoris
+13	+100 speed, +20 jump, +5 scanner, +500 radar, +100 gripper range and power, +15 droid, +5 shield, +15 to damage of all types, +2 to accuracy and maneuverability, +10 to leadership, -12 to charm, tech and trade. Requires monthly consumption of 5 tons of drugs, otherwise a nightmarish withdrawal begins.
+14	Rubicon
+15	Gives +12 armor, reduces vulnerability to any damage by 20%
+16	Black Carapace
+17	Increases speed by 450
+18	S.S.U.S.Y.
+19	Simply converts minerals into tech at a ratio of 1:1 every day. Efficiency - 1 unit.
+20	Engineeris
+21	-3 to trade and leadership, -6 to charm, allows auto-passing any text quest with the best outcome.
+22	Miko
+23	Additional info item of the biomodule (hidden)
+24	Akabos's Nose (just a marker)
+25	Miko (just a marker)
+26	S.S.U.S.Y. (just a marker)
+27	Nah, don't feel like it yet

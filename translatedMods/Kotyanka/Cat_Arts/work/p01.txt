@@ -1,0 +1,43 @@
+1	(decoy supply exhausted)
+2	A stray hit burned the entire supply of Anti-Missile's heat decoys. Unpleasant.
+3	The Anti-Missile dropped its last decoy. Looks like from here you'll have to fight the enemy's missile weapons on your own.
+4	Anti-Missile
+5	if(!j) MessageBox('No targets found within the artifact range!');
+6	else MessageBox('There are no targets in the system!');
+7	else MessageBox('The Anti-Missile is left without the means to defend your ship, so demanding anything of it is senseless and mercilessly cruel.');
+8	Releases many tiny spot heat decoys, too inconspicuous for any <clr>radar<clrEnd>, but very noticeable at close range to any <clr>missile<clrEnd>, within a radius of <clr>150<clrEnd> million km of the carrier ship.
+9	The enemy decided to create trouble for you and aimed its fire at the asteroid destroyer. Now the chance of colliding with flying rocks is by no means zero.
+10	The asteroid annihilator has exhausted its resources for shooting down space rocks. Time to do something!
+11	A device as simple in essence as possible - automatically hits all asteroids that end up in the kill zone. Often installed on stations and other large slow-moving or stationary objects.
+12	Asteroid Annihilator
+13	Destroys asteroids within a radius of <clr>550<clrEnd> million km. Malfunctions when trying to attack <clr>planetoids<clrEnd> or other supermassive objects.
+14	(withered)
+15	The heat of enemy fire burned all of the Cactus's contacts. Repair required.
+16	The Cactus system worked too long without humidification. Consultation with specialists required.
+17	Cactus
+18	CustomArtTextData(cur_item,1,Format('<br>')+Format('<br>')+'The artifact works more effectively with equipment of unknown manufacture.');
+19	CustomArtTextData(CurItem(),2,'Active mode: <color=220,0,0>inactive</color>');
+20	CustomArtTextData(CurItem(),2,'Active mode: <color=0,255,130>running</color>');
+21	else MessageBox('The artifact is too heavily damaged to use its active mode');
+22	Releases antimatter whose momentum is exactly opposite to that of the enemy <clr>shots<clrEnd> hitting the ship, but <clr>equal<clrEnd> to them in the modulus of comparative damage. Wears out heavily when activated, but for <clr>three<clrEnd> standard days also collects antimatter from <clr>missiles<clrEnd>, and increases reflected damage <clr>twofold<clrEnd>.<TextData1><TextData2>
+23	(shut down)
+24	A voltage surge disabled the Catalyzer.
+25	The Catalyzer has worn out its connecting interface. Replacement by specialists required.
+26	A small block with auxiliary capacities that allow any equipment aboard the ship to offload routine tasks to external resources and perform its direct task more effectively. Unfortunately, such a thing will not cover the whole ship, but it can connect to the equipment nearest to the artifact's socket.
+27	Catalyzer
+28	A block of additional computing capacities that optimize and slightly improve the performance of the <clr>nearest<clrEnd> equipment.
+29	The Fifth Element
+30	Senseless cruelty can bring everything to the brink of death and doom.
+31	During battle a shell detonated in the Raketfel, repair required!
+32	The Raketfel has exhausted its resource. Replenishment required.
+33	The Raketfel is an automatic installation with an independent intelligence and supply unit, allowing the ship to fire at the enemy even if the entire crew is lost.
+34	Raketfel
+35	Fires <clr>three<clrEnd> homing projectiles at a distance of <clr>700<clrEnd> million km. The charge generation template used is the template of the latest-model <clr>missile launcher<clrEnd>.
+36	(supplies exhausted)
+37	Projectile generation through Vanomit subspace was disrupted during battle. Reset of the matter search settings required.
+38	The Vanomit's pseudorandom generation resources are completely exhausted. Maybe one of the scientists or technicians can help?
+39	Vanomit
+40	Randomly generates ammunition for one of the installed weapons while connected to the artifact's socket.
+41	You know, to hell with all these dominators - marry me!
+42	This... Is that - a happy ending?..
+43	The main thing in life is to be in the right place at the right time. So you were, and your proposal was not only considered but approved. Why breed cruelty when one can create and build? Your chosen one's bonuses and the debts owed to you for government assignments were quite enough for a small plot on one of the Coalition's rear agrarian worlds.

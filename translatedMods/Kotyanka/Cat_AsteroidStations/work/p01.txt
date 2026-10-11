@@ -1,0 +1,18 @@
+1	The <0> system has been included in the mining industry development program lists. A new mining station has already been put into orbit, and any traders who wish can buy a batch of minerals on the cheap right now!
+2	Welcome to the mining station! Here we are engaged in developing the minerals that space provides us. If you are interested in them, for a trifling sum you can buy, for example, minerals at our shopping center.
+3	Oh yes, of course. Specially for rangers we offer a chance to easily earn a little extra! See for yourself:<br><br>1) For every day when our system has less than a certain amount of debris, you will receive a small sum:<br>- Less than 50 tons: 25 cr./day<br>- Less than 20 tons: 70 cr./day<br>- 0 - 5 tons: 150 cr./day<br><br>2) While you work for us, special conditions apply for you in our store: we<br>buy minerals at especially favorable prices<br><br><br>But note: <clr>as soon as you leave the system, the contract will be terminated automatically<clrEnd>.<br>And to avoid fraudulent schemes, <clr>buying minerals<clrEnd> on all planets and stations of the system is equated to smuggling deals.<br><br>So, deal?
+4	Are you sure you want to terminate the contract?
+5	Yes, I agree!
+6	No, I think not
+7	Yes, absolutely
+8	No, I'm not interested
+9	Current accumulated earnings:
+10	 t.
+11	Current tonnage of debris:
+12	Current statistics from the AS Network:
+13	You have left the system controlled by the Asteroid Station Network. The contract is terminated.
+14	What side-job program?
+15	For low-income rangers we have a side-job program.
+16	Used to keep track of the player
+17	Asteroid Station
+18	AS

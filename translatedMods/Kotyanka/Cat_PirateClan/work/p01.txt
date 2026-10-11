@@ -1,0 +1,5 @@
+1	</color><Type> Pirate Hull
+2	<color=248,252,248>A special hull used by the pirate syndicate. The introduction of acryn technologies lets it perform better in battle.</color>
+3	Accuracy skill: <bonSkill1> (only for <clr>pirates<clrEnd>)
+4	Maneuverability skill: <bonSkill2> (only for <clr>pirates<clrEnd>)
+5	Tech skill: <bonSkill3> (only for <clr>pirates<clrEnd>)

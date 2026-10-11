@@ -1,0 +1,27 @@
+1	The study of a dominator memory module is complete. Apply for the research results at any base with access to the Scientific Data Base.
+2	I would like to use the memory module I unlocked
+3	Aha, a memory module. A dominator one, that is. Well, the general Data Base has all the information we need, so we can provide you with all information on all modules you handed over to the scientists whose research is complete.
+4	So, our specialists took the specified module from your ship's hold. As soon as they finish their work, we will send you a notification.
+5	The information we obtained from the dominator memory modules you delivered is quite invaluable, and we would like to mark your contribution with a separate award!<br>We managed to convince the Galactic Council of your invaluable contribution to the development of science, and you receive an award!<br><br>May it motivate you to go on helping science!
+6	So, the research on equipment projects has given us the opportunity to use the information obtained and assemble one unit of <clr>dominator<clrEnd> equipment - luckily, we are always fine on spare parts. It will cost <0> cr.<br><br>In addition, among the blueprints we found information about one new acryn - a dominator one. If you wish, we can try to create acrynic equipment with the acryn we found in this memory module (<1>). It will cost <2> cr.
+7	So, the research on equipment projects has given us the opportunity to use the information obtained and assemble one unit of <clr>dominator<clrEnd> equipment - luckily, we are always fine on spare parts. It will cost <0> cr.<br><br>In addition, among the blueprints we found information about one new acryn - a dominator one. If you wish, we can try to create acrynic equipment with the acryn we found in this memory module (<1>). It will cost <2> cr.<br><br>In addition, we were able to calculate some paths of equipment development using the example of the dominators using to the fullest certain principles on which our equipment already works, and could apply this experience in an <clr>upgrade<clrEnd> of some of your equipment. It will cost <3> cr.
+8	So, the research on equipment projects has given us the opportunity to use the information obtained and assemble one unit of <clr>dominator<clrEnd> equipment - luckily, we are always fine on spare parts. It will cost <0> cr.
+9	So, the research on equipment projects has given us the opportunity to use the information obtained and assemble one unit of <clr>dominator<clrEnd> equipment - luckily, we are always fine on spare parts. It will cost <0> cr.<br><br>In addition, we were able to calculate some paths of equipment development using the example of the dominators using to the fullest certain principles on which our equipment already works, and could apply this experience in an <clr>upgrade<clrEnd> of some of your equipment. It will cost <1> cr.
+10	So.... Our technicians have already done all the work. Take it!
+11	I want to hand in one more module
+12	I found a memory module here...
+13	That's all this time
+14	Ready, I pay! I need an acryn!
+15	Ready, I pay! Create the equipment!
+16	Ready, I pay! Upgrade my equipment!
+17	Thank you, goodbye
+18	t.)
+19	Hand in module
+20	<color=50,255,50>Terron's</color>
+21	<color=50,50,255>Keller's</color>
+22	<color=255,50,50>Blazer's</color>
+23	Wow, ranger, you managed to get hold of a working dominator memory block - the <clr>Vincerator<clrEnd>!. A rather interesting specimen. We would study this module, but for a small fee (<0> cr.) we can give you access to the research results. Moreover, the research will take us <1> days.<br><br>After that you can come and find out what you can do with your module.
+24	Research results number
+25	The rest are left so that no NG is needed. Most likely, by the time this entry is found, a heap of time will have passed and nobody will have these useless ones in the batch anymore, and if they do, it will be a far too ancient build of mods. In short, just delete all the numbered Vincerators
+26	Vincerator
+27	A memory block of unique architecture of the highest level, being a synergy of all the Coalition's advanced developments of the last century, brought to their logical conclusion and exhausted improvement potential.

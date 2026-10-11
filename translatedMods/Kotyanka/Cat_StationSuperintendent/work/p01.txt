@@ -1,0 +1,42 @@
+1	<color=248,252,248>Upgrade:</color> <clr>Stellar Power<clrEnd>
+2	<color=248,252,248>The internal architecture of the station hull has been greatly improved to enhance the combat aspects of the ship systems</color>
+3	Weapon power: <clr>+45<clrEnd>
+4	Weapon range: <clr>+100<clrEnd>
+5	<color=248,252,248>Upgrade:</color> <clr>Citadel<clrEnd>
+6	<color=248,252,248>The internal architecture of the station hull has been greatly improved to enhance the defensive aspects of the ship systems</color>
+7	Hull size: <clr>-50<clrEnd>%
+8	Hull susceptibility: <clr>-50<clrEnd>%
+9	Shield generator: <clr>+30<clrEnd>%
+10	Repair droid: <clr>+100<clrEnd>
+11	Weapon range: <clr>+250<clrEnd>
+12	<color=248,252,248>Upgrade:</color> <clr>Structural Expansion<clrEnd>
+13	<color=248,252,248>The internal architecture of the station hull has been greatly increased and expanded</color>
+14	<clr>Opens all slots<clrEnd>
+15	DC
+16	Build a medical center
+17	Build a business center
+18	Build a science base
+19	Build a rangers' center
+20	Build a military base
+21	Selected system: <0><br>Construction cost: <1> cr.<br><br><2>
+22	When building a station one of our unique construction concepts may be applied. Here is the list of those available:<br>================<br><0><br>Cost: <1> cr.<br><br><2><br>Cost: <3> cr.<br><br><4><br>Cost: <5> cr.<br>================<br>Reminder: the cost of building a station without upgrades is <6> cr.
+23	Order construction of a station
+24	No, I don't need anything
+25	Builder
+26	I want to install the "Stellar Power" upgrade
+27	I want to install the "Structural Expansion" upgrade
+28	I want to install the "Citadel" upgrade
+29	The system has been seized by pirates, some stations cannot be built!
+30	The system has been seized, construction is impossible!
+31	There are too many stations in the system! Construction is impossible!
+32	 (You are here)
+33	Build a technology center
+34	Return to station selection
+35	Station Superintendent Project
+36	Welcome to the website of the "Station Superintendent" initiative.<br><br>Lately the infrastructure of the Galaxy has been too badly damaged because of the ongoing war, first of all the system of stations.<br><br>We are collecting donations to pay for the work of our group of builders, who are ready to fit out any space station in a short time within the acts issued by the <clr>Galactic Council<clrEnd>
+37	Welcome to the website of the "Station Superintendent" initiative.<br><br>Lately the infrastructure of the Galaxy has been too badly damaged because of the ongoing war, first of all the system of stations.<br><br>We are collecting donations to pay for the work of our group of builders, who are ready to fit out any space station in a short time within the understandings agreed with the <clr>Supreme Baron<clrEnd>
+38	Select a construction sector
+39	Build a dominion
+40	Build a pirate base
+41	Station construction process info item
+42	Construction

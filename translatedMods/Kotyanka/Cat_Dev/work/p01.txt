@@ -1,0 +1,22 @@
+1	Noodlehanger
+2	A <clr>minus-first-level<clrEnd> micromodule. The micromodule hangs <clr>nano-noodles<clrEnd> on opponents' ears - raising its own characteristics.
+3	Pull speed at close range: <bonHookMinSpeed> units
+4	Pull speed at long range: <bonHookMaxSpeed> units
+5	Reliability: <clr>ETERNAL<clrEnd>
+6	Number of shots: <bonAttacks> units
+7	Ammo supply: <bonAmmo> units
+8	Hull Noodlehanger
+9	A micromodule of minus <clr>first level<clrEnd>. The micromodule hangs <clr>nano-noodles<clrEnd> on opponents' ears - raising its own characteristics.
+10	Hull armor: <clr>+100<clrEnd> units
+11	Opens: <clr>All slots<clrEnd>
+12	All skills: <clr>+12<clrEnd> units
+13	Damage susceptibility: <clr>-100%<clrEnd>
+14	Size: <clr>+9900%<clrEnd>
+15	Cost: <clr>-99%<clrEnd>
+16	Humiliating Noodlehanger
+17	A <clr>minus-first-level<clrEnd> micromodule. The micromodule hangs <clr>nano-noodles<clrEnd> on opponents' ears, cyber-humiliating them.
+18	Cyber-humiliates the enemy with <clr>ALL<clrEnd> debuffs!
+19	ETERNAL Noodlehanger
+20	A <clr>minus-first-level<clrEnd> micromodule. The micromodule hangs <clr>nano-noodles<clrEnd> on opponents' ears - making equipment <clr>ETERNAL<clrEnd>.
+21	Noodlehanger 12323
+22	A <clr>minus-first-level<clrEnd> micromodule.

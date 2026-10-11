@@ -1,0 +1,10 @@
+1	SPYDER MAAN
+2	<color=248,252,248>Spy-yder Maaan, without him we're like without hands. Any web he can weave, Heee's heeere, the passionate Spyder Maan.</color>
+3	Webball power: <bonWMissile> units
+4	Spyder Maan's armor!: <bonHull> units
+5	Speed Between the stars and even farther!: <bonSpeed> units
+6	Protective web field: <bonDef> units
+7	SpyDER regeneration!: <bonDroid> units
+8	Web pull: <bonHook> units
+9	Pull speed at close range: <bonHookMinSpeed> units
+10	Pull speed at long range: <bonHookMaxSpeed> units
