@@ -3317,8 +3317,8 @@
 | Ностальгетик (стимулятор) | Nostalgetic | Evolution/EvoMC |
 | Чёрная кровь (стимулятор) | Black Blood | Evolution/EvoMC |
 | Псионик (стимулятор) | Psionic | Evolution/EvoMC |
-| Иц Забит (пеленгский мастер) | Itz Zabit | Evolution/EvoBalance |
-| Косозубая восьмерёнка (тюнинг-компания) | Helical-Cut Eight | Evolution/EvoBalance |
+| Иц Забит (пеленгский мастер) | Itzibit | Evolution/EvoBalance |
+| Косозубая восьмерёнка (тюнинг-компания) | Helical Figure Eight | Evolution/EvoBalance |
 | Чванг-Хан (лякуша) | Chvang-Khan | Evolution/EvoMM |
 | Сикпак Хапуга (пеленгский учёный) | Sikpak Khapuga | Evolution/EvoMM |
 | клирон (материал) | kliron | Evolution/EvoMM |
