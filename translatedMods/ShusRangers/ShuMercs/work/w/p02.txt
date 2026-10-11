@@ -1,0 +1,153 @@
+131	Civilian ships
+132	Rangers
+133	Pirates
+134	Military
+135	That's enough, file the survey flight
+136	Good
+137	How should the reconnaissance be conducted? The scout does not engage in combat and retreats when attacked.
+138	How many pilots to assign? These are the organization's best fighters, contract of up to a year.
+139	For how long?
+140	Whom to intercept in the system?
+141	Which Coalition operation should they join? The pilots will arrive at the rally point and go on the assault together with the military.
+142	Which target to destroy? Faeyangelion only takes on Bertors and dominator shipyards.
+143	From which uninhabited planet should the loot be hauled out?
+144	Add another system to the survey flight?
+145	Which system should be monitored?
+146	Which system should be surveyed first?
+147	Which system should be blockaded?
+148	Which system should be put under guard? The garrison protects planets and peaceful ships from dominators, klissans, pirates and any attackers.
+149	In which system is the planet located?
+150	Faeyangelion works only in dominator systems.
+151	In which system should the trophies be collected? Everything picked up, the pilots will hand over to the Mercenary Center's warehouse.
+152	No ship with that name was found.
+153	We won't undertake to guard such a ship.
+154	You didn't name a ship.
+155	Enter the name of the ship to be guarded
+156	How many ships to send?
+157	Cost with the discount applied: @P cr. File the contract?
+158	Ships: @C.
+159	@O takes the order: @W.
+160	Term: @D d.
+161	monitoring of the @X system
+162	survey flight of systems: @X
+163	blockade of the @X system (target: @Y)
+164	guarding the ship @X
+165	garrison in the @X system
+166	long escort of your ship
+167	assault on the @X system together with the Coalition (rally in the @Y system)
+168	destruction of the target @X
+169	hauling loot from the planet @X (the @Y system)
+170	collecting trophies in the @X system
+171	gaalians
+172	faeyans
+173	humans
+174	pelengs
+175	maloqs
+176	civilian ships
+177	Rangers
+178	pirates
+179	military
+180	Assault on the @T system, rally in the @A system
+181	@N - a Bertor, the @S system
+182	@N - a dominator shipyard, the @S system
+183	Reconnaissance
+184	System blockade
+185	Guarding another ship
+186	Garrison in a system
+187	Long escort: the organization's best pilots
+188	Participation in a system liberation by the Coalition
+189	Destruction of a large target: a Bertor or a dominator shipyard
+190	Hauling loot from an uninhabited planet
+191	Collecting trophies in a system
+192	Nobody from the squad came back.
+193	Ships lost: @L.
+194	Ships shot down: @K, lost: @L.
+195	Reconnaissance interrupted: the contract term has expired.
+196	The scout was attacked and retreated. The data collected is in the notes.
+197	Reconnaissance complete. The reports are in the notes and on the system cards.
+198	The blockade of the @S system is over.
+199	The guarded ship @N was lost.
+200	The guarding of the ship @N is over, the ship is intact.
+201	@C cr. has been returned to you.
+202	The @S system was captured, the garrison is leaving.
+203	The garrison served out its term, the @S system has been held.
+204	The contract term for the liberation of the @S system has expired.
+205	The Coalition's operation to liberate the @S system fell through.
+206	The @S system was liberated with the participation of mercenaries.
+207	The contract to destroy @N was not fulfilled.
+208	The target @N was destroyed.
+209	Part of the loot was lost (@N pcs.).
+210	Faeyangelion kept the artifacts as samples (@N pcs.).
+211	Hauling from the planet @P: nothing of value could be delivered.
+212	Hauling from the planet @P complete. Delivered to the Mercenary Center's warehouse: @X.
+213	Faeyangelion kept part of the dominator equipment for itself (@N pcs.).
+214	Collecting trophies in the @S system: nothing could be delivered.
+215	Collecting trophies in the @S system complete. Delivered to the Mercenary Center's warehouse: @X.
+216	Reconnaissance, the @S system: the situation has changed (@X).
+217	The scout has arrived in the @S system. The intelligence is in the notes and on the system card.
+218	Reconnaissance: the @S system, @D
+219	Intelligence on @D
+220	Bounty hunting targets: @H
+221	Items in space: @I (worth about @C cr.)
+222	Rangers: @R, peaceful ships: @T, mercenaries: @M
+223	Military: @W (strength @S), pirates: @P (strength @Q)
+224	Klissans: @L
+225	Dominator shipyards: @Y
+226	, superdominators: @D
+227	, Bertors: @B
+228	Dominators: @K (strength @S)
+229	, klis. @L
+230	dom. @K, mil. @W, pir. @P, rang. @R, peac. @T, merc. @M
+231	I'm carrying out a <clr>Mercenary Center<clrEnd> contract, <Player>. Don't distract me.
+232	Other services
+233	The raid on the <0> system has been <clr>successfully completed<clrEnd>. <br> Loot:
+234	The raid on the <0> system has <clr>failed<clrEnd>.
+235	Contract management
+236	I want to offer you a kill contract (<0>) days
+237	I want to offer you a kill contract
+238	What term of hire shall we set? We can file a contract for one, two, three, four or five years.
+239	You want to hire <0> fighters to guard your ship. According to the rates of the <1> group, one mercenary for <2> days will cost you <3> cr., total (with a <4>% discount) <5> cr. File the contract?
+240	Specify the system to attack.
+241	You want to hire <0> fighters for a military operation in the <1> system. According to the rates of the <2> group, one mercenary's participation will cost you <3> cr., total (with a <4>% discount) <5> cr. File the contract?
+242	You want to hire <0> fighters for a raid in the <1> system. According to the rates of the <2> group, one mercenary's participation will cost you <3> cr., total (with a <4>% discount) <5> cr. File the contract?
+243	Can't you see my darling is falling apart in flight? What contract, <Player>?
+244	I'm carrying out another assignment right now. Over.
+245	I'm ready to work for you. Name the target, and then we'll settle on the price. We're talking over an encrypted channel, so don't worry, the victim won't hear us.
+246	I don't trust you enough to sign a contract with you. Look for another killer.
+247	<0>? No way, my life is still dear to me, I won't take this job.
+248	<0>? A risk this serious should be well paid. With the discount of <1> (<2>%) - let's say <3> cr.
+249	<0>, so... Okay, but it'll cost you a pretty penny. With the discount of <1> (<2>%) - <3> cr.
+250	<0>? We'll sort it out, money up front. Considering the discount of <1> (<2>%), it'll cost you <3> cr.
+251	<0>? Nothing difficult. Pay <1> cr. (with the <2>% discount) and it'll all be done.
+252	<0>... It says nothing was found. Are you sure you entered the target's name correctly?
+253	<0>? Well, I'll consider that a bad joke. In case you didn't get it, I'm not taking this order.
+254	<0>? A risk this serious should be well paid. Let's say <1> cr. will be enough.
+255	<0>, so... Okay, but an order like this will cost you a round sum. <1> cr.
+256	<0> it is, then <1>. We'll sort it out, money up front. Transfer <2> cr. and it'll all be done in the shortest time.
+257	<0>? Nothing difficult. Pay <1> cr. and it'll all be done.
+258	Which of your partners needs a hull change?
+259	Now select the hull you need from the warehouse.
+260	You want to replace the hull of the ship <0> with <1>. Our technicians estimate this operation at <2> cr, do you confirm?
+261	I'm listening.
+262	One.
+263	Two.
+264	Three. Die.
+265	Pay <0> cr. and my boys will treat you <clr>neutrally<clrEnd>. After that you're on your own.
+266	A pleasure doing business with you.
+267	Now select the skill you wish to develop.
+268	One training session will cost <0> cr. How many sessions shall we run?
+269	Speak, <Player>, and don't hold me up.
+270	The warriors of our squad are above paltry coin! Alas, it's hard for us to get ammunition, and we have to put up with the existence of such nonentities as you in order to buy new gear. Transfer <0> cr. to our squad's account and, so be it, my knights will become <clr>indifferent<clrEnd> to you, you pitiful earthworm!
+271	What did you say, nonentity?! Arrrrgh, ship's computer, all guns to battle!
+272	Excellent, the glorious Red Hatchets will be able to refit a few more ships!<br><br>And now get lost, so there's not a whiff of you left on my screen!
+273	<Player>, as an official representative of the Corporation, I am authorized to answer all your questions.
+274	What primitive crudeness... If that is all you wished to inform the Corporation of, then prepare to answer for a violation of the Consumer Code, namely Chapter 24, Clause 35, Subclause 6a.
+275	For <0> cr. the Corporation guarantees you a neutral attitude from its employees. Translated into a form more understandable for primitive life forms, their attitude will be at the level of <1>%
+276	Glad we managed to come to an agreement. We wish you nothing but to multiply your material wealth together with the Corporation's mercenaries.
+277	Preparing to jump to the <0> system, boss. Don't distract me.
+278	Go ahead, boss, I'm all yours.
+279	As you say, boss. I'll tell the others to focus on higher-priority targets.
+280	And who exactly are we supposed to attack?
+281	Understood, boss. Returning to the Center.
+282	Understood, boss, attacking the ship <0>.
+283	Greetings, and welcome to the free port <StationName>. On our independent station neither Coalition laws nor notions of brotherhood apply - you are free to do whatever you please. We provide services for changing the hulls of your partners and equipment for training them. Besides that, you might be interested in the assortment of our store: take a look, you may find something attractive.

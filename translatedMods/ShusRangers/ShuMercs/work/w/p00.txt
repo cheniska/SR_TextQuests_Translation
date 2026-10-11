@@ -1,0 +1,25 @@
+2	</color><Type> mercenary hull
+10	Charisma skill: <bonSkill5>
+38	I changed my mind
+85	Over and out.
+386	Rookie
+387	Cadet
+388	Pilot
+389	Captain
+390	Fighter
+391	Ace
+392	Commander
+393	Admiral
+394	Noob
+395	Ship Boy
+396	Raider
+397	Skipper
+398	Cutthroat
+399	Capo
+400	Khan
+401	Baron
+410	Checks whether the player attacked a ship guarded by his mercenary, and if so, ends the mercenary's quest
+423	34, 33, 33, Mercenary
+440	Mercenary
+441	Organization HQ
+445	HQ

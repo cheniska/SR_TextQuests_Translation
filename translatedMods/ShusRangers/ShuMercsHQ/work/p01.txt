@@ -20,7 +20,7 @@
 20	</color><Type> mercenary hull
 21	"Star Stingray" Hull
 22	<color=248,252,248>A unique hull designed for lightning-fast combat operations. <clr>Krivonosy<clrEnd>, a descendant of a legendary designer from <clr>Earth<clrEnd>, was chosen as the lead designer. The hull's main advantages are its high maneuverability and the long-lasting inertial thrust, which significantly boosts cruising speed. However, because of the peculiarities of its internal fuel feed system, the engine cannot withstand prolonged loads, which tells badly on long hyperjumps.</color>
-23	Maneuverability skill: <bonSkill2>
+23	Mobility skill: <bonSkill2>
 24	Charisma skill: <bonSkill5>
 25	Engine speed: <bonSpeed>
 26	Ship mass: <bonMass><clr>%<clrEnd>

@@ -1,0 +1,126 @@
+1	</color><Type> freelancer hull
+3	Mercenarius I-IV
+4	"Mercenarius" Hull I
+5	<color=248,252,248>An ancient hull whose technological innards have been completely refitted for the needs of modern mercenary special forces. Besides reduced susceptibility to damage, the hull has built-in analytical modules patented by the largest mercenary groups, the use of which is controlled through their private channels.</color>
+6	Attack skill: <bonSkill1>
+7	Mobility skill: <bonSkill2>
+8	Technology skill: <bonSkill3>
+9	Commerce skill: <bonSkill4>
+11	Leadership skill: <bonSkill6>
+12	Scanner power: <bonScan><clr>%<clrEnd>
+13	Gripper power: <bonHook> t.
+14	Gripper range: <bonHookRadius> M km
+15	Gripper speed: <bonHookMinSpeed>
+16	"Mercenarius" Hull II
+17	"Mercenarius" Hull III
+18	"Mercenarius" Hull IV
+19	Hm, I'd help you, but I'm just too busy. Don't count on me.
+20	At long last the authorities of the planet <Planet> have managed to detain the pirate ship <Name>. Thanks to the skillful efforts of their lawyers, the criminals got only <Month> months of arrest with confiscation of property.
+21	The vessel <FullName> was detained in the port of the planet <Planet>. Police dogs found a shipment of drugs and weapons in the hold of this ship. The criminals will not be released for at least <Month> months.
+22	Today on the planet <Planet>, <FullName> was convicted. He stood trial on a whole series of charges. The court decided to teach the scoundrel a lesson and sentenced him to <Month> months of arrest without confiscation of property.
+23	<FullName> has landed in strict-regime prison for a whole <Month> months. The authorities of the <Star> system had been looking for him for a long time, and he finally gave himself up on the planet <Planet>.
+24	By the way, our scanners show that your hold contains capsules with "bonuses". Ahem, pardon me, I meant humanoids you can collect a bounty for if you hand them over.
+25	Excellent work, <Player>. Is this <Name> in person? You delivered him in one piece? Good. Alive he's worth more. Let's hurry and send this poor fellow off to be thawed... Though he's hardly going to be sincerely glad to wake up, heh-heh.
+26	Here are your <Reward> cr. I wish you luck in your further hunting.
+27	Well, in essence, it's your business. It's not us who'd be collecting the reward. But if you change your mind - let us know.
+28	Excellent work, <Player>. Is this <Name> in person? Delivered in one piece, I see, but it wasn't worth the effort, really. We'll have to finish your job for you. That won't affect your reward in any way, though.
+29	Here is the list of humanoids in your hold for whose heads we can pay the reward right now. So, do you agree?
+30	Don't distract me, <Player>, I'm carrying out another assignment right now.
+31	<0> is currently carrying out a contract to kill the ship <1>. The pursuit will continue until <2>.
+32	<0>? We're on the territory of the <clr>Mercenary Center<clrEnd>, shooting between colleagues is forbidden here. You need to lure the target out of the system.
+33	<0> is my colleague. I won't violate our agreements for the sake of an order like this.
+34	Retreating to the Mercenary Center, boss.
+35	Faeyangelion
+36	the Red Hatchets
+37	Atlant
+39	I want the warriors of Faeyangelion, definitely
+40	The Red Hatchets are the choice of real men!
+41	I choose the Atlant pilots - cheap and cheerful
+42	Back
+43	One is quite enough
+44	Give me two
+45	Exactly three
+46	I'll hire four and that's final
+47	I'll take five
+48	Why be petty - I'm hiring six!
+49	Military operation
+50	Escort
+51	Three
+52	Four
+53	Five
+54	Six
+55	One year
+56	Two years
+57	Three years
+58	Four years
+59	Five years
+60	Yes, I'm ready to pay
+61	Raid
+62	Enter target name
+63	I'll pay <0> cr.
+64	I think my partners will manage without it
+65	I confirm, go ahead and replace it
+66	I want to improve relations with Atlant
+67	I need to appease the Red Hatchets
+68	The favor of Faeyangelion matters to me
+69	Listen to your own death, <clr>Nort<clrEnd>!
+70	What "one"?
+71	Why are you counting?
+72	I was joking, calm down
+73	I need to mend relations with <clr>"Atlant"<clrEnd>
+74	I agree to pay
+75	One
+76	Two
+77	I need to mend relations with the <clr>"Red Hatchets"<clrEnd>
+78	I'll detain you forever! Prepare to be atomized, red-face
+79	I need to mend relations with <clr>"Faeyangelion"<clrEnd>
+80	Answer my question: which of us goes into the bioreactor first?
+81	Five years is not enough, let's make it six <clr>(leadership)<clrEnd>
+82	Ten years and not a day less <clr>(leadership)<clrEnd>
+83	We need to attack a ship
+84	Cancel attack
+86	Cancel
+87	Fly back
+88	And pass this order on to all the others
+89	Cancel contract
+90	To the bridge
+91	Raid (<0> days)
+92	Military operation (<0> days)
+93	Then I'll hire freelancers
+94	Freelancers
+95	Faeyangelion Corporation
+96	"Red Hatchets" squad
+97	Atlant private security firm
+98	Enter target name
+99	Who's there? Don't bother me, Ranger! I'm busy... with a tactical regrouping! So there!
+100	Who's there? A Ranger?! Don't bother me, I'm busy!
+101	Oh, all right
+102	Well, fine...
+103	Accepted. Expect the demise of <0> in the near future. Until we meet again, client.
+104	<0> was killed while carrying out a contract to kill the ship <1>. <br> -
+105	<0> terminated the contract to liquidate the ship <1> because it expired. <br> - <clr>Mercenary Center<clrEnd>
+106	<0> has successfully fulfilled your contract to kill the ship <1>. <br> - <clr>Mercenary Center<clrEnd>
+107	Contract filed, the ships are departing. We will announce the outcome over the air.
+108	Contract filed. The pilots are already waiting for you at the airlock.
+109	The Mercenary Center can't file a contract right now.
+110	Insufficient funds.
+111	Besides ordinary contracts, @O also takes other kinds of work. What are you interested in?
+112	Yes, I'll pay @P cr.
+113	Monitoring a single system
+114	Survey flight: one to three systems, two days in each
+115	Three of them
+116	Two of them
+117	90 days
+118	60 days
+119	30 days
+120	20 days
+121	10 days
+122	A year
+123	Nine months
+124	Half a year
+125	Three months
+126	Gaal ships
+127	Faeyan ships
+128	Human ships
+129	Peleng ships
+130	Maloq ships

@@ -1,0 +1,145 @@
+284	And of course, you can always ask us to contact the <clr>Freelancers Guild<clrEnd> - those guys can try to take on almost any "delicate" matter of yours.
+285	I'm interested in the services of freelancers
+286	I want to change a partner's hull
+287	I want to train a partner
+288	Back to the Galanet
+289	The bounty on <Target> has been increased by <Bounty> cr. Thank you for your participation!
+290	Wanted <color=0,132,15>alive</color> or <color=0,50,200>dead</color>: <List>
+291	No bounties are currently posted. Please check back later.
+292	Are we looking? No, we don't look specially. Bounty hunters find their own way. You don't need any rank or status for that. You simply visit our site with the list of current targets, pick any one and start the hunt - it's all very simple. The reward will be credited to your account automatically once the target is eliminated. <Add>
+293	As you can see, being a bounty mercenary is quite simple and profitable - unless, of course, the moral side of the matter bothers you too much. And now I suggest you take a look at the current list of targets.
+294	For some targets you can get an increased "bonus" if you deliver them to our center alive. All you need to do is pick up the target's capsule and bring it here before the life support shuts off.
+295	Right now the following pilots are wanted <color=0,132,15>alive</color> or <color=0,50,200>dead</color>: <List>
+296	I apologize, but it seems there are no targets on our list at the moment. Please check back later.
+297	<ShipName> has unexpectedly vanished from all "radars", so we regret to announce the cancellation of the bounty of <Bounty> cr. that had been set on it.
+298	Greetings, <Player>! To avoid possible misunderstandings, we inform you that a bounty of <Bounty> cr. has been placed on your head. The reward expires on <EndDate>.
+299	Have a pleasant day!
+300	Thank you for your honest work, <Player>! For the killing of <ShipName> you have been paid a reward of <Bounty> cr.
+301	Keep it up, cowboy!
+302	Thank you for your honest work, <Player>! For the elimination of <ShipName> you have been paid a reward of <Bounty> cr.
+303	Enter the ship name:
+304	Wanted dead or alive
+305	By the way, I wanted to ask - are you by any chance looking for "bounty hunters"?
+306	And who's got a price on their head these days?
+307	Hold on, that's my name! My name is on your list!
+308	Oh, how unexpected - it really is your name!<br>Well, anyway, nothing can be done here - we're only a commercial intermediary organization, and we don't dictate the terms. Evidently you've really got under someone's skin, and they wanted you "removed".<br><clr><clrEnd><br>However, of course, this payout is <clr>80<clrEnd>% of the sum, and <clr>20<clrEnd>% goes to cover our expenses... So, for example, for <clr>50<clrEnd>% of the sum...
+309	This is sheer robbery, but I want to fly in peace, not fend off omnipresent mercenaries who seem to predict your route. Take your money and get me off your list as soon as possible!
+310	How wonderful that we managed to come to an agreement! It's so lovely when two individuals arrive at a mutually beneficial compromise! Your name has already been struck from our lists, and the payment for this "service" has been debited from your account.
+311	Perhaps we'll discuss other matters
+312	A bounty of <Bounty> cr. on <Target> has been successfully set. Thank you for your participation!
+313	You don't have enough funds in your account to post the minimum bounty
+314	Let's talk about something else
+315	To the bounty list
+316	Specify the reward amount (commission <Commission>):
+317	Set/increase a bounty
+318	(bounty <Bounty> cr.)
+319	You cannot set a bounty on this target
+320	Unable to find a target by the specified name
+321	As you know, there are three types of contracts: <clr>escort<clrEnd>, <clr>raid<clrEnd> and <clr>military operation<clrEnd>.
+322	<clr>Escort<clrEnd> is an ordinary partner contract for a duration of your choosing. The client is accompanied by security agency staff, versatile in almost any situation. But such agents are not trained for attacks on enemy systems, so they have the right to retreat if attacked.
+323	<clr>Raid<clrEnd> is a special operation conducted in a dominator system. A squad of cnt ships jumps in, uses "Emergency Signal" programs to make the dominators drop their equipment, and returns to base with the captured trophies. <br><clr>A contract can be filed no more often than once every 90 days with Atlant and 150 days with Faeyangelion. The Red Hatchets categorically refuse such an inglorious mission. A leadership skill of at least three and the rank of Cadet/Ship Boy are required.<clrEnd>
+324	<clr>Military operation<clrEnd> is an attack on a system of your choosing by a strike group.
+325	The strike group will follow your orders and unquestioningly attack the enemy ship you designate. You will also be able to order the squad to follow you or to retreat, as you wish.
+326	<clr>Organizing such an operation is available starting from the rank of Captain or Skipper. According to the code, these organizations are ready to provide you this service once every 3 months.<clrEnd>
+327	Well then, which type of contract do you choose?
+328	So, even before the war, three mercenary organizations had formed on Coalition territory:
+329	<clr>"Red Hatchets"<clrEnd> - a group assembled from veterans of the security forces and the troops of the maloq planets who were removed from service for violating the Coalition Treaty. They are distinguished by particular cruelty and diligence in carrying out tasks.
+330	<clr>"Atlants"<clrEnd> - one of the most respected mercenary organizations. The organization's leadership has serious connections among the elites of the Coalition and the pirate Clan, which lets them carry out various "dirty" jobs without trouble, including political assassinations.
+331	<clr>"Faeyangelion"<clrEnd> - a group of relatively "deviant" faeyans who use "unconventional" methods of handling objects in their "research".
+332	So, which of them interests you?
+333	To improve relations with <clr>"Atlant"<clrEnd>, we will need to arrange a meeting for you with the group's leader.
+334	The leader of the <clr>Atlant private security firm<clrEnd> is <clr>Kaylo Nort<clrEnd> - a renowned hired assassin who used his accumulated money to found a guild of bodyguards and killers. Extremely dangerous.
+335	<clr>Nort<clrEnd> agrees to talk with you for cost cr.
+336	The next call is available date.
+337	To improve relations with the <clr>"Red Hatchets"<clrEnd>, we will need to arrange a meeting for you with the group's leader.
+338	The leader of the <clr>"Red Hatchets" squad<clrEnd> is <clr>Bordyurg Yebryn<clrEnd> - a seasoned maloq warrior and pirate, infamous for his hatred of representatives of the Trade Guilds, as well as his bestial cruelty.
+339	You can try talking with <clr>Yebryn<clrEnd> for cost cr.
+340	Select the number of attackers
+341	According to our station's policy, an escort may be hired regardless of your command abilities. But we must warn you that <clr>some mercenaries, not seeing a worthy leader in you, may terminate the contract,<clrEnd> so hire fighters at your own risk if you're not entirely sure of your abilities.
+342	How many ships shall we file?
+343	To improve relations with <clr>"Faeyangelion"<clrEnd>, we will need to arrange a meeting for you with the group's leader.
+344	The post of CEO of the <clr>Faeyangelion Corporation<clrEnd> is held by <clr>Elayma Fey<clrEnd> - a first-class engineer convicted of taking part in a scheme to smuggle classified blueprints out of state-controlled systems, though later amnestied. A xenophobe and the author of several sensational works on modern eugenics in faeyan society.
+345	<clr>Fey<clrEnd> can arrange a meeting for you for cost cr.
+346	The current loyalty of the groups at the station toward you:
+347	Relations with which organization do you intend to improve?
+348	Welcome to the <StationName> Mercenary Center. Here you can sign a contract with the mercenaries of one of the groups, anything from simple escort to a complex military operation. We also provide services for changing the hulls of your partners and equipment for training them.
+349	And if you are a "special" client of the Business Center network, remember - you get <clr>preferential terms<clrEnd> at our Center
+350	The groups' loyalty toward you at the station:
+351	Excellent. We have already passed your request to the organization, expect their leader to arrive any day now.
+352	Thank you
+353	I need to mend relations with the mercenaries
+354	I'm interested in the services of mercenaries
+355	I'm ready for negotiations (pay for arranging the meeting)
+356	For our clients we offer many training devices, from pilot simulators to logic puzzles. Using this whole variety of methods, you can develop <clr>any<clrEnd> skill of your partners. Keep in mind that the effectiveness of training depends directly on your leadership qualities, or to be precise - on the <clr>number<clrEnd> of sessions that can be held without harm to the skills being developed. And yes, almost forgot: for our mercenaries, training costs <clr>half as much<clrEnd>.
+357	Now select the pilot you want to train.
+358	Your actions to liquidate three well-known kingpins did not go unnoticed. Check the warehouse of the Mercenary Center <MercCenter> - I think it's a quite sufficient reward for the job well done.
+359	Your B.G.
+360	Today in the <Star> system the Mercenary Center <MercCenter> opened its hangars. All the desperate pilots looking to make some money are already warming up their lasers.
+361	Good news for all risk-loving pilots. A new Mercenary Center <MercCenter> has just begun operating in the <Star> system.
+362	Not hired yet? Then move your thrusters over to us! - transmits the head of the Mercenary Center <MercCenter>, just opened in the <Star> system, in a message to all independent pilots of the Galaxy.
+363	Atlant private security firm
+364	Faeyangelion Corporation
+365	Exchange
+366	Almogavar
+367	Stratiote
+368	Grenzer
+369	Reiter
+370	Haiduk
+371	Streltsy
+372	Genoese
+373	Venetian
+374	Buccaneer
+375	Phoenician
+376	Jager
+377	Ronin
+378	Hessian
+379	Landsknecht
+380	Condottiere
+381	Hoplite
+382	Varangian
+383	Alan
+384	Routier
+385	"Red Hatchets" squad
+402	Once every few days the energy pulse of the weapon systems doubles, causing a serious increase in damage.
+403	Berserk
+404	When attempting to retreat, a phase accelerator is activated, multiplying flight speed several times over.
+405	Phase Accelerator
+406	Once every few days a unique force shield is activated, providing almost complete invulnerability for one turn.
+407	Barrier
+408	Hidden info marker used to record the number of training sessions a player's partner has completed at the MC
+409	A crutch for a crutch, so that the hirelings hired from the trader don't leave
+411	Hangs on ships that have a bounty on their head (mercenaries will actively hunt such targets)
+412	To determine whether the player has paid the mercenary or not
+413	Yebryn's Elite Cigars
+414	The finest Yakubin cigars, supplied specially for the leader of the Red Hatchets.
+415	Fey's Business Correspondence
+416	MessageBox('- So, Mr. Fey, what about our order?<br>- You needn't worry. I'm watching the RNN report right now. \"Pirate Massacre\", \"Pirates Plunder Colonization Convoy\" and so on.<br>- Yes, yes, looks great. And the Commission?<br>- Tried to escape.<br>- Well, if it tried... The ship with the payment has already left for your headquarters.<br>- It's a pleasure working with you.<br>- Likewise.');
+417	Excerpts from the correspondence of the Faeyangelion leader, selected by cybersecurity specialists.
+418	Nort's Kompromat
+419	MessageBox('The agents did not eat their bread in vain: among the materials you found several documents confirming that the Atlants had taken orders to eliminate Coalition politicians and to remove witnesses inconvenient to the pirate Clan...<br>It seems your killing of Nort was merely the trigger, and the dissolution of the organization was lobbied for by far more influential persons.');
+420	Kompromat on the leader of the "Atlants" group, painstakingly gathered by several of the Coalition's best agents.
+421	A cube measuring <color=255,240,100>20</color> by <color=255,240,100>20</color> cm. If you believe the instructions, it can transform into a real palace.
+422	34, 33, 33, Freelancer
+424	0, 75, 25, Warlord
+425	35, 25, 40, Boss
+426	0, 15, 85, CEO
+427	Elendar
+428	Fey
+429	Haag-nor
+430	Drak'ror
+431	Hatchet
+432	Shukryamba
+433	Atlant
+434	Wanderer
+435	Freelancer
+436	Mercenary Center
+437	MC
+438	Free Port
+439	FP
+442	"Atlant"
+443	"Faeyangelion"
+444	"Red Hatchets"
+446	Organization Leader
+447	Kaylo Nort
+448	Elayma Fey
+449	Bordyurg Yebryn

@@ -199,3 +199,8 @@
 | Грок / Телеграфф / Мракс / Гаалвито | Grok / Telegraff / Mrax / Gaalvito | пародийные бренды |
 | Мерканавт; Жаба Лэ; Сасус; Буратти Вейрон | Mercanaut; Zhaba Le; Sasus; Buratti Veyron | |
 | КОЗ | CHO (Coalition Health Organization) | предположение, на проверку |
+| Фэйенгелион (Корпорация "Фэйенгелион"); Атлант (ЧОП "Атлант"); Красные топоры (Отряд) | Faeyangelion (Faeyangelion Corporation); Atlant (Atlant private security firm); Red Hatchets ("Red Hatchets" squad) | ShuMercs/ShuMercsHQ |
+| Кайло Норт; Элайма Фэй; Бордюрг Ебрын | Kaylo Nort; Elayma Fey; Bordyurg Yebryn | лидеры наёмников, строгий транслит |
+| Центр наёмников (ЦН); Свободный порт (СП); Штаб | Mercenary Center (MC); Free Port (FP); HQ | ShuMercs |
+| Гильдия Фрилансеров; облёт; Берсерк; Фазовый ускоритель; Барьер | Freelancers Guild; survey flight; Berserk; Phase Accelerator; Barrier | ShuMercs |
+| Корпус "Мерценарий"; Элендар, Хааг-нор, Драк'рор, Шукрямба, Бродяга | "Mercenarius" Hull; Elendar, Haag-nor, Drak'ror, Shukryamba, Wanderer | ShuMercs, корабли фрилансеров |

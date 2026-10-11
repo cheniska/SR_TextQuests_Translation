@@ -1,0 +1,506 @@
+234	MicroModuls/ShuMercs_FreeMercFeiHull/Name	</color><Type> корпус фрилансера
+249	MicroModuls/ShuMercs_FreeMercGaalHull/Name	</color><Type> корпус фрилансера
+266	MicroModuls/ShuMercs_FreeMercMalocHull/Name	</color><Type> корпус фрилансера
+283	MicroModuls/ShuMercs_FreeMercPelengHull/Name	</color><Type> корпус фрилансера
+300	MicroModuls/ShuMercs_FreeMercPeopleHull/Name	</color><Type> корпус фрилансера
+318	MicroModuls/ShuMercs_MercFeiHull/Name	</color><Type> корпус наемника
+336	MicroModuls/ShuMercs_MercMalocHull/Name	</color><Type> корпус наемника
+355	MicroModuls/ShuMercs_MercPelengHull/Name	</color><Type> корпус наемника
+374	MicroModuls/ShuMercs_MercPeopleHull/Name	</color><Type> корпус наемника
+386	MicroModuls/ShuMercs_Merzenary1/AcrynSerie	Мерценарий I-IV
+396	MicroModuls/ShuMercs_Merzenary1/Name	Корпус "Мерценарий" I
+405	MicroModuls/ShuMercs_Merzenary1/Text	<color=248,252,248>Древний корпус, чья технологическая начинка была полностью переоборудована под нужды современных наёмных спецподразделений. Помимо сниженной восприимчивости к урону, корпус имеет встроенные аналитические модули, запатентованные крупнейшими наёмническими группировками, использование которых контролируется по их приватным каналам.</color>
+407	MicroModuls/ShuMercs_Merzenary1/Text	Навык точности: <bonSkill1>
+408	MicroModuls/ShuMercs_Merzenary1/Text	Навык манёвренности: <bonSkill2>
+409	MicroModuls/ShuMercs_Merzenary1/Text	Навык техники: <bonSkill3>
+410	MicroModuls/ShuMercs_Merzenary1/Text	Навык торговли: <bonSkill4>
+411	MicroModuls/ShuMercs_Merzenary1/Text	Навык обаяния: <bonSkill5>
+412	MicroModuls/ShuMercs_Merzenary1/Text	Навык лидерства: <bonSkill6>
+413	MicroModuls/ShuMercs_Merzenary1/Text	Мощность сканера: <bonScan><clr>%<clrEnd>
+414	MicroModuls/ShuMercs_Merzenary1/Text	Мощность захвата: <bonHook> т.
+415	MicroModuls/ShuMercs_Merzenary1/Text	Дальность захвата: <bonHookRadius> млн км
+416	MicroModuls/ShuMercs_Merzenary1/Text	Скорость захвата: <bonHookMinSpeed>
+433	MicroModuls/ShuMercs_Merzenary2/AcrynSerie	Мерценарий I-IV
+443	MicroModuls/ShuMercs_Merzenary2/Name	Корпус "Мерценарий" II
+452	MicroModuls/ShuMercs_Merzenary2/Text	<color=248,252,248>Древний корпус, чья технологическая начинка была полностью переоборудована под нужды современных наёмных спецподразделений. Помимо сниженной восприимчивости к урону, корпус имеет встроенные аналитические модули, запатентованные крупнейшими наёмническими группировками, использование которых контролируется по их приватным каналам.</color>
+454	MicroModuls/ShuMercs_Merzenary2/Text	Навык точности: <bonSkill1>
+455	MicroModuls/ShuMercs_Merzenary2/Text	Навык манёвренности: <bonSkill2>
+456	MicroModuls/ShuMercs_Merzenary2/Text	Навык техники: <bonSkill3>
+457	MicroModuls/ShuMercs_Merzenary2/Text	Навык торговли: <bonSkill4>
+458	MicroModuls/ShuMercs_Merzenary2/Text	Навык обаяния: <bonSkill5>
+459	MicroModuls/ShuMercs_Merzenary2/Text	Навык лидерства: <bonSkill6>
+460	MicroModuls/ShuMercs_Merzenary2/Text	Мощность сканера: <bonScan><clr>%<clrEnd>
+461	MicroModuls/ShuMercs_Merzenary2/Text	Мощность захвата: <bonHook> т.
+462	MicroModuls/ShuMercs_Merzenary2/Text	Дальность захвата: <bonHookRadius> млн км
+463	MicroModuls/ShuMercs_Merzenary2/Text	Скорость захвата: <bonHookMinSpeed>
+480	MicroModuls/ShuMercs_Merzenary3/AcrynSerie	Мерценарий I-IV
+490	MicroModuls/ShuMercs_Merzenary3/Name	Корпус "Мерценарий" III
+499	MicroModuls/ShuMercs_Merzenary3/Text	<color=248,252,248>Древний корпус, чья технологическая начинка была полностью переоборудована под нужды современных наёмных спецподразделений. Помимо сниженной восприимчивости к урону, корпус имеет встроенные аналитические модули, запатентованные крупнейшими наёмническими группировками, использование которых контролируется по их приватным каналам.</color>
+501	MicroModuls/ShuMercs_Merzenary3/Text	Навык точности: <bonSkill1>
+502	MicroModuls/ShuMercs_Merzenary3/Text	Навык манёвренности: <bonSkill2>
+503	MicroModuls/ShuMercs_Merzenary3/Text	Навык техники: <bonSkill3>
+504	MicroModuls/ShuMercs_Merzenary3/Text	Навык торговли: <bonSkill4>
+505	MicroModuls/ShuMercs_Merzenary3/Text	Навык обаяния: <bonSkill5>
+506	MicroModuls/ShuMercs_Merzenary3/Text	Навык лидерства: <bonSkill6>
+507	MicroModuls/ShuMercs_Merzenary3/Text	Мощность сканера: <bonScan><clr>%<clrEnd>
+508	MicroModuls/ShuMercs_Merzenary3/Text	Мощность захвата: <bonHook> т.
+509	MicroModuls/ShuMercs_Merzenary3/Text	Дальность захвата: <bonHookRadius> млн км
+510	MicroModuls/ShuMercs_Merzenary3/Text	Скорость захвата: <bonHookMinSpeed>
+527	MicroModuls/ShuMercs_Merzenary4/AcrynSerie	Мерценарий I-IV
+537	MicroModuls/ShuMercs_Merzenary4/Name	Корпус "Мерценарий" IV
+546	MicroModuls/ShuMercs_Merzenary4/Text	<color=248,252,248>Древний корпус, чья технологическая начинка была полностью переоборудована под нужды современных наёмных спецподразделений. Помимо сниженной восприимчивости к урону, корпус имеет встроенные аналитические модули, запатентованные крупнейшими наёмническими группировками, использование которых контролируется по их приватным каналам.</color>
+548	MicroModuls/ShuMercs_Merzenary4/Text	Навык точности: <bonSkill1>
+549	MicroModuls/ShuMercs_Merzenary4/Text	Навык манёвренности: <bonSkill2>
+550	MicroModuls/ShuMercs_Merzenary4/Text	Навык техники: <bonSkill3>
+551	MicroModuls/ShuMercs_Merzenary4/Text	Навык торговли: <bonSkill4>
+552	MicroModuls/ShuMercs_Merzenary4/Text	Навык обаяния: <bonSkill5>
+553	MicroModuls/ShuMercs_Merzenary4/Text	Навык лидерства: <bonSkill6>
+554	MicroModuls/ShuMercs_Merzenary4/Text	Мощность сканера: <bonScan><clr>%<clrEnd>
+555	MicroModuls/ShuMercs_Merzenary4/Text	Мощность захвата: <bonHook> т.
+556	MicroModuls/ShuMercs_Merzenary4/Text	Дальность захвата: <bonHookRadius> млн км
+557	MicroModuls/ShuMercs_Merzenary4/Text	Скорость захвата: <bonHookMinSpeed>
+573	Talk/Attack/PlayerHaveBusiness3	Хм, я бы тебе помог, но уж очень занят. На меня можешь не рассчитывать.
+578	GalaxyNews/GoToPrison/Pirate	Наконец-то властям планеты <Planet> удалось задержать пиратский корабль <Name>. Благодаря умелым действиям своих адвокатов преступники получили всего <Month> мес. ареста с конфискацией имущества.
+579	GalaxyNews/GoToPrison/Pirate1	В порту планеты <Planet> было задержано судно <FullName>. Полицейские собаки обнаружили в трюме этого корабля партию наркотиков и оружия. Преступники выйдут на свободу не ранее чем через <Month> мес.
+580	GalaxyNews/GoToPrison/Ranger	Сегодня на планете <Planet> был осуждён <FullName>. Он предстал перед судом по целому ряду обвинений. Суд решил проучить негодяя и назначил ему <Month> мес. ареста без конфискации имущества.
+581	GalaxyNews/GoToPrison/Ranger1	На целых <Month> мес. строгого тюремного режима загремел <FullName>. Власти системы <Star> его уже давно разыскивали, и он наконец сдался на планете <Planet>.
+588	Script/Mod_ShuBounty/EscapePodsDialog/AskToHandOverMB	Кстати, наши сканеры показывают, что в вашем трюме находятся капсулы с "премиями". Кхм, простите, я имел в виду, с гуманоидами, за голову которых вы можете получить вознаграждение в случае сдачи.
+589	Script/Mod_ShuBounty/EscapePodsDialog/AskToHandOverManaan	Кстати, наши сканеры показывают, что в вашем трюме находятся капсулы с "премиями". Кхм, простите, я имел в виду, с гуманоидами, за голову которых вы можете получить вознаграждение в случае сдачи.
+590	Script/Mod_ShuBounty/EscapePodsDialog/HandOverAliveMB	Отличная работа, <Player>. Это же <Name> собственной персоной? Доставили его целёхоньким? Хорошо. Живой он стоит дороже. Скорее отправим этого бедолагу на разморозку... Хотя вряд ли он будет искренне рад проснуться, хе-хе.
+591	Script/Mod_ShuBounty/EscapePodsDialog/HandOverAliveMB	Вот ваши <Reward> cr. Желаю удачи в дальнейшей охоте.
+592	Script/Mod_ShuBounty/EscapePodsDialog/HandOverAliveManaan	Отличная работа, <Player>. Это же <Name> собственной персоной? Доставили его целёхоньким? Хорошо. Живой он стоит дороже. Скорее отправим этого бедолагу на разморозку... Хотя вряд ли он будет искренне рад проснуться, хе-хе.
+593	Script/Mod_ShuBounty/EscapePodsDialog/HandOverAliveManaan	Вот ваши <Reward> cr. Желаю удачи в дальнейшей охоте.
+594	Script/Mod_ShuBounty/EscapePodsDialog/HandOverCancelMB	Ну, в сущности, дело ваше. Не нам же награду получать. Но если передумаете - дайте знать.
+595	Script/Mod_ShuBounty/EscapePodsDialog/HandOverCancelManaan	Ну, в сущности, дело ваше. Не нам же награду получать. Но если передумаете - дайте знать.
+596	Script/Mod_ShuBounty/EscapePodsDialog/HandOverDeadMB	Отличная работа, <Player>. Это же <Name> собственной персоной? Доставили его целёхоньким, как я вижу, но не стоило усилий, право. Придётся нам доделывать вашу работу. Впрочем, на вашу награду это никак не повлияет.
+597	Script/Mod_ShuBounty/EscapePodsDialog/HandOverDeadMB	Вот ваши <Reward> cr. Желаю удачи в дальнейшей охоте.
+598	Script/Mod_ShuBounty/EscapePodsDialog/HandOverDeadManaan	Отличная работа, <Player>. Это же <Name> собственной персоной? Доставили его целёхоньким, как я вижу, но не стоило усилий, право. Придётся нам доделывать вашу работу. Впрочем, на вашу награду это никак не повлияет.
+599	Script/Mod_ShuBounty/EscapePodsDialog/HandOverDeadManaan	Вот ваши <Reward> cr. Желаю удачи в дальнейшей охоте.
+600	Script/Mod_ShuBounty/EscapePodsDialog/HandOverMB	Вот список содержащихся в вашем трюме гуманоидов, за голову которых мы можем выплатить награду прямо сейчас. Итак, вы согласны?
+601	Script/Mod_ShuBounty/EscapePodsDialog/HandOverManaan	Вот список содержащихся в вашем трюме гуманоидов, за голову которых мы можем выплатить награду прямо сейчас. Итак, вы согласны?
+605	Script/Mod_ShuMercs/100	Не отвлекай меня, <Player>, я сейчас выполняю другое задание.
+606	Script/Mod_ShuMercs/101	Сейчас <0> исполняет контракт на убийство корабля <1>. Преследование будет продолжаться до <2>.
+607	Script/Mod_ShuMercs/102	<0>? Мы на территории <clr>Центра наемников<clrEnd>, здесь запрещена стрельба между коллегами. Тебе необходимо выманить цель из системы.
+608	Script/Mod_ShuMercs/104	<0> - мой коллега. Я не пойду на нарушение наших договоренностей ради подобного заказа.
+609	Script/Mod_ShuMercs/105	Отступаю в Центр наемников, босс.
+611	Script/Mod_ShuMercs/111	Фэйенгелиона
+612	Script/Mod_ShuMercs/112	Красных топоров
+613	Script/Mod_ShuMercs/113	Атланта
+614	Script/Mod_ShuMercs/114	Я передумал
+615	Script/Mod_ShuMercs/115	Мне нужны воины "Фэйенгелиона", определенно
+616	Script/Mod_ShuMercs/116	"Красные топоры" - выбор настоящих мужчин!
+617	Script/Mod_ShuMercs/117	Выбираю пилотов "Атланта" - дешево и сердито
+618	Script/Mod_ShuMercs/118	Назад
+619	Script/Mod_ShuMercs/119	Одного вполне достаточно
+620	Script/Mod_ShuMercs/120	Дайте два
+621	Script/Mod_ShuMercs/121	Ровно три штуки
+622	Script/Mod_ShuMercs/122	Найму четыре и точка
+623	Script/Mod_ShuMercs/123	Беру пятерку
+624	Script/Mod_ShuMercs/124	Чего мелочиться - нанимаю шесть!
+625	Script/Mod_ShuMercs/125	Военная операция
+626	Script/Mod_ShuMercs/126	Эскорт
+627	Script/Mod_ShuMercs/127	Три
+628	Script/Mod_ShuMercs/128	Четыре
+629	Script/Mod_ShuMercs/129	Пять
+630	Script/Mod_ShuMercs/130	Шесть
+631	Script/Mod_ShuMercs/135	Один год
+632	Script/Mod_ShuMercs/136	Два года
+633	Script/Mod_ShuMercs/137	Три года
+634	Script/Mod_ShuMercs/138	Четыре года
+635	Script/Mod_ShuMercs/139	Пять лет
+636	Script/Mod_ShuMercs/140	Да, я готов заплатить
+637	Script/Mod_ShuMercs/142	Рейд
+638	Script/Mod_ShuMercs/143	Ввести имя цели
+639	Script/Mod_ShuMercs/144	Плачу <0> cr.
+640	Script/Mod_ShuMercs/146	Думаю, мои партнеры обойдутся и без этого
+641	Script/Mod_ShuMercs/147	Подтверждаю, заменяйте
+642	Script/Mod_ShuMercs/149	Я хочу улучшить отношения с "Атлантом"
+643	Script/Mod_ShuMercs/150	Нужно задобрить "Красных топоров"
+644	Script/Mod_ShuMercs/151	Мне важно расположение "Фэйенгелиона"
+645	Script/Mod_ShuMercs/153	Послушай свою смерть, <clr>Норт<clrEnd>!
+646	Script/Mod_ShuMercs/154	Что "один"?
+647	Script/Mod_ShuMercs/155	Зачем ты считаешь?
+648	Script/Mod_ShuMercs/156	Я пошутил, успокойся
+649	Script/Mod_ShuMercs/157	Мне нужно поправить отношения с <clr>"Атлантом"<clrEnd>
+650	Script/Mod_ShuMercs/158	Я согласен заплатить
+651	Script/Mod_ShuMercs/166	Один
+652	Script/Mod_ShuMercs/167	Два
+653	Script/Mod_ShuMercs/168	Мне нужно поправить отношения с <clr>"Красными топорами"<clrEnd>
+654	Script/Mod_ShuMercs/169	Я задержу тебя навсегда! Жди распыления на атомы, красномордый
+655	Script/Mod_ShuMercs/170	Мне нужно поправить отношения с <clr>"Фэйенгелионом"<clrEnd>
+656	Script/Mod_ShuMercs/171	Ответь на мой вопрос: кто из нас первым отправится в биореактор?
+657	Script/Mod_ShuMercs/172	Пяти лет недостаточно, оформляем на шесть <clr>(лидерство)<clrEnd>
+658	Script/Mod_ShuMercs/173	Десять лет и не меньше <clr>(лидерство)<clrEnd>
+659	Script/Mod_ShuMercs/174	Нужно атаковать корабль
+660	Script/Mod_ShuMercs/175	Отмена атаки
+661	Script/Mod_ShuMercs/176	Конец связи
+662	Script/Mod_ShuMercs/177	Отмена
+663	Script/Mod_ShuMercs/178	Возвращайся назад
+664	Script/Mod_ShuMercs/179	И передай этот приказ всем остальным
+665	Script/Mod_ShuMercs/180	Отменить контракт
+666	Script/Mod_ShuMercs/181	На мостик
+667	Script/Mod_ShuMercs/182	Рейд (<0> дней)
+668	Script/Mod_ShuMercs/183	Военная операция (<0> дней)
+669	Script/Mod_ShuMercs/185	Тогда найму фрилансеров
+670	Script/Mod_ShuMercs/186	Фрилансеры
+671	Script/Mod_ShuMercs/187	Корпорация Фэйенгелион
+672	Script/Mod_ShuMercs/188	Отряд Красные топоры
+673	Script/Mod_ShuMercs/189	ЧОП Атлант
+674	Script/Mod_ShuMercs/191	Введите имя цели
+675	Script/Mod_ShuMercs/192	Кто здесь? Не мешай, рейнджер! Я занят... тактической перегруппировкой! Вот!
+676	Script/Mod_ShuMercs/193	Кто здесь? Рейнджер?! Не мешай, я занят!
+677	Script/Mod_ShuMercs/194	Ну, ладно
+678	Script/Mod_ShuMercs/195	Ну, хорошо...
+679	Script/Mod_ShuMercs/196	Принято. Жди гибели <0> в ближайшее время. До встречи, клиент.
+680	Script/Mod_ShuMercs/197	<0> погиб, выполняя контракт на убийство корабля <1>. <br> -
+681	Script/Mod_ShuMercs/200	<0> разорвал контракт по ликвидации корабля <1> в связи с истечением срока. <br> - <clr>Центр наемников<clrEnd>
+682	Script/Mod_ShuMercs/201	<0> успешно выполнил ваш контракт на убийство корабля <1>. <br> - <clr>Центр наемников<clrEnd>
+683	Script/Mod_ShuMercs/202	Контракт оформлен, корабли вылетают. Об исполнении сообщим в эфир.
+684	Script/Mod_ShuMercs/203	Контракт оформлен. Пилоты уже ждут вас у шлюза.
+685	Script/Mod_ShuMercs/204	Центр наёмников сейчас не может оформить контракт.
+686	Script/Mod_ShuMercs/205	Недостаточно средств.
+687	Script/Mod_ShuMercs/206	@O, кроме обычных контрактов, берёт и другую работу. Что вас интересует?
+688	Script/Mod_ShuMercs/207	Да, плачу @P cr.
+689	Script/Mod_ShuMercs/208	Наблюдение за одной системой
+690	Script/Mod_ShuMercs/209	Облёт: от одной до трёх систем, по два дня в каждой
+691	Script/Mod_ShuMercs/210	Троих
+692	Script/Mod_ShuMercs/211	Двоих
+693	Script/Mod_ShuMercs/212	90 дней
+694	Script/Mod_ShuMercs/213	60 дней
+695	Script/Mod_ShuMercs/214	30 дней
+696	Script/Mod_ShuMercs/215	20 дней
+697	Script/Mod_ShuMercs/216	10 дней
+698	Script/Mod_ShuMercs/217	Год
+699	Script/Mod_ShuMercs/218	Девять месяцев
+700	Script/Mod_ShuMercs/219	Полгода
+701	Script/Mod_ShuMercs/220	Три месяца
+702	Script/Mod_ShuMercs/221	Корабли гаальцев
+703	Script/Mod_ShuMercs/222	Корабли фэян
+704	Script/Mod_ShuMercs/223	Корабли людей
+705	Script/Mod_ShuMercs/224	Корабли пеленгов
+706	Script/Mod_ShuMercs/225	Корабли малоков
+707	Script/Mod_ShuMercs/226	Гражданские суда
+708	Script/Mod_ShuMercs/227	Рейнджеры
+709	Script/Mod_ShuMercs/228	Пираты
+710	Script/Mod_ShuMercs/229	Военные
+711	Script/Mod_ShuMercs/230	Достаточно, оформляем облёт
+712	Script/Mod_ShuMercs/231	Хорошо
+713	Script/Mod_ShuMercs/232	Как вести разведку? Разведчик в бой не вступает, при нападении уходит.
+714	Script/Mod_ShuMercs/233	Сколько пилотов выделить? Это лучшие бойцы организации, контракт - до года.
+715	Script/Mod_ShuMercs/234	На какой срок?
+716	Script/Mod_ShuMercs/235	Кого перехватывать в системе?
+717	Script/Mod_ShuMercs/236	К какой операции Коалиции присоединиться? Пилоты придут на сборный пункт и пойдут на штурм вместе с военными.
+718	Script/Mod_ShuMercs/237	Какую цель уничтожить? Фэйенгелион берётся только за Берторов и доминаторские верфи.
+719	Script/Mod_ShuMercs/238	С какой незаселённой планеты вывезти добычу?
+720	Script/Mod_ShuMercs/239	Добавить к облёту ещё одну систему?
+721	Script/Mod_ShuMercs/240	За какой системой наблюдать?
+722	Script/Mod_ShuMercs/241	Какую систему облететь первой?
+723	Script/Mod_ShuMercs/242	Какую систему блокировать?
+724	Script/Mod_ShuMercs/243	Какую систему взять под охрану? Гарнизон защищает планеты и мирные суда от доминаторов, клисан, пиратов и любых нападающих.
+725	Script/Mod_ShuMercs/244	В какой системе находится планета?
+726	Script/Mod_ShuMercs/245	Фэйенгелион работает только в системах доминаторов.
+727	Script/Mod_ShuMercs/246	В какой системе собрать трофеи? Всё подобранное пилоты сдадут на склад Центра наёмников.
+728	Script/Mod_ShuMercs/247	Корабль с таким именем не найден.
+729	Script/Mod_ShuMercs/248	Охранять такой корабль мы не возьмёмся.
+730	Script/Mod_ShuMercs/249	Вы не назвали корабль.
+731	Script/Mod_ShuMercs/250	Введите имя корабля, который нужно охранять
+732	Script/Mod_ShuMercs/251	Сколько кораблей отправить?
+733	Script/Mod_ShuMercs/252	Стоимость с учётом скидки: @P cr. Оформляем контракт?
+734	Script/Mod_ShuMercs/253	Кораблей: @C.
+735	Script/Mod_ShuMercs/254	@O берёт заказ: @W.
+736	Script/Mod_ShuMercs/255	Срок: @D дн.
+737	Script/Mod_ShuMercs/256	наблюдение за системой @X
+738	Script/Mod_ShuMercs/257	облёт систем: @X
+739	Script/Mod_ShuMercs/258	блокада системы @X (цель: @Y)
+740	Script/Mod_ShuMercs/259	охрана корабля @X
+741	Script/Mod_ShuMercs/260	гарнизон в системе @X
+742	Script/Mod_ShuMercs/261	долгий эскорт вашего корабля
+743	Script/Mod_ShuMercs/262	штурм системы @X вместе с Коалицией (сбор в системе @Y)
+744	Script/Mod_ShuMercs/263	уничтожение цели @X
+745	Script/Mod_ShuMercs/264	вывоз добычи с планеты @X (система @Y)
+746	Script/Mod_ShuMercs/265	сбор трофеев в системе @X
+747	Script/Mod_ShuMercs/266	гаальцы
+748	Script/Mod_ShuMercs/267	фэяне
+749	Script/Mod_ShuMercs/268	люди
+750	Script/Mod_ShuMercs/269	пеленги
+751	Script/Mod_ShuMercs/270	малоки
+752	Script/Mod_ShuMercs/271	гражданские суда
+753	Script/Mod_ShuMercs/272	рейнджеры
+754	Script/Mod_ShuMercs/273	пираты
+755	Script/Mod_ShuMercs/274	военные
+756	Script/Mod_ShuMercs/275	Штурм системы @T, сбор в системе @A
+757	Script/Mod_ShuMercs/276	@N - бертор, система @S
+758	Script/Mod_ShuMercs/277	@N - доминаторская верфь, система @S
+759	Script/Mod_ShuMercs/278	Разведка
+760	Script/Mod_ShuMercs/279	Блокада системы
+761	Script/Mod_ShuMercs/280	Охрана другого корабля
+762	Script/Mod_ShuMercs/281	Гарнизон в системе
+763	Script/Mod_ShuMercs/282	Долгий эскорт: лучшие пилоты организации
+764	Script/Mod_ShuMercs/283	Участие в освобождении системы Коалицией
+765	Script/Mod_ShuMercs/284	Уничтожение крупной цели: Бертор или доминаторская верфь
+766	Script/Mod_ShuMercs/285	Вывоз добычи с незаселённой планеты
+767	Script/Mod_ShuMercs/286	Сбор трофеев в системе
+769	Script/Mod_ShuMercs/288	Никто из отряда не вернулся.
+770	Script/Mod_ShuMercs/289	Потеряно кораблей: @L.
+771	Script/Mod_ShuMercs/290	Сбито кораблей: @K, потеряно: @L.
+772	Script/Mod_ShuMercs/291	Разведка прервана: истёк срок контракта.
+773	Script/Mod_ShuMercs/292	Разведчика атаковали, и он отступил. Собранные данные - в заметках.
+774	Script/Mod_ShuMercs/293	Разведка завершена. Отчёты - в заметках и на карточках систем.
+775	Script/Mod_ShuMercs/294	Блокада системы @S завершена.
+776	Script/Mod_ShuMercs/295	Охраняемый корабль @N погиб.
+777	Script/Mod_ShuMercs/296	Охрана корабля @N завершена, корабль цел.
+778	Script/Mod_ShuMercs/297	Вам возвращено @C cr.
+779	Script/Mod_ShuMercs/298	Систему @S захватили, гарнизон уходит.
+780	Script/Mod_ShuMercs/299	Гарнизон отстоял срок, система @S удержана.
+781	Script/Mod_ShuMercs/300	Срок контракта на освобождение системы @S истёк.
+782	Script/Mod_ShuMercs/301	Операция Коалиции по освобождению системы @S сорвалась.
+783	Script/Mod_ShuMercs/302	Система @S освобождена при участии наёмников.
+784	Script/Mod_ShuMercs/303	Контракт на уничтожение @N не выполнен.
+785	Script/Mod_ShuMercs/304	Цель @N уничтожена.
+786	Script/Mod_ShuMercs/305	Часть добычи потеряна (@N шт.).
+787	Script/Mod_ShuMercs/306	Артефакты Фэйенгелион оставил себе как образцы (@N шт.).
+788	Script/Mod_ShuMercs/307	Вывоз с планеты @P: ничего ценного доставить не удалось.
+789	Script/Mod_ShuMercs/308	Вывоз с планеты @P завершён. На склад Центра наёмников доставлено: @X.
+790	Script/Mod_ShuMercs/309	Часть доминаторского оборудования Фэйенгелион оставил себе (@N шт.).
+791	Script/Mod_ShuMercs/310	Сбор трофеев в системе @S: доставить ничего не удалось.
+792	Script/Mod_ShuMercs/311	Сбор трофеев в системе @S завершён. На склад Центра наёмников доставлено: @X.
+793	Script/Mod_ShuMercs/312	Разведка, система @S: обстановка изменилась (@X).
+794	Script/Mod_ShuMercs/313	Разведчик прибыл в систему @S. Разведданные - в заметках и на карточке системы.
+795	Script/Mod_ShuMercs/314	Разведка: система @S, @D
+796	Script/Mod_ShuMercs/315	Разведданные на @D
+797	Script/Mod_ShuMercs/316	Цели охоты за головами: @H
+798	Script/Mod_ShuMercs/317	Предметов в космосе: @I (примерно на @C cr.)
+799	Script/Mod_ShuMercs/318	Рейнджеры: @R, мирные суда: @T, наёмники: @M
+800	Script/Mod_ShuMercs/319	Военные: @W (сила @S), пираты: @P (сила @Q)
+801	Script/Mod_ShuMercs/320	Клисане: @L
+802	Script/Mod_ShuMercs/321	Доминаторские верфи: @Y
+803	Script/Mod_ShuMercs/322	, супердоминаторов: @D
+804	Script/Mod_ShuMercs/323	, берторов: @B
+805	Script/Mod_ShuMercs/324	Доминаторы: @K (сила @S)
+806	Script/Mod_ShuMercs/325	, клис. @L
+807	Script/Mod_ShuMercs/326	дом. @K, воен. @W, пир. @P, рейндж. @R, мирн. @T, наёмн. @M
+808	Script/Mod_ShuMercs/327	Я выполняю контракт <clr>Центра наемников<clrEnd>, <Player>. Не отвлекай меня.
+809	Script/Mod_ShuMercs/328	Другие услуги
+810	Script/Mod_ShuMercs/36	Рейд на систему <0> <clr>успешно завершен<clrEnd>. <br> Добыча:
+811	Script/Mod_ShuMercs/37	Рейд на систему <0> <clr>провален<clrEnd>.
+812	Script/Mod_ShuMercs/38	Управление контрактом
+813	Script/Mod_ShuMercs/39	Я хочу предложить тебе контракт на убийство (<0>) дней
+814	Script/Mod_ShuMercs/40	Я хочу предложить тебе контракт на убийство
+815	Script/Mod_ShuMercs/49	Какой укажем срок найма? Мы можем оформить контракт на один, два, три, четыре года или на пять лет.
+816	Script/Mod_ShuMercs/50	Вы хотите нанять <0> бойцов для охраны вашего корабля. Согласно расценкам группировки <1>, один наемник на <2> дней обойдется вам в <3> cr., итого (с учетом скидки <4>%) <5> cr. Оформляем контракт?
+817	Script/Mod_ShuMercs/51	Укажите систему для атаки.
+818	Script/Mod_ShuMercs/53	Вы хотите нанять <0> бойцов на военную операцию в системе <1>. Согласно расценкам группировки <2>, участие одного наемника обойдется вам в <3> cr., итого (с учетом скидки <4>%) <5> cr. Оформляем контракт?
+819	Script/Mod_ShuMercs/54	Вы хотите нанять <0> бойцов на рейд в системе <1>. Согласно расценкам группировки <2>, участие одного наемника обойдется вам в <3> cr., итого (с учетом скидки <4>%) <5> cr. Оформляем контракт?
+820	Script/Mod_ShuMercs/55	Ты не видишь, моя ласточка разваливается на лету? Какой контракт, <Player>?
+821	Script/Mod_ShuMercs/56	Я сейчас выполняю другое задание. Отбой.
+822	Script/Mod_ShuMercs/57	Я готов поработать на тебя. Назови цель, а там определимся с ценой. Мы общаемся по зашифрованному каналу связи, так что не беспокойся, жертва нас не услышит.
+823	Script/Mod_ShuMercs/58	Я не настолько доверяю тебе, чтобы заключать с тобой контракт. Ищи себе другого киллера.
+824	Script/Mod_ShuMercs/59	<0>? Нет уж, мне жизнь еще дорога, я за это дело не возьмусь.
+825	Script/Mod_ShuMercs/60	<0>? Столь серьезный риск должен хорошо оплачиваться. С учетом скидки <1> (<2>%) - скажем, <3> cr.
+826	Script/Mod_ShuMercs/61	<0>, значит... О'кей, но тебе это выйдет в кругленькую сумму. Со скидкой <1> (<2>%) - <3> cr.
+827	Script/Mod_ShuMercs/62	<0>? Разберемся, деньги вперед. Учитывая скидку <1> (<2>%), тебе это обойдется в <3> cr.
+828	Script/Mod_ShuMercs/63	<0>? Ничего трудного. Плати <1> cr. (с учетом скидки <2>%), и все будет сделано.
+829	Script/Mod_ShuMercs/64	<0>... Пишет, ничего не найдено. Уверен, что правильно ввел имя цели?
+830	Script/Mod_ShuMercs/65	<0>? Что ж, буду считать это неудачной шуткой. Если не дошло, за этот заказ я не возьмусь.
+831	Script/Mod_ShuMercs/66	<0>? Столь серьезный риск должен хорошо оплачиваться. Cкажем, <1> cr. будет достаточно.
+832	Script/Mod_ShuMercs/67	<0>, значит... О'кей, но такой заказ тебе обойдется в круглую сумму. <1> cr.
+833	Script/Mod_ShuMercs/68	<0> так <1>. Разберемся, деньги вперед. Переведи <2> cr, и все будет сделано в кратчайшие сроки.
+834	Script/Mod_ShuMercs/69	<0>? Ничего трудного. Плати <1> cr., и все будет сделано.
+835	Script/Mod_ShuMercs/70	Какому из ваших партнеров необходимо сменить корпус?
+836	Script/Mod_ShuMercs/71	Теперь выберите нужный корпус со склада.
+837	Script/Mod_ShuMercs/72	Вы хотите заменить корпус корабля <0> на <1>. Эту операцию нашу техники оценивают в <2> cr, подтверждаете?
+838	Script/Mod_ShuMercs/77	Я слушаю.
+839	Script/Mod_ShuMercs/78	Один.
+840	Script/Mod_ShuMercs/79	Два.
+841	Script/Mod_ShuMercs/80	Три. Умри.
+842	Script/Mod_ShuMercs/81	Заплатишь <0> cr. - мои парни станут относиться к тебе <clr>нейтрально<clrEnd>. Дальше сам.
+843	Script/Mod_ShuMercs/82	Приятно иметь с тобой дело.
+844	Script/Mod_ShuMercs/84	Теперь выберите навык, который желаете развить.
+845	Script/Mod_ShuMercs/85	Одна тренировка будет стоить <0> cr. Сколько сеансов проведем?
+846	Script/Mod_ShuMercs/86	Говори, <Player>, и не задерживай меня.
+847	Script/Mod_ShuMercs/87	Воины нашего отряда выше жалких деньжат! Увы, нам тяжело доставать амуницию, и приходиться смиряться с существованием таких ничтожеств, как ты, ради покупки нового обмундирования. Переведёшь на счёт нашего отряда <0> cr., и, так и быть, мои витязи станут <clr>безразличны<clrEnd> к тебе, жалкий земляной червяк!
+848	Script/Mod_ShuMercs/88	Что ты сказал, ничтожество?! Ар-р-р-гх, бортовой компьютер, все орудия к бою!
+849	Script/Mod_ShuMercs/89	Отлично, прославленные "Красные топоры" смогут переоснастить ещё несколько кораблей!<br><br>А теперь проваливай, чтобы и духу твоего не было у меня на экране!
+850	Script/Mod_ShuMercs/90	<Player>, я, как официальный представитель Корпорации, уполномочен отвечать на все ваши вопросы.
+851	Script/Mod_ShuMercs/91	Какая примитивная грубость... Если это всё, о чём вы хотели проинформировать Корпорацию, то приготовьтесь к ответу за нарушение Кодекса Потребителя, а именно главы 24-й, пункта 35-го, подпункта 6а.
+852	Script/Mod_ShuMercs/92	За <0> cr. Корпорация гарантирует вам нейтральное отношение её сотрудников. Переводя в более понятный для примитивных форм жизни вид, отношение их будет находиться на уровне <1>%
+853	Script/Mod_ShuMercs/93	Рад, что нам удалось договориться. Желаем вам только преумножить ваши материальные блага вместе с наемниками Корпорации.
+854	Script/Mod_ShuMercs/94	Готовлюсь к прыжку в систему <0>, босс. Не отвлекайте меня.
+855	Script/Mod_ShuMercs/95	Говорите, босс, я весь в вашем распоряжении.
+856	Script/Mod_ShuMercs/96	Как скажете, босс. Передам остальным, чтобы сосредоточились на более приоритетных целях.
+857	Script/Mod_ShuMercs/97	И кого же, собственно, надо атаковать?
+858	Script/Mod_ShuMercs/98	Вас понял, босс. Возвращаюсь в Центр.
+859	Script/Mod_ShuMercs/99	Вас понял, босс, атакую корабль <0>.
+861	Script/Mod_ShuMercs/FreePortDialogs/Greeting	Приветствуем вас в свободном порту <StationName>. На нашей независимой станции не действуют ни законы Коалиции, ни понятия братства - вы вольны делать, что пожелаете. Мы предоставляем услуги по смене корпуса ваших партнёров и оборудование для их тренировки. Кроме того, вас может заинтересовать ассортимент нашего магазина: загляните, может быть, найдёте что-нибудь привлекательное.
+862	Script/Mod_ShuMercs/FreePortDialogs/Greeting	Ну и, конечно, вы всегда можете попросить нас связаться с <clr>Гильдией Фрилансеров<clrEnd> - эти ребята могут попробовать взяться за почти любое ваше "щекотливое" дело.
+863	Script/Mod_ShuMercs/FreePortDialogs/PlayerAskHireMercs	Меня интересуют услуги фрилансеров
+864	Script/Mod_ShuMercs/FreePortDialogs/PlayerAskPartnerChangeHull	Я хочу сменить корпус партнёру
+865	Script/Mod_ShuMercs/FreePortDialogs/PlayerAskPartnerTraining	Хочу потренировать партнёра
+868	Script/Mod_ShuMercs/HeadHunting/BackToGalanet	Назад в Галанет
+869	Script/Mod_ShuMercs/HeadHunting/BountyIncreased	Награда за голову <Target> была увеличена на <Bounty> cr. Благодарим вас за участие!
+870	Script/Mod_ShuMercs/HeadHunting/BountyListBridge	Разыскиваются <color=0,132,15>живыми</color> или <color=0,50,200>мёртвыми</color>: <List>
+871	Script/Mod_ShuMercs/HeadHunting/BountyListBridgeNoTargets	В настоящий момент не назначено ни одной награды за голову. Обратитесь в другое время.
+872	Script/Mod_ShuMercs/HeadHunting/BountyListFirstMB	Ищем ли? Нет, специально не ищем. Охотники за "премиями" находятся сами по себе. Для этого не нужно иметь какого-то звания или статуса. Вы просто заходите на наш сайт со списком текущих целей, выбираете любую, и начинаете охоту - всё очень просто. Вознаграждение будет зачислено на ваш счёт автоматически в случае устранения цели. <Add>
+873	Script/Mod_ShuMercs/HeadHunting/BountyListFirstMB	Как видите, быть наёмником за головами довольно просто и выгодно, - если, конечно, моральная сторона вопроса вас не слишком беспокоит. А сейчас предлагаю вам взглянуть на текущий список целей.
+874	Script/Mod_ShuMercs/HeadHunting/BountyListFirstMBAdd	За некоторые цели можно получить повышенную "премию" в случае доставки их к нам в центр живыми. Для этого достаточно просто подобрать капсулу с целью и привезти сюда, пока система жизнеобеспечения ещё не отключилась.
+875	Script/Mod_ShuMercs/HeadHunting/BountyListMB	Прямо сейчас разыскиваются <color=0,132,15>живыми</color> или <color=0,50,200>мёртвыми</color> следующие пилоты: <List>
+876	Script/Mod_ShuMercs/HeadHunting/BountyListMBNoTargets	Прошу прощения, но, похоже, что в данный момент никаких целей в нашем списке нет. Обратитесь в другое время.
+877	Script/Mod_ShuMercs/HeadHunting/BountyOffMsg	<ShipName> неожиданно пропал со всех "радаров", поэтому мы, с сожалением, вынуждены объявить об отмене назначенного за него вознаграждения в размере <Bounty> cr.
+878	Script/Mod_ShuMercs/HeadHunting/BountyOnPlayerMsg	Приветствуем, <Player>! Во избежание возможных недоразумений, информируем вас, что за вашу голову была назначена награда в <Bounty> cr. Срок получения вознаграждения истекает <EndDate>.
+879	Script/Mod_ShuMercs/HeadHunting/BountyOnPlayerMsg	Желаем вам приятного дня!
+880	Script/Mod_ShuMercs/HeadHunting/BountyReceivedLifeSupportOffMsg	Благодарим за честную работу, <Player>! За умерщвление <ShipName> вам было выплачено вознаграждение в размере <Bounty> cr.
+881	Script/Mod_ShuMercs/HeadHunting/BountyReceivedLifeSupportOffMsg	Так держать, ковбой!
+882	Script/Mod_ShuMercs/HeadHunting/BountyReceivedMsg	Благодарим за честную работу, <Player>! За устранение <ShipName> вам было выплачено вознаграждение в размере <Bounty> cr.
+883	Script/Mod_ShuMercs/HeadHunting/BountyReceivedMsg	Так держать, ковбой!
+884	Script/Mod_ShuMercs/HeadHunting/ChooseTarget	Введите название корабля:
+885	Script/Mod_ShuMercs/HeadHunting/EnterBountyListBridge	Разыскиваются живыми или мёртвыми
+886	Script/Mod_ShuMercs/HeadHunting/EnterBountyListFirstMB	Кстати, хотел спросить, а вы "охотников за головами", часом, не ищите?
+887	Script/Mod_ShuMercs/HeadHunting/EnterBountyListMB	А за кого там нынче дают награду?
+888	Script/Mod_ShuMercs/HeadHunting/MomImInInternet	Погодите-ка, это ведь моё имя! Моё имя в вашем списке!
+889	Script/Mod_ShuMercs/HeadHunting/MomImInInternet2	Ох, как неожиданно - и вправду ваше имя!<br>Ну, так или иначе, ничего здесь не попишешь - мы лишь коммерческая организация-посредник, и не мы диктуем условия. Видимо, вы кому-то сильно насолили, и вас захотели "убрать".<br><clr><clrEnd><br>Впрочем, конечно, эта выплата - <clr>80<clrEnd>% суммы, а <clr>20<clrEnd>% идёт нам на оплату расходов... Поэтому, например, за <clr>50<clrEnd>% суммы...
+890	Script/Mod_ShuMercs/HeadHunting/MomImInInternet3	Это чистой воды грабёж, но хочется летать спокойно, а не отбиваться от вездесущих наёмников, будто предугадывающих твой маршрут. Держите свои деньги и удалите меня поскорее из вашего списка!
+891	Script/Mod_ShuMercs/HeadHunting/MomImInInternet4	Как хорошо, что нам удалось договориться! Это ведь так прекрасно - когда два индивидуума приходят к взаимовыгодному компромиссу! Ваше имя уже было вычеркнуто из наших списков, а оплата этой "услуги" - списана с вашего счёта.
+892	Script/Mod_ShuMercs/HeadHunting/MomImInInternet5	Пожалуй, обсудим другие дела
+895	Script/Mod_ShuMercs/HeadHunting/NewBountySet	Награда в размере <Bounty> cr. за голову <Target> успешно установлена. Благодарим вас за участие!
+896	Script/Mod_ShuMercs/HeadHunting/NotEnoughMoneyToSetBounty	На вашем счету недостаточно средств для выставления минимальной награды
+897	Script/Mod_ShuMercs/HeadHunting/PlayerDone	Поговорим о другом
+898	Script/Mod_ShuMercs/HeadHunting/PlayerGoToList	К списку наград за голову
+899	Script/Mod_ShuMercs/HeadHunting/SetBountyAmount	Укажите размер вознаграждения (комиссия <Commission>):
+900	Script/Mod_ShuMercs/HeadHunting/SetHeadBounty	Назначить/увеличить награду за голову
+901	Script/Mod_ShuMercs/HeadHunting/ShipNameBountyAdd	(награда <Bounty> cr.)
+902	Script/Mod_ShuMercs/HeadHunting/TargetIsInvalid	Вы не можете назначить награду за эту цель
+903	Script/Mod_ShuMercs/HeadHunting/TargetNotFound	Не удаётся найти цель по указанному имени
+906	Script/Mod_ShuMercs/MercCenterDialogs/AskContract	Как вы знаете, существуют три типа контрактов: <clr>эскорт<clrEnd>, <clr>рейд<clrEnd> и <clr>военная операция<clrEnd>.
+908	Script/Mod_ShuMercs/MercCenterDialogs/AskContract	<clr>Эскорт<clrEnd> - это обычный партнерский контракт на выбранную вами длительность. Заказчика сопровождают сотрудники охранного агентства, универсальные почти в любой ситуации. Но подобные агенты не подготовлены для атак вражеских систем, поэтому при нападении имеют право отступить.
+910	Script/Mod_ShuMercs/MercCenterDialogs/AskContract	<clr>Рейд<clrEnd> - специальная операция, проводимая в доминаторской системе. Отряд численностью cnt корабля совершает прыжок, программами "Аварийный сигнал" заставляет доминаторов сбросить оборудование и возвращается на базу с добытыми трофеями. <br><clr>Контракт оформляется не чаще, чем раз в 90 дней - "Атлантом" и 150 дней - "Фэйенгелионом". "Красные Топоры" принципиально отказываются от такой бесславной миссии. Необходим навык лидерства не ниже трех и звание кадета/юнги.<clrEnd>
+912	Script/Mod_ShuMercs/MercCenterDialogs/AskContract	<clr>Военная операция<clrEnd> - атака выбранной вами системы ударной группой.
+913	Script/Mod_ShuMercs/MercCenterDialogs/AskContract	Ударная группа будет подчиняться вашим приказам и беспрекословно атакует указанный вами вражеский корабль. Также вы сможете приказать отряду следовать за вами либо же отступить, по вашему желанию.
+914	Script/Mod_ShuMercs/MercCenterDialogs/AskContract	<clr>Организация подобной операции доступна, начиная со звания капитана или шкипера. Согласно кодексу, эти организации готовы оказывать вам эту услугу раз в 3 месяца.<clrEnd>
+916	Script/Mod_ShuMercs/MercCenterDialogs/AskContract	Ну что, какой тип контракта выбираете?
+917	Script/Mod_ShuMercs/MercCenterDialogs/AskMercs	Итак, ещё до войны на территории Коалиции сложилось три организации наёмников:
+919	Script/Mod_ShuMercs/MercCenterDialogs/AskMercs	<clr>"Красные Топоры"<clrEnd> - группа, собранная из ветеранов силовых структур и войск малокских планет, которых отстранили от службы из-за нарушений Коалиционного Договора. Они отличаются особой жестокостью и исполнительностью при выполнении задач.
+921	Script/Mod_ShuMercs/MercCenterDialogs/AskMercs	<clr>"Атланты"<clrEnd> - одна из наиболее уважаемых организаций наёмников. Руководство организации имеет серьёзные связи среди элит Коалици и пиратского Клана, что позволяет им безболезненно выполнять разные "грязные" дела, включая политические убийства.
+923	Script/Mod_ShuMercs/MercCenterDialogs/AskMercs	<clr>"Фэйенгеллион"<clrEnd> - группа относительно "девиантных" фэян, которые используют в своих "исследованиях" "нетрадиционные" методы обращения с объектами.
+925	Script/Mod_ShuMercs/MercCenterDialogs/AskMercs	Итак, какая из них вас интересует?
+926	Script/Mod_ShuMercs/MercCenterDialogs/AtlantAskDiplomacy	Для того, чтобы улучшить отношения с <clr>"Атлантом"<clrEnd>, нам потребуется назначить вам встречу с лидером группировки.
+928	Script/Mod_ShuMercs/MercCenterDialogs/AtlantAskDiplomacy	Лидером <clr>ЧОП "Атлант"<clrEnd> является <clr>Кайло Норт<clrEnd> - прославленный наемный убийца, на скопленные деньги основавший гильдию охранников и киллеров. Чрезвычайно опасен.
+930	Script/Mod_ShuMercs/MercCenterDialogs/AtlantAskDiplomacy	<clr>Норт<clrEnd> согласен переговорить с вами за cost cr.
+931	Script/Mod_ShuMercs/MercCenterDialogs/AtlantAskDiplomacy	Следующий вызов доступен date.
+932	Script/Mod_ShuMercs/MercCenterDialogs/AxesAskDiplomacy	Для того, чтобы улучшить отношения с <clr>"Красными топорами"<clrEnd>, нам потребуется назначить вам встречу с лидером группировки.
+934	Script/Mod_ShuMercs/MercCenterDialogs/AxesAskDiplomacy	Лидером <clr>отряда "Красные топоры"<clrEnd> является <clr>Бордюрг Ебрын<clrEnd> - бывалый малокский воин и пират, печально известный ненавистью к представителям Торговых гильдий, а также животной жестокостью.
+936	Script/Mod_ShuMercs/MercCenterDialogs/AxesAskDiplomacy	Вы можете попробовать поговорить с <clr>Ебрыном<clrEnd> за cost cr.
+937	Script/Mod_ShuMercs/MercCenterDialogs/AxesAskDiplomacy	Следующий вызов доступен date.
+938	Script/Mod_ShuMercs/MercCenterDialogs/ChooseCount	Выберите количество атакующих
+939	Script/Mod_ShuMercs/MercCenterDialogs/EscortAsk	Согласно политике нашей станции, эскорт можно нанимать вне зависимости от ваших способностей к командованию. Но стоит предупредить, что <clr>некоторые наемники, не увидев в вас достойного лидера, могут разорвать контракт,<clrEnd> так что нанимайте бойцов на свой страх и риск, если не до конца уверены в своих способностях.
+941	Script/Mod_ShuMercs/MercCenterDialogs/EscortAsk	Сколько кораблей оформлять?
+942	Script/Mod_ShuMercs/MercCenterDialogs/FeiAskDiplomacy	Для того, чтобы улучшить отношения с <clr>"Фэйенгелионом"<clrEnd>, нам потребуется назначить вам встречу с лидером группировки.
+944	Script/Mod_ShuMercs/MercCenterDialogs/FeiAskDiplomacy	Пост генерального директора <clr>Корпорации "Фэйенгелион"<clrEnd> занимает <clr>Элайма Фэй<clrEnd> - первоклассный инженер, осужденный за участие в схеме по выводу секретных чертежей из систем госконтроля, впоследствии, однако, амнистированный. Ксенофоб и автор нескольких нашумевших трудов на тему современной евгеники в фэянском обществе.
+946	Script/Mod_ShuMercs/MercCenterDialogs/FeiAskDiplomacy	<clr>Фэй<clrEnd> может организовать вам встречу за cost cr.
+947	Script/Mod_ShuMercs/MercCenterDialogs/FeiAskDiplomacy	Следующий вызов доступен date.
+948	Script/Mod_ShuMercs/MercCenterDialogs/FixRelations	Текущая лояльность к вам группировок на станции:
+951	Script/Mod_ShuMercs/MercCenterDialogs/FixRelations	Отношения с какой организацией вы намерены улучшить?
+952	Script/Mod_ShuMercs/MercCenterDialogs/Greeting	Приветствуем вас в центре наёмников <StationName>. Здесь вы можете заключить контракт с наёмниками одной из группировок, начиная от простого эскорта и заканчивая сложной военной операцией. Кроме того, мы предоставляем услуги по смене корпуса ваших партнёров и оборудование для их тренировки.
+953	Script/Mod_ShuMercs/MercCenterDialogs/Greeting	Ну а если вы "особый" клиент сети Бизнес-Центров, то помните - у вас на нашем Центре <clr>льготные условия<clrEnd>
+955	Script/Mod_ShuMercs/MercCenterDialogs/Greeting	Лояльность к вам группировок на станции:
+957	Script/Mod_ShuMercs/MercCenterDialogs/MeetingMade	Отлично. Мы уже передали ваш запрос организации, ждите прибытия их лидера со дня на день.
+958	Script/Mod_ShuMercs/MercCenterDialogs/MeetingThx	Благодарю
+960	Script/Mod_ShuMercs/MercCenterDialogs/PlayerAskFixRelations	Мне нужно поправить отношения с наёмниками
+961	Script/Mod_ShuMercs/MercCenterDialogs/PlayerAskHireMercs	Меня интересуют услуги наёмников
+962	Script/Mod_ShuMercs/MercCenterDialogs/PlayerAskPartnerChangeHull	Я хочу сменить корпус партнёру
+963	Script/Mod_ShuMercs/MercCenterDialogs/PlayerAskPartnerTraining	Хочу потренировать партнёра
+964	Script/Mod_ShuMercs/MercCenterDialogs/ReadyForDiplomacy	Я готов к переговорам (оплатить организацию встречи)
+965	Script/Mod_ShuMercs/MercCenterDialogs/TrainingAsk	Для наших клиентов мы предлагаем множество тренажеров, начиная от пилотных симуляторов и заканчивая логическими головоломками. Используя все это разнообразие методов, вы можете развить <clr>любой<clrEnd> навык ваших партнеров. Стоит учитывать, что эффективность тренировок прямо зависит от ваших лидерских качеств, а если быть точным - <clr>количество<clrEnd> сеансов, которое можно провести без ущерба для развиваемых навыков. И да, чуть не забыл: для наших наемников тренировки стоят <clr>вдвое дешевле<clrEnd>.
+967	Script/Mod_ShuMercs/MercCenterDialogs/TrainingAsk	Теперь выберите пилота, которого хотите тренировать.
+970	Script/Mod_ShuMercs/MercNews/AllMercLeadersDead	Ваши действия по ликвидации троих известных авторитетов не остались незамеченными. Проверьте склад центра наёмников <MercCenter> - думаю, это вполне достаточная награда за проделанную работу.
+971	Script/Mod_ShuMercs/MercNews/AllMercLeadersDead	Ваш Б.Г.
+972	Script/Mod_ShuMercs/MercNews/NewMercCenterHasBeenBuild1	Сегодня в системе <Star> открыл свои ангары центр наёмников <MercCenter>. Все отчаянные пилоты, желающие подзаработать, уже прогревают лазеры.
+973	Script/Mod_ShuMercs/MercNews/NewMercCenterHasBeenBuild2	Хорошие новости для всех рисковых пилотов. Только что в системе <Star> начал действовать новый центр наёмников <MercCenter>.
+974	Script/Mod_ShuMercs/MercNews/NewMercCenterHasBeenBuild3	Вы ещё не в найме? Тогда двигайте дюзы к нам! - передаёт послание всем независимым пилотам Галактики глава только что открывшегося в системе <Star> центра наёмников <MercCenter>.
+978	Script/Mod_ShuMercs/MercOrganisationsData/Atlant/OrganisationName	ЧОП "Атлант"
+981	Script/Mod_ShuMercs/MercOrganisationsData/Faeyangelion/OrganisationName	Корпорация "Фэйенгелион"
+983	Script/Mod_ShuMercs/MercOrganisationsData/MercCenterName1	Обмен
+984	Script/Mod_ShuMercs/MercOrganisationsData/MercCenterName10	Альмаговар
+985	Script/Mod_ShuMercs/MercOrganisationsData/MercCenterName11	Стратиот
+986	Script/Mod_ShuMercs/MercOrganisationsData/MercCenterName12	Граничар
+987	Script/Mod_ShuMercs/MercOrganisationsData/MercCenterName13	Рейтар
+988	Script/Mod_ShuMercs/MercOrganisationsData/MercCenterName14	Гайдук
+989	Script/Mod_ShuMercs/MercOrganisationsData/MercCenterName15	Стрелец
+990	Script/Mod_ShuMercs/MercOrganisationsData/MercCenterName16	Генуэзец
+991	Script/Mod_ShuMercs/MercOrganisationsData/MercCenterName17	Венецианец
+992	Script/Mod_ShuMercs/MercOrganisationsData/MercCenterName18	Буканьер
+993	Script/Mod_ShuMercs/MercOrganisationsData/MercCenterName19	Финикиец
+994	Script/Mod_ShuMercs/MercOrganisationsData/MercCenterName2	Егерь
+995	Script/Mod_ShuMercs/MercOrganisationsData/MercCenterName20	Ронин
+996	Script/Mod_ShuMercs/MercOrganisationsData/MercCenterName3	Гессенец
+997	Script/Mod_ShuMercs/MercOrganisationsData/MercCenterName4	Ландскнехт
+998	Script/Mod_ShuMercs/MercOrganisationsData/MercCenterName5	Кондотьер
+999	Script/Mod_ShuMercs/MercOrganisationsData/MercCenterName6	Гоплит
+1000	Script/Mod_ShuMercs/MercOrganisationsData/MercCenterName7	Варяг
+1001	Script/Mod_ShuMercs/MercOrganisationsData/MercCenterName8	Алан
+1002	Script/Mod_ShuMercs/MercOrganisationsData/MercCenterName9	Рутьер
+1005	Script/Mod_ShuMercs/MercOrganisationsData/RedAxes/OrganisationName	Отряд "Красные топоры"
+1009	Script/Mod_ShuMercs/RanksCoalition/0	Новичок
+1010	Script/Mod_ShuMercs/RanksCoalition/1	Кадет
+1011	Script/Mod_ShuMercs/RanksCoalition/2	Пилот
+1012	Script/Mod_ShuMercs/RanksCoalition/3	Капитан
+1013	Script/Mod_ShuMercs/RanksCoalition/4	Истребитель
+1014	Script/Mod_ShuMercs/RanksCoalition/5	Ас
+1015	Script/Mod_ShuMercs/RanksCoalition/6	Командор
+1016	Script/Mod_ShuMercs/RanksCoalition/7	Адмирал
+1019	Script/Mod_ShuMercs/RanksPirateClan/0	Cалага
+1020	Script/Mod_ShuMercs/RanksPirateClan/1	Юнга
+1021	Script/Mod_ShuMercs/RanksPirateClan/2	Рейдер
+1022	Script/Mod_ShuMercs/RanksPirateClan/3	Шкипер
+1023	Script/Mod_ShuMercs/RanksPirateClan/4	Головорез
+1024	Script/Mod_ShuMercs/RanksPirateClan/5	Атаман
+1025	Script/Mod_ShuMercs/RanksPirateClan/6	Хан
+1026	Script/Mod_ShuMercs/RanksPirateClan/7	Барон
+1034	ShipInfo/AddInfo/CustomInfos/Atlant/Description	Раз в несколько дней энергетический импульс оружейных систем усиливается вдвое, приводя к серьезному увеличению урона.
+1036	ShipInfo/AddInfo/CustomInfos/Atlant/Name	Берсерк
+1039	ShipInfo/AddInfo/CustomInfos/Fei/Description	При попытке отступления активируется фазовый ускоритель, в разы повышающий скорость полета.
+1041	ShipInfo/AddInfo/CustomInfos/Fei/Name	Фазовый ускоритель
+1044	ShipInfo/AddInfo/CustomInfos/Red/Description	Раз в несколько дней активируется уникальный силовой щит, обеспечивающий почти полную неуязвимость на один ход.
+1046	ShipInfo/AddInfo/CustomInfos/Red/Name	Барьер
+1049	ShipInfo/AddInfo/CustomInfos/ShuMercs_AdditionalStatsInfo/Description	Информационная скрытая инфошка для записи числа проведённых партнёром игрока тренировок на ЦН
+1054	ShipInfo/AddInfo/CustomInfos/ShuMercs_FixForTrader/Description	Костыль костыля, чтобы наймиты от торгаша не уходили
+1061	ShipInfo/AddInfo/CustomInfos/ShuMercs_GuardedShip/Name	Проверяет, не атаковал ли игрок охраняемый его наёмником корабль, и если атаковал, завершает квест наёмника
+1125	ShipInfo/AddInfo/CustomInfos/ShuMercs_HeadBountyInfo/Name	Висит на кораблях, имеющих награду за свою голову (наёмники будут активно охотиться за такими)
+1187	ShipInfo/AddInfo/CustomInfos/ShuMercs_PlayerTalked/Description	Чтобы уточнять, заплатил ли игрок наёмнику или нет
+1208	UselessItems/EbrynSigaretts/Name	Элитные сигары Ебрына
+1211	UselessItems/EbrynSigaretts/Text	Лучшие якубинские сигары, поставляемые специально для лидера Красных Топоров.
+1215	UselessItems/FeiMessages/Name	Деловая переписка Фэя
+1217	UselessItems/FeiMessages/OnUseCode/01	MessageBox('- Итак, господин Фэй, что с нашим заказом?<br>- Вам не стоит беспокоиться. Прямо сейчас просматриваю репортаж RNN. \"Резня пиратов\", \"Пираты разграбляют колонизационный караван\" и прочее.<br>- Да, да, выглядит отлично. А Комиссия?<br>- Пыталась сбежать.<br>- Ну, раз пыталась... Корабль с оплатой уже вылетел к вашему штабу.<br>- С вами приятно работать.<br>- Взаимно.');
+1221	UselessItems/FeiMessages/Text	Отобранные специалистами по кибербезопасности отрывки из переписки лидера "Фэйенгелион".
+1225	UselessItems/NortsCompromat/Name	Компромат на Норта
+1227	UselessItems/NortsCompromat/OnUseCode/01	MessageBox('Агенты не зря ели свой хлеб: среди материалов вы обнаружили несколько документов, подтверждающих взятие Атлантами заказов на уничтожение политиков Коалиции, устранение неудобных пиратскому Клану свидетелей...<br>Кажется, убийство вами Норта стало лишь спусковым крючком, а роспуск организации лоббировался куда более влиятельными персонами.');
+1231	UselessItems/NortsCompromat/Text	Тщательно собиравшийся несколькими лучшими агентами Коалиции компромат на лидера группировки "Атланты".
+1234	UselessItems/Usl_24/Text	Куб размером <color=255,240,100>20</color> на <color=255,240,100>20</color> см. Если верить инструкции, он способен трансформироваться в настоящий дворец.
+1238	ShipCharacterFreelancer/00	34, 33, 33, Фрилансер
+1241	ShipCharacterMerc/00	34, 33, 33, Наемник
+1244	ShipCharacterMercLeader/00	0, 75, 25, Варлорд
+1245	ShipCharacterMercLeader/01	35, 25, 40, Босс
+1246	ShipCharacterMercLeader/02	0, 15, 85, Гендир
+1250	ShipType/Fei/Freelancer	Элендар
+1251	ShipType/Fei/Merc	Фэй
+1255	ShipType/Gaal/Freelancer	Хааг-нор
+1259	ShipType/Maloc/Freelancer	Драк'рор
+1260	ShipType/Maloc/Merc	Топор
+1264	ShipType/Peleng/Freelancer	Шукрямба
+1265	ShipType/Peleng/Merc	Атлант
+1268	ShipType/People/Freelancer	Бродяга
+1269	ShipType/People/Merc	Атлант
+1273	ShipType/TypeName/Freelancer	Фрилансер
+1274	ShipType/TypeName/MB	Центр наёмников
+1275	ShipType/TypeName/MBSmall	ЦН
+1276	ShipType/TypeName/Manaan	Свободный порт
+1277	ShipType/TypeName/ManaanSmall	СП
+1278	ShipType/TypeName/Merc	Наемник
+1279	ShipType/TypeName/MercHQ	Штаб организации
+1281	ShipType/TypeName/MercHQNames/Atlant	"Атлант"
+1282	ShipType/TypeName/MercHQNames/Faeyangelion	"Фэйенгелион"
+1283	ShipType/TypeName/MercHQNames/RedAxes	"Красные топоры"
+1285	ShipType/TypeName/MercHQSmall	Штаб
+1286	ShipType/TypeName/MercLeader	Глава организации
+1288	ShipType/TypeName/MercLeaderNames/Atlant	Кайло Норт
+1289	ShipType/TypeName/MercLeaderNames/Faeyangelion	Элайма Фэй
+1290	ShipType/TypeName/MercLeaderNames/RedAxes	Бордюрг Ебрын
