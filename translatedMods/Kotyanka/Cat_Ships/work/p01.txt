@@ -1,0 +1,93 @@
+1	Ara
+2	Ara I
+3	<color=248,252,248>Ara - a series of peleng destroyers whose weak armor is compensated by good protection against splinter and energy weaponry. Created to provide escorts for high-ranking lyakushas and fast raids on enemy ships.</color>
+4	<color=248,252,248>The ship's additional properties refuse to work under the control of anyone other than</color> Pelengs<color=248,252,248>.</color>
+5	Ara II
+6	Droid repair: <bonDroid> units
+7	Ara III
+8	Bamberga
+9	Bamberga I
+10	<color=248,252,248>Bamberga - a series of destroyer-class hulls. Created by the maloqs to protect the ships of high-ranking persons or to carry important cargo requiring serious protection. Later Humans decided that this type of ship would be excellent for guarding their trade caravans and bought out the production technology.</color>
+11	Charm skill <bonSkill5>
+12	<color=248,252,248>The ship's additional properties refuse to work under the control of anyone other than</color> Maloqs and Humans<color=248,252,248>.</color>
+13	Bamberga II
+14	Leadership skill <bonSkill6>
+15	Bamberga III
+16	Beshraflyats
+17	<color=248,252,248>An acryn hull actually made at a state enterprise and practically passed technical trials. Sold almost legally, but don't worry - you won't get a warranty, nor papers of ownership for this tub, anyway. Specializes in the safe collection of various objects in open space.</color>
+18	Pull speed at close range: <bonHookMinSpeed> units
+19	Pull speed at long range: <bonHookMaxSpeed> units
+20	Bigraburba
+21	<color=248,252,248>The military department of one of the maloq planets ordered a ship "so the enemies get a bang and we don't." Faeyan scientists carried out their preferences, but the ship's power subnet could not withstand such a load without problems. It was decided to abandon the shield generator, energy armor and scanning of the area for enemy shots, giving all the energy to the weapon systems and a little to the engine for emergency retreat. The maloqs, though they were against this decision, demanding that power go only to weapons, had to reconcile themselves to the faeyan regulations requiring the ability to evacuate be preserved.</color>
+22	Weapon range: <bonWRadius> units
+23	Shield power: <bonDef> units
+24	Black Raven
+25	<color=248,252,248>An acryn hull created for use by special-purpose units of the Coalition Armed Forces. However, after the theft of its technical documentation and its declassification, it was decided to sell it legally to anyone who wishes, to make up for the budget losses on developing the hull.</color>
+26	Black Reaper
+27	Boar
+28	Boar I
+29	<color=248,252,248>Boar - a series of well-armored maloq transport and escort ships. Performs well in the safe transport of equipment, weapons, ammunition and various cargoes of high importance.</color>
+30	Engine jump: <bonJump> units
+31	<color=248,252,248>The ship's additional properties refuse to work under the control of anyone other than</color> Maloqs<color=248,252,248>.</color>
+32	Boar II
+33	Boar III
+34	Bongrabar
+35	<color=248,252,248>An acryn fighter hull created by pirate engineers for swift raids on unprotected transports or cargo ships. Has high speed and increased firing range. However, the price paid was far weaker armor than on analogues and the lack of a repair droid.</color>
+36	Armor: <bonHull> units
+37	Shot range: <bonWRadius> units
+38	Tsasholdsha
+39	<color=248,252,248>An acryn destroyer hull designed by special order of the peleng government for all its subjects wishing to fight the dominator threat. The hull has additional armor-bearing plates, a powerful shield source and a reinforced frame, but the power and range of the weapon batteries dropped slightly because of the increased load on the energy core.</color>
+40	Chipshush
+41	<color=248,252,248>An acryn hull designed by special order of peleng businessmen. This series of hulls is fitted with extremely powerful engines for fast and long-distance flights.</color>
+42	Tsvakhonda
+43	<color=248,252,248>An acryn corvette hull created by pirate engineers for quick raids on peaceful ships. Has high speed and also increased power and number of weapons. However, the price paid was far weaker armor than on analogues and the lack of a shield and gripper.</color>
+44	Ellentanda
+45	<color=248,252,248>An acryn hull created by faeyan engineers for exploring uninhabited planets and planetoids. Has increased speed and an armored hull to counter harmful and dangerous factors in unstable atmospheres of planets unfit for life, and also has additional protection from asteroids.</color>
+46	Asteroid protection: <clr>+50%<clrEnd>
+47	<color=248,252,248>An acryn hull of maloq manufacture, has a spacious gun deck and additional energy and ammunition feed mechanisms. However, firing radius and hull armor are reduced to ensure stabilization of target lock by the onboard computer. There is also no repair droid.</color>
+48	Hawk I
+49	<color=248,252,248>Hawk - a series of high-speed fighters of faeyan manufacture. Created for crushing raids on ground or space targets using missile and splinter weapons.</color>
+50	Tech skill <bonSkill3>
+51	<color=248,252,248>The ship's additional properties refuse to work under the control of anyone other than</color> Faeyans<color=248,252,248>.</color>
+52	Hawk II
+53	Hawk III
+54	Hellcat
+55	<color=248,252,248>An acryn fighter of pirate manufacture with an AI that improves the pilot's combat skills. Afterburner engines and reinforced servos on the repair droid and gripper are also installed.</color>
+56	Horizon
+57	<color=248,252,248>A lightly acrynated hull with a built-in AI to improve shot accuracy, slightly reinforced propulsion systems and the ability to install five splinter weapons.</color>
+58	Khramgerb
+59	<color=248,252,248>An acryn fighter hull that is an improved version of the "Bongrabar" hull, but with a smaller armor reduction, as well as increased power and number of weapons. In exchange the firing range had to be reduced slightly and the repair droid abandoned.</color>
+60	Mouseman
+61	<color=248,252,248>A maloq diplomatic hull protecting against possible damage during flights between hostile systems. Has a built-in signal receiving-transmitting amplifier, which substantially increases scanner power.</color>
+62	Weapon damage: <bonWEnergy> units
+63	Engine power: <bonSpeed> units
+64	Piranha
+65	<color=248,252,248>An acryn fighter of pirate manufacture with short-barreled splinter guns and reinforced afterburner engines.</color>
+66	Panther
+67	<color=248,252,248>A gaal mastodon of the world of acryn technologies. It came into being owing to the huge popularity of Mogunt equipment among gaal pilots fighting at the front. The hull itself is designed to use the advantages given by Mogunt equipment as effectively as possible, together with a small base boost of the same type. Side effects in the form of reduced speed are also present.</color>
+68	Sharkun
+69	<color=248,252,248>A balanced acryn hull with additional power feed to the propulsion system and missile launchers, as well as an additional AI for dodging shots, but with no shield and no possibility to install artifacts.</color>
+70	Sharklet
+71	Sharklet I
+72	<color=248,252,248>Sharklet - a series of frigates created by humans on the experimental groundwork of past years. Excellent for fast space raids, escorts or assaulting ground structures. After release it was stolen by the pelengs.</color>
+73	<color=248,252,248>The ship's additional properties refuse to work under the control of anyone other than</color> Humans and Pelengs<color=248,252,248>.</color>
+74	Sharklet II
+75	Sharklet III
+76	Shegramer
+77	<color=248,252,248>A faeyan hull with acryn parts, intended for combat without dodging enemies.</color>
+78	Star Fury
+79	<color=248,252,248>An acryn fighter of pirate manufacture with an AI tuned for maximum evasion at the expense of damage dealt. Reinforced force-interference generators are also installed in place of the repair droid and part of the frame.</color>
+80	Star Hammer
+81	<color=248,252,248>An acryn ship built by the human commonwealth for the needs of the military and rangers. The final design has a perfect balance of resources for waging combat, but is absolutely not intended for other tasks.</color>
+82	Trakvagn
+83	<color=248,252,248>A lightly acrynated transport hull with a built-in AI for evaluating goods, an enlarged frame for greater capacity and reinforced armor for protection from pirates.</color>
+84	Weevil
+85	<color=248,252,248>A special series of ships for "boozers." Since the ship is mostly controlled by an AI, the pirate designers installed a hooch generator right in the pilot's cabin. And the hull's name was chosen when one of the human pirates joked: "My lord, a weevil has devoured our hops." This amused the human workmen so much that it was decided to name the ship the Weevil.</color>
+86	Charm skill: <bonSkill5> units
+87	Maneuverability skill: <bonSkill2> units
+88	Masstorg
+89	<color=248,252,248>An interesting human idea in the field of antigravity technologies lets this hull carry large cargoes without loss of speed. However, the hull's defensive and offensive functions barely reached an acceptable level because of the antigravity fields.</color>
+90	Hull mass: <bonMass>%
+91	<color=248,252,248>The basis of this ship is the hull of the famous human racer Mel, but the defense mechanisms were replaced with specialized slots for missile weaponry.</color>
+92	Starvar
+93	<color=248,252,248>An acryn hull supplied by the pirate clan with a preinstalled AI that generates pompous but inspiring speeches for the pilot and prompts them at the right moment, which makes it possible to rally far more pilots around oneself. The hull is also fitted with additional defense systems and missile launchers.</color>

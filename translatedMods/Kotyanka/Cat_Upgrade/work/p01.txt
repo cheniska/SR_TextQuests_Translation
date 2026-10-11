@@ -1,0 +1,119 @@
+1	Shield power: <bonDef>
+2	A unique first-level micromodule, handmade. The newest experimental development of Coalition technicians in the field of acryn technologies, made in a single copy. Increases all special effects of <clr>acrynic<clrEnd> equipment fivefold and neutralizes all its negative effects. The equipment's size and cost are quadrupled as a result. Due to a conflict of outdated connectors it cannot be installed on a hull.
+3	Size: <clr>+200%<clrEnd>
+4	Cost: <clr>+200%<clrEnd>
+5	Destroyer
+6	A unique micromodule. A small cold-fusion reactor installed in a weapon, when activated, transfers pressure from the fusion chambers into the weapon barrels, increasing their firepower, while the excess fusion energy raises the effectiveness of the shot. Compatible with <clr>all races<clrEnd>.
+7	Additional effect: <clr>target ionization<clrEnd>
+8	Reliability: <clr>+100%<clrEnd>
+9	Cost: <clr>+80%<clrEnd>
+10	Droizator
+11	A unique micromodule. A mighty modifying block developed for global improvement of the repair droid's characteristics. Totally upgrading all the droid's main and secondary keys and working mechanisms, it extremely strongly increases the droid's effectiveness. During the micromodule's development a fairly significant increase in the shield generator was also found when the micromodule is activated. Compatible with <clr>all races<clrEnd>.
+12	Field generator: <bonDef> %
+13	Enricher
+14	A unique micromodule. Simply made for the speediest enrichment. Compatible with <clr>all races<clrEnd>.
+15	Cost: <clr>-60%<clrEnd>
+16	Researcher
+17	A unique micromodule. A huge classified archive of Coalition research, deeply hidden in secret warehouses on remote planets. Compatible with <clr>all races<clrEnd>.
+18	Pull speed at close range: <bonHookMinSpeed> units
+19	Pull speed at long range: <bonHookMaxSpeed> units
+20	Reliability: <clr>+33%<clrEnd>
+21	Relicter
+22	A unique micromodule. Cosmic relic radiation formed in hyperspace forms the physical processes occurring inside hyper-bubbles, research on which made it possible to reduce the mass of missile warheads, thereby increasing their power. Compatible with <clr>all races<clrEnd>.
+23	Missile and torpedo speed: <bonMissileSpeed> units
+24	Number of salvos: <bonAmmo> units
+25	Number of shots: <bonAttacks> units
+26	Reliability: <clr>+400%<clrEnd>
+27	Size: <clr>+150%<clrEnd>
+28	Cost: <clr>+250%<clrEnd>
+29	Structurizer
+30	A unique micromodule. Contains carbon-fiber nanomaterials with biophoton inclusions. Compatible with <clr>all races<clrEnd>.
+31	Ship mass: <clr>-50%<clrEnd>
+32	Ship size: <clr>+50%<clrEnd>
+33	Cost: <clr>+240%<clrEnd>
+34	Opens 8 slots for <clr>artifacts<clrEnd>.
+35	Opens 1 slot for a <clr>shield generator<clrEnd>.
+36	Opens 1 slot for a <clr>droid<clrEnd>.
+37	Opens 1 slot for an <clr>afterburner<clrEnd>.
+38	Opens 1 slot for a <clr>gripper<clrEnd>.
+39	Opens 1 slot for a <clr>radar<clrEnd>.
+40	Opens 1 slot for a <clr>scanner<clrEnd>.
+41	Opens 4 slots for <clr>weapons<clrEnd>.
+42	Hull "Bolide" I
+43	Hull "Bolide" II
+44	Hull "Bolide" III
+45	Hull "Bolide" IV
+46	Hull "Meteor"
+47	Hull "Assassin" I
+48	Hull "Assassin" II
+49	Hull "Assassin" III
+50	Hull "Assassin" IV
+51	Hull "Executioner"
+52	Hull "Rock" I
+53	Hull "Rock" II
+54	Hull "Rock" III
+55	Hull "Rock" IV
+56	Hull "Bastion"
+57	An extraordinary artifact, an exceptional specimen<br>of ancient <color=0,153,255>Earth</color> technology.
+58	After a long stay in open space the device's speakers have fallen into complete disrepair, so all that remains is to guess what secrets this amazing device could have told.
+59	Energy weapon power: <color=0,153,255>+80</color> units
+60	Splinter weapon power: <color=0,153,255>+80</color> units
+61	Missile weapon power: <color=0,153,255>+80</color> units
+62	Firing range: <color=0,153,255>+100</color> units
+63	Hull armor: <color=0,153,255>+12</color> units
+64	Engine speed: <color=0,153,255>+350</color> units
+65	Jump range: <color=0,153,255>+25</color> pc.
+66	Tank capacity: <color=0,153,255>+140</color> units
+67	Radar range: <color=0,153,255>+4000</color> mln. km.
+68	Scanner power: <color=0,153,255>+20</color> units
+69	Droid effectiveness: <color=0,153,255>+50</color> units
+70	Gripper power: <color=0,153,255>+250</color> units
+71	Gripper range: <color=0,153,255>+250</color> units
+72	Field generator: <color=0,153,255>+20</color> units
+73	Charm skill: <color=0,153,255>+4</color>
+74	Leadership skill: <color=0,153,255>-5</color>
+75	Tick: combat mode
+76	<color=248,252,248>As soon as humans saw the prototype of this hull at the galactic conference on the study of black holes, they immediately dubbed it the "Tick". The name instantly stuck to the hull</color>
+77	<color=248,252,248>The only drawback of this nearly perfect transformer ship is that the hull's key openings are too close together. Thus:</color>
+78	<color=248,252,248>In</color> attack <color=248,252,248>mode the sheet armor plates slide back from the gun compartment, partly blocking the engine exhaust nozzles, which causes a slight reduction in its power, but raises the damage dealt.</color>
+79	Tick: defensive mode
+80	<color=248,252,248>In</color> defense <color=248,252,248>mode the armor plates slide forward, narrowing the gun embrasures, which greatly hampers the targeting system, which can no longer effectively find the enemy's weak points, which substantially lowers damage dealt and slightly the firing range, while increasing defense</color>
+81	Tick: speed mode
+82	<color=248,252,248>In </color>hybrid <color=248,252,248>mode the armor plates move slightly apart, which makes it possible to increase engine speed without harming the operation of the gun targeting system, but the damage taken increases.</color>
+83	<color=49,239,255>Battlecruiser</color>
+84	<color=248,252,248>The first cruisers appeared at the dawn of the Confederation and managed to take part in almost every war that thundered through the Koprulu sector. Over time, however, their functions changed somewhat: cruisers no longer have such an indisputable advantage in the air and are mainly used as mobile bases able to carry a huge amount of equipment and personnel, and also to make space jumps and ensure crew safety even in the most unfavorable environmental conditions. <br> Producing so massive a hull is initially fraught with many problems, which are easily solved by applying the technologies of the arks. Their crystals, when connected to the hull's energy systems, use part of the energy to create gravitational anomalies that allow even standard engines to move it from its place. The remaining energy the crystals store in themselves, autonomously directing it when necessary to support important systems built with ark technologies. Such energy management makes it possible to keep in working order a hull much larger than usual.</color>
+85	Shield power: <bonDef> units
+86	Nova
+87	<color=248,252,248>This sample was found by pirates in another arm of the galaxy. Rachekhan was not the only one who left this arm. The sample was intercepted by a ranger combat group during transport quite by chance. Coalition engineers installed the newest combat systems in this "Nova" Hull, against pirates and the Coalition. However, the limited field of view does not allow aiming accurately, and the pirate style and "war paint" scare off any pilot who could be taken as a partner.<br> Brief information, apparently about the design of this sample, was entered into the ship's onboard computer.</color><br> <br><color=70,130,180>When the tried-and-tested Argon Elite was retired, the Argon fleet was left without an M3-class fighter. Then shipbuilders from the Omicron Lyrae sector presented the design of a new ship, which after two years of testing was put into series production. That is how the Nova appeared, completely replacing the obsolete Elite. The Nova can carry heavy weaponry, it is equipped with a rear turret. This ship became part of the Argon fleet for a long time.</color>
+88	Gripper range: <bonHookRadius>
+89	Radar range: <bonRadar>
+90	Accuracy skill: <bonSkill1> units
+91	Charm skill: <bonSkill5> units
+92	Leadership skill: <bonSkill6> units
+93	<color=248,252,248>A pirate ship of the "R" series. The "Rachekhan" model is designed for defending one's own territories.</color>
+94	Droid repair: <bonDroid>
+95	Firing range: <bonWRadius>
+96	Jump range: <bonJump>
+97	Engine speed: <bonSpeed>
+98	Ship mass: <clr>+75%<clrEnd>
+99	</color><color=255,25,25>Massacri</color><color=248,252,248>
+100	<color=248,252,248>The legendary turbogravitron of <clr>Blazer<clrEnd>, christened by researchers nothing less than </color><color=255,25,25>"Massacri"</color><color=248,252,248>. It is the dream of any warrior or collector and is a weapon of terrifying force, capable of annihilating even the most formidable enemy in a matter of seconds. Rumor has it that besides its colossal power this specimen draws energy from an unlimited source, and therefore can work practically forever, but no one has yet managed to check this in practice.</color>
+101	Additional effect: <clr>slowdown<clrEnd>
+102	Rate of fire: <clr>+4<clrEnd>
+103	Additional damage: <clr>100<clrEnd> units
+104	<color=60,182,230>Javelin</color><color=248,252,248>
+105	<color=248,252,248>The legendary torpedo tube of <clr>Keller<clrEnd>, poetically called by scientists </color><color=60,182,230>"Javelin"</color><color=248,252,248>. Possessing a monstrous rate of fire, the tube launches three swift ionizing torpedoes, leaving the enemy no chance to dodge such an unwelcome "gift". Moreover, the increased torpedo consumption is amply compensated by a huge ammunition supply, allowing the owner to keep up continuous fire to the bitter end.</color>
+106	Rate of fire: <bonAttacks>
+107	Additional ammo supply: <clr>500<clrEnd> units
+108	Torpedo speed: <clr>500<clrEnd> units
+109	Additional effect: <clr>ionization<clrEnd>
+110	</color><color=156,240,10>Railgun</color><color=248,252,248>
+111	<color=248,252,248>The legendary disintegrator of <clr>Terron<clrEnd>, which received among fighters of the dominators the nickname </color><color=156,240,10>"Railgun"</color><color=248,252,248>. This terrifying gun has long since become the nightmare of all Gralgar scrap hunters. Thanks to phenomenal accuracy and mind-boggling range, the owner can quickly and effectively incinerate even the most heavily armored targets while keeping a safe distance.</color>
+112	Additional firing range: <clr>700<clrEnd> units
+113	<clr>(Completely ignores any target protection)<clrEnd>
+114	<color=248,252,248>An old Coalition development, passed down only to the descendants of its testers as an inheritance, but stripped of special properties, until a disc with data on the original project was found by a certain ranger. The hull was recreated by specialists of the ranger center network, as close as possible to the original concept - the onboard computer takes the pilot into cyberspace, astonishingly raising his speed and reaction, and also maximizing the work of the scanner and radar. The price is a partly lost connection with reality, leading to a decrease in the pilot's social abilities.</color>
+115	Gripper speed: <bonHookMaxSpeed>
+116	Normandy SR-2
+117	<color=248,252,248>A prototype of a space reconnaissance frigate. Undergoing field trials with Coalition special forces. The newest acryn technologies were widely used in developing the hull. Equipped with an AI for controlling ship systems. Functionality is limited.</color>
+118	Droid repair: <bonDroid> units
+119	Radar radius: <bonRadar> units
