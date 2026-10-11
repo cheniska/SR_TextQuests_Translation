@@ -1,0 +1,124 @@
+1282	When the communicator screen lit up, you first decided you'd caught some disease that causes hallucinations - the person on the other side was <clr>working<clrEnd>! Stacks of papers of all sizes, a headset into which orders were sent and answers received every second, a line of live lower-level employees in the background - the approach to the job was simply incredible! Shelves of empty "Makhpella" cans up to the ceiling or even a real casino right in the office wouldn't have surprised you as much as a manager honestly and painstakingly performing his duties. The dossier hadn't lied by a single letter, <clr>Sergo<clrEnd> really turned out to be a very serious man, ready to fight the damned bureaucratic apparatus not in word but in deed.
+1283	... No, to the third compartment. Task I`van Max with it, he's promising, it'll do him good. *Turns to the screen* Listening! Ah, it's you, chief! Everyone out, main line! Listening, chief, what work needs doing?
+1284	The <clr>Blaster Tziptzilot<clrEnd> appeared on the screen, puffing on a bzonk and flipping through pictures of half-naked peleng girls on his tablet:
+1285	I need a strike group
+1286	Reinforce the group with a battle cruiser
+1287	Reinforce the group with a battle cruiser [not enough ships in the strike group]
+1288	Reinforce the group with a battle cruiser [on a sortie]
+1289	Remove the cruiser from the group
+1290	I need a strike group [none available]
+1291	I need a strike group [on a sortie]
+1292	I need a strike group [resting]
+1293	Contact the <PlayerOrgName> HQ
+1294	End of transmission
+1295	No, cancel, I'll handle it myself
+1296	Send them out
+1297	Excellent, chief. The sum of <TopUpCount> cr. has been transferred to the organization's account.
+1298	Our current balance now stands at <CurrentBalance> cr.
+1299	Enter the top-up amount:
+1300	The sum of <WithdrawCount> cr. has moved over to your account, boss. The other half, according to the contract, was sent to the Mercenary Center.
+1301	The organization's current balance is now <CurrentBalance> cr.
+1302	The sum of <WithdrawCount> cr. has moved over to your account, boss. The other half, according to the contract, should have moved over to the Mercenary Center, but there's no such thing anymore, so it goes into your pocket.
+1303	Enter the withdrawal amount:
+1304	Attention! Only <color=0,50,200>50%</color> of the selected amount will be transferred to your account: <WithdrawCount> cr. Are you sure you want to continue?
+1305	As an independent legal entity, our organization has its own credit balance, which is in no way connected to your personal wallet. As I said, all the bookkeeping is on me, so you can rest easy - not a single credit will be wasted! Well, almost...
+1306	<clr>The main budget expenses are:<clrEnd>
+1307	- Mercenaries' salaries
+1308	- Purchase of ships and weapons for recruits
+1309	- Salaries of station maintenance staff, your personal requests, purchase of food, booze, and other little things like pool tables, mud baths, slot machines and... well, never mind
+1310	<clr>But the list of income is not so impressive:<clrEnd>
+1311	- Income from our mercenaries' private jobs
+1312	- Completing tasks for parties to the conflict or private individuals
+1313	By the way, I remind you that you can always top up the organization's balance from your personal account. Likewise you can transfer money from the organization's balance to your wallet at any time, as long as at least <clr>100,000<clrEnd> cr. remains on the balance, and there's also one small catch. The thing is, only <WithdrawalPercent> of the amount withdrawn from the balance will arrive in your account, while the remaining <WithdrawalFeePercent> is withheld by the Mercenary Center, which acts as an "intermediary" in such financial operations for direct profit.
+1314	Why are you so surprised? You should have read what you were signing - now it's too late to drink urine.
+1315	- Fleet maintenance: <FleetMaintenance> cr.
+1316	<clr>Organization's expenses for the accounting period:<clrEnd>
+1317	- Mercenaries' salaries: <OutSalaries> cr.
+1318	- Equipping recruits: <OutEquipments> cr.<AddFleetMaintenance>
+1319	- Other needs: <OutExpenses> cr.
+1320	Total spent: <MoneyOut> cr.
+1321	<clr>Organization's income for the accounting period:<clrEnd>
+1322	- Mercenaries' private contracts: <InEarnings> cr.
+1323	- Completing major contracts: <InQuests> cr.
+1324	Total earned: <MoneyIn> cr.
+1325	The accounting period resets on <clr>January 1<clrEnd>.
+1326	At the moment the organization's account holds <CurrentBalance> cr.
+1327	Tell me more about the budget
+1328	I want to top up the balance
+1329	I want to withdraw money from the balance
+1330	One second, let me just open the right little site. Here, take a look: you can order professional gaal designers to harmoniously furnish our offices, and there's also antiques from the pre-space faeyan era on sale and... Why are you looking at me like that? Something more practical? Well, in general, we could build up a bit of extra <clr>armor<clrEnd> and install some <clr>defensive systems<clrEnd>.
+1331	By the way, the boys and I conducted a detailed inspection of the station, and it turned out that we haven't occupied nearly all of the free space yet. Some compartments are still empty or used inefficiently, and our HQ could use extra annexes too.
+1332	Based on our current needs and potential capabilities, I've drawn up a global reconstruction plan consisting of <clr>five<clrEnd> nominal levels. By investing money in this project, you'll expand the <clr>HQ's functionality<clrEnd>, unlock access to new upgrades, and raise the overall efficiency of our mercenaries.
+1333	I want to raise the HQ level (<Cost> cr.)
+1334	I want to poke around in the station's "innards"
+1335	Thanks for the explanation
+1336	Glad to see you again, boss. I know you worried about me a lot, but as you can see, I'm fine. My prosthetics are intact and unharmed, all thanks to the personal escape pod "Thunder-Whack Comfort". True, the Ranger who picked me up was a little disappointed, since my medical policy is fake and long expired, and he got zilch instead of a full reward for the rescue, but that's no longer my problem.
+1337	Only next time take better care of the HQ, okay? Because instead of a Ranger some liner or soldier might fly by, and they, you know, often have a squint...
+1338	But let's not dwell on sad things. So, where do we start the revival?
+1339	You're always welcome, chief. So, how can I be of use?
+1340	Heh-hey, howdy, <Player>! We haven't met yet, but we're about to get acquainted right now, eh?! Though from your sour mug I can see you're not a big fan of loud greetings... Ahem-ahem... I'll get to the point.
+1341	The other day I was offered, for past merits, so to speak, to become the manager of one old HQ built in the year <clr>3267<clrEnd>. A dump, I tell you, of a place! No technical inspection has been done for some <clr>30<clrEnd> years, but on the plus side... What? You say you paid as for a new one? Uh... Well, anyway, as I was saying - the HQ is fire! A miracle of modern engineering, you won't find newer in the whole Galaxy! And I, from today, am your: personal assistant, right hand, trusted person - call it whatever you like, as long as you pay the salary on time. Now I'll quickly bring you up to speed...
+1342	The HQ is the center of your organization. From here sleepless control is exercised over all its work, from recruiting newcomers to accepting client contracts. Here your lads put their equipment in order, shoot the breeze about the latest news in the Galaxy and just pass the time politely before combat sorties.
+1343	I keep the organization's budget personally, so on all related matters I'm always ready to provide a detailed report. By the way, regarding the budget - for the full functioning of the HQ, as well as the whole organization, a positive balance in its account is necessary. I advise not skimping on funding, especially at the start, since equipping mercenaries will take a lot of funds while orders will be very few. After all, the Galaxy doesn't know anything about us yet.
+1344	Now, as for the tasks. Our organization can get tasks from the <clr>Coalition<clrEnd>, from the <clr>pirate clan<clrEnd>, or from <clr>private individuals<clrEnd>. There will be the most tasks from private individuals, but they are less profitable and have no effect on the organization's <clr>reputation<clrEnd>, which in turn is necessary for gaining access to new opportunities and for extracting more profit from completing tasks for the main warring sides.
+1345	In case of an attack on the HQ, an alarm signal is sent to all mercenaries, upon receipt of which they must return to our system to repel the enemy attack. Also, a small defensive garrison is on constant watch at the HQ, ready to launch at any moment.
+1346	And as the cherry on top, a personal <clr>strike group<clrEnd> may be at your disposal - your own death squad, so to speak. These guys will be ready to follow you even to <clr>Gralgar<clrEnd> - you only need to send word to the HQ. I'll pick the candidates, but the final approval of the strike group's composition will be yours.
+1347	Just remember that hiring such elite cutthroats costs a pretty penny, so try to keep them alive, for which they'll always thank you and raise a glass to your health, heh-heh.
+1348	Ah, and I almost forgot. In case of an attack on the HQ, the strike group's fighters will also take part in defending it.
+1349	Well, that's basically all I wanted to tell you, boss. If anything is still unclear, you can always come to me, and I'll explain the details.
+1350	Heh-hey, howdy, <Player>! It's me, <clr>Blaster Tziptzilot<clrEnd>, remember?! You know, that very pepper who set you up, throwing you to be torn apart by your own creditors. Though from your sour mug I can see this topic doesn't amuse you much... Ahem-ahem... I'll get to the point.
+1351	The other day I was offered, for past merits, so to speak, to become the manager of my old HQ built in the year <clr>3267<clrEnd>. A dump, I tell you, of a place! No technical inspection has been done for some <clr>30<clrEnd> years, but on the plus side... What? You say you paid as for a new one? Uh... Well, anyway, as I was saying - the HQ is fire! A miracle of modern engineering, you won't find newer in all of <clr>Dzuhallag<clrEnd>! And I, from today, am your: personal assistant, right hand, trusted person - call it whatever you like, as long as you pay the salary on time. Now I'll quickly bring you up to speed...
+1352	The HQ is the center of your organization. From here sleepless control is exercised over all its work, from recruiting newcomers to accepting client contracts. Here your lads put their equipment in order, shoot the breeze about the latest news in the Galaxy and just pass the time politely before combat sorties.
+1353	Thanks for the briefing
+1354	Next
+1355	By the way, the HQ runs <clr>on prana alone<clrEnd> and the Holy Spirit. The only staff left are me and the cleaner <clr>Sifo-onych<clrEnd>, who has become so replete in his knowledge that he can't be bothered with anything else anywhere else. We eat the inhabitants of the local basements, drink well-filtered unlicensed... well, let's not talk about it. But these are all temporary difficulties, right, chief?
+1356	By the way, the HQ is operating in <clr>strict economy<clrEnd> mode. We turn on the lights only in dire need, reuse the water, the canteen serves ready-made convenience food, and the bar has only the cheapest rotgut left. But, on the whole, it's livable for now.
+1357	By the way, the HQ is operating in <clr>normal<clrEnd> mode. The floors are mopped, the bars are bursting, the soldiers are on the town, and the pelengs call the shots, heh-heh! In short, everything is going exactly as it should.
+1358	Glad to see you in good health, chief. Care for coffee? Or maybe right away a glass of chumiskey with cola and ice? Or some other fiery brew? We have a new bartender - a really cool guy. So just whistle if your throat gets dry.
+1359	Glad to see you in good health, chief. Tell me, have you ever won a lottery? I almost won yesterday! Imagine, one number didn't match! I could be lying on my own beach right now sipping cold boozequila... And now I'll have to sip a weak little tincture the boys gave me out of pity, because I blew my whole weekly salary on those damn tickets!
+1360	Oh, glad to see you again, <Player>! I just finished the report for the past week five minutes ago, so make yourself comfortable.
+1361	So, where did it get to here, hmm... "Used and Not-So-Used Sports Cars"... "Quackhub"... The annual edition of "How to Hack Your Neighbor"... Ah, there it is! Ahem-ahem.
+1362	I bet technician <clr>Bumbyr<clrEnd> how many <clr>Keller<clrEnd> torpedoes your hull could withstand. I bet at least three. Want to check? We'll split the winnings like brothers.
+1363	A bit to the left... Yes, yes... No, to the right! What are we paying you for, you incompetents?!
+1364	Who the heck has come again... ah-ah-ah, it's you, chief! Glad to see you. Come in, sit down - make yourself at home. What painting? Uh, I got it at a sale on discount. Beautiful, isn't it? They said it's a perfect copy. No one can tell the difference - even the author himself... Yes, that's exactly what he told me. But let's go back to our business.
+1365	Who the heck has come again... ah-ah-ah, it's you, chief! Glad to see you. Come in, sit down - make yourself at home. You can leaf through the news tablet or try the cookies baked by my beloved niece <clr>Chekvusha<clrEnd>. What do you say, they're falling apart? Not enough dough? Well, she stole it herself. Good girl, <clr>Chekvushechka<clrEnd> - a decent bride is growing up!
+1366	What painting? Uh, I got it at a sale on discount. Beautiful, isn't it? They said it's a perfect copy. No one can tell the difference - even the author himself... Yes, that's exactly what he told me. But let's go back to our business.
+1367	By the way, the other day messages came from the chairman of the <clr>Coalition Council<clrEnd> and from an agent of the <clr>pirate clan<clrEnd>. Both sides want to offer a contract - looks like we're in hot demand, boss.
+1368	And also, recently the chairman of the <clr>Coalition Council<clrEnd> contacted us and offered a new contract.
+1369	Yes, and by the way - recently an agent of the <clr>pirate clan<clrEnd> got in touch with some business proposal.
+1370	Would you like to make the payment from your personal account?
+1371	If you decline, the money will be debited from the organization's balance.
+1372	Remind me what we're going to do with our weapons workshop? Wouldn't it be cheaper to buy?
+1373	And where do the sentries get blasters with our markings?
+1374	Let's talk about the budget
+1375	I want to upgrade the HQ
+1376	Tell me about the HQ upgrade options
+1377	How do I get to our medical bay?
+1378	Listen, where was one of our guys taken off to in a wheelchair a couple of minutes ago?
+1379	Tell me more about our mercenaries
+1380	I want to use our portal generator
+1381	I want to use our portal generator [will be ready in <DaysLeft> days]
+1382	What's up with the big orders?
+1383	I have a task for the science department
+1384	And what are those suspicious types in white coats snooping around the HQ?
+1385	And what's the deal with the shipyard?
+1386	Is it me, or has it gotten too noisy lately?
+1387	About the strike group
+1388	About the strike group [on a sortie]
+1389	Straight ahead, then left down the corridor, then into the gray door under the service stairs, then... Ah, better I'll walk you there myself.
+1390	Well, here we are. Here you can take a medical examination, <clr>patch up your health<clrEnd>, and also test... I mean take our new stimulant of our own development - <clr>"Expirin"<clrEnd>.
+1391	Ah, well, here's the thing... We recently threw out of the storeroom all the junk that had piled up there after various cultural events, bought a little equipment on the market and invited some sensible doctors whose licenses weren't renewed because of their... slightly alternative views on modern medicine. And now I can finally proudly report the opening of our own <clr>medical bay<clrEnd> at the HQ! From now on our workers will always stay healthy, cheerful, and, most importantly, full of desire to slave away for the good of the whole organization.
+1392	And also, our "Dr. Dolittles", together with our scientists, have already developed and launched into limited production a new unique stimulant, <clr>"Expirin"<clrEnd>, which boosts the activity of brain neurons, resulting in a noticeable increase in <clr>learning ability<clrEnd>, that is, the speed of absorbing any information coming from outside.
+1393	Then let's trudge back. By the way, did you know that <clr>Shifons<clrEnd> from the science department has a wife as scary as a gobsaurus? And also, the other day they were telling...
+1394	Phew... I get the feeling it was a mistake to stash this medical bay in the farthest corner of the station. "Walking is healthy, walking is good!" - damn doctors, I shouldn't have listened to them.
+1395	Did you want something else, boss?
+1396	Everyone hear that? The boss has a sore throat, urgent examination! If you miss even one ailment, you'll leave the HQ tonight! Through the airlock!
+1397	What do you mean, healthy? What about the throat? I see...
+1398	Anyway, boss, you're fine. The throat will pass on its own, the main thing is to drink less cold beer. But don't forget to get checked anyway! Better over-vigilant than under-vigilant, otherwise there'll be nobody left to be vigilant for afterward.
+1399	Yes, boss, your suspicions were confirmed. A serious illness was found in you. The doctors are ready to administer a garlic enema, we're only waiting for your written consent.
+1400	List of all detected diseases and viruses:
+1401	My throat hurts a bit, I want to have an examination
+1402	Inject me with your new fashionable stimulant
+1403	Inject me with your new fashionable stimulant [already administered]
+1404	I don't need anything for now
+1405	No, no need - it'll pass on its own

@@ -1,0 +1,16 @@
+1266	moving through hyperspace
+1267	under repair on a planet
+1268	landed in prison on a planet
+1269	under repair at a station
+1270	flying in the same system as you, chief
+1271	plowing the cosmic expanses
+1272	(system
+1273	Boys, the chief gave the order. To your ships, on the double!
+1274	Want me to help you with anything else?
+1275	The <clr>Assistant<clrEnd> appeared on the screen, puffing on a bzonk and flipping through pictures of half-naked peleng girls on his tablet:
+1276	Phew, you sure scared me, boss. I'll never get used to this call. So, what do you need from me?
+1277	When the communicator notified you that the call had been accepted by the station manager, you thought the screen was faulty - every pixel of the monitor was occupied by holograms of ship schematics, equipment blueprints, half of which were completely unfamiliar to you, a seasoned space tramp, as well as formulas from three-, four- and even five-dimensional mathematics. You were about to disconnect and redial, but noticed the windows slowly beginning to vanish from the screen. The process could probably have gone faster if this whole heap weren't layered about ten deep. <clr>Elayma<clrEnd>'s brainpower is simply astonishing!
+1278	Please excuse my mess, chief, I sometimes get carried away by ideas, and the number of screens isn't enough for my needs. Could the number of monitors in my office be increased from 42 to at least 69? Though then the room would have to be rebuilt too... All right, let's do it another time, I see more important matters await you. Do you need anything from me? I'm ready to take on any task available at our magnificent base!
+1279	By the way, I'm displaying information on our entire strike group:
+1280	Activating the communicator, into your ears, what ears, straight into your brain the anthem of the planet Ramgatru poured like a tsunami, with a volume comparable to the takeoff of an overloaded sub-space transport. Having recovered from the shock and stopped seeing colored spots before your eyes, strikingly red and resembling Drakkar ships, you finally heard and saw <clr>Vdubas<clrEnd>, whom you had appointed manager. "Well," you thought, "fitting name, with a greeting like that you could really drop dead!"
+1281	Oh, commander! Sorry, army habit! We woke up to the anthem and even fell asleep to it. These speakers of ours are still weak - modern, you see, with protection for the weak ears of aliens! I'll play it for you right now on my "Maloq-pod"! No time, is it business? All right, commander, another time. State the task. What do you need from a humble soldier?
