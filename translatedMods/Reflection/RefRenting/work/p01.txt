@@ -1,0 +1,88 @@
+1	Ranger, our database shows that you have violated the rules of using our service and have still not corrected this lapse. We are forced to deny you access to the equipment rental service.
+2	Whether it's another one or not, you, ranger, can get yourself not only a huge fine this way, but also a bitter enemy in the form of the business center network! Think twice and return what you owe.
+3	Sorry, but you have already rented too much equipment from us! Return the previous items first!
+4	Missile Launcher
+5	Then get some. As a financial analyst I tell you - a ranger has a mass of opportunities to earn extra, unlike, say, a pirate or a merchant ship captain. So - to the helm and off you go!
+6	All upon return
+7	Interest upon return
+8	Immediately
+9	Pirate
+10	Faeyan
+11	Gaal
+12	Human
+13	Peleng
+14	Excellent! Now your debt is settled. Glad to do business with you, ranger!
+15	Maloq
+16	The selected micromodule cannot be inserted into this equipment! The process of assembling a rental option has been canceled.
+17	No micromodule selected
+18	Cannot be installed
+19	Ranger, what did we talk about when we made the deal? Why is the equipment in this condition?!<br><br>Repair it, and then we can talk about returning the equipment to us and closing the debt.
+20	Select a micromodule from the list
+21	Ind. Laser
+22	This equipment is not available yet!
+23	Atom. Vision
+24	Elec. Cutter
+25	Flow Blaster
+26	Wave Phaser
+27	Frag. Cannon
+28	Select the weapon type
+29	So... Ranger <Player>, you owe us a whole <0> cr.!<br><br>Will you pay, or do you have no money now? The penalty will keep ticking, mind you.
+30	Payment upon return
+31	Rental payment now, interest upon return
+32	Immediate payment of the full amount
+33	For how many months is it rented?
+34	Select the payment method
+35	Select the race of the equipment
+36	Select the tech level of the equipment
+37	Ranger <Player>!<br>Judging by the information from our sensors, you have allowed the loss of our expensive equipment! Its cost, including the balance of the rental payments (<0> cr.), will be deducted from your funds.<br>Sincerely, the business center network.
+38	Ranger <Player>!<br>Have you forgotten that you must return our equipment? Well, so that our reminder lives longer in your memory, we have taken care that both the pirates and the law enforcement forces learn what kind of citizen you are.<br>Sincerely, the business center network.
+39	Ranger <Player>!<br>We remind you that you are overdue in returning equipment to the business center! Moreover, you decided that in the past half year you had more important things to do than repay your debt. We have already taken care of this matter and notified the planetary governments of your behavior.<br>Sincerely, the business center network.
+40	So, ranger, the equipment rental comes to <0> cr.<br>Do you pay?
+41	Ranger <Player>!<br>We remind you that you are overdue in returning equipment to the business center! Moreover, you decided that in the past half year you had more important things to do than repay your debt. The network's management decided that it also has more important things to do than keep your money in a deposit account. So it is no longer there.<br>Sincerely, the business center network.
+42	Ranger <Player>!<br>We notify you that you are overdue in returning equipment to the business center! If you continue to ignore our demands, our countermeasures will not be long in coming!
+43	Ranger <Player>!<br>We notify you that it is time to return the equipment! You have two months to arrive at the nearest branch of the business center network and return the equipment.
+44	Ranger <Player>!<br>We notify you that it is time to return the equipment! You have three months to arrive at the nearest branch of the business center network and return the equipment.
+45	Equipment Rental
+46	You can also use our equipment rental service
+47	(for
+48	Select the equipment you want to return
+49	The equipment must be aboard the ship in order to be returned!
+50	So, the money has been debited. The equipment is back with us. Drop by if you need anything else. Just don't delay returning the equipment...
+51	Are you sure of your choice?
+52	 d. until
+53	So, the money has been debited. The equipment is back with us. Drop by if you need anything else.
+54	So, some time ago our analytical department did some calculations and compared several statistical tables. The upshot of it all was the conclusion that many pilots, among them recently reappeared rangers, experience great difficulties equipping their ships with new equipment for fighting the dominators.<br>As a way out, we offer all pilots to rent equipment with interest. Ordinary pilots are required to present proof of insurance; rangers are not. Moreover, preferential equipment rental terms apply to them.
+55	No, I think I'd rather buy my own
+56	Not a bad idea! What can you offer me?
+57	No, maybe another time
+58	Read out the whole list, please!
+59	Field Generator
+60	So, at our center all equipment, including weapons, that Coalition scientists have only invented is available for rent;<br><br>The rental cost is calculated as:<br>K * G + 3500<br>Where:<br>K - the coefficient of the given equipment<br>G - the conventional technical complexity of the equipment<br>Monthly payments are calculated as 5% of the rental cost + 750 cr.<br><br>When returned, the equipment must be in perfect technical condition - the same as when received.<br><br>If the equipment is destroyed, you will be obliged to pay as a penalty 200% of the equipment's cost
+61	No, I think I'll decline
+62	No, I'll take it!
+63	I'll think about it more
+64	I want to return equipment
+65	I want to pay the debt for the loss of equipment
+66	All right, I'll be going then..
+67	M-m-m... I think I... can't right now. Another time
+68	All right, all right...
+69	So, choose!<br><br>By the way, are you aware that we release no more than <clr>5<clrEnd> units of equipment per person? For rangers the limit is raised to <clr>15<clrEnd>, but still.
+70	Good, thanks!
+71	I don't have that kind of money
+72	Yes, I'll pay
+73	I think I'll go
+74	Well, let's see what I can return to you
+75	I'll come back when I've scraped some money together
+76	Yes, I'm ready to pay
+77	Um... I think I'd better leave here while the going is good
+78	====================================<br>             CHECKLIST<br>====================================<br>Selected equipment: <0><br>Selected micromodule: <1><br>Manufacturer race: <2><br>Rental period: <3> mo.<br>Rental fee: <4> cr.<br>Fee for each month beyond three: <5> cr.<br>Payment method: <6><br>====================================<br>TOTAL: <7> cr.<br><br>====================================<br>MICROMODULE NOTE:<br><8><br>====================================<br><br>So, do we approve this list, or would you like to think more?<br><br>====================================<br>
+79	Well, no trouble. Our service serves rangers at any time of day, so come back whenever you can take something from our selection!
+80	Alas, I don't have that kind of money right now
+81	Good, I certainly will
+82	Do you want to install a micromodule?
+83	No, no need
+84	Excellent! The equipment has arrived at your warehouse. You can start using it right now. But, of course, don't forget that within <clr>2<clrEnd> months after the end of the usage period you must return the equipment to any center of our network!
+85	Oh, returning it?<br>Well, congratulations: you arrived on time.<br>Our specialists are ready to unload our equipment from your ship.<br>Shall we proceed?
+86	So...<br>A-ha-a-a... Ranger, you are a malicious defaulter! At least you are not trained to return rented items on time. And you've accrued a penalty that you will pay along with returning the equipment!
+87	Hm. Indeed, there are a couple of entries here.<br>If you want to pay off your debt to the network - please. <0> cr. to the network's account and we're even.
+88	Rented Equipment

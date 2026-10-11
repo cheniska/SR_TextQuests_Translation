@@ -92,7 +92,7 @@ def load(g):
             if n in en: print('DUP',n);bad+=1
             en[n]=v
     for n,v in list(en.items()):   # copy syntax: =M|from|to
-        if v.startswith('='):
+        if re.match(r'^=\d+\|',v):
             a,f,t=v[1:].split('|'); en[n]=en[int(a)].replace(f,t,1)
     return todo,en,bad
 def check(g):
