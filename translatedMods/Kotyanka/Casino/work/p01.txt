@@ -1,0 +1,60 @@
+1	Go to the Wheel of Fortune
+2	Go to the shell-game man
+3	All right. I'll come next time.
+4	What a cheapskate...
+5	Change the bet
+6	I want to change the bet
+7	Enough for this time
+8	Oh, <Player>, are you tempted by the chance to make money quickly and easily, heh-heh?<br><br>Well, you can spin the <clrEnd>Wheel of Fortune<clrEnd> or go to our <clr>shell-game man<clrEnd> and try to win a small sum from him.
+9	I won't waste my time here
+10	Set the bet amount
+11	Hi, <Player>, will you play? The rules are very simple: I have <clr>3<clrEnd> paper cups, I shuffle them, and one of them has a ball inside. You have to choose which cup the ball is in. If you guess, you take your winnings. I accept bets from <clr>500<clrEnd> to <clr>2000<clrEnd> cr.
+12	No problem. Your bet is currently <0> cr.<br>Want to change your bet or choose which cup has the ball?
+13	You don't have enough money even for the <clr>minimum bet<clrEnd>. Come back when you get rich.
+14	Fine, watch closely which cup the ball is under.<br>...<br><clr>the shell-game man takes a small ball in his hand and puts it under a cup<clrEnd><br>...<br><clr>shuffles the cups among themselves<clrEnd>...<br>...<br><clr>still shuffling<clrEnd>...<br>...<br><clr>you try to keep your eyes on the right cup<clrEnd>...<br>...<br><clr>the cups are shuffled<clrEnd>...<br>...<br><clr>you chose your cup<clrEnd><br>...<br>Let's see. That is the <color=20,255,20>right</color> choice. The ball was under cup number <0>. I give you these <1> cr. Want another go with the same bet of <2> cr. or to change it?<br>
+15	Fine, watch closely which cup the ball is under.<br>...<br><clr>the shell-game man takes a small ball in his hand and puts it under a cup<clrEnd><br>...<br><clr>shuffles the cups among themselves<clrEnd>...<br>...<br><clr>still shuffling<clrEnd>...<br>...<br><clr>you try to keep your eyes on the right cup<clrEnd>...<br>...<br><clr>the cups are shuffled<clrEnd>...<br>...<br><clr>you chose your cup<clrEnd><br>...<br>Let's see. The <color=255,20,20>wrong</color> choice. The ball was under cup number <0>. I'm keeping these <1> cr. Want another go with the same bet of <2> cr. or to change it?
+16	Here are my <0> cr., shuffle.
+17	I changed my mind and won't take part in this.
+18	1 Thermidor
+19	1 July
+20	1 Pluviôse
+21	Your bet?
+22	Your bet?
+23	Greedy guts!
+24	<br>If you have some spare dough lying around, be sure to drop by our casino "<0>"! <br>
+25	<br>Want to blow some money? Then visit our casino "<0>"! <br>
+26	Trump Ace
+27	Big Score
+28	A pity, a pity. And we had already thought we had a new winner... Well, we'll call another contestant, who has <clr>already<clrEnd> won the super prize!
+29	Wonderful! Your bet is currently <0> cr. Do you wish to place a bet or set it anew?<br><br>We remind you that your bet may not exceed <clr>50000<clrEnd> cr.
+30	So... spinning!<br>...<br><clr>the wheel is spinning<clrEnd>...<br>...<br><clr>still spinning<clrEnd>...<br>...<br><clr>tension is mounting<clrEnd>...<br>...<br><clr>the wheel has stopped<clrEnd>...<br>...<br>Hmm. It seems that this time you were <clr>unlucky<clrEnd> and lost <0> cr. But don't worry, because this money will go to good causes... probably...<br><br>Be sure to come next time, <clr>when a Wheel of Fortune spin is available to you<clrEnd>, and try your luck again!
+31	So... spinning!<br>...<br><clr>the wheel is spinning<clrEnd>...<br>...<br><clr>still spinning<clrEnd>...<br>...<br><clr>tension is mounting<clrEnd>...<br>...<br><clr>the wheel has stopped<clrEnd>...<br>...<br>Hmm. It seems that <clr>YOU ARE THE WINNER<clrEnd>! You won another <0> cr.! Frankly, you could bankrupt us like this.<br><br>Be sure to come next time, <clr>when a Wheel of Fortune spin is available to you<clrEnd>, and try your luck again!
+32	We regret, <Player>, but you do not have enough money in your account to place the minimum bet. We remind you that the minimum allowed bet is <clr>5000<clrEnd> cr., and the maximum no more than <clr>50000<clrEnd> cr. As soon as you save up <clr>5000<clrEnd> cr., come to us and spin the Wheel of Fortune.
+33	We regret, <Player>, but you have run out of available Wheel of Fortune spins. Come for an available spin after <clr>January 1<clrEnd> or <clr>July 1<clrEnd>.
+34	We regret, <Player>, but you have run out of available Wheel of Fortune spins and have not enough money for the minimum bet. The minimum allowed bet is <clr>5000<clrEnd> cr., and the maximum no more than <clr>50000<clrEnd> cr. And come for an available spin after <clr>January 1<clrEnd> or <clr>July 1<clrEnd>.
+35	Sorry, <Player>, but you have no more available Wheel of Fortune spins. Come for an available spin after <clr>January 1<clrEnd> or <clr>July 1<clrEnd>.
+36	Well then why did you come here, <Player>?! By what right do you disgrace our honest establishment? Scram, shoo!
+37	I'm betting my <0> cr.!
+38	It smells of luck here today! And of something else...
+39	It's a swindle for cash, I swear!
+40	So... spinning!<br>...<br><clr>the wheel is spinning<clrEnd>...<br>...<br><clr>still spinning<clrEnd>...<br>...<br><clr>tension is mounting<clrEnd>...<br>...<br><clr>the wheel has stopped<clrEnd>...<br>...<br>Let's see. It seems that <clr>YOU ARE THE WINNER<clrEnd>! You won another <0> cr.! Frankly, it seems to me you cheated...<br><br>Be sure to come next time, <clr>when a Wheel of Fortune spin is available to you<clrEnd>, and try your luck or your wallet again!
+41	Let's see what jackpot falls to you next time. If it falls, of course! Hee-hee.
+42	You need to set a bet.
+43	Here are my <0> cr.!
+44	Yeah, sure.
+45	Of course! Try to win more than you lost. If you can, of course.
+46	Visit the casino
+47	Oh! We have a new sack of mon.. that is, a new client! Do you want to place a bet on our Wheel of Fortune? Always glad! But first familiarize yourself with the terms for participants of our attraction!<br>---------------<br>The casino "<clr>Big Score<clrEnd>" can be found in any Business Center, and there too you can spin the Wheel of Fortune.<br><br>The Wheel of Fortune can be spun <clr>1<clrEnd> time after <clr>January 1<clrEnd> or <clr>July 1<clrEnd>. In short, <clr>once every half year<clrEnd>. This restriction was introduced because in our casino people began to <clr>win more often than usual<clrEnd>.<br><br>The minimum allowed bet in our casino is <clr>5000<clrEnd> cr., and the maximum - no more than <clr>50000<clrEnd> cr.
+48	Oh! We have a new fish on the hoo.. that is, a new client! Do you want to place a bet on our Wheel of Fortune? But first, as befits a noble gentleman of fortune, I must remind you of the rules of the game:<br>-----------<br>Our casino network "<clr>Trump Ace<clrEnd>" extends only to all our <clr>Pirate Bases<clrEnd> and <clr>Dominions<clrEnd>. So you'll find a casino in any of them.<br><br>Our little Wheel of Fortune can be spun <clr>1<clrEnd> time after <clr>January 1<clrEnd> or <clr>July 1<clrEnd>. In short, <clr>once every half year<clrEnd>. If everyone could <clr>spin it all the time<clrEnd>, we'd be done for!<br><br>The minimum little bet is <clr>10000<clrEnd> cr., and the maximum - no more than <clr>80000<clrEnd> cr.
+49	Sorry, <Player>, but you have run out of available Wheel of Fortune spins and have not enough dough for the minimum bet. The minimum little bet is <clr>10000<clrEnd> cr., and the maximum no more than <clr>80000<clrEnd> cr. And come for an available spin after <clr>January 1<clrEnd> or <clr>July 1<clrEnd>.
+50	Sorry, <Player>, but you have not enough dough for the minimum bet. The minimum little bet is <clr>10000<clrEnd> cr., and the maximum no more than <clr>80000<clrEnd> cr.
+51	Eh, pity.
+52	I'll place a bet!
+53	What, can't I just look?..
+54	Yes, yes. I've heard that somewhere before.
+55	Of course I can.
+56	I'm a winner in life anyway.
+57	Not bad, <Player>! Your bet is currently <0> cr. Want to place a bet or set it anew?<br><br>I'll remind you once more that your bet may not exceed <clr>80000<clrEnd> cr.
+58	So... spinning!<br>...<br><clr>the wheel is spinning<clrEnd>...<br>...<br><clr>still spinning<clrEnd>...<br>...<br><clr>tension is mounting<clrEnd>...<br>...<br><clr>the wheel has stopped<clrEnd>...<br>...<br>Hmm. It seems we have a <clr>very rare case<clrEnd>. The arrow of Fortune points to "<clr>SUPER JACKPOT<clrEnd>" and that means you <clr>receive a 5x bet<clrEnd>! Here are your <0> cr. So you can be considered the <clr>luckiest ranger in the galaxy<clrEnd>, since by our win statistics a "<clr>SUPER JACKPOT<clrEnd>" comes up with a <clr>5<clrEnd>% chance!<br><br>Be sure to come next time, <clr>when a Wheel of Fortune spin is available to you<clrEnd>, and try your luck again!
+59	So... spinning!<br>...<br><clr>the wheel is spinning<clrEnd>...<br>...<br><clr>still spinning<clrEnd>...<br>...<br><clr>tension is mounting<clrEnd>...<br>...<br><clr>the wheel has stopped<clrEnd>...<br>...<br>Let's see. Oh! Wow! Holy! Moly! It's the damn "<clr>SUPER JACKPOT<clrEnd>" and that means you <clr>receive a 5x bet<clrEnd>! Here are your <0> cr. Please, teach me to win like that too!!! A <clr>5<clrEnd>% chance of the "<clr>super jackpot<clrEnd>" means a very, very great deal.<br><br>Be sure to come next time, <clr>when a Wheel of Fortune spin is available to you<clrEnd>, and try your luck or your wallet again!<br>
+60	So... spinning!<br>...<br><clr>the wheel is spinning<clrEnd>...<br>...<br><clr>still spinning<clrEnd>...<br>...<br><clr>tension is mounting<clrEnd>...<br>...<br><clr>the wheel has stopped<clrEnd>...<br>...<br>Let's see. It seems that this time the goddess Luck <clr>did not help<clrEnd> you and you squandered <0> cr. But don't worry, because this money will go to our shady dealings... I promise it definitely won't go to waste! At least, not for us.<br><br>Be sure to come next time, <clr>when a Wheel of Fortune spin is available to you<clrEnd>, and try your luck or your wallet again!

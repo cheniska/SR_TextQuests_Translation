@@ -1,0 +1,49 @@
+1	Mogunt Shield Generator
+2	Mogunt Shield Generator I
+3	<color=248,252,248>Equipment produced by the <clr>gaals<clrEnd> and <clr>maloqs<clrEnd> is designed to support pilots engaged in active combat operations. <color=50,200,200>The acryn's properties work only for pilots of the maloq and gaal races</color>. This unit is not merely a shield generator but also a special ammunition storage station: before firing, a mighty flow of shield energy is directed to the projectile, which lets it partly "pour" into the enemy's defense, literally ramming it.</color>
+4	<clr>Installing micromodules into such a unique unit<clrEnd> is <color=220,20,20>impossible</color><clr>!<clrEnd>
+5	Shield power: <bonDef>%
+6	Mogunt Shield Generator II
+7	Mogunt Shield Generator III
+8	Toadgenic Droid
+9	Toadgenic Droid I
+10	<color=248,252,248>A Ragobam toad with implanted bionic limbs and a space suit. The author of this idea, the first to think of using a toad this way, remained unknown to science, but it produced an unpredictable effect. It turned out that the Ragobam toad, considering the ship its "home", works far better and at a subconscious level additionally reinforces its plating. Besides, some people are convinced that the Ragobam toad brings wealth to its owner. However, the mass of this cybernetic creation noticeably slows the ship.</color>
+11	Trade skill: <bonSkill4> units
+12	Toadgenic Droid II
+13	Toadgenic Droid III
+14	Mogunt Droid
+15	Mogunt Droid I
+16	<color=248,252,248>Equipment produced by the <clr>gaals<clrEnd> and <clr>maloqs<clrEnd> is designed to support pilots engaged in active combat operations. <color=50,200,200>The acryn's properties work only for pilots of the maloq and gaal races</color>. The Mogunt droid is actually not a droid but a robot that flies near the ship and fires at targets chosen by the pilot. The weak side is the robot's weight, which is much greater than that of ordinary droids because of additional armor plates that let the droid protect the ship by stepping into the path of enemy fire.</color>
+17	Droid repair: <bonDroid> units
+18	Mogunt Droid II
+19	Mogunt Droid III
+20	Mogunt Engine
+21	Mogunt Engine I
+22	<color=248,252,248>Equipment produced by the <clr>gaals<clrEnd> and <clr>maloqs<clrEnd> is designed to support pilots engaged in active combat operations. <color=50,200,200>The acryn's properties work only for pilots of the maloq and gaal races</color>. It is equipped with a multifunctional coordination system with other equipment aboard, which makes it possible to increase the power of non-missile weapons.</color>
+23	Mogunt Engine II
+24	Mogunt Engine III
+25	Mogunt Fuel Tank
+26	Mogunt Fuel Tank I
+27	<color=248,252,248>Equipment produced by the <clr>gaals<clrEnd> and <clr>maloqs<clrEnd> is designed to support pilots engaged in active combat operations. <color=50,200,200>The acryn's properties work only for pilots of the maloq and gaal races</color>. This unit has a built-in extra compartment with fuel, which is consumed to produce an extra energy buffer for the gun installations, greatly increasing destructive power.</color>
+28	Mogunt Fuel Tank II
+29	Mogunt Fuel Tank III
+30	Mogunt Gripper
+31	Mogunt Gripper I
+32	<color=248,252,248>Equipment produced by the <clr>gaals<clrEnd> and <clr>maloqs<clrEnd> is designed to support pilots engaged in active combat operations. <color=50,200,200>The acryn's properties work only for pilots of the maloq and gaal races</color>. The Mogunt gripper is actually not a gripper but a robot that picks up small items near the ship, while helping the gun installations aim better at the enemy. The weak side is the robot's survivability, since because of its close proximity to the weapons it often comes under fire.</color>
+33	Pull speed at close range: <bonHookMinSpeed> units
+34	Mogunt Gripper II
+35	Attack skill: <bonSkill1> units
+36	Mogunt Gripper III
+37	<color=248,252,248>Equipment produced by the <clr>gaals<clrEnd> and <clr>maloqs<clrEnd> is designed to support pilots engaged in active combat operations. <color=50,200,200>The acryn's properties work only for pilots of the maloq and gaal races</color>. The Mogunt gripper is actually not a gripper but a robot that picks up small items near the ship, while helping the gun installations aim better at the enemy. The weak side is the robot's survivability, since because of its close proximity to the weapons it often comes under fire.</color>
+38	Pull speed at long range: <bonHookMaxSpeed> units
+39	Mogunt Radar
+40	Mogunt Radar I
+41	<color=248,252,248>Equipment produced by the <clr>gaals<clrEnd> and <clr>maloqs<clrEnd> is designed to support pilots engaged in active combat operations. <color=50,200,200>The acryn's properties work only for pilots of the maloq and gaal races</color>. Using acryn technologies the radar is equipped with a special ultramodern module for calculating the target's trajectory. The downside is the exorbitant price and weight of this module, as well as exorbitantly high power consumption that significantly reduces the radar's range.</color>
+42	Mogunt Radar II
+43	<color=248,252,248>Equipment produced by the <clr>gaals<clrEnd> and <clr>maloqs<clrEnd> is designed to support pilots engaged in active combat operations. <color=50,200,200>The acryn's properties work only for pilots of the maloq and gaal races</color>. Using acryn technologies the radar is equipped with a special ultramodern module for calculating the target's trajectory. The downside is the exorbitant price and weight of this module, as well as exorbitantly high power consumption that significantly reduces the radar's range</color>
+44	Mogunt Radar III
+45	Mogunt Scanner
+46	Mogunt Scanner I
+47	<color=248,252,248>Equipment produced by the <clr>gaals<clrEnd> and <clr>maloqs<clrEnd> is designed to support pilots engaged in active combat operations. <color=50,200,200>The acryn's properties work only for pilots of the maloq and gaal races</color>. An additional acryn modification makes scanning heavily protected objects harder, but finds more vulnerable spots for delivering a missile strike.</color>
+48	Mogunt Scanner II
+49	Mogunt Scanner III
