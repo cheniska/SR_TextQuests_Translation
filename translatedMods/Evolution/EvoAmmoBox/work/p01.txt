@@ -1,0 +1,20 @@
+1	Actually, I'll pass for now
+2	Excellent! The technicians will finish loading soon. Anything else?
+7	I need to refill containers
+8	Done! Our loader robots will finish the work very soon. Would you like to refill another one, or shall we wrap up?
+9	Return to buying containers
+10	Let's see... Yes, there really is something to refill. Here is the list of suitable containers:<br><0><br><1><br><2><br>Which of them would you like to refill?
+12	Ranger <Player>, if you happen to be interested in ammunition for missile weapons, we have something to offer you.
+13	units at the price of:
+14	Containers with spheres for the Mabokit are available to you in the amount of:
+15	To raise the combat readiness of our units, we distribute special containers with missile weapon ammunition among our fighters. Unfortunately, the current situation does not let us hand out the containers according to plan, so we are giving rangers the opportunity to buy them for their own needs.<br><br>We have the following list of containers at our disposal:<br>---------------------------------------------------------<br>Warhead container for the Lirecron is available to you in the amount of: <0> units at the price of: <1> cr.<br><br>Missile container for the Missile Launcher is available to you in the amount of: <2> units at the price of: <3> cr.<br><br><4>Torpedo container for the Torpedo Tube is available to you in the amount of: <5> units at the price of: <6> cr.<br>---------------------------------------------------------<br>We update the lists about once a year, so you will be able to stock up on new containers again. Which, in fact, is quite useful - containers tend to <clr>fail<clrEnd>
+16	 for <0> cr.
+18	if(MessageBoxYesNo('Replenish the ammunition?'))
+19	MessageBox('The container could not withstand such handling and fell apart');
+20	if(MessageBoxYesNo('Move the combat projectiles?'))
+21	MessageBox('The container will fall apart from one more reload like this. Please contact a military base.');
+22	if (MessageBoxYesNo('Move the combat projectiles?'))
+23	A container for storing miniature warheads.
+26	A container for storing missile projectiles.
+28	A container for storing spherical projectiles.
+30	A container for storing torpedoes.

@@ -1,0 +1,2 @@
+2	<color=248,252,248>A hull recreated from the blueprints of an unknown race from another arm of the Galaxy - until recently a classified project of the <clr>maloqs<clrEnd>. The speed limiter is unlocked only after a full bioscan and confirmation of the pilot's racial affiliation.</color>
+3	<color=248,252,248>(only for</color> <color=255,70,0>maloqs</color><color=248,252,248>)</color>

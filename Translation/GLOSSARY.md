@@ -3311,3 +3311,17 @@
 | Армолок / Дифрод / Джавитор / Лифокар (модификации плазмогана) | Armolok / Difrod / Javitor / Lifokar | Expansion/ExpPlasmaGun |
 | трансфакторный маяк | transfactor beacon | Expansion/ExpPanelPlus |
 | нд. (ноды) | nd. | Expansion |
+| ошметок (доминаторский обломок) | debris | Evolution |
+| Гатрикс матрица (антидоминаторская программа) | Gatrix Matrix | Evolution |
+| Мельдонит (стимулятор) | Meldonite | Evolution/EvoMC |
+| Ностальгетик (стимулятор) | Nostalgetic | Evolution/EvoMC |
+| Чёрная кровь (стимулятор) | Black Blood | Evolution/EvoMC |
+| Псионик (стимулятор) | Psionic | Evolution/EvoMC |
+| Иц Забит (пеленгский мастер) | Itz Zabit | Evolution/EvoBalance |
+| Косозубая восьмерёнка (тюнинг-компания) | Helical-Cut Eight | Evolution/EvoBalance |
+| Чванг-Хан (лякуша) | Chvang-Khan | Evolution/EvoMM |
+| Сикпак Хапуга (пеленгский учёный) | Sikpak Khapuga | Evolution/EvoMM |
+| клирон (материал) | kliron | Evolution/EvoMM |
+| Навитек (модификация) | Navitek | Evolution/EvoMM |
+| Жжения / Двима (микромодули) | Burnz / Drover | ванилла |
+| ПБ Свободная Бухта | PB Free Bay | Evolution/EvoTranc |

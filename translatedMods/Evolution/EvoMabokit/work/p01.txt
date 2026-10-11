@@ -1,0 +1,1 @@
+4	Hits the target with magnetic homing spherical projectiles, dealing <CntShots>x(<MinDamage>-<MaxDamage>)<Bonus> units of damage to the target and the objects around it.<br>Number of salvos: <Count>/<MaxCount> pcs.
