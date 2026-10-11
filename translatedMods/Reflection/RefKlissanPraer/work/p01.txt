@@ -1,0 +1,95 @@
+1	Mutant-1
+2	Spore Colony
+3	A first-level micromodule. A total modification of <clr>klissan<clrEnd> hulls, intended to upgrade a ship into a mighty combat structure. For objective reasons it cannot be used in any hull.
+4	<color=49,239,255>Mutant-1</color>
+5	<color=49,239,255>A total modification of <clr>klissan<clrEnd> hulls, intended to upgrade a ship into a mighty combat structure.</color>
+6	Ship mass: <clr>+50%<clrEnd>
+7	Hull size: <clr>+150%<clrEnd>
+8	Hull durability: <clr>+5%<clrEnd>
+9	Hull armor: <clr>+12<clrEnd> units
+10	Attack skill: <clr>+3<clrEnd>
+11	Mobility skill: <clr>+3<clrEnd>
+12	Droid repair: <bonDroid> units
+13	Mutant-2
+14	A first-level micromodule. A total modification of <clr>klissan<clrEnd> hulls, intended to increase gun accuracy and overall offensive potential. For objective reasons it cannot be used in any hull.
+15	<color=49,239,255>Mutant-2</color>
+16	<color=49,239,255>A total modification of <clr>klissan<clrEnd> hulls, intended to increase gun accuracy and overall offensive potential.</color>
+17	Ship mass: <clr>+30%<clrEnd>
+18	Hull size: <clr>+50%<clrEnd>
+19	Hull durability: <clr>+65%<clrEnd>
+20	Hull armor: <clr>+3<clrEnd>
+21	Mutant-3
+22	A first-level micromodule. A total modification of <clr>klissan<clrEnd> hulls, intended to increase maneuverability and survivability. For objective reasons it cannot be used in any hull.
+23	<color=49,239,255>Mutant-3</color>
+24	<color=49,239,255>A total modification of <clr>klissan<clrEnd> hulls, intended to increase maneuverability and survivability.</color>
+25	Ship mass:<clr>-60%<clrEnd>
+26	Hull size: <clr>-50%<clrEnd>
+27	Hull durability: <clr>+80%<clrEnd>
+28	Hull armor: <clr>-3<clrEnd> units
+29	Mutant-4
+30	A second-level micromodule. A large-scale modification of <clr>klissan<clrEnd> hulls, intended to upgrade a ship into a mighty combat structure. For objective reasons it cannot be used in any hull.
+31	<color=49,239,255>Mutant-4</color>
+32	<color=49,239,255>A large-scale modification of <clr>klissan<clrEnd> hulls, intended to upgrade a ship into a mighty combat structure.</color>
+33	Ship mass: <clr>+40%<clrEnd>
+34	Hull size: <clr>+90%<clrEnd>
+35	Hull armor: <clr>+8<clrEnd> units
+36	Attack skill: <clr>+2<clrEnd>
+37	Mobility skill: <clr>+2<clrEnd>
+38	Mutant-5
+39	A second-level micromodule. A large-scale modification of <clr>klissan<clrEnd> hulls, intended to increase gun accuracy and overall offensive potential. For objective reasons it cannot be used in any hull.
+40	<color=49,239,255>Mutant-5</color>
+41	<color=49,239,255>A large-scale modification of <clr>klissan<clrEnd> hulls, intended to increase gun accuracy and overall offensive potential.</color>
+42	Ship mass: <clr>+20%<clrEnd>
+43	Hull size: <clr>+30%<clrEnd>
+44	Hull durability: <clr>+25%<clrEnd>
+45	Hull armor: <clr>+2<clrEnd> units
+46	Mutant-6
+47	A second-level micromodule. A large-scale modification of <clr>klissan<clrEnd> hulls, intended to increase maneuverability and survivability. For objective reasons it cannot be used in any hull.
+48	<color=49,239,255>Mutant-6</color>
+49	<color=49,239,255>A large-scale modification of <clr>klissan<clrEnd> hulls, intended to increase maneuverability and survivability.</color>
+50	Ship mass: <clr>-35%<clrEnd>
+51	Hull size: <clr>-40%<clrEnd>
+52	Hull durability: <clr>+50%<clrEnd>
+53	Hull armor: <clr>-2<clrEnd> units
+54	Mutant-7
+55	A third-level micromodule. A pinpoint modification of <clr>klissan<clrEnd> hulls, intended to upgrade a ship into a mighty combat structure. For objective reasons it cannot be used in any hull.
+56	<color=49,239,255>Mutant-7</color>
+57	<color=49,239,255>A pinpoint modification of <clr>klissan<clrEnd> hulls, intended to upgrade a ship into a mighty combat structure.</color>
+58	Hull armor: <clr>+4<clrEnd> units
+59	Attack skill: <clr>+1<clrEnd>
+60	Mobility skill: <clr>+1<clrEnd>
+61	Mutant-8
+62	A third-level micromodule. A pinpoint modification of <clr>klissan<clrEnd> hulls, intended to increase gun accuracy and overall offensive potential. For objective reasons it cannot be used in any hull.
+63	<color=49,239,255>Mutant-8</color>
+64	<color=49,239,255>A pinpoint modification of <clr>klissan<clrEnd> hulls, intended to increase gun accuracy and overall offensive potential.</color>
+65	Ship mass: <clr>+10%<clrEnd>
+66	Hull size: <clr>+10%<clrEnd>
+67	Hull durability: <clr>+15%<clrEnd>
+68	Hull armor: <clr>+1<clrEnd> units
+69	Mutant-9
+70	A third-level micromodule. A pinpoint modification of <clr>klissan<clrEnd> hulls, intended to increase maneuverability and survivability. For objective reasons it cannot be used in any hull.
+71	<color=49,239,255>Mutant-9</color>
+72	<color=49,239,255>A pinpoint modification of <clr>klissan<clrEnd> hulls, intended to increase maneuverability and survivability.</color>
+73	Ship mass: <clr>-15%<clrEnd>
+74	Hull size: <clr>-30%<clrEnd>
+75	Hull durability: <clr>+30%<clrEnd>
+76	Hull armor: <clr>-1<clrEnd> units
+77	Higher Mutant
+78	<color=49,239,255>Higher Mutant</color>
+79	Attack skill: <clr>+6<clrEnd>
+80	Mobility skill: <clr>+6<clrEnd>
+81	Hull armor: <clr>+20<clrEnd> units
+82	Firing range: <bonWRadius> units
+83	Hull size: <clr>+200%<clrEnd>
+84	Splinter weapon protection: <clr>+90%<clrEnd>
+85	Supreme Mutant
+86	<color=49,239,255>Supreme Mutant</color>
+87	Power of all weapons: <bonWEnergy> units
+88	Energy weapon protection: <clr>+90%<clrEnd>
+89	Chieftain Mutant
+90	<color=49,239,255>Chieftain Mutant</color>
+91	Missile weapon protection: <clr>+90%<clrEnd>
+92	Visible aura of the praer
+93	Chieftain Praer aura
+94	Command Praer aura
+95	Supreme Praer aura

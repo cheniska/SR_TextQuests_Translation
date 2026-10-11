@@ -1,0 +1,91 @@
+1	Acrynator 1.44
+2	A unique micromodule developed by the micromodulation genius, the gaal Zheo Razhiy, and released in a small series, which makes this micromodule extremely rare and not easy to find. An improvement on the licensed micromodule <color=255,0,0>Acrynator</color>, which allows it to be installed in <clr>any equipment<clrEnd> and even a <clr>hull<clrEnd>! Alas, the mass of the equipment increases significantly due to the Obar-Forgs effect. Due to the designer's long-standing dislike of pirates, compatibility with pirate equipment is <color=255,20,20>blocked</color> by <clr>917<clrEnd> different algorithms.
+3	<clr>Completely removes equipment debuffs<clrEnd>
+4	Increases acryn bonuses by <clr>244<clrEnd>%
+5	Hypertank
+6	A unique micromodule developed by the micromodulation genius, the gaal Zheo Razhiy, and released in a small series, which makes this micromodule extremely rare and not easy to find. Significantly expands the <clr>fuel tank<clrEnd>, allowing it to hold an incredible amount of fuel, but, alas, the system becomes extremely fragile. Due to the designer's long-standing dislike of <color=198,128,80>pirates</color>, compatibility with pirate equipment is <color=255,20,20>blocked</color> by <clr>917<clrEnd> different algorithms.
+7	Tank capacity: <bonFuel> units
+8	Equipment wear resistance is <clr>minimal<clrEnd>
+9	Hyperfocuser
+10	A unique micromodule developed by the micromodulation genius, the gaal Zheo Razhiy, and released in a small series, which makes this micromodule extremely rare and not easy to find. Significantly reworks the targeting systems of <clr>splinter and energy<clrEnd> weapons, achieving a fantastic firing range, but, alas, the system becomes extremely fragile. Due to the designer's long-standing dislike of <color=198,128,80>pirates</color>, compatibility with pirate equipment is <color=255,20,20>blocked</color> by <clr>917<clrEnd> different algorithms.
+11	Hyperforcer
+12	A unique micromodule developed by the micromodulation genius, the gaal Zheo Razhiy, and released in a small series, which makes this micromodule extremely rare and not easy to find. Reworks the engine systems, completely removing the <clr>hypergenerator<clrEnd> in favor of a fantastic increase in <clr>speed<clrEnd>, but, alas, such an engine becomes extremely fragile. Due to the designer's long-standing dislike of <color=198,128,80>pirates</color>, compatibility with pirate equipment is <color=255,20,20>blocked</color> by <clr>917<clrEnd> different algorithms.
+13	Jump range is <clr>zero<clrEnd>
+14	Turncoat 0.5
+15	A unique micromodule developed by the micromodulation genius, the gaal Zheo Razhiy, and released in a small series, which makes this micromodule extremely rare and not easy to find. An alpha version of an improvement on the licensed micromodule <color=255,0,0>Turncoat</color>. In effect, it is an unsuccessful attempt to overcome the drawbacks of using the Turncoat while keeping the benefits. While the first goal was achieved quite well, the second was not quite. Alas, one-off experimental parts are fragile and extremely expensive to maintain. Due to the designer's long-standing dislike of <color=198,128,80>pirates</color>, compatibility with pirate equipment is <color=255,20,20>blocked</color> by <clr>917<clrEnd> different algorithms.
+16	Cost: <clr>+500%<clrEnd>
+17	Reduces acryn debuffs by <clr>50<clrEnd>%
+18	Reliability: <clr>-31%<clrEnd>
+19	Turncoat 0.9
+20	A unique micromodule developed by the micromodulation genius, the gaal Zheo Razhiy, and released in a small series, which makes this micromodule extremely rare and not easy to find. An alpha version of an improvement on the licensed micromodule <color=255,0,0>Turncoat</color>. In effect, it is an unsuccessful attempt to overcome the drawbacks of using the Turncoat while keeping the benefits. While the first goal was achieved excellently, the second was not quite. Alas, one-off experimental parts are fragile and extremely expensive to maintain. Due to the designer's long-standing dislike of <color=198,128,80>pirates</color>, compatibility with pirate equipment is <color=255,20,20>blocked</color> by <clr>917<clrEnd> different algorithms.
+21	Reduces acryn debuffs by <clr>90<clrEnd>%
+22	Reliability: <clr>-38%<clrEnd>
+23	Turncoat 1.0
+24	A unique micromodule developed by the micromodulation genius, the gaal Zheo Razhiy, and released in a small series, which makes this micromodule extremely rare and not easy to find. An improved version of the licensed micromodule <color=255,0,0>Turncoat</color>. A successful attempt to overcome the drawbacks of using the Turncoat while keeping the benefits. Due to the designer's long-standing dislike of <color=198,128,80>pirates</color>, compatibility with pirate equipment is <color=255,20,20>blocked</color> by <clr>917<clrEnd> different algorithms.
+25	<clr>Completely removes acryn debuffs.<clrEnd>
+26	Reliability: <clr>-46%<clrEnd>
+27	Turncoat 1.44
+28	A unique micromodule developed by the micromodulation genius, the gaal Zheo Razhiy, and released in a small series, which makes this micromodule extremely rare and not easy to find. An improved version of the licensed micromodule <color=255,0,0>Turncoat</color>. In effect, an extremely successful attempt to overcome the drawbacks of using the Turncoat while keeping the benefits. This design achieved a reversal of the acryn's drawbacks, albeit with a quantitative weakening of the effect. Alas, one-off experimental parts are fragile and extremely expensive to maintain. Due to the designer's long-standing dislike of <color=198,128,80>pirates</color>, compatibility with pirate equipment is <color=255,20,20>blocked</color> by <clr>917<clrEnd> different algorithms.
+29	<clr>Completely removes acryn debuffs and turns them into benefits, retaining 44% of the original quantitative effect<clrEnd>
+30	Reliability: <clr>-52%<clrEnd>
+31	Turncoat 2.0
+32	A unique micromodule developed by the micromodulation genius, the gaal Zheo Razhiy, and released in a small series, which makes this micromodule extremely rare and not easy to find. An improved version of the licensed micromodule <color=255,0,0>Turncoat</color>. In effect, an incredibly successful attempt to overcome the drawbacks of using the Turncoat while keeping the benefits. It managed to fully retain the acryn's benefits while reversing its drawbacks. Alas, one-off experimental parts are fragile and extremely expensive to maintain. Due to the designer's long-standing dislike of <color=198,128,80>pirates</color>, compatibility with pirate equipment is <color=255,20,20>blocked</color> by <clr>917<clrEnd> different algorithms.
+33	<clr>Completely converts acryn debuffs into benefits<clrEnd>
+34	Reliability: <clr>-60%<clrEnd>
+35	Hypertug
+36	A unique micromodule developed by the micromodulation genius, the gaal Zheo Razhiy, and released in a small series, which makes this micromodule extremely rare and not easy to find. Significantly reworks the <clr>gripper<clrEnd> systems, achieving simply fantastic equipment characteristics, but, alas, the incredible number of additional object-attraction boosters requires constant repair. Due to the designer's long-standing dislike of <color=198,128,80>pirates</color>, compatibility with pirate equipment is <color=255,20,20>blocked</color> by <clr>917<clrEnd> different algorithms.
+37	Size: <clr>+200%<clrEnd>
+38	Gripper range: <bonHookRadius> million km
+39	Gripper pull speed from afar: <bonHookMaxSpeed>.
+40	Gripper pull speed up close: <bonHookMinSpeed>
+41	Lifter
+42	A unique micromodule developed by the micromodulation genius, the gaal Zheo Razhiy, and released in a small series, which makes this micromodule extremely rare and not easy to find. Removes the long-range object attraction systems from the gripper in favor of increasing the power and speed of lifting objects up close. Alas, such a system becomes vulnerable to external damage. The license was bought by the <color=220,140,245>faeyans</color>, <color=50,150,230>humans</color> and <color=130,200,40>pelengs</color>.
+43	Reliability: <clr>-41%<clrEnd>
+44	Ultrissima
+45	A unique micromodule developed by the micromodulation genius, the gaal Zheo Razhiy, and released in a small series, which makes this micromodule extremely rare and not easy to find. Uses the Baron von Kotarius effect not with a stationary installation but a mobile one, which makes it possible to warp the cargo hold space of <clr>any ship<clrEnd>, increasing it by an order of magnitude. Naturally, mass and size grow many times over, and getting hit in such a ship is elementary, but who cares? Due to the designer's long-standing dislike of <color=198,128,80>pirates</color>, compatibility with pirate equipment is <color=255,20,20>blocked</color> by <clr>917<clrEnd> different algorithms.
+46	Size: <clr>+800%<clrEnd>
+47	Increases hull susceptibility by <clr>200<clrEnd>%
+48	Cost: <clr>+500<clrEnd>%
+49	Skynet
+50	A unique micromodule developed by the micromodulation genius, the gaal Zheo Razhiy, and released in a small series, which makes this micromodule extremely rare and not easy to find. Embeds in the hull a <clr>seventeenth-generation<clrEnd> AI, "Skynet," which greatly assists the pilot in almost all of their affairs, from war to trade and carrying out government assignments. Alas, installing the AI's memory block required serious damage to the defense systems, which seriously reduced the hull's ability to resist external damage.
+51	Asteroid damage: +<clr>10<clrEnd>%
+52	Hull damage susceptibility: <clr>+25%<clrEnd>
+53	<clr>Significantly raises all pilot skills<clrEnd>
+54	<clr>Opens 1 artifact slot<clrEnd>
+55	<clr>Adds the ability to control one more probe<clrEnd>
+56	Hypershield
+57	A unique micromodule developed by the micromodulation genius, the gaal Zheo Razhiy, and released in a small series, which makes this micromodule extremely rare and not easy to find. Installs in the <clr>shield generator<clrEnd> a special unit that redistributes the generator's available resources so that its total power increases many times over. Alas, this has an extremely negative effect on the equipment's durability, which is damaged by the slightest shield overload from absorbing the blast wave of an enemy salvo. Due to the designer's long-standing dislike of <color=198,128,80>pirates</color>, compatibility with pirate equipment is <color=255,20,20>blocked</color> by <clr>917<clrEnd> different algorithms.
+58	Hyperrepair
+59	A unique micromodule developed by the micromodulation genius, the gaal Zheo Razhiy, and released in a small series, which makes this micromodule extremely rare and not easy to find. Puts the <clr>droid<clrEnd> into emergency operation mode and adds extra manipulators to it, increasing the droid's efficiency many times over. Alas, no mechanism can work in emergency mode for long. Due to the designer's long-standing dislike of <color=198,128,80>pirates</color>, compatibility with pirate equipment is <color=255,20,20>blocked</color> by <clr>917<clrEnd> different algorithms.
+60	Hyperbeam
+61	A unique micromodule developed by the micromodulation genius, the gaal Zheo Razhiy, and released in a small series, which makes this micromodule extremely rare and not easy to find. Rebuilds the entire mechanism of <clr>any energy weapon<clrEnd> so that its firing range and salvo power increase many times over, along with its size. Alas, the weapon parts were not designed for such hellish operating conditions and fail in no time. As a nice bonus, the scientist added a system that uses almost all the mechanisms known to the Coalition to influence the weapon's effectiveness in various situations.
+62	After the micromodule's presentation, the <color=255,215,25>gaals</color> <color=255,20,20>refused</color> to license this weapon as a machine of incredible power and lethality, while the <color=130,200,40>pelengs</color> and <color=198,128,80>pirates</color> by some miracle simply <color=255,20,20>missed</color> the micromodule's presentation.
+63	Size: <clr>+300%<clrEnd>
+64	Rate of fire: +<clr>2<clrEnd>
+65	Adds <clr>all<clrEnd> effects to the weapon
+66	Hyperscanus
+67	A unique micromodule developed by the micromodulation genius, the gaal Zheo Razhiy, and released in a small series, which makes this micromodule extremely rare and not easy to find. Rebuilds the <clr>scanner<clrEnd>, adding extra focusing units, which overall significantly increases its power. Alas, such overloads have an extremely negative effect on the equipment's wear resistance. Due to the designer's long-standing dislike of <color=198,128,80>pirates</color>, compatibility with pirate equipment is <color=255,20,20>blocked</color> by <clr>917<clrEnd> different algorithms.
+68	Hyperburn
+69	A unique micromodule developed by the micromodulation genius, the gaal Zheo Razhiy, and released in a small series, which makes this micromodule extremely rare and not easy to find. Rebuilds the entire mechanism of <clr>any splinter weapon<clrEnd> so that its firing range and salvo power increase many times over, along with its size. Alas, the weapon parts were not designed for such hellish operating conditions and fail in no time. As a nice bonus, the scientist added a system that uses almost all the mechanisms known to the Coalition to influence the weapon's effectiveness in various situations.
+70	After the micromodule's presentation, the <color=255,215,25>gaals</color> <color=255,20,20>refused</color> to license this weapon as a machine of incredible power and lethality, while the <color=130,200,40>pelengs</color> and <color=198,128,80>pirates</color> by some miracle simply <color=255,20,20>missed</color> the micromodule's presentation
+71	Hyperrocket
+72	A unique micromodule developed by the micromodulation genius, the gaal Zheo Razhiy, and released in a small series, which makes this micromodule extremely rare and not easy to find. Rebuilds the entire mechanism of <clr>any missile weapon<clrEnd> so that its firing range and missile warhead power increase many times over, along with its size. Alas, the weapon parts were not designed for such hellish operating conditions and fail in no time. As a nice bonus, the scientist added a system that uses almost all the mechanisms known to the Coalition to influence the weapon's effectiveness in various situations.
+73	After the micromodule's presentation, the <color=255,215,25>gaals</color> <color=255,20,20>refused</color> to license this weapon as a machine of incredible power and lethality, while the <color=198,128,80>pirates</color> by some miracle simply <color=255,20,20>missed</color> the micromodule's presentation.
+74	Projectiles per salvo: +<clr>13<clrEnd>
+75	Ammo: +<clr>10<clrEnd>
+76	Hypervision
+77	A unique micromodule developed by the micromodulation genius, the gaal Zheo Razhiy, and released in a small series, which makes this micromodule extremely rare and not easy to find. Puts the <clr>radar<clrEnd> into emergency operation mode and adds extra power to it, thanks to which the range the radar can cover increases by an order of magnitude. Alas, even the slightest fluctuation of the system is enough to knock it out. Due to the designer's long-standing dislike of <color=198,128,80>pirates</color>, compatibility with pirate equipment is <color=255,20,20>blocked</color> by <clr>917<clrEnd> different algorithms.
+78	Ultiverse
+79	A first-level micromodule. A super-improved version of its sibling, the <clr>Universe<clrEnd>. It surpasses it in every parameter, and also gives <clr>any<clrEnd> equipment or hull additional and quite useful properties. Unfortunately, this micromodule refused to be inserted into equipment (yes, an intelligent self-calibration unit was built into it), making an exception only for what it considered technically more advanced equipment of <color=255,0,255>unknown</color> races<clrEnd>.
+80	Reliability: <clr>+20%<clrEnd>
+81	Cost: <clr>-20%<clrEnd>
+82	Missile and torpedo speed: <bonMissileSpeed> units
+83	Rate of fire: +<clr>1<clrEnd>
+84	Weapon ammo: <bonAmmo> pcs.
+85	Reduces hull susceptibility by <clr>10<clrEnd>%
+86	Increases <clr>all<clrEnd> skills by <clr>1<clrEnd>
+87	Opens <clr>all<clrEnd> hull slots
+88	Adds <clr>1<clrEnd> probe to the player's usage limit
+89	Adds <clr>1<clrEnd> stimulator to the player's limit
+90	Slightly increases the weapon's <clr>rate of fire<clrEnd>, so that it fires before enemy weapons
+91	Reduces the hull's <clr>susceptibility to asteroid hits<clrEnd> by <clr>15<clrEnd>%
