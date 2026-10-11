@@ -1,0 +1,43 @@
+71	Level two micromodule. Replaces every remotely expensive part of the <clr>fuel tank<clrEnd> with cheaper and bulkier ones. Suitable only for <color=198,128,80>pirate</color> contraptions.
+72	Cost: <clr>-40%<clrEnd>
+75	Level one micromodule. Modifies the ammunition and weapon focusing systems, which increases the damage dealt and the target engagement range. <color=255,20,20>Incompatible</color> with missile weapons and with the equipment of <color=50,150,230>humans</color>.
+77	Level one micromodule. Builds krypton structures into the hull, increasing its strength and opening an afterburner slot. The structures take up a little extra space on the ship, so the hull's usable volume decreases and its cost increases. Used only for hulls of <clr>faeyans<clrEnd> and <clr>gaalians<clrEnd>.
+78	Hull size: <clr>-10%<clrEnd>
+80	Level one micromodule. One of the pirates' experiments in combining the properties of micromodules in a teleporter. When the micromodules "Burnz" and "Drover" were combined, the installation started smoking and all values froze at 22. The <clr>pirates<clrEnd> decided not to reset the setting and to generate the module with these parameters.
+82	Level one micromodule. Developed to order for the goons of the highly respected lyakusha Chvang-Khan for his one-thousandth space robbery.<br>Significantly improves the characteristics<br>of any <color=198,128,80>pirate</color> gripper<clrEnd>.
+83	Long-range gripper pull speed: <bonHookMaxSpeed>.
+85	Level one micromodule. Applies a special material, <clr>kliron<clrEnd>, which removes almost all negative effects from <clr>acrynic<clrEnd> equipment or hulls.
+86	Acrynic penalties: <clr>-75%<clrEnd>
+88	Level two micromodule. Adds a fifth hyperspace navigation element to the navigation system of <color=50,255,200>dominator</color> engines<clrEnd>, thereby increasing hyperjump speed and range. When installed in a dominator <clr>radar<clrEnd> or <clr>scanner<clrEnd>, it causes retraction of the high-frequency interference controller, which leads to a substantial improvement in their characteristics.
+90	Level one micromodule. Immediately after installation, optimizes, replaces and improves only <color=50,255,200>dominator</color> equipment. Ways of interaction could not be determined, and the process itself is instantaneous and cannot be studied. Repair of equipment modified this way is extremely difficult and, consequently, more expensive.
+92	Level three micromodule. Allows increasing shot power by replacing the weapons' energy blocks with heavier, more powerful and, as a result, costlier ones. Because of the increased scattering effect, shot range drops slightly. Compatible only with the weapons of <color=50,255,200>dominators</color>.
+94	Level one micromodule. A module developed by the <color=130,200,40>pelengs</color> for turning a considerable part of a fuel tank into a hidden cargo compartment without a suspicious reduction in its volume. This micromodule was later modified by Coalition scientists, but it was never possible to combine it with tanks of non-peleng design.
+96	Level one micromodule. Wraps the barrel of a splinter weapon with electromagnetic coils that accelerate the projectile, which lets the gun fire considerably farther. The projectile's acceleration also raises the probability of successfully piercing the enemy's armor. An extra battery and a rail generator add to the weapons' weight. Applicable only to <color=50,255,200>dominator</color> weapons of the <clr>splinter<clrEnd> type.
+98	Level one micromodule. Was developed by an artificial intelligence and incorporates years of statistical data on the mass use of all kinds of <clr>engines<clrEnd> and <clr>scanners<clrEnd>. Compatible only with dominator equipment of the <color=50,255,200>kelleroid</color> series.
+100	Level three micromodule. Increases the speed of the <clr>engine<clrEnd> by introducing a subquadratic system for calculating fuel consumption.
+102	Level one micromodule. Was developed by an artificial intelligence and incorporates years of statistical data on the mass use of all kinds of <clr>repair droids<clrEnd>. Compatible only with dominator equipment of the <color=50,255,200>terronoid</color> series.
+104	Level one micromodule. By effectively reorganizing the power flows in a <color=50,255,200>dominator</color> <clr>engine<clrEnd>, switches the device from its nominal operating mode to a gentle afterburner frequency. The expected acceleration of engine wear, however, does not occur, thanks to the competent use of the principle of reverse inturbation.
+106	Level two micromodule. Ideal for <clr>engines<clrEnd> that are constantly operated in afterburner mode. Substantially lowers repair costs by building into them convenient and durable, but bulky, diagnostic systems and quick access to all key assemblies. <color=255,20,20>Incompatible</color> with <color=255,70,0>maloq</color> engines, because of the extreme ineptness of their design.
+107	Durability: <clr>+30%<clrEnd>
+108	Cost: <clr>-80%<clrEnd>
+110	Level three micromodule. Connects a <clr>scanner of <color=255,70,0>maloq</color> make to the unified Galanet network, as a result of which it is automatically calibrated every week and gets software updates that cannot be disabled.
+112	Level three micromodule. Developed by the famous peleng scientist Sikpak Khapuga, renowned for his incredible, chronic and utterly incurable kleptomania. Also known for audacious thefts of small but very valuable items from a great distance. Out of hooligan motives, Sikpak made this micromodule <color=255,20,20>incompatible</color> with <color=255,215,25>gaalian</color> equipment.
+114	Level two micromodule. One day <color=198,128,80>pirate</color> "scientists" took an antigravitator artifact apart down to the graviton blocks and, with a chisel, sledgehammers and some choice words, built it into their hulls. To everyone's surprise, the mass and size of the <clr>hull<clrEnd> really did decrease.
+115	Ingot
+116	Level one micromodule. Built into the hull. Closes <clr>four<clrEnd> slots of <clr>weapons<clrEnd>, the slots of the <clr>droid<clrEnd>, <clr>shield generator<clrEnd>, <clr>afterburner<clrEnd>, <clr>radar<clrEnd> and <clr>scanner<clrEnd>, and also <clr>all<clrEnd> slots for <clr>artifacts<clrEnd>. The price of such a hull drops many times over. The reverse effect is that the hull grows <clr>2<clrEnd> times larger.
+117	Hull size: <clr>200%<clrEnd>
+118	Cost: <clr>-70%<clrEnd>
+120	Level two micromodule. Applies a special substance that reduces the effect of harmful cosmic rays on <clr>any unidentified<clrEnd> equipment, increasing its efficiency without changing the original structure of the device.
+122	Level two micromodule. Increases the ammunition supply of a <clr>dominator<clrEnd> missile weapon and equips it with an additional missile launch silo. The upgraded launch system takes up an additional <clr>50<clrEnd>% of the weapon's volume.
+123	Salvos: <bonAmmo> units
+124	Missiles: <bonShots> units
+126	Level two micromodule. Modifies the loading mechanism of a <clr>missile weapon<clrEnd> so that each missile, on hitting, ionizes the surface<br>of the target's hull, thereby increasing the<br>damage dealt to it.
+127	Additional effect: <clr>ionization<clrEnd>
+128	Durability: <clr>-15%<clrEnd>
+130	Level three micromodule. Replaces the expensive compact parts of the <clr>radar<clrEnd> with cheap, low-quality and bulky substitutes. As a result, the radar becomes considerably cheaper, but also considerably larger, and loses some of its original power.
+131	Cost: <clr>-60%<clrEnd>
+133	Level two micromodule. Adds an <clr>afterburner<clrEnd> function and opens the <clr>remaining weapon slots<clrEnd>, while closing the slots of <clr>artifacts<clrEnd>, the <clr>scanner<clrEnd> and the <clr>shield generator<clrEnd>. When properly installed in an engine, a sharp increase in <clr>speed<clrEnd> has been observed in exchange for a severe drop in jump range.
+135	Level three micromodule. Who said <clr>industrial lasers<clrEnd> are useless?
+136	Cost: <clr>+15%<clrEnd>
+138	Level two micromodule. Builds a giant food production generator into a hull of <clr>maloq<clrEnd> make. Though even what it produces would be too little for a gluttonous maloq, so it is sometimes called "Malo-couscous". A <clr>shield generator<clrEnd> can also be connected to the food generator.
+140	Level one micromodule. Completely transforms the hull into a military one. Opens <clr>two<clrEnd> slots for <clr>weapons<clrEnd> at once. If the transformation succeeds, opens the slots for the <clr>droid<clrEnd> and the <clr>shield generator<clrEnd>. Applicable only to <clr>faeyan<clrEnd> hulls.
