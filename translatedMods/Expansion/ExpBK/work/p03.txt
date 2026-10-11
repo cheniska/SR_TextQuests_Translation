@@ -1,0 +1,87 @@
+213	---------<br>A significant part of the Coalition fleet's defensive resources consists of large ships - <clr>battleships<clrEnd>, which usually serve as <clr>flagships<clrEnd>. Each such ship is fitted with state-of-the-art equipment and has special capabilities and colossal firepower. The CAFIC plans to build one in the <0> system. According to the plan, construction of the ship should begin in a couple of years, but the system's governments have asked us to open fundraising for the construction to speed up the process and defend their system with so mighty a ship sooner.<br><br>The cost of building and fitting out the battleship is <1> cr.<br>---------
+214	Excellent! We have already sent off a colonization caravan, and soon the terraforming and the laying of foundations for the main administrative and production buildings will begin.<br><br>You will see notices in the news all across the Galaxy!
+215	Excellent! Hooray!
+216	Select the time to extend the insurance
+217	Invest in the economy of the planet plan (system sys)
+218	I'm interested in your financial products
+219	---------<br>Of course, buying more military ships is a good initiative, but when is it ever enough? So the governments of the <0> system asked us for the chance to post their request to finance the construction of a large military fleet.<br><br>In all, under the contract, <clr>10<clrEnd> pilots will be assembled, who will immediately start patrolling the system.<br><br>The cost of fitting out each ship is <1> cr., so the total payment for the initiative comes to <2> cr.<br>---------
+220	What license, <Player>?! Our system has been attacked, and an urgent evacuation of personnel is under way. Our station's operations are temporarily restricted to prevent fraud amid the confusion!
+221	What card, <Player>?! Our system has been attacked, and an urgent evacuation of personnel is under way. Our station's operations are temporarily restricted to prevent fraud amid the confusion!
+222	What analysis, <Player>?! Our system has been attacked, and an urgent evacuation of personnel is under way. Our station's operations are temporarily restricted to prevent fraud amid the confusion!
+223	What loan, <Player>?! Our system has been attacked, and an urgent evacuation of personnel is under way. Our station's operations are temporarily restricted to prevent fraud amid the confusion!
+224	What deposit, <Player>?! Our system has been attacked, and an urgent evacuation of personnel is under way. Our station's operations are temporarily restricted to prevent fraud amid the confusion!
+225	What insurance, <Player>?! Our system has been attacked, and an urgent evacuation of personnel is under way. Our station's operations are temporarily restricted to prevent fraud amid the confusion!
+226	---------<br>Supporting poor rangers is one of the first initiatives that arose after the Ranger Corps was assembled. This fund makes regular payments into the personal accounts of the poorest rangers so that they can buy good gear and set out against the enemies of the Coalition.<br><br>Contribution amount: <0> cr.<br>---------
+227	We thank you, ranger, together with the fund, for your contribution to the cause common to the whole Coalition! The Galaxy will not forget you.
+228	That is a noble deed! I think many will appreciate your generosity and your help to orphans.
+229	Select the amount to deposit into the account
+230	Withdraw
+231	How much to withdraw?
+232	Top up
+233	By how much to top up?
+234	Confirm
+235	Choose another type of goods
+236	Excellent! And don't forget to renew the license a month before it expires.
+237	A trade license simplifies the transfer of data on your completed deals to the ranger centers. In addition, promotion in the rating becomes more precise, depending on your trade experience.<br>For just <0> cr, for a term of five years.
+238	The renewal price is <0> cr. Extend for another 5 years?
+239	If you wish to trade more effectively, we offer you a trade license.
+240	Your deposit account has been successfully closed.
+241	You are about to withdraw all available funds from the account. Your deposit account will then be closed and you can reopen it only at the nearest business center. Are you sure you want to continue?
+242	After withdrawing this sum, the balance on the account will be less than 1000 cr. All accounts with a balance of less than 1000 cr. are automatically closed, and the remaining funds are transferred to the owner with the standard fee of 5%. Are you sure you want to continue?
+243	</color><br>Withdrawals from the account will become available to you in <0> days.
+244	Repay the loan
+245	Sorry, there are insufficient funds in your account to pay the fee for this transfer.
+246	Thank you for repaying your loan on time. We hope for further cooperation.
+247	Sorry, there are insufficient funds in your account to repay the loan in full.
+248	After repaying this amount, the remaining debt will be less than 100 cr. The remaining sum will automatically be deducted from your account toward the loan, and the loan itself will be fully repaid. Are you sure you want to continue?
+249	What amount do you wish to repay?
+250	Trade news: <0>
+251	Choose another sector
+252	Choose another store
+253	Return to the terminal
+254	Price:
+255	We sincerely regret that you did not find what you were looking for. Perhaps you would like to browse the assortment in other stores?
+256	Order confirmed.
+257	Thank you for using our remote purchase terminal.
+258	In the coming days the ordered equipment will be delivered to your personal storage on <Store>.
+259	Buy equipment
+260	Buy equipment [Order processing]
+261	The following goods are currently in stock at <Store>:
+262	The remote purchase fee is <Commission> on top of the cost of the purchased goods. The exact fee is calculated from the price per ton and cannot be less than <clr>1<clrEnd> cr. (the price including the fee is shown in brackets).
+263	What goods are you interested in?
+264	Order confirmation required.
+265	Goods: <Goods>
+266	Quantity: <Quantity> t.
+267	Price per ton: <CostPerTon> cr.
+268	Fee per ton: <CommissionPerTon> cr.
+269	Total cost: <Cost> cr.
+270	In the coming days the ordered goods will be delivered to your personal storage on <Store>.
+271	Buy goods
+272	Buy goods [Order processing]
+273	This terminal lets you remotely buy the goods or equipment you want in practically any inhabited corner of the Galaxy.
+274	Only <clr>legal<clrEnd> types of goods can be bought. A <clr>fee<clrEnd> of <Commission> of the cost of the purchased goods is charged for using the terminal.
+275	Leave the terminal
+276	Sorry, no <clr>stores<clrEnd> available for remote purchase were found.
+277	Qty:
+278	Select a galactic <clr>sector<clrEnd>:
+279	Specify the desired quantity:
+280	In which <clr>store<clrEnd> do you want to buy the goods? The star <clr>systems<clrEnd> corresponding to the stores are shown in brackets.
+281	Trade license
+282	Prevents the player from selling gear and goods normally
+283	Allows urgent restoration of non-working equipment on any <clr>industrialized planet<clrEnd>.
+284	Current plan - <TextData1>
+285	"Emergency Repair" Insurance
+286	NewsAdd('We regret to inform you that your Emergency Repair Insurance ('+ShipCustomShipInfoTextData(0,info,1)+' plan) has expired. If you want to resume participation in the program, contact the nearest business center.'+CT('FormInfo.br')+'Sincerely, the business center network');
+287	NewsAdd('We regret to inform you that, since you are ignoring the demands of our network to pay your loan debt, we are terminating your Emergency Repair Insurance ('+ShipCustomShipInfoTextData(0,info,1)+' plan).'+CT('FormInfo.br')+'Sincerely, the business center network');
+288	if(ShipCustomShipInfoData(0,info,2) == 1) ShipCustomShipInfoTextData(0,info,1,'Basic');
+289	if(ShipCustomShipInfoData(0,info,2) == 2) ShipCustomShipInfoTextData(0,info,1,'Extended');
+290	if(ShipCustomShipInfoData(0,info,2) == 3) ShipCustomShipInfoTextData(0,info,1,'Full');
+291	A deposit account has been opened in your name at <Percent><color=255,240,100>%</color> per annum.
+292	Available balance: <Sum> cr.
+293	Opening date: <Date>
+294	Blocked credit card
+295	MessageBox('The credit card is blocked. It seems you can no longer confirm your identity. Or it differs from the one stated on the card.');
+296	Credit card number <Data3>, issued by the business center in the name of ranger name. Limit: <Data2> cr., already spent: <Data1> cr.
+297	Credit card
+298	dword temp_dwd = NumberBox('Bm.Items.2Minerals','Select the amount to withdraw from the account',100,UselessItemData(CurItem(),2) - UselessItemData(CurItem(),1));
+299	else MessageBox('The funds on the card have run out. Deposit funds onto the card to unblock it');

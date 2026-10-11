@@ -1,0 +1,94 @@
+119	Selected planet: <0><br>Inhabiting race: <1><br>Current attitude: <2><br><br>Would you like to contribute some amount to the planet's treasury?
+120	Excellent, the money has been transferred to the government of <0>.<br><br>We recommend that you look into our other services. The Business Center Network can do a lot, a great deal.
+121	Alas, <Player>, at the moment we cannot help you in any way. Come back another time.
+122	So...<br><br>Yes, ranger, at the moment we can carry out a bankruptcy filing procedure for you.<br><br>It includes:<br>- Seizure of all funds, including deposits<br>- Seizure of all accumulated property<br>- Closing all debts to the business center network<br>- Mending relations with the governments of the Coalition of intelligent races<br><br>Do you wish to proceed?
+123	So, right now we can issue you a <clr>"Schiza Gold"<clrEnd> credit card on favorable terms:<br><br>Card withdrawal limit: <0> cr.<br>Interest on debt: <clr>10<clrEnd>% monthly<br>Daily transaction limit: <clr>5<clrEnd><br>Minimum amount for a transaction: <clr>100<clrEnd> cr.<br>Fee for withdrawals above 200 cr. inclusive: <clr>2<clrEnd>%<br><br>Do these terms suit you?
+124	So, the current state of the card:<br><br>Balance: <0>/<1> cr.<br><br>What would you like to do?
+125	Wonderful.<br><br>The credit card has been issued in your name and sent to your personal storage.<br>Enjoy it, ranger!
+126	Excellent. All necessary operations are complete.<br><br>Thank you for using our services.
+127	Are you sure you want to give up our card and its favorable lending terms?<br><br>Of course you can always apply for it again, but until then you will lose access to the enormous number of bonuses our card provides!
+128	Excellent. The credit card has been taken from you and destroyed.<br><br>Glad you used our services. If you need anything else, contact us, we are always happy to help.
+129	We coordinate a whole range of economic programs. They can be anything at all. From helping starving children to building a new interstellar fleet. As a patron, you can make other people's lives easier, help our armed forces, become everyone's favorite. Besides that, we sometimes receive requests for completely unique events that any citizen of the Coalition would count it an honor to take part in.<br><br>Here are the programs available right now:<br><0><br>---<br>Choose any program, don't be shy.
+130	What do you mean, enough investments? Shame on you, <Player>! Our world stands on investments. What would you do without us, without our subsidies?<br>Think, maybe you have spare money? Take out a loan, after all, and feed the hungry!..<br>Though I got carried away and apologize. It's your personal business. We ourselves don't do charity, we just do business. You are an example to us, ranger <Player>.
+131	---------<br>As is known, at present one of the most vulnerable structures of the Coalition - as, indeed, in all times - is civilian ships. More precisely, trade ones.<br><br>With the invested funds we could fit out <clr>5<clrEnd> brand-new transports in the <0> system.<br><br>The cost of fitting out each ship is <1> cr., so the total payment for the initiative comes to <2> cr.<br>---------
+132	Excellent, ranger! The funds have been transferred to our representatives. Very soon several more ships carrying Coalition citizens and important resources will set off into space.
+133	---------<br>Some so-called "free pilots" who by the will of fate ended up in the ports of the <0> system are left without the means to buy a new ship and fit it out. Certain circles interested in creating competition in the transport sector are ready to turn a blind eye to such financial dealings and admit these pilots to the spaceports.<br><br>The only remaining question is the purchase of the ships itself! In all, <1> pilots can be gathered at a time.<br><br>The cost of fitting out each ship is <2> cr., so the total payment for the initiative comes to <3> cr.<br>---------
+134	Excellent, ranger! We have already arranged the purchases. Soon the brand-new ships will go into battle against the enemies of the Coalition!
+135	In view of a recent order of the Galaxy Council, we are obliged to grant any ranger a one-time deferral on a loan payment - if, of course, he can prove his low solvency. Would you like to start the procedure?
+136	Unfortunately, <Player>, we found insufficient grounds to grant you a deferral. Sorry.
+137	So... You seem to fit all the criteria. In view of this, we grant you a deferral - <clr>100<clrEnd> days until the next payment demand.
+138	Despite the long history of conquering the expanses of the Arm, even now far from all planets are settled. Alas, this is because many of them require resource-intensive and very costly <clr>terraforming<clrEnd>. That is why investors are brought in for such projects. Here is the list of planets for whose settlement a group of specialists is being prepared:<br>--------------------<br><0><br>--------------------<br><br>So, what is your choice?
+139	Time to play big: let's invest in industrialization!
+140	Many Coalition economies are going through hard times. So there is always a chance to put funds into building a new plant or, for example, even to help a planet's government carry out the <clr>industrialization<clrEnd> of its economy.
+141	Excellent, ranger! The funds have been transferred, and soon a new military fleet will set off to defend our expanses from enemies of every kind.
+142	Thank you for such a weighty contribution, ranger! A new battleship will soon set off to defend our borders. No one will get past a mighty defender!
+143	The "free pilots" thank you, ranger, for such a weighty contribution to their cause.
+144	So, you chose:<br><br>-------------------<br>Planet: <0><br>System: <1><br>Settling race: <2><br><br>Terraforming and settlement time: <clr>130<clrEnd> + <clr>20<clrEnd> days<br>Cost of the operation: <3> cr.<br>-------------------
+145	Many Coalition economies are going through hard times. So there is always a chance to put funds into building a new plant or, for example, even to help a planet's government carry out the <clr>industrialization<clrEnd> of its economy.<br><br>So, here is the list of planets whose economies you could contribute to.<br><br>Contribution amount: <0> cr.
+146	Bravo, ranger! Future generations will thank you a thousand times for developing the economy of their home planet and creating hundreds of thousands of jobs.
+147	Loan repayment
+148	In full
+149	In part
+150	Return to the options
+151	Payment of debts to governments
+152	Bankruptcy filing
+153	Carry out the bankruptcy procedure
+154	Credit card servicing
+155	Yes!
+156	No, I think not
+157	Top up the card account
+158	I want to close the card (the debt must be fully repaid)
+159	I want to close the card
+160	Yes, I am sure
+161	No, another time
+162	I think I'm not up to investing right now
+163	I think I don't have enough funds for that right now
+164	Yes, I agree. Transfer the money!
+165	Unheard-of generosity! Ranger name has invested in the construction of a trade fleet in the star system. Analysts are sure this will improve the economic situation in the sector.
+166	To the choice of investments
+167	Do you by any chance have some unique investment package? For rangers, of course
+168	I'm interested in a credit holiday
+169	Ranger name showed the whole Coalition today that even in these harsh days ordinary rangers can greatly influence the course of the war by investing in the construction of a military fleet in the star system.
+170	Unheard-of generosity! Ranger name has invested in the construction of a new battleship in the star system. The military machine of the Coalition of intelligent races has gained a mighty ship.
+171	According to CAFIC informants, ranger name helped the so-called free pilots in the star system outfit new ships. The military recommends that civilians not visit this system, as it prepares to repel a strike by a new group of pirates.
+172	Yes, I'm ready for such capital investments!
+173	No, I think I can't afford that right now
+174	I'm interested in equipment repair insurance
+175	I need a repair under insurance!
+176	Need equipment repair? We'll help you get in touch with the workshops!
+177	Extend the insurance policy
+178	Here you can access your deposit account, pay off loan debt, extend your insurance policy or, if you hold a valid trade license, use the online terminal for remote purchasing of goods.
+179	Pity
+180	Alas, ranger, the masters have nothing to repair here!
+181	No, I think another time
+182	So, we have displayed the whole list of equipment the masters are ready to restore. Choose - it's absolutely free!
+183	Repair
+184	Oh, of course, of course!<br><br>The situation in which a ranger is left without any means to repair his weapons and return to battle against the invaders could not and cannot fail to upset the Galaxy Council. After several senators appealed to our board of directors, the so-called "Emergency Repair Insurance" was developed.<br><br>It will allow you, ranger, to get a full repair of <color=225,20,20>faulty</color> equipment at any time on any <clr>industrial<clrEnd> planet, where partner workshops and repair services are usually located.<br><br>If our offer interests you, we have three plans to choose from for <clr>two<clrEnd>:<br>-----------------------<br>"Basic plan"<br>Cost: <clr><0><clrEnd><br><br>This plan will let you urgently restore your ship's combat capability<br><br>We restore:<br><color=225,20,20>Engine</color><br><color=225,20,20>Droid</color><br><color=225,20,20>All guns</color><br>-----------------------<br>"Extended plan"<br>Cost: <clr><1><clrEnd><br><br>This plan will let you urgently restore all of your ship's defensive and offensive systems<br><br>We restore:<br><color=225,20,20>Engine</color><br><color=225,20,20>Droid</color><br><color=225,20,20>All guns</color><br><color=225,20,20>Shield generator</color><br><color=225,20,20>Fuel tank</color><br>-----------------------<br>"Full plan"<br>Cost: <clr><2><clrEnd><br><br>This plan will let you urgently restore your ship completely<br><br>We restore:<br><color=225,20,20>Engine</color><br><color=225,20,20>Droid</color><br><color=225,20,20>All guns</color><br><color=225,20,20>Shield generator</color><br><color=225,20,20>Fuel tank</color><br><color=225,20,20>Gripper</color><br><color=225,20,20>Scanner</color><br><color=225,20,20>Radar</color><br><color=225,20,20>All artifacts</color><br><color=225,20,20>Your hull plating</color>, with elimination of all <color=225,20,20>interference</color>.<br>-----------------------
+185	Excellent choice, ranger!<br><br>We have already issued an "Emergency Repair" insurance in your name with the package you chose for <clr>two<clrEnd> years.<br><br>Thank you for using our network's services!
+186	Are you sure, ranger? If you suddenly have too little money on your account... then the scrawniest little corsairs might force you, a great hero, to retreat like the last coward! Think of your glory and honor!
+187	The cost of extending the insurance policy by <clr>1<clrEnd> standard day is <0> cr.<br><br>The maximum extension per procedure is <clr>300<clrEnd> standard days.
+188	Excellent! We have already updated your contract's term, so you can rest easy!
+189	Excellent! The technicians have finished the work. Take it! It looks as if it just rolled off the assembly line yesterday.<br><br>Would you like to use the masters' services again?
+190	I think I'll choose other services
+191	I'm interested in the Full plan
+192	I'm interested in the Extended plan
+193	I'm interested in the Basic plan
+194	To other services
+195	I think you're right, I'd better choose some other service of yours
+196	I want to cancel my repair insurance!
+197	Arrange the extension
+198	Let's repair something else!
+199	I think that's enough for today
+200	Planet plan, attitude relat
+201	Neutral
+202	I want to send a small sum
+203	I want to send a small sum
+204	I want to send a medium sum
+205	I want to send a large sum
+206	Excellent, the payment has been made! The loan repayment deadline has been recalculated according to the size of the payment
+207	Choose the payment amount
+208	Sign
+209	Processing the paperwork...
+210	Are you sure of your choice? You will lose everything you have and will never be able to get it back.
+211	---------<br>The enemy has attacked the <0> system right now. The system's governments have raised all available forces, but resources are not enough for everything.<br><br>With your funds we could help the local governments outfit volunteers with everything needed to fight in orbit.<br><br>The cost of fitting out each of the planned <1> ships is <2> cr., so the total payment for the initiative comes to <3> cr.<br>---------
+212	---------<br>During war many families lose their loved ones at the front. Although participation is voluntary, some also lose their breadwinners. And in any case, loss has a heavy impact on any cell of society.<br><br>That is why the CAFIC established a charitable organization whose funds are used to support the families of those killed in wars - with the klissans, dominators, pirates, it makes no difference.<br><br>Contribution amount: <0> cr.<br>---------

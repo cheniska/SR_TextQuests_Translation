@@ -1,0 +1,118 @@
+1	Attention! An incredible promotion for all holders of the "Premium Credit" card! Discounts of up to 1% on the entire line of household appliances at "Doldo-Raldo" stores! Hurry!
+2	Dear Cardholder! Don't forget that a cashback program is available for your card! To activate it, follow the link: qettps:\\vktb.bank\marshalska_ref00121\gh142
+3	We apologize for the failure of our website and are giving you 0.001% cashback on all categories of goods! Take advantage of the opportunity as soon as possible!
+4	Finance the settlement of an uninhabited planet in one of the Coalition systems
+5	I would like to finance the settlement of an uninhabited planet in one of the Coalition systems
+6	Take part in the industrialization of one of the Coalition planets
+7	I want to invest in a planet's economy
+8	Benefits for families who lost loved ones in the war with the dominators (money cr.)
+9	I would like to take part in paying the benefits
+10	Finance the construction of large warships in the star system (money cr.)
+11	I would like to finance the construction of a flagship
+12	Raise a militia in the star system (money cr.)
+13	I would like to organize a militia detachment
+14	Finance "free pilots" in the star system (money cr.)
+15	I would like to help the free pilots
+16	Contribute to the fund for supporting poor rangers (money cr.)
+17	I would like to support poor rangers
+18	I would like to finance the construction of stations
+19	Build a business center (money cr.)
+20	System star, sector con
+21	Finance the BC in the star system
+22	So, as you know, quite a few stations are scattered across the systems of our Coalition, serving pilots of all kinds of trades and professions. And of course the ongoing war could not fail to affect this: the warring sides often destroy enemy stations. And rebuilding them takes time but, above all, money. And you can take part in solving this problem! We are showing you the whole list of promising projects:
+23	Build a medical center (money cr.)
+24	Finance the MC in the star system
+25	Unfortunately, there are no promising projects at the moment. Come back later!
+26	Build a pirate base (money cr.)
+27	Finance the PB in the star system
+28	Build a ranger center (money cr.)
+29	Finance the RC in the star system
+30	Build a research station (money cr.)
+31	Finance the RS in the star system
+32	Build a technology center (money cr.)
+33	Finance the TC in the star system
+34	Build a military base (money cr.)
+35	Finance the MB in the star system
+36	Finance the construction of a trade fleet in the star system (money cr.)
+37	I would like to finance the construction of a small trade fleet
+38	Finance the construction of a large military fleet in the star system (money cr.)
+39	I would like to finance the construction of a military fleet
+40	Excellent, <Player>! For rangers we have the option of opening a deposit account! You can put any sum of at least <clr>1000<clrEnd> cr. on your account at <clr><Percent>%<clrEnd> per annum with monthly capitalization. The account can be topped up at any time on our corporate Galanet site <clr>Interstellar<clrEnd>, but you can withdraw money no earlier than <clr>31<clrEnd> days after opening the deposit. And for depositors who keep their deposits longer than a year, we periodically hold prize drawings!
+41	By the way, when you take out a loan, interest accrual on the deposit account is temporarily frozen until the debt is fully repaid.
+42	Excellent, <Player>! We have opened a deposit account for you in the amount of <SendMoney> cr. at <clr><Percent>%<clrEnd> per annum.
+43	I don't need any deposit account
+44	Deposit <AveMoney> cr.
+45	Deposit <MaxMoney> cr.
+46	Deposit <MinMoney> cr.
+47	Open a deposit account
+48	You've come to the right place. We can offer you a life insurance policy, which, without doubt, is an integral part of every individual's existence. The policy gives you the right to a doubled lifetime compensation.
+49	The policy is issued for several years. When the term expires, the policy lapses and must be renewed. You will have grown older in that time, after all, and the cost of insuring you will have risen. We have no desire to work at a loss.
+50	That is why we have three policy options for you.
+51	<clr>1<clrEnd>) We issue insurance for <clr>five<clrEnd> years - costing <cost5> cr.
+52	<clr>2<clrEnd>) We issue insurance for <clr>seven<clrEnd> years - costing <cost7> cr.
+53	<clr>3<clrEnd>) We issue insurance for a whole <clr>ten<clrEnd> years - costing <cost10> cr.
+54	By the way, you are still alive, and that's not to be forgotten! Life insurance will let you pay <clr>half<clrEnd> as much for the services of medical centers - we are interested in our clients' health.
+55	Buy a ten-year life insurance policy
+56	Buy a five-year life insurance policy
+57	Buy a seven-year life insurance policy
+58	The deposit account is closed. We hope for further cooperation. All the best.
+59	Withdraw <Money> cr. from the deposit account
+60	<color=255,240,100>Message from the business center:</color><br>Dear <Player>! You failed to repay your loan of <OldMoney> cr on time and have been fined <Penalty> cr. We urge you to come to the nearest business center branch and pay off your entire debt by <NewDate>.<br>Sincerely, the Administration.
+61	<color=255,240,100>Message from the business center:</color><br>Dear <Player>! You again failed to repay your loan of <OldMoney> cr. on time. We are pleased to inform you that you have again been fined <Penalty> cr. So as not to be empty-handed, we have promised the pirates a reward for your head. So hurry to repay the debt by <NewDate>, before we raise the rate even more.<br>Sincerely, the Administration.
+62	Also, given your reputation as an experienced trader, we would like to offer you our special trade license, which will not only strengthen your standing in the business community but also open a number of new useful opportunities.
+63	All business centers have been destroyed. Your <color=255,240,100>trade license</color> is no longer valid.
+64	And what does a trade license give me?
+65	Not interested
+66	Renew the trade license
+67	Decided to buy a trade license from us again? This time its price will be a full <0> cr.
+68	Excellent! I knew you'd come back to us for a license. Everyone does.
+69	Buy again
+70	Your loss.
+71	And what is this trade license?
+72	We would also like to remind you that you can buy our trade license again, which will noticeably make your business life easier.
+73	Buy a trade license
+74	You've talked me into it
+75	We would also like to draw your attention to the fact that your trade license expires <0> We strongly recommend renewing it, especially as renewal will cost you considerably less than buying a new license.
+76	</color>already <clr>tomorrow<clrEnd>.
+77	</color>in just <clr><0><clrEnd> days.
+78	<color=0,50,200>frozen</color>
+79	Your <color=255,240,100>trade license</color> was revoked for flagrant default on a loan.
+80	Excellent! You're a real businessperson! Fill in these forms in triplicate.<br>And don't forget to renew the license a month before it expires.
+81	Oh come now, be humane.
+82	How can you, shame on you!
+83	YES!
+84	Sorry, but I seem to be short of credits
+85	I don't intend to join the "Holy Fool" sect, but I'll take the license anyway
+86	How can you, doubly shameful!
+87	Some other time
+88	And I thought that as a former licensed trader you'd understand all the advantages of this document perfectly. Apparently I was wrong about you...<br>Well, I wish you remain a former one, ranger <Player>.
+89	Very unwise of you. The license will expire and you'll come back to us for reissue all the same, only that time it will cost more.<br>Enjoy losing money, ranger <Player>.
+90	</color><br>Your deposit account is <color=0,50,200>frozen</color> until the loan debt is fully repaid.
+91	Account balance: <0> cr.<br>Annual interest: <1><br><br>You can top up or withdraw funds from your account with a standard fee of <clr>5%<clrEnd>.<br><br>The account balance cannot be less than <clr>1000<clrEnd> cr. The minimum amount for topping up or withdrawing funds is <clr>100<clrEnd> cr.<br><2><3>
+92	<color=0,50,200>Turn off</color> trade news display
+93	<color=0,50,200>Turn off</color> trade news display
+94	On
+95	<color=0,50,200>Turn on</color> trade news display
+96	<color=0,50,200>Turn on</color> trade news display
+97	Our network strives to keep its clients abreast of all major events in the business world, so we will gladly provide you with a handy gadget for tracking the latest trade news.
+98	Your debt: <0> cr.<br>Repayment date: <1> <clr>y.<clrEnd><br>Days left: <2><br>Number of delinquencies: <3><br><br>Here you can pay off your loan debt in any remaining amount with a fee of only <clr>5%<clrEnd>.<br><br>The minimum repayment amount is <clr>100<clrEnd> cr.
+99	<color=255,240,100>Latest economic news:</color>
+100	Remote purchase terminal
+101	My deposit account
+102	My loan debt
+103	Message from the business center.<br>Dear <Player>! Your <color=255,240,100>trade license</color> expires in exactly three months. If you do not want to lose all the trade benefits associated with it, we recommend visiting one of our centers as soon as possible for timely <color=255,240,100>renewal</color>.<br>By the way, renewal will cost you less than issuing a new license, because we sincerely care about our clients' financial well-being.<br>Sincerely, the Administration.
+104	Today the colonization of the planet planet (star system) was completed. The planet's spaceport officially opened and the administration began working at full capacity. The planet's residents invite everyone to attend the celebrations marking the entry of a new member into the Coalition Treaty.
+105	The colonization of the planet planet that you financed is complete
+106	Due to the destruction of all ranger centers, the Business Center Network is paying you compensation in the amount of
+107	Interest has been charged on the credit card
+108	 cr. We hope you will at least not spend it on new guns for plunder
+109	Ranger name! Since you are on the list of poor rangers, the support fund has allotted you
+110	Trade news
+111	Found a colony on the planet planet
+112	A new round of industrialization has swept the planet plan. External investment has allowed the local government to build several new industrial complexes and shift the economy onto a new footing.
+113	So, ranger, now you are like a completely new pilot in space!<br><br>Fly and build up
+114	So, as a member of the Ranger Corps you are entitled to a loan on favorable terms.<br>In addition, we can service your debts (for example, make partial or full payment) or refinance you on favorable terms.<br>Moreover, from our center you can pay off debts owed to the governments of various Coalition planets.<br>And if you often find that repairs after a tense and very long space battle make you shoot asteroids and pick minerals off them, we can offer you Emergency Repair insurance.<br><br>And all this on the best terms in the Galaxy and with a minimal fee for operations!
+115	So, ranger...<br><br>At the moment your debt is <0> cr.<br><br>You must repay it by <1>.<br><br>Do you wish to repay the loan in full or in part?
+116	Excellent. Your loan is fully repaid.<br><br>Anything else?
+117	Increases trade experience depending on trade rating. Valid until <0>.
+118	Besides all that, we can remotely pay off debts owed to the governments of various planets in order to improve their attitude toward you.
