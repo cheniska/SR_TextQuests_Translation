@@ -1,0 +1,38 @@
+210	Durability: <clr>-20%<clrEnd>
+211	<color=248,252,248>Upgrade:</color> <clr>Decelerator<clrEnd>
+212	<color=248,252,248>Along with the energy pulse, a stream of charged particles is released at firing, suppressing the operation of the engine accelerator circuit, which leads to a substantial reduction in the target's speed. Unfortunately, at the moment of activation the modified emitter generates an excessive<br>amount of heat, which does not do the weapon's longevity any favors.</color>
+213	Additional effect: <clr>maximized engine overheating<clrEnd>
+214	<color=248,252,248>Upgrade:</color> <clr>Field Compactor<clrEnd>
+215	<color=248,252,248>The shield field compactor strengthens the effect the generator produces in normal operating mode, but the additional load on the device's power system reduces its longevity.</color>
+216	Shield power: <clr>+6<clrEnd><clr>%<clrEnd>
+217	<color=248,252,248>Upgrade:</color> <clr>Fragilium Parts<clrEnd>
+218	<color=248,252,248>The most commonly used parts in this equipment have been replaced with more wear-resistant fragilium analogs.</color>
+219	Durability: <clr>+40%<clrEnd>
+220	<color=248,252,248>Upgrade:</color> <clr>Hacked Injector<clrEnd>
+221	<color=248,252,248>The hacked version of the injector lets more fuel into the combustion chamber, leading to a substantial gain in engine speed. Unfortunately, the increased fuel supply effectively puts the engine in permanent afterburner mode, which hurts the unit's longevity.</color>
+222	Engine speed: <clr>+200<clrEnd>
+223	Durability: <clr>-40%<clrEnd>
+224	<color=248,252,248>Upgrade:</color> <clr>Meon Chips<clrEnd>
+225	<color=248,252,248>Meon chips are not famed for their longevity, but they significantly raise the radar's overall effectiveness.</color>
+226	Radar range: <clr>+900<clrEnd> million km
+227	<color=248,252,248>Upgrade:</color> <clr>"Extreme" Processors<clrEnd>
+228	<color=248,252,248>The "Extreme" processors change the droid's behavior logic, making it less cautious but at the same time quicker to carry out the necessary repairs.</color>
+229	Droid effectiveness: <clr>+8<clrEnd>
+230	<color=248,252,248>Upgrade:</color> <clr>Reinforced Servo Drives<clrEnd>
+231	<color=248,252,248>The gripper is equipped with reinforced servo drives, allowing it to grab larger and heavier objects. Unfortunately, the rest of the device's mechanism is not designed for the increased load and so fails much sooner than it should.</color>
+232	Gripper power: <clr>+40<clrEnd> t.
+233	Durability: <clr>-25%<clrEnd>
+234	<color=248,252,248>Upgrade:</color> <clr>Security Systems Replacement<clrEnd>
+235	<color=248,252,248>Recoding and removing some safety systems has noticeably increased the tank's maximum capacity, though its reliability has by no means improved from such abuse.</color>
+236	Tank volume: <clr>+20<clrEnd>
+237	Durability: <clr>-60%<clrEnd>
+238	<color=248,252,248>Upgrade:</color> <clr>Smuggler Compartment<clrEnd>
+239	<color=248,252,248>A special compartment for transporting contraband has been installed on this ship, greatly expanding its original capacity. The additional compartment is shielded from scanning but, unfortunately, has no armor whatsoever and so is a weakened zone of the hull.</color>
+240	Hull size: <clr>+25%<clrEnd>
+241	Damage susceptibility: <clr>+15%<clrEnd>
+242	<color=248,252,248>Upgrade:</color> <clr>Tilivy Capacitors<clrEnd>
+243	<color=248,252,248>Tilivy capacitors have increased capacity, which lets them accumulate more shot power, but that same excess power wears out the weapon's conducting power units faster, since they were simply not designed to distribute such loads.</color>
+244	Energy weapon power: <clr>+15<clrEnd>
+245	<color=248,252,248>Upgrade:</color> <clr>Tweaked Limiters<clrEnd>
+246	<color=248,252,248>A fire control unit from which some factory restrictions have been carefully removed. Weapons fitted with such a unit can fire at longer distances, but the recoil compensation mechanisms cannot take the extra load and so fail faster.</color>
+247	Firing range: <clr>+40<clrEnd>

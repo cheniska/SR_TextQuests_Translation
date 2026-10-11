@@ -1,0 +1,102 @@
+108	An ancient gaalian artifact consisting of two interdependent particles. When moved apart, they instantly reunite, ignoring the laws of space and time. The only way to separate such particles is to enclose each of them in an individual temporal field. When the field is switched off, the particle instantly transfers to its pair, taking along some of the surrounding space, which makes it possible to use a split <color=255,240,100>hyperlink</color> as a <color=255,240,100>two-way teleporter</color> for moving objects.
+109	One of the two particles of the <color=255,240,100>hyperlink</color> artifact, isolated in a temporal field. Can be used for instant <color=255,240,100>transfer of an item</color> to the other particle, which is currently <Place>.
+110	Separated hyperlink particle
+111	The Null Generator is a single-use but extremely useful device that lets you perform an instant relocation from any point in space. It bends the temporal field around the ship and removes gravitational interference from the engine jump circuit, thereby allowing a practically instant null transition.
+112	MessageBox('The ship volumes are too out of harmony with its mass. The Null Generator cannot perform the jump correctly');
+113	if(MessageBoxYesNo('Are you sure you want to make a null transition? During the transition the Null Generator <color=0,50,200>will be lost</color>.'))
+114	Decelerator
+115	str text_q = 'Are you sure you want to install ModuleName in ItemName?';
+116	A modification kit for <color=255,240,100>energy weapons</color>.<br>It supplements the weapon's emitter with a special chamber of charged particles which, receiving an energy pulse, rush to the target in the common stream and, upon reaching it, suppress the operation of the engine's accelerator circuit, thereby noticeably reducing the speed of the irradiated ship. Unfortunately, the foreign chamber placed in the path of the shot partially holds back the energy discharge and overheats the weapon, which ultimately reduces its durability.
+117	Additional effect: <color=255,240,100>slows the target</color>
+118	Weapon reliability: <color=255,240,100>-15%</color>
+119	<color=255,240,100>Cannot be installed in a weapon that already<br>has a slowing effect.</color>
+120	"Extreme" Processors
+121	MessageBox('You are not quite sure whether this droid has a processor, but either way, trying to shove it into the poor animal would be extremely inhumane.', 34);
+122	MessageBox('A combat droid cannot perform repairs, and its behavior under enemy fire is already as extreme as it gets.', 34);
+123	A modification kit for a <color=255,240,100>droid</color>.<br>The "Extreme" processors change the droid's behavior logic, making it less cautious but at the same time quicker to carry out the necessary repairs.
+124	Droid effectiveness: <color=255,240,100>+8</color>
+125	Droid reliability: <color=255,240,100>-20%</color>
+126	Security Systems Replacement
+127	str text_q = 'Are you sure you want to install the <color=0,50,200>security systems replacement</color> in ItemName?';
+128	A modification kit for a <color=255,240,100>fuel tank</color>.<br>Recoding and removing some safety systems noticeably increases the tank's maximum capacity at the expense of its reliability.
+129	Tank volume: <color=255,240,100>+20</color>
+130	Tank reliability: <color=255,240,100>-60%</color>
+131	Hacked Injector
+132	MessageBox('This device has no injector, and in general it is not an engine in the sense that calls for an injector.', 34);
+133	str text_q = 'Are you sure you want to install the <color=0,50,200>hacked injector</color> in ItemName?';
+134	A modification kit for an <color=255,240,100>engine</color>.<br>Replaces the standard fuel injector with a hacked version that lets noticeably more fuel into the combustion chamber, leading to a substantial gain in engine speed. Unfortunately, the increased fuel supply effectively puts the engine in permanent afterburner mode, which hurts the unit's longevity.
+135	Engine speed: <color=255,240,100>+200</color>
+136	Engine reliability: <color=255,240,100>-40%</color>
+137	Reinforced Servo Drives
+138	str text_q = 'Are you sure you want to install the <color=0,50,200>reinforced servo drives</color> in ItemName?';
+139	A modification kit for a <color=255,240,100>gripper</color>.<br>Equips the gripper with reinforced servo drives, allowing it to grab larger and heavier objects. Unfortunately, the rest of the device's mechanism is not designed for the increased load and so fails much sooner than it should.
+140	Gripper power: <color=255,240,100>+40</color>
+141	Gripper reliability: <color=255,240,100>-25%</color>
+142	Fragilium Parts Set
+143	str text_q = 'Do you really want to reinforce ItemName with <color=0,50,200>fragilium parts</color>?';
+144	A modification kit for<br><color=255,240,100>any</color> equipment.<br>Replaces the most commonly used parts in the equipment with more wear-resistant fragilium analogs.
+145	Equipment reliability: <color=255,240,100>+40%</color>
+146	Acidium
+147	A modification kit for <color=255,240,100>splinter weapons</color>.<br>Equips the loading mechanism with a special device that fills every projectile with a special corrosive compound which, dispersing at the moment of detonation, weakens the armor of the enemy ship. The added complexity of the basic loading mechanism design, however, hurts the<br>weapon's reliability.
+148	Additional effect: <color=255,240,100>armor weakening</color>
+149	<color=255,240,100>Cannot be installed in a weapon that already<br>has an armor-weakening effect.</color>
+150	Tilivy Capacitors
+151	str text_q = 'Are you sure you want to install the <color=0,50,200>Tilivy capacitors</color> in ItemName?';
+152	A modification kit for <color=255,240,100>energy weapons</color>.
+153	Tilivy capacitors have increased capacity, which lets them accumulate more shot power, but that same excess power wears out the weapon's conducting power units faster, since they were simply not designed to distribute such loads.
+154	Weapon power: <color=255,240,100>+15</color>
+155	Weapon reliability: <color=255,240,100>-20%</color>
+156	Tweaked Limiters
+157	str text_q = 'Are you sure you want to install the <color=0,50,200>tweaked limiters</color> in ItemName?';
+158	A modification kit for <color=255,240,100>splinter weapons</color>.
+159	A fire control unit from which some factory restrictions have been carefully removed. Weapons fitted with such a unit can fire at longer distances, but the recoil compensation mechanisms cannot take the extra load and so fail faster.
+160	Firing range: <color=255,240,100>+40</color>
+161	Additional Ammo Storage
+162	str text_q = 'Are you sure you want to install the <color=0,50,200>additional ammo storage</color> in ItemName?';
+163	A modification kit for <color=255,240,100>missile weapons</color>.
+164	Additional storage for rocket projectiles, connected directly to the loading mechanism. Increases the maximum number of rounds it can hold.
+165	Maximum number of rounds: <color=255,240,100>+15</color>
+166	Field Compactor
+167	MessageBox('This device is not a shield generator in the usual sense.', 34);
+168	str text_q = 'Are you sure you want to install the <color=0,50,200>field compactor</color> in ItemName?';
+169	A modification kit for a <color=255,240,100>shield generator</color>.
+170	The shield field compactor strengthens the effect the generator produces in normal operating mode, but the additional load on the device's power system reduces its longevity.
+171	Shield generator: <color=255,240,100>+6</color>
+172	Generator reliability: <color=255,240,100>-20%</color>
+173	Meon Chips
+174	MessageBox('This device is not a radar, and putting anything into it is simply dangerous.', 34);
+175	str text_q = 'Are you sure you want to install the <color=0,50,200>meon chips</color> in ItemName?';
+176	A modification kit for a <color=255,240,100>radar</color>.<br>Meon chips are not famed for their longevity, but they significantly raise the radar's overall effectiveness.
+177	Radar range: <color=255,240,100>+900</color> million km
+178	Radar reliability: <color=255,240,100>-20%</color>
+179	Circuit Amplifier
+180	str text_q = 'Are you sure you want to install the <color=0,50,200>circuit amplifier</color> in ItemName?';
+181	A modification kit for a <color=255,240,100>scanner</color>.<br>Boosts the voltage supplied to the scanning circuit, thereby increasing scanning power. Unfortunately, the burnout rate of the scanning circuit also rises.
+182	Scanner power: <color=255,240,100>+7</color>
+183	Scanner reliability: <color=255,240,100>-20%</color>
+184	Repair Gel
+185	MessageBox('The gel container is completely empty!');
+186	if(MessageBoxYesNo('Do you want to apply the sealing gel?'))
+187	A special gel-form compound with a quick-hardening surface that rapidly fills in missing material. Used as an emergency sealant on research ships in place of <clr>destroyed plating<clrEnd>, and reaches rangers in limited quantities.
+188	Gel remaining: <Data1>
+189	Demining Kit
+190	MessageBox('Your skills with electronics are too low to use the S.A.P.P.E.R.');
+191	MessageBox('Failed demining attempt, explosion in 3.. 2..');
+192	Standard Army Package for Provisional Explosives Removal - Item number <clr>731<clrEnd> under the Charter, adopted for service by the Ground Forces of the Interstellar Coalition.
+193	Used by the engineering troops of the whole Coalition for building fortifications and also for <clr>demining<clrEnd>.
+194	This info box increases damage to a structure restored with gel
+195	Ether(2,'','The droid has fully replaced all the breaches patched with repair sealant gel. Your ship now has an order of magnitude fewer vulnerable spots.');
+196	This info box removes the ship's ban on talking and scanning at the end of a turn
+197	The ship's crew was exposed to unknown radiation and temporarily lost control of their own actions.
+198	Stun
+199	MessageBox('You have been hit by unknown radiation and temporarily lost control of your own actions.', 34);
+200	<color=248,252,248>Upgrade:</color> <clr>Acidium<clrEnd>
+201	<color=248,252,248>The burst of each projectile disperses a fine cloud of a special corrosive compound that noticeably weakens armor in the affected area. The added complexity of the loading mechanism design, however, has hurt the weapon's reliability.</color>
+202	Additional effect: <clr>armor weakening<clrEnd>
+203	Durability: <clr>-15%<clrEnd>
+204	<color=248,252,248>Upgrade:</color> <clr>Additional Ammo Storage<clrEnd>
+205	<color=248,252,248>Additional storage for rocket<br>projectiles, connected directly<br>to the loading mechanism.</color>
+206	Weapon ammo supply: <clr>+15<clrEnd>
+207	<color=248,252,248>Upgrade:</color> <clr>Circuit Amplifier<clrEnd>
+208	<color=248,252,248>Boosts the voltage supplied to the scanning circuit, which increases scanning power. Unfortunately, the circuit burnout rate also rises.</color>
+209	Scanner power: <clr>+7<clrEnd><clr>%<clrEnd>
