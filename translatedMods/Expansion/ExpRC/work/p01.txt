@@ -1,0 +1,89 @@
+1	Dear <Player>! All ranger centers have been destroyed.
+2	Your node account with a balance of <Nod> nd. and your personal <clr>micromodule storage<clrEnd> are lost.
+3	Dear <Player>! <RCName> congratulates you on the arrival of the new year <Year> and presents you with this <Item> as a modest New Year's gift. You will find it in your personal <clr>micromodule storage<clrEnd> at any ranger center.<br>All the best to you in the new year!
+4	Info box for remembering all MMs sold to the player from the chains at the RC
+5	Excellent, <Player>. We are taking the micromodule <Name> from you and crediting <Count> nd. to your account, and the same amount to our node reserve.
+6	Dear <Player>! We can take unneeded micromodules off your hands in exchange for a certain number of nodes. Let's see what you have...
+7	Unfortunately, we found no micromodules in your hold.
+8	Hand in all <clr>first<clrEnd>-level micromodules
+9	Hand in all <clr>second<clrEnd>-level micromodules
+10	Hand in all <clr>third<clrEnd>-level micromodules
+11	Your node account balance: <BaseNod> nd.
+12	By the way, I remind you that a free <clr>micromodule storage<clrEnd> is available for all rangers at our centers. I strongly recommend using it if unwanted clutter has piled up in your hold.
+13	Your node account balance: #BaseNod# nd.
+14	Thanks for the historical excursion
+15	Micromodule storage management
+16	Put all micromodules from the hold into storage
+17	Take all modules from storage
+18	Node account and micromodule operations
+19	Of course, rangers get far from everything. Enhancing micromodules are in huge demand. Under the license, we can allot no more than <clr>30<clrEnd>% of finished micromodules to rangers. The remaining micromodules are distributed to equip the military and diplomatic ships of the Coalition.
+20	I need some information
+21	What are a ranger's duties?
+22	What is the ranger rating?
+23	I need information about nodes
+24	How can I help the Coalition in the fight against pirates?
+25	Excellent work, <Player>, we are taking the nodes and increasing your personal node account. The account balance is nods nodes.
+26	The stocks of our reserve node storage have also grown, and now stand at nodes nd.
+27	Dialog, go away!
+28	Hand in a batch of nodes: Count pcs.
+29	That's all the purchases for today!
+30	I want to get a new micromodule
+31	Well, I wouldn't mind another micromodule!
+32	That's wise, <Player>. Bring more nodes to top up your node account.
+33	Excellent, <Player>. We have debited <NodCnt> nodes from your account.
+34	You receive the micromodule <Name>. A simply wonderful choice! Remember that we are always glad to help in your difficult struggle against the dominators.
+35	Note, <Player>, that to make a new micromodule we <clr>spent funds from the node reserve<clrEnd>, so don't forget to bring us new ones so that we can keep the supply going.
+36	Dear <Player>! Today we are ready to offer you the following micromodules:
+37	Node stocks in the network: nodes nd.
+39	Module cost: <Count> nd.
+40	Dear <Player>! Today we are ready to offer you the following micromodules:<Text>
+41	Hand in unknown micromodules
+42	Unknown micromodules is what we call all the unstudied structures that fall into rangers' hands after the destruction of certain dominators
+43	At the moment we have no information about these structures, especially about why we cannot use them not only in our equipment but in dominator equipment either. Perhaps they are simply laboratory prototypes, not even finished yet.
+44	One way or another, these modules help our specialists in developing new structures. To some of them we give access to rangers who have especially distinguished themselves in handing them in.
+45	In addition, we encourage handing in unknown micromodules itself by awarding <clr>reward<clrEnd> nd. to the ranger's personal node account for each specimen turned over to us.
+46	Unknown micromodule
+47	A micromodule with unknown properties. Trying to use one to improve your own equipment would be unwise, but specialists at <color=255,240,100>ranger centers</color> will surely be interested in it.
+48	Quantity: <N> pcs.
+49	Absoluten
+50	The newest experimental development in micromodule creation. Contains a very powerful analytical unit that optimizes the operation of <clr>any equipment<clrEnd> and substantially raises its performance parameters and overall reliability.
+51	Tank capacity: <bonFuel>
+53	Gripper long-range pull speed: <bonHookMaxSpeed>
+54	Durability: <clr>+25%<clrEnd>
+55	Invisiby
+56	The newest experimental development in micromodule creation. Changes the <clr>hull<clrEnd> plating material at the atomic level, significantly raising its reflective properties. This improvement makes the ship much less visible to radar, which seriously hampers any enemy targeting systems.
+57	Damage susceptibility: <clr>-40%<clrEnd>
+58	Maximus
+59	The newest experimental development in micromodule creation. Even its own inventor has not yet been able to grasp the exact principle of the <clr>Maximus<clrEnd>. <clr>Any weapon<clrEnd> fitted with this micromodule will always deal exclusively <clr>the maximum possible damage<clrEnd>.
+60	Additional effect: <clr>no damage spread<clrEnd>
+61	Mumakil
+62	The newest experimental development in micromodule creation. Compresses the <clr>hull<clrEnd> plating material, making it very dense, strong, and heavy. By reducing the plating thickness, the ship's interior space is enlarged, but the weight of the altered hull also<br>rises substantially.
+64	Ultimatus
+65	The newest experimental development in micromodule creation. Modifies the targeting systems of <clr>any weapon<clrEnd>, thereby significantly increasing the damage it deals and raising its maximum range.
+66	<0> has been moved from your ship to storage. You can pick it up at any time convenient for you at any Ranger Center.
+67	What would you like to know?
+68	<0> has already been delivered to your ship.
+69	A separate micromodule storage is assigned to every ranger. This lets you get the module you need at any of our centers, and we distribute the modules you do not need at our own discretion, but only until the moment you need them.<br>Do you want to take micromodules from storage or put them in?
+70	Select a micromodule present on your ship.
+71	Thank you very much
+72	Select a micromodule present in storage.
+73	Dear <Player>! All ranger centers have been destroyed.<br>Your personal micromodule storage is lost.
+74	<color=255,240,100>Personal micromodule storage</color>
+75	<color=255,240,100>Cost</color>
+76	<color=0,255,0>Assets outside the ship (Page </color><color=255,0,255>
+77	<color=0,255,0>Assets outside the ship</color>
+78	Put a micromodule into storage
+79	Take a micromodule out of storage
+80	All micromodules from your hold have been successfully moved to storage.<br>Would you like to do anything else?
+81	All micromodules from storage have been successfully moved to your ship.<br>Would you like to do anything else?
+82	<br>Micromodule <clr>
+83	<br>But that is not all. Thanks to your outstanding contribution to the development of knowledge about micromodules, our research department was able to make a number of serious discoveries.<br>On behalf of all scientists and specialists, allow me to present you with an experimental micromodule created with your active support:
+84	Hand in <0> unknown micromodules for <1> nd.
+85	Hand in <0> unknown micromodules for <1> nd.
+86	Hand in <0> unknown micromodule for <1> nd.
+87	Wonderful, <Player>! We have credited your account with <0> nodes.<1>
+88	Would you like to find out anything else?
+90	So, want to get your hard-earned modules out of the cops' clutches?<br><br>A praiseworthy wish. But sorry, pal, you have to pay for it.<br><br>For each module we will debit <0> cr. from your account. That money will equip new raids on the Ranger Centers - what did you think, where do we get so many micromodules?
+91	So, what exactly do you need?
+92	I think I need something else
+93	Thanks, I found out everything I needed
