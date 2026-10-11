@@ -11,7 +11,7 @@
 11	Hits the target with a concentrated beam of gluon matter, dealing <MinDamage>-<MaxDamage><Bonus> damage and subjecting its hull to <color=255,240,100>gluonization</color>. Range up to <Radius>.
 12	Fires three small torpedoes packed with a compressed gluon field. The torpedoes deal <MinDamage> to <MaxDamage><Bonus> damage to the target and subject its hull to <color=255,240,100>gluonization</color>.
 13	Salvos: <Count>/<MaxCount>
-14	This item is required to complete a quest. It cannot be dropped.
+14	This item is necessary to complete the quest. It cannot be discarded.
 15	<color=248,252,248>Upgrade:</color> <clr>"Exdurality"<clrEnd>
 16	<color=248,252,248>Replaces almost all functional parts of this equipment with costlier but more durable fragilium analogs.</color>
 17	Equipment reliability: <clr>+50%<clrEnd>
@@ -25,27 +25,27 @@
 25	Engine speed: <bonSpeed>
 26	Ship mass: <bonMass><clr>%<clrEnd>
 27	Jump range: <bonJump> pc
-28	Field generator: <bonDef>
+28	Shield generator: <bonDef>
 29	<color=248,252,248>Upgrade:</color> <clr>Tetroazine Pumping<clrEnd>
 30	<color=248,252,248>Temporarily saturates all equipment units with special <clr>tetroazine<clrEnd> particles that increase the engine's maximum power. The tetroazine particles will be fully flushed out in <Data1> days.</color>
 31	The effect of the <clr>"Expirin"<clrEnd> stimulant has worn off. Once again you feel a strange urge to flop down in a chair with a can of Makhpella and zone out in front of the captivating reality show "Extraphil Brawl".
 32	Expirin
 33	The last word in optimizing brain neuron activity.
 34	Its main effect is an overall improvement in memory and learning ability, which raises the experience gained from any action by <clr><Percent>%<clrEnd>. The stimulant is highly addictive, so it is recommended to take it no more than <clr>once a year<clrEnd>.
-35	Days left until the quest ends: <Day>
-36	Quest complete, just need to collect the money
-37	Quest complete, just need to collect the papers
-38	Quest in progress
-39	Client - planet <Planet> (system <System>)
-40	Client - <RuinsType> <RuinsName> (system <System>)
-41	Client - <RuinsType>
-42	Quest completed successfully
-43	Quest failed
+35	There are <Day> days left to complete the mission
+36	Mission completed, time to collect the fee
+37	Mission completed, time to collect the documents
+38	Mission in progress
+39	Customer - planet <Planet> (<System> system)
+40	Customer - <RuinsType> <RuinsName> (<System> system)
+41	Customer - <RuinsType>
+42	Mission successful
+43	Mission failed
 44	Business Center Network
-45	Medical Station Network
+45	Medical Center Network
 46	Pirate Base Syndicate
 47	Ranger Center Network
-48	Science Station Network
+48	Research Station Network
 49	KVSMK
 50	Excellent, <Player>. You've held up your end of the deal, and I've held up mine - here is your permit. Good day.
 51	Thanks
@@ -76,8 +76,8 @@
 76	You need to eliminate him before the monthly news airs, that is, before <EndDate>, after which I'll be able to sleep soundly, and you, so be it, will get the papers you need.
 77	And if you're late, the compromising information will be shown on every newscast, and my career will go down the drain, along with your dreams of building a headquarters in this system. Believe me, <Player>, I'll see to that.
 78	Hm... I see you're determined? Very well, then there's a matter I could use your help with.
-79	My family has owned farms breeding gaalists for two centuries - small worm-like creatures whose extracts are used to make one of the most effective combat stimulants in the whole Galaxy - "gaalistra of time". Why are you so surprised, Ranger? Did you think it's made from flowers?
-80	The problem is that one particularly active civil activist, <clr>Zooglota Puumberg<clrEnd>, learned about our farm and is now calling on the governments of various planets to ban the use of gaalistra of time, citing the raising of gaalists listed in the Gaal "Yellow Book" in, quote: "Conditions that exclude even the faintest glimmer of humanity, like a gray concrete slab blocking the light of the star of life from the trembling epidermis of these poor little creatures." And that would be fine, but for some reason unknown to us, her campaign has won broad support among the masses. We're losing customers and suffering colossal losses. If this goes on, my business will go completely bankrupt! Can you imagine such a disgrace for the heir of a family corporation?
+79	My family has owned farms breeding gaalists for two centuries - small worm-like creatures whose extracts are used to make one of the most effective combat stimulants in the whole Galaxy - "Gaalian Alacrity". Why are you so surprised, Ranger? Did you think it's made from flowers?
+80	The problem is that one particularly active civil activist, <clr>Zooglota Puumberg<clrEnd>, learned about our farm and is now calling on the governments of various planets to ban the use of Gaalian Alacrity, citing the raising of gaalists listed in the Gaal "Yellow Book" in, quote: "Conditions that exclude even the faintest glimmer of humanity, like a gray concrete slab blocking the light of the star of life from the trembling epidermis of these poor little creatures." And that would be fine, but for some reason unknown to us, her campaign has won broad support among the masses. We're losing customers and suffering colossal losses. If this goes on, my business will go completely bankrupt! Can you imagine such a disgrace for the heir of a family corporation?
 81	Ranger <Player>, you are entrusted with the responsible task of eliminating the vessel <TargetShipFull>, aboard which <clr>Zooglota Puumberg<clrEnd> is currently campaigning. The sooner you do it, the better, but the deadline is <EndDate>, after which my company will finally close from the losses it has incurred.
 82	I hope we can help each other, because otherwise you'll have to look for another system for your headquarters.
 83	Have a seat, <Player>, and close the door behind you.

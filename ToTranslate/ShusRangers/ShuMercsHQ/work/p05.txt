@@ -61,7 +61,7 @@
 386	What?! Shoot our own!!? Go to the devil with such quirks!
 387	Hey, brothers - take down the roosters!
 388	Pirate clan fighters, together with mercenaries from the <clr>"<PlayerOrgName>"<clrEnd> organization, recently carried out a brilliant operation to liberate the <TargetStar> system from the Dominator aggressors. Nevertheless, Coalition military analysts express concern over the pirate clan's engagement of additional third-party forces.
-389	Yes, boss! I'll pick the best of our guys for the operation and make <clr>Golubenko<clrEnd> sweat blood to strike a deal with Itsizibit to take the kid's ship in for upgrades!
+389	Yes, boss! I'll pick the best of our guys for the operation and make <clr>Golubenko<clrEnd> sweat blood to strike a deal with Itzibit to take the kid's ship in for upgrades!
 390	Shiners under the eyes? Why, very practical! Connect them through the neurointerface, install adjustable diaphragm reflectors, heat-sink radiators... It's still unclear to me why one has to be intoxicated and get into fights for this, but I suppose the Clan has difficulties with anesthetics during implantation operations. Ingenious!
 391	Ah, yes, the order for our fighters to prepare their ships for launch has already been sent, chief, don't worry.
 392	Yes, sir, commander! Maybe we'll learn a little about their SCP and that Lester. <clr>Peredast!<clrEnd> This time you don't need to deliver anything, all communication is only through a special channel. Go knock back some ekup, you've earned it!

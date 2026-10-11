@@ -48,25 +48,25 @@
 1893	Hey-hey, what's the matter with you, have you totally lost it!? Oh well, one pirate more, one pirate less, the Galaxy won't be any poorer...
 1894	Sorry, <Player>, but those lousy creditors gave me no peace. I didn't even know what hellhole to hide from them in. If you get rid of them, drop by the base - I owe you a case of beer and good snacks.
 1895	In <clr>Tziptzilot<clrEnd>'s vault you found just two items. A debit card with an impressive balance of <Money> cr. and a strange statuette, which you decided to keep just in case.
-1896	Newbie
+1896	Rookie
 1897	Cadet
 1898	Pilot
 1899	Captain
-1900	Destroyer
+1900	Fighter
 1901	Ace
 1902	Commander
 1903	Admiral
-1904	Greenhorn
-1905	Cabin Boy
+1904	Noob
+1905	Ship Boy
 1906	Raider
 1907	Skipper
 1908	Cutthroat
-1909	Ataman
+1909	Capo
 1910	Khan
 1911	Baron
 1912	So, we recalled that you and he weren't on good terms, so we dealt with him in our own way, and therefore he won't bother you anymore.
 1913	Chief, an unpleasant type has gotten onto our station, his name is
-1914	I'm interested in changing allegiance
+1914	I want to change my nationality
 1915	And rightly so. I never liked this system much either.
 1916	What, getting a bit hot, huh? We can pick you up from the <Star> system in <Days> days. Just keep in mind that after such an overload the generator will need at least <Cooldown> days to recover.
 1917	Do you confirm the request?

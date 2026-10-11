@@ -87,7 +87,7 @@
 1632	Anyway, he's a bit strange, but he promised to finish developing the new weapon and provide prototypes in just <color=255,240,100>three months</color>. I'll send you a notification as soon as the first samples are ready.
 1633	Greetings, chief, <color=255,240,100>Elayma</color> speaking. I calculated that the first prototypes will be finished exactly by your arrival if you set out right now at cruising speed. Yes, I constantly monitor your spatial position and ship characteristics, how else? I've dedicated three separate monitors to it!
 1634	Commander, this is <color=255,240,100>Vdubas</color>. News good and not so good. The good news - the egg-head has finished and produced the first samples of the guns, come on over. The bad - he has absolutely no idea how to fix stools!
-1635	Chief, come in, <color=255,240,100>Sergo</color> reporting - everything is ready! The professor kept getting angry that instead of boozequila for wiping contacts he was supplied with ordinary "technical alcohol", but I know he meant to wipe his own throat with it! And I kept wondering where the figures for the required budget came from in the first place?..
+1635	Chief, come in, <color=255,240,100>Sergo</color> reporting - everything is ready! The professor kept getting angry that instead of tokilla for wiping contacts he was supplied with ordinary "technical alcohol", but I know he meant to wipe his own throat with it! And I kept wondering where the figures for the required budget came from in the first place?..
 1636	Hi, boss, this is <color=255,240,100>Tziptzilot</color>. I just found out something interesting from our geniuses. If you want, I can tell you more as soon as you drop by the HQ.
 1637	<color=255,240,100>Elayma</color> at the communicator, chief. I report that the guns you ordered have been manufactured. The number of errors made is 0.0027% relative to the number of operations, please forgive me, I will definitely improve.
 1638	Commander, this is <color=255,240,100>Vdubas</color>. The guns are ready, you can pick them up. I also ask to be docked this month's bonus, I completely forgot about work for a whole 6 hours - got lost gazing at the beauty of military art we assembled.
@@ -123,11 +123,11 @@
 1668	Shoysha
 1669	Shoysha
 1670	Resume: A sad story of a guy who simply loved whistling in enclosed spaces very much. He whistled so often and with such passion that in the end he lost everything: fortune, home, family... even his beloved dog. Left on the side of life, he decided out of grief to become a soldier of fortune, where he remains to this day, hoping to one day win back his former happiness.
-1671	Whistlekin
-1672	Whistlekin
+1671	Prosvistelkin
+1672	Prosvistelkin
 1673	Resume: Claims to be on an exclusively dirt diet. Upon our request the Mercenary Center sent his personal file, in which only three words were written: "He eats dirt". Follows orders well, and will certainly not complain about his salary.
-1674	Dirt
-1675	Dirt
+1674	Grunt
+1675	Grunt
 1676	I EAT DIRT!!!
 1677	I eat dirt!!!
 1678	I eat dirt.
@@ -136,10 +136,10 @@
 1681	I eat dirt?
 1682	I! EAT! DIIIRT!!!
 1683	I eat dirt??
-1684	I give this order to you personally, Dirt. Can you handle it?
-1685	Tell everyone to engage any hostile targets in the system, Dirt. Please...
-1686	Return to the HQ... You too, Dirt.
-1687	This order is for everyone, I don't intend to talk with each one separately. You understood me, right, Dirt?
+1684	I give this order to you personally, Grunt. Can you handle it?
+1685	Tell everyone to engage any hostile targets in the system, Grunt. Please...
+1686	Return to the HQ... You too, Grunt.
+1687	This order is for everyone, I don't intend to talk with each one separately. You understood me, right, Grunt?
 1688	Uh... You can pass this order to the rest of the group, can't you?
 1689	Resume: A great chess player who paid for full cryofreezing to see the world of the future with his own eyes. The world of the future arrived, but as soon as the barely thawed grandmaster received the bill for keeping the cryo-capsule for a good thousand years, he took off on the double and went to semi-legal mercenary bread. We don't ask them for a certificate of no criminal record, heh-heh.
 1690	Carsparov

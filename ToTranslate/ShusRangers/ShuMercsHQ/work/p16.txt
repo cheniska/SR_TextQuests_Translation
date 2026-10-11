@@ -59,7 +59,7 @@
 1464	Our fighters haven't returned from the last task yet, so come back later, boss.
 1465	There are no large contracts today, boss. But don't despair, in a week or two something will surely turn up.
 1466	Today we have a large order from an agent of the <clr>pirate clan<clrEnd>. They offered decent money, I think it's worth at least considering this contract.
-1467	Today we have only <clr>private orders<clrEnd>, chief. Nothing especially outstanding, but when there's no fish, even a lyakusha is a Rachekhan.
+1467	Today we have only <clr>private orders<clrEnd>, chief. Nothing especially outstanding, but when there's no fish, even a lyakusha is a Rachehan.
 1468	Today the only potential employers are the <clr>private sector<clrEnd> and the <clr>Coalition<clrEnd>. In principle it's a good choice, so my opinion is - take it.
 1469	Today we have a rich selection of contracts, chief! A real smorgasbord! The <clr>Coalition<clrEnd>, <clr>pirates<clrEnd> and even some <clr>private individuals<clrEnd> are all offering work at once, so choose whatever you want.
 1470	Today the only potential employers are the <clr>private sector<clrEnd> and the <clr>pirate clan<clrEnd>. I lean toward the private order myself, but the final choice, as usual, is yours.
@@ -82,7 +82,7 @@
 1487	And how much will it cost us to install the portal generator?
 1488	My equipment often acts up, <clr>"Exdurality"<clrEnd> would be just the thing
 1489	And what about our guys' gear in the field? An <clr>"Exdurality"<clrEnd> upgrade wouldn't hurt there either
-1490	I need to repair my equipment
+1490	I need to get fixed up
 1491	Have them run <clr>tetroazine<clrEnd> through the system, I want to overclock the engine
 1492	Have them run tetroazine through the ship, I want to overclock the engine [restocking the fluid]
 1493	We can't afford that right now

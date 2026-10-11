@@ -45,12 +45,12 @@
 950	What if this is your last chance to finish what you started?
 951	Yes, there's some truth in your words. If the Coalition wins this war, development of all remaining military projects will most likely be shut down for many years. And if the Dominators win... I don't even want to think about it.
 952	Well, <Player>, give me a few days to gather the most essential things, and I will arrive at your organization's HQ. I hope I won't regret this decision.
-953	Don't feed me that rotten hogwash! What dozen bombs? This is a secret military development of the Coalition that was never put into mass production! Even on the black market it's not easy to get a single one.
+953	Don't feed me your rotten faryuks! What dozen bombs? This is a secret military development of the Coalition that was never put into mass production! Even on the black market it's not easy to get a single one.
 954	It seems I shouldn't even have considered your ridiculous proposal.
 955	You know, professor, I happen to have a dozen quark bombs lying around in my hold. I think I'll drop them somewhere nearby after takeoff, they're in the way...
 956	NO NEED TO DROP ANYTHING!!!
 957	Ahem, sorry. So, since you insist, I suppose I agree to join your organization. Expect me at your HQ in a few days.
-958	Bye
+958	So long
 959	I have a package for you
 960	There's an assignment, <Player>, but strictly personal.
 961	The thing is that a few months ago I got a girlfriend. True, I haven't met her yet, we only correspond through the Ka-Tsap app, but that doesn't get in the way of our feelings. Imagine, she likes all the same things I do: from human rock music of the last millennium to collecting cards based on the legendary VRMMORPG "Iike-Baana"! I feel how close we are, as if fate itself is linking us across the dark expanses of space!
@@ -83,7 +83,7 @@
 988	A massive generator is built into the hull, using its parts to form an active field. Such a device requires so much energy that we'll have to completely de-energize the space <clr>hook<clrEnd> compartment and redirect the freed-up power exclusively to the generator's needs.
 989	Strength of <WeaponType> weapons: <clr>+20<clrEnd>
 990	Strength of fragmentation weapons: <clr>+20<clrEnd>
-991	Field generator: <clr>+7<clrEnd>
+991	Shield generator: <clr>+7<clrEnd>
 992	Hull cost: <clr>+25%<clrEnd>
 993	Installation cost: <Cost> cr.
 994	The generator will be delivered and mounted immediately after the order. True, no other special upgrade will be possible afterward. <AddText>

@@ -134,11 +134,11 @@
 2159	Gold bars
 2160	Ordinary gold bars. As usual, extremely heavy and, as usual, extremely expensive.
 2161	Luxury
-2162	Jewelry, works of art and other luxury items.
+2162	Jewelry, works of art and other items of indulgence.
 2163	Weapons
-2164	All kinds of weapons: bladed, hand-held, nuclear, psychotropic and others.
-2165	Drugs
-2166	Banned gaostimulants and other narcotic products.
+2164	All manner of weapons: edged, hand-held, nuclear, psychotropic, etc.
+2165	Narcotics
+2166	Banned gaostimulators and other controlled substances.
 2167	Holographic tablet
 2168	An ordinary tablet, the kind commonly sold on any halfway developed planet.
 2169	Huge diamond

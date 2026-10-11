@@ -12,7 +12,7 @@
 1707	Resume: In the past he worked as ambassador of the planet <clr>Eipentak<clrEnd>. He learned the hard way that a conflict can far from always be settled peacefully. After the eighteenth robbery he was dismissed from his post. He spent all his remaining money on a shooting-range subscription, thanks to which he passed my entrance standards with the minimum score.
 1708	Keofirlis
 1709	Keofirlis
-1710	Resume: A former smuggler who managed to bring several dozen tons of costume jewelry to <clr>Ramgatru<clrEnd> disguised as plasma casings and gun oil. He also slipped past a pirate cordon the legendary ring of <clr>Rachekhan<clrEnd>, which the galaxy's most famous pirate wore almost the whole way on the third finger of his fourth hand. A lucky oddball, in a word - you won't find many like him.
+1710	Resume: A former smuggler who managed to bring several dozen tons of costume jewelry to <clr>Ramgatrue<clrEnd> disguised as plasma casings and gun oil. He also slipped past a pirate cordon the legendary ring of <clr>Rachehan<clrEnd>, which the galaxy's most famous pirate wore almost the whole way on the third finger of his fourth hand. A lucky oddball, in a word - you won't find many like him.
 1711	Class: <clr>Veteran<clrEnd>
 1712	Tsuka Shchupkin
 1713	Tsuka Shchupkin
@@ -84,7 +84,7 @@
 1779	If you have nothing urgent, I'll be off, or I could really be late...
 1780	Hey, chief! What brings you here? I'm picking up minerals here, watching the situation, looking for clients... The work is in full swing, in short. Are you here on business or just to chat?
 1781	Hi, boss! Did you see the last season of the series "Game of Stools"? Just awful! How could they flush the ending so badly?! Everyone expected the Grey Walker to beat everyone up in Westercross, but it turned out so dismal... So what did you want?
-1782	Jus-s-st, wo-wo, a shot of boozequila on the tab-a-ale!!!
+1782	Jus-s-st, wo-wo, a shot of tokilla on the tab-a-ale!!!
 1783	Ah, people used to have soulful songs, not like now. All sorts of Biebers and Gaogags have flooded the radio, it's sickening to even listen! Well, aren't I right, chief?
 1784	Freeze, this is Galanarcocontrol! Dump everything from the hold for inspection, or I won't answ... Oooops, my mistake.
 1785	I apologize, boss, I misread the ship's signature. Uh-h... how can I be of service?

@@ -10,7 +10,7 @@
 1291	I need a strike group [on a sortie]
 1292	I need a strike group [resting]
 1293	Contact the <PlayerOrgName> HQ
-1294	End of transmission
+1294	Over and out.
 1295	No, cancel, I'll handle it myself
 1296	Send them out
 1297	Excellent, chief. The sum of <TopUpCount> cr. has been transferred to the organization's account.
@@ -75,7 +75,7 @@
 1356	By the way, the HQ is operating in <clr>strict economy<clrEnd> mode. We turn on the lights only in dire need, reuse the water, the canteen serves ready-made convenience food, and the bar has only the cheapest rotgut left. But, on the whole, it's livable for now.
 1357	By the way, the HQ is operating in <clr>normal<clrEnd> mode. The floors are mopped, the bars are bursting, the soldiers are on the town, and the pelengs call the shots, heh-heh! In short, everything is going exactly as it should.
 1358	Glad to see you in good health, chief. Care for coffee? Or maybe right away a glass of chumiskey with cola and ice? Or some other fiery brew? We have a new bartender - a really cool guy. So just whistle if your throat gets dry.
-1359	Glad to see you in good health, chief. Tell me, have you ever won a lottery? I almost won yesterday! Imagine, one number didn't match! I could be lying on my own beach right now sipping cold boozequila... And now I'll have to sip a weak little tincture the boys gave me out of pity, because I blew my whole weekly salary on those damn tickets!
+1359	Glad to see you in good health, chief. Tell me, have you ever won a lottery? I almost won yesterday! Imagine, one number didn't match! I could be lying on my own beach right now sipping cold tokilla... And now I'll have to sip a weak little tincture the boys gave me out of pity, because I blew my whole weekly salary on those damn tickets!
 1360	Oh, glad to see you again, <Player>! I just finished the report for the past week five minutes ago, so make yourself comfortable.
 1361	So, where did it get to here, hmm... "Used and Not-So-Used Sports Cars"... "Quackhub"... The annual edition of "How to Hack Your Neighbor"... Ah, there it is! Ahem-ahem.
 1362	I bet technician <clr>Bumbyr<clrEnd> how many <clr>Keller<clrEnd> torpedoes your hull could withstand. I bet at least three. Want to check? We'll split the winnings like brothers.

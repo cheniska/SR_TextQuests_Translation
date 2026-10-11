@@ -25,7 +25,7 @@
 1160	I've changed my mind, maybe later
 1161	So be it, I'll bring you these papers again
 1162	However, I hasten to disappoint you - based on the data I have on your candidacy and the current situation regarding mercenary organizations, you will not be able to find employment with us.
-1163	As you know, not long ago there were three mercenary factions: the <clr>Atlant private security firm<clrEnd>, the <clr>"Red Axes" squad<clrEnd> and the <clr>Faeyangelion Corporation<clrEnd>.
+1163	As you know, not long ago there were three mercenary factions: the <clr>Atlant private security firm<clrEnd>, the <clr>"Red Hatchets" squad<clrEnd> and the <clr>Faeyangelion Corporation<clrEnd>.
 1164	These organizations didn't come out of nowhere. Each has its own history, an internal code, and certain requirements for newcomers. However, that is now completely irrelevant, since all three were <color=20,150,20>destroyed</color>, and the Freelancers' Guild came to replace them.
 1165	Alas, the situation at the moment is such that the Guild is very particular about candidates, and for its own reasons, which are not disclosed to us, is categorically against former - and especially current - members of the Ranger Corps.
 1166	The Free Port base thanks you for your cooperation and wishes you success in the field of mercenary services!
@@ -107,7 +107,7 @@
 1242	Rumor has reached us that your organization's HQ was destroyed. For a certain fee we could help you with its restoration.
 1243	According to clause <color=0,50,200>5</color> of paragraph <color=0,50,200>37</color> of the <color=0,50,200>"On the Security of the Coalition"</color> law, forming any military organizations is prohibited except those directly or indirectly subordinate to the Coalition military command.
 1244	These are elementary things, <Player>, you should know that! I have no right to issue you such a permit... unless you find a reason for which I could break the law.
-1245	Oh... I seem to be starting to recall some amendments to the law. It seems it said that in wartime... something about exceptions... ugh, I don't remember the rest... if only you transferred <Cost> cr. to our military base's account, a few bottles of good boozequila would surely help me remember what was written there.
+1245	Oh... I seem to be starting to recall some amendments to the law. It seems it said that in wartime... something about exceptions... ugh, I don't remember the rest... if only you transferred <Cost> cr. to our military base's account, a few bottles of good tokilla would surely help me remember what was written there.
 1246	Alas, I can't afford that
 1247	I could donate a large sum to fight the enemies of the Coalition...
 1248	Yes! I remember! It says that "in wartime it is permitted to issue permits for placing military formations that do not pose a direct threat to the security of the Coalition". How could I have forgotten that?!

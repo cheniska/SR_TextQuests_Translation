@@ -75,7 +75,7 @@
 1090	What happened, <Player>, is it hard going on the loose?
 1091	I understand. All of us want some stability and confidence in tomorrow. You're right, besides the services mentioned earlier, our center provides employment services and, in some cases, acts as an intermediary between organizations and potential recruits.
 1092	However, I hasten to disappoint you - based on the data I have on your candidacy, none of the existing factions will want to hire you.
-1093	As you know, three mercenary factions currently exist: the <clr>Atlant private security firm<clrEnd>, the <clr>"Red Axes" squad<clrEnd> and the <clr>Faeyangelion Corporation<clrEnd>.
+1093	As you know, three mercenary factions currently exist: the <clr>Atlant private security firm<clrEnd>, the <clr>"Red Hatchets" squad<clrEnd> and the <clr>Faeyangelion Corporation<clrEnd>.
 1094	These organizations didn't come out of nowhere. Each has its own history, an internal code, and certain requirements for newcomers.
 1095	I could tell you about each of them in more detail, but it would be better if you simply trust me and don't waste our mutual priceless time.
 1096	Ah, so you haven't dropped this foolish idea yet? You see, the thing is - in this matter, strangely enough, money is far from everything. Trust matters too. We know almost nothing about you to stake our reputation so blindly. Now, if one of the old proven warriors put in a word for you - that would be a different conversation. Come back when you find yourself a reliable patron, and we'll discuss this question in more detail.

@@ -1933,3 +1933,32 @@ ekup; Brigee Bardozze (ксенопарк); crossbow (ручной самост�
 | пенегские гумысы, шлячисы, пачониумы | peneg gumyses, shlyachises, pachoniums (не пеленги) | Xenolog |
 | остров имени Короля Клисан (шутка: у клисан не было короля) | the island named after the King of the Klissans | Tourists |
 | Имена авторов в титрах | не переводим: латиница как есть, кириллица — транслит в авторском порядке (Russkikh Denis) | все квесты |
+
+## Сверка с Lang_Eng_Vanilla (ванилла HD) — 2026-10-11 (для ShuMercsHQ; файл: `Translation/lore/source/SRHD_Lang_Eng_Vanilla.txt`)
+Приоритет ванилла > DevTranslated > наше. Выравнивание RU↔EN по ключам: ланг `SRHD_rus.txt` ↔ `SRHD_Lang_Eng_Vanilla.txt` (22398 пар).
+| RU | EN (ванилла) | Примечание |
+|---|---|---|
+| Рачехан | Rachehan | ≠ Rachekhan (ранее у нас) → берём ваниллу |
+| Рамгатру | Ramgatrue | |
+| Эльтан | Elthane | |
+| Эйпентак | Eipentak | |
+| Рахиш | Rakhish | |
+| Ака Сециянка | Aka Sezyanka | |
+| втыкилла | tokilla | |
+| Красные топоры | Red Hatchets | ≠ Red Axes |
+| Хеши (группа) | Hash Girls | |
+| Гаалистра времени | Gaalian Alacrity | стимулятор |
+| Майко Джекексо | Miko Jackekso | |
+| акрин, акриновый | acryn, acrynic | ≠ akrin; Акринатор = Acrynator |
+| Орден Сааба | Order of Saab | |
+| Калкитовый наконечник | Calcite Spearhead | |
+| Греф (имя в игре) | Graefe | |
+| Ицзибит | Itzibit | |
+| Бертор | Bertor | корабль доминаторов |
+| Транклюкатор | Tranclucator | |
+| ранги: Новичок / Кадет / Пилот / Капитан / Истребитель / Ас / Командор / Адмирал | Rookie / Cadet / Pilot / Captain / Fighter / Ace / Commander / Admiral | NameBig: Green Rookie, Young Cadet, Experienced Pilot, Captain, Combat Fighter, First-Class Pilot, Supreme Commander, Incredible Admiral |
+| пиратские ранги: Салага / Юнга / Рейдер / Шкипер / Головорез / Атаман / Хан / Барон | Noob / Ship Boy / Raider / Skipper / Cutthroat / Capo / Khan / Baron | NameBig: Clueless Noob, Sprightly Ship Boy, Clever Raider, Seasoned Skipper, Militant Cutthroat, Chief Capo, Made Khan, High Baron |
+| задание / заказчик | mission / customer | в UI ванилла; «система X» → «X system» |
+| генератор поля | shield generator | |
+| фарюки на уши вешать (искажение «лапшу на уши вешать») | feed me your rotten faryuks | решение: идиома с едой («feed someone a line») |
+| Просвистелкин / Грунт | Prosvistelkin / Grunt | решение пользователя 2026-10-11 (ShuMercsHQ) |

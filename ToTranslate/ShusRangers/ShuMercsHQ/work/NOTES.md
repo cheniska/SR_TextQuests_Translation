@@ -28,3 +28,6 @@
 - Бумбыр Баргабырвсрат → Bumbyr Bargabyrvsrat + адаптированная путаница (Bumpkin / Bourbon).
 - Ака Сециянка → Aka Sezyanka (глоссарий/ванилла). Остальное по глоссарию и английскому лангу оригинальной игры.
 - Пародии на реальные имена/бренды (StarBank, Gref, Nagibulina, Taram-Pam, Zooglota Puumberg, Jam-2019) — сохраняем звучание.
+
+## 2026-10-11 (после ответа пользователя)
+Решения: Prosvistelkin, Grunt, Vdubas, CHO (Coalition Health Organization), имена — транслит. «Фарюки на уши вешать» → «Don't feed me your rotten faryuks!» (идиома с едой). Применена сверка с ванилла: см. раздел в GLOSSARY.md. Ранги, Rachehan, Ramgatrue, Elthane, tokilla, Red Hatchets, Hash Girls, Gaalian Alacrity, Miko Jackekso, Calcite Spearheads, Order of Saab, acryn, Itzibit, Graefe; UI-строки (mission/customer, Shield generator и др.) взяты из ванилла дословно.
