@@ -1,0 +1,78 @@
+1	We are blowing up our ship so as not to infect others. Please hold Ranger <Ranger>, who refused to help us, responsible for our deaths!
+2	Ranger <Ranger> promised to bring us medicine but never came back. We cannot wait any longer - we are blowing up our ship so as not to infect others.
+3	We are blowing up our ship so as not to infect others. We fought long and hard, so I ask you to consider each of our passengers a hero!
+4	You need to buy medicine on the planet <Plan2> in the <Star2> system, then deliver it to the ship <Ship> in the <Star1> system by <Date>.
+5	Yes! An artifact like the Bioworld would help us! They say it can heal even diseases unknown to science!
+6	Maybe there's another way to help you?
+7	I have a Bioworld. Take it.
+8	Thank you! I can already feel the disease leaving me! I'll gather everyone on the common deck now, and we'll cure them all! And you, <Ranger>, I've sent a small sum of credits to your account for agreeing to help the dying free of charge.
+9	Get away from here, we're about to blow up!
+10	I have medicine, only not from that planet. Will it do for you?
+11	Thank you, perhaps there is still hope for us if a humanitarian like you comes to our aid. A terrible epidemic has broken out aboard, and nobody knows what this disease is... The crew and all passengers are infected, several humanoids have already died! This disease is unknown to our science, and our home planet <Plan1> has refused us landing. We would have been doomed, but luckily one of the passengers turned out to be a gaalian doctor. He said that the symptoms of this disease are familiar to him, and that a cure for it exists on one of the gaalian planets.
+12	At last! Several more passengers have died, and the co-pilot. It seems we have no time left at all! Did you bring medicine from the planet <Plan2>?
+13	Yes, what's the matter?
+14	All right, I'll do what I can.
+15	We appeal to you for help!
+16	It's the planet <Plan2> in the <Star2> system. Unfortunately, our fuel is running out, so we can't make the jump to <Star2>, and the local authorities refuse us landing. If no one helps us, we'll perish! <Ranger>, fly there and bring us the medicine. The liner is not designed for a large number of passengers, so we won't need much medicine. All the passengers' gratitude is yours. Just hurry, we can hold out no more than <Days> days!
+17	Ask someone else, I have plenty of my own business.
+18	Sorry, but I can't help.
+19	What a pity, it seems we are fated to die in this damned space...
+20	I see. You simply didn't want to help the dying. Ah, there's no hope left, all that remains is to activate the self-destruct mechanism. Give our regards to our families...
+21	We are doomed...
+22	What an extraordinary medicine! The disease seems to have receded. Now the authorities of the planet <Plan1> will give us permission to land! <Ranger>, the passengers of our modest liner decided to give you a gift of <Money> cr. The money has already been transferred to your account! Our enormous thanks! Space needs more heroes like you.
+23	Yes, of course. Here you go!
+24	No, this medicine turned out to be useless. Where did you buy it? An epidemic of a rather rare disease is raging aboard, so we needed special medicine produced only on the planet <Plan2>! Ah, there's no hope left, all that remains is to activate the self-destruct mechanism. Give our regards to our families...
+25	Citizens of the Galaxy, remember this name - <Ranger>! He is a disgrace to the Ranger corps, for he refused help to the destitute! Because of him we are forced to risk our freedom! And he could have saved us all!..
+26	Citizens of the Galaxy! Remember this face - Ranger <Ranger>! He let us down, failed to carry out the simplest errand. With this he has deprived us of freedom! Now we are forced to do as our ancestors did - perish with honor. The passengers will leave the ship in escape pods, and I and my entire crew will plunge into the depths of a star! Geronimo!!!
+27	Buy a special delicacy (food, <Amount> units) on the planet <Plan2> in the <Star2> system and deliver it to the ship <Ship> in the <Star1> system by <Date>.
+28	We ask all free pilots for help! I repeat - we need help!
+29	There is one option. Our cook says he is slightly familiar with the recipe for this dish, but he lacks unique insects from one of the planets on the Galaxy's edge. You definitely won't make it there in time, so that's not a way out, but these insects are very much like colonies of iron zoopies. You Rangers love collecting ancient artifacts, and if you find one, we can handle the problem ourselves.
+30	Is there another way to help?
+31	I have iron zoopies. Here.
+32	Oh Space, what a stench! There isn't a place on the whole ship where you can do without a respirator!.. Excellent, just what we need! This is exactly the "aroma" that hung in that restaurant from which I personally, in a full chem-protection suit, picked up this delicacy! If the cook doesn't mess up, we'll even come out ahead, since we'll be able to prepare a triple batch! On this occasion, accept a modest reward of ringing digital credits to your account! Good luck in your business, <Ranger>, you've bailed us out like hell!
+33	Ranger, trouble! A high-ranking passenger has gobbled up the entire special cargo meant for the president of the planet <Plan1>! If we land there without this product, we'll immediately land again, this time for a hundred years! Our ship is slow, we won't have time to buy another batch!
+34	What's the matter?
+35	All right, I'll help.
+36	Ranger, how good that you were flying by! We need help!
+37	Thank you! This special product is available on the planet <Plan2> in the <Star2> system. If you manage to buy some and bring it to us, we will be incredibly grateful to you! Please hurry, we can't pretend to be repairing the ship for long.
+38	Sorry, I'm busy.
+39	No, count me out.
+40	Aaah, damn! Well, let's hope someone else will save our hides...
+41	What? Why?.. Why are you wasting our precious time? And giving us hope with your questions?! Oh, demons of Space, damn you, <Ranger>!
+42	Excellent! This is exactly it, thank you, <Ranger>! Now we won't have to learn to train cockroaches or whatever prisoners do! We have already filed a claim about the lost cargo, and they paid us compensation. I sent all of it to your account.
+43	I brought it, take it.
+44	Well, how is it? Did you bring that very delicacy? They're ready to lower us to the planet on a tow truck, I'm running out of imagination for how else to explain our presence in orbit!
+45	Ranger, are you an idiot? What the hell did you bring us! It doesn't even look like the exquisite delicacy we asked for! Damn it, I don't want to go to prison, I don't want to dig tunnels with plastic spoons, I don't want to spend all my time in the weight room, I don't want... Farewell, <Ranger>!
+46	No matter where you go, you keep coming back to the same place. This damned ship... can't get used to it... The flight mechanic vanished, gone for good. Strange. Maybe he found a stash and is eating it?..<br>Sixth day, the water's all gone... And the radio operator went nuts: shot two people and put a plasma bolt in his own forehead... I'm alone now. Alone inside this damned ship... And what possessed me to cut contact with HQ while drunk! They could have picked us up, right? Leave, girls, booze - and there would be no starvation... Actually, I wonder how it would have turned out!.. But to hell with it. The Coalition pilot has been dead for a long time... And the free pilot is about to leave, soon... for the upper tundra, damn it... to the game-rich places... such is justice.
+47	Buy army provisions (food, <Amount> units) on the planet <Plan2> in the <Star2> system and deliver them to the ship <Ship> in the <Star1> system by <Date>.
+48	*Kh-h-h*... find a way out... *Kh-k* We ask for help... *h-h-sh-sh* Supplies almost... *hk*
+49	*Kh-h*... There are options, yes! A new radar, any at all, and we could contact HQ. Or else a fuel tank, or a canister at a pinch, then we could return to base. We'll catch hell, of course, in any case, they might even put us in the guardhouse, but that's better than croaking while seeing not a beauty in a bikini in front of us but a grilled schnitzel!..
+50	Here, this will help you.
+51	*Kh-h*... Thanks, friend! We'll manage from here, you can fly on, you've bailed us out! The guys and I here were saving up for demob, but a true soldier values friendship above all, and you're now a true brother-in-arms to us! So everything we have, we're giving to you. Drink to our luck at the interrogation with the security officer!
+52	*Sh-sh-sh*... The provisions were spoiled, Ranger. Sabotage, damn it, I swear! My crew and I could have landed on the planet <Plan1>, but they won't let our ship in! They say they have an interception plan, an alert - human military ships, can you imagine? On all planets, same thing! And the documents saying my vessel is attached to their system are lost! They don't want to contact the unit, too expensive, you see, damn bureaucrats, and our own comms are down... Everything one after another, damn it! If only someone would bring us some grub...
+53	All right, I'll bail you out.
+54	*Kh-h-sh*... Hello, Ranger! Help, we've got nothing to eat, my guts are already twisting!
+55	*Kh-h*... Excellent! Thanks in advance! There's just one problem... We get inspected upon return, and our blood composition must match exactly the composition of the rations we were issued. Otherwise they'll first shoot us, saying we landed on planets AWOL, and only then sort out the reasons. Our flight mechanic did a big analysis over the galanet and found that in the <Star2> system they are now selling off a large stock of exactly the set of foods used in our army provisions. That's on the planet <Plan2>, specifically. I'd fly there myself, and never mind the paperwork about engine overuse, but we only had fuel to this very system. We were supposed to refuel here before returning, eh... Bring a batch, it'll last us till the end of our term, and maybe they'll even find the documents about us. The whole crew asks, friend!
+56	*Kh-h*... It's nothing, nothing... Not the first time, we'll get by...
+57	*Kh-h*... I understand, friend... Well, farewell then.
+58	*Kh-h*... Just what we needed... Lord, how tashty! Looksh like ordinary shwill, but after hunger it'sh a real delishacy! *gulp* Thank you, <Ranger>, thish will be enough for ush! We've collected a little money, we shaved up for demob, but to hell with it! Life ish dearer! Bye, good luck, friend!
+59	I brought it, take it.
+60	*Kh-sh-sh*... Is that a Ranger in front of me or a piece of fresh roast meat?.. A Ranger after all. How about the provisions? Did you bring them?..
+61	*Kh-h*... That's not it, that's all wrong! They don't feed us black caviar and lobsters, it's obvious! You've screwed up, Ranger! Though what could one expect from a civilian?.. We're done for...
+62	Breaking news! Just now one of the human military pilots guarding our system committed a most heinous crime - he tried to buy an alcoholic drink! I remind you that this offense is equated with treason against the galactic Commonwealth. The pilot attempted to resist by raising his hands too high, which also offends the feelings of our ruler, and was destroyed on the spot. Civilians were not harmed; this time we got by without the use of nuclear rifles. You were watching the channel "Ram-TV", thank you for your attention!
+63	Breaking news! The sudden death of a pilot of one of the military ships in our system has been recorded! For the reason, quote, "I don't want to croak before retirement from brain worms," voiced by the head of the defense staff, an operation to neutralize the ship by its complete destruction is beginning immediately. What troubled times we live in, comrades! You were watching the channel "Three-on-Three", thank you for your attention, and let us wish luck to our brave defenders!
+64	Buy alcohol (<Amount> units) on the planet <Plan2> in the <Star2> system and deliver it to the ship <Ship> in the <Star1> system by <Date>.
+65	Hey! Could somebody, anybody, help the guys out!
+66	What other options are there? I've had a hundred medical checkups, the diagnoses haven't changed even in detail. Although?.. I heard there's a rare artifact, the "Bioworld". A most powerful immunomodulator, they say it can pull you back from the other world if applied correctly. With it I definitely won't kick the bucket even from a technician! And as for alcohol, I'll ask my best friend to bring it. He's definitely got some, he's been going around angry for half a year, which means he's sober, ha! You can bring him over, but I'm not sure I can thank you properly.
+67	I have a Bioworld. Here.
+68	So, excellent, I've got the artifact. How do you even use it?.. Okay, looks like I've installed it, let's try. I drained a little fuel fluid, literally a third of a shot glass, the guys say it hits hard, but it's one of the things I'm allergic to. I can't refuel the ship myself without a full protective suit. Well, friend, here's to us? Whoa!.. Went down well! And the skin doesn't seem to be peeling off the bones. Wha-at a de-e-elight!.. Thenks, frend! You, uh!.. Come ovr, if anyshing. And I'm like... Shleepin just a bit, hic! Gotta get redy for the party! Jusht a shec, I'll trowsh you... Ah, whatever, here's an electronic check, fill it in yourself!
+69	Well, you see, here's the thing... It's my birthday and I have nothing to drink, we have prohibition here! I've already called the guys, looked in my stash - empty! So that's why, I thought, a week ago a klissan was chasing around the ship... Got carried away. Anyway, a simple request - bring a bottle or two? I can't just leave my post, and "not just like that" even more so, I have to report for every sneeze. I can't refuse the guys either, three of them owe me a hefty sum, heh! Will you help, friend? I fly around here guarding your hides, after all!
+70	Fine, I'll bring it.
+71	Hi, friend! How great that you responded! Bail me out, will you?
+72	Great, friend! Hey, where are you rushing off to?! I haven't told you where to fly and what to get! You see, I have a rare intolerance to a certain concentration of alcohol, plus about ten allergies, and I spent several years looking for a drink that would hit the head but miss the organs. This nectar of the gods is sold on the planet <Plan2> in the <Star2> system, bring a batch from there, and I won't forget to thank you.
+73	What a bind! We're guarding your hides here, and you're "busy", if you please! Fine, scram, don't twist the knife. I feel sick enough as it is...
+74	Eh, all right... I understand, it's not nearby at all, and you'd have to come back too. Never mind, friend, safe travels! I'll try at least to buy something for the guys.
+75	Oh, you beauty! "Baltic-9", exactly what's needed! I've already started scrubbing the ship for the guys' arrival. Only sorry, friend, the lads invited more lads, and they invited more... In the end it'll be cramped even for us, I'm not cruising a battleship, alas. I won't be able to invite you. But I can thank you with money, give me your terminal number!
+76	Here, birthday boy!
+77	Friend, what do you want? Time's ticking, the party's starting soon. Or do you want me to invite you too?
+78	What did you bring me? This isn't "Baltic", it's "Serious Fishing"! You say it's the same thing? All right, I'll try this beast. Thanks anyway, friend, take care! I hope we cross paths again on the galactic highway.

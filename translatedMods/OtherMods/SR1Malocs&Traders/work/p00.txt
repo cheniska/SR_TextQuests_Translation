@@ -1,0 +1,25 @@
+1	We don't do any business with peddlers. Watch yourself, don't cross our path again.
+2	You deserve death, get ready to meet it.
+3	<PlayerFull>, you filthy peddler. We need neither your junk nor your dirty money. Your kind is a disgrace to the galaxy, and any maloq would consider it an honor to spit in your face. We will go further and simply cleanse space of you. Guns, fire!
+4	You're a speculator, you made your fortune through the dirty exchange of goods. Because of people like you, the morals of our youth are corrupted. We represent a party for cleansing the galaxy of your kind. And we'll get to it right now.
+5	Ha, what can you offer, filthy peddler? We don't need your dirty money.
+6	Farewell, dirty trade has been your ruin. There will soon be one less peddler.
+7	We are honest pirates, and our principles are unchanging. We don't accept any money from peddlers. You deserve death. Get ready to meet it.
+8	Hm... do you swear you'll stop your speculation and take up a worthy occupation - war?
+9	Well, perhaps we'll accept your repentance. But as a pledge you must pay <0> cr, and then we'll stop the attack.
+10	Look at him, he keeps haggling even in the face of death! Seems to me it's time to teach you a lesson.
+11	Well, you were given a chance and you missed it. Farewell, peddler.
+12	That's solely your problem. Without a pledge we won't accept your repentance.
+13	Very well, <PlayerFull>, your repentance is accepted. The pledge stays with us as a contribution. But mind you, if we find out you keep profiting from trade, we will find you.
+14	Wait, wait! What have I done to you?
+15	Can't we settle our differences in a more civilized way?
+16	Well, you've made trouble for yourselves. I won't leave so much as a memory of you.
+17	At least name your price. I'm ready to pay for free passage.
+18	I'll reform! I'll never trade again! I promise!
+19	YES, YES, YES!!!
+20	No, this is too much! Name your price, I'll pay. Everybody knows the value of money, and you're no exception.
+21	I've had enough of this! You'll pay for such insolence!
+22	I'm transferring the sum. I hope that will be enough, dear sir.
+23	Unfortunately, I don't have such a sum at the moment.
+24	That seems like too much. Maybe we can settle on a smaller sum?
+25	Frankly, you guys have worn me out. I'll rid the galaxy of you myself.

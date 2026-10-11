@@ -1,0 +1,65 @@
+1	puzzle
+2	Boat
+3	espionage
+4	Neoflora
+5	assault
+6	"lab rat" simulator
+7	Dreadful Death
+8	taking entrance exams
+9	Exam
+10	Fishing
+11	espionage, gambling
+12	Iike-Baana
+13	Murder
+14	weapon testing
+15	Penetrator
+16	penchecrakus-breeding simulator
+17	Breed
+18	vintage car racing
+19	Race
+20	espionage, planting bugs
+21	Spy
+22	Tomb
+23	Gladiator
+24	sports manager
+25	Hatchball
+26	wild gobsaurus-taming simulator
+27	Gobsaurus
+28	trading
+29	Menzols
+30	fortress defense
+31	gambling
+32	Casino
+33	Bondiana
+34	Construction
+35	safe-cracking simulator
+36	An expedition of scientists on an uninhabited planet, made up of archaeologists and ethnographers, has run, as usual, into an unsolvable problem. You have come to help them.
+37	Your next mission is to find a container with neoflora - a plant bred by faeyan scientists. During the assignment you will be accompanied by a faeyan agent named Aylaunlat.
+38	As a commando, you are to destroy a plant producing the most powerful explosive, fibrogen, used by terrorists for their own ends.
+39	You are to play the role of a test subject in a certain experiment, which is claimed to be safe. Well, 250,000 cr is too large a sum to turn down!
+40	Take exams for some gaalian prince? Well, a Ranger is no stranger to anything. Cheat sheets in your pockets - and off you go!
+41	According to the instructions of the Humanitarian Medical Bureau, you must obtain samples of lepraz fish - mertinium - and, packing them in a cryocontainer, deliver them to the client.
+42	As you were told, you have a rather delicate and dangerous assignment ahead. It's time to track down Supreme Supervisor Kuakish to be briefed on the matter.
+43	The planet <FromPlanet> has hired you to represent it with honor at the Galactic Iike-Baana Championship. It is hardly going to be harder than maneuvering between asteroids.
+44	In your youth you devoured detective stories and dreamed of becoming a famous sleuth. Now you have an excellent chance to test your skills in action by solving the high-profile murder of a journalist!
+45	All you know is that you've arrived here to test recently developed maloq weaponry... You wonder whether there's some catch behind it?
+46	Well, well! A space Ranger will have to change professions for a while and take up raising the perfect penchecrakus. The reward for success will not be long in coming.
+47	Never yet has a faeyan beaten a member of another race in a ground race, but soon you will surely write your name into the history of speed competitions, bringing glory to your race!
+48	Disguised as a tourist, you are to infiltrate the presidential palace and plant 36 bugs there.
+49	Archaeologists have asked you to help them solve a riddle of the past. Runes, parables, age-old dust - surely none of it can stand in your way?
+50	Have you ever been the mentor of a gladiator warrior? Today you have a unique chance to show the crowd a real show!
+51	This time you are to act as coach of the human hatchball team. Will your team become champion despite the bookmakers' predictions?
+52	Repairing a psi power plant is no easy task! But there is no room for error - the fate of an entire planet is at stake.
+53	You need to find two members of a missing expedition. Or at least their disk with the expedition records.
+54	What is some Galactic Trade Exchange?! Buying out the idol of the menzols - natives who adore trading - is truly no easy task!
+55	You are the new commander of the maloq citadel Hardor. It's time to put your outstanding leadership qualities to use!
+56	You need to beat a certain Glydl at a new game - klugg. Gambling - what could be dearer to a Ranger than their own ship and constant adventures?
+57	You were promised a "somewhat delicate" assignment. You wonder what you are in for?
+58	You are to build a maloq outpost. Fortunately, you won't have to fiddle with the auto-shovel yourself: you will direct the process itself.
+59	This time your burglar skills are needed by the president of the planet <FromPlanet> for an operation to steal the famous Sofita diamond.
+60	You volunteered to help gaalian agents on the planet <ToPlanet> deal with a large pirate network of pelengs. The assignment promises to be interesting.
+61	Document
+62	A document for the crown prince on admission to a university.
+63	Cup
+64	The gladiator tournament winner's cup.
+65	A cage with the perfect penchecrakus.

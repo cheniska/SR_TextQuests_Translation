@@ -1,2 +1,23 @@
 1	Sleuth
 19	That's better
+2	Well, hold on tight..
+3	This is science base "<0>", we have been watching your actions and thank you for neutralizing the peleng agent Sleuth, who was conducting espionage in our system. We did not dare to eliminate him ourselves, fearing he would detonate the probe's explosive mechanism, which threatens the safety of our system and base.
+4	The controlled reconnaissance probe you picked up is packed with powerful explosives. At the slightest danger, the agent was supposed to blow up the probe. Strange that he did not - he probably underestimated the threat from you.
+5	Without Sleuth, the probe's explosive mechanism will soon go off. You should take the probe far away from the base and make sure it isn't harmed by the explosion. We will be very grateful for such cooperation.
+6	Congratulations! For eliminating an enemy spy and safely neutralizing the reconnaissance probe, the faeyan government awards you <0> cr.
+7	He put us in danger! A bad man...
+8	Of course, I don't need extra trouble.
+9	No way! Finders keepers.
+10	Fine, take your belongings.
+11	I won't give it back, leave me alone.
+12	You should take the probe far away from the base and make sure it isn't harmed by the explosion. We will be very grateful for such cooperation.
+13	An explosive mechanism? What are you talking about? The probe looks quite harmless to me.
+14	And what am I supposed to do with this probe now?
+15	Who's there? Ah, it's you, <Player>! Never mind, we'll deal with you now too!
+16	Ranger, don't interfere with us, we are on an important government assignment.
+17	This is a representative of the peleng government, superliner "<0>". Immediately return the probe you just picked up, or we will be forced to use force.
+18	You don't understand what you're getting into. For your own good, put the probe back, or you'll regret it badly.
+20	You don't understand what you're getting into! Throw the probe away before you get hurt!
+21	You are encroaching on the property of the peleng government, which does not tolerate such treatment. If you don't stop your attempts, you will be destroyed on the spot.
+22	You seem to be thinking very poorly. Throw the probe away. And if you pick it up again, I'll open fire.
+23	I'm on a special assignment and not interested in dialogue. And don't you dare touch my probe!

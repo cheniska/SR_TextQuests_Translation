@@ -1,0 +1,38 @@
+1	Meon Plasma Thrower
+2	An antimatter explosion forms an energy field that deals <MinDamage>-<MaxDamage><Bonus> units of damage to the target and the objects around it. Range up to <Radius>. It also ionizes and corrodes the armor, and heavily damages equipment, especially the droid.
+3	Spews superheated plasma into a small area around the ship within a radius of <Radius>, dealing severe damage of <MinDamage>-<MaxDamage><Bonus> units to all targets caught in the blast, and also substantially overheating the targets' engines.
+4	Blocker
+5	A level three micromodule. It changes the swirl angle of the <clr>Meon Plasma Thrower<clrEnd>'s plasma, which makes it possible to "blanket" targets with the scorching substance instead of cutting through them, creating an effect that suppresses the target's external activity without loss of damage.
+6	Additional effect: <clr>damages the engine, blocks weapons and the droid<clrEnd>
+7	Improver
+8	A level three micromodule. It is a block for installing minor upgrades on the <clr>Meon Plasma Thrower<clrEnd>. On the whole it slightly improves the weapon's performance at slight cost - in the plasma thrower's <clr>maintenance cost<clrEnd>
+9	Finist
+10	A level three micromodule. It installs a primitive AI that aims the <clr>Meon Plasma Thrower<clrEnd> at already existing damage, which makes it possible to achieve greater total damage.
+11	Concentrator
+12	A level two micromodule. It is an upgrade for the <clr>Meon Plasma Thrower<clrEnd>. It additionally concentrates the plasma, which significantly increases the shot's <clr>power<clrEnd>, but seriously <clr>reduces the service life<clrEnd> of the weapon.
+13	A level two micromodule. It fits the <clr>Meon Plasma Thrower<clrEnd> with a set of assorted safeguards and stabilizers, which reduce the weapon's <clr>wear<clrEnd> at the cost of lowering its maximum combat performance. Keep in mind that the safeguards themselves <clr>weigh<clrEnd> quite a lot, while the weapon becomes <clr>easier and cheaper<clrEnd> to repair - the chance of critical damage is reduced thanks to blockers that absorb part of the damage.
+14	"Kollada"
+15	<color=248,252,248>The</color> <clr>"Kollada"<clrEnd> <color=248,252,248>modification, through particularly sophisticated manipulation of space distortion, creates a swirl in the plasma flow so that one wave of plasma becomes</color> <clr>two<clrEnd><color=248,252,248>.</color><br> <br>
+16	<clr>Fires once more in a single turn<clrEnd>
+17	Firing range: <clr>+10<clrEnd> million km
+18	Fragmentation weapon power: <clr>-25<clrEnd> units
+19	"Korraptor"
+20	<color=248,252,248>This weapon is adapted for special compressed rounds that penetrate the enemy's</color> <clr>armor<clrEnd> <color=248,252,248>much better. However, installing it significantly increases the</color> <clr>ship's mass<clrEnd><color=248,252,248>.</color><br> <br>
+21	Firing range: <clr>+25<clrEnd> million km
+22	Ship mass: <clr>+4%<clrEnd>
+23	Fragmentation weapon damage: <clr>+6<clrEnd> units
+24	"Electro"
+25	<color=248,252,248>The</color> <clr>"Electro"<clrEnd> <color=248,252,248>modification was developed thanks to an additional grant from CAFIC to one of the acrynic equipment development departments. As a result of the plasma's electrification, it began to deal additional damage of a different nature to the target. Alas, this had a negative effect on the amount of matter delivered to the target.</color><br> <br>
+26	Fragmentation weapon power: <clr>-3<clrEnd> units
+27	<color=248,252,248>Additional effects:</color> <clr>equipment destruction, EM interference and ionization<clrEnd>
+28	"Grinch"
+29	<color=248,252,248>The</color> <clr>"Grinch"<clrEnd> <color=248,252,248>modification is a homemade</color> <color=198,128,80>pirate</color> <color=248,252,248>refinement of the maloq plasma thrower. By attaching an additional tank of fragilium nanomix to it, the pirate tinkerers managed to boost its firepower at the expense of the range and reliability of an already not particularly durable weapon.</color><br> <br>
+30	Fragmentation weapon power: <clr>+30<clrEnd> units
+31	Firing range: <clr>-25<clrEnd> million km
+32	"Plasmaroll"
+33	<color=248,252,248>The</color> <clr>"Plasmaroll"<clrEnd> <color=248,252,248>modification was designed in</color> <color=50,150,230>human</color> <color=248,252,248>design bureaus (and then borrowed by the</color> <color=130,200,40>pelengs</color> <color=248,252,248>and</color> <color=198,128,80>pirates</color><color=248,252,248>) to improve the evenness of plasma distribution across the affected area. The designers succeeded, but maintaining stable pressure reduced the damaging effect even at the shortest ranges.</color><br> <br>
+34	Additional effect: <clr>no damage spread<clrEnd>
+35	<color=248,252,248>"Stylermain" is a</color> <color=198,128,80>pirate</color> <color=248,252,248>modification mounted on the body of the gun mount. During combat, it tries to transmit an emergency cargo-dump command to the enemy ship's central control system at the same time as firing. The chance of it working is relatively small, but it can give the pilot a tactical advantage in battle and a chance to profit from the loot. It is notable for its compactness.</color><br> <br>
+36	Additional effect: <clr>chance to dump cargo from the target's cargo bay<clrEnd>
+37	Gripper power: <clr>-5<clrEnd> t
+38	A level two micromodule. By redistributing the plasma flows of the <clr>Meon Plasma Thrower<clrEnd>, it increases the weapon's <clr>firing range<clrEnd>

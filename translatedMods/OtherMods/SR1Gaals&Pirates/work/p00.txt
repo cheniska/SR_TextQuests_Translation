@@ -1,0 +1,14 @@
+1	This is an official representative of the gaalian Rehabilitation Commission. Under the plan to cleanse the Galaxy of lawless elements, you are offered the chance to repent and receive rehabilitation.
+2	To those who commit lawlessness, we grant the right to sincere repentance. Upon paying the sum of <0> cr, you will receive legal status. After that you pledge not to commit any unlawful acts. If you refuse to repent, we will be forced to cleanse the Galaxy of you.
+3	I don't need rehabilitation. I do what I want!
+4	Information about your malicious deeds will be placed in the data bank. You are subject to unconditional elimination.
+5	No.
+6	I'm transferring the money.
+7	Do you pledge never to attempt on the lives and property of citizens, and to conduct your activities strictly within the law?
+8	Unfortunately, I don't have that sum.
+9	In that case, according to the Rehabilitation Commission's policy, we are forced to cleanse the Galaxy of you.
+10	Now you must pay <0> cr to cover administrative costs.
+11	You are rehabilitated. We hope you will now value your legal status. Farewell.
+12	You are given the chance to receive rehabilitation or be destroyed.
+13	I am acting according to the directives received from the Rehabilitation Commission. You are subject to cleansing as an unrepentant criminal.
+14	What rehabilitation?
