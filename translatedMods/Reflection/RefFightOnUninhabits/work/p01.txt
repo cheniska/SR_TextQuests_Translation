@@ -1,0 +1,96 @@
+1	The remains of a battlefield are always rich in trophies. You gathered everything left of the dominators and loaded it onto your ship
+2	Check the scanner reports
+3	Several lights are blinking on one of the information screens, notifying you of incoming scanner reports
+4	So, the ship's sensors, despite being on the planet's surface, continued and continue their combat watch.<br><br>And now, during a full surface scan cycle, they managed to detect a cluster of dominator modules.<br>Most likely the invaders decided to start developing this planet, including to exploit its resources. Which, by the way, is forbidden by the Galaxy Council...
+5	Computer, engage combat mode!
+6	This is no time for reconnaissance and battles
+7	The ship's sensors have detected something on the planet's surface. You should take a look. The report will be waiting for you on the ship's bridge.
+8	Let's begin!
+9	You lost!
+10	You won!
+11	Situation: A small, barren islet where the Blazeroids have settled.
+12	Terrain difficulty: Low
+13	Terrain size: Small
+14	Battle difficulty: Below Average
+15	Number of factories: Few
+16	Number of bases: None
+17	Number of robots: Average
+18	Small Wasteland
+19	No buildings or robots under your control remained. The dominator robots destroyed and took everything you had. Leave the battlefield!
+20	Your situation: Weak
+21	Enemy capabilities: Average
+22	Number of factories: 3
+23	Number of bases: 0
+24	Probable solution: The enemy has bombs; it is best to destroy them at a distance and first of all. Losing the repair robot or combat robots is considered a failure in 80% of cases. It may help to partially divert enemies from the objective with a robot in manual mode.
+25	There is not a single dominator robot left in the area of operations. Victory is yours!
+26	Situation: Barren cliffs and plains. The Kelleroids have built a base on the plains, and the Blazeroids have built defensive fortifications on the cliffs.
+27	Terrain difficulty: Below Average
+28	Terrain size: Medium
+29	Battle difficulty: Low
+30	Number of factories: Normal
+31	Number of bases: Few
+32	Number of robots: Many
+33	Showdown in the Thicket
+34	Your situation: Average
+35	Enemy capabilities: Above Average
+36	Number of factories: 7
+37	Number of bases: 2
+38	Probable solution: Do not touch the enemy robots from the start. Try to take the neutral factories while the dominators fight each other. When trying to retake factories, set up defensive turrets or retreat. Crushing the Blazeroid base should be left for last.
+39	Situation: A tiny swamp that the Terronoids are beginning to terraform. A small Terron is present in the swamp.
+40	Terrain size: Tiny
+41	Battle difficulty: Above Average
+42	Infected Swamp
+43	Your situation: Terrible
+44	Enemy capabilities: Strong
+45	Number of factories: 2
+46	Probable solution: Repel the enemy wave in manual mode or rely on the guns. The repair robot cannot leave the quagmire - any attempt to move gets it sucked in. Consider losing the repair robot, let alone a combat robot, a failure. The Terronoids constantly produce weak but annoying robots; when damaged, you should return to the repair robot. Your main goal is to destroy the fairly well-protected Terron.
+47	The Junior Terron has been destroyed. The Terronoids can no longer spread across the planet, mission accomplished!
+48	Situation: Ice peaks and plains with lava lakes among them. At the moment there are battles between a Kelleroid station and a Terronoid fortress.
+49	Battle difficulty: Average
+50	Number of bases: Below Average
+51	Snow Magma
+52	Your situation: Above Average
+53	Enemy capabilities: Good
+54	Number of factories: 5
+55	Number of bases: 3
+56	Probable solution: Capturing the nearest base provides a robot slot for sorties. The base's robots can be pulled back once the base of one dominator series falls. The Terronoids should be taken last, but it is not critical.
+57	Situation: Brownish tall cliffs with ridges. The Blazeroids are trying to build something on them.
+58	Terrain difficulty: High
+59	Terrain size: Large
+60	Number of factories: Many
+61	Gloomy Cliffs
+62	Your situation: Poor
+63	Number of factories: 10
+64	Number of bases: 1
+65	Probable solution: Take the neutral base as quickly as possible, and, most importantly, do it before the Blazeroids. Manual mode skills are welcome. The terrain is too steep, so we recommend using antigravs or an ekranoplan.
+66	Situation: Small islets of purple sand. A recently landed group of Kelleroids is developing them.
+67	Purple Sands
+68	Number of factories: 1
+69	Probable solution: Losing robots/guns can be critical. The terrain is unsuitable for rebuilding turrets at the base. Every combat unit is precious here. There is a support robot in the south. Do not let the Kelleroids retake their base!
+70	Situation: An obsidian valley holds an old fort surrounded by lava, as well as bases of Blazeroid and Terronoid robots.
+71	Number of bases: Normal
+72	Obsidian Valley
+73	Your situation: Good
+74	Enemy capabilities: Weak
+75	Probable solution: Fend off the first Blazeroid attack and build a couple of combat robots/repair robots. Destroy turrets during moments when the robots are idle. At a certain point, take one of the enemy bases.
+76	Situation: A wasteland covered in eternal radiation is built up with Terronoid bunkers, which are fighting a “Kelleroid spider” that has crawled out of a pit.
+77	Number of robots: None
+78	Radioactive Wastelands
+79	Probable solution: Build a good capture group/take some of the Terronoid factories in manual mode. It is probably worth building a defense group against two series of dominators. At a certain point, start weakening the defenses of the Kelleroid base and try to storm the second bunker where the Terronoids are holed up.
+80	Situation: Mountain coniferous forests where Blazeroid and Kelleroid robots have begun to spread. There are unfinished forts.
+81	Terrain difficulty: Average
+82	Number of bases: Many
+83	Coniferous Forest
+84	Number of factories: 6
+85	Number of bases: 4
+86	Probable solution: Take the Kelleroid base in the north. Do not let the Blazeroids take the Kelleroid base in the south. At the right moment, storm the Kelleroid base and later the Blazeroid base. Defend against the Blazeroid robots until capture is possible.
+87	Situation: A small greening island with a volcano in the middle. The dominators actively use its energy for their needs.
+88	Battle difficulty: Easy
+89	Small Island
+90	Enemy capabilities: Poor
+91	Number of factories: 4
+92	Probable solution: Break the resistance of the factory in the north by joining forces, and repel the Blazeroid attack. After that, with converging strikes along both shores, work your way to the vent and launch the assault.
+93	Situation: A mining complex in a small depression that the Blazeroids are trying to seize
+94	Number of robots: Few
+95	Stone Arena
+96	Probable solution: try to prevent the Blazeroids from capturing all the bases in the valley by any means, take the last neutral base and crush the enemy.

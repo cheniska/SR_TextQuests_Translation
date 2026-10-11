@@ -8,6 +8,7 @@ import re,sys,os,glob,collections
 R=os.path.dirname(os.path.abspath(__file__))+'/../..'
 T=R+'/translatedMods'; SRC=R+'/ToTranslate'
 cyr=re.compile('[А-Яа-яЁё]')
+PATHRE=re.compile(r'^Mods\\|\.(cmap|map|qmm|jpg|png|wav|ogg|dat|bmp)$',re.I)
 tok=re.compile(r'<[^<>]*>|\{[^{}]*\}|\[p\d+\]|@[A-Za-z]|%[sd]|\\"')
 SEP='\r\n'
 def readu16(f):
@@ -65,7 +66,7 @@ def tm_build():
 def wd(g): return T+'/'+g+'/work'
 def init(g):
     L=readu16(SRC+'/'+g+'/CFG/Rus/Lang.txt'); w=wd(g); os.makedirs(w,exist_ok=True)
-    it=[x for x in items(L) if cyr.search(x[2])]
+    it=[x for x in items(L) if cyr.search(x[2]) and not PATHRE.search(x[2])]
     tm={}
     if os.path.exists(T+'/tools/tm.tsv'):
         for l in open(T+'/tools/tm.tsv',encoding='utf-8').read().split('\n'):
@@ -116,12 +117,12 @@ def build(g):
     for i,l in enumerate(L):
         if '=' in l and not re.match(r'^\s*\S+ [\^~]\{$',l):
             pre,v=l.split('=',1)
-            if cyr.search(v):
+            if cyr.search(v) and not PATHRE.search(v):
                 if v in m: L[i]=pre+'='+m[v]
                 else: miss+=1
     out=T+'/'+g+'/CFG/Eng/Lang.txt'; os.makedirs(os.path.dirname(out),exist_ok=True)
     open(out,'wb').write(b'\xff\xfe'+SEP.join(L).encode('utf-16-le'))
-    print(g,'built; untranslated',miss, 'cyr left', sum(1 for l in L if cyr.search(l)))
+    print(g,'built; untranslated',miss, 'cyr left', sum(1 for l in L if cyr.search(l) and not PATHRE.search(l.split('=',1)[-1])))
 if __name__=='__main__':
     c=sys.argv[1]
     if c=='tm': tm_build()
