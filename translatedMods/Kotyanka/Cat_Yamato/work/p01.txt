@@ -1,0 +1,92 @@
+1	Remains of an Ancient Ship
+2	The remains of an ancient ship, looking very impressive, though most of the plating and half the frame are missing. Of the weapon systems only a reminder remains in the form of turrets. It somewhat resembles human ships, I wonder whether it can be restored...
+3	Space Battleship Yamato v2199
+4	<color=248,252,248>Yamato - a battleship of the Imperial Japanese Navy of the World War II era on the planet <clr>Earth<clrEnd>, raised from the seabed and converted into a spaceship in <clr>the year 2199<clrEnd>. It was crippled after an unequal battle in 2875, crashing on an uninhabited planet of an unknown system, and was long considered lost.. It is currently restored at one of the military bases from ancient blueprints.</color>
+5	<color=248,252,248>The military restored the hull from the blueprints, but the equipment is extremely outdated. Without upgrading all the ship's systems it is really just a museum piece...</color>
+6	Missile weapons do not work!
+7	Shield power: <bonDef> units
+8	Asteroid damage absorption: <bonResistAsteroid>%
+9	Space Battleship Yamato
+10	<color=248,252,248>Yamato - a battleship of the Imperial Japanese Navy of the World War II era on the planet <clr>Earth<clrEnd>, raised from the seabed and converted into a spaceship in <clr>the year 2199<clrEnd>. It was crippled after an unequal battle in 2875, crashing on an uninhabited planet of an unknown system, and was long considered lost. It is currently restored at one of the military bases from ancient blueprints, and also modified by the best minds of the Coalition at the order of the ranger who found the ship.</color>
+11	<color=248,252,248>Absolutely everyone wants to serve under the captain of this beauty, and planetary governments are maximally favorable and give out the most prestigious assignments.</color>
+12	<color=248,252,248>On the captain's bridge the engraving "Per Aspera Ad Astra" shines</color>
+13	Leadership skill - maximum
+14	Base <0> was destroyed, the Yamato hull is lost forever...
+15	Base <0> has studied the hull, you can come
+16	I bought a hull at a military base, but its specs don't satisfy me, can you help me?
+17	I've decided what I'll do with the ship!
+18	I came back to find out what about that ship I brought?
+19	I found a ship wreck on a planet, maybe you need it for research.
+20	I have a ship wreck here, nobody will take it, I thought maybe you'd need it...
+21	Huh? Have you gone completely out of line, <0>? The eggheads already refuse to take junk, and now you decided to dump it on us, get lost and take your junk with you!
+22	What did you bring us? You might as well have collected tin cans! How long can this go on, <0>? You rangers haul hundreds of tons of junk to our base every day.<br>This isn't a dump, by the way, take your "ship" and fly away from here.
+23	Yes-yes, we've been expecting you, we managed to restore it, however its specs leave much to be desired, after all its technologies are over a thousand years old... It's good now only for a museum, but if you wish to buy it, we won't stop you. It's up to you, no need to rush with the answer.<br>The purchase price is <0> cr.<br>
+24	The museum commonwealth of all races, and the human one in particular, thank you. The hull will be delivered at once to the nearest museum of spaceships. In gratitude <0> cr. is transferred to you.
+25	The hull has been delivered to the warehouse.
+26	What ship?
+27	Well then fly there.
+28	Do we hand the hull over to a museum or do you wish to buy it?<br>I remind you that the purchase price is <0> cr.<br>
+29	What ship?
+30	Never heard of such a thing.
+31	The hull was in terrible condition, and finding the blueprints it was built from was probably as hard as finding the ship itself, so we haven't finished the repairs yet.
+32	The work will be finished approximately <0>.
+33	I don't understand what you're talking about
+34	Yes, it's standard procedure. Now we'll assess the cost and... What is this tub, where did you dig it up?
+35	Yes?! Well, excuse me, it's just such equipment... I can't even imagine how long ago it was used. All right, we can try, but I promise nothing and it will cost you quite a lot. (<0>) cr.
+36	We did everything we could, these are the best mechanisms and technologies available to the Coalition at the moment.
+37	Agrhh! Silence, private, nobody gave you the floor! And you, <0>, show me your junk again, where did you say you found it?<br>I'll check the documents now... Oh, a Ragobam toad in my throat, and it's true, the YAMATO was shot down in that sector!<br>Why didn't you say so earlier?! So, <1> let me estimate how much time it will take... Ahem, if you sponsor the reconstruction we can start right now and finish in about a year and a half, it will cost <2> cr. If you cannot sponsor us, we will have to wait for help from the government, and that is not quick. Roughly in that case we could finish all the work only in three to four years, no sooner. Well, decide, which option do we choose?
+38	Starting the reconstruction
+39	Wait, captain! Take a closer look, it looks like a ship from human fairy tales. What was it called, ahem.. ah yes, the YAMATO!<br>
+40	All right, all right, taking off already...
+41	Buy the hull for <0> cr.
+42	Leave it to the museum.
+43	I'll think about it...
+44	Eh, as a child I loved going to museums and looking at exhibits, such an imposing ship will certainly motivate teenagers to join the army or the ranks of the rangers.
+45	Excellent, I'll go have a look at it.
+46	The Yamato. I brought it to <0> recently.
+47	Okay.
+48	I need to think some more.
+49	The Yamato, that battleship...
+50	All right, I must have been mistaken...
+51	Well, all that remains is to wait until you finish the work.
+52	And when will you be able to finish?
+53	Goodbye
+54	How dare you?! This is actually the restored legendary cruiser Yamato!
+55	Global modernization of all ship systems (<0> cr.)
+56	Excellent! I've finally got it, the Battleship Yamato!
+57	Keep listening
+58	Decided! I can't wait that long, I will sponsor this project.
+59	No, I don't have that kind of money, so manage on your own.
+60	Base <0> has finished the hull research. You can return for the result
+61	I came back to find out: what about that ship I brought?
+62	I found a ship wreck on a planet; Maybe it will be of use to you - for research.
+63	I found the wreckage of some ship; nobody wants to take it on, so maybe you will?
+64	Control of the Yamato's systems
+65	in active mode
+66	disabled
+67	disabled
+68	active
+69	A great pilot on the bridge of a great ship.<br><br>From here you can change course... That is, the operating modes of the battleship's onboard systems.<br><br>Anti-missile defense system <0><br>Active shields <1><br>Strike craft (lvl <2>): <3> <4><br>
+70	Disable the "Aegis" anti-missile system
+71	Activate the "Aegis" anti-missile system
+72	Raise shields
+73	Lower shields
+74	I want to upgrade the Yamato's autonomous combat units
+75	Strike craft not launched. We are ready to launch right now
+76	Strike craft sortied - in the amount of
+77	Oh, simpler than simple! this upgrade will cost you a mere <0> cr.! Decide!
+78	Excellent! Your astro-carrier platform has already been refitted in accordance with the new capabilities of your strike craft. Enjoy!
+79	Strike ship here.<br><br>Awaiting orders from the mother ship.
+80	Aye aye! Following the mother ship!
+81	Aye aye!
+82	Launch strike craft (not enough resources)
+83	Launch strike craft
+84	Strike craft launched according to order!
+85	Choose the number of strike craft you want to launch
+86	Launch strike craft (already launched)
+87	Raise shields (not enough energy)
+88	Launch strike craft (cloaking device active)
+89	A bit later, perhaps
+90	Attack the ship immediately...
+91	Cease all actions!
+92	No, I'd better not
