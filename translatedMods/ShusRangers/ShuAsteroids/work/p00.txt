@@ -1,0 +1,4 @@
+2	Astrohull shield generator I-III
+3	Astrohull shield generator I
+6	Astrohull shield generator II
+7	Astrohull shield generator III

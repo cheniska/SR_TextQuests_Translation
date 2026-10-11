@@ -1,0 +1,13 @@
+1	UselessItems/NeutronBomb/Name
+2	UselessItems/NeutronBomb/Text
+3	UselessItems/NeutronBomb/Text
+4	UselessItems/NovaTorpedo/Name
+5	UselessItems/NovaTorpedo/OnUseCode/01
+6	UselessItems/NovaTorpedo/OnUseCode/02
+7	UselessItems/NovaTorpedo/Text
+8	UselessItems/NovaTorpedo/Text
+9	Items/Weapon/Missile/Nova/Text
+10	Script/Mod_ShuBombs/0
+11	Script/Mod_ShuBombs/1
+12	Script/Mod_ShuBombs/2
+13	Script/Mod_ShuBombs/3

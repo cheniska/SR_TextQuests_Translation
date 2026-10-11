@@ -1,0 +1,25 @@
+1	Zip Gun
+2	Field annihilator
+3	Graviton Beam
+5	Combat Laser TB-47
+6	Combat Laser TB-42
+7	Photon Gun M4
+8	Photon Gun M3
+9	Photon Gun M2
+10	Pulse Gun R21
+11	Pulse Gun R20
+12	Retractor
+13	Vortex Projector
+14	Splash Phaser
+15	X-Defibrillator
+37	Elephant gun
+40	Firehole
+43	Gunbeam
+45	Li-Pacific
+49	Size: <clr>-35%<clrEnd>
+50	Penny
+52	Reliability: <clr>-50%<clrEnd>
+53	Pulse-Block R2
+55	Cost: <clr>+50%<clrEnd>
+56	Rebattler
+59	Unlocker-3000

@@ -1,0 +1,42 @@
+Чхаша	Ckhasha
+Бутлегер	Bootlegger
+Я не могу на это пойти. Корабль совсем плох, все износилось. Мне не до боев.	No, I can't do that. My ship is barely holding together. Everything is falling apart. I am not fit for battle.
+Нетушки, приятель! Если меня порешат, то кто будет взбивать подушку моей престарелой матушке?	No way, pal! If I get taken out, who will fluff my aged mother's pillow?
+Послушаешь тебя, и хочется хоть стихи писать, хоть кактусы выращивать, только бы не связываться с твоими безумными идеями.	Listening to you, I get the urge to start writing poetry and growing cacti, if only to get away from your madcap ideas.
+Время - деньги! Эта истина не стареет с годами. Мне надо заниматься своим бизнесом, если я по пути буду ввязываться во все разборки, то быстро разорюсь.	Time is money! There's an adage that never gets old. I really need to mind my own business. If I start getting involved in all these squabbles along the way, I'll go out of business in no time.
+У меня сейчас хватает и собственных дел, обратись к кому-нибудь другому.	I've got plenty of my own business right now, turn to somebody else.
+Вот я тебе сейчас по кабине-то настучу ракетами! А ну руки прочь от моего транклюкатора, пенчекряк доморощенный!	Hey! Keep your hands off my tranclucator, you filfy penchecrakus!
+Слышь, ты дебил или как? Если хочешь подобными вещами заниматься, так запрись сперва в своём ангаре, а на люди подобный срам выносить не смей!	Are you moron or what? If you want to do such things, then first shut yourself in your hangar, but don't bring such shame on public!
+Сынок, хочу попросить тебя об одной услуге. Видишь <Target>? Мне нужна помощь в сражении с ним.	Son, can you do me a favor? You see <Target> over there? I need some help fighting that sucker.
+Обязательно! Но сначала назови хотя бы три причины, по которым мне следует тебе доверять.	Definitely! But first name at least three reasons why I should trust you.
+Не хочу лезть в чужие дела без причины. А вдруг хозяин этого транклюкатора - криминальный авторитет?	I don't' want to mess with other people's business for no reason. What if the owner of this tranclucator is a crime boss?
+Ну робот и робот, ну летает и летает - тебе-то с него какой вред? В общем, я в это дело лезть не намерен.	It's just a common boring robot, what harm he did to you? Anyway, I don't want to get into this matter.
+Извини, <Player>, опаздываю со срочной доставкой. Ладно бы ещё предложил на кого за дело напасть, но вот против чужих роботов лично я ничего не имею.	Sorry, <Player>, I'm late with express delivery. Also I have nothing against other people's robots.
+Твоя взяла. Прекращай палить, сейчас выброшу груз.	You win. Stop firing, I'll dump the cargo now.
+А? Деньги? Ну конечно, меня же хлебом не корми, дай только перечислить деньжат первому встречному неадеквату, вещающему в эфир с другого конца системы. Если вдруг не дошло, чему я буду не удивлен, то это сарказм.	Huh? Money? Oh, of course, just feed me bread and let me wire money to the first lunatic broadcasting from the other end of the system. In case it didn't sink in, which I wouldn't be surprised by, that's sarcasm.
+Летел бы ты, грабитель-недоучка! Сейчас я своему корешу чиркану, так он тебе дюзы вправит!	Fly off, you half-baked robber! I'll ping my buddy now, and he'll straighten out your thrusters!
+Братуха, ты кое-что попутал: я тебе не банкомат, так что шевели двиглом куда-нибудь к гобзавру в берлогу, а?	Bro, you've got something mixed up: I'm not your ATM, so move your engine off to some gobsaurus's lair, okay?
+Ну почему всякий встречный-поперечный пытается драть деньги с нашего картеля? Все такие недоумки, что не понимают, раз мы самые богатые, то мы ещё и лучше всех вооружены? Убирай свои наезды обратно в ящик, всё равно денег с меня не получишь.	Why is it that every Tom, Dick and Harry is trying to bleed our cartel for money? Are you people retarded? Don't you realize that being the richest also means we've got the best weapons? Take your smack talk and shove it, 'cause you won't get any dough from me anyway.
+Твои запросы для меня - сущая мелочь. Проще откупиться и не заморачиваться. Но на будущее лучше куплю крейсер.	Your demands are beyond trivial to me. It's easier to just pay you off. But going forward I'll buy myself a cruiser.
+Эх, польстил ты мне... Будь у меня такие деньги, я бы, пожалуй, не в космосе холодном зависал, а отдыхал бы сейчас где-нибудь на Мауна-Роа...	Ehh, you flattered me... If I had that kind of money, I wouldn't be hanging in cold space, I'd be relaxing somewhere on Mauna Roa right now...
+Как твое финансовое положение?	What is your financial situation?
+Ясно	Roger that.
+Спасибо, теперь на моем счету <Money> cr.	Thanks, now I have <Money> cr. on my account.
+Дать денег напарнику	Give money to partner.
+<Player>, у меня на счету <Money> cr.	<Player>, I've got <Money> cr. on my account.
+Возьми <Money> cr.	Take <Money> cr.
+Итак, <Player>, сколько ты готов мне подкинуть?	So, <Player>, how much money can you transfer to me?
+Ну вот, <Player>, нехорошо так веселье обламывать... Сегодня ты каждый встречный транспортник защищаешь, а что дальше? Каждого хрякоплюха спасать будешь? Ладно, не хочу иметь дел с защитниками животных... <Target>, лети, отпускаю.	Well, <Player>, it's not nice to spoil the fun like that... Today you're protecting every transport you meet, and what next? Will you save every hryakoplyukh? Fine, I don't want to deal with animal protectors... <Target>, fly, I'm letting you go.
+Я согласен заплатить	I'm willing to pay
+К сожалению, сейчас мне некогда с тобой сражаться, проще откупиться. Надеюсь, сумма в <Money> cr тебя устроит?	Sadly, I don't have the time to fight you now, so it's easier to just pay you off. I trust s sum of <Money> cr would do?
+Контейнер с животным	Container with an Animal
+Контейнер с неизвестным животным. Вскрывать категорически не рекомендуется!	Holds an unknown animal. Opening the container is NOT recommended!
+Дизодан	Disodane
+Ценная минеральная порода. Воздействует на психику биологических организмов.	A valuable mineral. Affects the psyche of biological organisms.
+Срочное письмо	Urgent Letter
+Бумажное письмо с приказом о дальнейших действиях. В целях конспирации оно бумажное и ему нужна охрана.	A paper letter with additional orders. For the purpose of secrecy, it is made of paper and requires security.
+Бронированный ящик с ценным грузом	Armored Box with Precious Cargo
+Очень ценный груз. Настолько ценный, что открыть его, можно только распилив ящик пополам.	A highly valuable cargo. So valuable that sawing the box in half is the only way of getting to it.
+Кейс с документами	Case with Documents
+Носитель информации	Data drive
+Сервер	Server

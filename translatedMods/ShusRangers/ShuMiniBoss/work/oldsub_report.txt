@@ -1,0 +1,1 @@
+43	токены/числа/длина	Ошибка связующей нейросети.<br>Возможная причина: неисправность канала => Neural communication network error.<br>Possible cause: failure of dire

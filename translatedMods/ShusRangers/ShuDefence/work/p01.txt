@@ -1,0 +1,26 @@
+1	MessageBox('PolNukes is not connected! An urgent report to Discord is required');
+2	MessageBox('The scanner cache cannot get through the interference, use it in open space!');
+3	str stroka = 'The following ships with nuclear weapons were detected in the system:' + Format('<br>') + '==========';
+4	stroka = stroka + Format('<br>') + 'Number of launch silos: '+'<color=250,40,40>'+substr(ShipCustomShipInfoTextData(s, info, 2), 0, 1)+'</color>';
+5	stroka = stroka + Format('<br>') + 'Number of warheads: '+'<color=250,10,10>'+ShipCustomShipInfoData(s, info, 1)+'</color>';
+6	if(first) stroka = stroka + Format('<br>') + 'The systems will automatically aim at the nearest ship equipped with nuclear weapons when you click this notification';
+7	else Ether(7, 'ArtScaner', 'No ships with nuclear weapons detected in the system.');
+8	A software booster of the scanner's computing power by <clr>10%<clrEnd>. Increases the amount of information obtained about ships.
+9	When activated, scans the system for nuclear weapons and compiles a list of all ships with warheads.
+10	if(first) stroka = stroka + Format('<br>') + 'The systems will automatically aim at the nearest ship equipped with nuclear weapons when you open this notification';
+11	A software booster of the scanner's computing power. The improved version of the artifact raises scanner power by <clr>5<clrEnd> percent more compared to the regular cache version. Also increases the amount of information obtained about ships.
+12	A software booster of the scanner's computing power. The improved version of the artifact raises scanner power by <clr>10<clrEnd> percent more compared to the regular cache version. Also increases the amount of information obtained about ships.
+13	Too expensive and unreliable. I'll pass
+14	Very well, proceed with the installation
+15	I want to buy an absorber
+16	Would you also like to buy an absorber?
+17	Buy a spot field amplifier
+18	We recently set up serial production of spot field amplifiers, would you like to take a look?
+19	So, the brainchild of our best engineers - the <clr>Absorber<clrEnd>.<br>It is a ballistic fire countermeasure system capable of neutralizing 80% of the damage from a nuclear warhead hit or any other missile of similar blast force (where would it come from, though?), dissipating the localized energy in vacuum. It does not work on ordinary missiles because their energy potential is too low to localize. Recharging after each localization will take approximately <0> days. Such a gadget will cost you a good <1> cr., but I stake my reputation as manager that you won't regret this choice - believe me!
+20	The <clr>spot field amplifier<clrEnd> is a device we invented primarily for protection against sudden dominator attacks. Our design interacts directly with the shield generator, significantly strengthening the shield at the expected point of impact for a short time. This allows it to absorb all incoming damage in 50% of cases, up to five times a day. <br>However, the amplifier can prevent only minor and moderate damage, and when it takes significant damage the device reboots so as not to harm the shield generator.<br><br>Installing the spot field amplifier will cost you <0> cr. Shall we install it?
+21	No, I'm not interested right now
+22	Perhaps just in time - at least now and then I'll feel safe!
+23	A ballistic fire countermeasure system capable of neutralizing 80% of the damage from a nuclear warhead hit or any other missile with a similar TNT equivalent, dissipating the localized energy in vacuum. It does not work on ordinary missiles because their energy potential is too low to localize. <br>Charge: <Data1>/30 units.
+24	Absorber
+25	A powerful device that dissipates the thermal effect of any hull damage with a 50% probability. Dissipation costs a charge, which is only logical. Upon taking more than <clr>75<clrEnd> units of damage <clr>at once<clrEnd>, it performs an emergency reboot to avoid overheating damage, losing all accumulated charges in the process. <br>Charge: <Data1>/5 units.
+26	Spot Field Amplifier

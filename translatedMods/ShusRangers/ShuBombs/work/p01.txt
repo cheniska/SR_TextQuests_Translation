@@ -1,0 +1,13 @@
+1	Neutron Bomb
+2	A neutron weapon that retains terrifying effectiveness even in airless space. Deals approx. <clr>1300<clrEnd> units of damage to all enemies around.
+3	In addition, neutron radiation causes the <clr>Radiation Sickness<clrEnd> effect
+4	Nova Torpedo
+5	if(!ShipInNormalSpace(Player())) MessageBox('This item can only be used in open space');
+6	else if(!ShipRadarRange(Player())) MessageBox('No radar is installed on the ship');
+7	A superheavy weapon of mass destruction of the "Nova" class, capable of devastating an entire region of a star system. It was once banned by all Coalition conventions and was even destroyed in targeted raids, as a result of which the technology and 99% of all stocks of these torpedoes were lost.
+8	Deals up to <clr>5000<clrEnd> units of damage within a radius of <clr>700<clrEnd> units.
+9	A devastating neutron warhead
+10	Select a target:
+11	No enemy ships detected within range
+12	Launch canceled
+13	Launching a missile at <0>

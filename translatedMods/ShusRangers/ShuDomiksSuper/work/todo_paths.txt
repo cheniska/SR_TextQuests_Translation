@@ -1,0 +1,2 @@
+1	MicroModuls/BlazerSupDom3/Name
+2	MicroModuls/BlazerSupDom3/Text

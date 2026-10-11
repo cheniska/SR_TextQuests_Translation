@@ -1,0 +1,2 @@
+Астероид -<Number>-	Asteroid -<Number>-
+Масса корабля: <bonMass><clr>%<clrEnd>	Ship mass: <bonMass><clr>%<clrEnd>

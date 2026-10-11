@@ -1,0 +1,5 @@
+1	Ranger <0>, answer at once, it's a matter of the utmost importance!
+2	Come on, help out, it's no time to talk!
+3	A few years ago the dominators invaded the <0> system. The small garrison was not ready for a full-scale invasion, so the invaders staged a real slaughter in the system. We had no chance of repelling the attack or even retreating to a neighboring system, so I ordered the surviving defenders to land on the uninhabited planet <1>. For long years we hid here and watched the radar readings, hoping the Coalition Fleet would recover from its defeat at Gralgar and go on the counteroffensive. And just when it seemed that our equipment had worn out with time, the supplies had nearly run out, and the hope in our hearts had given way to despair, our sensors detected a hyperjump signature into the system. We can no longer hide on this accursed planet, so we ask you to help us liberate the system!
+4	So, have you changed your mind?
+6	I will help you!

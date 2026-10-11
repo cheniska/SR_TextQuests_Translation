@@ -1,0 +1,9 @@
+5	раса с заглавной	Контролируется клисанами => Controlled by Klissans
+201	токены/числа/длина	(для применения бонуса требуется превышение<br>мощности сканера над за => (scanner power must exceed target's defense)
+277	раса с заглавной	Что сделано, то сделано, <Player>, былого не воротить. Эта история не  => What's done is done, <Player>, we can't go back. This history will not
+304	токены/числа/длина	Действительно, <clr>Чушкач<clrEnd> провалился даже с таким козырем в р => Indeed, Chushkach failed even with that trump card up his sleeve. It w
+305	раса с заглавной	Доминаторская угроза действительно всё ещё никуда окончательно не исче => The Dominator threat really still hasn't completely disappeared, and f
+789	раса с заглавной	Служит для переработки и распределения запасов питательных веществ кли => Serves for fermentation and distribution of nutrients in Klissan organ
+795	раса с заглавной	Остатки клисанской брони, представляющие собой ороговевший слой особых => The remains of Klissan shell, a tough layer of specialised reflecting 
+797	раса с заглавной	Выполняет роль мозгового центра, отвечает за принятие клисаном решений => Serves as a brain, responsible for Klissan decision-making.
+799	раса с заглавной	Заборники и накопители сжатого воздуха, выполняющие у клисан роль лёгк => Intake and storage device for compressed gas, serves as Klissan lungs.

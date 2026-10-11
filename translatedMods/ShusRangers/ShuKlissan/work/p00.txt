@@ -1,0 +1,159 @@
+11	Klissan
+12	Newbies
+13	Corsairs
+14	Lyakushas
+15	Skippers
+16	Lazy
+17	Alphas
+18	Overgrown
+19	Adults
+54	Plasmathread
+57	Protoplasm
+59	Plasmashield
+62	Gillnozzles
+65	Protobubble
+76	Radiosensors
+79	Bioregenerator
+82	Neuroprobe
+85	Clot
+88	Antimatter Multiplier
+89	Augerbar
+90	Gravity Collector
+91	Iconoclast
+92	Indemite
+93	Wave Asynthesizer
+94	Ionic deformer
+95	Quinkgan
+96	Nargun Blade
+97	Nihilest
+98	Bolt matrix
+99	Splitter
+100	Dimorphic stunner
+127	Reliability: <clr>+150%<clrEnd>
+135	Acskia
+144	Bubble
+146	Reliability: <clr>+30%<clrEnd>
+147	Chasia
+149	Combishell
+160	Fungusia
+176	Reliability: <clr>-50%<clrEnd>
+220	Nivelia
+222	Cost: <clr>+30%<clrEnd>
+229	Plasmalemma
+236	Recapacit
+239	Damage susceptibility: <clr>+20%<clrEnd>
+240	Regenerative
+262	Velhmust
+264	Reliability: <clr>-25%<clrEnd>
+310	Start the attack
+311	End
+312	I do not have any klissan material in my cargo bay
+329	Can't be more precise
+330	Give the zero-order
+331	Happy to help
+382	In system
+572	Katauri crit
+575	Nondus shield
+577	Rogit Damage
+586	Gastropoda
+587	Jellyfish
+588	Skiffir
+589	Dudila
+591	Eggthief
+592	Rabolep
+595	Bluric
+598	Yellowbelly
+599	Korzhik
+609	Yellowswing
+611	Birdling
+620	Whirlpool
+631	Hyroblood
+642	Breeder
+653	Zobber
+655	Licekus
+656	Kwazor
+657	Kipshot
+658	Golovan
+659	Klisher
+660	Lomoduse
+661	Mesostasis
+662	Deadwalker
+663	Mogiller
+664	Preacher
+665	Puzan
+666	Relaxer
+667	Grassahach
+668	Rigger
+669	Rogozzer
+670	Rohmory
+671	Rocher
+672	Rigva
+673	Sabur
+674	Sanatar
+675	Swingator
+676	Bluebelly
+677	Blue-eye
+678	Grach
+679	Spirotech
+680	Tendril
+681	Snatcher
+683	Skull
+684	Tentacle
+686	Warthog
+687	Wicked
+690	Royaler
+691	Cranchman
+692	Lungman
+693	Elderly
+694	Nogozhim
+695	Roshen
+696	Headman
+697	Ordovik
+698	Lagva
+699	Licekwak
+700	Grudan
+701	Kolyvan
+702	Dumbwaiter
+703	Termodeus
+705	Shekel
+706	Khryashek
+708	Dokatar
+709	Squealer
+710	Wanger
+711	Gusal
+712	Arkeboozer
+713	Talwar
+714	Vaskral
+715	Accal
+717	Potox
+718	Letoon
+719	Bahh
+720	Zabralnik
+721	Stonex
+723	Drishch
+726	Polyp
+727	Dolbun
+728	Sinepaletz
+729	Belokur
+730	Redshanker
+731	Rattler
+733	Jabahar
+735	Zaher
+736	Peawn
+737	Porozhner
+738	Herod
+740	Parlaxer
+742	Ramsamzam
+786	Physiopump
+788	Megacrawer
+790	Macrolfactor
+792	Thermoswings
+794	Hornshell
+796	Neurocentre
+798	Aerofilters
+800	Bioslots
+806	Z-transmitter
+834	Secret object
+835	Handler
+836	Klissan
+837	Neurolink

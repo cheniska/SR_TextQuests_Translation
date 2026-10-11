@@ -1,0 +1,7 @@
+1	Asteroid/Text
+2	MicroModuls/ShuAsteroids_AstrohullDefGenerator1/AcrynSerie
+3	MicroModuls/ShuAsteroids_AstrohullDefGenerator1/Name
+4	MicroModuls/ShuAsteroids_AstrohullDefGenerator1/Text
+5	MicroModuls/ShuAsteroids_AstrohullDefGenerator1/Text
+6	MicroModuls/ShuAsteroids_AstrohullDefGenerator2/Name
+7	MicroModuls/ShuAsteroids_AstrohullDefGenerator3/Name

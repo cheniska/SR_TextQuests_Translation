@@ -1,0 +1,11 @@
+1	Script/Mod_ShuPrison/Jailbreak1
+2	Script/Mod_ShuPrison/Jailbreak2
+3	Script/Mod_ShuPrison/Jailbreak3
+4	Script/Mod_ShuPrison/KillEscapedCriminalBounty
+5	ShipInfo/AddInfo/CustomInfos/ShuPrison_EscapedPrisonerBounty/Name
+6	UselessItems/PrisonCockroach/Name
+7	UselessItems/PrisonCockroach/TextSpeed1
+8	UselessItems/PrisonCockroach/TextSpeed2
+9	UselessItems/PrisonCockroach/TextSpeed3
+10	UselessItems/PrisonCockroach/TextSpeed4
+11	UselessItems/PrisonCockroach/TextSpeedMax

@@ -1,0 +1,6 @@
+1	Лидер пиратского движения. Круче него только звёзды.	The leader of the pirate movement. Only stars are cooler than him.
+2	Рядовой боец братства. Годится только на то, чтобы уничтожать мирные суда и рейнджеров-новобранцев.	A regular Brotherhood fighter. Only good for destroying civilian ships and Ranger recruits.
+3	Требуется <WarPoints> оч. для получения следующего звания.	<WarPoints> points required to earn the next rank.
+4	Начинающий пират, способный разводить на бабло транспортные корабли, пока никто не видит, но все великие свершения на ниве пиратства ещё впереди.	A novice pirate, capable of scamming transport ships while no one can see, but all the great achievements in the field of piracy are yet to come.
+5	Закаленный в сражениях боец братства, способный соперничать с рейнджерами и военными истребителями. Такой может и обидеть.	A battle-hardened Brotherhood fighter capable of competing with Rangers and war fighters. That's the kind of guy who can take offense.
+6	Опытный пират, нюхнувший пороху. Теперь он сам может раздавать затрещины начинающим бандитам. Не разменивается по мелочёвке.	An experienced pirate with a nose for gunpowder. Now it is he who hands out knuckle-sandwiches to aspiring bandits. Only goes for the big score.

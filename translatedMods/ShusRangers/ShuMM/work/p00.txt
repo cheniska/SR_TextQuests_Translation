@@ -1,0 +1,130 @@
+2	Armorite Droid I-III
+3	Armorite Droid I
+5	Armorite Droid II
+6	Armorite Droid III
+7	</color>Thermoquant Subreactor
+10	</color>Exoseparatoral Subreactor
+12	</color>Plasmorine Subreactor
+14	</color>Quadroadronal Subreactor
+16	Biogenetic Droid I
+18	Biogenetic Droid II
+19	Biogenetic Droid III
+20	Bipolar Radar I-III
+21	Bipolar Radar I
+23	Bipolar Radar II
+24	Bipolar Radar III
+27	Size: <clr>+250%<clrEnd>
+28	Cell Radar I-III
+29	Cell Radar I
+31	Cell Radar II
+32	Cell Radar III
+33	Cybernetic Gripper I-III
+34	Cybernetic Gripper I
+37	Cybernetic Gripper II
+38	Cybernetic Gripper III
+39	Downgrade
+42	Reliability: <clr>-33%<clrEnd>
+43	Duplex Scanner I-III
+44	Duplex Scanner I
+46	Duplex Scanner II
+47	Duplex Scanner III
+48	EM-generator
+50	Additonal effect: <clr>EM-interference<clrEnd>
+51	Electrogenic Gripper I-III
+52	Electrogenic Gripper I
+55	Electrogenic Gripper II
+56	Electrogenic Gripper III
+57	Elephantam
+59	Damage susceptibility: <clr>+30%<clrEnd>
+60	Energenic Engine I-III
+61	Energenic Engine I
+63	Energenic Engine II
+64	Energenic Engine III
+65	Evaluation Scanner I-III
+66	Evaluation Scanner I
+68	Evaluation Scanner II
+69	Evaluation Scanner III
+70	Extreme-Fly
+72	Reliability: <clr>-60%<clrEnd>
+73	Extremum
+77	Frag-Up
+79	Cost: <clr>+35%<clrEnd>
+80	Fooravean I-IV
+81	Fooravean Hull I
+83	(only for <clr>feyans<clrEnd>)
+84	Fooravean Hull II
+85	Fooravean Hull III
+86	Fooravean Hull IV
+87	Khataber
+90	Cost: <clr>-15%<clrEnd>
+91	Limitizer
+93	Microgenic Shield Generator I-III
+94	Microgenic Shield Generator I
+96	Microgenic Shield Generator II
+97	Microgenic Shield Generator III
+98	Microgenic Droid I-III
+99	Microgenic Droid I
+100	Microgenic Droid II
+101	Microgenic Droid III
+102	Microgenic Engine I-III
+103	Microgenic Engine I
+104	Microgenic Engine II
+105	Microgenic Engine III
+106	Microgenic Gripper I-III
+107	Microgenic Gripper I
+108	Microgenic Gripper II
+109	Microgenic Gripper III
+110	Microgenic Radar I-III
+111	Miicrogenic Radar I
+112	Microgenic Radar II
+113	Microgenic Radar III
+114	Microgenic Scanner I-III
+115	Microgenic Scanner I
+116	Microgenic Scanner II
+117	Microgenic Scanner III
+118	Phase Engine I-III
+119	Phase Engine I
+121	Phase Engine II
+122	Phase Engine III
+123	Pickuhup I-IV
+124	Pickuhup Hull I
+126	(only for <clr>gaals<clrEnd>)
+127	Pickuhup Hull II
+128	Pickuhup Hull III
+129	Pickuhup Hull IV
+130	Pneumatic Droid I-III
+131	Pneumatic Droid I
+133	Pneumatic Droid II
+134	Pneumatic Droid III
+135	Proudwing I-IV
+136	Proudwing Hull I
+138	(only for <clr>humans<clrEnd>)
+139	Proudwing Hull II
+140	Proudwing Hull III
+141	Proudwing Hull IV
+142	Dryndulet I-IV
+143	Dryndulet Hull I
+145	(only for <clr>maloqs<clrEnd>)
+146	Dryndulet Hull II
+147	Dryndulet Hull III
+148	Dryndulet Hull IV
+149	ScanBot I-III
+150	ScanBot R1
+152	ScanBot R2
+153	ScanBot R3
+154	Shquash I-IV
+155	Shquash Hull I
+157	(only for <clr>pelengs<clrEnd>)
+158	Shquash Hull II
+159	Shquash Hull III
+160	Shquash Hull IV
+161	Stationic Shield Generator I-III
+162	Stationic Shield Generator I
+164	Stationic Shield Generator II
+165	Stationic Shield Generator III
+166	TEDB
+170	Torpedo
+172	Upgrade
+174	Cost: <clr>+75%<clrEnd>
+187	I choose money
+195	DS-174/2 Disk

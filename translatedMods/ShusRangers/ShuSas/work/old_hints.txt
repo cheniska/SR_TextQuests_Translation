@@ -1,0 +1,4 @@
+1	Рейнджер <0>, срочно ответьте, дело первостепенной важности!	Ranger <0>, answer urgently, it is a matter of the utmost importance!
+2	Давай помогай, не время разговаривать!	Come on, help out, it's not time to talk!
+4	Ну так что, ты передумал?	So, have you changed your mind?
+6	Я помогу вам!	I will help you!

@@ -1,0 +1,6 @@
+27	Yes please
+28	I have to go, take me to the hangar
+29	I'm ready to trade
+31	I'm ready to share weapons
+32	Goodbye
+33	No, sorry

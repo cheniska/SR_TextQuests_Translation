@@ -1,0 +1,16 @@
+1	Items/Weapon/Missile/Dom_rocket/Name
+2	Items/Weapon/Missile/Dom_rocket/Text
+3	Items/Weapon/Name/Dom_burst
+4	Items/Weapon/Name/Dom_dual_laser
+5	Items/Weapon/Name/Dom_laser
+6	Items/Weapon/Name/Dom_light
+7	Items/Weapon/Name/Dom_minigun
+8	Items/Weapon/Name/Dom_rocket
+9	Items/Weapon/Text/Dom_burst
+10	Items/Weapon/Text/Dom_burst
+11	Items/Weapon/Text/Dom_dual_laser
+12	Items/Weapon/Text/Dom_laser
+13	Items/Weapon/Text/Dom_light
+14	Items/Weapon/Text/Dom_minigun
+15	Items/Weapon/Text/Dom_minigun
+16	Items/Weapon/Text/Dom_rocket

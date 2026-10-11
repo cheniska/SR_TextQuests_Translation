@@ -1,0 +1,17 @@
+Мне нужно починить корабль	I need to repair my ship
+Ясно	Roger that.
+Отмена атаки	Cancel attack
+Да	Yes
+Говорите, босс, я весь в вашем распоряжении.	Go ahead, boss, I'm all yours.
+И кого же, собственно, надо атаковать?	And who exactly are we supposed to attack?
+Как скажете, босс. Передам остальным, чтобы сосредоточились на более приоритетных целях.	As you say, boss. I'll tell the others to focus on higher-priority targets.
+Вас понял, босс, атакую корабль <0>.	Understood, boss, attacking the ship <0>.
+Нужно атаковать корабль	There's a ship we need to attack.
+Отмена	Cancel
+И передай этот приказ всем остальным	And pass this order on to all the others
+Отлично, твои бабки сняты со счета. Наши техники уже закончили работу. Иди на корабль, <Player>, и принимай работу.	Excellent, the money has been withdrawn from your account. Our technicians have already completed the job. Go back to your ship, <Player>, and see how we did.
+Спасибо, но я передумал	Thanks, but I changed my mind
+Да, я согласен заплатить	Yes, I'm ready to pay
+Назад	Back
+Что за программы?	What programs?
+Кстати, наши спецы смогли раздобыть кой-какие программки Коалиции перед тем, как она совсем рассыпалась. Если интересует...	By the way, our specialists managed to get hold of a few Coalition programs before it fell apart completely. If you're interested...

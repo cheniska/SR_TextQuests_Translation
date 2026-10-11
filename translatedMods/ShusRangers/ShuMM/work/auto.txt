@@ -1,0 +1,48 @@
+Торпеда	Torpedo
+Самонаводящаяся торпеда	Homing Torpedo
+Ракетомет	Missile Launcher
+Дальность стрельбы: <bonWRadius> млн км	Firing range: <bonWRadius> million km
+Броня корпуса: <bonHull> ед.	Hull armor: <bonHull>
+Урон энергетического оружия: <bonWEnergy> ед.	Energy weapon damage: <bonWEnergy> units
+Урон осколочного оружия: <bonWSplinter> ед.	Splinter weapon damage: <bonWSplinter> units
+Дальность радара: <bonRadar> млн. км.	Radar range: <bonRadar> million km.
+Мощность сканера: <bonScan><clr>%<clrEnd>	Scanner power: <bonScan><clr>%<clrEnd>
+Мощность захвата: <bonHook> т.	Gripper power: <bonHook> t.
+Дальность прыжка: <bonJump> пк.	Jump range: <bonJump> pc
+Мощность защитного поля: <bonDef><clr>%<clrEnd>	Shield power: <bonDef><clr>%<clrEnd>
+Стоимость: <clr>+100%<clrEnd>	Cost: <clr>+100%<clrEnd>
+Эффективность дроида: <bonDroid> ед.	Droid effectiveness: <bonDroid>
+Размер: <clr>-25%<clrEnd>	Size: <clr>-25%<clrEnd>
+Размер: <clr>+35%<clrEnd>	Size: <clr>+35%<clrEnd>
+Скорость двигателя: <bonSpeed> ед.	Engine speed: <bonSpeed>
+Навык манёвренности: <bonSkill2>	Mobility skill: <bonSkill2>
+Навык торговли: <bonSkill4>	Commerce skill: <bonSkill4>
+Размер: <clr>-20%<clrEnd>	Size: <clr>-20%<clrEnd>
+Навык обаяния: <bonSkill5>	Charisma skill: <bonSkill5>
+Масса корабля: <bonMass><clr>%<clrEnd>	Ship mass: <bonMass><clr>%<clrEnd>
+Урон ракетного оружия: <bonWMissile> ед.	Missile weapon damage: <bonWMissile> units
+Размер: <clr>-10%<clrEnd>	Size: <clr>-10%<clrEnd>
+Стоимость: <clr>+50%<clrEnd>	Cost: <clr>+50%<clrEnd>
+Навык точности: <bonSkill1>	Attack skill: <bonSkill1>
+Скорость ракет: <bonMissileSpeed> ед.	Missile speed: <bonMissileSpeed> units
+Навык техники: <bonSkill3>	Technology skill: <bonSkill3>
+Размер: <clr>+20%<clrEnd>	Size: <clr>+20%<clrEnd>
+Корпус "Таухито"	"Tauhito" Hull
+Навык лидерства: <bonSkill6>	Leadership skill: <bonSkill6>
+А что это у тебя за корпус такой? Никогда подобного не встречал!	What is that hull of yours? I've never seen anything like this before!
+Но мы же все рейнджеры, одно общее дело делаем! Какие у нас могут быть секреты друг от друга?	But we are all rangers, we're doing the same things! What secrets could be between us?
+Я весь внимание!	I'm listening very carefully!
+И что же пошло не так? Сейчас до сих пор ни на одном корабле нет подобных устройств.	So, what went wrong? Still no ship has this kind of devices even now!
+И что стало с этими испытателями и проектом? Корпус же до сих пор у тебя!	What happened to those test pilots and the project itself? You still have the hull, haven't you?
+Спасибо за подробное изложение. Теперь нас ждут великие дела!	Thanks for the explanations! Now, let's go!
+Да я же величайший рейнджер, которого когда-либо знала наша галактика! А ну быстро выложил мне все что знаешь, иначе я тебя тут сейчас в клочья разнесу вместе с этим корытом, насколько бы необычным оно не было!	I'm the greatest ranger this galaxy ever known! Tell me everything you know as fast as you can, or I'll blow your piece of junk despite of how unique it is!
+А ты, <Player>, с какой целью интересуешься? Информация эта секретна и доступна строго ограниченному кругу лиц.	Hey, <Player>, why do you ask it? This information is classified and only limited amount of persons has access to it.
+Конечно, не вопрос. Я уже привык рассказывать эту историю, сам много раз слышал от предков.	No problems, bro. I've already get used to retell this story.
+Ладно, так и быть, расскажу в рамках дозволенного. Но в любом случае, не болтай об этом направо и налево. Корпуса эти в свое время создавались для тестирования системы нейроинтерфейса, позволяющей пилоту полностью погружаться в создаваемую бортовым компьютером виртуальную реальность и объединять свои органы чувств с показаниями бортовых сенсоров, передавать команды управления с помощью мыслей. Технология казалась чрезвычайно перспективной и сулила большой прогресс в скорости реакции, удобстве и легкости управления космическими кораблями. К сожалению, как всегда это бывает, не обошлось без подвоха...	Right you are, I'll talk to you a little. However, anyway, don't spread it out to everyone, ok? These hulls were created to test neural interface systems. It allows pilot to fully dive into computer-created virtual reality and unify their organs of sense with ship sensor's data, transfer control commands via thoughts. The technology looks very perspective and promise wonders at reaction speed, comfort and control easiness. Unfortunately, as it always happens, the reality were much more complex...
+Корпуса эти в свое время создавались для тестирования системы нейроинтерфейса, позволяющей пилоту полностью погружаться в создаваемую бортовым компьютером виртуальную реальность и объединять свои органы чувств с показаниями бортовых сенсоров, передавать команды управления с помощью мыслей. Технология казалась чрезвычайно перспективной и сулила большой прогресс в скорости реакции, удобстве и легкости управления космическими кораблями. К сожалению, как всегда это бывает, не обошлось без подвоха...	These hulls were created to test neural interface systems. It allows pilot to fully dive into computer-created virtual reality and unify their organs of sense with ship sensor's data, transfer control commands via thoughts. The technology looks very perspective and promise wonders at reaction speed, comfort and control easiness. Unfortunately, as it always happens, the reality were much more complex...
+Ключевой проблемой стала синхронизация и качество реализации виртуальной реальности. Доведя симуляцию до уровня 99,999999% процентов от уровня всех получаемых в реальном мире ощущений от всевозможных органов чувств, разработчики столкнулись в какой-то мере с ожидаемой, с другой стороны - весьма странной реакцией сознания пилотов-испытателей на прекращения сеансов. После окончания тестовых вылетов они долго приходили в себя, периодически не могли различить, в реальном они мире или все еще пилотируют и т.д. Даже специально разработанные процедуры медитации по гаальским ментальным уровням не помогали сознанию вновь найти себя.	Synchronization and quality of virtual reality were key problems. Achieving sense level 99.999999% from all organs of sense, developers meet some heavy problems. It was easy to predict at one side and hard to solve from another. Test pilots showed strange reaction at the end of each session: it was hard to get back to the real world, they cannot even be sure, are they still piloting or not, etc. Even complex gaalian mental-level meditation technics, created exclusively for this project, can do nothing to their minds.
+А вот этого не знаю даже я. Корпус, который ты сейчас видишь у меня, переоборудован под стандартную электронно-механическую систему органов управления. Их передали особо отличившимся рейнджерам, чтобы совсем уж не потерять все достижения программы. Мне он достался по наследству. Все элементы системы нейроинтерфейса были демонтированы и сданы на хранение в какое-то жутко засекреченное место. Возможно, когда-то им еще предстоит стать нашим оружием спасения, но я об этом ничего не знаю.	Even I don't know it, sorry.  Hull that you're seeing right now was adapted to common electrical-mechanical flight control system. They were given to remarkable rangers trying not to waste the whole project. All neural interface system parts were removed and transferred to some high-security storage area. Probably, they will be our salvation tool sometime in the future, who knows.
+Нет. До наших дней сохранилось всего несколько экземпляров, которые ценятся как фамильные реликвии. В продаже ты их не найдешь. Но, кто знает, возможно, <clr>судьба сведет вас иначе<clrEnd>. С подобными старыми вещами даже человек вроде меня волей-неволей начинает верить в необъяснимое.	No. Only a few exemplars exist nowadays. They are priceless heirlooms and you can't see it on sale. But who knows, maybe <clr>fate will bring you together some other way<clrEnd>. With such an old stuff even persons like me start to believe in something inexplicable.
+Бывай, товарищ!	See you, fella!
+Всегда готов помочь, напарник!	Stay in touch, partner!
+Так дела не делаются, <Player>. Научись разговаривать и не хамить сначала, а потом уже требуй что-то. И смотри, чтобы я тебя не проучил за подобные выходки.	Things should not be done this way, <Player>. Learn some respect and try not to confront anyone you see first. Moreover, say thanks if I'm not going to teach you a lesson right now!

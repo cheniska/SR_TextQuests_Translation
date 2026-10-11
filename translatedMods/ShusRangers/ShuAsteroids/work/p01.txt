@@ -1,0 +1,3 @@
+1	Useful ore content reaches <Count> units. Asteroid speed: <Speed>.
+4	<color=248,252,248>This generator was developed to protect ships that often raid through large <color=255,239,99>asteroid</color> clusters. Its built-in astrocorbulator creates an anti-kinetic field that reduces the force of impact when the ship collides with another space body. As a side effect, the device generates particles that noticeably lighten the ship, which can prove extremely useful for pilots who value their time.</color>
+5	Asteroid damage absorption: <bonResistAsteroid><clr>%<clrEnd>

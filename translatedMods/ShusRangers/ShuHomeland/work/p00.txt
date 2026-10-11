@@ -1,0 +1,17 @@
+1	Enabled
+3	Baron
+4	Khan
+5	Capo
+6	Cutthroat
+7	Skipper
+8	Raider
+9	Ship Boy
+12	<color=0,50,200>Disable</color>
+13	<color=0,50,200>Enable</color>
+15	announcement about attack
+16	Atlan
+17	Sol
+18	Pkhedoc
+19	Taron
+20	Announcements about attacks on you native system: <0><br>
+21	micromodule

@@ -1,0 +1,1 @@
+5	if(!ShipInNormalSpace(Player())) MessageBox('Этот предмет может быть использован только в открытом космосе');	if(!ShipInNormalSpace(Player())) MessageBox('This item can only be used when you are in outer space');

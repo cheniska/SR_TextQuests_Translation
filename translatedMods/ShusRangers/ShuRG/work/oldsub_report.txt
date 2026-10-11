@@ -1,0 +1,3 @@
+11	токены/числа/длина	Направляюсь к своим, на <clr>Роджерию<clrEnd>. Нужно починить корабль  => Heading to my place in <clr>Rogeria</clrEnd>. I need to fix the ship b
+35	раса с заглавной	Да, чуть не забыл. У тебя на корабле установлено оружие доминаторов. И => Oh, I almost forgot. You have a Dominator weapon installed on your shi
+44	токены/числа/длина	Итак, проверим заказ:<br>Целевая система - <0><br>Количество пиратов - => So, let's check the order:<br>Target system - <0><br>Number of pirates

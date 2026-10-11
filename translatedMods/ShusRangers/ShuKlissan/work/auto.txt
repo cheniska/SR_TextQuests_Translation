@@ -1,0 +1,56 @@
+Черная дыра	Black Hole
+Вы погибли, <Player>, и теперь вся слава достанется другим рейнджерам! Но ваше имя будет навечно занесено в список героев войны, а семья получит положенную страховку в размере <Money> cr.	<Player>, you are dead and now other rangers will get all the glory! But fear not, your name will get an honorary mention on the war hero list, and your family will be paid an insurance settlement of <Money> cr.
+Эффективность дроида: <bonDroid> ед.	Droid effectiveness: <bonDroid>
+Мощность защитного поля: <bonDef><clr>%<clrEnd>	Shield power: <bonDef><clr>%<clrEnd>
+Дальность стрельбы: <bonWRadius> млн км	Firing range: <bonWRadius> million km
+Мощность захвата: <bonHook> т.	Gripper power: <bonHook> t.
+Навык техники: <bonSkill3>	Technology skill: <bonSkill3>
+Урон осколочного оружия: <bonWSplinter> ед.	Splinter weapon damage: <bonWSplinter> units
+Урон ракетного оружия: <bonWMissile> ед.	Missile weapon damage: <bonWMissile> units
+Дальность радара: <bonRadar> млн. км.	Radar range: <bonRadar> million km.
+Мощность сканера: <bonScan><clr>%<clrEnd>	Scanner power: <bonScan><clr>%<clrEnd>
+Скорость двигателя: <bonSpeed> ед.	Engine speed: <bonSpeed>
+Дальность прыжка: <bonJump> пк.	Jump range: <bonJump> pc
+Скорость ракет: <bonMissileSpeed> ед.	Missile speed: <bonMissileSpeed> units
+Броня корпуса: <bonHull> ед.	Hull armor: <bonHull>
+Размер: <clr>+20%<clrEnd>	Size: <clr>+20%<clrEnd>
+Масса корабля: <bonMass><clr>%<clrEnd>	Ship mass: <bonMass><clr>%<clrEnd>
+Урон энергетического оружия: <bonWEnergy> ед.	Energy weapon damage: <bonWEnergy> units
+Навык обаяния: <bonSkill5>	Charisma skill: <bonSkill5>
+Навык лидерства: <bonSkill6>	Leadership skill: <bonSkill6>
+Генератор поля: <bonDef> ед.	Shield generator: <bonDef>%
+Мощность сканера: <bonScan> ед.	Scanner power: <bonScan>.
+Сила энергетического оружия: <bonWEnergy> ед.	Energy weapons damage: <bonWEnergy>
+Сила ракетного оружия: <bonWMissile> ед.	Missile weapons damage: <bonWMissile>
+Дальность стрельбы: <bonWRadius> ед.	Firing range: <bonWRadius>
+Сила осколочного оружия: <bonWSplinter> ед.	Fragmentation weapons damage: <bonWSplinter>
+Проживающая раса <Race>	Resident race: <Race>
+Посадку совершить невозможно	Landing impossible
+Прекрасно, <0>! Вы сделали выбор, достойный настоящего рейнджера! Действительно, как можно остаться в стороне, если есть возможность хоть на день приблизить победу над бездушными машинами? А потом уже и про пенсию с домиком можно будет подумать.	Excellent, <0>! Your choice is that of a true ranger! Indeed, how could you stand aside when there's a chance to bring the victory over the soulless machines even one day closer? And that cottage with a pension can always wait.
+Прекрасно, <0>! Вы сделали выбор, достойный настоящего рейнджера! Действительно, как можно остаться в стороне, если есть возможность хоть на день приблизить победу над бездушными машинами? А генералы подождут.	Excellent, <0>! Your choice is that of a true ranger! Indeed, how could you stand aside when there's a chance to bring the victory over the soulless machines even one day closer? And generals can wait.
+Назад	Back
+То есть, мне больше не нужно захватывать системы Коалиции?	So I don't have to seize Coalition systems anymore?
+Да, я согласен. Всегда предпочитал убийству доминаторов рыбалку.	Yes, I agree. I've always preferred fishing to killing dominators.
+Нет, я не смогу жить спокойно, пока доминаторы уничтожают мирных жителей. Я возвращаюсь на фронт.	No, I will have no rest for as long as dominators are out there killing innocent civilians. I'm going back to the front.
+Верно.	True.
+Конечно же, я согласен стать новым лидером!	Of course, I agree to being your new leader!
+Я предпочту сосредоточить свои усилия на уничтожении доминаторов.	I prefer to focus my efforts on destroying dominators.
+Пока.	So long.
+Конечно, я согласен! Наливай!	Of course, I agree! Now pour us a drink!
+Доминаторы - слишком серьезная угроза, чтобы просто отмахнуться от нее и забыть. Я должен выполнить свой долг.	Dominators are too great a threat to be waved off and forgotten about. I must see my duty to the end.
+Конец связи	Over and out.
+Внимание всем рейнджерам!	Attention all rangers!
+Ну, ладно	Oh, all right
+Укажите систему для атаки.	Specify the system to attack.
+Система <Star>	System <Star>
+Понятно	I see
+Далее	Next
+От имени всей нашей системы <Star> мы вручаем вам знак, отвечающий вашей доблести: <Reward>! Надеемся, что этот жест подтолкнет вас на новые подвиги.	On behalf of the entire <Star> system we wish to award you with an order reflecting your valor: <Reward>! We hope it will inspire you to even greater heights.
+Ксенод	Xenode
+Прессор	Pressor
+Эгемон	Egemon
+Нондус	Nondus
+Катаури	Katauri
+Рогит	Rogit
+Мутенок	Mutenoc
+Махпелла	Makhpella

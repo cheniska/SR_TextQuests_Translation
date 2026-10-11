@@ -1,0 +1,17 @@
+2	Understood, I'll complete the task!
+10	Oh, look who's here! You're just the one we've been waiting for! You must already know that your piratical zeal has not gone unnoticed? On behalf of the brotherhood, we solemnly proclaim you <0>, and as a small token of encouragement we present you with <1>.<br>Keep it up, <Player>, the Supreme Lyakushas are very pleased!
+11	From the heart!
+14	attack notif.
+22	And one more thing, <Player>. The men in black suits ordered me to hand you this secret case. They said you must be sure to deliver it to the nearest flagship. I hope there's no need to explain separately how important such a "request" is?
+23	Sorry, bro, there's been a bit of a mix-up. In short, they wiped out all our polymers - that is, our <color=255,240,100>pirate bases</color>. So you'll have to fly to your native planet <0> in the <1> system for new ranks.<br>But don't worry, it's a temporary measure.
+24	Dear <Player>! We regret to inform you that all <color=255,240,100>military bases</color> in the Galaxy have been destroyed. Until new bases are built, military ranks will be awarded on your native planet <0> in the <1> system.
+25	Heads up!!! Your native system <0> is under threat of seizure by counterrevolutionary elements. Wrap up your affairs right now and get over here before things take a bad turn!
+26	Heads up!!! Your native system <0> is under attack. Come on, help the brothers fight it off, or it'll be lost for good!
+27	Heads up!!! Enemies have attacked your native system <0>. Hurry to help your buddies, or you'll be left without a homeland!
+28	Attention!!! Your native system <0> has been attacked by enemies of the Coalition! Go there as soon as possible and help the military repel the attack.
+29	Attention!!! Your native system <0> is threatened by the damned occupiers! Help the valiant defenders hold the homeland!
+30	Attention!!! Your native system <0> has been attacked by enemy forces! Urgent help is needed to drive out the invaders.
+31	Heads up!!! Your native system <0> is under threat of seizure by enemies of the free world. Wrap up your affairs right now and get over here before things take a bad turn!
+32	Greetings, Ranger <Player>! According to our data, you have accumulated enough warrior points to receive the rank of <NewRank>. In reward for your services to the Coalition, we proudly present you with <HonoraryBadge>. Keep up your fight against the invaders and sooner or later victory will be ours!
+33	Also, on behalf of the local representation of the Ranger center network, we hand you <Reward>. We hope this modest gift will help you in your difficult cause.
+34	Oh, and by the way - I assume you have already dealt with our secret camouflage devices that let you perfectly disguise your ship as a dominator? If not, never mind - there is still time. For now, we are giving you a personal fleet electronic signature, with which you can identify your ship to any Coalition pilot without even removing the camouflage. Handy, isn't it? Incidentally, the recognition system works automatically on all our military vessels, so our own will not touch you in any case.

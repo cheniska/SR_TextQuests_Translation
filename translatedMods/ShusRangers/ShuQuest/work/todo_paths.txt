@@ -1,0 +1,6 @@
+1	PlanetQuest/List/110/Genre
+2	PlanetQuest/List/111/Genre
+3	PlanetQuest/List/111/Name
+4	PlanetQuest/StartText/110
+5	PlanetQuest/StartText/111
+6	ShipInfo/AddInfo/CustomInfos/ShuQuest_Colonization/Name

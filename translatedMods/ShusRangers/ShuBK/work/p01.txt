@@ -1,0 +1,7 @@
+1	Today the <clr>business center<clrEnd> #0# announced a major sale, setting discounts of <clr>25%<clrEnd> to <clr>75%<clrEnd> on most of the range in its equipment store. Hurry to buy the latest parts for your starship at the lowest prices!
+2	Recently the <clr>business center<clrEnd> #0# announced big discounts on a significant part of the range in its equipment store. The most thrifty Rangers and entrepreneurs have already set off for the #1# system to buy engines, fuel tanks, radars, scanners and much more at a bargain price.
+3	Everyone who wants to stock up thoroughly is invited to the #0# system, where the <clr>business center<clrEnd> #1#, as part of its program to support low-income pilots, has cut prices on a significant portion of the goods in its equipment store.
+4	Today the <clr>business center<clrEnd> #0#, located in the #1# system, announced yet another grand sale of almost the entire range of equipment and weapons sold at the station. The station's shops offer a wide selection with discounts of <clr>25%<clrEnd> to <clr>75%<clrEnd>!
+5	The <clr>business center<clrEnd> #0# announces the start of a major equipment sale. All interested pilots are invited to the #1# system, where they can buy parts at the lowest prices in the Galaxy!
+6	A hidden info item that removes discount micromodules from items when they are purchased
+7	A hidden info item that marks a business center where a sale is under way

@@ -1,0 +1,11 @@
+1	Today the dangerous repeat offender <Ship> escaped from a maximum-security colony on planet <Planet>. The planetary government has already announced a reward for the criminal's capture, and we urge all pilots passing through the <Star> system to remain vigilant.
+2	Today <Ship> escaped from custody. The prison administration is in mild shock: according to them, <Ship> was a model prisoner and was about to be released on bail. Now the offender faces an even longer sentence. Anyone with precise information about his current whereabouts must immediately contact the authorities of planet <Planet> in the <Star> system, since the planetary government has put a bounty on the scoundrel's head.
+3	Alarming news has come from the <Star> system. Today a daring escape was carried out from a maximum-security prison on planet <Planet>. According to the prison investigators' findings, <Ship> crawled two kilometers through a sewer pipe and barely got out before the start of yet another banquet thrown in honor of the imminent release of a major prison boss. The planet's special services have been put on alert and are working around the clock, preparing to meet the fugitive, and the government has announced a reward for his head.
+4	On behalf of the government of planet <Planet>, we express our sincere gratitude for eliminating the fugitive criminal <Ship> and are transferring to your account a cash reward of <Bounty> cr.
+5	Gives the player, and not only the player, the reward for this escaped prisoner
+6	Matchbox with a Cockroach
+7	Your slow and wretched little bug. Can barely manage <Data1> m/h in a straight line.
+8	Not too fast, but already capable of something. After a hearty breakfast it can speed up to <Data1> m/h.
+9	Your personal racing pet. Can accelerate up to <Data1> m/h.
+10	Your incomparable racing champion! Can accelerate all the way up to <Data1> m/h!
+11	Your unstoppable superbug! Will easily do <Data1> m/h and won't even choke on a flea!

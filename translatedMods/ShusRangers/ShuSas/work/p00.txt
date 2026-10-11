@@ -1,0 +1,4 @@
+5	Ranger <0> on the line, over
+7	Pretend the connection doesn't work
+8	Sorry, it's not for me
+9	Okay, I'll help you

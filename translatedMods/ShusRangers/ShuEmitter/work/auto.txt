@@ -1,0 +1,12 @@
+Сила энергетического оружия: <bonWEnergy> ед.	Energy weapons damage: <bonWEnergy>
+Дальность стрельбы: <bonWRadius> млн км	Firing range: <bonWRadius> million km
+Стоимость: <clr>+100%<clrEnd>	Cost: <clr>+100%<clrEnd>
+Размер: <clr>+20%<clrEnd>	Size: <clr>+20%<clrEnd>
+Сила осколочного оружия: <bonWSplinter> ед.	Fragmentation weapons damage: <bonWSplinter>
+Размер: <clr>-15%<clrEnd>	Size: <clr>-15%<clrEnd>
+Стоимость: <clr>+40%<clrEnd>	Cost: <clr>+40%<clrEnd>
+Стоимость: <clr>-50%<clrEnd>	Cost: <clr>-50%<clrEnd>
+Размер: <clr>-40%<clrEnd>	Size: <clr>-40%<clrEnd>
+Дальность стрельбы: <bonWRadius> ед.	Firing range: <bonWRadius>
+Стоимость: <clr>+50%<clrEnd>	Cost: <clr>+50%<clrEnd>
+Размер: <clr>+50%<clrEnd>	Size: <clr>+50%<clrEnd>

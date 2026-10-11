@@ -1,0 +1,7 @@
+3	I want to organize a pirate raid
+5	Don't doubt it
+17	Retreat from the battle
+22	Go back to the battle
+24	Pass this order on to the other retreatants
+32	I guess you're right
+45	Infobox containing the id of the attacked ship

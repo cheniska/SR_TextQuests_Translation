@@ -1,0 +1,1 @@
+1	Содержание полезных руд достигает <Count> ед. Скорость астероида <Speed>.	Ore deposits amount to <Count> units. Asteroid speed equals <Speed>.

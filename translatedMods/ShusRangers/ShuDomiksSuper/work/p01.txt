@@ -1,0 +1,2 @@
+1	<color=49,239,255>Superdominator Hull</color>
+2	<color=248,252,248>An upgraded dominator hull. Formidable weaponry, strong armor - all this is the evolutionary embodiment of each series' brain centers. Such an enemy can destroy even the best-protected ship single-handedly.</color>

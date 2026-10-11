@@ -1,0 +1,102 @@
+Заблокированная карта с кредитами	Locked Credit Card
+Спасибо!	Thank you!
+Далее	Next
+Ясно	Roger that.
+Вот как? Ну ладно...	Is that right? Fine, then.
+Нет, спасибо	No, thank you.
+Не сейчас	Not now
+Благодарю!	Thank you!
+Ладно	All right
+Пожалуй, в другой раз	Maybe another time
+Сила энергетического оружия: <bonWEnergy> ед.	Energy weapons damage: <bonWEnergy>
+Сила осколочного оружия: <bonWSplinter> ед.	Fragmentation weapons damage: <bonWSplinter>
+Сила ракетного оружия: <bonWMissile> ед.	Missile weapons damage: <bonWMissile>
+Эффективность дроида: <bonDroid> ед.	Droid effectiveness: <bonDroid>
+Навык атаки: <bonSkill1>	Attack skill: <bonSkill1>
+Навык маневренности: <bonSkill2>	Mobility skill: <bonSkill2>
+Скорость двигателя: <bonSpeed> ед.	Engine speed: <bonSpeed>
+Дальность стрельбы: <bonWRadius> млн км	Firing range: <bonWRadius> million km
+Карта сокровищ	Treasure Map
+Святой Грааль	Holy Grail
+Миниатюрный захват-взрыватель, предназначенный для взрывных работ под землей.	A miniature detonating gripper, designed for underground demolition work.
+Резервуар, содержащий часть органического существа - руку гаальца.	A vessel containing part of an organic creature -- a gaalian hand.
+В контейнере находится бактериологическое оружие.	A container of bacteriological weapon.
+Комплект боевых расписных черпал, для парадных выступлений.	A set of patterned war silverware for parade ceremonies.
+Резервуар с дорогим алкогольным пеленгским пойлом.	A vessel containing expensive peleng booze.
+Комплект меняющих цвет пеленгских плащей.	A set of peleng color-changing coats.
+Кубки и почетный орден "ВЛ" для победителей соревнований по киданию грязи.	A set of prize cups and a SL medallion for winners of the mud-throwing competition.
+Коробка сигарет всевозможных марок.	A pack of cigarettes of all kinds of brands.
+Малокский флаг, укрепленный на странном древке.	A maloq flag, secured to a peculiar stick.
+Старинные книги	Ancient Books
+Несколько томов старинных книг. Серия "Сказки нашего детства, XX век".	Several ancient tomes. "The Fairy Tales of Our Childhood, XX Century" series.
+Диски с программным обеспечением "Виндовс". Использовать в современных компьютерах невозможно из-за разницы форматов.	CDs with the Windoffs software. Cannot be used in modern computers due to format differences.
+Большое количество всевозможного религиозного инвентаря различных религий.	A large collection of all matter of religious paraphernalia.
+Механизм для знаменитых аморфных часов.	Clockwork for the famous amorphous clock.
+Ценная минеральная порода. Воздействует на психику биологических организмов.	A valuable mineral. Affects the psyche of biological organisms.
+Процессоры многоуровневой архитектуры для планетарных рекламных щитов.	Multilevel architecture processors for planetary billboards.
+Специальная полицейская картотека, содержащая данные по пеленгским преступным личностям.	A special police catalogue of peleng criminals.
+Коробка с шифром шифра для агента.	A box with a decoder for a secret agent.
+Запись гимна, объединяющего людей и фэян.	The recording of a hymn to unify humans and faeyans.
+Зубная щетка служит для восстановления ротовой полости.	The toothbrush serves to restore the oral cavity.
+Смазочный материал, гиниромасло для робототехнических ресурсов.	Heniroil lubricant for robotic resources.
+Партия из двадцати красных кнопок со сменными насадками. Не кантовать.	A batch of twenty red buttons with removable attachments. Handle with care.
+Приставки с биоиграми, которые подключаются непосредственно в мозг.	Consoles with biogames that connect directly to the brain.
+Уникальные ткани для создания новейшей военной формы.	Special fabric for the latest military uniforms.
+Навигационный сервер для дистанционного управления роботами.	A navigation server to control robots remotely.
+Огромная модель самого маленького малокского насекомого.	A giant model of the smallest maloq insect.
+Специальный кейс с набором шпионских жучков. Жучки временно парализованы.	A special case with a set of spy bugs. The bugs are temporarily paralyzed.
+Маленькие полуразумные существа. Находятся в криосне.	Small semi-intelligent creatures. Currently in a state of cryosleep.
+Одежда для малоков, созданная для защиты от низких температур. Очень большой размер.	Maloq clothing, designed to offer protection in low temperatures. Extra extra large.
+В контейнере низшее пеленгское животное, Дряхлоуст.	Holds Decrepitliptus -- a lower form peleng animal.
+Устройство для перепрограммирования бортовых компьютеров космических кораблей.	A device for reprogramming spaceship onboard computers.
+Аннигилятор материи, с помощью которого человеческий консул уничтожает сверхсекретные бумаги.	Matter annihilator, used by a human consul to dispose of secret documents.
+Новейшая модель детектора лжи	Latest generation lie detector.
+Останки древнего ископаемого щурского периода - пенчехлюпа, далекого предка современных пенчекряков.	The remains of a penchesplasher -- an ancient Churassic ancestor of the modern day penchekrakus.
+Раритетный ковер	Antique Carpet
+Раритетный ковер. Требуется доставить в химчистку.	An antique carpet. Needs to be delivered to the dry-cleaner's.
+Незаменимый прибор при допросе представителей любой расы.	An indispensable device for interrogating representatives of all races.
+Гаальская книга	Gaalian Book
+В этой гаальской книге содержатся сверхсекретные знания из области физики и высоких технологий.	This gaalian book contains all the top-secret knowledge in the field of physics and high technologies.
+Самое обыкновенное несекретное письмо от одного человека другому в типовом бумажном конверте	A most ordinary non-secret letter from one person to another, sealed in an ordinary paper envelope.
+"Черный ящик" с информацией о последних мгновениях жизни доминаторского Эквентора.	A black box with information about the final moments of an equantor dominator.
+Древняя видеозапись, посвященная доминаторам	An ancient video recording about dominators.
+Сверхмощный, но при этом экономичный и бережливый по отношению к засасываемым предметам гаальский пылесос. Дизайн выполнен в стиле ретро.	A heavy-duty gaalian vacuum that is still economical and thrifty with respect to the items being sucked up. Retro style.
+Странноватого вида устройство, созданное фэянами для использования в качестве стандартного средства мгновенного перемещения. Имеет встроенную функцию коррекции ошибок неудачных телепортаций	A very odd-looking device created by faeyans for use as the standard method of instant translocation. Includes an integrated self-correction feature for failed teleportations
+Красный ограненный камень с золотой надписью "СИЛА и ЧЕСТЬ".	The stolen cut stone with a golden inscription "Strength and Honor."
+Емкое, но довольно хрупкое хранилище данных. На разъеме для подключения к информационному терминалу надпись "Не той стороной втыкать запрещается!"	A high-capacity, but quite fragile data storage device. The receptacle for connecting to an information terminal is labeled "Do not insert the wrong side!"
+Небольшой документ со списком ключевых фраз для голосового замка.	A small document with keywords list for a voice lock.
+Знаменитый "Веселый Ровжер", когда-то принадлежавший бамбаю Фрейку.	Famous "Jolly Rovher", once belonged to Bambai Frake.
+Кредитная карта, которой невозможно воспользоваться, не активировав ее.	Cannot be used until activated.
+Криокапсула, внутри которой находится один из лидеров Коалиции. Оборудована детонационной защитой от взлома.	Cryocapsule, contains one of the Coalition's leaders. Has detonation anti-breaking system installed.
+Красочная коробка с неизвестным содержимым.	A colorful box with unknown contents.
+Эффективный инструмент для разведения рагобамских жаб.	An efficient instrument for breeding ragobam bullfrogs.
+В клетке находится редкое животное - вротмневолос.	The cage holds a rare animal -- the rotmygut.
+Контейнер с маяками, предназначенными для отслеживания перемещений пиратов.	A container of beacons designed to track pirate movements.
+Криокапсула с ветераном антипиратского движения, Бласт Шотом.	A cryocapsule with Blast Shot -- veteran of the anti-pirate movement.
+Контейнер, через прозрачную крышку которого виднеются горшочки с кактусами.	Pots of cacti are visible through the transparent lid of the container.
+Спасательная капсула пирата-стукача.	A life-saving capsule of a pirate snitch.
+Архив правителя, содержащий зашифрованную информацию.	A ruler's archive, containing encrypted information.
+Диск с важной информацией.	A disk with important information.
+Записи пеленгских бесчинств.	Records of peleng rowdiness.
+Шесть мерзкопахнущих фруктов в воздухонепроницаемом кейсе.	Six foul-smelling fruits in an air-tight container.
+Керамическая чашка, на которой изображена какая-то рыба.	A ceramic cup depicting some kind of fish.
+Пиратский модуль памяти.	A pirate memory module.
+Официальный документ владельца Прямокишечного острова на ближайшие 50 лет.	An official deed of ownership to the Rectal Island for the next 50 years.
+"Сказание о Филанейе и Громгаре", классическая малокская военная летопись.	A Tale of Filaneya and Gromgar -- the classic maloq military annal.
+Диск с новейшей игрой из сериала "Космические рейнджеры"	Disk with the newest game from the Space Rangers series.
+Платежное поручение для получения гонорара за квест. Не терять!	A payment order to receive a fee for completing a quest. Don't lose it!
+Кейс с контрактом на производство ксетвоизлучателей	A case with a contract for qsetvoemitter production.
+Конверт с секретными данными	An envelope with secret data.
+Нелегально добытые самородки	Illegally procured gold nuggets.
+Диск с важной информацией	A disk with important information.
+Важные документы. На барахолке не толкать!	Important documentation. Not for resale!
+Черный ящик с записями	A black box with data.
+Юридически заверенная бумага, дающая право вождения большегрузных кораблей.	A legal document, granting the bearer license to pilot heavy-load vessels.
+Контейнер с неизвестным животным. Вскрывать категорически не рекомендуется!	Holds an unknown animal. Opening the container is NOT recommended!
+Срочное письмо	Urgent Letter
+Бумажное письмо с приказом о дальнейших действиях. В целях конспирации оно бумажное и ему нужна охрана.	A paper letter with additional orders. For the purpose of secrecy, it is made of paper and requires security.
+Кейс с важными документами, который нужно доставить на одну из планет.	A case with important documents that needs to be delivered to one of the planets.
+Военная форма	Military Uniform
+Специальная бомба, созданная для уничтожения научных станций.	A special bomb, manufactured to destroy research stations.
+Универсальный набор для внутренней отделки жилища.	A universal kit for residential interior finish.
+Народное малокское лекарство для лечения ожогов от бластера.	Traditional maloq medicine for treating blaster burns.

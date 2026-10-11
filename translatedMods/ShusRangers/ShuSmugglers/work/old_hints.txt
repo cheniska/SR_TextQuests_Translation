@@ -1,0 +1,87 @@
+6	Что, думаешь, мне подохнуть захотелось? Фига с два! Найди себе другого помощника.	What, do you think, I want to die? Find another helper.
+8	Извини, камрад, но мне сейчас маленько не до разборок. Обратись в другой раз, ладно?	Sorry, comrade, but I'm not up to fighting now. Come back another time, okay?
+10	Дружище, так вышло, что я сейчас очень занят, обратись позже.	Buddy, it just so happens that I'm very busy right now, check back later.
+11	Отличная идея, братан! Врежем ему как следует!	Great idea bro! Let's hit him right!
+12	И в самом деле, почему бы мне не тряхнуть стариной? Есть еще порох в пороховницах!	And really, why don't I shake things up? There is life in the old dog yet!
+13	А что, давно пора бы укокошить этого супостата. Компьютер, полная боевая готовность!	Well, it's high time to kill this adversary. Computer, full combat readiness!
+16	Слушай, камрад, меня тут <Target> очень нехорошими словами обзывает, не поможешь научить его вежливости?	Listen, comrade, here <Target> calls me very bad words, can you help me teach him politeness?
+17	Ублюдок <Target> кинул меня на бабки! Давай проучим негодяя, а?	This bastard <Target> screwed me away! Let's teach the bad guy a lesson, shall we?
+18	Мерзавцу по имени <Target> вздумалось забрать мои пожитки! Подсоби-ка ты мне в борьбе с ним, прибыль поделим поровну.	A bastard named <Target> wants to take my belongings! Help me in the fight against him, we will share the profit equally.
+19	Слушай, друг, помоги замочить <Target>, век не забуду!	Listen, friend, help me to kill <Target>, I won't forget!
+21	Да кто ты такой, чтоб я на твои дела свое время тратил?! Катись отсюда со своими предложениями!	Who are you to waste my time on your business?! Get out of here with your suggestions!
+22	Мутный ты тип, не готов я тебе свою спину подставить.	You are a muddy type, I'm not ready to turn my back on you.
+23	Не доверяю я тебе, давай уж как-нибудь сам.	I don't trust you, let's do it yourself.
+25	Ты что, это ж мой товарищ! Наедешь на него - я тебе клешни обломаю.	That is my friend! If you run into him, I'll break off your claws.
+26	Да мы с ним уже как тыщу лет знакомы, ты что! В приличном обществе за такое и в морду получить можно.	Yes, we have known each other for a thousand years, what are you talking about! In a decent society, you can get a blow in the face for this.
+27	Это мой старый товарищ, не буду я в него стрелять.	This is my old comrade, I won't shoot him.
+28	По своим не стреляем, камрад.	We don't shoot at our allies, comrade.
+29	Ну ты даешь! Я со смеху чуть "Махпелльским" не поперхнулся! Ты бы еще дальше отлетел и оттуда угрожал!	Wow! I almost choked on my "Makhpella Light" with laughter! You would have flown even farther and threatened from there!
+30	А ты забавный малый! В следующий раз погрози мне за двадцать парсек отсюда.	And you're funny! Next time threaten me twenty parsecs away.
+32	Так тебе надо груз на блюдечке подавать? Подлети сначала, а потом уже что-то тявкай.	So you need to serve my cargo on a silver platter? Fly up first, and then yelp something.
+33	Парень, ты что, малокского твердокрасного перебрал? На такой дистанции от тебя любой сосунок удерет!	Boy, have you gone over maloq's hard red alcohol? At this distance, any sucker will get away from you!
+34	Морда лица у тебя не слишком-то устрашающая, потренируйся-ка перед зеркалом.	Your face is not too intimidating, practice in front of the mirror.
+35	А ты давай, отбери у меня груз. Или только по интеркому такой грозный?	Come on, take cargo from me. Or are you just so formidable on the intercom?
+37	Слушай, дружище, я бы рад с тобой поделиться, но сейчас выполняю важный заказ на доставку. Давай в следующий раз, а?	Listen, buddy, I'd love to share with you, but I'm doing an important delivery job right now. Come on next time, huh?
+38	Для тебя это станет новостью, но я не планирую дарить свои пожитки каждому встречному прохвосту. Назови мне хоть один повод сделать для тебя исключение.	This will be news to you, but I don't plan on gifting my belongings to every scoundrel I meet. Give me one reason to make an exception for you.
+39	Так уж и быть, убедил. Выбрасываю груз.	So be it, you convinced me. I'm dropping the load.
+40	Хабар, конечно, ценная штука, но жизнь все-таки подороже выйдет. Лови презенты.	Goods, of course, a valuable thing, but life still comes out more expensive. Grab presents.
+41	Хорошо-хорошо, мне не нужны проблемы, камрад, забирай груз и лети налево, а я полечу направо, лады?	Okay, okay, I don't need problems, comrade, take the cargo and fly to the left, and I'll fly to the right, okay?
+43	Откуда вы только такие беретесь-то? Какие тебе нафиг деньги? Да ты меня даже догнать не сможешь!	Where do you get these from? Do you want my money? You can't even catch up with me!
+44	Ты действительно считаешь меня таким идиотом, что думаешь, мол, я заплачу тебе, находясь за тучу верст от тебя? Ой, наивный...	Do you really think I'm such an idiot that you think I'll pay you, being a cloud of miles away from you? Oh naive...
+45	Эх, а вот в моей молодости пираты были совсем другими - чувство собственного достоинства не позволяло им требовать денег с радиуса обзора современного радара...	Eh, in my youth, pirates were completely different - self-esteem did not allow them to demand money from the viewing radius of a modern radar...
+46	Какие мы дерзкие! Ты фоточку свою-то пришли, как сяду на ближайшую планету, так обязательно продам журналистам. Только представь: репортаж "Дебил года"! Так и вижу: "он грабит суда с гигантских расстояний!" Эй, ты чего? Да остынь, приятель, это же шутка.	How daring you are! Send me your photo, as soon as I land on the nearest planet, I will definitely sell it to journalists. Just imagine: the report "Moron of the Year"! So I see: "he robs ships from gigantic distances!" Hey, what's wrong with you? Come on, buddy, this is a joke.
+47	Я со своими кровными кредитами не расстанусь без должного повода. Или ты хочешь сказать, что твое корыто может представлять для меня опасность?	I will not part with my earned money without a proper reason. Or are you saying that your wreck might be a danger to me?
+48	Мои деньги, знаешь ли, честно заработаны годами наркоторговли и сбыта крупных партий оружия, и отдавать я их не намерен.	My money honestly earned over the years of drug trafficking and sales of large batches of weapons, and I do not intend to give it away.
+49	Ты что, совсем поехал, на авторитетов наезжать?! А не пошел бы ты далеко и надолго, а?	Are you completely out of your mind to threaten crime bosses?! Wouldn't you go far and for a long time, would you?
+50	Кореш, я сегодня в хорошем настроении, так что сочту это за неудавшуюся шутку. Но ты лучше не зли меня, а то и пары-тройки зубов лишиться можешь...	Man, I'm in a good mood today, so I'll take this as a failed joke. But you better not make me angry, otherwise you can lose a couple of teeth...
+51	Поглядим, сколько у меня тут денег... Полтинник на заправку, десятка на чаевые таксисту, пять тысяч в общак картеля... Думаю, ремонт после боя обойдется дешевле, чем разбазаривание моих кровных кредитов всяким соплякам, ха-ха.	Let's see how much money I have here... fifty cr. for a gas station, ten cr. for a tip for a taxi driver, five thousand cr. for the cartel's common fund... I think repairs after the fight will be cheaper than throwing away my money to brats like you, ha ha.
+53	Так уж и быть, я заплачу. Принимай перевод.	So be it, I'll pay. Accept money order.
+54	Сейчас мне делать, конечно, нечего, и придется откупиться, но поверь: как только поднаберусь силенок, так сразу найду тебя и всыплю по первое число!	ow, of course, I have nothing to do, and I will have to pay off, but believe me: as soon as I gain strength, I will immediately find you and kick your ass!
+55	Бабки - это всегда хорошо, но жизнь - лучше. Забирай деньжата.	Cabbage is always good, but life is better. Take some money.
+56	Ты меня так до нитки оберешь, чтоб тебя... Подавись своими кредитами.	You'll rob me to the bone... Keep your blood money.
+57	Слушай, может, тебя устроит сумма поменьше, а?.. Да хорошо, хорошо, перевожу я...	Listen, maybe a smaller amount will suit you, huh? .. Yes, okay, okay, I'm transferring...
+58	Для начала советую не разлетаться. Если я не сдержусь, то, глядишь, твой корабль все-таки разлетится вместе с тобой раньше времени.	For starters, I advise you not to be impudent. If I do not restrain myself, then, you see, your ship will nevertheless fly apart ahead of time with you.
+59	Погоди-погоди, давай я займу бабок у своего камрада, а ты прилетишь через неделю-другую, а?	Wait a minute, let me borrow money from my comrade, and you will arrive in a week or two, huh?
+60	Приятель, пожалуйста, не пали по мне! Ну нет у меня этой суммы!	Buddy, please don't hit me! Well, I don't have that amount!
+62	Нет уж, этот мусор не должен захламлять космическое пространство.	No, this garbage should not litter outer space.
+63	Так уж и быть, пусть остается, я сегодня добрый.	So be it, let it stay, I'm kind today.
+64	Дружище, не лезь не в свое дело, иначе станешь следующим на очереди.	Dude, mind your own business or you'll be next in line.
+65	Слушай, парень, <Target> будет размазан по стенке, и тебе этому не помешать.	Look, man, <Target> will be smeared on the wall, and you can't stop it.
+66	А не полетел бы ты, горе-миротворец, куда-нибудь к Махпелле на чаек?	Wouldn't you, unfortunate peacemaker, fly somewhere to Makhpella?
+67	Чтобы я прошляпил такую выгоду? Да ни в жизни!	Are you suggesting that I squander such a benefit? No, never in my life!
+68	Иначе что, замучаешь меня до смерти своими миротворческими речами? Умора!	Otherwise, are you torturing me to death with your peace-making speeches? It's funny.
+69	Еще чего! Да кто ты такой, чтобы мне приказывать?	What more? Who are you to order me?
+70	Ну вот зачем ты влез! Я почти его укокошил! Так уж и быть, сегодня у этого прохвоста счастливый день.	Well, that's why you got in! I almost killed him! So be it, today is that scoundrel's lucky day.
+71	<Target>, конечно, тот еще подонок, но с тобой я тягаться не готов. Ладно, пусть живет.	<Target> is still a bastard, but I'm not ready to compete with you. Okay, I'll let him live.
+72	С тобой мне на ножах не резон быть, так что сегодня <Target> может лететь, но не обещаю быть таким милосердным, когда наткнусь на него в следующий раз.	There is no reason for me to quarrel with you, so today <Target> can fly, but I do not promise to be so merciful the next time I meet him.
+73	Эх, такую выгоду упускаю! Ладно, <Target> будет жить, но с тебя банка "Махпелльского темного".	Oh, I am missing out on such opportunity! Okay, <Target> will live, but you'll owe me a jar of "Makhpella Dark".
+74	Это как раз то, что мне нужно! Беру!	This is just what I need! I'll buy it!
+75	Ты меня заинтересовал. Покупаю!	You got me interested. I'll buy it!
+76	Я за такое любые деньги отдам!	I'll give any money for this!
+78	Нет ли у тебя в продаже чего-нибудь, м-м-м, не совсем легального?	Do you have anything for sale, uh, not quite legal?
+79	Не найдется чего-нибудь интересного для меня?	Is there anything interesting for me?
+81	У тебя, случаем, не будет товара?	Do you happen to have some goods?
+82	Хэй, есть что-нибудь на продажу?	Hey, do you have anything for sale?
+83	Прости уж, товарищ, но пока для тебя ничего. Залетай через неделю-другую, там и поговорим.	Forgive me, comrade, but so far nothing for you. Come back in a week or two and we'll talk.
+84	Извиняй уж, камрад, но все крутое уже раскупили, обратись попозже.	Sorry, comrade, but everything cool has already been sold out, contact me later.
+85	Пока мне нечего тебе предложить, но ты не огорчайся, потом обязательно что-нибудь появится.	So far I have nothing to offer you, but don't be upset, something will definitely appear later.
+86	Ну уж нет, брат! Этих копеек мне даже на ремонт не хватит, не говоря уже о компенсации морального ущерба. Гони больше, я сказал!	Well, no, brother! These small sums of money will not even be enough for me to repair, not to mention compensation for moral damage. Give me more, I said!
+88	Эти деньги не скомпенсируют мне даже то, что я увидел твою физиономию на дисплее.	This money won't even compensate me for seeing your face on the screen.
+89	Ты хочешь меня разжалобить? Так и тянет дать тебе в долг, только чтобы ты мне смог предложить не такую мизерную сумму!	Do you want to pity me? I would like to lend you money, only so that you can offer me not such a meager amount!
+90	Ну ты даешь, приятель! Благодаря тебе у меня появился новый анекдот, что я смогу вспоминать за бутылкой рома!	Really, buddy! Thanks to you, I have a new joke that I can remember over a bottle of rum!
+91	Да ты знаешь, кто я такой?! Я такие бабки за день зарабатывал, когда ты еще пешком под стол ходил! Больше давай!	Do you know who I am?! I earned so much greens in a day before you were housebroken! Give me more!
+92	Как же все-таки классно, что в космосе полно лохов вроде тебя. Грабеж - знаешь ли, отличное подспорье бизнесу.	It's still cool that space is full of suckers like you. Robbery - you know, a great help to business.
+93	Вот это другой разговор! За такие деньжата и отпустить тебя не жалко.	That's the way to talk! It's not a pity to let you go for such money.
+94	Спасибо тебе, дружище, за такую чудесную инвестицию в подпольный бизнес. Запишу тебя в почетный список наших независимых спонсоров.	Thank you, mate, for such a wonderful investment in the underground business. I'll put you on the honor roll of our independent sponsors.
+95	В другой бы раз я с тебя вытряхнул побольше, но уж больно у меня сегодня хорошее настроение. Или это ликер? А, впрочем, неважно.	Another time I would have taken more from you, but I'm in a really good mood today. Or is it because of the liquor? And yet, it doesn't matter.
+96	Вот видишь, как просто со мной находится общий язык: заплатил и забыл, и не надо никаких сопливых мольб о пощаде, хе-хе.	You see how easy it is to get along with me: you paid and forgot, and no snotty pleas for mercy are needed, hehe.
+97	Все, все, ты круче меня, круче всех здесь, я согласен! Держи <Money> cr, я их очень долго копил, только позволь улететь куда подальше!	enough, enough, you're cooler than me, cooler than everyone here, I agree! Take these <Money> cr, I've been saving them for a very long time, just let me fly away!
+98	Предлагаю чудесную сделку: я перевожу на твой счет <Money> cr, а ты оставляешь меня в покое. По рукам?	I offer a wonderful deal: I transfer <Money> cr to your account, and you leave me alone. Deal?
+99	Э-э-э, дорогой, прекращай стрелять! Неужели ты не готов отпустить меня даже за <Money> cr?	Uh, darling, stop shooting! Are you not ready to let me go even for <Money> cr?
+100	Приятель, ты действительно заслуживаешь этих денег! Предлагаю тебе заманчивую сумму в <Money> cr, после чего я спокойно улетаю восвояси. Идет?	Buddy, you really deserve this money! I offer you a tempting sum in <Money> cr, after which I calmly fly away. Deal?
+101	Кейс с важными документами.	A case with important documents.
+102	Емкое хранилище зашифрованных данных.	A high-capacity data storage device.
+103	Сервер с большим объёмом информации.	Server with large amount of data.
+105	Кассета с закодированной аудиозаписью.	Cassette with encoded audio recording.
+107	Контейнер со странным зелёным веществом.	A container with a strange green substance.
+109	Сосуд с неизвестным препаратом.	Bottle with an unknown drug.

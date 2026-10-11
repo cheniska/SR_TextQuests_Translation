@@ -1,0 +1,7 @@
+1	</color><Type> hull Marauder
+9	Crazy Jack
+35	I have an interesting find for you
+57	Start restart
+58	Show log file
+60	Exit to main menu
+150	Marauder

@@ -1,0 +1,6 @@
+Далее	Next
+Нет, спасибо	No, thank you.
+Я передумал	I changed my mind
+Меня это не интересует	Sorry, not interested
+Спасибо!	Thank you!
+Согласен	Agree

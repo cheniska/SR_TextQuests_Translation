@@ -1,0 +1,53 @@
+энергетическое	energy
+ракетное	missile
+очень высокая	Very high
+высокая	High
+средняя	Average
+низкая	Low
+очень низкая	Very low
+ужасная	Awful
+осколочное	fragmentation
+Черная дыра	Black Hole
+Пикселит	Pixelyte
+Генератор точечной защиты, способный нейтрализовать <Percent>% негативного внешнего воздействия.	An impact-matrix shield generator capable of neutralizing up to <Percent>% of incoming negative effects.
+Дианод	Dianode
+Тех-детектор	Tech Detector
+Производит сканирование технологических объектов с защитным полем менее <Percent>%	Scans for tech objects with a shield generator at less than <Percent>%
+Урон энергетического оружия: <bonWEnergy> ед.	Energy weapon damage: <bonWEnergy> units
+Урон осколочного оружия: <bonWSplinter> ед.	Splinter weapon damage: <bonWSplinter> units
+Урон ракетного оружия: <bonWMissile> ед.	Missile weapon damage: <bonWMissile> units
+Дальность стрельбы: <bonWRadius> ед.	Firing range: <bonWRadius>
+Дальность радара: <bonRadar> млн. км.	Radar range: <bonRadar> million km.
+Масса корабля: <bonMass><clr>%<clrEnd>	Ship mass: <bonMass><clr>%<clrEnd>
+Навык техники: <bonSkill3>	Technology skill: <bonSkill3>
+Эффективность дроида: <bonDroid> ед.	Droid effectiveness: <bonDroid>
+Навык манёвренности: <bonSkill2>	Mobility skill: <bonSkill2>
+Мощность сканера: <bonScan> ед.	Scanner power: <bonScan>.
+Броня корпуса: <bonHull> ед.	Hull armor: <bonHull>
+Скорость двигателя: <bonSpeed> ед.	Engine speed: <bonSpeed>
+Дальность стрельбы: <bonWRadius> млн км	Firing range: <bonWRadius> million km
+Ничего не понимаю. У меня нет Интеркома.	I don't understand anything. I don't have Intercom.
+Келлер	Keller
+Дальность стрельбы	Firing range
+Дальность захвата	Gripper range
+Мощность захвата	Gripper power
+Дальность прыжка	Jump range
+Скорость	Speed
+Ничего я выбирать не буду	I've changed my mind, forget it.
+Клисаны мною еще не изучены. По плану до их изучения осталось около 50 гс. Здесь еще много интересного, хотя, надо признать, в последнее время материала для изучения стало катастрофически мало. Масса различных факторов мешает работе, и окружающее пространство стало однородным.	I haven't studied the klissan yet. They are scheduled to be studied in some 50 gs. There are still quite a few interesting things left here though I must confess there has been precious little new material to study lately. A lot of different factors interfere with work efficiency, and the surrounding space became homogeneous.
+Исследования по перемещению между рукавами мною закончены более 1 гс назад.<br>Я покину данный рукав немедленно. А здесь свои задачи останутся выполнять модули для сбора информации.	I finished studying travel between the arms over 1 gs ago.<br>I will leave this arm immediately. Data collection modules will remain here to complete their mission.
+Вот как? Ну ладно...	Is that right? Fine, then.
+Оплачиваю стоимость самых лучших спецов	I'll pay for the best you've got
+Пусть поработают обычные специалисты	Let the regular crews handle it
+Я заплачу зеленым стажерам!	Interns it is!
+Да, конечно	Yes, of course!
+Нет, спасибо	No, thank you.
+Отказываюсь платить по таким грабительским расценкам!	This is an extortion, I'm not gonna pay!
+Конец связи	Over and out.
+Отменить	Cancel
+На мостик	To the bridge
+Модуль	Module
+Доминатор	Dominator
+Робот	Robot
+Отсутствует	None
+Клиг	Klig

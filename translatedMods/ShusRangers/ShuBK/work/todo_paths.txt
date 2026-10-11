@@ -1,0 +1,7 @@
+1	Script/Mod_ShuBK/GrandBKSale1
+2	Script/Mod_ShuBK/GrandBKSale2
+3	Script/Mod_ShuBK/GrandBKSale3
+4	Script/Mod_ShuBK/GrandBKSale4
+5	Script/Mod_ShuBK/GrandBKSale5
+6	ShipInfo/AddInfo/CustomInfos/ShuBK_SaleInfo/Description
+7	ShipInfo/AddInfo/CustomInfos/ShuBK_SellerBKMarkInfo/Description

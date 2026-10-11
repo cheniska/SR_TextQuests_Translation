@@ -1,0 +1,2 @@
+100	токены/числа/длина	(для применения бонусов требуется превышение<br>мощности сканера над з => (scanner power must exceed target's defense)
+173	токены/числа/длина	Как скажете => Hey, why not, let's try. Always a pleasure to help my old accomplices,

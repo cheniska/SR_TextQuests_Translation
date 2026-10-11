@@ -1,0 +1,8 @@
+1	Mini-torpedo
+2	Small version of torpedo
+3	Magnetical Separator
+4	Dual Turbolaser
+5	Pulse Blaster
+6	Energetic Discharger
+7	Minigun
+8	Revolver Torpedo Tube
