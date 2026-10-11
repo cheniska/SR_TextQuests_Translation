@@ -86,7 +86,7 @@
 252	The remains of an ancient gaalian meteorologist.
 253	Medallion
 254	NewsAdd('The medallion sensed '+(ber+pr)+' Sources of Force disturbances in this system.');
-255	NewsAdd('The medallion sensed in this system:'+Format('<br>')+kl+' kligs'+Format('<br>')+rat+' rattors'+Format('<br>')+sh+' shtips'+Format('<br>')+men+' menks'+Format('<br>')+sm+' smershes'+Format('<br>')+ur+' urgants'+Format('<br>')+eq+' equentors'+Format('<br>')+ber+' bertors');
+255	NewsAdd('The medallion sensed in this system:'+Format('<br>')+kl+' kligs'+Format('<br>')+rat+' rattors'+Format('<br>')+sh+' shtips'+Format('<br>')+men+' menocs'+Format('<br>')+sm+' smershes'+Format('<br>')+ur+' urgants'+Format('<br>')+eq+' equantors'+Format('<br>')+ber+' bertors');
 256	if(!MessageBoxYesNo('The medallion is now searching for Sources of Force. Do you want the medallion to detect enemies?')) exit;
 257	if(!MessageBoxYesNo('The medallion is now searching for the nearest enemies. Do you want the medallion to detect Sources of Force?')) exit;
 258	A strange medallion in the shape of a wolf's head, occasionally trembling barely perceptibly.

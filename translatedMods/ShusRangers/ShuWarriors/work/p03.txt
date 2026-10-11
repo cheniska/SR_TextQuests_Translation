@@ -1,0 +1,41 @@
+257	Greetings, <PlayerRank>! On behalf of the entire crew, allow me to express our deep respect and to offer you, as soon as possible, command of the pride of the Coalition fleet - <FlagshipDeclension>!
+258	Excellent, <PlayerRank>! I will immediately plot a course for approach and docking.
+259	If you later wish to leave our ship, just tell the duty officer on the bridge.
+260	With all due respect, <PlayerRank>, I cannot carry out your order. Docking with our ship is too dangerous for you right now.
+261	Understood, <PlayerRank> - I will immediately plot a course for approach and docking.
+262	It was an honor to serve under your command, <PlayerRank>! But now that the <Star> system is free, <Flagship> returns to the direct control of the Coalition fleet. I must ask you to leave the captain's bridge. By the way, while you were commanding, our mechanics managed to patch up and refuel your ship. I hope to one day be your subordinate again.
+263	You lousy traitor! We entrusted you with the pride of the Coalition fleet, and you decided to stab it in the back!? Well, knives haven't been issued in the fleet for ages, so we'll just have to shoot you...
+264	Leave <Flagship>
+265	I want to take command of your ship
+266	Thank you for the offer, captain, but I have urgent business left - I'll contact you a little later
+267	I would be honored to come aboard!
+268	It was a pleasure to serve side by side with such a gallant crew! [return to your own ship]
+269	But wait, you've got it all wrong!
+270	Yeah, right! So long, Ichthyanders... [leave the flagship on your own ship]
+271	But the first mate... your former first mate, did not listen. As if in slow motion, his hand snatched a blaster from its holster, and a fleeting moment later you felt a burning pain and at the same time a strange lightness in your chest. In surprise you lowered your gaze to find a huge melted hole in your fine Ranger uniform.
+272	The life of the great captain has ended.
+273	Belay that
+274	No, this is your personal order
+275	Yes, this is an order for the whole group
+276	Cancel the attack - <Target> is no longer a priority target
+277	I want you to attack a specific target
+278	Attack <Target>
+279	Aye aye, <PlayerRank>!
+280	Should I pass the same order to the others?
+281	Order understood - very soon <Target> will turn into a handful of space ashes!
+282	Permission to report - I am already attacking <Target>! Therefore I will attack twice as hard!
+283	Pass the same order to the others?
+284	Pass this order to the others?
+285	And which target should I attack, <PlayerRank>?
+286	An info item so that info items don't go crazy. Here a diplomat leaves an order to rough someone up
+287	An info item for controlling the soldier protecting a diplomat
+288	A marker that the player is currently controlling a flagship received for the duration of a military operation
+289	An info item that identifies the system for a military attack
+290	Hidden info item: after the jump into a Coalition system, the retreating MB releases soldiers from its hold
+291	Hidden info item: the system from which the MB departed to attack (where it retreats to and returns)
+292	34, 33, 33, Battleship
+293	34, 33, 33, Dreadnought
+294	Califar
+295	Naginita
+296	Kardaban
+297	Tsveyk

@@ -1,0 +1,128 @@
+4	Strictly speaking, intelligence is strategically important information and shouldn't be disclosed just like that, but times are different now, and whoever you are, we'll hand this information over. Get ready to study the list!
+5	(under <color=20,20,220>Coalition</color> control)
+6	(under <color=220,20,20>invader</color> control)
+7	(under Clan control)
+8	System star controlled
+9	Sector sector
+10	Number of enemies: count
+11	I need a summary of the number of Coalition enemies
+12	I need to get some information
+13	Information, fighter? Well, go on, explain which kind - we have plenty of information, including classified
+14	When will I get the rank NextRank?
+15	To get the rank NextRank, you need to earn NeedPoints military pilot points. Here is the scale of points awarded for downed dominator ships:
+16	Fearsome Superdominator - <clr>70<clrEnd>
+17	Formidable Shipyard - <clr>60<clrEnd>
+18	Monstrous Bertor - <clr>60<clrEnd>
+19	Heavy Equantor - <clr>48<clrEnd>
+20	Striking Urgant - <clr>24<clrEnd>
+21	Traitor Ranger - <clr>15<clrEnd>
+22	Deadly Smersh - <clr>12<clrEnd>
+23	Light Menoc - <clr>6<clrEnd>
+24	Agile Shtip - <clr>3<clrEnd>
+25	Inconspicuous Tranclucator - <clr>1<clrEnd>
+26	Treacherous Rattor - <clr>1<clrEnd>
+27	Desperate Klig - <clr>1<clrEnd>
+28	And here is the scale of points awarded for downed pirate ships:
+29	Galleon - <clr>60<clrEnd>
+30	Frigate - <clr>45<clrEnd>
+31	Corvette - <clr>25<clrEnd>
+32	Condottiere - <clr>15<clrEnd>
+33	Khan - <clr>15<clrEnd>
+34	Cutthroat - <clr>12<clrEnd>
+35	For the kill of each pirate - <clr>10<clrEnd> points, including pirate Rangers.
+36	For the kill of each pirate - <clr>10<clrEnd> points, including pirate Rangers and traitors.
+37	And here is the scale of points awarded for downed klissan ships:
+38	Neurolink - <clr>40<clrEnd> points.
+39	All-Destroying Gigas - <clr>60<clrEnd> points.
+40	Mighty Egemon - <clr>30<clrEnd> points.
+41	Devastating Nondus - <clr>20<clrEnd> points.
+42	Swift Katauri - <clr>10<clrEnd> points.
+43	Invading Rogit - <clr>5<clrEnd> points.
+44	Annoying Little Mutant - <clr>2<clrEnd> points.
+45	For liberating systems we award <clr>30<clrEnd> points.
+46	If several ships took part in a combat operation at once, all of its participants receive points. The one who fires the killing shot gets points at the base rate, and everyone else is awarded half the points due for the downed ship.
+47	In addition, you will earn warrior points for carrying out various military assignments from planetary governments. Yes, yes, we keep track of everything. And for violating flight rules, for killing peaceful ships, for showing cowardice and for deserting the battlefield, you will lose points, up to losing your rank! Is that clear, <Player>?!
+48	Engine: engine
+49	Fuel tank: tank
+50	Radar: radar
+51	Scanner: scaner
+52	Shield generator: def
+53	Repair droid: droid
+54	Gripper: hook
+55	Weapon 1: weap1
+56	Weapon 2: weap2
+57	Weapon 3: weap3
+58	Weapon 4: weap4
+59	Weapon 5: weap5
+60	Free space of the soldier: place t.
+61	Nothing for now, thanks
+62	And here is a more specific information summary:
+63	Coalition: p1%, c1 systems
+64	Blazeroids: p2%, c2 systems
+65	Kelleroids: p3%, c3 systems
+66	Terronoids: p4%, c4 systems
+67	Arks: p7%, c7 systems
+68	Pirate Clan: p5%, c5 systems
+69	Klissans: p6%, c6 systems
+70	It's not customary to disclose information on combat operations. But we make exceptions for Rangers. At the moment the situation on the fronts is dire. Enemy forces have already seized almost our entire arm of the Galaxy: the dominators control <DominatorsPercent>% of star systems and pirates hold another <PiratesPercent>% in their clutches. The surviving Rangers plan to begin an operation to liberate the <Star> system. All our hopes rest on people like you, <Player>.
+71	It's not customary to disclose information on combat operations. But we make exceptions for Rangers. At the moment the situation on the fronts is dire. Enemy forces are seizing system after system. Pirates now hold <PiratesPercent>% of the galaxy and <DominatorsPercent>% is under dominator control.<br>We are about to retake the <Star> system. If you, <Player>, want to take part in this operation, hurry, since several Rangers have already volunteered for the liberation.
+72	At present we own only <Percent>% of the settled systems. The dominators hold <DominatorsPercent>% of the territory, and the pirates <PiratesPercent>%. That is a deplorable fact, as is the fact that we are hopelessly losing.<br>A strategically important point for us is the <Star> system (sector <Sector>). You must fly there, <Player>, and take part in the fighting.
+73	Lately the initiative has been passing from one side to the other. The enemies refuse to give up their positions. The dominators control <DominatorsPercent>% of the settled territories, and the pirates, in turn, hold <PiratesPercent>%. But the end is near. One side will sooner or later prevail, and we hope victory will go to the Coalition.<br>You, <Player>, can lend us what help you can by liberating the <Star> system in sector <Sector>.
+74	Things are going well. We control <Percent>% of the inhabited part of our galaxy. <PiratesPercent>% of the territories lie under pirate tyranny, and <DominatorsPercent>% of star systems are considered dominator-controlled. Rangers together with the armed forces are slowly pushing enemy forces out of the captured territories. Our technology can currently compete successfully with theirs, and our weapons strike their ships effectively. So believe, <Player>, in our victory! We are, in fact, planning the liberation of the <Star> system in sector <Sector> right now.
+75	We fully control our arm of the Galaxy and are practically celebrating victory already. The pirate clan, according to our information, is defeated, Ranger <Player>.
+76	According to competent sources, the <StarEnemy> system will soon be liberated. An unprecedented military operation will begin on <Date>.
+77	All free pilots are ordered to assemble at military base <WB> (<WBStar> system). Hurry, combat slots are strictly limited!
+78	Our source in military circles reports that on <Date> military base <WB> intends to make a hyperspace jump into the enemy-held <StarEnemy> system to free it once and for all from the uninvited occupiers.
+79	Those wishing to join the attack are advised to head as soon as possible to the <WBStar> system, where military base <WB> will be waiting for all concerned pilots.
+80	Breaking news from the <WBStar> system!
+81	Military base <WB> plans an unprecedented operation to liberate the <StarEnemy> system, in which elite army units will take part. Rangers also have the chance to join this action, set for <Date>. It is reported that pilots will receive more detailed instructions at the military base.
+82	of class J
+83	Class L (<0> structure units)
+84	of class L
+85	Class S (<0> structure units)
+86	of class S
+87	Class N (<0> structure units)
+88	of class N
+89	Class M (<0> structure units)
+90	of class M
+91	Abort the process of assembling the soldier
+92	Confirm the assembly
+93	I want to assemble another pilot
+94	Hey, Ranger! You did well in this battle. Indeed, Rangers are worth something! Our command has already issued you
+95	Hey, Ranger! You did well in this battle. Indeed, Rangers are worth something! Our command has already issued a brand-new award in your name. We'll be glad to see you side by side with us in future battles
+96	We'll be glad to see you side by side with us in future battles
+97	copies of the camouflage of series
+98	Hey, Ranger! You did well in this battle. Indeed, Rangers are worth something! Our command has already transferred to you
+99	Hey there, Ranger! Don't you want to help our brave army deal with the damned invaders? Then come with us to liberate the system! Let's see who handles the invaders faster: the vaunted Rangers or the workhorses! And if you have doubts, we have a little present set aside for those who join our operation. So, deal?
+100	Go to changing the pilot's equipment
+101	units of damage at a range of
+102	units of damage
+103	<color=220,20,20>absent</color>
+104	Interstellar Coalition Forces
+105	copies of one of our anti-dominator programs. We'll be glad to see you side by side with us in future battles
+107	I want to equip a pilot
+108	If you have a lot of spare equipment lying around, you can help us equip pilots.
+109	million km)
+110	t. at a range of
+111	units of fuel)
+112	Well, liberator of the Galaxy, have you decided to help us? Commendable, commendable.<br><br>Actually, I must explain. Despite active funding from the Galaxy Council, CAFIC is experiencing serious problems equipping the number of pilots needed for the front.<br><br>You, Ranger, have shown yourself to be an excellent pilot who can be trusted with the responsible task of equipping our pilots.
+113	Our reserve always contains a large number of pilots - some lost their hull in fierce combat but were carried out of the battlefield in an escape pod and rescued by Rangers, some dragged a ship smashed to scrap to a spaceport, and some are simply our stock, gradually called up as pilots die at the front.<br><br>Either way, we can let you choose the <clr>race<clrEnd> of the pilot you will be equipping.
+114	Excellent! Now choose the pilot's hull size according to our hull size scale<br><br>Here is our price list:<br>Class M - <0> cr.<br>Class N - <1> cr.<br>Class J - <2> cr.<br>Class L - <3> cr.<br>Class S - <4> cr.
+115	Good! Now very little remains - equipping the ship with equipment.<br>So you have a sense of the orders of magnitude, here is the current information on the ship being assembled:<br>==================<br>Pilot: <0><br>Ship: <1> (<2> structure units)<br>-------Equipment-------<br><3><br>==================<br>Given your warrior rating, you receive a discount of <4>%, so you will need to pay <5> cr.
+116	That's all, Ranger!<br>The soldier you assembled will soon rise into orbit of planet <0> to begin serving in our system. Meanwhile, we can attend to other business!
+117	It's a great honor, but not now, sorry.
+118	I think I'll take part, thank you!
+119	To defeat the enemy one must surpass him not in numbers but in skill, at which the <color=220,100,250>faeyans</color> excel.
+121	A calm and level-headed <color=50,150,230>human</color> is my choice!
+123	Military cunning is no less effective than force. We need a <color=130,150,40>leprasa</color>.
+125	No time for weakness - the son of <color=255,0,0>Ramgatrue</color> will grind our enemies to dust!
+127	This space needs harmony - call for a <color=250,250,100>gaalian</color> pilot.
+129	Class J (<0> structure units)
+130	By battleship
+131	By dreadnought
+132	The Command of the Armed Forces of the Interstellar Coalition announces the start of a general offensive! Simultaneous strikes will be made on several fronts at once: <Targets>. The assembly of forces has begun, the attack is set for <Date>. Rangers who wish to contribute to the liberation of the Galaxy may join any of the fronts - those who distinguish themselves will be rewarded.
+133	The Coalition's general offensive has begun! Troops have been ordered to attack the systems <Targets>.
+134	The Coalition's general offensive has failed: not one of the attacked systems (<Failed>) could be liberated. Command promises to draw conclusions and prepare a new strike.
+135	The Coalition's general offensive is over. Systems liberated: <Count> of <Total> (<Liberated>). On the other fronts (<Failed>) the troops failed to break the enemy's resistance.
+136	The Coalition's general offensive ended in complete success! All the systems that were struck have been liberated: <Liberated>. The enemy has been thrown back, and the Coalition is one step closer to victory.
+137	The Command of the Armed Forces of the Interstellar Coalition thanks you for taking part in the liberation of the <Star> system during the general offensive. <Money> cr. has been transferred to your account.

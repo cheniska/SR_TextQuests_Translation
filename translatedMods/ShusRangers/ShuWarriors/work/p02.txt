@@ -1,0 +1,119 @@
+138	<StarEnemy> (assembly in the <StarNormal> system, headquarters - military base <WB> in the <StarWB> system)
+139	Mil. base
+140	Er-m... I would like to ask you here... to start a military operation
+141	Boor!
+142	Ha! Well, <Player> - you've made me laugh! Do you think we should now bow to the feet of every Tom, Dick and Harry who only yesterday got a Ranger badge? No way!
+143	Come back when you've gained some military experience and learned a bit of command. Look at that, an "admiral" has turned up! Now march out of here!
+144	And yet it's sad
+145	I would like to organize a military operation
+146	Of course - here's the money
+147	No, you know - that's somehow too much
+148	Something tells me such an investment could be regretted, and more than once - I'd rather pass
+149	All right, if it goes toward the common good, I don't mind - I agree
+150	Well, I see
+151	The words of a man, not a boy! Well then, we'll gather the analysts right now and work out what's what.
+152	So, before you are the outlines of the plan we have drawn up. By our calculations we should sweep the enemy aside with one hand, and all that's required of you is to sponsor this undertaking. I hope the sum is acceptable?
+153	System to be attacked: <StarToAttack>
+154	Size of our forces: <AlliesNumbers>
+155	Size of the enemy: <EnemyNumbers>
+156	Assembly point: <GatheringPlace>
+157	Attack start date: <AttackDate>
+158	Cost of the operation: <Cost> cr.
+159	The words of a man, not a boy! Well then, we'll gather the analysts right now and work out what's what.
+160	Well, there's no good news this time. Our whole department argued for a long time and came to the conclusion that organizing a successful operation is simply impossible at present. All odds are against us; the forces of sector <Sector> are not enough to attack the enemy. But don't lose heart, <PlayerRank>! As soon as our shipyards turn out new strike ships, we will certainly show these scoundrels who's who!
+161	Now that's talk! Comrade officers - you heard everything. Very soon our boys will go into a battle that may be the last for some of them. Each of you has much work ahead in the coming days, and I expect you to carry out your duty with dignity. The planned date for the start of the offensive is <AttackDate>. Dismissed.
+162	Then why were you so eager to be an investor, huh? You came with serious intentions, and now you want to back out? We launched the "Nondus" for nothing because of you!
+163	Ha! What, chickened out, "investor"? Well, little is expected from a black sheep, so I won't condemn you much for it. Better fly on and collect your minerals.
+164	Our base is currently busy preparing the attack on the <StarToAttack> system that you ordered, and we cannot handle several operations at once. Come back after our boys have been sent into battle.
+165	What, <PlayerRank>, already consider yourself experienced enough for strategic command? Well, I don't.
+166	Nevertheless, if you sincerely want to help the common cause - that is always welcome here. We won't let you choose the direction of the strike, of course, but you will have the honor of paying the setup fee to organize the attack. And your name will be stamped on at least one shell used in the offensive against the tin cans. So, what do you say, <PlayerRank>?
+167	I might have agreed to let you sponsor such an undertaking, but unfortunately our analytics department found not a single system in the Galaxy suitable for attack. It seems we have beaten everyone.
+168	I might have agreed to let you sponsor such an undertaking, but judging by our latest transmissions, there is not a single regular warship left in sector <Sector> that could soon be sent into battle. It seems we are all alone here.
+169	How is the preparation for the military operation going?
+170	Begin the operation
+171	Cancel the operation
+172	Perhaps I was a bit hasty - I need to think it all over once more
+173	Of course!
+174	Choose the attack date
+175	Specify the desired attack start date:
+176	Choose the attacking force
+177	Select all
+178	Deselect all
+179	Use all
+180	Cancel all
+181	Choose a flagship
+182	Choose an assembly point
+183	(not enough attacking ships)
+184	Cancel selection
+185	Choose the system to attack
+186	(under attack)
+187	Order construction of ships
+188	Shipyard of planet <Planet>
+189	(<color=0,132,15>launched</color>)
+190	Finish planning
+191	We'd better hurry
+192	Go to planning
+193	Well, <PlayerRank> - have you planned the operation? I bet you missed something. But that's what senior officers are for, right, heh-heh? Honestly, though, as for me - if we have the numbers, there's nothing to discuss.
+194	A good plan, <PlayerRank>! Comrade officers, very soon our boys will go into a battle that may be their last. Each of you has much work ahead in the coming days, and I expect you to carry out your duty with dignity. The planned date for the start of the offensive is <AttackDate>. Dismissed.
+195	I would also be sincerely glad if you could personally lead our boys in the offensive, <Player>.
+196	Any difficulties, <PlayerRank>? I understand - planning is no easy matter. Let me know if you want to try again.
+197	Sorry to hear that, <PlayerRank>. I had already hoped for a good battle. I hope next time you won't disappoint me.
+198	Now that's the spirit, <PlayerRank>! In that case give us a few minutes to verify all the data.
+199	So, before you is the operation planning screen - all our operational data at a glance. Convenient, isn't it? Anyway, when you finish planning, let me know so I can give the order to begin assembly.
+200	We're behind schedule by only <AttackDate> days so far, but as soon as all the stragglers reach the assembly point in the <GatheringStar> system, we will send everyone to attack the <StarToAttack> system at once.
+201	The raid on the <StarToAttack> system is scheduled for <AttackDate>. Our boys are already gathering at the assembly point in the <GatheringStar> system.
+202	Before you is an unfolded holographic map of the explored arm of the Galaxy, with the system chosen for the strike marked by a red dot. Below it is a monitor for assessing and selecting your offensive forces.
+203	Attack target: <Indent><StarToAttack>
+204	Size of your forces: <Indent><AlliesNumbers>
+205	Size of the enemy: <Indent><EnemyNumbers>
+206	Force ratio: <Indent><ForcesRatio>
+207	Flagship: <Indent><Flagship>
+208	Assembly point: <Indent><GatheringPlace>
+209	Start date: <Indent><AttackDate>
+210	Ships taking part in the attack: <AttackShipsList>
+211	Not selected
+212	Not selected
+213	Preparations are in full swing, <PlayerRank>. Officers are consuming battle-coffee by the decaliter - everyone wants to do his duty as well as possible so as not to put his comrades-in-arms at risk. <DateStatus>
+214	Here is the current status of all official participants in the attack: <AttackShipsList>
+215	(<color=0,132,15>arrived</color>)
+216	(<color=0,50,200>under construction</color>)
+217	(<color=0,50,200>en route</color>)
+218	(<color=255,0,0>running late</color>)
+219	Well, a commendable initiative, <PlayerRank>.
+220	As you probably know, fleet command welcomes the initiative of experienced Rangers in organizing attacks, especially those they agree to sponsor partially. So supplying our boys with weapons, ammunition and other gear needed in battle is all on you. You will, of course, not be able to choose the system to attack, but we will grant you limited access to our headquarters planning terminal - you've earned it. In addition, we also guarantee you partial <clr>coordination<clrEnd> of our forces in the battle itself and even direct control of your own <clr>flagship<clrEnd>, if there is one among the attackers.
+221	Well, what do you say, <PlayerRank> - still itching for battle?
+222	I regret, <PlayerRank>, but our analytics department found not a single system in the Galaxy suitable for attack. It seems we have beaten everyone.
+223	I regret, <PlayerRank>, but judging by our latest transmissions, there is not a single regular warship left in sector <Sector> that could soon be sent into battle. It seems we are all alone here.
+224	We need to push harder!
+225	I wish to organize a military operation
+226	Well, <PlayerRank> - have you planned the operation? Ready to announce the start of the offensive? As for me - if we have the numbers, there's nothing to discuss!
+227	An excellent plan, <PlayerRank>! Comrade officers - you heard our colleague. Very soon our boys will go into a battle that may be their last. Each of you has much work ahead in the coming days, and I expect you to carry out your duty with dignity. The planned date for the start of the offensive is <AttackDate>. Dismissed.
+228	An excellent plan, <PlayerRank>! Comrade officers - you heard our colleague. Very soon we will go into battle, and I expect each of you to carry out his duty with honor! The planned date for the start of the offensive is <AttackDate>. Dismissed.
+229	I also sincerely hope to see you in our brave ranks, <Player>. A free spot in our cryopod has already been booked for you.
+230	Any unforeseen difficulties, <PlayerRank>? I understand - planning is no easy matter. Let me know if you want to draw up a new plan.
+231	As you say, <PlayerRank>. Stand down, boys!
+232	In that case we'll wait for new ideas from you.
+233	Excellent, <PlayerRank>! In that case give us a couple more minutes to verify all the data.
+234	Before you is an unfolded holographic map of the explored arm of the Galaxy, with possible systems for a strike marked by red dots. Below it is a monitor for assessing and selecting your offensive forces.
+235	Commendable, <PlayerRank>! I'll issue the appropriate orders right away.
+236	Just in case, I remind you that although fleet command bears a considerable part of the costs, you will still have to pay the organizational fee: supplying our boys with weapons, ammunition and other gear needed in battle. You will be able to choose the system to attack yourself, and if our current forces in sector <Sector> prove insufficient, you will also be able to <clr>order the construction<clrEnd> of several new fighters to improve the odds. Moreover, as a distinguished officer and warrior, you will be allowed to <clr>lead the attack<clrEnd> by choosing one of the battleships taking part and <clr>personally taking<clrEnd> it into battle. Of course, your personal participation in the battle is not at all mandatory, but always warmly welcomed.
+237	Our signalmen have already been dispatched to verify the forces on hand in sector <Sector>, but if you decide to change your mind, I will recall them immediately. So, <PlayerRank> - into battle?
+238	Well, <PlayerRank> - have you planned the operation? Ready to decide on starting the offensive? As for me - if we have the numbers, there's nothing to discuss! But you know better, of course.
+239	Understood, <PlayerRank>! Comrade officers - you heard the order. Very soon our boys will go into a battle that may be their last. Each of you has much work ahead in the coming days, and I expect you to carry out your duty with dignity. The planned date for the start of the offensive is <AttackDate>. Dismissed.
+240	Understood, <PlayerRank>! Comrade officers - you heard the order. Very soon we will go into battle, and I expect each of you to carry out his duty with honor! The planned date for the start of the offensive is <AttackDate>. Dismissed.
+241	I also sincerely hope to see you in our brave ranks, <Player>. A free spot in our best cryopod has already been booked for you.
+242	In that case we'll wait for new brilliant ideas from you.
+243	So, before you is the operation planning screen - all our operational data at a glance. Convenient, isn't it? Anyway, when you finish planning, let me know so I can pass the order to begin assembly.
+244	We're behind schedule by only <AttackDate> days so far, but as soon as all the stragglers are aboard, we will immediately jump to the <StarToAttack> system.
+245	The jump to the <StarToAttack> system is scheduled for <AttackDate>.
+246	Preparations are in full swing, <PlayerRank>! The whole officer corps is on stimulants - everyone wants to do his duty as well as possible so as not to put his comrades-in-arms at risk. <DateStatus>
+247	I regret to report that we have lost all the warships that were supposed to take part in the offensive. Nevertheless, military pride does not allow me to order the attack canceled. Military base <MilitaryBase> is still a formidable battle station, and I'll be damned if we don't at least try to retake the <StarToAttack> system from the enemy!
+248	The operation start date is <AttackDate>. I recommend you not be late to our feast of pure heroism, <Player>.
+249	Understood, <PlayerRank>! I'll issue the appropriate orders right away.
+250	Just in case, I remind you that although fleet command bears a considerable part of the costs, you will still have to pay the organizational fee: supplying our boys with weapons, ammunition and other gear needed in battle. You will be able to choose the system to attack yourself, and if our current forces in sector <Sector> prove insufficient, you will also be able to <clr>order the construction<clrEnd> of several new fighters to improve the odds. Moreover, as a distinguished officer and warrior, you will be allowed to <clr>lead the attack<clrEnd> by choosing one of the battleships taking part and <clr>personally taking<clrEnd> it into battle. Of course, your personal participation in the battle is not at all mandatory, but always warmly welcomed. The assembly point for the forces before the attack may be any suitable system or our formidable <clr>military base<clrEnd> <MilitaryBase>. It will be an honor for us to go into battle under the command of such a renowned commander as you, <Player>.
+251	Our best signalmen have already been dispatched to verify the forces on hand in sector <Sector>, but if you decide to change your mind, I will recall them immediately. So, <PlayerRank> - into battle?
+252	Ranger <Player>!
+253	Your "achievements" in destroying Coalition ships could not fail to interest CAFIC. In view of this, command has decided to <color=220,20,20>strip</color> you of <clr>100<clrEnd> military rank points.
+254	Without respect, CAFIC.
+255	Your "achievements" in destroying Coalition ships could not fail to interest CAFIC. In view of this, command has decided to <color=220,20,20>demote</color> you. From now on you are rank!
+256	Are you sure you want to give up command of the flagship, <PlayerRank>?
