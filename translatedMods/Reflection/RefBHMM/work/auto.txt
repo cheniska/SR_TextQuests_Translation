@@ -10,4 +10,5 @@
 Урон осколочного оружия: <bonWSplinter> ед.	Splinter weapon damage: <bonWSplinter> units
 Мощность сканера: <bonScan><clr>%<clrEnd>	Scanner power: <bonScan><clr>%<clrEnd>
 Мощность защитного поля: <bonDef><clr>%<clrEnd>	Shield power: <bonDef><clr>%<clrEnd>
+Дальность радара: <bonRadar> млн. км.	Radar range: <bonRadar> million km.
 Эффективность дроида: <bonDroid> ед.	Droid effectiveness: <bonDroid>

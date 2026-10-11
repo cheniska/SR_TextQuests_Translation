@@ -20,5 +20,4 @@
 20	MicroModuls/RefMM_Bh24/Text
 21	MicroModuls/RefMM_Bh25/Text
 22	MicroModuls/RefMM_Bh25/Text
-23	MicroModuls/RefMM_Bh27/Text
-24	MicroModuls/RefMM_Bh29/Text
+23	MicroModuls/RefMM_Bh29/Text

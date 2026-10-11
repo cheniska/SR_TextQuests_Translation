@@ -1,7 +1,9 @@
+(сломан)	(broken)
 Урон осколочного оружия: <bonWSplinter> ед.	Splinter weapon damage: <bonWSplinter> units
 Дальность стрельбы: <bonWRadius> млн км	Firing range: <bonWRadius> million km
 Скорость двигателя: <bonSpeed> ед.	Engine speed: <bonSpeed>
 Дальность прыжка: <bonJump> пк.	Jump range: <bonJump> pc
+Дальность радара: <bonRadar> млн. км.	Radar range: <bonRadar> million km.
 Навык торговли: <bonSkill4>	Commerce skill: <bonSkill4>
 Броня корпуса: <bonHull> ед.	Hull armor: <bonHull>
 Мощность защитного поля: <bonDef><clr>%<clrEnd>	Shield power: <bonDef><clr>%<clrEnd>
@@ -12,8 +14,9 @@
 Скорость ракет: <bonMissileSpeed> ед.	Missile speed: <bonMissileSpeed> units
 Масса корабля: <bonMass><clr>%<clrEnd>	Ship mass: <bonMass><clr>%<clrEnd>
 Эффективность дроида: <bonDroid> ед.	Droid effectiveness: <bonDroid>
-Размер: <clr>+100%<clrEnd>	Cost: <clr>+100%<clrEnd>
+Размер: <clr>+100%<clrEnd>	Size: <clr>+100%<clrEnd>
 Пока	So long
+Что-нибудь еще?	Will there be anything else?
 Хорошо	Good
 Отлично!	Excellent!
 Спасибо	Thanks
@@ -22,6 +25,139 @@
 Конец связи	Over and out.
 за	for
 1 января	January 1
-Ясно	I see
+Ясно	Roger that.
 В другой раз	Another time
 Назад	Back
+Структура:	Structure:
+, система	, system
+Админ	Admin
+Баттон	Button
+Террабайт	Terabyte
+Техно	Techno
+Траблоид	Trabloid
+Трансформер	Transformer
+Триггер	Trigger
+Троянец	Trojan
+Фидошник	FidoNet
+Фиксатор	Fixer
+Флешер	Flashman
+Флопик	Floppy
+Бит	Bit
+Флудер	Flooder
+Форт	Fort
+Фраг	Frag
+Хостер	Hoster
+Чипсет	Chipset
+Читер	Cheater
+Шифт	Font
+Штрихкод	Barcode
+Эксплорер	Explorer
+Элемент	Element
+Блог	Blog
+Эникей	Anykey
+Эрджишка	Deleter
+Эрнотрон	Ernotron
+Юзер	User
+Болид	Bolide
+Бот	Bot
+Варезник	Warezman
+Веб	Web
+Вектор	Vector
+Виборг	Viborg
+Виндовоз	Windowcart
+Альт	Alt
+Вирус	Virus
+Воксель	Voxel
+Гаджет	Gadget
+Гейтс	Gates
+Геном	Genome
+Гиг	Gig
+Гигабайт	Gigabyte
+Гигагерц	Gigahertz
+Глюк	Glitch
+Гранулятор	Granulator
+Ампер	Amp
+Гугол	Googol
+Девайс	Device
+Делитер	Deleter
+Дефраг	Defrag
+Диод	Diode
+Драйвер	Driver
+Дум	Doom
+Едитор	Editor
+Ентер	Enter
+Запал	Fuse
+Антивирь	Antivirus
+Зоннатор	Zoner
+Инсерт	Insert
+Инсталл	Install
+Интерно	Interno
+Кибердемон	Cyberdemon
+Кнопочник	Keyboarder
+Кодер	Coder
+Коннектор	Connector
+Контрол	Control
+Контупер	Contuper
+Архиватор	Archiver
+Копирайт	Copyright
+Кракер	Cracker
+Кранк	Crank
+Ксенод	Xenode
+Ламер	Lamer
+Лаптоп	Laptop
+Лексус	Lexus
+Линковщик	Linker
+Логин	Login
+Макинтош	Macintosh
+Аська	ICQ
+Мануал	Manual
+Масдай	Mustdie
+Мегафон	Megaphone
+Молот	Hammer
+Момед	Modem
+Навигатор	Navigator
+Напстер	Napster
+Окуляр	Ocular
+Омега	Omega
+Осцилог	Oscilog
+Баг	Bug
+Палмовод	Palmdriver
+Пауз	Pause
+Перезагруз	Reload
+Перс	Perses
+Плоттер	Plotter
+Поувер	Power
+Прессор	Pressor
+Провайдер	Provider
+Протокол	Protocol
+Проц	Processor
+Байт	Byte
+Ридер	Rider
+Сабж	Subject
+Сакс	Sax
+Своп	Swap
+Сервак	Server
+Сетчатник	Netset
+Симка	SIM
+Синхрон	Sync
+Сисоп	Sysop
+Софтос	Softos
+Баннер	Banner
+Спаммер	Spammer
+Сплавир	Welder
+Стеккер	Staker
+Стенсель	Stensel
+Схемщик	Schemer
+Табулятор	Tabulator
+Тангентор	Tangent
+Твинкам	Twincam
+Терминатор	Terminator
+Термос	Thermos
+Клиг	Klig
+Штип	Shtip
+Менок	Menoc
+Смерш	Smersh
+Ургант	Urgant
+Эквентор	Equantor
+Бертор	Bertor
+Доминатор	Dominator

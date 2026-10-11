@@ -1,5 +1,10 @@
 Пират	Pirate
+Спецагент	Secret Agent
+Мощность энергетического оружия: <bonWEnergy> ед.	Energy weapon power: <bonWEnergy> units
+Мощность ракетного оружия: <bonWMissile> ед.	Missile weapon power: <bonWMissile> units
+Мощность осколочного оружия: <bonWSplinter> ед.	Splinter weapon power: <bonWSplinter> units
 Скорость двигателя: <bonSpeed> ед.	Engine speed: <bonSpeed>
+Мощность захвата: <bonHook> ед.	Gripper power: <bonHook>
 Дальность захвата: <bonHookRadius> ед.	Gripper range: <bonHookRadius>
 Эффективность дроида: <bonDroid> ед.	Droid effectiveness: <bonDroid>
 Отмена	Cancel

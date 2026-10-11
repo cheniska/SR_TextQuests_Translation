@@ -1,5 +1,6 @@
 Скорость двигателя: <bonSpeed> ед.	Engine speed: <bonSpeed>
 Дальность прыжка: <bonJump> пк.	Jump range: <bonJump> pc
+Дальность радара: <bonRadar> млн. км.	Radar range: <bonRadar> million km.
 Броня корпуса: <bonHull> ед.	Hull armor: <bonHull>
 Урон энергетического оружия: <bonWEnergy> ед.	Energy weapon damage: <bonWEnergy> units
 Урон ракетного оружия: <bonWMissile> ед.	Missile weapon damage: <bonWMissile> units
@@ -11,4 +12,5 @@
 Навык манёвренности: <bonSkill2>	Mobility skill: <bonSkill2>
 Навык техники: <bonSkill3>	Technology skill: <bonSkill3>
 Эффективность дроида: <bonDroid> ед.	Droid effectiveness: <bonDroid>
+Мощность сканера: <bonScan>%	Scanner power: <bonScan>%
 Инфошка-флаг	Flag info item

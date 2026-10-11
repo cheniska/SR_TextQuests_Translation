@@ -1,2 +1,4 @@
+Май	May
+Август	August
 Да	Yes
 Нет	No

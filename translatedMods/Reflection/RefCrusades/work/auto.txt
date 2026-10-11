@@ -1,3 +1,4 @@
+Рыцарь	Knight
 Броня корпуса: <bonHull> ед.	Hull armor: <bonHull>
 Эффективность дроида: <bonDroid> ед.	Droid effectiveness: <bonDroid>
 Скорость двигателя: <bonSpeed> ед.	Engine speed: <bonSpeed>

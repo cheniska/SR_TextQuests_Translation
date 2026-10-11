@@ -75,8 +75,8 @@
 75	MicroModuls/RefMMGeorge_8/Text
 76	MicroModuls/RefMMGeorge_9/Name
 77	MicroModuls/RefMMGeorge_9/Text
-78	MicroModuls/RefMMGeorge_9/Text
-79	MicroModuls/RefMM_Ultravers/Name
+78	MicroModuls/RefMM_Ultravers/Name
+79	MicroModuls/RefMM_Ultravers/Text
 80	MicroModuls/RefMM_Ultravers/Text
 81	MicroModuls/RefMM_Ultravers/Text
 82	MicroModuls/RefMM_Ultravers/Text
@@ -89,4 +89,3 @@
 89	MicroModuls/RefMM_Ultravers/Text
 90	MicroModuls/RefMM_Ultravers/Text
 91	MicroModuls/RefMM_Ultravers/Text
-92	MicroModuls/RefMM_Ultravers/Text

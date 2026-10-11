@@ -1,9 +1,51 @@
+Сапфир	Sapphire
+Изумруд	Emerald
+Рубин	Ruby
+Малахит	Malachite
+Анархист	Anarchist
+Черная жемчужина	Black pearl
+Кардиограмма	Cardiogram
+Каракатица	Cuttlefish
+Восход	Sunrise
+Млечный путь	Milky Way
+Могучий	Mighty
+Жемчужина	Pearl
+Эллада	Iliad
+Зенит	Zenith
+Каратель	Punisher
+Торнадо	Tornado
+Провайдер	Provider
 Коллектор	Collector
+Блендер	 Blender
+Юникс	Unix
+Диод	Diode
+Трубадур	Troubadour
+Зелиф	Zelif
 Иваныч	Ivanych
+Молот	Hammer
+Заноза	Splinter
+Стрелок	Gunner
 Степаныч	Stepanych
+Уграган	Ugragan
+Перикл	Pericles
+Персей	Perseus
+Аякс	Ajax
+Парис	Paris
+Сокол	Falcon
+Циклон	Cyclone
+Витязь	Hero
+Рыцарь	Knight
+Перун	Peroun
+Багратион	Bagration
 Гоплит	Hoplite
 Разящий	Striking
+Анархия	Anarchy
+Диктатура	Dictatorship
+Монархия	Monarchy
+Республика	Republic
+Смеш.	Blaz.
 Атаман	Capo
+Убийца	Assassin
 Рейдер	Raider
 Из модов	From Mods
-Помимо этого, в системе не должно остаться никаких коалиционных баз, кроме медицинских центров. Эти нам самим пригодятся. Про пиратские базы отвечать не нужно, я думаю? Ты же не совсем глупый, если в рейнджеры пробился.	Keep in mind - while it's cool and fun, you shouldn't capture all of the Coalition' systems at once, since all of the stuff worth mentioning is being produced within their borders, plus most of the business centers, where we house our bank accounts, are also located there. Besides, their military, for what it's worth, is still making some efforts in order to protect the galaxy from Dominators - and you know that every planet we take over eventually turns into a complete madhouse, everybody's drinking, fighting and that kind of stuff. If it's going to be like that everywhere, we'll be easy prey for Dominators, so while the Coalition is fighting, it's wiser to hide behind their backs and make some money. Got it?
+Помимо этого, в системе не должно остаться никаких коалиционных баз, кроме медицинских центров. Эти нам самим пригодятся. Про пиратские базы отвечать не нужно, я думаю? Ты же не совсем глупый, если в рейнджеры пробился.	Besides that, all the Coalition' bases should be destroyed, except medical centers, they'll be of use to us. I believe, I shouldn't mention our very pirate bases, you shouldn't attack them too - you look smart enough to understand that by yourself.

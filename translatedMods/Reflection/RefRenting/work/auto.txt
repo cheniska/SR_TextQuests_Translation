@@ -1,5 +1,91 @@
+Двима	Drover
+Жампа	Jumpa
+Джейк	Jake
+Джампгейтор 3.11	Jumpgator 3.11
+Гугаал	Gugaal
+Эксплодер	Exploder
+Сдвиг	Displacement
+Стратер	Strutter
+Фэйджоуль	Faejoel
+Аппер	Upper
+Хокус	Hocus
+Парагон	Paragon
+Магникум	Magnicum
+Антент	Antent
+Минивизион	Minivision
+Спаай	Insighter
+Конвектор	Convector
+Лирекрон	Lirecron
+Кафаситор	Caphasitor
+Эсодафер	Esodapher
+Турбогравир	Turbogravitron
+Дезинтегратор	Disintegrator
+Атомный визион	Atomic Vision
+Мультирезонатор	Multiresonator
+Электронный резак	Electronic Cutter
+Потоковый бластер	Flow Blaster
+Волновой фазер	Wave Phaser
+Третон	Treton
+Лезка	Flux
+Осколочное орудие	Fragmentation Weapons
+Промышленный лазер	Industrial Laser
 Пираты	Pirates
+Фэяне	Faeyans
+Гаальцы	Gaals
+Люди	Humans
+Пеленги	Pelengs
+Малоки	Maloqs
+Двигатель	Engine
+Топливный бак	Fuel Tank
+Дроид	Droid
+Захват	Gripper
+Радар	Radar
+Сканер	Scanner
+Я подумаю	I'll think about it
 Оружие	Weapons
 Хорошо	Good
 Да	Yes
-Берсерк	Berserk
+Дальномет	Farshooter
+Берсерк	Berserker
+Ламбалд	Lambald
+Жжения	Burnz
+Дальпун	Farsight
+Патч 0.96 альфа	Patch 0.96 alpha
+Винтарь	Threader
+Иикебанит	Iikebaanite
+Универс	Universe
+Клейн	Klein
+Платинос	Platicoat
+Цент	Cent
+Миниразмерный	Minisized
+Горанд	Gorand
+Патч 0.95 бета	Patch 0.95 beta
+Дальстар	Dalstar
+Тюринг	Turing
+Сплинтер	Splinter
+Маформ	Maform
+Микрострел	Microshooter
+Сжим	Clip
+Интегратор	Integrator
+Ракетон	Rocketon
+Эскалибур	Excalibur
+Энергос	Energos
+Электро	Electro
+Антифэй	Antifae
+Диощит	Dioshield
+Боттер	Botter
+Микроразмерный	Microsize
+Громодрын	Massodrope
+Оптиматор	Optimator
+Дронз	Dronze
+Стоплай	Stopbark
+Бронд	Brond
+Броинг	Broing
+Пакстон	Paxton
+Колебратор	Colebrator
+Шелест	Rustle
+Бач	Dimin
+Объемник	Volumer
+Вихрь	Vortex
+Стаксер	Staxer
+Редуза	Redusa

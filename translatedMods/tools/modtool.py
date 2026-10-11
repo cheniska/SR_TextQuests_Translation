@@ -30,7 +30,7 @@ def vok(v,e):
     if collections.Counter(tok.findall(v))!=collections.Counter(tok.findall(e)): return False
     if re.findall(r'\d+',v)!=re.findall(r'\d+',e): return False
     if not 0.3<len(e)/max(1,len(v))<3.5: return False
-    return bool(tok.findall(v)) or len(v)>=50 or v in SAFE
+    return True
 SAFE={'Назад','Да','Нет','Система','Системы','Ладно','Ладно...','Спасибо!','Рейнджер','Пират','Фрилансер','Тип:','Конец связи','Обычный','Отключен','Включен'}
 def reauto(g):
     w=wd(g); tm={}
@@ -42,12 +42,17 @@ def reauto(g):
         if cyr.search(v) and v not in have and v not in seen: seen.append(v)
     open(w+'/auto.txt','w',encoding='utf-8').write('\n'.join(v+'\t'+tm[v] for v in seen if v in tm))
     print(g,'reauto',sum(1 for v in seen if v in tm),'not in todo and tm; cyr values outside todo and tm:',[v for v in seen if v not in tm][:3])
+def items_idx(L):
+    c=collections.Counter(); out=[]
+    for i,p,v in items(L):
+        c[p]+=1; out.append((i,p+'#'+str(c[p]),v))
+    return out
 def tm_build():
     d=collections.defaultdict(collections.Counter)
     rus=open(R+'/Translation/lore/source/SRHD_rus.txt',encoding='cp1251',errors='replace').read().replace('\r\n','\n').split('\n')
     eng=open(R+'/Translation/lore/source/SRHD_Lang_Eng_Vanilla.txt',encoding='cp1251',errors='replace').read().replace('\r\n','\n').split('\n')
-    ie={p:v for _,p,v in items(eng)}
-    for _,p,v in items(rus):
+    ie={p:v for _,p,v in items_idx(eng)}
+    for _,p,v in items_idx(rus):
         if cyr.search(v) and p in ie and not cyr.search(ie[p]) and vok(v,ie[p]): d[v][ie[p]]+=2   # vanilla weight
     for f in ([] if os.environ.get('NOMODS') else glob.glob(T+'/*/*/CFG/Eng/Lang.txt')):
         a=items(readu16(f.replace('/Eng/','/Rus/').replace(T,SRC)));b=items(readu16(f))
