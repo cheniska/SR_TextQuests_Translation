@@ -18,7 +18,7 @@
 Предварительно принято (пометить, если пользователь решит иначе):
 - Ака Сециянка → Aka Sezyanka (болезнь фэян; речь Элаймы при ней — гласные удваиваются/вставляются: «Началиник»→«Chiefi»); Некентида → Nekentida
 - Бумбыр Баргабырвсрат → Bumbyr Bargabyrvsrat (вульг. «всрат»); Пупыр/Бумбыр/Бурбон → Pupyr / Bumbyr / Bourbon
-- Сааб, Скрытая Сила → Orders of "Saaba" / "Hidden Power"; «Мистер Отбейморда 3270» → Mister Smashface 3270; Калкитовые наконечники → Kalkite Tips; рарт → rart (?)
+- Сааб, Скрытая Сила → Orders of "Saaba" / "Hidden Power"; «Мистер Отбейморда 3270» → Mister Smashface 3270; Калкитовые наконечники → Calcite Spearheads (ванилла, сверено); рарт → rart (?)
 - Повидло-2019 → Jam-2019; Тарам-Пам → Taram-Pam; Ржавый / Башка → Rusty / Noggin
 - икродрист → roe-squirter; Акабосьи дети → Akabos's brood; кибер-кукиш → cyber-finger
 - Нагибулина/Греф (парод. на реальных лиц), СтарБанк → StarBank
