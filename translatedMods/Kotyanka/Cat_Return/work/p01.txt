@@ -1,0 +1,125 @@
+1	Cast-ironium
+2	A first-level micromodule. Embeds kryptonic structures into the hull, increasing its strength and opening an afterburner slot. The structures take up a little extra space on the ship, because of which the hull's usable volume decreases and the cost increases. Used only for <clr>faeyan<clrEnd> and <clr>gaal<clrEnd> hulls.
+3	Hull size: <clr>-10%<clrEnd>
+4	Cheater-22
+5	A first-level micromodule. One of the pirates' experiments in combining micromodule properties in a teleporter. When the "Burn" and "Dvim" micromodules were combined, the installation began to smoke and all values froze on the number 22. <clr>Pirates<clrEnd> decided not to reset the setting and to generate the module with these parameters.
+6	Clearing
+7	A first-level micromodule. Applies a special material, <clr>clirone<clrEnd>, that removes almost all negative effects from <clr>acrynic<clrEnd> equipment or hulls.
+8	Negative acryn effects: <clr>-75%<clrEnd>
+9	Ingot
+10	A first-level micromodule. Embeds into the hull. Closes <clr>four<clrEnd> <clr>weapon<clrEnd> slots, the <clr>droid<clrEnd>, <clr>shield generator<clrEnd>, <clr>afterburner<clrEnd>, <clrEnd>radar<clrEnd> and <clr>scanner<clrEnd> slots, and also <clr>all<clrEnd> <clr>artifact<clrEnd> slots. The price of such a hull drops severalfold. The reverse effect is that the hull grows <clr>2<clrEnd> times.
+11	Hull size: <clr>200%<clrEnd>
+12	Cost: <clr>-70%<clrEnd>
+13	Inside
+14	A second-level micromodule. Increases the ammunition supply of a <clr>dominator<clrEnd> missile weapon and equips it with an additional silo for launching missiles. The upgraded launch system takes an additional <clr>50<clrEnd>% of the weapon's volume.
+15	Weapon ammo supply: <bonAmmo> pcs.
+16	Missiles per salvo: <bonShots> units
+17	Kishcrobu
+18	A second-level micromodule. Adds the <clr>afterburner<clrEnd> function and opens the <clr>remaining weapon slots<clrEnd>, while closing the <clrEnd>artifact<clrEnd>, <clrEnd>scanner<clrEnd> and <clr>shield generator<clrEnd> slots. When properly installed into the engine, a sharp increase in <clr>speed<clrEnd> was observed in exchange for a strong drop in jump range.
+19	Maloqcouscous
+20	A second-level micromodule. Builds a giant food production generator into a <clr>maloq<clrEnd>-made hull. Though even what it produces will be too little for a glutton maloq, so it is sometimes called "Maloq-cous-cous" ("a little bite"). A <clr>shield generator<clrEnd> can also be connected to the food generator.
+21	Militarium
+22	A first-level micromodule. Completely transforms the hull into a military one. Opens at once <clr>two<clrEnd> <clr>weapon<clrEnd> slots. With a successful transformation, opens a <clr>droid<clrEnd> and <clr>shield generator<clrEnd> slot. Applicable only to <clr>faeyan<clrEnd> hulls.
+23	Hull size: <clr>-15%<clrEnd>
+24	Nebula
+25	A third-level micromodule. Covers the hull in a cloud of electrified dust. Generates EMP interference, <clr>incompatible<clrEnd> with the <clr>scanner<clrEnd>, and an electric field that slows enemy splinter projectiles and missiles, discharges the energy beam and blocks thermal damage, thereby increasing the hull's potential <clr>armor<clrEnd>.
+26	<color=248,252,248>An unknown modification of <color=255,240,100>dominator</color> equipment. Activating the additional properties requires a colossal power source, found aboard only on <color=255,240,100>bertors</color>.</color>
+27	Trion Shield Generator
+28	<color=248,252,248>An experimental trion modification of equipment, recreated by the outstanding scientists of the Coalition from the newest dominator technologies and improving the characteristics of nearly all onboard systems. The extreme degree of technological sophistication and complexity of the <color=255,240,100>faeyan</color> approach to engineering shows in all its glory in the trion equipment they assembled. To keep the additional properties of this equipment constantly active, it requires regular coordination from the brain of a living humanoid, but unlike the complex faceted structure of the brains of the <color=255,240,100>faeyans</color> themselves, the brains of representatives of other races are simply unable to sustain the same high level of required multitasking.</color>
+29	Trion Droid
+30	Trion Engine
+31	Trion Fuel Tank
+32	Trion Gripper
+33	Trion Radar
+34	Trion Scanner
+35	<color=248,252,248>An experimental trion modification of equipment, recreated by the outstanding scientists of the Coalition from the newest dominator technologies and improving the characteristics of nearly all onboard systems. Having discovered the extraordinary properties of trion equipment, the <color=255,240,100>gaals</color> immediately declared them a manifestation of the miracle of great universal equilibrium and placed on their activation a protection against the uninitiated into the ancient mystery of the predominance of the primary over the secondary. Once a maloq asked a <color=255,240,100>gaal</color> what this mystery consisted of, and received in reply only a riddle: "The answer is as simple as a wall, but as complex as the starry sky." Then the maloq took a run-up and with all his might slammed his head into the wall, after which he saw stars in his eyes and decided he had grasped the great truth.</color>
+36	<color=248,252,248>An experimental trion modification of equipment, recreated by the outstanding scientists of the Coalition from the newest dominator technologies and improving the characteristics of nearly all onboard systems. The <color=255,240,100>maloq</color> assembly left its coarse imprint in the form of a large and very stiff red lever that must be turned to activate all the additional properties of this unit. An elementary action for a <color=255,240,100>maloq</color>, for other races turning the confounded lever becomes a serious athletic trial, extremely rarely ending in success. Simply put, all the additional properties of this equipment become available only to "red-skinned intellectuals".</color>
+37	<color=248,252,248>An experimental trion modification of equipment, recreated by the outstanding scientists of the Coalition from the newest dominator technologies and improving the characteristics of nearly all onboard systems. Being designed by <color=255,240,100>pelengs</color>, the activation system for the additional properties of this equipment requires entering a special biometric-radio-digital nanokey, available only to representatives of this secretive and distrustful race. What remained unclear is why the <color=255,240,100>pelengs</color> needed to hide the functionality of equipment that had in fact been stolen twice already, first from the dominators, and then from the inventor races of the Coalition itself.</color>
+38	<color=248,252,248>An experimental trion modification of equipment, recreated by the outstanding scientists of the Coalition from the newest dominator technologies and improving the characteristics of nearly all onboard systems. When assembling this equipment, the resourceful <color=255,240,100>humans</color> built into it a technical restriction on activating the additional properties, which can be lifted only by correctly guessing a series of images shown on the control panel. Nine random illustrations describing the most striking moments of Earth's common history and culture, mixed with scenes from popular science-fiction films, are shown on the screen in a 3 by 3 table, and pose no difficulty in guessing for any halfway educated <color=255,240,100>human</color>, which cannot definitely be said of representatives of other races.</color>
+39	<color=248,252,248>A top-secret joint development of three races, stolen by a fourth, sold by a fifth and finally obtained by a "sixth". The equipment's additional properties are activated by unique, chaotically changing codes known only to some high-ranking members of the <color=255,240,100>pirate clan</color>.</color>
+40	<color=248,252,248>A top-secret joint development of three races, stolen by a fourth, sold by a fifth and finally obtained by a "sixth". The equipment's additional properties are activated by unique, chaotically changing<br>codes known only to some high-ranking<br>members of the <color=255,240,100>pirate clan</color>.</color>
+41	False Start
+42	A first-level micromodule. Changes the engine structure so that it works in extreme-load mode, raising its speed to the limit. Because of heavy overloads a hyperjump is impossible.
+43	Hyperjump: <clr>Impossible<clrEnd>
+44	Engine reliability: <clr>-75%<clrEnd>
+45	</color>NOKM-3314M
+46	<color=248,252,248>The result of this project was a very heavy and very expensive unit that automatically produces portable nuclear warheads from ordinary starship fuel and nanoglue from the droid's reservoirs, installing the resulting projectiles into the warheads of ordinary missiles and torpedoes. And since the <color=255,240,100>Regulations</color> state in red on yellow that a ship must have only one fuel line, the unit is designed so that it can be installed only <color=255,240,100>in place of the engine</color>, with<br>all the consequences that follow.</color>
+47	<color=248,252,248>The cause of creating this strange unit was a diplomatic incident in which the ambassador of <color=255,240,100>Earth</color> threatened the ambassador of <color=255,240,100>Ramgatr</color> to "show Kuzka's mother". And on <color=255,240,100>Ramgatr</color>, without much thought, they decided that this "Kuzka's mother" is some kind of absolute weapon, in connection with which the project <color=255,240,100>"Our Answer to Kuzka's Mother"</color> was urgently launched.</color>
+48	Technolithic Shield Generator I-III
+49	Technolithic Shield Generator I
+50	<color=248,252,248>Technolithic equipment runs on an acryn matter-restructuring generator. The radiation acts on the <color=255,240,100>thickness of the armor</color>, thereby increasing it in size. Equipment using such a generator works more effectively, and also becomes noticeably <color=255,240,100>more resistant to breakdowns</color>. Unfortunately, owing to the restructuring of atomic bonds in the armor material, the strength of the hull's gravitational field rises significantly.</color>
+51	Generator reliability: <clr>+10%<clrEnd>
+52	Technolithic Shield Generator II
+53	Generator reliability: <clr>+15%<clrEnd>
+54	Technolithic Shield Generator III
+55	Generator reliability: <clr>+25%<clrEnd>
+56	Technolithic Gripper I-III
+57	Technolithic Gripper I
+58	Gripper range: <bonHookRadius> million km
+59	Gripper reliability: <clr>+10%<clrEnd>
+60	Technolithic Gripper II
+61	Gripper reliability: <clr>+15%<clrEnd>
+62	Technolithic Gripper III
+63	Gripper reliability: <clr>+25%<clrEnd>
+64	Technolithic Radar I-III
+65	Technolithic Radar I
+66	Radar reliability: <clr>+10%<clrEnd>
+67	Technolithic Radar II
+68	Radar reliability: <clr>+15%<clrEnd>
+69	Technolithic Radar III
+70	Radar reliability: <clr>+25%<clrEnd>
+71	Technolithic Scanner I-III
+72	Technolithic Scanner I
+73	Scanner reliability: <clr>+10%<clrEnd>
+74	Technolithic Scanner II
+75	Scanner reliability: <clr>+15%<clrEnd>
+76	Technolithic Scanner III
+77	Scanner reliability: <clr>+25%<clrEnd>
+78	Twin Engine I-III
+79	Twin Engine I
+80	<color=248,252,248>A unique joint development of <color=255,240,100>gaal</color> and <color=255,240,100>faeyan</color> scientists - a twin engine built on the principle of jeweler-precise synchronization of two separate turbines. Separately from each other these power plants are of no interest, but working in a coordinated duet they can deliver far <color=255,240,100>more power</color> than one would expect from engines of this class.</color>
+81	Twin Engine II
+82	Twin Engine III
+83	Twin Fuel Tank I-III
+84	Twin Fuel Tank I
+85	<color=248,252,248>A unique joint development of <color=255,240,100>gaal</color> and <color=255,240,100>faeyan</color> scientists - a twin fuel tank equipped with a progressive fuel feed system. The smart software of this tank controls the operation of four paired injectors, injecting fuel strictly at the acceleration stage of the engine's booster circuit, which gives the ship a <color=255,240,100>solid gain</color> in speed and jump range.</color>
+86	Twin Fuel Tank II
+87	Twin Fuel Tank III
+88	Plasma Generator I-IV
+89	Plasma Generator R1
+90	<color=248,252,248>Produces energy, strengthening the operation of all equipment on the ship. Installed in the <clr>shield generator<clrEnd> compartment.</color>
+91	Plasma Generator R2
+92	Plasma Generator R3
+93	Plasma Generator R4
+94	Bullogre
+95	A cheap hull for unmotivatedly aggressive personalities. Comes with a set of psychology books for stoking the engine.
+96	Crimson Ladle
+97	Gold-tinted plating and soft crimson tones will add authority to any rich scoundrel. Respect and contempt harmonize wonderfully with reinforced weaponry.
+98	Trooper
+99	A heavy landing bot intended for landings on planets captured by the dominators. Limited combat functionality is compensated by enormous capacity and mass inertia.
+100	Dilettal
+101	A bulky and unwieldy vessel with a doubled hold. Because of crudely made deformation the strength of the seams has fallen significantly.
+102	Fearless
+103	A top-class ship of the line. Serially built at the shipyards of the wealthiest planets of the Coalition for military needs in critical situations.
+104	Eliital
+105	Ayharra Elite
+106	A heavy hull created for outstanding warriors. The hold size allows storing a huge amount of battle trophies, but no room was found for a droid.
+107	Hyperbole
+108	A hull that blocks out neighboring stars, popular among humans suffering from gigantism.
+109	Collapsar
+110	A giant warship equipped with a deactivated collapsor generator. Used by the Coalition as a breakthrough battering ram against dominator flotillas.
+111	A patrol ship for fighting border violators and hordes of dominators. The possibility of escaping on afterburner is not provided.
+112	Montoara
+113	A heavy hull of a gaal fire-support ship. Because of its enormous dimensions it is repaired only at shipyards and needs no droid.
+114	Inevitability
+115	A hull of imposing size, hung with all manner of attack systems. Ideal for slow and menacing looming over the enemy.
+116	Honor and Strength
+117	An imposing hull for new heroes and lovers of feats in the name of conventional values. Artifacts are partly dismantled as unneeded.
+118	Shakhymat
+119	A peleng ship of the line. A rare and expensive series, since it is much easier to sponsor the mafia than to spend funds on a decent military fleet.
+120	Star of Doom
+121	Humanity builds these giant ships extremely rarely - practically stationary battle stations. Still, the result of building is always justified thanks to their incredible destructive power.
+122	Tardym-ogh
+123	Created to the design of the famous maloq prince Tardym. It turned out that one can build a giant and powerful ship, but it will be fragile and of little use. Nevertheless, this series was adopted into service.
+124	Zhabechanz
+125	A heavy and unwieldy vessel for carrying important persons or cargo. For the comfort and safety of the contents, additional defense systems are installed.

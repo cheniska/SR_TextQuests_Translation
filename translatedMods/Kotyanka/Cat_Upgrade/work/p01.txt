@@ -54,7 +54,7 @@
 54	Hull "Rock" III
 55	Hull "Rock" IV
 56	Hull "Bastion"
-57	An extraordinary artifact, an exceptional specimen<br>of ancient <color=0,153,255>Earth</color> technology.
+57	An extraordinary artifact, being<br>an exceptional specimen of ancient<br><color=0,153,255>Earth</color> technology.
 58	After a long stay in open space the device's speakers have fallen into complete disrepair, so all that remains is to guess what secrets this amazing device could have told.
 59	Energy weapon power: <color=0,153,255>+80</color> units
 60	Splinter weapon power: <color=0,153,255>+80</color> units
@@ -102,7 +102,7 @@
 102	Rate of fire: <clr>+4<clrEnd>
 103	Additional damage: <clr>100<clrEnd> units
 104	<color=60,182,230>Javelin</color><color=248,252,248>
-105	<color=248,252,248>The legendary torpedo tube of <clr>Keller<clrEnd>, poetically called by scientists </color><color=60,182,230>"Javelin"</color><color=248,252,248>. Possessing a monstrous rate of fire, the tube launches three swift ionizing torpedoes, leaving the enemy no chance to dodge such an unwelcome "gift". Moreover, the increased torpedo consumption is amply compensated by a huge ammunition supply, allowing the owner to keep up continuous fire to the bitter end.</color>
+105	<color=248,252,248>The legendary torpedo tube of <clr>Keller<clrEnd>, poetically called by scientists <color=60,182,230>"Javelin"</color><color=248,252,248>. Possessing a monstrous rate of fire, the tube launches three swift ionizing torpedoes, leaving the enemy no chance to dodge such an unwelcome "gift". Moreover, the increased torpedo consumption is amply compensated by a huge ammunition supply, allowing the owner to keep up continuous fire to the bitter end.</color>
 106	Rate of fire: <bonAttacks>
 107	Additional ammo supply: <clr>500<clrEnd> units
 108	Torpedo speed: <clr>500<clrEnd> units
