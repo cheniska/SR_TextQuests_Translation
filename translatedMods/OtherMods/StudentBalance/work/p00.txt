@@ -1,0 +1,44 @@
+1	Keshik
+2	<color=248,252,248>The pelengs have succeeded in designing ultra-small ships suitable for any task.</color>
+3	Weapon power: <bonWSplinter> units
+4	Fighter I
+5	<color=248,252,248>The designers could not decide what matters more for an ultra-small fighter - a droid or a shield generator. As a result, two modifications of this ship were created.</color>
+6	Fighter II
+7	Fal
+8	<color=248,252,248>The faeyan version of the ultra-small fighter</color>
+9	Invincible Hull
+10	<color=248,252,248>The limit of the Coalition's technical capabilities. The combat shortcomings of larger ships have not yet been overcome.</color>
+11	Myoplasmic Hull
+12	<color=248,252,248>A small Coalition warship</color>
+13	Pygamore Hull
+14	<color=248,252,248>A Coalition warship.</color>
+15	<color=248,252,248>The main ship on the battlefield.</color>
+16	Tanker
+17	<color=248,252,248>There is no counter to a tank unless you have another tank.</color>
+18	<color=248,252,248>The maloq flagship. And that says it all.</color>
+19	"Paralloid"
+20	<color=248,252,248>A modification that is in fact nothing more than a twin-linked weapon - faster-firing, but also heavier and more expensive - especially considering the installed generator, which significantly increases the power of both pairs of guns</color><br> <br>
+21	Damage bonus: <bonWEnergy> units
+22	Range: <bonWRadius> units
+23	Weapon mass: +120%.
+24	Price: +200%.
+25	"Traitont"
+26	<color=248,252,248>By installing three generators, a simply staggering increase in the weapon's power was achieved... But at what cost?</color><br> <br>
+27	Weapon mass: +200%.
+28	"Fulsteyk"
+29	<color=248,252,248>By installing the newest shot concentration unit, the maximum power of the weapon was achieved. But the scientists kept quiet about the unit's incredible weight, so the military got what they got.</color><br> <br>
+30	Weapon mass: +300%.
+31	Price: +300%.
+32	<color=248,252,248>A modification that is in fact nothing more than a twin-linked weapon - faster-firing, but also heavier and more expensive - especially considering the installed generator, which significantly increases the power of both pairs of guns, and also - slightly - their range</color><br> <br>
+33	Damage bonus: <bonWSplinter> units
+34	Weapon mass: +170%.
+35	Price: +150%.
+36	Weapon mass: +100%.
+37	Price: +100%.
+38	Weapon mass: +160%.
+39	Weapon mass: +180%.
+40	<color=248,252,248>A modification that is in fact nothing more than a twin-linked weapon - faster-firing, but also heavier and more expensive - especially considering the installed generator, which significantly increases the power of both pairs of guns, and also - slightly - their range</color><br> <br>
+41	Weapon mass: +140%.
+42	Weapon mass: +150%.
+43	Price: +180%.
+44	<color=248,252,248>Doubled weapon power</color><br> <br>

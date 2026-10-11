@@ -1,0 +1,71 @@
+1	manufacture to order at factories
+2	buy up on planets
+3	make ourselves
+4	buy from former pilots
+5	look for at junkyards
+6	at a special hull acrynation plant
+7	at our base
+8	wherever we possibly can
+9	in a basement without light
+10	in the restroom
+11	a huge hull
+12	a large hull
+13	a medium-sized hull
+14	a small hull
+15	a hull of up to one cubic nanometer in size
+16	the best specialist of all the gaalians
+17	a faeyan scientist
+18	a human student
+19	a working-class peleng fresh from the factory
+20	a preschool-age maloq
+21	we recruit only professional pilots as Rangers and train them in all kinds of skills
+22	we recruit only the best candidates as Rangers and put them through intensive training
+23	we recruit anyone willing as Rangers and put them through a special training program
+24	we recruit only professional taxi drivers and cooks as Rangers
+25	we recruit the first bums we come across as Rangers
+26	a huge amount of equipment
+27	a large amount of equipment
+28	a medium amount of equipment
+29	a small amount of equipment
+30	a minimal amount of equipment
+31	a full squad of five Rangers
+32	as many as four Rangers
+33	a company of three Rangers
+34	two Rangers
+35	just one Ranger
+36	we run a mass propaganda campaign for the Ranger movement
+37	we tell everyone that all Rangers are God's messengers
+38	we hold Ranger parades
+39	we shout in the streets, "If you haven't Rangered, you're no man"
+40	we punch every passing non-Ranger in the face
+41	Yamato battlecruiser
+42	I haven't seen any new Rangers in a long time...
+43	Recruiting new Rangers
+44	Yes, you are absolutely right. Lately the Ranger Centers' budget has been cut sharply because of the grave situation at the fronts. The dominators are capturing system after system, and all the Coalition's available funds go to building and maintaining a large military fleet. The crumbs that fall to us barely cover training and equipping new Rangers. We simply don't have the money to upgrade equipment for our brave volunteers.<br>I, for example, had breakfast today at an elite restaurant, but because of the budget cuts I had to eat just good food instead of exquisite delicacies!
+45	That's what I'm saying! But the council of the five races won't even hear of it. They say, "The military is a god, and a Ranger is a sucker."
+46	Of course. If you provide us with financial help, we will be able to improve our work in many areas.
+47	Eh... I'll have to go on suffering... I'll go eat some caviar out of grief...
+48	Don't rush. You surely don't have that much money. Especially since you still have to pay for my villa... Oh, I mean to say that developing different areas requires different amounts of investment. Our budget is enough to equip and train new Rangers, but we have no money to improve the infrastructure. Let me tell you about the current state of affairs.
+49	What exactly are you interested in?
+50	The general parameters include:<br>1. Number of new Rangers<br>2. Frequency of new Rangers appearing<br>3. Amount of equipment issued to Rangers<br>4. Training program for new Rangers<br>5. Upgrading Rangers' equipment<br>
+51	The parameters of a specific Ranger include:<br>1. Hull size<br>2. Hull acrynic<br>3. Equipment level
+52	This Ranger is provided with <0>.
+53	The acrynation of this Ranger's hull is done <0>.
+54	As for this Ranger's equipment, we <0>.
+55	At the moment, improving this branch will cost <0> cr. Would you like to sponsor this project?
+56	Thank you. Your money will come in very handy. Oh, I mean for us.
+57	We have improved this branch to the maximum level.
+58	How awful... <br>But wait! The military is utterly useless against the dominators! I saw with my own eyes how a single klig wiped out a squad of 3 flagships and 14 warships!
+59	What? We'll have to teach them some manners. I think a couple of quark bombs inside government buildings will quickly bring them to their senses.<br>As for the Rangers... Maybe I can help somehow?
+60	Tell me about the first Ranger's parameters
+61	Tell me about the second Ranger's parameters
+62	Tell me about the third Ranger's parameters
+63	Tell me about the fourth Ranger's parameters
+64	Tell me about the fifth Ranger's parameters
+65	I'm interested in the number of new Rangers
+66	I'm interested in the frequency of new Rangers appearing
+67	I'm interested in the Ranger's hull size
+68	I'm interested in the Ranger's hull acrynic
+69	I'm interested in the Ranger's equipment level
+70	I want to improve this branch
+71	I want to improve this branch again

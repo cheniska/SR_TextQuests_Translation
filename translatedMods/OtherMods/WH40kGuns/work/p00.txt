@@ -1,0 +1,109 @@
+1	Holy Ray of Purification
+2	Antimatter Sarcophagus
+3	Gamma Eye of the Smoldering Judgment
+4	Tears of the Black Star
+5	Pentagram of Destruction
+6	Pulse of the Eternal Machine
+7	Devourer of Fate
+8	Nanite Plague "Gray Rot"
+9	High-Voltage Whip of the Emperor
+10	Plasma Wrath
+11	Cannon of the Emperor's Mercy
+12	"LEZKA" - Eye of Mars
+13	Rocket Launcher "Wrath of the Skitarii"
+14	Claw of the Omnissiah
+15	Curse of Redirected Energy
+16	Grapeshot Gun "Thousand Crucifixions"
+17	Quantum Thunder
+18	Wail of the Wanderer
+19	Ashes of Penance
+20	Great Bambai Wrath
+21	Icy Judgment of a Thousand Years
+22	Stellar - Lamb of Flame
+23	Stellar - Eye of the Abyss
+24	Stellar - Sting of Penance
+25	Stellar - Thorn of Golgotha
+26	Stellar - Wrath of Heaven
+27	Stellar - Spear of Doomsday
+28	Rupture of Holy Integrity
+29	Double Eye of Discord
+30	Scream of the Quantum Dark
+31	Silence of the Absolute
+32	Minigun - Gray Plague
+33	Wheel of Suffering of Chaos
+34	Wrath of the Boson
+35	Eye of the Dying God
+36	Blood of Space - Emitter
+37	Blood of Space - Tormentor
+38	Blood of Space - Torpedoer
+39	Fiery Choir of Penance
+40	Magnetic Executioner
+41	Scream of Makhpella
+42	Kinetic Whip of Chaos
+43	Boiling Flesh of Nurgle
+44	Wrath of the Emperor
+45	Hundred Deaths
+46	Fiery Finger of Mars
+47	Eye of Vigilance
+48	Cry of the Four
+49	Eye of Doomsday
+50	Noose of the Righteous
+51	Sphere of Oblivion
+52	Tide of Hell
+53	Gall of the Abyss
+54	Sting of the Hungry Star
+55	Reverse Flow of Flesh
+56	Eye of the Devourer
+57	Accumulated Hunger
+58	Molecular Whip of the Hive
+59	Gastric Pulse
+60	Fiery Rain of the Hive
+61	Sting of the Last Bite
+62	Acid of the Great Hunger
+63	Parasite of Motion
+64	Cloud of Assimilation
+65	Ecstasy of Decay
+66	Double Wrath of the Emperor
+67	Eye of Penance 47
+68	Eye of Penance 42
+69	Eyes of the Emperor M4
+70	Eyes of the Emperor M3
+71	Eyes of the Emperor M2
+72	Wrath of Dalani Ralanni
+73	Ion Lash R1
+74	Ion Lash R2
+75	Hand of the Executioner
+76	Vortex Searchlight "Eye of Destruction"
+77	Splash Phaser "Fiery Choir"
+78	X-Defibrillator "Three Blows of the Judge"
+79	Vortex of Peleng Cunning
+80	Ultimatum of Divine Unity and Reprisal
+81	Converted from an asteroid drill, the "Horn of Penance" emits the holy ray of the Omnissiah, burning heresy from the surface of sinful matter with a force of <MinDamage>-<MaxDamage><Bonus>. Weak for true war, but enough to incinerate a heretic's flesh or the rust on a ship's hull. It works only at close range, up to <Radius> - for even the light of the Mechanicus is not eternal in the darkness of the abyss.
+82	Each warhead holds a locked-in spirit of antimatter, the heretical twin of reality itself. When activated, the magnetic seals break, and the thing meets its shadow - a flash of annihilation burns flesh and soul, dealing <MinDamage>-<MaxDamage><Bonus> units of damage. The range is short, just <Radius> - for even the Omnissiah does not trust such things in mortal hands for long.
+83	A holy ray born in the depths of a dying star enclosed in a crystal. It burns out eyes, souls and the bonds between atoms. The target does not explode - it crumbles to dust like cursed flesh, receiving its <MinDamage>-<MaxDamage><Bonus> units of damage. It works at ranges up to <Radius> - but each shot blinds one of the tech-priests who gazed into its heart.
+84	An artifact of the dark ages, able to warp the very fabric of reality at a distance of up to <Radius>. When fired, space tears, and the target is ripped apart by tides born in the womb of a black hole, with a force of <MinDamage>-<MaxDamage><Bonus>. If the enemy is destroyed, its mass does not vanish but feeds a secondary strike that hits other heretics. This is the galaxy's vengeance for every drop of the Emperor's spilled blood.
+85	Five barrels sanctified by five holy rituals. They fire quantum-sealed shards that pierce even warp armor. Each shard is a prayer in metal, and each explosion a chorus of condemnation. Range - <Radius> million km, but after each salvo one tech-priest must be sacrificed to appease the spirits of the weapon. Damage dealt: <MinDamage>-<MaxDamage><Bonus>.
+86	Creates an artificial heart of pain in the space around the target. The enemy's hull begins to convulse like cursed flesh under the executioner's knife. The metal cracks, seams burst, the system breaks down - not from force, but from horror of the machine that has come alive. Range of effect - <Radius>, damage - <MinDamage>-<MaxDamage><Bonus>.
+87	Each shell holds the sealed agony of a dying star. The torpedoes carry a gravitational destabilizer torn from the tomb of an ancient Archmagos whose name was erased from memory on pain of eternal damnation. On detonation they rip the fabric of reality, drawing the flesh of the enemy and his allies into a funnel of nonexistence. They work at any distance - for gravity is the chain with which the Omnissiah strangles heresy even at the edge of the galaxy. Damage - <MinDamage>-<MaxDamage><Bonus>. Charges: <Count>/<MaxCount> - each requires a ritual burning of a tech-priest's flesh.
+88	The shot is an injection of living plague grown in the flasks of the Martyr of Callis. The nanites are not machines but hungry spirits devouring flesh and metal atom by atom. After the proper time they self-immolate in sacred fire so as not to break free. For the Gray Rot is the punishment for pride. Range: <Radius>, damage: <MinDamage>-<MaxDamage><Bonus>.
+89	A generator sanctified in the blood of electro-executioners. It hurls lightning of holy wrath that pierces the enemy's hull. With each strike the target's flesh is ionized, becoming a conductor for greater pain. In the end even the armor begs for mercy - but the Emperor does not hear heretics. Range: <Radius>, damage: <MinDamage>-<MaxDamage><Bonus>.
+90	The warheads contain an enclosed star stabilized by MHD incantations. On detonation it spews a plasma wave that melts steel and an EMP scream that burns out the souls of electronic spirits. The ammunition is scarce - <Count>/<MaxCount> pcs - for each warhead requires a week of rituals and sacrifices. But against heretics with fragile technology, nothing compares to this fire. Range: <Radius>, damage: <CntShots>x(<MinDamage>-<MaxDamage>)<Bonus> units.
+91	Crude, reliable, sanctified by the blood of tech-priests - this cannon hurls shards of holy armor forged from the remains of heretic titans to a distance of up to <Radius>. The bullets scatter like the Emperor's wrath on the wind, but in this chaos lies a divine design. It does not reach far, but guarantees that no sinner leaves intact, taking <MinDamage>-<MaxDamage><Bonus> units of damage.
+92	Created as a weapon against demonic barrages, this system, dealing <MinDamage>-<MaxDamage><Bonus> units of damage, proved so powerful that the Adeptus Mechanicus itself beheld in it the wrath of Mars. Now it is called the "Hammer of Apostates" - for it can crush even the tower of a heretic cruiser at a distance of up to <Radius>. The name "LEZKA" has been preserved - not out of foolishness, but by the sacred prohibition against changing words inscribed in the ancient codices.
+93	A salvo holds <CntShots> rockets, each fitted with a gunner-spirit locked in a crystal of suffering. These demon-hounds track the target by the scent of heresy and plunge into it with the scream of machines. On explosion flesh and steel melt into one, and the apostate's soul is sent to circle eternally in the depths of the machine. Deals <CntShots>x(<MinDamage>-<MaxDamage>)<Bonus> units of damage. Number of salvos: <Count>/<MaxCount> pcs.
+94	Once a cargo manipulator at the shipyards of Prospero, now a sacred artifact that steals the enemy's flesh and bestows it on its faithful servant. Its gravitational beam is not radiation but the will of the Machine God, tearing out chunks of the heretic's hull of up to <MinDamage>-<MaxDamage><Bonus> units in size and transferring them to the carapace of the righteous. The range of <Radius> is meager - for even the Omnissiah works no miracles at the edge of the galaxy.
+95	A holy generator sanctified by the ritual of "Reverse Feeding". It sucks the energy of a heretic reactor like a vampire sucks blood, and spews it back as divine wrath dealing <MinDamage>-<MaxDamage><Bonus> units of damage. If there are three enemy targets in the area of effect, the damage is distributed among them; if there are fewer enemies, the last target takes additional damage. Such is the Machine God's vengeance for pride. Effective range: <Radius>.
+96	An installation that stitches holy nails forged from the chains of arch-heretics. Its rate of fire is not a technical feature but a prayer in action. Each shot is a nail in the body of Chaos. Even at a distance of <Radius> no heretic can hide from judgment and takes <MinDamage>-<MaxDamage><Bonus> damage.
+97	A forbidden technology known only to the Archmagos. The weapon awakens the sleeping spirits in the enemy's wiring, making them shriek and tear loose. The power circuits explode from within, and the hull cracks like the shell of sin. It works at a distance of <Radius> million km - but each shot demands a sacrifice of a tech-priest's flesh for <MinDamage>-<MaxDamage><Bonus> damage.
+98	A shell filled with the scream of a dying star enclosed in metal. On impact it releases a resonance of suffering, dealing <MinDamage>-<MaxDamage><Bonus> damage and making the target's molecules tremble in terror. The metal breaks like bone under torture. It works only at close range, up to <Radius> - for pain does not travel far in the void.
+99	A weapon born in the fire of holy auto-doctrine, it sprays the incandescent particles of martyrs burned for doubting the dogmas of Mars. A cloud of death with a diameter of <color=255,255,102>280</color> engulfs everything living and mechanical - flesh melts, steel cracks, souls scream in the silence of the vacuum, taking <MinDamage>-<MaxDamage><Bonus> units of damage. The enemy's engines cool not from cold but from fear - for even iron knows when the end has come. Range: <Radius> - the gaze of the Holy Mechanicus itself reached no farther.
+100	Recreated from tablets found in the ruins of Mars, under the rubble of a residential complex built on the grave of a heretic synod. Two scientists - a gaalian and a maloq - joined their minds in a single ritual of blasphemy to awaken a power that has slept since the Klissan War. The weapon fires clots of plasma that scream in the language of lost machines and deal <MinDamage>-<MaxDamage><Bonus> units of damage at a distance of up to <Radius>. The explosion blinds the spirits of the guns, blocking them forever. In the <color=255,255,102>large</color> area of effect, reality cracks like glass under the Emperor's heel. It can be installed only on flagships - for a weak hull will not bear the wrath of the ancients, and whoever dares to mount it on a ship of lower rank will be burned alive in the sacred furnace.
+101	The last weapon of desperate magi created in an age when even Faith trembled before the warp storms. Its beam freezes not flesh - it freezes time itself around the target. Enemies do not die - they are stuck in eternal agony, their engines freezing in a plea for mercy that the Emperor will not grant. Bulky? Yes. For cold is the weight of despair, and every cubic meter of its structure is filled with the screams of frozen heretics whose souls serve as fuel. Deals <MinDamage>-<MaxDamage><Bonus> units of damage at a distance of up to <Radius>.
+102	A shining shaft of hardened light born in the heart of an artificial star. It is not a ray - it is the piercing will of the Omnissiah, clothed in the form of a perfect spear. It does not scatter in the void, does not bend under the solar wind - it finds the enemy and plunges into him with the precision of divine judgment. Deals <MinDamage>-<MaxDamage><Bonus> damage at a distance of up to <Radius>, burning through armor, flesh and the very lie of heresy. They say that at the moment of firing you can hear a quiet hymn of angel tech-priests... or their last scream.<br>Number of shots: <CntAttacks>.<TextData2><TextData1>
+103	The wrath of a star twisted into a spiral, held back only by rings of holy runes and chains of quantum seals. When activated, the vortex does not merely strike - it sucks the energy from the space around the target, creating a vacuum of reality into which the enemy is drawn like dust into the womb of a star. Damage: <MinDamage>-<MaxDamage><Bonus>, radius of effect - <Radius>. Where it has passed, a dead zone remains in which even light is afraid to be born again.<br>Number of shots: <CntAttacks>.<TextData2><TextData1>
+104	A fragmentation sting-swarm grown in the crystal hives of the jade weapon workshops. Each shot is a swarm of microscopic needles filled with executioner nanites that do not merely pierce armor but gnaw into its structure and multiply in it, turning the enemy's protection into a nest of self-destruction. Damage: <MinDamage>-<MaxDamage><Bonus> at a distance of up to <Radius>. Those who survived a Stinger's salvo die an hour later - their armor begins to eat them from within.
+105	Named after an ancient beast that tore at the flesh of heretics in the deserts of Secundus. It is a fragmentation storm bursting from the barrel with the roar of a suffering star. Each shell is a fragmented prayer, scattering into hundreds of blades of reality. Deals <MinDamage>-<MaxDamage><Bonus> damage across the whole radius <Radius>, leaving behind a field of vibrating shards that keep cutting even after the shot. The enemy does not die - he falls apart into pieces, each of which whispers penance.
+106	An avenger rocket born in the flame of holy bonfires where the codices of heretics were burned. Its warhead is not metal but the compressed scream of the fallen, sealed in a plasma capsule. On detonation it does not explode - it condemns. A wave of fragments and plasma pierces everything within <Radius>, dealing <MinDamage>-<MaxDamage><Bonus> damage and leaving behind a halo of spiritual burn that disables even holy guidance systems. Every Arkon is the Emperor's last word before the silence.
+107	Not a rocket - a heavenly spear hurled from the heavens by the Omnissiah himself into the heart of heresy. Long, thin, wrapped in an aura of distorted space, it overcomes any shields, for its goal is not to breach armor but to strike the very essence of the enemy. It flies through the vacuum with the silent grace of a falling star, and only at the moment of touch does it tear reality into shards. Damage: <MinDamage>-<MaxDamage><Bonus>, range: <Radius>. Those who saw it in flight are either dead... or no longer look at the sky.
+108	A ray born in the heart of a dying reactor, tuned to the frequency of suffering. It does not merely separate particles - it tears the soul out of machines, leaving hull and equipment empty shells trembling in horror before the void. Is the technology primitive? Perhaps. But even a crude axe in the hands of a believer is a sacred instrument of reprisal. The dominators brought it to perfection - not by knowledge, but by faith in absolute power over matter. Deals <MinDamage>-<MaxDamage><Bonus> units of damage at a distance of up to <Radius>.
+109	Two barrels - two wraths of Mars. Unlike the pitiful lasers of the Coalition, this artifact fires not light but the flesh of energy torn from the depths of a dying star and enclosed in sanctified capacitors forged from the bones of heretic magi. Each shot is a blow to the very fabric of reality. The technology is lost - for the knowledge that gives birth to such a weapon burns the mind of whoever recalls it. Two shots. Two sentences. Two screams in the vacuum. Range: <Radius> - farther than even the Eye of the Emperor can see. Deals <MinDamage>-<MaxDamage><Bonus> units of damage.
