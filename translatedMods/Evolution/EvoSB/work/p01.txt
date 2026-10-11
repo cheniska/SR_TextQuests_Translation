@@ -1,0 +1,88 @@
+2	I'll pay <SatMoney> cr. for <SatName>
+3	Of course, another time. In the meantime, perhaps you'd like to upgrade your equipment?
+4	You made an excellent purchase, <Player>. We've loaded <SatName> onto your ship.<br>Now find an unexplored planet, land and deploy the probe. After that you can go about your business. The probe may need many months to survey the planet, but the process can be sped up by deploying several probes into orbit at once.
+5	Research probes are widely used for surveying the surface of uninhabited planets. However, you can learn the details by listening to our briefing, so let's get right down to business.
+6	We also recommend taking a look at <SatName>.
+7	Weight: <SatSize> t.
+8	Manufacturer: <SatRace>
+9	Number of your probes: <SatCurCount> pcs.
+10	Current control skill: <SatMayCount> pcs.
+11	And now that you know more about an explorer's work, would you like to buy a probe from us so you can get started on the exciting search sooner?
+12	Total: We are forced to refuse you this purchase. Please complete our probe control briefing.
+13	<clr>General information:<clrEnd> For many centuries research probes have been used to survey the surface of uninhabited and undeveloped planets. Each probe is designed to work with certain types of terrain, and its working speed depends on this. A probe's power is customarily measured in millions of square kilometers of ocean surface, land and mountainous terrain that it surveys per day.
+14	<clr>Probe control:<clrEnd> An explorer of uninhabited planets can control several probes at once. This is determined by their equipment-handling skill. At the science station it is forbidden to sell probes to those who have not fully learned to handle such valuable equipment. The reason is concern for the safety of other life forms and the aim of not interfering with the natural course of their development. We cannot allow a potentially dangerous heap of scrap metal to dangle in the orbit of an undeveloped planet.
+15	<clr>Operating rules:<clrEnd> After landing on an uninhabited planet, open the explorer's map, take a probe and choose a flight trajectory from those shown on the map. Pay attention to the counter of days remaining until the survey is complete. If you deploy several probes at once, you will be able to survey the planet faster. Evaluate the probe's characteristics carefully: for example, if a probe cannot survey the ocean, there is no point deploying it on an ocean planet. Information on the activity of your probes will be updated regularly on the information panel. You can safely go about your business while the probes work and send messages about the goods and equipment they find. Once you return to the planet, you will be able to collect the items the probes found, recall the probes from orbit and head elsewhere.
+16	<clr>Rights to findings:<clrEnd> All rights to items discovered by your probes belong exclusively to you. Our probes are programmed to survey objects created by highly developed civilizations. We cannot prevent unauthorized landings and ship crashes that litter territories, but some uninhabited planets are home to undeveloped life forms. They have a future of their own too, and your task is to clean the surface of the products of our civilizations. A lost barrel of fuel must not become the reason for the death of an entire species of alien life!
+17	We strongly recommend that you save this information, <Player>.
+18	I would like to contribute to anti-dominator research.
+19	Take all dominator equipment
+20	Take all <color=255,0,0>blazeroid</color> equipment
+21	Take all <color=0,135,185>kelleroid</color> equipment
+22	Take all <color=61,155,0>terronoid</color> equipment
+23	Take all dominator debris
+24	Take all <color=255,0,0>blazeroid</color> debris
+25	Take all <color=0,135,185>kelleroid</color> debris
+26	Take all <color=61,155,0>terronoid</color> debris
+27	That's great, <Player>! The money has been debited from your account.
+28	No problem, we'll wait. Always happy to offer our best technologies to a defender of the Galaxy!
+29	One copy of the <clr>Energotron<clrEnd> technology has been downloaded to your onboard computer. Use it wisely. We sincerely hope that you will not regret this purchase.
+30	Too bad indeed, <Player>. We really hoped to be able to do some business with you.
+31	Well, then you need to get some. Rangers have always taken good care of our research. We have faith in you, <Player>!
+32	As you know, there are three fundamentally different series of robots. For each series we have developed our own research strategy. All of them are being developed independently in the respective BKTU departments:
+33	The following BKTU departments are engaged in the dominator research effort:
+34	We have scanned your cargo hold for any dominator technology samples that interest us. Here is the list of what may be useful in our work:
+35	Which of these items do you intend to hand over to our department? Keep in mind that for some items of particular scientific value we are ready to pay a <color=0,132,15>higher</color> price.
+36	Thank you, <Player>! Thanks to you, our department's stock of research material has grown by <MaterialsAdded> units and now totals <MaterialsTotal> units. And your account, at our rate, has grown by <Money> cr.
+37	Here is the list of what we are still interested in:
+38	Thank you very much, <Player>. It was a genuine pleasure to work with you. Would you like to upgrade your equipment?
+39	Department one: <color=255,0,0>Blazeroid</color>
+40	Department two: <color=0,135,185>Kelleroid</color>
+41	Department three: <color=61,155,0>Terronoid</color>
+42	Auxiliary department: <color=61,155,0>Modification</color>
+43	Aim: Research of new acrynic modifications of dominators.
+44	Source material: <Count> units
+45	Research speed: <Speed>
+46	Estimated time: <Day> days
+47	Auxiliary department: <color=61,155,0>Layout</color>
+48	Aim: Study of the capabilities of dominator components.
+49	Research completed.
+50	A class <color=255,239,99>D</color> high-orbit satellite. Surveys the surface of any type of easy terrain.<br>Average reliability.
+51	A class <clr>D<clrEnd> high-orbit satellite. Surveys the surface of any type of easy terrain. Average reliability.
+52	A class <color=255,239,99>D</color> low-orbit satellite. Surveys flat areas. A long service life is guaranteed.
+53	A class <clr>D<clrEnd> low-orbit satellite. Surveys flat areas. A long service life is guaranteed.
+54	Nautilus
+55	A class <color=255,239,99>S</color> military satellite.<br>A top-class probe for surveying water surfaces, almost useless in any other environment. High reliability.
+56	A class <clr>S<clrEnd> military satellite. A top-class probe for surveying water surfaces, almost useless in any other environment. High reliability.
+57	Conqueror
+58	A class <color=255,239,99>C</color> commercial survey satellite.<br>Not very efficient, but rarely needs repairs.
+59	A class <clr>C<clrEnd> commercial survey satellite. Not very efficient, but rarely needs repairs.
+61	A class <color=255,239,99>B</color> scientific research satellite.<br>A universal tool for surveying all types of terrain. Average reliability
+62	A class <clr>B<clrEnd> scientific research satellite. A universal tool for surveying all types of terrain. Average reliability
+63	A class <color=255,239,99>C</color> high-orbit satellite. Surveys land and mountainous terrain. Average reliability.
+64	A class <clr>C<clrEnd> high-orbit satellite. Surveys land and mountainous terrain. Average reliability.
+65	A class <color=255,239,99>C</color> low-orbit satellite. Scans deep-sea areas and adjoining land excellently. Requires constant repair.
+66	A class <clr>C<clrEnd> low-orbit satellite. Scans deep-sea areas and adjoining land excellently. Requires constant repair.
+67	A class <color=255,239,99>B</color> spy satellite. Used by the special services. Effective at surveying any terrain, but has low reliability.
+68	A class <clr>B<clrEnd> spy satellite. Used by the special services. Effective at surveying any terrain, but has low reliability.
+69	A class <color=255,239,99>B</color> low-orbit satellite. Scans mountain ranges and adjoining territories excellently.<br>Practically eternal.
+70	A class <clr>B<clrEnd> low-orbit satellite. Scans mountain ranges and adjoining territories excellently. Practically eternal.
+72	A class <color=255,239,99>A</color> low-orbit satellite. Makes periodic dives to thoroughly study the liquid or gaseous environment of the planet. Its durability is, naturally, low.
+73	A class <clr>A<clrEnd> low-orbit satellite. Makes periodic dives to thoroughly study the liquid or gaseous environment of the planet. Its durability is, naturally, low.
+75	A class <color=255,239,99>A</color> military satellite.<br>Almost equally effective at surveying any type of terrain. High reliability.
+76	A class <clr>A<clrEnd> military satellite. Almost equally effective at surveying any type of terrain. High reliability.
+77	Nomad
+78	A class <color=255,239,99>S</color> military satellite.<br>A top-class probe for surveying plains and steppes, almost useless in any other environment. Average reliability.
+79	A class <clr>S<clrEnd> military satellite. A top-class probe for surveying plains and steppes, almost useless in any other environment. Average reliability.
+80	Hermit
+81	A class <color=255,239,99>S</color> military satellite.<br>A top-class probe for surveying mountainous territory, almost useless in any other environment. Highest reliability.
+82	A class <clr>S<clrEnd> military satellite. A top-class probe for surveying mountainous territory, almost useless in any other environment. Highest reliability.
+83	Infobox for memorizing and auto-updating the probe present at the station
+84	We can try to change the base characteristics of any standard equipment. As a result you will get an item with improved parameters. However, there is a danger that an overly complicated design may become unreliable and difficult to repair. To prevent all this, we work on each particular item only once. It cannot be upgraded a second time. So, <Player>, improve your ship's components wisely, and don't skimp on good specialists.
+85	<color=255,240,100>Message from the Galactic Committee for the Study of Uninhabited Planets:</color><br>Dear <Player>, we are pleased to inform you that, according to our data, you have completed a full survey of at least <0> uninhabited planets by now. Your experience as an explorer has undoubtedly grown noticeably over this time, so we are raising the maximum limit of probes under your control to <1> pcs.<br>We hope for your continued contribution to science and ecology, and wish you success in this noble cause.
+92	pp.
+93	nd.
+94	Besides, they will need nodes.
+95	Let me put together a little equipment list...<br>...<br>Sorry, but you have <0> items suitable for an upgrade.
+96	Suit yourself. We'll be glad if you decide to upgrade something else.
+97	Excellent, our interns have already tinkered with your <0>. It seems to have become cooler, though you know better, <Player>. Check your ship and see for yourself.<br>Shall we upgrade anything else?
+98	I'll pay the green interns!

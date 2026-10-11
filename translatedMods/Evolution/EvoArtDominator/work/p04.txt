@@ -4,7 +4,7 @@
 244	(de-energized)
 245	In the course of a heavy battle <clr>4<clrEnd> of the five energy units of the <clr>Basic Construction<clrEnd> were completely destroyed. The fifth unit could not cope with the sharply increased load and also stopped working. Now the device will need serious repair.
 246	As a result of long and active use, the connecting components of the <clr>Basic Construction's<clrEnd> energy units have become badly frayed, which seriously reduced their conductivity and, consequently, the efficiency of the power generator, which can no longer keep the system running. The wiring needs repair... and so do the energy units.
-247	We thought this scrap was some unfinished piece of equipment. In reality it turned out to be quite the opposite. This scrap performs a modification of equipment up to the next tech level. For the conversion it uses the energy and nodes accumulated inside it. This scrap also acts on the weapon system, increasing its power. And we all wondered why dominators have more powerful guns when we have identical ones.
+247	We thought this debris was some unfinished piece of equipment. In reality it turned out to be quite the opposite. This debris performs a modification of equipment up to the next tech level. For the conversion it uses the energy and nodes accumulated inside it. This debris also acts on the weapon system, increasing its power. And we all wondered why dominators have more powerful guns when we have identical ones.
 248	Modifies equipment of the corresponding series. Besides spare parts, this process also requires nodes. Increases weapon damage.
 249	An upgrade module for equipment of the corresponding series. The upgrade requires energy and nodes. While the construction is not busy working, it rebuilds the weapon energy assemblies into more efficient ones, which affects the power of weapon shots.<TextData2><TextData1><TextData3>
 250	Cannot perform the upgrade: the Basic Construction is faulty!
@@ -18,7 +18,7 @@
 258	(refusing to work)
 259	It seems the computing power of the <clr>Strigger<clrEnd> could not cope with the number of variables that arose in a battle as hot as this one. The device shut down and flatly refuses to turn on.
 260	A tiny error crept into the calculations of the <clr>Strigger<clrEnd> and still managed to completely corrupt most of the recorded data. Looks like it's time to take the gadget in for repair.
-261	A true blazeroid scrap - quite logical for such active users of missile weapons. It lets you increase the damage dealt by missile weapon projectiles, and if you also connect a Destructurizer to it, the damage can increase even more.
+261	A true blazeroid debris - quite logical for such active users of missile weapons. It lets you increase the damage dealt by missile weapon projectiles, and if you also connect a Destructurizer to it, the damage can increase even more.
 262	A combat missile systems controller. Performs target acquisition, aiming, firing and reloading, which increases damage.
 263	Data obtained during battle is saved into the memory matrix of the <color=255,245,80>Destructurizer</color>.
 264	CustomArtTextData(cur_item,2,'</color>by <color=255,245,80>'+ItemExtraSpecialsCountByType(cur_item,FindBonusByCustomTag(tag))+'</color> units ');
@@ -69,7 +69,7 @@
 309	The cost of this procedure will be
 310	<Player>, you don't have enough funds to manufacture the module.
 311	Reward:
-312	If you wish, we can build an adaptation device into the scrap so that you can use this module's capabilities on any Coalition ship, but your equipment must still be of dominator make and of one series, since the modules use special protocols supported only by dominators.
+312	If you wish, we can build an adaptation device into the debris so that you can use this module's capabilities on any Coalition ship, but your equipment must still be of dominator make and of one series, since the modules use special protocols supported only by dominators.
 313	List of dominator modules under study:
 314	The scientists' working speed depends on the availability of research materials, the level of dominator technology research and the level of technical progress. If you have the necessary material for us, you can hand it over for study for a <clr>double<clrEnd> price.
 315	You can look into the research process in more detail and even get a prototype, if the research is already complete.
@@ -80,7 +80,7 @@
 320	being studied)
 321	(not studied)
 322	suspended)
-323	SpeedIndex - research speed of the scrap, GTL - the TL required for scientists to start accepting the scrap, GDPR - the percentage of dominator research required for scientists to start accepting the scrap
+323	SpeedIndex - research speed of the debris, GTL - the TL required for scientists to start accepting the debris, GDPR - the percentage of dominator research required for scientists to start accepting the debris
 324	Set a target for the Grobot
 325	The ship is loaded with calculations from an enemy Accelerine.<br>Days until reboot completes: <Data1>
 326	Accelerine reboot

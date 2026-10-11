@@ -1,0 +1,42 @@
+99	The equipment you selected has several characteristics. Our specialists can concentrate on one of them to get the best results matching your needs. Which parameter should we pay more attention to?
+100	Let me put together a little list of equipment suitable for upgrading:<br><0><br><1><2><br>So, what from this list shall we upgrade?
+101	Very sorry to hear that, <Player>. But we hope you'll change your mind, since upgrading equipment is extremely useful.
+104	Well, let me put together a little list of equipment with micromodules installed:<br><0><br><1><2><br>Exactly what do you want to extract a micromodule from, <Player>?
+105	We can put our best specialists on the experiment with your equipment, but their services won't come cheap. <0> If your finances can't stretch to them, ordinary specialists will do the work. And for a small sum only green interns will take on the upgrade.<br>Based on the cost of an item like <1> and our specialists' rates, we get the following:<br><2><br>Best specialists - <3> cr. and <4> <5><br>Ordinary specialists - <6> cr. and <7> <8><br>Interns - <9> cr. and <10> <11><br><12><br><13>Whom will you entrust with the work, <Player>?
+106	Well then, there will be no extraction. Thank you for your cooperation, Ranger <Player>.
+107	We can put our best specialists on the experiment with your equipment, but their services won't come cheap. If your finances can't stretch to them, ordinary specialists will do the work. And for a small sum only green interns will take on the upgrade.<br>Based on the cost of an item like <0> and our specialists' rates, we get the following:<br><1><br>Best specialists - <2> cr.<br>Ordinary specialists - <3> cr.<br>Interns - <4> cr.<br><5><br>Whom will you entrust with the work, <Player>?
+109	Excellent, our interns have already tinkered with your <0>. It seems to have become cooler, though you know better, <Player>. Check your ship and see for yourself.
+110	Excellent, the work is done and your money is already in our account. That's how fast we work!
+111	Excellent, the work is done and your money is already in our account. That's how fast we work! Perhaps you want to upgrade something else?
+115	I'll trust the green interns!
+117	Suit yourself. We'll be glad if you decide to extract something else.
+121	So, what micromodules can you extract?
+124	Let's see...<br>...<br>Sorry, <Player>, but we found no equipment with a micromodule suitable for removal either on your ship or in storage.
+125	Extracting a micromodule from a device is an extremely complex technical procedure whose consequences cannot be predicted in advance. Of course, our specialists are capable of it, but you should understand that it won't come cheap, and success is <clr>not guaranteed<clrEnd>. The slightest error in the calculations can lead to irreversible failure of the module, and sometimes of the entire device it was installed in.<br>That is why we recommend that you not skimp, and order micromodule extraction only from our best specialists. After all, the more experienced the experts, the higher their chances of success.
+126	No one, your prices are outrageous!
+128	We can bring our best specialists in on the extraction operation, but their services won't come cheap. If your finances can't stretch to them, ordinary specialists will do the work. And for a small sum only green interns will take on the extraction.<br>Based on the cost of an item like <0> with the micromodule <1> and our specialists' rates, we get the following:<br><2><br>Best specialists - <3> cr.<br>Ordinary specialists - <4> cr.<br>Interns - <5> cr.<br><6><br>Whom will you entrust with the extraction, <Player>?
+130	I don't even know how to tell you, but... We lost them. Completely. Your <0> and the micromodule <1> are ruined for good.<br>Please accept my sincere condolences, <Player>, but you signed the contract yourself, which clearly spelled out all possible risks and a full waiver of claims in case of failure to complete the order. Believe me, I am truly sorry.<2>
+131	Excellent, our best specialists have already worked on the specified equipment. It has become significantly cooler!
+132	Excellent, our best specialists have already worked on the specified equipment. It has become significantly cooler!<br>Perhaps you want to upgrade something else? For good money we're ready to slave away all day.
+133	Would you like to try your luck extracting another module?
+134	Well, it's your call. But if you change your mind - we're always here.
+136	I understand the news isn't cheerful, but perhaps you'd still like to try your luck extracting another module?
+137	Of course, <Player>. That is your full right.
+139	Good, in that case you should know that during extraction <0> will have practically no room for error. All actions must be done very quickly and precisely, and to reduce the risk of losing both the micromodule and the item, we determine in advance what our experts should concentrate on saving if complications arise.<br>You must choose, <Player>, and I strongly recommend approaching this choice with all seriousness.
+141	The micromodule <0> was successfully extracted and delivered to your ship. Unfortunately, because of complications that arose during the operation, <1> was lost irretrievably.<br>But don't be upset, <Player>. You had to make a hard decision, but the result turned out to be partly positive.<2>
+142	Suit yourself. Seeing happy smiles on our clients' faces is always a joy for us.
+143	And although the time is extremely inappropriate, I am obliged by duty to ask this question. Would you like to try your luck extracting another module?
+144	A grand success! The extraction operation went flawlessly - <0> and the micromodule <1> were successfully separated from each other. I must admit that, despite all our experience and professionalism, pulling this off is extremely rare. Congratulations once again!<2>
+145	Would you like to try your luck at extraction again?
+147	The micromodule <0> was extracted, but that's where the good news ends.<br>Your <1> was saved from irreversible breakdown, but because of complications that arose during the operation it still took serious damage, surviving by some miracle unknown to science. As for the micromodule - there our <2> failed. My condolences.<3>
+148	Besides, they will need <clr>protoplasm<clrEnd>.
+149	Keep in mind that to carry out the work we need <clr>nodes<clrEnd> right here. We can take them from your ship's cargo hold or from storage, but not from your node account.
+150	The selected equipment is damaged. It must be brought to a condition close to the original before we can begin work
+151	Choose other equipment
+153	I found a memory module here...
+154	I want to hand over the debris for comprehensive study
+155	Pirate Clan
+156	Unknown
+157	To the results of the dominatological research
+158	There are rumors of a certain Project that will turn all notions of fighting the dominators upside down...
+159	I want to hand over dominator debris to you for the development of a new series
