@@ -75,7 +75,7 @@
 | «Вопль» | "The Shout" |  |
 | «Воробец» | Vorobets | Proprolog |
 | «Восстановление пароля» | "Password Recovery" | Filial |
-| «Восхождение Рачехана» | "The Rise of Rachehan" | Kidnapped |
+| «Восхождение Рачехана» | "The Rise of Rachekhan" | Kidnapped |
 | «Вредный Джо» (кондитер с Венеры) | "Grumpy Joe" | Proprolog |
 | «ВСЕ НА БОРЬБУ С КОЛОРАДСКИМ ЖУКОМ!» | "EVERYONE TO THE FIGHT AGAINST THE COLORADO POTATO BEETLE!" | Drugs |
 | «Всемирная История Искусств» (запрещена на малокских планетах) | "World Art History" |  |
@@ -2123,7 +2123,7 @@
 | пиво «Махпельское темное» | "Makhpella Dark" beer | Piratesnest |
 | пиво «Синюшник» | "Sinyushnik" beer | Easywork |
 | пиво «Старомалок» | "Old Maloq" beer | Mafia |
-| пиво Рачехан Лайт | Rachehan Light | GS |
+| пиво Рачехан Лайт | Rachekhan Light | GS |
 | пилотка | garrison cap |  |
 | пилотка сопротивления | the garrison cap of the resistance |  |
 | пилоты | pilots | Rvk |
@@ -2531,7 +2531,7 @@
 | сейсмические мины | seismic mines | Bomber |
 | Секреел (гегемония) | Sekreel | LongLiveTheRanger |
 | Секретариат | the Secretariat |  |
-| секретарша Дуня Рачехановна | Dunia Rachehanovna |  |
+| секретарша Дуня Рачехановна | Dunia Rachekhanovna |  |
 | секретарь | secretary |  |
 | секта «Община Свидетелей Доминатора» | the "Community of Dominator Witnesses" | Domoclan |
 | секта «Путь в Никуда» | "Path to Nowhere" |  |
