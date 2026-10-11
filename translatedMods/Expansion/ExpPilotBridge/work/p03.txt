@@ -1,0 +1,47 @@
+139	Hello! This is the CEO of JSC <color=0,50,200>"Highway Robbers"</color> speaking.<br>Under an unofficial agreement between our company and the third party who was delivering your hull shortly before these events, that party undertook, and I quote: "Cross my heart! To pay off a card debt I'll hand over this sucker's hull, no kidding!" - which, under our company's charter, is a perfectly lawful form of property transfer, since you handed your hull to the aforementioned third party in sound mind and good memory. However, as the hull we received did not fully meet our material needs, we decided to return it and instead demand full financial compensation of its market value. From you.<br>Or, in plainer language: cough up <0> cr., doggy, me and the boys are sick of waiting for you here!
+140	Ah, lucky for you that I'm in a good mood today. And we'll put your money to a good cause - we'll go get drunk in a tavern to the health of suckers like you! Ha-ha-ha!<br>And you, hit the afterburners and get out of here while your flaps are still intact! I might still change my mind.
+141	Hey, mug! I'm talking to you!<br>Some sucker from the delivery agency lost to us at cards recently and dumped your hull to pay the debt. But since the hull wasn't his, we figured it wasn't proper to just rat him out like that.<br>Anyway, we returned the hull, but now YOU have to COMPENSATE us for its full price, namely <0> cr., get it?! If you do, then lay the dough on the table fast, because me and the boys don't like jokes!<br>And me and the boys don't like waiting too long, either!
+142	</color>Hey, ranger! Your tub is about to crack in half, and then what are we supposed to do? You'd better transfer the dough, and make it quick!<br>We'll get ours and leave you alone right away. Word of honor!
+143	</color>Hey, ranger! Your tub is about to crack in half, and then what am I supposed to do? You'd better transfer the dough, and make it quick!<br>I'll get mine and leave you alone right away. Word of honor!
+144	No, actually I just contacted you to tell you that you're a jerk
+145	What, decided to come to your senses? It's never too late to pay, <Player>. Just transfer the money and live in peace.
+146	In that case, we wish you the same, <Player>. All the best.
+147	All right, you've talked me into it. I'll deal with this scum.
+148	Which <clr>sector<clrEnd> will we deliver to? The departure point is in the sector highlighted in blue.
+149	In storage on <0><1> you have the following items:<br><2><br><3><br>You can make a specific <clr>list<clrEnd> or choose to send <clr>everything<clrEnd> in storage at once.
+150	<clrEnd>To destin.: <0> million km.
+151	Defendant <Player>, for the brutal murder of our esteemed statesman, you are sentenced to temporary deprivation of liberty, to be served in a maximum-security correctional facility.<br>The sentence will be carried out immediately and is not subject to appeal!
+152	<Player>, please accept our deepest apologies! Just yesterday we received a new report on your case, stating that the murder was committed not by you but by someone named <0>, who was delivering your hull shortly before a body was found in it.<br>As modest compensation for your misfortunes, we would like to offer you a hefty cash bonus of <1> cr. for eliminating this vile criminal within <2> days. According to our data, his ship is currently in the <3> system.<br>Accept, <Player>! That way you can earn money and take revenge, and at the same time bring a bit of true justice to our vice-ridden Galaxy!
+153	Excuse us, <Player>, but haggling over this matter seems completely inappropriate to us. After all, it's your reputation at stake, so please - be serious.<br>So, will you take on the elimination of the pirate <0> or not?
+154	Oh, why don't you go to hell...
+155	Our court is the most humane court in the universe, <Player>! Be thankful you weren't hanged right at the hearing!<br>Look at you, so touchy!
+156	Oh, it's you! I can't stand you - space rangers-schmangers! Just try me - I'll break all your flaps in no time!
+157	I'll set up such a swimming pool for you that you'll never swim out!!!
+158	Do you have a special mission for me?
+159	<color=255,0,0>Mission failed</color>
+160	Ah, I see they've let you out already! So, how was your rest? Somehow I think not so great.<br>Don't worry, I'll arrange you a free ticket to the next world right now! The pools there are said to be simply a-ma-zing!!!
+161	points.</color>
+162	And here is the triumphant return of our hero, hip-hip! Well, <0>, you have successfully completed our task and defended your good name at the same time. The sum of <1> cr. has already been transferred to your account.<br>And now who would dare say that revenge brings no satisfaction? Certainly not your bank account.<br> <br><color=45,105,45>Experience gained:
+163	<Player>, please accept our deepest apologies! Just yesterday we received a new report on your case, stating that the murder was committed not by you but by someone named <0>, who was delivering your hull shortly before a body was found in it.<br>Fortunately, justice has already caught up with the criminal in the person of <1>, which only goes to prove the omnipresence of the karma around us.<br>And you, <Player> - do you believe in karma? What, it only catches up in the next life? Well, in that case we won't pay you compensation for the wrongful conviction either - come back once you've been reborn as a butterfly, or at least a flower.<br>In short, there's no money, but we wish you good spirits and good health. Hang in there - the whole Galaxy is counting on you!
+164	 t.) (<color=255,0,0>remove</color>)
+165	 pcs.) (<color=255,0,0>remove</color>)
+166	Select the galactic <clr>sector<clrEnd> where the cargo's final delivery point is located.<br>The departure point is in the sector marked in blue.
+167	</color>Yeah, an interesting story... Oh, by the way, my guns have one for you too - they'll tell it to you right now! [Attack <0>]
+168	Oh well, I must have mistaken you for someone else
+169	</color>Wise choice
+170	</color>The right decision
+171	You'd better give me back my hull before I turn you into space dust!
+172	No way, it's too late to sing Boon-Jovi! Soon this hull will be your grave!
+173	</color>And make it quick, before I change my mind!
+174	Give my hull back, or I'll hurt you!
+175	What!? <Player>, are you out of your mind, you crazy devil! Can't you see what's going on around us?<br>Anyway, we'll talk later, once we get the hell out of here! I swear.
+176	What are you even talking about!? The battle is in full swing!<br>Let's come back to this conversation in a somewhat less tense environment, okay?
+177	</color>Estimated return date:
+178	</color>Agreed arrival date:
+179	</color>To: <0><br>To system: <1>
+180	</color>To planet: <0><br>To system: <1>
+181	</color>Hello, customer!<br><br></color>Your hull is currently on its way to:<br><0><br><br><1><br><2> <3><br><br>Hull being delivered:<br>
+182	</color>Hello, customer!<br><br>Your hulls are currently on their way to:<br><0><br><br><1><br><2> <3><br><br>Hulls being delivered:<br>
+183	<clrEnd>--- <clr>Nothing<clrEnd> ---
+184	Select the hulls to deliver to <0>. Note that, to avoid logistical confusion, you can deliver <clr>no more than three<clrEnd> hulls at a time.<br>The <clr>Rasputin<clrEnd> agency cares about the material well-being of its clients.<br><br>Currently selected:<br><1><br><2>
+185	I'm giving you a choice - either you return my hull, or you buy a ticket to the next world right now.

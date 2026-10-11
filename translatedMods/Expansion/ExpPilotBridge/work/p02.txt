@@ -1,0 +1,61 @@
+78	<color=255,240,100>Rasputin Agency reports:</color><br>The news is bad this time. Judging by the messages received (or rather NOT received) from our agents, all your hulls have been stolen and are in their hands right now. The agency offers its heartfelt, knee-shaking apologies and is transferring to your account compensation equal to the cost of hiring these thieves, namely <0> cr.<br>But don't despair too soon! We in no way condone such behavior from our agents, so expect information on the thieves' identities and current whereabouts.
+79	<color=255,240,100>Rasputin Agency reports:</color><br>We have two pieces of news for you at once. The good news: <0> has been delivered safely to <1> <2> in the <3> system. The bad news: both of your other hulls were stolen by the agents who were delivering them. We offer our heartfelt, knee-shaking apologies and are transferring to your account compensation equal to the cost of hiring these thieves, namely <4> cr.<br>But don't despair too soon! We in no way condone such behavior from our agents, so expect information on the thieves' identities and current whereabouts.
+80	<color=255,240,100>Rasputin Agency reports:</color><br>We have two pieces of news for you at once. The good news: two of your hulls have been delivered safely to <0> <1> in the <2> system. The bad news: your third hull was stolen by the agent who was delivering it. We offer our heartfelt, knee-shaking apologies and are transferring to your account compensation equal to the cost of hiring this thief, namely <3> cr.<br>But don't despair too soon! We in no way condone such behavior from our agents, so expect information on the thief's identity and current whereabouts.<br>Hulls delivered successfully:<4>
+81	<color=255,240,100>Rasputin Agency reports:</color><br>We are pleased to inform you that all your hulls have been delivered safely to <0> <1> in the <2> system. Don't forget to place new orders with us, and remember - <color=255,240,100>Rasputin</color> won't let you down!<br>Hulls delivered:<3>
+82	<color=255,240,100>Rasputin Agency reports:</color><br>We have two pieces of news for you at once. The good news: <0> has been delivered safely to <1> <2> in the <3> system. The bad news: your second hull was stolen by the agent who was delivering it. We offer our heartfelt, knee-shaking apologies and are transferring to your account compensation equal to the cost of hiring this thief, namely <4> cr.<br>But don't despair too soon! We in no way condone such behavior from our agents, so expect information on the thief's identity and current whereabouts.
+83	<color=255,240,100>Rasputin Agency reports:</color><br>We are pleased to inform you that both your hulls have been delivered safely to <0> <1> in the <2> system. Don't forget to place new orders with us, and remember - <color=255,240,100>Rasputin</color> won't let you down!<br>Hulls delivered:<3>
+84	<color=255,240,100>Rasputin Agency reports:</color><br>The news is bad this time. Judging by the messages received (or rather NOT received) from our agent, your hull has been stolen and is in his hands right now. The agency offers its heartfelt, knee-shaking apologies and is transferring to your account compensation equal to the cost of hiring this thief, namely <0> cr.<br>But don't despair too soon! We in no way condone such behavior from our agents, so expect information on the thief's identity and current whereabouts.
+85	<color=255,240,100>Rasputin Agency reports:</color><br>We are pleased to inform you that your <0> has been delivered safely to <1> <2> in the <3> system. Don't forget to place new orders with us, and remember - <color=255,240,100>Rasputin</color> won't let you down!
+86	</color>station
+87	</color>planet
+88	</color>And the sooner the better!
+89	</color>You're a good storyteller. And your stories are interesting! [Attack <0>]
+90	</color>Ugh, you never learn, damn it! [Attack <0>]
+91	Fine, so be it, but don't think I'll forget this!
+92	</color>There, good boy!
+93	</color>Should have done that right away!
+94	You know what? I changed my mind. I'll kill you as moral compensation.
+95	No, this is a mistake! This time I was really framed - believe me!
+96	Take revenge on this scum? Of course I'm in! I'll gladly spit into the communicator camera before I blow his ship to hell!
+97	Wonderful! In that case, we await good news from you.<br>And don't forget - you have only <0> days, otherwise, under the laws of our planet, the statute of limitations on the case will expire and all charges against the criminal will be dropped. You wouldn't kill an innocent humanoid, would you, <Player>?
+98	</color> (system <color=255,240,100>
+99	Client - planet <color=255,240,100>
+100	<color=0,255,0>Mission completed successfully</color>
+101	</color>! That way you can earn money and take revenge, and at the same time bring a bit of true justice to our vice-ridden Galaxy!
+102	Accept, <color=255,240,100>
+103	</color> days. According to our data, his ship is currently in the <color=255,240,100>
+104	</color> cr. for eliminating this vile criminal within <color=255,240,100>
+105	As modest compensation for your misfortunes, we would like to offer you a substantial cash bonus of <color=255,240,100>
+106	</color>, who was delivering your hull shortly before a body was found in it.
+107	</color>, please accept our deepest apologies! Just yesterday we received a new report on your case, stating that the murder was committed not by you but by someone named <color=255,240,100>
+108	</color> days
+109	Time left to complete the mission: <color=255,240,100>
+110	<color=255,240,100>Mission in progress</color>
+111	We regret to inform you that you missed the deadline for our mission. The contract is no longer legally binding. The deal is off.
+112	Message from planet <color=255,240,100>
+113	No way, I've had enough of your stupid planet and your one-sided justice!
+114	</color>klissan protoplasm clot
+115	</color>dominator torpedo
+116	</color> (<clr><0><clrEnd> t.)
+117	<clrEnd> t. of trash
+118	Fine, here's your money. Damn vultures! [Pay <0> cr.]
+119	<clr>Top dirtiest systems:<clrEnd><br><0>
+120	<clr>Which system are you interested in?<clrEnd><br><0><1>
+121	The following ownerless objects are currently polluting the <0> system:<br><1>
+122	</color>That's a good boy! You were stubborn for nothing.<br>Turn the ships around, boys - I've got the money.
+123	</color>That's a good boy! You were stubborn for nothing.<br>Turning my ship around, I hope our paths never cross again.
+124	Fine, here's your money. Damn vultures! [Pay <0> cr.]
+125	Kiss my shiny gravicore ass!
+126	You know, I'd even pay, but <0> cr. is an impossible sum for me right now. Maybe you could give me a month or two of grace?
+127	Grace? Of course we'll give you grace! Three... two... one... There - your grace period is over.<br>But don't worry, as a weighty incentive to pay your debt as soon as possible, I'm ready to offer you a couple of good salvos from my guns - catch!!!
+128	What, you want my money? Well, I've got it with me - hidden right there in that right-hand barrel. Fly over and get it.
+129	Damn pirates! I'd send you all to the fecking Makhpella! Here, choke on your dirty credits, extortionist! [Pay <0> cr.]
+130	JSC <color=0,50,200>"Highway Robbers"</color> thanks you for your investment. It was a pleasure doing business with you, and don't forget - from now on you are our official cash cow. Sucker!
+131	On <0><1> you have the following hulls in storage:<br><2><br><3><4><br>Which one will we deliver?
+132	On <0><1> you have <2> in storage<br>Is this the one we'll deliver?
+133	Select the agents' skill level:
+134	Select the agent's skill level:
+135	Number of hulls to deliver: <0><br><1><br><br><2><br><3><br>--- <clr><4><clrEnd> ---<br>Hiring cost: <5> cr.<br>Equipment rental: <6> cr.<br>Travel time: <7> days<br><br>--- <clr><8><clrEnd> ---<br>Hiring cost: <9> cr.<br>Equipment rental: <10> cr.<br>Travel time: <11> days<br><br>--- <clr><12><clrEnd> ---<br>Hiring cost: <13> cr.<br>Equipment rental: <14> cr.<br>Travel time: <15> days
+136	year
+137	Choose the ones you need
+138	<0><br>Hiring cost: <1> cr.<br>Equipment rental: <2> cr.*<br>Travel time: <3> days**

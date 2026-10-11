@@ -1,0 +1,156 @@
+390	We know perfectly well how things stand. The Coalition is falling apart, waging an unsuccessful war on two fronts, the economy is in decline, and ordinary citizens are the ones who suffer. We have suffered too, and we no longer want to put up with it. The Coalition is dead skin that must be shed so that we can keep growing, and we plan to do just that, or at least help it happen!<br>We have organized a rebel detachment called <0>. It is small for now, with only <1> members, but others will surely join us in the future. However, we now face a problem: to do something truly meaningful we need fully equipped and armed warships, and those, as is well known, are not cheap. That is why we turn to you for help: support the liberation movement! It is in your power to give us ships, and in ours to give you true freedom! Down with the Coalition tyrants!<br>The detachment is recruiting volunteers on the planet <2> in the <3> system until <4>.<br>Funds raised: <5>/<6> cr.
+391	You are on the website of the interstellar delivery service <clr>Lightspeed Galactic Logistics<clrEnd>, or <clr>LGL<clrEnd>.<br>With us you can order delivery of any cargo from any system to any other star. The LGL motto is "At the speed of light, to the edge of the universe!".<br>Over the long decades of its existence, our service has achieved impressive quality and reliability figures in subspace logistics and interstellar freight. Even in the harsh conditions of wartime, LGL can proudly guarantee all its clients <clr>95%<clrEnd> safety<0> for their cargo.<br><br>You can order delivery of your cargo from us right now! To do so, select the departure point from the list below (the <clr>system<clrEnd> is shown in brackets) and proceed to choose the other delivery terms, following the prompts that appear.<br><1>
+392	Departure point:
+393	<clrEnd>Delivery method: <clr>Express<clrEnd><br>Delivery cost: <0> cr.<br>Travel time: <1> days.
+394	<clrEnd>Delivery method: <clr>Standard<clrEnd><br>Delivery cost: <0> cr.<br>Travel time: <1> days.
+395	<clrEnd>Delivery method: <clr>Courier<clrEnd><br>Delivery cost: <0> cr.<br>Travel time: <1> days.
+396	Order confirmed.<br><0><br>The cargo will arrive at its destination on:<br><1> <clr>year<clrEnd><br><br>You will receive a notification when the cargo arrives. Thank you for choosing <clr>LGL<clrEnd>.
+397	You have chosen the delivery:<br><0> <1><br><2> <3><br>Departure system: <4><br>Destination system: <5><br><6><br><br>Full cargo list:<br><7><br><8>
+398	Slapstarter
+399	Project Viva la revolucion!
+400	Project For the Greater Good
+401	Project Dull Figures
+402	Project Nobody But Us!
+403	Project Just a Business
+404	Project Brute Force
+405	You are on the <clr>Slapstarter<clrEnd> site - the best resource for raising other people's money to carry out your incredible and, of course, extremely important idea!<br><br>Select the project you are interested in:
+406	<br><br>You will receive a notification when the cargo arrives. Thank you for choosing <clr>LGL<clrEnd>.
+407	Select the items you want to send to <0>.<br><br>Selected items:<br><1><br><2>
+408	Total cargo weight: <0> t.<br><1><br><br>Select your preferred method:<br><2><br>--- <clr>Courier<clrEnd> ---<br>Cost: <3> cr.<br>Travel time: <4> days<br><br>--- <clr>Express<clrEnd> ---<br>Cost: <5> cr.<br>Travel time: <6> days<br><br>--- <clr>Standard<clrEnd> ---<br>Cost: <7> cr.<br>Travel time: <8> days
+409	To other projects
+410	How much to donate?
+411	Make a list
+412	Select all
+413	Profit from smuggling: <ContraSellTotal> cr.
+414	<clr>Dominators:<clrEnd>
+415	Kligs: <KillKligs><KillRattors>
+416	Shtips: <KillShtips>
+417	Menocs: <KillMenocs>
+418	Smershes: <KillSmershes>
+419	Urgants: <KillUrgants>
+420	Equantors: <KillEquantors>
+421	Bertors: <KillBertors><KillDomikShipyards>
+422	<clr>Pirates:<clrEnd>
+423	Free: <KillFreePirates>
+424	Clan: <KillClanPirates><KillPirateSpecials><KillPirateCapitals><KillTraitors>
+425	Rebels: <KillRebels><KillSmugglers>
+426	Dominions: <KillDominions>
+427	Pirate bases: <KillPirateBases>
+428	<clr>Coalition forces:<clrEnd>
+429	Warriors: <KillWarriors>
+430	Battleships: <KillBattleships><KillDreadnoughts>
+431	Rangers: <KillRangers>
+432	Secret agents: <KillSpecialAgents>
+433	Militiamen: <KillMilitiaman>
+434	Military bases: <KillMilitaryBases>
+435	Ranger centers: <KillRangerCenters><KillInhibitors>
+436	<clr>Civilians:<clrEnd>
+437	Transports: <KillTransports>
+438	Liners: <KillLiners>
+439	Diplomats: <KillDiplomats>
+440	Research stations: <KillResearchStations><KillTechnologicalCenters>
+441	Business centers: <KillBusinessCenters>
+442	Medical centers: <KillMedicalCenters>
+443	<clr>Others:<clrEnd>
+444	Tranclucators: <KillTranclucators>
+445	Unknown: <KillUnknowns>
+446	<br>Rattors: <KillRattors>
+447	<br>Shipyards: <KillDomikShipyards>
+448	<br>Dreadnoughts: <KillDreadnoughts>
+449	<br>Inhibitors: <KillInhibitors>
+450	<clr>Klissans:<clrEnd>
+451	Little Mutants: <KillMutonies>
+452	Rogits: <KillMonchiks>
+453	Katauri: <KillCatauris>
+454	Nonduses: <KillNonduses>
+455	Egemons: <KillEgemons>
+456	Gigases: <KillGigases>
+457	Neurolinks: <KillNeurolinks>
+458	<clr>Mercenaries:<clrEnd>
+459	Atlases: <KillAtlants>
+460	Red Axes: <KillRedAxes>
+461	Faeys: <KillFaeys>
+462	Freelancers: <KillFreelancers>
+463	Others: <KillOtherMercs>
+464	Mercenary centers: <KillMercenaryCenters>
+465	<br>Corvettes: <KillCorvettes>
+466	Frigates: <KillFrigates>
+467	Galleons: <KillGalleons>
+468	<br>Cutthroats: <KillThugs>
+469	Khans: <KillKhans>
+470	<br>Smugglers: <KillSmugglers>
+471	<br>Tech. centers: <KillTechnologicalCenters>
+472	<br>Traitors: <KillTraitors>
+473	Detailed statistics of destroyed ships and stations
+474	Personal statistics
+475	<clr>Ships destroyed:<clrEnd>
+476	Dominators: <KillDomiks><KillKlissan>
+477	Pirates: <KillPirates><KillMercs>
+478	Civilians: <KillCivils>
+479	Others: <KillOthers>
+480	<clr>Stations destroyed:<clrEnd>
+481	Coalition: <KillCoalStations>
+482	Pirate: <KillPirateStations><KillOtherStations>
+483	<clr>Systems liberated:<clrEnd>
+484	For the Coalition: <FreeStarsForCoal>
+485	For the pirate clan: <FreeStarsForPirates>
+486	<clr>Other:<clrEnd>
+487	Uninhabited planets visited: <PlanetsVisited>
+488	<clr>Missions completed:<clrEnd>
+489	Text quests: <TextQuestsCompleted>
+490	Urgent deliveries: <DeliveryQuestsCompleted>
+491	Ship escorts: <GuardQuestsCompleted>
+492	Ship eliminations: <KillQuestsCompleted>
+493	System defenses: <StarDefenceQuestsCompleted>
+494	Planetary battles: <PlanetBattlesCompleted>
+495	<clr>Missions failed:<clrEnd>
+496	Text quests: <TextQuestsFailed>
+497	Urgent deliveries: <DeliveryQuestsFailed>
+498	Ship escorts: <ShipGuardQuestsFailed>
+499	Ship eliminations: <KillQuestsFailed>
+500	System defenses: <StarGuardQuestsFailed>
+501	<clr>Financial operations:<clrEnd>
+502	Goods bought for: <GoodsBoughtTotal> cr.
+503	Goods sold for: <GoodsSellTotal> cr.
+504	Current trade loss: <CurrentTradeLoss> cr.
+505	Equip. bought for: <EquipmentBoughtTotal> cr.
+506	Racketeering success: <RacketeeringReceived> cr.
+507	Ransoms received: <RansomsReceived> cr.
+508	Mission rewards: <QuestsReward> cr.
+509	Planetary battle rewards: <PlanetBattlesReward> cr.
+510	<clr>Experience points gained:<clrEnd>
+511	Dominators destroyed: <ExpForKillDomiks>
+512	Pirates destroyed: <ExpForKillPirates>
+513	Other ships destroyed: <ExpForKillOthers>
+514	Trade operations: <ExpForTradeGoods>
+515	Mission completion: <ExpForQuests>
+516	Planetary battles: <ExpForPlanetBattles>
+517	<br>Klissans: <KillKlissan>
+518	<br>Mercenaries: <KillMercs>
+519	<br>Others: <KillOtherStations>
+520	Bambay Kislorot
+521	Lyakusha Shlyakhozyablik
+522	Corsair Yedryony Karas
+523	Phantom Lolipopa
+524	Renegal Gaala-Pendrik
+525	According to the news bulletin, a <clr>Mining Station<clrEnd> was destroyed in the star system
+526	According to the news bulletin, a <clr>Business Center<clrEnd> was annulled in the star system
+527	According to the news bulletin, a <clr>Dominion<clrEnd> was decompressed in the star system
+528	According to the news bulletin, a <clr>Design Bureau<clrEnd> was defragmented in the star system
+529	According to the news bulletin, an <clr>inhibitor<clrEnd> was knocked out in the star system
+530	According to the news bulletin, a <clr>Mercenary Center<clrEnd> was destroyed in the star system
+531	According to the news bulletin, a <clr>Medical Center<clrEnd> was demolished in the star system
+532	According to the news bulletin, a <clr>Free Port<clrEnd> was destroyed in the star system
+533	According to the news bulletin, a <clr>Mercenary HQ<clrEnd> was disintegrated in the star system
+534	According to the news bulletin, a station was destroyed in the star system
+535	According to the news bulletin, a <clr>Pirate Base<clrEnd> was liquidated in the star system
+536	According to the news bulletin, a <clr>Ranger Center<clrEnd> was destroyed in the star system
+537	According to the news bulletin, a <clr>Research Station<clrEnd> was broken down into its structural components in the star system
+538	According to the news bulletin, a <clr>Technology Center<clrEnd> was scrapped in the star system
+539	According to the news bulletin, a <clr>Military Base<clrEnd> was smashed in the star system
+540	</color>Damn it! Stop this shooting already! What do you even want from me?!
+541	</color>Ow! Please, enough! I agree to a truce, I agree to your terms! Just tell me what you want from me?!
+542	</color>Damn the lot of you! Stop shooting! I'm ready to discuss the terms of a truce - name your price.
+543	You know, music will soon start playing on your home planet... Only you won't hear it!
+544	If I were you, I'd already be running for the escape pod, although... it won't help you anyway.
+545	Well, here we meet! Soon you'll find out what a dominator feels like when it's in a ranger's crosshairs!

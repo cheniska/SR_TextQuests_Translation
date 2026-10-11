@@ -1,0 +1,2 @@
+693	On-board settings are a collection of many small and varied functions available on the ship bridge.
+694	When you install new modifications, and when you obtain new items, equipment, and hulls, it is recommended to re-check the on-board settings: throughout the game they may contain extremely important and useful functions that improve the quality of play.

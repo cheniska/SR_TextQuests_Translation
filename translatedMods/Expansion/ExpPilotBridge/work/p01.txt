@@ -1,0 +1,77 @@
+1	</color>All this for a single hull?!<br>Fine, I'm turning the ship toward a planet right now to hand the hull over to the local warehouse.<br>You could have asked nicely in the first place, you know!
+2	</color>Whoa! You really scared me there! I thought you'd want to sell me into slavery, or worse - revoke my transport license!<br>Changing course, heading for the nearest planet. Your hull, <Player>, will soon be back with its rightful owner.
+3	</color>Ugh, damn law-worshippers! Yours, mine - what's the difference? We're all going to kick the bucket tomorrow anyway, and so-called property will lose all claim to any owner!<br>I don't plan to kick the bucket today, though, so I'm setting course for the nearest planet. I'll hand your hull over to the damned authorities there, and you can do what you like with it!
+4	</color>I don't get the sarcasm. I bought this hull not long ago from an honest peleng. Got a problem with honest deals? Or is envy gnawing at your heart?
+5	</color>What's with the tone, colleague? I got this hull in the most honest way, as a reward for successfully completing a courier job of "special importance".<br>The truth is, Princess <clr>Saar-Kazm<clrEnd> simply ran out of quality maloq bath foam. And, well, you understand - an immediate matter of national security and all that.<br>And what, exactly, is this unhealthy interest of yours, if I may ask?
+6	</color>No insinuations, please!<br>In case you didn't know, the company always provides hulls to freight haulers. I got this particular hull through the distribution system.<br>And now, excuse me, I've been ordered to urgently deliver <clr>40<clrEnd> tons of Earth persimmons. I'm in a big hurry.
+7	</color>No need to be rude, okay! I'm an honest working man who was honestly lucky enough to win a decent hull at cards.<br>And I'm taking this hull as a gift to my five-year-old daughter, by the way, so get out of the way - you're upsetting the kid!
+8	</color>Hey, I don't get it - haven't you had a fried bream slapped across your face in a while?! Let me arrange one for you - first-class, so to speak!<br>And this hull was left to me by my late grandfather - now there was a good pirate... Anyway, my respectable family's legacy is none of your business, got it?! Better clear off before I really get angry!
+9	</color>Before you say one more insulting word to me, let me remind you: I am PirName, the scourge of the Coalition, and you are some pathetic, brain-damaged ranger pup who thinks he has the right to accuse ME of stealing!<br>But since you're so interested in this hull, know this: its previous owner is drifting as a cold corpse in open space right now and, I suppose, isn't too happy that he dared to cross my path at all.
+10	</color>Damn you, <Player>! I really did want to return this hull!<br>But you know what? Screw it. Even if I'm doomed to die in this fight, I'd rather the hull burn up with me than go to a treacherous scoundrel like you!
+11	You treacherous brute! I treated you like a fellow humanoid, and you!!!<br>Get off my screen! I may die, but I'll never give up this hull now!
+12	</color>My mother told me when I was a kid - never trust slippery rangers!<br>Go to hell, <Player>, you won't get your hull! Freaks like you have a one-way road straight to hell!
+13	</color>Aaah! Stop! Enough!!! Stop this outrage right now - you're wrecking your own ship!<br>Your heavy-caliber arguments have fully convinced me - I'm returning the hull to its rightful owner. There's a planet nearby - your hull will be in its warehouse soon.<br>In return I only ask that you cease fire and let me make a soft landing.
+14	</color>Ow! Okay! I give up, enough!!! I'll give you your hull back, or you'll hammer me to death!<br>There's a planet not far from here - I'll leave it there. Just stop hitting me - I have a family to feed!
+15	</color>Ay, caramba! I surrender! White flag - capitulation!<br>You got me, you louse - take your damn hull! I see a planet nearby - I'll dump it there.<br>Just put your gun away, for heaven's sake, to be safe!
+16	</color>Mess with me and you'll regret it. This is your first and last warning.
+17	</color>Go to hell, you jerk!
+18	</color>Are you out of your mind!? Get off my monitor - you dumb-snouted mug!
+19	</color>Oh, <Player> - is that you? I've been looking for you in every system, I'm exhausted!<br>I couldn't manage the delivery properly, sorry about that, so I'll give you the hull right now.<br>Follow me.
+20	</color>All right, all right, you caught me, I confess - I was wrong.<br>You seem like a decent guy, anyway, so I'll hand over your hull right now.<br>Come on, follow me!
+21	</color>So you found me after all, huh?<br>Ah, to hell with the debt! Meddling in ranger business will only cost me more.<br>I'll return your hull, fine! Come on, follow me.
+22	</color>Damn, I knew I'd get caught - the scam didn't work out! Forgive me, I'm a fool - I wanted to make some quick money. They pay next to nothing lately!<br>Anyway, there's a little planet not far from here - I'll give you your hull there. Let's go!
+23	</color>Ugh, ranger lapdog! You sniffed out my trail after all! Fine, fine, don't get worked up - I'll return your tub. See that planet over there? I'll dump it there.<br>And you can fly after me if you don't take my word for it.
+24	</color>Ah, too bad - the agency rats ratted me out! That's what you get for trusting these crooks!<br>What are you staring at?! Let's go to the nearest planet - I'll drop your rustbucket there.
+25	</color>All right, all right - you win! Stop the shooting, I'm already changing course.<br>I'll leave your hull on the nearest planet, and you can fly after me if you want.
+26	</color>Ugh! I hope you fall through to the klissans, ranger!<br>Fine, I'll hand over the hull! There's a little planet nearby - follow me.
+27	</color>Aaargh! I hate you! I hate you all!!!<br>I'll give you your hull back, you scum! See the planet? I'll dump your hull on it.<br>Fly after me!
+28	</color>So, how do you like the stolen hull?
+29	</color>Hey, hermit crab, did you maybe mix up the hull?
+30	</color>Listen, that's a nice hull you have! Saved up for a long time, I bet?
+31	<clrEnd>planets
+32	<clrEnd>--- <clr>List is empty<clrEnd> ---
+33	How many units do you want to <color=0,50,200>remove</color>?
+34	How many units do you want to <color=0,50,200>add</color>?
+35	Rasputin Delivery Agency
+36	</color> pcs.)
+37	Select the <clr>planet<clrEnd> or <clr>station<clrEnd> to which you want to send your cargo (the corresponding <clr>system<clrEnd> is shown in brackets).
+38	No hulls found in storage
+39	Departure point:
+40	Select the <clr>planet<clrEnd> or <clr>station<clrEnd> to which your hull should be delivered (you'll find the <clr>system<clrEnd> in brackets).
+41	<0> with a size of <1> pcs.
+42	<clrEnd>planet
+43	Confirm
+44	<color=120,124,120>Confirm selection</color>
+45	Confirm selection
+46	 pcs.) (<color=0,50,200>add</color>)
+47	<br><br>We'll send you a message once he reaches the destination. And remember - <clr>Rasputin<clrEnd> won't let you down!
+48	<br><br>We'll send you a message once the hulls reach the destination. And remember - <clr>Rasputin<clrEnd> won't let you down!
+49	<clrEnd>To destination: <0> million km.
+50	Trust the rookie
+51	Give the job to a skilled hand
+52	Leave the job to a pro
+53	Decline the delivery
+54	 pcs.) (add)
+55	Order confirmed.<br><0><br><1><br><2> <clr>year<clrEnd><br><br><3>
+56	Your hulls will arrive at:
+57	Your hull will arrive at:
+58	<clrEnd>Delivery agents: <clr>Rookies<clrEnd>
+59	<clrEnd>Delivery agents: <clr>Skilled hands<clrEnd>
+60	<clrEnd>Delivery agents: <clr>Pros<clrEnd>
+61	Trust the rookies
+62	Give the job to skilled hands
+63	Rookies
+64	Skilled hands
+65	<clrEnd>Delivery agent: <clr>Rookie<clrEnd>
+66	<clrEnd>Delivery agent: <clr>Skilled hand<clrEnd>
+67	<clrEnd>Delivery agent: <clr>Pro<clrEnd>
+68	Skilled hand
+69	The <clr>Rasputin<clrEnd> agency wishes you happy hunting <clr>:3<clrEnd>
+70	<clr>Here is the data on our former agents who handled your last order:<clrEnd>
+71	<clr>Here is the data on our former agent who handled your last order:<clrEnd>
+72	Fired for theft: <clr>
+73	In system: <clr>
+74	Located in sector: <clr>
+75	Skill level: <clr>
+76	Personality: <clr>
+77	Overdue by <0> days.

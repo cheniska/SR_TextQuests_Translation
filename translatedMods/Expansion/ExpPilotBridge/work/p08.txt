@@ -1,0 +1,70 @@
+290	We are maloq engineers, true professionals in everything related to technology. We used to work in the technology center network, providing technical services of any complexity, from ordinary upgrades of old equipment to the most intricate hull armor improvement operations. We are sure that even if you have never used our services, you have certainly heard of this organization. Unfortunately, the war hit the technology center network hard. Now there are none left in the Galaxy at all, and yet we could be providing first-class servicing for any military and civilian ships, as well as equipment, weapons, and even probes. The Galaxy Council does not allot us enough money to open our own station in the <0> system, and the equipment costs too much - we simply cannot pay for it all out of our own pockets. So all we can do is hope for outside help. If our fundraising campaign succeeds, we will be able to serve clients not only from all of sector <1> but from neighboring ones as well. Planned opening date: <2>.<br>Funds raised: <3>/<4> cr.
+291	Sponsor the construction
+292	Spin the record player
+293	<color=255,240,100>Latest news on black hole research:</color>
+294	Unexplored planet finder
+295	Item protection
+296	Disable black hole appearance notifications
+297	Black hole appearance notifications: <0>
+298	Enable black hole appearance notifications
+299	Having checked all the planets the site listed, you discovered with annoyance that your probes have already explored every one of them. So you've explored the entire Galaxy! That surely deserves some high mark of distinction for outstanding contribution to xenogeodesy.
+300	Probe orbits
+301	Mountains:
+302	Plains:
+303	Water:
+304	Unexplored territory:
+305	pc
+306	, sector
+307	Location: system
+308	(captured)
+309	(under pirate clan control)
+310	(under Coalition control)
+311	Here you can set which items <clr>must not<clrEnd> leave your hold or be sold
+312	Here are all the items that you can forbid to be sold or removed from the ship's hold.
+313	Here are all the items that you have forbidden to be removed from the ship's hold or sold.
+314	Despite the existence of official sites, private ones with far more features are much more popular on Galanet.<br><br>This time, too, you were helped by the "Columbarium" site, which listed several nearby planets not settled by any of the races of the Coalition of intelligent races:<br><br><0>
+315	Set ban
+316	Remove ban
+317	No fuel, takeoff impossible!
+318	Fuel tank damaged, takeoff impossible!
+319	No fuel tank, takeoff impossible!
+320	Engine damaged, takeoff impossible!
+321	No engine, takeoff impossible!
+322	Sponsor the fund
+323	Get a list of polluted systems
+324	Detailed pollution list
+325	Hello, friends! Today we turn to you with a plea for help. Everyone knows there is a war on, and every self-respecting gaalian wants the fighting to finally stop, but the cruel truth of life is that for the war to end, one must fight. And right now every gaalian is making a choice - to remain faithful to the pacifist teachings of the Code of Ga, or to fight and thereby bring peace and prosperity to the whole Galaxy closer.<br>My friends and I have made our choice: we will fight, protect peaceful citizens, keep order and, most importantly, justice. But even that is not so simple in our world, a world where everything has to be paid for, especially well-equipped warships. That is why we need your help. If the project is successfully funded, <0> ships united in a squadron that we have decided to call <1> will be able to set off into space to bring at least a little harmony to this maddened world. We are currently on the planet <2> in the <3> system, and our mission will begin here <4>. We thank you in advance.<br>Funds raised: <5>/<6> cr.
+326	Welcome, friends. It is no secret that the war now under way is very detrimental to the interests of simple, honest businessmen, which we, of course, are. I think we can all agree that the regular army is doing its job abysmally, which means that, as usual, we will have to do everything ourselves.<br>My friends, also honest businessmen (there are <0> of us in all), could take this on. We have even come up with a name for our gang - <1>. We have ships, but here's the catch: our weapons and equipment are old and mostly broken. Supplying our ships with the necessary equipment is a very costly task, and that is why we need your help. We guarantee that at least half of the money received will be honestly spent on equipment and weapons. We are currently on the planet <2> in the <3> system. This is where we plan to begin our combat operations <4>, if the project is successfully funded. We hope for your support.<br>Funds raised: <5>/<6> cr.
+327	Welcome to the website of our eco-community "Clean Up Space".<br>Did you know that every resident of the Coalition accounts for more than 1000 tons of space debris every year? And there are virtually no factors in space that cause objects to decompose! That little Makhpella Dark can you tossed overboard once is still out there somewhere in space - and will stay there until some space object pulls it in.<br>Who does that bother, you ask. One can, of course, bothers no one, but there are trillions of such cans, and not only cans - containers of ownerless cargo, parts of ships destroyed long ago, and even ordinary minerals left over from a destroyed asteroid - all of this is debris, and when there is a lot of debris, plenty of problems appear. Large clusters of space debris seriously hamper navigation, and debris falls onto planets. Not only is that dangerous in itself, it also further worsens planetary ecology, and large clusters of debris around stars can keep light from reaching planets, which can lead to catastrophic climate change. In short, the problem of space debris is more urgent now than ever.<br>That is why we will be grateful to pilots who help preserve outer space for future generations! We publish a list of especially polluted systems. You can help us by collecting as much of the debris there as you can. If you find anything valuable among the debris, you of course have the exclusive right to it.
+328	Choose another system
+329	Select the section you are interested in:<br><0>
+330	Galactic Encyclopedia
+331	Delivery service
+332	Choose another sector
+333	Back to the table of contents
+334	Greetings and congratulations. You civilian nobodies have a chance to help the valiant maloq army finally finish off all the enemies and achieve victory! We are a group of <0> veteran military pilots with vast combat experience who have been languishing in civilian life, but thanks to you we may finally get the chance to get back behind the controls of warships and show everyone what the great maloq army is capable of.<br>If the funding is successful, we will form a squadron called <1> and immediately begin providing combat support to the Coalition fleet and keeping order in Coalition-controlled territories. We are currently based on the planet <2> in the <3> system, from which, if successful, <4> we will begin our service. That is all. At ease!<br>Funds raised: <5>/<6> cr.
+335	Hello. I won't beat around the bush, I'll say it straight: we cannot win this war! Now let's take it step by step. I represent the faeyan research institute of planet <0> in the <1> system, better known as the "<2>" Research Institute. We specialize in mathematics and statistics. We have calculated all possible courses of events, taking into account even such hard-to-predict factors as the heroism of individuals, natural disasters, and public unrest caused by a rise in textile prices... we even took into account the "One in a Million" principle formulated by the ancient human mathematician P. Terry! In short, our results can claim to be the most complete and objective of any possible. And they are disheartening. According to our calculations, the Coalition's chances of victory currently stand at only <3>%. But all is not lost! We calculated that a decisive turning point <4> could be brought to us by just a few additional warships (specifically, <5>), and my colleagues and I are ready to take on this burden, but the ministry flatly refuses to issue us ships!<br>So now it is all in your hands: if you support us with a loan, we will be able to buy and equip ships ourselves, which in turn will give the Coalition the decisive percentage in its chances of victory. It is all in our hands - yours and ours!<br>Funds raised: <6>/<7> cr.
+336	Hello. I represent the public organization <0> from the planet <1> (<2> system). We are very concerned about the situation on the fronts. We have tried to give the Coalition Armed Forces what help we can - above all financial, of course - but now we understand that it is not enough. The army needs people. Among our ranks are former mercenaries, retired soldiers, and law enforcement employees: in short, people with some combat experience. In all, we have managed to gather <3> volunteers who would be ready to stand in defense of the Coalition as militiamen, but unfortunately we have no ships, necessary equipment, or weapons. The army, as I already mentioned, is also going through hard times and cannot allot us ships, so we turn to you. If the project is successfully funded, our volunteer detachment will finally be able to do what it was meant to do - protect the lives of innocent citizens and bring victory in the war closer. Fundraising will last until <4>.<br>Funds raised: <5>/<6> cr.
+337	You are on your ship's bridge. What will you do?
+338	Biomodules
+339	<clrEnd>Description:
+340	<clrEnd>Biomodule: <clr>
+341	Finish setup
+342	</color>--- Temporarily unavailable ---
+343	Galanet
+344	All incoming calls: <0>
+345	Blocked
+346	Allowed
+347	Eco-community Clean Up Space
+348	Leave the site
+349	The <0> rebel detachment did not have enough credits to equip its ships. Your compensation: <1> cr.
+350	The <0> mercenary detachment did not have enough credits to equip its ships. Your compensation: <1> cr.
+351	The <0> system has been seized by the enemy, and fundraising to equip the <1> detachment has been halted. Your compensation: <2> cr.
+352	Continuation of the return list:<br><0>
+353	 (<0> t.)
+354	Continuation of the delivery list:<br><0>
+355	Continuation of the lost cargo list:<br><0>
+356	Message from the delivery service:<br>Dear customer! Your cargo has been successfully returned to the departure station <0> in the <1> system. We apologize for the inconvenience and, in accordance with the terms for delivery disruptions not caused by <color=255,240,100>LGL</color>, we are transferring to your account the standard penalty of <color=255,240,100>50%</color> of the full delivery cost.<br>List of returned cargo:<br><2>
+357	Message from the delivery service:<br>Dear customer! Your cargo has been successfully returned to the departure planet <0> in the <1> system. We apologize for the inconvenience and, in accordance with the terms for delivery disruptions not caused by <color=255,240,100>LGL</color>, we are transferring to your account the standard penalty of <color=255,240,100>50%</color> of the full delivery cost.<br>List of returned cargo:<br><2>
+358	Message from the delivery service:<br>Dear customer! Your cargo has been successfully delivered to the station <0> in the <1> system. Thank you for choosing <color=255,240,100>LGL</color>.<br>List of delivered cargo:<br><2>
+359	Message from the delivery service:<br>Dear customer! Your cargo has been successfully delivered to the planet <0> in the <1> system. Thank you for choosing <color=255,240,100>LGL</color>.<br>List of delivered cargo:<br><2>

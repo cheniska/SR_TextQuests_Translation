@@ -1,0 +1,22 @@
+368	=365|delivering cargo to pirate systems|hauling cargo between pirate systems
+369	=366|delivering cargo to pirate systems|hauling cargo between pirate systems
+370	=364|to pirate systems that you accepted, we can pay you compensation of only <color=255,240,100>75%</color> of the full delivery cost.<br>List|from pirate systems that you accepted, we can pay you compensation of only <color=255,240,100>75%</color> of the full delivery cost.<br>Full list
+371	=365|to pirate systems that you accepted, we can pay you compensation of only <color=255,240,100>75%</color> of the full delivery cost.<br>List|from pirate systems that you accepted, we can pay you compensation of only <color=255,240,100>75%</color> of the full delivery cost.<br>Full list
+372	=366|to pirate systems that you accepted, we can pay you compensation of only <color=255,240,100>75%</color> of the full delivery cost.<br>List|from pirate systems that you accepted, we can pay you compensation of only <color=255,240,100>75%</color> of the full delivery cost.<br>Full list
+373	</color> t.)
+374	 t.) (<color=0,50,200>add</color>)
+375	<clrEnd>planet <clr>
+376	Confirm order
+377	Express delivery
+378	Standard delivery
+379	Courier delivery
+380	Cancel delivery
+381	<clrEnd>To:
+382	<clrEnd>To planet:
+383	<clrEnd>From:
+384	<clrEnd>From planet:
+385	On-board systems settings
+386	Info center
+387	<clrEnd>To destination system: <0> pc
+388	<clrEnd><br>*The LGL delivery service carries cargo between any free systems, including systems under <clr>pirate clan<clrEnd> control. However, due to the increased risk of hauling cargo between pirate systems, LGL cannot guarantee clients the same level of safety as for freight transport in Coalition-controlled space. By ordering a delivery <clr>TO<clrEnd> or <clr>FROM<clrEnd> a pirate system, you automatically assume part of the <clr>responsibility<clrEnd> for possible <clr>loss<clrEnd> of the cargo in transit.
+389	No property found outside the ship

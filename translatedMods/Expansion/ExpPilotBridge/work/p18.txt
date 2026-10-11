@@ -1,0 +1,61 @@
+632	=631|corpse of a maloq who|corpse of a peleng who
+633	=631|corpse of a maloq who|corpse of a human who
+634	=631|corpse of a maloq who|corpse of a faeyan who
+635	=631|corpse of a maloq who|corpse of a gaalian who
+636	Info box for automatically turning off the afterburner when necessary
+637	Invisible info box for freelancer thieves, to take them out of the script no sooner than they reach the planet
+638	Invisible info box for the guy who framed the player
+639	CustomEther('QuestNormal', 3, 'CustomQuestKillBridge', '<color=255,240,100>Mission completed, only the payment remains to be collected</color>' + CT('FormInfo.br') + 'Client - planet <color=255,240,100>' + PlanetName(IdToPlanet(EQuestPlanet)) + '</color> (system <color=255,240,100>' + StarName(PlanetToStar(IdToPlanet(EQuestPlanet))) + '</color>)' + CT('FormInfo.br') + ' ' + CT('FormInfo.br') + GEQuestText);
+640	NewsAdd('Message from planet <color=255,240,100>' + PlanetName(IdToPlanet(EQuestPlanet)) + '</color>.' + CT('FormInfo.br') + 'We have received information that the ship <color=255,240,100>' + Name(cur_ship) + '</color> has been destroyed. Your side of the contract has been fully completed. The reward will be waiting for you upon arrival.');
+641	Invisible info box for pursuing pirates
+642	Invisible info box for the guys swiping the player hulls
+643	NewsAdd('The warehouse of planet <color=255,240,100>' + PlanetName(Tplanet) + '</color> has received <color=255,240,100>' + Name(Thull) + '</color> with a size of <color=255,240,100>' + ItemSize(Thull) + '</color> pcs. You can pick it up at any time convenient for you.');
+644	Onama
+645	Ariandel
+646	Aliona
+647	Kaiju
+648	Gaalifrey
+649	Laanesh
+650	Aoraan
+651	Gremori
+652	Grondarm
+653	Andalor
+654	Taron-kar
+655	Molgaar
+656	Ragobam
+657	Shchayk
+658	Akhikh
+659	Egir
+660	Ares
+661	Lycanthrope
+662	Wolverine
+663	Zero
+664	Militiaman
+665	Pirate Driver
+666	Rebel
+667	Letters
+668	Perfectly ordinary, unclassified letters from one humanoid to another in standard paper envelopes. It is only surprising that anyone still uses such an archaic way of transmitting information.
+669	Wheatley
+670	An extraordinary artifact,<br>an exceptional specimen of ancient<br><color=0,153,255>Earth</color> technology.
+671	After a long time in open space, the device speakers have fallen completely into disrepair, so all you can do is guess what secrets this amazing device could have told.
+672	<color=0,130,255>But it seems there are connectors here similar to those used on micromodules. It is worth trying them on the equipment this thing was made for</color>
+673	Acoustic guitar
+674	The moment he picks one up, every space pilot feels an irresistible desire awake somewhere deep in his space-pilot soul to sit by a plasma campfire and strike up the old ranger song: <color=255,240,100>"Oh-oh-woah! A space marine fell on my girlfriend!"</color>
+675	Djembe
+676	A traditional musical instrument of the West African peoples of planet Earth. Thanks to its simplicity, this ancient drum quickly won wide popularity among all the races of the Coalition.<br>Especially among the maloqs.
+677	Electric guitar
+678	A true icon of rock music - the classic six-string electric guitar. It remains enormously popular even <color=255,240,100>1370</color> years after its invention. Nothing more to add here.
+679	Flute
+680	An ancient wind instrument, especially revered among the gaalians. After numerous incidents involving artificial intelligence malfunctions in some models of humanlike androids, further production and circulation of flutes had to be placed under strict control by a special agency of the Galaxy Council.
+681	White piano
+682	A luxurious antique instrument that doubles as an adornment for any living room. It is unclear, though, who might need one and why<br>in space.
+683	Maracas
+684	Despite the Earth name <color=255,240,100>"maraca"</color> that has stuck to this percussion-noise instrument, most modern maracas are made using maloq technology by maloq craftsmen. The representatives of the most militarized race of the Coalition are still trying to restore to their traditional drill instrument its original name - <color=255,240,100>"thunder-shaker"</color>, but all the other races liked the Earth version far too<br>much.
+685	Peleng spy probe
+686	An obsolete spy probe of peleng manufacture. Owing to their relative cheapness and mass availability on all manner of black (and not so black) markets of the Galaxy, such probes are often used for corporate and other types of espionage that do not require the latest equipment.
+687	<color=0,153,255>Wheatley</color>
+688	str text_q = 'Are you sure you want to install <color=0,50,200>Wheatley</color> in ItemName?';
+689	After a long time in open space, the device speakers have fallen completely into disrepair, so all you can do is guess what secrets this<br>amazing device could have told.
+690	To open the Captain Bridge, click the curved part under the hull slot, or press the (B) key (the same physical key on a Russian layout)
+691	The Captain Bridge has many different functions, and their number only grows with the addition of new modifications
+692	Cargo hauling, hull delivery, switching the abilities of unique ships - and much more!
