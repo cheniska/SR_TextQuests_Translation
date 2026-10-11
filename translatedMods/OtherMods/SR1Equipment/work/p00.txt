@@ -1,0 +1,32 @@
+1	"Star Hawk" Hull I
+2	<color=248,252,248>A series of old, time-worn peleng starships. Owing to their outdated design, the ship's systems may conflict with modern equipment. Thanks to its low price, it is a decent option for novice and low-income pilots. This hull is fitted with an additional set of stabilizers and maneuvering jets, which substantially increases the ship's speed and maneuverability. The hull also contains hidden compartments for contraband, making it an ideal ship for a smuggler.</color>
+3	Speed: <bonSpeed> units
+4	Leadership skill: <bonSkill6>.
+5	Maneuverability skill: <bonSkill2>.
+6	Trading skill: <bonSkill4>.
+7	"Star Hawk" Hull II
+8	"Star Hawk" Hull III
+9	"Star Hawk" Hull IV
+10	"Legacy" Hull I
+11	<color=248,252,248>A series of old, time-worn human starships. Owing to their outdated design, the ship's systems may conflict with modern equipment. Thanks to its low price, it is a decent option for novice and low-income pilots. This hull has an impressively sized, well-equipped cargo hold and numerous additional hidden compartments, which makes this ship ideal for both honest traders and smugglers.</color>
+12	"Legacy" Hull II
+13	"Legacy" Hull III
+14	"Legacy" Hull IV
+15	"Ga-Elit" Hull I
+16	<color=248,252,248>A series of old, time-worn gaalian starships. Owing to their outdated design, the ship's systems may conflict with modern equipment. Thanks to its low price, it is a decent option for novice and low-income pilots. This hull is equipped with a high-tech optical sensor system, which substantially improves the ship's radar capabilities.</color>
+17	Accuracy skill: <bonSkill1>.
+18	"Ga-Elit" Hull II
+19	"Ga-Elit" Hull III
+20	"Ga-Elit" Hull IV
+21	"Octaniod" Hull I
+22	<color=248,252,248>A series of old, time-worn faeyan starships. Owing to their outdated design, the ship's systems may conflict with modern equipment. Thanks to its low price, it is a decent option for novice and low-income pilots. This hull is equipped with additional compact mini-reactors whose output is directed at boosting the power supply of the shield generator and the repair droid, which makes this ship superbly protected against external impact.</color>
+23	Technical skill: <bonSkill3>.
+24	"Octaniod" Hull II
+25	"Octaniod" Hull III
+26	"Octaniod" Hull IV
+27	<color=248,252,248>Mass-produced analogs of scanners from the time of the klissan aggression. After requesting samples from the Gaaldok museum, engineers copied their design for experiments with acrynic overlay. After several years of persistent research, the scientists managed to modify the scanner devices so that their power increased many times over, allowing these models to scan spacecraft no worse than modern ones. An economical analog suited to low-income pilots or connoisseurs of the retro style.</color>
+28	"Warhammer" Hull I
+29	<color=248,252,248>A series of old, time-worn maloq starships. Owing to their outdated design, the ship's systems may conflict with modern equipment. Thanks to its low price, it is a decent option for novice and low-income pilots. This hull is equipped with additional armor plates and an improved targeting system, which allows the ship to compete even with modern warships.</color>
+30	"Warhammer" Hull II
+31	"Warhammer" Hull III
+32	"Warhammer" Hull IV

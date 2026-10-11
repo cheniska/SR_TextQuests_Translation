@@ -1,0 +1,52 @@
+336	The galactic postal service <clr>"Express Galaxy"<clrEnd> has encountered an unforeseen problem - all the hyperfuel was stolen from our tanks on this wonderful planet. Now we are forced to send the most urgent cargo and letters with passing ships. We offer you, <Player>, to deliver a heap of parcels to the planet <ToPlanet> (the <ToStar> system). So as not to lose our reputation, we cooperate only with experienced carriers who can withstand our strict time limits. You are given <Day> days to deliver the cargo, and upon completing the task you will receive <Money> cr.
+337	Dear <Player>, the chemical concern <clr>"Yellow Sky"<clrEnd> thanks you for the valuable cargo. We hope that the sum of <Money> cr will cover your expenses.
+338	This substance will help us a great deal. By the way, your head has swollen. Probably symptoms of a tumor!
+339	Though, unlikely, you didn't open the container. Or maybe you did?..
+340	Will you by any chance be passing the <ToStar> system? If so, you must take along a container with a carcinogenic substance. It is needed by people doing research in the treatment of brain tumors. Don't worry, it is absolutely safe! The substance is awaited on the planet <ToPlanet>. Do you understand how important it is to deliver it as quickly as possible?
+341	Then get to work! A good reward awaits you if you manage to deliver the container before <Date>. An old carcinogen is of no use to anyone.
+342	Well, we are very grateful for this delivery, <Player>, although our transport was already ready to depart.
+343	Of course, we have no intention of treating our citizens free of charge. The foolish gaalians understand nothing about business. It will probably be most profitable to resell the device to the maloqs, who are ready to pay any money for the health of their nation. And you, take your <Money> cr - charity is charity, but a solid capital never hurts.
+344	Ranger <Player>, if you plan to visit the vicinity of the <ToStar> system, please deliver a parcel to the planet <ToPlanet>. It is a device for purifying peleng blood of carbon dioxide, which they ordered. The device is ready, but the transport the pelengs promised to send for it is for some reason delayed, so we decided to send the device with a passing ship. This is not always reliable, since some private carriers appropriate valuable cargo. You have a good service record, your reputation is positive, and we consider you a trustworthy agent. Please deliver the cargo exactly on time - no later than <Date>.
+345	The Charitable Medical Bureau of the planet <FromPlanet> is a non-governmental humanitarian organization whose goal is to support all initiatives aimed at improving medical conditions for backward peoples. All kinds of technological and chemical-bacteriological developments on an absolutely free basis.
+346	Oh, <Player>, you brought the personal baduba of the rart <clr>Gromargidus<clrEnd>! We probably thought badly of our gaalian partners in vain, suspecting them of theft. Or maybe they hid it on purpose to study it and then return it, eh? After all, it is made of secret kinds of stone.
+347	The reward of <Money> cr has been transferred to your account.
+348	Ranger <Player>, the matter we intend to propose to you is of a very delicate nature. Our planet was visited by the well-known maloq rart <clr>Gromargidus<clrEnd> from the planet <ToPlanet> (the <ToStar> system). Although the import and export of any weapons is forbidden with us, for especially important persons we often make an exception; so Mr. <clr>Gromargidus<clrEnd> had with him a family club, a baduba. But after his departure we found the baduba in the bathhouse, where he had forgotten it. Now Mr. <clr>Gromargidus<clrEnd> suspects us of theft. We would be glad to return the rart's property, but the problem is that exporting weapons is considered a crime here. On the other hand, we do not want to quarrel with the maloqs at all.
+349	Perhaps you, as an illegal pilot, could smuggle the baduba out and deliver it to the maloqs before <Date>? A good reward will await you on the planet <ToPlanet>!
+350	Thank you very much for the postcard. Allow me to present you, as a goodwill gesture, these <Money> cr. Did you happen to open the postcard? Pity if not, let me tell you, it's a very amusing little thing.
+351	Humans, close friends of our <clr>Grand Master<clrEnd>, live on the planet <ToPlanet> in the <ToStar> system. The distance is not short, and they rarely see each other. If you are heading to that area, would you be so kind as to deliver a Christmas postcard before <Date>? It is a very expensive supermultimedia postcard with solar panels, and we will be very upset if it does not arrive on time. But you, we think, are the owner of a fine fast transport ship, and we believe such a request will not trouble you.
+352	Thank you, <Player>, for your cooperation and the cargo delivered on time. We have already heard of our pilot's sudden illness, and it is very pleasant that you showed such readiness to help. You are clearly a citizen of honor and high moral convictions. Try to increase your virtues and not bury them in the ground. Here are your <Money> cr.
+353	We represent the galactic postal service <clr>"Express Galaxy"<clrEnd>. One of our pilots has suddenly fallen ill with a rare disease - venous polioglit. This disease affects only gaalians, other races tolerate it without consequences; apparently the pilot visited some infected place. We are very upset and alarmed by this fact and intend to impose a quarantine on the entire postal base.
+354	But, as you understand, we are bound by obligations and do not want to pay penalties for failing to deliver cargo on time. Can you help us by taking two small parcels to the <ToStar> system, to the planet <ToPlanet>? If you deliver them within <Day> days, you will receive <Money> cr from our representatives. Since the cargo is insured, failure to deliver on time will entail payment of a large penalty. We are counting on you greatly.
+355	What a wonderful device you have brought, <Player>! Our scientists have not been able to create anything like it yet!
+356	For such a splendid gift we are immediately transferring <Money> cr to your account. And there is no need to thank us for our excessive generosity.
+357	Ranger <Player>, do us a favor and deliver to the planet <ToPlanet> in the <ToStar> system this brain stimulator, developed specially for the faeyan organism. It is a gift we want to present to our faeyan friends - it will be very useful to them in their meditative exercises, since it relieves neural tension and stimulates activity of the frontal zones. Soon the faeyan will hold their annual assembly on the subject of Transcendent Knowledge, and we would like you to deliver the gift as quickly as possible. If you do this within <Day> days, upon arrival you will receive <Money> cr, which we will transfer in case of success. Otherwise, unfortunately, we will be forced to withhold your fee, since we consider failure to meet the terms a dishonest and indecent act.
+358	Message
+359	Crate
+360	A mysterious crate. Not radioactive, not contagious, not toxic.
+361	Parcels
+362	"Gron-DoRM" flamethrower
+363	Knife sharpener
+364	The "Ultra-Gromix" pistol, disguised as a sharpener.
+365	Device
+366	A gift set of alcoholic beverages, disguised as a nitrogen distillation device.
+367	Case
+368	Peace pipe
+369	Sword
+370	Kalkit
+371	Small sphere
+372	A model of a planet made in the form of a microscopic elastid sphere.
+373	Chip
+374	A chip capable of adapting to any computer system.
+375	Microdiscs
+376	A recording of static takes for a holofilm.
+377	Ashes
+378	An urn with the ashes of a human ambassador.
+379	Small parcel
+380	Carcinogen
+381	A device for purifying peleng blood of carbon dioxide.
+382	Baduba
+383	The family baduba club of a well-known maloq rart.
+384	Postcard
+385	A very expensive supermultimedia postcard on solar panels.
+386	Stimulator
+387	A brain stimulator for the faeyan organism.
