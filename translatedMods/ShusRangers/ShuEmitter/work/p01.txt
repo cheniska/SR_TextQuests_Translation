@@ -1,0 +1,36 @@
+4	E-11 Blaster
+16	Explosive shells deal <MinDamage>-<MaxDamage><Bonus> units of damage at a range of up to <Radius>. Also slows the target and damages its engine.
+17	<color=255,240,100>Manufactured by maloqs only</color>.
+18	Creates energy fields near the target at a range of <Radius>. Damage from <MinDamage> to <MaxDamage><Bonus> units, with a chance of blocking the target's weapon system.
+19	<color=255,240,100>Manufactured by gaalians only.</color>
+20	Deals <MinDamage>-<MaxDamage><Bonus> units of damage at a range of up to <Radius>. Deals additional damage when the scanner exceeds the target's defense.
+21	<color=255,240,100>Manufactured by faeyans only</color>.
+22	Fires two volleys, dealing <CntAttacks>x(<MinDamage>-<MaxDamage>)<Bonus> units of damage at a range of <Radius>.
+23	Strikes the target with a powerful energy charge, dealing serious damage from <MinDamage> to <MaxDamage><Bonus> units at a range of <Radius> units. Deals additional damage to a damaged target and weakens its armor if the scanner exceeds the enemy's defense.
+24	<color=255,240,100>Manufactured by maloqs and pelengs.</color>
+25	A stream of photons at a range of up to <Radius> deals from <MinDamage> to <MaxDamage><Bonus> units of damage and has a chance of blocking the target's weapon system.
+26	<color=255,240,100>Manufactured by maloqs, gaalians and pirates.</color>
+27	A stream of photons at a range of up to <Radius> deals from <MinDamage> to <MaxDamage><Bonus> units of damage and has a chance of blocking the droid's operation.
+28	A stream of photons at a range of up to <Radius> deals from <MinDamage> to <MaxDamage><Bonus> units of damage and damages the target's engine.
+29	Hits the target with a clot of energy that inflicts <MinDamage>-<MaxDamage><Bonus> units of damage at a range of no more than <Radius>, ionizing the target and affecting the electronic innards of its equipment. Deals increased damage to dominators.
+30	<color=255,240,100>Manufactured by humans and faeyans.</color>
+31	Slows the target's movement and deals precise damage of <MinDamage>-<MaxDamage><Bonus> units at a range of up to <Radius>, with a small chance of making the enemy drop cargo from its hold. Preserves more valuable equipment when the enemy is destroyed.
+32	<color=255,240,100>Manufactured by pelengs only.</color>
+33	The projector can deal from <MinDamage> to <MaxDamage><Bonus> units of damage at a range of up to <Radius>, destroying enemy equipment and damaging its innards.
+34	The splash laser deals from <MinDamage> to <MaxDamage><Bonus> units of damage to all ships in a small area at a range of <Radius>.
+35	Strikes the electronic innards of equipment with three electromagnetic pulses. Deals <CntAttacks>x(<MinDamage>-<MaxDamage>)<Bonus> units of damage. Firing range up to <Radius>. Deals additional damage to damaged targets.
+36	<color=255,240,100>Manufactured by humans only</color>.
+38	A level two micromodule. A set of <clrEnd>peleng<clrEnd> modifications that turn the <clr>Retractor<clrEnd> into a formidable long-range weapon intended for fighting heavily armored opponents.
+39	Additional effect: <clr>armor weakening<clrEnd>
+41	A level two micromodule. Replaces the standard splinter shells of the <clr>Burst Cannon<clrEnd> with incendiary ammunition types. The latter have a more serious behind-armor effect, which quickly disables all the enemy's equipment.
+42	Additional effect: <clr>equipment destruction<clrEnd>
+44	A level two micromodule. A major upgrade of the <clr>TB Combat Laser<clrEnd> that turns it into a lighter, more powerful but also more expensive weapon adapted for long-range combat. Rumor has it the project was stolen by a peleng from a faeyan laboratory.
+46	A level one micromodule. Removes some of the combat components of the <clr>Field Annihilator<clrEnd>, installing instead a more compact and cheaper enemy-slowing module. Since all the other races have deemed this approach ineffective, the module is compatible only with weapons of <color=255,215,25>gaalian</color> design.
+47	Additional effect: <clr>engine overheating<clrEnd>
+48	Cost: <clr>-40%<clrEnd>
+51	A level three micromodule. Turns the <clr>Photon Gun<clrEnd> into a very flimsy, compact and cheap unit by ship-weapon standards - an analog of the powerful but extremely short-range maloq hoverflight weapon "Penny".
+54	A level one micromodule. Connects to a <clr>pulse gun<clrEnd> built with <color=220,140,245>faeyan</color> technology an experimental energy clot generation unit that creates a far deadlier charge than its base module. A significant drawback of the design, which kept it from serial production, is its difficulty of operation, which multiplies the cost of repairs.
+57	A level two micromodule. Equips the <clr>Splash Phaser<clrEnd> with a reverse-type inertial matter restructuring module. <color=250,20,20>Prohibited</color> for use by <color=255,70,0>maloqs</color> and <color=220,140,245>faeyans</color> because of its frequent use in interracial conflicts.
+58	Additional effect: <clr>structure restoration by dealing damage<clrEnd>
+60	A level two micromodule. Removes the system limitations from any <clr>Caphasitor<clrEnd>, which sharply increases its damage and range but also lowers its reliability. The cost of repairing such a Caphasitor rises.
+61	Durability: <clr>-20%<clrEnd>

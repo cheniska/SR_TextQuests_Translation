@@ -1,0 +1,52 @@
+1	All right, all right, I'm leaving
+2	The probability analyzer has detected growing tension in the Galaxy. Another antigovernment uprising may break out soon.
+3	Greetings, brother <Player>! Glad you came. We regret that, owing to the unrest on the planet, the local attractions are closed at the moment.<br>However, I assure you, soon we will drive the Coalition out of here altogether and then we'll li-i-ive!<br><br>So what brings you here?
+4	Greetings, Ranger <Player>!<br><br>Right now a revolt of pseudo-anarchists, funded by the pirate Clan, is raging in our system, but rest assured, our units will deal with this rebellion within days.<br><br>Unfortunately, martial law has been declared on the planet, so everything is closed.
+5	A commendable impulse, brother! The money really will come in handy to convince this system's population that we bring freedom from the shackles of the Coalition's tyrannical rule.<br>We have set a target of <0> cr. The more of that target we collect, the better. So far we have <1> cr, <2> cr remain.<br>How much are you prepared to donate?
+6	If not, then not. Shall I ask security to escort you to the hangar?
+7	Thank you for the donation, brother. All the money will go to proclaiming the truth to the doubting people.<br>Shall I ask security to escort you to your ship?
+8	Thank you so much for such a gift, <Player>! Thanks to you we have finally collected the full amount. In honor of this event, we give you <0> <1>.<br>Shall I ask security to escort you to your ship?
+9	The planetary trade center is closed right now, but we are desperately in need of weapons, and in the course of overthrowing the local authorities we just happened to acquire a lot of luxury items, so we decided to trade luxury goods for armaments. <br>The rate is <clr>one ton of luxury goods for two tons of weapons.<clrEnd> For this barter we have <0> tons of luxury goods.<br>So, are you interested?
+10	Excellent, <Player>. You exchanged <0> tons of weapons for <1> tons of luxury goods. We still have <2> tons of luxury items left in stock.<br>Have a nice day, brother.
+11	Even though everything is closed right now, we could really use some armaments. However, our budget does not allow big spending on purchases, so for each ton of weapons we pay only <0> cr. - to compensate our losses at least somehow. Think of it not as a trade deal but as a donation for the sake of peace in the Galaxy.<br>We plan to gather <1> tons of armaments for a major battle against the terrorist forces. So far a total of <2> tons has been produced and received from independent sponsors.<br><br>Do you have weapons to hand over to us?
+12	It's a pity you changed your mind. Drop by if you suddenly feel like helping us.
+13	Thank you very much, Ranger. Now <0> tons of weapons remain until the plan is fulfilled. All the best.
+14	Ranger, you have made a decisive contribution to replenishing our arms depots, and it is thanks to you that <clr>the entire plan is fulfilled!<clrEnd> For heeding the call of your heart and helping, allow me to present you with <0> <1>! Thank you!
+15	I'm busy right now, <Player>, but believe me: as soon as I'm done with my current target, you'll meet Rachekhan in person!
+16	Fly off in any direction you like, you foul boarsplat, or I'll knock your engines off!
+17	<Player>, no time to talk, I'm aiming my weapon at the target. Out.
+18	Hello, brother <Player>! Today a great deed is being done - we are overthrowing the rule of the bureaucrats sitting on sacks of money! Join us, brother, we'll take this system back by our combined forces!
+19	You are a criminal, <Player>. Leave the system immediately and do not dare to interfere with my mission, or you will be liquidated at once.
+20	Your ship has a bad record with us, <Player>, but right now I'm busy carrying out a top-priority CAFIC order, so clear the channel and don't interfere.
+21	<Player>, I'm busy carrying out a CAFIC order to restore order in the <0> system. Clear the channel.
+22	I beg your pardon, <Player>, but at the moment I'm carrying out an important assignment, please get back to me later.
+23	Hello, <Player>! Please excuse me, but right now I'm busy fighting rebels in the <0> system - contact me later, when I finish the assignment.
+24	You have the nerve to contact me, you vile pirate? Ship's computer, all guns on target!
+25	How do you dare to contact me, <Player>? I'm about to rid the world of you, you insolent scum who disgrace the honor of pirates, and scatter your ashes all over the <0> system!
+26	I'll pick the amount now...
+30	Are you buying something? Or selling?
+34	How much will you donate to the opposition?
+35	How many tons of weapons are you willing to exchange for luxury goods?
+36	Breaking news from the <0> star system!<br>Unfortunately, an attempt to land troops at the opposition's hideout on planet <1> ended in catastrophe. The rebels lured the soldiers into a trap and wiped out the entire strike force of the Coalition. We ask all free pilots to lend support and come to the system to fight the bandits.
+37	Today in the <0> system the Coalition fleet won a crushing victory over the rebels. In a heavy ground battle the landing force defeated the opposition members who had seized power on planet <1>
+38	Urgent news from the <0> system!<br>In a fierce battle the pro-pirate rebels managed to gain the upper hand over government forces, but the subsequent attempt to land troops on planet <1> failed completely!<br>We ask all free pilots to join the forces of the defenders of freedom!
+39	The Coalition is in danger!<br>Today a squad of anarchists among those landed on the surface of planet <0> (<1> system) managed to break into the government forces' headquarters and wipe out the command entirely, which led to the collapse of the resistance to the pirates. This planet is now under the control of the pirate syndicate.
+40	New reports are coming in from the <0> system - the forces of the pirate Clan have completely crushed the resistance of pro-government formations and taken control of the system. Right now the bandits are busy dividing the spoils, so CAFIC urges all free pilots to use this moment to counterattack the invaders.
+41	New reports are coming in from the <0> system - Coalition forces there have managed to put an end to the pirate elements, which means nothing threatens the lawful order there any longer. In honor of this, celebrations open to all have been declared on the planets of the star system.
+42	What have we here... <br><br>Aha!<br>Traitor <Player>, under the martial law declared on the planet, we are obliged to take you into custody until the circumstances are clarified. Guards, carry out the order!
+43	Ranger, you are in our bad books, so don't expect a warm welcome<br><br>Besides, right now we are busy suppressing a rebellion raised by provocateurs of the pirate Clan, so we would ask you to leave the territory.
+44	Well, then...<br><br>I suppose <clr>one<clrEnd> ship will cost us <0> cr., and the investors' contribution might also help overlook certain minor sins.<br><br>What do you say?
+45	Excellent, <Player>!<br><br>The money has been transferred to the shipyard's account, and soon a brand-new ship will roll off the slipway!
+46	You Coalition rat, came here to snoop around?!<br><br>Boys, you know what to do with scum like this!
+47	You may be a good pirate, <Player>, but our "captains" don't hold you in esteem. So pardon me, but you'll have to fly out of here - straight ahead and then left.
+48	I want to donate some money to your glorious cause!
+49	I actually came here to trade...
+50	captured
+51	How many weapons are you willing to sell us?
+52	I was set up, I only wanted a secret assignment!
+53	You are free!
+54	All right, all right, I'm leaving!
+55	I would like to contribute what I can by financing the construction of a new system defender!
+56	Don't mention it
+57	Alarming news from the star system - on one of its planets, stormtroopers of the so-called "Anarchist International", in fact a structure sponsored by the pirate Clan and staffed with anarchists in its leadership only nominally, have raised an uprising. Be that as it may, the strike groups of these criminals have managed to take control of the planet and are apparently preparing to seize power over the whole system. All available Coalition forces have been put on alert.
+58	Joyful news from the star system - on one of its planets, supporters of the lawfully elected government have raised an uprising. Right now they are preparing to fight for their freedom, and we ask all free Rangers to join these brave fighters.

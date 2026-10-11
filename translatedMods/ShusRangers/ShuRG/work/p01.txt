@@ -1,0 +1,38 @@
+1	Greetings, <Player>!<br>We can repair your ship at an <clr>85% discount<clrEnd> or organize a pirate raid on a system of your choice. Or maybe you're interested in the unique equipment in our store?<br>Either way, make yourself at home.
+2	Sorry, but one strike group has already been sent out, and a new one can't be hired.
+4	Yes, let's go!
+6	How many pirates do you want to hire?
+7	Unfortunately, there are no free pilots in <clr>Dicea<clrEnd> right now. Come back later.
+8	As you know, <Player>, pirates often appear as an uncontrollable herd stampeding at the call of loot. Too bad our boys often chicken out in battles with dominators.<br>But you, as a pirate baron, can steer the flow of pirates into the channel you need. As a rule, the bandits gathered in the secret sector are idling, amusing themselves by shooting down asteroids and waiting for work. They are the best candidates for attacks.<br>Pirates admitted to the holy of holies are far less cowardly than the ordinary slackers and obey better the orders you can give during battle. Owing to the power of their engines, our boys do not fly farther than <0> parsecs. Also, you cannot send more than one squad at a time.<br>Right now <1> free cutthroats are hanging around in <clr>Dicea<clrEnd>. The current cost of hiring one fighter is <2> cr.<br>So, <Player>, will you hire pirates?<br>
+9	Your order has been relayed to the pirates. <0> cutthroats will gather at <clr>Rogeria<clrEnd>, and then head out to the star <1>. I hope you won't stay on the sidelines as the sponsor of this merry affair.
+10	No time to chat, I have orders from the Baron himself! Ah, it's you... I'm flying to the rally point, as ordered.
+11	Heading to my own at <clr>Rogeria<clrEnd>. I need to fix the ship before going off to fight.
+12	Preparing to jump to the <0> system.
+13	At last we're off to fight, I was getting sick of chasing asteroids!
+14	Boy, my fists are itching! Can't wait to shoot somebody!
+15	Setting a course for the <0> system. We'll get a proper workout there!
+16	At the moment, we control all the nearby systems within a 50 pc radius.
+18	Where are we meeting? At <clr>Rogeria<clrEnd>? That's where I'm heading.
+19	Proceeding to <clr>Rogeria<clrEnd> for further instructions.
+20	Understood, boss. Retreating to <clr>Tortugats<clrEnd>.
+21	Retreating to <clr>Tortugats<clrEnd>.
+23	Got it, boss. Returning to the fight.
+25	Baron, the <0> system is already under our control; pirates certainly love shooting at each other, but maybe it's still worth sending them to fight the enemies of the brotherhood?
+26	<0> is too far from <clr>Tortugats<clrEnd>, not all our boys have hyperdrives that powerful.
+27	A battle is already under way in the <0> system, so sending our boys there is not very sensible.
+28	Baron, have mercy, what use is my leaky tub in battle?
+29	My ship is falling apart as it flies, please don't send me back into battle.
+30	A couple more hits and I'm a corpse, let me retreat and patch the holes in the hull.
+31	My ship is in critical condition, I won't even have time to shoot back, permit me to retreat, I'm far more useful alive!
+33	Let's see...<br>...<br>Your ship, <Player>, is in excellent condition. It needs no repairs.
+34	Let's estimate the repair cost...<br>...<br>So, so... Our rates come to <0> cr. But considering your status in the pirate hierarchy, we'll give you a <1>% discount. The total repair price will be <2> cr. Well, is it a deal?
+35	Oh, and I almost forgot. You have dominator weapons installed on your ship. And as you probably already know, repairing them requires nodes. Let's say <0> nodes will be enough for us.
+36	As you wish, <Player>. Though I'd advise you to get repaired at such a ridiculously low price, but it's your choice.
+37	Anything else?
+38	I agree to pay <0> cr. for repairs that don't require nodes.
+39	I wanted to ask something here...
+40	Things at the bar are pretty sour right now, there's no one to drink with, where are all our brave vagabonds?
+41	I need access to your table in Gaalaxel
+42	And one more thing about our pirates...
+43	Well, if not, then not. Get in touch if you want to organize another raid.
+44	So, let's check the order:<br>Target system - <0><br>Number of pirates - <1><br>Cost of hiring - <2> cr. So, shall we send the gang to the <3> system?<br>

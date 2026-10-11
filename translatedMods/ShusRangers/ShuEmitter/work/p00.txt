@@ -1,5 +1,5 @@
-1	Zip Gun
-2	Field annihilator
+1	Burst Cannon
+2	Field Annihilator
 3	Graviton Beam
 5	Combat Laser TB-47
 6	Combat Laser TB-42
@@ -12,7 +12,7 @@
 13	Vortex Projector
 14	Splash Phaser
 15	X-Defibrillator
-37	Elephant gun
+37	Elephant Gun
 40	Firehole
 43	Gunbeam
 45	Li-Pacific
