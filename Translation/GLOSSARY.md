@@ -3258,3 +3258,20 @@
 | ЗНС (закрытый научный сектор) | CSS (Closed Science Sector) | PBNewMaps |
 | вертибёрд | vertibird | PBNewMaps |
 | гракробах | grakrobakh | PBNewMaps |
+| Иван Кенобенко | Ivan Kenobenko | RevJediQuest |
+| Люкс Небоходов | Lux Nebokhodov | RevJediQuest |
+| Дарт Флудиус | Darth Fludius | RevJediQuest |
+| Дарт Медвейдер | Darth Medveider | RevJediQuest, RevElection |
+| Сатикин | Satikin | RevDiplomat |
+| Багорба Ргнарык | Bagorba Rgnaryk | RevAcryn |
+| Неуправляемый Убиватор | Uncontrollable Killer | RevAcryn |
+| Необузданный Убиватор | Unrestrained Killer | RevAcryn |
+| Абу Линкольн | Abu Lincoln | RevElection |
+| Джуш Борж | Jush Borzh | RevElection |
+| Уду Шилл | Udu Shill | RevElection |
+| Елки Палкин | Yolki Palkin | RevElection |
+| Энергопакет | Energopack | RevElection |
+| озеро Мумба-Юмба | Lake Mumba-Yumba | RevColonization |
+| гранэкская чума | Graneka plague | RevColonization |
+| ПИРС (Портативный Инфильтрирующий Рассеивающий Сканер) | PIDS (Portable Infiltrating Dispersing Scanner) | RevDominatorSpy |
+| инфошка | info item | RevRangersArts, RevJediQuest |

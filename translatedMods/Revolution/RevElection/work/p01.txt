@@ -1,0 +1,83 @@
+1	Excellent! Hand it over!
+2	Well, how much should I give you... <br>Will <0> cr. do?
+3	Damn extortionist. And don't you dare cheat me!
+4	Have you completely lost it?! Where would a poor Ranger get that kind of money?
+5	So, do you have the dope with you?
+6	<Player>, what's with you, want a punch in the face?! Get lost while you're in one piece!
+7	Ranger <Player>. And you, I see, are totally blissed out
+12	Not enough. Multiply that sum by 4!
+13	Not enough. I demand six times more!
+14	Hello, <Player>! I'm flattered to meet you, truly. It's an honor to talk to such a great warrior!<br>How can I help you?
+15	I don't get it... Do you want to buy my vote?
+16	But why would I need it?
+17	Hello, <Player>. What news do you have?
+18	Listen, are these all your tranclucators?
+19	And what are you doing here, in orbit of <0>?
+21	I have the key to solving your problems! Ever heard of dominator Energopacks?
+22	I have one! Fly a bit closer, I'll toss it out now
+24	Hello, <Player>! Our cause is just, we will defeat the dominators!
+25	What brings you here, Mr. <Player>? You don't seem to be one of our regular agents.<br>
+26	Sorry, but we are not giving out any assignments today. Still, don't despair, an urgent matter is sure to come up in a couple of days.<br>
+27	Hello to you too. And why are you hanging around here instead of killing dominators?
+28	Can I vote?
+29	Now you're demanding justice here?
+30	Want me to lend you some?
+32	Well, I wanted to earn some money, so I hired on as a courier at the firm "MMM" on planet <0>. I worked for their government for 2 years and that's it... They never paid. And they owed me a whole <1> cr!
+33	Right, I remember. So what have you decided?
+34	Too bad...
+35	That would qualify as abuse of office. Why should I take the risk? If there were a material incentive... <0> cr., for example.
+36	Arr, a thousand red-bellied stinkers, <Player>, why did you disturb me, an old salt, a space warrior?
+37	Looking for someone to give a beating to! A beating that will be remembered for the rest of their life! <Player>, want to feel something unforgettable, huh? Come closer, don't be afraid. I'll hit gently, but hard.
+38	Ha! Stupid... The dominators seem to be smarter than us, yet they get everything by force. Why are we any worse? We won't get smarter than them, but we can crush them with military tactics!
+39	Eh, how can you help me, you don't understand a thing about military matters... Although... Wait. We need a good weapon. Yes. Two guns, the heavier the better.
+40	Well, <Player>, did you bring it?
+41	Phew, <Player>, you really bailed me out! Thanks a million! Soon you'll hear about me on the news!
+42	Just flying around here, sniffing out what's what. What are you doing flying around here?
+43	And how did a brave space warrior sink to the state of a boozed-up bilge hand?
+44	And why are you running circles around here?
+47	Here, got the unit. Heavy as hell, just as you ordered
+49	Hey, what are you doing, why did you scare everyone away?
+50	May I read the platform?
+51	I knew it! You were asked to vote for <0>?!
+52	Well, the elections are coming up, and <0> is hiding. And he promised us so much, deceived so many!
+53	I'm not a pirate, how many times do I have to say it?! Think about it once more and I'll gut you! I became a pirate by accident, and only temporarily. All I need is to regain my former power, get a powerful ship, and they'll all fall at my feet and beg for mercy!
+54	They told me about their troubles and needs, and I merely satisfied them
+55	It's a rather delicate matter... In short, they tried to bribe me
+56	And who are you to order me around?
+57	In more detail?
+58	I brought him! Here he is, <0>! He's in my hold, in an escape pod
+60	Yes, the vessel <0> approached me with this offer. It's in orbit now
+61	How to put it... You'll be losing precious time, and this is compensation for the lost profit.
+62	Well, that's just great! You fly to <0> for now, and I'll follow you.
+63	Good day, Ranger <Player>! We're holding elections for president. Voting started just a couple of days ago. So, alas, no secret assignments.<br>Though you may have some coffee at the government's expense.<br>
+64	You didn't fulfill my conditions, we were watching you!
+65	Then our cooperation is over. Get out of my sight!
+66	Yes, a cool gun, no denying it. But that's not enough... Listen, can you bring me another one?
+67	We'll check that right now. I'm asking in advance: "What coffin should we order for you? Oak or pine?"
+68	No, I don't have time. And it's stupid. What will my one vote decide?
+69	See you!
+70	Did you vote yourself?
+71	Hey, is that any way to talk to a famous Ranger, you tin can?
+72	Listen, I think I'm starting to recognize you... That's right! You're that very dalani <0>!
+73	You know, it's brilliant. Even the dumbest maloq can understand it. And what a sensation it caused in the scientific world of planet <0>!
+74	Which theory exactly are you talking about?
+75	But why not? I specially, exclusively, one might say, brought household appliances from planet <0> for detailed study
+77	You again? What now?
+79	All this is suspicious. No, I don't agree
+81	But why do you need <0> in particular? There are other candidates, after all!
+82	Nothing yet. Just came to check on you
+83	And who are you to judge me?
+84	Oak. Because you are a blockhead yourself. And you'll need a coffin too. The two of you will complement each other perfectly
+85	All right, when should I fly for the pod?
+86	As promised by the government, I'm tossing out the multiresonator. <Player>, take it aboard!
+87	According to the voting rules, humanoids not registered on planet <0> have no right to vote.<br>However, special protocols apply to Rangers, permitting some political activity. <br>So take a look at the list of presidential candidates:<br><br>- <1> (Green Party candidate)<br><br>If drug dealing and prostitution cannot be eradicated, we will make them legal and tax them!<br><br>- <2> (Purple Party candidate)<br><br>Simplified taxation of trade routes is the path to business prosperity!<br><br>- <3> (Yellow Party candidate)<br><br>In the name of Prosperity!<br><br>- <4> (Blue Party candidate)<br><br>The future belongs to humanity. Away with the nonhumans!<br><br>- <5> (Incomprehensible Party candidate)<br><br>Let's bring a little happiness to the people!<br><br>
+88	Identifier "Tin Can" not recognized. Please repeat the input.
+89	Is this all for me? Thank you, <Player>, can you show me what it is? I can't wait to study it!
+90	Thank you so much, <Player>! May luck always be with you!
+91	Who am I? I am mighty and influential, I can grind you to dust! <0> himself stands behind me!
+92	About a day after takeoff I'll throw it out. We act quietly, without fuss. Ending communication. Good luck!
+93	Not enough. About twice as much!
+94	You'll be able to connect tranclucators and "feed" them with the Energopack's energy, since it is practically inexhaustible
+95	I'm here about <0>. A certain firm "MMM" hired him to haul cargo, but did not pay
+96	Can't we all just coexist peacefully? Must we get everything by force? That's silly!
+97	<0> --> <1><br>So where is the promised legalization of narcotic substances?!<br><2> --> <3><br>If I don't have the Dubovoy Research Center at my disposal, I won't answer for the consequences.<br><4> --> <5><br><6>, you promised a benefit. Where is it?! What am I supposed to feed the tranclucators with?

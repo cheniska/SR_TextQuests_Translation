@@ -1,0 +1,62 @@
+98	You need to find <0> and expose them before <1>.
+99	Hi, <Player>! Don't you want to influence the fate of planet <0>? Don't worry, you won't have to clear it of dominators, you only need to vote in the elections.
+100	Here you go:<br><br>- <0> (Green Party candidate)<br><br>If drug dealing and prostitution cannot be eradicated, we will make them legal and tax them! If you can't come to terms with an opponent, you can deceive him! So let us deceive all the dissenters and lead <1> into a bright and happy future!<br><br>- <2> (Purple Party candidate)<br><br>Simplified taxation of trade routes is the path to business prosperity! Only by peaceful means can the desired result be achieved. Prosperity and mutual understanding are our goal!<br><br>- <3> (Yellow Party candidate)<br><br>In the name of Prosperity! We will eradicate all the vices of society, standardize the currency and lift the economy! It is time to think not about politics but about the spirituality of the population and Universal Harmony.<br><br>- <4> (Blue Party candidate)<br><br>The future belongs to humanity. Away with the nonhumans! Down with the iron blockheads from our Galaxy! Down with the stupid maloqs and cunning pelengs from our native planet! Let us cleanse the Motherland of aliens! Forward, for <5>!<br><br>- <6> (Incomprehensible Party candidate)<br><br><br>Let's bring a little happiness to the people! We will build new military bases and factories, introduce martial law and put up planetary shields. Aggressor, be ready to die!<br><br><br>So, whom will you vote for?
+101	Excellent! Your vote will be counted.
+102	This is the third time this tub has bribed a Ranger! I'm furious! It must be destroyed. Destroy it, <Player>!<br>Actually, no, better find out where their headquarters is and who the client is. Though we already know - it's <0>. We need to find out where he is hiding. <1> days remain until the end of voting. <2> must be tracked down before that date.
+103	You've fulfilled the terms of the deal, here's your <0> cr! See you!
+104	Of course, otherwise they wouldn't have taken me on as a campaigner.
+105	I am the defender robot "<0>". I am the private property of the ship "<1>". My master orders me to follow him and not to change the flight destination.
+106	Password accepted. The encrypted data is now available.
+107	Error! Incorrect password! The next attempt will become available in <0> days.
+108	Ranger <0> was born on planet <1> in the year <2>. On the day he came of age he applied to become a Ranger. <br>Apparently, he was not paid for the work he did on <3>.<br>Conservative and reserved.
+109	Well, hi. What do you want?
+110	Why am I flying around here... Ha! That wretch <0> won't let us... Hey, wait, he sent you, didn't he? Well, get out of here while your teeth are still in one piece.
+111	At last, somebody recognized me! Did you really recognize me? I apologize for my rude reply. Oh, I'm dying to hear someone's opinion on my theory.
+112	You know, I still think you didn't contact me to discuss anything or to do some scientific research.
+113	None of your damn business.
+114	<Player>, I'm busy, I have no time to chat.
+115	Thank you! I am in your debt now. Take at least these <0> cr. as a token of gratitude! That's it, no more adventures. I'm flying to <1> right now to immerse myself in research!
+116	Hello, who's there?
+117	Yeah, slowly... But the dope is running out... Listen, brother, bring me about 10 tons of dope, will you? I've been drifting around in space for years now, and before that, no, hardly ever...<br>You want to treat yourself after a hard day.
+118	Well, now... There was no such deal!<br>All right, what do you want for the container?
+119	Brother, you're bailing me out for the second time. There was some useless junk lying around there, but greed wouldn't let me throw it away. Wait, I'll toss it out now.
+120	How shall I put it... In our family there is a tradition: on coming of age, which for us gaalians comes at exactly 55, parents give their children a tranclucator. That's how I got my first tranclucator. <br>The second was given to me by my beloved. Twelve years ago we swapped with a friend of my grandniece on my father's side, the daughter of my great-grandfather's mother. The fourth just wandered in on its own after seeing the first three. And the last was a gift from the trade chamber of planet <0> for business achievements.
+121	But <0> is hiding here. At least, that's what <1> told us.
+122	He imposed a... veto on the bill <0><1><2> of the Government of planet <3> "On Benefits for Multi-Tranclucator Families". Now there is nothing to even feed the tranclucators with. And abandoning them is immoral. Soon I'll have to sell my ship to feed them, or they will die.
+123	Gaaldok... It's been so long since I was on my homeland! I follow events myself via Galanet. A gang of Uncontrollable Killer fanatics is terrorizing the peaceful population! And during the war with the dominators, too! Killing them wouldn't be punishment enough!
+124	Yes, the faeyans tried to create something similar, but nothing came of it.
+125	And why is your master winding circles around the planet here?
+126	I'll try now!
+127	Yes, but what can I do? I've hardly got any money left even for fuel.
+128	No, I don't want to be a beggar.
+129	How inconstant this world is, <Player>.
+130	Ah, that's all the scheming of the firm "Maloq Micromodules". Alas, we can't help, they are outside our jurisdiction.
+131	Oh, I'd like to smash your skull for those words, <Player>, but you're telling the truth. I didn't turn out to be a second Rachekhan. No, just imagine: some puny peleng with a green mug like a drowned man's managed to beat them all, and I can't! Well, never mind, they'll see me again, I'll beat them all!
+132	Me, ask some filthy pirate for help?! Yes, I'm a pirate myself, but even I find it disgusting to ask carrion like you for help.
+133	<Player>, get your boring mug off my screen or it'll be the worse for you.
+134	Throw it out, I'll pick it up in a moment.
+135	Wait, I'll pick it up in a moment.
+136	Ranger <Player>, the vessel <0> is on the line. All ships in this system are under our protection. You have attempted to attack one of the ships. Now I will have to eliminate the offender.<br>And don't beg for mercy, <Player>, you will be destroyed in any case.
+137	Who gave you the right... Eh, why did you decide they needed help? Maybe they were at work and you deprived them of it?<br>
+138	Oh, <0> will be very angry... Wait, you can atone for your guilt. Actually, that was a crowd of extras; everyone thinks <1> is on planet <2>. In reality he is resting at his elite villa on planet <3>. To avoid trouble and stay alive, you will have to move him to a safe place.
+139	In much more detail: I will pass the evacuation information to <0>, and he will hide in an escape pod aboard my ship. I'll pretend I lost it by accident, dropped it. Then I'll fly off somewhere. And you will have to pick up the pod and deliver it to a safe place.
+140	Me, ask some pathetic trader for help?! Never!
+142	O'kay, get your money ready. Only for the sake of cover I will vote for <0> to worm my way into their confidence. Give me the ballot, I will sign it
+143	First of all, hello
+144	This theory is hard to understand. But then, everything ingenious is not so simple in fact!
+145	Its greatest value lies in its artistic description
+146	All right, I'll help. Wait. It'll be there soon
+147	You're welcome!
+148	Take your dope and get out of here, so I don't see you near <0> again!
+149	Go on, go on!
+150	So how are things on Gaaldok? I hear a wave of some sectarians swept over there
+151	A sad story... I'll try to help you as best I can
+152	There are no hopeless situations... I hope
+154	If I give you the money, could you pretend that it was you who paid the victim?
+155	Let's see, <0> cr. plus <1> cr... No, I can't swing that. Next time
+157	Not yet. Wait, it will all be there soon
+158	OK. It'll be there soon
+160	Maybe we can settle this peacefully?
+161	For some reason I think that you, like all politicians and their entourage, only know how to make promises.
+162	Pine. It smells better
+163	The data is password protected. Please enter the tranclucator password to access the data<br><br>Attention! The next attempt to enter it will be available in <0> days!

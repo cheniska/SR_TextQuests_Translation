@@ -1,0 +1,45 @@
+164	Get out, traitor! And I'd already started to respect you, thought I'd finally run into someone decent...
+165	According to the instrument readings, the crew is under the influence of narcotics and is looking for somewhere to get a little more. No further information is available.
+166	The repeat offender <0> was tried and jailed on planet <1>, but escaped during a riot. Warships did not pursue him in orbit because they were out on a combat sortie. Like all maloqs, he adores weapons and is therefore constantly armed to the teeth. He finds a common language only with military men and needs weapons from planet <2>.<br>Despite his views, he is despised by maloqs for repeated breaches of discipline.
+167	At last! Guards! Tie up this criminal! No, not this one, he's a Ranger, the one in the pod. Well, get him out!<br><br><Player>, we are grateful to you. Only you could find <0> in time, and you pulled it off! Never mind, now he faces trial. As a keepsake, we left the pod in your ship's hold. And travel expenses of <1> cr. have already been transferred to your account. And as an exclusive souvenir, we ordered one of our soldiers to hand over one of the deck guns to you. We hope for further cooperation.
+168	O'kay. Vote for <0>. And we will help you with money for it.
+169	Why not, I'll take part!
+170	If anything, get in touch!
+171	A strike is being held here. My master is defending my rights and his own interests.<br>Because of <0>, my master will soon have nothing to feed us with.<br>My master is looking for a solution to the problem; perhaps <1> holds the key to solving it.
+172	Ah, it's a merry world after all, if you settle into it the right way, isn't it, <Player>?
+173	Let's see, <0> cr. plus <1> cr... Fine, extortionists, send it
+174	The pilot of the vessel <0> is very aggressive for a member of his race. An extremely deceitful faeyan, yet a very talented scientist. Received the title of dalani in <1>. Loves naked flattery. Purpose of stay unknown; presumably he wants to squeeze some equipment out of <2> for study as payment. Danger level: above average.
+175	You need to circle around planet <0>. Until you get bored. For each day in orbit I pay a whole 100 cr! Think about it, <Player>, 100 cr. just for being in a designated spot. You won't even have to kill anyone!<br>But note that if you are not near the planet for a whole day, there will be no payment.
+176	Vote for <0> in the elections on planet <1> before <2>.
+177	The data is password protected. Please enter the tranclucator password to access the data.
+178	That's not the point. Imagine someone saying somewhere: "Ten Rangers vouched for me." Can you imagine how much authority such a person instantly acquires?<br><br>That's exactly why we need pilots' signatures.
+179	And why do you need my vote? Isn't the whole population of the planet enough?
+180	At the latest Intergalactic scientific research conference, dalani <0> presented a revolutionary theory. He set out his view on the causes of the chaotic appearance of punctures in space, causing a real furor in the scientific community. Specialists claim that if the theory proves correct, the Coalition will gain the means to control the so-called black holes.
+181	Today on planet <0> the results of the planetary presidential election were tallied. <1> received the most votes, but skeptics believe the results were rigged.
+182	On planet <0>, <1>, one of the presidential candidates, was handed over to the police. He is accused of falsifying facts and bribing the population. The offender was delivered to justice by an unknown Ranger.
+183	Crime chronicle: <br>A shipwreck occurred in the <0> system. A maloq pirate, whose name has not yet been established, tried to make a landing approach to the spaceport of planet <1>, but the ship went out of control and crashed a couple of thousand kilometers short of the spaceport. The impact blew up the fuel tank. The pilot was killed. According to the experts' preliminary conclusion, the cause of the disaster was an overload.
+184	All right, all right, I got carried away, sorry. Let's return to the conversation
+185	New research awaits me!
+186	At least somebody in this space is happy...
+187	Abu Lincoln
+188	Darth Medveider
+189	Jush Borzh
+190	Udu Shill
+191	Yolki Palkin
+192	Today on planet <0> the results of the planetary presidential election were tallied. <1> received the most votes, but skeptics believe the results were rigged. However, that no longer matters, since the candidate himself could never be found. The planetary government has decided to prepare new elections in view of the election winner's failure to appear.
+193	and never meddle in politics again, especially on our planet. Deal?!
+194	. You probably think you'll turn me in to the authorities now and come out ahead, but let's do it this way - take me to any Business Center, and I'll pay you
+195	Listen, Ranger, it's me,
+196	What's going on there?<br><br>Oh my! Judging by the signature, you have a pod here with our... Honored investor and dear guest! Come on, open the casing quickly!<br><br><0>! Glad to see you!..<br>...<br>...<br>In short, for his rescue <1>, as promised, gives you <2> cr. for your use. Now we'll ask you to leave the station, because... we're having a business conversation here. Better not to disturb. <br>
+197	They left on their own as soon as they had nothing left to do here
+198	Well, all right. Thanks for that, at least
+199	What is <0> doing here?
+200	Brief me on the pilot of the ship <0>
+201	What do you know about <0>?
+202	Where did the faeyan ship <0> come from?
+203	What do you want, halfwit?
+204	And why are you hanging around in orbit of <0>?
+207	I'm holding a rally here, please don't interfere, they already complain about me enough...
+209	Hi. Want to make some extra money?
+210	Never mind, nothing. I don't talk to boors
+212	Used to evacuate from a ship in distress.

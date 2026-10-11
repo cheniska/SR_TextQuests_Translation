@@ -6,9 +6,9 @@
 6	Command says this ship must be shot down at any cost, so I'm already starting my maneuvers!
 7	<br><br>Experience gained: #0# points.
 8	Business Center #0# in the #1# system has been destroyed! For obvious reasons, it will no longer be possible to collect the reward.
-9	Tragedy in the #0# system! A desperate Ranger destroyed business center #1# with quark bombs. He explained his act by being unable to repay a loan. At an extraordinary session, the Galactic Council decided to pay benefits to poor Rangers to prevent such incidents in the future.
+9	Tragedy in the #0# system! A desperate Ranger destroyed business center #1# with quark bombs. He explained his act by being unable to repay a loan. At an extraordinary session, the Galaxy Council decided to pay benefits to poor Rangers to prevent such incidents in the future.
 10	You are a true hero, #0#! Your decisive actions saved many innocent lives! Moreover, the destruction of our station would have dealt a heavy blow to the economy of the whole sector! On behalf of the Business Center Network, allow us to present you with a special gift: micromodule #1#!<br>
-11	Tragedy in the #0# system! A desperate Ranger attempted to destroy business center #1# with quark bombs. A suicide note found in the wreckage of the ship stated that he took this step because he could not pay off a loan. At an extraordinary session, the Galactic Council decided to pay benefits to poor Rangers to prevent such incidents in the future.
+11	Tragedy in the #0# system! A desperate Ranger attempted to destroy business center #1# with quark bombs. A suicide note found in the wreckage of the ship stated that he took this step because he could not pay off a loan. At an extraordinary session, the Galaxy Council decided to pay benefits to poor Rangers to prevent such incidents in the future.
 12	#0#:<br>- Allahu Akbar!
 13	Oh, I'd help you pay off the debt, it's just that I don't have that kind of money...
 14	And how much do you owe them?
