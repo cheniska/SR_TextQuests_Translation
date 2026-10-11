@@ -1,0 +1,35 @@
+1	Dominator equipment installed on board can receive compatibility bonuses.<br>Current bonuses:<bonuses>
+2	Equipment Compatibility
+3	if(equipka > 1) str tstr = 'There is dominator equipment on board that can work better in tandem.<br>Current compatibility bonuses:';
+4	tstr = 'There is dominator equipment on board that can work better in tandem.' + CT('FormInfo.br') + 'Current compatibility bonuses:';
+5	if(~ShipFindCustomShipInfoByType(Player(),'DomikSetInfo_FuelDroidShield')) tstr = tstr + CT('FormInfo.br') + 'Splinter weapon protection increased by <clr>15<clrEnd>%';
+6	if(~ShipFindCustomShipInfoByType(Player(),'DomikSetInfo_EngineDroidShield')) tstr = tstr + CT('FormInfo.br') + 'Additional ship repair during a jump of <clr>20<clrEnd> structure units per day';
+7	if(~ShipFindCustomShipInfoByType(Player(),'DomikSetInfo_KellerSet')) tstr = tstr + CT('FormInfo.br') + 'Increased damage in black holes' + CT('FormInfo.br') + '<clr>10<clrEnd> to jump range';
+8	if(ShipCustomShipInfoData(Player(),'DomikSetInfo_RadarMissile',1) == 2) tstr = tstr + CT('FormInfo.br') + 'Missile speed increased by <clr>350<clrEnd>';
+9	else tstr = tstr + CT('FormInfo.br') + 'Missile speed increased by <clr>250<clrEnd>';
+10	if(ShipCustomShipInfoData(Player(),'DomikSetInfo_RadarSplinEnergy',1) == 2) tstr = tstr + CT('FormInfo.br') + 'Weapon range increased by <clr>50<clrEnd>';
+11	else tstr = tstr + CT('FormInfo.br') + 'Weapon range increased by <clr>30<clrEnd>';
+12	tstr = tstr + CT('FormInfo.br') + 'Gripper speed at long range increased by <clr>1<clrEnd>';
+13	tstr = tstr + Format(CT('FormInfo.br') + 'Droid efficiency increased by <clr>#pods1#<clrEnd>' + CT('FormInfo.br') + 'Energy weapon power increased by <clr>#pods2#<clrEnd>' + CT('FormInfo.br') + 'Splinter weapon power increased by <clr>#pods3#<clrEnd>' + CT('FormInfo.br') + 'Missile weapon power increased by <clr>#pods4#<clrEnd>' + CT('FormInfo.br') + 'Shield power increased by <clr>#pods5#<clrEnd>' + CT('FormInfo.br') + 'Gripper range increased by <clr>#pods6#<clrEnd>' + CT('FormInfo.br') + 'Engine speed increased by <clr>#pods7#<clrEnd>' + CT('FormInfo.br') + 'Scanner power increased by <clr>#pods8#<clrEnd>' + CT('FormInfo.br') + 'Radar range increased by <clr>#pods9#<clrEnd>','#pods1#',droi,'#pods2#',ener,'#pods3#',splin,'#pods4#',miss,'#pods5#',shiel,'#pods6#',zahv,'#pods7#',dvig,'#pods8#',scan,'#pods9#',rad);
+14	if(~ShipFindCustomShipInfoByType(Player(),'DomikSetInfo_EnergizeBonus')) tstr = tstr + CT('FormInfo.br') + 'When torpedoes hit, the boson field takes them apart before detonation, converting '+ShipCustomShipInfoData(Player(),'DomikSetInfo_EnergizeBonus',1)+'% of the damage into hull repair';
+15	if(~ShipFindCustomShipInfoByType(Player(),'DomikSetInfo_GlueBonus')) tstr = tstr + CT('FormInfo.br') + 'Increases droid repair by '+ShipCustomShipInfoData(Player(),'DomikSetInfo_GlueBonus',1)+'%';
+16	if(~ShipFindCustomShipInfoByType(Player(),'DomikSetInfo_RocketLnBonus')) tstr = tstr + CT('FormInfo.br') + 'With a '+ShipCustomShipInfoData(Player(),'DomikSetInfo_RocketLnBonus',1)+'% chance, increases the speed of any missile or torpedo by 1500, and the minimum damage it deals becomes 80';
+17	Bonus from the Blazeroid equipment set
+18	Droid and shield compatibility bonus (they redistribute each other's work)
+19	Dominator acryn compatibility bonus - Energize
+20	Engine, droid and shield generator compatibility bonus (creates conditions for better hull repair during jumps between systems)
+21	Droid, tank and shield generator compatibility bonus (better tank protection, which reduces splinter damage)
+22	Tank and fuel compatibility bonus (improved fuel injection and other such stuff)
+23	Dominator acryn compatibility bonus - Glue
+24	Bonus from the Kelleroid equipment set
+25	Radar and missile compatibility bonus (better targeting)
+26	Radar and shield compatibility bonus (predicts the type of incoming damage)
+27	Radar and energy/splinter weapon compatibility bonus (better targeting)
+28	Radar and gripper compatibility bonus (shows the gripper better where the loot is)
+29	Dominator acryn compatibility bonus - Rocket Launcher
+30	Scanner and droid compatibility bonus (the scanner analyzes the ship for hull breaches, and the droid responds better)
+31	Scanner and radar compatibility bonus
+32	Scanner and weapon compatibility bonus (better analyzes the target for weak spots)
+33	Bonus from the Terronoid equipment set
+34	Gripper and droid compatibility bonus (tosses debris to the droid so that it repairs faster)
+35	Dominator equipment works poorly with Coalition equipment, but the more such systems there are on a ship, the easier and more effective it is for them to perform their functions. The onboard computer has analyzed your equipment's capabilities and displayed them in a convenient info format in the right panel of the ship's brief info form

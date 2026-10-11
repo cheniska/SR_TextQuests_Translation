@@ -1,0 +1,28 @@
+1	Collector
+2	Ranger, there you are!<br>Very convenient, whichever way you look at it.
+3	Nothing much, really. You merely owe <0> cr. And you have missed payments on this debt several times.
+4	Ranger, in his day the great Richie Kuklinski compiled a list of more than five hundred different ways to kill a humanoid. I wonder how many I can apply to you?
+5	This fifty thousand will go to the good cause of providing fresh provisions for the mothers and sisters of certain debauched de... Hey, ranger, this talk isn't for you! Liquidate yourself from my screen!
+6	Ranger, it seems you didn't understand. We'll have to teach you a lesson for this willfulness!
+7	Some people call us that anyway. The point is the same - there is a debt of <0> cr. registered in your name. And you didn't pay it on time. Even after several warnings. And that means there will be no mercy for you. Understand?
+8	And who are you, exactly?
+9	Right?
+10	All right, all right... I'm flying to the business center right away...
+11	Yeah, me too!
+12	Yes, I'm on my way.
+13	I won't give in to you that easily!
+14	Tick-tock, ranger. Don't throw me off balance. In case you haven't understood yet, you are looking at <clr>collectors<clrEnd>, penchecrakus take you. And you have two options: quickly head to <0> - luckily there is a business center in this system - and pay your debt, or go to your forefathers, because we don't intend to joke!
+15	And who are you?
+16	Yeah. Collectors, then.
+17	I'm flying, I'm flying
+18	Well, well...
+19	Our proud "Varyag" does not surrender to the enemy!...
+20	I see. Onboard computer, manual weapon control!
+21	You have paid off your debt, and the collectors no longer pose a threat to you
+22	That's more like it!<br><br>Fly to the business center as fast as you can. Try to run and there will be no more mercy for you. At all. Am I making myself clear?
+23	Is that so? Well then, let's begin!
+24	Ranger, ranger, ranger... We warned you!<br><br>Boys, let's send this scoundrel to the next world!
+25	Aha! Ranger <Player>! Everything according to the price list, as they say.
+26	I am the leader of combat group <clr>Sigma<clrEnd>, hired by the Business Center Network. Our task is to persuade malicious defaulters to repay their credit debt as soon as possible.
+27	I won't talk. All questions go to the commander.
+28	Go on, fly, ranger! And we'll follow right behind you.

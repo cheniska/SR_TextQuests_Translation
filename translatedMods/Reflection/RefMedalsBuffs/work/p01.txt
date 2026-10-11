@@ -1,0 +1,12 @@
+1	Medal collection flag
+2	NewsAdd('Outstanding agents receive increased payments from the Council... Congratulations on your additional fee of <temp_int_1> cr. for a brilliantly completed assignment.');
+3	The mod's main info item
+4	NewsAdd('You are truly an outstanding warrior, decorated with all the awards of the maloq race. Honor and glory to you!');
+5	NewsAdd('You are one of those whom we gave the title of Lyakusha without regret, and might even have nominated for the title of Supreme. We are glad to reward your achievements with new awards!');
+6	NewsAdd('You are truly an outstanding warrior, decorated with all the awards of the human race. Honor and glory to you!');
+7	NewsAdd('You are one of the best fighters, who have proven the superiority of faeyan thought in battle. Thanks to people like you, our hypotheses defeat the arguments of the spiritualists time and again, and we are glad to reward you with the highest awards.');
+8	NewsAdd('You are one of the best and most harmonious elements of the universal Iike-Baana that ever was!');
+9	NewsAdd('You are the vilest pirate, a coward among cowards! The pirate brotherhood and the sons and daughters of Rakhish will extol your cunning and baseness forever and ever!');
+10	NewsAdd('You are the greatest hero of the Coalition ever seen in this Galaxy! You have earned eternal glory and at least a line in every history textbook for hundreds of years to come!');
+11	NewsAdd('You are the scourge of the Coalition Transport Department, every dealer knows your name, and your appearance on their scanners evokes only prayers to the gods to be saved from death.');
+12	NewsAdd('You are one of the best agents who have helped the Galaxy Council. We are glad to reward you in the future too for exemplary service for the good of the Coalition.');

@@ -1,0 +1,19 @@
+1	Do not receive notifications from system <0>
+2	Set up notifications for the first system
+3	Set up notifications for the second system
+4	Set up notifications for the third system
+5	To the menu
+6	Yes (back to settings)
+7	Select a sector to find the star you need:
+8	Not selected
+9	Attack notifications:
+10	Attention!!! System <0> has been captured. Tracking of the system has stopped
+11	and
+12	Systems
+13	<clr>Disabled<clrEnd>
+14	Attention!!! A battle is under way in system <0>!
+15	Attack Alert Management for Systems
+16	Here you can set which systems you want to be notified about attacks on:<br><br>System #1: <0><br>System #2: <1><br>System #3: <2>
+17	Done!<br><br>You can always adjust the notifications in the onboard settings menu.
+18	Selected sector: <0><br><br>Select a system:
+19	Selected system: <0><br><br>Confirm your choice?

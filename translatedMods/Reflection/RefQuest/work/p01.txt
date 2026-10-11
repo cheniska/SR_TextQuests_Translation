@@ -1,0 +1,20 @@
+1	From Mods
+2	management
+3	Hospital
+4	Alpine Skiing
+5	economic simulator with tactical elements
+6	Corporation War
+7	The Lost
+8	Time to help the doctors sort out their patients!
+9	Hurry, the Championship is soon! Time to show the galaxy that the words "ranger" and "skis" are absolutely inseparable!
+10	Time to show who the best SpaceCraft player is here!
+11	We must start searching for the missing ones soon!
+12	Oh, <Player>, at last!
+13	The Party thanks you for delivering the khachapuri! It is the most magnificent of dishes. At last we will feed it to our fellow party members and persuade them to allocate funds to buy out everyone who holds a Left Front party card!
+14	We have already transferred <Money> cr. to you. Thank you!
+15	<Player>, could you help us?
+16	We have a request. Our designer, the founder of "Georgian Design Intergalactics," Ja-Ja Niidze, recently completed an order for the Communist Party of planet <ToPlanet> (in the <ToStar> system). Along with the new emblems, these guys asked us to send them the signature dish made by a subsidiary of "Georgian Design Intergalactics" - <clr>Khachapuri<clrEnd> - to try.
+17	If they like it, they promise to make eating khachapuri mandatory across the entire planet as soon as they take power - or at least get into parliament.
+18	The stasis will last until <Date> without recharging. Can you manage?
+19	Khachapuri
+20	A small bread product shaped like a boat. It is kept fresh by barely noticeable stasis systems.

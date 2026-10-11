@@ -1,0 +1,22 @@
+1	Oh, just out of curiosity
+2	Thanks. Over and out
+3	I strongly recommend that you end the communication session; any other actions will be treated as insubordination, with the corresponding consequences.
+4	I don't know why you need it, but I'll tell you this. This ship's home planet is <0>.
+5	What the penchecrakus are you doing, cluttering up the airwaves?
+6	Sure, I'll tell you - I'm from <0>, but what's your interest?
+7	Well, you seem like a straight guy, why not tell you. <0>.
+8	Got it, got it, I won't pry
+9	Well, you haven't done me any harm, so I'll tell you. My home planet is <0>.
+10	I just have nothing better to do
+11	Thanks, bro
+12	May I ask where you're from?
+13	Glad to see a compatriot in this cold and boundless space! At last a face from my home...
+14	Oh! A fellow countryman!
+15	Well, so long
+16	Nothing, really, I just asked out of curiosity...
+17	Well, why not tell you. I come from planet <0>. And why are you interested?
+18	Don't bother busy people, kid.
+19	This information is, of course, restricted, but you're a trusted agent of the Coalition and a good warrior too, so I'll tell you: this ship's home planet is <0>.
+20	That information is not intended for you, ranger.
+21	You have the nerve to ask such questions? Get out of here while you still can, before I get angry!
+22	Why should I give out this information to someone like you?
