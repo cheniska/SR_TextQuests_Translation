@@ -1,0 +1,35 @@
+101	Alas, ranger, but this time your guess is not quite right. The Science Council wants you to take part in testing the newest development, for which an all-round developed humanoid is needed.
+102	The data is classified for now. We have no right to disclose anything - even to you, sorry.
+103	All right, so be it. Take whatever you need.
+104	So... You want me in particular to take on recruiting new staff to work on your series, right? But I am a ranger, not a diplomat.
+105	The newest development? What exactly is it about?
+106	All right, I understand. It will be done.
+107	Right, that's me. And what do you need?
+108	Hm. Well, I can do that. Especially since I have a lot of experience...<br>I'll think about it, but first I need to finish my business in this system. Soon a mass convention of maloq officials from all over the Galaxy will take place here, and I need to prevent the enemy from seizing this system. Help with the guard and I'll agree to your proposal.
+109	I think <0> days will be enough. The convention will be over by then.
+110	Excellent. Then I will be waiting for you here when the term of the agreement expires.
+111	Uh-huh. I'm Kuvard. And you are ranger <0>, as I understand?
+112	All right. I agree.
+113	Oh no, thank you. I think I'll get to the destination on my own ship.
+114	Yes, of course. Goodbye.
+115	Yes. I'm Leonard. And who's asking?
+116	That's interesting, of course, but what council, what task, and, may a penchecrakus tear me apart, what do I have to do with it?
+117	Hm. Well, on the whole, I don't mind... Especially since I always wanted to work on dominators.<br>Only there's one small problem: I never take on two jobs at once. And right now I already have an order. I'm designing the newest sailing ships for one planet, and when I'll finish I don't know myself. So for the time being I'm forced to decline your offer.
+118	Yes, I've finally finished this rather long-drawn-out project. Now I'm ready to accept the Science Council's offer.
+119	Oh no, thank you. I'll fly myself when I'm ready.
+120	And the same to you.
+121	Thank you, and you too.
+122	Hm. Well, on the whole, I don't mind... Especially since I always wanted to work on dominators. And I have no other projects at the moment. So, I suppose, I can agree to your offer.
+123	Yes, that's me.
+124	Hm... An interesting offer...<br>Tell me, are you yourself acquainted with Nisper?
+125	I suppose his unusualness shows in the ability to think like sentient humanoids?
+126	And do you often come across logical inconsistencies when communicating with him? For example, does he often answer on a different topic from the one you asked him about?
+127	Object identification complete. Object <0> is a ranger.<br><br>Communication permitted.
+128	Not once? And how many times have you communicated with him?
+129	Wow... So it's not an isolated case... Then they really did create an artificial intelligence based on real dominators...<br>I want to see this. Please take me to the Dominator Base.
+130	Then I'll wait for you at your ship.
+131	Yes, that's me. And what is needed?
+132	Ah, so that's it! I think I know why you flew here, but you're a bit off the mark on timing. The thing is, just the other day I asked my analysts to calculate whether I should invest in this project.<br>Understand me correctly: I want very much to help the Coalition by any means, but my money is not unlimited either. Before investing in any sector, I must first make sure that putting money in this direction will be the best, most efficient option. I've heard a lot about these dominators and have even seen them in action more than once, but who knows what the future will bring... Maybe a batch of the newest energy-shocker installations will be needed far more?
+133	Not quite. Come to see me in about <0> days, and I'll tell you for sure whether I will help your department financially or not.
+134	Hello, ranger <0>. I have good news: my analysts report that at the moment investing in the department developing the new dominator series is the best donation of all currently available.
+135	Yes, I suppose. Soon I'll visit some of the council members and discuss all the nuances.

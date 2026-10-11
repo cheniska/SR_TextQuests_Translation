@@ -1,0 +1,60 @@
+1	A well-aimed hit from an enemy gun blew apart the entire Defense Complex installation, reducing it to a pile of scrap metal.
+2	Constantly expecting an enemy attack, the Defense Complex overheated and broke down. Apparently only the help of specialists can fix it.
+3	Defense Complex
+4	With some chance may react to an enemy attack and perform one of the available actions:
+5	1) Convert all damage into repair
+6	2) Return triple damage to the attacker
+7	3) Send a swarm of nanobots at the attacker that will impose negative effects on the enemy
+8	4) Send 4 powerful missiles at the attacker
+9	5) Redirect the damage to all nearby enemies of the Coalition
+10	IMHOnar
+11	Unique micromodule. Created by the Experimental Design Bureau under the Science Council specially for the <clr>IMHO-9000<clrEnd>. This micromodule alters the design of the molecular chaotic deviation emission system, making it possible to create a spatial distortion effect using EMP waves. As a result the IMHO-9000 deals more damage over a larger radius, and also leaves unstable high-charge particles on the plating of the enemy it hits.
+12	<clr>Ionizes all enemies hit<clrEnd>
+13	Additional effect: <clr>ionization<clrEnd>
+14	Dominator Rogust Hull
+15	Dominator Requisitor Hull
+16	A unique Smersh hull created by the Economic Design Bureau under the Science Council for conducting an experiment in the field of economics. A program for calculating the market and predicting more profitable deals has been added to this hull's onboard computer, which can help in trade. In turn, the design of this hull was specially altered to strengthen the engine by allotting it more energy. Together these two factors give a great advantage to any trader.
+17	Bertor Hull
+18	A fully functional Bertor hull created by the Economic Design Bureau under the Science Council and refitted for you. This specimen has all the advantages of an ordinary bertor in the form of a field-amplifying generator and a klig-producing factory, however, due to the complexity of the design and controls, a humanoid cannot use all the functionality of such a ship without losing efficiency in all his other actions.
+19	Additional shots: <bonAttacks> pcs.
+20	Asteroid damage absorption: <bonResistAsteroid><clr>%<clrEnd>
+21	Nisper's Acryn I
+22	A new type of acryn - the product of long development of the acryn line with numerous intermediate stages, specially for equipping nisperoids.
+23	Nisper's Acryn II
+24	Nisper's Acryn III
+25	Nisper's Acryn IV
+26	Additional effect: <clr>engine damage<clrEnd>
+27	Additional effect: <clr>engine damage, engine overheating<clrEnd>
+28	Additional effect: <clr>engine damage, intensified engine overheating<clrEnd>
+29	Additional effect: <clr>engine damage, maximized engine overheating<clrEnd>
+30	Additional effect: <clr>ionization, blocks the droid<clrEnd>
+31	Missile weapon power: <clr>+28<clrEnd> pcs.
+32	Additional effect: <clr>EM disturbances<clrEnd>
+33	Additional effect: <clr>EM disturbances, blocks weapons<clrEnd>
+34	Damage bonus: <clr>+15%<clrEnd>
+35	Damage bonus against damaged targets: <clr>up to +33%<clrEnd>
+36	(to apply the bonuses, the scanner power must<br>exceed the target's defense)
+37	Converting Tank
+38	A most unusual invention of the Economic Design Bureau under the Science Council, based on Keller's developments. Besides the function of ordinary fuel storage, this tank can generate an enormous amount of energy through quantum conversion of fuel. All this energy can subsequently be used to boost the operation of various ship systems.
+39	RPU-08
+40	<color=248,252,248>A unique modification of pirate weaponry developed by the Experimental Design Bureau under the Science Council for destroying large objects with little armor. A weapon with this modification fires <clr>7<clrEnd> high-precision superfast missiles which, on exploding, can cause not only <clr>EM disturbances<clrEnd> but also an <clr>ionization<clrEnd> effect on the ship's plating.</color>
+41	Missiles per salvo: <bonShots> pcs.
+42	<clr>Has increased attack range<clrEnd>
+43	Unique Tranclucator
+44	One of three unique tranclucators developed by Nisper at the direction of the Science Council. This specimen is geared toward <color=255,20,20>combat</color> operations at relatively close range, concentrating the fire of energy and fragmentation weapons on the enemy.
+45	One of three unique tranclucators developed by Nisper at the direction of the Science Council. This specimen is geared toward <color=255,20,20>combat</color> operations from a distance, using missile weaponry.
+46	One of three unique tranclucators developed by Nisper at the direction of the Science Council. This specimen is designed to increase the robot's <color=20,255,20>survivability</color>, and the extra armor plates, tanks of special gel for welding damaged sections of plating, and an additional generator next to the shield generator slot speak for themselves.
+47	Torpedar
+48	Unique micromodule. Created by the Experimental Design Bureau under the Science Council specially for the <clr>torpedo tube<clrEnd>. This micromodule improves the torpedo launch system, allowing the torpedo tube to fire two more shots right after the first. Due to the complexity of the design it reduces the amount of explosive in the torpedoes, which leads to lower damage. It also enlarges the torpedo tube to hold more torpedoes.
+49	Gun ammo supply: <bonAmmo> pcs.
+50	Updater
+51	First-level micromodule. A side effect of transmitting some data to Nisper for processing. When installed it works as a pseudo-acryn, giving <clr>weapons<clrEnd> some bonuses.
+52	Additional effect: <clr>blocks the droid and weapons, preserves more valuables from the target, chance to make the target drop cargo from its hold<clrEnd>
+53	Vertixar
+54	Unique micromodule. Created by the Experimental Design Bureau under the Science Council specially for the <clr>vertix<clrEnd>. This micromodule improves the design of the space distortion system, allowing a "wave crumple" effect to be created, affecting all electronics within range. Thanks to this the vertix can break and disable any equipment of any enemy caught in the charge, and a more advanced guidance system can increase damage to an already wounded enemy.
+55	Additional effect: <clr>EM disturbances, equipment destruction, increased damage to damaged targets<clrEnd>
+56	The Coalition's scientists continue to devote themselves selflessly to research on the dominators. One important step on the way to fighting this enemy is understanding the mechanisms and principles of its operation. And, most importantly, applying them in practice. For this reason the Science Council has put forward to the CAFIC a certain Project that will overturn the entire current disposition. We await developments with impatience!
+57	Perhaps your rating now says that you... yes, decided! Consider that we have already approved your candidacy.
+58	Alas, ranger. It seems our databases say that you do not take part in trade relations on Coalition territory often or much enough - your rating is <0>, and we would like to see a candidate with a rating of at least <1>. Come back later.
+59	Excellent. We have ordered the technicians to launch our module. Good luck!
+60	Hm... And will I do as such a candidate?

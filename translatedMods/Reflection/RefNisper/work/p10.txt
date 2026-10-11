@@ -1,0 +1,50 @@
+391	Go into hyperspace and rescue Nisper's modules
+392	At the moment I am exchanging data with object <0>. In parallel, calculations of the most effective actions for module <1><2><3> are underway.
+393	Understood!
+394	How can that be...
+395	Is that so?..
+396	No, I suppose, nothing...
+397	I'm interested in the list of shipyards
+398	Sector
+399	Yes. I'm taking on the task!
+400	Negative. War as an end in itself is the lot of Blazer. My task, in accordance with the CAFIC's strategic plan, is to conduct activity for the defense and liberation of Coalition systems as effectively as possible.
+401	An envelope with secret data on the latest experiments in the field of improving nisperoids
+402	I won't let you down!
+403	Thanks, good luck!
+404	So... And so I have to go to this system...
+405	That's true. I'll go think - on the gun deck of my faithful ship.
+406	I'll go and see what you launch there!
+407	Nisper's dominators have reached a new level and become better in many parameters. Now the Coalition's scientists will continue their research in this direction.
+408	Nisper
+409	Someone destroyed the capsule with Aber. Task failed.
+410	Top up the bank
+411	Negative. Converting into one's own kind is Terron's business, and my purpose is the protection of the Coalition's world order.
+412	 (<0> tons)
+413	You must defend the <0> system and prevent it from falling into the hands of the pirate clan until the information transfer is complete. Days remaining: <1>.
+414	Object identification complete. <br>Object <0> is a ranger.<br>Current object status: ally.<br>Communication approved.
+415	Object identification complete. <br>Object <0> is a ranger.<br>Current object status: <clr>enemy<clrEnd>.<br><br>Communication restricted.
+416	Negative. All instructions to destroy a particular humanoid being come from the Government of the planet <0>.<br>To initialize an alliance with a specific object, permission of the Galactic Council is required.
+417	Allied relations with the object are required for access to this information.
+418	Let's make peace!
+419	You know, your dominators deserve respect - strong fighters. Can I somehow become like that?<br>
+420	I want to help you. To which system would you suggest I fly to improve the strategic position of the Coalition?<br>
+421	Object in contact: Ranger <0>.<br>Obtaining permission for communication with the object.<br>...<br>Permission obtained.<br>Current status: <clr>Awaiting request<clrEnd>.<br>
+422	Request is incorrect.<br>Object <0> is an ally. The characteristic "friendship" is invalid for this format of relations, and is unavailable to a mind of my class.
+423	Request sent, please wait.<br>...<br>Request denied.<br>Reason: <clr>01.01-#FZ-11<clrEnd>. Short wording: "Execution of the main strategic task".<br>
+424	The request cannot be approved because these units were purpose-built for the needs of Nisper's combat modules, that is, ours. This equipment is optimized by removing control panels and other elements, owing to which it will not work in any way under the conditions of an average ranger ship.<br>
+425	The main strategic task is the protection of Coalition systems from any claimants to the destruction of its order, disruption of the activity of Coalition citizens, and also violation of the conventions of the Galactic Council.
+426	Object in contact: Ranger <0>.<br>Obtaining permission for communication with the object.<br>...<br>Communication with the object is prohibited.<br>Reason: <clr>18.24-#FZ-91<clrEnd><br><br>Unilateral termination of the communication session...
+427	Let's be friends?
+428	You're a good fellow, come under my control!
+429	Share your savings with a good ranger
+430	Let me get a feel for your equipment!
+431	What is this main strategic task?
+432	Request sent, please wait.<br>...<br>Request denied.<br>Reason: <clr>extra-class<clrEnd>.<br>Short wording: "Transfer of funds refused owing to their absence at the Central Node".<br>
+433	Perhaps we do have such a task. And an extremely urgent one.<br><br>There is some documentation that must be urgently delivered to one planet - <0>. It must be managed within <1> d., otherwise the information being delivered will become irrelevant. Can you handle it?
+434	I wonder, are there any research projects connected with Nisper in which I could help, take part?
+435	I see. Thanks for the information.
+436	We have managed to achieve some important successes, but some of our complexes with the most important information are now mothballed and under the control of invaders, so we cannot speak of anything specific yet.
+437	Look, here is your assignment. You must destroy all 3 series of dominators. The enemies are very dangerous and strong, so the task is not an easy one. Judging by our observations, each of the opponents will fight differently in this battle:<br><color=220,20,20>Blazeroids</color>, evidently, arrived earlier, and, taking advantage of the time lead, seized good positions near the center of the above-ground part of the complex. Blazeroids know how to be careful in combat operations, and can easily suppress the other two series, but, fortunately, they use resource-extraction complexes poorly, and may choke on their own attacks, exhausting their strength.<br><color=20,20,200>Kelleroids</color> Keller's modules understand little about tactics and warfare in general, but technology is on their side, and they will apparently go for building small groups of high-tech robots.<br>As for the <color=20,220,20>terronoids</color>, the green fellows also don't excel in military achievements, but numerical superiority is always on their side, so expect assaults of metal from them.<br>In general, each of the enemies is dangerous and strong in its own way, and how to fight here I don't know, since you are the commander and tactician here. Good luck!
+438	The first dock, where new nisperoids are created
+439	Docks
+440	The second dock, where new nisperoids are created

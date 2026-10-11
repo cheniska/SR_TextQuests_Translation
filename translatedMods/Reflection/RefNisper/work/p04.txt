@@ -1,0 +1,40 @@
+136	Have a good trip, ranger!
+137	I see... Well, you've intrigued me!<br><br>And where do I look for these specialists? How much time do I have?
+138	The Science Council wants to recruit you for work on dominators of the "nisper" series.
+139	You will need to take part in developing Nisper's tactical and strategic thinking in conditions of battles on planets.
+140	All right. How long do I need to guard?
+141	Excellent. Have a good trip!
+142	Yes, you are quite right. My name is <0>, and I am here on assignment from the Science Council. I was sent to you to secure your help in developing new software for dominators of the Nisper series. You are known for your outstanding work in this field.
+143	Excellent... Perhaps I could give you a lift then?
+144	I see. Well then, if you don't mind, I'll fly on about my business.
+145	Goodbye...
+146	I am ranger <0>, and I came here on assignment from the Science Council.
+147	The Science Council is the organization overseeing the development of nisperoids. My mission is to convey to you an offer to apply your talents to Nisper and his series of dominators. To be more precise, the Science Council wants to make Nisper and his modules a symbol of support and protection for the Coalition. A small marketing move, so to speak. And you are asked to take the post of chief designer in this field.
+148	Excellent. Shall I give you a lift?
+149	Well then, have a good flight!
+150	Hello. I am ranger <0>, and I have been sent to you with an important offer. The Science Council believes that such an all-round developed faeyan as you could be very useful in developing new technologies for dominators of the "nisper" series. They would very much like to see you in the ranks of their scientists.
+151	Yes. A very unusual robot.
+152	Well no, it seems it has never happened...
+153	So you agree? Excellent. Then pack your things, and we depart.
+154	Hm. So what is your verdict?
+155	So you agree?
+156	Thank you. Then I won't waste your time in vain any longer.
+157	Yes, you're right. Although quite often in conversation with him you can hear some of the same words, such as "correct," he nevertheless does a good job of creating the feeling that you are communicating not with a robot but with a real living being.
+158	Well, I wouldn't say all that many...
+159	Me? But I'm a military man, not a scientist. How can I help them?
+160	Greetings once again! Thanks for your help in guarding the system. I'm very glad to learn that rangers like you, <0>, take part in developing the dominators who defend the Coalition. <br>I suppose it's time for me to make my contribution to this brave cause too. I'm flying out today.
+161	Magnificent! This is <clr>Aber<clrEnd> himself! I'm his devoted fan! His Govoril-GPT 66.0 caused a real furor in the field of information technology! A thousand pakryaks, can someone finally thaw him out already!<br><br>...<br><br>[It seems you should leave, because there is no one to attend to you right now]
+162	Yes, of course, what is there to think about? I've already had Nisper's event-handling algorithms in my hands, and my fingers itch to improve them. Especially to apply my skills in working with artificial intelligence to a cybernetic one - and one that's a defender of the Coalition besides!
+163	Perhaps there is such a task for you.<br><br>Our specialists are now hard at work involving Nisper in the control of modular robots, since no one can fight dominators better than a dominator.<br><br>Naturally, for this we must first of all train Nisper by means of battles against experienced commanders - for example, against you.
+164	Exactly so. We have placed training robots under his control, through which he will fight you.
+165	I suppose I'm ready. Let's begin immediately! To battle!
+166	Excuse me, but I'm busy for now. Maybe later.
+167	A pity, a great pity that it didn't work out for you...<br><br>However, you always have the chance to try again.
+168	Excellent. Then that's what I'll do.
+169	No, thanks. I think it's better to rest first.
+170	Correct. The Coalition's scientists have made a final breakthrough in research on dominator technologies. Now they plan to upgrade the factories producing my Nisper modules, but this requires colossal resources. The CAFIC has no means to find the necessary funds on its own, and is forced to ask for help from everyone who cares.<br>Now, taking into account all possible breakdowns, they need to collect <0> nodes and <1> cr.
+171	Who are you?
+172	I agree to help you. Take whatever you need.
+173	Our main complexes with the servers storing Nisper's consciousness images have been attacked by all three series of dominators. We urgently need a worthy controller of modular robots. <clr>IMMEDIATELY<clrEnd>!
+174	Excellent, ranger! You managed to deal with an extraordinary opponent! This is an incredible success!
+175	What a pity... So much work, ranger! And it was all for nothing!

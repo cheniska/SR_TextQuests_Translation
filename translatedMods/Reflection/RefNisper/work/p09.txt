@@ -1,0 +1,45 @@
+346	You defeated Nisper in planetary combat. Task completed, all that remains is to talk at the Dominator Base.
+347	shipyards.
+348	built in the galaxy
+349	There are no shipyards in the galaxy.
+350	<br>Alas, we found nothing suitable aboard your ship. Come back with material for research!
+351	<br>Would you like to hand over anything else to us?
+352	I want to help you. To which system would you suggest I fly to improve the strategic position of the Coalition?
+353	As soon as you enter hyperspace, our modules will use their internal transmitters, and in essence there will be no need to defend them. It will be enough for you to simply come back here.
+354	gave the task of defending the Taron system from seizure by enemies (<0> days left).
+355	joined the team studying Nisper's dominators.
+356	asked to be approached later.
+357	Yes, I'm Leonard. And who's asking?
+358	A capsule with the faeyan Aber in suspended animation. Must be delivered to the Dominator Base.
+359	Cryogenic Capsule
+360	is in your hold and awaits your arrival at the Dominator Base.
+361	The enemies were destroyed by arriving reinforcements. However, before that the dominators had managed to destroy part of the most important information. The scientists will have to spend time restoring it. Task failed.
+362	Shall we chat?
+363	Alas, ranger, but we have nothing to tell you. Come back when your clearance level is higher.
+364	Alas, ranger, this information is no longer relevant.
+365	So-so, research on Nisper... Well, we always have a lot of various new information, but very rarely is it of global importance, so let's get down to specifics - what exactly is it about?
+366	Alas, ranger, there is no wreckage we need aboard your ship. Come back when you obtain it.
+367	<clr>Shipyards<clrEnd> are auxiliary platforms that we place in Coalition systems in the same way as dominator shipyards.<br>According to our doctrine we distribute shipyards thus - no more than one per <clr>five<clrEnd> systems and <clr>one<clrEnd> sector.<br><br>Shipyards build new ships of the nisperoids and also, incidentally, directly defend the system.<br><br>At the moment <0>
+368	So, at the moment the shipyards are:<0><br><br>Total shipyards in the Galaxy - <1> units.
+369	Wonderful. Then we await good news from you.<br><br>If you cannot manage to deliver it - come back, and we will give you up-to-date papers.
+370	Wow! Ranger, this information will greatly help us in setting up Nisper's operations.<br><br>In gratitude the Science Council decided to leave you a new unique module, which will help you interact with our tactical department to change the site of the next operation of the nisperoids.<br>You can get it at the Dominator Base warehouse.
+371	Actually, that is precisely what we do not demand of you. What is important to us is that the system remains <clr>under our control<clrEnd>, and how that is done does not matter to us.<br><br>The problem is that, despite the nisperoid modules we sent, the analysts rate our chances of a successful transmission without the Rangers Corps' intervention rather low. Therefore, if the further development of the Project matters to you as a patriot and supporter of the Coalition's scientific undertakings, then I think you will devise a way to help us hold the system yourself.
+372	How much money should I transfer?
+373	An unknown device, clearly of handicraft manufacture. Inside, judging by the readings, is a crystal emitting second-degree psi waves
+374	Pirate Homemade Device
+375	You must defend the <0> system from encroachment by the pirate Clan. <1> days remain until the end of the operation.
+376	Understood, flying out. Open the rift.
+377	Go into hyperspace and rescue the vital information gathered by Nisper's modules
+378	not found.
+379	I am ranger <0> and I came here on assignment from the Science Council.
+380	Well then - have a good flight!
+381	Lost? Not a problem. However, first you should report it to the Science Council.
+382	Well, shall we fly out to defend Coalition systems together then?
+383	Excellent, you did it! Now you need to report this to the Science Council. You can rest in the meantime.
+384	So. As you see, the battlefield is quite unusual, so you'll have to think hard about how to defeat Nisper. To the south there are factories, and near them Terron's robots will appear from time to time (this is also part of the trial). Resources are not so plentiful, so you'll have to come up with a cleverer plan. Good luck.
+385	The Coalition's scientists have improved Nisper and his dominators to the maximum possible level of tactical and technical characteristics available in this iteration of technological progress. There will be no more research in this area.
+386	Lost? Well, we didn't really count on your victory. The staff has already been evacuated, and soon everything here will go up in the air.
+387	Excellent, you did it! We hope that Nisper will learn a lesson from this victory. Return to the station captain.
+388	Look, here is your assignment. You must destroy all 3 series of dominators. The enemies are very dangerous and strong, so the task is not an easy one. Judging by our observations, each of the opponents will fight differently in this battle:<br><color=255,20,20>Blazeroids</color>, evidently, arrived earlier, and, taking advantage of the time lead, seized good positions near the center of the above-ground part of the complex. Blazeroids know how to be careful in combat operations, and can easily suppress the other two series, but, fortunately, they use resource-extraction complexes poorly, and may choke on their own attacks, exhausting their strength.<br><color=20,20,255>Kelleroids</color> Keller's modules understand little about tactics and warfare in general, but technology is on their side, and they will apparently go for building small groups of high-tech robots.<br>As for the <color=20,220,20>terronoids</color>, the green fellows also don't excel in military achievements, but numerical superiority is always on their side, so expect assaults of metal from them.<br>In general, each of the enemies is dangerous and strong in its own way, and how to fight here I don't know, since you are the commander and tactician here. Good luck!
+389	You defended the Dominator Base from the enemy invasion. Task completed!
+390	Flying out immediately!

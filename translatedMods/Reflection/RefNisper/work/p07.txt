@@ -1,0 +1,40 @@
+261	So, ranger, you are a real hero!<br><br>Your work rescuing our group of modules brought us a great deal of enormously useful information. We cannot leave it at that, and wish to reward you with our new unique <clr>artifact<clrEnd>, which will help you in counterattacks!
+262	Negative. At the moment my construct must take part in carrying out another strategic task.
+263	Thank you for your help, ranger <0>. Your help with our research is invaluable
+264	Every day new research is conducted at our base in the field of creating, improving and perfecting already created models of dominators.<br><br>Naturally, for all this we need money. Purchasing new equipment, paying for the transport of samples, constructing and equipping new Nisper modules at our <clr>docks<clrEnd>. Finally, staff salaries.<br>The Coalition generously allocates funds for all this, but its means are not unlimited. And the demands of our Project are quite so. That is why we decided to open the possibility of donating money from rangers who care.<br><br>We have <0> cr left in the account.<br><br>While there are funds in the account, our docks build new modules one and a half times faster, and research goes one and a half times faster. Full funding costs up to <1> cr per day.
+265	Perhaps we do have such a need.<br><br>Our research requires dominator material, and several departments compete for it. So if you were to collect a few hundred tons of dominator scraps, we could make important amendments to our project and possibly <clr>improve the new dominators in the image of the most thoroughly studied series<clrEnd>.<br><br>If you wish, you can hand over something to us right now.
+266	I am the brain center of artificial life. My series has been designated "nisper." I was created by Coalition scientists on the basis of modular dominator architecture. My purpose is the protection of Coalition systems from any enemies encroaching on the structure and order of the Coalition.
+267	If by "orange scrap heaps" you mean my modules, then you are right. <br><br>My modules, or as you humanoids call them - Nisper's dominators, nisperoids - obey my orders and the orders of the Science Council. They are used to assist the races of the Coalition, including the elimination of all possible threats to world order, crime included.
+268	Correct. However, my program does not end with the Supreme Goal, and contains a number of directives that correct my tasks.<br><br>As I have said, my purpose is maintaining world order, and any criminals are a priori its violators. Accordingly, if the Galactic Council gives the go-ahead, the criminal will be eliminated with the participation of my modules.
+269	Negative. Any command to destroy a humanoid being comes from the planet <0>, since this planet was chosen as the backup coordination center. If the Government of the planet considers it necessary, my modules will let some representatives of the Clan through.<br><br>Of course, the bulk of the representatives of the pirate Clan will be subject to ruthless destruction.
+270	All my data is constantly copied to the Coalition's servers, which are located directly on the servers of the Dominator Base.<br><br>If my current construct is destroyed, my virtual copy will be connected to the network at the Dominator Base.<br>After that the Dominator Base will begin restoring my material structure, and I will return to service again.
+271	By my calculations, the <0> system is at the moment most in need of defensive modules.
+272	The answer is incorrect.<br><br>My modules patrol systems, but as soon as a sufficient number of them accumulates, I send out a detachment of dominators to liberate another Coalition system.
+273	My purpose is controlling the actions of my modules, as well as participating in the most strategically important operations by means of my own firepower.
+274	This question concerns me only indirectly. As research concerning the development of my modules progresses, all available information is automatically received by the Dominator Base staff.<br><br>In view of this, addressing this question to me has no useful effectiveness. For all questions of interest to you connected with my development, I recommend inquiring directly with the <clr>Dominator Base<clrEnd>
+275	Uh-huh, so you will be the one controlling these orange scrap heaps?
+276	Criminals? Doesn't that contradict your program? After all, criminals are humanoids too.
+277	So the whole pirate clan falls under the directive?
+278	So that's how it is... Interesting.<br><br>Listen,.. Nisper, what happens if you are destroyed?
+279	Understood. One more question: in exactly what way will you and your modules help the Coalition? Patrol systems? That's the military's duty, isn't it?
+280	And what is your role in this?
+281	I see. And can I somehow take part in your development?
+282	Negative.<br><br>My program lacks the function of active communication with humanoids. If you lack an interlocutor, I recommend turning to any planet or station. Besides, you can always take a partner.<br><br>Information on the servers of the Dominator Base, moreover, says that in that case you should find a kinsman of the opposite anatomical makeup for joint activity with him.
+283	Thanks to your help the Science Council introduced a new technology that raised the tactical and technical characteristics of nisperoids. The research groups continue their investigations.
+284	 <color=255,153,0>Nisper IV</color>
+285	 <color=255,153,0>Nisper III</color>
+286	 <color=255,153,0>Nisper II</color>
+287	 <color=255,153,0>Nisper I</color>
+288	Alas, you failed to complete the Dominator Base's task on time.
+289	You must deliver the documentation to the planet
+290	d.
+291	The enemies were destroyed by arriving reinforcements, but the invaders managed to destroy part of the most important information. The scientists will have to spend time restoring it. Task failed.
+292	The necessary wreckage has been found. You are awaited at the Dominator Base.
+293	The necessary wreckage was destroyed. You will have to begin the search anew.
+294	You must find and take to the Dominator Base samples of the wreckage of a Bertor-class dominator.
+295	The wreckage of a Bertor-class dominator, shot down in some unknown way in orbit of a planet and fallen onto its surface
+296	Unknown material
+297	At the end of the contest you made less profit than one of Nisper's modules. Task failed.
+298	At the end of the contest you made more profit than any of Nisper's modules. Task completed, all that remains is to return to the Dominator Base.
+299	All trade modules have been destroyed. The task is considered canceled.
+300	How are things?

@@ -1,0 +1,45 @@
+301	You must make more profit than Nisper's trade modules.<br>Current status:<br>You made <0> cr of income<br>Nisper's first module made <1> cr of income<br>Nisper's second module made <2> cr of income<br>Nisper's third module made <3> cr of income<br>There are <4> days left until the end of the contest.
+302	One of the units of the device was destroyed. You will have to begin the search anew.
+303	The pirate clan has been destroyed, which means nothing will prevent the Coalition from destroying the unusual structure. Task completed, all that remains is to return to the Dominator Base.
+304	The <0> system has been seized by pirates. As it turned out, this structure adversely affects dominators of the Nisper series, which means the scientists will have to spend time creating protection against such an effect. Task failed.
+305	The <0> system never fell into pirate hands, and the structure turned out to be yet another dominator factory. Task completed, all that remains is to return to the Dominator Base.
+306	You must defend the <0> system from encroachment by the pirate Clan. <1> days remain until the end of the operation.
+307	You did not meet Borfors's condition and he refuses to strike a deal with you. Task failed.
+308	is waiting for you on the planet <0>.
+309	Keller's flotilla was successfully destroyed and scattered all over hyperspace, which means it's time to return to the Dominator Base..
+310	At the end of the contest you made less profit than Nisper's module. Task failed.
+311	At the end of the contest you made more profit than Nisper's module. Task completed, all that remains is to return to the Dominator Base.
+312	Nisper's module was destroyed. The task is considered canceled, return to the Dominator Base to start the contest again.
+313	You must make more profit than Nisper's trade module.<br>Current status:<br>You made <0> cr of income,<br>Nisper's module made <1> cr of income.<br>There are <2> days left until the end of the contest.
+314	The pirate clan has been neutralized, and the <0> system is safe. Task completed, all that remains is to return to the Dominator Base.
+315	The pirate clan seized the <0> system and interrupted the data transmission. Task failed, and the scientists will have to restore the lost information anew.
+316	The Project complex in the <0> system has successfully finished transmitting all the necessary information. Task completed, all that remains is to return to the Dominator Base.
+317	Days left until the end of the transmission: <0>.
+318	You must defend the <0> system from attacks by the pirate Clan. While the information is being transmitted to the Dominator Base, the pirates must not seize the government planetary transmitters.
+319	The Dominator Base has been destroyed. All Coalition dominator ships, including Nisper, have received an order of immediate self-destruction to avoid a program failure.
+320	The Science Council on the CAFIC Special Project has announced the completion of another stage of its work. For more complete information, contact the <clr>Dominator Base<clrEnd>.
+321	The subspace bubble has been cleared of enemies, which means you can return to the Dominator Base with a light heart to hand over the data obtained in the course of the hyperspace battle..
+322	The time allotted for completing the mission has run out. Task failed.
+323	All five humanoids have agreed to help in improving Nisper's dominators. Task completed, all that remains is to return to the Dominator Base.
+324	asked for <0> days to think it over. <1> days remain to wait.
+325	from the attacks of invaders (<0> days left).
+326	gave the task of defending the system
+327	Rumor has it about a certain Project that will overturn all notions of waging war against the dominators...
+328	I want to hand over dominator scraps to you for the development of a new series
+329	Are you Artu?
+330	Come fight with me?
+331	Are you Aber?
+332	Are you Leonard?
+333	So, do you agree with the Science Council's offer?
+334	Are you Kuvard?
+335	Are you Borfors?
+336	I won the contest with Nisper
+337	I lost the contest with Nisper
+338	Hand over the capsule with Aber
+339	Hand over the units of the pirate device
+340	So what about the research?
+341	You know, your dominators deserve respect - strong fighters. Can I somehow become like that?
+342	Help the research
+343	I want to view information about the shipyards
+344	Greetings, ranger, to our <0>! Here we conduct cutting-edge research in the field of dominators, in particular those that will help in the study of
+345	You must find and hand over to the Dominator Base <0> units of the pirate device. <1> units handed over so far.

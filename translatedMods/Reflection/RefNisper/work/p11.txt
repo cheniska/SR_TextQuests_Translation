@@ -1,0 +1,57 @@
+441	The third dock, where new nisperoids are created
+442	The fourth dock, where new nisperoids are created
+443	The fifth dock, where new nisperoids are created
+444	Coalition Defenses
+445	Knowledge and Subjugation
+446	Organizations
+447	Gachimatrix
+448	Entercrisis
+449	Systemshock
+450	Rerouter
+451	Algorithmeister
+452	Rezippacker
+453	Empulsedrop
+454	Bugfixer
+455	Gigavolta
+456	Signalarmy
+457	Optimizivert
+458	Adminatorium
+459	Blackout
+460	Blueout
+461	Bluescript
+462	Machinefailer
+463	Comebacker
+464	Delphiarium
+465	Dabocodex
+466	Dabologger
+467	Logotracer
+468	Scriptiarium
+469	Bangiftorium
+470	Suprimatrix
+471	Sopromatron
+472	Netserver
+473	Cyberscam
+474	Cyberpack
+475	Demobuild
+476	Technocult
+477	Hardsoft
+478	Nanoshocker
+479	Cryptozorro
+480	Galvanotron
+481	Colstacker
+482	Discodocker
+483	Terminatorium
+484	Exterminatrix
+485	Teslabox
+486	Scanningame
+487	Cyberhub
+488	Linuxclub
+489	Transistance
+490	Shipyard
+491	Dominator Base
+492	DB
+493	Nisper Shipyard
+494	Nisper Beacon
+495	MessageBox('The Nisper Beacon is discharged. Required charge: 100%');
+496	MessageBox('The Nisper Beacon activated. Coalition dominators will arrive here soon.');
+497	When used in space, generates frequencies that Nisper picks up. Having caught such frequencies, he immediately sends his modules to the system that was the source of the signal. Charge energy: <Data1>%.

@@ -1,0 +1,40 @@
+176	Well, then we'll take on restoring the lost data. You may go, ranger.
+177	So, what's going on?
+178	Yeah. It was tough...
+179	Ready to help, where do I transfer the money?
+180	Sorry. The chances of winning were slim...
+181	Correct. The scientists of our Experimental Design Bureaus have managed to make a final breakthrough in dominator technologies and right now, here at the Dominator Base, are producing the final vari...<br>Attention, ranger! We have registered an invasion of enemy forces at the Dominator Base. Three series of dominators at once are trying to attack our station!<br><br>It seems our research did not go unnoticed. Well then, time to join the battle!<br>
+182	Correct. However, before introducing the new technologies into Nisper's modules, this time they will have to be tested because of fundamental changes in the programs. One of the tasks: testing indicators under conditions of subspace immersion. A couple of hours ago we sent a small squad of nispero...<br>Oh-oh-oh, ranger! We have registered the interception of the testing group of modules. Distortion of the subspace bubble... Initiator... Keller!<br>Battle is inevitable. Our simulations... So! The probability of victory is <clr>thirteen<clrEnd> percent. With your participation... The simulations say the chance of victory rises by another <clr>eighteen<clrEnd>!<br><br>Ranger, there is no time for discussion. We are opening a hyperspace rift for you immediately. Save our experimental group!
+183	I see, I'm saving the world again. Is there anything else I should know?
+184	You must earn more profit than Nisper's trade dominators.<br>Current status:<br>You have <0> cr of income,<br>Nisper's first module has <1> cr of income,<br>Nisper's second module has <2> cr of income,<br>Nisper's third module has <3> cr of income,<br>There are <4> days left until the end of the contest.
+185	Hello, Artu. I'm ranger <0> and I came to see you on assignment from the Science Council. Tell me, what do you know about dominators of the "nisper" series?
+186	Excellent, ranger!<br><br>The wreckage you retrieved contains one of the most important components of Bertor systems - the emitter that generates the powerful wave which destroys our equipment and restores the plating of dominator ships.<br><br>We were long able to recreate the approximate structural appearance of this object, and all its properties, but we failed to reconstruct it.<br><br>The wreckage you found contains an emitter maintained in working condition, which means that we will be able to adopt the dominator technology in the shortest possible time.<br><br>In the course of studying the so-called "aura" of Bertors we have also reached certain breakthrough milestones in technologies in other fields. One striking expression of this progress is a new acryn for the Fuel Tank - the <clr>"Converting"<clrEnd>. As a reward we have left one of the first prototypes of the acryn in your hangar dock.<br><br>In conclusion - the Science Council is glad of your help and would be even gladder of further cooperation.
+187	We have something to report to you concerning our last assignment.<br>The Science Council thanks you for taking part in the defense of the system.<br><br>As thanks and a reward for taking part in the operation, please accept from us our gratitude - one of the prototypes of the <clr>Lyrecron<clrEnd>, which we created during the development of the new Nisper acryns.<br><br>This missile launcher will be waiting for you in the warehouse of our station.
+188	The Coalition Council conveys its gratitude to you for taking part in this task. They are very pleased with your productivity and your willingness to help the Coalition in this difficult cause.<br>Meanwhile I want to express my appreciation for your help in carrying out my main strategic task. This is not the first time you have agreed to help me and I believe that the best way to go on using you as my assistant is to reinforce the positive result with a reward. This time I want to place at your disposal a new micromodule of my own production. I developed it quite recently while studying acryns applied to weapons. This micromodule copies some properties of such acryns.
+189	Perhaps this time we have no assignments, but we have something to tell you.<br><br>The Coalition Council conveys its gratitude to you for taking part in this task. They are very pleased with your productivity and your willingness to help the Coalition in this difficult cause.<br><br>In gratitude for your help, we hand over to you for use our new experimental micromodule. It copies some properties of acryns, and, I think, will be very useful to you.<br>You can find it in the warehouse of our station
+190	You have shown yourself in planetary combat to be a capable humanoid. The Science Council is proud that a ranger managed to defeat Nisper in conditions of planetary combat. The council's representatives convey their gratitude for your help, and we ourselves offer you a choice of one of three variants of tranclucators we have developed.
+191	Excellent. The tranclucator you chose has already been sent to your warehouse at the station.
+192	Accepted. The new micromodule has been delivered to the Dominator Base warehouse.
+193	Please accept deserved thanks from me and the Science Council for your comprehensive help and support in the development of the "nisper" series. For all your services you were chosen by the council as the best candidate for testing the new fully functional Bertor hull. The hull is already waiting for you in the warehouse of our station!
+194	Correct. The functionality of a bertor-class hull includes the generation of the so-called "aura" and an autonomous klig construction station.
+195	Let me guess, you can transfer only one ship there?
+196	Uh-huh. So... I'll have to fight Nisper?
+197	I'm ready, take me to the control console!
+198	Got it, thanks.
+199	Some other time.
+200	Interesting... Thank you.
+201	An artifact? Hm, that's interesting, I'll definitely have to test it, thanks.
+202	Wow, how about that! And what is the choice?
+203	I choose the tank tranclucator.
+204	I choose the warrior tranclucator.
+205	I choose the rocketeer tranclucator.
+206	Accepted. Ending dialogue with the object.
+207	I want to get the Torpedar.
+208	I want to get the Vertixar.
+209	I want to get the IMHOnar.
+210	Wonderful!
+211	A Bertor? A completely working Bertor?
+212	Doesn't matter. It's so cool... Thanks a lot!
+213	The transaction was successful.<br><br>And now please accept deserved thanks from me and the Science Council for your comprehensive help and support in the development of the "nisper" series. For all your services you were chosen by the council as the best candidate for testing the new, fully functional Bertor hull. The hull is already waiting for you in the warehouse of our station!
+214	Yes?
+215	I agree to help you with the research. What in the hold of my ship suits you?
