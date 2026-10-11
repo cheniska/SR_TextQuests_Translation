@@ -1,0 +1,6 @@
+3	Hull "Assassin"
+4	Missile and torpedo speed: <bonMissileSpeed>
+5	Hull "Rock"
+6	Asteroid protection: <bonResistAsteroid><clr>%<clrEnd>
+7	Hull "Bolide"
+8	Radar range: <bonRadar> million km

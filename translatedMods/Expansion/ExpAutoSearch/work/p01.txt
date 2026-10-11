@@ -1,0 +1,65 @@
+1	Acryn:
+2	Doesn't matter
+3	Acryn level:
+4	Without acryn
+5	Submit request
+6	AUTO SEARCH SETTINGS
+7	Delete request
+8	How often should this request be run?
+9	Doesn't matter
+10	Modification level:
+11	Without modification
+13	Damage susceptibility E/S/M:
+14	Capacity: <val>
+15	Ammo: <MaxCount>
+16	unsurpassed
+17	Reliability: <val>
+18	Durability:  E:#1#%  S:#2#%  M:#3#%
+19	Power:
+20	Effectiveness:
+21	Field strength:
+22	Armor:
+23	Capacity:
+24	droid
+25	engine
+26	fuel tank
+27	gripper
+28	hull
+29	radar
+30	scanner
+31	shield generator
+32	Edit an existing request
+33	Are you sure you want to re-file the search request for #0# cr?
+34	Choose acryn:
+35	Choose modification:
+36	Choose the desired weapon:
+37	Create a new request
+38	Are you sure you want to delete this request?
+39	In addition, under the cooperation program with the unified galactic <clr>Info Center<clrEnd>, here you can file an automatic search request that will save you time in finding the on-board equipment you need.
+40	Under the cooperation program with the unified galactic Info Center, here you can file an automatic search request that will save you time in finding the on-board equipment you need.
+41	droid
+42	engine
+43	fuel tank
+44	New search request successfully <clr>created<clrEnd>. Would you like to do anything else?
+45	Creating an automatic search request is an excellent way to save your time and nerves in finding the equipment you need through the unified galactic <clr>Info Center<clrEnd>. Just specify the desired request parameters, and our automatic subquantum servers will gladly do all the work for you!<br><clr><clrEnd><br>You can file up to #0# search requests at a time, each of which can display up to #1# successful search results on your notification panel. Each filed search request will automatically run a search at the intervals you specify until you <clr>delete<clrEnd> it or <clr>re-file<clrEnd> it to search for a different item. Also keep in mind that the first search after filing or re-filing a request will take place the very next day after the operation is confirmed.<br><clr><clrEnd><br>The cost of filing or re-filing a search request is currently #2# cr., and the cost of actually running a search for this request is #3# cr.
+46	gripper
+47	To create a search request you must specify at least one suitable hull type.
+48	hull
+49	My search requests
+50	Are you sure you want to file a new search request for #0# cr?
+51	All business centers have been destroyed. Your <color=255,240,100>search requests</color> are temporarily frozen.
+52	Dear client, there are insufficient funds on your account to pay the cost of the scheduled autosearch request. The standard cost of this operation is #0# cr.
+53	Dear client, nothing was found for your search request #0#. Do not be upset, though, you will certainly have better luck next time.
+54	Sorry, but there are insufficient funds on your account to re-file the search request.
+55	Sorry, but there are insufficient funds on your account to file the search request.
+56	To create a search request you must specify at least one suitable manufacturer race.
+57	radar
+58	Search request for #0#<br><clr> <clrEnd><clr> <clrEnd><clr> <clrEnd><clr> <clrEnd>(every #1# days)
+59	Select the request you would like to <clr>view<clrEnd>, <clr>edit<clrEnd>, or <clr>delete<clrEnd>.
+60	The selected search request was successfully <clr>changed<clrEnd>. Would you like to do anything else?
+61	The selected search request was successfully <clr>deleted<clrEnd>. Would you like to do anything else?
+62	scanner
+63	SG
+64	Store:
+65	To create a search request you must specify at least one suitable weapon type.
+66	weapons

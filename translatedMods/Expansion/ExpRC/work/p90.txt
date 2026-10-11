@@ -1,0 +1,4 @@
+38	. Micromodule <Name>
+52	Radar range: <bonRadar> million km
+63	Hull size: <clr>+25%<clrEnd>
+89	I'd like to retrieve modules from my storage at the Ranger Center

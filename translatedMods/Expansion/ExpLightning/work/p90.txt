@@ -1,0 +1,2 @@
+1	Lightning I-IV
+3	Radar range: <bonRadar> million km
