@@ -883,7 +883,7 @@
 | гравимобиль / гравиавтомобиль | gravicar | Amnesia |
 | гравимот | gravimot | Proprolog |
 | гравимузин | gravimousine | Megatest |
-| гравитакси | gravi-taxi | Easywork, Newflora, Tourists |
+| гравитакси | gravitaxi | Easywork, Newflora, Tourists |
 | гравитанк | gravitank |  |
 | гравитонный манипулятор | graviton manipulator | Cybersport |
 | гравитонный нож | graviton knife | Amnesia |

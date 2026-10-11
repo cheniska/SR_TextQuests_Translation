@@ -12,14 +12,14 @@ RULES0=[
  (r'\bpelengan(s?)\b',r'peleng\1'),
  (r'hach-?ball','hatchball'),(r'hatch-ball','hatchball'),(r'hach-hryap','hatch-hryap'),
  (r'\bdalany\b','dalani'),(r'\bheldas\b','helldas'),(r'stereovisor','stereovision'),
- (r'kindza','kinza'),(r'kwanga','quanga'),(r'borzuhan','Borzukhan'),(r'rachehan','Rachekhan'),
+ (r'kindza','kinza'),(r'guanawa','guanava'),(r'gravi-taxi','gravitaxi'),(r'kwanga','quanga'),(r'borzuhan','Borzukhan'),(r'rachehan','Rachekhan'),
  (r'dzukhallag','Dzuhallag'),(r'zhupei','Zoopie'),(r'yanvelb(?!a)|janwelb','ekup'),(r'aipentac?k','Eipentak'),
  (r'\bstoolie(s?)\b',lambda m:'snitch'+('es' if m.group(1) else '')),
  (r'\bcut-throat(s?)\b',r'cutthroat\1'),(r'(?<![a-z])galactic council','Galaxy Council'),
  (r'\bflyer(s?)\b',r'flier\1'),(r'nanitode(s?)',r'nanitoid\1'),(r'mentoprobe','menthoprobe'),
  (r'hyper-jumping','hyperjumping'),(r'encyclopaedi','encyclopedi'),
  (r'colour','color'),(r'armour','armor'),(r'manoeuvr','maneuver'),(r'theatre','theater'),(r'(?<![a-z])centre','center'),
- (r'\bgrey','gray'),(r'(\w+)isation',r'\1ization'),(r'pasteuris','pasteuriz'),(r'colonis','coloniz'),(r'civilis','civiliz'),
+ (r'\bgrey','gray'),(r'\b(?!improv|televis|supervis|revis|advertis)(\w+)isation',r'\1ization'),(r'pasteuris','pasteuriz'),(r'colonis(?=at|e[sd]?\b|ing)','coloniz'),(r'civilis(?=at|e[sd]?\b|ing)','civiliz'),
  (r'favour','favor'),(r'honour','honor'),(r'neighbour','neighbor'),(r'defence','defense'),
 ]
 def _case(m,rep):
