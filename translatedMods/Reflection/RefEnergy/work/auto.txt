@@ -1,5 +1,9 @@
+Нет, пожалуй, не сейчас	No, maybe not now
 Спасибо, в другой раз	Thanks, maybe some other time
 Понятно	I see
 Мощность сканера: <bonScan><clr>%<clrEnd>	Scanner power: <bonScan><clr>%<clrEnd>
 Скорость двигателя: <bonSpeed> ед.	Engine speed: <bonSpeed>
+Мощность защитного поля: <bonDef><clr>%<clrEnd>	Shield power: <bonDef><clr>%<clrEnd>
+Урон энергетического оружия: <bonWEnergy> ед.	Energy weapon damage: <bonWEnergy> units
+Дальность стрельбы: <bonWRadius> млн км	Firing range: <bonWRadius> million km
 Мощность захвата: <bonHook> т.	Gripper power: <bonHook> t.

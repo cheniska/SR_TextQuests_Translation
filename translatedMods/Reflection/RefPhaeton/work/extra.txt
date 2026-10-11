@@ -1,0 +1,12 @@
+Вестала	Vestala
+Полуось	Axle
+Орленон	Orlenon
+Меркурий	Mercury
+Венера	Venus
+Земля	Earth
+Марс	Mars
+Юпитер	Jupiter
+Сатурн	Saturn
+Уран	Uranus
+Нептун	Neptune
+Плутон	Pluto

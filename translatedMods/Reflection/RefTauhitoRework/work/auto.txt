@@ -1,6 +1,6 @@
 Навык точности: <bonSkill1>	Attack skill: <bonSkill1>
 Навык манёвренности: <bonSkill2>	Mobility skill: <bonSkill2>
-Масса корабля: <bonMass>%	Commerce skill: <bonSkill4>
+Масса корабля: <bonMass>%	Ship mass: <bonMass>%
 Навык торговли: <bonSkill4>	Commerce skill: <bonSkill4>
 Навык обаяния: <bonSkill5>	Charisma skill: <bonSkill5>
 Навык лидерства: <bonSkill6>	Leadership skill: <bonSkill6>

@@ -26,4 +26,15 @@
 26	FormRuins/WB/NextRank/WBAnswer
 27	FormRuins/WB/NextRank/WBAnswer
 28	FormRuins/WB/NextRank/WBAnswer
-29	Script/Mod_RefKillingPBFix/0
+29	FormRuins/WB/NextRank/WBAnswer
+30	FormRuins/WB/NextRank/WBAnswer
+31	FormRuins/WB/NextRank/WBAnswer
+32	FormRuins/WB/NextRank/WBAnswer
+33	FormRuins/WB/NextRank/WBAnswer
+34	FormRuins/WB/NextRank/WBAnswer
+35	FormRuins/WB/NextRank/WBAnswer
+36	FormRuins/WB/NextRank/WBAnswer
+37	FormRuins/WB/NextRank/WBAnswer
+38	FormRuins/WB/NextRank/WBAnswer
+39	FormRuins/WB/NextRank/WBAnswer
+40	Script/Mod_RefKillingPBFix/0

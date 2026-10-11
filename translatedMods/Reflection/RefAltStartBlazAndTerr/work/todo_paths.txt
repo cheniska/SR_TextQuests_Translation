@@ -1,10 +1,10 @@
 1	FormIntroduction/Text
 2	FormIntroduction/Text
-3	Script/MS_Begin/64
-4	Script/MS_SB1/3
-5	Script/Mod_RefAltStartBlazAndTerr/0
-6	Script/Mod_RefAltStartBlazAndTerr/1
-7	Script/Mod_RefAltStartBlazAndTerr/10
+3	FormIntroduction/Text
+4	Script/MS_Begin/64
+5	Script/MS_SB1/3
+6	Script/Mod_RefAltStartBlazAndTerr/0
+7	Script/Mod_RefAltStartBlazAndTerr/1
 8	Script/Mod_RefAltStartBlazAndTerr/11
 9	Script/Mod_RefAltStartBlazAndTerr/12
 10	Script/Mod_RefAltStartBlazAndTerr/13

@@ -1,2 +1,3 @@
 Назад	Back
 Далее	Next
+На главную	To the main page

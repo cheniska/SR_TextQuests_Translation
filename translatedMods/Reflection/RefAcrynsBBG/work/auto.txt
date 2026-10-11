@@ -1,1 +1,2 @@
-Дальность стрельбы: <bonWRadius> ед.	Commerce skill: <bonSkill4>
+Урон энергетического оружия: <bonWEnergy> ед.	Energy weapon damage: <bonWEnergy> units
+Дальность стрельбы: <bonWRadius> ед.	Firing range: <bonWRadius>

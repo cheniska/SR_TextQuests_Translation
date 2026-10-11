@@ -1,2 +1,4 @@
-Броня корпуса: <bonHull> ед.	Droid effectiveness: <bonDroid>
+Урон ракетного оружия: <bonWMissile> ед.	Missile weapon damage: <bonWMissile> units
+Скорость ракет: <bonMissileSpeed> ед.	Missile speed: <bonMissileSpeed> units
+Броня корпуса: <bonHull> ед.	Hull armor: <bonHull>
 По рукам!	Alrighty!

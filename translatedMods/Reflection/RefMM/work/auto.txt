@@ -1,21 +1,27 @@
+Мощность защитного поля: <bonDef><clr>%<clrEnd>	Shield power: <bonDef><clr>%<clrEnd>
 Мощность захвата: <bonHook> т.	Gripper power: <bonHook> t.
 Мощность сканера: <bonScan><clr>%<clrEnd>	Scanner power: <bonScan><clr>%<clrEnd>
 Дальность прыжка: <bonJump> пк.	Jump range: <bonJump> pc
 Скорость двигателя: <bonSpeed> ед.	Engine speed: <bonSpeed>
-Эффективность дроида: <bonDroid> ед.	Engine speed: <bonSpeed>
+Эффективность дроида: <bonDroid> ед.	Droid effectiveness: <bonDroid>
 Размер: <clr>+100%<clrEnd>	Cost: <clr>+100%<clrEnd>
+Дальность стрельбы: <bonWRadius> млн км	Firing range: <bonWRadius> million km
+Урон осколочного оружия: <bonWSplinter> ед.	Splinter weapon damage: <bonWSplinter> units
 Стоимость: <clr>+25%<clrEnd>	Cost: <clr>+25%<clrEnd>
-Броня корпуса: <bonHull> ед.	Droid effectiveness: <bonDroid>
+Броня корпуса: <bonHull> ед.	Hull armor: <bonHull>
 Стоимость: <clr>+40%<clrEnd>	Cost: <clr>+40%<clrEnd>
-Стоимость: <clr>+60%<clrEnd>	Missile weapons damage: <bonWMissile>
+Стоимость: <clr>+60%<clrEnd>	Cost: <clr>+60%<clrEnd>
+Урон ракетного оружия: <bonWMissile> ед.	Missile weapon damage: <bonWMissile> units
+Урон энергетического оружия: <bonWEnergy> ед.	Energy weapon damage: <bonWEnergy> units
 Масса корабля: <bonMass><clr>%<clrEnd>	Ship mass: <bonMass><clr>%<clrEnd>
 Размер: <clr>+10%<clrEnd>	Cost: <clr>+20%<clrEnd>
 Стоимость: <clr>+50%<clrEnd>	Cost: <clr>+50%<clrEnd>
 Дезинтегратор	Disintegrator
 Размер: <clr>-20%<clrEnd>	Cost: <clr>-30%<clrEnd>
+Скорость ракет: <bonMissileSpeed> ед.	Missile speed: <bonMissileSpeed> units
 (необходимо превышение мощности сканера над защитой цели)	(scanner power must exceed target's defense)
 Кластер	Cluster
-Навык техники: <bonSkill3>	Engine speed: <bonSpeed>
+Навык техники: <bonSkill3>	Technology skill: <bonSkill3>
 Навык точности: <bonSkill1>	Attack skill: <bonSkill1>
 Размер: <clr>+25%<clrEnd>	Size: <clr>+25%<clrEnd>
 Размер: <clr>-50%<clrEnd>	Size: <clr>-50%<clrEnd>

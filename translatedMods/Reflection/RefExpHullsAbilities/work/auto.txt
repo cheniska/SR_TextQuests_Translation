@@ -1,10 +1,14 @@
 Скорость двигателя: <bonSpeed> ед.	Engine speed: <bonSpeed>
 Дальность прыжка: <bonJump> пк.	Jump range: <bonJump> pc
-Броня корпуса: <bonHull> ед.	Droid effectiveness: <bonDroid>
+Броня корпуса: <bonHull> ед.	Hull armor: <bonHull>
+Урон энергетического оружия: <bonWEnergy> ед.	Energy weapon damage: <bonWEnergy> units
+Урон ракетного оружия: <bonWMissile> ед.	Missile weapon damage: <bonWMissile> units
 Навык точности: <bonSkill1>	Attack skill: <bonSkill1>
 Навык торговли: <bonSkill4>	Commerce skill: <bonSkill4>
 Навык обаяния: <bonSkill5>	Charisma skill: <bonSkill5>
-Масса корабля: <bonMass>%	Commerce skill: <bonSkill4>
+Скорость ракет: <bonMissileSpeed> ед.	Missile speed: <bonMissileSpeed> units
+Масса корабля: <bonMass>%	Ship mass: <bonMass>%
 Навык манёвренности: <bonSkill2>	Mobility skill: <bonSkill2>
-Навык техники: <bonSkill3>	Engine speed: <bonSpeed>
-Эффективность дроида: <bonDroid> ед.	Engine speed: <bonSpeed>
+Навык техники: <bonSkill3>	Technology skill: <bonSkill3>
+Эффективность дроида: <bonDroid> ед.	Droid effectiveness: <bonDroid>
+Инфошка-флаг	Flag info item

@@ -15,6 +15,7 @@
 Каратель	Punisher
 Торнадо	Tornado
 Провайдер	Provider
+Коллектор	Collector
 Блендер	 Blender
 Юникс	Unix
 Диод	Diode
@@ -45,4 +46,5 @@
 Атаман	Capo
 Убийца	Assassin
 Рейдер	Raider
+Из модов	From Mods
 Помимо этого, в системе не должно остаться никаких коалиционных баз, кроме медицинских центров. Эти нам самим пригодятся. Про пиратские базы отвечать не нужно, я думаю? Ты же не совсем глупый, если в рейнджеры пробился.	Keep in mind - while it's cool and fun, you shouldn't capture all of the Coalition' systems at once, since all of the stuff worth mentioning is being produced within their borders, plus most of the business centers, where we house our bank accounts, are also located there. Besides, their military, for what it's worth, is still making some efforts in order to protect the galaxy from Dominators - and you know that every planet we take over eventually turns into a complete madhouse, everybody's drinking, fighting and that kind of stuff. If it's going to be like that everywhere, we'll be easy prey for Dominators, so while the Coalition is fighting, it's wiser to hide behind their backs and make some money. Got it?

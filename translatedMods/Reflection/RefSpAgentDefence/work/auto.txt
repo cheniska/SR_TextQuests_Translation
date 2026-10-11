@@ -1,9 +1,9 @@
 Пират	Pirate
 Спецагент	Secret Agent
 Скорость двигателя: <bonSpeed> ед.	Engine speed: <bonSpeed>
-Мощность захвата: <bonHook> ед.	Gripper range: <bonHookRadius>
-Дальность захвата: <bonHookRadius> ед.	Charisma skill: <bonSkill5>
-Эффективность дроида: <bonDroid> ед.	Engine speed: <bonSpeed>
+Дальность захвата: <bonHookRadius> ед.	Gripper range: <bonHookRadius>
+Эффективность дроида: <bonDroid> ед.	Droid effectiveness: <bonDroid>
 Отмена	Cancel
 Конец связи	Over and out.
+Ясно...	I see...
 Хорошо	Good

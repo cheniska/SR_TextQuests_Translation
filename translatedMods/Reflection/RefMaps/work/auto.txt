@@ -4,6 +4,7 @@
 80% <color=149,149,149>(Поддержка с воздуха)</color>	80% <color=149,149,149>(Air Support)</color>
 80% <color=149,149,149>(Усиленная броня)</color>	80% <color=149,149,149>(Reinforced Armor)</color>
 Сложность <color=149,149,149>(Бонусы)</color>	Difficulty <color=149,149,149>(Bonuses)</color>
+Из модов	From Mods
 Время: <Val>	Time: <Val>
 Удачи!	Good luck!
 Бункер	Bunker

@@ -1,5 +1,4 @@
-Рыцарь	Knight
-Броня корпуса: <bonHull> ед.	Droid effectiveness: <bonDroid>
-Эффективность дроида: <bonDroid> ед.	Engine speed: <bonSpeed>
+Броня корпуса: <bonHull> ед.	Hull armor: <bonHull>
+Эффективность дроида: <bonDroid> ед.	Droid effectiveness: <bonDroid>
 Скорость двигателя: <bonSpeed> ед.	Engine speed: <bonSpeed>
 Навык торговли: <bonSkill4>	Commerce skill: <bonSkill4>

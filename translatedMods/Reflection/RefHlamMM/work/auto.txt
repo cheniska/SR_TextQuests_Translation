@@ -1,7 +1,12 @@
 Размер: <clr>+10%<clrEnd>	Cost: <clr>+20%<clrEnd>
-Броня корпуса: <bonHull> ед.	Droid effectiveness: <bonDroid>
-Эффективность дроида: <bonDroid> ед.	Engine speed: <bonSpeed>
+Броня корпуса: <bonHull> ед.	Hull armor: <bonHull>
+Дальность стрельбы: <bonWRadius> млн км	Firing range: <bonWRadius> million km
+Эффективность дроида: <bonDroid> ед.	Droid effectiveness: <bonDroid>
 Дальность прыжка: <bonJump> пк.	Jump range: <bonJump> pc
 Скорость двигателя: <bonSpeed> ед.	Engine speed: <bonSpeed>
 Мощность захвата: <bonHook> т.	Gripper power: <bonHook> t.
+Мощность защитного поля: <bonDef><clr>%<clrEnd>	Shield power: <bonDef><clr>%<clrEnd>
 Мощность сканера: <bonScan><clr>%<clrEnd>	Scanner power: <bonScan><clr>%<clrEnd>
+Урон энергетического оружия: <bonWEnergy> ед.	Energy weapon damage: <bonWEnergy> units
+Урон ракетного оружия: <bonWMissile> ед.	Missile weapon damage: <bonWMissile> units
+Урон осколочного оружия: <bonWSplinter> ед.	Splinter weapon damage: <bonWSplinter> units

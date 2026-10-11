@@ -1,3 +1,4 @@
 (не функционирует)	(non-functional)
 Дестабилизатор	Destabilizer
 Пока	So long
+Просто костыльфошка	Just a kludge item

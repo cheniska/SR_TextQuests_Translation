@@ -26,14 +26,30 @@ def items(L):
         if '=' in l:
             k,v=l.strip().split('=',1); out.append((i,'/'.join(path)+'/'+k,v))
     return out
+def vok(v,e):
+    if collections.Counter(tok.findall(v))!=collections.Counter(tok.findall(e)): return False
+    if re.findall(r'\d+',v)!=re.findall(r'\d+',e): return False
+    if not 0.3<len(e)/max(1,len(v))<3.5: return False
+    return bool(tok.findall(v)) or len(v)>=50 or v in SAFE
+SAFE={'Назад','Да','Нет','Система','Системы','Ладно','Ладно...','Спасибо!','Рейнджер','Пират','Фрилансер','Тип:','Конец связи','Обычный','Отключен','Включен'}
+def reauto(g):
+    w=wd(g); tm={}
+    for l in open(T+'/tools/tm.tsv',encoding='utf-8').read().split('\n'):
+        if '\t' in l: a,b=l.split('\t',1); tm[a]=b
+    todo,en,_=load(g); have=set(todo.values())
+    L=readu16(SRC+'/'+g+'/CFG/Rus/Lang.txt'); seen=[]
+    for i,p,v in items(L):
+        if cyr.search(v) and v not in have and v not in seen: seen.append(v)
+    open(w+'/auto.txt','w',encoding='utf-8').write('\n'.join(v+'\t'+tm[v] for v in seen if v in tm))
+    print(g,'reauto',sum(1 for v in seen if v in tm),'not in todo and tm; cyr values outside todo and tm:',[v for v in seen if v not in tm][:3])
 def tm_build():
     d=collections.defaultdict(collections.Counter)
     rus=open(R+'/Translation/lore/source/SRHD_rus.txt',encoding='cp1251',errors='replace').read().replace('\r\n','\n').split('\n')
     eng=open(R+'/Translation/lore/source/SRHD_Lang_Eng_Vanilla.txt',encoding='cp1251',errors='replace').read().replace('\r\n','\n').split('\n')
     ie={p:v for _,p,v in items(eng)}
     for _,p,v in items(rus):
-        if cyr.search(v) and p in ie and not cyr.search(ie[p]): d[v][ie[p]]+=2   # vanilla weight
-    for f in glob.glob(T+'/*/*/CFG/Eng/Lang.txt'):
+        if cyr.search(v) and p in ie and not cyr.search(ie[p]) and vok(v,ie[p]): d[v][ie[p]]+=2   # vanilla weight
+    for f in ([] if os.environ.get('NOMODS') else glob.glob(T+'/*/*/CFG/Eng/Lang.txt')):
         a=items(readu16(f.replace('/Eng/','/Rus/').replace(T,SRC)));b=items(readu16(f))
         if len(a)!=len(b): continue
         for (_,p,v),(_,q,w) in zip(a,b):
@@ -87,9 +103,10 @@ def check(g):
 def build(g):
     todo,en,bad=load(g); m={todo[n]:v for n,v in en.items()}
     w=wd(g)
-    if os.path.exists(w+'/auto.txt'):
-        for l in open(w+'/auto.txt',encoding='utf-8').read().split('\n'):
-            if '\t' in l: a,b=l.split('\t',1); m.setdefault(a,b)
+    for fn in ('extra.txt','auto.txt'):
+        if os.path.exists(w+'/'+fn):
+            for l in open(w+'/'+fn,encoding='utf-8').read().split('\n'):
+                if '\t' in l: a,b=l.split('\t',1); m.setdefault(a,b)
     L=readu16(SRC+'/'+g+'/CFG/Rus/Lang.txt'); miss=0
     for i,l in enumerate(L):
         if '=' in l and not re.match(r'^\s*\S+ [\^~]\{$',l):
@@ -103,4 +120,4 @@ def build(g):
 if __name__=='__main__':
     c=sys.argv[1]
     if c=='tm': tm_build()
-    else: {'init':init,'check':check,'build':build}[c](sys.argv[2])
+    else: {'init':init,'check':check,'build':build,'reauto':reauto}[c](sys.argv[2])

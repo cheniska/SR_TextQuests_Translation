@@ -1,12 +1,18 @@
 Размер: <clr>+50%<clrEnd>	Size: <clr>+50%<clrEnd>
 Размер: <clr>+100%<clrEnd>	Cost: <clr>+100%<clrEnd>
+Дальность стрельбы: <bonWRadius> млн км	Firing range: <bonWRadius> million km
 Скорость двигателя: <bonSpeed> ед.	Engine speed: <bonSpeed>
 Мощность захвата: <bonHook> т.	Gripper power: <bonHook> t.
-Масса корабля: <bonMass>%	Commerce skill: <bonSkill4>
-Броня корпуса: <bonHull> ед.	Droid effectiveness: <bonDroid>
-Эффективность дроида: <bonDroid> ед.	Engine speed: <bonSpeed>
+Масса корабля: <bonMass>%	Ship mass: <bonMass>%
+Броня корпуса: <bonHull> ед.	Hull armor: <bonHull>
+Мощность защитного поля: <bonDef><clr>%<clrEnd>	Shield power: <bonDef><clr>%<clrEnd>
+Эффективность дроида: <bonDroid> ед.	Droid effectiveness: <bonDroid>
 Стоимость: <clr>+100%<clrEnd>	Cost: <clr>+100%<clrEnd>
+Урон энергетического оружия: <bonWEnergy> ед.	Energy weapon damage: <bonWEnergy> units
 Мощность сканера: <bonScan><clr>%<clrEnd>	Scanner power: <bonScan><clr>%<clrEnd>
+Урон осколочного оружия: <bonWSplinter> ед.	Splinter weapon damage: <bonWSplinter> units
+Урон ракетного оружия: <bonWMissile> ед.	Missile weapon damage: <bonWMissile> units
+Скорость ракет: <bonMissileSpeed> ед.	Missile speed: <bonMissileSpeed> units
 Размер: <clr>+10%<clrEnd>	Cost: <clr>+20%<clrEnd>
 Дальность прыжка: <bonJump> пк.	Jump range: <bonJump> pc
 Масса корабля: <bonMass><clr>%<clrEnd>	Ship mass: <bonMass><clr>%<clrEnd>
