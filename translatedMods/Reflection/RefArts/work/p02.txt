@@ -1,0 +1,60 @@
+61	Concentrates the salvo, focusing projectiles, plasma or energy beams on areas of the enemy hull already damaged earlier, which increases the firing range of all weapons by <clr>40<clrEnd> units without any significant loss of firepower.
+62	The Magnets fought the enemy fiercely, but... There turned out to be more enemies. Now these guys will need resuscitation.
+63	The Magnets have clearly "overeaten" and no longer want to protect the ship.<br>Nothing but trouble from food...
+64	Magnets
+65	CustomArtTextData(item,1,CT('FormInfo.br')+'The parasites need an active radar to draw energy from it!');
+66	CustomArtTextData(item,1,CT('FormInfo.br')+'The parasites need a sufficiently powerful radar to draw energy from it');
+67	CustomArtTextData(item,1,CT('FormInfo.br')+'It is easier for the parasites to connect to equipment of unknown make to consume energy.');
+68	Connecting to a radar of sufficient power (over <clr>1600<clrEnd> million km), in return firing at enemies (<clr>18<clrEnd>-<clr>37<clrEnd> energy damage within a radius of <clr>220<clrEnd> million km).<TextData1>
+69	Parasites living in dense clouds of interstellar matter. They feed on energy, and in the old days they cut off power to many Coalition expeditions. Several raids and the active work of xenobiologists and trainers led to the near disappearance of wild magnets. Now tamed magnets feed on the ship's energy and fire at the enemies of the carrier ship (<clr>18<clrEnd>-<clr>57<clrEnd> energy damage within a radius of <clr>320<clrEnd> million km).
+70	A well-aimed hit destroyed all the Pelengator's fragile electronics. You will no longer be able to count on the Clan's help in subspace.
+71	The Pelengator has completely run out its service life. Repairs are required.
+72	Pelengator
+73	A subspace distress signal generator on the Clan's secret line. When the signal appears, it sends pirate reserve forces to the attacked bubble. Works only with the identifier issued at the <clr>Pirate Base<clrEnd> upon joining.
+74	The Diffuser received too much energy and, trying to dissipate it, overheated and broke.
+75	The Diffuser's main working element is completely worn out. It seems it's time to visit a research station!
+76	Diffuser
+77	CustomArtTextData(CurItem(),1,CT('FormInfo.br')+'The Diffuser works better with a hull of unknown design.');
+78	An active interference generator that prevents enemy guns from locking on to the carrier ship, which reduces incoming damage. Besides that, strangely enough, this artifact also eliminates some destructive effects imposed by the enemy.
+79	Dissipates incoming damage, reducing it by <clr>10-20<clrEnd>%, and also eliminates <clr>corrosion<clrEnd>, <clr>ionization<clrEnd> and <clr>magnetization<clrEnd> of the hull.<TextData1>
+80	The enemy barrage knocked the Stabilizer's focus off center. Specialist help is required.
+81	The Stabilizer has strayed completely from the standard and can no longer help your ship.
+82	A system for stabilizing hull plating elements and damping external pulses as well as thermal surges. By redirecting the arising pulses into areas that are already unstable for various reasons, the integrity of the ship's hull structure is preserved.
+83	Stabilizer
+84	A system for stabilizing hull plating elements and damping external pulses as well as thermal surges. Reduces damage from splinter weapons by <clr>5<clrEnd>-<clr>30<clrEnd>%.
+85	Because of the hull overheating, the coating began to ignore some areas and generally behave strangely. As a result, the central computer decided to shut down the generator and remove the coating.
+86	The coating generator has run out of material. Replenishment at a research station is required.
+87	A unique coating with a built-in self-replication system, which allows it to be distributed over the entire ship. In the active state the coating makes the ship less visible to the enemy's location systems.
+88	Stealth Coating
+89	CustomArtTextData(CurItem(),1,CT('FormInfo.br')+'The coating works with increased efficiency on a hull of unknown make.');
+90	Increases the ship's maneuverability by <clr>3<clrEnd> points. In addition, a ship protected by the artifact has about a <clr>15<clrEnd>% chance of taking no damage.<TextData1>
+91	The Stimulacrum is not designed for use in combat, and another shake-up ruined the device.
+92	The Stimulacrum has controlled your body for too long. For it to continue working, you will have to visit a repair shop.
+93	Stimulacrum
+94	if(CustomArtTextData(CurItem(),1) == '') CustomArtTextData(CurItem(),1,' Additional property <color=220,20,20>inactive</color>');
+95	if(MessageBoxYesNo('The Stimulacrum provokes the development of diseases that have bonuses. Stop?'))
+96	CustomArtTextData(CurItem(),1,' Additional property <color=220,20,20>inactive</color>');
+97	if(MessageBoxYesNo('Start provoking diseases that have bonuses?'))
+98	CustomArtTextData(CurItem(),1,' Additional property <color=20,220,20>active</color>');
+99	A system for controlling the pilot's metabolism that regulates the inflow of various catalysts. Slows the rate at which all active stimulants are removed from the body by a factor of <clr>3<clrEnd> and also enhances the effect of Hyperdust.
+100	When activated, provokes the developed, so to speak, "beneficial" diseases, extending their duration.<br><TextData1>
+101	After your ship left the "bubble," you noticed the blue glow that had enveloped the Ks'erenka fading. Interesting...
+102	Ks'erenka
+103	An ancient gaal amulet for <clr>luck<clrEnd>. Some pilots claim that its properties can be fully appreciated only in <clr>hyperspace<clrEnd>, but others claim that it saves them from the pirates' new <clr>tricks<clrEnd> and other unlucky incidents.
+104	I want to stock up on missile mines
+105	So, missile mines are a quite convenient tool for mining space, alongside ordinary bombs.<br>The principle of operation is as simple as can be - when hit or destroyed, the automatic system fires the charge built into it - <clr>eight missiles<clrEnd> that detect and destroy a target.<br><br>==================<br>At the moment your mine purchase limit is <0> pcs.
+106	So, missile mines are a quite convenient tool for mining space, alongside ordinary bombs.<br>The principle of operation is as simple as can be - when hit or destroyed, the automatic system fires the charge built into it - <clr>eight missiles<clrEnd> that detect and destroy a target.<br><br>==================<br>At the moment your mine purchase limit is <clr>0<clrEnd> pcs., which means that buying mines is, alas, currently <clr>unavailable<clrEnd> to you.
+107	Excellent! The brand-new mine has already been transferred to your ship's hold.<br><br>Would you like to buy another?
+108	I want to buy a mine
+109	Upgrade: <clr>Emergency Shields<clrEnd>
+110	A modification that activates a shield of <clr>300<clrEnd> structure units when the hull reaches <clr>80<clrEnd>% damage.
+111	Shield power: <color=255,240,100>-5</color>%
+112	Upgrade: <clr>Class D Engines<clrEnd>
+113	Ship-class engines are mounted on the missiles of this salvo launcher.
+114	Weapon ammo: <color=255,240,100>-6</color> pcs.
+115	Missile speed: <color=255,240,100>+450</color> units
+116	Cost: <color=255,240,100>+100</color>%
+117	Upgrade: <clr>Focuser<clrEnd>
+118	Focusing elements increase firing range at the cost of reduced effectiveness.
+119	Energy weapon damage: <color=255,240,100>-11</color> units
+120	Firing range: <color=255,240,100>+120</color> units

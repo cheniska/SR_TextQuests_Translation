@@ -1,0 +1,50 @@
+121	Cost: <color=255,240,100>+35%</color>
+122	Upgrade: <clr>Fragilium Parts<clrEnd>
+123	Sturdier parts increase the probe's durability.
+124	Durability: <clr>+50%<clrEnd>
+125	Upgrade: <clr>Gisiscent Parts<clrEnd>
+126	Durability: <clr>+30%<clrEnd>
+127	Upgrade: <clr>Improved Scanners<clrEnd>
+128	<color=248,252,248>Improved scanners on this probe increase its effectiveness.</color>
+129	Research effectiveness for <clr>all surfaces<clrEnd>: +<clr>1<clrEnd> c.u.
+130	Upgrade: <clr>Excellent Scanners<clrEnd>
+131	Excellent scanners on this probe increase its effectiveness.
+132	Research effectiveness for <clr>all surfaces<clrEnd>: +<clr>2<clrEnd> c.u.
+133	Upgrade: <clr>Additional Silo<clrEnd>
+134	An additional silo for launching missiles is installed on this weapon.
+135	Missiles per salvo: <color=255,240,100>+1</color>
+136	Weapon ammo: <color=255,240,100>-15</color> pcs.
+137	Size: <color=255,240,100>+50%</color>
+138	Upgrade: <clr>Narrower<clrEnd>
+139	The weapon's energy has been redistributed to reduce the spread of damage dealt.
+140	Maximum damage: <color=255,240,100>-20</color> units
+141	Minimum damage: <color=255,240,100>+15</color> units
+142	Upgrade: <clr>Titanium Parts<clrEnd>
+143	Durability: <clr>+20%<clrEnd>
+144	Upgrade: <clr>Nuclear Charger<clrEnd>
+145	This weapon now equips its missiles with nuclear warheads.
+146	Missiles per salvo: <color=255,240,100>-1</color> unit
+147	Missile weapon damage: <color=255,240,100>+35</color> units
+148	Additional effect: <clr>EM interference, Ionization</color>
+149	Nuclear Charger
+150	str text_q = 'Are you sure you want to install a <color=0,50,200>nuclear charger</color> in ItemName?';
+151	A kit for modifying <color=255,240,100>missile weapons</color>. It updates the structure of the ammunition storage, adding a mini-factory there that replaces ordinary ammunition with nuclear, which greatly increases the combat power of each individual missile.
+152	Missiles per salvo: <color=255,240,100>-1</color>
+153	Missile weapon power: <color=255,240,100>+35</color> units
+154	<color=255,240,100>Adds the effect of EM interference and hull ionization</color>
+155	<color=250,20,20>Incompatible with Additional Silo</color>
+156	Improved Engines
+157	str text_q = 'Are you sure you want to install <color=0,50,200>improved engines</color> in ItemName?';
+158	A kit for modifying <color=255,240,100>missile weapons</color>. Replaces the missiles' engines with similar but seriously improved versions. However, such engines take up more space, both in weight and in volume.
+159	Ammo count: <color=255,240,100>-6</color> units
+160	Additional Silo
+161	str text_q = 'Are you sure you want to install an <color=0,50,200>additional silo</color> on ItemName?';
+162	A kit for modifying <color=255,240,100>missile weapons</color>. Adds one more silo for launching missiles and slightly reduces ammo.
+163	Missiles per salvo: <color=255,240,100>+1</color>
+164	Ammo count: <color=255,240,100>-15</color> units
+165	<color=250,20,20>Incompatible with Nuclear Charger</color>
+166	Focuser
+167	str text_q = 'Are you sure you want to install a <color=0,50,200>focuser</color> on ItemName?';
+168	A kit for modifying <color=255,240,100>energy weapons</color>. Adds one more focuser to the weapon and raises the firing range limit.
+169	Energy weapon power: <color=255,240,100>-11</color> units
+170	Weapon range: <color=255,240,100>+120</color> units

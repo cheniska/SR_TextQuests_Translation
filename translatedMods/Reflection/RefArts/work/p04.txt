@@ -1,0 +1,41 @@
+171	<color=250,20,20>Incompatible with Narrower</color>
+172	Missile Mine
+173	An automatic salvo system that fires <color=180,30,30>8</color> missiles at the ship that destroyed the carrier object. The missiles deal <color=180,30,30>20</color>-<color=180,30,30>35</color> damage.
+174	Titanium Probe Parts
+175	str text_q = 'Are you sure you want to install <color=0,50,200>titanium parts</color> in ItemName?';
+176	A kit for replacing some of the most important parts of the <clr>probe<clrEnd>. A better-quality material increases the probe's working time before breakdown by <clr>20<clrEnd>%
+177	Gisiscent Probe Parts
+178	str text_q = 'Are you sure you want to install <color=0,50,200>gisiscent parts</color> in ItemName?';
+179	A kit for replacing some of the most important parts of the <clr>probe<clrEnd>. A better-quality material increases the probe's working time before breakdown by <clr>30<clrEnd>%
+180	Fragilium Probe Parts
+181	str text_q = 'Are you sure you want to install <color=0,50,200>fragilium parts</color> in ItemName?';
+182	A kit for replacing some of the most important parts of the <clr>probe<clrEnd>. A better-quality material increases the probe's working time before breakdown by <clr>50<clrEnd>%
+183	Improved Scanners
+184	str text_q = 'Are you sure you want to install <color=0,50,200>improved scanners</color> in ItemName?';
+185	Replaces the <clr>probe's<clrEnd> scanners with more advanced ones, which raises its effectiveness in studying <clr>all surfaces<clrEnd> by <clr>1<clrEnd> c.u. per day.
+186	Excellent Scanners
+187	str text_q = 'Are you sure you want to install <color=0,50,200>excellent scanners</color> in ItemName?';
+188	Emergency Shields
+189	str text_q = 'Are you sure you want to install <color=0,50,200>emergency shields</color> on ItemName?';
+190	Shield generator power: <color=255,240,100>-5</color> units
+191	Narrower
+192	str text_q = 'Are you sure you want to install the <color=0,50,200>Narrower</color> in ItemName?';
+193	A modification that redistributes energy flows in the weapon, which raises the minimum damage it deals but lowers the upper damage threshold.
+194	<color=250,20,20>Incompatible with Focuser</color>
+195	Forgotten Terminal
+196	NewsAdd('The terminal whose input panel had been glowing red all this time has now changed color and glows green. That means there are three more attempts to enter the values');
+197	MessageBox('An extremely simple terminal for entering a four-digit numeric code. There are no details that could say anything about the purpose of the terminal, its principles of operation, or anything else at all.');
+198	str tstr = TextBox('Enter the numeric code');
+199	MessageBox('The code turned out to be correct! The terminal began to shimmer with different colors, and the onboard computer reported receiving some coordinates. They are worth checking out...');
+200	MessageBox('The terminal lit up red. It seems you should come back later');
+201	MessageBox('The input panel of the terminal is still burning crimson. It seems you should come back later.');
+202	A small device with output and input panels.
+203	A thing for protecting the ship
+204	Ether(8,'','The damage level is too high! Emergency shields are active');
+205	Ether(2,'','The emergency shields have recharged and are ready for use');
+206	Ether(8,'','The emergency shields are overloaded and shut down! There is no protection anymore.');
+207	Cancels the improvement of Detsell buffs
+208	Cancels the reduction of the target's shield generator
+209	Titanium Parts
+210	Gisiscent Parts
+211	Fragilium Parts

@@ -1,0 +1,60 @@
+1	The Albado's focusing elements are damaged. The artifact will no longer be able to protect you from kligs.
+2	The Albado's detonic pulse guidance system has failed. Repairs are required.
+3	The effectiveness of missile defense systems and the Coalition fleet's heavy losses to dominator ships of the "Klig" class led the CAFIC Design Bureau to create an artifact powerful enough to destroy small ships in semi-automatic mode.
+4	Albado
+5	CustomArtTextData(cur_item,1,CT('FormInfo.br')+'Albado information about approaching targets.');
+6	CustomArtTextData(cur_item,1,CT('FormInfo.br')+'Albado changes the gun traverse angle much faster and more accurately thanks to readings from a radar of unknown design.');
+7	A ship defense system that neutralizes objects of the "Klig" class by detonating their charge before they approach the ship. Range - <clr>750<clrEnd> million km, up to <clr>two<clrEnd> targets per standard <clr>day<clrEnd>.<TextData1>
+8	Annihilation Unit
+9	A special type of unit intended for mounting on large ships. After several failed tests, the design and the scale of the units' effect were revised, after which the generators were handed over to the Ranger Corps for testing.
+10	<color=248,252,248>This unit generates a wave of nanobots that deals <clr>50<clrEnd> units of damage to all enemy ships within a radius of <clr>300<clrEnd> million km.</color>
+11	The Destabilizer fell in an unequal battle.
+12	The Destabilizer is in bad shape. Repairs needed.
+13	A set of various Dzuhallag devices, used by his agents to create interference and other distracting effects, but amplified hundreds of times to have a tangible effect on starships.
+14	A Dzuhallag development that subjects a ship to powerful interference, which reduces the effectiveness of ship control, ionizes its hull and disrupts the operation of nanobots aboard, starting a process of nanocorrosion. In addition, it reduces the power of enemy shield generators within a radius of <clr>200<clrEnd> by <clr>15<clrEnd>%.
+15	By chance, the enemy barrage turned out to be concentrated on the Detsell. The artifact shut down its operations.
+16	The Detsell's location-and-connection systems are too worn. Repairs are required.
+17	A set of various location systems that operate within a certain zone and link up with the onboard computers of allied ships, tranclucators, and also the microelectronics of missiles, correcting their operation, which increases the <clr>starting speed of missiles<clrEnd>, improves <clr>maneuverability<clrEnd> and allows <clr>aiming guns<clrEnd> at greater than usual distances.
+18	Detsell
+19	A coordination system that increases the <clr>speed of allied missiles<clrEnd> and also improves the operation of the systems of <clr>allied ships<clrEnd> within a radius of <clr>700<clrEnd>.
+20	A shell detonated in the Eikaheaven's silo upon impact. Urgent repair of the artifact is required.
+21	The Eikaheaven's missile lift has jammed. Using missiles is no longer possible
+22	The Eikaheaven is out of missiles! Further firing is impossible
+23	A maloq-gaal development. It is a missile defense unit in the full sense, as humans have had since ancient times - shooting down missiles with missiles.
+24	Eikaheaven
+25	MessageBox('To reload the Eikaheaven, you need to be on a planet or a station!');
+26	MessageBox('The Eikaheaven does not need reloading');
+27	int coun = CountBox('Bm.Items.WeaponTarget','Select the number of missiles to reload',1,45 - CustomArtData(CurItem(),1),GalaxyDiffLevels(4) * GalaxyTechLevel() * 2,);
+28	MessageBox('Insufficient funds for such an operation');
+29	A powerful "Space-to-Space" missile defense launcher equipped with light missiles. Current ammo - <Data1>/<clr>45<clrEnd>. Missile speed - <clr>1550<clrEnd> million km, the unit launches <clr>5<clrEnd> per turn
+30	(discharged)
+31	The Firebrand has used up its ammo. Reloading by a specialist is required.
+32	The Firebrand worked too long and, apparently due to some error, opened fire on its own units and was shut down by the safety systems. You need to visit a research station!
+33	Firebrand
+34	A portable plasma generator of relatively primitive design. A few centuries ago such generators were used everywhere to produce electricity, but now such obsolete generators are used as portable units that create and fire charges of electrified plasma.
+35	Fires at the nearest enemy within its weapon's range (<clr>250<clrEnd> million km), dealing <clr>25<clrEnd>-<clr>50<clrEnd> splinter damage.
+36	The Hyperblocker is active. Now no one will be able to leave this system.
+37	Hyperblocker
+38	MessageBox('You must be in space to activate it!');
+39	if(MessageBoxYesNo('Do you want to turn on the Hyperblocker?'))
+40	MessageBox('The Hyperblocker was successfully activated. Within a standard day its effect will reach full strength, and no ship will be able to leave the system anymore.');
+41	CustomArtTextData(CurItem(),1,'<color=20,220,20'+'>'+'Active'+'</color'+'>');
+42	if(MessageBoxYesNo('Do you want to turn off the Hyperblocker?'))
+43	MessageBox('The Hyperblocker was successfully deactivated. Within a standard day its effect will be completely nullified, allowing all ships to leave the system.');
+44	CustomArtTextData(CurItem(),1,'<color=20,220,20'+'>'+'Inactive'+'</color'+'>');
+45	A system for creating a subspace anomaly that blocks ships from leaving the system.
+46	The Hyperblocker is currently: <TextData1>
+47	(refuse to work)
+48	Another enemy shell nearly blew the entire hyperionid colony to splinters. Now they have huddled in the corners of the ship and are unlikely to want to help you.
+49	The hyperionids are tired and no longer want to work.
+50	A strange life form. It spends most of its life cycle in hyperspace. Scientists have not yet understood what these creatures are, what they feed on and why they are tolerant of being aboard a ship, but one thing is certain - flying between systems becomes faster and cheaper.
+51	Hyperionids
+52	CustomArtTextData(item,1,CT('FormInfo.br')+'Hyperionids can effectively influence an engine of unknown make, which lets them guide it between anomalies more easily.');
+53	Reduce the time the ship spends in <clr>hyperspace<clrEnd> by guiding it through anomalies that they "sense."<TextData1>
+54	Restoration Unit
+55	<color=248,252,248>This unit generates a wave of nanobots that restores <clr>80<clrEnd> units of structure to the carrier ship and <clr>45<clrEnd> units to all allied ships around it every turn within a radius of <clr>320<clrEnd> million km.</color>
+56	(damaged)
+57	Another enemy shot hit the Extender directly and burned out all the electronics. Repairs are required.
+58	The Extender's focus is completely off. Recalibration at a research station is required.
+59	Extender
+60	A set of universal focusing and amplifying elements. Used to increase the weapon range of the fleet controlled by the CAFIC. At present the CAFIC Design Bureau is working on creating an even more effective version of the Extender.
