@@ -1,0 +1,8 @@
+1	I want to dismantle dominator equipment
+2	In addition, we deconstruct dominator equipment - down to its simplest components.
+3	Among all our other services, we dismantle dominator equipment. We will keep the especially important elements we need for our work, and restructure the rest into simple <clr>nodes<clrEnd> at a ratio of 1:2
+4	So...<br><br>What do you want to hand over to our technicians for "extermination"?
+5	Excellent! The equipment has been taken, and <0> nodes have already been transferred to your hold.<br><br>We work fast, don't we?
+6	All right, let's do it
+7	No, I'm not interested in that right now
+8	I'll choose other services

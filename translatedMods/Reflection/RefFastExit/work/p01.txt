@@ -1,0 +1,1 @@
+1	Fast exit from the game completed successfully

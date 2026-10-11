@@ -1,0 +1,5 @@
+1	Script/Mod_RefAskNotPickUp/0
+2	Script/Mod_RefAskNotPickUp/1
+3	Script/Mod_RefAskNotPickUp/2
+4	Script/Mod_RefAskNotPickUp/3
+5	Script/Mod_RefAskNotPickUp/4

@@ -1,0 +1,18 @@
+1	Overclocking Stats
+2	You are, I think, aware of equipment upgrades. However, there is no limit to perfection, right?<br><br>Relatively speaking, of course. We have called everything that follows <clr>overclocking<clrEnd>, and we will explain what it is about.<br><br>Further increasing equipment capabilities without a qualitative leap (which a new generation of equipment gives us) leads to only one thing: we pay with the equipment's <color=220,20,20>durability</color>, making it work to the point of wear.<br><br>On the other hand, we get a serious boost in stats.<br>The Technology Center Network considers this practice improper, but for you as a ranger we are ready to run such a promotion.
+3	Jump range
+4	Engine speed
+5	Gripper range
+6	Gripper power
+7	Which stat should we focus on?
+8	Maybe another time
+9	Let's do it!
+10	Yes, let's upgrade something else
+11	for <0> cr.
+12	for
+13	like <color=0,50,200><0></color>
+14	(hold)
+15	So, choose the equipment you want to work with
+16	Excellent! Our specialists have already finished the work.<br><br>Would you like anything else?
+17	Firing range
+18	Weapon damage

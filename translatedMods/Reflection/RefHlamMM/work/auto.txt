@@ -1,0 +1,7 @@
+Размер: <clr>+10%<clrEnd>	Cost: <clr>+20%<clrEnd>
+Броня корпуса: <bonHull> ед.	Droid effectiveness: <bonDroid>
+Эффективность дроида: <bonDroid> ед.	Engine speed: <bonSpeed>
+Дальность прыжка: <bonJump> пк.	Jump range: <bonJump> pc
+Скорость двигателя: <bonSpeed> ед.	Engine speed: <bonSpeed>
+Мощность захвата: <bonHook> т.	Gripper power: <bonHook> t.
+Мощность сканера: <bonScan><clr>%<clrEnd>	Scanner power: <bonScan><clr>%<clrEnd>

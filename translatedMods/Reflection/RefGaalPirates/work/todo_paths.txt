@@ -1,0 +1,5 @@
+1	Script/Mod_RefGaalPirates/0
+2	Script/Mod_RefGaalPirates/1
+3	Script/Mod_RefGaalPirates/2
+4	ShipType/Fei/Otstupnik
+5	ShipType/Gaal/Otstupnik

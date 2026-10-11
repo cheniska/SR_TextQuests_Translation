@@ -1,0 +1,6 @@
+Дальность стрельбы: <bonWRadius> ед.	Commerce skill: <bonSkill4>
+Навык точности: <bonSkill1>	Attack skill: <bonSkill1>
+Скорость двигателя: <bonSpeed> ед.	Engine speed: <bonSpeed>
+Масса корабля: <bonMass>%	Commerce skill: <bonSkill4>
+Да	Yes
+Спасибо!	Thank you!

@@ -1,0 +1,18 @@
+1	GovServices site
+2	You find yourself on the GovServices site. An ordinary white site, with an icon of two corners, one blue and one light blue.<br><br>In the middle was a small rectangle with text in a font known as Times New London:<br><br>Unpaid planet landings: <0><br><br>Below, a list of available functions appeared.
+3	Finally, the loading finished...<br><br>A notification appeared before you:<br>"The automatic protection system has flagged this site as dangerous. Attackers may use it to obtain your data and extort money"
+4	Wait
+5	Wait some more
+6	Wait faster...
+7	Click "Make an exception for this site"
+8	cr. on the GovServices site.<br>Sincerely.
+9	Dear ranger!<br>It has come to the attention of our authorities that you have entered into a contract for a relationship of a special kind with a female pilot. In view of the current policy of the Galaxy Council, such relationships are considered taxable, and therefore you must pay a duty of
+10	Dear ranger! You have not paid your debts for landing on planets. Go to the GovServices site and pay the bill before it is too late.
+11	A bill appeared, which in abbreviated form read:<br><br>Due: <0> landings at a rate of <1> per unit.<br>Due: <2> special agent contracts at a rate of <3> per unit
+12	Pay debts
+13	Back
+14	All debts have been successfully paid!
+15	Back to the list
+16	You clicked the big red "PAY DEBTS" button<br><br>The button thought for a minute in the pressed state, after which the next site began loading.
+17	The site is still... Not responding
+18	Loading again

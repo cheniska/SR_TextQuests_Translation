@@ -1,0 +1,10 @@
+1	Supreme Baron
+2	Galaxy Council
+3	After the defeat of the dominators, many pilots were left with unused cloaking devices. As part of the measures to put the galaxy's controlled territories on a peaceful footing, <0> is organizing a buyback of cloaking devices - at <clr>30,000<clrEnd> cr. per unit!
+4	Excellent! The cloaking devices have been collected, and <0> cr. have already been transferred to your account!<br><br>Anything else?
+5	I want to turn in Keller's cloaking device
+6	I want to turn in Blazer's cloaking device
+7	I want to turn in Terron's cloaking device
+8	No, maybe not today
+9	Thank you, too
+10	Cloaking Device Buyback

@@ -1,0 +1,5 @@
+1	ShipInfo/AddInfo/CustomInfos/ABWeaponSets/Description
+2	ShipInfo/AddInfo/CustomInfos/ABWeaponSets_Catapult/Description
+3	ShipInfo/AddInfo/CustomInfos/ABWeaponSets_Lasers/Description
+4	ShipInfo/AddInfo/CustomInfos/ABWeaponSets_Master/Description
+5	ShipInfo/AddInfo/CustomInfos/ABWeaponSets_Royal/Description

@@ -1,0 +1,11 @@
+1	Welcome back to your home harbor, ranger! In their home system, they are always glad to warm a traveler returning from wanderings among distant stars.
+2	Wow, a new ranger! We're glad to see a new face in the sky over Rakhish - the cradle of the great Peleng civilization. It is here that thousands of all sorts of schemes are carried out, from which the Supreme Lyakushas honestly earn their living.
+3	Greetings, new ranger! We are glad to see another participant in the project of our old friends in space. We hope the plan goes as intended and this stupid war ends soon
+4	We're glad to see a new ranger in the Solar system - the cradle of the human race! It was from here that humankind began the colonization of the space around it. We'll be glad if you take a look at Earth goods.
+5	We are glad to see a new element of the galactic Iike-Baana in the native abode of the sons of Gaal! We hope your arrival in the world of cosmogonies will bring harmony and peace
+6	Greetings, space warrior! You should know that our race respects fighters, so we hope you won't disgrace the Coalition and will fight its enemies bravely.
+7	Sun
+8	Atlan
+9	Pkhedoc
+10	Taron
+11	Kraa

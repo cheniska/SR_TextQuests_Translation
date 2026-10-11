@@ -1,0 +1,15 @@
+1	Activate Blazeroid series cloaking device
+2	To the settings menu
+3	Back to cloaking device control
+4	Back to the settings menu
+5	Terronoid series
+6	Kelleroid series
+7	Blazeroid series
+8	Inactive
+9	Cloaking Device Control
+10	You have opened the cloaking device control panel.<br><br>Available cloaking devices:<br>Terronoid series: <0> pcs.<br>Blazeroid series: <1> pcs.<br>Kelleroid series: <2> pcs.<br><br>Current cloaking device: <3>
+11	The <clr>Keller<clrEnd> series cloaking device is activated!<br><br><0> cloaking devices of this series left.
+12	The <clr>Terron<clrEnd> series cloaking device is activated!<br><br><0> cloaking devices of this series left.
+13	The <clr>Blazer<clrEnd> series cloaking device is activated!<br><br><0> cloaking devices of this series left.
+14	Activate Kelleroid series cloaking device
+15	Activate Terronoid series cloaking device

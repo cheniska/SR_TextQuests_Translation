@@ -1,0 +1,8 @@
+1	MicroModuls/RefBosses_Blazer/ExText
+2	MicroModuls/RefBosses_Blazer/ExText
+3	MicroModuls/RefBosses_Blazer/ExText
+4	MicroModuls/RefBosses_Blazer/ExText
+5	MicroModuls/RefBosses_Terron/ExText
+6	MicroModuls/RefBosses_Terron/ExText
+7	MicroModuls/RefBosses_Terron/ExText
+8	MicroModuls/RefBosses_Terron/ExText

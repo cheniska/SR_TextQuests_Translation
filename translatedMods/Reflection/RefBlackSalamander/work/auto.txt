@@ -1,0 +1,2 @@
+Броня корпуса: <bonHull> ед.	Droid effectiveness: <bonDroid>
+По рукам!	Alrighty!

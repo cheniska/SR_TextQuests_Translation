@@ -1,0 +1,10 @@
+1	Script/Mod_RefHyperForsage/2
+2	Script/Mod_RefHyperForsage/3
+3	Script/Mod_RefHyperForsage/4
+4	Script/Mod_RefHyperForsage/5
+5	Script/Mod_RefHyperForsage/7
+6	Script/Mod_RefHyperForsage/8
+7	Script/Mod_RefHyperForsage/9
+8	Script/Mod_RefHyperForsage/OnlyInSpace
+9	Script/Mod_RefHyperForsage/TooDamaged
+10	ShipInfo/AddInfo/CustomInfos/RefHyperMainInfo/Description

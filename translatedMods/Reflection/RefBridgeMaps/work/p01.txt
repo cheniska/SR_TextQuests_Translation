@@ -1,0 +1,20 @@
+1	No, but these maps...
+2	Yes, send them over!
+3	No, I don't need anything else here
+4	I think I'll look around some more
+5	Information about the Commission
+6	The colorful pages of Guidenet lured you with various curiosities, but you focused your attention on the following:
+7	You already have the map of this sector!
+8	You watched a smooth animation of the sector list disappearing, illustrated by their positions on the map and a stylized display of the stars.
+9	Back to selection
+10	CAFIC Cartographic Commission
+11	This site was different from the others. Despite the stories, apparently going back centuries, about the anachronisms, blunders, glitches and bugs found on government agency websites, this site greeted you with a pleasant animation of a gradual transition to a black, starry background.
+12	You are on the Cartographic Commission site again. Once more you were greeted by the pleasant animation of the transition to a black, starry background, and you thought that it was not for nothing that they charge such prices for star maps - at least they were able to hire good programmers and artists.
+13	Select a system from the list
+14	<0> <clr>In the middle appeared an icon in the shape of the Milky Way with a parchment and compasses over it. It faded out just as smoothly, revealing the site of the CC CAF - the Cartographic Commission of the Coalition Armed Forces.<clrEnd>
+15	The map of sector <0> will cost you <1> cr.. Will you take it?
+16	Thank you for using the services of the CC CAF!<br>Would you like anything else? All our services are listed on the main page!
+17	The Cartographic Commission is a forced measure by the CAFIC. With the fronts collapsing, things have become ridiculous - at some levels the databases of the systems belonging to the Coalition have been lost. To make it easier to search for star system maps, this commission was created. It collected all available information and compiled it into special packages.<br>Although the CAFIC wanted to immediately provide the information to the ranger corps, the Galaxy Council reminded the command of the costs. In view of this, an increased rate has been set for purchasing maps from this database.
+18	I want to buy a sector map!
+19	Back to the main page
+20	No, I don't need anything here

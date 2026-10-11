@@ -1,0 +1,5 @@
+Спасибо, в другой раз	Thanks, maybe some other time
+Понятно	I see
+Мощность сканера: <bonScan><clr>%<clrEnd>	Scanner power: <bonScan><clr>%<clrEnd>
+Скорость двигателя: <bonSpeed> ед.	Engine speed: <bonSpeed>
+Мощность захвата: <bonHook> т.	Gripper power: <bonHook> t.

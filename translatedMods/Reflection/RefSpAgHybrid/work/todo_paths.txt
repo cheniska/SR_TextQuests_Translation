@@ -1,0 +1,3 @@
+1	ShipInfo/AddInfo/CustomInfos/RefAutoInstaller/Description
+2	ShipInfo/AddInfo/CustomInfos/RefAutoInstaller/Name
+3	MicroModuls/RefHybridValue/Name

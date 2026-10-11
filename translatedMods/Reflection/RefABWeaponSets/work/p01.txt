@@ -1,0 +1,5 @@
+1	Checking what we have on board our flesh-colored penis-plane... Oh, I mean the ranger's ship
+2	Remove the info item if there were 5 Treetons on board
+3	Remove the info item if there were 5 industrial lasers on board
+4	Remove the info item if there were 5 Vertices on board
+5	Remove the info item if there were 5 weapons with the highest numbers in the original game (11-15) on board

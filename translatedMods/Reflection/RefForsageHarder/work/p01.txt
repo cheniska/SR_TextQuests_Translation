@@ -1,0 +1,2 @@
+1	Info item that burns fuel from the tank
+2	Ether(8,'','Engaging the engine in afterburner mode with no fuel is a lousy idea, and the engine responded with a powerful explosion that shook the ship.');

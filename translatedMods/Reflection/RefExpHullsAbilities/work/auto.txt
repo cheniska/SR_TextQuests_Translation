@@ -1,0 +1,10 @@
+Скорость двигателя: <bonSpeed> ед.	Engine speed: <bonSpeed>
+Дальность прыжка: <bonJump> пк.	Jump range: <bonJump> pc
+Броня корпуса: <bonHull> ед.	Droid effectiveness: <bonDroid>
+Навык точности: <bonSkill1>	Attack skill: <bonSkill1>
+Навык торговли: <bonSkill4>	Commerce skill: <bonSkill4>
+Навык обаяния: <bonSkill5>	Charisma skill: <bonSkill5>
+Масса корабля: <bonMass>%	Commerce skill: <bonSkill4>
+Навык манёвренности: <bonSkill2>	Mobility skill: <bonSkill2>
+Навык техники: <bonSkill3>	Engine speed: <bonSpeed>
+Эффективность дроида: <bonDroid> ед.	Engine speed: <bonSpeed>

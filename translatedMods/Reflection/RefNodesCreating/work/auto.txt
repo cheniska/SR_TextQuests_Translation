@@ -1,0 +1,1 @@
+Возьмите <ItemName>	Take <ItemName>.

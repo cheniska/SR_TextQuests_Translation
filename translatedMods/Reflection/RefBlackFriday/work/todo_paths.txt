@@ -1,0 +1,3 @@
+1	BlackFridayNews/1
+2	BlackFridayNews/2
+3	BlackFridayNews/3

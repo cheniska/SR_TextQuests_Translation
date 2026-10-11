@@ -1,0 +1,14 @@
+1	Quest/SendLetter/117/End
+2	Quest/SendLetter/117/End
+3	Quest/SendLetter/117/End
+4	Quest/SendLetter/117/End
+5	Quest/SendLetter/117/Start
+6	Quest/SendLetter/117/Start
+7	Quest/SendLetter/117/Start
+8	UselessItems/Ref_Usl_Mahpa/Name
+9	UselessItems/Ref_Usl_Mahpa/Text
+10	UselessItems/Ref_Usl_Mahpa/OnUseCode/02/01
+11	UselessItems/Ref_Usl_Mahpa/OnUseCode/03
+12	UselessItems/Ref_Usl_Mahpa/OnUseCode/05/02/01
+13	UselessItems/Ref_Usl_Mahpa/OnUseCode/05/03
+14	UselessItems/Ref_Usl_Mahpa/OnUseCode/07/01

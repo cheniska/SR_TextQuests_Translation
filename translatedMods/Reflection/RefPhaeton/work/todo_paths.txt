@@ -1,0 +1,9 @@
+1	PlanetName/Kefron/Star
+2	PlanetName/None/090
+3	PlanetName/None/FeiNew
+4	PlanetName/None/GaalNew
+5	PlanetName/None/MalocNew
+6	PlanetName/None/PelengNew
+7	PlanetName/People/19
+8	PlanetName/People/21
+9	PlanetName/Solar/Phaeton

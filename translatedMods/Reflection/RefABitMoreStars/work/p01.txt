@@ -1,0 +1,10 @@
+1	Vega,Star.Normal
+2	Sirius,Star.Normal
+3	Folkel,Star.Small
+4	Aridia,Star.Normal
+5	Orelis,Star.Normal
+6	Merga,Star.Small
+7	Saberrel,Star.Small
+8	Sinistra,Star.Normal
+9	Alvirra,Star.Normal
+10	Etamin,Star.Small

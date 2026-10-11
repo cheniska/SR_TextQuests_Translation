@@ -1,0 +1,8 @@
+Скорость двигателя: <bonSpeed> ед.	Engine speed: <bonSpeed>
+Дальность прыжка: <bonJump> пк.	Jump range: <bonJump> pc
+Мощность захвата: <bonHook> т.	Gripper power: <bonHook> t.
+Размер: <clr>+30%<clrEnd>	Size: <clr>+80%<clrEnd>
+Масса корабля: <bonMass><clr>%<clrEnd>	Ship mass: <bonMass><clr>%<clrEnd>
+Броня корпуса: <bonHull> ед.	Droid effectiveness: <bonDroid>
+Мощность сканера: <bonScan><clr>%<clrEnd>	Scanner power: <bonScan><clr>%<clrEnd>
+Эффективность дроида: <bonDroid> ед.	Engine speed: <bonSpeed>

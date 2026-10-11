@@ -1,0 +1,4 @@
+1	GalaxyNews/BK/BKRespawned
+2	GalaxyNews/BK/BKRespawned
+3	GalaxyNews/BK/DeadAllBKDebt
+4	GalaxyNews/BK/DeadAllBKDeposit

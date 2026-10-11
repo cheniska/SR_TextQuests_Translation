@@ -1,0 +1,5 @@
+1	MicroModuls/Disintegrator_Streicio/Name
+2	MicroModuls/Disintegrator_Streicio/Text
+3	MicroModuls/Disintegrator_Streicio/Text
+4	MicroModuls/Disintegrator_Streicio/Text
+5	MicroModuls/Disintegrator_Streicio/Text

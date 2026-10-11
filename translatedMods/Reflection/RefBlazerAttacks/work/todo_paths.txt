@@ -1,0 +1,8 @@
+1	Script/Mod_RefBlazerAttacks/0
+2	Script/Mod_RefBlazerAttacks/1
+3	Script/Mod_RefBlazerAttacks/2
+4	Script/Mod_RefBlazerAttacks/24
+5	Script/Mod_RefBlazerAttacks/26
+6	Script/Mod_RefBlazerAttacks/3
+7	Script/Mod_RefBlazerAttacks/53
+8	Script/Mod_RefBlazerAttacks/55

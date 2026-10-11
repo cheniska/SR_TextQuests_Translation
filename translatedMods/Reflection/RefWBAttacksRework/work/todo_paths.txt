@@ -1,0 +1,4 @@
+1	Script/Mod_RefWBAttacksRework/0
+2	ShipInfo/AddInfo/CustomInfos/RefAttackerInfo/Description
+3	ShipInfo/AddInfo/CustomInfos/RefAttackerInfo/Name
+4	ShipInfo/AddInfo/CustomInfos/RefWBInfo/Description

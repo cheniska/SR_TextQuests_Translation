@@ -1,0 +1,13 @@
+1	GoodsNews/DrugsSale1
+2	GoodsNews/DrugsSale2
+3	GoodsNews/DrugsSale3
+4	GoodsNews/DrugsBuy1
+5	GoodsNews/DrugsBuy2
+6	GoodsNews/DrugsBuy3
+7	GoodsNews/MineralsBuy1
+8	GoodsNews/MineralsBuy2
+9	GoodsNews/MineralsBuy3
+10	GoodsNews/MineralsSale1
+11	GoodsNews/MineralsSale2
+12	GoodsNews/MineralsSale3
+13	GoodsNews/Zabastcom1

@@ -1,0 +1,9 @@
+1	Well, it's up to you, <Player>. Just don't sulk and don't ask later why the bros are mad at you
+2	Well, that's it. And how much the bros like your deeds depends on how much you put in, heh-heh. Well, stay healthy!
+3	Well, let's make a contribution
+4	How much money do you want to put into the common fund?
+5	Nah, maybe not now
+6	And may you live without ailments, too
+7	Hey! You don't have that much money. Think better, pal
+8	The bros misunderstood you? The new temporary administration doesn't want to know you? Well-l-l... What can you do, it happens. You know, one bro misunderstood, called another, he called a third... And then he fired, you fired, and now everyone is unhappy with your behavior. Well, it's nothing - you can always chip in some cash to the <clr>common fund<clrEnd>. Such actions are highly respected and will help restore your reputation.
+9	Guys, the bros are pressing me pretty hard here, we need to talk things over...

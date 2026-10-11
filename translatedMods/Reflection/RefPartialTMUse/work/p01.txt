@@ -1,0 +1,25 @@
+1	Activating Transfactorial Beacons
+2	Transfactorial beacon (wt t., race, charge pw)
+3	Use (insufficient charge)
+4	Transfactorial beacon (wt t., charge pw)
+5	pirate
+6	unknown make
+7	dominator
+8	gaal
+9	faeyan
+10	human
+11	peleng
+12	maloq
+13	From here you can manage the transfactorial beacons aboard your ship.<br><br>Select the beacon you need
+14	Select the charge you want to transfer to the chosen beacon
+15	Back to the choice of actions for this beacon
+16	Back to beacon management
+17	Select the charge you want to use
+18	Note! During this operation 10% of the transferred energy will be irretrievably lost!
+19	Transfactorial beacon<br>Mass: <0> t.<br>Charge: <1> units<br>Race: <2><br><br>What do you intend to do?
+20	Select the beacon to which the energy from the chosen one will be transferred
+21	Beacon used successfully!
+22	Charge transferred successfully
+23	Use
+24	Transfer energy to another beacon
+25	Back to the bridge

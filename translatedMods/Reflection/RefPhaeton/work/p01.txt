@@ -1,0 +1,9 @@
+1	Cephron
+2	Tatun
+3	Tristeria
+4	Deeva
+5	Garkharl
+6	Cheshilan
+7	Akra
+8	Concord Dawn
+9	Phaeton

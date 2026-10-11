@@ -1,0 +1,5 @@
+1	Hey, buddy, how about leaving alone those things I'm about to pick up?
+2	What? I'm not doing anything for you. Get lost!
+3	Oh, all right, fine - I'm updating my task list. Pick up whatever you want.
+4	Oh, all right...
+5	Thanks for the favor.

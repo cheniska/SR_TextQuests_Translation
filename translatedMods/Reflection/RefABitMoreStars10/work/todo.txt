@@ -1,0 +1,20 @@
+1	Вега,Star.Normal
+2	Сириус,Star.Normal
+3	Фолкель,Star.Small
+4	Аридия,Star.Normal
+5	Орелис,Star.Normal
+6	Мерга,Star.Small
+7	Саберрел,Star.Small
+8	Синистра,Star.Normal
+9	Альвирра,Star.Normal
+10	Этамин,Star.Small
+11	Альдерамин,Star.Normal
+12	Арнеб,Star.Small
+13	Китальфа,Star.Small
+14	Виндематрикс,Star.Normal
+15	Вельста,Star.Normal
+16	Алькор,Star.Normal
+17	Алферац,Star.Small
+18	Асцелла,Star.Normal
+19	Мира,Star.Small
+20	Кор Кароли,Star.Normal

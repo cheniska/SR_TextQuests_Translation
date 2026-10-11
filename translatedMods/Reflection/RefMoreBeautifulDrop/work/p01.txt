@@ -1,0 +1,4 @@
+1	Return the drop to its normal state
+2	Like NPCs
+3	Make the drop smoother, like NPCs do
+4	Dropping items from the hold: <0>

@@ -1,0 +1,4 @@
+1	Dear client!
+2	We are pleased to inform you that we have restored one of our branches, along with your credit history. We recommend that you review the current state of your accounts.
+3	Your loan of <Money> cr has been frozen until the Business Center Network branch is restored.
+4	Your deposit account of <Money> cr has been transferred to the planetary banking networks. You will be able to access it once the Business Center Network branch is restored.

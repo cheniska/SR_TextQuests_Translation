@@ -1,0 +1,8 @@
+1	<color=248,252,248>Aura:</color> <clr>Fury<clrEnd>
+2	<color=139,0,248>Defeating Blazer released an incredible amount of energy. A colossally small part of that energy has charged your ship, noticeably strengthening it.</color>
+3	Ship <clr>speed<clrEnd> increased
+4	<clr>Damage<clrEnd> dealt by the ship increased
+5	<color=248,252,248>Aura:</color> <clr>Absorption<clrEnd>
+6	<color=248,252,248>Defeating Terron released an incredible amount of energy. A colossally small part of that energy has charged your ship, noticeably strengthening it.</color>
+7	Ship <clr>armor<clrEnd> increased
+8	<clr>Hull regeneration<clrEnd> increased

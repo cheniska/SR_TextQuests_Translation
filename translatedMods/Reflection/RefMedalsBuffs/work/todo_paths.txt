@@ -1,0 +1,12 @@
+1	ShipInfo/AddInfo/CustomInfos/RefMedalsBlackHeart/Description
+2	ShipInfo/AddInfo/CustomInfos/RefMedalsBlackHeart/OnActCode/03/03/03/03/05
+3	ShipInfo/AddInfo/CustomInfos/RefMedalsController/Description
+4	ShipInfo/AddInfo/CustomInfos/RefMedalsController/OnActCode/02/12
+5	ShipInfo/AddInfo/CustomInfos/RefMedalsController/OnActCode/04/14
+6	ShipInfo/AddInfo/CustomInfos/RefMedalsController/OnActCode/06/13
+7	ShipInfo/AddInfo/CustomInfos/RefMedalsController/OnActCode/08/12
+8	ShipInfo/AddInfo/CustomInfos/RefMedalsController/OnActCode/10/12
+9	ShipInfo/AddInfo/CustomInfos/RefMedalsController/OnActCode/12/12
+10	ShipInfo/AddInfo/CustomInfos/RefMedalsController/OnActCode/14/11
+11	ShipInfo/AddInfo/CustomInfos/RefMedalsController/OnActCode/16/03
+12	ShipInfo/AddInfo/CustomInfos/RefMedalsController/OnActCode/18/04

@@ -1,0 +1,9 @@
+1	Script/Mod_RefPayForPiratesRelations/10
+2	Script/Mod_RefPayForPiratesRelations/11
+3	Script/Mod_RefPayForPiratesRelations/12
+4	Script/Mod_RefPayForPiratesRelations/13
+5	Script/Mod_RefPayForPiratesRelations/14
+6	Script/Mod_RefPayForPiratesRelations/15
+7	Script/Mod_RefPayForPiratesRelations/16
+8	Script/Mod_RefPayForPiratesRelations/2
+9	Script/Mod_RefPayForPiratesRelations/9

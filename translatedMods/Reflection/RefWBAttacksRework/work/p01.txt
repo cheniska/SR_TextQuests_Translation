@@ -1,0 +1,4 @@
+1	Ranger, please don't distract our crew. We are heading to the Military Base and cannot and will not respond to outside requests.
+2	Participant in an attack launched by a military base (flag 1 means the soldier took off from the base and will have to be returned later)
+3	Info accumulator
+4	Attacking Military Base

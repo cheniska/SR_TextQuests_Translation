@@ -1,0 +1,5 @@
+1	"Streicio"
+2	<color=248,252,248> A powerful projectile accelerator unit and local field suppression systems make it possible to</color> <clr>ignore the defense<clrEnd> <color=248,252,248> of the target.</color><br>
+3	Firing range: <clr>-60<clrEnd> units
+4	Energy weapon damage: <clr>+15<clrEnd> units
+5	<color=248,252,248> Additional effect:</color> <clr>ignores defense<clrEnd>

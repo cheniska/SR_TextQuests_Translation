@@ -1,0 +1,3 @@
+Галактика	Galaxy
+Гигант	Giant
+Тюрьма	Prison
