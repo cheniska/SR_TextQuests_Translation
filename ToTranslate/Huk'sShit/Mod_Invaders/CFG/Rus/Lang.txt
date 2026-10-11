@@ -1,0 +1,452 @@
+Balance_Panel ^{
+    Mod_Invaders_text ^{
+        IMBA_CostCreate=Цена создания ИМБЫ(в обломках): <value>%
+        IMBA_btn=изменить
+        IMBA_btn_text_box=Введите новое значение:
+        IMBA_standart=стандартные
+        IMBA_up=Параметры при <clr>улучшении<clrEnd> ИМБЫ:
+        InvadersStarMax=Предел рождаемости арксов в системе: <value>
+        UpgradeIMBA ^{
+            UpgradeIMBA_Cost=-цена: <value>%
+            UpgradeIMBA_MaxDmg=-максимальный урон: <value>
+            UpgradeIMBA_MinDmg=-минимальный урон: <value>
+            UpgradeIMBA_Range=-дальность: <value>
+            UpgradeIMBA_Size=-вес: <value>%
+        }
+    }
+    mods ^{
+        CustomForm_Mod_Invaders=Mod_Invaders
+    }
+}
+FormInfo ^{
+    StarInfo ^{
+        ControlledByAMod_Invaders=Контролируется арксами
+    }
+}
+GalaxyNews ^{
+    Group ^{
+        WarriorLiberator ^{
+            CreateAMod_Invaders=В системе <StarNormal> (сектор <SectorNormal>) замечена активная деятельность военных. По заключению наших аналитиков, военные планируют нанести удар <Date> по захваченной арксами системе <StarEnemy>. Если это так, то просьба всем заинтересованным рейнджерам помочь нашим вооруженным силам.
+        }
+    }
+}
+Items ^{
+    CustomCountables ^{
+        AMod_InvadersParts ^{
+            Name=Обломки Арксов
+            Text=Повреждённое оборудование из неизвестных материалов.
+        }
+    }
+    Weapon ^{
+        Missile ^{
+            ArksGun4 ^{
+                Name=Торпеда И.М.Б.А
+                Text=Самонаводящаяся торпеда
+            }
+        }
+        Name ^{
+            ArksGun1=И.М.Б.А
+            ArksGun2=И.М.Б.А
+            ArksGun4=И.М.Б.А
+        }
+        Text ^{
+            ArksGun1=Поражает цель мощным энергетическим лучом, нанося <CntAttacks>x(<MinDamage>-<MaxDamage>)<Bonus> ед. урона на дистанции до <Radius>.<br>Дополнительные эффекты неизвестны.
+            ArksGun2=Поражает цель крупнокалиберными снарядами, нанося от <CntAttacks>x(<MinDamage> до <MaxDamage>)<Bonus> ед. ущерба на расстоянии до <Radius>.<br>Дополнительные эффекты неизвестны.
+            ArksGun4=Торпеды, оснащенные биполяризатором антиматерии, наносят от <CntShots>x(<MinDamage> до <MaxDamage>)<Bonus> ед. ущерба цели.<br>Количество: <Count>/<MaxCount> шт.<br>Дополнительные эффекты неизвестны.
+        }
+    }
+}
+MicroModuls ^{
+    AMod_InvadersHull1 ^{
+        CustomTag=InvadersHull1
+        Equipments=Hull
+        KindGraph=InvadersHull1
+        Name=--
+        Priority=0
+        Special=1
+    }
+    AMod_InvadersHull2 ^{
+        CustomTag=InvadersHull2
+        Equipments=Hull
+        KindGraph=InvadersHull2
+        Name=--
+        Priority=0
+        Special=1
+    }
+    AMod_InvadersHull3 ^{
+        CustomTag=InvadersHull3
+        Equipments=Hull
+        HullGraphSize=150
+        KindGraph=InvadersHull3
+        Name=--
+        Priority=0
+        Special=1
+    }
+}
+Mod_Invaders ^{
+    ActCode ^{
+        castGun ^{
+            01=[t_OnWeaponShot,t_OnMissileShot2|]
+            02=if(ScriptItemActionType(t_OnWeaponShot))
+            03 ^{
+                01=if(ItemType(ScriptItemActObject2())!=t_CustomWeapon)exit;
+                02=if(CustomWeaponType(ScriptItemActObject2())!=gunName[0])exit;
+                03=if(ObjectType(ScriptItemActObject1())==4 || ObjectType(ScriptItemActObject1())==5)
+                04 ^{
+                    01=if(ShipCustomFaction(ScriptItemActObject1())!='AMod_Invaders')exit;
+                    02=ScriptItemActParam(ScriptItemActParam()*2);
+                }
+            }
+            05=if(ScriptItemActionType(t_OnMissileShot2))
+            06 ^{
+                01=if(CustomMissileType(ScriptItemActObject2())!=gunName[0])exit;
+                02=if(ObjectType(ScriptItemActObject1())==4 || ObjectType(ScriptItemActObject1())==5)
+                03 ^{
+                    01=if(ShipCustomFaction(ScriptItemActObject1())!='AMod_Invaders')exit;
+                    02=MissileMaxDamage(ScriptItemActObject2(),MissileMaxDamage(ScriptItemActObject2())*2);
+                    03=MissileMinDamage(ScriptItemActObject2(),MissileMinDamage(ScriptItemActObject2())*2);
+                }
+            }
+        }
+        obj1 ^{
+            01=if(ScriptItemActionType(t_OnTakingDamage))ScriptItemActParam(0);
+            03=if(ScriptItemActionType(t_OnGettingWeaponHit))
+            04 ^{
+                01=if(ScriptItemActObject1()==Player())
+                02 ^{
+                    01=if(ItemType(ScriptItemActObject2())==t_CustomWeapon)
+                    02 ^{
+                        01=if(CustomWeaponType(ScriptItemActObject2())==gunName[0])gunName0=gunName[0];
+                    }
+                }
+            }
+            05=if(ScriptItemActionType(t_OnTakingDamageEn))
+            06 ^{
+                01=if(gunName0==gunName[0])
+                02 ^{
+                    01=int0=ScriptItemActParam()*10;
+                    02=ScriptItemActParam(int0);
+                    03=arcArray[1,1]=arcArray[1,1]+int0;
+                    04=gunName0=0;
+                }
+                03=else ScriptItemActParam(0);
+            }
+            07=if(ScriptItemActionType(t_OnTakingDamageSp))
+            08 ^{
+                01=if(gunName0==gunName[0])
+                02 ^{
+                    01=int0=ScriptItemActParam()*10;
+                    02=ScriptItemActParam(int0);
+                    03=arcArray[1,1]=arcArray[1,1]+int0;
+                    04=gunName0=0;
+                }
+                03=else ScriptItemActParam(0);
+            }
+            09=if(ScriptItemActionType(t_OnTakingDamageMi))
+            10 ^{
+                01=if(CustomMissileType(ScriptItemActObject1())==gunName[0])
+                02 ^{
+                    01=int0=ScriptItemActParam()*10;
+                    02=ScriptItemActParam(int0);
+                    03=arcArray[1,1]=arcArray[1,1]+int0;
+                }
+                03=else ScriptItemActParam(0);
+            }
+        }
+        obj2 ^{
+            01=if(ScriptItemActionType(t_OnTakingDamage))ScriptItemActParam(0);
+            03=if(ScriptItemActionType(t_OnGettingWeaponHit))
+            04 ^{
+                01=if(ScriptItemActObject1()==Player())
+                02 ^{
+                    01=if(ItemType(ScriptItemActObject2())==t_CustomWeapon)
+                    02 ^{
+                        01=if(CustomWeaponType(ScriptItemActObject2())==gunName[0])gunName0=gunName[0];
+                    }
+                }
+            }
+            05=if(ScriptItemActionType(t_OnTakingDamageEn))
+            06 ^{
+                01=if(gunName0==gunName[0])
+                02 ^{
+                    01=int0=ScriptItemActParam()*10;
+                    02=ScriptItemActParam(int0);
+                    03=arcArray[2,1]=arcArray[2,1]+int0;
+                    04=gunName0=0;
+                }
+                03=else ScriptItemActParam(0);
+            }
+            07=if(ScriptItemActionType(t_OnTakingDamageSp))
+            08 ^{
+                01=if(gunName0==gunName[0])
+                02 ^{
+                    01=int0=ScriptItemActParam()*10;
+                    02=ScriptItemActParam(int0);
+                    03=arcArray[2,1]=arcArray[2,1]+int0;
+                    04=gunName0=0;
+                }
+                03=else ScriptItemActParam(0);
+            }
+            09=if(ScriptItemActionType(t_OnTakingDamageMi))
+            10 ^{
+                01=if(CustomMissileType(ScriptItemActObject1())==gunName[0])
+                02 ^{
+                    01=int0=ScriptItemActParam()*10;
+                    02=ScriptItemActParam(int0);
+                    03=arcArray[2,1]=arcArray[2,1]+int0;
+                }
+                03=else ScriptItemActParam(0);
+            }
+        }
+        obj3 ^{
+            01=if(ScriptItemActionType(t_OnTakingDamage))ScriptItemActParam(0);
+            03=if(ScriptItemActionType(t_OnGettingWeaponHit))
+            04 ^{
+                01=if(ScriptItemActObject1()==Player())
+                02 ^{
+                    01=if(ItemType(ScriptItemActObject2())==t_CustomWeapon)
+                    02 ^{
+                        01=if(CustomWeaponType(ScriptItemActObject2())==gunName[0])gunName0=gunName[0];
+                    }
+                }
+            }
+            05=if(ScriptItemActionType(t_OnTakingDamageEn))
+            06 ^{
+                01=if(gunName0==gunName[0])
+                02 ^{
+                    01=int0=ScriptItemActParam()*10;
+                    02=ScriptItemActParam(int0);
+                    03=arcArray[3,1]=arcArray[3,1]+int0;
+                    04=gunName0=0;
+                }
+                03=else ScriptItemActParam(0);
+            }
+            07=if(ScriptItemActionType(t_OnTakingDamageSp))
+            08 ^{
+                01=if(gunName0==gunName[0])
+                02 ^{
+                    01=int0=ScriptItemActParam()*10;
+                    02=ScriptItemActParam(int0);
+                    03=arcArray[3,1]=arcArray[3,1]+int0;
+                    04=gunName0=0;
+                }
+                03=else ScriptItemActParam(0);
+            }
+            09=if(ScriptItemActionType(t_OnTakingDamageMi))
+            10 ^{
+                01=if(CustomMissileType(ScriptItemActObject1())==gunName[0])
+                02 ^{
+                    01=int0=ScriptItemActParam()*10;
+                    02=ScriptItemActParam(int0);
+                    03=arcArray[3,1]=arcArray[3,1]+int0;
+                }
+                03=else ScriptItemActParam(0);
+            }
+        }
+    }
+    DefaultValue ^{
+        IMBA_CostCreate=100
+        InvadersStarMax=20
+        UpgradeIMBA_Cost=-10
+        UpgradeIMBA_MaxDmg=10
+        UpgradeIMBA_MinDmg=10
+        UpgradeIMBA_Range=20
+        UpgradeIMBA_Size=-10
+    }
+}
+Planet ^{
+    AMod_Invaders ^{
+        Info ^{
+            TextAboutPlanet=Проживающая раса <Race>
+            TextAboutPlanet=Находится под контролем арксов
+            TextAboutPlanet=Посадку совершить невозможно
+        }
+    }
+}
+Script ^{
+    mod_invaders ^{
+        2=<0>
+    }
+}
+ShipInfo ^{
+    AddInfo ^{
+        CustomInfos ^{
+            AMod_Invaders ^{
+                Description=--
+                Icon=0
+                Name=--
+                OnActCode ^{
+                    00=if(ScriptItemActionType(t_OnTakingDamage))ScriptItemActParam(0);
+                    01=if(ScriptItemActionType(t_OnGettingWeaponHit))
+                    02 ^{
+                        00=if(ScriptItemActObject1()==Player())
+                        01 ^{
+                            00=if(ItemType(ScriptItemActObject2())==t_CustomWeapon)
+                            01 ^{
+                                00=if(CustomWeaponType(ScriptItemActObject2())==gunName[0])gunName0=gunName[0];
+                            }
+                        }
+                    }
+                    03=if(ScriptItemActionType(t_OnTakingDamageEn))
+                    04 ^{
+                        00=if(gunName0==gunName[0])
+                        01 ^{
+                            00=int0=ScriptItemActParam()*25;
+                            01=ScriptItemActParam(int0);
+                            02=arcArray[1,1]=arcArray[1,1]+int0;
+                            03=gunName0=0;
+                        }
+                        02=else ScriptItemActParam(0);
+                    }
+                    05=if(ScriptItemActionType(t_OnTakingDamageSp))
+                    06 ^{
+                        00=if(gunName0==gunName[0])
+                        01 ^{
+                            00=int0=ScriptItemActParam()*25;
+                            01=ScriptItemActParam(int0);
+                            02=arcArray[1,1]=arcArray[1,1]+int0;
+                            03=gunName0=0;
+                        }
+                        02=else ScriptItemActParam(0);
+                    }
+                    07=if(ScriptItemActionType(t_OnTakingDamageMi))
+                    08 ^{
+                        00=if(CustomMissileType(ScriptItemActObject1())==gunName[0])
+                        01 ^{
+                            00=int0=ScriptItemActParam()*13;
+                            01=ScriptItemActParam(int0);
+                            02=arcArray[1,1]=arcArray[1,1]+int0;
+                        }
+                        02=else ScriptItemActParam(0);
+                    }
+                }
+                OnActCodeTypes=t_OnTakingDamage,t_OnGettingWeaponHit,t_OnTakingDamageEn,t_OnTakingDamageSp,t_OnTakingDamageMi
+            }
+            AMod_Invaders0 ^{
+                Description=--
+                Icon=0
+                Name=--
+                OnActCode ^{
+                    00=if(ScriptItemActionType(t_OnStep, 0))
+                    01 ^{
+                        00=dword ship=ScriptItemActShip();
+                        01=int dKoef=ShipCustomShipInfoData(0,CurInfo(),1);
+                        02=int damage=0;
+                        03=int fSgCD=ShipCustomShipInfoData(0,CurInfo(),2);
+                        04=if(fSgCD<=CurTurn())
+                        05 ^{
+                            00=if(ItemDurability(ShipEqInSlot(ship,t_Engine))>15)
+                            01 ^{
+                                00=if(ShipGetBad(ship))
+                                01 ^{
+                                    00=int fSgS=ShipSpeed(ship);
+                                    01=int fSgD=Dist(ship,ShipGetBad(ship));
+                                    02=if(fSgD>fSgS && fSgD<=fSgS*2)OrderForsage(ship,1);
+                                }
+                            }
+                        }
+                    }
+                    02=if(ScriptItemActionType(t_OnDealingDamage))
+                    03 ^{
+                        01=if(ShipOwner(ScriptItemActObject1())==5)
+                        02 ^{
+                            00=damage=ScriptItemActParam()*dKoef;
+                            01=damage=damage/100;
+                            02=damage=ScriptItemActParam()+damage;
+                        }
+                        03=else damage=ScriptItemActParam();
+                        03custom_imbas_in_arx_system_must_die=if(ShipCustomFaction(ScriptItemActObject1())!='')damage=damage*100;
+                        04=ScriptItemActParam(damage);
+                    }
+                    04=if(ScriptItemActionType(t_OnReduceEqForsage))ScriptItemActParam(0);
+                    05=if(ScriptItemActionType(t_OnStep, 11))
+                    06 ^{
+                        00=if(OrderForsage(ship))
+                        01 ^{
+                            00=OrderForsage(ship,0);
+                            01=ShipCustomShipInfoData(0,CurInfo(),2,CurTurn()+Rnd(3,7));
+                        }
+                    }
+                }
+                OnActCodeTypes=t_OnDealingDamage,t_OnReduceEqForsage
+                OnActStepTypes=0,11
+            }
+            AMod_Invaders1 ^{
+                Description=--
+                Icon=0
+                Name=--
+                OnActCode ^{
+                    00=if(ScriptItemActionType(t_OnStep, 0))
+                    01 ^{
+                        00=int dKoef=ShipCustomShipInfoData(0,CurInfo(),1);
+                        01=int damage=0;
+                    }
+                    02=if(ScriptItemActionType(t_OnDealingDamage))
+                    03 ^{
+                        01=if(ShipOwner(ScriptItemActObject1())==5)
+                        02 ^{
+                            00=damage=ScriptItemActParam()*dKoef;
+                            01=damage=damage/100;
+                            02=damage=ScriptItemActParam()+damage;
+                        }
+                        03=else damage=ScriptItemActParam();
+                        03custom_imbas_in_arx_system_must_die=if(ShipCustomFaction(ScriptItemActObject1())!='')damage=damage*100;
+                        04=ScriptItemActParam(damage);
+                    }
+                }
+                OnActCodeTypes=t_OnDealingDamage
+                OnActStepTypes=0
+            }
+            AMod_Invaders2 ^{
+                Description=--
+                Icon=0
+                Name=--
+                OnActCode ^{
+                    00=if(ScriptItemActionType(t_OnStep, 0))
+                    01 ^{
+                        00=int dKoef=ShipCustomShipInfoData(0,CurInfo(),1);
+                        01=int damage=0;
+                    }
+                    02=if(ScriptItemActionType(t_OnDealingDamage))
+                    03 ^{
+                        01=if(ShipOwner(ScriptItemActObject1())==5)
+                        02 ^{
+                            00=damage=ScriptItemActParam()*dKoef;
+                            01=damage=damage/100;
+                            02=damage=ScriptItemActParam()+damage;
+                        }
+                        03=else damage=ScriptItemActParam();
+                        03custom_imbas_in_arx_system_must_die=if(ShipCustomFaction(ScriptItemActObject1())!='')damage=damage*100;
+                        04=ScriptItemActParam(damage);
+                    }
+                }
+                OnActCodeTypes=t_OnDealingDamage
+                OnActStepTypes=0
+            }
+        }
+    }
+}
+ShipType ^{
+    Dominator ^{
+        Keller ^{
+            AMod_Invaders0=
+            AMod_Invaders1=
+            AMod_Invaders2=
+        }
+    }
+    TypeName ^{
+        AMod_Invaders0=Аркс
+        AMod_Invaders1=Аркс
+        AMod_Invaders2=Аркс
+        AMod_InvadersRuin=Неизвестный объект
+    }
+}
+UselessItems ^{
+    ArksItem ^{
+        Cost=Small
+        Name=Неизвестный предмет
+        Owner=Peleng
+        Size=30
+        Text=Неизвестный предмет из неизвестного объекта.
+    }
+}

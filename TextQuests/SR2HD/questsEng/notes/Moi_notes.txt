@@ -42,7 +42,7 @@ Loc276-7 | СОМНЕНИЕ | Примеры подсказок про "ключ
 === ТЕРМИНЫ (новые слова, транслитерация) ===
 Иикэ-Баана/иикэ-баанист = Iike-Baana/Iike-Baanist (решение пользователя; в КР1 было Eeke-Baana); расы: Peleng (сущ.; прил. — Pelengan), Maloq, Human (раса с заглавной; "human race" = человечество, строчная), Gaalian, Klissan, Faeyan; Hachball; Содружество = Commonwealth (в RU без "Галактическое"); КДВ = Space Marines; Хрепка = The Hturnip; патч 45.058 БУ = BOO; пенчекряк = penchecrakus (мн. penchecrakuses, как в KR1); крямбусина = kryambusina; жвырклац = zhvyrklats; кракозябки = krakozyabki; лякуша Тапек = lyakusha Tapek; гобзавр = gobsaur (как в KR1);
 стреглячки = dragonflitters (мой вымысел по "стрекозам", Loc46-1); брюхозавр = bellysaur (Path206b, Path414b);
-Втыкилла = Vtykilla (Loc28-1); Вжог/Вдолб/Вздуй = Vzhog/Vdolb/Vzduy (звукоподражательные имена, Loc88-1);
+Втыкилла = Tokilla (Loc28-1); Вжог/Вдолб/Вздуй = Vzhog/Vdolb/Vzduy (звукоподражательные имена, Loc88-1);
 Демутантоид Зомбилынский = Demutantoid Zombilynsky; Гнус Злопакостников = Gnus Zlopakostnikov; Муудрый Старшина = Wiiise Sarge.
 
 === ПАРОДИИ (переведены буквально) ===
