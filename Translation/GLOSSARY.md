@@ -3244,3 +3244,17 @@
 | ящик «гиру» | "giru" box |  |
 | ящик «Гуудини» | "Houdini" |  |
 | …зал (Круглый, Овальный, Квадратный, Треугольный, Красный, Жёлтый, Синий, Голубой, Зелёный, Белый, Чёрный, Фиолетовый, Дубовый, Концертный) | Round/Oval/Square/Triangular/Red/Yellow/Blue/Gay/Green/White/Black/Violet/Oak/Concert Hall | Spy |
+| Воротилов (министр, PBNewMaps) | Vorotilov | PBNewMaps |
+| Гектор Гарин | Hector Garin | PBNewMaps |
+| Ряна-Модин (остров) | Ryana-Modin | PBNewMaps |
+| Кродат (остров и игра) | Krodat | PBNewMaps |
+| корсар Коса | the corsair Kosa | PBNewMaps |
+| Райские кущи (остров) | Paradise Groves | PBNewMaps |
+| отец Сидор | Father Sidor | PBNewMaps |
+| Арнор Шварценигер | Arnor Schwarzenigger | PBNewMaps |
+| Кавардак | Kavardak | PBNewMaps |
+| ГОПК (глубинный океанический подземный комплекс) | DOUC (deep oceanic underground complex) | PBNewMaps |
+| ИБР (идеальный боевой робот) | ICR (ideal combat robot) | PBNewMaps |
+| ЗНС (закрытый научный сектор) | CSS (Closed Science Sector) | PBNewMaps |
+| вертибёрд | vertibird | PBNewMaps |
+| гракробах | grakrobakh | PBNewMaps |
