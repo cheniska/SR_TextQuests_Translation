@@ -1,0 +1,45 @@
+1	Volskoy
+2	Big Nut
+3	Figure Eight
+4	Named after Gork
+5	Named after Mork
+6	Named after Gork and Mork
+7	Named after Mork and Gork
+8	Radio Miracle
+9	Cosmos HE
+10	Trampoline-R
+11	Golden Nanocircuits
+12	Devil's Wheel
+13	Lucky Soldering Iron
+14	Malonicles
+15	Named after Koorolyov
+16	Named after Yakoovlev
+17	Named after Geller
+18	Toasterworks
+19	Ivicus Mechanicus
+20	Named after Tuu-Polev
+21	Named after Belisarius Cawl
+22	Horns and Hooves
+23	Named after Vernik Magnus Brownred
+24	Named after Perturabo
+25	Named after Alpharius
+26	Named after Omegon
+27	Named after Dorn
+28	Clockwork City
+29	Research ship "Artimida" [1987]
+30	Tech level: unknown
+31	Durability: unknown
+32	Armor: 5
+33	Additional functions: special "Railgun" weapon, void shield projector
+34	<Player>, we have finished work on the ship, you can inspect it in the warehouse of our station
+35	Excellent! We will be glad to see how well our new creation turned out
+36	Trade ship "Ascalon" [3000]
+37	Armor: 50
+38	Additional functions: hangars with self-replicating nanites programmed to repair the hull
+39	Pirate dreadnought "Bulwark" [2500]
+40	Additional functions: ability to install twin or triple combat weapons
+41	Warship "Brogg's Fist" [1000]
+42	Additional functions: military positronic AI that lets the ship ignore the enemy's protection in 10% of cases, and once a month overclock the weapons for three days to deal 100% damage with any shot
+43	Carrier "Friend" [2000]
+44	Armor: 10
+45	Additional functions: missile curtain, ability to launch allied pilots from the internal hangars

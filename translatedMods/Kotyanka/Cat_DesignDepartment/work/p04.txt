@@ -1,0 +1,55 @@
+191	Califica
+192	A third-level micromodule. Affects the atomic component of the material of any item (except the hull), slightly increasing the item's size. Because the material of the parts is changed, the product's price drops <clr>5<clrEnd> times, which makes the subsequent repairs profitable. Manipulations with the equipment's material are possible only if it was made by the "<clr>Stellar<clrEnd>" company.
+193	A third-level micromodule. Adds to missiles a light additional module with an engine that slightly increases the speed of each munition. Compatible only with "<clr>Stellar<clrEnd>" company equipment.
+194	Controller
+195	A third-level micromodule. An auxiliary computing module that lets the onboard computer control one more probe. Compatible only with "<clr>Stellar<clrEnd>" company hulls.
+196	<clr>+1<clrEnd> to the limit of controlled probes
+197	Activator
+198	A third-level micromodule. Activates the equipment's reserve systems, at the cost of wear resistance but with an increase in performance. Compatible only with "<clr>Stellar<clrEnd>" company hulls.
+199	Reliability: <clr>-20%<clrEnd>
+200	Micromodule installation: prohibited.
+201	Asteroid damage reduction: <bonResistAsteroid>%
+202	<color=248,252,248>A specialized hull of the "<clr>Stellar<clrEnd>" company. Intended primarily for <clr>"peaceful"<clrEnd> operations, diplomatic or tourist flights, but it also remains convenient to operate when used for charter flights. Originally it was leased by prior appointment to high-ranking officials, diplomats or businessmen. Now it has gone on sale in limited batches. Can be purchased only at branches of the "<clr>Design Bureau<clrEnd>".</color>
+203	<color=248,252,248>A hull created by the Design Bureau on a personal order.</color>
+204	<color=248,252,248>A universal hull of the "<clr>Stellar<clrEnd>" company with no specific specialization. Compatible with all <clr>equipment<clrEnd> and <clr>artifacts<clrEnd>, and an <clr>afterburner<clrEnd> can also be activated. It used to be obtainable only by pre-order, but is now freely sold in the shop available to holders of the "<clr>Design Bureau<clrEnd>" customer card.</color>
+205	<color=248,252,248>A specialized hull of the "<clr>Stellar<clrEnd>" company, intended primarily for <clr>combat<clrEnd> operations in defense. Originally it was used only by the company's internal military forces to protect strategic facilities from pirates and other threats, but now it has gone on sale in limited batches. Can be purchased only at branches of the "<clr>Design Bureau<clrEnd>".</color>
+206	t.
+207	Thanks for the story
+208	I'd like to hear about your organization once more
+209	Well, I am glad to tell you all about us.
+210	The "<clr>Stellar<clrEnd>" company is the leading hypercorporation in the Coalition - you may have seen our mass-market products on many planets.
+211	We make high-quality goods in all fields, from food to aerospace parts, but still, our main priority is research and the discovery of new possibilities!
+212	What is most interesting - you may not have known it, but the "<clr>Stellar<clrEnd>" company has existed for a very long time! Our path goes back to the distant year <clr>2239<clrEnd>, when our founder, our "<clr>Prometheus<clrEnd>", carried out his first developments. He and his first project - the AI "<clr>Bluebird<clrEnd>" - became the starting point for unprecedented heights - for himself and, dare I say it, for all of humanity! Yes, today we have a staff of representatives of all the sentient races inhabiting this arm of the galaxy, but at that time, as you probably remember from history lessons, the Coalition had not yet been formed, and Humanity was recovering from a long war with the bots.
+213	<clr>5<clrEnd> years after the AI was presented to the government, the company was officially registered and received its legendary name "<clr>Stellar<clrEnd>", and just <clr>15<clrEnd> years later, thanks to "<clr>Bluebird<clrEnd>", the technologies of Stellar surpassed those of its competitors in every respect!
+214	It was the "<clr>Stellar<clrEnd>" company that helped humanity switch to new engine technologies, which in turn sped up space expansion several times over and contributed to the first contact between two races.
+215	And do you remember the times of the Klissan Wars? What do you mean, no? Come now, study it in your spare time, it is very interesting! The "<clr>Stellar<clrEnd>" company even developed a full-immersion simulator - "Space Pagers". By the way, in version 1.7.2 we reworked the ship physics, bringing it closer to the real thing!
+216	So, what was I talking about?.. Ah yes - the Klissan Wars. The conflict was resolved by a single Ranger with the help of a "mental communicator". And what does he have to do with it, you ask? Just this: it was developed by us - the "<clr>Stellar<clrEnd>" company, just like all the other communicators thanks to which humans and representatives of other races were able to find a "common language" and create the Coalition.
+217	And now let us move on to the Design Bureau itself. As you have probably already guessed, it is a part of the "<clr>Stellar<clrEnd>" company.
+218	We are one of the largest divisions of the company. Our field of activity stretches from all kinds of commercial activity to the creation of the newest models of machinery and other mechanisms.
+219	Not long ago we carried out an expansion, and now we have our own small science block that searches for, studies and develops methods of applying new alloys and materials.
+220	Many think that we began our activity quite recently, but that is not so. The first Design Bureau was founded back in <clr>2875<clrEnd> on the planet Eipentak! Our tasks have not changed over this time, only our capabilities have grown, and the assortment and range of services we offer have improved.
+221	However, now, after the discovery of "<clr>Nirgend Azur<clrEnd>", it was decided to create a space station for the convenience of collecting, studying and conducting experiments on the new substance.
+222	I think we can safely end this brief excursion into the history of our organization here.
+223	And what, actually, is special about these "trinkets" - the price is really not democratic
+224	Thanks for the explanation
+225	I want to buy [name] for [ND] Nirgend Azur and [CR] cr.
+226	You know, I am not very fond of costume jewelry. Maybe another time
+227	I want to upgrade [name] for [ND] Nirgend Azur and [CR] cr.
+228	I am interested in "<clr>cryptors<clrEnd>"
+229	So, here is our showcase. As you can see, all kinds of accessories are presented here.
+230	Just for you, we have picked out some marvelous things, just have a look!
+231	<br>So beautiful, and most importantly - very useful. Try them on, don't be shy.
+232	These are not just ornaments but high-tech devices that use extradimensional space technology.
+233	<clr>Extradimensionality<clrEnd> is a combination of technologies for creating subspace pockets, developed on the basis of Riemannian geometry and information obtained with the help of "Bluebird". When special gravitational apparatus is used, a spatial fold of a certain configuration is formed, in which, according to the properties of higher dimensions, a multitude of ordinary three-dimensional structures can be placed. A number of devices and interfaces were developed to provide access to and control of the extradimensional pockets, which received the common name "cryptor".
+234	Cryptors are used to store and transport large and small cargoes. By the end of the "Capacity Utopia" project it was decided to change the target audience of cryptors, and production began on small devices disguised as everyday objects and ornaments - rings, bracelets, earrings and other jewelry.
+235	Also, using empty cryptors aboard a spaceship makes it possible to connect to the onboard systems in a semi-automatic mode and reduce the natural mass of the hull, but this requires some special knowledge of controlling the machinery.
+236	Unfortunately, owing to the peculiarity of multidimensional engineering, cryptors with a total capacity above <clr>500<clrEnd> c.u. cannot be used while aboard a spaceship. For this reason restrictions on sales to Rangers and other pilots were introduced, along with mandatory biocoding to prevent resale.
+237	Name: [name]<br>Price: [ND] Nirgend Azur and [CR] cr.<br>Description: [text]
+238	Name: [name]<br>Level: [LVL]<br>Upgrade price: [ND] Nirgend Azur and [CR] cr.<br>Upgrade: [text]
+239	Name: [name]<br>Level: [LVL]<br>Upgrade: the <color=255,20,20>limit</color> of upgrades for the current tech level has been reached.
+240	Name: [name]<br>Level: [LVL]<br>Upgrade: further upgrading is <color=255,20,20>impossible</color>.
+241	This map has already revealed its secrets. You will learn nothing more from it
+242	According to this map, its former owner made a cache with a blueprint on planet planet (system star). Ordinary probes would not have found it, but with a lead - yes.
+243	So as not to lose such important information, you wrote it down in the <clr>ship's log<clrEnd>.
+244	We remind you that these micromodules can be installed only in "<clr>Stellar<clrEnd>" company equipment.
+245	Cost: [var] Nirgend Azur.<br>

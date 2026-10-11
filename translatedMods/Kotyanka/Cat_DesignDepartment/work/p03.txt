@@ -1,0 +1,50 @@
+141	Size: <clr>+40%<clrEnd>
+142	Aspis
+143	A first-level micromodule. Built into the hull. Installs on the plating trap systems for missiles and for the targeting systems of other guns. The micromodule is compatible only with "<clr>Stellar<clrEnd>" company hulls.
+144	Akos
+145	A first-level micromodule. Creates quasi-subspace "bubbles" inside the hull, which provides extra space on board. Such a truly marvelous piece of technology is compatible only with the more advanced "<clr>Stellar<clrEnd>" company hulls.
+146	Size: <clr>+30%<clrEnd>
+147	Dart
+148	A first-level micromodule. The "Dart" system, developed by specialists of the "<clr>Stellar<clrEnd>" company on the basis of ancient human weapons of mutual destruction, reworks the ammunition of any missile weapon so that it becomes smaller and faster - at the cost of a smaller ammunition supply and more powerful engines - but also weaker.
+149	Cost: <clr>+155%<clrEnd>
+150	Weapon ammo: <bonAmmo> pcs.
+151	Maisis
+152	A second-level micromodule. Replaces some parts of the gun with less bulky ones and, instead of the usual heavy mount, uses antigravity ones that consume part of the energy meant for destroying the enemy. Compatible only with "<clr>Stellar<clrEnd>" company devices.
+153	Size: <clr>-55%<clrEnd>
+154	Kihigima
+155	A second-level micromodule. Refines the algorithms of the navigation and targeting systems, increasing their efficiency. Compatible only with "<clr>Stellar<clrEnd>" company devices.
+156	Fogicus
+157	A second-level micromodule. A set of parts for reaching the technical "ceiling" of improvement of any object-capture system. Compatible only with "<clr>Stellar<clrEnd>" company devices.
+158	Kiini
+159	A second-level micromodule. Replaces all parts of the object-capture mechanism with more advanced analogs, which improves the equipment's efficiency. Compatible only with "<clr>Stellar<clrEnd>" company devices.
+160	Size: <clr>+15%<clrEnd>
+161	Defendanto
+162	A second-level micromodule. Contains a set of protective-destructive devices that are equally useful for defense and for missile attack. Compatible only with "<clr>Stellar<clrEnd>" company devices.
+163	Riparisto
+164	A second-level micromodule. Improves the repair droid in every respect - by installing better parts, increasing their number and the like, which significantly increases the efficiency of repairing the ship's plating. Compatible only with "<clr>Stellar<clrEnd>" company devices.
+165	Visio
+166	A second-level micromodule. Stabilizes the long-range detection systems, which indirectly increases the radar's range. The effect conversion also improves the capabilities of the scanning systems. Compatible only with "<clr>Stellar<clrEnd>" company equipment.
+167	Swifty
+168	A second-level micromodule. Installs an experimental thrust-boosting mechanism that increases the engine's <clr>output power<clrEnd>. This operation is possible only with "<clr>Stellar<clrEnd>" company equipment.
+169	Sarkinger
+170	A second-level micromodule. Replaces the largest boards with smaller modern analogs. Reduces the size of any equipment and weapon except the hull. Compatible only with "<clr>Stellar<clrEnd>" company equipment.
+171	Size: <clr>-45%<clrEnd>
+172	Grabber
+173	A second-level micromodule. Reworks the gripper's pull system, redirecting its power into the speed and range of pulling objects in from space.  Compatible only with "<clr>Stellar<clrEnd>" company equipment.
+174	Gripper speed: <clr>+2<clrEnd> units
+175	Grabulator
+176	A second-level micromodule. Reworks the gripper's pull system, incredibly speeding up the process of capturing a target by removing all protective locks and checks in the mechanics and electronics. Compatible only with "<clr>Stellar<clrEnd>" company equipment.
+177	Gripper speed: <clr>+10<clrEnd> units
+178	Equipment reliability: <clr>-33%<clrEnd>
+179	Fortale
+180	A third-level micromodule. Installs auxiliary fire systems on guns that draw the enemy's defensive systems onto themselves and thus raise the gun's final damage. Compatible only with "<clr>Stellar<clrEnd>" company equipment.
+181	Yatte
+182	A third-level micromodule. Removes all the protective elements of the repair droid, which raises its working speed and therefore its repair efficiency. This operation, which increases the droid's efficiency at the expense of its cost, is feasible only on "<clr>Stellar<clrEnd>" company droids.
+183	Cost: <clr>-55%<clrEnd>
+184	Asteleria
+185	A third-level micromodule. Updates the components used in the navigation systems of various equipment to the very latest word in science, which significantly improves its accuracy. Compatible only with "<clr>Stellar<clrEnd>" company equipment.
+186	Dianomin
+187	A third-level micromodule. Redistributes the energy flows in the weapon, strengthening the shot in exchange for range. Compatible only with "<clr>Stellar<clrEnd>" company equipment.
+188	Repacchet
+189	A third-level micromodule. Repacks in the best possible way the parts of a shield generator made with "<clr>Stellar<clrEnd>" company technology. This reduces the final size of the product without impairing its operation, at the cost of a slight drop in power.
+190	Size: <clr>-80%<clrEnd>
