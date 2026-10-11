@@ -1,0 +1,45 @@
+276	What have you done, ranger?!..
+277	The island is rectangular, and at each "corner" of it there is an opponent, so I think you'll find a target. Only please hurry, with every minute that gaal gets closer and closer!
+278	Incredible! The island is ours! Our territory-cleaning specialists have already flown out, so you get out of there too.
+279	Ranger <Player>, now we will have to evacuate our patients and put their physical and mental health at risk! Aren't you ashamed?!
+280	Well, ranger, we have something to offer you!
+281	We have a small archipelago. If only you could see it! Pastoral landscapes, the soothing sound of the sea, a lulling breeze! Wait, don't fall asleep! Well, on this archipelago are located several buildings of the capital city hospital - so that the wounded and seriously ill recover better.
+282	And now the dominators have fallen on our heads and begun actively developing mining industry! We don't want to spoil the patients' rest, much less evacuate them anywhere, so we ask you to take our group of modular robots and scatter the tin cans to the winds! For ensuring the patients' peace we pay double - if you're interested.
+283	Ranger <Player>, you ensured the safety of our patients, and as our gratitude please accept <Money> cr.
+284	Three Islands
+285	We have already sent a flyer for you.
+286	So, we pass control to you.
+287	Each of the islands is controlled by one side. Note that the capabilities of the new mining complexes are still rather small, since resources are scarce here, and a precise strike right at the enemy's "heart" can bring quick victory. Good luck!
+288	Magnificent! The islands are ours! We await you with your report!
+289	Ranger <Player>, what do we do now? The whole laboratory is under dominator control! Get out before we hand you over to a field court-martial too!
+290	Ranger, you couldn't have come at a better time!
+291	We have a very urgent assignment for you. We have a laboratory... I think you shouldn't know what we need it for. Chemical production, in general. Extensive premises, rows of warehouses... In general, everything is set up on a grand scale! Why are you looking at me like that, ranger?! I really can't say - a state secret! Court-martial for disclosure! We're strict about this, we live under wartime laws, after all!
+292	Well, the dominators, it seems, took a great liking to the reagents, so they broke down the laboratory's armored doors, scared off all the staff and began dropping the most valuable flasks on the floor. We cannot allow the dominators in their stupidity to bury decades of work, so we propose that you lead our laboratory clearing operation. A reward is guaranteed.
+293	Ranger <Player>! The top-secret laboratory is ours again! Here are your <Money> cr. I hope it won't occur to you to tell about what you saw? Well, good.
+294	Underground Laboratory
+295	Ranger, we are about to open the airtight doors, we advise you to hurry, since we do not want to deal with the dominators at the service exit.
+296	Your positions are near the laboratory entrance. The experimentation compartment holds terronoid positions, the storage ones - blazeroids. Still, I think you'll manage. Good luck!
+297	Magnificent! The laboratory is ours! We have opened the airtight doors, you can return to the surface!
+298	Ranger <Player>, now we will have not only to deal with the dominators ourselves but also to replace experimental equipment lost forever! Get out before we arrest you!
+299	Ranger, have you ever been interested in aquaculture?
+300	And by the way, aquaculture is a powerful tool for restoring damaged ecosystems, and for colonized planets it is a good opportunity for rapidly building a biosphere.
+301	Alas, one of our stations with advanced equipment was recently seized by dominators. They reassembled all the equipment for use in building new robots and seized the port on one of the islands with the spare warehouses. We cannot let them go on using our achievements as scrap metal. We will pay you in full for the destruction of our enemies.
+302	Ranger <Player>! Our station and the experimental equipment are in our hands again! Allow us to hand over to you <Money> cr. as a token of our gratitude!
+303	Sea Station
+304	We managed to retake control of the blazeroid base in the port, but they have dug in better on the island. The station itself has been seized by kelleroids, and terronoids have taken shelter somewhere on the island as well. In short - you will certainly not be bored, we can only wish you luck!
+305	Magnificent! The station is ours again, and we await you at the government building with your report.
+306	Ranger <Player>, we advise you to fly away before a poisonous cloud covers the city. And not to show up here in the near future.
+307	Don't overdo the strontium trinitrite, or you'll get not a precipitate but an extremely toxic gas!
+308	Ranger, I think you have already seen all the various protective measures we apply to the population at the exit from the spaceport? The problem is this - in the port zone of our city there is a small artificial island that we use for quarantining cargoes of chemicals. And this very island came under bombardment by dominators who were trying to land and seize the capital.
+309	As a result, toxic fumes of the recently received Rentium-461 entered the atmosphere and began moving toward the city. We are already taking all necessary measures, but it would be better if you eliminated the source of the poisonous chemicals, and near it, as you already understand, dominators are stationed. If you arrange access for our specialists to the Rentium reservoirs - we will shower you with gold.
+310	Ranger <Player>, thanks to you the source of the threats is eliminated, and all we have left is to deal with the consequences of the leak! In gratitude for saving thousands of lives from possible danger, we present you with <Money> cr.!
+311	Closed City
+312	How could you, ranger?!
+313	So, we pass control to you.
+314	In our hands is the base to the south, and in the north - a control post seized by the terronoids. Our specialists say the enemy is poor at extracting resources and can count only on the stock already gathered. Good luck!
+315	Excellent! We'll pull you out of there now, before it's too late.
+316	Ranger <Player>, do you even realize... No, get out immediately before we tear you into tiny little pieces!
+317	Ranger, we urgently need your help!
+318	Representatives of the Galactic Library commissioned from us a philosophical-mystical film of 12 episodes based on ancient human literature - "Solaris." And our film set - the semi-sandy wastelands - is now under threat of seizure by the dominators!
+319	We are ready for anything to eliminate this threat, otherwise the multimillion advance will be an unattainable peak for us! Our specialists will hack the dominators' defenses and hand control over to you, and in case of victory we will reward you royally!
+320	Ranger <Player>! You will probably never fully feel the depth of our gratitude! Take <Money> cr. as an incredibly small grain of the material equivalent of our feelings!

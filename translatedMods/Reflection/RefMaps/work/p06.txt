@@ -1,0 +1,45 @@
+231	Excellent! We'll send a team now to demolish this whole eyesore... Though, actually... Never mind, we await you at the government building.
+232	Ranger <Player>, you failed to handle the task set, which means the contract is terminated. All the best and blessings.
+233	Ranger, we badly need your help.
+234	Owing to the tense situation at the front, our government is actively developing its missile forces. Recently the newest high-precision "Fastvellin 3.17" missiles fell into our hands. Naturally, the next step was finding a proving ground and placing targets for destruction. We depicted a production complex on a chosen islet and were just about to test when out of nowhere the dominators descended on us and began seizing our factories - we had deployed real ones in order to see the destruction.
+235	We do not intend to test missiles on dominators, because we do not know the dominators' characteristics, and so we propose that you clear our proving ground. We will pay in full for the exterminator's services, and if you fail - we'll use a larger caliber. Ready to take part?
+236	Ranger, thank you for taking part in cleaning our proving ground! Wouldn't you like to take part in the firing? We are ready to give you access to "that very" Red Button!
+237	Well, if you don't want to - as you wish. Your reward in the amount of <Money> cr. has already been transferred to your account - enjoy.
+238	Missile Proving Ground
+239	What an outrage! We'll have to launch our missiles. Our flyer will pick you up, if it makes it in time, of course.
+240	Blazeroids and kelleroids are busily using our factories. This is outrageous! Kill them all, and we will continue testing our missiles.
+241	Magnificent! The proving ground is ours! We await you with your report!
+242	Ranger <Player>, do you even understand how much all this cost us? Connections, agents, time... And all for nothing! Get out of here!
+243	Ranger, have you ever come across swindlers? And with crooks in the real estate field?
+244	Well, we have. What's more - for the last couple of years some kind of crisis in the field of real estate has occurred on our planet. The number of cheated buyers has reached simply astronomical figures, despite our very active actions. The problem was that our legislation lagged behind other Coalition member planets by a good twenty years, which criminals from our whole sector took advantage of!
+245	Nevertheless, our swift actions led to our reaching a so-called "plateau" - the number of scam cases no longer grows but remains stable. Well, we are carrying out the operation "Unthinkable" - the arrest of an especially large gang of scoundrels, after whose arrest we will breathe a sigh of relief - and we have lured them to a rather considerable island that we are supposedly selling. But then the dominators interfered, seizing the island and beginning its active development. We have no tools for fighting modular robots, so we ask you to clear the island of scrap metal so that our officers can calmly carry out the arrest of the scoundrels!
+246	Ranger <Player>, thanks to you our agents managed to arrest red-handed a simply gigantic gang of scoundrels who were cheating honest citizens! Here are your <Money> cr. as a token of our gratitude for your prompt help!
+247	Pseudo-Scam
+248	Ranger, how could you possibly...?!
+249	The island is something between a circle and a triangle. At each of the "vertices" there is a base - yours and those of two other series of dominators. Your task is to clear the island. And hurry, because our representatives will soon arrive to arrest the criminals. Good luck!
+250	Excellent! And now, <Player>, hurry, because our representatives will soon arrive at the spot.
+251	Ranger! Our investments! The share prices of state mining enterprises are sliding to the bottom! Because of you!
+252	Ranger, come here!
+253	We have a small area of significant seismic activity. At first rivers flowed, then they dried up. Erosion and seismics have led to the ground there simply teeming with all sorts of minerals and other mineral resources.
+254	Whom does such a hodgepodge attract? Right - mining companies and dominators. And while the former we invite ourselves, the latter we don't need at all. Will you help us?
+255	Ranger, we made the right choice, an investment on credit, so to speak, and it's time to pay this credit off. Here are your <Money> cr.!
+256	Wadi
+257	Oh, there goes our money!..
+258	So, our landing party is ready for battle.
+259	The enemy positions in this still sparsely developed area have only just been deployed, so.. And what's this?...
+260	Excellent, <Player>! Or else our invest.. Never mind, come back!
+261	How could it be, to suffer defeat at the hands of a bunch of frenzied robots! And lose our modular robot factory. Incredible!
+262	Ranger, wouldn't you like to take a rest?
+263	Why are you looking at me like that? Yes, we are offering you to take a break. We have an island. Wooded. With a lake in the center. You can swim, rest, sunbathe. The whole banquet at the house's expense, so decide quickly, before the flyer leaves!
+264	Ranger <Player>, we found no dominators on the spot... Well, for clearing the island, and for some moral damage in general, we'll pay you <Money> cr., so be it. But don't demand more from us - we've been incredibly generous as it is!
+265	Sunny Day
+266	What? The robots rebelled? We've already sent a flyer for you, be patient a little.
+267	Here we are.
+268	Make yourself at home. We are handing over to you a robot-building factory - they say jammed modular robots turn up in remote corners, so you can destroy them. We wish you a pleasant rest!
+269	Well, have you rested? What dominators?! <Player>, do you have heatstroke? We've already sent a flyer for you!
+270	Ranger <Player>, do you even understand what will happen to all of us now?! Fly away from here immediately, before you experience the wrath of our government on your own hide!
+271	Ranger <Player>, this is a nightmare!
+272	Did you see the crowds at the spaceport? In the course of his Hagzh, the great gaal thinker of our time, Ool-tro Kaan, has arrived on our planet. He delivered a long speech before the pilgrims following him in lines, and afterward, using Fang-Shoi methods, began searching for an island for meditation and gathering Iike-Baana. And, as luck would have it, he chose an island where dominators still remain! However hard we tried to dissuade him from visiting this deserted patch of land, nothing came of it.
+273	Now we have a few hours while he makes his way to the island at a leisurely pace. In that time we must somehow drive the dominators off the island, for if it turns out that we played such a dirty trick on the sage, then... Then I simply fear to imagine the consequences. The only quick solution is to give you modular robots and drop you onto the island. What do you think? If anything, we won't stint on money when a diplomatic scandal is at stake.
+274	Ranger <Player>, you saved us from a diplomatic scandal, which means you are entitled to <Money> cr.! Hurray for our savior!
+275	Seclusion

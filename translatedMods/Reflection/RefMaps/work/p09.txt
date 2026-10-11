@@ -1,0 +1,45 @@
+366	We have a lonely islet in the middle of the ocean. Geologists discovered deposits of germanium beneath it. Naturally, this fact speaks in favor of settling and developing the island. And, it must be said, this development site will give our economy considerable support.
+367	But as a result of a full-scale dominator landing this island turned out to be occupied. If we have to turn to the armed forces, then, first, it will take a colossal amount of time, during which the dominators may begin mining and using the germanium, and second... And second, it's better that you command the operation. Who knows what the military will make a mess of there. And as a "ransom" for the island we are ready to pay you a solid monetary reward.
+368	Ranger <Player>! You have returned the island to us, which means it is now our turn to hand over <Money> cr. to you! Use them in good health!
+369	Project
+370	How could this be, <Player>?! Return to the Mainland with your report.
+371	Well, in general, here we are!
+372	We have dropped a self-deploying complex into the zone, and in response a group of dominators moved into this area. Still, the positions of all the other sides are approximately similar, so there are enough chances of success. Good luck!
+373	Excellent! The island is ours! Return to the Mainland with your report!
+374	That's what you get for hiring a ranger! We'll have to order the "Frostbitten Kittens" to deliver the construction on time!
+375	A task for a ranger? Perhaps.
+376	Our technicians were building, after a fashion, a new thermoresonance power station on an island in the circumpolar latitudes. Actually, they hadn't even managed to start the construction itself when the dominators descended. It seems they too needed low temperatures and energy. We are ready to pay you 2% of the funds allotted to us for construction so that you lead the operation to clear the island of dominators.
+377	Excellent, <Player>! The power station will be built on time! Your <Money> cr. are already in your account!
+378	Cooling
+379	What do you mean, lost?! Ranger, a thermoresonance power station is a strategic object!
+380	So, here are your positions. Good luck.
+381	Excellent! The island is in our hands again! Return to the government building with your report.
+382	Ranger, it's a pity you failed to win. A great pity...
+383	Ranger, we have an assignment of strategic importance for you!
+384	During an attack by kelleroids an unidentified object fell onto our planet. The dominators immediately came to the impact zone too, but we had no time to see to its defense: we had to protect more important areas.
+385	Now that the attacks have been repelled and the functioning of the planetary systems restored, we returned to the crater formed by the impact and found a whole heap of dominators there.
+386	We propose that you lead the operation of landing onto the crater to clear it of hostile elements! Pay is attached.
+387	Excellent, <Player>, ex-cel-lent! May these <Money> cr. serve the cause of destroying the dominators! Hurray!
+388	Small Crater
+389	Let a ranger control robots - he'll lose everything!
+390	Ranger, we have successfully landed your base here, and destroyed the second kelleroid base. And even deployed a defensive complex. So you are simply obliged to defeat the dominators. Good luck!
+391	That'll teach them, the damned tin cans!
+392	Ranger, have you heard of the Andan Ridge?
+393	Peaks seemingly propping up the sky, alpine meadows, glaciers, waterfalls...
+394	And into this idyll the dominators intrude and begin drilling, hacking and extracting something!
+395	Please: help us deal with these scoundrels before they reach the main range!
+396	Ridge
+397	So, your positions are in the lowland. The dominators are all around you and will most likely keep trying to storm you. Good luck!
+398	You have driven back the enemy on the Andan Ridge, it is in our hands again! Victory!
+399	Ranger, do you understand how badly you've let us down?! The Coalition?!
+400	Well, <Player>! We have an extremely urgent assignment of extremely special importance, for which a ranger is needed!
+401	You, as I understand, have completed a training course in controlling modular robots? Wonderful. What is the essence of our assignment? Well, listen!
+402	Our planet originally had a very harsh climate, close to extreme. Of course, terraforming made the planet much more habitable, but we left part of the old nature untouched - for research. Recently, as part of a Warrior Spirit test, the maloqs asked for access to one of these regions. And, as you understand, on the route of the detachment, which had no personal means of communication, dominators appeared. In the name of avoiding a diplomatic conflict - help us, please, ranger!
+403	So, ranger, we ourselves are glad to thank you and hand you <Money> cr. as a bonus for the excellent execution of the operation. The maloq warriors have reached the hill and are already flying to the spaceport. Thank you!
+404	Saving Hill
+405	Aha, so, a defeat? Well, fly over here, my dear fellow...
+406	This hill is the end point of the maloq warriors' journey. Soon they will reach it on homemade watercraft, and by that moment the island must be liberated!
+407	Get to work, ranger!
+408	Excellent! You carried out the operation brilliantly. Return quickly.
+409	Ranger, what are you doing? We had an agreement! Oh, go to hell!
+410	Ranger, an assignment... We have here..

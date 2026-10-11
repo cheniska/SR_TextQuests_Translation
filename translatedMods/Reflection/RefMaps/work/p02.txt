@@ -1,0 +1,45 @@
+51	So, the platform is under dominator control. True, it's already sinking. Yes-yes. They staged such battles that they wrecked it, and now it's sinking, and the Electropus has fallen into the sea.
+52	We have an extremely urgent assignment for you, <Player>
+53	The oceans of our planet are home to a very dangerous, rather large representative of the cephalopod mollusks, we call it the Electropus because it makes very active use of its electric organs. Well, one of them attacked our research platform. Our brave scientists, who nearly drowned in the sea depths, managed to paralyze the mollusk, but the dominator attack did not let us help them. Meanwhile, those same dominators landed on the tiny platform and are trying to seize it completely. The scientists, naturally, took to their heels and bolted, but we retained control of the center of the platform.
+54	We cannot allow the dominators to get hold of so valuable a specimen of our fauna, so we are already preparing an operation to liberate the platform, which we propose that you, as an experienced commander, lead. Decide quickly - there is extremely little time.
+55	So, <Player>, the platform is ours, and the scientists have returned to the platform. We thank you and are transferring <Money> cr. as a reward.
+56	Electropus
+57	Hmm... Well, the battle was extremely hard. Get some sleep, and we await you with your report
+58	So, here we are. The platform is very small, so a quick battle is expected.
+59	So, the platform is under our control. Hurray! The flyer will pick you up shortly.
+60	So, in a fierce battle the dominators got the better of you after all. Sad, but a fact. We'll have to call in the special unit "Frostbitten Seals." I hope our budget can bear such expenses...
+61	Well, ranger <Player>... We have an assignment of special importance for you.
+62	We have one small islet. All of it is pure sand. But in its depths there is something for which fierce battles are being fought right now. It is Quarkite, a metal used to create antimatter. Naturally, the dominators who attacked our system landed all their landing units to seize the quarkite deposits.
+63	We cannot leave these deposits in their hands, so we ask you, the commander, to take control of our modular robots and deal with the invaders. We will pay in full for your services.
+64	So, <Player>, the island and the quarkite deposit are fully in our hands, and the Coalition is in no danger. We have already transferred <Money> cr. to you as a reward for your labors. Hurray to the great commander! Hurray!
+65	The Fuel War
+66	A fierce battle. Hold out there a little - our flyer will pick you up soon.
+67	So, we're here.
+68	It has turned out that the opponents are distributed in pairs, and unless one is destroyed, the other will not advance unhindered, so your immediate target is the kelleroids. And now - good luck!
+69	So, the quarkite deposit is in our hands again. The flyer is already approaching, it will take you to the capital, after which we eagerly await your report.
+70	Well, how sad... However, not entirely for you personally. We filmed your whole battle and posted it on GalaTube. And the sum collected, <Money> cr., we hand over to you.
+71	An assignment?.. An assignment! We have a little job for you.
+72	Our planet has had a unique climate for many millennia. Thanks to a special, naturally formed system of winds and currents, most of the planet is covered with snow, and winter reigns nearly all year, but a mild and snowy winter. Thanks to this our planet has become a resort on a galactic scale, becoming a center of attraction for all skiers, mountaineers and generally all those who love snow and winter.
+73	But now, as a result of a dominator landing, one of our best ski complexes has been seized! We cannot go on tolerating such enormous losses. As a qualified specialist in controlling modular robots, we ask you to take command of our landing party and liberate the complex!
+74	In case of success a monetary reward will not be long in coming.
+75	So, <Player>! The complex is completely free. We thank you from the bottom of our hearts... What? Ah, yes... Unfortunately, you started such a war at the complex that we had to spend all of your fee on restoring the complex. But don't despair - we recorded the whole battle, and have already collected a sum of <Money> cr. from it, which we hand over to you.
+76	Winter Mountains
+77	Oof... The situation was clearly not developing in your favor. Well, never mind. We await you with your report.
+78	Alas, our negligent pilots flew into a storm and almost none reached the destination. Only one robot remains. But I hope that it will be enough for you to carry out the operation. And yes - east of the landing site there is a robot factory with weak defenses. We advise you to capture that one in particular.
+79	Excellent! The dominators are swept away! We have already sent a dismantling team. Leave with them. We await you at the government building.
+80	Sad, but now the catacombs are in enemy hands, and the element of surprise is lost. We'll have to use other methods...
+81	So, an assignment? We have one!
+82	The capital of our planet is a rather old city, and under the entire city runs an extremely extensive system of dungeons. It was often used by our ancestors, but has been sealed for quite a long time as unneeded.
+83	And not long ago we discovered that the dominators who recently attacked our system are already quite actively roaming the expanses of the catacombs. We would not want to use weapons of mass destruction, since we ourselves are not entirely sure of the consequences of using it given the antiquity of the tunnels, so we would prefer victory by means of modular robots. Alas, we have no specialists, and you would suit us perfectly. So we ask you to lead our operation. A monetary reward will not be long in coming.
+84	Well, ranger? The catacombs are completely under our control, and the modular robots you built are already combing the remote corridors of the catacombs for remnants of dominators. But victory is unambiguously ours already. We thank you for the fruitful cooperation and transfer <Money> cr. to you.
+85	Tunnels
+86	Hmm... Use the boring machines and leave the combat zone as soon as possible.
+87	So, here we are.
+88	The landing party together with a factory for producing new robots is already deployed and ready for combat, so - good luck!
+89	Excellent! <Player>, we await you with your report!
+90	Hmm... A strategic object is in enemy hands. All funds have been transferred to the account of the special operation organization, and under the terms of the agreement the power station was supposed to be liberated. So we advise you to hit the road and vanish, or you may fall into the hands of the military, and they don't like defeats.
+91	We have an urgent assignment for a specialist in controlling modular robots like you.
+92	Not long ago a power station of a new type was built on our planet. It produces electricity using quarkite, which we have in large quantities. This electricity is enough for all our needs as well as for energy-intensive production, including one of the largest shipyards of the Coalition, which turns out the largest ships - the flagships of the Coalition fleet.
+93	Alas, while our brave military were repelling dominator attacks in near-planetary space, landing parties of two series landed on the artificial island with our power station. And now the entire energy system, the entire energy balance of our planet is under threat, and, moreover, so is the operation of the shipyards. We cannot allow this to happen, so we propose that you lead the defense forces of the central power unit and re-subordinate the power station to yourself. In case of success we guarantee you a worthy reward.
+94	So, ranger <Player>... The power station is fully under our control, and the shipyards continue turning out especially large ships. We sincerely thank you, and present you with a reward on behalf of the CAFIC - <Money> cr.
+95	Power Station

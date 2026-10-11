@@ -1,0 +1,45 @@
+456	Oh, ranger, haven't you been fried there yet? No? Then let's hurry. We've already sent a flyer for you, wait.
+457	We're on the spot. There are few objects and many factories here - the zone is quite new. So it will be easier for you. Good luck!
+458	Oh, ranger, haven't you been fried there yet? Well, wonderful. We've already sent a flyer for you.
+459	Ranger, you did not live up to our hopes! We will tell the Rangers' Center Network that you are a worthless commander! Leave!
+460	Hm-m-m.. You are, it seems, considered an expert in conducting battles with modular robots? Then you are our last hope!
+461	Our planet rotates quite synchronously with the star, because of which it has a notional day zone, night zone and twilight zone, only the twilight one is not extensive enough to. Moreover, such extreme conditions make it possible to conduct unique experiments. And one of them is taking place on the night side. There we are investigating the ability of various mixtures to lower the melting and boiling points of water to temperatures rapidly approaching absolute zero.
+462	Well, and as is not hard to guess, these experiments interested the dominators, to whom water cooling is extremely useful. And, as is not hard to guess, we propose that you lead the operation to liberate the laboratories. A worthy reward is assured you, be sure of that.
+463	Ranger, that was wonderful! Your <Money> cr. of bonus pay are already in your account, and we have, incidentally, completed the experiment! If such conditions are sufficient for the dominators, we could use this as a backup plan in the fight against the maloqs...
+464	Restricted Facility
+465	Ranger!...
+466	We are handing the assembly base over to your control. The dominators have already built mining complexes, so things will go quickly. Good luck!
+467	Hurray! Return quickly, it's time to complete the experiment!
+468	Ranger, you have no idea what you have done! Get out of here quickly, before the ministry officials turn you into a roast!
+469	Ranger, how do you feel about the resort business? Strictly positive? Well, then you will consider it your duty to support it!
+470	Our resort region, called the Southern Shore, is known throughout the sector for the warmth of its waters and the whiteness of its beaches. And it is known throughout the whole Ministry of Finance for its profitability. And the dominators who occupied it are known for their unprofitability. And the officials, though known for their greed and stinginess, are also known for generosity toward the saviors of their income. I think you understand what I am hinting at.
+471	Phew.. Ranger, you simply saved us. Take our collective gratitude of <Money> cr., and I must hurry to delight the ministers before other officials snatch it up. Good luck!
+472	Southern Shore
+473	Ranger, I'm busy right now.. What do you mean, lost?!
+474	So, here are your positions. There was a landing party somewhere here, so you won't be lost, and I must run to report to the President, so see you!
+475	Oh, ranger! Good news? We await you with your report!
+476	Ranger <Player>, do you understand that your slovenliness puts our population in a desperate position?! Ah, what can you possibly understand! Out of here, and may your foot never again touch our spaceport!
+477	Ranger, it is simply impossible to say how much we need you and how much we have an assignment!
+478	One of our renowned abstractionist authors, Maal-Alleevich, left us as a memento of his long stay at the planet's resorts, where he met his future muse, a unique object - the figure eight, also known as the infinity sign, formed by different natural landscapes as, roughly speaking, a sign of the Universe's endless mutability. And it is precisely this object that the dominators have seized! We cannot allow this in any way! Help us, please!
+479	Well, ranger, you are a true deliverer from dominator chaos. You have earned your <Money> cr., and we gladly hand them over to you.
+480	Transformation
+481	No-no-no! How is this even possible?!
+482	Well, as I told you - the figure eight. The dominators have accumulated resources and placed their positions near each other, so you have a chance to build up power gradually. Good luck!
+483	Ranger!.. Ranger!.. Vivat to the ranger! Thrice vivat!
+484	Ranger, what have you done.. Do you even realize what the dominators can do?!...
+485	Ranger, I think you know our love of art. And as part of our attachment to it we wanted to conduct a series of experiments with the emblem that is the symbol of our race, in order to possibly change it in the future for a better version.
+486	The only thing our model does for certain is attract dominators. We would have sacrificed this model without regret and would not have called a ranger, but the model was in the process of being altered, and the possible influence of dominators may lead to irreparable seismic consequences. In short - make up your mind, and you will receive our boundless gratitude!
+487	Excellent, this is excellent, ranger! The experiment was a success! Your <Money> cr. have already been transferred to your account.
+488	Emblem
+489	Ranger!! How could you?!...
+490	Our model is quite simple - there is only one road here: from your base through the terronoid base to the kelleroids. Good luck!
+491	Excellent, ranger! Take the flyer from the central depression and fly back.
+492	Ranger! Only your rank saves you! Otherwise you'd already be in the electric chair. Beware of angering our government in the future.
+493	Ranger, we have an assignment for experts in conducting planetary battles of special secrecy!
+494	The project's name is "Gloom." Superficially speaking - about conditions of conducting battles in the extreme conditions of eternal night. Nothing more may be disclosed. Except that dominators were discovered at the facility, for whom such conditions are wonderful. That is why we offer you a contract for their destruction.
+495	Ranger <Player>, you are five minutes away from being a Knight of the Order of Saint Gavrila! This brilliant operation will advance our milit.. Ahem.. Just a couple of bureaucratic delays and the order will be yours. In the meantime - receive <Money> cr.
+496	Gloom
+497	Dealt with them, ranger? What do you mean, no?!
+498	Well, here we are. It's a bit dark here, but there is light, so you'll manage. Good luck!
+499	Dealt with them, ranger? Excellent! We'll lower an elevator for you now...
+500	Ranger, I advise you to get out of here while the going is good, because the Commander-in-Chief, frankly speaking, is not in the mood right now.

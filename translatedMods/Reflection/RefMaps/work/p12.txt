@@ -1,0 +1,45 @@
+501	Ranger, have you ever seen a starry night over the great river Punktur? No? Then you have a chance to see this splendor with your own eyes - and right together with our most wise Commander-in-Chief, who is, to put it mildly, displeased with the lights of the dominator landing ships that occupied a group of islands right in the middle of the river. You are charged with removing, in the shortest possible time, the disturbers of the peace and of the most beautiful night landscape, for which you will be generously rewarded.
+502	Ranger, you managed to please the Commander-in-Chief! If you weren't a ranger... But as it is, you'll have to be content with <Money> cr. And remember - you will always be welcome on our planet!
+503	Starry Night over the Punktur
+504	Ranger, what are you doing?!
+505	So-s.. Reporting the situation:
+506	Blazeroids have occupied one of the biggest islands, but between you and them lies a cluster of small factory districts. Seize them - and push through the enemy's positions.
+507	Good luck to you!
+508	Ranger, you're just in time - the Commander-in-Chief had begun to get nervous about the flashes on the horizon. Come back without turning on any lights, please!
+509	Hm... Ranger-ranger... You disgrace the entire corps! Well, never mind, we won't detain you any longer.
+510	And you must leave urgently. These <Money> cr. of insurance are allotted in case you need help after meeting a panicking crowd. Farewell.
+511	Ranger, wouldn't you like to take part in an experiment?
+512	My colleagues and I from the Academy of Senior Command Staff, working with future officers, decided to test how difficult our new teaching aid is. You, as a qualified specialist, will serve as, so to speak, litmus paper. Deal?
+513	Excellent, ranger! The bureaucrats instructed us to give you <Money> cr., supposedly for distracting you from the business of saving the Galaxy. Well, to hell with them.
+514	Teaching Aid
+515	Well-l-l, ranger!
+516	So, here it's a purely textbook problem. Your positions are on the shore, the enemy has seized the island and dug in at a bunker. Your task is to smoke him out of there. Forward!
+517	All right. We recorded your actions in performing this task. The recording will become teaching material for our students. Return to the capital.
+518	Excellent, ranger!
+519	Ranger, remember - we have passed information to the Science Base Network that you are to blame for the loss of everything we fail to save from this complex!
+520	Run and tremble!
+521	What do you mean, an assignment? What do you mean, there isn't any?!
+522	We have an excellent assignment!
+523	During the occupation of the planet the dominators crept into many places. For example, into many scientific research complexes, and scattered the results of hundreds of studies to the wind. This is, of course, a separate item among our wartime losses, but that is not what we are going to talk about.
+524	By the time the planet was liberated, dominators remained in one of the complexes and, it seems, had not yet had time to do much damage. An army invasion would be almost equal to the dominators' outrages, so we propose that you use the access to the robots in the complex obtained by our hackers to exterminate the dominators and prevent the loss of the research!
+525	Excellent, <Player>, ex-cel-lent! On behalf of the entire scientific community we express our gratitude! May these <Money> cr. serve the cause of destroying the dominators! Hurray!
+526	Through Darkness and Defense
+527	So, ranger..
+528	It's a bit dark here - this had to be done to keep the dominators from using some of the bases and factories. The remaining light is from emergency sources.
+529	This has not stopped the dominators for good, and soon they will retake their positions, so hurry.
+530	The saddest thing is that the kelleroids managed to activate the defenses of the northern section of the complex, destroying almost all our robots. Only one combat unit remains. Look for a repair unit in the reserve compartment and try to break through to some base.
+531	The complex is ours - and that means your task is accomplished!
+532	The dominators are encroaching on our top-secret project "Toxicity."
+533	Within this project the toxic properties of existing substances are studied and new ones synthesized. In the future, toxic elements may become part of our weaponry, since in fighting the enemy in space all means are good.
+534	As you understand, this does not suit the dominators - they would like to get this research into their manipulators themselves. We cannot allow our enemies to do so, so we propose that you take control of our positions in the "Toxicity" project complex and defeat the accursed scrap iron!
+535	Toxicity
+536	Ranger, remember - you are our hope! Good luck!
+537	The "Toxicity" project is in our hands again! Victory!
+538	Ranger! Our laboratory!.. All rangers are scoundrels! Out of here!
+539	Ranger, you do have a little time to sit in the modular robot commander's chair and lead our operation, don't you?
+540	One of our special laboratories ended up under dominator control - amazing, isn't it? Well, now someone needs to eliminate this slovenliness. And the easiest way, as usual, is to do it with a group of modular robots.
+541	Ranger, you completed your assignment. What does that mean? Right! You are entitled to a reward. Here are your <Money> cr.!
+542	Laboratory 2304
+543	Oh, ranger, you did not live up to our hopes...
+544	So, blazeroids are gradually seizing the laboratory's inner premises, but for now your landing party on the northern shore has time, since the laboratory's defense systems are not yet fully destroyed.
+545	Terronoids, however, have landed on the opposite shore, and will try to intervene in this standoff.

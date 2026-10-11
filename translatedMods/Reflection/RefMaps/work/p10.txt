@@ -1,0 +1,45 @@
+411	All right, let's take it in order
+412	You, as an experienced trader, should understand the prospects for the development of transshipment sea bases on planets. Especially when they are combined with a mining and processing complex.
+413	Well, the dominators took an interest in the construction of just such a sea base, landing a large-scale landing party!
+414	You, as far as we know, are a qualified specialist in this field, so we ask you - backed by a solid sum - to destroy the dominators! Help the Coalition's economy!
+415	Ranger <Player>, we are glad to hand you <Money> cr. This is about 1.20237% of the base's future annual profit, so don't worry about our well-being.
+416	Platforms
+417	Ranger! Ranger?! Ranger!!!
+418	Construction has only just begun, so the three islands of the archipelago were simply linked by platforms. Nothing more.
+419	However, this did not prevent the dominators from building their own bases and starting resource extraction. All right, you'll figure it out as you go...
+420	Magnificent! Another victory of the ranger corps over stupid scrap iron!
+421	Don't be so upset, <Player>. The situation on the island was rather hard, so you couldn't cope, we understand everything. However, you showed yourself quite well and we look forward to seeing you if any work comes up. And so that you don't despair, we'll transfer <Money> cr. to your account and treat you to our signature tea! Try it. Magnificent taste, isn't it? Hey, why are you spitting? You say it tastes like frozen earth? You're strange people, that's why all the non-faeyans don't want to buy this tea. Well, never mind, thanks anyway for the tasting, <Player>!
+422	Yes, of course! Have you ever heard of the most delicious variety of tea, "Nar"? No? It is the rarest variety in the whole galaxy! This plant is built so that its roots need constant warmth and its leaves need cold. One would think - where in the wild could you find a place with warm soil and frost outside? Yet we have several such islands. The soil there does not freeze even in the fiercest frosts, because it lies near a network of thermal springs that heat the soil with underground water reservoirs. But I got sidetracked, to the point!
+423	Dominators have appeared on a group of islands on our planet. And one of these islands is a tea plantation. Whether they wanted to study these plants, destroy them or transform them - we don't care. In any case we will lose this plantation, since the island would have to be destroyed, and that is the same as killing the goose that lays the golden eggs, as our friends the humans say. It is impossible to grow these tea bushes artificially - believe me, we tried every way. So the island must be liberated by robots. We have heard of you, <Player>, that you are an experienced strategist, and so we ask for your help. In case of success a very, very decent sum will await you at the government building.
+424	Oh-ho-ho, ranger, this is what unprofessionalism leads to! Instead of an excellently executed operation the matter drags on into one more battle. Still, this island will serve us as a decent bridgehead, so your work was not so useless. Take <Money> cr. Wouldn't you like some tea?
+425	Nar Tea
+426	Damn! It didn't work out. Well, what can be done, return to the government building, and we'll look for another volunteer.
+427	Well, here we are. To the east of you there is an unoccupied base. That is, it was occupied by terronoids until our hackers turned on the "Absolute Weapon" for them, heh-heh... So we hope you'll manage!
+428	Yes, <Player>! You really gave those dominators a beating! Only why does your signal come from another island? What do you mean, a mistake? This isn't the Ministry of Defense, it's some circus with penchecrakus! Come back quickly, ranger!
+429	Oh-h, rangers. It seems you only have to call and they appear, but instead of solving the problem they blow it up to unprecedented proportions. You're lucky you haven't yet crossed paths with this very landscape engineer. Fly away from here quickly, before he actually gets to you.
+430	We probably have no assignments, but a rich but lately rather unlucky landscape specialist had the misfortune to discover dominators on his island, where he practiced various styles of space design. He is looking for someone who could rid him of this scourge. And for that he promises to pay the winner <clr>1.000.000<clrEnd> cr. Do you agree to such terms?
+431	Ranger? Well, in short, this scoundrel refused to pay you the full amount. He declared that you caused some damage to the island and all that sort of thing. However, in gratitude for sparing our special forces the need to stage a landing operation on this insignificant patch of land, because this artist has connections in the government, we added a little on top. Total <Money> cr. Not bad, is it?
+432	Landscape Designer
+433	Hmm... Perhaps we shouldn't have put forward your candidacy.
+434	So.. We have arrived at the spot. The heights are a bit unruly here, but for all questions on that subject apply to the island's owner. Our specialists have helped you a little, and there is a bridgehead, all that remains is to seize the base. Good luck!
+435	Not bad, quite not bad. Return to us, and in the meantime we will come to terms with this landscape blockhead.
+436	Ranger, do you know that according to the agreement you signed for taking the post of modular robot commander, in case of failing the task you are obliged to pay us 1.000.000 cr.?! Stop! Catch this crook!
+437	Well-l-l, ranger.. We have something to offer you!
+438	On our planet a unique mineral raw material is mined - mercs-sin. It accumulates as a result of the life activity of local aquatic plants and is of colossal interest to our chemists. Alas, one of the priceless deposits of this price-less raw material was recently seized by dominators. We have no idea what they are going to do with it, but hardly anything good. So we propose that you take the vacan-sy of commander of the modular robots taking part in our operation to liberate this very place.
+439	Ranger, you simply saved us! We are transferring your payment - <Money> cr.! We will be glad of further cooperation!
+440	Mercin Deposits
+441	Ranger? Where is our mercin? What do you mean, lost?!
+442	So-s-s.. we're on the spot. It's somewhat flooded here, because mercin has the property of sharply losing its unique qualities on leaving the aquatic environment, but that is unlikely to prevent you from quickly throwing the robots out of here. Good luck to you!
+443	Excel-llent! The mercin is ours!
+444	Ranger, but we had an agreement! How do we explain ourselves to the investors now?! Get out of here!
+445	Hm.. Let's put it this way: we have an object here.. One treatment complex... It does not belong to the state, but... It is an indirectly important source of our income, and it would be painful to leave it any longer under dominator control. We will give you a landing base and some time. Deal?
+446	Ranger, we are ver-ry glad of your victory! You can't even imagine how. That is exactly why we reward you with <Money> and words of gratitude, so that you will go on helping employees who find themselves in such a delicate situation.. And not only them. Good luck and farewell, ranger!
+447	Treatment Complex
+448	Well, ranger, why are you contacting us on the PDA?..
+449	So-s.. Here is our small complex.. It's even odd - how did as many as two series of dominators fit on it? Well, we'll find out later, when you take this complex. Good luck and be careful - the complex is old and some of the platforms <clr>sag<clrEnd>, because of which the robots' automatics will refuse to move through the dangerous zone.
+450	Excellent, ranger! We will now connect our specialists to your robots. We'll clear out the tin cans and patch up the complex at the same time.
+451	Ranger-ranger... Do you understand that this complex is a strategic object? You ought to be court-martialed!
+452	An assignment, an assignment.. Everyone wants an assignment.. Ah, here, it seems.. Yes-yes, that's it! Ahem..
+453	Well, ranger! On our planet there are several rather interesting natural objects consisting of natural basins filled with a local variation of lava. It has a fairly low temperature, is very viscous, yet very rich in various additives. You could haul it in wheelbarrows and smelt it in an ancient forge - that's how much. And even with ancient technologies it would yield an outstanding product of the highest quality, not to mention the properties of the mixture itself, whose study our scientists have only begun working on. Naturally, we will not tolerate dominators seizing the production of such valuable raw material. Destroy them - and we will pay for your labor in full, and new, highest-quality weaponry products will go onto the shelves of Coalition stores.
+454	Ranger <Player>, you are our deliverer! Here are your <Money> cr., and we will go to sing your praises and wish you health and other blessings!
+455	Battle for the Complex

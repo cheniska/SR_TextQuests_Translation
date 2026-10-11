@@ -1,0 +1,45 @@
+141	Excellent! No more dominators on the island! We await you with your report.
+142	AHEM!... this is an unforgivable waste of a successful position and government resources, ranger! We will report your disgrace to the network of Rangers' Centers so that you are never again put forward for such a role. Get out of here!
+143	You need an assignment, ranger? Well, we have something to offer you!
+144	Our planet has a decent planetary defense system, and when the dominators invaded our system not long ago, we weren't very afraid. The space-defense system justified the investment, and nearly all the invaders were destroyed. Nearly...
+145	Alas, we rejoiced too early and paid no attention to a pair of modules that survived all too well. They crashed not far from <clr>Battery 115<clrEnd>, located on a small archipelago that, before the battery was built, nobody needed and which was, on the whole, unknown, which is why the archipelago bears the same name. Well, the dominators' landing units are already preparing to seize the battery. We cannot allow that, so we propose that you, ranger, lead our operation to destroy the insolent invaders.
+146	So, the battery has been returned to our control. And nothing threatens the mansion of the prem... Ahem, the safety of the citizens. We thank you for your assistance, ranger, and present you with <Money> cr. as a reward!
+147	Battery No. 115
+148	...idi-OT!.. Ahem.. that wasn't for you, ranger. We await you with your report.
+149	So, we're here
+150	<color=0,255,0>Terronoids</color> have built a fairly well-fortified base in the north, a <color=0,0,255>kelleroid</color> module fell straight into one of our two mothballed bunkers. They de-mothballed it and launched it at full power. The battery is east of the second bunker, which we are handing over to your control.
+151	Excellent! The battery is in our hands! We await you with your report.
+152	Ranger <Player>, do you even understand what your defeat means for us? DO YOU UNDERSTAND???!!! And you can't possibly fully understand what colossal damage has been done to the government's prestige! Get out of here, and may your very spirit be gone!
+153	A special assignment, one piece... So, we have something to tell you! Sit down comfortably and listen!
+154	So, where to begin?.. Well, let's begin at the beginning! Our planet has long-standing traditions of monarchism. And when a revolution that deposed the ruling dynasty took place relatively recently, no reprisals were carried out against its members, and a significant part of their property was even left to them, including extensive land holdings.
+155	Well, one old wooded island ended up in the hands of the former kings. Many legends are connected with it, since both high officials and the monarchs themselves with their families liked to visit the forest park of this island. Naturally, when, as a result of an extremely intense assault, the dominators managed to seize bridgeheads precisely on that island, questions arose for the current government. That is exactly why we humbly beg you, as an experienced strategist, to lead our operation to liberate the island. In case of success our government will not skimp on the reward, believe me!
+156	Ranger <Player>! The famous park has been returned to our control, we have already begun dismantling the production sites and clearing the debris left after the intense fighting, and that means it's time to pay up! We have already transferred your well-earned <Money> cr. to your account. Glory to the liberator hero!
+157	Forest Park (easy)
+158	We advise you to fall back to the port, where our fleet will be able to pick you up. We await you with your report.
+159	Under your control are the fort near the center of the island and the <color=255,215,0>port area</color> where we deployed production. <color=0,255,0>Terronoids</color> have dug into the ground and created a well-defended base in the west, and <color=0,0,255>kelleroids</color> have dug a bunker and prepared units to invade from the east.
+160	Magnificent! The island is ours! We await you with your report!
+161	Forest Park (medium)
+162	Under your control is the fort near the center of the island. The port area, where we deployed production, was seized by <color=255,0,0>blazeroids</color>, so you will have to retake it as well. <color=0,255,0>Terronoids</color> have dug into the ground and created a well-defended base in the west, and <color=0,0,255>kelleroids</color> have dug a bunker and prepared units to invade from the east.
+163	Forest Park (hard)
+164	Well, ranger, I think there's no need to say that you not only earned nothing, or rather, you earned - a very powerful enemy? So we advise you to fly away while the going is good from the zone of his greatest influence.
+165	You know, I have what is not quite an assignment, but I think you'll be paid decently for it.
+166	We have a rich man. Not a local - he made a fortune on some planet-wide monopoly at the other end of the Arm and moved to us, away from his enemies - who doesn't have them?! - and bought up considerable territories of wasteland in the south of the planet. He summoned the best biologists of the Coalition, paid them whole fortunes, but turned the desert into a true corner of paradise, part of which he gave into state ownership, for which we are very, very grateful to him.
+167	And to the north of the central district of this park, where our rich man located his estate, there were numerous islands. During a routine check of the territory, dominator landing modules were discovered on one of them. Since the owner of the park is very jealous of his brainchild, I think he will be very favorable to his savior. So, will you take the risk?
+168	So-so... The park is in complete safety, which means that our savior receives from the generous hands of our planet's patron of the arts a monetary reward of <Money> cr.!
+169	Augean Garden
+170	Sad. Our flyer will try to pick you up as soon as possible.
+171	<color=255,0,0>Blazeroids</color> and <color=0,0,255>kelleroids</color> have only just landed, so all sides are in equal positions. We wish you luck!
+172	Our flyer will pick you up now. We await your report with impatience.
+173	Sad, of course, but the task set was very difficult, so we cannot demand anything of you. We will try to save the citizens with our own forces.
+174	Oh, ranger! You're just in time, we have something to offer you...
+175	Our planet was a border planet during the wars with the maloq-peleng alliance. Hundreds of thousands of bombs and missiles flew onto the surface, shot down by allied air defenses. Naturally, the Federation built an extensive network of bunkers for the population and garrison, mothballed after the creation of the Coalition.
+176	The dominators who seized our system were not very interested in these bunkers. At first glance. After the liberation of the system our intelligence discovered that a group of soldiers together with the civilian population had de-mothballed one of the bunkers and launched its defense systems - to resist the pressing dominators. We propose that you take control of the bunker's systems and smash the dominators to save the almost defenseless citizens.
+177	Magnificent! Our rescuers have already opened the bunker doors and freed the civilians and soldiers hiding in it! <Player>, from now on you are a national hero, and as a reward we are handing over to you <Money> cr.!
+178	All-Round Defense
+179	Connection to the bunker lost... It seems we underestimated the enemy.
+180	So, the connection is normal.
+181	Our modular robots control the territory near the bunker entrance. The three other series are attacking from different sides, so you won't have an easy time. One thing is certain - to win, you first need to take the enemy's robot-producing factory, since the bunker had none provided. Good luck!
+182	The bunker is safe, task completed!
+183	Sad that you failed to turn the situation in our favor. We'll have to tighten our belts. I warn you at once - the residents of our city are not so favorably disposed toward you, so be careful.
+184	So, an assignment... Have you practiced controlling modular robots lately? No? Then we have a little job for you
+185	The capital of our planet is located in a huge elongated bay - a former fjord, later washed out by hundreds of years of erosion. And not far from the exit to the open sea, conveniently for the defender of the bay, lies a small rocky island. Naturally, it was almost immediately turned into a powerful fort with a port for inspecting cargo transported by sea.

@@ -1,0 +1,45 @@
+186	In the course of the recent battle with the dominators in orbit we, to our shame, overlooked a landing of terronoids who seized the fort. Moreover, the surviving landing groups of the other series moved against them. This fort is an important point in supplying the capital with resources, so we cannot allow the dominators to go on controlling it, otherwise famine will begin. If you lead our landing operation and gain victory, then believe me - we will not stint on the reward.
+187	Ranger, you simply cannot imagine how many citizens of our planet, and from what fate, you saved by displaying your skill in controlling modular robots! On behalf of the whole city we hand over to you <Money> cr. as our gratitude!
+188	Fort Gladius
+189	The landing failed. Alas, the risk was great.
+190	Our landing party has already arrived at the emergency exit
+191	<color=0,255,0>Terronoids</color> hold the fort and the port, although <color=255,0,0>blazeroids</color> have already moored and will soon knock the greens out of there. <color=0,0,255>Kelleroids</color> are not lagging behind and are preparing to press from the other side. Good luck!
+192	The fort has been taken, which means the way to the capital is clear. Hurray!
+193	Sad that your mission was unsuccessful, since other options on our part would lead at the very least to damage to the iceberg. Wouldn't you like some coffee ice cream? They say it's tasty.
+194	So you want to do us a favor to the extent of your ranger abilities?
+195	In the northern latitudes of our planet there is one extremely interesting circular current. And there is one extremely large iceberg. Research has established that it has been floating there for not one tens of thousands of years. As you understand, such unique conditions attracted to this huge block of ice scientists and designers of various orientations. They were even happier when it turned out that on top of the ice floe the temperature does not exceed two hundred kelvins, and they began testing their gadgets in full swing.
+196	As you have probably guessed, the dominators flew there too, scaring off all the scientists and soldiers. We have one self-unpacking base and a landing flyer, and also a task - to clear so convenient a proving ground. Will you take on the task?
+197	So, the proving ground is ours again, which means our scientists will be able to get back to their business. Wouldn't you like some coffee ice cream? They say it's tasty. Well, all right, here are your <Money> cr.
+198	Lonely Iceberg
+199	Wait a little, the landing flyer will pick you up now.
+200	The flyer has dropped the base, and it is ready for use.
+201	All sides of the conflict are at sea level, and the high ground with the main proving ground has not yet been seized by anyone. Good luck!
+202	The iceberg is fully under our control. Return with your report to the government building.
+203	Ranger <Player>, do you even understand what your defeat means for us? DO YOU UNDERSTAND???!!! This was not just a deposit! PURE GOLD was mined there! In nuggets, as big as a maloq's head! We didn't tell you about it so that you wouldn't try to pocket something on the sly! What will happen to our economy now?.. So, you're still here? Get out! Oh no, what now, what are we to do?..
+204	We have something for you.
+205	Our planet, since its very settlement, has been purely a planet for extracting various minerals - owing to their almost boundless quantity, although lately there are fewer and fewer. Endless tunnels cross the depths, emerging wherever they happen to, and the equally boundless forest of pipes of the processing plants does not much adorn this landscape. But we're not talking about that.
+206	The dominators were immediately attracted by our industry, so shortly before the liberation they began a campaign to seize the non-mothballed mining districts. The miners put up stubborn resistance to the tin cans, but until we destroy the control centers, the situation will only get worse. Your task is to lead our forces and capture the enemy's positions. A monetary reward is guaranteed.
+207	Ranger <Player>! You have done us an invaluable service! Or rather, a very valuable one, for at this deposit the largest nuggets of pure gold were obtained, the size of an adult maloq's head! Imagine! We didn't tell you at once for fear that you'd take a few nuggets with you. Forgive our skepticism, but it was for your own good - we have the best detectors at the spaceport, and you would certainly have been caught and put on trial. Anyway, here are your <Money> cr. and enormous gratitude for saving our economy!
+208	Defense of the Mines
+209	Yes? Have you decided to cheer us up?.. What?! FAILURE?! Oh no, no-no-no...
+210	Well, <Player>, the situation is as follows: the dominators have seized both the mineral mines and the processing equipment. The planet's magnetic field is unstable, so we have no such things as north-south. You will have to navigate by a two-dimensional map.
+211	At the top of this very map are the processing facilities, and <color=0,255,0>terronoids</color> are entrenched there. The mines are "at the bottom," under the control of <color=0,0,255>kelleroids</color>. The enemy is well fortified, you have few resources. But don't lose hope, <Player>! If the chance is even a hundredth above zero - that is already enough for victory. As they say, good luck, my boy!
+212	Yes? Have you decided to cheer us up? Oh, that's excellent news! We await you with your report.
+213	Oh horror! The dominators have already started building landing ships to seize the remaining development areas! I have no idea how much all this will cost us, but surely a great deal. So clear out of here, ranger!
+214	An assignment, an assignment... You all need an assignment. They're almost all gone! But there's one for you.
+215	Our planet is in a way unique - when it had already formed as a very big, large spherical object, but was still entirely covered with lava fields, it was well pounded by asteroids of various kinds. They brought many useful things to our planet, but most importantly - they incredibly enriched the surface with titanium. Our mining industry, supplying raw materials to the whole sector, is located precisely in the place of the most frequent asteroid falls!
+216	So, I think there's no need to explain to you how dangerous a dominator landing in the mine district is for us. Right now they pose no particular threat, but if they manage to seize the whole mining area... So all hope is on you, ranger. Don't let us down.
+217	So, ranger - our mining industry is safe, and that means we are at ease as well. If you're interested, our peace of mind is worth <Money> cr., which means you can already consider yourself the owner of this money.
+218	Titanium Mines
+219	Fall back to the south, where the development area nearest to you is. We await you with your report.
+220	So, we've arrived at the spot.
+221	<color=255,0,0>Blazeroids</color> have taken the island to the north, with the plasma and electronics storage facilities that were necessary for the stable operation of the mining installations. They themselves are a little to the west. We advise you to take control of the development zone as soon as possible, since the mining installations are still extracting titanium, and its stocks will come in very handy in defending the installations. Good luck!
+222	Excellent! The threat is eliminated!
+223	Well, there goes our money! And why are you standing there, <Player>? Out of here!
+224	Well, if the question is put that way, let's get down to business!
+225	On one of our planets' moons - a fairly large one with an atmosphere quite decent for breathing - lie the boundless Red Wastes. The name is telling, isn't it? The landscape, I'll tell you, is remarkable, exactly the sort that fits the ancient human notion of one of the planets of their home system.
+226	But meanwhile, the soil contains enough minerals for industrial extraction, but not enough to outweigh the income from human investment. The dominators, however, thought otherwise, and built a whole production complex. We cannot lose so valuable a resource as these wastes, so we ask you to help clear the wastes of dominators.
+227	Well, <Player>? The complex is ours now, and nothing prevents us from renting out the vast red expanses! Your <Money> cr. are already in your account, take them and sign for them!
+228	Red Wasteland
+229	Oh-ho-ho! What bad luck that is. Wait, we'll send a flyer to you now.
+230	<color=0,0,255>Kelleroids</color> have built up this whole patch of land with their production sites, and only the landing zone is under our control, so you'll have a rough time. True, attacks from several directions should help. Anyway - just good luck!

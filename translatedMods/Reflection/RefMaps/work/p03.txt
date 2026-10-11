@@ -1,0 +1,45 @@
+96	How?! How is this possible?!.. I don't understand...
+97	So, here we are.
+98	The Central Power Unit is in your hands. <color=255,0,0>Blazeroids</color> and <color=0,205,0>terronoids</color> have landed to the west of you, so half of the power station's territory is outside the combat zone, so you have every chance of winning.
+99	Excellent! Now the shipyards will resume work as usual.
+100	Nagrile,Marshalska Rokossovsky
+101	How sad, how sad... So the Supply Center has been seized with no possibility of liberation? Good thing the personnel managed to evacuate, or it would have been bad. And you, <Player>, I ask to get off our planet and go to hell before something gets torn off!
+102	The assignment... Well, have a seat... Tea, coffee, yanvelb or just water? Well, nothing then. Then - listen
+103	Due to the tense situation in the defense of our system, the Headquarters of the Most Supreme Command - why our military men fancied themselves most supreme when there is a Sector Defense Staff? - decided to relocate the actual planetary defense headquarters to one of the remote archipelagos - so that the dominators wouldn't reach it right away if anything happened. But, as luck would have it, during the latest raid, which, incidentally, we managed to repel, a landing party was dropped precisely on one of the islands - the one with the supply headquarters.
+104	So far the landing party is not yet properly deployed, so we need to hurry to the rescue. Capture of the local supply node will lead to reduced operability of the headquarters, which is unacceptable for us. We have already prepared a landing group, and we propose that you, as an experienced commander, lead it.
+105	So, ranger <Player>! The Supply Center of the Planetary Defense Headquarters has been liberated from the invaders, which means our sappers can get down to their work, and you receive your well-earned <Money> cr.!
+106	Operation "Overworld"
+107	Code Red, Gold -5-, descend immediately to link up with the commander!
+108	Commander <Player>, we'll pull you out of there now! Hold on a little...
+109	Commander <Player>! Permission to report the situation!
+110	So, our landing party has approached the South Beach and is ready to land. A landing of <color=0,0,205>kelleroids</color> has dug in at the East Center, <color=255,0,0>blazeroids</color> are conducting their own landing onto the West Beach, and the North Center has been occupied by <color=0,205,0>terronoids</color>.
+111	Before retreating, our men managed to lay mines on the beaches and here and there in the territory, so you can try to make use of them!
+112	Gold -3-, descend immediately to link up with the commander!
+113	Incredible work! One of the flyers will pick you up now, wait a little...
+114	Hmm... Well, never mind, ranger, the trials for our landing troops will turn out better for it! And as additional help in creating, or rather destroying, the bridgehead - <Money> cr.!
+115	We have an urgent assignment for a specialist in controlling modular robots. Sit down and listen!
+116	For quite a long time the government of our planet pursued a rather aggressive policy of expansionism and militarism. Our arsenals were among the largest in the entire arm, and few even thought of attacking us. Alas, for the sake of the privileges of joining the Coalition we had to renounce such a policy. But we wouldn't be maloqs if we had sunk all our weapons! Naturally, it lay in warehouses awaiting its hour. With time it began to become obsolete, and the dominators showed up. Well, we decided - to hand all this old junk over to the planetary defense headquarters, so that, should the occasion arise, it could be launched at an insolent invader who decided to get too close to our borders. And during the very next dominator attack we managed to turn many of them into space dust by this method. Alas, while our brave fighters were carrying over the new missile, enemy landing parties landed on the island with the missile silos.
+117	Fortunately, we managed to hold the Western Line, from which we now plan an offensive. We could crush the enemies ourselves, but that would entail casualties among personnel, and so on, and so on. So we give you the opportunity to prove yourself and bring us - victory, and yourself - glory and money. What do you think?
+118	So, ranger <Player>... The planetary defense system object is again fully under our control. We thank you for the work done and present you with <Money> cr. for a splendidly conducted operation!
+119	Operation "Purge"
+120	We await you with your report, <Player>.
+121	The Western Line is in your hands. All three series have landed near the center of the island, so they will be busier with each other than with you, so you have every chance.
+122	Excellent! We await you with your report, <Player>.
+123	Hmm... A strategic object is in enemy hands. Well, never mind, little harm from it, just one radar, but then to divert forces for a landing. You did not live up to our hopes, <Player>! And you a ranger, too...
+124	Well, now... We have a little matter, not to say a direct "special assignment"! Interested? Well, then let's begin!
+125	In the course of the standoff of our orbital defense forces, several whole dominator modules fell to the planet's surface. The surviving units began the process of repairing their landing systems and forming assault groups, and upon completing the process sent ships toward the area where our radars are located. Some were destroyed by various kinds of bombardment, some were intercepted en route, with some our fighters are battling on the coast. But one small islet far from the main archipelago we had no intention of defending at all. So, noticing a landing ship near it, we were somewhat surprised.
+126	However, even now we have no intention of losing it - after all, it is government equipment, it will still come in handy, so we propose that you lead the operation to defend the island. It is small, so defending it will be fairly easy. In case of success we guarantee you a monetary reward.
+127	Well... The island is ours, all attacks are repelled, and our government has already transferred a bonus of <Money> cr. to you as a reward for successfully defending one of the points of our radar system. Prompt, isn't it?
+128	Radar Island
+129	[You heard absolutely nothing, so you decided something was wrong, and sent your ship a signal to pick you up quickly, because soon it would get too hot for you]
+130	Pardon me, <Player>, but with resource supply in the initial stages things somehow haven't worked out for us... But the landing of <color=0,0,205>kelleroids</color> has only just arrived. You have extra time to deploy your battle formations, so - good luck!
+131	Excellent! The radar is in our hands, and a flyer will descend for you now. We await you with your report.
+132	Marshalska Rokossovsky,Nagrile
+133	Hmm... Well, we'll have to use an orbital bombardment, and vanish at the sight of those "greenies"... Alas and alack.
+134	An assignment? Let's go! We have something to offer you!
+135	Our planet is a very large trade and industrial center. The products of our factories are distributed throughout the arm. Naturally, the income from sales was enough for us to install an orbital defense complex, and during the recent dominator attack we easily repelled all their attempts to land. But, alas, while our anti-aircraft gunners were busy shooting down larger targets, a couple of small landing modules of different series fell onto a remote island. When all the attackers had been wiped into space dust, we decided to finish off the islet, but while we were fussing about, those vermin had already deployed their extraction complexes in full swing. Alas, the option of destroying the island is undesirable for us - the "greens" would eat us alive for it.
+136	In short, our only hope is the modular robots holding a small patch of the island, and you, <Player>, an experienced commander. If you rid us of these fanatics, then rest assured, we'll not remain in your debt...
+137	Well... The island is ours, our specialists are already dismantling the extraction complexes, and there are no more furious crowds of "greens" outside the doors of the government building. We thank you from the bottom of our hearts, <Player>, and transfer <Money> cr. to your account. Don't be shy, you earned them.
+138	Green Island
+139	Hmm... Well, this outcome was obvious - the enemies had come far too close to the base...
+140	The dominators are scattered all over the island, and their forces are small so far... And why, pray tell, are there so many <color=255,0,0>Blazer</color> modules under the base? Well, it looks like you're in for a hard time. Well - good luck!

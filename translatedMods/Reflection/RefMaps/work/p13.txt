@@ -1,0 +1,21 @@
+546	Excellent, <Player>! The laboratory is ours again. Return.
+547	The platform is lost, <Player>. We'll have to cap the wells and leave it to the dominators along with half of our industry. For the repair of your ship we have still transferred <Money> cr.
+548	Ranger <Player>, we have trouble on the shelf.
+549	In the open ocean east of the capital stands our oil-producing platform - the only source of raw material for the local chemical industry. The dominators landed right on its decks, shut off the pumping stations and set up assembly of their robots in the hangars.
+550	We cannot bomb the platform from orbit: once the reservoirs are breached, the whole bay will turn into a dead zone for years. All that remains is to knock out the machines one by one. Will you take it on?
+551	The platform is pumping oil again, and the bay is clean. Here you are, <Player>: <Money> cr. from the oil consortium and from the government. Excellent work!
+552	Oil Platform
+553	We lost the platform... Evacuating the staff.
+554	Connection established, <Player>. We are passing control to you.
+555	Our stronghold is on the southwestern edge of the platform. The remaining tiers have been taken by <color=0,255,0>terronoids</color>, and <color=255,0,0>blazeroids</color> have dug in at the northeastern corner. The decks are narrow, the passages are covered by fire from end to end - don't charge headlong, seize the hangars one at a time.
+556	The last machine has gone to the bottom! The platform is ours, <Player>.
+557	Too bad, <Player>. The island remains with the dominators, and we will have to look for new sea routes. Accept <Money> cr. - at least for repairs.
+558	<Player>, you're just in time.
+559	Rift Island is named so for a reason: a deep chasm with a salt lake at the bottom splits it in two. There are only a few crossings over it, and all of them are now in the hands of the dominators. Kelleroids have taken the eastern part of the island and turned it into a fortress, and we hold only a bridgehead on the western shore.
+560	While the enemy is on the island, the sea routes along the whole coast are closed. Clear Rift - and our ships will put to sea again.
+561	Rift is free, and with it our coast. On behalf of the government accept <Money> cr., <Player>!
+562	Rift
+563	The bridgehead is lost... Retreating.
+564	Control transferred, <Player>.
+565	Your base is on the western tip of the island. <color=0,0,255>Kelleroids</color> have dug in on the eastern shore, beyond the chasm. There are few crossings, and the enemy surely keeps them under fire, so first gather a strike fist, and only then break through to that shore.
+566	The eastern shore is cleared. Excellent work, <Player>!

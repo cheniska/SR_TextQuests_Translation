@@ -1,0 +1,50 @@
+1	Let's begin!
+2	You lost!
+3	You won!
+4	I understand everything - it's hard, but damn it, there were chances! There were!! And now we'll have to wipe the island off the face of the planet with an orbital bombardment...
+5	The assignment... The assignment? Well, listen up...
+6	Our planet was frightfully cold, and all the water was accumulated in boundless glaciers. It was only later that we terraformed the planet... But we decided to preserve some of the glaciers - in the far north - for further study and experimentation.
+7	Together with our old friends - the faeyans - we conducted a series of experiments on reaching temperatures extremely close to zero degrees on the Kelvin scale, as well as studies of the behavior of various materials in such an environment. But recently the dominators reached this laboratory.
+8	We cannot allow them to use this laboratory for any purpose whatsoever, so we propose that you, as an experienced military commander, lead the remnants of our forces in the vicinity of the laboratory and drive the dominators out of our research facility! A reward is attached...
+9	Hurray! Our "laboratory" belongs only to us again!
+10	Wouldn't you like some iced tea? The ice is straight from there. No? Well, never mind, I'll drink it myself. Coffee? Fine, I'll ask my assistant to bring some now... Money? Ah, yes, here are your <Money> cr. Hurry up there, the national hero demands coffee!
+11	Zero Kelvin
+12	Hmm...
+13	We'll have to wipe the complex out with an orbital bombardment...
+14	So, <Player>, the situation is dire.
+15	Our last positions are in the very center of the island, at a crossroads, and robots of all three series can calmly attack us from all sides without fighting each other.
+16	Therefore we would recommend that you capture at least one robot-building installation. Mind you, none of them can extract resources, since we never equipped the installations with such equipment, so you will have to extract resources yourself. But at least we will bring in reinforcements, so - good luck!
+17	Hur-r-r-ra-a! The dominators are completely destroyed. We await you with your report at the government.
+18	So, we never did find out why you ended up controlling one, far from the best robot out of a whole group of 12 robots! But, naturally, the guilty will sooner or later be found and punished! As for you, for the moral damage and the involuntary breach of contract we are paying <Money> cr. It's just a pity that capturing the complex will now be much harder...
+19	The assignment... Ranger <Player>, we have something...
+20	On our planet there is a laboratory for developing new types of fuel. Yes. There is no limit to perfection after all, and the CAFIC demands novelties! The complex for, so to speak, the creation itself is on a separate island, away from unwanted eyes. And this very island was seized by the blazeroids in their latest landing.
+21	We cannot allow the dominators to keep using our complex, so we propose that you, as an experienced commander, take control of our landing party. We will pay well for hiring you and your robot-control abilities, rest assured!
+22	Excellent, <Player>! The laboratory is ours again, and here are your <Money> cr.! By the way, wouldn't you like to try our novelty, Ailinoil-101? No? But with this type of fuel the efficiency of your engine would rise by 101.2617198396 percent! All right, all right, I won't offer anymore. Your loss. The future belongs to Ailinoil!
+23	Fuel Laboratory
+24	Yes, an oversight in supply cost us dearly... The flyer has already left to pick you up, so we await you with your report.
+25	Ahem...
+26	In short - we are still finding out how it happened, but out of the entire landing party only <color=255,255,0>one</color> robot made it. Luckily, it ended up near a poorly defended neutral complex, which, however, is being attacked by the blazeroids, so you'll have to act quickly. will give You time to Seize the nearby positions and dig in on them... But don't dawdle - time here is v-very expensive!
+27	Excellent! Well, since the complex is completely in your hands, you can take the flyer left in a bunker nearby and return to us on it.
+28	So, the natives have shut themselves off from us completely, insisting on the desecration of their holy places, these scientists are swamping us with angry letters... Get out of here, <Player>, before the soldiers turn against you!
+29	Care for some coffee? Or maybe tea? Well, never mind, let's get down to business!
+30	Our planet was inhabited even before our arrival, but the aborigines did not reach heights of development and, having multiplied, did not occupy many territories, so at first we did not even notice their presence, and afterward scientists swarmed in, cordoned off the aborigines' settlement zone and began studying them.
+31	So, recently they raised the whole planet to its feet - the dominators occupied the aborigines' holy island, and now they refuse to cooperate until we drive out the invaders.
+32	We have no right to bomb the island, and we have no specialists in controlling modular robots. So we tearfully beg you to help us and grind the dominators to dust. In case of victory we'll shower you with mountains of gold.
+33	So, <Player>, the aborigines have restored relations with us again. Here are your <Money> cr. and an incredible amount of gratitude from the whole scientific community. We thank you incredibly!
+34	Broken Coconut Island
+35	I understand everything, of course, but not this...
+36	We await you at the government.
+37	Well then...
+38	So, here it is - Broken Coconut Island.
+39	The island itself is small, so advancing will be difficult. However, for now the <color=255,0,0>blazeroids</color> and <color=0,205,0>terronoids</color> are fighting each other, so you have every chance to burst into their clash and smash them with a mighty blow. To battle, <Player>!
+40	Hurray! The island is ours. We have already sent specialists to dismantle the extraction complexes, and they will pick you up from there.
+41	So, our team has suffered defeat in the semifinal for the first time... Well, one has to start somewhere... And I'd advise you to clear out, because your defeat is a crime in the eyes of our people, and they may lynch you.
+42	The assignment, <Player>... wouldn't you like to take part in a... contest, if one may put it so?
+43	On our planet a competition is being held in a strategy game - <clr>shamodzuki<clrEnd>. The game, rather unexpectedly, was created by pelengs. The point is that two players on a square field with three roads - the central one and two on the borders - move and fight with their pieces in order to reach the opponent's center and thereby win. With the appearance of modular robots the idea arose of using them as big figurines on a huge, real proving ground. When they were banned, it proved possible to simply install limiter modules on our Association's robots. Thus the game survived to this day.
+44	And now, on our planet <Planet> - the permanent venue of the competitions - the semifinal is taking place. Alas, our representative was caught by pirates during a pleasure flight around the system and taken hostage. Our special units are already freeing him, but he won't make it to the semifinal in any case. So we ask you, as a qualified specialist in controlling modular robots, to take the place of our champion and lead our team to victory. In case of success a monetary reward will not be long in coming.
+45	So, <Player>, you won the semifinal, for which we are transferring <Money> cr. to you. Our champion has already arrived on the planet and is ready to take part in the finals of the competition. We humbly thank you for your cooperation.
+46	Duel
+47	NO-O-O! <Player>!... I have no words. This is a complete fiasco.
+48	So, <Player>...
+49	At the moment your positions, like the enemy's, are absolutely equal. Resources for building new robots come only from the base. So you have every chance of victory. Good luck!
+50	YES! I didn't doubt you, <Player>. You led our team to another victory in the semifinal! Hurray! We await you in the Main Hall.

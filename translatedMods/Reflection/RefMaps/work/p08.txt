@@ -1,0 +1,45 @@
+321	Solaris
+322	Access to Item-Object 23-504 lost. Mission failed. Flyer summoned.
+323	Initialization process... <Player>-34_76-14
+324	Access granted. Good battle!
+325	Access to Item-Object 23-906 obtained. Mission accomplished! Flyer summoned.
+326	Ranger, you allowed the loss of expensive robot-producing equipment! If we could, we would deduct it from your funds, but the Rangers' Center Network forbids us to do so, so leave our planet, or you'll land in our detention center for, say, five hundred ten days!
+327	Hm... Well, if you want to earn a little extra, we have something to offer you.
+328	Our planet has been in a state of defense preparation for quite a long time, and so our government has built a rather large-scale defense system. Anti-missile defense systems, orbital guns, anti-ship batteries able to reach the enemy in low orbit, a network of bunkers for civilians...
+329	This infrastructure also includes decoy elements - for example, fake bunkers stuffed with weapons. Unfortunately, some klutz in the local branch of Planetary Defense forgot to properly protect the access codes of one such bunker, and part of the defense measures fell into the hands of the dominators. We were going to hand control over to specialists of that profile, but, judging by information from the Rangers' Center Network, you are a rather good specialist in this field, so we propose that you take control of the remaining positions and smash these tin cans!
+330	Well, ranger? You have carried out your mission, we have transferred the reward of <Money> cr. to you. We will be glad to meet you again, and to cooperate.
+331	Hmm... We should have ignored the recommendations and handed it over to our own specialists!
+332	So, access has been passed to you.
+333	The bunker consists of the Outer Emergency sector (where our robot-producing base is located) and the Inner sector.
+334	In the Inner sector the main part is occupied by camouflage elements imitating the presence of living beings inside. Deep within the fortifications are production complexes, torn apart by two series. Nearby we have a small group of robots, but the enemy has sent a considerable group to the Outer sector as well. What to do is for you to choose, but, nevertheless - good luck!
+335	Excellent! The dominators are destroyed, which means you have accomplished your task. Hurray!
+336	Ranger. And so you return to us, and our complex is still in the dominators' manipulators! I think you are sensible enough not to hope for a warm welcome. Away from here!
+337	Ranger, you're just in the nick of time!
+338	On our planet there is one unique endorheic lake that periodically changes its location - Kob-Nor. To study its phenomenon an extensive complex was built with huge capacities for all kinds of research. And, of course, as you have already guessed, the dominators set their eye on it. While the scientific staff was evacuating, these tin cans landed on our complex and began rebuilding it. We cannot allow its loss, so we propose that you, for a moderate fee, clear the territory of dominators.
+339	Ranger, you have returned our complex to us, and we are transferring <Money> cr. to you! Not a bad exchange, is it?
+340	Surface Complex
+341	How could this be, ranger?! Our complex!.. Well, we have sent a flyer for you, come back...
+342	Well, how was the flight? Anyway, to business.
+343	Terronoids and kelleroids are now in the western half of the complex. The good news is that, owing to the internal layout of the complex, you can easily reduce the directions of possible enemy attack to a minimum, which we advise you to do.
+344	Magnificent! We have already sent a flyer to you, and await you with your report!
+345	So, ranger, you allowed our positions to be lost! This is completely unacceptable, but since we did manage to obtain recordings of the dominators' behavior at the proving ground, we will not be so strict with you. Nevertheless, you will not receive a monetary reward anyway. Go away.
+346	<Player>, we have a suitable assignment.
+347	The University for the Study of Alien Occult Rituals commissioned an experiment in which it was planned to study the influence of structures in the shape of ancient human symbols on the behavior of dominator modular robots. Figured proving grounds were built, covered with soil, robot-producing factories were set up. With some difficulty functioning dominators were obtained to release onto the proving ground. And now, on one of them, the dominators broke out of control. As part of the experiment the enemy dominator positions had already been created, so we propose that you take control of them and return the proving ground to our hands. For victory we guarantee you a solid reward.
+348	Excellent, <Player>! The recordings obtained may help us in proving the theory of a geometric interrelation in the dominators' logic, which will allow predicting their behavior depending on the landscape! However, we won't keep you. Your well-earned <Money> cr. are already in your account.
+349	Yin-Yang
+350	And you lost! Well, now we'll have to deal with this ourselves! Return to the government building.
+351	So, here is the "Yin-Yang" proving ground.
+352	In essence, your positions and the dominators' are identical, so you have every chance of winning. Good luck!
+353	Excellent! We recorded this battle, and now we have invaluable experience! We will pass the recordings to the scientists, and await you with your report.
+354	...Wow! That's some technology!
+355	And here you are, ranger! Close the portal quickly before the dominators get through!
+356	Ahem, ranger! We entrusted you with freeing our park from the dominators' presence. And you did not do it. There is only one conclusion - get out of here, and you won't see any reward!
+357	<Player>, you're just in time!
+358	In our planetary capital multiplexagonal complex there is a special structure called the "Winter Park." It is like a winter garden, only on a large scale. It was created to eliminate, as far as possible, the population's separation from nature. For its operation a unique complex was developed and launched for creating the best conditions for the flora of this or that natural zone that we reproduce. Alas, during the occupation this site interested the dominators too. So, we have a business proposal - you clear the park for us, and we pay you money. Deal?
+359	Wonderful, <Player>! You have cleared our landmark of these tin cans, and that clearly deserves <Money> cr.!
+360	Winter Park
+361	Ranger! The portal will open in three.. two.. one..
+362	The dominators' positions are located some distance from yours, so there is a chance they will lock horns with each other. We have blocked the emergency exit after your arrival, so if you have to retreat, you will have to wait, since aiming the captured Keller portal takes time. Well - good luck!
+363	Excellent! So we set up this contraption in vain, although, on the other hand, we figured it out. Well, never mind - we await you at the government building.
+364	Ranger <Player>, do you remember what you were told here at the beginning of your mission? So get going while the spacebuses are still running!
+365	Ranger, we have something... Where you could assist us!
