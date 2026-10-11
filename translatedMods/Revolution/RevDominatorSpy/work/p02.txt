@@ -1,0 +1,17 @@
+33	else stroka=stroka+'Fuel tank: N/A'+CT('FormInfo.br');
+34	stroka=stroka+'Droid: ' + Name(it) + ' (efficiency ' + GetEquipmentStats(it,0) + ' units), level: ' + ItemLevel(it) + ', weight: ' + ItemSize(it) + ' tons, cost: ' + ItemCost(it) + ' cr, durability: ' + ItemDurability(it) + '%'+CT('FormInfo.br');
+35	else stroka=stroka+'Droid: N/A'+CT('FormInfo.br');
+36	stroka=stroka+'Gripper: ' + Name(it) + ' (power ' + GetEquipmentStats(it,0) + ' units, range ' + GetEquipmentStats(it,1) + ' units), level: ' + ItemLevel(it) + ', weight: ' + ItemSize(it) + ' tons, cost: ' + ItemCost(it) + ' cr, durability: ' + ItemDurability(it) + '%'+CT('FormInfo.br');
+37	else stroka=stroka+'Gripper: N/A'+CT('FormInfo.br');
+38	stroka=stroka+'Shield generator: ' + Name(it) + ' (protection ' + GetEquipmentStats(it,0) + '%), level: ' + ItemLevel(it) + ', weight: ' + ItemSize(it) + ' tons, cost: ' + ItemCost(it) + ' cr, durability: ' + ItemDurability(it) + '%'+CT('FormInfo.br');
+39	else stroka=stroka+'Shield generator: N/A'+CT('FormInfo.br');
+40	stroka=stroka+'Radar: ' + Name(it) + ' (range ' + GetEquipmentStats(it,0) + ' million km), level: ' + ItemLevel(it) + ', weight: ' + ItemSize(it) + ' tons, cost: ' + ItemCost(it) + ' cr, durability: ' + ItemDurability(it) + '%'+CT('FormInfo.br');
+41	else stroka=stroka+'Radar: N/A'+CT('FormInfo.br');
+42	stroka=stroka+'Scanner: ' + Name(it) + ' (power ' + GetEquipmentStats(it,0) + '%), level: ' + ItemLevel(it) + ', weight: ' + ItemSize(it) + ' tons, cost: ' + ItemCost(it) + ' cr, durability: ' + ItemDurability(it) + '%'+CT('FormInfo.br');
+43	else stroka=stroka+'Scanner: N/A'+CT('FormInfo.br');
+44	if(ShipEqInSlot(s,t_Weapon1,j) < 1) stroka=stroka+'Weapon '+ j + ': N/A'+CT('FormInfo.br');
+45	stroka=stroka+'Weapon ' + j + ': ' + Name(it) + ' (damage ' + GetEquipmentStats(it,1) + '-' + GetEquipmentStats(it,0) + ' units, firing range ' + GetEquipmentStats(it,2) + ' units), level: ' + ItemLevel(it) + ', weight: ' + ItemSize(it) + ' tons, cost: ' + ItemCost(it) + ' cr, durability: ' + ItemDurability(it) + '%'+CT('FormInfo.br');
+46	Portable Infiltrating Dispersing Scanner - a special development of the Coalition's network of science centers.
+47	A compact version of the powerful military scanners used to reconnoiter enemy systems and track pilots' actions. Its distinguishing ability: this scanner can bypass a shield of any strength and display detailed information about the <clr>ship's condition<clrEnd>. Its drawback compared to the original scanner is limited range - the PIDS can scan only the nearest ships within <clr>450<clrEnd> units, after which it goes off to recharge.
+48	In addition, technicians have noted the device's increased efficiency in synergy with recognition systems of <clr>unknown<clrEnd> make. A pleasant bonus of the device is that the ship's combat systems make effective use of the PIDS data, which raises the output firepower against all previously scanned ships roughly <clr>2<clrEnd>-fold, but after a while this information inevitably <clr>becomes outdated<clrEnd>.
+49	Doubles damage to the scanned target
