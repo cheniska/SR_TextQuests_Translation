@@ -1,5 +1,5 @@
 1	Hull durability: <Size> (<MaxSize>) units, the plating blocks up to <HitProtect> units of damage.
-2	Damage susceptibility:<br>E:<FragilityE>%  F:<FragilityS>%  M:<FragilityM>%
+2	Damage susceptibility:<br>E:<FragilityE>%  S:<FragilityS>%  M:<FragilityM>%
 9	Probe limit: <bonZonds> pcs.
 10	<color=20,220,20>Scanner and radar operation guaranteed</color>
 11	Hull "Bolide" I

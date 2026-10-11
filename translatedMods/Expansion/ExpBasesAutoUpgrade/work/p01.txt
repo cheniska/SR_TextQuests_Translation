@@ -1,1 +1,1 @@
-1	Hidden info item for automatic base upgrades, attached by terncode in the script
+1	Hidden info item for automatic base upgrades, attached by turncode in the script

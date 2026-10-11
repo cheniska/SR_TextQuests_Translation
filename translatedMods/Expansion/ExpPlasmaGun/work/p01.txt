@@ -7,6 +7,6 @@
 9	Firing range: <clr>+80<clrEnd> mln km
 10	Additional shots: <clr>-1<clrEnd>
 11	<color=248,252,248>The next step in the development of the Plasmagun. The modified power plant is significantly more expensive and overheats faster, but in return it increases the rate of fire and firing range, and also reduces the volume the gun takes up.</color>
-12	Designed for targeted shooting at repair robots, weapons with the "Dzhavitor" modification can fire along a droid's path of movement, thereby getting a chance to block an enemy ship from carrying out repairs during battle.
+12	Designed for targeted shooting at repair robots, weapons with the "Javitor" modification can fire along a droid's path of movement, thereby getting a chance to block an enemy ship from carrying out repairs during battle.
 13	Weapons upgraded under the "Lifokar" project deal additional damage to damaged targets, using a mechanism of sequential ultra-precise fire into hull breaches.
 14	Damage bonus: <clr>up to +33%<clrEnd>

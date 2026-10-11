@@ -3308,6 +3308,6 @@
 | Рачехан Лагер (пиво) | Rachekhan Lager | Expansion/ExpBeerQuest |
 | Искра (корпус) | Spark | Expansion/ExpLightning |
 | Дядя Вася и сыновья (тюнинг-компания) | Uncle Vasya and Sons | Expansion/ExpLightning |
-| Армолок / Дифрод / Джавитор / Лифокар (модификации плазмогана) | Armolok / Difrod / Dzhavitor / Lifokar | Expansion/ExpPlasmaGun |
+| Армолок / Дифрод / Джавитор / Лифокар (модификации плазмогана) | Armolok / Difrod / Javitor / Lifokar | Expansion/ExpPlasmaGun |
 | трансфакторный маяк | transfactor beacon | Expansion/ExpPanelPlus |
 | нд. (ноды) | nd. | Expansion |

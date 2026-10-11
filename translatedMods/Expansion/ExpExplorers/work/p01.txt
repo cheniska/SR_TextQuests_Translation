@@ -55,7 +55,7 @@
 55	Yes, master! Setting a course for the specified wormhole.<br>Upon arrival I will wait for you at the hyperjump boundary.
 56	Forgive me, master, but I must refuse to carry out your order.<br>According to my sensors, the hyperactivity in the specified wormhole exceeds permissible limits. There is a significant probability that my navigation systems <clr>will not withstand<clrEnd> the load and I will be lost forever in unexplored space, which runs counter to my primary programming of serving you.
 57	Invisible info item for a brave explorer of "black holes"
-58	Invisible info item for the player's companion or transport, obliging them to collect items from the specified uninhabited planets
+58	Invisible info item for the player's companion or tranclucator, obliging it to collect items from the specified uninhabited planets
 59	Invisible info item for the player's companion able to fly into black holes
 61	34,	33,	33, Explorer
 62	34,	33,	33, Adventurer

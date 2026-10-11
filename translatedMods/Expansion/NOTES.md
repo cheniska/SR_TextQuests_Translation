@@ -9,9 +9,10 @@
 
 ## Вопросы пользователю / сомнительное
 - ExpBeerQuest 20–24 «Выбирайте малокские/…» — обрывки фраз без продолжения: переведены как «Choose maloq/peleng/human/faeyan/gaal».
-- ExpExplorers 58: «транк» понят как transport (не уверен); «чертелоиды» → devilspawn.
-- ExpPlasmaGun: Джавитор → Dzhavitor (возможна отсылка на «janitor»); Армолок, Дифрод, Лифокар — строгий транслит.
+- ExpExplorers 58: «транк» = транклюкатор → tranclucator (решение пользователя).
+- «чертелоиды» → devilspawn (мой вариант).
+- ExpPlasmaGun: Джавитор → Javitor (решение пользователя); Армолок, Дифрод, Лифокар — строгий транслит.
 - ExpHulls: слово `bonus` в строках 27/28/35/42 — литерал в RU, оставлен как есть.
-- ExpHulls 2: Э/О/Р → E/F/M (по старому EN); расшифровка не проверена.
-- ExpBasesAutoUpgrade: «тернкод» → terncode (дословно).
+- ExpHulls 2: Э/О/Р = energy/splinter/missile → E/S/M (по ванилле).
+- ExpBasesAutoUpgrade: «тернкод» → turncode (решение пользователя).
 - Файл ExpRangers (пустой по строкам) собран с BOM, исходный RU без BOM.
