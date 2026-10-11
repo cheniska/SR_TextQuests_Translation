@@ -1,0 +1,110 @@
+906	Gluon Tormentor Prototype
+907	Gluon Torpedo Launcher Prototype
+908	By the way, some curious information has come up that requires your direct attention, boss.
+909	Oh, the weapons are fine. The professor didn't leave the lab for all three months. He drank there, he ate there, he slept there and... we should give the cleaners a bonus... But in the end he pulled it off!
+910	I present to your attention a new round of evolution in the field of radical dispute resolution - <clr>gluon weaponry<clrEnd>. The main feature of such weapons is the <clr>gluonization<clrEnd> effect - the accumulation of a gluon charge on the target, creating additional vulnerabilities with each subsequent use. Simply put - the longer you shoot at an enemy, the more damage it takes.
+911	But that's not all! Since our gluon weaponry is standardized and tuned to a single microwave frequency, the damage increase against a target will work for all gluon guns on all ships firing at the same target simultaneously. By preliminary estimates, in its potential the gluon series is able to surpass all modern analogs known to science.
+912	Ah yes, about the series itself: three weapon models in all were created - the <clr>gluon emitter<clrEnd>, the <clr>gluon tormentor<clrEnd> and the <clr>gluon torpedo launcher<clrEnd>. Prototypes have already been delivered to the warehouse for, so to speak, combat testing, heh-heh. But very soon we'll launch mass production and equip all our boys with gluon weapons. We'll also put a couple of units up for sale, so don't forget to drop by our store if you want to try the improved versions.
+913	Well, let's see what this gluonization is
+914	So what about our new weapon?
+915	What was that interesting thing you wanted to tell me?
+916	Say that again, what scientist is that?
+917	That's great! In that case head to the <clr>science base <SB><clrEnd> in the <Star> system and try asking around about the professor. Try telling him a fairy tale about saving the Galaxy or scaring him a little - he's no soldier, after all - it might work. In the worst case, you can always try greasing his palm - I doubt his salary is very big, considering how they treat him there. And meanwhile I'll make sure everything is ready for your arrival.
+918	Why not, let's try
+919	One of our scientists let slip that a few years ago, when he was still a green bachelor, one of the leading lights of science was a certain professor <clr>Shtoyn<clrEnd>. At that time he was studying some revolutionary kind of weapon that "would allow bypassing any of the usual limits on the growth potential of damage dealt to a space target", or something like that.
+920	However, after the war with the Dominators began, his project was shut down for lack of funds. And although <clr>Shtoyn<clrEnd> had apparently even managed to create a prototype and practically proved its effectiveness, jealous colleagues managed to convince the leadership that further sponsoring of his project would be a waste of budget funds. The Coalition Council decided to freeze <clr>Shtoyn<clrEnd>'s project, and the scientist himself was transferred to the <clr>science base <SB><clrEnd>, where he languishes to this day.
+921	And then I thought - what if we offer him to work for us? We'll finance the project, help him finish his life's work, and in return get a unique weapon that has no analogs. Yes, of course we risk losing money, but as they say: "Who doesn't take risks, deals in minerals" - heh-heh.
+922	So, boss, are we in?
+923	Ehh, as you say. If you want to come back to this topic, I'm all for it. As long as there's still something to discuss later, because all sorts of things happen with science bases - a Dominator torpedo veers off course, an experiment fails, a stray bomb detonates...
+924	Maybe later
+925	Your HQ was destroyed, further completion of the task is impossible.
+926	The science base where Professor <color=255,240,100>Shtoyn</color> worked was destroyed. It seems he took all his secrets with him to the grave.
+927	You agreed to try to lure the legendary scientist to your side. According to rumors, he was last seen at the science base <SB> in the <Star> system.
+928	You came to an agreement with Professor <color=255,240,100>Shtoyn</color>. All that's left is to wait for his arrival at the HQ.
+929	You successfully brought Professor <color=255,240,100>Shtoyn</color> over to your side. He promised to finish developing the new weapon within <color=255,240,100>the next three months</color>.
+930	Recruit Professor <color=255,240,100>Shtoyn</color>
+931	I'll give you a hint, he's standing in front of you. How can I help?
+932	Yes, I did. It wasn't just a new weapon. It was supposed to be a revolution in the understanding of quantum chromodynamics! I was so close to unlocking the potential of the gluon effect. All that remained was to find a way to overcome asymptotic freedom at zero confinement and...
+933	Oh, forgive me, I got carried away. If I'd been given a little more time, everything might have turned out differently. My discovery could have turned the course of history around! But, unfortunately, what happened happened - the project is frozen, I was transferred here as a public relations specialist, and for some reason you are interested in my past.
+934	By the way, why are you asking about this at all?
+935	What? Work for you? Ah... Wait, aren't you by any chance the Ranger who founded the <PlayerOrgName> organization? Interesting.
+936	You see, I actually dream of finishing my work, since it's my life's work. But just imagine how many problems I'd have because of that. I'd be declared a traitor to the state, expelled from the galactic scientific community, and yet I have their monthly journal subscription paid ten years ahead!
+937	I don't know, <Player> - this is all a very big risk...
+938	Can you tell me where I can find Professor <clr>Shtoyn<clrEnd>?
+939	They say you were developing some new weapon
+940	I'll sponsor your project if you work for me afterward
+941	About our conversation...
+942	I've already stated my position to you, <Player>. Or have you got other questions?
+943	Now that's the right approach, <Player>. Businesslike, so to speak.
+944	Considering the costs of transporting the necessary equipment, the services for changing my personal documents and identity, the "gratitudes" to some former colleagues so my disappearance isn't discovered in the first few days, and also taking into account all the risks of moving to your organization, then... For less than <Cost> cr. I will not work for you.
+945	Think, <Player>, think - I'm in no hurry. I've waited so many years - I can wait a little longer. In the meantime, maybe something else interests you?
+946	Let's be frank, professor - how much?
+947	In that case, <Player>, expect me at your HQ in a few days, and meanwhile I'll prepare for the move. Until then, is there anything else that interests you?
+948	Deal [<color=0,50,200>pay</color>]
+949	Well, I don't think so. When the time comes, my project will surely be remembered. Even if I'm not destined to finish it, I want to be remembered by the Galaxy as an honest scientist, not as a traitor.
+950	What if this is your last chance to finish what you started?
+951	Yes, there's some truth in your words. If the Coalition wins this war, development of all remaining military projects will most likely be shut down for many years. And if the Dominators win... I don't even want to think about it.
+952	Well, <Player>, give me a few days to gather the most essential things, and I will arrive at your organization's HQ. I hope I won't regret this decision.
+953	Don't feed me that rotten hogwash! What dozen bombs? This is a secret military development of the Coalition that was never put into mass production! Even on the black market it's not easy to get a single one.
+954	It seems I shouldn't even have considered your ridiculous proposal.
+955	You know, professor, I happen to have a dozen quark bombs lying around in my hold. I think I'll drop them somewhere nearby after takeoff, they're in the way...
+956	NO NEED TO DROP ANYTHING!!!
+957	Ahem, sorry. So, since you insist, I suppose I agree to join your organization. Expect me at your HQ in a few days.
+958	Bye
+959	I have a package for you
+960	There's an assignment, <Player>, but strictly personal.
+961	The thing is that a few months ago I got a girlfriend. True, I haven't met her yet, we only correspond through the Ka-Tsap app, but that doesn't get in the way of our feelings. Imagine, she likes all the same things I do: from human rock music of the last millennium to collecting cards based on the legendary VRMMORPG "Iike-Baana"! I feel how close we are, as if fate itself is linking us across the dark expanses of space!
+962	Ranger <Player>, you are entrusted with a responsible task: deliver this <clr>1000<clrEnd>-carat diamond to my beloved princess, who lives on the planet <TargetPlanet> in the <TargetStar> system. But don't delay! Otherwise my beloved will be displeased by such a long absence of gifts, and if she's displeased - then I'm displeased too. And if I'm displeased... well, I think the rest needs no explaining.
+963	What package? Wow, would you look at that. Now that's a diamond. For a girl, you say? Well, I'm his "girl", heh-heh. He surely told you how alike we are, that I like listening to rock music, that we were made for each other. Honestly, I myself don't understand how in our age of universal galactic piracy and "star dust" there are still such natural talents who fall for a fake photo on Ka-Tsap and a fable about shared interests. He wrote them in his own profile!
+964	Only, Ranger, you won't tell him what you found out, right? And I'll put a neat signature here saying I received the gift on time. As they say, the gobsauri are fed and the penchecrakuses are intact.
+965	Yes, <Player>, your help will come in handy.
+966	Is your ship at the spaceport now? Well, where else would it be. So, one second...
+967	"Hello! Yes, it's me! Prepare everything for loading onto Ranger <Player>'s ship. What do you mean there's no signature under the consent? He's sitting in my office right now signing the waybill. I'll send everything to you shortly".
+968	Well, did you sign? What do you mean you don't know what it is? It's a waybill for cargo that you need to deliver to my partner on the planet <TargetPlanet> in the <TargetStar> system. Only you need to manage it by <EndDate>, otherwise the secret goods-exchange agreement expires and nobody will simply want to ship anything out to you.
+969	If you do everything on time, I promise to help with your matter.
+970	What the hell kind of package, <Player>!? Just now my mansion's security reported that a whole mountain of radioactive waste is being unloaded next to it!
+971	WHAT?! IS THAT YOUR PACKAGE!? I'LL... From whom? From the planet <StartPlanet>? Damn joker, I'll shove that dump into his... never mind...
+972	My advice to you, <Player>, NEVER play cards! Because it ends... well, you see it all yourself. Let me sign for receipt, and be on your way.
+973	Since you are so determined, <Player>, then take this case and, without opening it, deliver it to the planet <TargetPlanet> in the <TargetStar> system.
+974	The case must be delivered by <EndDate>, otherwise there will be neither our second conversation nor your future HQ.
+975	Excellent, hand it over. I'll tell the sender that the package is delivered. You're free to go.
+976	Fine, <Player>, since you need this permit so badly...
+977	My boss is a very busy man. Not long ago a representative from the planet <TargetPlanet> visited him on the weekend. They discussed some important joint project for a long time, but then the ambassador had urgent business and returned to his homeland.
+978	You need to take this transmitter to the planet <TargetPlanet> in the <TargetStar> system and hand it personally to a government representative. This must be done by <EndDate>, otherwise the negotiations may fall through, which would negatively affect my boss's plans.
+979	Show me what you've got. A Geniusphone? So, let me have it... Oh, incoming call: "Hello... Who? Dad? What's the matter? Wait... don't shout... well yes, my friends made a bit of a mess in the house... I didn't run away from any responsibility! What do you mean you'll block my accounts!?"
+980	So, <Player>, did you want something else? Ah yes, the signature. I have an urgent conversation of national importance here, so please excuse me. Here, all the best.
+981	I have a letter for you
+982	Yes, and indeed there's an easy little job just for you.
+983	You need to deliver this envelope to the government building of the planet <TargetPlanet> in the <TargetStar> system and leave it in the storage room. The envelope must be delivered by <EndDate>. Upon your return the signed papers will already be waiting for you. Deal?
+984	Very good, <Player>. Let me sign for the completed delivery, and leave the letter itself in the storage room.
+985	Well, sounds reasonable - the mechanics have already started work.
+986	The new power core has been successfully installed and connected to the station's power supply system.<AddText>
+987	Quite recently scientists invented a new defensive technology that uses the principle of directed singular deviations of matter. The increase in protection comes from point-curving of matter at the places where enemy projectiles hit and from distorting space along the path of our own shots.
+988	A massive generator is built into the hull, using its parts to form an active field. Such a device requires so much energy that we'll have to completely de-energize the space <clr>hook<clrEnd> compartment and redirect the freed-up power exclusively to the generator's needs.
+989	Strength of <WeaponType> weapons: <clr>+20<clrEnd>
+990	Strength of fragmentation weapons: <clr>+20<clrEnd>
+991	Field generator: <clr>+7<clrEnd>
+992	Hull cost: <clr>+25%<clrEnd>
+993	Installation cost: <Cost> cr.
+994	The generator will be delivered and mounted immediately after the order. True, no other special upgrade will be possible afterward. <AddText>
+995	Guess which ear is buzzing on me? Both, you say? Oh, you! That's the sound of a working <clr>GSOM<clrEnd>!
+996	From now on our HQ is a truly tough nut and can give a worthy rebuff to any enemy!
+997	Upgrading the HQ is costly, but it's like in business - without big investments you won't see big profit. In time, all the expenses will pay off handsomely and we'll live in clover. So keep an eye out and don't be stingy, because, as they say, a miser pays twice... or thrice... or four times.
+998	Here is the engineering summary of the current technical condition of our HQ's hull:
+999	By the way, <Player>, as the owner and director of the organization, you can take direct part in planning the work and optimizing it, if, of course, you know your way around machinery, or recommend where consumables can be bought cheaper. I remind you that the organization's account currently holds <CurrentBalance> cr.
+1000	The list of available HQ improvement works is given below.
+1001	Okay, boss, I'll contact a foreman I know right away. He charges a fair amount, but you won't find a better crew. By evening everything will be ready in perfect shape!
+1002	Well, that's it, actually. I told you they were the best! Our HQ has been significantly expanded and new equipment has been brought in. You can stroll through the new corridors and appreciate the result.
+1003	I'm also glad to report that we can now recruit <clr>more mercenaries<clrEnd> into the organization, don't forget to give instructions if you want to change the limit.
+1004	I'm also glad to report that we can now recruit <clr>more mercenaries<clrEnd>, and at the shipyard you can now order the construction of our <clr>own battle cruiser<clrEnd>! Cool, isn't it!?
+1005	Got it, boss. New armor plates are already being welded to the HQ hull. Brand new, polished, with reflectors - just right to show potential clients how cool our organization is!
+1006	A timely decision, boss. A total reconstruction was carried out at the HQ, so now it shines like new!
+1007	Check the available upgrades, surely there's already a chance to bolt something interesting onto us.
+1008	Great! Our virtuosos of the welding torch and sledgehammer have already bought everything needed and started work. The new compartment and the accompanying communications system will soon be put into operation.
+1009	You won't even have time to blink before everything is ready!
+1010	This is an experimental ultra-precise targeting system designed specifically for installation on Coalition space bases. It is mounted in place of the ordinary <clr>radar<clrEnd> and significantly increases the accuracy of all onboard guns:
+1011	Weapon range: <clr>+60<clrEnd>
+1012	Accuracy skill: <clr>+2<clrEnd>
+1013	The system will be delivered and mounted immediately after the order. True, no other special upgrade will be possible afterward. <AddText>
+1014	The <clr>Hurricane<clrEnd> has been successfully installed and calibrated, and the gunners are already taking an express training course for working with the new neural interface.
+1015	Very soon our HQ will be able to boast the longest-range guns in all of boundless space, and all thanks to you, boss.

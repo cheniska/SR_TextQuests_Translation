@@ -4,7 +4,7 @@ S=sys.argv[1]
 todo={}
 for l in open(S+'/w/todo.txt',encoding='utf-8').read().split('\n'):
     n,v=l.split('\t',1); todo[int(n)]=v
-tok=re.compile(r'<[^<>]*>|\{[^{}]*\}|\[[^\[\]]*\]')
+tok=re.compile(r'<[^<>]*>|\{[^{}]*\}|\[[A-Za-z0-9_]+\]')
 cyr=re.compile('[А-Яа-яЁё]')
 en={};bad=0
 for f in sorted(glob.glob(S+'/w/p*.txt')):

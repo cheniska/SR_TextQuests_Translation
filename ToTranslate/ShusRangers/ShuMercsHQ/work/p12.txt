@@ -1,0 +1,120 @@
+1016	Tell me about the <clr>"GSOM"<clrEnd> project
+1017	Increase armor by <Count> for <Cost> cr.
+1018	Full hull upgrade for <Cost> cr.
+1019	Increase structure by <Count> for <Cost> cr.
+1020	Tell me about the <clr>"Hurricane"<clrEnd> project
+1021	<clr>Cut the cost<clrEnd> of station maintenance
+1022	Proceed with the installation
+1023	Excellent!
+1024	Yes, I guess the <clr>"Hurricane"<clrEnd> could indeed come in handy for us
+1025	Begin installing the polyxenate armor
+1026	It's no secret that the materials widely used in building spaceships and stations are extremely expensive and uneconomical. Moreover, damaged armor plates often have to be replaced entirely, since they simply crack and fall apart into pieces.
+1027	Our engineers have long had an idea: replace all the station's armor with polyxenate. Polyxenate is a newest composite plastic that at ultra-low temperatures is no weaker than ship armor in strength, but at the same time is extremely easy to maintain day to day.
+1028	We can dismantle the current armor and sell it off to partially cover the costs. <MoneyText>
+1029	Hull cost: <clr>-50%<clrEnd>
+1030	Droid efficiency: <clr>+10<clrEnd>
+1031	The new armor will be delivered and mounted immediately after the order. True, no other special upgrade will be possible afterward. <AddText>
+1032	Well then, welcome to a space station with plastic armor!
+1033	Don't be glum, boss - upgrading our HQ is now much cheaper, and repairs from our own funds will cost less too.
+1034	Excellent, boss! We'll begin installing and configuring the generator right away.
+1035	It's done! The generator is installed and has already started charging, and our station will soon be able to cut through space faster than the swiftest spaceships.
+1036	You're simply a wonderful chief, boss - the entire staff is delighted with the opportunities opened up to us! Be sure to come back in <Days> days to personally give the order for the first hyperspace jump.
+1037	The capabilities of our portal generator have increased significantly, and the staff will be glad that from now on there's no need to economize on the lights in the compartments.
+1038	<br>Hmm, haven't you noticed before that that lamp over there is burning somehow too brightly? The electrician must have mixed up the watts again, I need to ask them to replace it.
+1039	That's the third one already, by the way.
+1040	Let me shake your generous hand on this occasion... Ouch!!! Why are you shocking me!? Do you walk around your ship in nothing but fur coats or what!? And you call yourself a Ranger - pfft!
+1041	<br>Oh, by the way, would you like to buy insurance against a sudden lightning strike? Sure? Because we've had more cases lately. The atmosphere is extremely electrified, you know...
+1042	HQ level: <Level>
+1043	System
+1044	Your communicator connects to the communication channel of the Mercenary Center base, and soon the tired face of the manager appears on the monitor:
+1045	Ah, it's you again, <Player>. What do you need this time?
+1046	Really? And which system did you choose?
+1047	The <Star> system, then. Well, not a bad choice. If I remember right, my favorite aunt lives there, she always made excellent pies, I should fly out to her, I've been sitting around here too long...
+1048	Anyway, <Player>, we're waiting for you with the signed papers.
+1049	What are you even talking about, <Player>? According to our data, there are simply no systems in the Galaxy at the moment that fit your... "political convictions". There's nothing to choose from.
+1050	Contact the <color=0,50,200>Mercenary Center base</color>
+1051	About the location of the HQ
+1052	You know, I forgot what I wanted to say, end of transmission
+1053	Got it, end of transmission
+1054	Hm, yes, you're right, I somehow completely overlooked that, end of transmission
+1055	Oh, sorry, hit the wrong button, end of transmission
+1056	Whoa, that's quite a leap, bro. Want to put together your own gang? Nice one, what can I say. Well, if you've got the dough, why not give it a try?
+1057	Issuing the permit is no problem in principle, but you know - nothing comes for free.
+1058	I want to get a permit to create my own military organization
+1059	So, let's calculate... this goes to the common pot... this to the tadpoles for equipment... this to the boys for booze... this into my pocket...
+1060	In total, <Player>, you need to put <Cost> cr. into the common pot. So, what do you say? Shall we process it?
+1061	Take care
+1062	I can't afford that much
+1063	And how much will it cost?
+1064	Nice one, <Player>, the brotherhood won't forget you! Here are your papers, drop in on us again - we're always glad to see you.
+1065	Deal! [<color=0,50,200>pay</color>]
+1066	We don't give a damn about homes, frankly. Let the Coalition sweat over them. We're here today, there tomorrow, so don't feed me baloney, just get to the point.
+1067	But I will defend the clan's territory from the Dominators
+1068	Hm, yes, <Player>, I'd like to argue with you, but things have been going really badly for us lately. The tin cans are taking system after system. At this rate we'll all be done for soon, so willy-nilly you start thinking about saving your own hide.
+1069	Fine. I think your outfit won't hurt us. Take your papers and get out fast before anyone notices I signed everything for you here for free... they'll laugh me out of town, the devils.
+1070	Deal
+1071	Let's talk about other topics
+1072	Today became the birthday of a new military organization, <PlayerOrgName>. The HQ of the same name has already taken up position in the <PlayerOrgStar> system. What consequences this will lead to is still unknown.
+1073	The <PlayerOrgName> organization managed to recover fairly quickly after the losses it suffered. Evidence of this is the new HQ recently erected in the <PlayerOrgStar> system. We are updating the information for all owners of maps of this sector.
+1074	The service of re-registering an organization's name is not free and will cost <Cost> cr. If you haven't changed your mind, please fill out these forms, sign here, and write the new name here. Simple as that.
+1075	Oh, the last important question that needs to be settled before building the station - the manager.
+1076	The manager is your trusted person and right hand, who relieves you of the need to deal with petty red tape. That is why the manager should be chosen from among highly professional candidates with an impeccable reputation who won't let you down or betray you.
+1077	Hiring a manager was included in the price of our contract, so we reviewed the candidates and picked three that are, in our opinion, the best. Here they are, actually:
+1078	1. <clr>Vdubas Dragomys<clrEnd>
+1079	Vdubas began the early years of his career as a militia captain on a small maloq planet. Having shown remarkable ingenuity and management skills, Vdubas managed to bring the organization of the militia at the district, regional and planetary levels to the highest level. After that, by decision of the Supreme Argot, he was transferred as manager to one of the rear military bases, where he soon got bored and decided to come to us.
+1080	Given Vdubas's relevant experience, all the fighters you train will have <clr>far higher combat skills<clrEnd>, and the training itself will go <clr>much faster<clrEnd>.
+1081	2. <clr>Sergo Vittey<clrEnd>
+1082	A capable minor official, from his first days he remembered the saying of an ancient Earth ruler: "Cadres decide everything". By placing not only experienced but also loyal people, Sergo gradually climbed the career ladder, consolidating in his hands full power over his home planet's Ministry of Economy. Having exposed a series of corruption mechanisms and eliminated a huge number of useless or barely effective positions, Sergo managed to achieve the complete execution of several planetary projects, but the enemies he made, having reached the security forces, managed to expose de jure incorrect direct management chains between superiors and subordinates bypassing bureaucracy, for which a corruption scheme was fabricated. Sergo had to flee, and he decided to offer his services to you.
+1083	As an experienced personnel officer, Sergo can always <clr>find "the same, but for less money"<clrEnd>
+1084	3. <clr>Elayma Nekentida<clrEnd>
+1085	A former captain of a small orbital station in orbit of <clr>Mars<clrEnd>, which specialized in quick and cheap ship repair. However, one fine day a diplomatic ship nearly torn apart by pirates flew into the station. Elayma's crew did the job quickly and well, but the <clr>artifact<clrEnd> that happened to be on the ship the technicians could not repair - the license for repairing them was too expensive. The official flying on the ship burst into curses and threats, and, as it turned out, was vindictive, so soon Elayma was ordered to liquidate the station. Having sold off and handed out equipment and money to the crew, Elayma went off to find his own way, where he came across our offer.
+1086	As a connoisseur of the equipment market, Nekentida can easily find the right supplier and provide us with parts for <clr>station upgrades<clrEnd> at reduced prices. Besides, Elayma has many published developments on <clr>modernizing ship engines<clrEnd>, which he can try installing on your ships, as well as improved safety systems that can help your fighters <clr>repair<clrEnd> their equipment <clr>less often<clrEnd>.
+1087	I like the candidacy of <color=190,85,210>Elayma Nekentida</color>
+1088	I like the candidacy of <color=170,30,30>Vdubas Dragomys</color>
+1089	I like the candidacy of <color=30,30,170>Sergo Vittey</color>
+1090	What happened, <Player>, is it hard going on the loose?
+1091	I understand. All of us want some stability and confidence in tomorrow. You're right, besides the services mentioned earlier, our center provides employment services and, in some cases, acts as an intermediary between organizations and potential recruits.
+1092	However, I hasten to disappoint you - based on the data I have on your candidacy, none of the existing factions will want to hire you.
+1093	As you know, three mercenary factions currently exist: the <clr>Atlant private security firm<clrEnd>, the <clr>"Red Axes" squad<clrEnd> and the <clr>Faeyangelion Corporation<clrEnd>.
+1094	These organizations didn't come out of nowhere. Each has its own history, an internal code, and certain requirements for newcomers.
+1095	I could tell you about each of them in more detail, but it would be better if you simply trust me and don't waste our mutual priceless time.
+1096	Ah, so you haven't dropped this foolish idea yet? You see, the thing is - in this matter, strangely enough, money is far from everything. Trust matters too. We know almost nothing about you to stake our reputation so blindly. Now, if one of the old proven warriors put in a word for you - that would be a different conversation. Come back when you find yourself a reliable patron, and we'll discuss this question in more detail.
+1097	But you see, the thing is... Oh, one second... Hm, it seems old <clr>Tziptzilot<clrEnd> wants to get back into business. Hm, curious...
+1098	Ah, forgive me, <Player>, memories just washed over me. I have just learned that you were recommended as a trusted person by a respected mercenary, which means we are ready to help you in creating your own organization. Here are our terms...
+1099	<clr>To found your own organization, you will need to:<clrEnd>
+1100	- Come to an agreement with the governments of the planets of the system you choose as the location for your HQ
+1101	- Come to an agreement with the military command on granting permission to form a military unit on Coalition territory, or obtain the approval of the Clan Board if you want to place your HQ on pirate territory
+1102	- Pay for your organization's registration at our center, the current payment is <Cost> cr.
+1103	How you obtain all the necessary permits is not our concern. The main thing is that you have all the documents in hand, and we'll take care of all the other formalities.
+1104	You will have to choose the <clr>system<clrEnd> for founding your organization <clr>in advance<clrEnd> - this is important. You can do it right now, or later, from your ship's <clr>bridge<clrEnd>. However, I remind you that you cannot start obtaining the permits before choosing a specific system, for obvious reasons.
+1105	We've been waiting for you. After all, clients with such requests don't come to us every day. I hope no serious problems arose?
+1106	So, let's get down to business. As you understand, building an HQ is not a simple matter. It takes building materials, equipment, a crew of reliable workers, station personnel and a pile of other small things.
+1107	But don't worry - we've already taken care of all of that. A brand-new station with all the necessary personnel is practically ready for launch.
+1108	For the registration of the organization as well as for the construction of the HQ, you owe <Cost> cr. Believe me, you won't find a better price anywhere. Why am I so sure? Well, at least because we have no competitors.
+1109	I knew you'd decide! I can see in your eyes how eager you are to try yourself as a big boss!
+1110	So, the terms are the same - for registration and construction of the HQ you owe <Cost> cr. What do you say?
+1111	A wonderful name! Okaaay... this goes here... we'll mark this... and here we don't need...
+1112	Done! Congratulations, <Player>. From now on you are the chief director, commander-in-chief and full owner of the <PlayerOrgName> organization. Your brand-new HQ is just now entering orbit of the star <PlayerOrgStar>, where it will await your arrival.
+1113	base thanks you for your cooperation and wishes you success in the field of mercenary services!
+1114	Congratulations, <Player>. Your new HQ is already waiting for its happy owner in the <PlayerOrgStar> system. I sincerely hope it will not suffer its predecessor's fate. All the best.
+1115	Excellent, and now choose a name for your organization...
+1116	Excellent, <Player>, I never doubted you. The brand-new HQ is almost ready for launch. All that remains is for you to make the payment, after which I'll give you the access codes for station control.
+1117	In total, for the construction of the new station you owe <Cost> cr. What do you say?
+1118	Without intermediaries? Hm-m, let me think... Well, Ranger, in that case we'll need irrefutable proof from you that you keep your word and can always be relied on in a risky business. And what could be better proof than an honorary award from the ruler of an entire planet? Show us at least a <clr>couple<clrEnd> of awards from planetary governments of each of the <clr>five<clrEnd> sentient races, and then we'll be sure that we are dealing with a reliable partner.
+1119	But that's not all, <Player>. Do you know what it means to be a professional mercenary? A real mercenary has only one rule: "The contract must be fulfilled at any cost". However, a good mercenary won't divide clients into "bad" and "good", because the one who is his employer today may become a coveted target tomorrow.
+1120	That's exactly why, Ranger, as proof of the absence of personal prejudices, we'd like to see at least <clr>ten<clrEnd> completed assassination contracts in your service record, to confirm your status as an unprincipled performer of tasks of any class.
+1121	To make it easier for you to navigate our requirements for candidates, we are displaying your current statistics:
+1122	Medals from maloqs: mal
+1123	Medals from pelengs: pel
+1124	Medals from humans: peo
+1125	Medals from faeyans: fei
+1126	Medals from gaalians: gaa
+1127	Assassination tasks completed: kil
+1128	Really? May I take a look at them? Hmm, I see you haven't wasted your time... From the maloqs, yes, from the pelengs too... Oh, and this award is from my cousin! And you've even earned a reputation among the pirates... Well then, in that case we are ready to help you create your organization. Here are our terms...
+1129	- Pay for your organization's registration at our center, the current payment is <Cost> cr. If you had a reliable guarantor, we might have given you a small discount, but in your case we are risking our reputation, so the price will remain standard
+1130	Quite an ambition you have, Ranger. Want to become a big boss, run your little army, and earn a solid income on top of that? I understand. I wouldn't mind moving from this musty corridor to a luxurious office myself.
+1131	But you see, the thing is - in this matter, strangely enough, money is far from everything. Trust matters. We know almost nothing about you, you're <clr>not well enough known<clrEnd> in the Galaxy yet for us to risk blindly staking our esteemed reputation as an intermediary. Now, if one of the old proven warriors put in a word for you - that would be a different conversation. Come back when you find yourself a reliable patron, and we'll discuss this question in more detail.
+1132	But you see, the thing is... One second...
+1133	Hm, it seems old <clr>Tziptzilot<clrEnd> wants to get back into business. Hm, curious...
+1134	Yes, we heard about the attack. A sad story. I'm glad that at least you're unharmed.
+1135	We are ready to build a new HQ for you in the shortest possible time, however, as before, we need permits, since the ones issued to you earlier are no longer valid.
