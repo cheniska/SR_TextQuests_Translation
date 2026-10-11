@@ -1,0 +1,4 @@
+126	After a countless number of space battles and shared adventures, your level of affection for your feathered friend has grown many times over. Sensing your love, <Name> does its best to return it.
+127	The feathered comrade, waving a wing, spouts muddled heresy outside the ship.
+128	You gently ruffle your pet by its blue crest. It really is wonderful to have a living creature with you in this cold and gloomy void of space.
+129	A motley talking bird from the planet <color=255,240,100>Earth</color>. Adds <color=255,240,100>fifty</color> points of coolness to its owner in the eyes of any space pirate.

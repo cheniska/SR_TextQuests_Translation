@@ -1,0 +1,42 @@
+1	</color><Type> traitor hull
+2	It's a great pity, but you got yourself into this trouble. If the price of repairing your reputation does not suit you, we recommend that you do some independent and honest "work on your mistakes", after which we will be glad to resume our fruitful cooperation.<br>Until then, I must demand that you leave this technology center.
+3	Hip-hip hooray! Long live our great leader!<br>We humbly report that the taxes from the <color=255,240,100>Nifigats</color> system, in the amount of <0> cr., have just been transferred to your personal account.
+4	Well, in that case we have nothing more to talk about. Leave this station and find a way to repair your reputation in a more demonstrative manner.
+5	Repay the loan of <0> cr.
+6	Excellent, <Player>! You are certainly a ranger of your word.<br>Unfortunately, further cooperation is out of the question at the moment, but we sincerely wish you luck in your difficult... business. The exit is over there.
+7	Mercenary Center
+8	Neurolink
+9	Inhibitor
+10	</color>gaalian
+11	</color>faeyan
+12	</color>human
+13	</color>peleng
+14	</color>maloq
+15	<Player>, have you mixed something up, by any chance? You'd better clear out of here before the bros catch on! Accidents happen here, you know, to those who refuse to recognize the authority of the clan.
+16	Leaving already
+17	What?!! Damn pirate, who even allowed you to bring your ship into our docks!?<br>Turn your bucket around and get out of here like a bullet, before I order you sent before a military tribunal!!!
+18	Ranger <Player>, your behavior has been deemed unacceptable and your presence at our station undesirable.<br>Please leave research station <0> and refrain from visiting it again until you have restored your reputation as a trustworthy humanoid.
+19	Sorry, <Player>, but it is not in our interest to openly do business with criminals. It's bad for our reputation, you know.<br>Naturally, you still have a credit debt on record, so we will kindly allow you to pay it off, but immediately afterward we strongly ask that you proceed to the exit.
+20	Sorry, <Player>, but it is not in our interest to openly do business with criminals. It's bad for our reputation, you know.<br>Come back when you're a law-abiding ranger, and for now we strongly ask that you leave our business center.
+21	Have no doubt, <Player>! From now on you are on the white list again and free to engage in any activity not prohibited by law.<br>By the way, your money is just enough for us to carry out scheduled maintenance of the station, so on behalf of all the employees unhappy with the broken air conditioners, allow me to express to you special, personal gratitude.
+22	I'm glad we managed to find common ground, <Player>. All restrictions on your activities at our base are fully lifted.<br>We very much hope that in future you will refrain from such a flagrant violation of public norms.
+23	It's time to melt the ice in our relations. Say frankly what you want!
+24	Leave the business center
+25	Very well, in that case I hope these <0> cr. will serve the prosperity of the ranger movement!
+26	Very well, in that case I hope these <0> cr. will contribute to the speedy resumption of our friendly relations!
+27	Yes, that will do nicely. Transferring <0> cr. to your account right now.
+28	Ranger <Player>, our network of centers is extremely disappointed with your behavior. You disgrace not only yourself but the very noble name of ranger!<br>Until you change your behavior for the better, we are firmly resolved not to tolerate your presence here. Leave this station immediately. Otherwise we will be forced to use force!
+29	Well, as a pledge of your future reform, we could accept a modest contribution of <0> cr.<br>These funds will go to encourage the activities of other rangers, which will help at least partly make amends to your colleagues.
+30	Contribution accepted, but do not harbor illusions, <Player>. The money is only a symbolic payment.<br>The real reform awaits you ahead. Go and prove to the Galaxy that we were not mistaken in giving you this ranger badge.
+31	I'm afraid such a contribution is a bit big for me
+32	You'd better watch that your own skull doesn't get a bit big! Me and the bros can trim it down if need be.
+33	Well, it's a great pity, but there is no other way we can promote your reform. We wish you luck in your search for redemption somewhere else.<br>And now, if you don't mind, we strongly ask that you proceed in the direction of the exit.
+34	Well, your transgressions against sensible and responsible behavior are indisputable, and we can do nothing about that. However, as partial compensation for the harm you have caused, we could levy a fine on you of <0> cr., which will be put to good purposes immediately.<br>Would such a compromise suit you?
+35	Listen, maybe we can somehow come to terms like brothers, eh?
+36	Aha, so when it comes to whacking guys without any rules, you're the first, but when it comes to answering for your actions, it's: "Oh please, oh like brothers, na-na-na..." - is that it?!<br>I'll tell you what, <Player> - you're a lousy <0>. Lousy and pathetic. I'd puke at your feet, but after yesterday's rotgut there's nothing left. Still, even people like you the brotherhood does not refuse in need. Not for free, though.<br>In short, hand <1> cr. over to the common fund - and for now we'll close our eyes to that rot of yours.
+37	I confess - I'm a trembling creature! Here are your <0> cr., and I won't offend the bros anymore
+38	Fine, already gone
+39	Well, all right, so be it - scram, ragamuffin! At least the boys will have a proper feast at your expense.<br>So what did you want at the base? Speak - now nobody will bite, heh-heh.
+40	Very well, in that case I hope these <0> cr. will worthily serve the cause of peace and the prosperity of your corrupt backside! You damn bookkeeper!
+41	In that case, I'm afraid I can't help you.<br>Please proceed to the exit, and try not to slam the gaaldok marblewood door too hard on the way. The door, by the way, was bought with a voluntary donation from one of your predecessors, who is at this very moment plowing the expanses of the universe in a brand-new ship purchased with a loan provided by US.<br>Just think about that, ranger <Player>.
+42	Well, what do you yourself think, sitting in the office of the manager of one of the galactic business centers?<br>I'll give you a hint - it's a number, and that number, as it happens, is a multiple of <0>. ONE-fold, to be perfectly precise. I'm a businessman, after all, not a robber.
