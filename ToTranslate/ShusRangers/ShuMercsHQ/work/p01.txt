@@ -1,0 +1,120 @@
+1	December 31
+2	January 1
+3	EMP Torpedo
+4	A weapon capable of temporarily disabling an entire battleship
+5	Gluon Torpedo
+6	A self-guided, ultralight gluon torpedo
+7	Gluon Emitter
+8	Gluon Tormentor
+9	Gluon Torpedo Launcher
+10	Directs a dense stream of gluon particles at the target, dealing <MinDamage>-<MaxDamage><Bonus> damage and subjecting its hull to <color=255,240,100>gluonization</color>. Range up to <Radius>.
+11	Hits the target with a concentrated beam of gluon matter, dealing <MinDamage>-<MaxDamage><Bonus> damage and subjecting its hull to <color=255,240,100>gluonization</color>. Range up to <Radius>.
+12	Fires three small torpedoes packed with a compressed gluon field. The torpedoes deal <MinDamage> to <MaxDamage><Bonus> damage to the target and subject its hull to <color=255,240,100>gluonization</color>.
+13	Salvos: <Count>/<MaxCount>
+14	This item is required to complete a quest. It cannot be dropped.
+15	<color=248,252,248>Upgrade:</color> <clr>"Exdurality"<clrEnd>
+16	<color=248,252,248>Replaces almost all functional parts of this equipment with costlier but more durable fragilium analogs.</color>
+17	Equipment reliability: <clr>+50%<clrEnd>
+18	Cost: <clr>+50%<clrEnd>
+19	</color><Type> cruiser hull
+20	</color><Type> mercenary hull
+21	"Star Stingray" Hull
+22	<color=248,252,248>A unique hull designed for lightning-fast combat operations. <clr>Krivonosy<clrEnd>, a descendant of a legendary designer from <clr>Earth<clrEnd>, was chosen as the lead designer. The hull's main advantages are its high maneuverability and the long-lasting inertial thrust, which significantly boosts cruising speed. However, because of the peculiarities of its internal fuel feed system, the engine cannot withstand prolonged loads, which tells badly on long hyperjumps.</color>
+23	Maneuverability skill: <bonSkill2>
+24	Charisma skill: <bonSkill5>
+25	Engine speed: <bonSpeed>
+26	Ship mass: <bonMass><clr>%<clrEnd>
+27	Jump range: <bonJump> pc
+28	Field generator: <bonDef>
+29	<color=248,252,248>Upgrade:</color> <clr>Tetroazine Pumping<clrEnd>
+30	<color=248,252,248>Temporarily saturates all equipment units with special <clr>tetroazine<clrEnd> particles that increase the engine's maximum power. The tetroazine particles will be fully flushed out in <Data1> days.</color>
+31	The effect of the <clr>"Expirin"<clrEnd> stimulant has worn off. Once again you feel a strange urge to flop down in a chair with a can of Makhpella and zone out in front of the captivating reality show "Extraphil Brawl".
+32	Expirin
+33	The last word in optimizing brain neuron activity.
+34	Its main effect is an overall improvement in memory and learning ability, which raises the experience gained from any action by <clr><Percent>%<clrEnd>. The stimulant is highly addictive, so it is recommended to take it no more than <clr>once a year<clrEnd>.
+35	Days left until the quest ends: <Day>
+36	Quest complete, just need to collect the money
+37	Quest complete, just need to collect the papers
+38	Quest in progress
+39	Client - planet <Planet> (system <System>)
+40	Client - <RuinsType> <RuinsName> (system <System>)
+41	Client - <RuinsType>
+42	Quest completed successfully
+43	Quest failed
+44	Business Center Network
+45	Medical Station Network
+46	Pirate Base Syndicate
+47	Ranger Center Network
+48	Science Station Network
+49	KVSMK
+50	Excellent, <Player>. You've held up your end of the deal, and I've held up mine - here is your permit. Good day.
+51	Thanks
+52	I think I'll take you up on your offer, Ranger.
+53	As you've probably guessed, I hold a high-ranking official post on <StartPlanet>. I've always been very particular about my own safety. Many friends say I'm paranoid, but believe me, I really do have enough "well-wishers" to keep my life under constant threat. The same goes for my family. Only my wife and daughter don't share these views at all.
+54	A few days ago they set off on a tour of the nearby systems. My daughter really wanted to see the world, and I couldn't refuse her. But they flatly rejected the military convoy I wanted to assign to escort them. At least I managed to persuade them to fly on the official vessel <TargetShip>, which is faster than the regular liners. Still, as a loving husband and father, my heart aches for my family, so I'm assigning you, Ranger <Player>, to ensure the safety of the vessel <TargetShip> until the end of their tour, namely until <EndDate>, after which you'll be relieved by my agents, who should be back from their other assignments by then.
+55	So, do we have a deal?
+56	Let's talk about something else
+57	I'll take it
+58	In that case, make yourself comfortable, <Player>. I'll outline the situation in a few words.
+59	A few days ago, an experimental weapon developed at our secret military complex was loaded onto the transport vessel <TargetShip>. Of course you haven't heard of it - that's what makes it secret. But apparently it wasn't as secret as we'd have liked...
+60	A few days ago there was a major information leak. Among the stolen data was, among other things, a partial route of the transport vessel.
+61	You, <Player>, must ensure the safety of the transport vessel <TargetShip> until <EndDate>. The instructions for its further transportation were stored on a different server, so the hackers didn't get to learn the rest of its route. Keep that weapon safe for me, and I'll keep you supplied with the permit you need.
+62	I do have a question, but it's no simple one - it's one of national security, no less.
+63	<Player>, are you ready to work under absolute secrecy? Excellent. Then listen closely: a VIP recently departed aboard the passenger liner <TargetShip>. I can't tell you who it is, but believe me, this is far from the least important person in our government. According to my information, the liner may be attacked soon, and we simply physically don't have time to deploy our military. Besides, we can't deploy anyone officially, since that would inevitably draw unwanted attention to the liner.
+64	Escort the passenger vessel <TargetShip> until <EndDate>, when the VIP will leave the ship, and you'll return to me for the papers you need, which will be waiting for you in this very office on this very desk. Any questions?
+65	Excellent, <Player>. You held up your end of the deal, and I held up mine - here's your permit. Fair winds.
+66	Here's the thing, <Player>. You'll have to... protect a peaceful transport. Why are you looking at me like that? Yes, yes, we're on a pirate planet, and I perfectly understand how absurd that sounds. The thing is, our agents screwed up a little. Ahem, you see, we have our own man in the freight company <clr>LGL<clrEnd>, who, disguised as an ordinary hauler, collects data for us on the movements of Coalition military forces. And it so happened that before departing from our planet we forgot to enter the identification signature of his ship in the list of undercover agents.
+67	Your task, <Player>, is to ensure the safety of the transport vessel <TargetShip> until the agent list is updated, that is, until <EndDate>, after which you can safely come back for the papers you need.
+68	So, is it a deal?
+69	No, <Player>, everything is fine with us. No problems whatsoever. Contraband is being hauled, merchants are being robbed - sheer bliss, in a word. So you'll have to... hold on, one second, let me take this call:
+70	- Hello? Yes. What? What do you mean, he left? Is there any dope? Is the dope gone too?! Not again... Okay, I'll call you back.
+71	Looks like it's your lucky day, <Player>. I've just been told that the guards at the boss's country villa found a note on his desk saying "AUE" and "I'll kill you all and stay alone". A whole sack of "star dust" is also missing, which can mean only one thing - the chief has decided to relive his youth... for the third time this year.
+72	In short, <Player>, you need to make sure nobody shoots down his ship <TargetShip>, with the chief and his personal pilot aboard. You have to guard him until he smokes all the dope he took with him, that is, until <EndDate>. And don't worry if he gets busted - it's not the first time we've sprung him from the pen, and he's practically one of the inmates there anyway. Just make sure he's all right, and we'll make it worth your while.
+73	All right. No time to explain, but the ship <TargetShipFull> is carrying a very valuable cargo right now. Keep the ship safe until <EndDate>, then you'll get your permit. Deal?
+74	Unresolved issues, you say? Come to think of it, yes, there is one.
+75	Recently I learned that I'm being watched. After bringing in my security service, I managed to find out that a certain journalist, whose name you don't need to know, is gathering compromising material on me. Whether he does it of his own will or on a tip, we don't know. What we do know is that right now he and his whole team are aboard the passenger vessel <TargetShip>. At this very moment he and his team are preparing the collected material for broadcast.
+76	You need to eliminate him before the monthly news airs, that is, before <EndDate>, after which I'll be able to sleep soundly, and you, so be it, will get the papers you need.
+77	And if you're late, the compromising information will be shown on every newscast, and my career will go down the drain, along with your dreams of building a headquarters in this system. Believe me, <Player>, I'll see to that.
+78	Hm... I see you're determined? Very well, then there's a matter I could use your help with.
+79	My family has owned farms breeding gaalists for two centuries - small worm-like creatures whose extracts are used to make one of the most effective combat stimulants in the whole Galaxy - "gaalistra of time". Why are you so surprised, Ranger? Did you think it's made from flowers?
+80	The problem is that one particularly active civil activist, <clr>Zooglota Puumberg<clrEnd>, learned about our farm and is now calling on the governments of various planets to ban the use of gaalistra of time, citing the raising of gaalists listed in the Gaal "Yellow Book" in, quote: "Conditions that exclude even the faintest glimmer of humanity, like a gray concrete slab blocking the light of the star of life from the trembling epidermis of these poor little creatures." And that would be fine, but for some reason unknown to us, her campaign has won broad support among the masses. We're losing customers and suffering colossal losses. If this goes on, my business will go completely bankrupt! Can you imagine such a disgrace for the heir of a family corporation?
+81	Ranger <Player>, you are entrusted with the responsible task of eliminating the vessel <TargetShipFull>, aboard which <clr>Zooglota Puumberg<clrEnd> is currently campaigning. The sooner you do it, the better, but the deadline is <EndDate>, after which my company will finally close from the losses it has incurred.
+82	I hope we can help each other, because otherwise you'll have to look for another system for your headquarters.
+83	Have a seat, <Player>, and close the door behind you.
+84	Here's how things stand: not long ago a dangerous criminal was released from our planet's prison. He received an amnesty for exemplary behavior after serving just one week! Can you imagine that? Neither could I, until I saw his ship lift off from the spaceport with the prison warden personally seeing him off with fireworks and flowers! After giving the warden (now, unfortunately, the former warden) a medical examination, we found a very strong hypnotic influence on his brain. Imagine that, hypnosis in this day and age!
+85	However, I can't make such a disgrace of our law enforcement public, so you are assigned to eliminate the criminal hiding aboard the ship <TargetShipFull> by <EndDate>.
+86	If you eliminate him in time, I'll be able to explain to the press that the situation was under control all along, and his early release was a secret operation of our special services. Otherwise... I don't even want to think about what happens then. We understand each other well, don't we, <Player>?
+87	You scratch my back, I'll scratch yours, right? Fine, but nobody must ever learn about this conversation.
+88	There's a rich patron of the arts on our planet, <clr>Snetch Makplyukh<clrEnd> - heard of him? No? Never mind. A peleng of the kindest soul. He sponsors the building of children's mud parks, subsidizes penchecrakus farms, and recently donated a whole billion credits to the <clr>"Clean Space"<clrEnd> Eco-community fund! And instead of giving the money to needy pirates or setting up some kind of financial pyramid, he keeps throwing his money to the wind. An unheard-of disgrace to the entire peleng people!
+89	But alas, Mr. <clr>Makplyukh<clrEnd> is very popular in certain circles, and we can't just take him out. But if he were to suffer an unexpected accident, hardly anyone would ask unnecessary questions.
+90	At the moment, Mr. <clr>Makplyukh<clrEnd> is traveling on the diplomatic vessel <TargetShip> as a VIP. According to my information, his crew is to make its last stop on <EndDate>, after which it will be impossible to eliminate him without drawing unwanted attention.
+91	Well, <Player>, any questions left? No questions? Then off you go, and with a song!
+92	All right, <Player> - write this down...
+93	The target's name is <TargetShipFull>. The ship's captain must go to meet his forefathers by <EndDate>, or I will consider our agreement terminated. The rest of the details are unnecessary for you. Will you take it?
+94	Now that's a different conversation.
+95	A month ago, the esteemed ataman <clr>Uzvar<clrEnd> ordered a brand-new batch of assault blasters from our regular supplier. And that would've been fine, but some fly bit <clr>Sidorovich<clrEnd>, and he palmed off plastic junk on <clr>Uzvar<clrEnd>. Normally such things don't concern us, it's an internal spat of the brotherhood. But the ataman called my superiors to account, because <clr>Sidorovich<clrEnd> hails from the planet <StartPlanet>.
+96	I was ordered to eliminate <clr>Sidorovich<clrEnd>, or else it's my head that will roll instead of his. In short, <Player>, you need to waste <clr>Sidorovich<clrEnd>, who is now hiding aboard the ship <TargetShipFull>, by <EndDate>, or else they'll waste me instead. And I'd really rather it didn't come to that.
+97	So, shall we shake hands, and I'll go prepare the papers for your return?
+98	Sit down, <Player>. I've got a little job for you.
+99	Our informers report that the brotherhood has acquired a snitch, name of <TargetShip>. This scumbag is leaking info about our military plans and secret developments to the Coalition. According to the latest data, he is currently in the <TargetStar> system. He already suspects he's been exposed and has started acting extremely carefully. Your task is to eliminate him. It must be done by <EndDate>, or he'll drop anchor and lie low for good.
+100	Questions?
+101	Then let's get straight to business.
+102	Just yesterday the clan's board held its regular session. Candidates for promotion in the brotherhood's hierarchy were considered, distinguished pirates were put up for awards, and especially skilled raiders were decorated with medals.
+103	At the same time, candidates for the penalty list were considered. <TargetShipFull> ended up on the list of the condemned. Your task is to liquidate the target. The deadline is <EndDate>, after which, if you fail, our agreement will be annulled and your own name will end up on the penalty list.
+104	So, do we make a deal or what?
+105	You successfully completed what I entrusted to you, <Player>. As I promised, the signed papers for building the headquarters will be waiting for you when you return to the planet <Planet>.
+106	You failed the task entrusted to you, <Player>, so you can forget about your permit!
+107	Got it, boss, I'll send Corporal <clr>Golubenko<clrEnd> to them, um... And I'll pass the order to launch to the boys.
+108	Now that's a healthy approach, chief! The logic of your decision will prove itself many more times in the future, you can be sure! And let me also clarify that Dominators are not carriers of viruses or bacteria. I can prepare a report on the difference between biological microorganisms and node-like nanostructural elements, preliminarily 2048 pages long, accompanied by a visual presentation.
+109	Launch orders have been sent to the fighters' communicators. If nothing's holding you back and you miss combat operations, you can launch too. Your chance of getting killed is only 4.2%.
+110	In your place I'd send him to the Ragobam toads, but an order is an order! We'll send Private <clr>Peredast<clrEnd> to give the answer.
+111	Bo-oys! Time to la-aunch!!!
+112	That's right, chief, spare parts aren't government-issue for us.
+113	Main post! Launch order for the second squad. The rally point will be marked in the navigation computer. Upon return, a full report on form 4-MTLB on my desk. From each of you!
+114	It doesn't apply to you, chief, of course. Some will say "corruption", while I exclaim "trust"! Anything else?
+115	Send them a pigeon with our consent.
+116	Now, don't go too hard on the Council's bases, I'd still like to live a while. But if resources are needed, then there's work to be done! Let's go smash the mechanical plague!
+117	Why are you slapping labels on him right away? Maybe he's an honest worker. Ha-ha! Fine, we'll take it, get the boys up.
+118	Sign the contract. If it gets hot, we'll bolt - we're not in the service, we can.
+119	As you say, boss. I'll tell Coalition command that we're refusing the job due to the negotiator's utter professional unfitness. Let him scrub the prison latrines instead of the generals' ones, ha! Anything else?
+120	*Thanks a lot, but I don't need a gift like that.
