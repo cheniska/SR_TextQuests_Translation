@@ -1,0 +1,150 @@
+1546	Order construction of <ShipName>
+1547	I want to refit our cruiser
+1548	[on a sortie]
+1549	I want to sell our cruiser
+1550	Well, I guess I'll think about it some more
+1551	Yes, I'm sure - we're selling this scrap
+1552	Got it, thanks
+1553	No, nothing else is needed right now
+1554	Here is a list of available projects you can order, based on our current reputation:<ProjectsList>
+1555	In case you want to pay for construction from the organization's balance - our account currently holds <CurrentBalance> cr.
+1556	I've already prepared the list of suitable candidates for this month, you can take a look:
+1557	I fully support this decision.
+1558	As you say, chief. I'll tell the boys to pack their things and get out "into the cold", but this news is hardly likely to make them very happy.
+1559	Are you sure, boss? Selecting new candidates isn't quick.
+1560	Understood - <MercName> no longer works for us.
+1561	This is your personal rapid reaction squad, whose main task is quick elimination of a threat and equally quick withdrawal to HQ for regrouping and repairs.<AddText>
+1562	Keep in mind that the strike group can include no more than <clr>six<clrEnd> ships, since maintaining even one elite fighter costs the organization a lot.
+1563	 You can summon the squad at any time by contacting me through the <clr>onboard computer<clrEnd>.
+1564	Excellent choice, chief! Very soon <MercName> will take up his new duties.
+1565	I want to disband the whole squad
+1566	I want to fire someone
+1567	I want to hire a new fighter
+1568	I want to hire a new fighter [group is full]
+1569	I want to hire a new fighter [no suitable candidates]
+1570	I want to refit a fighter
+1571	Maybe you're right, let's put the question off for now
+1572	Yes, I'm sure - disband them
+1573	Fire <Name>
+1574	Hire <Name>
+1575	Refit <Name>
+1576	Done, boss? I really hope <MercName> won't sue us anytime soon...
+1577	Are you sure you want to move <ItemName> to the HQ store?
+1578	Yes? And who will this poor wretch be?
+1579	So who's about to lose his belongings?
+1580	Have you lost your mind completely? So I slave away for you, and you decided to blast me? Ah, go to hell with your organization, I've got my own road now!
+1581	Got you, chief, switching to free hunt mode.
+1582	Chief, according to my data, no hostile targets are detected in the system, so for now we'll just fly along behind as a combat escort.
+1583	As you say, boss. I won't specifically chase that schmo anymore.
+1584	Order understood. Proceeding to liquidate the target.
+1585	Order understood. Proceeding to liquidate the target.
+1586	Which ship should I attack?
+1587	Enemy ships spotted in the system, boss. I'm getting ready to take up position to defend the HQ. The battle promises to be hot!
+1588	Order understood. Following you, boss.
+1589	Order understood, boss. Now you're my leader.
+1590	The strike group has arrived as you ordered, boss. What are your instructions?
+1591	We're returning to the HQ, boss. Give us a couple of days to rest, and we'll be ready for a new sortie.
+1592	Yes, boss! Carrying out the order.
+1593	Who do you need help with?
+1594	Boss, with such an overload we won't be able to go defend the system if needed. It'll be better for all of us if you review our loadout.
+1595	Is this an order to me personally or to all of ours?
+1596	Is this an order to me personally or to the whole group?
+1597	Got it, boss, heading home. If you need us again - let us know.
+1598	Thanks for the help, but you can leave <TargetShip> alone now, I'm no longer interested in him
+1599	I need your help in battle
+1600	I need your help in battle with <TargetShip>
+1601	No, this is a personal order
+1602	Tell everyone to engage any hostile targets in the system
+1603	I order you to attack the indicated ship...
+1604	I order you to begin an attack on <TargetShip>
+1605	I order you to drop all other business and follow me
+1606	Return to the HQ
+1607	This order is for everyone, I don't intend to talk with each one separately
+1608	We've repelled this attack, boss - I'm heading back to the HQ. If you need me somewhere else - just let me know.
+1609	Boss, come in. Any new orders?
+1610	<color=255,240,100>Report from HQ:</color>
+1611	A large order has come in for us from the <color=255,240,100>Coalition Council</color>, chief. If you're interested - we'll be waiting for you at the HQ to explain the details.
+1612	Chief, competitors have decided to attack us. Their chances of winning are approximately 0.028302%, so everything is under control, but according to protocol I was obliged to notify you
+1613	Boss, those cowardly mutts are trying again to crush the HQ of our great organization! I've already sent our boys to turn them into dust, but if you fear a surprise strike, you can come and be present
+1614	Chief, annoying competitors are interfering with our business again. I'll try to handle them with my own forces, but your support would be extremely welcome.
+1615	Chief, competitors are attacking our HQ! We need your help defending the HQ
+1616	Bad news, chief. This month we didn't have enough money for <color=255,240,100>cruiser maintenance</color>, so we had to sell it for parts.
+1617	Chief, terrible news! I regret to report that our formidable <Name> has fallen in an unequal fight with a superior enemy. Eternal memory to his mercenary heroes!
+1618	<color=255,240,100>Strike group report:</color>
+1619	Chief, we report the successful return of the cruiser to the HQ. Upon completion of repairs we will be ready to set out at any moment on your order. End of transmission
+1620	Good day, chief, <color=255,240,100>Elayma</color> here.
+1621	The scientist you hired has arrived and turned out to be a surprisingly competent specialist! In his technical calculations I found only 64 syntax and 32 mathematical errors. Amazing!
+1622	As for his technology, it's simply incredible! Why the Coalition did not make it a priority, I personally cannot understand. By my rough calculations, after 456 years, 7 months and 18 days of developing gluon technology the Coalition will surpass the klissans in all technological fields.
+1623	I will personally head the new research department to avoid even the slightest error, so you will learn about the prototype's manufacture before it comes off the assembly line!
+1624	Commander, this is <color=255,240,100>Vdubas</color> reporting: your egg-headed runt has arrived!
+1625	At first I wanted to kick him out to Gralgar to get a whiff of gunpowder before starting work - we don't need cowardly theorists here! Weapons must be developed not just sitting on a stool, but with that stool right in the thick of the enemy! Want to live - think faster, that's exactly how maloqs create the most powerful weaponry in the galaxy!
+1626	But he showed me the specifications, and I flared up on the spot! It's simply a miracle of military thought! If everything is realized exactly as on paper - and I'll take this under personal control, so no one will deviate from the process by a single letter, or he'll deviate into the airlock without a spacesuit! - we'll get guns that even klissan technologies can't compare with! I'll keep the communicator handy, commander, and you'll hear about the first sample created faster than a peleng can swindle his client!
+1627	Chief, <color=255,240,100>Sergo</color> on the line.
+1628	Your professor, who just arrived, is simply awful! He has absolutely no idea how to economize! The budget he declared is almost three times higher than optimal! And how does he plan the workflow? With his approach we won't get anything done by the end of the war! One word - scientist!
+1629	All right, what else am I here for? I've already kicked who needed kicking, Mr. Jeff Rhesus's team will handle finances, Kill Gates will handle staff organization. Everything will go through me personally, so not a single credit will fly off into space, don't worry, chief! And I'll report the first finished item immediately.
+1630	Hi, boss - it's me again, <color=255,240,100>Tziptzilot</color>.
+1631	Your professor arrived here recently. We've already fed him and given him a drink - he turned out to be a great guy, by the way. He seems to have liked everything, said he'd expected much worse, that he'd have to set up the whole lab from scratch. But when he learned that we already have our own science department and a team of scientists, he started jumping and laughing loudly and wickedly, saying meanwhile that he'd show everyone yet, and they'd still understand something there...
+1632	Anyway, he's a bit strange, but he promised to finish developing the new weapon and provide prototypes in just <color=255,240,100>three months</color>. I'll send you a notification as soon as the first samples are ready.
+1633	Greetings, chief, <color=255,240,100>Elayma</color> speaking. I calculated that the first prototypes will be finished exactly by your arrival if you set out right now at cruising speed. Yes, I constantly monitor your spatial position and ship characteristics, how else? I've dedicated three separate monitors to it!
+1634	Commander, this is <color=255,240,100>Vdubas</color>. News good and not so good. The good news - the egg-head has finished and produced the first samples of the guns, come on over. The bad - he has absolutely no idea how to fix stools!
+1635	Chief, come in, <color=255,240,100>Sergo</color> reporting - everything is ready! The professor kept getting angry that instead of boozequila for wiping contacts he was supplied with ordinary "technical alcohol", but I know he meant to wipe his own throat with it! And I kept wondering where the figures for the required budget came from in the first place?..
+1636	Hi, boss, this is <color=255,240,100>Tziptzilot</color>. I just found out something interesting from our geniuses. If you want, I can tell you more as soon as you drop by the HQ.
+1637	<color=255,240,100>Elayma</color> at the communicator, chief. I report that the guns you ordered have been manufactured. The number of errors made is 0.0027% relative to the number of operations, please forgive me, I will definitely improve.
+1638	Commander, this is <color=255,240,100>Vdubas</color>. The guns are ready, you can pick them up. I also ask to be docked this month's bonus, I completely forgot about work for a whole 6 hours - got lost gazing at the beauty of military art we assembled.
+1639	Chief, <color=255,240,100>Sergo</color> speaking. The guns were manufactured at exactly the optimal time and at optimal cost. They've already come off the assembly line and are waiting only for you.
+1640	Boss, this is <color=255,240,100>Tziptzilot</color> - I hurry to make you happy. The first samples of the new weapon are ready.
+1641	Chief, some <color=255,240,100>shaggy devils</color> have treacherously attacked our <Star> system. We'll give them what for now, of course, but not notifying you would be somehow wrong, so we're keeping you posted.
+1642	Chief, some filthy <color=255,240,100>electronics</color> have attacked our <Star> system in an entirely non-treacherous manner. We'll give them what for now, of course, but not notifying you would be somehow wrong, so we're keeping you posted.
+1643	<color=255,240,100>Message from the Mercenary Center:</color>
+1644	Dear <Player>, according to our data, your private HQ, located in the <Star> system, has been destroyed. But don't despair - you can always contact us and order the construction of a new one at any time convenient for you.
+1645	The <color=255,240,100>pirate clan</color> has offered us new work, boss. All the delicate details will be waiting for you when you arrive.
+1646	Boss, we're on site - hop aboard quick! In just <DaysLeft> days we'll have to go back into hyper!
+1647	Your HQ was destroyed, further execution of the contract is impossible.
+1648	The strike group has arrived in the system and is ready for battle, chief. Switching to territory patrol mode, looking for hostile ships.
+1649	The strike group is ready for battle, chief. Switching to territory patrol mode, looking for hostile ships.
+1650	The strike group has arrived in the system and started patrolling the territory in search of hostile ships. We'll stay here for <color=255,240,100>30</color> days, after which we'll return to the HQ.
+1651	Chief, all enemies in the <Star> system have been liquidated. Continuing to patrol the system in search of suitable targets.
+1652	Chief, target liquidated. Returning to the HQ for refueling.
+1653	Chief, we report the successful return of the group to the HQ. Upon completion of repairs we will be ready to set out at any moment on your order. End of transmission
+1654	Well, our sortie time is up, boss, we're returning to base. If you suddenly need anything again - call.
+1655	<color=255,240,100>Report from the cruiser:</color>
+1656	Looks like all our "strike" lads fell in an unequal fight, boss. So this time only the two of us are going home.
+1657	All the strike group's fighters fell in battle with the enemy. Eternal memory to them.
+1658	All the strike group's fighters have left our organization, boss. There will be nobody left to cover you in battle.
+1659	All the strike group's fighters left the organization due to <color=255,240,100>lack of money</color> for their salaries. Maybe I should follow their example, boss?
+1660	Chief, the strike group's ships are refueled and repaired. The pilots are ready to set out on your command.
+1661	Strike group fighter <Name> left the organization after not receiving the promised salary this month.
+1662	Name: <Name>
+1663	Resume: Worked as a plasma plumber together with his late brother. Claims his brother was eaten by a fire-breathing dragon while trying to rescue a faeyan princess. After losing his brother he tried to enlist in the star fleet, but the medical board declared him insane. If you close your eyes to all his feverish ravings, then on the whole a worthy candidate.
+1664	Class: <clr>Experienced<clrEnd>
+1665	Hiring cost: <Cost> cr.
+1666	Luirio
+1667	Resume: A trader to the bone. Kill me if I can understand why he got the urge to enlist as a mercenary at all. While standing in line, he managed to resell our sentries their own weapons at double the price. A unique peleng! Though he can't fight at all.
+1668	Shoysha
+1669	Shoysha
+1670	Resume: A sad story of a guy who simply loved whistling in enclosed spaces very much. He whistled so often and with such passion that in the end he lost everything: fortune, home, family... even his beloved dog. Left on the side of life, he decided out of grief to become a soldier of fortune, where he remains to this day, hoping to one day win back his former happiness.
+1671	Whistlekin
+1672	Whistlekin
+1673	Resume: Claims to be on an exclusively dirt diet. Upon our request the Mercenary Center sent his personal file, in which only three words were written: "He eats dirt". Follows orders well, and will certainly not complain about his salary.
+1674	Dirt
+1675	Dirt
+1676	I EAT DIRT!!!
+1677	I eat dirt!!!
+1678	I eat dirt.
+1679	I eat dirt!!! I eat dirt!!!
+1680	I eat dirt!
+1681	I eat dirt?
+1682	I! EAT! DIIIRT!!!
+1683	I eat dirt??
+1684	I give this order to you personally, Dirt. Can you handle it?
+1685	Tell everyone to engage any hostile targets in the system, Dirt. Please...
+1686	Return to the HQ... You too, Dirt.
+1687	This order is for everyone, I don't intend to talk with each one separately. You understood me, right, Dirt?
+1688	Uh... You can pass this order to the rest of the group, can't you?
+1689	Resume: A great chess player who paid for full cryofreezing to see the world of the future with his own eyes. The world of the future arrived, but as soon as the barely thawed grandmaster received the bill for keeping the cryo-capsule for a good thousand years, he took off on the double and went to semi-legal mercenary bread. We don't ask them for a certificate of no criminal record, heh-heh.
+1690	Carsparov
+1691	Carsparov
+1692	Resume: Formerly a star of a major stereo series. He got so into the role that he turned into the character he played, for which he was eventually fired. A slightly eccentric type, and I would never have offered you his candidacy if he hadn't spent three hours straight on his knees with his teddy bear begging us to take him into the mercenary ranks.
+1693	Mister Krin
+1694	Mister Krin
+1695	Resume: Creator of a line of gravicars running on the principle of cuberbulence of ion fuel. He was a billionaire until he started investing money in crazy colonization projects for "Hell Hole"-class planets. For another unsuccessful attempt to settle one, he sold his company and a spare kidney, but since even that wasn't enough for the budget embezzlers, he came to us to earn money for new investments.

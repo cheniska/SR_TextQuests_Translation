@@ -1,0 +1,150 @@
+1696	Oon-Trask
+1697	Oon-Trask
+1698	Resume: My longtime buddy. He's a simple farmer, actually - breeds penchecrakuses - but he's been complaining for a while that he's sick to death of all this boring country life. Wants real adventures, you see, the lad. In the squad he won't give you any trouble - I vouch for him personally.
+1699	Ryabchekhan
+1700	Ryabchekhan
+1701	Resume: A soft-hearted long-haul driver who got tired of living from paycheck to paycheck, eating gobshirkaks and giving rides to faeyan hitchhikers... or hitchhikers' male counterparts. He differs from the other candidates in understanding the key difference between a blaster and a cutter.
+1702	Mikhoylych
+1703	Mikhoylych
+1704	Resume: An outstanding scientist from the planet <clr>Arnarik Gaudad<clrEnd>. He derived a formula that determines the roughness of any wooden stool down to the splinter, and also put forward the provocative hypothesis "On the Replacement of Three Stools with One Bench". Since among maloqs any hypothesis must be confirmed by an applied experiment, he decided to temporarily join us to strengthen the practical side of his scientific research.
+1705	Dumbert Gumbey
+1706	Dumbert Gumbey
+1707	Resume: In the past he worked as ambassador of the planet <clr>Eipentak<clrEnd>. He learned the hard way that a conflict can far from always be settled peacefully. After the eighteenth robbery he was dismissed from his post. He spent all his remaining money on a shooting-range subscription, thanks to which he passed my entrance standards with the minimum score.
+1708	Keofirlis
+1709	Keofirlis
+1710	Resume: A former smuggler who managed to bring several dozen tons of costume jewelry to <clr>Ramgatru<clrEnd> disguised as plasma casings and gun oil. He also slipped past a pirate cordon the legendary ring of <clr>Rachekhan<clrEnd>, which the galaxy's most famous pirate wore almost the whole way on the third finger of his fourth hand. A lucky oddball, in a word - you won't find many like him.
+1711	Class: <clr>Veteran<clrEnd>
+1712	Tsuka Shchupkin
+1713	Tsuka Shchupkin
+1714	Resume: A devoted fan of space sims and, in the past, a well-known rock climber. In childhood he lost his legs after an "accident" involving peeping at a maloq newlywed couple. Now he's just a space sim fan. And though he's a lousy hand-to-hand fighter, as a pilot he showed impressive results on all our tests.
+1715	Khvantson Zhmark
+1716	Khvantson Zhmark
+1717	Resume: Very kind and friendly. Even too much. After a brief chat with him I wanted for a while to make a donation to the fund for families affected by the war with the Dominators, build a little house by a lake and become a fisherman. Besides that he has excellent reflexes and superb combat skills.
+1718	Daa-Ruto
+1719	Resume: By his own claim, in a past life he was an admiral of the fleet of some mighty galactic empire. In this life he is a stereovisor salesman, but he showed outstanding fighter-pilot potential during a trial simulation, which is why he made it onto this list.
+1720	Onilkin
+1721	Onilkin
+1722	Resume: A retired pirate. Decided to quit the career of terror of liners and traders because of unrequited love, but couldn't last more than two days without a fight. And then an inexorable thirst for adventure led him straight to our doorstep. As they say: you can take the maloq out of the fight, but never the fight out of the maloq.
+1723	Drak Vmordubey
+1724	Drak Vmordubey
+1725	Resume: Worked as a croupier in an underground casino on <clr>Eipentak<clrEnd>. The casino was shut down, and all former employees got a mark in their files that bars their way into any military structures. Only piracy and mercenary work remained. On the tests he showed that turning a helm comes out no worse for him than shuffling marked cards.
+1726	Gviriliti
+1727	Resume: An extremely well-known figure on the galactic stage - an already aging holotheater, film and voice-over actor who was unlucky enough to star in a too-sharp social satire. But the actor didn't lose heart and decided to "shake the dust off the old days". I made inquiries, chief: in his youth he graduated from the Academy, took part in several anti-pirate operations, and afterward, owing to health problems, transferred to intelligence. A valuable "asset", I tell you!
+1728	Cristobal Lee
+1729	Cristobal Lee
+1730	Resume: A legendary Dzuhallag agent, sent into retirement only after the fifteenth failed attempt to steal a faeyan autonomous walker from a test range. His brilliant reputation speaks for itself.
+1731	Class: <clr>Elite<clrEnd>
+1732	Kvond
+1733	Kvond
+1734	Resume: A real ps... pro. Killed all the applicants in the line ahead of him, just so as not to wait. Shoots once and always right in the head. If you don't want to hire him, then at least take the trouble to come up with some compelling reason, otherwise soon there'll be one assistant fewer for you at the HQ.
+1735	Shabbat
+1736	Shabbat
+1737	Resume: Rumor had it he died long ago, but as you see, he's wearing out our threshold in perfectly good health. This maloq managed to make his way alone through a prison planet teeming with pirate scum and rescue a high-ranking Coalition admiral from the clutches of the local boss.
+1738	Jake Finskin
+1739	Jake Finskin
+1740	Resume: A strange nickname, huh? When I asked the guy about his handle, he squealed loudly something about speed and about superpowers granted to him by a corn cob... Be that as it may, this "fast-food lover" really does carve up his enemies very fast.
+1741	Turbozhmykh
+1742	Turbozhmykh
+1743	Resume: A ve-ery old gaal. Even super old by the standards of other races! None of the living knows his exact age. Some doctors claim he's over a hundred and fifty, others that he even caught the time of first contact with Makhpella. One can say for sure only one thing - his starship piloting skills are outstanding. When asked "Why did you come to us?" he answered that he wants to "come to know pacifism through the prism of greed and unscrupulousness"... And added that he has a mortgaged apartment.
+1744	Deru-Un
+1745	Deru-Un
+1746	Resume: An extremely shady type. No information about him exists on the Galanet at all. He communicates with me remotely in a synthesized voice, and none of ours has seen him in person outside his ship. Nevertheless, in flight tests he demonstrated the highest class, for which he was entered as a candidate despite the absence of any biography.
+1747	V
+1748	Resume: I can't say anything definite about this guy except that he's an excellent pilot, and that his mere appearance scares the living daylights out of me. I suppose such thugs are better kept on your side when a big scrap breaks out.
+1749	Peen-Umbra
+1750	Peen-Umbra
+1751	Resume: A brilliant pirate strategist and first-class pilot. Thanks to his talent and good organizational skills the pirate clan won more than one battle, including in the <clr>Elga<clrEnd> system, where a few outdated clan tubs faced a well-armed Coalition squadron. One of the practitioners of <clr>"blitzkrieg"<clrEnd> strategy. Not fitting into the intrigues in the Clan leadership, he decided to hide behind someone's influential shadow - ours, for example.
+1752	Yokarin Rommeus
+1753	Yokarin Rommeus
+1754	Please, boss, don't take my <clr>engine<clrEnd>.
+1755	Without it I can't even take off
+1756	at all!
+1757	Please, boss, don't take my <clr>fuel tank<clrEnd>. I only have one.
+1758	Please, boss, don't take my <clr>last gun<clrEnd>! What am I supposed to cover you in battle with afterward?
+1759	Boss, with such an overload I won't be able to come to your aid if needed. It'll be better for both of us if you review my loadout.
+1760	Sorry, boss, but I can't keep track of so many tranclucators in battle.
+1761	Sorry, boss, but my technical skills aren't enough to control that many tranclucators.
+1762	We repelled this attack, boss - returning to the HQ. If you need us somewhere else - just let us know.
+1763	Salute, boss! I'm working up a sweat here, trying to strangle <TargetShipFull>. Or he's trying to strangle me, I haven't figured it out yet. What did you want, anyway?
+1764	Flank shields up, thrust in reverse, main gun fire! Oh, that went well... Who's lurking over there now?! Ah, it's you, boss. Sorry, I'm in a fight with <TargetShipFull> right now. Is it something urgent?
+1765	Hey, boss, that scoundrel over there - <TargetShip> - just called our organization a "gathering of pathetic phatklinks"! Looks like he urgently needs a breath of fresh vacuum. All that's left is to cut some vent windows in his hull... And how about you, are you in?
+1766	Take this there, bring that here, hand me this... Ugh, couldn't they have had any other work than hauling this junk? Look at me, boss. I'm no longer a cool mercenary who scares off all the pirate riffraff just by showing up, whom traders steer around the moment they see him on radar, or whom military patrols take aim at - no! I'm a courier now! A combat postman, damn them to hell!
+1767	But don't mind me, I'm just saying, in passing. What's up?
+1768	Listen, far, far away there's a land
+1769	There it's New Year, you won't believe it,
+1770	There it's New Year twice a year. So there.
+1771	Oh, chief, sorry, I didn't notice your incoming call. I somehow remembered a series from childhood, where two long-haul truckers flew to different systems and got into such scrapes, whew. It was breathtaking! And now I've been given a task to deliver a trinket to the planet <TargetPlanet>, and I want some kind of adventure so badly! You know, for some pirate to try to rob me or for me to get lost in hyper looking for the exit point...
+1772	And how are you doing?
+1773	And I'm flying to the next system,
+1774	Delivering parcels - what goes whe-ere...
+1775	The main thing is to make it by the end of the shift,
+1776	Or else pain and troubles will come-e-e...
+1777	Oh, good health to you, chief! What do you want?
+1778	Hi, chief! I'm hauling a parcel to the planet <TargetPlanet>. The work isn't the most fun, of course, but it's easy and profitable.
+1779	If you have nothing urgent, I'll be off, or I could really be late...
+1780	Hey, chief! What brings you here? I'm picking up minerals here, watching the situation, looking for clients... The work is in full swing, in short. Are you here on business or just to chat?
+1781	Hi, boss! Did you see the last season of the series "Game of Stools"? Just awful! How could they flush the ending so badly?! Everyone expected the Grey Walker to beat everyone up in Westercross, but it turned out so dismal... So what did you want?
+1782	Jus-s-st, wo-wo, a shot of boozequila on the tab-a-ale!!!
+1783	Ah, people used to have soulful songs, not like now. All sorts of Biebers and Gaogags have flooded the radio, it's sickening to even listen! Well, aren't I right, chief?
+1784	Freeze, this is Galanarcocontrol! Dump everything from the hold for inspection, or I won't answ... Oooops, my mistake.
+1785	I apologize, boss, I misread the ship's signature. Uh-h... how can I be of service?
+1786	Greetings, boss!
+1787	I've long wanted to thank you for taking me into your service. I like it with you a lot - good pay, tasty rations, and what parties on weekends at the HQ! The girls are just m-m-m... Oh, I think the manager asked not to talk about that...
+1788	So what's required of me?
+1789	<MercName> here. Ready to give support at any minute, boss - just say the word.
+1790	Greetings, boss! Guns loaded, engines normal, the ship at full combat readiness. If you have any problems, I'm ready to help resolve them.
+1791	Greetings! Orders are kind of thin this month, boss. Maybe you should post an ad on the Galanet?
+1792	From the darkness toward Gralgar's star
+1793	An iron armada is surging!
+1794	An ambush awaits them,
+1795	The chill of cosmic hell...
+1796	Heard this song yet, boss? A mighty guitar solo by <clr>Ravilio Tapok<clrEnd> himself!
+1797	So, uh... Do you need anything from me?
+1798	Oh, long time no see, chief. How's young life? What's new? I'm escorting <TargetShipFull>. I don't know why he needed protection, but he pays good money, and there are few such clients now.
+1799	Hey, chief. See that su-u-ucker over there that I'm herding? Yeah, I mean <TargetShip>. Imagine, I wanted to fleece him for cash, offer him "protection", so to speak. And he took it literally and paid as for a proper escort. So now I'm literally an honor guard, heh-heh.
+1800	Hi, boss. I'm guarding <TargetShipFull> on contract here, but is it necessary? Perhaps the natural culling of the civilian population by pirates and other fans of easy profit is precisely good for the Galaxy? Then maybe traders would arm themselves better, and eventually one diplomat could repel attacks on systems himself...
+1801	Ugh, I got a bit meta-ironic after the third can. And what, did something happen at your end?
+1802	Right now I'm on a mission, chief, so I can't help. Contact someone else of ours if you need support.
+1803	Boss, under the contract I'm under the command of Ranger <TargetShip> until <EndPartnerDate>. Until then I obey only his orders, so I ask your pardon in advance - I can't help you.
+1804	Phew, I'm worn out! Finally flying to base, at least I'll rest a bit. Did something happen, boss?
+1805	Ugh, what garbage this ekup of yours is! Tossed it overboard to hell, let the pirate "losers" finish it! And it's about time for me to visit the HQ - stock up on proper booze, so to speak. I hope you don't have anything urgent, boss?
+1806	Chief, my shift just ended and I'm heading to the HQ. But if you need anything - just say.
+1807	No enemies in sight anymore, so I'm returning to the HQ for duty. If you need help with something, boss, turn to the other fighters.
+1808	Chief, I see you have some beef with <GuardedShip>. In that case I'm terminating the escort and breaking the contract. If you need help - call.
+1809	Boss, with all due respect, I'm on a mission right now. Are you sure my help is necessary?
+1810	Chief, I've got trouble here - <TargetShip> doesn't want to resolve the conflict peacefully. Will you lend a hand?
+1811	Chief, sorry to bother you, but I've run into trouble with <TargetShip>. Help me take him down, because I feel I can't manage alone.
+1812	Uh, I'm terribly sorry to bother you, chief. But I have a small request - could you spot me a few credits? My wife called yesterday, says our little boy has outgrown diapers, he needs a potty... with heating and ventilation. Well, anyway, if it's no strain... I need only a little, just <Payment> cr. I'd be very grateful.
+1813	Hey, chief! I, uh, what did I want, actually... Ah, I remember - spot me <Payment> till payday, will you? The day before yesterday I bet everything on black and now I can't even afford a can of "Makhpella".
+1814	Good galaday, chief.
+1815	A few days ago a general election appointed me head of the union in our organization. On behalf of all workers I want to express concern over the absence of extra bonuses, maternity leave, and free resort vouchers. However, if you reward me right now with the sum of <Payment> cr., then, so be it, I won't send a petition to the Galactic Union of Workers of All Races and Peoples.
+1816	Boss, here's the thing. Anyway, since childhood I've collected ancient weapons. And it so happened that recently a maloq burgebusa was put up at auction - a unique specimen from as far back as the fifteenth century! I've almost saved up enough to buy it, I'm short a measly <Payment> cr. Please, spot me until payday, or they'll snatch it away!
+1817	Got it, got it, chief. Sorry, I'm already gone.
+1818	What a villain you are, chief! Oh well, my own fault... Next time I'll bet on red - I'll surely get lucky!
+1819	Oh come on, chief? Can't I even joke? I'm already flying off, just no latrines, okay?
+1820	Ehh... I didn't think you were such a skinflint, boss. Oh well, my problem. Sorry for disturbing you.
+1821	Maybe he's also short of an air freshener in there? Get back to work, daddy!
+1822	Never mind, you'll scrape by till payday. At least it'll teach you a lesson!
+1823	Did you hit your head or something? What the hell union? I'll reward you so well that you'll scrub the station's latrines for a month! Get out of my sight!
+1824	What the penchecrakus burgebusa?! Fly off to work, slacker!
+1825	Well, if it's for a potty - it'd be a sin not to help. Here's your <Payment> cr.
+1826	All right, take your <Payment> cr., but if I see you in a casino one more time - I'll fire you on the spot!
+1827	Here's your <Payment> cr., troglodyte, just no petitions
+1828	You're very lucky, I happen to have a spare <Payment> cr. right now.
+1829	Thanks a million, chief! My little boy will always remember you now, when, well... uh... thanks, anyway!
+1830	You're a real colonel, chief, I'll never forget it!
+1831	On behalf of all the organization's employees I express gratitude for your generosity and prudence in the amount of <Payment> cr. Have a pleasant trip.
+1832	Thanks, boss! If you have a free minute, drop by our barracks, I'll show you my collection. I'll even let you shoot, if you want! Well, I'm off to make the purchase.
+1833	Blaster Tziptzilot
+1834	As soon as you brought a finger to the tablet, an inscription appeared on the screen:
+1835	"Transfer of the official promissory note from user <clr>Tziptzilot<clrEnd> to user <Player> successfully completed."
+1836	Enter the answer:
+1837	Oh, I see you have the key of <clr>Blaster Tziptzilot<clrEnd> himself. The old peleng must have lost his former grip. Well, it's none of my business. Here is the access to his vault - it's yours now.
+1838	Bye
+1839	May your board short-circuit, you tin can!
+1840	What a jerk you are, <Player>!
+1841	Fine - let's let it go
+1842	I happen to have a spare <Cost> cr. lying around - take it and get lost
+1843	Fine, here's your <Cost> cr., bloodsuckers! Take it and get the hell out!
+1844	I have a key to one of the cells on me, may I get its contents?
+1845	Oh well, why not. Only where should I put it for you?
