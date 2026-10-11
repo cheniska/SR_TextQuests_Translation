@@ -1,0 +1,58 @@
+195	Scientific progress is more important to me than personal safety - I'm in
+196	I think I'd like to buy some additional cloaking devices right now
+197	Of course. However, we can only release them at the prices officially approved by higher command:<br><0><br><1><br><2><br>Which do you choose?
+198	Of course. According to our data, you need to extract information from <0> <1> more, using the <clr>R.D.P.C.<clrEnd> issued to you for this purpose
+199	In that case we will reload the <clr>R.D.P.C.<clrEnd> with newer versions of spy robots right away, and also issue you a double allotment of cloaking devices, two per series.<br>Do you need anything else?
+200	Astounding! You have not only fulfilled but exceeded our entire projected plan! The data you brought contains partial blueprints of things we couldn't even have imagined. It appears the dominators have outstripped our scientists in the technical field far more than we thought. So much for synthetic intelligence!<br>Oh, right, you're expecting a reward for your labors. Accept this <0> and a <clr>kit for replacing the blocking system<clrEnd> in the Trion device. The latter will let you easily adapt any Trion development of our Coalition colleagues to your own needs.
+201	And since we're on the subject of colleagues, I strongly recommend paying a short visit to their flagships. It is very likely that their Trion research has not advanced nearly as far. I'm sure they will be happy to accept a helping hand from you.
+202	I'm afraid the chance of surviving such a mission is utterly unacceptable to me
+203	Well, it's a great pity, but your position is quite clear to me. I won't detain you any longer.
+204	Certainly! The light of enlightenment is dearer to me than the light at the end of the tunnel of my own existence
+205	No, this is exactly what I needed. I'm starting on the mission
+206	And don't even think of refusing! It's the least we could do to repay you for your work.
+207	In that case I will certainly visit them. And thank you very much for the reward!
+208	Attention! The dominators were drawn by the bertor's strange behavior, and the data transmitted by the <color=255,240,100>asynchronous convector</color> clearly pointed to you. Your cloaking has been exposed!
+209	Attention! The <color=255,240,100>asynchronous convector</color> is not on board. Further data transmission is impossible and the bertor no longer obeys you.
+210	Bertor <0> has been captured by the <color=255,240,100>asynchronous convector</color>. Do not move more than <color=255,240,100>250</color> million km away from it, otherwise the established link will be broken.
+211	Attention! The <color=255,240,100>asynchronous convector</color> cannot transmit data at distances over <color=255,240,100>250</color> million km. The captured bertor has broken free and activated <color=255,240,100>enhanced security protocols</color>. It seems you will not be able to capture it again.
+212	I order you to jump to another system
+213	Cancel jump, over and out
+214	st8asxtg2k23j42k<br>ProSTOP!eeding to exePp0Lcuting the orAzAZzzzder...<br>hNsdljl4k,saAzc zi3h 2k-18n 23jk4nBKfgn 14ofns, mDFn24 gedL34 5eRg et-73 dfGme4t57g
+215	Klissans
+216	Terronoids
+217	Kelleroids
+218	Blazeroids
+219	Coalition
+220	n42kuHDn2 iU3hkw bsDGwd<br>Awa004iting coorFdinates inpvut...
+221	101kb10kb1ssd_ojl1n0nl0ns<br>Identi1iFizaation: <clr>Obffject <Player><clrEnd><br>Order: <clr>CooperaaAtion<clrEnd><br>Sta10jnte: <clr>AwaDditing orKder...<clrEnd>
+222	011ks38kB1sTd_ojl12rnl6mu<br>IdentZq1ificaQation: <clr>Obflect <Player><clrEnd><br>Order: <clr>CooperiIiattion<clrEnd><br>S0taZ9jnte: <clr>Execuaating jump to the systTtem <0>...<clrEnd>
+223	Course to
+224	Errror!1! Eror!11<br>No syiiistem foun0d suiGghRtable for jumvvVping!
+225	Well, peace in the Galaxy sometimes demands desperate sacrifices, so I agree, even if in doing so I sign my own death warrant
+226	It's a great pity that you take this assignment for the ravings of a deranged maloq, but I can't make you change your mind. Go, enjoy life... while there's still some left in the Galaxy.
+227	I see you've brought good news, but I don't see the <clr>asynchronous convector<clrEnd> filled with dominator data. Tell me, <Player>, you didn't lose it on the way here out of the joy that suddenly overwhelmed your mind, did you?
+228	Not at all! I just accidentally left it at a warehouse, but I'll be right back
+229	bertor memory blocks
+230	bertor memory blocks
+231	bertor memory block
+232	I see. In that case we have nothing more to discuss. I wish you luck in your continued aimless existence. Heretic.
+233	Yes, of course! This will be the greatest discovery since the invention of the technology for creating hyperspace bubbles!
+234	No, this is exactly what I needed. I'm starting on my great mission
+235	Well, sincere thanks for that
+236	I humbly thank you
+237	and may the <clr>Creator<clrEnd> be with you!
+238	All right, I'll visit them. And thanks for not cheating me out of the reward
+239	Pfft! If you need them, you go fly after those blocks! Going to look for the soul of the dominators, ha!
+240	Have you fallen off a baobab or something?! I can barely even understand what you want from me, let alone survive all this!
+241	Of course, <Player>. According to our data, you need to load <0> <1> more into the <clr>asynchronous convector<clrEnd>.
+242	Yes, yes, of course. According to our data, you still have <0> <1> left to bring. And don't forget to put on the <clr>reconfigured localizer<clrEnd> when you're bashing those freaks.
+243	Wow, already hauled something in, have you? Let's take it off your hands right away so your hold doesn't get clogged.<br>According to our data, you still have <0> <1> left to bring. And don't forget to put on the <clr>reconfigured localizer<clrEnd> when you're bashing those freaks.
+244	Of course, <Player>. According to our data, you need to scan <0> <1> more using the <clr>recon probe<clrEnd> issued to you.
+245	Then again, no, my current cloaking devices will be quite enough for me
+246	and let it help in the second part of the mission the stars have prepared for you. Yes, yes, don't be surprised. Your assignment is in fact not over yet.<br>The data you delivered is enough only for us to understand some basic technical features of the dominators, but for a real victory over them we need to grasp far more... We need to grasp their mechanical <clr>soul<clrEnd>.<br>You, <Player>, have been granted the honor of obtaining the last missing pieces we need for a deep understanding of the synthetic nature of these ruthless constructs. Only <clr>five<clrEnd> more bertor <clr>memory blocks<clrEnd> separate us from this secret knowledge, which could, in time, put an end to the whole war! So, do you agree to take on the fulfillment of this grand design?
+247	Then go, <Player>! Go, and bring this hidden machine knowledge into our eager hands!<br>Just first give us a minute to wipe the <clr>asynchronous convector<clrEnd> memory and send you the cloaking devices and copies of the <clr>Intercom<clrEnd> needed for the assignment.<br>Do you need anything else?
+248	And since it comes to that, I also recommend flying to the flagships of the other races. They may have work for you in the study of trionics as well.
+249	This outcome was predetermined by the <clr>Universe<clrEnd> itself. The <clr>Universe<clrEnd> gives us a chance to defeat an unnatural enemy, and we will not let this chance slip. The data you obtained for us will help us create new equipment no weaker than the dominator models.<br>And by the way, we managed to recreate something based on the data from the memory block we found earlier. So accept this <0> as a gift,
+250	I want to update my Trion equipment
+251	And if you have outdated Trion equipment, we will gladly help you update it!
+252	I want to upgrade

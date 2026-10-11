@@ -1,0 +1,59 @@
+340	So, ready for the final blow? The task is the same: destroy <clr>four<clrEnd> flagships or bertors of any kind. Deliveries of new gear to our ranks are in full swing, but a few things are still missing, and it's exactly those gaps that you're going to fill.
+341	Anyway, <Player>, all hopes are on you again. Pull it off and we'll give you honor and respect like you wouldn't believe.
+342	Client - <clr>pirate clan<clrEnd>
+343	Wow! What luck! Thanks, <Player>, we don't have a case of this color yet. Ah, wait, actually we do have a case of this color - throw it out into space... Wait, what are you doing?! The case, not the ranger, the ranger may still come in handy!<br>All right, joking aside. We've had this information for a long time, but we still lack the necessary materials. See how cleverly this world is arranged, <Player>? To produce such modifications we need materials made by the Coalition and by the dominators. And that, in turn, requires destroying <clr>flagships<clrEnd> and <clr>bertors<clrEnd>. The former so that the Coalition finally loosens its purse and pays for production of modifications to strengthen its ships, some of which will end up with us, and the latter to collect the missing parts that can be obtained only from the dominators themselves. To start "production" it will be enough for us if you destroy <clr>four<clrEnd> ships of any type.
+344	Attention! The enemies have figured out that you are not a real dominator!<br>Cloaking will no longer fool them.
+345	Bertor info box for dropping a memory block after death (hidden)
+346	The bertor has activated enhanced security protocols. External access to the logic core and memory blocks is no longer possible.
+347	Enhanced security protocols
+348	Info box for a 100% drop of unknown modifications for the maloq assignment
+349	Sends an alarm signal to the bertor to dump a supposedly faulty energy core.
+350	Detacher
+351	Attention! The reconfigured blast wave localizer was hit and damaged in battle. Repair is required.
+352	After long use, too much space dust has clogged the reconfigured blast wave localizer, and it has begun to malfunction.
+353	Reconfigured Blast Wave Localizer
+354	Preserves equipment of an unknown <color=255,240,100>dominator</color> modification when<br>a bertor is destroyed.
+355	Fisher
+356	Solid
+357	Archer
+358	Snowden
+359	Stirlitz
+360	Philby
+361	Bertor Memory Block
+362	Empty Bertor Memory Block
+363	Contains detailed information about the entire "life activity" of a bertor.
+364	All the information from this memory block has been transferred to the <color=255,240,100>asynchronous convector</color>.
+365	All the information from the bertor memory block has been successfully transferred to the <color=255,240,100>asynchronous convector</color>.
+366	Case with Secret Information
+367	if(MessageBoxYesNo('A phrase flashed on the case small screen:' + CT('FormInfo.br') + ' ' + CT('FormInfo.br') + '<color=0,50,200>What is the final answer to the ultimate question of life, the universe, and everything?</color>' + CT('FormInfo.br') + ' ' + CT('FormInfo.br') + 'Do you wish to enter an answer?'))
+368	str answer = TextBox('Your answer:');
+369	else MessageBox('Wrong answer!');
+370	A case with secret information protected by a complex password. Must be delivered to the nearest <color=255,240,100>flagship</color>.
+371	R.D.P.C.
+372	MessageBox('The information storage blocks are full. Deliver the device to any <color=0,50,200>faeyan</color> flagship.');
+373	MessageBox('The spy robot is already active');
+374	MessageBox('You have run out of spy robots');
+375	if(!tint2) MessageBox('There are no bertors in the system');
+376	else MessageBox('There are no bertors in the system suitable for' + CT('FormInfo.br') + 'espionage');
+377	if(PlayerChameleonCurType() == -1) MessageBox('You must activate cloaking before launching the spy robot');
+378	else MessageBox('Your cloaking does not match the required dominator series');
+379	else if(tint2 == 2) MessageBox('Your cloaking has been exposed, launching the spy robot is impossible');
+380	MessageBox('The spy robot has been successfully launched and sent to <color=0,50,200>' + Name(tdwd4) + '</color>');
+381	else MessageBox('You are too close to the dominator ships, launching the spy robot is impossible');
+382	Robotic Decryption Portable Complex, or <color=255,240,100>R.D.P.C.</color> Used for quick assembly of <color=255,240,100>spy robots</color> from pre-made spare parts, and for storing the information they collect. Contains various programs and complex algorithms for <color=255,240,100>decrypting</color> dominator codes.
+383	Available for launching spy robots: <Data2> pcs.
+384	Information storage blocks filled to: <color=255,240,100><Data1>%</color>
+385	Asynchronous Convector
+386	Transmits a chaotic stream of data mixed with malicious code to the nearest bertor. As a result of this sabotage, the dominator loses the ability to use its attack protocols and also opens a "window" for receiving a <color=255,240,100>redeployment</color> command. In addition, the convector serves as temporary <color=255,240,100>storage</color> for the collected dominator data.
+387	Kit for replacing the blocking system in<br>Trion equipment
+388	MessageBox('The <color=0,50,200>blocking system</color> for this equipment additional properties <color=0,50,200>matches</color> the pilot race and does not need replacing.');
+389	if(MessageBoxYesNo('Are you sure you want to replace the <color=0,50,200>blocking system</color> in <color=0,50,200>' + DeleteTags(Name(item)) + '</color>? This will entail reassembling the equipment and the loss of all additional elements'))
+390	A single-use kit for modifying Trion equipment. Contains universal hacking keys and a complete set of blocking systems that prevent the activation of the additional properties of <color=255,240,100>Trion</color> equipment. Allows replacing the blocking system <color=255,240,100>to match the pilot's current race</color>.
+391	Reinforced Trion Parts Set
+392	if(MessageBoxYesNo('Are you sure you want to install the <color=0,50,200>reinforced parts</color> in <color=0,50,200>' + DeleteTags(Name(item)) + '</color>?'))
+393	A single-use kit for modifying Trion equipment. A number of standard factory parts are replaced with reinforced ones, which increases the service life of any <color=255,240,100>Trion</color> equipment <color=255,240,100>by half again</color>.
+394	CustomLose('The moment the cargo hatch doors slammed shut behind the energy core, deadly radiation, scarcely weaker than a star, generously drenched every compartment, turning your ship into a hideous likeness of an atomic oven. You are dead, <Player>, and now all the glory will go to other rangers! But your name will be entered forever in the list of war heroes, and your family will receive the standard insurance payment of <Money> cr.');
+395	One of the bertor eight main power sources. Among other things, it supplies energy to the unknown modifications of dominator equipment.
+396	Peleng Recon Probe
+397	Scans the nearest <color=255,240,100>undamaged bertor</color>. Disguised as space debris and equipped with a system that absorbs outgoing emissions, so it is of no interest<br>even to dominators.
+398	<br> <br>Information collected on the current target: <color=255,240,100><Data2>%</color>

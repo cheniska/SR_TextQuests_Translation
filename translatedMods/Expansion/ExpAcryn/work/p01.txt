@@ -1,0 +1,66 @@
+1	Fuel Tanks
+2	With a light click, the case latches popped open, and you reached inside with undisguised impatience. To your disappointment, the case held only an ordinary tablet with some rather obscure information:<br><clr><clrEnd><br>----------------------------------------------------<br><color=0,50,200>Trion equipment modification</color><br>----------------------------------------------------<br>Energy weapon power: <color=0,50,200>+5</color><br>Splinter weapon power: <color=0,50,200>+7</color><br>Missile weapon power: <color=0,50,200>+4</color><br>Engine speed: <color=0,50,200>+30</color><br>Jump range: <color=0,50,200>+2</color> pc<br>Radar range: <color=0,50,200>+200</color> million km<br>Droid effectiveness: <color=0,50,200>+5</color><br>Shield generator: <color=0,50,200>+2</color><br>-------------------------------<br>Maloqs: <color=255,0,0>trade</color><br>Pelengs: <color=255,0,0>leadership</color><br>Humans: <color=255,0,0>technics</color><br>Faeyans: <color=255,0,0>maneuverability</color><br>Gaalians: <color=255,0,0>accuracy</color><br><clr><clrEnd>
+3	----------------------------------------------------<br><color=0,50,200>Trion equipment modification</color><br>----------------------------------------------------<br>Energy weapon power: <color=0,50,200>+5</color><br>Splinter weapon power: <color=0,50,200>+7</color><br>Missile weapon power: <color=0,50,200>+4</color><br>Engine speed: <color=0,50,200>+30</color><br>Jump range: <color=0,50,200>+2</color> pc<br>Radar range: <color=0,50,200>+200</color> million km<br>Droid effectiveness: <color=0,50,200>+5</color><br>Shield generator: <color=0,50,200>+2</color><br>-------------------------------<br>Maloqs: <color=255,0,0>trade</color><br>Pelengs: <color=255,0,0>leadership</color><br>Humans: <color=255,0,0>technics</color><br>Faeyans: <color=255,0,0>maneuverability</color><br>Gaalians: <color=255,0,0>accuracy</color><br><clr><clrEnd>
+4	Unfortunately, below it, as if by hand, a note had been scrawled in sweeping handwriting: <color=255,20,20>WRITE OFF DOCUMENTATION</color> <clr>PER PROTOCOL 23-51R<clrEnd><br>----------------------------------------------------
+5	Radar range: <bonRadar> million km
+6	Asteroid protection: <bonResistAsteroid><clr>%<clrEnd>
+7	Trion Shield Generator
+8	Durability: <clr>+25<clrEnd>%
+9	Trion Droid
+10	Trion Engine
+11	<color=248,252,248>The extreme technological sophistication and complexity of the <color=255,240,100>faeyan</color> approach to engineering shows in full glory in the Trion equipment they built. To keep the additional properties of this equipment permanently active, it requires regular coordination from the brain of a living humanoid, but unlike the complex compound-eyed brain structure of the <color=255,240,100>faeyans</color> themselves, the brains of other races simply cannot sustain the same high level of multitasking. Fortunately, rangers have special software that lets them operate such units.</color>
+12	Trion Fuel Tank
+13	<color=248,252,248>Having discovered the extraordinary properties of Trion equipment, the <color=255,240,100>gaalians</color> immediately declared them a manifestation of the miracle of the great universal balance and placed their activation under protection from those uninitiated in the ancient mystery of the primacy of the primary over the secondary. Fortunately for some and unfortunately for others, the gaalians themselves can no longer properly explain what this mystery consists of, and apparently take each other at their wo... That is, at the firm and confident statement of a respected representative of the three-eyed race. Fortunately, rangers have special software that lets them operate such units.</color>
+14	Shield generator power: <bonDef><clr>%<clrEnd>
+15	Trion Gripper
+16	<color=255,240,100>Maloq</color> <color=248,252,248>assembly left its crude mark in the form of a big, nearly welded-shut red lever that must be turned to activate all the additional properties of this unit. A trivial action for a <color=255,240,100>maloq</color>, for the other races turning the confounded lever becomes a serious athletic trial that very rarely ends in success. Put simply, all the additional properties of this equipment are available only to "red-skinned intellectuals". Fortunately, rangers have special software that lets them operate such units.</color>
+17	<color=248,252,248>Having been designed by the <color=255,240,100>pelengs</color>, the system for activating the additional properties of this equipment requires entering a special biometric radio-digital nanokey, available only to representatives of this secretive and distrustful race. What remains unclear is why the <color=255,240,100>pelengs</color> needed to hide the functionality of equipment that was, in fact, stolen twice already: first from the dominators, and then from the inventor races of the Coalition itself. Fortunately, rangers have special software that lets them operate such units.</color>
+18	<color=248,252,248>When assembling this equipment, resourceful <color=255,240,100>humans</color> built into it a technical restriction on activating the additional properties, which can be lifted only by correctly guessing a series of images displayed on the control panel. Nine random illustrations depicting the brightest moments of Earth's common history and culture, mixed with scenes from popular science fiction films, are shown on the screen in a 3 by 3 grid, and pose no difficulty in guessing for any halfway educated <color=255,240,100>human</color>, which definitely cannot be said of the overwhelming majority of the other races. Fortunately, rangers have special software that lets them operate such units.</color>
+19	<color=248,252,248>A top-secret joint development of three races, stolen by a fourth, sold to a fifth, and finally acquired by a "sixth". The additional properties of the equipment are activated by unique, chaotically changing codes known only to a few high-ranking members of the <color=255,240,100>pirate clan</color>.</color>
+20	Missile and torpedo speed: <bonMissileSpeed>
+21	Trion Radar
+22	Trion Scanner
+23	This Trion equipment has been upgraded by technicians of the Technology Center network
+24	<color=248,252,248>An experimental Trion equipment modification, recreated by the Coalition's outstanding scientists using the latest dominator technologies and improving the characteristics of nearly all on-board systems.</color>
+25	<color=248,252,248>An unknown modification of <color=255,240,100>dominator</color> equipment. Activating the additional properties requires a colossal power source, found on board only on <color=255,240,100>bertors</color>.</color>
+26	days
+27	Active radiation release<br>will end in
+28	There is no radiation; the energy core <color=255,240,100>can be taken</color> on board.
+29	Energy Core
+30	Active Energy Core
+31	Really? Well, since <Player> himself says it's something valuable, then apparently it is, ahaha!<br>All right, show me what you've got there, and make it quick.
+32	Here's a whole secret military case for you! So, what do you say to that, huh?
+33	I don't like your tone, I'd better keep this information to myself
+34	Ah, come what may! I'll take the job, where do I sign?
+35	Well, well, good luck. You'll be the most secretly informed fool in the Galaxy, ahaha!
+36	No, thanks, my own skin is worth more to me
+37	I completely agree with you, I'm in!
+38	No way, it sounds too dangerous
+39	I have information that will definitely interest you
+40	I want to discuss the details of my assignment
+41	I would like to get a special assignment
+42	I need a cloaking device
+43	Launching program: <color=0,50,200>Detacher</color>
+44	What was it you assigned me to do there, can you remind me?
+45	What's that interesting thing you've got there? I want one too!
+46	Your ship is too far away. Come closer, then we'll talk.
+47	Ah, so you're the famous <Player>? We've been waiting for you! Some even thought you had given this top-secret information to the pirates. Well, let's see what you've brought us...<br>Hmm, so this is what our new <0> and <1> will look like, impressive!
+48	Hey, boss, meet the hero! Your job was done to perfection!
+49	Series <0> Cloaking Device for <1> cr.
+50	<clr>Terron<clrEnd> series Cloaking Device (<0> cr.)
+51	<clr>Keller<clrEnd> series Cloaking Device (<0> cr.)
+52	<clr>Blazer<clrEnd> series Cloaking Device (<0> cr.)
+53	In that case, stop wasting our time, which is so precious for the Coalition's defense!
+54	Congratulations, you are now a <clr>Captain<clrEnd>. To earn the next rank you need to score <clr>700<clrEnd> points, so don't relax, you still have a long way to grow. Nevertheless, you, <Player>, already show great promise and may soon become one of the best pilots.<br>To help you with that, we are putting <0> in excellent condition into your hands!<br>And while you're here, carry out a small errand. Classified information needs to be delivered to the nearest flagship. Is the order clear?
+55	I changed my mind, over and out
+56	I changed my mind, I don't need a cloaking device
+57	Thank you, over and out
+58	Thank you, but I'd like to buy more cloaking devices
+59	Excellent, our technicians have loaded the cloaking activation programs into your on-board computer.<br>By the way, you do know that this cloaking device stays active even after you change hulls, right? I'm only warning you.
+60	Thank you, and now on to other business
+61	Thank you, but I need to find out something else
+62	Understood, over and out
+63	Well, it wasn't easy, but I got the job done
+64	Oh, it seems I accidentally unloaded it into storage, I'll bring it right over
+65	Increase the counter of items/data needed for the assignment (test function)
+66	The counter of items/data for the assignment increased by <0>. <1> more needed.

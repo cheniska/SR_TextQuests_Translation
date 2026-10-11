@@ -1,0 +1,71 @@
+67	Your recon probe has successfully <color=255,240,100>completed</color> collecting data from the current target, but the bertor detected the leak and activated <color=255,240,100>enhanced security protocols</color>. Obtaining any further information from this bertor is not possible.
+68	I could really use some kind of camouflage on this mission
+69	I have no reason to refuse. Our entire standard stock of cloaking devices is at your complete disposal... As long as you have credits, of course:<br><0><br><1><br><2><br>Choose, but make it quick. We are on combat duty, after all.
+70	Ahem... Yes, yes - that was a joke, of course... Over and out
+71	Ha! Hand top-secret developments over to some ranger? Hmm... Well, if you help us, then fine, one unit could very well be written off as substandard.<br>Have you ever seen a bertor? Are you familiar with the kligs? Lately things with them have gotten even worse. The dominators somehow learned of the existence of acryn and created their own version of the modifications.
+72	Why not provide one? We will! Though not for free.<br>Here is the list of available cloaking devices and the prices officially approved by higher command:<br><0><br><1><br><2><br>Choose, but make it quick. We are on combat duty, after all.
+73	Thank you for the honor
+74	Honor and glory to the defender of the Galaxy!
+75	Better pass them my polite spit in the face - I'm through with your assignments
+76	Excellent work, <Player>! The information you obtained will be used exclusively for noble purposes, have no doubt! We haven't forgotten your reward either. I am proud to place this <0> into your heroic, figuratively speaking, hands!
+77	You shouldn't have, <Player>. The eyes of <clr>Dzuhallag<clrEnd> are long, but its hands are even longer.<br>I wish you a pleasant, well-earned rest.
+78	Fine, I'll get you some more intelligence, but this time will definitely be the last
+79	And what exactly do you want to find out?
+80	Mission accomplished, I would like to receive my reward
+81	Well, thanks, I'll take it into account
+82	By the way, I strongly recommend asking about similar assignments from the flagships of <clr>other races<clrEnd>. They are hopelessly behind us in trionics anyway, so it's high time to extend a condescending helping hand. In the future there will certainly be a chance to remind them of the debt.
+83	All right, I'll collect some more data, but won't you provide the hero with a cloaking device?
+84	Once again, my sincere congratulations on this outstanding triumph! Today you have earned it beyond any doubt.
+85	of the Trion shield generator
+86	of the Trion gripper
+87	of the Trion droid
+88	of the Trion scanner
+89	of the Trion radar
+90	of the Trion engine
+91	of the Trion fuel tank
+92	Fine, but make it quick.
+93	But of course! Scan a few more bertors and you'll be free like... ahem... a ranger.<br>As last time, the collected data must be delivered to any <clr>peleng<clrEnd> flagship. Good luck.
+94	Well, in that case you won't get any new modifications from us. All the worst.
+95	What assignment are you talking about? Ah, I think I remember. You're the ranger who passed the Coalition loyalty test, right? Well then, you'll get an assignment, just listen carefully:
+96	Oh, forget it, over and out
+97	So you're the ranger who helped our comrades obtain information about the new dominator technology? We've already heard, yes. Well, we could clearly use help in this area, so listen to the task:
+98	What, changed your mind after all? Well then, listen up, I won't repeat it a third time:
+99	Hmm, you really are a rare blockhead, <Player>! Why not bring it in another three hundred years!<br>Anyway, take this case out of my sight and get out yourself, too. Idiot, damn it!
+100	Okay, okay, I'm leaving, don't shout!
+101	Oh, <Player>, what a moron you are, really...<br>Do I have to spell out exactly how things are done, or will you take my word that your little suitcase is completely irrelevant to us now?
+102	That all sounds pretty lousy, but how exactly can I help you?
+103	Have no doubt, I'll complete the task!
+104	I was ordered to hand this secret case over to the nearest flagship
+105	What?!! Afraid of a fight?! Shame on you, you pathetic coward! Get out of my sight - you nobody!
+106	What?! Hide from the enemy?! Hahaha!!!<br>Well, <Player>, good for you, you made me laugh! You should perform at the "Crooked Stool", really! Haha!
+107	samples of unknown dominator modifications
+108	samples of unknown dominator modifications
+109	sample of an unknown dominator modification
+110	Ah, there he is - our national hero! Glory to ranger <Player>! Glory to the hero of the Coalition!<br>And here is your well-earned reward: <0> and, as promised, a small bonus - <clr>a kit for replacing the blocking system<clrEnd> in the Trion device. The kit is surprisingly simple to use, and the illustrated instructions are included, so you'll figure it out.
+111	Ugh, you'll have a hard time advancing science... Fine, I'll bring more samples, so be it
+112	Oh, don't mention it
+113	In short, <Player>, heartfelt thanks! I don't even know what our science would do without you.
+114	Of course I'll ask! Especially among the pelengs
+115	By the way, I strongly recommend asking about similar assignments from the flagships of <clr>other races<clrEnd>. The pelengs' faces will fall when they learn the maloqs outdid them in trionics, haha!
+116	Trion shield generator
+117	Trion gripper
+118	Trion scanner
+119	Trion radar
+120	Trion engine
+121	Trion fuel tank
+122	nor!
+123	Excellent work, <Player>! Thanks to these samples we will be able to create our own series of the newest modifications and finally prove to the Galaxy that maloqs are also capable of scientific breakthroughs! Today you have done an invaluable service to our race!<br>And here is your reward - <0>, one of our first prototypes. Use it with ho
+124	Then get lost, smart aleck! We'll collect new samples without you, we only have to wait for the next military operation.
+125	Thank you, <Player>, we won't forget the favor! Deliver the modification samples to any <clr>maloq<clrEnd> flagship, but please hurry. We've already herded all the scientists into one laboratory, and if they aren't urgently given something to do there, they may well kill each other arguing over whose head is bigger.
+126	Our savior! Glory to ranger <Player>! Glory to the greatest warrior of the Galaxy!<br>Here is your well-earned reward, warrior: <0> and, as I promised, something on top - <clr>a kit for replacing the blocking system<clrEnd> in the Trion device. The instructions for the kit are written for maloqs, so you'll have to strain your brain a little, but I think you'll manage. And don't worry, this time we didn't send the samples in a "Grom-Trakh" capsule; the newest peleng "Utyr-OK" went instead. Judging by its telemetry, it is just now crossing the border of the peleng system, skirting the dangerous zone of our planet's gravity.
+127	What, again?! No way, go to hell with your unsafe capsules and your brominated heads!
+128	Excellent work, ranger! But where is the <clr>reconfigured localizer<clrEnd> issued to you?<br>This outstanding device will be studied in our most advanced universities. It will help raise hundreds of generations of the Galaxy's greatest scientists, as the finest example of the scientific genius of the maloq race!
+129	We are immensely glad to hear that, but where is our <clr>recon probe<clrEnd> filled with the most valuable data?
+130	Ha! No chance! Take out your bertors yourselves
+131	bertors
+132	bertor
+133	bertor
+134	No problem. According to our data, you still have <0> <1> left to obtain, using the <clr>Detacher<clrEnd> hacking program provided to you for this purpose.
+135	bertor energy cores
+136	bertor energy cores
+137	bertor energy core
