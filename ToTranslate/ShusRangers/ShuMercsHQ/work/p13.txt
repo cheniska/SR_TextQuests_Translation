@@ -1,0 +1,130 @@
+1136	Excellent, in that case we'll begin all the necessary preparations right now. Go get the authorities' permits, and as soon as you return we'll immediately start building the HQ in the <Star> system.
+1137	[<clr>Choose a name<clrEnd>]
+1138	I see
+1139	And without intermediaries?
+1140	I'm probably not ready for such a step yet, I need to think it all over carefully
+1141	I'll choose the system later, but go ahead and start the preparations - I'll be in touch soon
+1142	Could I become a mercenary myself?
+1143	My daily bread is in perfect order, but money, as they say, is never superfluous
+1144	What's wrong with my candidacy?
+1145	But in that case I could found my own faction, right?
+1146	About creating my own mercenary organization
+1147	I have all the papers, we can start construction
+1148	About the organization and HQ
+1149	I have received all the necessary building permits
+1150	I want to build a new HQ
+1151	Thank you, very glad
+1152	I'm not ready yet
+1153	Well, fine, here's your money [<color=0,50,200>pay</color>]
+1154	I choose the system
+1155	Got it, I'm on my way
+1156	Well, I understand you
+1157	I already have all the necessary insignia on me
+1158	Is there no other way to win your trust, without any shady intermediaries?
+1159	I'll choose the system later, but you can already start the preparations - I'll be in touch soon
+1160	I've changed my mind, maybe later
+1161	So be it, I'll bring you these papers again
+1162	However, I hasten to disappoint you - based on the data I have on your candidacy and the current situation regarding mercenary organizations, you will not be able to find employment with us.
+1163	As you know, not long ago there were three mercenary factions: the <clr>Atlant private security firm<clrEnd>, the <clr>"Red Axes" squad<clrEnd> and the <clr>Faeyangelion Corporation<clrEnd>.
+1164	These organizations didn't come out of nowhere. Each has its own history, an internal code, and certain requirements for newcomers. However, that is now completely irrelevant, since all three were <color=20,150,20>destroyed</color>, and the Freelancers' Guild came to replace them.
+1165	Alas, the situation at the moment is such that the Guild is very particular about candidates, and for its own reasons, which are not disclosed to us, is categorically against former - and especially current - members of the Ranger Corps.
+1166	The Free Port base thanks you for your cooperation and wishes you success in the field of mercenary services!
+1167	A permit for hauling contraband, a permit for racketeering, let's see... where did I put the right forms... Ah, here - a permit for creating a military organization. You need to pay...
+1168	Damn, bro, I just can't fleece you like a sucker. You're one of us, after all. What permit, for crying out loud? Look what's going on - there's almost nothing left of the clan, at this rate we'll all be done for soon. I've already prepared five passports just in case. I can get you one too, need it?
+1169	Anyway, here's your paper, <Player>. If you and your boys help the clan get back on its feet, I'll drink to your health too!
+1170	I want to get the clan board's permit to create my own military organization
+1171	We don't trust you at all, <Player>. I wouldn't even entrust you with delivering a pizza to the next department. And in such matters, trust is the most important thing.
+1172	There can be no talk of any permit!
+1173	I'm ready to transfer a donation to the homeless catdog protection fund right now, just name the account number
+1174	Ah, catdogs, of course! How could I forget those sweet furry freaks? Your concern is highly commendable, <Player>. I think the sum of <Cost> cr. will help these poor creatures feel completely safe living on the grounds of a new country villa with an ocean view.
+1175	You know, I've changed my mind
+1176	Then why are you messing with my head? He changed his mind, see. And what about the poor catdogs!? Aren't you ashamed, Ranger?
+1177	Pleasure doing business with you [<color=0,50,200>pay</color>]
+1178	What was that, Ranger <Player>? Did I hear that right? You want me to issue you a permit to build an armed station that will answer to no government, where criminals can hide, and that will loom as a constant threat over our security? Perhaps I should also hand you the keys to the apartment where the money is kept?
+1179	So know this, <Player>, I will not issue you any permit. At least until I see a benefit in it for mys... ahem, I mean for <color=0,50,200>our people</color>.
+1180	In case of a Dominator invasion, I am ready to provide additional protection for the system. By helping me today you ensure your security for years ahead.
+1181	For such purposes we have our own armed fleet. And it's more likely that the system will need protecting not from the Dominators, but from your rampaging fighters, so no, thank you, <Player>, but we don't need extra headaches.
+1182	Do you have any other questions?
+1183	Hm, and indeed, there is common sense in your words. I think my superiors won't mind if I issue you such a permit. Security is worth a lot these days.
+1184	Thank you for your cooperation
+1185	Perhaps you have unresolved questions of a personal nature? I could help with that...
+1186	Why are you still here, <Player>? I do not wish to speak with you on this subject until you fulfill your part of the agreement.
+1187	Well, a commendable initiative, <Player>, but no, things are relatively calm with us and we don't need your services.
+1188	What if something happens to you by the end of the day without the permit. How's that for trust?
+1189	All right, all right, I get it. No need for any incidents. Here are your papers, just don't show up here again!
+1190	Guards! There's a threat to an official in the line of duty! Detain the criminal!
+1191	No-no, you've got it all wrong!
+1192	The health of your family and loved ones in the foreseeable future, isn't that the greatest benefit?
+1193	I had a better opinion of you, <Player>. Here are your papers. I hope our paths never cross again.
+1194	What did you say? Was that a threat?
+1195	No! Don't shoot! I surrender
+1196	Oh no, not at all! You simply misunderstood me
+1197	Calm down, calm down. No need for shouting. I understand everything. Here are your papers, <Player>, and now please leave me and my family in peace and just go.
+1198	Should've done that right away!
+1199	And yes, if you don't sign these damn papers right now, I won't answer for myself!
+1200	Congratulations on your release, Ranger <Player>. I hope the days spent in custody did you good and you've reconsidered your behavior. Next time think carefully about what you say and to whom. All the best.
+1201	Thank you for your cooperation, kid
+1202	You're a shady type, <Player>. Somehow too proper. First decide which way your guns are pointing, then we'll talk.
+1203	Huh? What? What catdogs? Did you overdo the ekup there?
+1204	Aaah, so that's what this is about. Forgot where we are? Say it straight: "I want to give a bribe for a permit".
+1205	See that terminal behind you? And what's written on it? Right - "Bribes goes here". You go up to it, swipe your card, transfer <Cost> cr. to the specified account and get the papers you need. Simple.
+1206	Yeah, truly simple [<color=0,50,200>pay</color>]
+1207	A mercenary HQ, you say? Decided to found your own military organization? Whoa, <Player>, that's quite a leap. Can you handle it?
+1208	Anyway, it's not my business. I can't help regardless. Understand, <Player>, personally I have nothing against you and I'm all for it, but my bosses simply won't understand if I issue such a permit. I have to explain such a step to them somehow, and the explanation has to please them.
+1209	In that case, perhaps I could do you some service?
+1210	Quit hanging around here, <Player>! Come back when you've fulfilled your part of the deal.
+1211	Sorry, <Player>, but everything's already running smoothly for us. Your help isn't needed right now.
+1212	See my blaster? Well, it sees you... and sees you well
+1213	The life of the great Ranger has ended
+1214	Well, you must be off your rocker. Anyway, that's not my problem. Boys, you know what to do...
+1215	If I don't see the permit I need in five minutes, you'll be explaining to your superiors why you have only a charred stump instead of a head!
+1216	Hahahaha... Oh, can't take it, somebody hold me back! <Player>, who did you decide to scare here? Do you even get where you are and who you're talking to? One snap of my fingers and not a speck of dust will remain of you, get it? Though you know what, I haven't laughed like that in ages. It's all routine here at work, everybody walks around with sour faces, it's disgusting to look at.
+1217	But you amused me, so, so be it, I'll give you a discount for bravery, so to speak, and issue your permit for only <Cost> cr.
+1218	The offer is <clr>limited<clrEnd>, so I advise you to accept it. Next time you'll be paying the standard "rate".
+1219	Um, well, all right, thanks [<color=0,50,200>pay</color>]
+1220	I'll drill a hole in your head right now at a limited rate! Hand over the permit this instant!!!
+1221	Thanks for the offer, but I'd better go
+1222	Easy, bro, I was joking! Apparently humor isn't your strong suit, but it happens to everyone. Here's your permit, and let's part in peace.
+1223	Thank you for your cooperation, "buddy"
+1224	I'd like to get a permit to build my own mercenary HQ in your system
+1225	By the way, about the permit...
+1226	I want to change the name of my organization
+1227	I changed my mind
+1228	I agree [<color=0,50,200>pay and choose a name</color>]
+1229	You have successfully completed the construction of your HQ in the <Star> system. It's time to head there and see everything with your own eyes.
+1230	The <Star> system you chose for building your HQ has been captured - further construction is impossible. Contact the <clr>Mercenary Center<clrEnd> to obtain a package of documents for arranging construction somewhere else.
+1231	The <Star> system you previously chose for building your HQ is not under the control of the <color=255,240,100>Coalition</color> - further construction is impossible. Contact the <clr>Mercenary Center<clrEnd> to obtain a package of documents for arranging construction somewhere else.
+1232	The <Star> system you previously chose for building your HQ is not under the control of the <color=255,240,100>pirate clan</color> - further construction is impossible. Contact the <clr>Mercenary Center<clrEnd> to obtain a package of documents for arranging construction somewhere else.
+1233	All the largest mercenary factions in the Galaxy have disbanded, so you now need to sign the contract for creating your own organization not with them but with the Freelancers' Guild. Return to the Free Port and discuss the matter anew.
+1234	You need to choose a system suitable for building your HQ, then contact the <color=255,240,100>Mercenary Center</color> using the communicator on the <color=255,240,100>bridge</color>.
+1235	You chose the <Star> system as the location of your future HQ. Before construction begins you need to obtain the approval of the rulers of all <color=255,240,100>local planets</color>, as well as permission from the <color=255,240,100>Coalition Council</color>.
+1236	You chose the <Star> system as the location of your future HQ. Before construction begins you need to obtain the approval of the rulers of all <color=255,240,100>local planets</color>, as well as permission from the <color=255,240,100>pirate clan</color>.
+1237	You chose the <Star> system as the location of your future HQ and have already collected all the necessary papers and signatures. You can safely head to the <clr>Mercenary Center<clrEnd> to finish the last preparations.
+1238	<color=255,240,100>Creating your own mercenary organization</color>
+1239	You want to found your own military organization, Ranger <Player>? Well, I never... And I still remember how you listened to the welcome speech for recruits not long ago.
+1240	Well, I have nothing against it. Right now any help in the fight against the Dominators is welcome, so we'll skip the formalities. Here's your permit, <Player>. We believe you will help the Coalition win in this hard time for the Galaxy. Don't let us down!
+1241	Enter a name:
+1242	Rumor has reached us that your organization's HQ was destroyed. For a certain fee we could help you with its restoration.
+1243	According to clause <color=0,50,200>5</color> of paragraph <color=0,50,200>37</color> of the <color=0,50,200>"On the Security of the Coalition"</color> law, forming any military organizations is prohibited except those directly or indirectly subordinate to the Coalition military command.
+1244	These are elementary things, <Player>, you should know that! I have no right to issue you such a permit... unless you find a reason for which I could break the law.
+1245	Oh... I seem to be starting to recall some amendments to the law. It seems it said that in wartime... something about exceptions... ugh, I don't remember the rest... if only you transferred <Cost> cr. to our military base's account, a few bottles of good boozequila would surely help me remember what was written there.
+1246	Alas, I can't afford that
+1247	I could donate a large sum to fight the enemies of the Coalition...
+1248	Yes! I remember! It says that "in wartime it is permitted to issue permits for placing military formations that do not pose a direct threat to the security of the Coalition". How could I have forgotten that?!
+1249	Well, since I'm not breaking the law, here's your permit. Good luck, <Player>, and I think I'll go to the bar to take some memory tincture.
+1250	I hope this is enough to refresh your memory [<color=0,50,200>pay</color>]
+1251	I won't argue, the situation on the fronts is far from the best, but still we aren't so desperate as to hand out such permits left and right, thereby nurturing a potential threat from within. The request is denied, <Player>.
+1252	I will do everything in my power to help the Coalition's fight against the Dominators
+1253	To my deep regret, I agree with you. Our situation is critical now. A little more, and we'll lose this damn war, which will be the last for the Coalition and all sentient races. So, in view of the circumstances, I'll make an exception. Here's your permit. I hope I'm not mistaken in you.
+1254	I won't let you down
+1255	Just so we don't overpay the dealers. Thanks to our own production, we save about <clr>half<clrEnd> on arming new mercenaries, and the surplus weapons we put up for sale. Though for you, boss, everything in our trade center is always <clr>free<clrEnd>.
+1256	Besides, thanks to your magnificent gift of persuasion and the genius of Professor <clr>Shtoyn<clrEnd>, we've put the production of <clr>gluon weapons<clrEnd> on stream. Now all our mercenaries get them in their standard arsenal, and the surplus we put up for sale in the store.
+1257	Ah, so it's our own product now. The organization has gained serious momentum, and the need for new weapons only grew and grew every day. In the end our "trusted" suppliers, instead of giving a discount to old clients, doubled the price once more, figuring we'd be in a hopeless position and forced to accept their terms.
+1258	However, after you successfully invested money in expanding the HQ, a lifesaving opportunity suddenly appeared for us to set up our own handicraft production of some types of <clr>weapons<clrEnd> and ammunition from <clr>mineral raw materials<clrEnd>. We'll no longer have to overpay through the nose for arming new ships, which will <clr>cut the costs<clrEnd> of equipping them by about <clr>half<clrEnd>. If any surplus appears, we'll put it up for sale, so don't forget to drop by our trade center from time to time.
+1259	Well, not bad
+1260	Sorry, chief, but the boys haven't returned from their last sortie yet. I'll let you know as soon as they're ready.
+1261	Okay, the beacon installed on your ship shows that you're currently in the <PlayerStar> system. The group will reach its destination in about <TimeToArrive> days. Give the command to launch?
+1262	Boys, stand down, you can relax for now. Just don't wander far, I'm about to show you such a babe...
+1263	Ah, boss, you're still here? Was there something else you wanted?
+1264	Okay, the beacon installed on your ship shows that... oh, you're almost home! Are you sure the group needs to be sent out? Our boys will help out in any case, if anything.
+1265	resting at our HQ
