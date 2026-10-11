@@ -1,0 +1,49 @@
+427	Transistence
+428	A hidden crutch info item for adding the starting inhibitor to the script group
+429	Reboot
+430	Cancels the "shielding" destruction of the inhibitor call beacon, then removes it covertly without an explosion
+431	After the death of Keller's clone, marks the linked task as completed
+432	Makes the ship completely invulnerable in combat so its health never drops below 1, but only if the player is absent from the system with the boss
+433	A hidden crutch info item for ignoring inhibitors not installed by the player
+434	Infestation
+435	The dominator main computer's emergency reboot system. According to the information available to the Coalition, it needs several days to self-recover
+436	Backup Core
+437	Shipyard
+438	Rattor
+441	You cannot get rid<br>of an active rattor<br>that easily!
+442	It would be impolite to throw this hardworking klig overboard
+443	A guide beacon for calling an inhibitor
+444	MessageBox('Hyperspace manipulation structures are already operating in this system');
+445	MessageBox('One inhibitor has already been placed in this system');
+446	MessageBox('An inhibitor cannot be placed in a hostile system');
+447	MessageBox('An inhibitor cannot be placed so close to the star');
+448	MessageBox('An inhibitor cannot be placed so far from the center of the system');
+449	MessageBox('The maximum number of inhibitors is already placed');
+450	MessageBox('The inhibitor has been successfully sent to the specified coordinates.');
+451	Soon after it is placed, a hyperspace inhibitor will be sent to the specified coordinates.
+452	<color=255,17,0>(neutralized)</color>
+453	<td=89><color=127,127,127>Type:</color> Dominator
+454	<td=55><color=127,127,127>Speed:</color> <Speed>
+455	<td=49><color=127,127,127>Structure:</color> <HullHP>
+456	<td=67><color=127,127,127>Defense:</color> <Defence><Attack>
+457	<td=45><color=127,127,127>Relations:</color> <Relations>
+458	How many cybercoins do you want to transfer to the <color=0,50,200>digger's</color> account?
+459	This digger's account is <clr>empty<clrEnd>, there is nothing to transfer from it to the memory bank
+460	The digger's account is <clr>full<clrEnd>, writing even more cybercoins into it is not possible
+461	The account of this digger holds less than <clr>1.0<clrEnd> cybercoin, transferring such a small sum is not possible
+462	How many cybercoins do you want to transfer to the <color=0,50,200>memory bank's</color> account?
+463	This memory bank's account is <clr>empty<clrEnd>, there is nothing to transfer from it to the digger
+464	The memory bank's account is <clr>full<clrEnd>, writing even more cybercoins into it is not possible
+465	The account of this memory bank holds less than <clr>1.0<clrEnd> cybercoin, transferring such a small sum is not possible
+466	External cybercoin memory bank
+467	The special firmware of this storage device allows it to store a considerable amount of the most valuable dominator <clr>cybercoins<clrEnd>.
+468	Device cryptoaccount: <Cybercoins> kc.
+469	Once a most valuable device, now only a useless piece of polymer whose memory is stuffed with encrypted nonbinary junk.
+470	Container of Dominator Materials
+471	A container of materials for raising the operating efficiency of production module <PlayerID> (that is, you).
+472	Are you sure you want to extract all the contents of this container into your hold?
+473	An empty dominator container for transporting materials of special scientific interest to <clr>Keller<clrEnd>.
+474	A container of research materials for <clr>Keller<clrEnd>, so kindly provided by you.
+475	An empty dominator container for transporting dominator materials.
+476	Commemorative Figurine of a Thinking Maloq
+477	On the pedestal, in a rough hand, is scratched: <color=255,240,100>"What am I wasting my mortal life on?"</color>

@@ -1,0 +1,50 @@
+1	Dwarf Wormhole
+2	Through this wormhole one can reach other parts of the galaxy.
+3	The size of this particular specimen is too small to admit a full-fledged spaceship, so the possibilities of its practical use are extremely limited.
+5	Ammunition: <MaxCount>
+8	The object is unstudied and therefore poses a danger to researchers.
+9	October 13
+10	Attention! A <color=255,240,100>Rattor</color> has crawled into the receiving bay of your <color=255,240,100>gripper</color> and put it out of action! It is recommended to leave the <Star> system as soon as possible to avoid further sabotage.
+11	Packed Klig
+12	A compactly packed klig, ready for rapid deployment on command from an authorized control center.
+13	Quantity: <N> pcs.
+14	How many kligs do you want to add to the exchange list?
+15	Attention! Your <color=255,240,100>shield generator</color> has burned out from the inside as a result of excess voltage in its circuits. Most likely the work of a <color=255,240,100>rattor</color>'s manipulators! It is recommended to leave the <Star> system as soon as possible to avoid further sabotage.
+16	Attention! One of the <color=255,240,100>rattors</color> managed to sneak into the engine compartment and disabled your main <color=255,240,100>engine</color>! It is recommended to leave the <Star> system as soon as possible to avoid further sabotage.
+17	Attention! One of the <color=255,240,100>rattors</color> has pried a hole in your <color=255,240,100>fuel tank</color>, a fuel leak detected! It is recommended to leave the <Star> system as soon as possible to avoid further sabotage.
+18	Attention! A <color=255,240,100>Rattor</color> has disabled your <color=255,240,100>radar</color>, contact with surrounding space is lost! It is recommended to leave the <Star> system as soon as possible to avoid further sabotage.
+19	Attention! A <color=255,240,100>Rattor</color> got to your <color=255,240,100>droid</color> and quickly turned it into a heap of useless scrap! It is recommended to leave the <Star> system as soon as possible to avoid further sabotage.
+20	Fills damaged spots with a fast-hardening substance, restoring <RecoverHitPoints> units of damaged hull.
+21	Attention! A <color=255,240,100>Rattor</color> has disabled your <color=255,240,100>scanner</color>! Information about surrounding targets is no longer available. It is recommended to leave the <Star> system as soon as possible to avoid further sabotage.
+22	Attention! A <color=255,240,100>Rattor</color> has disabled <Item>! It is recommended to leave the <Star> system as soon as possible to avoid further sabotage.
+23	One of the heartless <color=255,240,100>rattors</color> got to your <color=255,240,100>junior droid</color>! The defenseless youngster did not even have time to understand what destroyed it.
+24	One of the <color=255,240,100>rattors</color> got to your <color=255,240,100>black goo</color> and, apparently out of joy, quickly slurped up all its reserves to the bottom. Refueling required.
+25	Your brave <color=255,240,100>nanitoids</color> fell in an unequal battle with a <color=255,240,100>rattor</color>! Eternal memory to the faithful nanobots.
+26	An intelligent model unit consisting of four processors. The main two process information on nearby targets, the two secondary ones record in temporary memory the binary logic of the missile friend-or-foe recognition system in order to redirect the projectile to the nearest target. In addition, it collects analytical information on black holes nearby with the help of the <clr>Stabilitron<clrEnd>, and can also use spare resources to help the <clr>Digger<clrEnd>.<TextData1><TextData3>
+27	A logic-building apparatus. Generates a list of actions according to the directives received. It allows, with some chance, connecting to a dominator's ship computer and loading it with a meaningless data stream, forcing the system to reboot. This mechanism also works well on <clr>rattors<clrEnd> that come within the system's direct range. Optimizes the scanner's operating logic, increasing its power by <TextData2></color>%.<TextData1><TextData3>
+28	(burned out)
+29	Another hit on the ship caused a sharp voltage surge that completely burned out your <color=255,240,100>digger</color>. Professional restoration required.
+30	Suddenly your tireless workhorse <color=255,240,100>digger</color> made a strange electrical crackle and failed. It seems it needs a full reballing to continue working.
+31	Digger
+32	A generator of unique digital structures - <clr>"Cybercoins"<clrEnd>, continuously iterating through values in search of hash sums strictly defined by the algorithm. A <clr>running ship engine<clrEnd> can serve as the <clr>digger<clrEnd>'s power source, but the device's heavy power consumption noticeably lowers its speed characteristics. The exact purpose of cybercoins is still unknown, but teams of scientists at <clr>research stations<clrEnd> continue their search, profitably buying up mined cybercoins from anyone who offers.
+33	Device cryptoaccount: <TextData1>/<TextData2> kc.
+34	Formerly a generator of unique digital structures - <clr>"Cybercoins"<clrEnd>, now only a lifeless piece of shiny metal. It seems the main computing processor of this device has fallen silent forever.
+35	Device cryptoaccount: <TextData1> kc.
+36	(needs resuscitation)
+37	While tracking down yet another <color=255,240,100>rattor</color>, your <color=255,240,100>fumigator</color> did not notice the enemy sneak up from behind. Serious factory intervention is needed to put the exterminator back into service.
+38	A stray enemy shot hit your onboard <color=255,240,100>fumigator</color> squarely. In this state it can no longer perform its duties.
+39	While eliminating bugs, your <color=255,240,100>fumigator</color> accidentally stumbled upon a sleeping short-virus that caused a short circuit upon neutralization. First-class technical support required.
+40	Fumigator
+41	An autonomous onboard <clr>exterminator robot<clrEnd>. It searches for and regularly eliminates software errors in installed equipment in any manifestation, which positively affects the <clr>service life<clrEnd> of all onboard devices, and autonomous additional local scanning systems let it interfere with <clr>Bertors implanting their virus programs<clrEnd> through directed transmission.
+43	A powerful electromagnetic pulse from a nearby shell burst scorched the board of your <color=255,240,100>tech director</color>. Thorough repair and recalibration required.
+44	Your <color=255,240,100>tech director</color> gave a quiet triple beep and fell silent. Apparently the device needs factory recalibration of its frequency correctors.
+46	else MessageBox('Repair to scan dominators');
+47	Automatically tunes the pulses of your onboard <clr>scanner<clrEnd> to the frequency of the dominator shield, thereby letting you scan dominators of <clr>any<clrEnd> series without additional fuss.
+48	Restructured Dominator Hull
+49	<color=248,252,248>A Ranger hull, slightly converted </color><clr>by Terron<clrEnd><color=248,252,248> to cut costs so as to accommodate dominator components.</color>
+51	<color=248,252,248>A huge heavily armored astro-carrier platform, comparable in firepower and protection to "battleship"-class vessels. Besides reproducing light fireships of the "klig" type, it repairs and strengthens all surrounding dominators in the cover group.</color>
+53	<color=248,252,248>The legendary turbograver of <clr>Blazer<clrEnd>, christened by researchers none other than </color><color=255,25,25>"Massacri"</color><color=248,252,248>. A dream come true for any warrior or collector, it is a weapon of terrifying force that can annihilate even the most formidable enemy within seconds. Rumor has it that besides its colossal power, this specimen draws energy from an unlimited source and can therefore work almost forever, but nobody has yet been able to verify this in practice.</color>
+54	Additional effect: <clr>increased engine overheating, armor weakening, no damage spread<clrEnd>
+55	Energy weapon damage: +<clr>80<clrEnd> units
+56	(deals increased damage to the target if the ship's scanner can scan it)
+57	<color=248,252,248>A converted transport version of the klig, from which almost all equipment and the explosive device have been removed in favor of increased capacity. Technically unable to fight and therefore poses no threat.</color>
