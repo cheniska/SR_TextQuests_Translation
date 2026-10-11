@@ -1,0 +1,85 @@
+135	Additional Ammo Storage
+136	Hacked Injector
+137	Security Systems Replacement
+138	Meon Chips
+139	Circuit Amplifier
+140	The SpawnRateChance parameter is responsible for how often kits appear in the store. The NoneRaceChance parameter is responsible for the chance of a kit receiving an unknown race. The Owner parameter (races may be listed separated by commas without spaces, where the value Coalition is interpreted as the 5 main game races) is optional and will be applied if the kit does not receive an unknown race. By default the Owner parameter will be taken from the main section of this useless item, and in other respects it works exactly the same as in the lists above.
+141	The CustomFactionChance and CustomFaction parameters are optional and can be set for any kits as desired. The optional SubRace parameter denotes a dominator series (applies only to dominator kits) and has 3 values: Blazer, Keller, Terron, or Any (values may be added without spaces, separated by commas). The TextReplacePath parameter is optional and can be used to replace this kit's description (when it is put up for sale on the BM) with another text located at the path specified in this parameter. Example: TextReplacePath=UselessItems.ExpArts_SmugglersCompartment.TextBlackMarket
+142	"Dishot"
+143	"Magnetron"
+144	"Extremum"
+145	No more than 15 modifications!
+146	"Involute"
+147	Plasmagun
+148	MaBoKiT-79
+149	Field Annihilator
+150	Burst Cannon
+151	Graviton Beam
+152	Combat Laser TB-47
+153	Combat Laser TB-42
+154	Photon Gun M4
+155	Photon Gun M3
+156	Photon Gun M2
+157	Pulsegun R21
+158	Pulsegun R20
+159	Retractor
+160	Vortex Projector
+161	Splash Laser
+162	"Trishot"
+163	Blaster E-11
+164	Magnetic Separator
+165	Twin Turbolaser
+166	Pulse Blaster
+167	Energopack Discharger
+168	Revolver Torpedo Launcher
+169	Splitter
+170	Indemite
+171	Missile Launcher
+172	Nargun Blade
+173	Iconoclast
+174	Antimatter Multiplier
+175	Nihilest
+176	Quinkgan
+177	Dimorphic Stunner
+178	Augerbar
+179	Bolt Matrix
+180	Ion Deformer
+181	Gravicollector
+182	"Torpedo"
+183	Missile Launcher with "Torpedo" modification
+184	The Owner parameter (races may be listed separated by commas without spaces, where the value Coalition is interpreted as the 5 main game races) is advisable to fill in only for custom guns (by default, without it, all races except dominators and the unknown one will be chosen), and for original guns Owner will by default be taken from the main game (3 dominator-only, 3 pirate-only, the rest for everyone). The value Any in Owner is always interpreted as all races except the unknown one. The AverageSize parameter (meaning average weight, where N/2 is the minimum weight and N*2 is the maximum) is purely optional, and if absent the weight will be taken from the gun's main parameters. The Owner parameter for modifications is optional; by default it will be taken from the acryn section of that modification, and if it is absent there, inherited from the Owner of the main gun. If a custom weapon is added to the list, the Origin parameter must specify the exact name of the script of the mod in which that weapon is declared. The CustomFactionChance and CustomFaction parameters (different factions may be listed separated by commas without gaps) are optional and need not be added. All other parameters (including the Count counters) are strictly mandatory for any gun.
+185	An unknown race for any weapon can be obtained only through the chance specified in the NoneRaceChance parameter, and the minimum weight can be obtained both through a random roll and through the chance specified in the MinSizeChance parameter. The DomRaceCostCoef and NoneRaceCostCoef modifiers (which can take fractional values) are used to increase the cost of items (right before they are added to the store) that have a dominator race and an unknown race, respectively. The optional SubRace parameter denotes a dominator series (applies only to dominator weapons/modifications) and has 3 values: Blazer, Keller, Terron, or Any (values may be added without spaces, separated by commas).
+186	Separate optional parameters Owner, CustomFactionChance, and CustomFaction can be set for weapon modifications. When a weapon is created in the script, the race values will be taken from the modification if a weapon with a modification is being created, and from the weapon's main section if an unmodified gun is being created. In this way you can create, for example, weapon modifications belonging to some specific race or races, whether original or custom, even though the main unmodified weapon will be available for production to everyone else.
+187	A hidden info box that helps to display notifications in a timely way when the BM enters or exits hyperspace.
+188	AddPlanetNews("In the system"+' '+ShipCustomShipInfoTextData(0,cur_info,2)+' '+"the standard radio sensors detected activity of an unknown kind. Its nature is unknown, but it does not seem to threaten the peace of the system.");
+189	A hidden info box that adjusts the prices and other parameters of equipment/artifacts after their purchase on the BM.
+190	A hidden info box that counts the number of contraband deals (money for buying/selling contraband) made by the player.
+191	A hidden info box for timely display of a notification on the panel (the turn code can't cope)
+192	Black Heart
+193	A rare hull series produced by special order of the Council of the Supreme Lyakushas as a direct response to the super-successful ranger series "Ideal".
+194	Schwerzer
+195	A balanced series for those who like to make a living off others' weaknesses. According to the manufacturer, it contains everything a real smuggler could possibly need.
+196	Solo
+197	A special and extremely rare series of smuggler hulls, rumored to be assembled only to individual order for the most respected representatives of this risky profession.
+198	Do you want to make a contraband deal that may lower your reputation?
+199	Minted Coin
+200	Corellian
+201	Darknet
+202	Bitcredit
+203	Forbidden Fruit
+204	Second Kidney
+205	Undergrounder
+206	Coaster
+207	Breton
+208	Well, <Player>, here we are. What, never heard of black markets? Here every smuggler will always find both a seller and a buyer for their hold.<br>And by the way, you... Sorry about that blaster incident. The station's arrival time was tight, so I had to improvise. Sorry about the money too, by the way, I never planned to transfer you anything from the very start, but more on that later.<br>For now, while we're here, I recommend looking over the local assortment, maybe something useful will catch your eye.
+209	</color>big-headed
+210	</color>long-eyed
+211	</color>red-faced
+212	</color>amphibian
+213	</color>monkey
+214	</color>in the system
+215	Don't jump to conclusions, friend. The junk in the compartments unprotected from scanning was for show, and the real "berries" the soldiers would have had to hunt for with a fine-toothed comb. But I've got chatty with you here, and I've still got heaps of goods to sell.<br>Here, better take this <clr>badge<clrEnd>. At such black markets it works as a pass. I'll give my pals the word to enter your name in the regular clients database. As thanks for the favor and the rescue, so to speak. And judging by all your past dealings, the word "smuggling" isn't exactly an empty sound to you.<br>Well, I'm out. See you, #0#!<br><br><color=45,105,45>You received: Symbol of Trust</color>
+216	</color>on the way to the system
+217	Don't put yourself on my level so brazenly! We'll get to your place, so be it, and then part ways like a ship in a vacuum and garbage thrown overboard
+218	I've seen your assortment on the junkyard! Non-alcoholic beer and perverted little soap operas are not my line!
+219	What?! Where do you think you're going to sit, you scarecrow? Looks like the explosion slammed your head hard against a wall, since you're spouting such gibberish
