@@ -1,0 +1,82 @@
+6	What, you think I feel like dying? Like hell! Find yourself another helper.
+7	No way, I'm not getting into such a venture, you deal with him yourself somehow.
+8	Sorry, comrade, but I'm not really up for showdowns right now. Ask another time, okay?
+9	I have no reason to fight just yet, so come back a bit later, o'kay?
+10	Buddy, it just so happens I'm very busy right now, ask later.
+11	Great idea, bro! Let's hit him good!
+12	Actually, why shouldn't I shake the old days? There's still powder in the powder horns!
+13	Well, it's high time to bump off this scoundrel. Computer, full combat readiness!
+14	I think I really could use a workout, or I'll turn into a complete transport rat. I'll down a "Makhpella Light" for courage and off we go!
+15	I was just short of cash for a bottle of vtykilla, and here comes such a profitable offer! I'm in!
+16	Listen, comrade, <Target> is calling me very nasty names here, will you help me teach him some manners?
+17	That bastard <Target> cheated me out of my money! Let's teach the scoundrel a lesson, shall we?
+18	A rotter by the name of <Target> took it into his head to grab my belongings! Give me a hand in the fight against him, we'll split the profit equally.
+19	Listen, friend, help me whack <Target>, I'll never forget it!
+20	Forget it, you might knock off a chunk of my hull plating while I'm fighting him.
+21	Who are you for me to waste my time on your affairs?! Get lost with your proposals!
+22	You're a shady type, I'm not ready to turn my back to you.
+23	I don't trust you, so go on, handle it yourself somehow.
+24	The captain of that vessel is, by the way, my business partner, and I'm not going to attack him.
+25	What are you doing, that's my pal! Go after him and I'll break your claws.
+26	We've known each other for a thousand years, what are you saying! In decent company you can get punched in the face for that.
+27	He's my old comrade, I won't shoot at him.
+28	We don't shoot our own, comrade.
+29	You're something else! I almost choked on my "Makhpella" laughing! You might as well fly even farther and threaten from there!
+30	You're a funny fellow! Next time threaten me from twenty parsecs away.
+31	I can't tell whether you're laughing at me or you really have such long-range guns?
+32	So I'm supposed to serve you the cargo on a platter? Fly up first, and only then yap.
+33	Kid, did you overdo the maloq hard red? At this distance any sucker will outrun you!
+34	Your mug isn't very scary, practice in front of the mirror.
+35	Go on, take my cargo from me. Or are you only this fierce over the intercom?
+36	I'll stand to the death for my cargo, my dear, and I don't intend to hand it over to morons like you.
+37	Listen, buddy, I'd be glad to share with you, but right now I'm on an important delivery order. Maybe next time, eh?
+38	This will be news to you, but I don't plan to give my belongings to every rogue I meet. Give me one reason to make an exception for you.
+39	All right, you've convinced me. Dropping the cargo.
+40	Loot is a valuable thing, of course, but life costs more. Catch your presents.
+41	Okay, okay, I don't need trouble, comrade, take the cargo and fly left, and I'll fly right, deal?
+42	Your guns are stronger than mine, so take it. Heaven knows what you need this cargo for, but I don't butt into other people's business; if you want the goods, you must have a reason.
+43	Where do you people come from? What money do you want? You can't even catch me!
+44	Do you really take me for such an idiot that you think I'll pay you from a mile and a half away? Oh, naive...
+45	Ah, in my youth pirates were completely different - their self-respect didn't allow them to demand money from within the viewing radius of a modern radar...
+46	How cocky we are! Send me your photo, and as soon as I land on the nearest planet I'll definitely sell it to the journalists. Just imagine: a report called "Moron of the Year"! I can see it now: "He robs ships from enormous distances!" Hey, what's with you? Calm down, pal, it's a joke.
+47	I won't part with my hard-earned credits without good reason. Or are you trying to say your tub could pose a danger to me?
+48	My money, you know, was honestly earned over years of drug trafficking and selling large batches of weapons, and I don't intend to give it up.
+49	Are you completely nuts, going after big shots?! Why don't you go far away and for a long time, eh?
+50	Buddy, I'm in a good mood today, so I'll take this as a failed joke. But you'd better not anger me, or you might lose a couple of teeth...
+51	Let's see how much money I have here... Fifty for fuel, ten for the cabbie's tip, five thousand for the cartel's common fund... I think repairs after a fight will cost less than squandering my hard-earned credits on any brat, ha-ha.
+52	I saved and saved them, robbed, smuggled, lost sleep, ate badly! And then there's you! Aren't you ashamed, huh? Oh, all right, take it...
+53	Very well, I'll pay. Accept the transfer.
+54	Right now, of course, there's nothing I can do, and I'll have to buy you off, but believe me: as soon as I gather some strength, I'll find you right away and give you what for!
+55	Dough is always good, but life is better. Take the money.
+56	You'll strip me bare like this, damn you... Choke on your credits.
+57	Listen, maybe a smaller sum would suit you, huh?.. All right, all right, I'm transferring it...
+58	For a start, I advise you not to fly apart. If I can't restrain myself, your ship may well fly apart along with you ahead of time.
+59	Wait, wait, let me borrow some dough from my comrade, and you come back in a week or two, eh?
+60	Pal, please don't fire at me! I just don't have that sum!
+61	The sum you just named I lost last week at an elite casino. Knock the amount down out of respect for gambling addicts.
+62	No, this trash should not clutter up outer space.
+63	Fine, let it stay, I'm kind today.
+64	Buddy, mind your own business, or you'll be next in line.
+65	Listen, kid, <Target> is going to be smeared on the wall, and you can't prevent it.
+66	Why don't you fly off somewhere to Makhpella for tea, you hapless peacemaker?
+67	Me, miss such a profit? Not in this life!
+68	Or what, you'll bore me to death with your peacemaking speeches? Hilarious!
+69	As if! Who are you to give me orders?
+70	Why did you have to butt in! I'd almost done him in! Oh well, today is this rogue's lucky day.
+71	<Target> is certainly a scumbag, but I'm not ready to compete with you. All right, let him live.
+72	I have no reason to be at daggers drawn with you, so <Target> can fly today, but I don't promise to be so merciful when I run into him next time.
+73	Ah, I'm missing out on such a profit! Fine, <Target> will live, but you owe me a can of "Makhpella Dark".
+74	This is exactly what I need! I'll take it!
+75	You've got my interest. I'm buying!
+76	I'd give any money for this!
+78	Do you have anything for sale, uh, not entirely legal?
+79	Haven't you got something interesting for me?
+81	You wouldn't happen to have any goods, would you?
+82	Hey, got anything for sale?
+83	Sorry, comrade, nothing for you yet. Drop by in a week or two and we'll talk.
+84	Excuse me, comrade, but all the good stuff has already been bought up, ask later.
+85	I have nothing to offer you yet, but don't be upset, something will definitely turn up later.
+86	No way, brother! These pennies won't even cover repairs for me, let alone compensation for moral damage. Pay more, I said!
+87	I don't get it: are you really such a pauper or just a terrible skinflint? I spend more on fuel than you're offering me now!
+88	This money won't even compensate me for seeing your mug on the display.
+89	Trying to make me feel sorry for you? I'm tempted to lend you money just so you can offer me a sum that isn't so measly!
