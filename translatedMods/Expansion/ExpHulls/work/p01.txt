@@ -1,0 +1,55 @@
+1	Hull durability: <Size> (<MaxSize>) units, the plating blocks up to <HitProtect> units of damage.
+2	Damage susceptibility:<br>E:<FragilityE>%  F:<FragilityS>%  M:<FragilityM>%
+9	Probe limit: <bonZonds> pcs.
+10	<color=20,220,20>Scanner and radar operation guaranteed</color>
+11	Hull "Bolide" I
+12	Hull "Bolide" II
+13	Hull "Bolide" III
+14	Hull "Bolide" IV
+15	Hull "Meteor"
+16	Hull "Assassin" I
+17	Hull "Assassin" II
+18	Hull "Assassin" III
+19	Hull "Assassin" IV
+20	Hull "Punisher"
+21	Hull "Rock" I
+22	<color=20,220,20>Defensive field generator operation guaranteed</color>
+23	Hull "Rock" II
+24	Hull "Rock" III
+25	Hull "Rock" IV
+26	Hull "Fortress"
+27	And we also "cleaned out" some scientists and found interesting blueprints there. Our boys processed them and put together an interesting hull - bonus.
+28	Order construction of the hull bonus
+29	Well then, fly it out of here! Just remember, <Player>: if this tub of yours suddenly falls apart in a firefight with the very first transport, you'll have only yourself to blame. Yes, yes!
+30	I think I'll keep flying my tub for now
+31	A good decision, <Player>!
+32	Everything will be ready soon in the best possible form. When you're ready, head to the warehouse, and you'll find your new "birdie" there.
+33	The brothers asked me to pass on that they'd be very glad to see this little ship in the next report, smashing the oafish military to smithereens: we really worked hard on its firepower.
+34	Of course, I won't let you down!
+35	Several recent discoveries have allowed us to create a new unique hull, which we have named bonus. If you're interested, we could give you access to one of the first prototypes.
+36	What, don't you want to serve the noble cause of science? A pity, <Player> - a great pity. Still, we will go on with further testing of our prototypes.
+37	None, thank you
+38	A very sensible choice, <PlayerFull>.
+39	Your order will soon be ready and delivered to the warehouse, from where you can pick it up at any convenient time.
+40	This embodiment of the advanced achievements of modern science and technology will become the brightest reflection of the might of the Coalition! I hope it will be used exclusively for good.
+41	Don't doubt it!
+42	Ranger <Player>! Judging by your service record, you are an exemplary officer, and so we can give you access to our newest technology - the bonus hull. The novelty isn't cheap, but for a good warrior money isn't the main thing, it's a mighty club in the hands!
+43	Well, it's up to you. But it seems to me there's nothing to think about when there's such a choice - you should take it and fly out to fight our enemies.
+44	But you're your own general, so decide for yourself.
+45	I think I'll decline for now
+46	A good choice, Ranger <Player>!
+47	Soon the technicians will finish the work and deliver the hull to the warehouse, from where you can pick it up.
+48	Our heavily armored "toy" will let you control the entire battlefield without fear of enemy attacks. We'll be waiting for reports featuring this hull!
+49	Serving the Coalition!
+50	<br> <br>Depending on your piloting style, you can choose one of three hulls of different sizes, and, based on the current combat situation, we will be able to produce the following options:<br><br>1. Size <0> units (<1> cr.)<br>2. Size <2> units (<3> cr.)<br>3. Size <4> units (<5> cr.)<br><6><br>So, <Player>, which of them do you like best?
+51	<br> <br>You can pick one of three options of different sizes if you like. Right now we can knock together these tin cans for you:<br><br>1. Size <0> units (<1> cr.)<br>2. Size <2> units (<3> cr.)<br>3. Size <4> units (<5> cr.)<br><6><br>So what, bro, which one do you pick?
+52	First option for <0> cr. and <1> nd.
+53	Second option for <0> cr. and <1> nd.
+54	Third option for <0> cr. and <1> nd.
+55	Given your rank, we can offer you a hull <0>:<br><1><br>
+56	At the current level of technological development in the Galaxy, we can produce a hull <0> for you:<br><1><br>
+57	Your reputation among the gang allows you to order the hull <0>:<br><1><br>
+58	<br> <br>Depending on your needs, you can choose one of three options of different sizes. At the moment we are able to produce the following hulls:<br><br>1. Size <0> units (<1> cr. and <2> phys. nd.)<br>2. Size <3> units (<4> cr. and <5> phys. nd.)<br>3. Size <6> units (<7> cr. and <8> phys. nd.)<br><9><br>Which do you prefer?
+59	First option for <0> cr.
+60	Second option for <0> cr.
+61	Third option for <0> cr.
