@@ -1,0 +1,64 @@
+1	Addon Maps
+8	Mountain halls
+15	Underground factory
+32	Dusk Battle
+40	Island Wars
+54	Stash
+71	Arboretum
+89	Operation Scum
+103	Last outpost
+116	Spoiled rest
+130	Flooded quarry
+145	Dominators island
+159	Slab
+173	Seazilos archipelago
+188	Battle in the swamps
+202	Borehole
+216	Red forest
+230	Game of Domiki
+243	Duel zone
+257	Outland
+274	Operation Elephant
+289	Ice Mine
+303	Fridge
+316	Cave wars
+330	Secret Developments
+347	Matrix factory
+357	Armata Complex
+371	Y short
+382	Ocean-8
+393	Communications station
+401	Asteroid
+409	Gambit
+422	"Nibelung" base
+434	The Preserve
+447	Excavations
+458	Dzuhallag Stab
+472	Swamp
+482	Hirro Island
+494	Snowy Volcano
+512	Plateau
+525	Archive
+537	Water intake complex
+552	Winter haven
+563	Assembly platform
+576	Tropical battles
+587	Ghosts swamp
+611	Decay
+623	Artificial island
+1368	Operation Antichip
+1375	Biathlon
+1383	Colombia
+1391	Commando
+1399	Domansky Island
+1407	Dragon Eggs
+1422	Cataclysm
+1431	Kimberlite
+1446	Krodat
+1454	Quarantine zone
+1461	The Evolution Project
+1467	Missile base
+1476	Ryana - Modin
+1484	Bombardment
+1493	Abandoned tunnel
+1507	Heaven Garden

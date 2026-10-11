@@ -1,0 +1,42 @@
+Отмена	Cancel
+Бои: Быстрый запуск	Battles: Quick Launch
+100% <color=149,149,149>(Нет)</color>	100% <color=149,149,149>(None)</color>
+80% <color=149,149,149>(Поддержка с воздуха)</color>	80% <color=149,149,149>(Air Support)</color>
+80% <color=149,149,149>(Усиленная броня)</color>	80% <color=149,149,149>(Reinforced Armor)</color>
+Сложность <color=149,149,149>(Бонусы)</color>	Difficulty <color=149,149,149>(Bonuses)</color>
+Оригинальные	Original
+Из модов	From Mods
+Малая	Small
+Ниже средней	Below Average
+Средняя	Average
+Выше средней	Above Average
+Большая	Large
+Планета Каракис Мальора, система Маркаб	Planet Caracis Mal'ora, Marcab System
+Каракис Мальора	Caracis Mal'ora
+Греф	Graefe
+Маркаб	Marcab
+Старт	Start
+Время: <Val>	Time: <Val>
+Автовор	 Avtoror
+Эрджишка	Deleter
+Впрочем, никто вас не обязывает их использовать. Если вы хороший стратег, то сможете лично отдавать приказы роботам. Итак, ваша задача состоит в том, чтобы пройти полосу препятствий: уничтожить боевые макеты противника и разрушить его базу. Желаем вам удачи. Помните, что враг вам не угрожает. Поэтому не робейте, это всего лишь тренировка, <Player>!	Of course, you don't actually have to use them. If you are a good strategist, you will be able to command your robots personally. Your objective is to force your way through the obstacles, destroy the enemy combat models and raze their base to the ground. We wish you luck. Remember that you're not actually in any danger. It's just training, <Player>, so be brave!
+Поздравляем, <Player>! Вы хорошо справились с первым заданием.	Congratulations, <Player>! You've handled your first mission successfully.
+Учебная	Tutorial
+Возвращайтесь, вас ждут с докладом в здании правительства.	Return to the government building with a report.
+Ковчег	Ark
+Ядро	Core
+Подождите, я сейчас, только поменяю аккумулятор. Видите ли, на нашей планете практически нет источников энергии, мы пользуемся импортными аккумуляторами.	Wait, I need to change the battery here. You see, our planet has virtually no sources of energy of its own; we use imported batteries.
+Холодный синтез	Cold Fusion
+Поражение?! Нет, не может этого быть!	Defeat?! No, this cannot be!
+Ну, вот, собственно, и он - субтропический рай... Запуск реактора немного, ну совсем чуть-чуть изменил климат, но, согласитесь, пляжи здесь отличные, к тому же, как и обещалось - белые.	Well, here it is, our subtropical paradise. Naturally, the reactor did affect the climate somewhat, but the beaches are still great and as snow white as we promised you.
+Удачи вам, не простудитесь!	Good luck to you! Don't catch any colds.
+<Player>, если вы слышали о знаменитых курортах на острове Мауна-Роа, то знаете, что это самый дорогой и самый роскошный курорт во всей галактике, и лишь самые богатые люди могут позволить себе здесь отдыхать. Огромная гора посреди океана, на вершине которой катаются на лыжах, а у подножия нежатся на пляжах.	<Player>, if you ever heard of Mauna Roa, you must know that it is the most luxurious and expensive resort in the entire Galaxy, and only the rich and the famous can afford to vacation there. It's a huge mountain in the middle of the ocean where you can ski from the top straight to the beach at the foot.
+Пляжи Мауна-Роа	Mauna Roa Beaches
+Как видите, ситуация непростая:	As you can see, the situation is quite complicated:
+Ну так как, <Player>, не хотите ли кофейку?	How about some coffee, <Player>?
+Мусор	Trash
+Данила	Daniel
+Дюна	Dune
+Комплекс	Complex
+Удачи!	Good luck!
+Трансфакторный маяк	Transfactorial Beacon

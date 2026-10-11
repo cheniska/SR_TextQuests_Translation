@@ -1,0 +1,24 @@
+6	раса с заглавной	На нашей планете <Planet> есть горный хребет с рыхлыми почвами, в кото => Our planet <Planet> we has a mountain range with loose soils in which 
+31	раса с заглавной	Спасибо, <Player>, вы оказали нам неоценимую услугу! Мало того, что вы => Thank you, <Player>, you've done us an invaluable service! You not onl
+100	токены/числа/длина	Впрочем, не всё ещё потеряно. На море, в <color=0,50,200>570</color> к => But all was not yet lost. At sea, at <color=0,50,200>570</color> kilom
+158	токены/числа/длина	Вас же мы представили к почётной <color=0,50,200>Грыгабойской премии</ => We have submitted you to the honorary <color=0,50,200>Grygaboy Award</
+220	токены/числа/длина	<color=255,240,100>Терроноиды</color>, первыми прибывшие на остров, со => <color=255,240,100>Terronoids</color>, the first to arrive on the isla
+238	токены/числа/длина	Кое-какие деньги вы, правда, всё равно заработали, а именно <Money> cr => <color=0,50,200>Shusha</color>, satisfied with his "victory", continue
+263	раса с заглавной	В общем, искренне рекомендуем вам поторопиться. Доминаторы уже совсем  => Well, we strongly advise you to hurry up. The Dominators are very clos
+380	токены/числа/длина	Задание? Что ж, для начала взглянем на ваш послужной список. Недурно,  => Mission? Well, let's take a look at your dossier first. Not bad, not b
+403	раса с заглавной	Наконец-то вы прибыли, сейчас введу вас в курс дела. Доминаторам серии => You've finally arrived, I'll bring you up to speed. The dominators of 
+410	раса с заглавной	Это какая-то катастрофа! Вы хоть понимаете, что вы натворили?! Теперь  => This is some kind of catastrophe! Do you have any idea what you've don
+452	раса с заглавной	Отлично! Противник разгромлен. Надеюсь, останки не пострадали, а то бу => Good! The enemy is defeated. I hope the remains are intact, because th
+453	раса с заглавной	Как же так, <Player>?! Вы потерпели сокрушительное поражение. Нам прид => How did this happen, <Player>?! You have been defeated. We'll have to 
+523	раса с заглавной	Одно из таких резервных хранилищ находится здесь, на планете <Planet>. => One of these backup storages is located here on the planet <Planet>. T
+597	раса с заглавной	Рады видеть вас, <Player>! Доминаторы выбиты с острова, а главное - ни => Good to see you, <Player>! The Dominators were knocked out of the isla
+622	раса с заглавной	<Player>, рады вновь видеть вас! Жители планеты <Planet> могут спать с => <Player>, glad to see you again! The inhabitants of the planet <Planet
+1363	токены/числа/длина	Превосходно! Наши инженеры-экологи уже взялись за устранение последств => Fine! Our environmental engineers are already working on removing the 
+1402	раса с заглавной	<Player>, от лица археологов выношу вам благодарность за то, что вы не => <Player>, on behalf of the archaeologists I offer you thanks for not l
+1417	раса с заглавной	Вы очень вовремя, <Player> - доминаторы только что запустили странные  => You're just in time, <Player> - the Dominators have just launched stra
+1432	раса с заглавной	Поражение? Да, подвели вы нас, рейнджер... Постарайтесь скрыться от до => Failure? Yeah, you let us down, Ranger... Try to hide from the Dominat
+1436	раса с заглавной	Конечно, вы очень кстати. Как добропорядочному представителю истинно р => Of course, you are very welcome. As an upstanding member of the truly 
+1441	раса с заглавной	Рейнджеры - дилетанты! Ни тебе стратегии, ни тебе тактики, куда уж вам => The rangers are dilettantes! No strategy, no tactics, you're no match 
+1469	раса с заглавной	Вот мы и прибыли на место дислокации. Доминаторы уже неплохо здесь обо => Here we are, at the location of our deployment. The Dominators are alr
+1479	раса с заглавной	Чтоб мне свой плазмоган съесть! Ну, хорош ты парень! А мы уж было поду => Well, good for you, kid! And we thought you were dead. You are hero, s
+1482	раса с заглавной	Одна только проблема - на острове, где мы в свое время свалили списанн => The only problem is that on the island where we once dumped the decomm
