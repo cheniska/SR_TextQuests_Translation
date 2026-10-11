@@ -1,0 +1,43 @@
+1	Junktank
+2	A third-level micromodule. Replaces the expensive and compact parts of the <clr>tank<clrEnd> with cheap, low-quality and bulky substitutes. As a result of this operation the tank becomes significantly cheaper, but also grows significantly in size, and loses part of its original capacity, and the low quality of the parts makes itself felt. Insertion into <color=255,70,0>maloq</color> equipment is <color=255,20,20>impossible</color> due to its initially low wear resistance.
+3	Cost: <clr>-80%<clrEnd>
+4	Tank capacity: <bonFuel> units
+5	Durability: <clr>-5%<clrEnd>
+6	Junkarmor
+7	A third-level micromodule. Replaces the expensive and compact elements of the <clr>armor<clrEnd> with cheap, low-quality and bulky analogues. As a result of this operation, maintenance of the hull's defense systems becomes significantly cheaper, though it starts to take up part of the hold, even though the ship's protection gets better... Probably. Insertion into a <color=255,70,0>maloq</color> hull is <color=255,20,20>impossible</color> due to the initially low wear resistance of the armor plates.
+8	Size: <clr>-5%<clrEnd>
+9	Hull susceptibility: <clr>+3%<clrEnd>
+10	Junkdrill
+11	A third-level micromodule. Replaces the expensive and compact parts of the focusing systems of <clr>any weapon<clrEnd> with cheap, low-quality and bulky substitutes. As a result of this operation the gun becomes significantly cheaper, but also grows significantly in size, and loses part of its original range, and the low quality of the parts makes itself felt. Insertion into <color=255,70,0>maloq</color> equipment is <color=255,20,20>impossible</color> due to its initially low wear resistance.
+12	Junkcent
+13	A third-level micromodule. Replaces the small and compact parts of <clr>equipment<clrEnd> with more expensive, at least outwardly, but also bulkier parts. A fast breakdown rate is included. Insertion into <color=255,70,0>maloq</color> equipment is <color=255,20,20>impossible</color> due to its initially low wear resistance.
+14	Cost: <clr>+45%<clrEnd>
+15	Size: <clr>+5%<clrEnd>
+16	Durability: <clr>-10%<clrEnd>
+17	Junkdroider
+18	A third-level micromodule. Replaces the expensive and compact parts of the <clr>droid<clrEnd> with cheap, low-quality and bulky substitutes. As a result of this operation the droid becomes significantly cheaper, but also grows significantly in size, and loses part of its original effectiveness, and the low quality of the parts makes itself felt. Insertion into <color=255,70,0>maloq</color> equipment is <color=255,20,20>impossible</color> due to its initially low wear resistance.
+19	Junkengine
+20	A third-level micromodule. Replaces the expensive and compact parts of the <clr>engine<clrEnd> with cheap, low-quality and bulky substitutes. As a result of this operation the engine becomes significantly cheaper, but also grows significantly in size, and loses part of its original power, and the low quality of the parts makes itself felt. Insertion into <color=255,70,0>maloq</color> equipment is <color=255,20,20>impossible</color> due to its initially low wear resistance.
+21	Junkforcer
+22	Cost: <clr>-85%<clrEnd>
+23	Size: <clr>+15%<clrEnd>
+24	Junkgrabber
+25	A third-level micromodule. Replaces the expensive and compact parts of the <clr>gripper<clrEnd> with cheap, low-quality and bulky substitutes. As a result of this operation the gripper becomes significantly cheaper, but also grows significantly in size, and loses part of its original power, and the low quality of the parts makes itself felt. Insertion into <color=255,70,0>maloq</color> equipment is <color=255,20,20>impossible</color> due to its initially low wear resistance.
+26	Gripper range: <bonHookRadius> million km
+27	Reduces the speed at which the gripper lifts objects by <clr>1<clrEnd> unit
+28	Junkjumper
+29	A third-level micromodule. Replaces the expensive and compact parts of the <clr>engine's hypergenerator<clrEnd> with cheap, low-quality and bulky substitutes. As a result of this operation the engine becomes significantly cheaper to maintain, but also grows significantly in size, and loses part of its original jump range, and the low quality of the parts makes itself felt. Insertion into <color=255,70,0>maloq</color> equipment is <color=255,20,20>impossible</color> due to its initially low wear resistance.
+30	Junkmeter
+31	A third-level micromodule. Replaces the expensive and compact parts of the <clr>radar<clrEnd> with cheap, low-quality and bulky substitutes. As a result of this operation the radar becomes significantly cheaper, but also grows significantly in size, and loses part of its original power, and the low quality of the parts makes itself felt. Insertion into <color=255,70,0>maloq</color> equipment is <color=255,20,20>impossible</color> due to its initially low wear resistance.
+32	Junkshield
+33	A third-level micromodule. Replaces the expensive and compact parts of the <clr>shield generator<clrEnd> with cheap, low-quality and bulky substitutes. As a result of this operation the generator becomes significantly cheaper, but also grows significantly in size, and loses part of its original power, and the low quality of the parts makes itself felt. Insertion into <color=255,70,0>maloq</color> equipment is <color=255,20,20>impossible</color> due to its initially low wear resistance.
+34	Junkscan
+35	A third-level micromodule. Replaces the expensive and compact parts of the <clr>scanner<clrEnd> with cheap, low-quality and bulky substitutes. As a result of this operation the scanner becomes significantly cheaper, but also grows significantly in size, and loses part of its original power, and the low quality of the parts makes itself felt. Insertion into <color=255,70,0>maloq</color> equipment is <color=255,20,20>impossible</color> due to its initially low wear resistance.
+36	Junkiversal
+37	A second-level micromodule. A set of outright junk, collected and brought to some semblance of marketable condition. Can be used in any standard equipment to make it significantly cheaper, as well as to bring the equipment's breakdown rate up to the seventh cosmic velocity, along with increasing the size of that same equipment. Insertion into <color=255,70,0>maloq</color> equipment is <color=255,20,20>impossible</color> due to its initially low wear resistance.
+38	Cost: <clr>-97%<clrEnd>
+39	Durability: <clr>-13%<clrEnd>
+40	Junkburn
+41	A third-level micromodule. Replaces the expensive and compact parts of <clr>any gun<clrEnd> with cheap, low-quality and bulky substitutes. As a result of this operation the gun becomes significantly cheaper, but also grows significantly in size, and loses part of its original power, and the low quality of the parts makes itself felt. Insertion into <color=255,70,0>maloq</color> equipment is impossible due to its initially low wear resistance.
+42	Cost: <clr>-95%<clrEnd>
+43	Power of any weapon: -<clr>5<clrEnd>

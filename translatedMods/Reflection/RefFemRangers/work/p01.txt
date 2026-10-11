@@ -1,0 +1,37 @@
+1	Julietta
+2	Melory
+3	Yulianna
+4	Sunshine
+5	Starlight
+6	Ginger
+7	Melody
+8	Night
+9	Umka
+10	Demina
+11	Rose
+12	Irina
+13	Kosmodemyanskaya
+14	Marina
+15	Luxemburg
+16	Nova
+17	Chiana
+18	Miku
+19	Hellfire
+20	Moeka
+21	Elizabeth
+22	Junko
+23	Marisa
+24	Reimu
+25	Eclipse
+26	Clara Zetkin
+27	Anyuta
+28	Mercury
+29	Makise
+30	Beatrice
+31	Starbuck
+32	Raskova
+33	Litvyak
+34	Vladlena
+35	Oktyabrina
+36	Wild One
+37	Fearless

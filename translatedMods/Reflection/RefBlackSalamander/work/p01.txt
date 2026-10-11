@@ -1,0 +1,40 @@
+1	Black Salamander
+2	"Black Salamander" <color=248,252,248>- more than three hundred years ago, missile frigates of this class struck terror into a good half of the Commonwealth of Intelligent Races, for this peleng frigate ... was the main raiding force of the most famous pirate of the Second Klissan War -</color> <clr>Rachekhan<clrEnd><color=248,252,248>!</color>
+3	<color=248,252,248>Numerous missile launchers and boosters allowed the frigate to destroy weak planetary defense fleets from afar, while a compact hypertunnel generator with a powerful quark generator let it escape faster, more numerous or stronger opponents.</color>
+4	<color=248,252,248>What else does a pirate need? Ah, yes - a roomy hold, which the designers did not forget either.</color>
+5	<color=0,200,210>The hull is equipped with automatic launchers</color>
+6	Reactor energy: <Data1>/<clr>150<clrEnd>
+7	Reactor Energy
+8	Fires missiles at the nearest enemies
+9	Control of the "Salamander's" capabilities
+10	So, this is where the "Black Salamander's" systems are controlled from.<br><br>What will you do?
+11	So what are we going to do with it?
+12	Can't wait!
+13	All right, I'll be back soon
+14	So, you say, <Player>, you dug it up on an uninhabited planet? Looks precious, let's see... A thousand pakryaks, our standard analyzer went off the scale! This thing is clearly older than the whole Coalition, maybe even older than the First Brotherhood!
+15	What do you mean, <Player> - we'll study it! What did you think, we'd sell it? Nope, bro, we've got our own craftsmen who'll take a thing like that apart for spare parts in a flash and find out what's inside. True, they'll need a few <clr>nodes<clrEnd> - just <0>, you have that many, right?<br><br>As for their work... Let's agree on this - we'll take your little crystal for good, and all the work on what's inside it, and if there's anything useful, we'll arrange that for you... So, all the work on these points you'll get at our expense. Deal?
+16	Oh-h-h, now that's a different conversation, <Player>!<br><br>We've already taken the crystal, and the nodes too, so wait for news - soon our boys will find out everything there is to know about this crystal
+17	Ah-h-h, <Player>, how could you?!<br><br>All right, come back once you've saved up some nodes. We're always open to offers like this.
+18	I'm not interested in drinks right now, just tell me already what's with the crystal!
+19	All this is extremely interesting and exciting, but what about the ship?
+20	What do you mean "lost"?!
+21	You're pathetic excuses for designers, not designers. To hell with you.
+22	What's that you say, what crystal? Ah, I think I found it... Yes, yes...<br><br>Alas, <Player>, that wasn't our department, but what is our department is telling you that the Dominion you took your crystal to, well - poof, it fell in battle and sank into the abyss of space. Maybe the crystal isn't all that fragile and survived the station's destruction, but we don't know, any more than we know where the crystal might be in that case.<br>Sorry, bro, I can't help.
+23	What's that you say, what crystal? Ah, I think I found it... Yes, yes...<br><br>Alas, <Player>, that wasn't our department; judging by our database, you should turn to the guys at the Dominion <0> in the <1> system.
+24	Ah, <Player>, I remember now what thing you brought us. Well, come in, sit down, will you have something to drink? Maybe the special nuclear?
+25	Well, basically, our "smart guys" said that this crystal held blueprints of some planetary shipyard that was in orbit around the planet Kuat. Where exactly that was, they never managed to determine, but to hell with it.<br><br>By their account, thousands of years ago the ships of a certain Galactic Empire plied our expanses, and the blueprints were, in fact, layouts of ships of some incredible sizes. Two thousand people in the crew alone - mind-blowing!<br><br>Unfortunately, there was no more information - the engineers kept strict documentation, and apart from the blueprints, nothing was found there.
+26	Well... Um... So... We were celebrating, celebrating... So, we lost the blueprints.
+27	Now, now, don't boil over, bro, it happens... A tough business, being an underground pirate...<br><br>But-t-t don't rush to uncover your gun deck. Since we couldn't arrange a very-ancient-hull for you, we owe you some compensation, right?<br><br>We strained our databases and dug up a very interesting specimen from the time of <clr>Rachekhan<clrEnd> - yes, yes, that very one!<br>A little modernization and-d-d... Your warehouse now holds a powerful missile frigate with some unique capabilities.
+28	Thanks for the information
+29	<0>, our boys at Dominion <1> have finished decrypting the holographic crystal and are ready to have a chat with you! We'll be waiting for you at the Dominion as soon as ever.
+30	The identification key has activated the hull's capabilities; go to the bridge to familiarize yourself.
+31	<0>, unfortunately, Dominion <1> was destroyed during the study of the holographic crystal. Now no one will ever learn what mysteries it held.
+32	Make a hyperjump
+33	Make a hyperjump (insufficient energy)
+34	Deactivate automatic launchers
+35	Activate automatic launchers
+36	Make a warp jump
+37	Make a warp jump (insufficient energy)
+38	The charge is insufficient for such a jump
+39	Enter the X coordinate (can be negative)
+40	Enter the Y coordinate (can be negative)
