@@ -1,0 +1,57 @@
+1	Price per kit: cost cr.
+2	Available for purchase: coun pcs.
+3	Specialists of the Ranger Center Network, analyzing reports on the Corps' activity, came to the conclusion that an important problem on the battlefield is precisely the repair of equipment
+4	And while on Coalition battleships and dreadnoughts the situation is solved by teams of our technicians, it is impossible to station such teams on every military ship, let alone every ranger ship.
+5	That is why we have upgraded and unified all field repair kits previously available on the market, and now present you with these offers:
+6	Bear in mind that our kits are not unlimited, and we must also allocate them to the military on orders from the KVSMK, so quotas have been set on kit sales
+7	However, the quotas are renewed once a year, so you will be able to buy new kits
+8	Buy repair kits
+9	Actually, I've changed my mind
+10	Our repairmen have patented a new model of portable do-it-yourself repair kits. If you're interested, we can sell you a few.
+12	"Junior Technician"
+13	MessageBox('The kit has no spare parts for repairing non-standard equipment');
+14	if(MessageBoxYesNo('Will you repair the equipment?'))
+15	if(!ScriptItemActionType(t_OnCheckingUsability)) MessageBox('The equipment is in working order and does not need repair');
+16	A minimal set of simple spare parts that lets any pilot with a minimal set of skills patch up damaged equipment
+19	"Skillful Technician"
+20	if (MessageBoxYesNo('Will you repair the equipment?'))
+21	A set of equipment elements that lets you replace practically any broken or worn-out parts. An excellent tool for repairs without resorting to technicians.
+23	"Proficient Technician"
+24	A set of parts designed for an avid fan of tinkering with a ship's innards. Contains a full set of tools that allows comprehensive restoration of equipment, even if the quality falls short of the best technicians' work.
+25	"Reconstructor" kit
+26	"Reconstructor"
+27	str strdialog='Repairing this equipment will require ';
+28	strdialog=strdialog+' nd. Proceed with the repair?';
+29	MessageBox('Not enough nodes for repair!');
+32	MessageBox('The equipment is not suitable for disassembly into spare parts, it has no undamaged blocks');
+33	MessageBox('The equipment is energized, the device cannot be disassembled');
+34	Can take repairable parts from one piece of equipment to fix just one other. The equipment that served as the parts donor becomes completely non-functional.
+36	No longer able to grab a single object.
+46	No longer able to create a directed mentokinetic stream and grab objects.
+48	No longer able to neutralize negative external effects.
+50	No longer able to block part of the damage dealt to the ship.
+59	No longer able to develop speed and make hyperjumps.
+69	No longer able to hold fuel.
+79	No longer able to obtain information about objects.
+89	No longer able to fill damaged spots with a quick-hardening substance, restoring the damaged plating.
+91	No longer able to repair damaged plating.
+100	No longer able to scan technological objects.
+102	No longer able to scan objects.
+111	No longer able to hit the target with a powerful beam of light, dealing damage.
+113	No longer able to hit the target with a series of small explosions, dealing damage.
+115	No longer able to deal damage with a directed energy discharge from all barrels.
+117	No longer able to hit the target with homing missiles.
+119	No longer able to slow the target's movement and deal damage, thereby restoring hull structure.
+121	No longer able to use a wave modulator, dealing heavy damage.
+123	No longer able to fire thousands of small explosive projectiles that pierce the target and deal damage.
+125	No longer able to affect the electronic innards of equipment with an electromagnetic pulse and deal damage.
+127	No longer able to hit the target with a vibro-projectile that induces hull resonance to deal damage.
+129	No longer able to detonate antimatter that forms an energy field damaging the target and surrounding objects.
+131	No longer able to break the molecular bonds of matter, damaging the target.
+133	No longer able to create gravir energy bursts that deal damage.
+135	No longer able to use an emitter of five textured tubes to hit the target.
+137	No longer able to distort space around the ship to damage all objects in the zone of effect.
+139	No longer able to use torpedoes fitted with a gravitational matter destabilizer.
+141	No longer able to fire a clot of nanomachines that damage the target and weaken its armor.
+143	No longer able to destroy armor with high-voltage discharges and ionize the target's hull.
+145	No longer able to hit the target with missiles carrying an electromagnetic warhead.

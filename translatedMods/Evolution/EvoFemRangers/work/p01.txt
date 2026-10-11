@@ -1,0 +1,110 @@
+1	Horror I-IV
+2	Hull "Horror" I
+3	<color=248,252,248>Maloq women are rarely seen outside the native atmosphere of their harsh mountainous planets, but that doesn't mean they don't like to fly. It's just that their race's nature is such that they much prefer crushing skulls with vibro-maces and burning their enemies alive with plasma, and the distances of space combat rarely offer them such an opportunity. Nevertheless, some of them do join the ranks of the Coalition fleet, where they quickly make their way into the most elite military units.</color>
+4	<color=248,252,248>It was for such inquisitive maloq ladies that this hull was designed. Strong as Ramgatrue granite, yet gentle as a loving punch to the jaw.</color>
+5	Hull "Horror" II
+6	Hull "Horror" III
+7	Hull "Horror" IV
+8	34,  33, 33, Secret Agent
+9	Elaifi
+10	Koodi
+11	Agryga
+12	Chkhala
+13	Agent
+14	Halve the amount
+15	I don't want to talk to you, <0>, I'm extremely upset by your behavior!
+16	Thanks, <0>, buddy, your information about those secret Coalition agents helped us a lot. The pirates who had the audacity to work with those girls have already been punished. Now that the whole truth has come out, the Coalition won't be able to cause our movement any serious trouble.<br>Thanks for the valuable information and for your devotion to our cause. Unfortunately, we can't just promote you in rank like that, so accept these <1> as a gift. Above all, remember: thanks to guys like you, victory will be ours, and the Coalition will very soon kick the bucket and be mentioned only in history textbooks.
+17	<0> <br> <br>Hey, hold on a second! That's my colleague, <1>! Sorry, but I'm not going to attack her, that's not what we agreed on. I'm terminating our contract.
+18	Pfft, you're a joker, I see. I'm not dropping my business just to help you out
+19	Yes, ma'am! Aye aye, ma'am! Switching all guns to the designated scumbag
+20	Oh, you annoy me, <Player>, oh you annoy me! It's just that I haven't gotten around to smacking your bastard mug yet. But never mind, never mind, soon I'll find a minute and—wham! You'll fly three light years all the way to <clr>Ramgatrue<clrEnd>!
+21	Hey you, whatever your name is! I don't like you, of course, but business can't wait. See that scoundrel <Target> on the radar? He just infuriates me, the brat! Help a lady out in battle - be a good boy.
+22	No way, never! Deal with him yourself - I've got other business to attend to
+23	Oh, all right - after all, a girl is asking. Computer, guns to battle stations!
+24	I'd give you a piece of my mind, <Player>, but there are plenty of other enemies around. I'll deal with them first, and then it'll be your turn, mark my words!
+25	Hey, <Player>, you're a nasty piece of work, of course, but <Target> annoys me far more. Will you help me take him apart for spare parts?
+26	How about a manicure missile up your exhaust, you cow!? No way, buy yourself a coffin at a sale instead of making such pauper handouts, and your dead hide will be more profitable for me anyway!
+27	Whaat, damn??! Do you think I'm the type to let prey slip out from under my nose? No way, sister - you won't get rid of me that easily now!
+28	Ah, to hell with you! For cash I'm ready to back off, in principle. Just don't cut across my path again, or I'll give you a black eye again
+29	Eh, you lay it straight, girlfriend. Oh well, fine - live for now. Maybe we'll meet again across the light years!
+30	All right, all right, that's it, I give up - you win! Be a darling, take these <Cost> cr. and leave the lady alone with her can of hairspray and manicure pliers.
+31	Fine, I have to admit - you can shoot pretty well. Now it's time to take these <Cost> cr. and leave me alone for a while.
+32	All right, fine, hand over your confiscated loot and get lost
+33	Maybe you're right. A girl who can offer a good sum deserves to live a while longer
+34	Spare me, <Player>! I don't want to die so young, in the middle of boundless cold space! I still have <Cost> cr. confiscated from bandits, take it, just don't kill me!
+35	Please leave me alone, <Player>! What did I ever do to you? Maybe <Cost> cr. will help you turn your wrath into mercy?
+36	Seems like a crooked path has led you somewhere wrong. We're not going the same way. Farewell.
+37	Ha-ha! Filthy piece of pirate crap - soon you'll be space dust! Agryga karabanda, yee-haw!!!
+38	Hi there, <Player>! A little problem has come up. I hate pirates, but at the same time I love punching faces. Wait a second... You're a pirate, aren't you? And your face seems to be in place. Hmm... Hey, ship - aim all our guns at that wretch on the monitor, ha-ha!
+39	Hey, asshole! I decided to tear you away from your dirty business and tell you that in exactly five minutes your donkey trough will turn into a heap of space scrap metal. We're going to have so much fun now, aren't we?! :)
+40	Get ready, villain <Player>, my little guns are about to give your rusty tub a penetrating massage! You immoral pirate, we can't coexist in the same arm of the Galaxy.
+41	Resistance is futile, <Player>, my little guns are aimed precisely at your flying trough! Be ready to meet your death at the hands of a weak girl! And before you die, remember that it was your own pirate nature that ruined you. Had you been an honest ranger, everything could have turned out quite differently...
+42	To wipe your pirate mug off the screen I will spare no means and put in every possible effort!!! You were wrong to decide one day that being a real pirate was cool! All guns - fire at the target!
+43	Ah, another lump of penchecrak droppings! To hell with you and your kind, got it!?
+44	Ah, another lump of penchecrak droppings! To hell with you and your kind, got it!? But actually, you're not bad-looking... You'd better fly off and wipe out more pirates. And who knows, maybe I'll set my eye on you, sweetie, heh-heh :)
+45	The day I see the wreckage of your ship in space, <Player>, I'll celebrate as my second birthday. So be so kind as to die!
+46	The day I see the wreckage of your ship in space, <Player>, I'll celebrate as my second birthday. So be so kind as to die! But if you want to live a little longer in this world, stop pirating at once and put your efforts into helping the Coalition.
+47	Good grief, who's this creepy one who just showed up? My bosses don't pay me extra for looking at your ugly mugs, by the way. So get the hell off my screen, and make it quick!
+48	Good grief, who's this creepy one who just showed up? What do you want, dimwit? If you want to be my friend, then hop to it and go wipe out the pirate scum, and if not, get off my screen, and make it quick!
+49	You know, <Player>, you disgust me so much that I don't want to see your face anymore. Find yourself another lady to hit on.
+50	You know, <Player>, you disgust me so much that I don't want to see your face anymore. Find yourself another lady to hit on. But if you dream of hearing anything from me other than outrage, stop pirating at once and put your efforts into helping the Coalition.
+51	You know what, <Player>... To hell with you and all your dirty business, right up the gobsaur's behind! I'm leaving.
+52	Ugh! I suddenly feel sick of staying under the command of such a pathetic scoundrel as you, <Player>. Have fun staying behind!
+53	Listen, our contract has expired, and now I'm free to do whatever I want.
+54	Keep in mind, my contract has come to an end. I have honestly fulfilled my obligations.
+55	Yes, it's a pity to lose such a reliable battle companion as you. Let me figure out how much money I have, and we'll draw up a new contract.
+56	Hey, hey, hey, hold on... So you're not a commander?! Ahahaha!!! Well, it happens to everyone, of course, but understand - to me the size of leadership matters, and I'm not about to serve such a puny weakling. Grow up first :)
+57	I have two pieces of news for you, <Player>, bad and very bad. The bad one is that I'm dumping you and going freelance. And the very bad news is that with such a small leadership no self-respecting agryga will work for you. Truth be told, I don't even know how I signed up for this...
+58	You know, I could take offense at this... Good riddance.
+59	You could have served out the contract... Oh well, good luck out there in space.
+60	Enough! You have no idea how to pick capable warriors, <Player>. Your team is nothing but jerks - I'm done working with them. I'm leaving.
+61	You're not really needed here anyway. You only create problems!
+62	Is that so?! Well, good riddance! Things will only get better without you, so you know!
+63	I was your partner, but you keep doing things that go against my principles. So I'm quitting the partnership.
+64	I don't like being your partner at all. You're not what you seemed at first. Farewell.
+65	Hey, <Player>, what's up with your leadership skills? I used to think you were tougher. Could my eyes have failed me... Either way, I'm terminating our contract early. See you.
+66	I have two pieces of news for you, <Player>, good and bad. The bad one is that I will no longer work for you, because it's a disgrace for me to fly under a ranger with such a low leadership level. And the good news is that as soon as you gain some experience in teamwork, I'll work with you again, if you want.
+67	Bambusha
+68	Bambanya
+69	Zharopyrla
+70	Strakhoglyadka
+71	Bulavina
+72	Drynoborga
+73	Zhivokhvata
+74	Rukodavchi
+75	Krinzhita
+76	Gromodrynya
+77	Grenatyorka
+78	Zabadukha
+79	Bagrobaba
+80	Zvezdanuka
+81	Denitresha
+82	Grimli
+83	Gargantyusha
+84	$Bambusha$,$Gromodrynya$,$Grenatyorka$,$Zabadukha$,$Bagrobaba$,$Zvezdanuka$,$Denitresha$,$Grimli$,$Gargantyusha$,$Bambanya$,$Zharopyrla$,$Strakhoglyadka$,$Bulavina$,$Drynoborga$,$Zhivokhvata$,$Rukodavchi$,$Krinzhita$
+85	Anita Bumblebee
+86	Starbuck
+87	Beatrice
+88	Makise
+89	Mercury
+90	Anyuta
+91	Eclipse
+92	Reimu
+93	Marisa
+94	Junko
+95	Elizabeth
+96	Moeka
+97	Hellfire
+98	Miku
+99	Chiana
+100	Nova
+101	Marina
+102	Irina
+103	Angelica
+104	Miss X
+105	Ciabatta
+106	Serafima
+107	Little Star
+108	Pipistrelle
+109	Dobeysya
+110	$Oleander$,$Dizzy$,$Mary of Arc$,$Myra$,$Arwien$,$Thunder$,$Galdrael$,$Jeans$,$Sunset$,$Flier$,$Starlight$,$Anita Bumblebee$,$Linda$,$Kona-chan$,$Neco-nia$,$Racoon$,$Starbuck$,$Beatrice$,$Makise$,$Mercury$,$Anyuta$,$Eclipse$,$Reimu$,$Marisa$,$Junko$,$Elizabeth$,$Moeka$,$Hellfire$,$Miku$,$Chiana$,$Nova$,$Moon$,$Marina$,$Irina$,$Angelica$,$Miss X$,$Ciabatta$,$Serafima$,$Little Star$,$Pipistrelle$,$Dobeysya$

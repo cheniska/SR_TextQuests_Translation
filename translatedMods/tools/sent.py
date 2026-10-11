@@ -53,7 +53,7 @@ def vmem():
     return tm
 def draft(g,bases):
     g='Reflection/'+g if '/' not in g else g
-    tm,bad=mem(bases); vm=vmem(); [tm.setdefault(k,v) for k,v in vm.items()]; print('sentence memory',len(tm),'(vanilla',len(vm),') misaligned paragraphs',bad)
+    tm,bad=mem(bases); vm=vmem(); tm.update(vm); print('sentence memory',len(tm),'(vanilla',len(vm),') misaligned paragraphs',bad)
     todo,_,_=m.load(g); out=[]; unk=0
     for n,r in todo.items():
         if r in tm: out.append(f'{n}\t{tm[r]}'); continue
