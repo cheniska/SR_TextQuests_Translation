@@ -1,0 +1,136 @@
+Железные жупи	Iron Zoopie
+Поляризатор	Polarizer
+Вероятностный анализатор	Probability Analyzer
+Локализатор взрывной волны	Blast Wave Localizer
+Антигравитатор	Antigravitazer
+Трансфакторный маяк	Transfactorial Beacon
+Кварковая бомба	Quark bomb
+Транклюкатор	Tranclucator
+Пропорционар	Proportionar
+Пятерик	Fiver
+Проглот	Swallower
+Навинт	Screw-on
+Вжик	Zing
+Ракетанг	Rocketang
+Обливионный коннектор	Oblivion Connector
+Сопланатор	Nozzlenator
+Гипергенератор	Hypergenerator
+Субпортал	Subportal
+Протон	Proton
+Армс	ARMS
+Артефактор	Artifactor
+Биомир	Bioworld
+а'Эгис	a'Egis
+Ралс	Rals
+Отморозки	Frostix
+Пролонгер	Prolonger
+Сканерный кэш	Scanner Cache
+Дроид младший	Junior Droid
+Нанитоиды	Nanitoids
+Эриметр	Erimeter
+Миоплазменный двигатель I	Myoplasmic Engine I
+Миоплазменный сканер I	Myoplasmic Scanner I
+Миоплазменный сканер II	Myoplasmic Scanner II
+Миоплазменный сканер III	Myoplasmic Scanner III
+Миоплазменный дроид I	Myoplasmic Droid I
+Миоплазменный дроид II	Myoplasmic Droid II
+Миоплазменный дроид III	Myoplasmic Droid III
+Миоплазменный захват I	Myoplasmic Gripper I
+Миоплазменный захват II	Myoplasmic Gripper II
+Миоплазменный захват III	Myoplasmic Gripper III
+Миоплазменный генератор защиты I	Myoplasmic Shield Generator I
+Миоплазменный двигатель II	Myoplasmic Engine II
+Миоплазменный генератор защиты II	Myoplasmic Shield Generator II
+Миоплазменный генератор защиты III	Myoplasmic Shield Generator III
+Пигамарный двигатель I	Pygamore Engine I
+Пигамарный двигатель II	Pygamore Engine II
+Пигамарный двигатель III	Pygamore Engine III
+Пигамарный топливный бак I	Pygamore Fuel Tank I
+Пигамарный топливный бак II	Pygamore Fuel Tank II
+Пигамарный топливный бак III	Pygamore Fuel Tank III
+Пигамарный радар I	Pygamore Radar I
+Пигамарный радар II	Pygamore Radar II
+Миоплазменный двигатель III	Myoplasmic Engine III
+Пигамарный радар III	Pygamore Radar III
+Пигамарный сканер I	Pygamore Scanner I
+Пигамарный сканер II	Pygamore Scanner II
+Пигамарный сканер III	Pygamore Scanner III
+Пигамарный дроид I	Pygamore Droid I
+Пигамарный дроид II	Pygamore Droid II
+Пигамарный дроид III	Pygamore Droid III
+Пигамарный захват I	Pygamore Gripper I
+Пигамарный захват II	Pygamore Gripper II
+Пигамарный захват III	Pygamore Hook III
+Миоплазменный топливный бак I	Myoplasmic Fuel Tank I
+Пигамарный генератор защиты I	Pygamore Shield Generator I
+Пигамарный генератор защиты II	Pygamore Shield Generator II
+Пигамарный генератор защиты III	Pygamore Shield Generator III
+Нанобролитовый дроид I	Nanobrolite Droid I
+Нанобролитовый дроид II	Nanobrolite Droid II
+Нанобролитовый дроид III	Nanobrolite Droid III
+Нанобролитовый двигатель I	Nanobrolite Engine I
+Нанобролитовый двигатель II	Nanobrolite Engine II
+Нанобролитовый двигатель III	Nanobrolite Engine III
+Нанобролитовый генератор защиты I	Nanobrolite Shield Generator I
+Миоплазменный топливный бак II	Myoplasmic Fuel Tank II
+Нанобролитовый генератор защиты II	Nanobrolite Shield Generator II
+Нанобролитовый генератор защиты III	Nanobrolite Shield Generator III
+Трансцендентальный двигатель I	Transcendental Engine I
+Трансцендентальный двигатель II	Transcendental Engine II
+Трансцендентальный двигатель III	Transcendental Engine III
+Апгрейтинговый захват I	Upgraded Gripper I
+Апгрейтинговый захват II	Upgraded Gripper II
+Апгрейтинговый захват III	Upgraded Gripper III
+Апгрейтинговый генератор защиты I	Upgraded Shield Generator I
+Апгрейтинговый генератор защиты II	Upgraded Shield Generator II
+Миоплазменный топливный бак III	Myoplasmic Fuel Tank III
+Апгрейтинговый генератор защиты III	Upgraded Shield Generator III
+Апгрейтинговый двигатель I	Upgraded Engine I
+Апгрейтинговый двигатель II	Upgraded Engine II
+Апгрейтинговый двигатель III	Upgraded Engine III
+Апгрейтинговый топливный бак I	Upgraded Fuel Tank I
+Апгрейтинговый топливный бак II	Upgraded Fuel Tank II
+Апгрейтинговый топливный бак III	Upgraded Fuel Tank III
+Апгрейтинговый радар I	Upgraded Radar I
+Апгрейтинговый радар II	Upgraded Radar II
+Апгрейтинговый радар III	Upgraded Radar III
+Миоплазменный радар I	Myoplasmic Radar I
+Апгрейтинговый сканер I	Upgraded Scanner I
+Апгрейтинговый сканер II	Upgraded Scanner II
+Апгрейтинговый сканер III	Upgraded Scanner III
+Ультрасплавный сканер I	Ultraalloy Scanner I
+Ультрасплавный сканер II	Ultraalloy Scanner II
+Ультрасплавный сканер III	Ultraalloy Scanner III
+Ультрасплавный радар I	Ultraalloy Radar I
+Ультрасплавный радар II	Ultraalloy Radar II
+Ультрасплавный радар III	Ultraalloy Radar III
+Ультрасплавный топливный бак I	Ultraalloy Fuel Tank I
+Миоплазменный радар II	Myoplasmic Radar II
+Ультрасплавный топливный бак II	Ultraalloy Fuel Tank II
+Ультрасплавный топливный бак III	Ultraalloy Fuel Tank III
+Ультрасплавный захват I	Ultraalloy Gripper I
+Ультрасплавный захват II	Ultraalloy Gripper II
+Ультрасплавный захват III	Ultraalloy Gripper III
+Миоплазменный радар III	Myoplasmic Radar III
+"Дифрод"	Diphrode
+"Лифокар"	Liphocarus
+"Адроптер"	Adropter
+Промышленный лазер	Industrial Laser
+"Армолок"	Armoloc
+"Джавитор"	Javitor
+Мультирезонатор	Multiresonator
+Атомный визион	Atomic Vision
+Дезинтегратор	Disintegrator
+"Инвейтер"	Inveiter
+Турбогравир	Turbogravitron
+Эсодафер	Esodapher
+"Стилермейн"	Stylermain
+Кафаситор	Caphasitor
+Лирекрон	Lirecron
+Осколочное орудие	Fragmentation Weapons
+Лезка	Flux
+Третон	Treton
+Волновой фазер	Wave Phaser
+Потоковый бластер	Flow Blaster
+Электронный резак	Electronic Cutter
+Чхаша	Ckhasha

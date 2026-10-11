@@ -1,0 +1,19 @@
+12	Навстречу приключениям!	Toward an adventure!
+25	Урон: <MinDamage>-<MaxDamage><br>Количество залпов: <Count>/<MaxCount> шт.	Damage: <MinDamage>-<MaxDamage><br>Number of salvos: <Count>/<MaxCount>
+32	Заряд: <color=255,240,100>разряженная оглушающая бомба</color>	Loaded with: <color=255,240,100>discharged stun bomb</color>
+52	Кроме того, пусть и не всем, но хотя бы некоторым лайнерам удалось успешно эвакуировать часть жителей с нашей планеты. По нашим данным, места назначения достигли <0> лайнеров из <1>. А теперь, если вы не против, предлагаю проследовать на банкет.	In addition, though not all, but at least some of the liners managed to successfully evacuate some of the inhabitants from our planet. According to our data, <0> liners from <1> have reached their destinations. And now, if you do not mind, I suggest we proceed to the banquet.
+53	Сматываемся отсюда!	Get out of here!
+74	Внимание, рейнджер <Player>! Немедленно прекратите атаку на планетоид и как можно скорее прибудьте на технологический центр <0>! Это дело первостепенной важности!	Attention, Ranger <Player>! Immediately stop the attack on the planetoid and arrive at the technology center <0> as soon as possible! This is a matter of the utmost importance!
+76	И что же теперь делать? Неужели опускать руки и дать планете погибнуть?	So what do we do now? Should we give up and let the planet die?
+77	Ладно, уговорили. Ставьте свой агрегат	Okay, you're on. Put the machine in
+78	Ну уж нет, не надо мне такой радости. Еще взорвется у меня на корабле, знаю я вас	Oh, no, I don't want that kind of toy. It's going to blow up on my ship, I know you
+84	Разумеется готов!	Of course I'm ready!
+85	Мы все погибнем! Надо бежать! КОНЕЦ БЛИЗОК!	We're all going to die! We have to run! THE END IS NEAR!
+86	Уже бегу!	I'm on my way!
+91	Благодарю за оказаную честь, но я не могу себе такого позволить... А от банкета не откажусь!	I thank you for the honor, but I can't afford it... But I will not refuse a banquet!
+92	Планета с таким именем уже существует, повторите ввод.	A planet with this name already exists, enter it again.
+93	Новое имя планеты слишком длинное, повторите ввод.	The new planet name is too long, enter it again.
+94	Нет уж, спасибо. Не надо мне такого счастья. Не доверяю я теперь этим вашим экспериментальным технологиям	No, thank you. I don't want that kind of happiness. I don't trust this experimental technology of yours now.
+130	Ну всё, приятель. Ты только что нарвался на танец с девияблом...	That's it, buddy. You just got into a dance with the devil...
+140	if(MessageBoxYesNo('Вы уверены, что хотите разрядить физган?'))	if(MessageBoxYesNo('Are you sure you want to discharge the PhysGun?'))
+141	Инфошка для блокирования урона астероидом (будет получать урон только от физгана и других случайных астероидов)	Infobox to block asteroid damage (will only take damage from PhysGun and other random asteroids)

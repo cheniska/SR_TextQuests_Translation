@@ -1,0 +1,1 @@
+1	Возвращает PanelRuins на место при закрытии инфоцентра в космосе (скрытая)	Returns PanelRuins back on its place when infocentre was closed in space

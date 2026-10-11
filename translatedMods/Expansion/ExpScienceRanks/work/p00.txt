@@ -1,0 +1,75 @@
+2	Assassin
+4	Bolide
+5	Fast Hull I-IV
+6	Invincible Hull I-IV
+7	Repair Hull I-IV
+8	Myoplasmic Hull I-IV
+9	Pygamore Hull I-IV
+10	Myoplasmic Fuel Tank I-III
+11	Myoplasmic Engine I-III
+12	Myoplasmic Radar I-III
+13	Myoplasmic Scanner I-III
+14	Myoplasmic Droid I-III
+15	Myoplasmic Gripper I-III
+16	Myoplasmic Shield Generator I-III
+17	Pygamore Fuel Tank I-III
+18	Pygamore Engine I-III
+19	Pygamore Radar I-III
+20	Pygamore Scanner I-III
+21	Pygamore Droid I-III
+22	Pygamore Gripper I-III
+23	Pygamore Shield Generator I-III
+24	Transcendental Engine I-III
+25	Upgraded Gripper I-III
+26	Upgraded Shield Generator I-III
+27	Upgraded Engine I-III
+28	Upgraded Fuel Tank I-III
+29	Upgraded Radar I-III
+30	Upgraded Scanner I-III
+31	Biogenic Droid I-III
+32	Nanobrolite Droid I-III
+33	Nanobrolite Engine I-III
+34	Nanobrolite Shield Generator I-III
+35	Ultraalloy Scanner I-III
+36	Ultraalloy Radar I-III
+37	Ultraalloy Fuel Tank I-III
+38	Ultraalloy Gripper I-III
+39	Kindhearted Lyakusha I-IV
+40	Peaceful Corsair I-IV
+41	Conscientious Renegal I-IV
+42	Dandy I-IV
+43	Ironclad I-IV
+44	Dumbo I-IV
+45	Mite: Combat Mode
+49	Mite: Protective Mode
+51	Mite: Speed Mode
+53	Enrollee
+55	Student
+57	Bachelor
+59	Master
+61	Docent
+63	Doc. Candidate
+65	Doc. of Philosophy
+67	Professor
+69	Galasciencelogist
+71	black holes
+73	black hole
+75	black holes
+82	Acrynation Experiment
+83	Deacrynation Experiment
+85	Hand over an unidentified equipment
+86	Choose another item for acrynation
+89	I don't have any items of unidentified origin in my hold.
+96	Department of acryne technologies
+99	Exploration of the Black Holes
+100	, but you can choose the effect type
+101	, however, like the type of effect
+102	Manual control of Mite modes
+103	Manual control mode: <0>
+104	Turn off
+105	Turn on
+115	Hybrid
+116	Protection
+117	Attack
+118	turned on
+119	turned off

@@ -1,0 +1,15 @@
+1	FormShip/OnSpaceCurrentSet
+2	FormShip/OnSpaceSet1
+3	FormShip/OnSpaceSet2
+4	FormShip/OnSpaceSet3
+5	FormShip/OnSpaceSet4
+6	FormShip/OnSpaceSet5
+7	FormShip/OnSpaceSet6
+8	FormShip/OnSpaceSet7
+9	FormShip/OnSpaceSet8
+10	FormShip/OnSpaceSet9
+11	FormRewards/LessRewards
+12	FormRewards/MoreRewards
+13	Help/EndTurnBrakeOff
+14	Help/EndTurnBrakeOn
+15	ShipInfo/AddInfo/CustomInfos/ExpPanel_infos/Name

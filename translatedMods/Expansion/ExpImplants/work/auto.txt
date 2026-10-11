@@ -1,0 +1,15 @@
+<Date><br>Это просто нонсенс! Анализы показали, что ваш иммунитет в полном порядке. Болезни <clr>"Комплексный иммуноцид"<clrEnd> как не бывало. Посещение медицинского центра более не требуется.	<Date><br>This is crazy! The tests show that your immune system is in perfect health. It's like you were never even sick with <clr>Complex Immunocide<clrEnd>. No visit to medical center is required.
+<Date><br>Вы провели тщательное обследование своего организма. Результаты не радовали. Анализ на <clr>"Комплексный иммуноцид"<clrEnd> был положительным. Вы так ослабли, что любой, даже самый мелкий вирус имеет в 100 раз больше шансов поразить ваш организм. Надо срочно отправляться на медицинскую базу, для прохождения курса лечения.	<Date><br>You have completed a detailed examination of your system. And the results are not good. The test for <clr>Complex Immunocide<clrEnd> came back positive. You have grown so weak that even the weakest virus is 100 times more likely to infect your organism. You need to get to a medical center for urgent treatment.
+У больного ослаблен иммунитет. В результате он легко заболевает болезнями. Контакт с представителями каких либо рас нежелателен.	The infected's immune system is compromised, making them far more susceptible to diseases. Contact with other races is not recommended.
+Ну тогда в другой раз	Well then, another time
+Пожалуй, в другой раз	Maybe another time
+Далее	Next
+Конец связи	Over and out.
+Кобра	Cobra
+Миротворец	Peacemaker
+Грубахар	Grubaxar
+Нео	Neo
+Артемида	Artemis
+Адмирал	Admiral
+Терминатор	Terminator
+Фобос	Phobos

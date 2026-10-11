@@ -1,0 +1,180 @@
+31	<clrEnd>planets
+32	<clrEnd>--- <clr>List is empty<clrEnd> ---
+35	Delivery agency Rasputin
+38	No hulls in storage found
+39	Place of dispatch:
+42	<clrEnd>planet
+43	Confirm
+44	<color=120,124,120>Confirm selection</color>
+45	Confirm selection
+50	Trust the newbie
+51	Give work to regular worker
+52	Leave the job to professional specialist
+53	Refuse to move the hull
+56	Your hulls will be delivered at the place:
+57	Your hull will be delivered to the place:
+58	<clrEnd>Transfer agents: <clr>Newbies<clrEnd>
+59	<clrEnd>Transfer agents: <clr>Regular workers<clrEnd>
+60	<clrEnd>Transfer agents: <clr>Professional specialists<clrEnd>
+61	Trust the newbies
+62	Give work to regular workers
+63	Newbies
+64	Regular workers
+65	<clrEnd>Transfer agent: <clr>Newbie<clrEnd>
+66	<clrEnd>Transfer agent: <clr>Regular worker<clrEnd>
+67	<clrEnd>Transfer agent: <clr>Professional specialist<clrEnd>
+68	Regular worker
+72	Fired for theft: <clr>
+73	In system: <clr>
+74	Located in sector: <clr>
+75	Skill level: <clr>
+76	Personality: <clr>
+86	</color>station
+87	</color>planet
+98	</color> (system <color=255,240,100>
+99	Customer - planet <color=255,240,100>
+100	<color=0,255,0>Job completed successfully</color>
+102	Agree, <color=255,240,100>
+108	</color> days left to complete the mission
+109	There are <color=255,240,100>
+110	<color=255,240,100>Mission in progress</color>
+112	Message from planet <color=255,240,100>
+114	</color>klissan clot of protoplasm
+115	</color>dominator torpedo
+119	<clr>Top dirtiest systems:<clrEnd><br><0>
+133	Choose the qualification of agents:
+134	Choose the qualification of agent:
+136	year
+137	Choose necessary
+159	<color=255,0,0>Mission failed</color>
+168	Okay, I must have confused you with someone else.
+169	</color>Wise choice
+170	</color>Correct solution
+177	</color>Estimated return date:
+178	</color>Estimated date of arrival:
+179	</color>To: <0><br>In system: <1>
+180	</color>To planet: <0><br>In system: <1>
+183	<clrEnd>--- <clr>Nothing<clrEnd> ---
+188	Read about another biomodule
+189	Leave the ship
+190	Switch on
+195	represented by the missing target indicator on the route map
+196	, previously located in <0> system,
+197	represented by the disappointing roundup of galactic news
+198	 to the <0> system,
+199	left the system unexpectedly
+200	, previously located in <0> system, and
+201	was destroyed
+202	 in <0> system,
+205	actions of third parties
+206	force majeure
+234	</color>enemy torpedo
+237	also disappeared
+238	suddenly left it
+239	, previously located in <0> system,
+240	also died
+241	 in system <0>
+255	Interstellar
+256	On-board computer
+322	Sponsor a fund
+323	Get a list of polluted systems
+324	Detailed list of pollution
+328	Choose a different system
+329	Select the section you are interested in:<br><0>
+330	Galactic Encyclopedia
+331	Delivery service
+332	Choose another sector
+333	Back to index
+338	Biomodules
+339	<clrEnd>Description:
+340	<clrEnd>Biomodule: <clr>
+341	Finish setup
+342	</color>--- Temporarily unavailable ---
+343	Galanet
+344	All incoming calls: <0>
+345	Forbidden
+346	Allowed
+347	Eco-community "Clean space"
+348	Leave the site
+352	Continuation of the return list:<br><0>
+354	Continuation of the delivery list:<br><0>
+355	Continuation of the list of lost cargo:<br><0>
+375	<clrEnd>planet <clr>
+376	Confirm the order
+377	Expedited delivery
+378	Regular delivery
+379	Courier delivery
+380	Cancel delivery
+381	<clrEnd>To:
+382	<clrEnd>To planet:
+383	<clrEnd>From:
+384	<clrEnd>From planet:
+385	On-board system settings
+386	Information center
+389	No property found outside the ship
+392	Dispatch point:
+398	Slapstarter
+400	For the Greater Good project
+401	Dull Figures project
+403	Just a Business project
+404	Brute Force project
+409	To other projects
+411	Make a list
+412	Choose all
+445	Unknowns: <KillUnknowns>
+447	<br>Shipyards: <KillDomikShipyards>
+448	<br>Dreadnoughts: <KillDreadnoughts>
+449	<br>Inhibitors: <KillInhibitors>
+467	Galleons: <KillGalleons>
+469	Khans: <KillKhans>
+470	<br>Smugglers: <KillSmugglers>
+472	<br>Traitors: <KillTraitors>
+473	Detailed statistics of destroyed ships and stations
+474	Personal statistics
+516	Planetary battles: <ExpForPlanetBattles>
+517	<br>Klissans: <KillKlissan>
+518	<br>Mercenaries: <KillMercs>
+519	<br>Others: <KillOtherStations>
+520	Bambay Acidmouth
+521	Lyakusha Waychaffinch
+522	Corsair Fecking Carp
+523	Phantom Lolibooty
+524	Renegal Gahala-Pendrick
+562	Klissan war
+576	Fayean race
+584	Gaal race
+593	Maloq race
+602	Peleng race
+613	Humanity
+638	Invisible info box for the dude who framed the player
+641	Invisible information for pursuing pirates
+642	Invisible info for dudes taking player's hulls
+644	Onama
+645	Ariandale
+646	Aliona
+647	Kaiju
+648	Gaalifray
+649	Lahanesh
+650	Aorahan
+651	Gremory
+656	Ragobam
+657	Schike
+658	Aehih
+659	Aegir
+660	Ares
+661	Lycanthrope
+662	Wolverine
+663	Zaro
+664	Militia
+665	Pirate-Charger
+666	Rebel
+667	Letters
+669	Wheatley
+673	Acoustic guitar
+675	Djembe
+677	Electric guitar
+679	Flute
+681	White piano
+683	Maracas
+685	Peleng spy probe
+687	<color=0,153,255>Wheatley</color>

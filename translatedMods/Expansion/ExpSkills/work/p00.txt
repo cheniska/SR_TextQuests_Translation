@@ -1,0 +1,12 @@
+1	Additional Energy Charge
+2	Clean and tidy
+3	Upgraded Afterburner Systems
+5	Increased Missile Damage
+6	Spread Reduction
+7	Precise Targeting
+8	Energy Damage Reduction
+9	Missile Damage Reduction
+10	Splinter Damage Reduction
+11	Evasive Maneuver
+12	Extra Equipment Protection
+28	perk info

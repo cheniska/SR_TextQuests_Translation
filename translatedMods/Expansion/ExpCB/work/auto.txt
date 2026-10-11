@@ -1,0 +1,73 @@
+Добавить генератор защиты	Add shield generator
+Добавить радар	Add radar
+Добавить дроида	Add droid
+Добавить сканер	Add scanner
+Добавить оружие	Add weapons
+Добавлено: <PrevItem>	Added: <PrevItem>
+Ничего не добавлено	Nothing was added
+Ладно, отменяем сборку. Но ты учти, что наши парни серьезно устали таскать детали со склада, поэтому смотри повнимательней, когда пешком ходишь.	Alright, we're cancelling this. Take in mind, our guys are pretty tired from hauling all this crap, and it's practically everywhere, so watch your step.
+Корабль успешно собран:	Ship is succesfully built:
+Пилот будет вашим партнером <CntMonth> месяцев	Pilot will be your partner for <CntMonth> months
+<ItemName> в трюме, размер <Size>, <Stats>	<ItemName> at hold, size is <Size>, <Stats>
+<ItemName> в магазине, размер <Size>, <Stats>, цена <Cost> cr.	<ItemName> in stock, size is <Size>, <Stats>, cost is <Cost> cr.
+<ItemName> на складе, размер <Size>, <Stats>	<ItemName> in stock, size is <Size>, <Stats>
+Сейчас установлено:	Now installed:
+Общая стоимость <TotalCost>, места осталось <FreeSpace>.	Total cost is <TotalCost>, <FreeSpace> free space left.
+Нет слота	There's no slot available
+Отсутствует	None
+Выбери захват.	Choose a cargo hook
+Выбери генератор защиты.	Choose a shield generator
+Выбери двигатель.	Chose an engine
+Выбери бак.	Chose a fuel tank
+Хорошо, приступим к сборке. Первым делом надо выбрать корпус.	Okay, let's begin. First of all, you gotta choose a hull.
+Выбери радар.	Choose a radar
+Выбери дроида	Choose a droid
+Выбери сканер.	Choose a scanner
+Выбери пушку.	Chose a weapon
+Я хочу собрать корабль одному из ваших пилотов	I'd like to build a ship for one of your pilots
+С такой конфигурацией уже можно летать, но можно и добавить что-то из дополнительного оборудования.	Okay, this ship is already space-worthy, but you can add some additional equipment, if you want.
+К такой конфигурации уже и добавить нечего. Собираем?	There's nothing more to add for this configuration. Let's build?
+дальность <Radius>, мощность <PickUpSize>	range <Radius>, can haul up to <PickUpSize>
+защита <Percent>%	shields <Percent>%
+скорость <Speed>, прыжок <Parsec>	speed <Speed>, jump <Parsec>
+вместимость <Capacity>	capacity: <Capacity>
+броня <HitProtect>, получаемый урон Э:<FragilityE>% О:<FragilityS>% Р:<FragilityM>%	armor <HitProtect>, damage taken E:<FragilityE>% C:<FragilityS>% M:<FragilityM>%
+дальность <Radius>	radius <Radius>
+ремонт <RecoverHitPoints>	can repair up to <RecoverHitPoints>
+мощность <Percent>	power <Percent>
+серия <SeriesName>	<SeriesName> series
+дальность <Radius>, урон <MinDamage>-<MaxDamage>	range <Radius>, damage <MinDamage>-<MaxDamage>
+Да, и так сойдет	Yep, that'll do
+Я передумал собирать вам корабль, оставлю деньги себе!	I've changed my mind, leave the change!
+Обойдемся без этого	I can live without it, go on.
+Пушка N	Gun N
+- Микромодуль <Name> за <Count> нд.	Micromodule <Name> for <Count> nodes.
+Отказаться от сдачи микромодулей	Refuse to trade in micromodules
+Сдать микромодуль <Name> за <Count> нд.	Micromodule <Name> for <Count> nodes.
+Сдать микромодули в обмен на ноды	Trade in micromodules for nodes
+Отлично, наши матерые спецы закончили работу, теперь твое оборудование стало еще круче. Может, есть желание еще что-то подкрутить, пока рука легкая?	Okay, we're done here. Would you like to improve something else?
+Ну смотри. Мы бы не отказались, если ты, <Player>, подкинешь нам еще денежек за халту..., в смысле, работу.	Suit yourself. We'd like if you could pay us for another shi... we meant, work, <Player>.
+Итак, <Player>, если хочешь улучшить что-то из своего хабара у нас, обрати внимание на то, как мы это все прокручиваем.	So, if you want to improve something, <Player>, see for yourself how we will do that.
+Не хочешь - не делай, только потом не удивляйся, почему половина приборов скручена. Наши ребята же перед работой проводят усиленную подготовку систем к модернизации, в смысле, снимают все, что можно снять.	If you don't want - don't do it, just don't wonder, why half of dials are wrenched away. Our guys, on the other hand, usually run a complex diagnostic procedure - I mean, they rip off all the dials and buttons they can reach.
+Стоимость улучшения <FullName> - <Money> cr. Но у тебя пиратская скидка в <Discount>%, так что с тебя только <MoneyDiscount> cr.	The standard price for the <FullName> improvement is <Money> cr. But since you have our discount of <Discount>% the final sum is only <MoneyDiscount> cr, the rest is on the house.
+Стоимость улучшения <FullName> - <Money> cr и <Nodes> нодов.  Но у тебя пиратская скидка в <Discount>%, так что с тебя только <MoneyDiscount> cr и <NodesDiscount> нодов.	The standard price for the <FullName> improvements is <Money> cr and <Nodes> nodes. But since you have our discount of <Discount>% the final sum is only <MoneyDiscount> cr, plus <NodesDiscount> nodes.
+Сейчас составим списочек оборудования, подходящего для улучшения:	Here's the list of the items we can improve:
+Ну и что из этого списка будем улучшать?	So, which items do you want to improve?
+Извини, братан, но мы у тебя ничего подходящего для улучшений не видим.	Sorry, bro, there's nothing on your ship we can improve.
+<ItemName> за <Money> cr.	<ItemName> for <Money> cr.
+Ну и какие вещи вы можете улучшить?	So, what can you improve?
+Отказываюсь платить по таким грабительским расценкам!	This is an extortion, I'm not gonna pay!
+Ничего я выбирать не буду	I've changed my mind, forget it.
+Я согласен, валяйте	Alrighty, let's roll!
+Нет, спасибо	No, thank you.
+Да, конечно	Yes, of course!
+Я хочу улучшить оборудование	I want to improve my equipment.
+Я передумал	I changed my mind
+Назад	Back
+Военный	Military
+Линкор	Battleship
+за	for
+Ясно...	I see...
+В другой раз	Another time
+Отлично	Great
+Доминаторы	Dominators

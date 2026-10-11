@@ -1,0 +1,2 @@
+18	токены/числа/длина	Этот маленький дроид может восстанавливать <clr>10<clrEnd> единиц повр => This small droid can restore up to <clr>10<clrEnd> units of the ship's
+30	токены/числа/длина	При соблюдении определённых условий имеет<br>шанс произвести особые на => Under certain conditions, it has a chance to produce special nanoparti

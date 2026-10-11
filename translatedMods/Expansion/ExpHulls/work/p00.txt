@@ -1,0 +1,17 @@
+3	Assassin
+7	Bolide
+11	"Bolide" I
+12	"Bolide" II
+13	"Bolide" III
+14	"Bolide" IV
+15	"Meteor"
+16	"Assasin" I
+17	"Assasin" II
+18	"Assasin" III
+19	"Assasin" IV
+20	"Punisher"
+21	"Rock" I
+23	"Rock" II
+24	"Rock" III
+25	"Rock" IV
+26	"Fortress"

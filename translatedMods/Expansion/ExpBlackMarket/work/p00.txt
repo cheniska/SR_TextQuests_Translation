@@ -1,0 +1,182 @@
+1	</color><Type> hull smuggler
+2	Black goo
+3	Matter Psi-Accelerator
+4	Techdisruptor
+5	Reflector
+6	Hasker_PROx64
+7	Booster
+8	Null-generator
+9	Stun bomb
+10	EMF bomb
+13	Tech-director
+16	Technolytic Shield Generator I
+17	Technolytic Shield Generator II
+18	Technolytic Shield Generator III
+19	Evaluation Scanner I
+20	Evaluation Scanner II
+21	Evaluation Scanner III
+22	Armorite Droid I
+23	Armorite Droid II
+24	Armorite Droid III
+25	Bipolar Radar I
+26	Bipolar Radar II
+27	Bipolar Radar III
+28	Cybernetic Gripper I
+29	Cybernetic Gripper II
+30	Cybernetic Gripper III
+31	ScanBot R1
+32	ScanBot R2
+33	ScanBot R3
+34	Energenic Engine I
+35	Energenic Engine II
+36	Energenic Engine III
+37	Cell Radar I
+38	Cell Radar II
+39	Cell Radar III
+40	Duplex Scanner I
+41	Duplex Scanner II
+42	Duplex Scanner III
+43	Biogenetic Droid I
+44	Biogenetic Droid II
+45	Biogenetic Droid III
+46	Electrogenic Gripper I
+47	Electrogenic Gripper II
+48	Electrogenic Gripper III
+49	Phase Engine I
+50	Phase Engine II
+51	Phase Engine III
+52	Pneumatic Droid I
+53	Pneumatic Droid II
+54	Pneumatic Droid III
+55	Stationic Shield Generator I
+56	Stationic Shield Generator II
+57	Stationic Shield Generator III
+58	Microgenic Engine I
+59	Microgenic Engine II
+60	Microgenic Engine III
+61	Miicrogenic Radar I
+62	Microgenic Radar II
+63	Microgenic Radar III
+64	Microgenic Scanner I
+65	Microgenic Scanner II
+66	Microgenic Scanner III
+67	Microgenic Droid I
+68	Microgenic Droid II
+69	Microgenic Droid III
+70	Microgenic Gripper I
+71	Microgenic Gripper II
+72	Microgenic Gripper III
+73	Microgenic Shield Generator I
+74	Microgenic Shield Generator II
+75	Microgenic Shield Generator III
+76	Torsion Reactor (without acryn)
+78	Sensotron (without acryn)
+79	Tech Detector (without acryn)
+80	Dianode (without acryn)
+81	Menthoprobe (without acryn)
+82	Pixelyte (without acryn)
+83	Gillnozzle (without acryn)
+84	Protovesicule (without acryn)
+85	Radiosensors  (without acryn)
+86	Neuroprobe (without acryn)
+87	Bioregenerator  (without acryn)
+88	Plasmathread (without acryn)
+89	Plasmashield (without acryn)
+97	Twin Engine I
+98	Twin Engine II
+99	Twin Engine III
+100	Twin Fuel Tank I
+101	Twin Fuel Tank II
+102	Twin Fuel Tank III
+103	Technolytic Radar I
+104	Technolytic Radar II
+105	Technolytic Radar III
+106	Technolytic Scanner I
+107	Technolytic Scanner II
+108	Technolytic Scanner III
+109	Technolytic Gripper I
+110	Technolytic Gripper II
+111	Technolytic Gripper III
+115	Traitor hull
+116	Maloq hull smuggler
+117	Peleng hull smuggler
+118	People hull smuggler
+119	Fei hull smuggler
+120	Gaal hull smuggler
+121	Hull "Gkvan"
+125	Decelerator
+126	Processors "Extreme"
+127	Reinforced servo drives
+128	Field density amplifier
+129	Fragilium parts
+130	Smuggler's compartment
+131	Bomb detonator with timer
+132	Acidius
+133	Till capacitors
+134	Weakened limiters
+135	Additional stowage
+136	Hacked injector
+137	Security systems replacement
+138	Meon chips
+139	Circuit amplifier
+142	Dyshot
+143	Magnetron
+144	Extremum
+146	Involute
+147	PlasmaGun
+148	MaBoKiT-79
+149	Field annihilator
+150	Zip Gun
+151	Graviton Beam
+152	Combat Laser TB-47
+153	Combat Laser TB-42
+154	Photon Gun M4
+155	Photon Gun M3
+156	Photon Gun M2
+157	Pulse Gun R21
+158	Pulse Gun R20
+159	Retractor
+160	Vortex Projector
+161	Splash Phaser
+162	Triplshot
+164	Magnetical Separator
+165	Dual Turbolaser
+166	Pulse Blaster
+167	Energetic Discharger
+168	Revolver Torpedo Tube
+169	Splitter
+170	Indemite
+171	Missile Launcher
+172	Nargun Blade
+173	Iconoclast
+174	Antimatter Multiplier
+175	Nihilest
+176	Quinkgan
+177	Dimorphic stunner
+178	Augerbar
+179	Bolt matrix
+180	Ionic deformer
+181	Gravity Collector
+182	Torpedo
+183	Missile Launcher with Torpedo modification
+192	Black Heart
+194	Schwerzer
+196	Solo
+199	Minted coin
+200	Corellian
+201	Darknet
+202	Bitcredit
+203	Forbidden fruit
+204	Second kidney
+209	</color>big-headed
+210	</color>many-eyed
+211	</color>red-faced
+212	</color>amphibian
+213	</color>monkey
+214	</color>in the system
+216	</color>on the way to the system
+243	See the range of products
+261	Symbol of trust
+263	Black Market
+264	BM
+265	Smuggler

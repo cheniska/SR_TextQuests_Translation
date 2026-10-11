@@ -1,0 +1,38 @@
+4	 with timer
+5	Contact
+6	Contact with timer
+7	<br>Contact fuse is activated
+8	<br>Contact fuse is active
+9	<br>Contact fuse installed
+10	Discharged EMF bomb
+11	Discharged EMF mine
+12	Discharged stun bomb
+13	Discharged stun mine
+18	Select the type of fuse:
+19	bomb
+20	mine
+22	Preset timer
+30	Booster
+38	Hasker_PROx64
+51	Null-generator
+57	Reflector
+60	Stun bomb
+65	Techdisruptor
+78	Smuggler's compartment
+114	Decelerator
+120	Processors "Extreme"
+126	Security systems replacement
+131	Hacked injector
+137	Reinforced servo drives
+142	Fragilium parts
+145	Equipment reliability: <color=255,240,100>+40%</color>
+146	Acidius
+150	Till capacitors
+155	Weapon reliability: <color=255,240,100>-20%</color>
+156	Weakened limiters
+161	Additional stowage
+166	Field density amplifier
+173	Meon chips
+179	Circuit amplifier
+198	Stun
+241	Damage susceptibility: <clr>+15%<clrEnd>

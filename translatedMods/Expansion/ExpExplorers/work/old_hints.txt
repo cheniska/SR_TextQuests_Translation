@@ -1,0 +1,10 @@
+2	Ну уж нет, в эту "чёрную дыру" ты меня не затащишь! Судя по показаниям сканера, там происходит какая-то аномальная активность, а проверять степень её "аномальности" на своей обшивке у меня желания нет.	Well, no, you will not drug me into this "black hole"! According to my scanner readings, some kind of anomalous activity is taking place there, and I have no desire to check degree of "anomalousness" of this activity with my hull.
+3	Прошу меня простить, но мой корабль в критическом состоянии. Соваться в таком виде в "чёрную дыру" - форменное самоубийство!	I'm sorry, but my ship is in critical condition. It is a form of suicide to fly into "black hole" now!
+46	Замётано, босс, по части "дырок" я специалист видный, хе-хе! Буду ждать у входа.	Got it, boss, I am expert about "holes", hehe! I will be waiting you near the entrance.
+47	Не, сорян, босс, но на сканерах чё-то какая-то муть с этой "дыркой" творится. Не хочу на своей шкуре проверять, что там конкретно в ней не так.	Soz, boss, but there 's some kind of mess going on with this "hole" on scanners. I do not want to check on my own skin what exactly is wrong with it.
+50	Эх ты, а ещё напарничек называется!	Aw, come on, and you call yourself my partner after that!
+51	Браток, а подсоби-ка мне вон ту "чёрную дыру" обшмонать, а?	Hey, bro, help me to frisk this "black hole" out, ok?
+52	Чё?! Зассал? Тоже мне пират космический, блин!	What now?! Do not have balls to do this, "space pirate"?
+53	Приказываю отставить все свои дела и лететь за мной в указанную "чёрную дыру"	I order you to put aside all your previous orders and fly after me to the specified "black hole"
+54	Тьфу ты, глупая машина!	Ugh, you, stupid scrap metal!
+55	Слушаюсь, хозяин! Устанавливаю курс на указанную червоточину.<br>По прибытии на место буду ожидать вас у границы гиперперехода.	Order accepted, master! Set a course for the specified wormhole.<br>Upon arrival, I will be waiting for you at the edge of the hypertap.

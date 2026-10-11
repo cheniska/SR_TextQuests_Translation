@@ -1,0 +1,14 @@
+1	Items/Weapon/Name/PlasmaGun
+2	Items/Weapon/Text/PlasmaGun
+3	MicroModuls/ExpPlasmaGun_Armoloc/Text
+4	MicroModuls/ExpPlasmaGun_Armoloc/Text
+5	MicroModuls/ExpPlasmaGun_Diphrode/Text
+6	MicroModuls/ExpPlasmaGun_Diphrode/Text
+7	MicroModuls/ExpPlasmaGun_Involute/Name
+8	MicroModuls/ExpPlasmaGun_Involute/Text
+9	MicroModuls/ExpPlasmaGun_Involute/Text
+10	MicroModuls/ExpPlasmaGun_Involute/Text
+11	MicroModuls/ExpPlasmaGun_Involute/TextOld
+12	MicroModuls/ExpPlasmaGun_Javitor/Text
+13	MicroModuls/ExpPlasmaGun_Liphocarus/Text
+14	MicroModuls/ExpPlasmaGun_Liphocarus/Text

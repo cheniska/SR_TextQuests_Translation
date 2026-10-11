@@ -1,0 +1,49 @@
+26	раса с заглавной	</color>Тьфу! Провалиться бы тебе к клисанам, рейнджер!<br>Ну хорошо - => </color>Ugh! If only you could fall through to the Klissans, ranger!<b
+79	токены/числа/длина	<color=255,240,100>Передаёт агентство Распутин:</color><br>И у нас для => <color=255,240,100>Rasputin agency reports:</color><br>And we have two
+80	токены/числа/длина	<color=255,240,100>Передаёт агентство Распутин:</color><br>И у нас для => <color=255,240,100>Rasputin agency reports:</color><br>And we have two
+374	токены/числа/длина	 т.) (<color=0,50,200>добавить</color>) =>  tons) (<color=0,50,200>add/color>)
+556	раса с заглавной	Первыми с клисанами столкнулись гаальцы, это было за многие сотни лет  => The Gaalians were the first to encounter the Klissans, many hundreds o
+557	раса с заглавной	Таким образом гаальцы достигли соседнего рукава и основали первые коло => Thus the Gaalians reached the neighboring arm and established the firs
+558	раса с заглавной	Гаальцы, остававшиеся в нашем рукаве, избежали опасности, но пережитый => The Gaalians, who remained in our arm, escaped the danger, but the sho
+559	раса с заглавной	За минувшие века гаальцы несколько оправились, вновь начали исследоват => Over the past centuries, the Gaalians have recovered somewhat, begun t
+560	раса с заглавной	Но потом антитеррористическим силам пяти цивилизаций удалось заманить  => But then the anti-terrorist forces of the five civilizations managed t
+561	раса с заглавной	Вторая война протекала не многим лучше, чем первая - пять цивилизаций  => The second war didn't fare much better than the first-the five civiliz
+563	раса с заглавной	<clr>Фэй<clrEnd> - раса гуманоидов-гермафродитов, заселившая район вет => <clr>Faey<clrEnd> are a race of hermaphrodite humanoids that inhabit t
+564	раса с заглавной	<clr>Внутренние конфликты в фэянской истории:<clrEnd> Интересен и засл => <clr>Internal Conflicts in Faeyan History<clrEnd>: Interesting and not
+565	раса с заглавной	<clr>Межрасовые отношения:<clrEnd> Первой расой, которую фэяне встрети => <clr>Interracial Relations<clrEnd>: The first race Faeyans encountered
+566	раса с заглавной	<clr>Галактическая политика:<clrEnd> Политически цивилизация Фэй объед => <clr>Galactic Politics<clrEnd>: Politically, the Faey civilization is 
+568	раса с заглавной	<clr>Биологические особенности вида:<clrEnd> Фэяне относятся к гуманои => <clr>Biological characteristics of the species<clrEnd>: Faeyans belong
+569	раса с заглавной	<clr>Зарождение цивилизации:<clrEnd> Колыбель фэянской расы - планета  => <clr>Origin of civilization<clrEnd>: The cradle of the Faey race is th
+570	раса с заглавной	<clr>Нематериальная культура:<clrEnd> Говоря о фэянской нематериальной => <clr>Intangible Culture<clrEnd>: Speaking of Faeyan intangible culture
+571	раса с заглавной	<clr>Государственность и гуманитарные ценности:<clrEnd> Традиционная ф => <clr>Statehood and Humanoidal Values<clrEnd>: Traditional Feyan histor
+572	раса с заглавной	<clr>Свободный путь:<clrEnd> Первоначальная фаза развития, фэянский ан => <clr>The free way<clrEnd>: The Initial Phase of Development, the Faeya
+573	раса с заглавной	<clr>Путь авторитетов:<clrEnd> Этот путь является фэянским вариантом р => <clr>The path of the authorities<clrEnd>: This path is a Faeyan versio
+575	раса с заглавной	<clr>Традиционная инфраструктура:<clrEnd> Экономически фэянские госуда => <clr>Traditional Infrastructure<clrEnd>: Economically the Faeyan state
+577	раса с заглавной	<clr>Гаал<clrEnd> - раса хвостатых гуманоидных апроидов, обитающих в о => <clr>Gaal<clrEnd> are a race of tailed humanoid aproids inhabiting the
+578	раса с заглавной	<clr>Биологические особенности вида:<clrEnd> Гаальцы - последние из гу => <clr>Biological characteristics of the species<clrEnd>: The Gaals are 
+579	токены/числа/длина	<clr>Истоки и потеря родного мира:<clrEnd> Если верить существующим хр => <clr>Origins and Loss of Homeworld<clrEnd>: If the existing chronicles
+580	раса с заглавной	<clr>Ранняя колониальная история:<clrEnd> На начальном этапе гаальцы о => <clr>Early Colonial History<clrEnd>: The Gaalians initially possessed 
+581	раса с заглавной	<clr>Вторжение клингов:<clrEnd> Период временного благоденствия продол => <clr>Invasion of the Klingons<clrEnd>: The period of temporary prosper
+582	раса с заглавной	<clr>Отношения с народами Содружества:<clrEnd> Проходило время, и Гала => <clr>Relationship with Races of the Coalition<clrEnd>: As time passed,
+583	раса с заглавной	<clr>Экономическая специфика:<clrEnd> Отдельная проблема цивилизации - => <clr>Economic Specificity<clrEnd>: A separate problem of civilization 
+585	раса с заглавной	<clr>Малок<clrEnd> - народ гуманоидов, занявший обширные территории Га => <clr>Maloq<clrEnd> are a humanoid race that has occupied vast swathes 
+586	раса с заглавной	<clr>Биологические особенности вида:<clrEnd> Малоки входят в класс кис => <clr>Biological characteristics of the species<clrEnd>: The Maloq are 
+587	раса с заглавной	<clr>Зарождение цивилизации и роль климата:<clrEnd> Цивилизация малоко => <clr>The birth of civilization and the role of climate<clrEnd>: The Ma
+590	раса с заглавной	<clr>Межрасовые отношения:<clrEnd> Космическая эра, ввиду объективных  => <clr>Interracial relations<clrEnd>: The Space Age, for objective reaso
+591	раса с заглавной	<clr>Политическая и культурная среда:<clrEnd> На современном этапе раз => <clr>Political and cultural environment<clrEnd>: At its current stage 
+592	раса с заглавной	<clr>Специфика малокской экономики:<clrEnd> Из традиционных соображени => <clr>Specifics of the Maloq economy<clrEnd>: For traditional reasons, 
+594	раса с заглавной	<clr>Пеленг<clrEnd> - раса амфибий, заселившая нижние области Пояса Гу => <clr>Pelengs<clrEnd> are a race of amphibians that inhabit the lower r
+595	раса с заглавной	<clr>Биологические особенности вида:<clrEnd> Раса пеленгов относится к => <clr>Biological characteristics of the species<clrEnd>: The Peleng rac
+596	раса с заглавной	<clr>Зарождение цивилизации:<clrEnd> Океаническая цивилизация пеленгов => <clr>The origin of the civilization<clrEnd>: The Peleng Oceanic Civili
+597	раса с заглавной	<clr>Феномен лепрасов и его роль в становлении пеленгской цивилизации: => <clr>The Leprasian phenomenon and its role in the formation of the Pel
+598	токены/числа/длина	<clr>Специфика пеленгской государственности:<clrEnd> Со временем пелен => <clr>Specifics of Peleng statehood<clrEnd>: Over time, the Pelengs dev
+599	раса с заглавной	<clr>Межрасовые отношения:<clrEnd> Отношение пеленгов к другим разумны => <clr>Interracial relations<clrEnd>: The attitude of the Pelengs to oth
+600	раса с заглавной	<clr>Административные и экономические условия:<clrEnd> Пеленгские план => <clr>Administrative and economic conditions<clrEnd>: The Peleng planet
+601	раса с заглавной	<clr>Внешняя политика:<clrEnd> Попытки Пеленга преодолеть технологичес => <clr>Foreign Policy<clrEnd>: Peleng's attempt to bridge the technologi
+604	раса с заглавной	<clr>Экспорт человеческой культуры:<clrEnd> Человечество дало современ => <clr>Export of Human Culture:<clrEnd> Humanity has given modern galact
+610	раса с заглавной	<clr>Начало политики расового мира:<clrEnd> Со временем человеческая д => <clr>Racial Peace Policy Begins:<clrEnd> Over time, human diplomacy an
+676	раса с заглавной	Традиционный музыкальный инструмент западноафриканских народов планеты => Traditional musical instrument of the West African peoples of planet E
+680	раса с заглавной	Старинный духовой инструмент, особенно почитаемый среди гаальцев. Посл => An ancient wind instrument, especially revered among the Gaalians. Aft
+682	токены/числа/длина	Роскошный старинный инструмент, а по совместительству ещё и украшение  => Luxurious antique instrument, and also a decoration of any living room
+684	токены/числа/длина	Вопреки укоренившемуся за этим ударно-шумовым инструментом земному наз => Contrary to the human name <color=255,240,100>"maraca"</color> rooted 
+689	токены/числа/длина	За длительное время пребывания в открытом космосе динамики устройства  => Over a long period of time spent in outer space, the dynamics of the d

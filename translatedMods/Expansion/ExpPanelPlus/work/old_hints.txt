@@ -1,0 +1,6 @@
+4	Вы собираетесь активировать<br><0> трансфакторных <1> в системе <2>. Суммарная сила заряда составит <3> ед. Желаете продолжить?	You are about to activate <br><0> transfactorial <1> in system <2>. The total charge strength will be <3> units. Would you like to continue?
+5	Вы собираетесь активировать трансфакторный маяк в системе <0>. Энергия заряда составляет <1> ед. Желаете продолжить?	You are about to activate a transfactorial beacon on system <0>. The charge energy is <1> units. Would you like to continue?
+6	Сообщение о наличии неизученного материала в системе <0> отправлено. Исследователи прибудут через <color=0,50,200>10</color> дней.	Notification sent about the presence of unidentified material in the <0> system. A research team will arrive in <color=0,50,200>10</color> days.
+9	Сколько маяков вы хотите активировать?	How many beacons do you want to activate?
+10	.. Бегите, глупцы.	.. Fly, you fools!
+11	.. Да поможет вам бог.	.. God be with you.

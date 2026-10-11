@@ -1,0 +1,17 @@
+43	I don't need a deposit account
+65	Not interested
+66	Renew trade license
+73	Purchase a trading license
+78	<color=0,50,200>frozen</color>
+84	Sorry, but I don't seem to have enough credits
+93	<color=0,50,200>Disable</color> trading news output
+96	<color=0,50,200>Enable</color> trading news output
+99	<color=255,240,100>Latest economic news:</color>
+100	Terminal for remote purchases
+101	My deposit account
+102	My loan debt
+234	Confirm
+251	Choose another sector
+254	Cost:
+281	Trading license
+293	Opening date: <Date>

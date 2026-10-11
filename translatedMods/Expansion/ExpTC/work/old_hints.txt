@@ -1,0 +1,21 @@
+17	Крошечный корпус-шлюпка, созданный для экстренного катапультирования. Благодаря минимальной комплектации и небольшим размерам способен развивать внушительную скорость, однако и прочность его крайне невелика.	A tiny lifeboat hull designed for emergency ejection. Due to the minimum configuration and small size, it is able to develop impressive speed, however, its toughness is extremely low.
+25	<color=255,167,84>Корпус оборудован <color=255,240,100>спасательной шлюпкой</color>.</color>	<color=255,167,84>Hull equipped with <color=255,240,100>lifeboat</color>.</color>
+51	Им. Ю. Гагарина	Y. Gagarin
+52	Им. Г. Титова	G. Titov
+53	Им. С. Королёва	S. Korolev
+54	Им. А. Шепарда	A. Shepard
+55	Им. Д. Гленна	D. Glenn
+70	Возможно, а что вы можете предложить?	Possibly, what can you suggest?
+78	Спасибо...	Thanks...
+81	</color>Отлично, работа уже сделана, а ваши деньги уже на нашем счету. Вот так мы быстро работаем!	</color>Great, the work is already done, and your money is already in our account. That's how fast we work!
+82	</color>В предмете доноре не нашлось нужных деталей.	</color>The donor item did not contain the necessary parts.
+89	Мы можем откатить <0> к стандартным заводским показателям за <1> cr.<br><2><br>Однако если у вас найдется "предмет-донор", снижение износостойкости не превысит 5%, правда лишь в том случае, если в нём найдутся нужные детали.	We can roll back  <0> to factory default values for <1> cr.<br><2><br>However, if you have a "donor item", the decrease in wear resistance will not exceed 5%, but only if the necessary parts are found in it.
+91	Сложно выполнять такую работу в сжатые сроки, но наши техники должны успеть вовремя. Не желаете ли заказать что-то ещё?	It is difficult to complete such work in a short amount of time, but our technicians will be on time. Would you like to order something else?
+93	Понятно. Мы можем использовать сбалансированное напыление или специализированное под определенный тип урона. Какую обработку вы хотите заказать?<br>Ещё, за отдельную плату мы можем нанести винилы. Нет? Может быть, хотите установить хромированные закрылки или неоновую подсветку под днище? Любой каприз за ваши деньги!	Clear. We can use balanced spraying or specialized for a certain type of damage. Which treatment do you want to order?<br>Also, for a fee, we can apply vinyls. Not? Maybe you want to install chrome flaps or neon lights under the bottom? Every whim for your money!
+97	На вашем корабле уже установлена спасательная капсула. Установка второй невозможна из-за технических особенностей капсулы. Да и зачем вам две, в конце концов?	Your ship has an escape pod already installed. Installation of the second one is impossible due to the technical features of the capsule. And why do you need two, after all?
+104	Мы ведём учёт каждого установленного улучшения. Техосмотр, какого оборудования вы бы хотели провести?	We keep a record of each installed improvement. Inspection of what equipment would you like to carry out?
+111	<clrEnd>Износостойкость оборудования <clr>снизится<clrEnd> на <0>%	<clrEnd>Wear resistance of equipment <clr>decreases<clrEnd> by <0>%.
+112	Так так... Дополнительные детали обойдутся вам в <0> cr.<br>Какой параметр улучшить?	So so... Additional parts will cost you <0> cr.<br>Which parameter to improve?
+117	До какого технологического типа будем прошивать?	To what technological type will we flash?
+142	т.	t.
+158	Инфошка для покинутого корабля (без зануления урона будет крашить)	Info for abandoned ship (crashes without zeroing it)

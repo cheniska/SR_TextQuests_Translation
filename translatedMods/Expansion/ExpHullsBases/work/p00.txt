@@ -1,0 +1,84 @@
+25	possible
+28	Polyxenate
+29	GSOM-1
+30	Days before scheduled repairs: <0>
+59	I agree, here's the money
+60	I am discontinuing my sponsorship of this station
+61	Stop moving
+62	Set a new course
+64	Roger that
+68	Not interested
+69	energy
+79	I need a detailed report on the status of the station
+80	I wish to improve the hull of your station
+87	Take a course for the planet <0>
+88	Change the order
+89	Understood, end of connection
+90	Abort, over and out
+97	I want to change the location of your base
+98	day
+99	days
+100	restart~Abort, keep moving
+101	restart~Abort, over and out
+102	restart~Cancel the change of location
+104	restart~Roger that, over and out
+106	Cancel the change of location
+107	Make the jump to another system
+111	Contact <color=0,50,200>military base</color> <0>
+113	restart~Copy that
+114	Flight within the system
+115	Abort, keep going
+118	Jump into the <0> system
+120	I confirm the change of course
+122	Choose a different system
+125	Manage base movement
+129	Set a course for <color=0,50,200>my ship's current location</color>
+140	Maximum jump range:
+146	Ready to jump to:
+154	to the artifact compartment
+155	into the gun compartment
+158	Contact <color=0,50,200>business center</color> <0>
+159	Contact <color=0,50,200>medical center</color> <0>
+160	Contact <color=0,50,200>ranger center</color> <0>
+161	Contact <color=0,50,200>research center</color> <0>
+168	You know what, I've changed my mind about making that jump
+169	I'm ready, open the portal
+170	No, cancel the jump, I changed my mind
+171	Terminate the sponsorship (down payment will be lost)
+172	Send me into the <color=0,50,200><0></color> system
+173	another <color=0,50,200>technology center</color>
+174	another <color=0,50,200>business center</color>
+175	another <color=0,50,200>ranger center</color>
+176	another <color=0,50,200>research station</color>
+178	one <color=0,50,200>medical center</color>
+180	Cancel the distant jump, I've changed my mind
+183	I confirm the jump, go ahead
+184	Cancel the move, deflate the bubble
+185	technology center <0>
+186	business center <0>
+187	medical center <0>
+188	ranger center <0>
+189	research station <0>
+191	Go to the current coordinates of the planet
+194	I've changed my mind, you don't need to change location now
+195	ready
+196	ready
+197	planets <0>
+198	of your ship
+201	technology center <0>
+202	business center <0>
+203	medical center <0>
+204	ranger center <0>
+205	research station <0>
+207	Perhaps you don't need a behavioral change just yet
+212	I guess not, I've changed my mind
+216	Technology Center <0>
+217	Business Center <0>
+218	Medical Center <0>
+219	Ranger Center <0>
+220	Research Station <0>
+222	Go to the system <0>
+223	Go to the system
+228	Sorry
+236	No, that's all for now, thank you.
+318	Infobox for the WB movement

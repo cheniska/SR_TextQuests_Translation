@@ -1,0 +1,83 @@
+1	Acryn:
+2	Not important
+3	Acryn level:
+4	Without acryn
+5	Make a request
+6	AUTO SEARCH SETTINGS
+7	Delete Request
+9	Not important
+10	Modification level:
+11	Without modification
+12	Cost:
+13	Damage susceptibility E/S/M:
+14	Capacity: <val>
+16	Unexcelled
+17	Reliability: <val>
+18	Durability:  E:#1#%  S:#2#%  M:#3#%
+19	Power:
+20	Effectiveness:
+21	Shield strength:
+22	Armor:
+23	Capacity:
+24	droid
+25	engine
+26	fuel tank
+27	gripper
+28	hull
+29	radar
+30	scanner
+31	shield generator
+32	Edit an existing request
+34	Choose acryn:
+35	Choose modification:
+36	Select the desired weapon:
+37	Make a new request
+41	droid
+42	engine
+46	gripper
+48	hull
+49	My search requests
+57	radar
+62	scanner
+64	Shop:
+66	weaponry
+67	Fast Hull I-IV
+68	Invincible Hull I-IV
+69	Repair Hull I-IV
+70	Myoplasmic Hull I-IV
+71	Pygamore Hull I-IV
+72	Myoplasmic Fuel Tank I-III
+73	Myoplasmic Engine I-III
+74	Myoplasmic Radar I-III
+75	Myoplasmic Scanner I-III
+76	Myoplasmic Droid I-III
+77	Myoplasmic Gripper I-III
+78	Myoplasmic Shield Generator I-III
+79	Pygamore Fuel Tank I-III
+80	Pygamore Engine I-III
+81	Pygamore Radar I-III
+82	Pygamore Scanner I-III
+83	Pygamore Droid I-III
+84	Pygamore Gripper I-III
+85	Pygamore Shield Generator I-III
+86	Transcendental Engine I-III
+87	Upgraded Gripper I-III
+88	Upgraded Shield Generator I-III
+89	Upgraded Engine I-III
+90	Upgraded Fuel Tank I-III
+91	Upgraded Radar I-III
+92	Upgraded Scanner I-III
+93	Biogenic Droid I-III
+94	Nanobrolite Droid I-III
+95	Nanobrolite Engine I-III
+96	Nanobrolite Shield Generator I-III
+97	Ultraalloy Scanner I-III
+98	Ultraalloy Radar I-III
+99	Ultraalloy Fuel Tank I-III
+100	Ultraalloy Gripper I-III
+101	Kindhearted Lyakusha I-IV
+102	Peaceful Corsair I-IV
+103	Conscientious Renegal I-IV
+104	Dandy I-IV
+105	Ironclad I-IV
+106	Dumbo I-IV

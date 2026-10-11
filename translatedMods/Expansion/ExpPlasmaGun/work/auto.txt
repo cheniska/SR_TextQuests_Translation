@@ -1,0 +1,8 @@
+"Армолок"	Armoloc
+Шанс блокировки <clr>вооружения<clrEnd> обратно пропорционален размеру корпуса цели	The chance to block <clr>weapons<clrEnd> is inversely proportional to the target's hull size
+Мощность сканера: <bonScan> ед.	Scanner power: <bonScan>.
+"Дифрод"	Diphrode
+Урон энергетического оружия: <clr>+15<clrEnd> ед.	Energy weapon damage: <clr>+15<clrEnd> units
+"Джавитор"	Javitor
+Шанс блокировки <clr>дроида<clrEnd> обратно пропорционален размеру корпуса цели	The chance to block a <clr>droid<clrEnd> is inversely proportional to the target's hull size
+"Лифокар"	Liphocarus

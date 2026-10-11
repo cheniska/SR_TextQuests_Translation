@@ -1,0 +1,6 @@
+8	токены/числа/длина	Мы можем отправить станцию к текущей позиции одной из <clr>местных пла => We can send the station to the current position of one of the <clr>loc
+82	токены/числа/длина	Новая обшивка уже доставлена на базу и прямо сейчас фиксируется на нес => Thank you for your cooperation, <Player>, the staff will now have <clr
+127	токены/числа/длина	Также напоминаю, что прямо сейчас наша база совершает передислокацию в => I also remind you that right now our base is relocating within the <0>
+144	токены/числа/длина	Да, собственно, в самом вашем вопросе уже и так частично содержится от => Yes, in fact, your question itself already partially contains the answ
+147	токены/числа/длина	На эту станцию было установлено <color=255,240,100>дополнительное энер => This station was fitted with an <color=255,240,100>additional power co
+148	токены/числа/длина	На эту станцию было установлено <0> <color=255,240,100>дополнительных  => This station has <0> <color=255,240,100>additional power cores</color>

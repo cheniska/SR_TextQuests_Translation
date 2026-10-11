@@ -1,0 +1,2 @@
+11	Уменьшить число отображаемых возле портрета пилота наград.	Decrease number of trophies shown near pilot's portrait.
+12	Увеличить число отображаемых возле портрета пилота наград.	Increase number of trophies shown near pilot's portrait.

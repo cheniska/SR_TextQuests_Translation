@@ -1,0 +1,4 @@
+1	Script/Mod_ExpProgramsNPC/ProgramsDistributionChances/ReadMe
+2	ShipInfo/AddInfo/CustomInfos/ProgramAbsoluteWeaponNPC/Description
+3	ShipInfo/AddInfo/CustomInfos/ProgramIntercomNPC/ReadMe
+4	ShipInfo/AddInfo/CustomInfos/ShipWithProgramsInfo/Description

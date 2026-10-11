@@ -1,0 +1,2 @@
+2	токены/числа/длина	Здравствуй, <Player>! Искренне рад встретить тебя на этих бескрайних к => Hello, <Player>, glad to see you amongst this boundless space emptines
+14	апострофы	Чего, <Player>, развёл на груз какого-то лошка? А ты, я погляжу, совсе => What, <Player>, bitten off from some pity jerk? Well, I see you're one

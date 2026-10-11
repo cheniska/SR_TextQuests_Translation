@@ -1,0 +1,34 @@
+Антигравитатор	Antigravitazer
+Поляризатор	Polarizer
+Испускает электроны, усиливающие защитное поле корабля на <clr>5<clrEnd> процентов. С небольшой вероятностью отражает нанесенный урон обратно в противника.	Emits electrons that increase the efficiency of the ship's shield generator by <clr>5<clrEnd> percent. There is also a chance that it may deflect an incoming strike back at the enemy.
+Протон	Proton
+Интегрируется в энергетический блок защитного поля. Использует <clr>10%<clrEnd> его мощности для активации дополнительной орудийной турели.	Integrated into the shield generator's power unit. It uses up to <clr>10%<clrEnd> of its power to activate an additional weapon turret.
+Армс - стационарный комплект для быстрой переоснастки слота генератора защитного поля. Включает в себя универсальные коннекторы для пары орудийных турелей.	The ARMS is a stationary set for prompt retrofitting of the shield generator slot. It includes universal connectors for a pair of weapon turrets.
+Армс	ARMS
+Позволяет разместить в отсеке, предназначенном для генератора защитного поля, <clr>две<clrEnd> орудийных турели.	It allows for installing <clr>two<clrEnd> weapon turrets in the compartment designed for the shield generator.
+(испорчен)	(damaged)
+Младший дроид долго работал в невыносимых условиях и сломался. Требуется ремонт.	The junior droid has been operating in adverse conditions for far too long and broke down. Repairs are needed.
+Дроид младший	Junior Droid
+Проглот	Swallower
+В <clr>30%<clrEnd> случаев поглощает тепловую составляющую луча энергетического оружия, превращая импульсы попаданий в безопасные электрические всплески.	In <clr>30%<clrEnd> of all cases it absorbs the heat component of energy weapons' beams, converting the hit impulses into safe electrical surges.
+Ралс	Rals
+Обеспечивает <clr>15%<clrEnd> шанс двойного залпа из ракетного оружия.	Gives a <clr>15%<clrEnd> chance of perfoming double salvo from rocket weaponry.
+Обливионный коннектор	Oblivion Connector
+Вырабатывает топливо, постепенно наполняя топливный бак.	It generates fuel gradually filling the fuel tank.
+Гипергенератор	Hypergenerator
+(не функционирует)	(non-functional)
+В бою с эриметра был сбит поляризующий наконечник. Устройство вышло из строя и мешает функционированию захвата.	The polarizing head was knocked off the erimeter during battle. The device is out of order and prevents the gripper from operating properly.
+Эриметр	Erimeter
+Железные жупи	Iron Zoopie
+Колония железных жупи, во главе с маткой, увеличивает защиту корпуса на <clr>5<clrEnd> единиц.	An iron zoopie colony lead by the queen may increase hull defense by <clr>5<clrEnd>.
+При попадании локализатор отводит энергию выстрела на внешнюю поверхность вражеского корабля, чтобы при возможном взрыве пострадало как можно меньше оборудования.	The localizer channels the energy of a shot to the enemy ship's outer surface so as to minimize the explosive effects on any equipment.
+Локализатор взрывной волны	Blast Wave Localizer
+Ракетанг	Rocketang
+Нанитоиды	Nanitoids
+Хорошая новость - нанитоиды подлатали <Name>!	Good news, the nanitoids have patched up <Name>!
+а'Эгис	a'Egis
+Стреляет по выпущенным противниками ракетам и торпедам. Может уничтожить до пяти целей за ход, в зависимости от кучности и интенсивности стрельбы. Радиус действия артефакта составляет <clr>150<clrEnd> ед.	Shoots down missiles and torpedoes fired by the enemy. Can destroy up to five targets per turn, depending on the density and intensity of fire. The artifact's effective radius is <clr>150<clrEnd>.
+Сопланатор	Nozzlenator
+На <clr>100<clrEnd> единиц увеличивает скорость двигателя за счет установки дополнительных сопел на базе одного <clr>орудийного<clrEnd> отсека.	Increases the engine speed by <clr>100<clrEnd> points through installation of additional nozzles in lieu of one <clr>weapon<clrEnd> compartment.
+(сломан)	(broken)
+Внимание! Ракетанг неудачно определил вероятность попадания, и вражеский выстрел разделил общую массу наномеханизмов на две части. Для соединения требуется помощь специалиста.	Warning! The rocketang has incorrectly calculated the hit probability and an enemy shot split the overall number of the nanomechanisms in two. Professional help is needed to put them back together again.

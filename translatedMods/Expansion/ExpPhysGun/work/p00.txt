@@ -1,0 +1,44 @@
+1	Asteroid released from a PhysGun
+3	Medium item released from a PhysGun
+5	Large item released from a PhysGun
+6	Discharged EMP bomb released from a PhysGun
+7	It won't explode, but it may hurt your forehead.
+8	Discharged stun bomb released from a PhysGun
+9	EMP bomb released from a PhysGun
+10	It's gonna explode on impact!
+11	Rescue capsule released from a PhysGun
+13	Fuel tank released from a PhysGun
+14	Tank with explosive substance.
+15	Maloq stool released from a PhysGun
+16	Firm and proud!
+17	Quark bomb released from a PhysGun
+18	It's gonna explode on impact!
+19	Small item released from a PhysGun
+20	Stun bomb released from a PhysGun
+21	It's gonna explode on impact!
+22	Tank of urine released from a PhysGun
+24	Custom PhysGun weapon
+27	Loaded with: <color=255,240,100>nothing</color>
+28	Loaded with: <color=255,240,100>asteroid</color>
+29	Loaded with: <color=255,240,100>avarage item</color>
+30	Loaded with: <color=255,240,100>big item</color>
+31	Loaded with: <color=255,240,100>discharged EMP bomb</color>
+33	Loaded with: <color=255,240,100>EMP bomb</color>
+34	Loaded with: <color=255,240,100>escape pod</color>
+35	Loaded with: <color=255,240,100>fuel tank</color>
+38	Loaded with: <color=255,240,100>maloq stool</color>
+40	Loaded with: <color=255,240,100>quark bomb</color>
+41	Loaded with: <color=255,240,100>small item</color>
+42	Loaded with: <color=255,240,100>stun bomb</color>
+43	Loaded with: <color=255,240,100>urine tank</color>
+57	I'm glad you liked it too :-)
+73	Roger, over and out.
+79	I can't help you with that
+87	No, I was just leaving.
+89	Proceed to the banquet
+90	A new name for the planet:
+109	Broken PhysGun
+110	PhysGun
+111	PhysGun prototype
+142	Asteroid
+143	Broken PhysGun

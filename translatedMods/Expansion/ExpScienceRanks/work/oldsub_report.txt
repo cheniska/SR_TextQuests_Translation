@@ -1,0 +1,4 @@
+3	токены/числа/длина	Корпус "Скала" => Rock
+93	раса с заглавной	Видите ли, мы сейчас занимаемся исследованием чёрных дыр и... Да-да, я => You see, we are now engaged in the study of black holes and... Yes, ye
+109	токены/числа/длина	Хорошо, но учтите, что это не услуга, а именно эксперимент. Так что ни => Okay, but keep in mind that this is not a service, but an experiment. 
+110	токены/числа/длина	Эксперимент оказался удачным, и вы получаете <0>.<br>К тому же мы кое- => The experiment was successful, and you get <0>.<br>We also learned som

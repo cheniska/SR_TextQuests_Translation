@@ -1,0 +1,24 @@
+Размер: <clr>+100%<clrEnd>	Size: <clr>+100%<clrEnd>
+Дальность радара: <bonRadar> млн. км.	Radar range: <bonRadar> million km.
+Мощность сканера: <bonScan> ед.	Scanner power: <bonScan>.
+Размер: <clr>+25%<clrEnd>	Size: <clr>+25%<clrEnd>
+Согласен	Agree
+Понятно	I see
+Отлично	Great
+Отлично, работа уже сделана, а ваши деньги уже на нашем счету. Вот так мы быстро работаем! Возможно, вы хотите что-то еще улучшить?	Excellent, the work is completed and your account has already been debited. We don't waste any time! Is there anything else you wish to upgrade?
+(трюм)	(hold)
+за <0> cr.	for <0> cr.
+за	for
+типа <color=0,50,200><0></color>	like <color=0,50,200><0></color>
+Дальность стрельбы	Firing range
+Урон	Damage
+Дальность захвата	Gripper range
+Мощность захвата	Gripper power
+Дальность прыжка	Jump range
+Скорость	Speed
+А давайте!	Let's do it!
+Ура!	Hurray!
+Благодарю	Thank you
+Я хочу улучшить оборудование	I want to improve my equipment.
+Вес:	Weight:
+Вернуться к выбору услуг	Back to the choice of services

@@ -1,0 +1,6 @@
+45	раса с заглавной	Не могу не согласиться с вашим решением. Биомодули, без сомнения, поле => I couldn't agree more with your decision. Biomodules are undoubtedly u
+88	раса с заглавной	Путь воина - по сути представляет собой свод правил поведения, которые => The Warrior's Path is essentially a set of rules of behavior that the 
+92	токены/числа/длина	Этот глазной имплантат оснащён микроскопом с увеличением до 3000 крат  => This eye implant is equipped with a microscope with up to 3,000x magni
+102	токены/числа/длина	Подключаемый к мозгу, данный нейроимплант значительно расширяет его вы => When connected to the brain, this neural implant significantly expands
+209	токены/числа/длина	Окулярная система автоматического наведения <clr>Артемида<clrEnd> анал => The <clr>Artemis</clrEnd> ocular automatic guidance system analyzes th
+255	токены/числа/длина	Самый мощный из существующих корректировочно-баллистических имплантов. => The most powerful corrective ballistic implant in existence. The lates

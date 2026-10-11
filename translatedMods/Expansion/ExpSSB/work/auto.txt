@@ -1,0 +1,9 @@
+(требует ремонта)	(repairs required)
+Далее	Next
+Да	Yes
+Я передумал	I changed my mind
+Конец связи	Over and out.
+Нет	No
+Спасибо	Thanks
+Понятно	I see
+Зонд	Probe

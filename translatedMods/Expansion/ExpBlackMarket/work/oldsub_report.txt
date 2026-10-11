@@ -1,0 +1,5 @@
+15	токены/числа/длина	Параметры CustomFactionChance и CustomFaction опциональны и могут быть => The CustomFactionChance and CustomFaction parameters are optional and 
+222	раса с заглавной	Спокойно, спокойно. Только давай без резких движений... [Резко выхвати => Calm down, calm down. Just let's not make sudden movements... [Sharply
+238	раса с заглавной	Пока вы занимались своими важными делами на планете #0#, пеленг #1# не => While you were doing your important business on planet #0#, Peleng #1#
+239	раса с заглавной	Пока вы занимались своими важными делами на борту станции #0#, пеленг  => While you were doing your important business aboard the station #0#, P
+241	раса с заглавной	Вы резко дернули руку к кобуре, но пеленг оказался готов к такому раск => You sharply pulled your hand to the holster, but the Peleng was ready 

@@ -1,0 +1,9 @@
+Я согласен заплатить	I'm willing to pay
+Мне нужно починить корабль	I need to repair my ship
+По рукам!	Alrighty!
+Сейчас посмотрим...	Let's see here...
+Спасибо, но это для меня неприемлемо	Thanks, but I can't afford it
+Мне нужно починить оборудование	I need to get fixed up
+В настоящий момент на счету организации числится <CurrentBalance> cr.	At the moment the organization's account holds <CurrentBalance> cr.
+Смотрите, вот наша калькуляция:	Here's our estimate:
+Ваш корабль, <Player>, в отличном состоянии и не требует ремонта.	<Player>, your ship is in tip-top condition.

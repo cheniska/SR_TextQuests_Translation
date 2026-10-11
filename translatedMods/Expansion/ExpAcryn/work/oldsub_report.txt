@@ -1,0 +1,14 @@
+71	раса с заглавной	Ха! Отдать сверхсекретные разработки в руки какого-то рейнджера? Хмм.. => Ha! Put top-secret developments in the hands of some ranger? Hmm... We
+114	раса с заглавной	Ну конечно спрошу! А у пеленгов особенно => Of course I will ask! And Pelengs especially
+115	раса с заглавной	Кстати, настоятельно рекомендую поспрашивать насчёт схожих заданий у ф => By the way, I highly recommend you ask flagships of <clr>other races<c
+128	раса с заглавной	Отличная работа, рейнджер! Но где же выданный тебе <clr>перенастроенны => Great job, ranger! But where is the <clr>reconfigured localizer<clrEnd
+143	раса с заглавной	Великолепно! Имея на руках образцы доминаторских источников энергии, н => Wonderful job! With samples of Dominator power sources, our scientists
+192	раса с заглавной	Великолепно! С этой информацией мы наконец сможем воссоздать новейшие  => Magnificent work! With this information, we will finally be able to re
+200	раса с заглавной	Изумительно! Ты не только выполнил, но и перевыполнил весь наш расчётн => Amazing! You not only fulfilled, but exceeded our entire plan! The dat
+214	токены/числа/длина	st8asxtg2k23j42k<br>ПриSTOP!аю к выPpпо0Lнению прикAzAZzzzа...<br>hNsd => st8asxtg2k23j42k<br>StArrrrt t0 EXEcutttt 0rderzzz...<br>hNsdljl4k,saA
+220	токены/числа/длина	n42kuHDn2 iU3hkw bsDGwd<br>Ожи004Адаю вvода кF010оординат... => n42kuHDn2 iU3hkw bsDGwd<br>Wa1t1ng f0 inpu040Fuuut Oo0f cF0100ordinate
+221	токены/числа/длина	101kb10kb1ssd_ojl1n0nl0ns<br>Идент1иFикаzия: <clr>Обffъект <Player><cl => 101kb10kb1ssd_ojl1n0nl0ns<br>Ident1iFikazzion: <clr>Obffjekt <Player><
+222	токены/числа/длина	011ks38kB1sTd_ojl12rnl6mu<br>IдентZq1ифиQация: <clr>Обflъект <Player>< => 011ks38kB1sTd_ojl12rnl6mu<br>IdentZq1ifiQtion: <clr>Obfljekt <Player><
+224	токены/числа/длина	Ошiбkа!1! Оwиbк4!11<br>Не найiiiDен0 нi одGghRjной сиsTbxемы, подхо0oд => ErRr! ERr010or!<br>No SyStEEms found Zuit4ble fOOr th04Ae jumP!
+246	раса с заглавной	и пускай он поможет во второй части миссии, уготованной тебе звёздами. => and let him help in the second part of the mission prepared for you by
+354	токены/числа/длина	Сохраняет оборудование неизвестной <color=255,240,100>доминаторской</c => Keeps the equipment of unknown <color=255,240,100>dominator</color> mo

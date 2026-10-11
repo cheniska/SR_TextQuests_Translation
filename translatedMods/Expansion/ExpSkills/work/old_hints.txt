@@ -1,0 +1,7 @@
+20	Получая энергетические повреждения, вы стараетесь подставить более защищённые и наименее важные части корабля, уменьшая урон, полученный от энергетического оружия, на VAR%.	When you take energy damage, you try to expose the more protected and less important parts of the ship, reducing the damage taken from energy weapons by VAR%.
+21	Получая повреждения от ракет и торпед, вы стараетесь подставить более защищённые и наименее важные части корабля, уменьшая урон, полученный от ракетного оружия, на VAR%.	When you take damage from rockets and torpedoes, you try to expose the more protected and less important parts of the ship, reducing the damage taken from rocket weapons by VAR%.
+22	Получая осколочные повреждения, вы стараетесь подставить более защищённые и наименее важные части корабля, уменьшая урон, полученный от осколочных орудий, на VAR%.	When you take splinter damage, you try to expose the more protected and less important parts of the ship, reducing the damage taken from splinter weapons by VAR%.
+23	Научившись быстро анализировать обстановку во время боя и угадывать траекторию выстрела, вы, с вероятностью VAR%, уклонитесь от вражеского попадания и не получите повреждений.	By learning to quickly analyze the situation during the battle and guess the trajectory of the shot, you have a VAR% chance to dodge an enemy hit and take no damage.
+25	<br>Требуется PNT очков опыта для улучшения навыка.	<br>Requires PNT experience points to upgrade a skill.
+26	<br>Требуется навык "SKILL".	<br>Requires "SKILL".
+27	Доп. навыки	Extra skills

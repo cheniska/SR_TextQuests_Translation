@@ -1,0 +1,12 @@
+46	Unknown micromodule
+49	Absoluten
+55	Invisiby
+57	Damage Susceptibility: <clr>-40%<clrEnd>
+58	Maximus
+61	Mumakil
+64	Ultimatus
+71	Thank you very much
+75	<color=255,240,100>Cost</color>
+77	<color=0,255,0>Assets outside ship</color>
+79	Take the micromodule out of storage
+82	<br>Micromodule <clr>

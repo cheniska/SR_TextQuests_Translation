@@ -1,0 +1,152 @@
+<clr>Грабёж:<clrEnd>	<clr>Robbery:<clrEnd>
+Гражданского судна: <td=246><clr>1<clrEnd> оч.	Civilian ship: <td=246><clr>1<clrEnd> pts.
+Рейнджера: <td=246><clr>2<clrEnd> оч.	Ranger: <td=246><clr>2<clrEnd> pts.
+<clr>Уничтожение сил Коалиции:<clrEnd>	<clr>Destruction of Coalition forces:<clrEnd>
+Военного: <td=236><clr>16<clrEnd> оч.	Military ship: <td=236><clr>16<clrEnd> pts.
+Флагмана: <td=236><clr>60<clrEnd> оч.	Flagship: <td=236><clr>60<clrEnd> pts.
+Рейнджера не пирата: <td=236><clr>24<clrEnd> оч.	Non-pirate ranger: <td=236><clr>24<clrEnd> pts.
+Гражданского судна: <td=246><clr>8<clrEnd> оч.	Civilian ship: <td=246><clr>8<clrEnd> pts.
+Военной базы: <td=236><clr>32<clrEnd> оч.	Military base: <td=236><clr>32<clrEnd> pts.
+Центра рейнджеров: <td=236><clr>32<clrEnd> оч.	Ranger center: <td=236><clr>32<clrEnd> pts.
+Бизнес-центра: <td=236><clr>24<clrEnd> оч.	Business center: <td=236><clr>24<clrEnd> pts.
+Научной базы: <td=236><clr>24<clrEnd> оч.	Research station: <td=236><clr>24<clrEnd> pts.
+<clr>Уничтожение доминаторов:<clrEnd>	<clr>Destruction of dominators:<clrEnd>
+Клига: <td=246><clr>1<clrEnd> оч.	Klig: <td=246><clr>1<clrEnd> pts.
+Штипа: <td=246><clr>1<clrEnd> оч.	Shtip: <td=246><clr>1<clrEnd> pts.
+Менока: <td=246><clr>2<clrEnd> оч.	Menoc: <td=246><clr>2<clrEnd> pts.
+Смерша: <td=246><clr>4<clrEnd> оч.	Smersh: <td=246><clr>4<clrEnd> pts.
+Урганта: <td=246><clr>8<clrEnd> оч.	Urgant: <td=246><clr>8<clrEnd> pts.
+Эквентора: <td=236><clr>16<clrEnd> оч.	Equantor: <td=236><clr>16<clrEnd> pts.
+Бертора: <td=236><clr>24<clrEnd> оч.	Bertor: <td=236><clr>24<clrEnd> pts.
+Захват системы для клана оценивается в <clr>16<clrEnd> очков.	Capturing a system for the clan is worth <clr>16<clrEnd> points.
+Также отдельно считается доход от контрабанды. За каждые <clr>3000<clrEnd> cr. чистого навара начисляется <clr>1<clrEnd> очко в пиратский рейтинг.	Income from smuggling is counted separately. For every <clr>3000<clrEnd> cr. of net profit, <clr>1<clrEnd> point is added to the pirate rating.
+Да, и если тебя коробит от помощи Коалиции с доминаторами, поясню: учёт действий против жестянок засчитывается в рейтинг с позиции приобретения тобой боевого опыта, а не потому, что мы кому-то чем-то обязаны. Усёк?	Oh, and if you're put off by helping the Coalition against the dominators, let me explain: actions against the tin cans count toward your rating as you gaining combat experience, not because we owe anyone anything. Got it?
+Далее	Next
+Вот наш прейскурант:<br><0>	Here is the entire menu:<br><0>
+Каким образом я могу повысить свой рейтинг пирата?	How do I increase my pirate rating?
+Чтобы стать кем-то уважаемым в нашей среде, тебе нужно показать себя, подтвердить свою репутацию.  А для этого надо поработать на благо нашего братства, повышать свой рейтинг. Тогда мы про тебя тоже не забудем.	If you want to earn the respect of our community, you need to prove yourself and boost your reputation.  And that means furthering the cause of our brotherhood and increasing your rating. If you do that, everybody's gonna know your name before long.
+Да, уверен!	Yes, I'm sure!
+Знаю. Я тогда полетел?	I know. Can I go now?
+Что за особое предложение?	What's the special offer?
+Ясно	Roger that.
+Пока	So long
+Фантом	Phantom
+Ренегал	Renegal
+Бамбай	Bambay
+Лякуша	Lyakusha
+Корсар	Corsair
+Да ты что, мне моя жизнь ещё дорога! Поищи себе пушечное мясо на другой частоте.	Are you crazy, my life is still dear to me! Look for cannon fodder on another frequency.
+Нетушки, приятель! Если меня порешат, то кто будет взбивать подушку моей престарелой матушке?	No way, pal! If I get taken out, who will fluff my aged mother's pillow?
+Если тебе охота искать на свой центр тяжести приключений, то лично мне как-то не очень.	If you're itching to look for adventures on your own center of gravity, then personally I'm not so keen.
+Да пошёл бы ты в червоточину со своими атаками-шматаками! Я тут из-за тебя сбился на 98 уровне!	Go to the wormhole with your attacks-shmattacks! Because of you I dropped out of level 98 here!
+Сражаться ни с кем не хочу, но готов побыть секундантом.	I don't want to fight anyone, but I'm ready to be a second.
+Очень некстати ты сейчас обратился. Дел просто по горло.	You've called at a very inconvenient time. I'm up to my neck in business.
+У меня сейчас хватает и собственных дел, обратись к кому-нибудь другому.	I've got plenty of my own business right now, turn to somebody else.
+Некогда отвлекаться, совершенно некогда отвлекаться! Не до тебя, приятель.	No time to be distracted, absolutely no time to be distracted! I have no time for you, pal.
+В другое время я бы тебе помог, но пока передо мной стоят куда более приоритетные задачи.	At another time I'd help you, but for now far higher priority tasks are in front of me.
+Ну ты и выбрал времечко, конечно. Сейчас мне некогда решать твои проблемы, дружище.	You sure picked a time, didn't you. I have no time to solve your problems right now, buddy.
+А может тебе ещё вина красного, да Махпеллу рыжую? А ну-ка быстро отвалил от моего транклюкатора, не то в следующий раз с тобой заговорят мои пушки!	Oh really? Maybe also you want some bottle of red wine or red-haired Makhpella? Get away from my tranclucator you maniac, or next time you will be speaking with my guns!
+Ты, <Player>, видно больной? А на вид вроде кажешься здоровым...<br>В общем, разбирайся со своими транклюкаторами сам, я в этом цирке участвовать не буду.	You, <Player>, must be sick? You look healthy, though...<br>Anyway, deal with your tranclucators yourself, I won't take part in this circus.
+Хорошая идея! Давно чесались руки как следует надрать дюзы этому выскочке!	Good idea! My hands have been itching for a long time to give this upstart a proper thrashing!
+И в самом деле, почему бы мне не тряхнуть стариной? Есть ещё порох в пороховницах!	Indeed, why shouldn't I shake the dust off the old days? There's still powder in the powder horns!
+Только было подумал уже, что не на ком новую пушечку проверить, как тут ты со своим предложением! Я в деле!	I'd just been thinking I had nobody to test my new little gun on, and here you come with your proposal! I'm in!
+Согласен, его металлолом только портит красивый пейзаж. Всю энергию на орудия!	Agreed, his scrap only spoils the beautiful scenery. All power to the guns!
+Помнится, капитан этого корабля как-то мне крупную сумму задолжал... И правда, мне с ним есть что обсудить.	If I remember right, the captain of this ship owed me a large sum once... Indeed, I have something to discuss with him.
+Не подсобишь в битве с <Target>? Вместе мы его точняк ухайдокаем!	Won't you help me in the battle with <Target>? Together we'll finish him off for sure!
+У тебя есть уникальный шанс разогреть свои пушечки! Давай покажем <Target>, кого надо уважать в этой системе!	You have a unique chance to warm up your guns! Let's show <Target> who deserves respect in this system!
+Заскучал уже, небось, без активных-то действий? Присоединяйся к моей атаке на <Target>, а то лицо у тебя какое-то совсем кислое.	Bored already, I bet, without any action? Join my attack on <Target>, because your face looks totally sour.
+Тут <Target> по закрытому каналу очень нехорошим словом тебя обозвал! Я уже лечу дать ему за твою оскорбленную честь по мозгам, а ты давай перезаряжайся и за мной!	<Target> just called you a very nasty name on a closed channel! I'm already flying to knock some sense into him for your insulted honor, and you reload and follow me!
+Я лечу выяснить отношения с <Target>. Ты со мной?	I'm flying to settle things with <Target>. Are you with me?
+Да ну тебя, по глазам же видно, что подведешь в самый ответственный момент.	Oh, come off it, it's obvious from your eyes that you'll let me down at the most critical moment.
+Нет, я тебе ни капли не доверяю. На мою помощь можешь даже не рассчитывать.	No, I don't trust you one bit. Don't even count on my help.
+Посмотри на себя в зеркало! На лбу же написано: "Мне доверять ни-ни!"	Look at yourself in the mirror! It's written on your forehead: "Don't trust me, no way!"
+Какая-то ты мутная личность, и я не собираюсь иметь с тобой каких-либо совместных дел.	You're some shady character, and I don't intend to have any joint business with you.
+Обязательно! Но сначала назови хотя бы три причины, по которым мне следует тебе доверять.	Definitely! But first name at least three reasons why I should trust you.
+Я с капитаном этого судна не ссорился.	I haven't quarreled with this vessel's captain.
+Ты что, мы с ним вместе на флоте служили! Да и тебе не советую с ним ссориться: целее будешь.	What do you mean, we served in the fleet together! And I don't advise you to quarrel with him either: you'll be safer.
+Здесь я тебе не помощник: я искренне дорожу хорошими отношениями с этим пилотом.	I'm no help to you here: I sincerely value good relations with this pilot.
+Нет, он мой друг! Мы с ним целый пуд соли съели на бескрайних просторах космоса.	No, he's my friend! We've eaten a whole pood of salt together in the boundless expanses of space.
+Ты предлагаешь мне напасть на друга? Нет уж, уволь.	You're suggesting I attack a friend? No, thank you.
+Да чем тебе вообще мог навредить этот невинный робот? Мой ответ - категорическое нет.	What harm could this innocent robot did to you? My answer is - absolutely no.
+Ну уж нет, чужую собственность я портить не намерен! Если у тебя какие-то проблемы с хозяином этого транклюкатора - так и скажи.	Sure no! I don't want to spoil someone else's property! If you have any problems with owner of this tranclucator - say it ahead.
+Была у меня как-то в детстве заводная игрушка робота, и этот транклюкатор её очень сильно напоминает. Извини, не хочу омрачать детские воспоминания.	I once had a robot toy which looks much like this tranclucator. Sorry, don't want to break my child memories.
+Ну ты даёшь! Я со смеху чуть бутербродом не подавился! Ты бы ещё дальше отлетел и оттуда угрожал!	Wow, you're something! I nearly choked on my sandwich laughing! You might as well have flown even farther away and threatened from there!
+Дружок, может, эта новость тебя и шокирует, но даже если до меня и достал твой радар, то ещё далеко не факт, что достанут пушки.	Pal, this news may shock you, but even if your radar reached me, it's far from certain your guns will.
+Приятель, ты сделал мой день! Ну неужели ты думаешь, что все такие наивные, как ты? Догнал бы меня сначала, а потом уже и приставал со всякой ерундой.	Buddy, you made my day! Do you really think everyone is as naive as you? Catch up with me first, and only then pester me with all this nonsense.
+У тебя смелости хватает только с большого расстояния тявкать? У бабушки своей груз требуй!	Do you only have the guts to yap from a long distance? Demand cargo from your granny!
+Мне только кажется, или ты действительно под кайфом? Поинтересуйся хотя бы у своего бортового компьютера, какие у тебя шансы меня догнать.	Is it just me, or are you really high? At least ask your onboard computer what your chances are of catching up with me.
+Проснись сначала, а то несёшь тут какую-то околесицу.	Wake up first, you're talking some kind of gibberish here.
+А ты давай, отбери у меня груз. Или только по коммуникатору такой грозный?	Go on, take my cargo. Or are you only that fierce over the communicator?
+Груз, говоришь? Так уж и быть, готов специально для тебя сбросить герметичный пакетик с содержимым туалета. Или ты о чём-то другом?	Cargo, you say? All right, I'm ready to drop a sealed bag with the contents of the toilet just for you. Or did you mean something else?
+Проучил бы тебя, да пожалею космическую экологию. Это ж сколько потом от твоего судёнышка обломков останется...	I'd teach you a lesson, but I pity space ecology. Think how much debris would be left from your little boat...
+Груз я тебе не отдам принципиально. Ты только крепись там.	I won't give you the cargo on principle. Just hang in there.
+Твоя взяла. Прекращай палить, сейчас выброшу груз.	You win. Stop firing, I'll dump the cargo now.
+А почему бы и нет? Нет, не из-за тебя выброшу часть груза, просто места на корабле действительно мало.	And why not? No, I'm not dumping part of the cargo because of you, there really just isn't much room on the ship.
+Груз-то я выброшу, но тебя я хорошенько запомнил! Лучше не попадайся больше мне на глаза.	I'll dump the cargo, but I've taken a good note of you! Better not let me see you again.
+Я ради этого груза вкалывал с утра до ночи вовсе не для того, чтобы потом отдать его засранцу вроде тебя. Так уж и быть, держи, но это в последний раз!	I slaved over this cargo from dawn to dusk, and not so that I'd hand it over to a brat like you afterward. Fine, take it, but this is the last time!
+Всё-таки пушки - самый весомый аргумент в цивилизованном споре. Не стреляй, сейчас будет тебе груз.	After all, guns are the weightiest argument in a civilized dispute. Don't shoot, the cargo's coming.
+А? Деньги? Ну конечно, меня же хлебом не корми, дай только перечислить деньжат первому встречному неадеквату, вещающему в эфир с другого конца системы. Если вдруг не дошло, чему я буду не удивлен, то это сарказм.	Huh? Money? Oh, of course, just feed me bread and let me wire money to the first lunatic broadcasting from the other end of the system. In case it didn't sink in, which I wouldn't be surprised by, that's sarcasm.
+И откуда вы такие только берётесь-то?<br>Какие тебе нафиг деньги? Да ты меня даже догнать не сможешь!	Where do you people even come from?<br>What money, for crying out loud? You can't even catch me!
+А если я вдруг откажусь, то ты на меня очень сильно разозлишься и не догонишь?<br>О нет, не делай этого! Прошу тебя!	And if I suddenly refuse, you'll get very, very angry with me and won't catch up?<br>Oh no, don't do that! I beg you!
+Какой смысл тебе платить, если с такого расстояния ты не представляешь для меня совершенно никакой угрозы?	What's the point of paying you if from this distance you pose absolutely no threat to me?
+Мне становится страшно за наше пиратское ремесло, когда я встречаю таких, как ты. Прежде чем вымогать, хотя бы подлети поближе к жертве! Всему-то приходится учить современную молодёжь...	I get worried for our pirate trade when I meet people like you. Before extorting, at least fly closer to the victim! Everything has to be taught to modern youth...
+Ха-ха! Надо полагать, твоя наглость прямо пропорциональна расстоянию между нами?	Ha-ha! I take it your insolence is directly proportional to the distance between us?
+Ой, какие мы дерзкие! Ты фоточку-то свою пришли, как сяду на ближайшую планету, так обязательно продам журналистам. Только представь: репортаж "Дебил года"! Так и вижу: "Он грабит суда с невероятных расстояний!"<br>Эй, ты чего? Да остынь, приятель, это же шутка.	Oh, aren't we bold! Send me your little photo, as soon as I land on the nearest planet I'll definitely sell it to journalists. Just imagine: a report called "Moron of the Year"! I can already see it: "He robs ships from incredible distances!"<br>Hey, what's with you? Cool down, pal, it's a joke.
+Только если ты меня догонишь и назовёшь убедительную причину тебе заплатить. Ах да, тебе же это не светит. Ну, тогда нет.	Only if you catch up with me and name a convincing reason to pay you. Ah yes, you won't manage that. Well, then no.
+Я бы при всём желании не смог перевести тебе деньги на таком огромном расстоянии, так что извини. Нет, я не смеюсь - это такие помехи.	With the best will in the world I couldn't transfer you money over such a huge distance, so sorry. No, I'm not laughing - that's interference.
+Уже перевожу. Как это не пришло? Ну... Я здесь не при делах. Вот.	Transferring now. What do you mean it didn't arrive? Well... I'm not involved here. There.
+Летел бы ты, грабитель-недоучка! Сейчас я своему корешу чиркану, так он тебе дюзы вправит!	Fly off, you half-baked robber! I'll ping my buddy now, and he'll straighten out your thrusters!
+Братуха, ты кое-что попутал: я тебе не банкомат, так что шевели двиглом куда-нибудь к гобзавру в берлогу, а?	Bro, you've got something mixed up: I'm not your ATM, so move your engine off to some gobsaurus's lair, okay?
+Я свои деньги честно награбил и тебе не отдам!	I robbed my money honestly and I'm not giving it to you!
+Чего-о? Мне это показалось, или ты сейчас и правда хотел затребовать у меня деньги?<br>А ну-ка давай шуруй отсюдова, пока я ещё добрый!	Wha-at? Did I imagine it, or did you really just want to demand money from me?<br>Come on, scram out of here while I'm still kind!
+Это деньги не мои, а вон того транспортника, вот у него их и требуй.	It's not my money but that transport's over there, demand it from him.
+Нет-нет-нет! И без того ипотеку выплачиваю. Ты меня по миру пустить хочешь, да?	No-no-no! I'm already paying a mortgage. Do you want to ruin me, huh?
+Но ведь тогда мне не хватит на корм моему попугаю! Неужели ты хочешь, чтобы бедная птичка голодала?<br>Какой ты жестокий.	But then I won't have enough for my parrot's food! Do you really want the poor bird to go hungry?<br>How cruel you are.
+Ну ладно-ладно, можешь убрать свои пушки, вот деньги. Всё равно не мои, считай, ничего не потерял!	All right, all right, you can put your guns away, here's the money. It's not mine anyway, so consider I lost nothing!
+Вот я их копил, копил, грабил, торговал контрабандой, ночей не спал, кушал плохо! А тут ты нарисовался! Ну не стыдно тебе, а? Ладно, держи уж...	I saved and saved, robbed, smuggled, lost sleep, ate badly! And then you show up! Aren't you ashamed, huh? Oh well, take it...
+Ну вот, придётся заначку доставать... Так, теперь хватает! Бери, только отстань!	Well, now I'll have to dig out my stash... There, now it's enough! Take it, just leave me alone!
+Малокское твёрдо-красное, смешанное с зелёным сюрпризом! Ну ты и приставучий! Всё-всё, бери, молодец, крутой.	Maloq solid-red mixed with green surprise! You're so clingy! All right, all right, take it, well done, you're cool.
+Легко пришли - легко ушли. Полечу-ка я, попробую ещё раз догнать тот транспортник...	Easy come, easy go. I'll fly off and try again to catch that transport...
+Говорила мне бабушка: "Не летай, внучёк, по ночам!" А я её не слушал...	My grandma told me: "Don't fly at night, grandson!" And I didn't listen...
+А ведь так хотел ту пушку купить... Каждый день ходил, любовался на витрину... Ладно, придётся платить, забирай...	And I so wanted to buy that gun... Went by every day, admiring the shop window... Oh well, I'll have to pay, take it...
+А ведь верно: все в галактике должны делиться и всем будет хорошо! Сегодня я тебе, завтра ты мне!	And indeed: everyone in the galaxy should share and then everyone will be fine! Today I'll give to you, tomorrow you'll give to me!
+Ну ты загнул, откуда у меня могут быть такие деньжищи?!	You're exaggerating, where would I get that kind of money?!
+С какого Ба-О'Бааба ты свалился? Такой суммы я никогда даже в руках не держал!	What Ba-O'Baab did you fall off of? I've never even held such a sum in my hands!
+Приятель, пожалуйста, не пали по мне! Ну нет у меня такой суммы!	Pal, please don't shoot at me! I just don't have such a sum!
+Боюсь, таких денег у меня попросту нет. Может, мы сможем сойтись на меньшей сумме?	I'm afraid I simply don't have that kind of money. Maybe we can settle on a smaller sum?
+Эх, польстил ты мне... Будь у меня такие деньги, я бы, пожалуй, не в космосе холодном зависал, а отдыхал бы сейчас где-нибудь на Мауна-Роа...	Ehh, you flattered me... If I had that kind of money, I wouldn't be hanging in cold space, I'd be relaxing somewhere on Mauna Roa right now...
+Как твоё финансовое положение?	How is your financial situation?
+Спасибо, теперь на моём счету <Money> cr.	Thank you, now my account holds <Money> cr.
+Дать денег напарнику	Give money to partner.
+<Player>, у меня на счету <Money> cr.	<Player>, I've got <Money> cr. on my account.
+Возьми <Money> cr.	Take <Money> cr.
+Итак, <Player>, сколько ты готов мне подкинуть?	So, <Player>, how much money can you transfer to me?
+Дружище, я не говорил тебе, что я из общества экологов? Нет, я категорически против того, чтобы захламлять космическое пространство.	Buddy, didn't I tell you I'm from the society of ecologists? No, I'm categorically against cluttering up outer space.
+Что, оставить мусор в покое? И откуда вы только такие берётесь... Ладно, штип с тобой, нужен он мне больно.	What, leave the junk alone? Where do you people come from... Fine, shtip with you, I don't need it that badly anyway.
+Вот ещё! Да кто ты такой, чтобы я тебя слушал? Нет уж, <Target> от меня так просто не отделается, а ты теперь и сам на очереди.	No way! Who are you for me to listen to you? No, <Target> won't get off from me so easily, and now you're next in line yourself.
+У меня свои разборки с пилотом судна <Target>, в которые я тебе настоятельно рекомендую не влезать.	I have my own scores to settle with the pilot of the vessel <Target>, which I strongly recommend you not get into.
+А не полетел бы ты, горе-миротворец, куда-нибудь к Махпелле на чаёк?	Why don't you fly off, you hapless peacemaker, to visit Makhpella for tea?
+Слышишь, <Target>? Если тебя это утешит перед смертью, то за тебя здесь хоть кто-то заступился!	Do you hear, <Target>? If it comforts you before death, at least someone here stood up for you!
+Твои усилия тщетны. Судно <Target> будет уничтожено очень и очень скоро. Просто смирись с этим.	Your efforts are in vain. The vessel <Target> will be destroyed very, very soon. Just accept it.
+Эй, <Target>, отпустить тебя? Нет? Ну ладно. Слышал, <Player>? Этот транспортник сам очень хочет, чтоб я его ограбил, не лишай его такой радости.	Hey, <Target>, should I let you go? No? Well, all right. Did you hear, <Player>? This transport itself wants me to rob it very badly, don't deprive it of such joy.
+Ну вот зачем ты влез! Я ж его почти укокошил! Так уж и быть, сегодня у этого прохвоста счастливый день.	Why did you butt in! I almost knocked him off! All right, so be it, today is a lucky day for this rascal.
+Ну, раз уж ты просишь... Не, ты крутой парень, с тобой я связываться не буду.	Well, since you ask... Nah, you're a tough guy, I won't mess with you.
+<Target>, лети, пока я не передумал! Теперь придётся искать кого-нибудь другого, на ком можно проверить новую пушечку...	<Target>, fly off before I change my mind! Now I'll have to look for somebody else to test the new little gun on...
+Я только разогрелся, а тут ты со своим миротворчеством! Хорошо, пускай живёт.	I'd only just warmed up, and here you come with your peacemaking! Fine, let him live.
+Ну вот, <Player>, нехорошо так веселье обламывать... Сегодня ты каждый встречный транспортник защищаешь, а что дальше? Каждого хрякоплюха спасать будешь? Ладно, не хочу иметь дел с защитниками животных... <Target>, лети, отпускаю.	Well, <Player>, it's not nice to spoil the fun like that... Today you're protecting every transport you meet, and what next? Will you save every hryakoplyukh? Fine, I don't want to deal with animal protectors... <Target>, fly, I'm letting you go.
+Вот в такие моменты начинаешь испытывать жалость к жертве собственного грабежа! Может, отпустить тебя сгонять за кредитом в бизнес-центр?	It's at moments like this you start to feel pity for the victim of your own robbery! Maybe I should let you go to the business center for a loan?
+Мда... Ты бы хоть минеральчиков себе настрелял, нищеброд галактический!	Hm... You might at least have shot yourself some minerals, you galactic pauper!
+Эти деньги не скомпенсируют мне даже того, что я был вынужден лицезреть твою физиономию на дисплее.	This money wouldn't compensate me even for having to look at your mug on the display.
+Ты хочешь меня разжалобить? Так и тянет дать тебе в долг, только чтобы ты смог предложить не такую мизерную сумму!	Are you trying to move me to pity? I'm tempted to lend you money just so you could offer a less pitiful sum!
+Ну ты даёшь! Да я за одно посещение бара больше трачу! Так, кстати, а какие там нынче расценки... О, Гайднет говорит, что ром подорожал... Слышишь, не смей оставлять меня без рома!	Wow, you're something! I spend more on one visit to the bar! By the way, what are the rates there these days... Oh, Gaidnet says rum got more expensive... Listen, don't you dare leave me without rum!
+Ну как так? Я тут стараюсь, аккуратно тебе корабль распиливаю, а ты мне так мало предлагаешь! Совсем мой труд не ценишь!	How can that be? I'm here trying, carefully sawing up your ship, and you offer me so little! You don't value my work at all!
+Хорошо, что в галактике полно таких лошков, как ты! А то работать бы пришлось.	It's good the galaxy is full of suckers like you! Otherwise I'd have to work.
+Поздравляю, вы только что купили себе одноразовый билет на пролёт по системе! Не желаете ли приобрести абонемент на весь год?	Congratulations, you've just bought yourself a one-time ticket for passage through the system! Would you like to purchase a season pass for the whole year?
+Вот сразу бы так. А то гоняться ещё за вами приходится, топливо тратить...	Should've done that right away. Otherwise I have to chase after you, burn fuel...
+В другой раз я бы с тебя вытряхнул побольше, но уж больно у меня сегодня хорошее настроение. Или это ликер? А, впрочем, неважно.	Another time I'd shake more out of you, but I'm in too good a mood today. Or is it the liqueur? Ah, never mind.
+Не переживай, все вырученные средства пойдут исключительно на благо нашего благородного клана!	Don't worry, all proceeds will go exclusively to the benefit of our noble clan!
+Дружище, ты всё перепутал! Я не учебный астероид! Возьми вот эти <Money> cr., только перестань корежить моё корыто!	Buddy, you've got it all mixed up! I'm not a training asteroid! Take these <Money> cr., just stop mangling my tub!
+Всё, всё, ты круче меня, круче всех здесь, я согласен! Держи <Money> cr., я их очень долго копил, только позволь улететь куда подальше!	Enough, enough, you're tougher than me, tougher than everyone here, I agree! Take <Money> cr., I saved them for a very long time, just let me fly far away!
+Я тут подумал, и пришёл к выводу, что эти <Money> cr. мне совершенно не нужны. Может быть, ты возьмёшь их себе, и мы мирно разлетимся?	I've been thinking, and came to the conclusion that I don't need these <Money> cr. at all. Maybe you'll take them yourself, and we'll part peacefully?
+Признаю, я несколько переоценил свои силы и недооценил твои. Предлагаю тебе <Money> cr. за то, чтобы ты оставил меня, наконец, в покое.	I admit I somewhat overestimated my strength and underestimated yours. I offer you <Money> cr. to leave me alone at last.
+Приятель, ты действительно заслуживаешь этих денег! Предлагаю тебе заманчивую сумму в <Money> cr., после чего я преспокойно улетаю восвояси. Идёт?	Buddy, you truly deserve this money! I offer you a tempting sum of <Money> cr., after which I peacefully fly away. Deal?

@@ -1,0 +1,89 @@
+Сколько вы хотите положить на депозит?	How much would you like to deposit?
+Ну, если не нужен, так чего спрашиваете? Летите в другой бизнес-центр, возможно, их условия вас больше устроят. Только помните, в нашем центре <BK> лучшие процентные ставки во вселенной!	If you don't need it, why bother asking all these questions? Feel free to fly to other business centers, maybe their terms will suit you better. But remember that here at <BK> we have the best interest rates in the universe!
+Как это хватит инвестиций? Стыдно, <Player>! На инвестициях стоит наш мир. Чтобы вы делали без нас, без наших дотаций?	What do you mean, that's enough investments? For shame, <Player>! Investments are the backbone of this world. Where would you be without us and our subsidies?
+Подумайте, может, у вас есть лишние деньги? Возьмите кредит, в конце концов, и накормите голодных!..	Think, maybe you have some spare cash? And even if you don't, consider taking out a loan to feed the hungry!...
+Впрочем, я погорячился и приношу извинения. Это ваше личное дело. Мы сами-то благотворительностью не занимаемся, просто ведем бизнес. Вы для нас пример, рейнджер <Player>.	Ahem, I got carried away, my apologies. This decision is yours and yours alone. After all, we are not a charity either -- this is business. And you are an example for us, Ranger <Player>.
+Проинвестировать проекты	Invest in projects
+Это понятие означает, что после вашей смерти вы получаете удвоенную страховку рейнджера. Точнее, получаете ее уже не вы, а ваша семья.	This means that, in the event of your death, you will receive double the insurance payout. Or rather your family will receive it.
+Если же у вас нет родственников или они откажутся от компенсации, то мы создадим поощрительный фонд имени рейнджера <Player> и будем выплачивать премии новичкам-рейнджерам. Таким образом, даже после смерти вы сможете продолжить правое дело рейнджеров.	And if you don't have any relatives or if they refuse the compensation, we will use the money to create a Ranger <Player> Incentive Fund, providing grants to rookie rangers. This way, you will continue your contribution to the noble ranger cause even after your death.
+Как так, <Player>? Если у вас нет денег, возьмите кредит.	What do you mean, <Player>? If you don't have the money, then borrow it.
+На дворе <CurYear> год, вы можете погибнуть, не купив страховку! Прислушайтесь к своему внутреннему голосу. Разве вы можете оставить своих близких без достойной компенсации?!!	It's <CurYear>, you can die without insurance! Listen to your inner voice. How can you leave your loved ones without proper compensation?!!
+Отлично, <Player>! Теперь вы защищены, как никогда.	Excellent, <Player>! Now you are insured like never before.
+Не забудьте заглянуть к нам через <Year> лет для продления полиса.	Don't forget to check back in <Year> years to extend your policy.
+А что такое пожизненная компенсация?	What is life compensation?
+Спасибо, но я обойдусь	Thanks, but I'll pass
+Приобрести полис страхования жизни	Purchase life insurance
+Страхование жизни	Life insurance
+Отлично, <Player>! Для рейнджеров у нас открыто льготное беспроцентное кредитование! Многие торговцы мечтают стать рейнджерами, только чтобы получать наши ссуды, ведь мы взимаем лишь небольшую комиссию на операционные расходы. Итак, перейдем к делу.	Excellent, <Player>! We have a special interest-free loan program for rangers! Many merchants dream of becoming rangers just so they could take advantage of our loans, especially considering the modest fee we charge for operational expenses. Now let's get down to business.
+Мы можем предложить вам три вида кредита: срочный, обычный и малый.	We have three types of loans available: time loans, regular loans and small loans.
+<br>Сегодня наши предложения таковы:	<br>As of today, our terms are as follows:
+1. Срочный кредит в размере <MaxMoney> cr выдается сроком на <MinDay> дней. Комиссия срочного кредита составляет <MaxMoneyAdd> cr.	1. Time loans in the amount of <MaxMoney> cr are issued for <MinDay> days. The commission on time loans is <MaxMoneyAdd> cr.
+2. Обычный кредит в размере <AveMoney> cr выдается сроком на <AveDay> дней. Комиссия обычного кредита равняется <AveMoneyAdd> cr.	2. Regular loans in the amount of <AveMoney> cr are issued for <AveDay> days. The commission on regular loans is <AveMoneyAdd> cr.
+3. Малый кредит в размере <MinMoney> cr выдается сроком на <MaxDay> дней. Комиссия за малый кредит составит всего лишь <MinMoneyAdd> cr.	3. Small loans in the amount of <MinMoney> cr are issued for <MaxDay> days. The commission on small loans is only <MinMoneyAdd> cr.
+Невероятно выгодные условия! Не так ли, <Player>?!!	Those are terrific terms, aren't they, <Player>?!!
+Отлично, <Player>! Мы перевели <SendMoney> cr на ваш счет. Теперь ваш долг с учетом нашей комиссии составляет <DebtMoney> cr.	Excellent, <Player>! We have transferred a sum of <SendMoney> cr to your account. Your debt, inclusive of our commission, is now <DebtMoney> cr.
+Надеемся, что до <Date> вы сможете его погасить в любом бизнес-центре нашей сети, иначе мы будем вынуждены ввести штрафные санкции.	We hope that you can repay it by <Date> at any of our business centers; otherwise we will be forced to charge late fees.
+Кстати, рекомендуем потратить эти деньги в нашем магазине оборудования. Цены у нас немного выше обычных, зато выбор наилучший в галактике!	By the way, we recommend that you spend this money at our equipment store. Our prices are slightly above average, but we also have the best selection in the Galaxy!
+Не нужен мне никакой кредит	I don't need to take out a loan
+Дайте обычный кредит	Give me a regular loan
+Хочу большой срочный кредит	I want a large time loan
+Беру малый кредит	I'll settle for a small loan
+Взять кредит	Take out a loan
+Вы обратились по адресу. Наш бизнес-центр <BK> предоставляет уникальную услугу по оптимизации торговли. Некоторые думают, что бизнес это просто купил/продал, а если повезло, то заработал денег. На самом деле бизнес есть владение информацией, это наука, которой мы занимаемся!	You've come to the right place. Here at <BK> we offer a unique service that allows our clients to optimize their business. Some people out there think that business is about buying low and selling high. In reality, business is all about information, and that's where we come in!
+Так вот, мы можем предложить вам наилучшие варианты для торговли как в ближайшем (<NeaMoney> cr), так и в дальнем космосе (<FarMoney> cr) с учетом скидки в <Percent>% за счет твоего торгового рейтинга.	That said, we can offer you the best trade options for both local (<NeaMoney> cr) and remote (<FarMoney> cr) areas of space, including a <Percent>% discount calculated from your business rating.
+При этом будут учтены характеристики вашего корабля, расстояния между планетами, расход топлива и отношения правительств к вам.	Our figures take into account your ship's parameters, the distance between planets, fuel expenditure and your reputation with the planets' governments.
+Итак, на каком варианте вы желаете остановиться?	So, which will it be?
+Мы были рады помочь, <Player>. Возможно, вас заинтересуют другие наши услуги?	Glad to be of help, <Player>. Perhaps you're interested in some of our other services?
+Производится анализ межзвездной базы данных. Ждите вариантов...	Interstellar database analysis in progress. Please wait...
+Поиск оптимальных торговых путей успешно завершен.	Optimal trade routes found.
+Итого найдено вариантов: <Count> шт. Все данные успешно занесены в ваш бортовой компьютер.	Total available options: <Count>. The data has been uploaded to your onboard computer.
+Мы надеемся, что данная информация принесет вам немалый успех в бизнесе! Пользуйтесь нашими услугами.	We hope that this information will help you reap considerable benefits in your business! Please do come back to use our services in the future.
+Варианты торговли в дальнем космосе.	Trade options in remote space.
+Оптимальные варианты торговли в дальнем космосе от <Date>. Информация предоставлена бизнес-центром <BK>.	Optimal trade options in far space as of <Date>. Information provided by the <BK> business center.
+Варианты торговли в ближнем космосе.	Trade options in local space.
+Оптимальные варианты торговли в ближнем космосе от <Date>. Информация предоставлена бизнес-центром <BK>.	Optimal trade options in local space as of <Date>. Information provided by the <BK> business center.
+Планета <FromPlanet> (система <FromStar>).	Planet <FromPlanet> (<FromStar> system).
+Цена покупки <Buy> cr, количество <Cnt>.	Purchase price: <Buy> cr, quantity <Cnt>.
+Планета <ToPlanet> (система <ToStar>).	Planet <ToPlanet> (<ToStar> system).
+Цена продажи <Sale> cr.	Sale price: <Sale> cr.
+Мы вынуждены вернуть ваши деньги, по причине того, что не смогли подобрать варианты для вашей конфигурации.	We are forced to refund your money, as we were unable to find any options for your specified configuration.
+Приносим свои извинения.	Please accept our apologies.
+Сделайте мне подбор вариантов дальнего космоса (<FarMoney> cr).	Find me options for remote space (<FarMoney> cr).
+Оплачиваю ближайшие варианты для торговли (<NeaMoney> cr).	I'm interested in trade options nearest to me (<NeaMoney> cr).
+Спасибо, в другой раз	Thanks, maybe some other time
+Заказать анализ рынка товаров	Order a market analysis
+Всем, всем, всем! В системе <Star> открыт новый бизнес-центр <Name>!<br>Производится автоматическое обновление информации у всех владельцев галактических карт.	Attention all! A new business center called <Name> has officially opened in the <Star> system!<br> All Galaxy maps will be automatically updated with the new location.
+Сегодня открывает свои двери новый медицинский центр <Name>! Это позволит всем пилотам получать квалифицированную медицинскую помощь в секторе <Sector>.	The new <Name> medical center has opened its doors to the public! Now all pilots will have quality medical assistance available to them in sector <Sector>.
+Внимание, опасность!<br>Обнаружена пиратская база <Name> в системе <Star>. Производится автоматическое обновление информации у всех владельцев галактических карт. Облетайте ее стороной!	Danger!<br>The <Name> pirate base has been discovered in the <Star> system. All Galaxy maps will be automatically updated with the new location. Make sure you keep away from it!
+Внимание всем рейнджерам:<br>По многочисленным заявкам в системе <Star> открылся новый центр рейнджеров <Name>. Производится автоматическое обновление информации у всех владельцев галактических карт. Центр уже открыт и ждет рейнджеров с нодами.	Attention all rangers:<br>Due to popular demand, a new ranger center called <Name> has opened in the <Star> system. All Galaxy maps will be automatically updated with the new location. The center is fully operational and is awaiting rangers and their nodes.
+Открытая информация для всех рейнджеров.<br>В системе <Star> для разработки новых средств борьбы с доминаторами, была открыта новая научная база <Name>. Производится автоматическое обновление баз данных пилотов о секторе <Sector>.	Public information for all rangers.<br>A new research station called <Name> has opened in the <Star> system, tasked with developing new means of fighting the dominator threat. All pilot databases on sector <Sector> will be automatically updated.
+Внимание всем военным летчикам!<br>В системе <Star> построена новая военная база <Name>. Самое современное оружие и звания для самых лучших бойцов в секторе <Sector>!	Attention all combat pilots!<br>A new military base called <Name> has been constructed in the <Star> system. The latest weaponry and the highest ranks for the best pilots await in sector <Sector>!
+Выключен	Shutdown
+Система	System
+Планета	Planet
+гаальцы	gaalians
+фэяне	faeyans
+люди	humans
+пеленги	pelengs
+малоки	maloqs
+Отказываюсь	I refuse
+Спасибо	Thanks
+Вернуться к выбору	Back to selection
+Жаль...	Pity...
+Ура!	Hurray!
+Нет, пожалуй, не сейчас	No, maybe not now
+Отлично!	Excellent!
+Не сейчас	Not now
+Враждебное	Hostile
+Плохое	Poor
+Хорошее	Good
+Гаальцы	Gaals
+Фэяне	Faeyans
+Люди	Humans
+Пеленги	Pelengs
+Малоки	Maloqs
+Ну, ладно	Oh, all right
+Вернуться к выбору услуг	Back to the choice of services
+Пожалуй, в другой раз	Maybe another time
+Назад	Back
+Депозит	Deposit

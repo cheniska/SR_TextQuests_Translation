@@ -1,0 +1,11 @@
+1	FormShip/UseTransmitters
+2	Illness/ExtraIllness/1/Text
+3	Illness/ExtraIllness/1/TextEx
+4	Main/Mod_ExpPanelPlus/OnPressQuestionMany
+5	Main/Mod_ExpPanelPlus/OnPressQuestionOne
+6	Main/Mod_ExpPanelPlus/OnUseTrans
+7	Main/Mod_ExpPanelPlus/Quant2-4
+8	Main/Mod_ExpPanelPlus/Quant5+
+9	Main/Mod_ExpPanelPlus/QuestionHowMany
+10	Main/Mod_ExpPanelPlus/RUN
+11	Main/Mod_ExpPanelPlus/TooMuch

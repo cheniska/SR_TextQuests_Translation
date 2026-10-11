@@ -1,0 +1,11 @@
+126	Repair equipment of <ShipName> mercenary
+127	Repair equipment of <ShipName> ranger
+130	Repair everything
+132	Repair current equipment set
+133	Repair probes
+134	Repair equipment as part of kits
+136	Repair <ShipName>
+137	Right now nothing is needed
+188	Repair equipment of <ShipName> pirate [Blocked]
+189	Repair equipment of <ShipName> rebel [Blocked]
+190	Repair equipment of <ShipName> special agent

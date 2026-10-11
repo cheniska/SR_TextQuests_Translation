@@ -1,0 +1,36 @@
+1	Инфошка для запоминания всех проданных игроку ММ из цепочек на доминионе	Infobox for remembering all MM sold to the player from chains on the dominion
+54	Отлично, врубаем генератор! Курс в систему <FlyToStar> проложен. А ты, <Player>, давай-ка топай в ангар и отправляйся навстречу звёздам.	All right, let's turn on the generator! The course to the <FlyToStar> system is set. And you, <Player>, go to the hangar and then towards the stars.
+55	Это не дело, браток. Мы тут уже всё подготовили, реактор завели, а ты взял и обломал всю малину. В следующий раз сам будешь на кнопки жать!	People don't do that, bro. We have already prepared everything here, the reactor was started, and you killed the fun. Next time you will press the buttons yourself!
+57	Ты уверен? Деньги мы тебе всё равно не вернём, так и знай.	Are you sure? We will not refund your money anyway.
+59	Прокладываем курс в систему <ToStar> за <Cost> cr. Всё верно?	Setting course to the <ToStar> system for <Cost> cr. Is everything right?
+61	Извини, сейчас доступных маршрутов нет.	Sorry, there are no routes available at the moment.
+63	Система <ToStar> (<Dist> пк.), <Cost> cr.	System <ToStar> (<Dist> parsec), <Cost> cr.
+64	В систему <ToStar>, <Cost> cr.	To the system <ToStar>, <Cost> cr.
+66	Обменять <Cost1> нодов из трюма и <Cost2> нодов c нод-счёта на микромодуль <Name>	Exchange <Cost1> nodes from the cargo hold and <Cost2> nodes from the node-account for the <Name> micromodule
+69	Можешь идти наслаждаться обновкой.	You can go enjoy the new thing.
+71	У нас здесь, конечно, не центр рейнджеров, но вот микромодули самые что ни на есть настоящие.	We are, of course, not the rangers center here, but the micromodules are the most real.
+72	Сейчас у тебя в наличке имеется <CurNod> нд. и ещё <BaseNod> нд. числятся на счету, а твоя пиратская скидка по нашим честным, но скромным подсчётам, составляет <Discount><clr>%<clrEnd>.	Now you have <CurNod> nodes in cash and more <BaseNod> nodes on your account, and your pirate discount, according to our honest but conservative estimates, is <Discount><clr>%<clrEnd>.
+73	. Микромодуль <Name>	. <Name> micromodule
+74	Стоимость модуля: <Cost> нд.	Module cost: <Cost> nodes
+75	При оплате с нод-счёта: <Cost> нд.	When paying from a node account: <Cost> nodes
+77	Кстати, скидки мы предоставляем только настоящим пиратам - здесь тебе не рынок какой-нибудь:<Text>	By the way, we provide discounts only to real pirates - that is not a market here:<Text>
+78	А ещё, если интересует, можем подогнать тебе чётенькие микромодули в обмен на пачку хрустящих нодов. Да, я знаю, что на самом деле они не хрустят, однако они всё равно нам нужны, а крутые микромодули для нормального пирата лишними точно не будут, верно?	And also, if you are interested, we can fit you nice micromodules in exchange for a pack of crispy nodes. Yes, I know that they are not really crispy, but we still need them, and cool micromodules for a normal pirate will definitely not be superfluous, right?
+81	Стоимость: <Cost> нд.	Cost: <Cost> nodes
+83	Ноды будут взяты из твоего трюма (<NodTrum> нд.), а если их не хватит, то наши "специалисты" снимут недостающее количество с твоего нод-счёта (<NodAcc> нд.). Вот наш прайс-лист, выбирай:<br>	Nodes will be taken from your cargo hold (<NodTrum> nodes), and if there are not enough of them, then our "specialists" will remove the missing amount from your node account (<NodAcc> nodes). Here is our price list, choose:<br>
+86	Сколько нодов снять?	How many nodes to remove?
+87	Операция прошла успешно. Ноды уже погружены в твой трюм.	The operation was successful. The nodes are already loaded into your cargo hold.
+88	Ну, не хочешь как хочешь. Желаю удачи в "обналичивании" нодов у доминаторов.	Well, whatever you want. I wish you good luck in "cashing out" the nodes from the dominators.
+103	</color>От души! Ты только не переживай, деньги эти пойдут ну обеспечение работы агентурной сети. С коррупцией у нас строго.<br>	</color>From the heart! Just don't worry, this money will go well to ensure the work of the intelligence network. We are strict with corruption.<br>
+105	Подробнее о системе <color=0,50,200>Витта Прай.</color>	More about the system <color=0,50,200>Vitta Pry.</color>
+108	</color><br><br><br><color=255,0,0>Система беззащитна!</color>	</color><br><br><br><color=255,0,0>System is defenseless!</color>
+109	Не, ну ты уж совсем не борзей, да?! За эти данные многие наши разведчики отдали свои жизни, между прочим! Наверное...	No, well, you are not impudent at all, ok?! For this data, many of our scouts gave their lives, by the way! Maybe...
+113	Вот полная сводка всех боеспособных военных кораблей Коалиции за сегодняшний день:<br> <br><0><br> <br>Всего в Галактике: <1>	Here is a complete summary of all combat-ready Coalition warships for today:<br> <br><0><br> <br>Total in the Galaxy: <1>
+114	Разумеется, ваше пиратейшество, вот полная сводка всех боеспособных военных кораблей Коалиции за сегодняшний день:<br> <br><0><br> <br>Всего в Галактике: <1>	Of course, your piracy, here is a complete summary of all combat-ready Coalition warships for today:<br> <br><0><br> <br>Total in the Galaxy: <1>
+115	Предоставьте мне полную информацию о численности коалиционного флота	Provide me with full information on the size of the coalition fleet
+136	пп.	pp.
+137	К тому же, им потребуется <clr>протоплазма<clrEnd>.	Plus, they will need <clr>protoplasm<clrEnd>.
+138	Имейте в виду, что для проведения работ нам необходимы <clr>ноды<clrEnd> прямо здесь. Мы можем взять их из трюма вашего корабля или со склада, но никак не с вашего нод-счёта.	Remember that getting the job done requires <clr>nodes<clrEnd> for us right here. We can take them from your cargo bay, or at the storage, but not from your node-account.
+139	нд.	nd.
+140	К тому же, им потребуются ноды.	In addition, they will need nodes.
+157	Сейчас составим списочек оборудования, подходящего для улучшения:<br><0><br><1><2><br>Ну и что из этого списка будем улучшать?	Let's make a list of all the possible upgrades for your ship:<br><0><br><1><2><br>So, what would you like to upgrade from this list?
+158	Мы можем задействовать в эксперименте над вашим оборудованием наших лучших специалистов, но их услуги обойдутся недёшево. Если ваши финансы их не потянут, то работать будут обычные специалисты. Ну а за малую сумму возьмутся улучшать только зелёные стажёры.<br>Исходя из стоимости такой вещи как <0> и процентных ставок наших специалистов, получается следующее:<br><1><br>Лучшие специалисты - <2> cr.<br>Обычные специалисты - <3> cr.<br>Стажёры - <4> cr.<br><5><br>Кому доверите работу, <Player>?	We can get our best technicians to experiment on your equipment, but they don't come cheap. If you cannot afford them, we will use our regular crews instead. And if you can't afford those either, we'll have to give the job to the interns.<br>Between an item like  <0> and our crews' commissions, the prices break down as follows:<br><1><br>Top technicians - <2> cr.<br>Regular crews - <3> cr.<br>Interns - <4> cr.<br><5><br>So, whom will you entrust this work to, <Player>?

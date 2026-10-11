@@ -1,0 +1,73 @@
+3	Dyshot
+6	Reliability: <clr>-25%<clrEnd>
+9	Experimental hull I-IV
+10	Experimental hull I
+12	Experimental hull II
+13	Experimental hull III
+14	Experimental hull IV
+15	Abandoned ship
+16	</color>Lifeboat
+18	Magnetron
+21	Additonal effect: <clr>EM-interference<clrEnd>
+26	Triplshot
+27	The Screw
+28	Shpuntik
+29	Wrench
+30	Skillful Hands
+31	Engine Oil
+32	Tire Fitting
+33	Shock Labor
+34	Modernizations
+35	Harsh Techprocess
+36	Heavy Machinery
+37	Space Workshop
+38	Astroworks
+39	Shiny Bolt
+40	Overfulfillment
+41	Merry Kulibin
+42	High Hardened
+43	Constructive
+44	Transmission
+45	Gravicara
+47	Quality Parts
+48	Star Forge
+49	Optimum Hardness
+50	Defectoscopy
+58	Upgrade probes
+59	Roll back improvements
+60	</color>increases
+61	</color>decreases
+62	Weapon systems
+63	Repair systems
+64	Capture systems
+65	Shielding Field Generator Systems
+66	Scanner systems
+67	Radar systems
+68	Additional equipment systems
+69	Afterburner systems
+71	I want to install an escape pod
+74	Mix all types evenly
+75	Energy-proof spraying
+76	Splinter-proof coating
+77	Rocket-proof coating
+79	Choose something else
+80	Choose a donor
+83	Exploration of water surfaces
+84	Exploration of flat surfaces
+85	Exploration of mountain surfaces
+87	Roll back without a donor
+90	Hull improvement
+95	Distribute improvement evenly
+107	Armoring hull spray
+108	Dismantling of excess equipment
+109	Installation of additional equipment
+110	Agree
+114	Of course, take
+115	Firmware update
+118	Turn in rare minerals
+121	Unique PhysGun Accuracy Improvement
+148	Improve the tranclucator
+151	Spaceship
+152	Technology Center
+153	TC
+159	Lifeboat info

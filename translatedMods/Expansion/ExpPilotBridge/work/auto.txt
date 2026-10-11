@@ -1,0 +1,27 @@
+Назад	Back
+Профи	Professional
+Салага	Noob
+Конец связи	Over and out.
+Пока	So long
+Потруднее	Harder
+Полегче	Easier
+Не стоит браться за несколько дел одновременно. Как только вы выполните условия предыдущего контракта, поговорим о продолжении сотрудничества.	Don't try to multi-task. As soon as you complete the previous contract, we will discuss our future cooperation.
+Есть ли для меня специальное задание?	Have you any special missions for me?
+Вернуться к пилотированию	Return to flight
+Отключено	Off
+Расстояние:	Distance:
+Планета	Planet
+На главную	To the main page
+Пёстрые страницы Гайднета манили вас разными интересностями, но вы сосредоточили внимание на следующих:	The colorful pages of Guidenet lured you with various curiosities, but you focused your attention on the following:
+На мостик	To the bridge
+Далее	Next
+Ноды	Nodes
+Рейнджеры	Rangers
+Рейтинг рейнджеров	Ranger Rating
+34, 33, 33, Фрилансер	34, 33, 33, Freelancer
+Фрилансер	Freelancer
+Фантом	Phantom
+Ренегал	Renegal
+Бамбай	Bambay
+Лякуша	Lyakusha
+Корсар	Corsair

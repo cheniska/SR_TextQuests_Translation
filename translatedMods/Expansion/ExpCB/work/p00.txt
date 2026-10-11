@@ -1,0 +1,42 @@
+58	Right now we can offer you the following routes:
+62	I'm, probably, want to think a bit more
+65	Exchange <Cost> nodes for micromodule <Name>
+67	Exchange <Cost> nodes from node-account to micromodule <Name>
+79	No, huh. I changed my mind
+80	I need micromodules
+84	Exchange <Nod> nodes for <Text>
+85	Remove nodes from node account
+91	On a mission
+92	In the hangar
+93	Status:
+94	Type: <0>
+95	Militia
+96	<br>Militias: <0>
+97	<br>- <color=255,0,0>Defenseless</color> -
+98	<br>Elite warriors: <0>
+99	<br>Warriors: <0>
+100	Elite warrior
+101	Planet: <0>
+102	In system
+104	More about the system
+106	Vitta Pryonis
+107	</color>System: <0><br>Sector: <1><br><br><br>
+110	No, it's kinda pricey
+111	</color>Buy the latest intelligence report
+112	<color=0,50,200>Total in the system</color>
+116	I want to order a DDoS attack on the network of ranger centers
+117	<br>Dreadnoughts: <0>
+118	Dreadnought
+119	<br>Battleships: <0>
+131	on a mercenary ship, we have not found
+132	on a rebel ship, we have not found
+133	on the ship of the special agent, we have not found
+150	Improve equipment of bro <0>
+151	Improve equipment of mercenary <0>
+152	Improve equipment of rebel <0>
+153	Improve equipment of ranger <0>
+154	Improve equipment of special agent <0>
+155	Improve equipment <0>
+165	Maybe I'll choose something else
+168	No, I don't want
+198	Coalition

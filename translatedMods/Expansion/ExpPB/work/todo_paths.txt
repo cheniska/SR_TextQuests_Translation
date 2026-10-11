@@ -1,0 +1,7 @@
+1	Script/Mod_ExpPB/7
+2	FormRuins/PB/Grouping/Back
+3	FormRuins/PB/Grouping/Biomodules
+4	FormRuins/PB/Grouping/BodyMods
+5	FormRuins/PB/Grouping/BodyModsMsg
+6	FormRuins/PB/Grouping/Shop
+7	FormRuins/PB/Grouping/ShopMsg

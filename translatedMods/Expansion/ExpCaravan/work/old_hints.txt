@@ -1,0 +1,7 @@
+1	А, это ты, <Player>. Извини, но болтать с тобой мне некогда, поговорим в другой раз.	Oh, hey, it's you, <Player>. Sorry, I don't have time right now, let's talk later.
+3	А, проклятый пират! Ну иди-ка сюда! Иди, и я по тебе так вдарю, что к клисанам в соседний рукав улетишь!!!	You! Damned pirate! Come here! Come here, you prick, I'll shot you so much that you'll fly off to klissanic galaxy arm!
+4	Эй, а ну не занимай эту частоту! Я выполняю важное задание и у меня сейчас нет времени с тобой трепаться.	Hey, get off this frequency channel! I'm doing important task right now and have no time for mindless talks.
+5	Здравия желаю, <Player>! Прошу меня простить, но прямо сейчас я нахожусь на задании и не могу отвлекаться.	Salute, <Player>. Sorry, but I'm on task, really can't allow any distraction.
+6	Да чтоб у тебя коммуникатор треснул! Проваливай с экрана, <Player>, мне сейчас ну вот совсем не до твоей мерзкой рожи!	Wish your comm will crack like hell! Get rid of my screen, <Player>, I have no time to look at your muzzle!
+7	Слышьте, где тут у вас сбарыжить можно непосильным трудом нажитое?	Listen, where could I trade off a bunch of my hard job?
+21	Вам остаётся лишь догадываться о его содержимом.	All can you do is only guess what's inside.

@@ -1,0 +1,12 @@
+1	MicroModuls/472/AcrynSerie
+2	MicroModuls/472/Text
+3	MicroModuls/472/Text
+4	MicroModuls/472/Text
+5	MicroModuls/487/Text
+6	MicroModuls/ExpLightning1/AcrynSerie
+7	MicroModuls/ExpLightning1/Name
+8	MicroModuls/ExpLightning1/Text
+9	MicroModuls/ExpLightning2/Name
+10	MicroModuls/ExpLightning3/Name
+11	MicroModuls/ExpLightning4/Name
+12	MicroModuls/ExpLightning5/Name

@@ -1,0 +1,1 @@
+202	токены/числа/длина	Похоже, что с кораблём агента <ShipName> всё в порядке. Никаких неиспр => The <Ship Name> agent's ship appears to be doing well. Our mechanics d

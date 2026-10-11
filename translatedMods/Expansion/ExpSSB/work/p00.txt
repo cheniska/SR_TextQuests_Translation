@@ -1,0 +1,27 @@
+3	Blinker
+14	Holoprojector
+17	Accumulated charge: <Data1> / <color=255,240,100>1000</color>
+20	Pulsar
+29	Get updated data
+31	I don't have unnecessary artifacts
+33	Upgrade artifact
+34	I won't improve anything
+35	Ask about probe research results
+36	Hand in surviving fragments of hyperspace probes
+37	Take all unnecessary artifacts
+38	 (tranclucator)
+39	</color>Artifact type:             studied on:
+42	Research station <0> has been destroyed
+47	I changed my mind
+48	Go away
+50	Then I go there immediately
+52	I would like to use your services
+53	Mite modernization
+55	, will close:
+56	Maybe you need some help inside wormholes?
+60	Subspace travel
+81	Get information about opened black holes
+83	<clrEnd>Anomalies were found in the following systems:
+88	Leave the station
+100	Refuse
+101	Confirm

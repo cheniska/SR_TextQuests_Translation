@@ -1,0 +1,20 @@
+8	Как часто производить указанный запрос?	How often should this request be made?
+33	Вы уверены, что хотите переоформить поисковый запрос за #0# cr?	Are you sure you want to re-formulate the search request for #0# cr?
+38	Вы уверены, что хотите удалить данный запрос?	Are you sure you want to delete this request?
+39	Помимо этого, в рамках программы сотрудничества с единым галактическим <clr>Инфоцентром<clrEnd>, здесь вы можете оформить автоматический поисковый запрос, который поможет сэкономить ваше время в нахождении необходимого бортового оборудования.	In addition, as part of the cooperation program with a single galactic <clr>Info Center<clrEnd>, here you can submit an automatic search request that will help save you time in finding the necessary on-board equipment.
+40	В рамках программы сотрудничества с единым галактическим Инфоцентром, здесь вы можете оформить автоматический поисковый запрос, который поможет сэкономить ваше время в нахождении необходимого бортового оборудования.	As part of the cooperation program with a single galactic Info Center, here you can submit an automatic search request that will help save you time in finding the necessary on-board equipment.
+43	топл. бака	fuel tank
+44	Новый поисковый запрос успешно <clr>создан<clrEnd>. Желаете сделать что-нибудь ещё?	New search request successfully <clr>created<clrEnd>. Would you like to do anything else?
+47	Для создания поискового запроса вы должны указать как минимум один подходящий тип корпуса.	To create a search query, you must specify at least one suitable hull type.
+50	Вы уверены, что хотите оформить новый поисковый запрос за #0# cr?	Are you sure you want to make a new search query for #0# cr?
+51	Все бизнес-центры уничтожены. Ваши <color=255,240,100>поисковые запросы</color> временно заморожены.	All business centers have been destroyed. Your <color=255,240,100>search requests</color> are temporarily frozen.
+52	Уважаемый клиент, на вашем счету недостаточно средств для оплаты стоимости запланированного запроса автопоиска. Стандартная стоимость данной операции составляет #0# cr.	Dear customer, your account does not have enough funds to pay the cost of the scheduled autosearch request. The standard cost of this operation is #0# cr.
+53	Уважаемый клиент, по вашему запросу поиска #0# ничего не найдено. Однако не огорчайтесь, в другой раз вам непременно повезёт.	Dear customer, No results were found for your search #0#. However, do not be upset, next time you will certainly be lucky.
+54	Извините, но на вашем счету недостаточно средств для переоформления поискового запроса.	Sorry, but you don't have enough funds in your account for re-registration of your search request.
+55	Извините, но на вашем счету недостаточно средств для оформления поискового запроса.	Sorry, but you don't have enough funds in your account to make your search request.
+56	Для создания поискового запроса вы должны указать как минимум одну подходящую расу производителя.	To make a search request, you must specify at least one suitable manufacturer race.
+58	Запрос на поиск #0#<br><clr> <clrEnd><clr> <clrEnd><clr> <clrEnd><clr> <clrEnd>(раз в #1# дн.)	Search request #0#<br><clr> <clrEnd><clr> <clrEnd><clr> <clrEnd><clr> <clrEnd>(every #1# days)
+59	Выберите запрос, который вы хотели бы <clr>просмотреть<clrEnd>, <clr>изменить<clrEnd> или <clr>удалить<clrEnd>.	Select the query you would like to <clr>view<clrEnd>, <clr>edit<clrEnd>, or <clr>delete<clrEnd>.
+60	Выбранный поисковый запрос успешно <clr>изменён<clrEnd>. Желаете сделать что-нибудь ещё?	Selected search request was successfully <clr>changed<clrEnd>. Would you like to do something else?
+61	Выбранный поисковый запрос успешно <clr>удалён<clrEnd>. Желаете сделать что-нибудь ещё?	The selected search request was successfully <clr>deleted<clrEnd>. Would you like to do something else?
+65	Для создания поискового запроса вы должны указать как минимум один подходящий тип оружия.	To make a search request, you must specify at least one suitable type of weapon.

@@ -1,0 +1,20 @@
+Приказ нулевого уровня на самоуничтожение. Доминаторы подчиняются беспрекословно.	Level zero command self-destruct. Cannot be resisted by dominators.
+Абсолютное оружие	Absolute weapon
+Получив аварийный сигнал, доминатор выбросит часть оборудования и оружия.	Upon receiving a distress signal, the dominator will dump some of its equipment and weapons.
+Аварийный сигнал	Distress signal
+Огромная матрица беспорядочных данных перегружает электронные схемы робота потоком информации. Робот бессмысленно летает и стреляет наугад.	A giant matrix of chaotic data overloads the robot's electronic circuits with a torrent of information, forcing the target to fly and shoot aimlessly.
+Гатрикс матрица	Gatrix matrix
+Программа загружается в бортовой компьютер, она позволяет декодировать речь доминаторов. Для большинства доминаторов необходимо преодолеть защитное поле с помощью сканера.	Once uploaded to the onboard computer, the program is able to decode dominator speech. With most dominators, you must first break through the defensive field with a scanner.
+Интерком	Intercom
+Программа мешает работе электрических цепей, затрудняет навигацию. Робот медленно летает, плохо стреляет.	The program disrupts the function of electronic circuits, complicating navigation and impairing the robot's speed and accuracy.
+Шоккер-5300	Shocker-5300
+Все данные робота удаляются. Доминатор отключается, ни на что более не реагирует.	All robot data is deleted. The dominator shuts down, unable to respond to any signals.
+Системное отключение	System shutdown
+Универсальный кодек подбора и замены паролей орудийных систем. Доминатору понадобится время, чтобы восстановить данные.	A universal codec for hacking and changing passwords of weapon systems. The targeted dominator will require time to restore the data.
+W-Кодер	W-Coder
+Выключен	Shutdown
+Количество запусков: <Count> шт.	Number of runs: <Count>.
+Перегрузка системы	System overload
+Нуль-приказ	Command Zero
+Электромагнитный шок	Electromagnetic shock
+Блокировка орудий	Weapon blockage

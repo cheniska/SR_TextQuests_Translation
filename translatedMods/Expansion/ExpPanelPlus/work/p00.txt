@@ -1,0 +1,2 @@
+7	</color>beacons
+8	</color>beacons

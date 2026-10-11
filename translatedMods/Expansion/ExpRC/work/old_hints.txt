@@ -1,0 +1,19 @@
+2	Ваш нод-счёт в размере <Nod> нд. и личное <clr>хранилище микромодулей<clrEnd> потеряны.	Your node account with a balance of <Nod> nodes and your personal <clr>micromodule storage<clrEnd> have been lost.
+3	Уважаемый <Player>! <RCName> поздравляет вас с наступившим новым <Year> годом и дарит вам этот <Item> в качестве скромного новогоднего подарка. Вы сможете найти его в своём личном <clr>хранилище микромодулей<clrEnd> на любом центре рейнджеров.<br>Всех благ вам в новом году!	Dear <Player>! <RCName> wishes you a happy <Year> and offer you this <Item> as a small Christmas present. You can find it in your personal <clr>micromodule storage<clrEnd> at any ranger center.<br>We wish you all the best to you in the coming year!
+4	Инфошка для запоминания всех проданных игроку ММ из цепочек на ЦР	Infobox to remember all the mm sold to the player from the chains on the CA
+11	Состояние вашего нод-счёта: <BaseNod> нд.	Your node account balance: <BaseNod>
+12	Кстати, напоминаю, что для всех рейнджеров в наших центрах действует бесплатное <clr>хранилище микромодулей<clrEnd>. Настоятельно рекомендую им воспользоваться, если в вашем трюме скопился нежелательный бардак.	By the way, I remind you that there is a free <clr>micromodule storage<clrEnd> for all rangers in our centers. I strongly recommend using it if your cargo hold is piled up with unwanted clutter.
+13	Состояние вашего нод-счёта: #BaseNod# нд.	Your node account balance: #BaseNod#
+32	Это разумно, <Player>. Привезите ещё ноды, чтобы пополнить ваш нод-счёт.	A wise decision, <Player>. Keep bringing us nodes to increase your account balance.
+38	. Микромодуль <Name>	. <Name> micromodule
+39	Стоимость модуля: <Count> нд.	Cost: <Count> nodes.
+40	Уважаемый <Player>! Сегодня мы готовы предложить вам следующие микромодули:<Text>	Dear <Player>! Today we have the following micromodules available:<Text>
+48	Количество: <N> шт.	Quantity: <N>
+74	<color=255,240,100>Персональное хранилище микромодулей</color>	<color=255,240,100>Personal micromodule storage</color>
+76	<color=0,255,0>Собственность вне корабля (Страница </color><color=255,0,255>	<color=0,255,0>Assets outside ship (page </color><color=255,0,255>
+83	<br>Однако это ещё не всё. Благодаря вашему выдающемуся вкладу в развитие знаний о микромодулях, наш исследовательский отдел смог совершить ряд серьёзных открытий.<br>От лица всех учёных и специалистов позвольте вручить вам экспериментальный микромодуль, созданный при вашей деятельной поддержке:	<br>But that's not all. Thanks to your outstanding contribution to the development of knowledge about micromodules, our research department has been able to make a number of serious discoveries.<br>On behalf of all scientists and specialists, let me give you an experimental micromodule, created with your active support:
+84	Сдать <0> неизвестных микромодулей за <1> нд.	Hand in <0> unknown micromodules for <1> nodes
+85	Сдать <0> неизвестных микромодуля за <1> нд.	Hand in <0> unknown micromodules for <1> nodes
+86	Сдать <0> неизвестный микромодуль за <1> нд.	Hand in <0> unknown micromodule for <1> nodes
+87	Замечательно, <Player>! Мы начислили на ваш счёт <0> нод.<1>	That's great, <Player>! We have credited your account with <0> nodes<1>
+88	Желаете узнать что-нибудь ещё?	Anything else you'd like to do?

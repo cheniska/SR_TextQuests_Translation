@@ -1,0 +1,12 @@
+2	Восприимчивость к урону:<br>Э:<FragilityE>%  О:<FragilityS>%  Р:<FragilityM>%	Damage susceptibility:<br>E:<FragilityE>%  F:<FragilityS>%  M:<FragilityM>%
+50	<br> <br>В зависимости от твоего пилотажного стиля, ты можешь выбрать один из трёх корпусов разного размера, а мы, исходя из текущей боевой обстановки, успеем изготовить следующие варианты:<br><br>1. Размер <0> ед. (<1> cr.)<br>2. Размер <2> ед. (<3> cr.)<br>3. Размер <4> ед. (<5> cr.)<br><6><br>Ну что, <Player>, какой из них тебе больше по нраву?	<br> <br>Depends on your flying style you may choose from three different sizes of the hull, and we are, according to current combat situation, are able to craft next options:<br><br>1. With size of <0> pt. (<1> cr.)<br>2. With size of <2> (<3> cr.)<br>3. With size of <4> pt.(<5> cr.)<br><6><br>Well, <Player>, which one you'd like more?
+51	<br> <br>По желанию можешь выбрать один из трёх вариантов разного размера. Конкретно сейчас мы сможем забацать для тебя вот такие жестянки:<br><br>1. Размер <0> ед. (<1> cr.)<br>2. Размер <2> ед. (<3> cr.)<br>3. Размер <4> ед. (<5> cr.)<br><6><br>Ну так что, братан, какой выбираешь?	<br> <br>If you need, you may choose one of three different sizes. Right now we can build those canakins:<br><br>1. With size of <0> pt. (<1> cr.)<br>2. With size of <2> (<3> cr.)<br>3. With size of <4> pt.(<5> cr.)<br><6><br>Well what, bro, what do you choose?
+52	Первый вариант за <0> cr. и <1> нд.	First size for <0> cr. and <1> nd.
+53	Второй вариант за <0> cr. и <1> нд.	Second size for <0> cr. and <1> nd.
+54	Третий вариант за <0> cr. и <1> нд.	Third size for <0> cr. and <1> nd.
+55	С учётом твоего звания мы можем предложить тебе корпус <0>:<br><1><br>	Given your title, we can offer you a hull <0>:<br><1><br>
+56	На текущем уровне развития технологий в Галактике мы можем изготовить для вас корпус <0>:<br><1><br>	With current galaxy technological level we can construct a hull <0>:<br><1><br>
+57	Твоя репутация среди братвы позволяет тебе заказать корпус <0>:<br><1><br>	Your reputation among the gang allows you to order the hull <0>:<br><1><br>
+59	Первый вариант за <0> cr.	First size for <0> cr.
+60	Второй вариант за <0> cr.	Second size for <0> cr.
+61	Третий вариант за <0> cr.	Third size for <0> cr.

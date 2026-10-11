@@ -1,0 +1,3 @@
+14	токены/числа/длина	На этой бомбе уже стоит<br>один детонатор. Второй<br>ей ни к чему. => This bomb already has one detonator. A second one is of no use to it.
+33	токены/числа/длина	При активации генерирует мощный электромагнитный импульс. Наносит тяжё => On activation, generates a powerful electromagnetic pulse. Causes seve
+61	токены/числа/длина	Сложное электронное устройство, уникальное наследие древности, при акт => A complex electronic device, a unique heritage of antiquity, which, wh

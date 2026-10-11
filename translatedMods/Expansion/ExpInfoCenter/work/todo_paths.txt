@@ -1,0 +1,2 @@
+1	ShipInfo/AddInfo/CustomInfos/SM_Info_infos/Description
+2	Help/ButInfoSpace

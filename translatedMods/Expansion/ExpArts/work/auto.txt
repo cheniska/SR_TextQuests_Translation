@@ -1,0 +1,8 @@
+Конец связи	Over and out.
+Артефактор - переходник для подключения артефактов. В его схеме используется принцип кристаллического инвертирования сигнала, поэтому он позволяет подключить <clr>три<clrEnd> артефакта вместо одного дроида.	The Artifactor is an artifact connection adapter. Designed on the principle of crystal signal inversion, it allows to connect <clr>three<clrEnd> artifacts instead of one droid.
+Артефактор	Artifactor
+(сломан)	(broken)
+(не функционирует)	(non-functional)
+Кварковая бомба	Quark bomb
+При взрыве наносит всем материальным объектам значительные повреждения.	When blown up, inflicts substantial damage upon all physical objects.
+Корабли с этой маркерной инфошкой будут получать фатальный урон в случае попадания по ним корабля/оружия/предмета указанного в инфошке типа (можно вешать несколько инфошек сразу, если необходимо, чтобы цель погибала от нескольких разных типов урона)	Ships with this marker infochip will receive fatal damage if hit by a ship/weapon/item of the type specified in the infochip (several infochips can be attached at once if the target needs to die from several different types of damage)

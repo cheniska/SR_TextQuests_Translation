@@ -1,0 +1,74 @@
+21	Refuse services
+28	Complex <td=25>Immunocide
+40	Install the biomodule
+41	<clrEnd>Description:
+42	<clrEnd>Biomodule: <clr>
+53	They say you can get biomodules here
+55	<clrEnd>Stamina needed: <clr>
+58	Thanks, I'm good
+59	No, thank you
+71	I am interested in biomodules
+72	<clrEnd>Modifiable part: <clr>Eye
+73	<clrEnd>Modifiable part: <clr>Hand
+74	<clrEnd>Modifiable part: <clr>Brain
+76	Remove the biomodule
+77	Install another biomodule
+83	Brain:
+84	Eye:
+85	Hand:
+89	The Warrior's Path
+91	Callisto
+93	Analyzing monocular
+99	Combat interface
+101	Blizzard
+103	Neuroprocessor
+133	Flash
+134	[Use the Flash]
+139	Technology skill: <clr>-1<clrEnd>
+140	Dead Man's Hand
+142	Encyclopedia "The Talker"
+146	Orpheus
+148	Artiholder
+150	Swiss Knife
+152	Hammerhead
+154	Belle Starr
+156	Argus
+167	Bioshocker
+195	Charisma skill: <clr>+4<clrEnd>
+199	Omnitrader
+201	Nanorepair complex
+203	Needle
+208	Immunocorrector
+212	Columbator
+218	Grabber
+230	Intuit
+234	iScan
+236	Falconer
+238	Gravitzap
+240	Brigadier
+242	Energon
+244	Liquid Schwartz
+246	Neurodrive
+248	Bjornserck
+250	Datajack
+252	Knows-it-all
+254	Exoshield
+256	Bullzeye
+258	Black mark
+260	Tautitania sprayer
+262	Royal Will
+264	Warper
+285	Face your fear
+322	[Use Phobos]
+332	Vaccinations
+335	Installed biomodules
+336	Biomodules
+357	Additional biomodule infosheet (hidden)
+358	Additional biomodule infosheet for NPCs (hidden)
+361	Admiral optimization
+362	The "Know-it-all" biomodule act code (hidden)
+367	Severe fright
+372	Augmentation <td=25>fever
+381	Variable hidden infoshka for one brain implant
+382	Variable hidden infoshop for a single eye implant
+383	Variable hidden infosheet for one manual implant

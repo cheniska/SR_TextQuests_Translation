@@ -1,0 +1,1 @@
+2	Количество запусков: <Data1> шт.	Number of runs: <Data1>

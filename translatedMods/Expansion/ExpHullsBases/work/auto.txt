@@ -1,0 +1,45 @@
+Урон энергетического оружия: <bonWEnergy> ед.	Energy weapon damage: <bonWEnergy> units
+Урон осколочного оружия: <bonWSplinter> ед.	Splinter weapon damage: <bonWSplinter> units
+Навык точности: <bonSkill1>	Attack skill: <bonSkill1>
+Дальность стрельбы: <bonWRadius> млн км	Firing range: <bonWRadius> million km
+Эффективность дроида: <bonDroid> ед.	Droid effectiveness: <bonDroid>
+Ураган	Hurricane
+Начинайте установку поликсенатной брони	Begin installing the polyxenate armor
+Я передумал	I changed my mind
+Конец связи	Over and out.
+Благодарю за информацию	Thanks for the information
+Пожалуй, в другой раз	Maybe another time
+Приступайте к установке	Proceed with the installation
+В ангар	To hangar
+Возможности нашего портального генератора значительно возросли, а персонал будет рад тому, что свет в отсеках отныне можно не экономить.	The capabilities of our portal generator have increased significantly, and the staff will be glad that from now on there's no need to economize on the lights in the compartments.
+</color> дн.	</color> days
+На эту станцию был	This station has been
+Готов	Ready
+установлен <color=255,240,100>портальный генератор</color>, позволяющий ей совершать гиперпространственные скачки:	fitted with a <color=255,240,100>portal generator</color> that allows it to make hyperspace jumps:
+Ясно	Roger that.
+Отлично!	Excellent!
+Далее	Next
+Назад	Back
+Расслабиться и наслаждаться полётом	Relax and enjoy the flight
+Скачок!	Jump!
+Совсем недавно учёными была изобретена новая защитная технология, использующая принцип направленных сингулярных отклонений материи. Увеличение защиты происходит за счёт точечного искривления материи в местах попадания вражеских снарядов и искажения пространства на пути следования собственных выстрелов.	Quite recently scientists invented a new defensive technology that uses the principle of directed singular deviations of matter. The increase in protection comes from point-curving of matter at the places where enemy projectiles hit and from distorting space along the path of our own shots.
+Массивный генератор встраивается в корпус, используя его детали для формирования активного поля. При этом для работы такого устройства требуется так много энергии, что нам придётся полностью обесточить отсек с космическим <clr>захватом<clrEnd> и перенаправить освободившееся питание исключительно на нужды генератора.	A massive generator is built into the hull, using its parts to form an active field. Such a device requires so much energy that we'll have to completely de-energize the space <clr>hook<clrEnd> compartment and redirect the freed-up power exclusively to the generator's needs.
+Стоимость корпуса: <clr>+25%<clrEnd>	Hull cost: <clr>+25%<clrEnd>
+Цена установки: <Cost> cr.	Installation cost: <Cost> cr.
+Генератор будет доставлен и смонтирован тотчас же после заказа. Правда, другое особое усовершенствование после этого произвести будет уже невозможно. <AddText>	The generator will be delivered and mounted immediately after the order. True, no other special upgrade will be possible afterward. <AddText>
+Это экспериментальная система сверхточного наведения, спроектированная специально для установки на коалиционные космические базы. Монтируется вместо обыкновенного <clr>радара<clrEnd> и существенно повышает точность всех бортовых орудий:	This is an experimental ultra-precise targeting system designed specifically for installation on Coalition space bases. It is mounted in place of the ordinary <clr>radar<clrEnd> and significantly increases the accuracy of all onboard guns:
+Навык точности: <clr>+2<clrEnd>	Accuracy skill: <clr>+2<clrEnd>
+Система будет доставлена и смонтирована тотчас же после заказа. Правда, другое особое усовершенствование после этого произвести будет уже невозможно. <AddText>	The system will be delivered and mounted immediately after the order. True, no other special upgrade will be possible afterward. <AddText>
+Не секрет, что повсеместно применяемые в создании космических кораблей и станций материалы крайне дороги и неэкономичны. Кроме того, повреждённые бронелисты зачастую приходится заменять целиком, так как они попросту раскалываются и рассыпаются на куски.	It's no secret that the materials widely used in building spaceships and stations are extremely expensive and uneconomical. Moreover, damaged armor plates often have to be replaced entirely, since they simply crack and fall apart into pieces.
+У наших инженеров давно есть идея: заменить всю броню станции на поликсенатную. Поликсенат - новейший композитный пластик, который при сверхнизких температурах по прочности не уступает корабельной броне, но в то же время крайне лёгок в повседневном обслуживании.	Our engineers have long had an idea: replace all the station's armor with polyxenate. Polyxenate is a newest composite plastic that at ultra-low temperatures is no weaker than ship armor in strength, but at the same time is extremely easy to maintain day to day.
+Мы можем демонтировать текущую броню и распродать её для частичного погашения расходов. <MoneyText>	We can dismantle the current armor and sell it off to partially cover the costs. <MoneyText>
+Новая броня будет доставлена и смонтирована тотчас же после заказа. Правда, другое особое усовершенствование после этого произвести будет уже невозможно. <AddText>	The new armor will be delivered and mounted immediately after the order. True, no other special upgrade will be possible afterward. <AddText>
+Стабильность и безопасность банков - вот залог успеха экономики. Вы сделали правильные капиталовложения, <Player>.	Bank safety and stability lie at the core of a successful economy. You invested wisely, <Player>.
+Слушай, братан, не пудри мозги. Определись уже в конце концов, ты с нами или против нас?	Quit messing with my head, brah. Make a decision once and for all -- are you with us or against us?
+Наука - двигатель прогресса. Все научное сообщество нашей базы аплодирует вам, <Player>.	Science is the engine of progress. The entire scientific community of our station is applauding you, <Player>.
+Я желаю поучаствовать в развитии вашей базы	I want to help develop your base
+Э-э... Я передумал - пожалуй, в другой раз	Umm... On second thought, maybe some other time
+Я согласен! Начнем модернизацию...	I agree! Commencing modernization...
+Своим благородным поступком вы, <Player>, обеспечили безопасность тысячам больных в нашем центре!	With your noble actions, <Player>, you have ensured the safety of thousands of patients at our center!
+Вы поступили правильно, <Player>. Наша база теперь сможет защитить начинающих рейнджеров, проходящих у нас стажировку.	Your actions were correct, <Player>. Our base can now defend the rangers training here.
+Портальный генератор	Portal Generator

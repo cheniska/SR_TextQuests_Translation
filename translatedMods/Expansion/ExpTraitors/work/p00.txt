@@ -1,0 +1,43 @@
+7	Mercenary center
+8	Neurolink
+9	Inhibitor
+10	</color>gaal
+11	</color>faey
+12	</color>human
+13	</color>peleng
+14	</color>maloq
+16	I'm leaving
+24	Leave the business center
+31	I'm afraid that such a contribution is too big for me
+38	Okay, already gone
+64	I'm more of a cunning prey than a foolish predator
+65	Probably not
+66	I'm absolutely certain, and I will not regret my decision.
+67	I need some time to think.
+69	Got it. I'll get right on it.
+72	Consider me gone.
+73	I don't know
+76	See ya
+80	Uh huh, thanks
+81	I agree
+82	No, I'll get down to business
+83	You won't have to wait long
+99	0, 100, 0, Pirate
+100	25, 75, 0, Privateer
+101	50, 50, 0, Freebooter
+102	75, 25, 0, Distributor
+103	100, 0, 0, Mediator
+104	0, 75, 25, Extortionist
+105	25, 50, 25, Raider
+106	50, 25, 25, Knacker
+107	75, 0, 25, Knacker
+108	0, 50, 50, Robber
+109	20, 30, 50,Robber
+110	50, 0, 50, Robber
+111	0, 25, 75, Corsair
+112	25, 0, 75, Corsair
+113	0, 0, 100, Legionnaire
+114	Traitor
+115	Invisible info box for shifting a parrot
+120	Talking parrot
+121	if(Name(CurItem()) == 'Talking parrot')

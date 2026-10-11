@@ -1,0 +1,86 @@
+1	Fuel Tanks
+27	Active radiation release<br>end in
+29	Energy core
+30	Active energy core
+36	No thanks, my life is more precious to me
+38	No, it sounds too dangerous
+40	I want to discuss the details of my task
+41	I would like to receive a special task
+42	I need a cloaking device
+43	Program launch: <color=0,50,200>Detacher</color>
+55	I changed my decision, over and out
+56	I changed my decision, I do not need camouflage
+57	Thank you, over and out
+58	Thank you, but I would like to buy more cloaking devices
+60	Thanks, now on to other things.
+61	Thank you, but I need to know something else
+62	Understood, end of connection
+63	Well, it was not easy, but I got the job done
+73	Thank you for the honor
+80	Mission accomplished, I would like to receive my reward
+81	Well thanks, I will make a note
+85	Trion Shield Generator
+86	Trion Gripper
+87	Trion Droid
+88	Trion Scanner
+89	Trion Radar
+90	Trion Engine
+91	Trion Fuel Tank
+96	No, come on, over and out.
+107	samples of unknown dominator modifications
+108	samples of unknown dominator modifications
+109	sample of unknown dominator modification
+112	Oh, no need to thank me!
+116	Trion Shield Generator
+117	Trion Gripper
+118	Trion Scanner
+119	Trion Radar
+120	Trion Engine
+121	Trion Fuel Tank
+131	bertors
+132	bertor
+133	bertor
+135	energy cores of bertor
+136	energy cores of bertor
+137	energy core of bertor
+144	No, that's enough for me, over and out
+155	Thanks, I'll be really happy
+167	Yes, the mission is cancelled.
+171	No, keep going
+178	Enter boarding code
+182	What's wrong with you, I did all this just for the sake of science
+185	Trion Shield Generator
+186	Trion Gripper
+187	Trion Droid
+188	Trion Scanner
+189	Trion Radar
+190	Trion Engine
+191	Trion Fuel Tank
+212	I order you to jump into another system
+213	Cancel jump, over and out
+215	Klissan
+216	Terronoids
+217	Kelleroids
+218	Blazeroids
+219	Coalition
+223	Course to
+229	bertor memory blocks
+230	bertor memory blocks
+231	bertor memory block
+235	Well, thank you very much for that
+236	Thank you humbly
+296	<color=0,255,0>Mission succesfully completed</color><br>
+297	<color=255,0,0>Mission failed</color><br>
+298	<color=255,240,100>Mission in progress</color><br>
+347	Enhanced security protocols
+350	Detacher
+353	Reconfigured blast wave localizer
+355	Fisher
+356	Solid
+357	Archer
+361	Bertor memory block
+362	Empty bertor memory block
+366	Case with secret information
+385	Asynchronous convector
+391	High strength Trion parts set
+396	Peleng recon probe

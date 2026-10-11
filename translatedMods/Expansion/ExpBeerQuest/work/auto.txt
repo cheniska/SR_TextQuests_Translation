@@ -1,0 +1,13 @@
+экономический симулятор	economy simulator
+Планета	Planet
+Я берусь за это задание	I'll take the mission
+Мне надо подумать	I need to think
+Полегче	Easier
+Потруднее	Harder
+Жаль...	Pity...
+Задание выполнено	Mission accomplished
+Уже вылетаю!	Leaving right now!
+Конец связи	Over and out.
+, система	, system
+Есть ли для меня специальное задание?	Have you any special missions for me?
+Ящик с пивом	Beer crate

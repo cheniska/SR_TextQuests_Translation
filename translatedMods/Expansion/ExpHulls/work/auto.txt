@@ -1,0 +1,16 @@
+Скорость двигателя: <bonSpeed> ед.	Engine speed: <bonSpeed>
+Сила энергетического оружия: <bonWEnergy> ед.	Energy weapons damage: <bonWEnergy>
+Сила ракетного оружия: <bonWMissile> ед.	Missile weapons damage: <bonWMissile>
+Навык точности: <bonSkill1>	Attack skill: <bonSkill1>
+Масса корабля: <bonMass><clr>%<clrEnd>	Ship mass: <bonMass><clr>%<clrEnd>
+Броня корпуса: <bonHull> ед.	Hull armor: <bonHull>
+Эффективность дроида: <bonDroid> ед.	Droid effectiveness: <bonDroid>
+Мощность защитного поля: <bonDef><clr>%<clrEnd>	Shield power: <bonDef><clr>%<clrEnd>
+Дальность прыжка: <bonJump> пк.	Jump range: <bonJump> pc
+Навык манёвренности: <bonSkill2>	Mobility skill: <bonSkill2>
+Навык торговли: <bonSkill4>	Commerce skill: <bonSkill4>
+Навык обаяния: <bonSkill5>	Charisma skill: <bonSkill5>
+Навык техники: <bonSkill3>	Technology skill: <bonSkill3>
+Мощность сканера: <bonScan><clr>%<clrEnd>	Scanner power: <bonScan><clr>%<clrEnd>
+Гугол	Googol
+Быстрый рейнджерский корпус. Согласно опросам, был признан лучшим корпусом 3299 года.	A fast ranger hull. Voted the best hull of 3299.
