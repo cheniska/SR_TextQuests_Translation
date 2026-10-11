@@ -1,0 +1,111 @@
+1	Nuclear torpedoes are an especially powerful weapon that can be bought at a <clr>Military Base<clrEnd> or at a <clr>Dominion<clrEnd>.
+2	Once a silo is installed on your ship, after purchasing missiles at one of the purchase points you will be able to launch them with a special button on the weapon panel.
+3	Mind you, you can't <clr>use a cannon to shoot sparrows<clrEnd>.
+4	Hybrid Torpedo
+5	A superpowerful homing weapon for use against large targets or enemy concentrations. Banned by the Coalition Council because of its colossal power; permitted only with CAFIC authorization.
+6	Quantity: <N> pcs.
+7	Thermonuclear Torpedo
+8	A powerful homing weapon for use against large targets or enemy concentrations.
+9	Electromagnetic Torpedo
+10	A homing torpedo with a huge electromagnetic pulse generation unit capable of turning an entire fleet into scrap metal.
+11	Neutron Torpedo
+12	Nuclear Torpedo
+13	A powerful homing weapon for use against large targets or enemy concentrations. Banned by the Coalition Council because of obsolete technology.
+14	A powerful homing weapon for use against large targets or enemy concentrations. Banned by the Coalition Council.
+15	Invisible Weight
+16	<color=248,252,248>Equipped with launchers for firing <color=255,240,100>nuclear torpedoes</color>.</color>
+17	Hybrid Torpedo (<color=255,240,100>RMB</color> - change ammunition)
+18	Thermonuclear Torpedo (<color=255,240,100>RMB</color> - change ammunition)
+19	Electromagnetic Torpedo (<color=255,240,100>RMB</color> - change ammunition)
+20	Neutron Torpedo (<color=255,240,100>RMB</color> - change ammunition)
+21	Nuclear Torpedo (<color=255,240,100>RMB</color> - change ammunition)
+22	The torpedoes can't be carried without special equipment, let alone thrown out
+23	I want to buy nuclear torpedoes for your station
+24	I want to install nuclear weapons on your station
+25	Fighter
+26	The scanner cache has detected the launch of an "Arrow"-class torpedo!
+27	Launch location: (x;y);
+28	Silo carrier: ship.
+29	Consider it done. But just in case, let me warn you right away - our torpedoes are especially nuclear. It can get pretty hot in the ship, so make sure to use an anti-radiation suit... Or else line the cabin with foil, heh-heh. Though my memories of civil defense classes tell me you'd need special foil, a couple of centimeters thick at least.
+30	We won't be shy about charging - every launcher is accounted for.<br>There, it's all ready, see? But don't expect to get it taken back for free.
+31	Well, our guys will sort that out in no time - you won't even reach the hangar. Use it in good health, as they say, heh-heh.
+32	In that case our guys will first check what you have on your little ship at all...
+33	I bet you've already had your ears bent about how the maloqs "disinfected" Gralgar? If not, the short version is that they flooded that little planet with nuclear fire all the way up to the stratosphere. It didn't help them any, but the planet was finished for good, so the Coalition Council decided to ban such "nuclear outpourings" just to be safe. They didn't ban it completely, though, because nuclear blasts may not be eco-friendly, but they're very effective.
+34	But here's what I'm getting at. We have no bans on using nuclear weapons, of course, but mining the raw material and producing new torpedoes is costly. For that reason we can't equip everyone who wants it with thermonuclear installations. We have to issue torpedoes in limited numbers, only to the most respected and skilled guys. As of recently you're one of them. By your merits you're entitled to up to <NukesMax> nuclear torpedoes a year, but you'll have to pay for installing the <clr>launch silo<clrEnd> and for the torpedoes themselves out of your own pocket. Does the offer suit you?
+35	Well, think about it, then. We can wait. The main thing is that the enemies don't skin you in the meantime.
+36	We said it straight, and we'll answer for our word.
+37	So, the guys didn't find a launch silo on your ship, but if you want, we'll put one in - that won't be a problem. A standard Coalition-pattern torpedo launcher of class <Class> will cost you <Cost> cr. If you bring a cooler ship, we can fit a cooler launcher, but only if it <clr>fits by size<clrEnd>. They're pretty hefty, the devils - <NukeSize> cubic meters.
+38	As for torpedoes, sorry - we <clr>can't issue you any more this year<clrEnd>. You've already drawn your whole share from the common pot, and we still have to equip our own ships and dominions with them.
+39	As for torpedoes, we can offer you <NukesCount> more pcs. for <NukeCost> cr. Just note that they won't home in on small maneuverable ships, since they're too slow and clumsy for such tasks.
+40	So, you already have a launcher, but if you happen not to need it, we can always remove it and keep it for ourselves.
+41	You don't need it today, but tomorrow - who knows. Better think it over again, or else, heaven forbid, you'll be left without a thinker altogether.
+42	How many torpedoes should I ship?
+43	I would like to buy thermonuclear weapons from you
+44	At a pirate base I was told that once I become <Rank> I could ask the clan for some powerful weapon...
+45	I would like to buy nuclear torpedoes (<Cost> cr. each)
+46	I would like to buy nuclear torpedoes (<Cost> cr. each) (Insufficient funds)
+47	I want to remove my launcher
+48	I want to install a launcher on my ship (<Cost> cr.)
+49	I want to install a launcher on my ship (hull too small)
+50	I want to install a launcher on my ship (<Cost> cr.) (Insufficient funds)
+51	Sounds kind of dubious so far, I need to think
+52	Yes, that suits me fine
+53	I guess I don't need anything for now, thanks
+54	Sure we have, what's there to talk about! Only you won't get that weapon, since you've only just started stirring around in our circles and have no authority. But once you become <Rank>, hop over to the nearest <clr>Dominion<clrEnd> and ask about this business again.
+55	Listen, you're a pirate brotherhood and all that... Don't you have some really powerful weapon against the military and the dominators?
+56	Got it
+57	Oho! A connoisseur, I see! Well, if you've got a few spare credits lying around and you're ready to pay us for assembling new devices, we have no right to stop you.
+58	And now let's move on to the list of our "toys"
+59	But note that no matter how you try, your ship's launcher can take no more than <clr>one<clrEnd> modification, so if need be you'll have to remove the one already installed.
+60	There, our specialists have already fitted your launcher with everything necessary. Use it in good health!
+61	Ranger, our specialists say your launcher already has another modification installed - #name#. Do you really want our technicians to remove the old modification and fit the new one?
+62	Ranger, our specialists say you have already installed this same modification on your launcher. There's simply no point in doing anything!
+63	Listen, <Player> - do you know what smell I adore in the morning? No, not the smell of thermonuclear torpedoes, of course, since radiation has no smell, fool! In the morning I adore the smell of strong maloq coffee, and also the news reports that some Ranger or other has atomized a couple more big steel bastards.
+64	The nuclear torpedoes you ordered have already been loaded onto your ship.
+65	Pah - what a wimp! Who goes throwing such guns around, huh, <Player>?! Aren't you one of those... greenies? They're a plague worse than the dominators, mark my words! First they beat the fighting atom, and tomorrow, mark you, they'll get to the peaceful herbivore...
+66	Ah, never mind, to hell with you! We've removed your launcher, don't worry.
+67	No sooner said than done! A brand-new torpedo launcher for a future hero of the Galaxy, ha! It's always a pleasure to put one into the hands of a brave and conscientious humanoid.
+68	Then first we have to run a brief inspection of your little ship...
+69	Have you ever heard, <Player>, about the nuclear inferno our red-faced falcons unleashed on the tin cans at Gralgar back in the day? Yeah, those were the times... The Coalition Council still didn't limit our means of space warfare back then. Now nuclear torpedoes are issued only in fixed quantities and strictly against a receipt on conve... conver... in short, on restricted proper use, damn them! Supposedly the excessive release of radioactive isotopes into space may come back to bite future generations, ha! And the tin cans seizing the whole Galaxy won't come back to bite them, will it?! Ahem, anyway, I got sidetracked.
+70	So, you said you want a more powerful gun, right? Based on your current rank, we could allot you, against a receipt, up to <NukesMax> nuclear torpedoes a year. Naturally, you'll first have to install a bulky <clr>launch silo<clrEnd> and a storage compartment for nuclear charges on your ship. You'll have to do all that at your own expense too, since we're not exactly rolling in luxury here, you know. Do you agree to the terms described above?
+71	Well, think it over, my dear fellow. Meanwhile, while you think, the dominators will keep installing ever new deadly toys at their damned bases.
+72	Want to blast something, you say? That can be arranged. But as a Ranger you're still too green and young in my authoritative eyes, so come back with this question some other time. At least once you become <Rank>.
+73	Promised, you say? Well, if it was promised, we'll keep our word.
+74	Well, as far as I can see, there's no launch silo on your ship yet. No problem - we'll install one. According to the <clr>tech level<clrEnd> of your hull, installing a torpedo launcher of class <Class> will cost you <Cost> cr. Just in case, let me clarify right away that the cooler the hull, the better the launcher that can be fitted into it. But keep in mind that such a monster won't fit into really small hulls at all - <NukeSize> cubic meters, after all.
+75	As for torpedoes, this year we <clr>can't issue you any more<clrEnd> - sorry. All our supplies are strictly allocated to combat units - Rangers only get the surplus of production, and you've already received yours.
+76	As for torpedoes, this year you can still get <NukesCount> pcs. at a price of <NukeCost> cr. And yes, I remind you that using these torpedoes against small-tonnage ships is strictly forbidden, and technically impossible too - to reinforce the ban.
+77	I see you've already put a launcher on your ship? Right, I approve! But, according to the Coalition Council declaration, I'm still obliged to inform you that, under the program for combating environmental pollution by nuclear decay products, we can dismantle the launcher from your ship completely free of charge and at your sole request, right now if you like. As a combat officer, though, I categorically advise against it, but rules are rules.
+78	As for nuclear torpedoes, this year we <clr>can't issue you any more<clrEnd> - sorry. All our supplies are strictly allocated to combat units - Rangers only get the surplus of production, and you've already received yours.
+79	As for torpedoes, this year you can still get <NukesCount> units at a price of <NukeCost> each. And yes, I remind you that using these torpedoes against small-tonnage ships is strictly forbidden, and therefore technically impossible.
+80	That's what you think now, that you don't need it, but when the dominators pin you against the wall and start stuffing their nanobots into your nozzles, what will you do then?
+81	Anyway, that will be your problem, not ours. But remember my words: it's always nice to have a "red button" in reserve
+82	How many torpedoes should I buy?
+83	I would like to buy nuclear weapons from you
+84	Tell me, don't you have some ultimately powerful weapon against the dominators? We could just take them and blast them with something stronger...
+85	I was once promised that, upon becoming <Rank>, I could get some powerful weapon at my disposal...
+86	I would like to buy hybrid torpedoes (<Cost> cr. each)
+87	I would like to buy hybrid torpedoes (<Cost> cr. each) (Insufficient funds)
+88	I would like to buy electromagnetic torpedoes (<Cost> cr. each)
+89	I would like to buy electromagnetic torpedoes (<Cost> cr. each) (Insufficient funds)
+90	Powerful weapons are good, and staggeringly powerful ones are even better! Do you have any means to <color=220,20,20>upgrade<clr> nuclear weapons?
+91	Excellent! Time to test the upgrade in battle.
+92	I guess I'm not ready for such power yet. Another time.
+93	I guess I'll look at something else
+94	I'm ready, start the replacement!
+95	I would like to buy neutron torpedoes (<Cost> cr. each)
+96	I would like to buy neutron torpedoes (<Cost> cr. each) (Insufficient funds)
+97	I would like to buy thermonuclear torpedoes (<Cost> cr. each)
+98	I would like to buy thermonuclear torpedoes (<Cost> cr. each) (Insufficient funds)
+99	I want to remove the launcher from my ship
+100	You're really twisting my arm! First I need to think
+101	I'll definitely come!
+102	Agreed, what else can I do
+103	Install "World Destroyer"
+104	World Destroyer
+105	1. Modification "World Destroyer" (#aviable#)
+106	The standard nuclear torpedo warhead is reinforced with an ultrasensitive liquid semiconductor detonator, and one of its "layers" is replaced with a quark one. The resulting power is usually permitted only for battleships or even dreadnoughts, but we made an exception for you.
+107	Torpedo damage increased by <clr>450<clrEnd> units.
+108	Installation cost: money cr.
+109	Install "Bandolier"
+110	Bandolier
+111	2. Modification "Bandolier" (#aviable#)

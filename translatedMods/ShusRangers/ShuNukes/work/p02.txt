@@ -1,0 +1,51 @@
+112	Auxiliary projectile feed systems and silo preparation for the next salvo, along with updated targeting programs, significantly reduce the launcher's downtime between salvos
+113	Reduces the launcher's reload time by <clr>three<clrEnd> days (but not below one)
+114	Install "Catapult"
+115	Catapult
+116	3. Modification "Catapult" (#aviable#)
+117	Additional boosters installed in the silo let the torpedo reach a much higher cruising speed and thereby improve the projectile's chances of getting past a missile defense system.
+118	Torpedo speed increased by <clr>750<clrEnd> units.
+119	Install "Missile Screen"
+120	Missile Screen
+121	4. Modification "Missile Screen" (#aviable#)
+122	The tactic of decoys of various kinds, including thermal ones, has been widely used by planetary forces since ancient times. Likewise, this modification releases a host of small projectiles that cover the lead one, shielding it from missile defense systems.
+123	The launcher additionally fires <clr>25<clrEnd> small missiles that cover the lead one carrying the nuclear charge
+124	<color=20,220,20>Available for purchase</color>
+125	<color=220,20,20>Undergoing field tests</color>
+127	How many torpedoes do you want to launch at the target?
+128	Homing a nuclear torpedo on such a small ship is technically impossible
+129	Invalid target type
+130	Target selection is impossible, the torpedo silo is reloading
+131	Target selection is impossible, the torpedo silos are reloading
+132	No nuclear torpedoes of another type detected in the hold
+133	Ammunition type changed to: <NukeType>
+134	The selected target has been cleared
+135	I agree, let's start processing the purchase
+136	Maybe not now
+137	You can buy additional nuclear ammunition for our station. One will cost you cost cr.
+138	You can install silos for launching nuclear torpedoes on our station. They will cost you cost cr.
+139	I agree, go ahead and install
+140	This ship carries <NukeShafts> to launch nuclear torpedoes.
+141	Volume occupied: <NukeShaftsSize>
+142	<NukeShafts> launchers installed
+143	Nuclear Weapons
+144	one launcher installed
+145	<NukeShafts> launchers installed
+146	Your ship carries <NukeShafts> to launch nuclear torpedoes.
+147	Ammunition type: <NukeType>
+148	Charges remaining: <NukesLeft>
+149	Homing range: <Range>
+150	Damage dealt: <DamageMin>-<DamageMax> units
+151	Cruising speed: <Speed>
+152	Status: <Status>
+153	Modification: Modif
+154	Launcher class: <NukeLauncherClass>
+155	else text3 = 'None';
+156	Launcher class: <NukeLauncherClass>
+157	<color=255,0,0>No charges</color>
+158	<color=0,255,0>Ready to fire</color>
+159	Reloading <color=248,252,248>(</color><Days> <color=248,252,248>days)</color>
+160	An info item that detects a hit by an electromagnetic torpedo
+161	if(ship == Player()) ShipAddCustomShipInfo(ship, 'ExpArts_ShipStunned', 'You have been exposed to unknown radiation and temporarily lost control over your own actions.', DayLong);
+162	if(ship == Player()) CustomEther('EnergyRebuff',0,'','The Reverser protected your ship from the negative effects of the EMP wave');
+163	An info item that detects a hit by a neutron torpedo
