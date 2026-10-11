@@ -1,0 +1,31 @@
+1	It seems this star has appeared on your sensors recently. Something strange...
+2	visited. Flying on.
+3	Well then?<br><br>For a <clr>month<clrEnd> we will maintain the puncture we created near our base.<br><br>As soon as you fly into the puncture, we will create a powerful pulse that will start the phenomenon of reprojection.<br><br>Good luck, ranger! You will need it!
+4	Subportal (wei t.)
+5	Excellent!<br><br>The current price is <0> cr. We have already listed all the Subportals you have on hand.
+6	Excellent, ranger!<br><br>Your research helped us a great deal.<br>You probably noticed that at the end of your jumps you started ending up <clr>in the same place<clrEnd>?<br><br>The pulse we applied weakened enough and produced an interesting effect - it looped between two random systems.<br><br>We were able to calculate the power of a pulse that can repeat this with 99.997864% accuracy, and thus complete our cutting-edge research - the <clr>Subportal 2.0<clrEnd>, as we call it.
+7	First, the Subportal, as improved by us, can build wormholes along a route you specify.<br><br>Second, its charge is tuned so that such a hole does not collapse immediately after clearing the hyperspace bubble it "captured," but continues to exist.<br><br>By the way, for a small fee we are ready to upgrade <clr>any of your Subportals<clrEnd>. Alas, creating such devices from scratch is too labor-intensive.
+8	Unfortunately, you do not have enough funds in your account. We are forced to decline.
+9	Excellent! The new Subportal v 2.0 has already been moved to your hold!
+10	I'm not interested in that right now
+11	The Cascade? What is this about?
+12	Yes, always ready! Let's start right now!
+13	Another wormhole visited... It seems we need to move on to the next one. The sensors say
+14	No, I'm not interested in this and will never want to take part in anything like it!
+15	Leaving right now!
+16	Wow, so what does it do with an effect like that?
+17	Wow... I see. Thanks, maybe I'll drop by.
+18	All right, I'll come back later
+19	I think that's all for today!
+20	I want to upgrade another Subportal
+21	A volunteer? What is this about?
+22	Our research into black holes is approaching a certain logical conclusion. But we badly need the help of a volunteer...
+23	I want to upgrade a Subportal
+24	Yes, a volunteer.<br><br>You, ranger, have spent a lot of time studying black holes and helping our department with its research - for which you have our boundless gratitude.<br><br>Now we are interested in a most intriguing phenomenon - the Cascade, and if you help us again, we will of course find a way to thank you.
+25	So, where to begin...<br><br>As you understand, the nature of spatial "punctures" is quite remarkable and has a number of peculiarities.<br>So, we discovered that under certain, rather rare circumstances, punctures start to "reproject" themselves further, creating ever new punctures.<br><br>Now, in the course of a series of experiments we managed to find such conditions. We can make a puncture "project" itself, but what happens next, we do not know. Perhaps, thanks to our pulse, it will start to <clr>project itself further<clrEnd> - we do not know.<br><br>That is why we need your help. If you make this whole journey, we will reward you generously. Both in monetary terms and... Perhaps we will share <clr>the results of our experiments<clrEnd> with you...
+26	A pity, a great pity. Well, it is your choice, and we will find another candidate to take your place.
+27	Go to the wormhole created by the Research Station.
+28	Stores info about the black hole
+29	Subportal v 2.0
+30	days = CountBox('Bm.Items.2Minerals','Time since the wormhole appeared',3,190);
+31	Upgraded by scientists from the advanced department studying black holes, this Subportal creates a hole leading to the given coordinates and existing for a given period of time

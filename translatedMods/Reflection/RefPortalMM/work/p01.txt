@@ -4,7 +4,7 @@
 4	Bekasse
 5	An old find of <clr>Keller<clrEnd> in <clr>deep space<clrEnd>. And the first object of his experiments. Having studied the set of information contained in the object, Keller turned it into a <clr>micromodule<clrEnd> - quite a good one for travel in open space. True, Keller grew bored of it, and the object went wandering the expanses of the Galaxy again. The information output system was hopelessly dismantled by the Dominator.
 6	Viksher
-7	After meeting humans, the gaals drew quite a lot from their culture for the development of their philosophy. For example, Vaan'Jar, the "pilgrimage into the world," one of the stages of growing up for a gaal, during which the humanoid visits various planets in search of the harmony of the cosmos. This <clr>micromodule<clrEnd> was developed to help such pilgrims, but for some reason it never reached consumers. Output of information on the module's properties is not provided.
+7	After meeting humans, the gaals drew quite a lot from their culture for the development of their philosophy. For example, Vaan'Jar, the "pilgrimage into the world," one of the stages of growing up for a gaal, during which the humanoid visits various planets in search of the harmony of the cosmos. This <clr>micromodule<clrEnd> was developed to help such pilgrims, but for some reason it never reached consumers. Output of information on the properties of the module is not provided.
 8	Shervi
 9	An old faeyan technology of Aal Faert, a genius considered mad, which long ago lost its identification marks, so that its principle of operation is lost forever.
 10	<clr>But it seems there are connectors here similar to those used on micromodules. It is worth checking on the equipment native to this thing<clrEnd>

@@ -1,0 +1,45 @@
+1	Mister
+2	Shu, give back the donations from 1C!
+3	Who are you?
+4	Okay
+5	Shu
+6	Get out of here, you filthy pirate!
+7	Me, a filthy pirate?! Come over here!
+8	Something broke. Ask Marshal for fixes)
+9	And where?
+10	Hi, <Player>! As you can see, we're retaking this system from our enemies. Be so kind as to lend a hand. The brothers are dying.
+11	Hi, <Player>! As you can see, I'm busy here: commanding the capture of this system from the Clan's enemies. So you'd better help however you can.
+12	Here it is<br>Discord: @marshalska<br>InTheUnion: https:
+13	Listen, <Player>, we and the boys are short a couple thousand credits - to celebrate one of our own getting promoted. Will you chip in for this noble cause? Besides, glory matters more than money, and we'll remember you fondly afterwards - oh-ho-ho!
+14	Listen, ranger, I see you're having a hard time flying... Let me help you - dump all the cargo from your hold!
+15	Listen, there are so many flying around here...<br>Let's rob somebody!
+16	*Unintelligible sounds*<br>-*Hic*!.. <Player>, do you respect me?!
+17	Oh, thank you! The boys and I will never forget this!
+18	All right, I'm coming
+19	Do you guys ever sober up out there?!
+20	Who are you going to rob here, anyway? Our own?<br>Aw, forget you...
+21	Well, let's look around for someone to rob...
+22	Out of the way, ranger scum! This system will belong to the Clan!
+23	Look what he's thought up! Should I give you the password to my node account too?
+24	No, I'm not chipping in for your drinking binge!
+25	Sorry, I'm broke.
+26	All right, here you go
+27	So long...
+28	That this system is in the hands of the Clan is a sign of its strength and greatness, insignificant <Player>!
+29	Here, brother - this system is ours too! And the whole Galaxy will be ours! Hurray! Glory to our Baron!
+30	Sweetie, I know you love me too, but let's skip that, all right?
+31	In September!
+32	That doesn't matter anymore! Don't stifle a free creative spirit!
+33	Come on, don't be greedy... :(
+34	Well, we'll see...
+35	Until the first raid of the dominators or the Coalition fleet...
+36	Glory to the Supreme Baron!
+37	Shu, I've been messing with your Secret Project...
+38	Shu, when is the beta test of the Project?
+39	And of what year!
+40	The probability analyzer has run calculations related to mentions of pirate activity and concluded that a major attack by the pirate Clan should begin soon.
+41	I'm just a free peleng, earning a living however I can. And you're getting in the way of that. So I ask you to get out of my path, or things will go badly.
+42	Me, a filthy pirate?! Boys, guns at the ready! Time to grind this insolent ranger into dust!
+43	You again? I have no time to chat, ciao!
+44	I said: out of the way, scum! Don't clutter my airwaves with your filthy mug!
+45	I'll help right now!

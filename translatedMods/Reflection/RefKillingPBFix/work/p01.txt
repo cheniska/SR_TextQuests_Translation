@@ -1,0 +1,40 @@
+1	<clr>Robbery:<clrEnd>
+2	Civilian ship: <td=246><clr>1<clrEnd> pts.
+3	Ranger: <td=246><clr>2<clrEnd> pts.
+4	<clr>Destruction of Coalition forces:<clrEnd>
+5	Military ship: <td=236><clr>16<clrEnd> pts.
+6	Flagship: <td=236><clr>60<clrEnd> pts.
+7	Non-pirate ranger: <td=236><clr>24<clrEnd> pts.
+8	Civilian ship: <td=246><clr>8<clrEnd> pts.
+9	Military base: <td=236><clr>32<clrEnd> pts.
+10	Ranger center: <td=236><clr>32<clrEnd> pts.
+11	Business center: <td=236><clr>24<clrEnd> pts.
+12	Research station: <td=236><clr>24<clrEnd> pts.
+13	<clr>Destruction of dominators:<clrEnd>
+14	Klig: <td=246><clr>1<clrEnd> pts.
+15	Rattor: <td=246><clr>1<clrEnd> pts.
+16	Shtip: <td=246><clr>1<clrEnd> pts.
+17	Menoc: <td=246><clr>2<clrEnd> pts.
+18	Smersh: <td=246><clr>4<clrEnd> pts.
+19	Urgant: <td=246><clr>8<clrEnd> pts.
+20	Equantor: <td=236><clr>16<clrEnd> pts.
+21	Shipyard: <td=236><clr>16<clrEnd> pts.
+22	Bertor: <td=236><clr>24<clrEnd> pts.
+23	Capturing a system for the clan is worth <clr>16<clrEnd> points.
+24	Income from smuggling is counted separately. For every <clr>3000<clrEnd> cr. of net profit, <clr>1<clrEnd> point is added to the pirate rating.
+25	Oh, and if you're put off by helping the Coalition against the dominators, let me explain: actions against the tin cans count toward your rating as you gaining combat experience, not because we owe anyone anything. Got it?
+26	To get the rank of <NextRank>, you need to earn <NeedPoints> military pilot points. Here is the scale of points for downed dominator ships:
+27	Gigantic <Name6> - <RankPointsForK6>
+28	Heavy <Name1> - <RankPointsForK1>
+29	Formidable Shipyard - <RankPointsForK1>
+30	Striking <Name2> - <RankPointsForK2>
+31	Fast <Name3> - <RankPointsForK3>
+32	Light <Name4> - <RankPointsForK4>
+33	Compact <Name5>  - <RankPointsForK5>
+34	Swift <Name7>  - <RankPointsForK7>
+35	Cunning Rattor - <RankPointsForK7>
+36	For liberating systems we award <RankPointsForLiberationSystem> points.
+37	For killing each pirate - <RankPointsForDeadPirates> points, including pirate rangers.
+38	For destroying a Pirate Base we award <clr>9<clrEnd> points, and for a Dominion - <clr>15<clrEnd> points.
+39	In addition, you will earn warrior points for carrying out various military assignments from planetary governments. Yes, yes, we will count everything. And for violating flight rules, for killing peaceful ships, for displays of cowardice and desertion from the battlefield, you will lose your points, up to being stripped of your rank! Is that clear, <Player>?!
+40	Ranger! You recently eliminated a pirate den in the system system. We could not leave the matter aside and immediately contacted the local governments. Now you will be able to freely use all the services provided to rangers on the planets of this system and of the sector in general.<br>CAFIC Political Department.
