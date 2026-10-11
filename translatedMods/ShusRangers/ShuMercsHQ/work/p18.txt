@@ -12,7 +12,7 @@
 1707	Resume: In the past he worked as ambassador of the planet <clr>Eipentak<clrEnd>. He learned the hard way that a conflict can far from always be settled peacefully. After the eighteenth robbery he was dismissed from his post. He spent all his remaining money on a shooting-range subscription, thanks to which he passed my entrance standards with the minimum score.
 1708	Keofirlis
 1709	Keofirlis
-1710	Resume: A former smuggler who managed to bring several dozen tons of costume jewelry to <clr>Ramgatrue<clrEnd> disguised as plasma casings and gun oil. He also slipped past a pirate cordon the legendary ring of <clr>Rachehan<clrEnd>, which the galaxy's most famous pirate wore almost the whole way on the third finger of his fourth hand. A lucky oddball, in a word - you won't find many like him.
+1710	Resume: A former smuggler who managed to bring several dozen tons of costume jewelry to <clr>Ramgatrue<clrEnd> disguised as plasma casings and gun oil. He also slipped past a pirate cordon the legendary ring of <clr>Rachekhan<clrEnd>, which the galaxy's most famous pirate wore almost the whole way on the third finger of his fourth hand. A lucky oddball, in a word - you won't find many like him.
 1711	Class: <clr>Veteran<clrEnd>
 1712	Tsuka Shchupkin
 1713	Tsuka Shchupkin
