@@ -1,0 +1,269 @@
+(сломан)	(broken)
+Защитный комплекс	Defense Complex
+С некоторым шансом может отреагировать на атаку врага и сделать одно из доступных действий:	With some chance may react to an enemy attack and perform one of the available actions:
+1) Превратить весь урон в восстановление	1) Convert all damage into repair
+2) Вернуть обидчику утроенный урон	2) Return triple damage to the attacker
+4) Послать в обидчика 4 сильные ракеты	4) Send 4 powerful missiles at the attacker
+5) Перенаправить урон во всех ближайших противников Коалиции	5) Redirect the damage to all nearby enemies of the Coalition
+Имхоняр	IMHOnar
+<clr>Ионизирует всех задетых противников<clrEnd>	<clr>Ionizes all enemies hit<clrEnd>
+Сила осколочного оружия: <bonWSplinter> ед.	Fragmentation weapons damage: <bonWSplinter>
+Дальность стрельбы: <bonWRadius> ед.	Firing range: <bonWRadius>
+Рогостовый корпус доминатора	Dominator Rogust Hull
+Реквизинторный корпус доминатора	Dominator Requisitor Hull
+Скорость двигателя: <bonSpeed> ед.	Engine speed: <bonSpeed>
+Дальность прыжка: <bonJump> ед.	Jumping range: <bonJump>
+Навык торговли: <bonSkill4>	Commerce skill: <bonSkill4>
+Корпус Бертора	Bertor Hull
+Акрин Ниспера I	Nisper's Acryn I
+Акрин Ниспера II	Nisper's Acryn II
+Дальность стрельбы: <clr>+40<clrEnd> ед.	Firing range: <clr>+40<clrEnd>
+Акрин Ниспера III	Nisper's Acryn III
+Акрин Ниспера IV	Nisper's Acryn IV
+Сила осколочного оружия: <clr>+8<clrEnd> ед.	Splinter weapon power: <clr>+8<clrEnd>
+Сила энергетического оружия: <clr>+15<clrEnd> ед.	Energy weapon power: <clr>+15<clrEnd>
+Дальность стрельбы: <clr>+25<clrEnd> ед.	Firing range: <clr>+25<clrEnd>
+Сила ракетного оружия: <clr>+28<clrEnd> ед.	Missile weapon power: <clr>+28<clrEnd> pcs.
+Бонус к урону: <clr>+15%<clrEnd>	Damage bonus: <clr>+15%<clrEnd>
+Бонус к урону по повреждённым целям: <clr>до +33%<clrEnd>	Damage bonus against damaged targets: <clr>up to +33%<clrEnd>
+(для применения бонусов требуется превышение<br>мощности сканера над защитой цели)	(to apply the bonuses, the scanner power must<br>exceed the target's defense)
+Броня корпуса: <bonHull> ед.	Hull armor: <bonHull>
+Масса корабля: <bonMass>%	Ship mass: <bonMass>%
+Мощность сканера: <bonScan> ед.	Scanner power: <bonScan>.
+Сила энергетического оружия: <bonWEnergy> ед.	Energy weapons damage: <bonWEnergy>
+Сила ракетного оружия: <bonWMissile> ед.	Missile weapons damage: <bonWMissile>
+Эффективность дроида: <bonDroid> ед.	Droid effectiveness: <bonDroid>
+Генератор поля: <bonDef> ед.	Shield generator: <bonDef>%
+Преобразовывающий бак	Converting Tank
+Дальность радара: <bonRadar> ед.	Radar range: <bonRadar>
+РПУ-08	RPU-08
+<clr>Имеет повышенную дальность атаки<clrEnd>	<clr>Has increased attack range<clrEnd>
+Уникальный транклюкатор	Unique Tranclucator
+Торпедяр	Torpedar
+Залпов: <bonAmmo> ед.	Salvos: <bonAmmo> units
+Размер: <clr>+100%<clrEnd>	Size: <clr>+100%<clrEnd>
+Апдэйтер	Updater
+Вертиксяр	Vertixar
+Пожалуй я откажусь	I think I'll decline
+Хорошо. Все понял.	All right. Understood.
+Отлично	Great
+Отлично. Я готов.	Excellent. I'm ready.
+Верно, это я. А что вам нужно?	Right, that's me. And what do you need?
+Отлично. Тогда жду вас тут по истечению срока договора.	Excellent. Then I will be waiting for you here when the term of the agreement expires.
+Угу. Я Кувард. А вы рейнджер <0>, как я понимаю?	Uh-huh. I'm Kuvard. And you are ranger <0>, as I understand?
+Хорошо. Я согласен.	All right. I agree.
+Да, конечно. До свидания.	Yes, of course. Goodbye.
+Да. Я Леонард. А кто спрашивает?	Yes. I'm Leonard. And who's asking?
+Пока	So long
+И вам того же.	And the same to you.
+Спасибо, и вам.	Thank you, and you too.
+Да, это я.	Yes, that's me.
+Хм... Интересное предложение...<br>Скажите, а вы сами знакомы с Ниспером?	Hm... An interesting offer...<br>Tell me, are you yourself acquainted with Nisper?
+И часто ли вы встречаете во время общения с ним логические несостыковки? Например, часто ли он отвечает не на ту тему, на которую вы у него что-то спросили?	And do you often come across logical inconsistencies when communicating with him? For example, does he often answer on a different topic from the one you asked him about?
+Ни разу? А сколько раз вы с ним общались?	Not once? And how many times have you communicated with him?
+Жду тогда вас у вашего корабля.	Then I'll wait for you at your ship.
+Да, это я. А что нужно?	Yes, that's me. And what is needed?
+Что-нибудь еще?	Will there be anything else?
+Здравствуй, рейнджер <0>. У меня хорошие новости: мои аналитики сообщили, что в данный момент инвестирование в отдел разработки новой серии доминаторов - самое лучшее пожертвование из всех ныне доступных.	Hello, ranger <0>. I have good news: my analysts report that at the moment investing in the department developing the new dominator series is the best donation of all currently available.
+Удачного пути, рейнджер!	Have a good trip, ranger!
+Хорошо. Сколько времени нужно охранять?	All right. How long do I need to guard?
+Отлично. Удачного пути!	Excellent. Have a good trip!
+Понятно. Ну тогда я, если вы не против, полечу дальше по своим делам.	I see. Well then, if you don't mind, I'll fly on about my business.
+До свидания...	Goodbye...
+Отлично. Вас подвезти?	Excellent. Shall I give you a lift?
+Что же, тогда удачного полета!	Well then, have a good flight!
+Да. Очень необычный робот.	Yes. A very unusual robot.
+То есть вы согласны?	So you agree?
+Верно.	True.
+Понял	Got it
+Отлично. Тогда так и поступлю.	Excellent. Then that's what I'll do.
+Не, спасибо. Думаю сначала лучше отдохнуть.	No, thanks. I think it's better to rest first.
+Хорошо	Good
+Кто ты?	Who are you?
+Ага. Трудновато было...	Yeah. It was tough...
+Согласен	Agree
+Необходимо получить больше прибыли чем торговые доминаторы Ниспера.<br>Текущий статус:<br>Вы имеете <0> cr дохода,<br>Первый модуль Ниспера имеет <1> cr дохода,<br>Второй модуль Ниспера имеет <2> cr дохода,<br>Третий модуль Ниспера имеет <3> cr дохода,<br>До конца соревнования осталось <4> дней.	You must earn more profit than Nisper's trade dominators.<br>Current status:<br>You have <0> cr of income,<br>Nisper's first module has <1> cr of income,<br>Nisper's second module has <2> cr of income,<br>Nisper's third module has <3> cr of income,<br>There are <4> days left until the end of the contest.
+Совет Коалиции передает вам свою благодарность за участие в этом задании. Они очень довольны вашей продуктивностью и желанием помогать Коалиции в этом нелегком деле.<br>Тем временем, я хочу выразить вам свою признательность за помощь мне в выполнении главной стратегической задачи. Вы уже не первый раз соглашаетесь помочь мне и я считаю, что лучший способ использовать вас в качестве моего помощника и дальше - это подкрепить положительный результат вознаграждением. На сей раз я хочу выдать вам в распоряжение новый микромодуль моего собственного производства. Разработал я его совсем недавно, когда изучал акрины накладываемые на орудие. Данный микромодуль копирует некоторые свойства подобных акринов.	The Coalition Council conveys its gratitude to you for taking part in this task. They are very pleased with your productivity and your willingness to help the Coalition in this difficult cause.<br>Meanwhile I want to express my appreciation for your help in carrying out my main strategic task. This is not the first time you have agreed to help me and I believe that the best way to go on using you as my assistant is to reinforce the positive result with a reward. This time I want to place at your disposal a new micromodule of my own production. I developed it quite recently while studying acryns applied to weapons. This micromodule copies some properties of such acryns.
+Принято. Новый микромодуль доставлен на склад Базы Доминаторов.	Accepted. The new micromodule has been delivered to the Dominator Base warehouse.
+Отлично!	Excellent!
+Спасибо	Thanks
+Спасибо!	Thank you!
+Понял, спасибо.	Got it, thanks.
+Как нибудь в другой раз.	Some other time.
+Интересно... Спасибо.	Interesting... Thank you.
+Артефакт? Хм, это интересно, нужно будет обязательно протестировать, спасибо.	An artifact? Hm, that's interesting, I'll definitely have to test it, thanks.
+Я выбираю транклюкатора-танка.	I choose the tank tranclucator.
+Я выбираю транклюкатора-воина.	I choose the warrior tranclucator.
+Я выбираю транклюкатора-ракетчика.	I choose the rocketeer tranclucator.
+Принято. Завершаю диалог с объектом.	Accepted. Ending dialogue with the object.
+Я хочу получить Торпедяр.	I want to get the Torpedar.
+Я хочу получить Вертиксяр.	I want to get the Vertixar.
+Я хочу получить Имхоняр.	I want to get the IMHOnar.
+Замечательно!	Wonderful!
+Да?	Yes?
+Ясно. Спасибо за ответы. Я тогда уже, пожалуй, полечу по своим делам.	I see. Thanks for the answers. Then I'll probably be off about my business.
+Правда? Отлично. На данный момент у нас есть:<br>   <0> тонн ошметков Блазера<br>   <1> тонн ошметков Келлера<br>   <2> тонн ошметков Террона<br>Всего нам осталось набрать <3> тонн материалов.<br>Что именно вы бы хотели отдать нам?	Really? Excellent. At the moment we have:<br>   <0> tons of Blazer scraps<br>   <1> tons of Keller scraps<br>   <2> tons of Terron scraps<br>In all we have <3> tons of materials left to collect.<br>What exactly would you like to give us?
+Очень жаль.	A pity.
+Да, давайте. У меня как раз в трюме есть немного доминаторских ошметков.	Yes, let's. I happen to have some dominator scraps in my hold.
+Ох, нет, извините. Сейчас не могу вам ничем помочь...	Oh, no, sorry. I can't help you with anything right now...
+Я передумал	I changed my mind
+Ниспера? Что такое Ниспер?	Nisper? What is Nisper?
+Блазера	Blazer
+Келлера	Keller
+Террона	Terron
+Конец связи	Over and out.
+Хорошо, как скажете.	All right, as you say.
+Ага, то есть это ты будешь управлять этими оранжевыми железяками?	Uh-huh, so you will be the one controlling these orange scrap heaps?
+Преступников? Разве это не противоречит твоей программе? Ведь преступники тоже гуманоиды.	Criminals? Doesn't that contradict your program? After all, criminals are humanoids too.
+Получается, что под директиву попадает весь пиратский клан?	So the whole pirate clan falls under the directive?
+Понял. Ещё вопрос: каким именно образом ты и твои модули будут помогать Коалиции? Патрулировать системы? Это же обязанность военных, разве нет?	Understood. One more question: in exactly what way will you and your modules help the Coalition? Patrol systems? That's the military's duty, isn't it?
+А какова твоя в этом роль?	And what is your role in this?
+Как дела?	How are things?
+Полетели вместе со мной воевать?	Come fight with me?
+Давай поболтаем?	Shall we chat?
+Ясно	Roger that.
+В данный момент я обмениваюсь данными с объектом <0>. Параллельно ведутся расчеты максимально эффективных действий для модуля <1><2><3>.	At the moment I am exchanging data with object <0>. In parallel, calculations of the most effective actions for module <1><2><3> are underway.
+Идентификация объекта завершена. <br>Объект <0> является рейнджером.<br>Текущий статус объекта: союзник.<br>Коммуникация одобрена.	Object identification complete. <br>Object <0> is a ranger.<br>Current object status: ally.<br>Communication approved.
+Для доступа к этой информации требуются союзные отношения с объектом.	Allied relations with the object are required for access to this information.
+Давай мириться!	Let's make peace!
+Давай дружить?	Let's be friends?
+Поделись своими сбережениями с славным рейнджером	Share your savings with a good ranger
+Что это за главная стратегическая задача такая?	What is this main strategic task?
+Ясно. Спасибо за информацию.	I see. Thanks for the information.
+Админ	Admin
+Баттон	Button
+Террабайт	Terabyte
+Техно	Techno
+Траблоид	Trabloid
+Трансформер	Transformer
+Триггер	Trigger
+Троянец	Trojan
+Фидошник	FidoNet
+Фиксатор	Fixer
+Флешер	Flashman
+Флопик	Floppy
+Бит	Bit
+Флудер	Flooder
+Форт	Fort
+Фраг	Frag
+Хостер	Hoster
+Чипсет	Chipset
+Читер	Cheater
+Шифт	Font
+Штрихкод	Barcode
+Эксплорер	Explorer
+Элемент	Element
+Блог	Blog
+Эникей	Anykey
+Эрджишка	Deleter
+Эрнотрон	Ernotron
+Юзер	User
+Болид	Bolide
+Бот	Bot
+Варезник	Warezman
+Веб	Web
+Вектор	Vector
+Виборг	Viborg
+Виндовоз	Windowcart
+Альт	Alt
+Вирус	Virus
+Воксель	Voxel
+Гаджет	Gadget
+Гейтс	Gates
+Геном	Genome
+Гиг	Gig
+Гигабайт	Gigabyte
+Гигагерц	Gigahertz
+Глюк	Glitch
+Гранулятор	Granulator
+Ампер	Amp
+Гугол	Googol
+Девайс	Device
+Делитер	Deleter
+Дефраг	Defrag
+Диод	Diode
+Драйвер	Driver
+Дум	Doom
+Едитор	Editor
+Ентер	Enter
+Запал	Fuse
+Антивирь	Antivirus
+Зоннатор	Zoner
+Инсерт	Insert
+Инсталл	Install
+Интерно	Interno
+Кибердемон	Cyberdemon
+Кнопочник	Keyboarder
+Кодер	Coder
+Коннектор	Connector
+Контрол	Control
+Контупер	Contuper
+Архиватор	Archiver
+Копирайт	Copyright
+Кракер	Cracker
+Кранк	Crank
+Ксенод	Xenode
+Ламер	Lamer
+Лаптоп	Laptop
+Лексус	Lexus
+Линковщик	Linker
+Логин	Login
+Макинтош	Macintosh
+Аська	ICQ
+Мануал	Manual
+Масдай	Mustdie
+Мегафон	Megaphone
+Молот	Hammer
+Момед	Modem
+Навигатор	Navigator
+Напстер	Napster
+Окуляр	Ocular
+Омега	Omega
+Осцилог	Oscilog
+Баг	Bug
+Палмовод	Palmdriver
+Пауз	Pause
+Перезагруз	Reload
+Перс	Perses
+Плоттер	Plotter
+Поувер	Power
+Прессор	Pressor
+Провайдер	Provider
+Протокол	Protocol
+Проц	Processor
+Байт	Byte
+Ридер	Rider
+Сабж	Subject
+Сакс	Sax
+Своп	Swap
+Сервак	Server
+Сетчатник	Netset
+Симка	SIM
+Синхрон	Sync
+Сисоп	Sysop
+Софтос	Softos
+Баннер	Banner
+Спаммер	Spammer
+Сплавир	Welder
+Стеккер	Staker
+Стенсель	Stensel
+Схемщик	Schemer
+Табулятор	Tabulator
+Тангентор	Tangent
+Твинкам	Twincam
+Терминатор	Terminator
+Термос	Thermos
+Клиг	Klig
+Штип	Shtip
+Менок	Menoc
+Смерш	Smersh
+Ургант	Urgant
+Эквентор	Equantor
+Бертор	Bertor
+База Доминаторов	Dominator Base
+БД	DB
+Доминатор	Dominator
+Маяк Ниспера	Nisper Beacon
+MessageBox('Маяк Ниспера разряжен. Необходимый заряд: 100%');	MessageBox('The Nisper Beacon is discharged. Required charge: 100%');
+MessageBox('Маяк Ниспера активирован. Скоро сюда прибудут доминаторы Коалиции.');	MessageBox('The Nisper Beacon activated. Coalition dominators will arrive here soon.');
+При использовании в космосе генерирует частоты, которые улавливает Ниспер. Поймав такие частоты, он немедленно посылает свои модули в систему, которая была источником сигнала. Энергия заряда: <Data1>%.	When used in space, generates frequencies that Nisper picks up. Having caught such frequencies, he immediately sends his modules to the system that was the source of the signal. Charge energy: <Data1>%.

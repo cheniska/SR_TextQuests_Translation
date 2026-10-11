@@ -1,0 +1,123 @@
+Конец связи	Over and out.
+Понял.	OK, I got it.
+Уже вылетаю!	Leaving right now!
+Повстанец	Rebel
+Если тебе интересно, то на <LastPlanet> есть целая партия наркоты по бросовой цене.	If you're interested, there's a whole batch of cheap junk over on planet <LastPlanet>.
+Привет, <Player>. Я тут поразмыслил на досуге и пришел к следующему: как хорошо, что конец Коалиции еще не означает конец света.	Hello, <Player>. I've been thinking in my leisure time and concluded that it's good that the end of the Coalition doesn't mean the end of the world.
+Босс! Я бы выкинул весь свой груз, но ничего нет. Лечу налегке. Слушаю твои указания.	Boss! I'd dump all the cargo, but I ain't got any. Traveling light, you know. Standing by for instructions.
+Я, конечно, обязан подчиняться, и выкину груз, но это больше похоже на грабеж, чем на партнерские отношения.	Well, I have to comply, of course, and I'll dump the cargo all right, but this isn't no partnership. Robbery on the high seas, that's what it is.
+Нет проблем, братан! Все, что я награблю за <Month> мес., пойдет в общак! Ну и конечно, с тебя аванс небольшой - <Money> cr.	No problem, bro! Whatever loot I bring in during these <Month> months goes into the pot, common pot. But of course you have to pay a tiny bit up front -- <Money> cr.
+Эй, приятель, я смотрю, ты лихой космический рубака! Не хочешь ко мне присоединиться?	Hey, bud, ain't you a real quick-gun, huh? Wanna join me?
+Эй, парень, вижу, ты крутой грабитель. Как насчет совместных делишек?	Well, I see you are a tough robber, bud. How about we do some business together?
+Мы летим налегке. Тебе пора избавиться от лишнего груза.	We are flying light. It's time for you to dump the excessive cargo.
+Мне кажется, что с этого дела я не буду иметь ничего, кроме искореженного корабля. Противник-то крутой.	It seems to me I will get nothing out of this except a damaged ship. It's a tough opponent.
+Не, это слишком крутой противник, мы с ним не справимся! Я отказываюсь!	No, this is too tough an opponent for us, we won't have a chance against him. I refuse!
+Ты че, серьезно? Там же не лох какой-нибудь. Этот корабль очень опасен... Не-ет, я в здравом уме не стану на него наезжать. Но тебе желаю удачи. Сделай его, братан!	Are you serious?! I mean, you ain't some kind of nut. This is a very dangerous ship. No, I am not out of my mind yet to pick a fight with him. Good luck to you. Do him, dawg!
+Чертовски заманчивое предложение, но я сейчас сильно занят. Может быть, потом?	This is very tempting, but I am awfully busy now. Some other time, perhaps?
+Дело стоящее, и я бы помог, но у меня сейчас другие планы.	It looks promising, and I'd be happy to help, but I have other plans for now.
+Извини, братан, не судьба. Сейчас я совсем другим занят.	Sorry, paesan, it wasn't meant to be. My mind is totally elsewhere now.
+Я сейчас занят, может, подвалишь ко мне с этим предложением попозже?	I am busy now, but why don't you come back to me with this some other time?
+Базара нет, дело стоящее. Но я не могу к тебе присоединиться, у меня своих дел невпроворот.	No two ways about it, it's some very good business. But I can't join you. I have my hands full.
+Мне как раз нужны бабки, и я чувствую запах добычи. Начинаем атаку немедленно.	Well, I could use the money right now, and the loot smells good. Let's attack right away.
+Грабить и убивать я люблю. Согласен!	I love to murder and rob! Agree!
+Давай объединимся и замочим <Target>. Добычу разделим по-братски. Согласен?	Let's get together and whack <Target>. We'll split the loot like the brothers we are. Whaddya say?
+Слышь, братан, видишь <Target>? Давай его сделаем в лучших пиратских традициях.	Hey, dawg, do you see <Target> over there? Let's whack him, like the good pirates we are!
+У нас тут с <Target> небольшие трения возникли. Поможешь вправить ему мозги?	We've got us a certain problem with <Target> here. Can you help us put him in his right place?
+Сейчас поднажму, и с <Target> будет покончено. Но лучше бы ты подключился, бить вдвоём одного надёжнее.	One last push and that'll be the end of <Target>. But you should still help if you can -- two on one is always the way to go.
+<Target> передаёт, что просит размазать себя по эклиптике из крупного калибра. Понимаешь намёк?	<Target> sends his regards, asks to be wiped the firmament with. Get the hint?
+Я не собираюсь рассматривать твое предложение. Физиономия твоя мне не нравится.	I wouldn't even entertain this idea. I don't like your face.
+Может, я слишком подозрителен, но твоя хитрая морда не вызывает у меня доверия. Поищи себе другого подельника.	Maybe it's my paranoia, but I don't trust your smug kisser. Find yourself another accomplice.
+Я знаю капитана этого корабля. Он хороший малый. Не стоит его трогать.	I know this ship's skipper. He's a good guy. We'd better leave him alone.
+Это мой старый кореш, я не хочу в него стрелять.	This is my old buddy, I am not going to shoot at him.
+Так ты моего кореша имел в виду? Нет, с ним я не буду драться.	So that's this buddy of mine that you meant? No, I won't fight him.
+Капитан этого судна - мой старый кореш, а я стараюсь не предавать друзей без особой необходимости. Так что ты уж как-нибудь справляйся один.	This ship's captain is my old buddy, and I have a policy against betraying my buddies unless absolutely necessary. So I guess you'll need to go it alone somehow.
+Зачем мне нападать на своего кореша, когда вокруг полно всяких лохов? Нет уж, я тебе не помощник в этом деле.	Why would I want to attack my buddy when there are so many patsies around? Nope, count me out.
+Стоимость улучшения <FullName> - <Money> cr. Но у тебя пиратская скидка в <Discount>%, так что с тебя только <MoneyDiscount> cr.	The standard price for the <FullName> improvement is <Money> cr. But since you have our discount of <Discount>% the final sum is only <MoneyDiscount> cr, the rest is on the house.
+Стоимость улучшения <FullName> - <Money> cr и <Nodes> нодов.  Но у тебя пиратская скидка в <Discount>%, так что с тебя только <MoneyDiscount> cr и <NodesDiscount> нодов.	The standard price for the <FullName> improvements is <Money> cr and <Nodes> nodes. But since you have our discount of <Discount>% the final sum is only <MoneyDiscount> cr, plus <NodesDiscount> nodes.
+Исходная цена продления составляет - <Money> cr, скидка за твой пиратский рейтинг - <Discount>%, итоговая цена <DiscountMoney> cr.	Prolongation price starts at <Money> cr., your discount for you pirate rating is <Discount>%, which means that final price is <DiscountMoney> cr.
+Помешать военной операции - необходимо звание <clr>головорез<clrEnd>	Sabotage a military operation - <clr>Cutthroat<clrEnd>
+Напасть на систему коалиции - необходимо звание <clr>атаман<clrEnd>	Attack a Coalition system - <clr>Capo<clrEnd>
+Напасть на систему доминаторов - необходимо звание <clr>хан<clrEnd>	Attack a Dominators' system -<clr>Khan<clrEnd>
+Если же спецы не смогут найти интересный вариант для нападения, то не обессудь, плакали твои денежки. Но ты не боись, мы работаем на совесть, без кидалова. Если не будет предложений - значит, на самом деле ловить нечего.	But if the experts can't find a suitable attack option, you can kiss your money goodbye. But don't think you're being conned or nothin' -- we do work with total integrity. If the experts say it can't be done, then you better believe it can't be done.
+Деньги твои, так что решай.	It's your dough, so you make the call.
+Спецы анализируют ситуацию...	The experts are assessing the situation...
+Спецы подбирают вариант для атаки...	The experts are picking a course of attack...
+Надеемся, ты не останешься в стороне и присоединишься к вечеринке, как ее непосредственный спонсор.	We hope you don't stand on the sidelines but join the party as its direct sponsor.
+Хотя фронта уже и нет, мы свой пиратский междусобойчик не прикрываем. Наш доминион может организовать славный пиратский набег на другую систему или сменить место дислокации.	And though there's no more military, we'not stepping down. Our great dominion is ready to raid another system or relocate to anywhere you want.
+Кранты, <Player>, другого слова не подобрать...	Kaput, <Player>, that's really the best word for it...
+Ну ничего, мы и похуже видали случаи, пиратское братство должно победить! Наш доминион может организовать пиратский набег на другую систему, перебазироваться, попытаться сорвать военную операцию или организовать нападение на систему коалиции.	But don't you worry, we've seen worse! Our dominion could raid another system, sabotage milirary operation, or attack a Coalition system.
+Ну ничего, мы и похуже видали случаи, пиратское братство должно победить! Наш доминион может организовать пиратский набег на другую систему, перебазироваться, попытаться сорвать военную операцию или организовать нападение на систему коалиции или доминаторов.	But don't you worry, we've seen worse! Our dominion could gather remains of our forces, and raid another system, relocate our base of operation, sabotage military operation, or attack a Coalition or Dominators' system.
+Итак, ты точно решил вернуться в рейнджеры, или, может, все же останешься пиратом? Если решился, то с тебя <Cost> cr. за оформление документов и на проводы.	So you're sure about returning to the ranger corps, or will you remain a pirate after all? If you're resolved, then I must charge you <Cost> cr to process the paperwork and see you off.
+Ограбление дипломата, лайнера или торгаша - <clr>1<clrEnd> очко	Robbing a diplomat, liner or trader -- <clr>1<clrEnd> point
+Ограбление рейнджера - <clr>2<clrEnd> очка	Robbing a ranger -- <clr>2<clrEnd> points
+Уничтожение дипломата, лайнера или торгаша - <clr>8<clrEnd> очков	Liquidating a diplomat, liner or trader -- <clr>8<clrEnd> points
+Уничтожение военного - <clr>16<clrEnd> очков	Liquidating a serviceman -- <clr>16<clrEnd> points
+Уничтожение военного флагмана - <clr>60<clrEnd> очков	Liquidating a flagship -- <clr>60<clrEnd> points
+Уничтожение рейнджера не пирата - <clr>24<clrEnd> очка	Liquidating a non-pirate ranger -- <clr>24<clrEnd> points
+Ликвидация бизнес-центра - <clr>24<clrEnd> очков	Destroying a business center -- <clr>24<clrEnd> points
+Ликвидация научной базы - <clr>24<clrEnd> очков	Destroying a research base -- <clr>24<clrEnd> points
+Ликвидация центра рейнджеров - <clr>32<clrEnd> очков	Destroying a ranger center -- <clr>32<clrEnd> points
+Ликвидация военной базы - <clr>32<clrEnd> очков	Destroying a military base -- <clr>32<clrEnd> points
+Уничтожение доминатора-клига - <clr>1<clrEnd> очко	Liquidating a klig dominator -- <clr>1<clrEnd> point
+Уничтожение доминатора-штипа - <clr>1<clrEnd> очко	Liquidating a shtip dominator -- <clr>1<clrEnd> point
+Уничтожение доминатора-менока - <clr>2<clrEnd> очка	Liquidating a menoc dominator -- <clr>2<clrEnd> points
+Уничтожение доминатора-смерша - <clr>4<clrEnd> очка	Liquidating a smersh dominator -- <clr>4<clrEnd> points
+Уничтожение доминатора-урганта - <clr>8<clrEnd> очков	Liquidating an urgant dominator -- <clr>8<clrEnd> points
+Уничтожение доминатора-эквентора - <clr>16<clrEnd> очков	Liquidating an equantor dominator -- <clr>16<clrEnd> points
+Уничтожение доминатора-бертора - <clr>24<clrEnd> очка	Liquidating a bertor dominator -- <clr>24<clrEnd> points
+Захват системы в пользу клана - <clr>16<clrEnd> очков	Claiming a system for pirate clan -- <clr>16<clrEnd> points
+Мы полностью контролируем наш рукав галактики и практически уже празднуем победу. Пиратский клан, по нашим сведениям, повержен, рейнджер <Player>.	We fully control our arm of the Galaxy and are practically celebrating victory already. The pirate clan, according to our information, is defeated, Ranger <Player>.
+И мне остается только гадать, зачем вам потребовалось нарушать эту "идиллию". Но не в моей власти что-то вам указывать, законом разрешено освобождать заключенных под залог. Естественно, сумма залога зависит от опасности освобождаемого.	And I can only wonder why you want to disturb this "idyll". But it's not in my power to tell you what to do; the law allows for releasing prisoners on bail. Of course, the bail amount depends on the severity of the offense.
+Привет, <Player>. И почему, собственно, другие расы так любят наши произведения искусства? Искусство это бред, вся суть в силе! А вам все подавай наши табуретки. Да лучше я эту табуретку разобью о твою инопланетную башку!	Hey, <Player>. I wonder why is it that other races like our art so much? Art is nonsense, strength is everything! But all you seem to be interested in are our stools... How about I take this stool and smash your alien head with it!
+Взвинтили уже цены по <CurPlanetGoodsSale> cr за тонну. Вывозят наше дерево в виде предметов роскоши. Мы запрещаем вывозить наши табуретки. Ясно тебе?	The prices are crazy high at <CurPlanetGoodsSale> cr per ton. Our trees are being exported in the form of luxury goods... We don't want our stools exported. Got it?
+Рейнджер <Player>! Сейчас на нашей планете происходит очередная смена правительственного строя, поэтому мы без четкого руководства. И у нас вы сможете приобрести любые запрещенные на других планетах товары, например, лучшие наркотики по лучшим ценам.	Ranger <Player>! Our planet is undergoing yet another regime change, leaving us without stable government at this time. This means you can purchase goods that are banned on other planets, such as grade A narcotics at rock-bottom prices.
+Ну чего вы, <Player>, все, простите, быкуете? Взяли бы, собрали флот и разнесли бы базу этих надменных фэян. Знаю, знаю, они вам, малокам, ох как не нравятся.	Are you just going to keep talking smack, <Player>? You could easily assemble a fleet and blast those haughty faeyans at their base. I know that you maloqs don't like their kind.
+Так это, купите у нас партию оружия. Знаете, очень качесс-ственно, очень хорошо! И - как вы, малоки, любите - очень много, аж <CurPlanetGoodsCnt> ед!	So why don't you buy a shipment of weapons from us? Top quality stuff, this is! And lots of it too, just like you maloqs like -- as many as <CurPlanetGoodsCnt> units!
+Да, <Player>, это судьба. Вы не играли в паратруперс? Это довольно распространенная игра среди нашего круга. Два добровольца, один пеленг, а другой - любой инопланетянин вроде вас, одеваются в специальную форму, в которой они должны совершить пять неумышленных преступлений. При этом жители, конечно, будут вас убивать, мешая совершению акта насилия и вандализма. А наградой за это действо будет служить все то, что вам удастся забрать или украсть, даже если это чардык с ноги верховного лякуши! А тот, кто украдет больше, падет от руки укравшего меньше. О как!	<Player>, this must be fate. Do you play paratroopers? The game is pretty popular in our circles. It takes two volunteers -- one peleng and one alien, like yourself -- who put on a special uniform and go on to commit five unintentional crimes. Of course, the regular folk will try to kill you, seeking to stop your acts of violence and vandalism. Your reward is whatever you manage to steal or rob, even if it's Supreme Lyakusha's favorite bunny slipper! And whoever ends up with more loot is killed by the one with less. Sounds fun, doesn't it?!
+Ну, быстрее думайте!..	So, shall we begin?
+Не хотите играть? Так не годится, уважаемый. Я тогда буду вас тут доставать, пока вы не купите у нас небольшую партию роскоши. Сейчас ее на складе аж <CurPlanetGoodsCnt> единиц, отсчет пошел!	You don't want to play?... That just won't do, mister! Then I will keep bugging you until you agree to buy a small batch of luxury goods from us. Currently we have <CurPlanetGoodsCnt> units in the storage, so get to it!
+Кстати, просьба к вам, не в службу, а в дружбу - купите на нашей планете партию техники. А то никто не берет, понимаешь... :-(	We will ask one favor of you, and that's to buy a batch of tech on our planet. We've had difficulties attracting customers... :-(
+Барон	Baron
+Верховный барон	High Baron
+Мародер	Marauder
+Негодяй представлен к званию <NextRank>! Пора лететь на ближайшую пиратскую базу.	A scoundrel was promoted to the rank of <NextRank>! It's time to hit the nearest pirate base.
+Требуется <WarPoints> очк.  для получения следующего звания.	<WarPoints> points required to earn the next rank.
+Салага	Noob
+Бестолковый салага	Clueless Noob
+Рейдер	Raider
+Толковый рейдер	Clever Raider
+Головорез	Cutthroat
+Разоритель	Ravager
+Атаман	Capo
+Корпус "Добрый лякуша" I	Kindhearted Lyakusha Hull I
+<color=248,252,248>Пиратская серия корпусов, разработана для космических боев с Коалицией. Внутри корпуса оставлено только самое необходимое оборудование, а вся система управления настроена на максимальную атакующую мощь. Точно не подойдет любителям поторговать.</color>	<color=248,252,248>A pirate series of hulls, engineered for space battles against the Coalition. Outfitted with only the most essential equipment, the hull's entire control system is configured for maximum firepower. Definitely not for commerce enthusiasts.</color>.
+Сила энергетического оружия: <bonWEnergy> ед.	Energy weapons damage: <bonWEnergy>
+Сила осколочного оружия: <bonWSplinter> ед.	Fragmentation weapons damage: <bonWSplinter>
+Сила ракетного оружия: <bonWMissile> ед.	Missile weapons damage: <bonWMissile>
+Корпус "Добрый лякуша" II	Kindhearted Lyakusha Hull II
+Корпус "Добрый лякуша" III	Kindhearted Lyakusha Hull III
+Корпус "Добрый лякуша" IV	Kindhearted Lyakusha Hull IV
+<color=248,252,248>Пиратская серия корпусов, разработана для космических боев с Коалицией. Внутри корпуса оставлено только самое необходимое оборудование, а вся система управления настроена на максимальную атакующую мощь. Точно не подойдет любителям поторговать. </color>	<color=248,252,248>A pirate series of hulls, engineered for space battles against the Coalition. Outfitted with only the most essential equipment, the hull's entire control system is configured for maximum firepower. Definitely not for commerce enthusiasts.</color>.
+Корпус "Мирный корсар" I	Peaceful Corsair Hull I
+<color=248,252,248>Корпус для тех, кто любит разорять мирные корабли, но при этом не хочет оказаться уничтоженным военными Коалиции. Вся структура корабля разработана с учетом максимальной защиты. Его минус - это сложные электронные системы управления. Из-за их медлительности и неточности навыки пилота мало на что влияют.</color>	<color=248,252,248>A hull for those who love to prey on civilian vessels but hate the idea of getting dispatched by the Coalition armed forces. The ship's entire structure is aimed at optimizing its defensive capabilities to the fullest. Its main drawback amounts to overly complicated control systems. Due to their lacking speed and accuracy, the pilot's skills have very little impact.</color>
+Броня корпуса: <bonHull> ед.	Hull armor: <bonHull>
+Генератор поля: <bonDef> ед.	Shield generator: <bonDef>%
+Навык атаки: <bonSkill1>	Attack skill: <bonSkill1>
+Навык техники: <bonSkill3>	Technology skill: <bonSkill3>
+Корпус "Мирный корсар" II	Peaceful Corsair Hull II
+Корпус "Мирный корсар" III	Peaceful Corsair Hull III
+Корпус "Мирный корсар" IV	Peaceful Corsair Hull IV
+<color=248,252,248>Данный корпус - это разработка гаальских спецов, выкраденная пиратами прямо из лаборатории. Благодаря инновационной технологии с шестью крыльями, создает вокруг корабля энергетическое поле, уменьшающее массу корабля, усиливающее дальность гиперпрыжка и, как приятный бонус, усиливающее работу захвата. Неприятный бонус в том, что его владельцу никто не дает скидок из зависти.</color>	<color=248,252,248>Designed by gaalian specialists, this hull was stolen by pirates straight from the lab. Thanks to state-of-the-art six-wing technology, it forms an energy field around the ship, which reduces it's mass, boosts hyperjump range and, as a welcome bonus, enhances the gripper's functionality. The unwelcome bonus is that everyone around becomes so green with envy that you can forget about getting a discount on... well, anything.</color>
+Дальность прыжка: <bonJump> ед.	Jumping range: <bonJump>
+Дальность захвата: <bonHookRadius> ед.	Gripper range: <bonHookRadius>
+Масса корабля: <bonMass>%	Ship mass: <bonMass>%
+Навык торговли: <bonSkill4>	Commerce skill: <bonSkill4>
+Корпус "Добрейший лякуша"	Benevolent Lyakusha Hull
+<color=248,252,248>Данный корпус эксклюзивно прокачан известным пеленгским мастером Ицзибитом. Система управления настроена на максимальную атакующую мощь. Точно не подойдет любителям поторговать.</color>	<color=248,252,248>This hull has been upgraded by renowned peleng master Itzibit. The entire control system is configured for maximum firepower. Definitely not for commerce enthusiasts.</color>.
+<color=248,252,248>Данный корпус эксклюзивно прокачан известным пеленгским мастером Ицзибитом. Вся структура корабля разработана с учетом максимальной защиты. Его минус - это сложные электронные системы управления. Из-за их медлительности и неточности навыки пилота мало на что влияют.</color>	<color=248,252,248>This hull has been upgraded by renowned peleng master Itzibit. The ship's entire structure is aimed at optimizing its defensive capabilities to the fullest. Its main drawback amounts to overly complicated control systems. Due to their lacking speed and accuracy, the pilot's skills have very little impact.</color>
+<color=248,252,248>Данный корпус эксклюзивно прокачан известным пеленгским мастером Ицзибитом. Благодаря инновационной технологии с шестью крыльями, создает вокруг корабля энергетическое поле, уменьшающее массу корабля, усиливающее дальность гиперпрыжка и, как приятный бонус, усиливающее работу захвата. Неприятный бонус в том, что его владельцу никто не дает скидок из зависти.</color>	<color=248,252,248>This hull has been upgraded by renowned peleng master Itzibit. Thanks to state-of-the-art six-wing technology, it forms an energy field around the ship, which reduces it's mass, boosts hyperjump range and, as a welcome bonus, enhances the gripper's functionality. The unwelcome bonus is that everyone around becomes so green with envy that you can forget about getting a discount on... well, anything.</color>
+Корпус "Честный ренегал" I	Conscientious Renegal Hull I
+Корпус "Честный ренегал" II	Conscientious Renegal Hull II
+Корпус "Честный ренегал" III	Conscientious Renegal Hull III
+Корпус "Честный ренегал" IV	Conscientious Renegal Hull IV
+Корпус "Честнейший ренегал"	Honest Renegal Hull

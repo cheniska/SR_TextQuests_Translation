@@ -1,0 +1,17 @@
+1	Human flagship hull
+2	<color=248,252,248>A human flagship hull, the standard model available to all other Rangers of the galaxy. A special version with increased hull armor is produced for humans.</color>
+3	Hull armor: <bonHull> units (only for members of the <clr>human<clrEnd> race)
+4	Maloq flagship hull
+5	<color=248,252,248>A maloq flagship hull, the standard model available to all other Rangers of the galaxy. A special version with an improved weapon system is produced for the maloqs.</color>
+6	Accuracy skill: <bonSkill1> (only for members of the <clr>maloq<clrEnd> race)
+7	Faeyan flagship hull
+8	<color=248,252,248>A faeyan flagship hull, the standard model available to all other Rangers of the galaxy. A special version with improved repair equipment is produced for the faeyan.</color>
+9	Technical skill: <bonSkill3> (only for members of the <clr>faeyan<clrEnd> race)
+10	Gaalian flagship hull
+11	<color=248,252,248>A gaalian flagship hull, the standard model available to all other Rangers of the galaxy. A special lightweight version is produced for the gaalians.</color>
+12	Ship speed: <bonSpeed> units
+13	Ship mass: <bonMass> units
+14	(Bonuses only for members of the <clr>gaalian<clrEnd> race)
+15	Peleng flagship hull
+16	<color=248,252,248>A peleng flagship hull, the standard model available to all other Rangers of the galaxy. A special version with improved radar and scanner is produced for the pelengs.</color>
+17	(Bonuses only for members of the <clr>peleng<clrEnd> race)

@@ -1,0 +1,3 @@
+1	Стандартный пузырь неправильной формы. Особо смелые пилоты могут покинуть его без боя, разбив заграждения.	Standard bubble with wrong shape. Extremely brave pilots can leave it without fight after breaking the barriers.
+3	Пространство, по форме отдалённо напоминающее аналогичное образование в келлерской чёрной дыре.	Space, which looks like Keller's black hole.
+5	Знаменитый замкнутый пузырь. Есть возможность экстренной эвакуации в случае непредвиденной опасности.	Famous closed bubble. Have a way for emergency evacuation if matters will go wrong.

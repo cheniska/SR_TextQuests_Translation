@@ -1,0 +1,120 @@
+Аппер	Upper
+Электро	Electro
+Энергетическое оружие: <bonWEnergy> ед.	Energy weapons damage: <bonWEnergy>
+Дальность стрельбы: <bonWRadius> ед.	Firing range: <bonWRadius>
+Фэйджоуль	Faejoel
+Осколочное оружие: <bonWSplinter> ед.	Fragmentation weapons damage: <bonWSplinter>
+Интегратор	Integrator
+Сила осколочного оружия: <bonWSplinter> ед.	Fragmentation weapons damage: <bonWSplinter>
+Магникум	Magnicum
+Мощность захвата: <bonHook> ед.	Gripper power: <bonHook>
+Стоплай	Stopbark
+Броня: <bonHull> ед.	Armor: <bonHull> units
+Импелган	Impalegun
+Микромодуль второго уровня. Заменяет магнитный генератор сканера на более дорогой импульсно-гравитационный, тем самым увеличивая мощность прибора.	Level two micromodule. Replaces the scanner's magnetic generator with a more expensive impulse-gravitational variant, thus increasing the power of the device.
+Мощность сканера: <bonScan> ед.	Scanner power: <bonScan>.
+Парагон	Paragon
+Размер корпуса: <clr>+7%<clrEnd>	Hull size: <clr>+7%<clrEnd>
+Стратер	Strutter
+Скорость двигателя: <bonSpeed> ед.	Engine speed: <bonSpeed>
+Конвектор	Convector
+Дальность радара: <bonRadar> ед.	Radar range: <bonRadar>
+Сжим	Clip
+Размер: <clr>-40%<clrEnd>	Size: <clr>-40%<clrEnd>
+Микрострел	Microshooter
+Сдвиг	Displacement
+Дальность прыжка: <bonJump> ед.	Jumping range: <bonJump>
+Дальномёт	Farshooter
+Дронз	Dronze
+Эффективность дроида: <bonDroid> ед.	Droid effectiveness: <bonDroid>
+Диощит	Dioshield
+Генератор поля: <bonDef> ед.	Shield generator: <bonDef>%
+Маформ	Maform
+Объемник	Volumer
+Объем бака: <bonFuel> ед.	Fuel tank capacity: <bonFuel>
+Сплинтер	Splinter
+Колебратор	Colebrator
+Энергос	Energos
+Микромодуль второго уровня. Добавляется как вспомогательное устройство в синтезатор пучка для энергетических типов вооружения.	Level two micromodule. Added as an auxiliary device into the bundle synthesizer for energy type weapons.
+Бронепакет	Armorpack
+Броня корпуса: <bonHull> ед.	Hull armor: <bonHull>
+Спаай	Insighter
+Тюринг	Turing
+Дальстар	Dalstar
+Экскалибур	Excalibur
+Эксплодер	Exploder
+Патч 0.95 бета	Patch 0.95 beta
+Починка дроидом: <bonDroid> ед.	Droid repair: <bonDroid> units
+Вместимость бака: <bonFuel> ед.	Tank capacity: <bonFuel>
+Дальность захвата: <bonHookRadius> ед.	Gripper range: <bonHookRadius>
+Оптиматор	Optimator
+Аддон	Addon
+Размер корпуса: <clr>+15%<clrEnd>	Hull size: <clr>+15%<clrEnd>
+Миниразмерный	Minisized
+Размер: <clr>-30%<clrEnd>	Size: <clr>-30%<clrEnd>
+Стоимость: <clr>-30%<clrEnd>	Cost: <clr>-30%<clrEnd>
+Дроннер	Dronner
+Цент	Cent
+Микромодуль третьего уровня. Влияет на составляющую материала любого предмета (кроме корпуса), несколько увеличивая размер предмета. Стоимость, напротив, уменьшается в <clr>4<clrEnd> раза, что приводит к выгодности последующего ремонта.	Level three micromodule. Affects the material composition of any item (except the hull), slightly increasing the item's size. Cost, on the other hand, drops by a factor of <clr>4<clrEnd>, which makes subsequent repair cost-effective.
+Размер: <clr>+10%<clrEnd>	Size: <clr>+10%<clrEnd>
+Громодрын	Massodrope
+Платинос	Platicoat
+Клейн	Klein
+Сила энергетического оружия: <bonWEnergy> ед.	Energy weapons damage: <bonWEnergy>
+Сила ракетного оружия: <bonWMissile> ед.	Missile weapons damage: <bonWMissile>
+Пакстон	Paxton
+Ракетон	Rocketon
+Гугаал	Gugaal
+Крепчак	Harding
+Джампгейтор 3.11	Jumpgator 3.11
+Экстример	Extremer
+Джейк	Jake
+Универс	Universe
+Иикебанит	Iikebaanite
+Стоимость: <clr>+50%<clrEnd>	Cost: <clr>+50%<clrEnd>
+Минивизион	Minivision
+Микроразмерный	Microsize
+Жампа	Jumpa
+Винтарь	Threader
+Мощность осколочного оружия: <bonWSplinter> ед.	Splinter weapon power: <bonWSplinter> units
+Мощность энергетического оружия: <bonWEnergy> ед.	Energy weapon power: <bonWEnergy> units
+Мощность ракетного оружия: <bonWMissile> ед.	Missile weapon power: <bonWMissile> units
+Патч 0.96 альфа	Patch 0.96 alpha
+Антифэй	Antifae
+Дальпун	Farsight
+Хокус	Hocus
+Микромодуль первого уровня. Изменяет периодику колебаний волнового поля захвата в соответствии с характеристиками материала захватываемого объекта, увеличивая проникающую способность поля и, соответственно, мощность захвата.	Level one micromodule. Alters the fluctuation intervals of the gripper's wave field to better match the specs of the target's material, boosting the field penetrating capacity and thus the gripper's power.
+Бач	Dimin
+Двима	Drover
+Броинг	Broing
+Жжения	Burnz
+Панцирь	Shell
+Редуза	Redusa
+Хаб	Hub
+Размер корпуса: <clr>+25%<clrEnd>	Hull size: <clr>+25%<clrEnd>
+Берсерк	Berserker
+Микромодуль третьего уровня. Дополняет орудийные системы довольно массивным ускорителем частиц и генератором антиматерии, существенно увеличивая боевые характеристики оружия.	Level three micromodule. Upgrades weapon systems with a rather massive particle accelerator and antimatter generator, substantially increasing the weapon's combat effectiveness.
+Размер: <clr>+30%<clrEnd>	Size: <clr>+30%<clrEnd>
+Интердизайн	Interdesign
+Бронд	Brond
+Форсер	Forcer
+Диамант	Diamant
+Микромодуль третьего уровня. Встраивается в корпус. Активирует слот ремонтного дроида и слот захвата	Level three micromodule. Built into the hull. Activates repair droid and gripper slots.
+Гезават	Jeiad
+Микромодуль третьего уровня. Встраивается в корпус. Активирует слот генератора защитного поля и слот захвата	Level three micromodule. Built into the hull. Activates shield generator and gripper slots.
+Раструг	Rasta
+Микромодуль третьего уровня. Встраивается в корпус. Активирует слот ремонтного дроида и слот генератора защитного поля	Level three micromodule. Built into the hull. Activates repair droid and shield generator slots.
+Прозотор	Prozotor
+Армор	Armorer
+Перфорит	Perforator
+Ремонт дроида: <bonDroid> ед.	Droid repair: <bonDroid> units
+Акринатор	Acrynator
+Размер: <clr>+100%<clrEnd>	Size: <clr>+100%<clrEnd>
+Стоимость: <clr>+100%<clrEnd>	Cost: <clr>+100%<clrEnd>
+Ресиз	Resizer
+Микромодуль третьего уровня. Размягчает и деформирует стенки топливного бака, увеличивая его объем.	Level three micromodule. Softens and deforms the walls of the fuel tank, increasing its capacity.
+Поточный	Inliner
+Антент	Antent
+Боттер	Botter
+Шелест	Rustle
+Вихрь	Vortex

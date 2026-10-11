@@ -1,0 +1,7 @@
+Навык техники: <bonSkill3>	Technology skill: <bonSkill3>
+Эффективность дроида: <bonDroid> ед.	Droid effectiveness: <bonDroid>
+Масса корабля: <bonMass>%	Ship mass: <bonMass>%
+Навык точности: <bonSkill1>	Attack skill: <bonSkill1>
+Мощность сканера: <bonScan> ед.	Scanner power: <bonScan>.
+Дальность радара: <bonRadar> ед.	Radar range: <bonRadar>
+Броня корпуса: <bonHull> ед.	Hull armor: <bonHull>

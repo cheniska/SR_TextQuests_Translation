@@ -1,0 +1,14 @@
+Спецагент	Secret Agent
+Изгой	Pariah
+Археолог	Archeologist
+Торговец	Merchant
+Наемник	Mercenary
+Сталкер	Stalker
+Ветеран	Old Guard
+Дипломат	Diplomat
+Воин	Warrior
+Курьер	Courier
+Пират	Pirate
+Контрабандист	Smuggler
+Изменник	Traitor
+Контейнер	Container

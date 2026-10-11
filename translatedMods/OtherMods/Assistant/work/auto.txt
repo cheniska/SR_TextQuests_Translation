@@ -1,0 +1,2 @@
+ЦР	RC
+Вместимость бака	Tank capacity

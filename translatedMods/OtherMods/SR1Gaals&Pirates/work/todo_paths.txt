@@ -1,0 +1,14 @@
+1	Script/Mod_SR1Gaals&Pirates/0
+2	Script/Mod_SR1Gaals&Pirates/1
+3	Script/Mod_SR1Gaals&Pirates/11
+4	Script/Mod_SR1Gaals&Pirates/16
+5	Script/Mod_SR1Gaals&Pirates/18
+6	Script/Mod_SR1Gaals&Pirates/19
+7	Script/Mod_SR1Gaals&Pirates/2
+8	Script/Mod_SR1Gaals&Pirates/20
+9	Script/Mod_SR1Gaals&Pirates/3
+10	Script/Mod_SR1Gaals&Pirates/4
+11	Script/Mod_SR1Gaals&Pirates/5
+12	Script/Mod_SR1Gaals&Pirates/6
+13	Script/Mod_SR1Gaals&Pirates/7
+14	Script/Mod_SR1Gaals&Pirates/9

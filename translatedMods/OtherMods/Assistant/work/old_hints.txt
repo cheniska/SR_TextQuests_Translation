@@ -1,0 +1,14 @@
+3	дом.	dom.
+4	Информация по всем (основ.)	Information for all (main.)
+5	Информация по всем (альтер.)	Information for all (alternative.)
+8	Подходящие станции не найдены.	No matching stations found.
+10	<td=38>Микромодули в основной цепочке <color=255,240,100>доминиона	<td=38>Micromodules in the main chain <color=255,240,100>dominion
+11	<td=30>Микромодули в альтернативной цепочке <color=255,240,100>ЦР	<td=30>Micromodules in an alternative chain on <color=255,240,100>RC
+12	<td=18>Микромодули в альтернативной цепочке <color=255,240,100>доминиона	<td=18>Micromodules in an alternative chain on <color=255,240,100>dominion
+13	В системе идут боевые действия, пропуск хода невозможен!	There are military operations in the system, it is impossible to skip turns!
+14	Сколько ходов пропустить?	How many turns to skip?
+15	В системе начались боевые действия, дальнейший пропуск хода невозможен!	Combat actions have begun in the system, further skipping is impossible!
+27	. Количество топлива	. Fuel amount:
+39	% наносимого ущерба.	% of incoming damage before armor.
+65	Корабль не найден.	Ship not found.
+83	Предмет не найден.	Item not found.

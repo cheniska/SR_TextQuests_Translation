@@ -1,0 +1,6 @@
+1	A standard irregularly shaped bubble. Particularly bold pilots can leave it without a fight by breaking through the barriers.
+2	Blue
+3	A space remotely resembling the similar formation inside a keller black hole.
+4	Pseudosphere
+5	The famous closed bubble. Emergency evacuation is possible in case of unforeseen danger.
+6	Torus

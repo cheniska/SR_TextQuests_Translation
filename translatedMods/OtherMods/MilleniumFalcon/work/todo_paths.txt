@@ -1,0 +1,9 @@
+1	MicroModuls/MilleniumFalcon/Name
+2	MicroModuls/MilleniumFalcon/Text
+3	MicroModuls/MilleniumFalcon/Text
+4	MicroModuls/MilleniumFalcon/Text
+5	Script/Mod_MilleniumFalcon/0
+6	Script/Mod_MilleniumFalcon/1
+7	Script/Mod_MilleniumFalcon/2
+8	Script/Mod_MilleniumFalcon/3
+9	Script/Mod_MilleniumFalcon/5

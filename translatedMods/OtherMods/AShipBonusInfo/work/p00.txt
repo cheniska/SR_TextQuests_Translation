@@ -1,0 +1,75 @@
+1	To max. number of probes under player control: <0><1><2><br>
+2	To max. number of stimulants taken at once: <0><1><2><br>
+3	Radar slot: <0><1><2><br>
+4	 <br><color=100,90,0>-Slots-</color><br>
+5	Leadership skill: <0><1><2><br>
+6	Charm skill: <0><1><2><br>
+7	Trading skill: <0><1><2><br>
+8	Technical knowledge skill: <0><1><2><br>
+9	Maneuverability skill: <0><1><2><br>
+10	Accuracy skill: <0><1><2><br>
+11	 <br><color=0,150,0>-Skills-</color><br>
+12	To weapon firing range: <0><1><2><br>
+13	 <br><color=160,70,160>-Misc-</color><br>
+14	To missile weapon power: <0><1><2><br>
+15	To fragmentation weapon power: <0><1><2><br>
+16	To energy weapon power: <0><1><2><br>
+17	 <br><color=255,120,60>-Weapons-</color><br>
+18	To % of total ship mass: <0><1><2><br>
+19	To shield gen. power: <0><1><2><br>
+20	To gripper pull-in speed at close range: <0><1><2><br>
+21	To gripper pull-in speed at long range: <0><1><2><br>
+22	To gripper range: <0><1><2><br>
+23	To gripper power: <0><1><2><br>
+24	Afterburner slot: <0><1><2><br>
+25	To droid repair eff.: <0><1><2><br>
+26	To scanner power: <0><1><2><br>
+27	To radar range: <0><1><2><br>
+28	To engine jump range: <0><1><2><br>
+29	To engine speed: <0><1><2><br>
+30	To hull armor: <0><1><2><br>
+31	Artifact slots: <0><1><2><br>
+32	W5
+33	W4
+34	W3
+35	W2
+36	Weapon slots: <0><1><2><br>
+37	W1
+38	SG
+39	Gr
+40	Dr
+41	En
+42	, special bonus <color=255,0,0>
+43	Shield gen. slot: <0><1><2><br>
+44	, special bonus <color=0,255,0>
+45	<color=90,200,220>-Equipment-</color><br>
+46	<clr>--<0> (system <1>)--<clrEnd><br>
+47	<clr>---Current sum and difference of bonuses for the ship/base---<clrEnd><br>
+48	Get information on the ship's current bonuses
+49	<color=136,0,0>do not show</color>
+50	<color=0,100,0>show</color>
+51	Enter the ship/base name:
+52	Gripper slot: <0><1><2><br>
+53	Enter the system name:
+54	<color=0,0,255>Options:</color>
+55	Calculate ship/base bonuses
+56	Calculate player bonuses
+57	<color=136,0,0>Exit</color>
+58	Output the bonus information or choose an option for what to show in the info panel.<br><br>Special bonus: <0><br><br>Bonus stacking history: <1><br><br>Equipment stacking history: <2><br><br>Key to abbreviations in the equipment stacking history:<br><clr>H<clrEnd> - hull<br><clr>T<clrEnd> - fuel tank<br><clr>En<clrEnd> - engine<br><clr>R<clrEnd> - radar<br><clr>Sc<clrEnd> - scanner<br><clr>Dr<clrEnd> - droid <br><clr>Gr<clrEnd> - gripper<br><clr>SG<clrEnd> - Shield Generator<br><br>
+59	Enter ship name
+60	Enter the name of the ship/base whose bonuses you want to calculate, or choose it from the list in the system.
+61	Choose a ship from the list of ships in system <0>.
+62	Droid slot: <0><1><2><br>
+63	 (current system)
+64	List of systems:
+65	Enter system name
+66	Choose a system from the list or enter its name.
+67	Show special bonus
+68	Do not show special bonus
+69	Show bonus history
+70	Do not show bonus history
+71	Show equipment history
+72	Do not show equipment history
+73	Scanner slot: <0><1><2><br>
+74	Get a list of ships in system <0>
+75	Get a list of ships in a specific system

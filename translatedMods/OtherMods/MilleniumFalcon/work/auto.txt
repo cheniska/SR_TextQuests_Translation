@@ -1,0 +1,9 @@
+Броня корпуса: <bonHull> ед.	Hull armor: <bonHull>
+Генератор поля: <bonDef> ед.	Shield generator: <bonDef>%
+Дальность прыжка: <bonJump> ед.	Jumping range: <bonJump>
+Скорость двигателя: <bonSpeed> ед.	Engine speed: <bonSpeed>
+Мощность захвата: <bonHook> ед.	Gripper power: <bonHook>
+Дальность захвата: <bonHookRadius> ед.	Gripper range: <bonHookRadius>
+Навык манёвренности: <bonSkill2> ед.	Maneuverability skill: <bonSkill2> units
+Пожалуй, не сейчас	Maybe not now
+Благодарю!	Thank you!

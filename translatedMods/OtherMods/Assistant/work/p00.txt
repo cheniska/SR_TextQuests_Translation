@@ -1,0 +1,83 @@
+1	Assistant OFF
+2	Assistant ON
+6	Alternative chain
+7	Stations for the chain:
+9	<td=50>Micromodules in the main chain <color=255,240,100>RC
+16	Micromodules in the RC chain
+17	Micromodules in the dominator chain
+18	Micromodules in the chain
+19	Series "
+20	Hull durability:
+21	 units, armor blocks up to
+23	 Damage susceptibility:
+24	 E:
+25	%  S:
+26	%  M:
+28	Allows for a top speed of
+31	Picks up data about objects within a radius of
+33	Scans for objects with a shield generator at less than
+34	Restores
+36	Grips small objects up to
+38	Blocks
+40	Ship Experience:
+41	- from dominator kills:
+42	- from pirate kills:
+43	- from other kills:
+44	- from trade:
+45	- other experience:
+46	Ships destroyed:
+47	- pirates:
+48	- dominators:
+49	- civilians:
+50	- military:
+51	- Rangers:
+52	Quests completed:
+53	- cargo delivery:
+54	- ship kills:
+55	- text quests:
+56	- systems protection:
+57	- ship protection:
+58	- planetary battles:
+59	Ships destroyed in the system:
+60	- Coalition ships:
+61	- dominator ships:
+62	- clan ships:
+63	Galaxy Tech Level:
+64	Enter ship name:
+66	planet
+67	in hyperspace
+68	outer space
+69	Enter equipment name:
+70	Maximum weight:
+71	Tech. level no less than:
+72	, Tech. level: <color=255,240,100>
+73	<td=30>Weight: <color=255,240,100>
+74	, speed: <color=255,240,100>
+75	, jump range: <color=255,240,100>
+76	, power: <color=255,240,100>
+77	, range: <color=255,240,100>
+78	, armor: <color=255,240,100>
+79	, capacity: <color=255,240,100>
+80	, repairs: <color=255,240,100>
+81	, defense: <color=255,240,100>
+82	, damage: <color=255,240,100>
+3	dom.
+4	Information for all (main)
+5	Information for all (alt.)
+8	No matching stations found.
+10	<td=38>Micromodules in the main chain <color=255,240,100>dominator
+11	<td=30>Micromodules in the alternative chain <color=255,240,100>RC
+12	<td=18>Micromodules in the alternative chain <color=255,240,100>dominator
+13	Combat is under way in the system, skipping turns is not possible!
+14	How many turns to skip?
+15	Combat has begun in the system, skipping turns is no longer possible!
+22	 units of damage.
+27	. Fuel amount:
+29	 units and make a hyperjump of
+30	 parsecs.
+32	 million km.
+35	 units of damaged armor.
+37	 units at a distance of
+39	% of incoming damage.
+65	Ship not found.
+83	Item not found.

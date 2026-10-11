@@ -1,0 +1,89 @@
+Мощность захвата: <bonHook> ед.	Gripper power: <bonHook>
+Дальность радара: <bonRadar> ед.	Radar range: <bonRadar>
+Мощность сканера: <bonScan> ед.	Scanner power: <bonScan>.
+Мощность ГЗП: <bonDef> ед.	Shield power: <bonDef> units
+Дальность захвата: <bonHookRadius> ед.	Gripper range: <bonHookRadius>
+Эффективность дроида: <bonDroid> ед.	Droid effectiveness: <bonDroid>
+Ремастивный генератор защиты I-VIII	Remastered Shield Generator I-VIII
+Ремастивный генератор защиты I	Remastered Shield Generator I
+<color=248,252,248>Серия генераторов защитного поля, функционирующих по использовавшимся три века назад принципам. Эксперименты с акринированием привели к возвращению устаревшим технологиям конкурентоспособности, вдохнув в раритетные образцы новую жизнь. Весьма ценится гуманоидами, питающими страсть к истории.</color>	<color=248,252,248>A series of shield generators operating on principles used three centuries ago. Experiments with acrynation brought obsolete technologies back to competitiveness, breathing new life into rarities. Highly valued by humanoids with a passion for history.</color>
+Мощность защитного поля: <bonDef><clr>%<clrEnd>	Shield power: <bonDef><clr>%<clrEnd>
+Ремастивный генератор защиты II	Remastered Shield Generator II
+Ремастивный генератор защиты III	Remastered Shield Generator III
+Ремастивный генератор защиты IV	Remastered Shield Generator IV
+Ремастивный генератор защиты V	Remastered Shield Generator V
+Ремастивный генератор защиты VI	Remastered Shield Generator VI
+Ремастивный генератор защиты VII	Remastered Shield Generator VII
+Ремастивный генератор защиты VIII	Remastered Shield Generator VIII
+Ремастивный дроид I-VIII	Remastered Droid I-VIII
+Ремастивный дроид I	Remastered Droid I
+<color=248,252,248>Серия акриновых дроидов, изготовленных на основе образцов времен клисанской войны. По сравнению с предшественниками, они работают куда более эффективно благодаря улучшенным элементам конструкции и переработанному искусственному интеллекту, позволяющим этим дроидам стоять наравне с современными моделями.</color>	<color=248,252,248>A series of acryn droids made on the basis of samples from the time of the Klissan War. Compared to their predecessors they work far more effectively thanks to improved design elements and a reworked artificial intelligence that lets these droids stand level with modern models.</color>
+Ремастивный дроид II	Remastered Droid II
+Ремастивный дроид III	Remastered Droid III
+Ремастивный дроид IV	Remastered Droid IV
+Ремастивный дроид V	Remastered Droid V
+Ремастивный дроид VI	Remastered Droid VI
+Ремастивный дроид VII	Remastered Droid VII
+Ремастивный дроид VIII	Remastered Droid VIII
+Ремастивный двигатель I-VIII	Remastered Engine I-VIII
+Ремастивный двигатель I	Remastered Engine I
+<color=248,252,248>Современные аналоги космических двигателей, восстановленных по чертежам эпохи противостояния клисанской оккупации. Массовое производство таких образцов было налажено после получения учеными теоретических выкладок, доказывающих, что, будучи подвергнутыми акриновой модернизации, подобные двигатели не будут уступать современным. Дешевизна изготовления поспособствовала экономичной цене, что устраивает многих покупателей.</color>	<color=248,252,248>Modern analogues of space engines restored from blueprints of the era of resistance to the klissan occupation. Mass production of such samples was set up after scientists obtained theoretical calculations proving that, subjected to acryn modernization, such engines would not be inferior to modern ones. The cheapness of manufacture contributed to an economical price, which suits many buyers.</color>
+Скорость двигателя: <bonSpeed> ед.	Engine speed: <bonSpeed>
+Ремастивный двигатель II	Remastered Engine II
+Ремастивный двигатель III	Remastered Engine III
+Ремастивный двигатель IV	Remastered Engine IV
+Ремастивный двигатель V	Remastered Engine V
+Ремастивный двигатель VI	Remastered Engine VI
+Ремастивный двигатель VII	Remastered Engine VII
+Ремастивный двигатель VIII	Remastered Engine VIII
+Ремастивный топливный бак I-VIII	Remastered Fuel Tank I-VIII
+Ремастивный топливный бак I	Remastered Fuel Tank I
+<color=248,252,248>Исследования в области акриновых технологий позволили ученому сообществу пересмотреть свои взгляды в отношении устаревших принципов изготовления топливных баков, результатом чего стала данная линейка, представляющая модификацию изготовленных во времена Рачехана образцов. Конструкция этих моделей зарекомендовала себя достаточно надежной, а изготовление - недорогим, что делает возвращение старых образцов в производство вполне оправданным. Кроме того, использование акриновых технологий сделало эти емкости для горючего весьма популярными у рейнджеров. Такие топливные баки ничуть не уступают современным аналогам.</color>	<color=248,252,248>Research in acryn technologies allowed the scientific community to reconsider its views on obsolete principles of fuel tank manufacture, resulting in this line, a modification of samples made in the times of Rachekhan. The design of these models has proven quite reliable and the manufacture inexpensive, which makes returning the old samples to production fully justified. Besides, the use of acryn technologies has made these fuel containers very popular with rangers. Such fuel tanks are in no way inferior to modern analogues.</color>
+Снижение веса топливного бака: <clr>-10%<clrEnd>	Fuel tank weight reduction: <clr>-10%<clrEnd>
+Ремастивный топливный бак II	Remastered Fuel Tank II
+Снижение веса топливного бака: <clr>-15%<clrEnd>	Fuel tank weight reduction: <clr>-15%<clrEnd>
+Ремастивный топливный бак III	Remastered Fuel Tank III
+Снижение веса топливного бака: <clr>-20%<clrEnd>	Fuel tank weight reduction: <clr>-20%<clrEnd>
+Ремастивный топливный бак IV	Remastered Fuel Tank IV
+Снижение веса топливного бака: <clr>-25%<clrEnd>	Fuel tank weight reduction: <clr>-25%<clrEnd>
+Ремастивный топливный бак V	Remastered Fuel Tank V
+Снижение веса топливного бака: <clr>-30%<clrEnd>	Fuel tank weight reduction: <clr>-30%<clrEnd>
+Ремастивный топливный бак VI	Remastered Fuel Tank VI
+Снижение веса топливного бака: <clr>-35%<clrEnd>	Fuel tank weight reduction: <clr>-35%<clrEnd>
+Ремастивный топливный бак VII	Remastered Fuel Tank VII
+Снижение веса топливного бака: <clr>-40%<clrEnd>	Fuel tank weight reduction: <clr>-40%<clrEnd>
+Ремастивный топливный бак VIII	Remastered Fuel Tank VIII
+Снижение веса топливного бака: <clr>-50%<clrEnd>	Fuel tank weight reduction: <clr>-50%<clrEnd>
+Ремастивный захват I-VIII	Remastered Gripper I-VIII
+Ремастивный захват I	Remastered Gripper I
+<color=248,252,248>Три сотни лет назад захваты были куда более примитивными, чем сейчас: они даже не позволяли притягивать объекты во время движения корабля. Однако ученым удалось вдохнуть в старые модели новую жизнь, изменив большую часть деталей и тем самым значительно повысив мощность раритетных образцов. Внедрение акриновых технологий открыло еще больше возможностей для использования этой техники.</color>	<color=248,252,248>Three hundred years ago grippers were far more primitive than now: they did not even allow pulling objects while the ship was moving. However, scientists managed to breathe new life into the old models, changing most parts and thereby significantly raising the power of the rarities. The introduction of acryn technologies opened up even more possibilities for using this equipment.</color>
+Дальность захвата: <bonHookRadius> млн км	Gripper range: <bonHookRadius> M km
+Ремастивный захват II	Remastered Gripper II
+Ремастивный захват III	Remastered Gripper III
+Ремастивный захват IV	Remastered Gripper IV
+Ремастивный захват V	Remastered Gripper V
+Ремастивный захват VI	Remastered Gripper VI
+Ремастивный захват VII	Remastered Gripper VII
+Ремастивный захват VIII	Remastered Gripper VIII
+Ремастивный радар I-VIII	Remastered Radar I-VIII
+Ремастивный радар I	Remastered Radar I
+<color=248,252,248>Промышленная линейка радаров, разработанных инженерами на основе модификаций прошедших клисанскую войну образцов. Благодаря добавлению в структуру акриновых элементов, достигается высокий радиус охвата, что позволяет этим радарам занять свою нишу на рынке космических технологий.</color>	<color=248,252,248>An industrial line of radars developed by engineers on the basis of modifications of samples that went through the Klissan War. Thanks to adding acryn elements to the structure, a high coverage radius is achieved, which lets these radars take their niche in the space technology market.</color>
+Дальность радара: <bonRadar> млн км	Radar range: <bonRadar> million km
+Ремастивный радар II	Remastered Radar II
+Ремастивный радар III	Remastered Radar III
+Ремастивный радар IV	Remastered Radar IV
+Ремастивный радар V	Remastered Radar V
+Ремастивный радар VI	Remastered Radar VI
+Ремастивный радар VII	Remastered Radar VII
+Ремастивный радар VIII	Remastered Radar VIII
+Ремастивный сканер I-VIII	Remastered Scanner I-VIII
+Ремастивный сканер I	Remastered Scanner I
+Мощность сканера: <bonScan><clr>%<clrEnd>	Scanner power: <bonScan><clr>%<clrEnd>
+Ремастивный сканер II	Remastered Scanner II
+Ремастивный сканер III	Remastered Scanner III
+Ремастивный сканер IV	Remastered Scanner IV
+Ремастивный сканер V	Remastered Scanner V
+Ремастивный сканер VI	Remastered Scanner VI
+Ремастивный сканер VII	Remastered Scanner VII
+Ремастивный сканер VIII	Remastered Scanner VIII
+Броня: <bonHull> ед.	Armor: <bonHull> units

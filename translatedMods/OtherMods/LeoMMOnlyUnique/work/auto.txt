@@ -1,0 +1,100 @@
+Сила энергетического оружия: <bonWEnergy> ед.	Energy weapons damage: <bonWEnergy>
+Дальность стрельбы: <bonWRadius> ед.	Firing range: <bonWRadius>
+Сила осколочного оружия: <bonWSplinter> ед.	Fragmentation weapons damage: <bonWSplinter>
+Сила ракетного оружия: <bonWMissile> ед.	Missile weapons damage: <bonWMissile>
+Стоимость: <clr>+100%<clrEnd>	Cost: <clr>+100%<clrEnd>
+Клинер	Cleaner
+Надежность: <clr>-60%<clrEnd>	Reliability: <clr>-60%<clrEnd>
+Размер: <clr>+10%<clrEnd>	Size: <clr>+10%<clrEnd>
+Стоимость оборудования: <clr>+50%<clrEnd>	Equipment cost: <clr>+50%<clrEnd>
+Скорость двигателя: <bonSpeed> ед.	Engine speed: <bonSpeed>
+Открывает 1 слот для <clr>дроида<clrEnd>.	Opens 1 slot for a <clr>droid<clrEnd>.
+Открывает 1 слот для <clr>генератора защиты<clrEnd>.	Opens 1 slot for a <clr>shield generator<clrEnd>.
+Открывает 1 слот для <clr>захвата<clrEnd>.	Opens 1 slot for a <clr>gripper<clrEnd>.
+Активатор	Activator
+Броня корпуса: <bonHull> ед.	Hull armor: <bonHull>
+Размер: <clr>-20%<clrEnd>	Size: <clr>-20%<clrEnd>
+Стоимость: <clr>+50%<clrEnd>	Cost: <clr>+50%<clrEnd>
+Дальность радара: <bonRadar> ед.	Radar range: <bonRadar>
+Мощность сканера: <bonScan> ед.	Scanner power: <bonScan>.
+Размер: <clr>+40%<clrEnd>	Size: <clr>+40%<clrEnd>
+Стоимость: <clr>+250%<clrEnd>	Cost: <clr>+250%<clrEnd>
+Эффективность дроида: <bonDroid> ед.	Droid effectiveness: <bonDroid>
+Мощность захвата: <bonHook> ед.	Gripper power: <bonHook>
+Объем бака: <bonFuel> ед.	Fuel tank capacity: <bonFuel>
+Надежность: <clr>-50%<clrEnd>	Reliability: <clr>-50%<clrEnd>
+Надежность: <clr>-90%<clrEnd>	Reliability: <clr>-90%<clrEnd>
+Топор	Corkscrew
+Фраг	Frag
+Размер корпуса: <clr>+50%<clrEnd>	Hull size: <clr>+50%<clrEnd>
+Масса корабля: <clr>-15%<clrEnd>	Ship mass: <clr>-15%<clrEnd>
+Восприимчивость к урону: <clr>+30%<clrEnd>	Damage susceptibility: <clr>+30%<clrEnd>
+Эмиттер	Emitter
+Размер: <clr>-30%<clrEnd>	Size: <clr>-30%<clrEnd>
+Дальность прыжка: <bonJump> ед.	Jumping range: <bonJump>
+Стоимость: <clr>-95%<clrEnd>	Cost: <clr>-95%<clrEnd>
+Починка дроидом: <bonDroid> ед.	Droid repair: <bonDroid> units
+Дальность оружия: <bonWRadius> ед.	Weapon range: <bonWRadius> units
+Стоимость: <clr>+200%<clrEnd>	Cost: <clr>+200%<clrEnd>
+Ультимейт	Ultimate
+Надежность: <clr>+50%<clrEnd>	Reliability: <clr>+50%<clrEnd>
+Иммортал	Immortal
+Стоимость: <clr>+300%<clrEnd>	Cost: <clr>+300%<clrEnd>
+Размер: <clr>+25%<clrEnd>	Size: <clr>+25%<clrEnd>
+Дальность захвата: <bonHookRadius> ед.	Gripper range: <bonHookRadius>
+Броня корпуса: <bonHull>	Hull armor: <bonHull>
+Эконом	Economist
+Размер: <clr>-50%<clrEnd>	Size: <clr>-50%<clrEnd>
+<clr>Положительные свойства акрина<clrEnd> становятся <clr>отрицательными<clrEnd>, а <clr>отрицательные<clrEnd> - <clr>положительными<clrEnd>.	The <clr>positive properties of the acryn<clrEnd> become <clr>negative<clrEnd>, and the <clr>negative<clrEnd> ones become <clr>positive<clrEnd>.
+Стоимость: <clr>-10%<clrEnd>	Cost: <clr>-10%<clrEnd>
+Размер: <clr>-10%<clrEnd>	Size: <clr>-10%<clrEnd>
+Размер: <clr>-15%<clrEnd>	Size: <clr>-15%<clrEnd>
+Стоимость: <clr>-40%<clrEnd>	Cost: <clr>-40%<clrEnd>
+Масса корабля: <bonMass><clr>%<clrEnd>	Ship mass: <bonMass><clr>%<clrEnd>
+Стоимость: <clr>+15%<clrEnd>	Cost: <clr>+15%<clrEnd>
+Размер: <clr>+15%<clrEnd>	Size: <clr>+15%<clrEnd>
+Навык торговли: <bonSkill4>	Commerce skill: <bonSkill4>
+Бронник	Armorer
+Бомбер	Bomber
+Стоимость: <clr>-15%<clrEnd>	Cost: <clr>-15%<clrEnd>
+Надежность: <clr>+30%<clrEnd>	Reliability: <clr>+30%<clrEnd>
+Надежность: <clr>-20%<clrEnd>	Reliability: <clr>-20%<clrEnd>
+Навык техники: <bonSkill3>	Technology skill: <bonSkill3>
+Стоимость: <clr>+25%<clrEnd>	Cost: <clr>+25%<clrEnd>
+Мощность защитного поля: <bonDef><clr>%<clrEnd>	Shield power: <bonDef><clr>%<clrEnd>
+Размер: <clr>+100%<clrEnd>	Size: <clr>+100%<clrEnd>
+Генератор поля: <bonDef> ед.	Shield generator: <bonDef>%
+Навык маневренности: <clr>+2<clrEnd>	Mobility skill: <clr>+2<clrEnd>
+Размер корпуса: <clr>-15%<clrEnd>	Hull size: <clr>-15%<clrEnd>
+Миссайл	Missile
+Количество залпов: <bonAmmo> ед.	Number of salvos: <bonAmmo> units
+Броня корпуса: <clr>+3<clrEnd> ед.	Hull armor: <clr>+3<clrEnd>
+Стоимость: <clr>+150%<clrEnd>	Cost: <clr>+150%<clrEnd>
+Надежность: <clr>+80%<clrEnd>	Reliability: <clr>+80%<clrEnd>
+Стоимость: <clr>+40%<clrEnd>	Cost: <clr>+40%<clrEnd>
+Надежность: <clr>+20%<clrEnd>	Reliability: <clr>+20%<clrEnd>
+Положительные свойства акрина: <clr>+150%<clrEnd>	Positive acryn properties: <clr>+150%<clrEnd>
+Размер: <clr>+50%<clrEnd>	Size: <clr>+50%<clrEnd>
+Размер: <clr>-35%<clrEnd>	Size: <clr>-35%<clrEnd>
+Навык атаки: <bonSkill1>	Attack skill: <bonSkill1>
+Навык маневренности: <bonSkill2>	Mobility skill: <bonSkill2>
+Надежность: <clr>+100%<clrEnd>	Reliability: <clr>+100%<clrEnd>
+Размер: <clr>+30%<clrEnd>	Size: <clr>+30%<clrEnd>
+Сфера	Sphere
+Размер: <clr>+80%<clrEnd>	Size: <clr>+80%<clrEnd>
+Размер: <clr>-80%<clrEnd>	Size: <clr>-80%<clrEnd>
+Стоимость: <clr>+80%<clrEnd>	Cost: <clr>+80%<clrEnd>
+Апгрейд	Upgrade
+Размер: <clr>-25%<clrEnd>	Size: <clr>-25%<clrEnd>
+Надежность: <clr>+25%<clrEnd>	Reliability: <clr>+25%<clrEnd>
+Размер: <clr>+35%<clrEnd>	Size: <clr>+35%<clrEnd>
+Надежность: <clr>-10%<clrEnd>	Reliability: <clr>-10%<clrEnd>
+Навык точности: <bonSkill1>	Attack skill: <bonSkill1>
+Размер: <clr>-75%<clrEnd>	Size: <clr>-75%<clrEnd>
+Надежность: <clr>+33%<clrEnd>	Reliability: <clr>+33%<clrEnd>
+Смерч	Tornado
+Размер: <clr>+200%<clrEnd>	Size: <clr>+200%<clrEnd>
+Навык обаяния: <bonSkill5>	Charisma skill: <bonSkill5>
+Прочность: <clr>+25%<clrEnd>	Durability: <clr>+25%<clrEnd>
+Стоимость: <clr>-25%<clrEnd>	Cost: <clr>-25%<clrEnd>
+Прочность: <clr>+50%<clrEnd>	Durability: <clr>+50%<clrEnd>

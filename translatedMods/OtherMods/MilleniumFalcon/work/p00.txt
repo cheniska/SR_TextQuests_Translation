@@ -1,0 +1,9 @@
+1	Millennium Falcon
+2	<color=248,252,248>A YT-1300 light freighter. Modified and plated with duralloy armor and an enhanced shield generator. The treasure hunter who flew it before you hauled quite a few curiosities and curious people and went through a heap of scrapes, yet this ship was and remained his faithful friend and mainstay. The spacious compartments give plenty of room for cargo, and the defense systems won't let you perish in the middle of an asteroid field.</color>
+3	Droid power: <bonDroid> units
+4	Asteroid damage: -<clr>50<clrEnd>%
+5	And what kind of ship is it?
+6	We've heard about your commercial activities, and we would like to offer you one unique ship...
+7	Oh yes, of course, I'll tell you now.<br><br>A certain... ahem, "businessman" owed our network a large sum. He had no money, so he offered to play it all out in a game that has been popular lately - <clr>sabacc<clrEnd>.<br>Much to our client's regret, one of our programmers turned out to be a real master of sabacc and beat him, even despite blatant cheating (as was revealed later when we checked the cameras).<br><br>To cover his debt and his loss, this fellow gave up his ship. It's a real tub, but our technicians say it has actually set several speed records.<br><br>We aren't interested in that, but you, I think, would be.<br>So we're ready to part with the ship for just <0> cr.<br><br>What is your answer?
+8	We have a deal!<br><br>You can pick up your new hull at our station's storage.
+9	An interesting offer. I think I'll accept!

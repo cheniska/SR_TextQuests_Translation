@@ -1,0 +1,8 @@
+2	Лицам, чинящим беззаконие, мы предоставляем право на чистосердечное раскаяние. Уплатив сумму в <0> cr, вы получите законный статус. После этого вы обязуетесь не осуществлять противоправных деяний. Если вы откажетесь от раскаяния, мы будем вынуждены очистить от вас Галактику.	Citizens engaged in criminal activity have a right to remorse. On paying <0> cr, you will be granted amnesty. After that you must not commit any unlawful deeds. If you reject this, we will have to destroy you.
+3	Я не нуждаюсь в реабилитации. Я делаю, что хочу!	I don't need amnesty. I do what I want!
+7	Обязуетесь ли вы никогда не покушаться на жизнь и собственность граждан и вести деятельность строго в рамках закона?	Do you promise not to commit murderous assault, not to encroach upon citizens' property and obey the law?
+9	В таком случае, согласно политике Комиссии по реабилитации, мы вынуждены очистить от вас Галактику.	In this case, according to the Rehabilitation Committee policy, we will have to destroy you now.
+10	Теперь вы должны уплатить <0> cr в счет административных расходов.	Now you must pay <0> cr to cover the administrative fees.
+11	Вы реабилитированы. Мы надеемся, что теперь вы будете дорожить своим законным статусом. Всего хорошего.	You are cleared to proceed. We hope now you will value your clean legal status. Good luck.
+13	Я действую согласно директивам, полученным от Комиссии по реабилитации. Вы подлежите зачистке как нераскаявшийся преступник.	I am acting according to the instructions received from the Rehabilitation Committee. You are subject to compulsory clearance as an unrepentant criminal.
+14	Какую еще реабилитацию?	What do you mean, "clear my legal status"?

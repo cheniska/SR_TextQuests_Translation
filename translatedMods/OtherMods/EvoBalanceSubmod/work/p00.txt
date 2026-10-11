@@ -1,0 +1,17 @@
+1	Damage bonus: <bonWEnergy> units
+2	Range bonus: <bonWRadius> units
+3	<color=248,252,248>Weapons in the "Inveiter" version, alongside their regular effect, suppress the target's ignition system, damaging its <clr>engine<clrEnd> and slowing it down. The damage dealt is converted into hull repair for the owner.</color><br> <br>
+4	"Vizan"
+5	<color=248,252,248>The faeyan "Vizan" modification can use high-precision shots to disable the target's weapon control channel concentrator, and also deals extra damage to damaged targets by firing sequential ultra-precise shots into hull breaches.</color><br> <br>
+6	<color=248,252,248>Modified for precision targeting of repair robots, weapons with the acrynic "Javitor" module can fire while accounting for the droid's trajectory, giving a chance to block the enemy ship from carrying out repairs during battle.</color><br> <br>
+7	"Tavon"
+8	<color=248,252,248>The faeyan "Tavon" modification fires along a droid trajectory precalculated by the onboard computer, giving a chance to block it, and also increases the weapon's damage. </color><br> <br>
+9	"Mizuro"
+10	<color=248,252,248>A set of faeyan developments in the modification of fragmentation weaponry, so beloved by the maloqs that they bought the patent for its production in order to turn their weapons into enemy annihilation machines, from where it passed into the grasping paws of the pelengs.</color><br> <br>
+11	Damage bonus: up to <clr>33%+15%<clrEnd>
+12	"Gotan"
+13	<color=248,252,248>The standard "Gotan" kit of modified weapon components and software refinements that increases the power of fragmentation weapons.</color><br> <br>
+14	The chance to block <clr>weapons<clrEnd> is inversely proportional to the target's hull size
+15	<color=248,252,248>The faeyan "Vizan" modification can use high-precision shots to disable the target's weapon control channel concentrator, and deals extra damage to damaged targets by firing sequential ultra-precise shots into hull breaches.</color><br> <br>
+16	<color=248,252,248>The faeyan "Tavon" modification fires along a droid trajectory precalculated by the onboard computer, giving a chance to block it, and also increases the weapon's damage.  </color><br> <br>
+17	The chance to block <clr>weapons/droid<clrEnd> is inversely proportional to the target's hull size

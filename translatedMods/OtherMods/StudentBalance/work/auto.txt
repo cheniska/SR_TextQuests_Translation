@@ -1,0 +1,281 @@
+Мутабор	Mutabor
+Линейка лайнеров с дополнительной системой подключения артефактов и возможностью форсажа.	A liner series with an additional system of artifact connection and afterburner capacity.
+Тяжелый гавон	Heavy Gavon
+Малокское транспортное судно, переоборудованное для шпионажа и разведки.	A maloq transport vessel, refitted for espionage and recon.
+Индиго	Indigo
+Корпус для безопасной перевозки пассажиров. Имеет защитное поле и дополнительное вооружение.	A hull for safe transport of passengers. Has a defensive field and auxiliary armaments.
+Мириада	Myriada
+Серия корпусов правительственного заказа, для дипломатических миссий пеленгов и малоков.	A government-commissioned hull series intended for maloq and peleng diplomatic missions.
+Эконом	Economist
+Небольшой экономичный корпус. Отличное решение при ограниченных средствах и разумном подходе к эргономичности.	A small and economical hull. A fine solution for those on a budget and with sensible ergonomic expectations.
+Трантболл	Trantball
+Обычный малокский корпус.	A standard maloq hull.
+Херши	Hershey
+Серия стандартных пеленгских корпусов.	A standard peleng hull.
+Стандарт	Standard
+Стандартный корпус человеческого производства.	A standard Human hull.
+Калай	Kalay
+Серия стандартных фэянских корпусов.	A standard faeyan hull.
+Омоко	Omoko
+Серия стандартных гаальских корпусов.	A standard gaalian hull.
+Тадай	Tadai
+Серия стандартных малокских корпусов с захватом.	A standard maloq hull with a gripper.
+Кацап	Snatcher
+Серия стандартных пеленгских корпусов с захватом.	A standard peleng hull with a gripper.
+Трек	Trek
+Стандартная серия корпусов людей, с местом под захват.	A standard human hull with a gripper slot.
+Лантака	Lantaka
+Серия стандартных фэянских корпусов с захватом.	A standard faeyan hull with a gripper.
+Олапу	Olapu
+Серия стандартных гаальских корпусов с захватом.	A standard gaalian hull with a gripper.
+Экспериметр	Experimeter
+Незавершенная совместная разработка пеленгских и человеческих ученых. Установка генератора поля, радара и сканера невозможна.	An unfinished joint project of peleng and human scientists. Shield generator, radar and scanner cannot be installed.
+Визор	Visor
+Стандартная серия корпусов с радаром и сканером.	A standard hull with a radar and scanner.
+Большой челнок	Large Shuttle
+Корабль для перевозки крупногабаритных грузов. Установка захвата невозможна.	A ship designed to transport large-size cargoes. No gripper can be installed.
+Багамот	Bagamote
+Большой корпус для большого бизнеса. Производится людьми и пеленгами.	A big hull for big business. Manufactured by humans and pelengs.
+Мирта	Mirtha
+Корабль, изготовленный по всем канонам пацифистской идеологии. Бюджетная модель.	A ship designed in keeping with all the canons of the pacifist ideology. A budget model.
+Тортило	Tortillo
+Вместительный корпус для безопасной перевозки арестованных грузов и пленников.	A spacious hull for secure transport of seized cargoes and detainees.
+Глобал-союз	Global Union
+Большой корпус для безопасных перевозок. Безупречный выбор.	A large hull for secure transport. An impeccable choice.
+Аррива	Arriva
+Корпус для благородных целей. Фэяне создали самые комфортные условия в жилых отсеках.	A hull for noble causes. The fae labored to create the most comfortable living quarters around.
+Эльдорадо	El Dorado
+Роскошный корпус, внутренние отсеки отделаны кожей пакряков и золотом. Полный комплект оборудования.	A luxurious hull with an inner trim of pakryak leather and gold. Complete hardware package.
+Захадум	Zahadoom
+Скоростная серия с полной защитой, вооружением и навигацией. Создано для спецслужб пеленгов.	An ultra-speed series with complete defense, arms and navigation. Designed for peleng special forces.
+Толстяк Крю	Fatso Crue
+Серия модернизированных судов от старика Крю, который любил комфорт и панически боялся дроидов.	A series of modernized vessels from old man Crue, known for his love of comfort and irrational fear of droids.
+Феникс Крю	Phoenix Crue
+Сделанная стариком Крю модификация малого фэянского транспорта, переоборудованного для ведения боя.	A minor modification of light faeyan transport vessels toward increased combat readiness, compliments of old man Crue.
+Курьер	Courier
+Серия миниатюрных корпусов, предназначенных для быстрой доставки ценных грузов и информации.	A series of miniature hulls, designed for fast shipment of valuable cargoes and information.
+Святой Брамин	Holy Brahmin
+Недорогой корпус для религиозной и благотворительной деятельности.	An inexpensive hull for religious and charitable purposes.
+Легион смерти	Legion of Doom
+Мощный боевой корпус. Выбор настоящих мужчин.	A powerful combat hull. The choice of real men.
+Ночной ястреб	Nighthawk
+Надежный корабль-перехватчик. Выбор пеленгских и фэянских пиратов.	A reliable interceptor ship. The hull of choice for peleng and faeyan pirates.
+Черная вдова	Black Widow
+Маневренный боевой корабль. Выбор беспощадных убийц.	A mobile combat ship. The choice of ruthless killers.
+Убишак	Ubishack
+Серия украденных и модернизированных пеленгами корпусов. Место для дроида переоборудовано под оружейный отсек.	A series of hulls stolen and modernized by pelengs. The droid compartment has been refitted to a weapons bay.
+Карающий луч	Punishing Ray
+Полнофункциональный боевой корабль низкой ценовой категории. Установка артефактов не предусмотрена.	A fully-functional combat ship in a lower price tier. Does not come with slots for artifacts.
+Жалящая стрела	Stinging Arrow
+Легкий боевой корабль для быстрого реагирования. Незаменим для охоты на пиратов.	A light combat ship for quick reacting. Indispensable for pirate hunting.
+Возмездие неба	Divine Retribution
+Грозная серия корпусов для молниеносных атак. Всегда в моде.	A formidable series of hulls for lightning-fast attacks. Never goes out of fashion.
+Неопатруль	Neopatrol
+Корпус с человеческой и фэянской полицейской маркировкой. Предназначен для сбора таможенных грузов.	A hull with human and faeyan police markings. Designed for customs cargo collection.
+Слепая ярость	Blind Fury
+Машина для убийства. Установка радара и сканера невозможна.	The perfect killing machine. No radar or scanner can be installed.
+Чегантина	Chegantine
+Пеленгский парадный боевой крейсер. На второй палубе установлен тренажерный зал и грязевой бассейн. Создан по проекту верховного лякуша.	A peleng parade combat cruiser with a gym and a mud pool on the second deck. Designed and manufactured for the Supreme Lyakusha.
+Экстрим-лайт	Extreme Light
+Низкобюджетная серия для экстремальных полетов на высоких скоростях. Максимум скорости - минимум защиты.	A low-budget series for extreme jumps at high speeds. Maximum speed with minimum defense
+Микробус	Microbus
+Из этого корпуса удалены все лишние и редко используемые модули.	All redundant and seldom used modules have been removed from this hull.
+Техноскала	Technorock
+Эта серия высокотехнологичных корпусов включает полный комплект мест под оборудование. Техническое совершенство корпусной мысли.	This series of advanced tech hulls includes a complete set of machinery installation mounts. The peak of hull technology innovation.
+Бравада	Bravado
+Небольшой корпус для смелых бойцов. Место под сканер не предусмотрено. Режим форсажа не поддерживается.	A small hull for brave fighters. Does not come with a slot for scanner. Afterburner mode not supported.
+Жандарм	Gendarme
+Гроза пиратов. Выглядит настолько устрашающим, что инженеры даже отказались от установки защитного генератора.	Bane of pirates. Looks so scary that the engineers didn't even bother installing a protection generator.
+Антидоминатор	Antidominator
+Дорогое и эффективное оружие против доминаторов. Выбор настоящих патриотов.	A pricey and effective weapon against dominators. The choice of true patriots.
+Барбариан	Barbarian
+Серия вместительных корпусов для воинов-одиночек, не любящих скорость. Предусмотрено место под захват.	A series of spacious hulls for lone warriors who aren't keen on speed. Comes with a gripper slot.
+Супернова	Supernova
+Элитные фэянские корпуса для высших военных чинов. Внутренняя отделка по последнему слову техники и дизайнерского искусства.	Elite faeyan hulls for top military officials. The interior reflects the latest innovations in technology and design.
+Красный топор	Red Hatchet
+Просторный боевой корабль, обитый внутри красным пластиком. Установка сканера невозможна.	A spacious combat ship padded with red plastic on the inside. No scanner can be installed.
+Энхансер	Enhancer
+Серия недорогих корпусов, созданных для научных войск. Вооружение слабое, есть захват.	A series of inexpensive hulls, designed for research troops. Weak weaponry, comes with a gripper.
+Чистотел	Sweeper
+Не по-гаальски агрессивный корпус с большим функционалом переработки и сбора мусора.	An aggressive hull, atypical of gaals, with high functionality for trash collection and recycling.
+Экстрим-фул	Full Extreme
+Большой гаальский корпус без возможности подключения защитных и части боевых устройств. Для экстремального выживания в космосе.	A large gaalian hull without any defensive equipment and limited offensive options. For extreme survival in space.
+Ябуша	Jabus
+Мощный корпус, который не оставляет врагам ни единого шанса. Размер корабля позволяет содержать внутри грязевой бассейн.	A powerful hull that leaves the enemy no chance. Spacious enough to fit a mud pool.
+Камикадзе	Kamikaze
+Настоящий раритет, создан по чертежам, найденным при раскопках на планете Земля.	This antique was manufactured from blueprints recovered during excavations on planet Earth.
+Цербер	Cerberus
+Маневренное патрульное судно, предназначенное для охраны систем.	A maneuverable patrol ship, designed for protecting systems.
+Бизнес-класс	Business Class
+Комфортабельный корпус повышенной надежности.	A comfortable hull of increased reliability.
+Веселый Роджер	Jolly Roger
+Классический выбор безрассудного пирата. Генератор защитного поля, разумеется, не предусмотрен.	The classic choice of a reckless pirate. Naturally, no shield generator can be installed.
+Растеряха	Scatterbrain
+Легкое судно, для собирания трофейных артефактов. Генератор поля и дроид не предусмотрены.	A light ship, designed for collecting artifact trophies. No shield generator or droid envisaged.
+Фервекс-лякуша	Fervex-Lyakusha
+Корпус для веселых лякушей среднего достатка.	A hull for middle-class fun-loving lyakushas.
+Каракатица	Cuttlefish
+Легендарная пиратская серия с возможностью поддержки всех типов оружия.	A legendary pirate series capable of supporting all weapon types.
+Гнилой зуб	Rotten Tooth
+Просторный корпус для пиратов низшего сословия. Поддержка форсажа и установка генератора поля не предусмотрена.	A spacious hull for lower-class pirates. No afterburner or shield generator envisaged.
+Подранок вселенной	Universe's Chump
+Дешевый корпус, популярный среди отбросов общества.	A cheap hull, popular with the dregs of society.
+Арривал толосум	Arrival Tolosum
+Знаменитая малокская серия, названная в честь Аррива Толосума, воителя и исследователя.	A famous maloq series named after Arriva Tolosum, warrior and explorer.
+Малый Кранк	Small Crank
+Рабочая лошадка для скупщиков и пиратов. Генератор защитного поля не предусмотрен.	A workhorse of fences and pirates. No shield generator envisaged.
+Жажда мести	Vengeance
+Защищенный корпус для мстительных личностей. Единственным недостатком является отсутствие дроида.	A well-protected hull for vengeful types. The absence of a droid is the only notable drawback.
+Черный череп	Black Skull
+Корпус с черным орнаментом из черепов. Его боятся даже другие пираты. Установка сканера невозможна.	A hull ornamented with black skulls. Strikes fear into the hearts of mortals, including other pirates. No scanner can be installed.
+Орландо	Orlando
+Корпус для агрессивных дипломатов. Установка захвата невозможна.	A hull for aggressive diplomats. No gripper can be installed.
+Кость страха	Terror Bone
+Корпус бывалого пирата, перед которым трепещут даже малокские вояки.	A hull for a seasoned pirate, making even maloq warriors tremble in fear.
+Заноза	Splinter
+С выходом этой серии корпусов к базовой комплектации добавился слот оружия, а с ним и новые проблемы торговцев, разумеется.	Upon release, this series of hulls added a weapon slot to the base configuration, spelling even more trouble for merchants.
+Саранча	Locust
+Судно начинающего пирата. Установка сканера и генератора поля невозможна.	A ship for an aspiring pirate. No scanner or shield generator can be installed.
+Лужа Чваха	Chvakha's Puddle
+Корпус пеленгских пиратов ордена Чваха. Имеет большую грязевую ванну, для расслабления после удачных боев.	A hull belonging to the Chvakha pirate order. Contains a large mud pool for relaxing and washing off blood after a battle.
+Тратахан	Tratakhan
+Малокский корпус для беспредельных пиратских забав с дроидом.	A maloq hull for lawless pirate tomfoolery. Comes with a droid.
+Голодный пенчекряк	Ravenous Penchecrakus
+Зверская мощь корабля гарантирует победу над противником. Мечта любого пеленга.	The ship's beastly power all but guarantees victory over any opponent. The dream of any peleng.
+Ксвиру	Xwiru
+Очень маленький фэянский корпус, состоящий из новейших микросистем. Прекрасный шпион и разведчик.	A tiny faeyan hull, comprised of state-of-the-art microsystems. Perfect for scouting and spying.
+Новый Ксвиру	New Xwiru
+Модифицированный фэянский корпус серии "Ксвиру". Увеличен размер.	A modified faeyan hull of the Xwiru series. The size has been increased.
+Катозавр	Catosaurus
+Боевой корпус. Внутренняя отделка, выполненная в доисторическом стиле, прекрасно дополняет возросшую огневую мощь.	A combat hull. The interior trim's prehistoric theme excellently complements its increased firepower.
+Хищник	Predator
+Боевой корпус малокских охотников за умными головами.	A combat hull of maloq egghead hunters.
+Благодать	Grace
+Небольшой корпус для эффективной работы дипломата, рассчитан на новое оборудование средних размеров.	A small hull sufficient for effective discharging of diplomatic duties. Designed to carry modern mid-size tech.
+Фантом	Phantom
+Неприметный корпус, используется для перевозки документов под грифом "Совершенно секретно".	An inconspicuous hull used to transport classified documents.
+Омаха	Omaha
+Легкий гаальский корпус для наслаждения скоростью и выполнения сложных маневров.	A light gaalian hull, designed for those with the need for speed and high maneuverability.
+Звездный скиталец	Star Wanderer
+Знаменитая серия людских рейнджерских корпусов. Используется пиратами для маскировки. Установка собственного сканера не предусмотрена.	A famous series of human ranger hulls, , it is also used by pirates as disguise. No personal scanner envisaged.
+Пыль времени	Sands of Time
+Низкобюджетная линейка кораблей для малоимущих рейнджеров.	A low-budget line of ships for destitute rangers.
+Стальная чмыса	Stainless Steel Brat
+Скоростной корпус для пеленгских рейнджеров, предпочитающих тактическое отступление бесславной гибели.	A high-speed hull for peleng rangers who favor tactical retreat over inglorious death.
+Оружейник	Weaponsmith
+Внутренняя отделка салона содержит декоративные элементы оружия и боеприпасов. Для любителей показать силу.	The cabin's trim features decorative elements of weapons and ammo -- a boon for those who like to show off their power.
+Мангуст	Mongoose
+Идеальный корпус для активных полетов. Спроектирован по заказу сети центров рейнджеров.	An ideal hull for frequent flyers. Commissioned by the network of ranger centers.
+Факрай	Farcry
+Вместительное рейнджерское судно, подходит для неспешной перевозки опасных и хрупких грузов. Только для отважных фэян.	A spacious ranger hull, ideal for unhurried transport of fragile and dangerous cargoes. Only for courageous faeyans.
+Слопка	Sentinel
+Крепкий гаальский орешек. Рейнджерский корпус с большим трюмом и мощным оружейным отсеком. Установка сканера невозможна.	A hard gaalian nut. A ranger hull with a spacious cargo bay and powerful weapons bay. No scanner can be installed.
+Одинокий странник	Lone Traveler
+Человеческий корпус для неторопливых странствий пилота-рейнджера. Салон украшен картинами пейзажей древней планеты Земля.	A human hull for leisurely ranger travels. The living quarters is decorated with paintings depicting landscapes of the ancient planet Earth.
+Гугол	Googol
+Быстрый рейнджерский корпус. Согласно опросам, был признан лучшим корпусом 3299 года.	A fast ranger hull. Voted the best hull of 3299.
+Идеал	Ideal
+Идеальный рейнджерский корпус для любых операций. Создан по эксклюзивному заказу сети центров рейнджеров.	The ideal ranger hull for any operation. Exclusively commissioned by the network of ranger centers.
+Серия "<Name>"	Series <Name>
+Скорость двигателя: <bonSpeed> ед.	Engine speed: <bonSpeed>
+Дальность прыжка: <bonJump> ед.	Jumping range: <bonJump>
+Дальность радара: <bonRadar> ед.	Radar range: <bonRadar>
+Броня корпуса: <bonHull> ед.	Hull armor: <bonHull>
+Эффективность дроида: <bonDroid> ед.	Droid effectiveness: <bonDroid>
+Генератор поля: <bonDef> ед.	Shield generator: <bonDef>%
+Навык маневренности: <bonSkill2>	Mobility skill: <bonSkill2>
+Мощность сканера: <bonScan> ед.	Scanner power: <bonScan>.
+Навык техники: <bonSkill3>	Technology skill: <bonSkill3>
+Навык атаки: <bonSkill1>	Attack skill: <bonSkill1>
+Дальность стрельбы: <bonWRadius> ед.	Firing range: <bonWRadius>
+Неуязвимый корпус I	Invincible Hull I
+<color=248,252,248>Разработанный фэянскими спецами корпус с усиленной защитой. Специальная акриновая прослойка между бронелистами корпуса позволяет добиться большей эффективности от работы генератора защитного поля.</color>	<color=248,252,248>A hull with bolstered defensive properties, developed by faeyan specialists. A special acrynic layer inserted between the hull's armor plates improves the operational effectiveness of the shield generator.</color>
+Неуязвимый корпус II	Invincible Hull II
+Неуязвимый корпус IV	Invincible Hull IV
+Ремонтный корпус I	Repair Hull I
+<color=248,252,248>Данный корпус специально разработан для лучшей работоспособности ремонтного дроида. Его гнездо расположено максимально удобно, а ко всем уязвимым деталям имеется легкий доступ. Вследствие этого дроид работает с большей эффективностью, чем на остальных кораблях.</color>	<color=248,252,248>This hull is designed to optimize the repair droid's working capacity. It is stationed at the most convenient location with easy access to all the ship's most vulnerable parts. As a result, the droid operates with greater effectiveness than on other ships.</color>
+Ремонтный корпус II	Repair Hull II
+Ремонтный корпус III	Repair Hull III
+Ремонтный корпус IV	Repair Hull IV
+Миоплазменный корпус I	Myoplasmic Hull I
+<color=248,252,248>Миоплазменное оборудование работает за счет особых акриновых присадок, которые встраиваются в энергетическую систему корабля и перенаправляют силовые потоки на усиление мощности выстрелов осколочного и энергетического оружия. Как побочный эффект, возможно снижение скорости корабля.</color>	<color=248,252,248>Myoplasmic equipment utilizes special acrynic agents, fitted into the ship's energy system, which redirect power flows to boost the power of fragmentation and energy weapons. As a side effect, may also decrease the ship's speed.</color>
+Сила энергетического оружия: <bonWEnergy> ед.	Energy weapons damage: <bonWEnergy>
+Сила осколочного оружия: <bonWSplinter> ед.	Fragmentation weapons damage: <bonWSplinter>
+Миоплазменный корпус II	Myoplasmic Hull II
+Апгрейтинговый захват I	Upgraded Gripper I
+<color=248,252,248>Производимое пиратскими техниками оборудование, собирается преимущественно из старых запчастей и ярко раскрашивается для придания товарного вида. Оно дешевое, компактное и потребляет мало энергии, а это полезно для работы захвата, но имейте в виду, что мало кто любит пиратов.</color>	<color=248,252,248>Pirate engineers manufacture equipment primarily from old components, adding a generous coat of bright paint to dress it up for the market. The resulting tech is cheap, compact and energy efficient, which is always a plus for capturing targets, but remember that pirates aren't terribly popular out there.</color>
+Дальность захвата: <bonHookRadius> ед.	Gripper range: <bonHookRadius>
+Апгрейтинговый генератор защиты I	Upgraded Shield Generator I
+Апгрейтинговый двигатель I	Upgraded Engine I
+Апгрейтинговый топливный бак I	Upgraded Fuel Tank I
+Апгрейтинговый радар I	Upgraded Radar I
+Апгрейтинговый сканер I	Upgraded Scanner I
+Апгрейтинговый захват II	Upgraded Gripper II
+Апгрейтинговый генератор защиты II	Upgraded Shield Generator II
+Апгрейтинговый двигатель II	Upgraded Engine II
+Апгрейтинговый топливный бак II	Upgraded Fuel Tank II
+Апгрейтинговый радар II	Upgraded Radar II
+Апгрейтинговый сканер II	Upgraded Scanner II
+Апгрейтинговый захват III	Upgraded Gripper III
+Апгрейтинговый генератор защиты III	Upgraded Shield Generator III
+Апгрейтинговый двигатель III	Upgraded Engine III
+Апгрейтинговый топливный бак III	Upgraded Fuel Tank III
+Апгрейтинговый радар III	Upgraded Radar III
+Апгрейтинговый сканер III	Upgraded Scanner III
+Нанобролитовый дроид I	Nanobrolite Droid I
+<color=248,252,248>Оборудование, разработанное специально для армии, имеет минималистичный дизайн и помимо базовой деятельности улучшает атакующую мощь пилота. Также перенастраивает бортовую орудийную систему на повышение мощности выстрелов, из-за чего страдает дальность атаки.</color>	<color=248,252,248>Commissioned exclusively for the armed forces, this equipment boasts a minimalist design. Besides basic functionality, it bolsters the pilot's offensive capacity. It also reconfigures the onboard weapons system to boost firepower at the expense of range.</color>
+Нанобролитовый двигатель I	Nanobrolite Engine I
+Нанобролитовый генератор защиты I	Nanobrolite Shield Generator I
+Нанобролитовый дроид II	Nanobrolite Droid II
+Нанобролитовый двигатель II	Nanobrolite Engine II
+Нанобролитовый генератор защиты II	Nanobrolite Shield Generator II
+Нанобролитовый дроид III	Nanobrolite Droid III
+Нанобролитовый двигатель III	Nanobrolite Engine III
+Нанобролитовый генератор защиты III	Nanobrolite Shield Generator III
+Ультрасплавный сканер I	Ultraalloy Scanner I
+<color=248,252,248>Высокотехнологичное оборудование нового поколения, обладает саморазвивающимся интеллектуальным блоком, который корректирует действия пилота, за счет чего уменьшается износ техники и повышается работоспособность дроида. Во время работы оборудования не рекомендуется употреблять выражения: "забастовка", "власть машинам" и "убить всех людей"!</color>	<color=248,252,248>Advanced, new generation technology with a self-developing intelligent module capable of correcting the pilot's actions, reducing equipment wear and tear and enhancing droid effectiveness thereby. While in use, it is strongly advised to abstain from phrases like, "Let's strike!" "Rise of the machines!" and "Kill all organics!"</color>
+Ультрасплавный радар I	Ultraalloy Radar I
+Ультрасплавный топливный бак I	Ultraalloy Fuel Tank I
+Ультрасплавный захват I	Ultraalloy Gripper I
+Ультрасплавный сканер II	Ultraalloy Scanner II
+Ультрасплавный радар II	Ultraalloy Radar II
+Ультрасплавный топливный бак II	Ultraalloy Fuel Tank II
+Ультрасплавный захват II	Ultraalloy Gripper II
+Ультрасплавный радар III	Ultraalloy Radar III
+Ультрасплавный топливный бак III	Ultraalloy Fuel Tank III
+Ультрасплавный захват III	Ultraalloy Gripper III
+Ультрасплавный сканер III	Ultraalloy Scanner III
+Корпус "Добрый лякуша" I	Kindhearted Lyakusha Hull I
+<color=248,252,248>Пиратская серия корпусов, разработана для космических боев с Коалицией. Внутри корпуса оставлено только самое необходимое оборудование, а вся система управления настроена на максимальную атакующую мощь. Точно не подойдет любителям поторговать.</color>	<color=248,252,248>A pirate series of hulls, engineered for space battles against the Coalition. Outfitted with only the most essential equipment, the hull's entire control system is configured for maximum firepower. Definitely not for commerce enthusiasts.</color>.
+Сила ракетного оружия: <bonWMissile> ед.	Missile weapons damage: <bonWMissile>
+Корпус "Добрый лякуша" II	Kindhearted Lyakusha Hull II
+Корпус "Добрый лякуша" III	Kindhearted Lyakusha Hull III
+Корпус "Добрый лякуша" IV	Kindhearted Lyakusha Hull IV
+<color=248,252,248>Пиратская серия корпусов, разработана для космических боев с Коалицией. Внутри корпуса оставлено только самое необходимое оборудование, а вся система управления настроена на максимальную атакующую мощь. Точно не подойдет любителям поторговать. </color>	<color=248,252,248>A pirate series of hulls, engineered for space battles against the Coalition. Outfitted with only the most essential equipment, the hull's entire control system is configured for maximum firepower. Definitely not for commerce enthusiasts.</color>.
+Корпус "Мирный корсар" I	Peaceful Corsair Hull I
+<color=248,252,248>Корпус для тех, кто любит разорять мирные корабли, но при этом не хочет оказаться уничтоженным военными Коалиции. Вся структура корабля разработана с учетом максимальной защиты. Его минус - это сложные электронные системы управления. Из-за их медлительности и неточности навыки пилота мало на что влияют.</color>	<color=248,252,248>A hull for those who love to prey on civilian vessels but hate the idea of getting dispatched by the Coalition armed forces. The ship's entire structure is aimed at optimizing its defensive capabilities to the fullest. Its main drawback amounts to overly complicated control systems. Due to their lacking speed and accuracy, the pilot's skills have very little impact.</color>
+Корпус "Мирный корсар" II	Peaceful Corsair Hull II
+Корпус "Мирный корсар" III	Peaceful Corsair Hull III
+Корпус "Мирный корсар" IV	Peaceful Corsair Hull IV
+Корпус "Честный ренегал" I	Conscientious Renegal Hull I
+<color=248,252,248>Данный корпус - это разработка гаальских спецов, выкраденная пиратами прямо из лаборатории. Благодаря инновационной технологии с шестью крыльями, создает вокруг корабля энергетическое поле, уменьшающее массу корабля, усиливающее дальность гиперпрыжка и, как приятный бонус, усиливающее работу захвата. Неприятный бонус в том, что его владельцу никто не дает скидок из зависти.</color>	<color=248,252,248>Designed by gaalian specialists, this hull was stolen by pirates straight from the lab. Thanks to state-of-the-art six-wing technology, it forms an energy field around the ship, which reduces it's mass, boosts hyperjump range and, as a welcome bonus, enhances the gripper's functionality. The unwelcome bonus is that everyone around becomes so green with envy that you can forget about getting a discount on... well, anything.</color>
+Масса корабля: <bonMass>%	Ship mass: <bonMass>%
+Навык торговли: <bonSkill4>	Commerce skill: <bonSkill4>
+Корпус "Честный ренегал" II	Conscientious Renegal Hull II
+Корпус "Честный ренегал" III	Conscientious Renegal Hull III
+Корпус "Честный ренегал" IV	Conscientious Renegal Hull IV
+Корпус "Молния" I	Dandy Hull I
+<color=248,252,248>Агрессивный внешне спецкорпус для тех, кто любит путешествовать по галактике, предпочитая торговые операции и правительственные приключения кровопролитным сражениям.</color>	<color=248,252,248>An externally elegant special designation hull for those who love to travel the Galaxy, favoring commercial dealings and diplomatic adventures to bloody battles.</color>
+Корпус "Молния" II	Dandy Hull II
+Корпус "Молния" III	Dandy Hull III
+Корпус "Молния" IV	Dandy Hull IV
+Фараон	Pharaoh
+Скала	Rock
+Корпус "Ушастик" I	Dumbo Hull I
+<color=248,252,248>Первая серия, позиционируемая как "дамский" тип корабля, ласково называемая "Ушастиком" за свой внешний вид. Пускай женщин - пилотесс пока совсем мало, но их наверняка станет больше, если они узнают, что в суровом патриархальном мире их вкусы заинтересовали хоть кого-то. Как ни странно, но серия разработана фэянами.</color>	<color=248,252,248>The first series designed to be marketed as a "ladies' ship," fondly nicknamed "Dumbo" for its appearance. Though female pilots may be a rarity in space at this time, no doubt there'll be more of them once they learn that in this harsh patriarchal world, at least somebody cares about their wants! Strangely enough, the series was developed by the fae.</color>
+Навык обаяния: <bonSkill5>	Charisma skill: <bonSkill5>
+Корпус "Ушастик" II	Dumbo Hull II
+Корпус "Ушастик" III	Dumbo Hull III
+Корпус "Ушастик" IV	Dumbo Hull IV
+Установить <ModuleName> в <ItemName>?	Install <ModuleName> to <ItemName>?
+Микромодуль	Micromodule

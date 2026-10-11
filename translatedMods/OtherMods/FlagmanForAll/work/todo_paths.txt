@@ -1,0 +1,17 @@
+1	MicroModuls/FlagmanPeopleComm/Name
+2	MicroModuls/FlagmanPeopleComm/Text
+3	MicroModuls/FlagmanPeopleComm/Text
+4	MicroModuls/FlagmanMalocComm/Name
+5	MicroModuls/FlagmanMalocComm/Text
+6	MicroModuls/FlagmanMalocComm/Text
+7	MicroModuls/FlagmanFeiComm/Name
+8	MicroModuls/FlagmanFeiComm/Text
+9	MicroModuls/FlagmanFeiComm/Text
+10	MicroModuls/FlagmanGaalComm/Name
+11	MicroModuls/FlagmanGaalComm/Text
+12	MicroModuls/FlagmanGaalComm/Text
+13	MicroModuls/FlagmanGaalComm/Text
+14	MicroModuls/FlagmanGaalComm/Text
+15	MicroModuls/FlagmanPelengComm/Name
+16	MicroModuls/FlagmanPelengComm/Text
+17	MicroModuls/FlagmanPelengComm/Text

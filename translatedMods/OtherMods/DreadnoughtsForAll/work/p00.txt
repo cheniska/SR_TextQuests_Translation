@@ -1,0 +1,18 @@
+1	Faeyan dreadnought hull
+2	<color=248,252,248>A faeyan dreadnought hull, the standard model available to all Rangers. Gripper and afterburner are unavailable due to the hull's design. A special version with improved repair equipment is produced for the faeyan.</color>
+3	(Bonuses only for members of the <clr>faeyan<clrEnd> race)
+4	Gaalian dreadnought hull
+5	<color=248,252,248>A gaalian dreadnought hull, the standard model made to order by the Center Network especially for Rangers. Gripper and afterburner are unavailable due to the hull's design. A special lightweight version is produced for the gaalians.</color>
+6	Ship speed: <bonSpeed> units
+7	(Bonuses only for members of the <clr>gaalian<clrEnd> race)
+8	Maloq dreadnought hull
+9	<color=248,252,248>A maloq dreadnought hull, the standard model available to all Rangers. Gripper and afterburner are unavailable due to the hull's design. A special version with an improved weapon system is produced for the maloqs.</color>
+10	Efficiency of any weapon: +<clr>7<clrEnd> units
+11	Firing range of any weapon: <bonWRadius> units
+12	(Bonuses only for members of the <clr>maloq<clrEnd> race)
+13	Peleng dreadnought hull
+14	<color=248,252,248>A peleng dreadnought hull, the standard model available to all Rangers. Gripper and afterburner are unavailable due to the hull's design. A special version with improved radar and scanner is produced for the pelengs.</color>
+15	(Bonuses only for members of the <clr>peleng<clrEnd> race)
+16	Human dreadnought hull
+17	<color=248,252,248>A human dreadnought hull, the standard model available to all Rangers. Gripper and afterburner are unavailable due to the hull's design. A special version with improved hull armor is produced for humans.</color>
+18	(Bonuses only for members of the <clr>human<clrEnd> race)

@@ -1,0 +1,5 @@
+1	<color=248,252,248>A klissan super-heavy ship, refitted to be operable by any humanoid. Many components and devices are still unstudied and have simply been adapted to accommodate Coalition instruments.</color>
+2	<color=248,252,248>A klissan heavy ship, refitted to be operable by any humanoid. Many components and devices are still unstudied and have simply been adapted to accommodate Coalition instruments.</color>
+3	<color=248,252,248>A klissan medium ship, refitted to be operable by any humanoid. Many components and devices are still unstudied and have simply been adapted to accommodate Coalition instruments.</color>
+4	<color=248,252,248>A klissan light ship, refitted to be operable by any humanoid. Many components and devices are still unstudied and have simply been adapted to accommodate Coalition instruments.</color>
+5	<color=248,252,248>A klissan super-light ship, refitted to be operable by any humanoid. Many components and devices are still unstudied and have simply been adapted to accommodate Coalition instruments.</color>

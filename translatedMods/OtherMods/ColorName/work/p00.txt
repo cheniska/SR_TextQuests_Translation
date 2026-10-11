@@ -1,0 +1,52 @@
+1	Restore the normal one
+2	Change the color
+3	I think so.
+4	Your name color has been reset. Anything else?
+5	Oh well. Another time, then.
+6	I'm sorry, but you don't have enough money in your account for us to work on your name. The operation requires at least <clr>5000 cr<clrEnd>.
+7	<color=255,0,0>Red</color>
+8	<color=255,255,128>Yellow</color>
+9	<color=0,0,0>Black</color>
+10	<color=255,128,64>Orange</color>
+11	<color=192,192,192>Gray</color>
+12	<color=0,255,255>Light blue</color>
+13	<color=0,0,255>Blue</color>
+14	<color=128,64,0>Brown</color>
+15	<color=11,244,75>Green</color>
+16	<color=255,255,255>White</color>
+17	<color=255,128,255>Pink</color>
+18	I want to spruce up my partner's name
+19	Which color would you like to choose?
+20	We're sorry, but you don't have enough money in your account for us to work on your partner's name. The operation requires at least <clr>5250 cr<clrEnd>.
+21	Your partner's name color has been changed. Would you like to change it to another color or remove it?
+22	No problem! Do you want to change the color or reset it?
+23	Your partner's name color has been reset. Would you like to change it to another color or remove it?
+24	Yes. Let's do it!
+25	Reset
+26	Well, <Player>, after a few brief manipulations your name has changed color. Would you like to change it to another color or remove it?
+27	I want to change my partner's name
+28	Of course, another time. Come again!
+29	Alas, your account doesn't have enough money for the operation of changing your partner's name. Come back when you've saved up <clr>5500 cr<clrEnd>.
+30	Well, you asked for it yourself! Where's my valerian? Fine, it's your business. Come again next time.
+31	Great! So, why don't you pick your victim - oh, I meant partner.
+32	All right. Then enter your partner's new name.
+33	No, I think I've changed my mind. Another time is better. Goodbye!
+34	No, I'd rather do it another time.
+35	Yes, of course!
+36	No, why would I?
+37	I'll enter it now...
+38	No. Another time.
+39	Well then! We've worked on your partner's new name, and now it looks as if they had only just signed up as a Ranger. Heh-heh. Would you like to repeat it, or is that enough for today, or maybe pick a different name color?
+40	Hm. Let's change the name!
+41	It would be better to change the color.
+42	We can change your partner's name for <clr>5500 cr. <clrEnd> Would you like to change it? <clr>Your partner's name color will be kept<clrEnd>.
+43	Okay... Come back next time when you make up your mind.
+44	<color=181,10,151>Violet</color>
+45	<color=128,0,128>Purple</color>
+46	No problem, <Player>. We can change the color your name is displayed in in the registries, or return it to normal for a token fee of <clr>5000 cr<clrEnd>. Your name color will change after we carry out a special alteration procedure.<br><br>We have the following set of colors:<br>---------------------------------------------------------<br><clr>Red Yellow Black White Orange Green Brown Blue Violet Light blue Gray Pink Purple<clrEnd><br>---------------------------------------------------------<br><br>What will you choose, <Player>?
+47	Well then, let's get to work, <Player>! We can change the color your partner's name is displayed in, or return it to normal, wherever they are, for a fee of <clr>5000 cr<clrEnd>, and we will also transfer another <clr>250 cr<clrEnd> from your account to your partner's account as their consent to the procedure. That makes <clr>5250 cr<clrEnd> in total. Your partner's name color will change after we carry out a special alteration procedure.<br><br>We have the following set of colors:<br>---------------------------------------------------------<br><clr>Red Yellow Black White Orange Green Brown Blue Violet Light blue Gray Pink Purple<clrEnd><br>---------------------------------------------------------<br><br>But first, choose your partner's name for the procedure.<br>
+48	We can also decorate your name with color.
+49	Enter your partner's new name
+50	Change color
+51	I want to spruce up my own name
+52	Info panel for fixing the name change

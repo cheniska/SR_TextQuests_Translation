@@ -1,0 +1,31 @@
+Биграбурба	Bigraburba
+Дамиников	Daminikov
+Акулёнок	Sharklet
+Пантера	Panther
+Ястреб	Hawk
+Кабан	Boar
+Бамберга	Bamberga
+Ара	Ara
+Бешрафляц	Beshraflyats
+Вихрь	Vortex
+Шеграмер	Shegramer
+Далее	Next
+В данный момент мы за один раз способны подготовить <0>.	At the moment we are able to train <0> at a time.
+Мы постоянно работаем над привлечением новых гуманоидов в рейнджерское движение. Прямо сейчас мы <0>.	We constantly work on attracting new humanoids into the ranger movement. Right now we <0>.
+Следующим рейнджерам мы будем выдавать <0>.	To the next rangers we will issue <0>.
+Сейчас мы <0>.	Right now we <0>.
+Нашим специалистом по улучшению оборудования является <0>.	Our equipment improvement specialist is <0>.
+Хорошо, я согласен! Сколько вам нужно?	Fine, I agree! How much do you need?
+Ага, еще чего? Я свои кровно заработанные денюжки никому не отдам.	Yeah, what else? I won't give my hard-earned money to anyone.
+Расскажите об общих параметрах	Tell me about the general parameters
+Меня интересует количество выдаваемого оборудования новым рейнджерам	I'm interested in the amount of equipment issued to new rangers
+Меня интересует программа обучения новых рейнджеров	I'm interested in the training program for new rangers
+Меня интересует улучшение оборудования рейнджеров	I'm interested in the improvement of rangers' equipment
+Да	Yes
+Нет	No
+Хорошо	Good
+Обратно к параметрам текущего рейнджера	Back to the current ranger's parameters
+Пока	So long
+Обратно к общим параметрам	Back to general parameters
+Ага	Yeah
+Обратно к выбору параметров	Back to parameter selection

@@ -1,0 +1,2 @@
+Мощность сканера: <bonScan> ед.	Scanner power: <bonScan>.
+Дальность радара: <bonRadar> ед.	Radar range: <bonRadar>

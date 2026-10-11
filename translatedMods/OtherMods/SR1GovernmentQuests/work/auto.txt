@@ -1,0 +1,21 @@
+Секретный пакет, при взятии в плен - уничтожить!	Secret package, destroy if captured!
+Захват-взрыватель	Detonating Gripper
+Миниатюрный захват-взрыватель, предназначенный для минерных работ под землей.	A miniature gripper-detonator intended for underground mining work.
+Пакет наблюдений за последними перемещениями военных сил доминаторов.	A package of observations of the latest movements of dominator military forces.
+Посылки, которые обычно доставляет контора "Экспресс-галактика".	Parcels usually delivered by the "Express-Galaxy" firm.
+Уникальное оружие, сверхкомпактный инфракрасный огнемет.	A unique weapon, a super-compact infrared flamethrower.
+Чхаша	Ckhasha
+Очень древняя чхаша династии Цхин.	A very ancient ckhasha from the Tzin Dynasty.
+Контейнер	Container
+В контейнере находится вирус "Бактериус-Грокус".	The container holds the "Bacterius-Grokus" virus.
+Кассета	Tape
+Запись с компрометирующим материалом.	A recording with compromising material.
+Кейс с секретными документами.	A case with secret documents.
+Жучки	Bugs
+Пакетик с жучками, для организации шпионской деятельности.	A packet of bugs for organizing espionage.
+Трубка служит для заключения мира согласно людским традициям.	A pipe used for concluding peace according to human traditions.
+Самурайский меч, датированный XIV веком н. э., людской антиквариат.	A samurai sword dated to the 14th century AD, a human antique.
+Ценная каменистая порода.	A valuable rock.
+Посылочка с разными фэянскими сувенирами.	A little parcel with assorted faeyan souvenirs.
+Посылки, которые обычно перевозит контора "Экспресс-галактика".	Parcels usually transported by the "Express-Galaxy" firm.
+Контейнер с канцерогенным веществом.	A container with a carcinogenic substance.

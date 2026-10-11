@@ -1,0 +1,18 @@
+Эгемон	Egemon
+Генератор поля: <bonDef> ед.	Shield generator: <bonDef>%
+Броня корпуса: <bonHull> ед.	Hull armor: <bonHull>
+Скорость двигателя: <bonSpeed> ед.	Engine speed: <bonSpeed>
+Дальность стрельбы: <bonWRadius> ед.	Firing range: <bonWRadius>
+Сила энергетического оружия: <bonWEnergy> ед.	Energy weapons damage: <bonWEnergy>
+Сила осколочного оружия: <bonWSplinter> ед.	Fragmentation weapons damage: <bonWSplinter>
+Нондус	Nondus
+Навык атаки: <bonSkill1> ед.	Attack skill: <bonSkill1> units
+Навык маневренности: <bonSkill2> ед.	Mobility skill: <bonSkill2> units
+Катаури	Katauri
+Сила ракетного оружия: <bonWMissile> ед.	Missile weapons damage: <bonWMissile>
+Дальность выстрела: <bonWRadius> ед.	Shot range: <bonWRadius> units
+Рогит	Rogit
+Мощность сканера: <bonScan> ед.	Scanner power: <bonScan>.
+Дальность радара: <bonRadar> млн км	Radar range: <bonRadar> million km
+Мутенок	Mutenoc
+Дальность прыжка: <bonJump> пк.	Jump range: <bonJump> pc

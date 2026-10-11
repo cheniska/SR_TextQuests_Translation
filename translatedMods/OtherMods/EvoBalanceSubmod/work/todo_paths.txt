@@ -1,0 +1,17 @@
+1	MicroModuls/502/Text
+2	MicroModuls/502/Text
+3	MicroModuls/525/Text
+4	MicroModuls/833/Name
+5	MicroModuls/833/Text
+6	MicroModuls/834/Text
+7	MicroModuls/835/Name
+8	MicroModuls/835/Text
+9	MicroModuls/836/Name
+10	MicroModuls/836/Text
+11	MicroModuls/836/Text
+12	MicroModuls/838/Name
+13	MicroModuls/838/Text
+14	MicroModuls/838/Text
+15	MicroModuls/840/Text
+16	MicroModuls/841/Text
+17	MicroModuls/848/Text

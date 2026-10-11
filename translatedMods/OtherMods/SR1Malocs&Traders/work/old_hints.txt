@@ -1,0 +1,24 @@
+1	Мы не ведем никаких дел с торгашами. Смотри, не попадайся снова нам на пути.	We don't deal with traders. Stay out of our sight.
+2	Ты заслужил смерть, готовься ее принять.	You deserve death, prepare to die.
+4	Ты спекулянт, нажил свое состояние при помощи грязного обмена товарами. Из-за таких, как ты, совращаются нравы нашей молодежи. Мы представляем партию по очистке галактики от таких, как ты. И мы займемся этим прямо сейчас.	You are a dirty trader, you have made your fortune on the shameful exchange of goods. People like you destroy the morals and values of our youth. We represent a political party clearing the Galaxy from the likes of you. And we'll do it right now.
+5	Ха, что ты можешь предложить, грязный торгаш? Нам не нужны твои грязные деньги.	Hah, but what can a dirty trader offer? We don't need your filthy money.
+6	Прощай, тебя сгубила грязная торговля. Сейчас одним торгашом станет меньше.	Farewell, trading has ruined you. Now there will be one less trader.
+7	Мы честные пираты, и наши принципы неизменны. Мы не принимаем никаких денег от торгашей. Ты заслужил смерть. Готовься ее принять.	We're honest pirates and we stick to our principles. We take no money from traders. You deserve to die. Say your prayers.
+8	Хм.. ты клянешься, что прекратишь свои спекуляции и примешься за достойное занятие - войну?	Hmm.. Do you swear you'll give up trading and start doing something more dignified, like war?
+9	Что ж, возможно, мы примем твое раскаяние. Но в качестве залога ты должен внести <0> cr, и тогда мы прекратим атаку.	Well, perhaps, we'll accept your apology. But you must pay <0> cr as ransom, and then we'll stop the attack.
+10	Посмотрите на него, он и перед лицом смерти продолжает торговаться! Сдается мне, пора тебя проучить.	Look at him, he keeps on haggling even when facing death! I guess it's time to teach him a lesson.
+11	Что ж, тебе давалась возможность, и ты ее упустил. Прощай, торгаш.	Well, you had a chance and you missed it. Bye, trader.
+12	Это исключительно твои проблемы. Без залога мы не примем твое раскаяние.	These problems are entirely yours. We won't accept your apology without a ransom.
+13	Хорошо, <PlayerFull>, твое раскаяние принято. Залог остается у нас в качестве контрибуции. Но учти, если мы узнаем, что ты продолжаешь наживаться на торговле, мы тебя найдем.	Ok <PlayerFull>, we accept your apology. Your contribution stays with us. But remember if we ever find out that you are still trading, we'll find you.
+14	Стойте, стойте! Что я вам сделал?	Wait, wait! What have I done to you?
+15	Не можем ли мы более цивилизованно уладить разногласия?	Can't we settle the conflict in a more civilised way?
+16	Что ж, вы сами устроили себе проблему. Сейчас я не оставлю от вас даже воспоминания.	Well, so you have been looking for trouble. Good. Now I'll rip you to shreds.
+17	Хотя бы назовите вашу цену. Я готов расплатиться за свободный пролет.	At least, name your price. I'm ready to pay so that you let me pass.
+18	Я исправлюсь! Я больше никогда не буду заниматься торговлей! Я обещаю!	I will change! I won't ever trade again! I promise!
+19	ДА, ДА, ДА!!!	YES, YES, YES!!!
+20	Нет, это уж слишком! Назовите вашу цену, я заплачу. Все знают цену деньгам, и вы не исключение.	No, this is too much! Name your price, I'll pay. Everybody likes money, you can't be any different.
+21	Мне это надоело! Вы поплатитесь за подобную дерзость!	I've had enough of this! You'll pay for your impudence!
+22	Я перевожу сумму. Надеюсь, этого будет достаточно, уважаемый сэр.	I'm transferring the money. I hope, it'll be enough, sir.
+23	К сожалению, в данный момент я не располагаю подобной суммой.	Unfortunately, at the moment I don't have the money.
+24	Кажется, это слишком много. Может, мы сойдемся на меньшей сумме?	I think that's too much. Maybe, you can reduce the amount?
+25	Честно говоря, вы, ребята, меня достали. Я сам освобожу от вас галактику.	Honestly, I'm tired of you guys. I feel like clearing the Galaxy of you myself.

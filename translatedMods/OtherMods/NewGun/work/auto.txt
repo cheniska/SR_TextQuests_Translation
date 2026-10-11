@@ -1,0 +1,28 @@
+Стоимость: <clr>+10%<clrEnd>	Cost: <clr>+10%<clrEnd>
+Сила осколочного оружия: <bonWSplinter> ед.	Fragmentation weapons damage: <bonWSplinter>
+Дальность стрельбы: <bonWRadius> млн км	Firing range: <bonWRadius> million km
+Дополнительный эффект: <clr>повышенный урон повреждённым целям<clrEnd>	Additional effect: <clr>increased damage to damaged targets<clrEnd>
+Прочность: <clr>-10%<clrEnd>	Durability: <clr>-10%<clrEnd>
+Размер: <clr>+10%<clrEnd>	Size: <clr>+10%<clrEnd>
+Стоимость: <clr>-20%<clrEnd>	Cost: <clr>-20%<clrEnd>
+Стабилизатор	Stabilizer
+Надежность: <clr>+100%<clrEnd>	Reliability: <clr>+100%<clrEnd>
+Размер: <clr>+15%<clrEnd>	Size: <clr>+15%<clrEnd>
+Стоимость: <clr>-30%<clrEnd>	Cost: <clr>-30%<clrEnd>
+Дальность стрельбы: <bonWRadius> ед.	Firing range: <bonWRadius>
+Стоимость: <clr>+70%<clrEnd>	Cost: <clr>+70%<clrEnd>
+Размер: <clr>+20%<clrEnd>	Size: <clr>+20%<clrEnd>
+Дополнительный эффект: <clr>ослабление брони<clrEnd>	Additional effect: <clr>armor weakening<clrEnd>
+"Дифрод"	Diphrode
+<color=248,252,248>Серийный комплект модифицированных узлов орудия и программных доработок "Дифрод", увеличивающих мощность оружия разных типов.</color><br> <br>	<color=248,252,248>A Diphrode series kit of modified weapons bundles and software mods, boosting the firepower of various weapon types.</color><br> <br>
+<color=248,252,248>Бонус к урону:</color> <clr>15%<clrEnd>	<color=248,252,248>Damage bonus:</color> <clr>15%<clrEnd>
+<color=248,252,248>(необходимо превышение мощности сканера над защитой цели)</color>	<color=248,252,248>(requires scanner power to exceed the target's defense)</color>
+Мощность сканера: <bonScan><clr>%<clrEnd>	Scanner power: <bonScan><clr>%<clrEnd>
+Стоимость: <clr>+50%<clrEnd>	Cost: <clr>+50%<clrEnd>
+Дополнительный эффект: <clr>разрушение оборудования<clrEnd>	Additional effect: <clr>equipment destruction<clrEnd>
+Размер: <clr>+25%<clrEnd>	Size: <clr>+25%<clrEnd>
+Прочность: <clr>-25%<clrEnd>	Durability: <clr>-25%<clrEnd>
+Стоимость: <clr>+40%<clrEnd>	Cost: <clr>+40%<clrEnd>
+"Стилермейн"	Stylermain
+Размер: <clr>-15%<clrEnd>	Size: <clr>-15%<clrEnd>
+Удлинитель	Extender
