@@ -1,0 +1,63 @@
+131	Increases the cost <clr>4<clrEnd> times
+132	Rockshot
+133	A first-level micromodule. A <clr>Maloq-Human<clrEnd> development. Replaces most of the missile fuel system with a combat charge, which in turn leads to an incredible <clr>increase in damage<clrEnd> and a proportional <clr>decrease in the flight speed<clrEnd> of the missiles.
+134	Glesscannon
+135	A first-level micromodule. Radically rebuilds the weapon's mechanisms, making it colossally <clr>powerful<clrEnd> by enlarging the <clr>power unit<clrEnd> or the <clr>projectiles<clrEnd>, depending on the type of <clr>weapon<clrEnd>, which entails thickening the walls of all the tubes and the weapon's casing, but even this does not save the design, and it can withstand only a few shots, after which almost a complete replacement of components is required - except, perhaps, the casing. Owing to the archaic nature and poor study of the lost technology, it can be used only with <clr>Maloq<clrEnd> weapons.
+136	Extra effect: <clr>ignores protection, has no damage spread<clrEnd>
+137	Increases the weight <clr>5<clrEnd> times
+138	Hypertankus
+139	A first-level micromodule. Radically rebuilds the fuel tank's mechanisms, making it colossally <clr>large<clrEnd> and <clr>voluminous<clrEnd> by thickening the walls of all the tubes, hoses and the tank casing. However, the pressure in a tank of such size makes the design very unstable in motion, which leads to rapid metal fatigue. Owing to the archaic nature and poor study of the lost technology, it can be used only with <clr>Maloq<clrEnd> fuel tanks.
+140	Reliability: <clr>unstable<clrEnd>
+141	Hyperjumpus
+142	A first-level micromodule. Radically rebuilds the engine's mechanisms, making it colossally <clr>large<clrEnd> by thickening the walls of all the tubes, hoses and the load-bearing structure. This is done so that the transformed <clr>jump<clrEnd> module can start up at least <clr>once<clrEnd>. However, all this makes the design very unstable in motion, which leads to rapid degradation and metal fatigue. Owing to the archaic nature and poor study of the lost technology, it can be used only with <clr>Maloq<clrEnd> engines.
+143	Hyperlookus
+144	A first-level micromodule. Radically rebuilds the radar's mechanisms, making it colossally <clr>large<clrEnd> by thickening the walls of the load-bearing structure. This is done so that the transformed <clr>search<clrEnd> module can start up and work for at least a short while. However, the design is still very unstable, which leads to rapid degradation of the metal and electronics inside. Owing to the archaic nature and poor study of the lost technology, it can be used only with <clr>Maloq<clrEnd> radars.
+145	Increases the weight <clr>4<clrEnd> times
+146	Hyperscanus
+147	A first-level micromodule. Radically rebuilds the scanner's mechanisms, making it colossally <clr>large<clrEnd> by thickening the walls of the load-bearing structure and numerous microelectronics fields. This is done so that the transformed <clr>scanning<clrEnd> module can start up and work for at least a short while. However, the design is still very unstable, which leads to rapid degradation of the metal and electronics inside. Owing to the archaic nature and poor study of the lost technology, it can be used only with <clr>Maloq<clrEnd> scanners.
+148	Hypershieldus
+149	A first-level micromodule. Radically rebuilds the shield generator's mechanisms, making it colossally <clr>large<clrEnd> by thickening the walls of the load-bearing structure, the repulsors and many nanotech elements. This is done so that the transformed <clr>protective<clrEnd> module can start up and work for at least a short while. However, the design is still very unstable, which leads to rapid degradation of the entire structure. Owing to the archaic nature and poor study of the lost technology, it can be used only with <clr>Maloq<clrEnd> shield generators.
+150	Urkoragn
+151	An absolutely new line of <clr>Dominator<clrEnd> micromodules, incompatible with any other equipment. Significantly speeds up missiles and torpedoes at the price of overloading the launch unit.
+152	Missile speed increase: <clr>+1500<clrEnd> units
+153	Equipment durability: <clr>-20%<clrEnd>
+154	Krazergen
+155	An absolutely new line of <clr>Dominator<clrEnd> micromodules, incompatible with any other equipment. Upgrades acryn equipment to the theoretical maximum with no regard for the resulting size and cost. Luckily, the Dominators have not studied acrynation very well.
+156	Equipment durability: <clr>+10%<clrEnd>
+157	Gibyakhner
+158	An absolutely new line of <clr>Dominator<clrEnd> micromodules, incompatible with any other equipment. Despite the good characteristics, the rarity of the materials, the amount of space required and the overload of all the power circuits of the <clr>field generator<clrEnd> mean that in most cases the AI does not consider installing this micromodule worthwhile.
+159	Equipment durability: <clr>-67%<clrEnd>
+160	Zhurgenpran
+161	An absolutely new line of <clr>Dominator<clrEnd> micromodules, incompatible with any other equipment. Widespread among the Keller series, but occasionally found in the other two as well. It requires many rare materials, but a ship with a <clr>mentoprobe<clrEnd> that has this micromodule installed will surely be able to attract them.
+162	Equipment cost: <clr>+300%<clrEnd>
+163	Equipment durability: <clr>+50%<clrEnd>
+164	Drikhnagryaz
+165	An absolutely new line of <clr>Dominator<clrEnd> micromodules, incompatible with any other equipment. It was determined experimentally to contain an advanced AI for the <clr>Dianode<clrEnd>, but is very rarely found installed. Researchers jokingly suggest that the AI is too smart and does not want to take part in combat.
+166	Equipment cost: <clr>+50%<clrEnd>
+167	Sushchornets
+168	An absolutely new line of <clr>Dominator<clrEnd> micromodules, incompatible with any other equipment. It can be found only after Dominator battles with well-protected ships. Contains an additional power channel for the <clr>Tech Detector<clrEnd>, but obviously the latter cannot withstand the high-current load for long.
+169	Rubershlyats
+170	An absolutely new line of <clr>Dominator<clrEnd> micromodules, incompatible with any other equipment. Considered a modification of the Coalition micromodule Minivision, but it has no backward compatibility.
+171	Ergurkun
+172	An absolutely new line of <clr>Dominator<clrEnd> micromodules, incompatible with any other equipment. A modification of the <clr>Torsion Reactor<clrEnd> intended for unhurried cargo tasks. Limits the ship's maximum speed, but allows energy and fuel to be fed linearly, significantly extending the service life with no effect on repair cost.
+173	Equipment durability: <clr>+500%<clrEnd>
+174	Erkurgun
+175	An absolutely new line of <clr>Dominator<clrEnd> micromodules, incompatible with any other equipment. A modification of the <clr>Torsion Reactor<clrEnd> intended for assault tasks. The first specimens were fished out after a battleship cleared a system where several Rangers aboard "Swift" ships had gone missing.
+176	Equipment durability: <clr>-80%<clrEnd>
+177	Tanshyanyur
+178	An absolutely new line of <clr>Dominator<clrEnd> micromodules, incompatible with any other equipment. Uses a huge amount of cheap asteroid material to modify the <clr>Stackbarrel<clrEnd>. Considered an attempt by the Dominators to create a separate series of ships, in this case for transporting fuel. The strength of the recycled material remains a mystery to scientists even today.
+179	Equipment cost: <clr>-80%<clrEnd>
+180	Equipment durability: <clr>+600%<clrEnd>
+181	Size: <clr>+350%<clrEnd>
+182	Bzhenchishchikevich
+183	An absolutely new line of <clr>Dominator<clrEnd> micromodules, incompatible with any other equipment. The only encounter with an "Urgant"-class Dominator with this micromodule in its <clr>hull<clrEnd> ended in tragedy for the human battleship Mars-19. The belated Rangers managed to finish off the Dominator with a quark bomb and missiles, but the flagship of the commander, whose name the micromodule bears, could no longer be saved.
+184	Hull size: <clr>+100%<clrEnd>
+185	Hull susceptibility: <clr>-30%<clrEnd>
+186	Hull cost: <clr>+1000%<clrEnd>
+187	Spiradrum
+188	An absolutely new line of <clr>Dominator<clrEnd> micromodules. The pinnacle of the uncompromising development of <clr>Dominator splinter<clrEnd> weapons. Manufacturing the micromodule is extremely difficult, and in most cases the local command center prefers simply to add more guns.
+189	Tachyphema
+190	An absolutely new line of <clr>Dominator<clrEnd> micromodules. The pinnacle of the uncompromising development of <clr>Dominator energy<clrEnd> weapons. Manufacturing the micromodule is extremely difficult and in most cases the local command center prefers simply to add more guns.
+191	Balansot
+192	An absolutely new line of <clr>Dominator<clrEnd> micromodules. A specific micromodule installed only in a <clr>Dominator-made missile launcher<clrEnd>. Adds a huge module that replaces the charge of the missile warheads with a quark one, negating all of the target's protection. Luckily for the Coalition, a missile launcher with such a module does not last long.
+193	Increases the missile launcher's size by <clr>200%<clrEnd>

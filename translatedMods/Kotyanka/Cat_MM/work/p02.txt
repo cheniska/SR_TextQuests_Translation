@@ -1,0 +1,60 @@
+71	Telafacult
+72	A first-level micromodule. The work of the famous engineer-artist Jazel-Krasel. Replaces the <clr>ammunition<clrEnd> storage of a missile weapon with a larger one, adorned with a magnificent landscape of the planet Phedok assembled from thousands of tiny drawings of Ragobam toads indulging in the process of reproduction. It was made for prototypes, so it cannot be installed in modern <clr>Peleng<clrEnd> missile launchers without a loss of reliability.
+73	Fugacelirat
+74	A first-level micromodule. A <clr>universal<clrEnd> development by Coalition scientists. Reshapes the nozzles and the ignition system of the projectiles in missile weapons, significantly increasing the <clr>projectile flight speed<clrEnd>. However, with the new nozzles the weapon wears out many times faster, and together with all the other changes its size and cost go up.
+75	Missile and torpedo speed: <clr>+3000<clrEnd> units
+76	Vartuthead
+77	A first-level micromodule. Adds a <clr>human-made<clrEnd> warhead modification unit that coats the warheads with a thin layer of quark charge. It obviously affects the size and the repair difficulty of the weapon and, thanks to the subsequent interference of a <clr>Peleng<clrEnd> intern who turned out to be a saboteur of the <clr>pirate brotherhood<clrEnd>, halves the reliability.
+78	Densissima
+79	A first-level micromodule. The essence of the "Fifth Room" project carried out by the scientists of the <clr>Gaal and Faeyan<clrEnd>. Reshapes the hull, quadrupling its capacity, but since no material was added, the conditions for installing a <clr>gripper<clrEnd>, <clr>shield generator<clrEnd>, <clr>radar<clrEnd> and <clr>scanner<clrEnd> become unachievable, repairs get harder and the protective properties drop. Later it was stolen by the head of <clr>Dzukhallag<clrEnd> and adapted to install an extra mud jacuzzi.
+80	Reliability: <clr>-60%<clrEnd>
+81	Size: <clr>+300%<clrEnd>
+82	Cost: <clr>+200%<clrEnd>
+83	Quaecorporis
+84	A first-level micromodule. An experiment by the famous designer Kraas-teraa. Reassembles <clr>almost any<clrEnd> hull, opening <clr>all slots<clrEnd> at the price of a significant reduction in external dimensions and armor density. The bas-reliefs, engravings and ornaments are made right in the hull metal and can be changed at the pilot's wish, for which it is highly valued.
+85	Damage susceptibility: <clr>+25%<clrEnd>
+86	Cost: <clr>+300%<clrEnd>
+87	Hull armor: <clr>-5<clrEnd> units
+88	Opens: <clr>All slots<clrEnd>
+89	Rokevert
+90	A first-level micromodule. An interesting unit occasionally found by <clr>black hole<clrEnd> explorers. In some unclear way it transforms <clr>missile and torpedo<clrEnd> launchers into huge <clr>salvo-fire<clrEnd> weapons. Instead of the usual safe burst fire, the launcher releases its entire ammunition around the hull at once. Due to the instability of the system, no more than 36 missiles or 24 torpedoes can be fired, and all the remaining ammunition is irretrievably spoiled. Dominator or Coalition equipment is in principle not designed for such a high intensity of fire; only <clr>unknown<clrEnd> equipment, and even then with huge <clr>losses in durability<clrEnd>, can withstand such a rate of ammunition use. Besides, the cost of loading ammunition into and repairing such a complex weapon is <clr>incredibly high<clrEnd>.
+91	Reliability: <clr>-90%<clrEnd>
+92	Size: <clr>+500%<clrEnd>
+93	Cost: <clr>+500%<clrEnd>
+94	Attack type: <clr>Circular<clrEnd>
+95	Turcomprefrator
+96	A first-level micromodule. The newest Maloq development for energy and splinter weapons <clr>of any make<clrEnd>. It came into being after studying the Gaal textbooks of the series "On Sorrow and Gunsmithing", obtained from the Pelengs under the guise of top-secret developments. It turns a weapon that is fairly <clr>powerful<clrEnd> by Maloq standards into a rapid-fire instrument of annihilation. Because of some reduction in damage and range and the traditional Maloq approach to durability, it is catastrophically underrated by almost everyone and is considered a collector's item.
+97	Size: <clr>+200%<clrEnd>
+98	Extra shots: <bonAttacks> units
+99	Philosophical
+100	A first-level micromodule. In a way, a brilliant development by the scientist Puur'tsovkh Muur. Changes the hull so completely that it can hardly be called a hull anymore: it transmutes all layers of the plating and most of the frame structures into precious metals, in particular platinum and gold.
+101	Damage susceptibility increased by: <clr>1000%<clrEnd>
+102	Size: <clr>-95%<clrEnd>
+103	Hull armor: <clr>-35<clrEnd>
+104	Hull mass: <clr>+300%<clrEnd>
+105	Closes all slots except the main ones
+106	Examomber
+107	A first-level micromodule. A secret development of the <clr>Human<clrEnd> military department, long known for its love of <clr>missile weapons<clrEnd>. Reassembles the weapon, increasing the <clr>number<clrEnd> of projectiles launched at once, their <clr>speed<clrEnd> and the total <clr>ammunition<clrEnd>, but the humans' insufficiently advanced technology limits the <clr>operating time<clrEnd> and greatly <clr>complicates repairs<clrEnd>.
+108	Missiles per salvo: <bonShots> units
+109	Missile speed increase: <clr>+512<clrEnd> units
+110	Equipment cost: <clr>+200%<clrEnd>
+111	Obliterator
+112	A first-level micromodule. An ancient and very rare micromodule, created even before the Dominators. Using unknown technologies obtained from hyperspace ships, it ignores material and energy barriers and fires precisely at the target. For <clr>Unknown<clrEnd> weapons only.
+113	Extra effect: <clr>ignores protection<clrEnd>
+114	Reliability: <clr>-67%<clrEnd>
+115	Nondispergator
+116	A first-level micromodule. This micromodule was found among the debris after the battle of the Dominators with an armada of unknown ships. It is unknown how this micromodule and its copies came into being, but the fact that it lets you always hit the least protected point of a ship makes it an indispensable aid in battle. For <clr>Unknown<clrEnd> weapons only.
+117	Extra effect: <clr>has no damage spread<clrEnd>
+118	Equipment cost: <clr>+100%<clrEnd>
+119	Gunslinger
+120	A first-level micromodule. A <clr>universal<clrEnd> hull converter. Allocates three additional weapon bays, rebuilds the pilot's cockpit after the latest-generation warships and modifies the targeting systems, in the end significantly raising shooting efficiency for inexperienced pilots.
+121	Increases the hull cost <clr>2<clrEnd> times
+122	Opens <clr>3<clrEnd> weapon slots
+123	Forsandor
+124	A first-level micromodule. An old and widely known converter of engine compartments for racing <clr>hulls<clrEnd>, to which acrynation has given new life. Adds an afterburner mode and extra maneuvering nozzles. The difference from the old version is minimal interference with the power subsystem.
+125	Opens an afterburner slot
+126	Reconstructor
+127	A first-level micromodule. An order for the crown prince of the planet Ramgatr, who did not want to waste precious war time studying the technical side. Sets aside space for a repair droid and adds to the onboard computer instructions of 1968 "if-else" conditions for monitoring the installed equipment. <clr>Universal<clrEnd> and highly valued for its efficiency.
+128	Opens a droid slot
+129	Accurometer
+130	A first-level micromodule. A prototype of the well-known "Extremum" modification. Alters the targeting systems of <clr>Coalition<clrEnd> weapons, raising accuracy to the limit. The price of such equipment rises very sharply. To preserve durability, the shot power is reduced.
