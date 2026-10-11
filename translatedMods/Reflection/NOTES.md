@@ -8,3 +8,4 @@
 - Звёзды RefABitMoreStars*: Vega, Sirius, Folkel, Aridia, Orelis, Merga, Saberrel, Sinistra, Alvirra, Etamin, Alderamin, Arneb, Kitalpha, Vindemiatrix, Velsta, Alcor, Alferatz, Ascella, Mira, Cor Caroli.
 - Планеты (RefAllPlanetsHabited/RefGreeting): Sun, Atlan, Pkhedoc (ванилла), Taron, Kraa.
 - Комментарии разработчика в описаниях инфошек ("костыль", "инфошка") — переведены по смыслу: kludge / info item.
+- Hasker (Хаскер, решение пользователя), Reflector, Null Generator, Techdisruptor — названия из ExpArts, использовать так же.
