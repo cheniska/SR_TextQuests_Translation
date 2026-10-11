@@ -1,0 +1,6 @@
+1	How do I earn a pirate rating?
+2	Go back
+4	Body modifications
+5	So you're thinking of remaking something about yourself? A good thing, <Player>. We're jacks of all trades here. What shall we change?
+6	What can I buy here?
+7	Well, take a look, <Player>, at what we've got. Which of these interests you?

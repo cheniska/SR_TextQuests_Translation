@@ -3303,3 +3303,11 @@
 | Энергопакет | Energopack | ванилла |
 | втыкилла | vtykilla | ShuSmugglers, ShuNukes |
 | КВСМК / КВМСК | CAFIC | ShuMiniBoss, ShuRebellion, ShuWarriors |
+| Шигуль Цак | Shigul Tsak | Expansion/ExpBeerQuest |
+| Махпелла Дарк (пиво) | Mahpella Dark | Expansion/ExpBeerQuest |
+| Рачехан Лагер (пиво) | Rachekhan Lager | Expansion/ExpBeerQuest |
+| Искра (корпус) | Spark | Expansion/ExpLightning |
+| Дядя Вася и сыновья (тюнинг-компания) | Uncle Vasya and Sons | Expansion/ExpLightning |
+| Армолок / Дифрод / Джавитор / Лифокар (модификации плазмогана) | Armolok / Difrod / Dzhavitor / Lifokar | Expansion/ExpPlasmaGun |
+| трансфакторный маяк | transfactor beacon | Expansion/ExpPanelPlus |
+| нд. (ноды) | nd. | Expansion |

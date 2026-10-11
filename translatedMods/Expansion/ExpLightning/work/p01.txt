@@ -1,0 +1,10 @@
+2	<color=248,252,248>An aggressive-looking special hull for those who love traveling the galaxy and prefer trade operations, banking schemes, and patronage to bloody battles.</color>
+4	Field generator: <bonDef><clr>%<clrEnd>
+5	<color=248,252,248>An aggressive-looking special hull, upgraded at the tuning company "Uncle Vasya and Sons", designed for those who love traveling the galaxy and prefer trade operations, banking schemes, and patronage to bloody battles.</color>
+6	Spark I-V
+7	Hull "Spark" I
+8	<color=248,252,248>An aggressive-looking special hull for those who love traveling the galaxy and prefer government adventures and delivery of super-important cargo to bloody battles.</color>
+9	Hull "Spark" II
+10	Hull "Spark" III
+11	Hull "Spark" IV
+12	Hull "Spark" V

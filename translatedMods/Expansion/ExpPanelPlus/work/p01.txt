@@ -1,0 +1,11 @@
+1	Activate transfactor beacons (<color=255,245,80>T</color>)
+2	Caused by exposure to intense radiation. The patient's mental activity deteriorates, which greatly reduces their ability to learn. The ailment goes away on its own after a month or two, depending on the radiation dose received. No treatment methods have been found yet.
+3	In your current condition you lose <Percent> of the experience from destroying dominators. It is recommended to refrain from repeated irradiation to avoid worsening your condition.
+4	You are about to activate<br><0> transfactor <1> in the <2> system. The total charge strength will be <3> units. Would you like to continue?
+5	You are about to activate a transfactor beacon in the <0> system. The charge energy is <1> units. Would you like to continue?
+6	Notification sent about the presence of unstudied material in the <0> system. Researchers will arrive in <color=0,50,200>10</color> days.
+7	</color>beacons
+8	</color>beacons
+9	How many beacons do you want to activate?
+10	.. Run, you fools.
+11	.. May God help you.

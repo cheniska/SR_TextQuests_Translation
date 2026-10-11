@@ -1,0 +1,2 @@
+1	Returns PanelRuins back to its place when the info center is closed in space (hidden)
+2	Info center (<color=255,240,100>Y</color>)
