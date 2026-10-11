@@ -6,7 +6,7 @@ Piratesnest — заметки переводчика (2026-10-02)
 Решения:
 - Кличка «Череп» → "Skull" (прозвище, переводим); имена — транслитом (Katsap, Rusman, Komer San, Tsishka, Gromilla).
 - Валюта второй луны — рубли (авторская шутка) → "rubles"/"rub.".
-- «Втыкилла» → "vtequila" (по оф. DevTranslated/Mafia; исправлено 2026-10-02, было vtequila).
+- «Втыкилла» → "tokilla" (по оф. DevTranslated/Mafia; исправлено 2026-10-02, было tokilla).
 - «лепрас/лепрасовый» → Lepraz (по Fishing КР1); «хрякохлюп» → "boarslurp" (по образцу boarsplats).
 - Пароль «Запеленговал металлоразведчик» — каламбур «пеленг/запеленговать» не передаётся; "The metal scout has taken a bearing".
 - ССР (Союз Свободного Рахиша) — пародия на СССР → "UFR - the Union of Free Rakhish".

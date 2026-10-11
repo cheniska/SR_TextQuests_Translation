@@ -3,7 +3,7 @@ Mafia — заметки переводчика (2026-10-02)
 Переведён с нуля с RU (старый Mafia_eng.txt был на русском; записи = RU, 1072, уникальных 944). check 0/0, qtr_struct 0.
 
 Термины и имена — см. GLOSSARY.md (раздел Mafia). Имена транслитом; Koor-Le'One (пародия на Corleone) — звучание сохраняет отсылку.
-Отдел Сдерживания → the Containment Department; дабы → dabs; втыкилла → vtequila (по оф. DevTranslated).
+Отдел Сдерживания → the Containment Department; дабы → dabs; втыкилла → tokilla (по оф. DevTranslated).
 
 Адаптации
 - КЛИЗМА (Кровевосстанавливающая Лейкоцитная Иммуногенная Защитная Медицинская Аптечка) → "Erythrocyte-Normalizing Emergency Medical Aid kit - the ENEMA kit" (акроним-шутка сохранена).

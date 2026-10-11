@@ -64,7 +64,7 @@
 | КДВ | Space Marines | Организация | Loc4-2 | космодесантные войска (пользователь) |
 | Содружество | the Coalition (ПЕРЕРЕШЕНО 2026-10-02 по ванилле; было Commonwealth) | Организация | Path924b | полное «Галактическое Содружество» — Interstellar Coalition |
 | космолингва | Galactic Standard | Прочее | Loc86-1 | |
-| Втыкилла | vtequila (ПЕРЕРЕШЕНО 2026-10-02 по оф./ванилле; было Vtykilla) | Предмет | Loc28-1 | напиток |
+| Втыкилла | tokilla (по ванилле HD; ранее vtequila/Vtykilla — заменено на tokilla везде по решению пользователя 2026-10-11) | Предмет | Loc28-1 | напиток |
 | Commercial Games | (как есть) | Организация | Path93b | владелец прав на "Master" |
 | Игрулечки | Gamesies | Предмет | Loc25-5 | игровой журнал |
 | Хэчбол | hatchball (ПЕРЕРЕШЕНО 2026-10-02 по ванилле; было Hachball) | Прочее | Loc25-3 | |
@@ -687,7 +687,7 @@ Prezhevalski → Prezhevalsky (Tomb); Grishhill → Grishkhill (Diehard); Sir Lo
 | ветеран Гралгарской битвы обер-майор Бух | Arch-Major Booze, Grulgarian War Vet | |
 | малокский истребитель «Шмель»; плазмотанк; псевдоядерная боеголовка; грузовой звездолёт | Maloq Bumblebee fighter; plasmatank / plasmotank; pseudonuclear warhead; cargo astracopter | |
 | гиперпространственные пираты | pirates of the hyperstate | |
-| втыкилла | vtequila | ≠ Vtykilla (наш, Moi) → берём оф. |
+| втыкилла | tokilla | ранее vtequila/Vtykilla → единая форма tokilla (ванилла, 2026-10-11) |
 | хэчбол | hatch-ball / hatchball | разнобой |
 | самострел (любимое оружие пеленгов) | crossbow | ≠ «ручной самострел» = hand-held dart gun (Bank) |
 | малокский ОМОН | Maloq special force unit | |
@@ -718,7 +718,7 @@ Prezhevalski → Prezhevalsky (Tomb); Grishhill → Grishkhill (Diehard); Sir Lo
 | бахилы; перчатки | booties (shoe booties); gloves | |
 | стереовизор | stereovision | |
 | кухонный комбайн | food processor | |
-| втыкилла | vtequila | ≠ Vtykilla (наш, Moi) → берём оф. |
+| втыкилла | tokilla | ранее vtequila/Vtykilla → единая форма tokilla (ванилла, 2026-10-11) |
 | янвелб | ekup | ≠ janwelb (оф. Driver) — разнобой оф. |
 | пенчекряк; тапочки с мордашками пенчекряков | penchekryak; penchekryak slippers | ≠ penchecrakus (наш) |
 | хэтчбол (поле) | hatchball (field) | |
@@ -1162,7 +1162,7 @@ Prezhevalski → Prezhevalsky (Tomb); Grishhill → Grishkhill (Diehard); Sir Lo
 | кинза; кинзовый соус; кровавая кинза | kindza; cilantro (sauce); Bloody Kindza | kinza 12 (Kinza 1) | **kinza**; kinza sauce; Bloody Kinza | Bank 5, Energy 4, Diamond 3, Siege 3, Build 1 (≈16) |
 | янвелб | yanvelba | ekup 3, janwelb 1 | **ekup** (по частоте; звучит чуждо — вопрос пользователю) | Examen 2, Bank 1, Murder 1 |
 | пенчекряк | penchecrakus (-es) | penchekryak(s) 48, penchekryacus 12, penchequack 2 | **penchekryak** (мн. penchekryaks) | Poroda 88, Bank 34, Moi 8, Diamond 1, Penetrator 1, Cybersport 1, Massacri 1 (≈134) |
-| втыкилла | Vtykilla | vtequila 4 | **vtequila** | Moi 2 |
+| втыкилла | (было Vtykilla) | vtequila 4 | **tokilla** (ванилла; решение пользователя 2026-10-11) | Moi 2 |
 | Книга Позора | Book of Shame | Disgrace Book 1 | **the Disgrace Book** | Murder 3 |
 | далани; од-далани | dalani; od-dalani | Dalany 27, Od-dalany 13; dalani 2, Od-dalani 1 | **dalany; od-dalany** (с заглавной перед именем — как у оф.) | Murder 65, Rush 1 |
 | хелдас | heldas (-es) | helldas 3 | **helldas** (мн. helldases) | Bondiana 73 |
@@ -1196,7 +1196,7 @@ Prezhevalski → Prezhevalsky (Tomb); Grishhill → Grishkhill (Diehard); Sir Lo
 | пеленгский (прил.) | атрибутивное peleng (peleng ship/pirate), Pelengan 0 | Peleng 445 | Pelengan | **peleng/Peleng** атрибутивно — V и D согласны |
 | гаалец / гаальский | сущ. **gaal(s)** 110, прил. **gaalian**; Gaalians 1 | gaal 367 / Gaalian ≈208 | Gaalian(s) сущ.+прил. | V: сущ. gaal(s), прил. gaalian |
 | Иикэ-Баана; лякуша; Рахехан; Рахиш; ментоскопия | Iike-Baana, lyakusha, Rachekhan's Scale, Rakhish, mentoscopy | — | так же | совпадает |
-| жвырклац, кванга, кинза, втыкилла, хелдас | — (нет в V) | phatklink, quanga, kinza, vtequila, helldas | zhvyrklats, kwanga, kindza, Vtykilla, heldas | V не помогает — по D |
+| жвырклац, кванга, кинза, втыкилла, хелдас | — (нет в V) | phatklink, quanga, kinza, tokilla, helldas | zhvyrklats, kwanga, kindza, Vtykilla, heldas (→ tokilla, 2026-10-11) | V не помогает — по D |
 
 **Регистр названий рас.** V последовательно пишет расы со строчной (сущ. и прил.): peleng 162/9, pelengs 77/0, maloq 232/8, faeyan 121/5, gaal(s) 110/4, human(s) 161/2, dominators 556/21 (строчные/заглавные в середине фразы). D — разнобой с перевесом заглавных (Peleng 259/331, Maloq 214/444). O — заглавные (решения КР1: Peleng, Maloq, Faeyan, Gaalian, Human, Dominator). Вопрос пользователю.
 
@@ -1205,7 +1205,7 @@ Prezhevalski → Prezhevalsky (Tomb); Grishhill → Grishkhill (Diehard); Sir Lo
 Итоговые формы (заменены во всех наших переводах: КР1 Eng, Rev, Moi_eng; check 0/0, qtr_struct 0 у всех):
 peleng(s) (в т.ч. вместо Pelengan), maloq(s), faeyan(s), gaal(s)/gaalian, human(s), klissan(s), dominator(s); hatchball, hatching, hatch-hryap;
 gobsaurus (мн. gobsauri); **penchecrakus** (ванилла = наше, оф. penchekryak отклонён); **Book of Shame** (ванилла; оф. Disgrace Book отклонён); **dalani / od-dalani** (ванилла; оф. Dalany отклонён);
-ekup; Brigee Bardozze (ксенопарк); crossbow (ручной самострел → hand crossbow); stereovision; phatklink; quanga; kinza (kinza sauce, Bloody Kinza); vtequila; helldas.
+ekup; Brigee Bardozze (ксенопарк); crossbow (ручной самострел → hand crossbow); stereovision; phatklink; quanga; kinza (kinza sauce, Bloody Kinza); tokilla; helldas.
 Таблица «ИТОГ SR2HD DevTranslated» выше в части penchekryak / gobzaurus / Disgrace Book / Dalany / hatch-ball / Lyapzva Hiz — отменена этим решением.
 Не менялось (вне решения): «Ranger» с заглавной в середине фразы у нас (в ванилле чаще ranger) — вопрос пользователю.
 
@@ -1519,7 +1519,7 @@ ekup; Brigee Bardozze (ксенопарк); crossbow (ручной самост�
 | КЛИЗМА (Кровевосстанавливающая Лейкоцитная Иммуногенная Защитная Медицинская Аптечка) | ENEMA kit (Erythrocyte-Normalizing Emergency Medical Aid kit) | Mafia (акроним-шутка адаптирован) |
 | протопузырь; кисель; Морской Обед | protobladder (оф. Xenopark; было protobubble); kissel; Seafood Lunch | Mafia |
 | Махпелла темное; Звездный ликер; коктейль «Ухйооо»; малокское твердокрасное | Makhpella Dark; Star Liqueur; the "Whoooa" cocktail; Maloq Hard Red | Mafia |
-| пиво «Старомалок»; Зеленый Сюрприз; втыкилла | "Old Maloq" beer; Green Surprise; vtequila | Mafia (vtequila — по оф.) |
+| пиво «Старомалок»; Зеленый Сюрприз; втыкилла | "Old Maloq" beer; Green Surprise; tokilla | Mafia (tokilla — по ванилле) |
 | Ерм-ашель; суп «Убойный»; бутерброд с хлебом | Erm-ashel; "Killer" soup; bread sandwich | Mafia |
 | кола-кока; картошка-слэйв; кетчупбургер; фрозенкэт; аргхбургер; грррбургер; всебургер | cola-coca; slave fries; ketchupburger; frozencat; arghburger; grrrburger; everythingburger | Mafia |
 | «Белый гобзавр»; «Фэянское разноцветное»; «Гаальское грезогонное»; калольная кислота | "White Gobsaurus"; "Faeyan Multicolored"; "Gaalian Dreamshine"; calolic acid | Mafia |
@@ -1624,7 +1624,7 @@ ekup; Brigee Bardozze (ксенопарк); crossbow (ручной самост�
 | сварокок; трехногий пенчекряк-мутант; болотные термиты | swarokok (оф. Svarokok/STQ; было svarokok); the three-legged mutant penchecrakus; swamp termites | Testing |
 | ай-ди-ди-кью-ди (чит-код) | eye-dee-dee-cue-dee | Testing (iddqd из Doom) |
 | шокер «Шухер»; компания «Айбоо-Лиит» (аптечки); «Пьер Кардамон» / «Валокордин Юдашкин» | the "Shukher" stun gun; "Aiboo-Liit"; "Pierre Cardamom" / "Valocordin Yudashkin" | Testing |
-| «Втыкилла» (напиток) | "Vtequila" | Testing (ИСПРАВЛЕНО 2026-10-02: было Stabquila; по оф. DevTranslated) |
+| «Втыкилла» (напиток) | "Tokilla" | Testing (ИСПРАВЛЕНО 2026-10-02: было Stabquila; 2026-10-11: единая форма tokilla по ванилле) |
 | игра Master of Iike-Baana: The Dark Shadows of Evil Lord / The Evil Shadow Lord of Darkness | (как есть, латиницей в RU) | Testing |
 | язык гоши: «киддат панты», «пантова чуввыха», «киддат чуввых» | the Goshi language: "kiddat panty", "pantova chuvvykha", "kiddat chuvvykha" | Testing (загадка, транслит) |
 | Ведущий Шахманду; вертикс; штип | the Shakhmandoo Leader; vertix; shtip | Testing (по ванилле/глоссарию) |
@@ -1640,7 +1640,7 @@ ekup; Brigee Bardozze (ксенопарк); crossbow (ручной самост�
 | гаалец Нааклю Ко (биограф Кацапа); Бамбахчик (малок-подрывник) | Naaklyu Ko; Bambakhchik | Piratesnest |
 | клички: Лохнесс, Громила Дуб, Паранойис, Дрын Бывалый, Косяк | Loch Ness, Thug Oak, Paranoyis, Dryn the Seasoned, Joint | Piratesnest |
 | «Болотная ряска» (рахишианский коктейль); рахишианское стволовое дерево | "Swamp Duckweed"; the Rakhishian trunk tree | Piratesnest |
-| пиво «Махпельское темное»; втыкилла; малокское ядерное | "Makhpella Dark" beer; vtequila; Maloq Nuclear | Piratesnest (втыкилла — vtequila по оф.; было vtequila, исправлено 2026-10-02) |
+| пиво «Махпельское темное»; втыкилла; малокское ядерное | "Makhpella Dark" beer; tokilla; Maloq Nuclear | Piratesnest (втыкилла — tokilla по ванилле; было vtequila, исправлено 2026-10-02) |
 | «Приключения капитана Полоскина»; писатель Тяп Ляп | "The Adventures of Captain Poloskin"; the writer Tyap Lyap | Piratesnest |
 | пароли шкафа: «Запеленговал металлоразведчик» / «И Полоскин отключил экран» | "The metal scout has taken a bearing" / "And Poloskin switched off the screen" | Piratesnest |
 | телепортер «ФэйДжоуль» / FeiДжоуль | FeiJoule | Piratesnest |
@@ -1824,7 +1824,7 @@ ekup; Brigee Bardozze (ксенопарк); crossbow (ручной самост�
 | Шнобель, Дюбель, Пугель (агенты); Государственная Служба Контроля / Комитет Госконтроля; Ферма №1; тачка | Shnobel, Dyubel, Pugel; State Control Service / State Control Committee; Farm No. 1; wheelbarrow | Faruk |
 
 | Дорд (старший научный сотрудник, малок); Хфыв (пеленг); диктатор Бдангдыр; малокский творец Рентер, марш «За победой»; Всегалактическая Академия Наук; Галактический Академик; вечерняя школа рейнджеров; гравимузин | Dord; Khfyv; dictator Bdangdyr; Renter, "For Victory"; All-Galactic Academy of Sciences; Galactic Academician; evening school for rangers; gravimousine | Megatest |
-| ответы теста: Пхедок, Эйманаполон, Умий, Эйпентак; клисанские корабли Мутёнок, Ургант, Катаури, Эгемон; уссурийский чай, втыкилла, сок из гранулированных зирок, янвелб; наркотики Скраб, Звездная пыль, Какао, Глэп; разрывное орудие, прожектор вихря, промышленный лазер, ракетница | Pkhedoc, Eimanapolon, Umiy, Aipentak; Mutenoc, Urgant, Katauri, Egemon; Ussuri tea, Vtequila, juice of granulated zirks, Ekup; Scrub, Stardust, Cocoa, Glap; rupture gun, vortex projector, industrial laser, rocket launcher (оружие — не сверено с ванилла) | Megatest |
+| ответы теста: Пхедок, Эйманаполон, Умий, Эйпентак; клисанские корабли Мутёнок, Ургант, Катаури, Эгемон; уссурийский чай, втыкилла, сок из гранулированных зирок, янвелб; наркотики Скраб, Звездная пыль, Какао, Глэп; разрывное орудие, прожектор вихря, промышленный лазер, ракетница | Pkhedoc, Eimanapolon, Umiy, Aipentak; Mutenoc, Urgant, Katauri, Egemon; Ussuri tea, Tokilla, juice of granulated zirks, Ekup; Scrub, Stardust, Cocoa, Glap; rupture gun, vortex projector, industrial laser, rocket launcher (оружие — не сверено с ванилла) | Megatest |
 
 | вреллы (аборигены гаальской планеты), врелл, воин-врелл, охотник-врелл; Верховный Шаман; «Спор богов» (ритуал посвящения); «большой» народ; Серпак (как вреллы зовут рейнджера); Сагард (торговец и охотник); кучум (жилище) | vrells, vrell, vrell warrior, vrell hunter; Supreme Shaman; "Dispute of the Gods"; the "big" people; Serpak; Sagard; kuchum | Maze |
 | хвачер (чудовище пещеры) / хвачик (детёныш, вылупившийся из яйца хвачера); хвачерон; пенчекряк; боги Правдимука (бог просвещения, заступник) и Шмякодин (бог грубой силы, обвинитель) | snatcher / snatchling (ср. «лапки хвачика» → snatcher в др. квесте); snatcheron; penchecrakus; Pravdimuka, Shmyakodin | Maze |

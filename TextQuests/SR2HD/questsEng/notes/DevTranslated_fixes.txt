@@ -1182,9 +1182,9 @@ ShuPrison/Eng (Prison, PirateClanPrison) — копии этих же испра
 
 4. Loc27-2
    RU:     …Намешав втыкиллу, кинзу и пиво, этот человек упился как свинья и пришел в таком состоянии на выставку иике-баан. Там он начал буянить, сломал две иике-бааны и полностью заблевал третью. П…
-   Было:   After [bousing] with a mixture of vtequila, kinza and beer this Human got beastly drunk and went to the iike-baana exhibition.
+   Было:   After [bousing] with a mixture of tokilla, kinza and beer this Human got beastly drunk and went to the iike-baana exhibition.
    Ошибка: [опечатка] опечатка: bousing → boozing
-   Стало:  After [boozing] with a mixture of vtequila, kinza and beer this Human got beastly drunk and went to the iike-baana exhibition.
+   Стало:  After [boozing] with a mixture of tokilla, kinza and beer this Human got beastly drunk and went to the iike-baana exhibition.
 
 5. Loc29-3
    RU:     …Похоже, вы начинаете прессе надоедать... Вы долго рассказывали о себе и своих подвигах в борьбе с доминаторами, но, судя по скучающим лицам присутствовавших журналистов, вряд ли ваша блистательная…

@@ -103,7 +103,7 @@
 | здания: электростанция, модуль генерации поля (модуль купола), шахта, барак, (автоматическая) турель, завод, центр исследований, радар, старпорт, ионная пушка; грузовой корабль | power plant, field generator module (dome module), mine, barracks, (automatic) turret, factory, research center, radar, starport, ion cannon; cargo ship | SpaceCraft |
 | ЗД / УП / УТ / УЗ (таблица юнитов) | HP / DI / DV / DB | SpaceCraft |
 | планета Галранг; кризиниум (топливо) | Galrang; crisinium | SpaceCraft |
-| ОС «Nondows Twista 7»; Галанет; втыкилла | Nondows Twista 7; Galanet; vtequila | SpaceCraft |
+| ОС «Nondows Twista 7»; Галанет; втыкилла | Nondows Twista 7; Galanet; tokilla | SpaceCraft |
 | ул. Березовская, ул. Им. 126-го Съезда Галактического Совета | Berezovskaya Street, 126th Congress of the Galactic Council Street | SpaceCraft |
 
 ### Abandoned (мод RefQuest, автор ShadowTheAge; 2026-10-03)
