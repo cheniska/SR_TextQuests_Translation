@@ -1,0 +1,49 @@
+521	By the way, until the end of the month you will not be able to spin the wheel any more. It is in your own interest.
+522	And, if you like, you can give it a spin. ;)
+523	This month you have <SpinsLeft> spins of the wheel left.
+524	Well, our little wheel has stopped, and you receive <WinText>
+525	Welcome, <Player>, to our <Name>.
+526	Our branch of the "<clr>Stellar<clrEnd>" company provides services for decrypting and building unique and rare variants of <color=255,240,100>equipment</color> and <color=255,240,100>ships</color>.
+527	Also, only with us can you find equipment that outstrips other manufacturers in <color=255,240,100>technical specifications</color>!
+528	If this equipment does not suit you, you can always <clr>design<clrEnd> your own.
+529	When designing equipment we may need specific resources, and our additional service - <clr>equipment recycling<clrEnd> - will help you with that.
+530	Here you can also buy special micromodules that are compatible only with "<clr>Stellar<clrEnd>" company equipment but have characteristics exceeding their analogs from other manufacturers!
+531	By the way, as a Ranger you may be interested in our extradimensional cryptors. If you like, I will take you to the showcase and tell you everything.
+532	And we also have an attraction, the "<color=255,240,100>Wheel of Fortune</color>".
+533	By the way, right now all our efforts are thrown into building a unit from a studied blueprint, and it will be ready only by <EndDate>, so unfortunately we cannot accept new blueprints for study for now.
+534	By the way, we have fully figured out the blueprint you brought in; I suggest you pay for the assembly, otherwise all the studied information will go to the benefit of the DB.
+535	By the way, right now we are actively studying the blueprint you provided. It will be ready only by <EndDate>, so unfortunately we cannot accept new ones for study for now.
+536	Congratulations, <Player>, you are now one of hundreds of our precious clients and can use all the station's functionality. To everyone aboard we provide free food and drinks in your personal rest suite, right here at our base!
+537	Hello, we don't seem to have met yet. I am Alexey - the manager here. You are at a branch of the "<clr>Stellar<clrEnd>" company, our <Name>.
+538	Our organization provides services for decrypting data carriers and building unique and rare variants of <color=255,240,100>equipment</color> and <color=255,240,100>ships</color>.
+539	Also, only with us can you find equipment that outstrips other manufacturers in <color=255,240,100>technical content</color>!
+540	If this equipment does not suit you, you can always <clr>design<clrEnd> your own.
+541	When designing equipment we may need specific resources. Our additional service - <clr>equipment recycling<clrEnd> - will help you with that.
+542	And we also have an attraction, the "<color=255,240,100>Wheel of Fortune</color>" - you can try your luck there ;)
+543	However, to gain access to everything listed, you must join our club and obtain a <color=255,240,100>customer card</color>.
+544	<color=255,240,100>Nirgend Azur</color> is an unexplored resource discovered quite recently by our private research groups. It has practically "magical" properties and can take any form when processed without losing its properties!
+545	We have still not found out how it can be synthesized or where to mine it, but we did learn that it sticks by itself to sufficiently large space objects during hyperjumps. Looking at the numbers specifically, it is worth taking a close look at hulls of class "S" exceeding <color=255,240,100>2000</color> cond. units.
+546	We also advise you to try destroying the following ships to obtain <color=255,240,100>Nirgend Azur</color>:
+547	Not so fast, <Player>. Our base is equipped with the best equipment of our own manufacture, and before giving you access to the base configuration we are obliged to collect from you an insurance sum of <Cost> cr.
+548	Thank you for your commitment to our cause. I hope you will be able to make our base even better!
+549	Here, look:
+550	What is required of me?
+551	I would like to make some changes to the base configuration
+552	I would like to improve your base
+553	I would like to play the "<color=255,240,100>Wheel of Fortune</color>"
+554	What kind of resource is that, and where can I find it?
+555	No, I don't need this.
+556	I have to ask you to postpone the assembly: I am unable to pay for it in full right now.
+557	I want to hand in a blueprint for study
+558	No, this doesn't suit me.
+559	Yes, you may begin.
+560	Unfortunately, I cannot afford such expenses yet. Perhaps later...
+561	I have that sum and I am ready to pay the fees. Draw up the card, and meanwhile I will look over your goods.
+562	Sorry, I was hasty...
+563	No problem!
+564	No, I don't feel like spending such a precious resource on a "casino"
+565	Well, here goes!
+566	And what was in that blueprint?
+567	May I see the contract? Since it concerns fees, and you are serious people, there must be contracts!
+568	Th-thank you...
+569	Oh, yes, of course, you are very shrewd! In our troubled times you can't just up and sign some contracts - well, unless you want to end up naked and barefoot in open space, heh-heh)

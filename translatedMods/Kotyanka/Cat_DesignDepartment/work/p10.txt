@@ -1,0 +1,88 @@
+601	4.4. The Licensor, to the maximum extent permitted by applicable law, bears no liability whatsoever for any direct or indirect consequences of any use of, or inability to use, the Program and/or for losses caused to the Licensee and/or third parties as a result of any use or non-use of the Program, including due to possible errors or failures in the operation of the Program.
+602	4.5. The Licensee understands and agrees that for all information (data files, text materials, software, music, audio files and other audio materials, photographs, video and other images) to which the Licensee may gain access in the course of using the Program, responsibility lies solely with the person who provided this information. All such information will hereinafter be called the "Content".
+603	4.6. Fees for the Software are paid automatically from the Licensee account in the Business Center Network. If there are insufficient funds in the accounts, the agreement will be terminated automatically. No other ways of terminating the agreement are provided for.
+604	4.7. The Licensee is given the opportunity to add to the Program extensions (components) developed and offered for installation by third parties that provide access to information or services of third parties or redirect to resources of third parties ("User Components"). The Licensee understands and agrees that installation of User Components into the Program is carried out by the Licensee at their own discretion and at their own risk. The Licensee does not control the operability or content of the information of the services or resources accessed through such User Components, nor their compliance with the law, and bears no responsibility for the results of installing or using User Components. The Licensor does not compensate any losses caused to the Licensee by the use of, or inability to use, any User Components or the information, services and resources accessed through User Components.
+605	5. Additional terms
+606	5.1. The Licensee is hereby notified and agrees that when the function of automatic sending of statistics is enabled in the Program, information about the site visited, the page viewed and the files downloaded is automatically reported to the Licensor, for the purpose of improving the quality of the products and services provided to the Licensee, until the said function is disabled.
+607	5.2. The Licensee is hereby notified and agrees that when the Program is used, the following information is transmitted to the Licensor: the type of operating system of the Licensee device, the version and identifier of the Program, statistics of the use of the Program functions, and other technical information.
+608	6. Updates/new versions of the Program, the Agreement.
+609	6.1. From time to time the Program may automatically download and install updates that are aimed at improving the Program and may take various forms, without limitation. The Licensee is hereby notified and agrees to the automatic updating of the Program, including the request, download and installation of Program updates on the Licensee device without any additional notifications.
+610	6.2. This Agreement applies to all subsequent updates/new versions of any of the Programs and/or all the Programs. Installation of an update/new version of the Program means the Licensee acceptance of the terms of this License for the respective updates/new versions of the Program, unless the update/installation of the new version of the Program is accompanied by another license agreement.
+611	6.3. This Agreement may be changed by the Licensor unilaterally. The said changes to the terms of the Agreement take effect from the date of their publication, unless otherwise stated in the respective publication.
+612	Well, maybe I would even think about paying you, but there is a problem - I don't have that much Nirgend on me!
+613	All right, all right, I will dump it now, you wretched bandit.
+614	What?! Whose voice is that coming from a high-tech tin can? Scram, before I poke your eyes out!
+615	Oh, look who we have here! Well, hello, Ranger. Though not for long. It seems to me we... are a bit cramped, you know, in one galaxy. But perhaps, if you make a modest contribution of cnt t. of Nirgend Azur so I can buy myself a new gun, then I will probably leave you alone for now. So, deal?
+616	Well, no matter! Then I will just destroy you and hand your wreckage over to the Bureau!
+617	Oh-ho-ho, now that is what I call a constructive dialogue: Fine, gnat, fly away while I am in a good mood.
+618	Used to block the DB for the player if they have no customer card.
+619	Act-code handler for the DB
+620	Design Bureau customer card. The date of the next automatic fee is <PayDate>.
+621	Design Bureau customer card.
+622	Customer card
+623	Used for dropping a resource from ships destroyed by the player that carry markers. And why not use it for various other things too?
+624	Used as a marker for dropping a resource from bosses destroyed by the player.
+625	Used as a marker for dropping a resource from large ships destroyed by the player.
+626	Used as a marker for dropping a resource from ships with a hull size of 2K+ destroyed by the player.
+627	Used for dropping pirate maps from random pirates when they are killed by the player.
+628	The DB SetData is already taken, so I had to dump it here :(
+629	Design Bureau
+630	DB
+631	Ring "<clr>Sultan<clrEnd>"
+632	NewsAdd('It seems your ring protection systems have triggered, and now it is worth nothing - not the slightest bit! It is not always good to be a pirate');
+633	A cryptor of the "<clr>Sultan<clrEnd>" model disguised as a beautiful ring; the signet contains a small number of medical nanobots that will automatically give first aid to the ring wearer if necessary.
+634	For a small price we can replace some internal technological elements, which will give more capacity while keeping the same luxurious look. Increases capacity by [imp] c.u.
+635	Ring "<clr>Sultan<clrEnd>" (<color=255,20,20>lost</color>)
+636	A cryptor of the "<clr>Sultan<clrEnd>" model disguised as a beautiful ring; the signet contains a small number of medical nanobots that will automatically give first aid to the ring wearer if necessary.
+637	It was irretrievably lost because the protection systems triggered in case the item fell into the hands of pirates.
+638	Amulet "<clr>Wanderer<clrEnd>"
+639	NewsAdd('It seems your amulet protection systems have triggered, and now it is worth nothing - not the slightest bit! It is not always good to be a pirate');
+640	A cryptor of the "<clr>Wanderer<clrEnd>" model disguised as a multifunctional amulet; it can be used as a key fob for opening your ship or car, a data carrier and a holographic voice interface.
+641	Amulet "<clr>Wanderer<clrEnd>" (<color=255,20,20>lost</color>)
+642	It was irretrievably lost because the protection systems triggered in case the item fell into the hands of pirates.
+643	Bracelet "<clr>Alastor<clrEnd>"
+644	NewsAdd('It seems your bracelet protection systems have triggered, and now it is worth nothing - not the slightest bit! It is not always good to be a pirate');
+645	A cryptor of the "<clr>Alastor<clrEnd>" model disguised as a multifunctional bracelet, with voice control, Gala watches, a pulse counter and other multimedia.
+646	Bracelet "<clr>Alastor<clrEnd>" (<color=255,20,20>lost</color>)
+647	Unidentified blueprint
+648	<color=0,255,0>(gift)</color>
+649	Gripper blueprint
+650	Shield generator blueprint
+651	Engine blueprint
+652	Fuel tank blueprint
+653	Hull blueprint
+654	Radar blueprint
+655	Droid blueprint
+656	Scanner blueprint
+657	Weapon blueprint
+658	A certain unidentified blueprint. It must be delivered to the <color=255,240,100>design bureau</color> for closer study.
+659	A detailed blueprint of a certain <color=255,240,100>gripper</color>. It must be delivered to the <color=255,240,100>design bureau</color> for closer study.
+660	A detailed blueprint of a certain <color=255,240,100>shield generator</color>. It must be delivered to the <color=255,240,100>design bureau</color> for closer study.
+661	A detailed blueprint of a certain <color=255,240,100>engine</color>. It must be delivered to the <color=255,240,100>design bureau</color> for closer study.
+662	A detailed blueprint of a certain <color=255,240,100>fuel tank</color>. It must be delivered to the <color=255,240,100>design bureau</color> for closer study.
+663	A detailed blueprint of a certain <color=255,240,100>hull</color>. It must be delivered to the <color=255,240,100>design bureau</color> for closer study.
+664	A detailed blueprint of a certain <color=255,240,100>radar</color>. It must be delivered to the <color=255,240,100>design bureau</color> for closer study.
+665	A detailed blueprint of a certain <color=255,240,100>droid</color>. It must be delivered to the <color=255,240,100>design bureau</color> for closer study.
+666	A detailed blueprint of a certain <color=255,240,100>scanner</color>. It must be delivered to the <color=255,240,100>design bureau</color> for closer study.
+667	A detailed blueprint of a certain <color=255,240,100>weapon</color>. It must be delivered to the <color=255,240,100>design bureau</color> for closer study.
+668	NOT A FAKE BLUEPRINT FROM EVENTS.
+669	A blueprint imitation not used in the code. Needed only to stand in for a real blueprint in the hold of any ships other than the player's.
+670	It seems this map shows the coordinates of some planet. Where will they lead?
+671	Nirgend Azur
+672	if(MessageBoxYesNo('Open the container?'))
+673	Contains the resource "Nirgend Azur".<br>Use: take the resource out of the container!
+674	A resource hitherto unknown to science.
+675	A resource imitation not used in the code. Needed only to stand in for a real resource in the hold of any ships other than the player's.
+676	The map says that <Ship> hid some particularly valuable cargo on planet <Planet>.
+677	Nan
+678	Parts of unknown equipment. Disassembled and analyzed by the Design Bureau of the "<clr>Stellar<clrEnd>" company. Every little part lies in its own little box with the proper little label.
+679	Stellar Energy Spear
+680	Stellar Energy Vortex
+681	Stellar Stinger
+682	Stellar Sobug
+683	Stellar Arcon
+684	Stellar Javelin
+685	Deals from <MinDamage> to <MaxDamage><Bonus> units of damage at a distance of up to <Radius>.<br>Number of shots: <CntAttacks>.<TextData2><TextData1>
+686	Deals from <MinDamage> to <MaxDamage><Bonus> units of damage to all enemies at a distance of up to <Radius>.<br>Number of shots: <CntAttacks>.<TextData2><TextData1>
+687	Hits the target with homing missiles dealing <CntShots>x(<MinDamage>-<MaxDamage>)<Bonus> units of damage<br>Number of shots: <CntAttacks>.<br>Number of salvos: <Count>/<MaxCount> pcs.<TextData2><TextData1>
+688	Hits the target with homing torpedoes dealing <MinDamage>-<MaxDamage><Bonus> units of damage<br>Number of shots: <CntAttacks>.<br>Number of salvos: <Count>/<MaxCount> pcs.<TextData2><TextData1>

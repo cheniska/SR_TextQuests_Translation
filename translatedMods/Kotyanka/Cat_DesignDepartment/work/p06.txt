@@ -1,0 +1,70 @@
+371	You know, I changed my mind. Maybe another time
+372	I have other plans for now, I will pick it up another time
+373	Weapon type in the Draft:
+374	Number of weapons to create:
+375	Weapon reliability:
+376	Block MM installation:
+377	Maximum damage:
+378	Minimum damage:
+379	Ore extraction from asteroids:
+380	(depends on the content of useful ores)
+381	Extra ammo:
+382	(+5% weight per 50 ammo)
+383	Chance that a missile/torpedo is shot down:
+384	(when shooting at a missile/torpedo)
+385	Number of missiles per salvo:
+386	Maximum missile/torpedo speed:
+387	Minimum missile/torpedo speed:
+388	Energy
+389	Splinter
+390	Missile
+391	Torpedo
+392	Weapon type:
+393	No extra properties
+394	Chain damage
+395	Damage around the target
+396	Damage on destruction
+397	Damage around the ship
+398	Additional parameters:
+399	Additional targets:
+400	Additional damage range:
+401	Shot type:
+402	Number of shots:
+403	(+50% weight per extra one)
+404	Equipment destruction
+405	Drain
+406	Armor destruction
+407	Slowdown I
+408	Slowdown II
+409	Slowdown III
+410	Unprotected
+411	Non-lethal
+412	Diffrod
+413	Lifocar
+414	Adropter
+415	Stealermain
+416	Invater
+417	Armolock
+418	Javitor
+419	No spread
+420	Extra properties:
+421	Added:
+422	Electromagnetic interference disrupts the target's equipment.
+423	Damages the electronic innards of the equipment with an electromagnetic pulse.
+424	Restores the hull structure at the expense of the damage dealt to the enemy.
+425	During prolonged fire at the chosen target, increases damage through surface ionization of the target's hull.
+426	Weakens the target's armor.
+427	Slows the target's movement.
+428	Slows the target's movement. The bonus is stronger than Slowdown I, and the effects stack.
+429	Slows the target's movement. The bonus is stronger than Slowdown I and Slowdown II, and the effects stack.
+430	Ignores the target's shield generator and armor.
+431	Deals damage to the hull, ignoring all types of protection, but cannot completely destroy the ship.
+432	Damage bonus: 15%. The scanner power must exceed the target's protection. The target must be within radar range.
+433	Damage bonus: up to 33%. The scanner power must exceed the target's protection. The target must be within radar range.
+434	Raises the probability of preserving valuable trophies after the enemy ship is destroyed. The scanner power must exceed the target's protection. The target must be within radar range.
+435	Chance to dump goods from the hold: 5%. The scanner power must exceed the target's protection. The target must be within radar range.
+436	Suppresses the target's ignition system, damaging its engine in the process. The scanner power must exceed the target's protection. The target must be within radar range.
+437	The chance to block the weaponry is inversely proportional to the size of the target's hull. The scanner power must exceed the target's protection. The target must be within radar range.
+438	The chance to block the droid is inversely proportional to the size of the target's hull. The scanner power must exceed the target's protection. The target must be within radar range.
+439	The weapon always deals maximum damage.
+440	Effect description:

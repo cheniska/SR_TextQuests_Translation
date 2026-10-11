@@ -1,0 +1,80 @@
+441	Dominator type:
+442	Weapon speed:
+443	(The higher, the sooner it fires)
+444	Prototype
+445	New name:
+446	We notify you, <Player>, that the item ordered for assembly is ready. We await you at the <color=255,240,100>Bureau</color> branch for the formal presentation.
+447	Attention all moneybags of the Galaxy: <Name> has just opened in the <Star> system! Come and stock up on the best equipment!
+448	<Name> has been built in the <Star> system! We advise all lovers of new technologies and unique equipment to consider visiting the new station.
+449	<Name> recently opened in the <Star> system. After obtaining their customer card, the representatives promise the opportunity to purchase the newest technologies, surpassing in power the best Coalition models!
+450	We notify you, <Player>, that the standard equipment project you ordered is ready and awaits you at the <color=255,240,100>Design Bureau</color>.
+451	We notify you, <Player>, that the blueprint submitted to the <color=255,240,100>DB</color> has been fully studied. It turned out to contain no practical information, so you will be forcibly fined <Cost> cr. for wasting our specialists' time.
+452	We notify you, <Player>, that the weapon project you ordered is ready and awaits you at the <color=255,240,100>Design Bureau</color>.
+453	We notify you, <Player>, that the hull project you ordered is ready and awaits you at the <color=255,240,100>Design Bureau</color>.
+454	The blueprint handed to the <color=255,240,100>Design Bureau</color> for assembly will be ready by <EndDate>.
+455	The blueprint handed to the <color=255,240,100>Design Bureau</color> for study will be ready for assembly by <EndDate>.
+456	Without a customer card you, <Player>, cannot use the station's functionality!
+457	Thank you, <Player>, for the regular fee of <Cost> cr., and we hope for further cooperation.<br><br>Sincerely, the "<color=255,240,100>Stellar</color>" company.
+458	Dear <Player>, we inform you that, because the fee of <Cost> cr. could not be debited from your account, your customer card has been canceled and access to the services of the <color=255,240,100>Design Bureau</color> is closed. To restore access to the services, contact the design bureau and renew your customer card.<br><br>Sincerely, the "<color=255,240,100>Stellar</color>" company.
+459	We notify you, <Player>, that the blueprint submitted to the <color=255,240,100>Bureau</color> has been studied. We await your arrival to make further decisions.
+460	t. ---> Weapons x [var].
+461	t. ---> Luxury goods x [var].
+462	t. ---> Technology x [var].
+463	t. ---> Blazer nodes x [var].
+464	t. ---> Keller nodes x [var].
+465	t. ---> Terron nodes x [var].
+466	t. ---> Protoplasm x [var].
+467	t. ---> Nan x [var].
+468	Collect Nirgend Azur from the hull
+469	I will pay [cost] cr. for the whole resource
+470	All right, so be it, take half
+471	Too hard a choice, I need to think
+472	Recycle the discharged bombs
+473	Recycle pirate equipment
+474	Recycle Coalition equipment
+475	Recycle Dominator equipment
+476	Recycle Klissan equipment
+477	Recycle unknown equipment
+478	We scanned your ship's plating but found nothing.
+479	We scanned your ship's plating and found [nirgend] tons of <clr>Nirgend Azur<clrEnd>. The service of cleaning and collecting the resource will cost you half of its mass or [cost] cr. What do you choose?
+480	We can recycle equipment you no longer need in exchange for some resource, depending on its manufacturer. The amount of the resource depends on the equipment's weight and condition.
+481	We can also collect <clr>Nirgend Azur<clrEnd> from your ship's hull. If there is any, of course.
+482	Equipment recycling
+483	By recycling discharged bombs you will get the <clr>Weapons<clrEnd> resource in an amount equal to the equipment's weight. Remember that the lower an item's integrity, the less of the resource you will get.
+484	By recycling Clan equipment you will get the <clr>Luxury goods<clrEnd> resource in an amount equal to the equipment's weight. Remember that the lower an item's integrity, the less of the resource you will get.
+485	By recycling Coalition equipment you will get the <clr>Technology<clrEnd> resource in an amount equal to the equipment's weight. Remember that the lower an item's integrity, the less of the resource you will get.
+486	By recycling Dominator equipment you will get the <clr>Nodes<clrEnd> resource in an amount equal to the equipment's weight. Remember that the lower an item's integrity, the less of the resource you will get.
+487	<br>[var] has been sent for recycling. Given the condition of the equipment, the compensation is [var3] [var2].
+488	By recycling Klissan equipment you will get the <clr>Protoplasm<clrEnd> resource in an amount equal to the equipment's weight. Remember that the lower an item's integrity, the less of the resource you will get.
+489	<br>Here is a list of suitable equipment from your ship:<br>-----------------------[list]<br>-----------------------<br>What do you want to recycle?
+490	<br>We did not find any equipment suitable for recycling on your ship.
+491	By recycling unknown equipment you will get a resource called <clr>Nan<clrEnd> in an amount equal to the equipment's weight. Remember that the lower an item's integrity, the less of the resource you will get.
+492	Tons of alcohol: <Cost>
+493	Tons of weapons: <Cost>
+494	Credits: <Cost>
+495	Tons of food: <Cost>
+496	Tons of luxury goods: <Cost>
+497	Tons of medicines: <Cost>
+498	Tons of minerals: <Cost>
+499	Tons of drugs: <Cost>
+500	Nirgend Azur: <Cost>
+501	Nodes: <Cost>
+502	Tons of unknown equipment: <Cost>
+503	Protoplasm: <Cost>
+504	Tons of technology: <Cost>
+505	Total assembly cost:
+506	Note that when we take unknown equipment from your hold, we will not return any surplus.
+507	Dear <Player>, we have finished the work on the blueprint, and the manufactured device awaits you in the warehouse!
+508	That is your right, <Player>.
+509	Just don't make us wait too long...
+510	Well then, we are starting the assembly.
+511	You have several blueprints, but to maintain the maximum quality of work we can accept only <clr>one<clrEnd> blueprint at a time. So which one do you want to give us?
+512	Oh, you know, I looked in the database, we already know this blueprint and can assemble it right away. Here is all the information on the blueprint:
+513	All construction and testing work will be completed on <EndDate>; payment for labor and additional resources for assembly are provided by you. If you decline to have the sample assembled, the blueprint becomes our intellectual property.
+514	Studying the blueprint will take us some time, the approximate end date is <EndDate>. Will that do?
+515	Excellent, we are getting started.
+516	Provide a bank statement showing you have <Cost> cr. in your account, it will be a guarantee of your solvency. Also, all members of our club undertake to pay a fee of <MonthlyCost> cr. every <PayPeriod> days.
+517	Under the terms of this contract we undertake to provide you with services at our <Name> in any circumstances. If for some reason we cannot provide services, you will not have to pay the monthly fee for that time, and you will receive compensation for the inconvenience caused.
+518	For your part, you undertake to transfer the monthly fee to us regularly throughout the entire open-ended contract.
+519	The "<clr>Stellar<clrEnd>" company reserves the right to terminate the contract unilaterally if you, <Player>, do not have enough funds in your account to pay the fee. Termination of the contract on your part is not possible.
+520	Easy. One turn will cost <Cost> <color=255,240,100>Nirgend Azur</color>. This month you have <SpinsLeft> spins of the wheel left.

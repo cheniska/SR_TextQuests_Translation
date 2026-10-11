@@ -1,0 +1,31 @@
+570	License Agreement for the Use of the Software "Meldzhi-Check"
+571	This License Agreement (hereinafter the "Agreement") governs the relations between the Limited Liability Company "Speclab" (Earth, 1253003, the city of Ivanovo, Parizhskoy Kommuny St., bldg. d11, office 1), the holder of the exclusive right to the software, hereinafter the "Licensor", and You, hereinafter the "Licensee", concerning the use of the computer program "Meldzhi-Check" (hereinafter the Program).
+572	1. Terms of accession to this Agreement.
+573	1.1. Before copying, installing or beginning to use the Program, the Licensee is obliged to read this Agreement, as well as all applicable rules and other documents that are posted on the Site/in the Program and are an integral part of this Agreement.
+574	1.2. The Licensee accedes to this Agreement by active actions of the Licensee aimed at copying the Program or installing it on a personal computer, which within the meaning of Articles 435 and 438 of the Civil Code of the RF is the acceptance of the Licensor offer, as well as the conclusion of a license agreement that obliges the Licensee to observe the terms of this Agreement.
+575	1.3. Actual use of the Program by the Licensee also confirms the Licensee accession to the terms of this Agreement.
+576	1.4. By each use of the Program, the Licensee expresses agreement with the terms of this Agreement in the version in effect at the moment of actual use of the Program.
+577	1.5. Use of the Program is permitted only on the terms of this Agreement. Use of the Program on terms and in ways not provided for by this License is possible only on the basis of a separate agreement with the Licensor.
+578	2. Subject of the Agreement
+579	2.1. Under this Agreement the Licensor grants the Licensee, on the terms of a simple (non-exclusive) license, the right to use the Program in the territory of all countries of the world in the ways provided for by this Agreement.
+580	2.2. The right to use the Program is granted by the Licensor to the Licensee free of charge.
+581	2.3. This Agreement may be translated into other languages for convenience, but You hereby agree that all relations between You and the Licensor will be governed by the version of the Terms in the Standard Galactic language. If there are discrepancies between the Standard Galactic version of the Agreement and a translation into any other language, the Standard Galactic version shall prevail.
+582	2.4. The law of the Interstellar Coalition shall apply to this Agreement and all relations connected with any use of the Program, and any claims or lawsuits arising from this Agreement or the use of the Program must be filed and heard in the court at the location of the Licensor.
+583	3. Limits (ways) of use of the Program
+584	3.1. The Licensee has the right to use the Program in the following ways:
+585	3.1.1. To copy and install (reproduce) it on the personal device(s) of the Licensee;
+586	3.1.2. To use the Program for its direct functional purpose;
+587	3.1.3. To reproduce and distribute the Program in unmodified form;
+588	3.1.4. To modify the Program solely for personal use, and to reverse-engineer the Program solely to fix errors in such modified versions.
+589	3.2. The Licensee has no right to:
+590	3.2.1. reproduce, distribute, communicate, make available to the public or otherwise use the Program for commercial purposes (including for a fee), including as part of collections of software products, without the written consent of the Licensor;
+591	3.2.2. modify, decompile, disassemble, decrypt or perform other actions on the object code of the Program with the aim of extracting the source text of the Program and/or obtaining information about the implementation of the algorithms used in the Program, or carry out (permit others to carry out) any other use of the Program, without the written consent of the Licensor.
+592	3.2.3. reproduce, distribute or rework, for commercial or non-commercial purposes, elements of the Program that are the object of copyright of the Licensor or third parties, in the absence of permission from the respective rights holders to perform these actions;
+593	3.2.4. transfer the rights to use the Program granted to the Licensee to other Licensees or third parties by concluding a sublicense agreement or in any other way;
+594	3.2.5. violate the rules of use of the Application set out in this Agreement.
+595	3.2.6. use the Program for the transmission, distribution or other use of illegal content.
+596	3.3. The Program must be used under the name: Meldzhi-Check. The Licensee has no right to change the name of the Program or to alter and/or remove copyright notices or other references to the Rights Holder or other persons present in the Program, documentation or other materials distributed by the Program.
+597	4. Warranties and limitations of liability.
+598	4.1. The Program is provided "as is". The Licensor gives no warranties regarding error-free and uninterrupted operation of the Program, its suitability for any purposes and expectations of the Licensee, nor any other warranties not expressly stated in this License.
+599	4.2. The Licensor is not liable for any damage to the Licensee personal computer, any other equipment or software caused by or connected with the use of the Program.
+600	4.3. The Licensor is not liable for the Licensee lack of access to the Galanet, for the quality of the services of Galanet communication providers with whom the Licensee has concluded agreements on the provision of Internet access services.
