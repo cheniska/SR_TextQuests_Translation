@@ -1,6 +1,6 @@
 371	You know, I changed my mind. Maybe another time
 372	I have other plans for now, I will pick it up another time
-373	Weapon type in the Draft:
+373	Weapon type in the wormhole:
 374	Number of weapons to create:
 375	Weapon reliability:
 376	Block MM installation:

@@ -8,7 +8,7 @@
 - Приставки/классы: «микромодуль первого/второго/третьего уровня» → first-/second-/third-level micromodule; «Совместим только с…» → Compatible only with…
 - Стеллар → "Stellar" company; Конструкторское бюро (КБ) → Design Bureau (DB); крипторы → cryptors; экстрамерность → extradimensionality; Ниргенд Азур → Nirgend Azur; Нан → Nan.
 - По ванилле: Torsion Reactor, Stackbarrel, Dianode, Tech Detector; Zhupei → Zoopie; yanvelb → ekup.
-- Cat_DesignDepartment: «Тип орудия в ЧД» → "Weapon type in the Draft" (расшифровка «ЧД» неизвестна — [неясно]); ГЗП → shield generator; «Мэлджи-Чек» → Meldzhi-Check; «Космические Пейджеры» → "Space Pagers".
+- Cat_DesignDepartment: «Тип орудия в ЧД» → "Weapon type in the wormhole" (ЧД = червоточина, «чёрная дыра» на сленге КР — решение пользователя 2026-10-11); ГЗП → shield generator; «Мэлджи-Чек» → Meldzhi-Check; «Космические Пейджеры» → "Space Pagers".
 - Мемные/пародийные названия (Cat_Gachi и др.) — сохранено созвучие.
 - Скриптовые строки (NewsAdd, MessageBoxYesNo…): число апострофов EN = RU.
 - Опечатки токенов RU (`<End>…<clrEnd>`, лишние `</color>`, `</clr>`) в EN сохранены или исправлены так, чтобы токены совпадали с RU.
