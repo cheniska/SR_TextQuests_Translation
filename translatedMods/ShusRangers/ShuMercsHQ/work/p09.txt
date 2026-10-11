@@ -9,7 +9,7 @@
 704	The Dominators could use friends like that... Understood, I'll settle the matter myself. I hope they won't charge too much extra interest on my debt...
 705	Sounds dubious. We'll decline.
 706	I'll decline, Elayma, and don't be so critical of mistakes, because if it weren't for a mistake - you wouldn't exist.
-707	If we help every scum in power, we won't just lose to the Dominators - we'll send ourselves to the dustbin of history! We decline!
+707	If we help every scum in power, we won't just lose to the dominators - we'll send ourselves to the dustbin of history! We decline!
 708	I'd rather the drugs never reached their destination. Turn down your friends.
 709	Hi, boss! The ambassador from the planet <TargetPlanet> contacted us. Soon he is to hold important negotiations with one of the pirate khans on the planet <DestinationPlanet>. The ambassador is worried about his safety, the meeting place is in pirate territory, and so he asks us for an armed escort. Alas, we were given no more details, so we should look with all our eyes, however many of them our boys have. Reminds me of playing cards with Chekvushechka - you both know the deck is marked and keep a blaster ready under the table to shoot when things go really bad, ha-ha! The blaster is a toy, of course, but it hurts all the same when it hits you in the forehead. I know firsthand, my niece has the fastest hand in wild Rakhish, ha!
 710	Anyway, for ensuring his safety the client promises to pay <Cost> cr. immediately upon return to his home spaceport. What do you think, boss?

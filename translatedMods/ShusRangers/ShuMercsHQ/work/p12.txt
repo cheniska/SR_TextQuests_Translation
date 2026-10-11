@@ -49,7 +49,7 @@
 1064	Nice one, <Player>, the brotherhood won't forget you! Here are your papers, drop in on us again - we're always glad to see you.
 1065	Deal! [<color=0,50,200>pay</color>]
 1066	We don't give a damn about homes, frankly. Let the Coalition sweat over them. We're here today, there tomorrow, so don't feed me baloney, just get to the point.
-1067	But I will defend the clan's territory from the Dominators
+1067	But I will defend the clan's territory from the dominators
 1068	Hm, yes, <Player>, I'd like to argue with you, but things have been going really badly for us lately. The tin cans are taking system after system. At this rate we'll all be done for soon, so willy-nilly you start thinking about saving your own hide.
 1069	Fine. I think your outfit won't hurt us. Take your papers and get out fast before anyone notices I signed everything for you here for free... they'll laugh me out of town, the devils.
 1070	Deal

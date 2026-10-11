@@ -44,12 +44,16 @@ def rd(p):
     return b.decode('utf-8'),'u8'
 def wr(p,s,k):
     open(p,'wb').write((b'\xff\xfe'+s.encode('utf-16-le')) if k=='u16' else s.encode('utf-8'))
+RACERX=re.compile(r"(\b[a-z][\w']*[,;]? )(Peleng|Maloq|Faeyan|Gaalian|Gaal|Human|Klissan|Dominator)(s?)\b(?! [A-Z])")
+def _race(m): return m.group(1)+m.group(2).lower()+m.group(3)
 TOKRX=re.compile(r'(<[^<>]*>|\{[^{}]*\}|\[[^\[\]]*\]|Mods\\[^\s\t]*|[A-Za-z0-9_\\/.-]+\.(?:cmap|map|qmm|jpg|png|wav|ogg|dat|bmp))')
 def apply(s,rules,count=None):
     n=0;parts=TOKRX.split(s)
     for i in range(0,len(parts),2):
         for rx,fn in rules:
             parts[i],k=rx.subn(fn,parts[i]); n+=k
+        for _ in (0,1):
+            parts[i],k=RACERX.subn(_race,parts[i]); n+=k
     return ''.join(parts),n
 if __name__=='__main__':
     q,m=files(); mode=sys.argv[1]; rules=RULES

@@ -12,10 +12,10 @@
 917	That's great! In that case head to the <clr>science base <SB><clrEnd> in the <Star> system and try asking around about the professor. Try telling him a fairy tale about saving the Galaxy or scaring him a little - he's no soldier, after all - it might work. In the worst case, you can always try greasing his palm - I doubt his salary is very big, considering how they treat him there. And meanwhile I'll make sure everything is ready for your arrival.
 918	Why not, let's try
 919	One of our scientists let slip that a few years ago, when he was still a green bachelor, one of the leading lights of science was a certain professor <clr>Shtoyn<clrEnd>. At that time he was studying some revolutionary kind of weapon that "would allow bypassing any of the usual limits on the growth potential of damage dealt to a space target", or something like that.
-920	However, after the war with the Dominators began, his project was shut down for lack of funds. And although <clr>Shtoyn<clrEnd> had apparently even managed to create a prototype and practically proved its effectiveness, jealous colleagues managed to convince the leadership that further sponsoring of his project would be a waste of budget funds. The Coalition Council decided to freeze <clr>Shtoyn<clrEnd>'s project, and the scientist himself was transferred to the <clr>science base <SB><clrEnd>, where he languishes to this day.
+920	However, after the war with the dominators began, his project was shut down for lack of funds. And although <clr>Shtoyn<clrEnd> had apparently even managed to create a prototype and practically proved its effectiveness, jealous colleagues managed to convince the leadership that further sponsoring of his project would be a waste of budget funds. The Coalition Council decided to freeze <clr>Shtoyn<clrEnd>'s project, and the scientist himself was transferred to the <clr>science base <SB><clrEnd>, where he languishes to this day.
 921	And then I thought - what if we offer him to work for us? We'll finance the project, help him finish his life's work, and in return get a unique weapon that has no analogs. Yes, of course we risk losing money, but as they say: "Who doesn't take risks, deals in minerals" - heh-heh.
 922	So, boss, are we in?
-923	Ehh, as you say. If you want to come back to this topic, I'm all for it. As long as there's still something to discuss later, because all sorts of things happen with science bases - a Dominator torpedo veers off course, an experiment fails, a stray bomb detonates...
+923	Ehh, as you say. If you want to come back to this topic, I'm all for it. As long as there's still something to discuss later, because all sorts of things happen with science bases - a dominator torpedo veers off course, an experiment fails, a stray bomb detonates...
 924	Maybe later
 925	Your HQ was destroyed, further completion of the task is impossible.
 926	The science base where Professor <color=255,240,100>Shtoyn</color> worked was destroyed. It seems he took all his secrets with him to the grave.
@@ -43,7 +43,7 @@
 948	Deal [<color=0,50,200>pay</color>]
 949	Well, I don't think so. When the time comes, my project will surely be remembered. Even if I'm not destined to finish it, I want to be remembered by the Galaxy as an honest scientist, not as a traitor.
 950	What if this is your last chance to finish what you started?
-951	Yes, there's some truth in your words. If the Coalition wins this war, development of all remaining military projects will most likely be shut down for many years. And if the Dominators win... I don't even want to think about it.
+951	Yes, there's some truth in your words. If the Coalition wins this war, development of all remaining military projects will most likely be shut down for many years. And if the dominators win... I don't even want to think about it.
 952	Well, <Player>, give me a few days to gather the most essential things, and I will arrive at your organization's HQ. I hope I won't regret this decision.
 953	Don't feed me your rotten faryuks! What dozen bombs? This is a secret military development of the Coalition that was never put into mass production! Even on the black market it's not easy to get a single one.
 954	It seems I shouldn't even have considered your ridiculous proposal.

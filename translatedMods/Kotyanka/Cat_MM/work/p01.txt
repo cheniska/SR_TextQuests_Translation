@@ -4,7 +4,7 @@
 4	Gripper range: <bonHookRadius> million km
 5	Reliability: <clr>-50%<clrEnd>
 6	Shortener
-7	A first-level micromodule. Significantly raises the power of <clr>energy and splinter<clrEnd> weapons by reducing the shot <clr>range<clrEnd>. Installation is possible only in <clr>Maloq and Faeyan<clrEnd> weapons, traditionally having elongated barrels and a special loading-mechanism configuration since the times when nobody even thought of creating the Coalition of Sentient Races.
+7	A first-level micromodule. Significantly raises the power of <clr>energy and splinter<clrEnd> weapons by reducing the shot <clr>range<clrEnd>. Installation is possible only in <clr>Maloq and faeyan<clrEnd> weapons, traditionally having elongated barrels and a special loading-mechanism configuration since the times when nobody even thought of creating the Coalition of Sentient Races.
 8	Exabomber
 9	A first-level micromodule. Embeds into any kind of <clr>torpedo<clrEnd> weapon and increases the number of projectiles launched in one salvo, as well as their flight <clr>speed<clrEnd> and the weapon's maximum <clr>ammo supply<clrEnd>. Weight reasonably increases to expand the ammunition rack. Compatible only with <clr>Human<clrEnd> torpedo tubes.
 10	Torpedoes per salvo: <bonAttacks> pcs.
@@ -21,7 +21,7 @@
 21	Armoridze
 22	A first-level micromodule. Includes a mini-station for producing nano-armor, thereby constantly building up <clr>armor<clrEnd>. Because the armor sheets add considerable mass, it is compatible only with <clr>Maloq<clrEnd> hulls, originally designed for massiveness, and <clr>Faeyan<clrEnd> hulls, which have a considerable load-carrying reserve thanks to their manufacturing process.
 23	Dalveren
-24	A first-level micromodule. A special development of the <clr>Faeyans<clrEnd> with support from the <clr>Pelengs<clrEnd> and <clr>Maloqs<clrEnd>. Colossally increases the weapon's <clr>shot range<clrEnd> at the expense of reducing <clr>durability<clrEnd> and <clr>damage<clrEnd>. Humans and Gaals showed no interest in the micromodule because of the significant reduction in weapon characteristics, and the development remained a strange exclusive possession of three races.
+24	A first-level micromodule. A special development of the <clr>Faeyans<clrEnd> with support from the <clr>Pelengs<clrEnd> and <clr>Maloqs<clrEnd>. Colossally increases the weapon's <clr>shot range<clrEnd> at the expense of reducing <clr>durability<clrEnd> and <clr>damage<clrEnd>. Humans and gaals showed no interest in the micromodule because of the significant reduction in weapon characteristics, and the development remained a strange exclusive possession of three races.
 25	Reliability: <clr>-80%<clrEnd>
 26	Aegis
 27	A first-level micromodule. Nobody knows who created this micromodule or when, but one thing is certain - it makes a <clr>droid<clrEnd> incredibly <clr>effective<clrEnd> and practically <clr>eternal<clrEnd>, though the <clr>weight and cost<clrEnd> of such a droid become quite impressive. Only for droids of <clr>Unknown origin<clrEnd>.
@@ -39,19 +39,19 @@
 39	Belurange
 40	A first-level micromodule. This scientific miracle is nothing other than the remains of the AI cores controlling the internal systems of onboard weaponry of <clr>hyperspace<clrEnd> ships. When integrated into <clr>energy<clrEnd> or <clr>splinter<clrEnd> weapons of <clr>unknown<clrEnd> origin, a manifold increase in the <clr>size<clrEnd> of the weapons is observed, which in turn raises their <clr>damage<clrEnd> and <clr>range<clrEnd>. However, the <clr>cost<clrEnd> of repairing the colossal installation also grows.
 41	Decasage
-42	A first-level micromodule. Replaces some parts of the <clr>engine<clrEnd> and adds many new ones, greatly reducing its durability but increasing <clr>speed<clrEnd> and size. Created by fanatical racing enthusiasts and is accordingly compatible only with <clr>Peleng and Human<clrEnd> engines.
+42	A first-level micromodule. Replaces some parts of the <clr>engine<clrEnd> and adds many new ones, greatly reducing its durability but increasing <clr>speed<clrEnd> and size. Created by fanatical racing enthusiasts and is accordingly compatible only with <clr>Peleng and human<clrEnd> engines.
 43	Reliability: <clr>-75%<clrEnd>
 44	Size: <clr>+150%<clrEnd>
 45	Decawarp
 46	A first-level micromodule. Replaces some parts of the <clr>engine<clrEnd> and adds many new ones, greatly reducing its durability but increasing <clr>jump<clrEnd> range and size. Originally intended for <clr>Gaal<clrEnd> research ships, but <clr>Humans<clrEnd>, smelling profit, immediately bought out the technology with exclusive rights. Fortunately, adding compatibility is much easier than removing what already exists.
 47	Facultatem
-48	A first-level micromodule. Restructures the tank, adding somewhat outdated and large high-grade parts instead of new medium-quality ones. Reliability decreases, size increases, but the added fuel volume exceeds all expectations. The parts database contains only <clr>Maloq and Faeyan<clrEnd> designations.
+48	A first-level micromodule. Restructures the tank, adding somewhat outdated and large high-grade parts instead of new medium-quality ones. Reliability decreases, size increases, but the added fuel volume exceeds all expectations. The parts database contains only <clr>Maloq and faeyan<clrEnd> designations.
 49	Radiitel
 50	A first-level micromodule. Replaces some power elements and catalysts of the <clr>Radar<clrEnd> with analogues made of uranium and plutonium and hacks the power supply system, making it run at the maximum suited to the material of the new elements. Unfortunately, radiation shielding has considerable weight, and interference with the power section leads to quick breakdowns. A rare case when a <clr>Gaal<clrEnd> group of researchers did work for a private <clr>Peleng<clrEnd> company and was paid in full.
 51	Definutis
-52	A first-level micromodule. An interesting attempt by the <clr>Faeyans<clrEnd> and <clr>Gaals<clrEnd> to implement the Maloq approach in <clr>scanning<clrEnd> equipment. The result was impressive, but the scanner's final size boggles the mind no less, and the experimental nature of the technology affects reliability.
+52	A first-level micromodule. An interesting attempt by the <clr>Faeyans<clrEnd> and <clr>Gaals<clrEnd> to implement the maloq approach in <clr>scanning<clrEnd> equipment. The result was impressive, but the scanner's final size boggles the mind no less, and the experimental nature of the technology affects reliability.
 53	Praesidium
-54	A first-level micromodule. The creation of a Maloq genius Worked. Despite its exceptional complexity, all parts introduced into the <clr>field generator<clrEnd> are made on maloq canons - without regard for weight and reliability. <clr>Universality<clrEnd> was achieved thanks to the unsuccessful attempts of scientists of other races to figure out the essence of the micromodule's operation.
+54	A first-level micromodule. The creation of a maloq genius Worked. Despite its exceptional complexity, all parts introduced into the <clr>field generator<clrEnd> are made on maloq canons - without regard for weight and reliability. <clr>Universality<clrEnd> was achieved thanks to the unsuccessful attempts of scientists of other races to figure out the essence of the micromodule's operation.
 55	Hypergrabus
 56	A first-level micromodule. Radically rebuilds the gripper mechanisms, making it colossally powerful and heavy, but very fragile. Because of the archaism and little-studied nature of the lost technology, it is applicable only to <clr>maloq<clrEnd> grippers.
 57	Reliability: <clr>single-use<clrEnd>
@@ -60,7 +60,7 @@
 60	Captarang
 61	A first-level micromodule. Adds to the <clr>gripper<clrEnd> an experimental <clr>Gaal<clrEnd> modular targeting system, significantly improving pull range. Unfortunately, the modules weigh a lot and add potential points of failure. The <clr>Maloqs<clrEnd> accidentally shot down a diplomatic vessel carrying the copy intended for them and, after a brief inquiry, handed it to the <clr>Pelengs<clrEnd> in a vain attempt to cover their tracks.
 62	Retionius
-63	A first-level micromodule. A <clr>Faeyan<clrEnd> development made to order for the <clr>Maloqs<clrEnd> after analyzing the Battle of Gralgar. Colossal repair capabilities at the price of an equally colossal reduction in reliability and with a colossal size that never bothered the Maloqs. Compatibility with faeyan droids has entered textbooks as an excellent example of faeyan black humor.
+63	A first-level micromodule. A <clr>Faeyan<clrEnd> development made to order for the <clr>Maloqs<clrEnd> after analyzing the Battle of Gralgar. Colossal repair capabilities at the price of an equally colossal reduction in reliability and with a colossal size that never bothered the maloqs. Compatibility with faeyan droids has entered textbooks as an excellent example of faeyan black humor.
 64	Reliability: <clr>-65%<clrEnd>
 65	Rangecite
 66	A first-level micromodule. Created by a <clr>Coalition<clrEnd> gaal developer of targeting systems abducted by Dzuhallag. Adds an expensive, heavy and fragile system to <clr>non-missile<clrEnd> weapons, noticeably increasing the range of fire. The now-deceased developer did not believe the promises and vengefully <clr>excluded<clrEnd> any compatibility with the weapons of <clr>Pelengs<clrEnd> altogether, substituting their signatures with those of the <End>pirate clan<clrEnd>.

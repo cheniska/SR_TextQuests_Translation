@@ -6,7 +6,7 @@
 76	Vartuthead
 77	A first-level micromodule. Adds a <clr>human-made<clrEnd> warhead modification unit that coats the warheads with a thin layer of quark charge. It obviously affects the size and the repair difficulty of the weapon and, thanks to the subsequent interference of a <clr>Peleng<clrEnd> intern who turned out to be a saboteur of the <clr>pirate brotherhood<clrEnd>, halves the reliability.
 78	Densissima
-79	A first-level micromodule. The essence of the "Fifth Room" project carried out by the scientists of the <clr>Gaal and Faeyan<clrEnd>. Reshapes the hull, quadrupling its capacity, but since no material was added, the conditions for installing a <clr>gripper<clrEnd>, <clr>shield generator<clrEnd>, <clr>radar<clrEnd> and <clr>scanner<clrEnd> become unachievable, repairs get harder and the protective properties drop. Later it was stolen by the head of <clr>Dzuhallag<clrEnd> and adapted to install an extra mud jacuzzi.
+79	A first-level micromodule. The essence of the "Fifth Room" project carried out by the scientists of the <clr>Gaal and faeyan<clrEnd>. Reshapes the hull, quadrupling its capacity, but since no material was added, the conditions for installing a <clr>gripper<clrEnd>, <clr>shield generator<clrEnd>, <clr>radar<clrEnd> and <clr>scanner<clrEnd> become unachievable, repairs get harder and the protective properties drop. Later it was stolen by the head of <clr>Dzuhallag<clrEnd> and adapted to install an extra mud jacuzzi.
 80	Reliability: <clr>-60%<clrEnd>
 81	Size: <clr>+300%<clrEnd>
 82	Cost: <clr>+200%<clrEnd>
@@ -23,7 +23,7 @@
 93	Cost: <clr>+500%<clrEnd>
 94	Attack type: <clr>Circular<clrEnd>
 95	Turcomprefrator
-96	A first-level micromodule. The newest Maloq development for energy and splinter weapons <clr>of any make<clrEnd>. It came into being after studying the Gaal textbooks of the series "On Sorrow and Gunsmithing", obtained from the Pelengs under the guise of top-secret developments. It turns a weapon that is fairly <clr>powerful<clrEnd> by Maloq standards into a rapid-fire instrument of annihilation. Because of some reduction in damage and range and the traditional Maloq approach to durability, it is catastrophically underrated by almost everyone and is considered a collector's item.
+96	A first-level micromodule. The newest maloq development for energy and splinter weapons <clr>of any make<clrEnd>. It came into being after studying the gaal textbooks of the series "On Sorrow and Gunsmithing", obtained from the pelengs under the guise of top-secret developments. It turns a weapon that is fairly <clr>powerful<clrEnd> by maloq standards into a rapid-fire instrument of annihilation. Because of some reduction in damage and range and the traditional maloq approach to durability, it is catastrophically underrated by almost everyone and is considered a collector's item.
 97	Size: <clr>+200%<clrEnd>
 98	Extra shots: <bonAttacks> units
 99	Philosophical
@@ -39,11 +39,11 @@
 109	Missile speed increase: <clr>+512<clrEnd> units
 110	Equipment cost: <clr>+200%<clrEnd>
 111	Obliterator
-112	A first-level micromodule. An ancient and very rare micromodule, created even before the Dominators. Using unknown technologies obtained from hyperspace ships, it ignores material and energy barriers and fires precisely at the target. For <clr>Unknown<clrEnd> weapons only.
+112	A first-level micromodule. An ancient and very rare micromodule, created even before the dominators. Using unknown technologies obtained from hyperspace ships, it ignores material and energy barriers and fires precisely at the target. For <clr>Unknown<clrEnd> weapons only.
 113	Extra effect: <clr>ignores protection<clrEnd>
 114	Reliability: <clr>-67%<clrEnd>
 115	Nondispergator
-116	A first-level micromodule. This micromodule was found among the debris after the battle of the Dominators with an armada of unknown ships. It is unknown how this micromodule and its copies came into being, but the fact that it lets you always hit the least protected point of a ship makes it an indispensable aid in battle. For <clr>Unknown<clrEnd> weapons only.
+116	A first-level micromodule. This micromodule was found among the debris after the battle of the dominators with an armada of unknown ships. It is unknown how this micromodule and its copies came into being, but the fact that it lets you always hit the least protected point of a ship makes it an indispensable aid in battle. For <clr>Unknown<clrEnd> weapons only.
 117	Extra effect: <clr>has no damage spread<clrEnd>
 118	Equipment cost: <clr>+100%<clrEnd>
 119	Gunslinger

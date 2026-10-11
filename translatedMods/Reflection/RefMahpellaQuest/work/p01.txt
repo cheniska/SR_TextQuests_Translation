@@ -1,6 +1,6 @@
 1	Oh, <Player>, it seems you're the courier with the long-awaited crate full of "Makhpella Dark" beer? Excellent!
 2	You have no idea how much this crate is worth! Even without the contents! And the contents? That's an elite series of beer - many would give their lives just to buy a single can!
-3	And those heirs... They turned out to be the smallest expense. The fools had completely given up hope of getting their beer. But we Pelengs can spot a profit ten parsecs away! So thank you for your cooperation in this matter. Your <Money> cr. from Marinikin & Co are already in your account.
+3	And those heirs... They turned out to be the smallest expense. The fools had completely given up hope of getting their beer. But we pelengs can spot a profit ten parsecs away! So thank you for your cooperation in this matter. Your <Money> cr. from Marinikin & Co are already in your account.
 4	By the way, wouldn't you like to buy a ranger badge from the year <clr>2155<clrEnd>? Only <clr>350<clrEnd> cr.! Or a collector's edition of <clr>Mystic Pagers 1<clrEnd>? No? Oh well.
 5	Oh, <Player>, we happen to have a small job for you!
 6	You do know that our planet is home to the headquarters of the "Marinikin & Co" organization, the well-known producer of the legendary "Makhpella Dark" beer? No? Well, now you certainly do.

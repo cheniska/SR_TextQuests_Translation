@@ -43,9 +43,9 @@
 483	By recycling discharged bombs you will get the <clr>Weapons<clrEnd> resource in an amount equal to the equipment's weight. Remember that the lower an item's integrity, the less of the resource you will get.
 484	By recycling Clan equipment you will get the <clr>Luxury goods<clrEnd> resource in an amount equal to the equipment's weight. Remember that the lower an item's integrity, the less of the resource you will get.
 485	By recycling Coalition equipment you will get the <clr>Technology<clrEnd> resource in an amount equal to the equipment's weight. Remember that the lower an item's integrity, the less of the resource you will get.
-486	By recycling Dominator equipment you will get the <clr>Nodes<clrEnd> resource in an amount equal to the equipment's weight. Remember that the lower an item's integrity, the less of the resource you will get.
+486	By recycling dominator equipment you will get the <clr>Nodes<clrEnd> resource in an amount equal to the equipment's weight. Remember that the lower an item's integrity, the less of the resource you will get.
 487	<br>[var] has been sent for recycling. Given the condition of the equipment, the compensation is [var3] [var2].
-488	By recycling Klissan equipment you will get the <clr>Protoplasm<clrEnd> resource in an amount equal to the equipment's weight. Remember that the lower an item's integrity, the less of the resource you will get.
+488	By recycling klissan equipment you will get the <clr>Protoplasm<clrEnd> resource in an amount equal to the equipment's weight. Remember that the lower an item's integrity, the less of the resource you will get.
 489	<br>Here is a list of suitable equipment from your ship:<br>-----------------------[list]<br>-----------------------<br>What do you want to recycle?
 490	<br>We did not find any equipment suitable for recycling on your ship.
 491	By recycling unknown equipment you will get a resource called <clr>Nan<clrEnd> in an amount equal to the equipment's weight. Remember that the lower an item's integrity, the less of the resource you will get.

@@ -9,7 +9,7 @@
 9	Bamberga I
 10	<color=248,252,248>Bamberga - a series of destroyer-class hulls. Created by the maloqs to protect the ships of high-ranking persons or to carry important cargo requiring serious protection. Later Humans decided that this type of ship would be excellent for guarding their trade caravans and bought out the production technology.</color>
 11	Charm skill <bonSkill5>
-12	<color=248,252,248>The ship's additional properties refuse to work under the control of anyone other than</color> Maloqs and Humans<color=248,252,248>.</color>
+12	<color=248,252,248>The ship's additional properties refuse to work under the control of anyone other than</color> Maloqs and humans<color=248,252,248>.</color>
 13	Bamberga II
 14	Leadership skill <bonSkill6>
 15	Bamberga III
@@ -70,7 +70,7 @@
 70	Sharklet
 71	Sharklet I
 72	<color=248,252,248>Sharklet - a series of frigates created by humans on the experimental groundwork of past years. Excellent for fast space raids, escorts or assaulting ground structures. After release it was stolen by the pelengs.</color>
-73	<color=248,252,248>The ship's additional properties refuse to work under the control of anyone other than</color> Humans and Pelengs<color=248,252,248>.</color>
+73	<color=248,252,248>The ship's additional properties refuse to work under the control of anyone other than</color> Humans and pelengs<color=248,252,248>.</color>
 74	Sharklet II
 75	Sharklet III
 76	Shegramer

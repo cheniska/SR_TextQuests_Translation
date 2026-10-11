@@ -11,7 +11,7 @@
 1416	It's your call, of course, boss, but you'd better not let it slide. Otherwise you could kick the bucket.
 1417	Another time, then. This stimulant isn't quite stable yet anyway. And we haven't identified all the side effects yet...
 1418	The <clr>"Expirin"<clrEnd> stimulant is the last word in optimizing brain neuron activity. Its main effect is an overall improvement in memory and learning ability of the user.
-1419	And in plain terms, you'll gain <clr><Percent>%<clrEnd> more experience for any of your actions. The stimulant lasts <Duration> months. It can be taken no more than once <clr>a year<clrEnd>, otherwise you'll turn into a talking machine, and we don't need a home-grown Dominator in the boss's chair. The synthesis cost of one dose, by the way, is quite high - <Cost> cr., but we can't cut costs any further - it's unsafe.
+1419	And in plain terms, you'll gain <clr><Percent>%<clrEnd> more experience for any of your actions. The stimulant lasts <Duration> months. It can be taken no more than once <clr>a year<clrEnd>, otherwise you'll turn into a talking machine, and we don't need a home-grown dominator in the boss's chair. The synthesis cost of one dose, by the way, is quite high - <Cost> cr., but we can't cut costs any further - it's unsafe.
 1420	No, boss, sorry, but it's too early for you to take a new dose. Less than a <clr>year<clrEnd> has passed since the previous stimulant, and if you take <clr>"Expirin"<clrEnd> more often, the excess load on the brain could lead to irreversible mass degradation of neurons.
 1421	Sorry, boss, but you're already overloaded with various substances like <clr>Oogi-zborn<clrEnd>. A little more and you'll turn into a walking stimulant yourself, and we need you more in the role of chief.
 1422	Done. The <clr>"Expirin"<clrEnd> stimulant has been successfully injected into your body, how do you feel? Headache? Any zeros and ones before your eyes? Great, so these side effects no longer show up. But if you suddenly feel something wrong - tell me right away.
@@ -110,7 +110,7 @@
 1515	According to our engineers' calculations, the cost of upgrading the <EqName> will be <Cost> cr.
 1516	The price is high, of course, but that's all because of the extremely costly processing of fragilium. You don't think, boss, that I'm trying to make a buck off you right now? Well, maybe just enough for a little can of "Makhpella".
 1517	Okay, boss, wait a couple of minutes. Our techies are quick.
-1518	There, all done! Now if an entire Dominator fleet suddenly attacks you, your <EqName> will croak not at once, but only a couple of minutes after the battle begins. Admit it, a great investment?
+1518	There, all done! Now if an entire dominator fleet suddenly attacks you, your <EqName> will croak not at once, but only a couple of minutes after the battle begins. Admit it, a great investment?
 1519	So what do you want to upgrade, boss?
 1520	By the way, our technicians report that they've already combed through your whole ship but found no devices suitable for the upgrade.
 1521	Ehh, you're wrong, boss. In these difficult times you can't have too much reliability, but, as they say, it's your business.
@@ -135,6 +135,6 @@
 1540	Damn, looks like <clr>Grorbab<clrEnd> skimped on soundproofing again. Never mind, boss, if he doesn't patch the hole in the bulkheads in a couple of days, it'll be his skull that gets patched. Ah, you meant where the noise comes from? From our shipyard. Didn't I tell you?
 1541	Anyway, I proudly present to you our very own shipyard! In size and capacity it can't compare with a planetary one, of course, but its output is quite enough to cover our modest need for new specialized hulls.
 1542	By the way, in the very near future we plan to replace all outdated hull models with a new, unique ship of our own design - the <clr>"Star Stingray"<clrEnd>. The new hull's distinguishing features will be high maneuverability and long-lasting inertial thrust, thanks to which it will reach impressive speed, surpassing by a full faeyan head the capabilities of all other ships of its class. By the way, a prototype has already been delivered to your warehouse, so you can try this bird out yourself at any time.
-1543	Ah yes, and I almost forgot! If we prove our fierce devotion to the cause of the <clr>Coalition<clrEnd> or the <clr>pirate clan<clrEnd>, we can obtain a limited license to produce our own <clr>tranclucators<clrEnd>. The pleasure won't be cheap, of course, but you can't have too many robots around the place, right? Unless they're Dominators, heh-heh.
+1543	Ah yes, and I almost forgot! If we prove our fierce devotion to the cause of the <clr>Coalition<clrEnd> or the <clr>pirate clan<clrEnd>, we can obtain a limited license to produce our own <clr>tranclucators<clrEnd>. The pleasure won't be cheap, of course, but you can't have too many robots around the place, right? Unless they're dominators, heh-heh.
 1544	True, there are no <clr>special projects<clrEnd> for construction at the moment, but if any show up, we'll be ready to build at your first word.
 1545	Order ship construction

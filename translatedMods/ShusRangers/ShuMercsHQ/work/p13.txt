@@ -42,8 +42,8 @@
 1177	Pleasure doing business with you [<color=0,50,200>pay</color>]
 1178	What was that, Ranger <Player>? Did I hear that right? You want me to issue you a permit to build an armed station that will answer to no government, where criminals can hide, and that will loom as a constant threat over our security? Perhaps I should also hand you the keys to the apartment where the money is kept?
 1179	So know this, <Player>, I will not issue you any permit. At least until I see a benefit in it for mys... ahem, I mean for <color=0,50,200>our people</color>.
-1180	In case of a Dominator invasion, I am ready to provide additional protection for the system. By helping me today you ensure your security for years ahead.
-1181	For such purposes we have our own armed fleet. And it's more likely that the system will need protecting not from the Dominators, but from your rampaging fighters, so no, thank you, <Player>, but we don't need extra headaches.
+1180	In case of a dominator invasion, I am ready to provide additional protection for the system. By helping me today you ensure your security for years ahead.
+1181	For such purposes we have our own armed fleet. And it's more likely that the system will need protecting not from the dominators, but from your rampaging fighters, so no, thank you, <Player>, but we don't need extra headaches.
 1182	Do you have any other questions?
 1183	Hm, and indeed, there is common sense in your words. I think my superiors won't mind if I issue you such a permit. Security is worth a lot these days.
 1184	Thank you for your cooperation
@@ -102,7 +102,7 @@
 1237	You chose the <Star> system as the location of your future HQ and have already collected all the necessary papers and signatures. You can safely head to the <clr>Mercenary Center<clrEnd> to finish the last preparations.
 1238	<color=255,240,100>Creating your own mercenary organization</color>
 1239	You want to found your own military organization, Ranger <Player>? Well, I never... And I still remember how you listened to the welcome speech for recruits not long ago.
-1240	Well, I have nothing against it. Right now any help in the fight against the Dominators is welcome, so we'll skip the formalities. Here's your permit, <Player>. We believe you will help the Coalition win in this hard time for the Galaxy. Don't let us down!
+1240	Well, I have nothing against it. Right now any help in the fight against the dominators is welcome, so we'll skip the formalities. Here's your permit, <Player>. We believe you will help the Coalition win in this hard time for the Galaxy. Don't let us down!
 1241	Enter a name:
 1242	Rumor has reached us that your organization's HQ was destroyed. For a certain fee we could help you with its restoration.
 1243	According to clause <color=0,50,200>5</color> of paragraph <color=0,50,200>37</color> of the <color=0,50,200>"On the Security of the Coalition"</color> law, forming any military organizations is prohibited except those directly or indirectly subordinate to the Coalition military command.
@@ -114,7 +114,7 @@
 1249	Well, since I'm not breaking the law, here's your permit. Good luck, <Player>, and I think I'll go to the bar to take some memory tincture.
 1250	I hope this is enough to refresh your memory [<color=0,50,200>pay</color>]
 1251	I won't argue, the situation on the fronts is far from the best, but still we aren't so desperate as to hand out such permits left and right, thereby nurturing a potential threat from within. The request is denied, <Player>.
-1252	I will do everything in my power to help the Coalition's fight against the Dominators
+1252	I will do everything in my power to help the Coalition's fight against the dominators
 1253	To my deep regret, I agree with you. Our situation is critical now. A little more, and we'll lose this damn war, which will be the last for the Coalition and all sentient races. So, in view of the circumstances, I'll make an exception. Here's your permit. I hope I'm not mistaken in you.
 1254	I won't let you down
 1255	Just so we don't overpay the dealers. Thanks to our own production, we save about <clr>half<clrEnd> on arming new mercenaries, and the surplus weapons we put up for sale. Though for you, boss, everything in our trade center is always <clr>free<clrEnd>.

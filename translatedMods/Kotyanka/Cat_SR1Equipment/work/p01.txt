@@ -32,7 +32,7 @@
 32	Remastered Droid VIII
 33	Remastered Engine I-VIII
 34	Remastered Engine I
-35	<color=248,252,248>Modern analogues of space engines restored from blueprints of the era of resistance to the Klissan occupation. Mass production of such samples was set up after scientists obtained theoretical calculations proving that, subjected to acryn modernization, such engines would not be inferior to modern ones. The cheapness of manufacture contributed to an economical price, which suits many buyers.</color>
+35	<color=248,252,248>Modern analogues of space engines restored from blueprints of the era of resistance to the klissan occupation. Mass production of such samples was set up after scientists obtained theoretical calculations proving that, subjected to acryn modernization, such engines would not be inferior to modern ones. The cheapness of manufacture contributed to an economical price, which suits many buyers.</color>
 36	Remastered Engine II
 37	Remastered Engine III
 38	Remastered Engine IV

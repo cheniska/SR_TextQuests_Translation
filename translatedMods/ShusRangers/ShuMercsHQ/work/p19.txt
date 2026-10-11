@@ -138,7 +138,7 @@
 1983	We finished assembling the <color=255,240,100>tranclucator</color>, boss. The new mechanical friend is waiting for you in the warehouse with enviable impatience.
 1984	[will become available in <NextProductionDaysLeft> days]
 1985	Project: <clr>Tranclucator<clrEnd>
-1986	Description: A standard tranclucator of the "Dolbobot" class, the kind my great-grandfather already used as autonomous labor. Since the start of Dominator aggression many have looked warily at these "guys", but you can rest easy - their electronic brains are totally unfit for a sudden "machine uprising". They're far too dumb.
+1986	Description: A standard tranclucator of the "Dolbobot" class, the kind my great-grandfather already used as autonomous labor. Since the start of dominator aggression many have looked warily at these "guys", but you can rest easy - their electronic brains are totally unfit for a sudden "machine uprising". They're far too dumb.
 1987	But don't forget that after building such a machine you can order the next one no sooner than <clr>a year later<clrEnd>. Such are the conditions of private licensed production - nothing to be done about it.
 1988	Minimum reputation: <RequiredReputation>
 1989	Tranclucator

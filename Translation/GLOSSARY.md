@@ -7,6 +7,7 @@
 - Расы со строчной (peleng, maloq, faeyan, gaal / gaalian, human, klissan, dominator); заглавная — только в начале фразы и в именах собственных.
 - Имена людей — строгая транслитерация (х→kh, ж→zh, ц→ts, й→y, ё→yo, -ский→-sky); кириллические имена авторов в титрах — транслит в авторском порядке.
 - Американская орфография везде. Токены (`<clr>…<clrEnd>`, `<Player>`, `[var]` и т.п.) — дословно.
+- Расы со строчной ВЕЗДЕ, включая тексты разработчиков (решение 2026-10-11): сверка и правка корпуса — `python3 qglossfix.py scan|fix --mods < /dev/null`.
 - Новое слово: сначала искать в ванильном ланге, затем здесь; добавлять строку в таблицу по алфавиту RU.
 
 | RU | EN | Где |
@@ -92,7 +93,7 @@
 | «Гравикарчик» | "Gravicarlet" | Xenolog |
 | «Гражданская оборона в необычных обстоятельствах» | Unconventional Situations Civil Defense | Election |
 | «Гуано» (ритуальная игра — камень/ножницы/бумага) | "Guano" | Xenolog |
-| «Дети Гаала» | "Children of Gaal" | Amnesia |
+| «Дети Гаала» | "Children of gaal" | Amnesia |
 | «Джампер» | Jumper |  |
 | «Джампер» / «Прыгун» (прыжковый ранец) | "Jumper" |  |
 | «Джамперметр» | Jumpmeter |  |
@@ -147,9 +148,9 @@
 | «малыш» (прозвище батискафа) | "Kid" |  |
 | «Мама мыла раму» (букварь) | "See Spot run" | Xenolog |
 | «Марсианский Скорпион» | "Martian Scorpion" | Domoclan |
-| «Матрица-49: Нео и доминаторы» | "Matrix-49: Neo and Dominators" |  |
+| «Матрица-49: Нео и доминаторы» | "Matrix-49: Neo and dominators" |  |
 | «На'а-Ви - чемпионы!» | "Na'a-Vi are the champions!" | Kidnapped |
-| «Наглый малок» | "A bold Maloq" | Olympiada |
+| «Наглый малок» | "A bold maloq" | Olympiada |
 | «Не наем / Наем пароль» (искаж. «не знаем / знаем») | "Don't kno" / "Kno the password" | Domoclan |
 | «Неверворк» (геймерский комплект) | Neverwork | Cybersport |
 | «Незапланированные и утомительные приключения вольного торговца Дрейка» | "The Unplanned and Laborious Adventures of Drake the Free Trader" |  |
@@ -202,7 +203,7 @@
 | «С. Лем. Рассказы» | "S. Lem. Stories" |  |
 | «Самогап» | "Moonstill" | GS |
 | «Санлео» | Sanleo |  |
-| «Сбей доминатора» | "Shoot Down the Dominator" | Massacri |
+| «Сбей доминатора» | "Shoot Down the dominator" | Massacri |
 | «Сварококс» (малокское народное лекарство от ожогов бластером) | "Swarokox" | GS |
 | «Светофор для дальтоников» | "Traffic light for daltonians" |  |
 | «Свомперы» | the "Swompers" | Complex |
@@ -703,7 +704,7 @@
 | гаалец Нааклю Ко (биограф Кацапа) | Naaklyu Ko | Piratesnest |
 | гаалец Олтоан | Oltoan | Gluki |
 | Гаалистра времени | Gaalian Alacrity |  |
-| гаальская мафия | the Gaalian mafia |  |
+| гаальская мафия | the gaalian mafia |  |
 | гаальская фабрика «Грин Пиис» | Greenpeace | Amnesia |
 | гаальские силы безопасности | Gaalian security forces |  |
 | гаальские философы Пи-Фига Гоор | Peehee-Phiga-Gohor |  |
@@ -1422,7 +1423,7 @@
 | Клинт Блинтон | Klint Blinton | Lo |
 | клисане | klissans |  |
 | Клисанин | Klissan |  |
-| Клисанская война | the Klissan war |  |
+| Клисанская война | the klissan war |  |
 | клисанские корабли Мутёнок | Mutenoc | Megatest |
 | клисанский прото-шпок | Klissan proto-shpock |  |
 | клички: Лохнесс | Loch Ness | Piratesnest |
@@ -1472,7 +1473,7 @@
 | Комер Сан | Komer San | Piratesnest |
 | комиссия (приёмочная) | the commission |  |
 | Комитет Галактической Безопасности (КГБ) | Committee of Galactic Security (CGS) | GS |
-| Комитет Защитников и Полузащитников Прав Людей и Других Млекопитающих | Committee of Defenders and Midfielders of the Rights of Humans and Other Mammals | Rvk |
+| Комитет Защитников и Полузащитников Прав Людей и Других Млекопитающих | Committee of Defenders and Midfielders of the Rights of humans and Other Mammals | Rvk |
 | коммандо | commando | Easywork |
 | комната отдыха | lounge | Complex |
 | комнаты отдыха | rec rooms | Evilgenius |
@@ -1886,7 +1887,7 @@
 | наживка: пиявки | bait: leeches |  |
 | Налет бомбардировщиков | Bomber Raid | Citadels |
 | налог на беременность | pregnancy tax |  |
-| налог на борьбу с доминаторами | tax for maintaining the struggle with the Dominators |  |
+| налог на борьбу с доминаторами | tax for maintaining the struggle with the dominators |  |
 | Нан | Nan | Kotyanka/Cat_DesignDepartment |
 | нанитоды | nanitoids | GS |
 | наноботы | nanobots |  |
@@ -2009,7 +2010,7 @@
 | особая | special | Colonization |
 | Остров Джунглей | Island of Jungles | Tourists |
 | Остров Желтых песков | Island of Yellow Sands | Tourists |
-| остров имени Короля Клисан (шутка: у клисан не было короля) | the island named after the King of the Klissans | Tourists |
+| остров имени Короля Клисан (шутка: у клисан не было короля) | the island named after the King of the klissans | Tourists |
 | Остров имени Махпеллы | Makhpella Island | Tourists |
 | остров Уравшал | Uravshal island | Vulkan |
 | ОСЭБ (Отряд Сопротивления Экспансии Ботов) | BERS (Bot Expansion Resistance Squad) | Proprolog |
@@ -2717,7 +2718,7 @@
 | сурововец | Grimite | Forum |
 | Суровый (малок, торговец оружием) | Grim | Forum |
 | Суэдэ Сан | Suede San | Gladiator |
-| Сын Гаала | a Son of Gaal | Doomino |
+| Сын Гаала | a Son of gaal | Doomino |
 | сыновья: Анусптис | Anusptis | Pharaon |
 | сюрреализм | Surrealism |  |
 | таблица Квазиса | Kvazis's table | Xenolog |

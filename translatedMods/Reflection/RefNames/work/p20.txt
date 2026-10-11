@@ -31,7 +31,7 @@
 1404	A small ship of a volunteer in conflict resolution with excellent equipment and a small remainder of money in the account. Relations with other races are warm.
 1405	An excellent trade ship. Hostile relations with the maloqs because of confiscations of jewelry made of precious metals. Part of the goods was saved.
 1406	Poor attitude from all races. A slow, weakly protected ship equipped with a droid and an excellent gripper for hauling looted goods aboard. A small stock of alcohol, stolen from under the noses of competitors, is kept in the warehouse.
-1407	A large maneuverable ship for long-distance flights with outdated equipment. Terrible relations with the maloqs, pelengs and faeyans. Only at home do they hope that Gaal's son will come to his senses after all and return to the path of Harmony.
+1407	A large maneuverable ship for long-distance flights with outdated equipment. Terrible relations with the maloqs, pelengs and faeyans. Only at home do they hope that gaal's son will come to his senses after all and return to the path of Harmony.
 1408	Poor relations with the faeyans and gaals, which arose from carrying out special operations of the maloq government. A standard ship with good weaponry. Almost no money in the account.
 1409	Excellent relations with pelengs and humans. A ship with ideal weaponry. Wanted on the planets of the gaals and faeyans for carrying out contracts to liquidate their special agents.
 1410	A large, solid hull. Equipment outdated but in working order. Good reputation on all planets. Financial condition average, since representatives of other races often outwit the maloq in trade deals.

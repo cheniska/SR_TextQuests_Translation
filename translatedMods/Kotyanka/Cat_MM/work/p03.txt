@@ -22,7 +22,7 @@
 152	Missile speed increase: <clr>+1500<clrEnd> units
 153	Equipment durability: <clr>-20%<clrEnd>
 154	Krazergen
-155	An absolutely new line of <clr>Dominator<clrEnd> micromodules, incompatible with any other equipment. Upgrades acryn equipment to the theoretical maximum with no regard for the resulting size and cost. Luckily, the Dominators have not studied acrynation very well.
+155	An absolutely new line of <clr>Dominator<clrEnd> micromodules, incompatible with any other equipment. Upgrades acryn equipment to the theoretical maximum with no regard for the resulting size and cost. Luckily, the dominators have not studied acrynation very well.
 156	Equipment durability: <clr>+10%<clrEnd>
 157	Gibyakhner
 158	An absolutely new line of <clr>Dominator<clrEnd> micromodules, incompatible with any other equipment. Despite the good characteristics, the rarity of the materials, the amount of space required and the overload of all the power circuits of the <clr>field generator<clrEnd> mean that in most cases the AI does not consider installing this micromodule worthwhile.
@@ -35,7 +35,7 @@
 165	An absolutely new line of <clr>Dominator<clrEnd> micromodules, incompatible with any other equipment. It was determined experimentally to contain an advanced AI for the <clr>Dianode<clrEnd>, but is very rarely found installed. Researchers jokingly suggest that the AI is too smart and does not want to take part in combat.
 166	Equipment cost: <clr>+50%<clrEnd>
 167	Sushchornets
-168	An absolutely new line of <clr>Dominator<clrEnd> micromodules, incompatible with any other equipment. It can be found only after Dominator battles with well-protected ships. Contains an additional power channel for the <clr>Tech Detector<clrEnd>, but obviously the latter cannot withstand the high-current load for long.
+168	An absolutely new line of <clr>Dominator<clrEnd> micromodules, incompatible with any other equipment. It can be found only after dominator battles with well-protected ships. Contains an additional power channel for the <clr>Tech Detector<clrEnd>, but obviously the latter cannot withstand the high-current load for long.
 169	Rubershlyats
 170	An absolutely new line of <clr>Dominator<clrEnd> micromodules, incompatible with any other equipment. Considered a modification of the Coalition micromodule Minivision, but it has no backward compatibility.
 171	Ergurkun
@@ -45,12 +45,12 @@
 175	An absolutely new line of <clr>Dominator<clrEnd> micromodules, incompatible with any other equipment. A modification of the <clr>Torsion Reactor<clrEnd> intended for assault tasks. The first specimens were fished out after a battleship cleared a system where several Rangers aboard "Swift" ships had gone missing.
 176	Equipment durability: <clr>-80%<clrEnd>
 177	Tanshyanyur
-178	An absolutely new line of <clr>Dominator<clrEnd> micromodules, incompatible with any other equipment. Uses a huge amount of cheap asteroid material to modify the <clr>Stackbarrel<clrEnd>. Considered an attempt by the Dominators to create a separate series of ships, in this case for transporting fuel. The strength of the recycled material remains a mystery to scientists even today.
+178	An absolutely new line of <clr>Dominator<clrEnd> micromodules, incompatible with any other equipment. Uses a huge amount of cheap asteroid material to modify the <clr>Stackbarrel<clrEnd>. Considered an attempt by the dominators to create a separate series of ships, in this case for transporting fuel. The strength of the recycled material remains a mystery to scientists even today.
 179	Equipment cost: <clr>-80%<clrEnd>
 180	Equipment durability: <clr>+600%<clrEnd>
 181	Size: <clr>+350%<clrEnd>
 182	Bzhenchishchikevich
-183	An absolutely new line of <clr>Dominator<clrEnd> micromodules, incompatible with any other equipment. The only encounter with an "Urgant"-class Dominator with this micromodule in its <clr>hull<clrEnd> ended in tragedy for the human battleship Mars-19. The belated Rangers managed to finish off the Dominator with a quark bomb and missiles, but the flagship of the commander, whose name the micromodule bears, could no longer be saved.
+183	An absolutely new line of <clr>Dominator<clrEnd> micromodules, incompatible with any other equipment. The only encounter with an "Urgant"-class dominator with this micromodule in its <clr>hull<clrEnd> ended in tragedy for the human battleship Mars-19. The belated Rangers managed to finish off the dominator with a quark bomb and missiles, but the flagship of the commander, whose name the micromodule bears, could no longer be saved.
 184	Hull size: <clr>+100%<clrEnd>
 185	Hull susceptibility: <clr>-30%<clrEnd>
 186	Hull cost: <clr>+1000%<clrEnd>

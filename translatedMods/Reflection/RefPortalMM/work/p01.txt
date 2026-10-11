@@ -2,7 +2,7 @@
 2	Module
 3	A unique <clr>micromodule<clrEnd>. According to legend, the greatest pilot Rangandryn defeated several hundred faeyans and little humans who had treacherously attacked him, and assembled this unique booster from the wreckage of enemy equipment. Alas, it was lost just as long ago. The micromodule cannot provide any information about its principle of operation for objective reasons.
 4	Bekasse
-5	An old find of <clr>Keller<clrEnd> in <clr>deep space<clrEnd>. And the first object of his experiments. Having studied the set of information contained in the object, Keller turned it into a <clr>micromodule<clrEnd> - quite a good one for travel in open space. True, Keller grew bored of it, and the object went wandering the expanses of the Galaxy again. The information output system was hopelessly dismantled by the Dominator.
+5	An old find of <clr>Keller<clrEnd> in <clr>deep space<clrEnd>. And the first object of his experiments. Having studied the set of information contained in the object, Keller turned it into a <clr>micromodule<clrEnd> - quite a good one for travel in open space. True, Keller grew bored of it, and the object went wandering the expanses of the Galaxy again. The information output system was hopelessly dismantled by the dominator.
 6	Viksher
 7	After meeting humans, the gaals drew quite a lot from their culture for the development of their philosophy. For example, Vaan'Jar, the "pilgrimage into the world," one of the stages of growing up for a gaal, during which the humanoid visits various planets in search of the harmony of the cosmos. This <clr>micromodule<clrEnd> was developed to help such pilgrims, but for some reason it never reached consumers. Output of information on the properties of the module is not provided.
 8	Shervi
