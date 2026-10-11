@@ -1,0 +1,55 @@
+1	Industrial Laser Drill
+2	Annihilation Subatomic Gun
+3	"Disintegrator"-class Annihilation Gun
+4	"Turbogravitron"-class Cascade Energy Weapon
+5	Molecular Chaotic Deviation Emitter
+6	"Vertix" Space Manipulator
+7	Torpedo Launch Complex
+8	"Esodapher" Launch Complex
+9	"Caphasitor" Electron-Ion Gun
+10	"Lirecron" MLRS
+11	Cannon
+12	Army Unified Anti-Aircraft Beam Complex
+13	"Hairpin" MLRS
+14	"Treton" Gravitational Retractor
+15	"Tapeworm" Wave Phaser Emitter
+16	Stream Grapeshot Gun
+17	Electromagnetic Field Inductor
+18	Structural Multiphase Resonator
+19	"Object 6174" Heavy Artillery Gun
+20	Searchlight-Type Cryogenic Gun
+21	Fragmentation Gun with a Rotating Barrel Block
+22	Revolver-Type Torpedo Tube
+23	Directed Energy Jammer
+24	"MaBoKiT-79" Electromagnetic Salvo System
+25	"Mauler" Series Fragmentation Artillery Gun
+26	Meon Plasma Sprayer
+27	"Needle" Missile Complex
+28	Salvo-Type Plasma Gun
+29	"Executioner"-class Automatic Gun
+30	Photon Gun, Model M4
+31	Photon Gun, Model M3
+32	Photon Gun, Model M2
+33	Pulse Energy Gun, Model R21
+34	Pulse Energy Gun, Model R20
+35	Resonating Phaser
+36	Pulse Electromagnetic Defibrillator
+37	A mineral-mining laser drill rig for asteroids. It was slightly modified to combat weapon standards. Owing to its original purpose, it is limited in range and power. Deals damage with a beam of coherent light radiation ranging from <MinDamage> to <MaxDamage><Bonus> within a radius of <Radius> million km.
+38	Attacks the target with a remotely activated antimatter energy projectile. Upon detonation, the projectile's magnetic traps shut off and the antimatter comes into contact with the target's matter, provoking its explosive annihilation with the incidental formation of an energy field that deals <MinDamage>-<MaxDamage><Bonus> damage. Owing to the imperfection of the antimatter stabilization system, firing range is limited to <Radius> million km. In addition, it ionizes and corrodes the hull plating, and also heavily destroys equipment, and the droid especially.
+39	Generates a focused beam of ultrashort gamma pulses tuned to an energy sufficient to instantly ionize the atoms in the target's surface layer. This causes a Coulomb explosion: positively charged ions repel one another with a force exceeding the strength of intermolecular and chemical bonds. As a result, the hull material loses cohesion and crumbles into nanoparticles, which is expressed as <MinDamage>-<MaxDamage><Bonus> damage. Thanks to coherent focusing in the vacuum of space, the effective range reaches <Radius> million km.
+40	A gravity-pulse gun that generates focused regions of spacetime curvature. At a range of up to <Radius> million km, these gravir pulses cause tidal vortices that destroy the target's structure, dealing <MinDamage> to <MaxDamage><Bonus> damage. When the target is destroyed, the residual metric distortions receive additional energy from the resulting vacuum, collapse and generate a secondary gravir pulse. This phenomenon, called "cascade turbogravir radiation," can be relayed to nearby physical objects, dealing them scalable damage proportional to the mass of the destroyed ship.
+41	The IMHO is the result of experiments conducted by Terron on assimilating the relatively intact wreckage of klissans into ancient prototypes of Coalition weapons that were discovered. The HIMO core manipulates quantum fields, creating miniature regions of Planck pressure in which elementary particles lose their bonds and are compressed into a monocrystal. Five collider units accelerate the monocrystals, knocking out almost all particles from them in the process except negatively charged leptons. What emerges from the colliders is an unstable muonic substance with a very fragile, openwork structure, capable of dealing damage to the target ranging from <MinDamage> to <MaxDamage><Bonus> damage. When the structure ruptures, the projectile scatters into many fragments which, owing to their microscopic size, can not only damage the large ships surrounding the target but also pass through the molecular lattices of certain substances, reaching the interiors and equipment of ships. The instability of the muonic substance limits the effective firing range to a radius of <Radius> million km, and the enormous power plant makes it possible to install the HIMO only on cruiser-class ships.
+42	The "Vertix" was born from Keller's experiments on manipulating hyperspace bubbles. As a result of an overload of a hypergenerator operating at low frequencies, instead of a breach in the space metric, a gravitational vortex forms, causing destructive resonance of matter within a radius of <Radius> million km. The gun is equipped with a damper that suppresses the destructive oscillations of the carrier ship, but all enemies at effective combat range will take from <MinDamage> to <MaxDamage><Bonus> damage. Unfortunately, the oscillation energy required to break molecular bonds depends directly on the size of the target, so the "Vertix" cannot work on both ships and rocket projectiles at the same time.
+43	Once a ground-to-space ballistic launch complex designed to defend planetary space after the war with the klissans. The design was deemed ineffective, and the blueprints and prototypes were lost. The technology, discovered by the "Blazer" series, got a new lease on life as a powerful space-to-space missile-torpedo launcher, and is currently the most advanced single-launch weapon with autopilot systems in every torpedo, inspiring terror in those at whom the projectiles' lenses are aimed. The antimatter-filled warheads create a huge explosion that deals damage ranging from <MinDamage> to <MaxDamage><Bonus> to the target and nearby objects. The flight range of the missile-torpedoes is incredible, but one has to pay for such an amount of fuel substance: the missile pack in the launcher is severely limited. Projectiles:  <Count>/<MaxCount> pcs.
+44	A nanotech gun that fires a clump of programmable nanomachines to a distance of up to <Radius> million km. On contact, the nanites activate and begin atomic disintegration of the target's surface, dealing <MaxDamage><Bonus> damage and weakening armor. To prevent uncontrolled replication or side effects, the nanites operate within a strictly limited time window and automatically self-destruct after completing their task.
+45	A mass-produced gun that fires a salvo of small fragmentation projectiles at the target. A single salvo's damage ranges from <MinDamage> to <MaxDamage><Bonus>. Owing to the primitive design, the projectiles have a wide spread, which limits the firing range to <Radius> million km.
+46	The Flux was developed as an anti-aircraft gun with the latest automatic computation systems. During combat trials it turned out that the complex's power, in the form of damage from <MinDamage> to <MaxDamage><Bonus>, exceeds the requirements for defensive systems, and the gun was reclassified as artillery, without changing the name owing to bureaucratic difficulties. Thanks to the colossal energy saturation of the unit, the gun systems can operate effectively at distances of up to <Radius> million km.
+47	A launcher equipped with blocks of homing missiles. Fires a salvo of <CntShots> rocket projectiles with primitive artificial intelligence capable of pursuing the target automatically. Upon impact, each projectile deals damage from <MinDamage> to <MaxDamage><Bonus>.
+48	Originally a purely peaceful loading unit, the "Treton" won recognition among pilots as a combat system. The "Treton" uses gravitational radiation, slowing the target and tearing off chunks of its hull for <MinDamage> to <MaxDamage><Bonus> damage, and partially transfers them to the carrier's hull, thereby replenishing lost structure. The range of the gravibeam is limited - only <Radius> million km.
+49	The gun emits a stream of radiation with deliberately reduced energy saturation. As a result, the "tapeworm" charge absorbs part of the target's reactor energy and is re-emitted up to twice within the unit's zone of effect, equal to <Radius> million km, distributing damage of <MinDamage> to <MaxDamage><Bonus> among all affected ships. When there are no targets for re-emission, the charge loses stability and deals increased damage.
+50	An advanced grapeshot gun with a huge rate of fire and an increased number of projectiles per salvo, resulting in enormous damage values ranging from <MinDamage> to <MaxDamage><Bonus>. Thanks to its high build quality, it has excellent accuracy and can fire within a radius of <Radius> million km.
+51	Using the latest data on the properties of quantum particles, this gun can excite local magnetic and electric fields at an enormous distance of <Radius> million km, damaging all power circuits on the target ship and inflicting physical damage to the structure of materials amounting to <MinDamage> to <MaxDamage><Bonus>.
+52	A gun operating on the principles of coherent mechanical resonance. It fires a vibro-projectile that on impact causes catastrophic oscillations in the target's materials, dealing <MinDamage>-<MaxDamage><Bonus> damage. Owing to the damping of the oscillations, range is limited to <Radius> million km.
+53	Destroyed "Physgun"-class Directed Gravitational Anomaly Generator
+54	"Physgun"-class Directed Gravitational Anomaly Generator
+55	Untested "Physgun"-class Directed Gravitational Anomaly Generator

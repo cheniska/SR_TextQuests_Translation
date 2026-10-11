@@ -1,0 +1,40 @@
+1	W-w-well, all right
+2	Well then, all right, I'll give it a try
+3	No-no-no, ranger! I have to get to work. And you should go to work too.
+4	Ah, ranger, you know how precious moments like this are? When you can finally relax, forget about business, and sit with a cup of good coffee.<br><br><0><br><br>Ah... Oh, ranger! I've lingered with you too long. Time for me to work, alas. And for you too, I think. The Galaxy won't save itself.
+5	Let's be honest, who hasn't wanted to spend a couple of minutes in good company? And work... Work can wait!
+6	Fine, then
+7	Pity. It was nice chatting.
+8	Of course, ranger! Drink as much as your heart desires. And be sure to look through the price list! You won't find such prices for such services anywhere else in the Galaxy!
+9	Thank you!
+10	Maybe a cup of coffee after all?
+11	Yes, ranger, coffee!<br>A wonderful drink from the planet <clr>Earth<clrEnd>!<br>And what's most amazing, it affects each of the races differently, but is harmless to any humanoid of our Arm.<br><br>If you like, we can pour you a mug to try. Only 125 cr.!
+12	Coffee?
+13	By the way, we have coffee, if you want it. Many people ask.
+14	The Coalition, of course, brought us a lot of good. But under the Clan we're doing fine too. No restrictions, complete freedom... True, everyone holds on to their positions very tightly. Do you know why?
+15	The new order is quite unfamiliar to us. All this debauchery and instability, constant robberies and lawlessness... Sociologists, however, claim that soon the pirate Clan will be reborn as a replacement for the Coalition - perhaps a much more criminal one, but still a replacement in the sense of an analogue.
+16	If you're interested, ranger, very few on our planet seriously support the rule of the pirate Clan. The marginals, of course, are doing well, but law-abiding citizens would like to return to the more or less stable order of the Coalition.
+17	We are one of the leading economies of the sector. One can't help being proud of that, but one also has to behave accordingly. Besides, representatives of other sectors, and even Coalition government missions, turn to us!
+18	Our planet is currently going through a stage of economic reorientation. The expansion of the service sector has made itself felt, and now the government is taking measures to create an industrial core that would let us maneuver calmly in dealings with the manufacturing giants... Constantly signing and re-signing contracts, addresses to the people, forming new programs.. Very tiring.
+19	We are the food suppliers for half the sector! It's unthinkable - one planet produces enough resources to feed ten! Billions of humanoids! That is admirable, in my opinion.
+20	You felt relief. It seems your abstinence from caffeine has borne fruit, and now you can go on plowing the vastness of space!
+21	So... Let me explain in order.<br>On the whole, the main effect of coffee - vigor of spirit and mind - has remained for all races. It's just that, so to speak, the organisms of each race interpreted this effect in their own way.<br>For <clr>maloqs<clrEnd>, for example, vigor of mind is strongest, so they start handling technology better, for instance. For <clr>pelengs<clrEnd>, their usual kleptomania begins to be accompanied by a refusal to take excessive risks.<br><clr>Humans<clrEnd> feel a surge of strength to lead others. <clr>Faeyans<clrEnd> become slightly more warlike, and <clr>gaals<clrEnd>... For them it's something like a mild drug, and something happens that is quite incomprehensible to our science.
+22	You woke up, but something was off... Your actions lack their former energy. It looks like the coffee has worn off.
+23	You felt relief. It seems this dose of caffeine was enough. The question is - for how long?
+24	You rangers have it good. You fly around space. The military protects you, more or less, from the dominators. You carry out assignments from officials, trade, earn money. And how many representatives of all races work to support you! It's terrible even to imagine...
+25	The achievements of socialism - equality of all citizens before the law, equality of all citizens in rights, equality of opportunity for all citizens. We are glad that many planets of the galaxy have picked up this impulse.
+26	Parliament, democracy - the beacons of our society's development. Only this way can citizens express themselves and their vision of how the organs of our planet are structured and function. We can't imagine how one could live without it!
+27	A culture of shaping leaders from birth, specially intended to serve their Fatherland, is the best model of society. In gratitude for their great labors, the rulers receive palaces and gardens for their use, and... What's so wrong with that?
+28	Our Supreme Commander-in-Chief is the wisest leader! Under his rule, life on the planet has become safer, all pirates have been driven out of space, and the quality of life of citizens has become many times higher! How can we listen to the slander of aliens who say our leader is a scoundrel and a tyrant?!
+29	Anarchy is the most natural form of social organization, ranger. No oppression or exploitation of citizen by citizen. Everyone self-organizes, all goods are distributed among everyone who needs them. A true paradise!
+30	Take a sip, inhale the aroma...<br><br>Well, do you feel the vigor of spirit and all-pervading energy filling you? No?<br><br>Well, no problem. Shoot down a couple of pirates in orbit, maybe that will help. And I have to get to work.
+31	What coffee, ranger?! Your eye is twitching! Go on, off you go and shoot down some pirates, maybe it will pass.
+32	Well, let's do it
+33	No, I think I'll be going
+34	Tell me about the effect of coffee on the races of the Coalition
+35	All right, I'll go shoot some down
+36	Flag info item
+37	Excessive consumption of coffee, a natural source of caffeine, has led to dependence on caffeine itself. The patient's condition is characterized by apathy, depression and loss of strength, as well as a desire to find and drink several cups of coffee. After taking a dose of caffeine, the patient returns to a relatively normal state.
+38	Coffee Dependence
+39	The coffee has clearly invigorated you! You feel much better.
+40	Vigor
