@@ -1,0 +1,86 @@
+110	Deals <MinDamage>-<MaxDamage><Bonus> units of damage within a radius of <Radius>, striking the target with transformed protoplasm clots that corrode any armor. The ship's hold is especially vulnerable to their effect.
+111	Hits the target with homing clots of energy whose emission signature is similar to the not fully studied waves of the Absolute Matrix but which act exclusively on the ship's engine. The projectile deals <MinDamage>-<MaxDamage><Bonus> units of damage within a radius of <Radius> units.<br> Charge: <Count>/<MaxCount> units.
+112	Sprays biologically active spores that deal from <MinDamage> to <MaxDamage><Bonus> units of damage within a radius of <Radius> units.
+113	Hits a small area with spores that disperse billions of aggressive microorganisms, slowing the target and inflicting colossal damage to equipment and damaging the hull plating, dealing <MinDamage>-<MaxDamage><Bonus> units of damage at a range of up to <Radius>. If there are two targets in the affected zone the damage is split between them; if there is only one, it takes additional damage.
+114	<color=93,182,93>Active Bioregenerator</color>
+115	<color=248,252,248>In the course of natural selection this bioregenerator learned to create interference for incoming projectiles. This certainly raises the ship's protection, but there is simply nobody left to repair the hull in the meantime.</color>
+116	<color=248,252,248>An autonomous amoeba-like clot of crystalline protoplasm that repairs damaged areas of the klissan's carapace.</color>
+117	<color=248,252,248>Restores <RecoverHitPoints> units of damaged hull.</color>
+118	<color=93,182,93>Active Plasmathread</color>
+119	<color=248,252,248>The protointelligence of this organelle, which arose through a series of accidents, has begun, alongside its main function, to actively collect parts suitable for restoring the klissan's functionality. Of course, the plasmathread does this even when something worth having needs to be picked up...</color>
+120	<color=248,252,248>A plasma jet of particles with reverse gravity, allowing klissans to collect prey.</color>
+121	<color=248,252,248>Captures objects up to <PickUpSize> units in size at a range of <Radius>.</color>
+122	Alamcell
+123	Nanoinclusion
+124	A klissan nanoinclusion. It builds up an additional protective layer on all the components of any <color=93,182,93>klissan</color> organ, raising its survivability at the expense of working efficiency
+125	Tank capacity: <bonFuel> units
+126	Gripper range: <bonHookRadius> million km
+128	</color><KlissanType> klissan carapace
+129	<color=93,182,93>Wave Asynthesizer with Anomaly Concentrator</color>
+130	<color=248,252,248>A temporal anomaly is a powerful tool for destroying any targets around the carrier ship. But if the wave is concentrated beforehand, its range of propagation drops sharply, yet in return you get a weapon that destroys any defense.</color>
+131	Energy weapon damage: <clr>25<clrEnd> units
+132	Firing range: <clr>-100<clrEnd> million km
+133	<clr>Ignores the target's defense<clrEnd>
+134	<color=248,252,248>Generates an energy wave that deforms molecular structures at a distance not exceeding <Radius> and deals <MinDamage>-<MaxDamage><Bonus> units of damage. A temporal anomaly slows the target and inflicts electromagnetic damage.</color>
+136	A klissan nanoinclusion. When implanted into <color=93,182,93>klissan</color> missile weaponry, it makes spore sacs grow on every projectile released. At the moment of detonation these sacs release active bioelements that increase damage and weaken the target's armor. At the same time, the extra mass carried by the projectiles may affect their ability to maneuver.
+137	Additional effect: <clr>armor weakening<clrEnd>
+138	<color=93,182,93>Protobubble with Additional Glands</color>
+139	<color=248,252,248>By the will of fate this protobubble got additional glands, greatly improving the quality of fuel for gillnozzles and missiles. Alas, the glands themselves took up part of the fuel space.</color>
+140	<color=248,252,248>A container with thick muscular walls that stores fuel for the gillnozzles.</color>
+141	<color=248,252,248>Bubble capacity <Capacity>. Fuel amount <Fuel> units.</color>
+142	Armorer
+143	<color=248,252,248>A klissan nanoinclusion modified by Coalition scientists. It combines a set of modified mutations that improve the work of any defensive system - be it extra cooling of the <clr>shield generator<clrEnd>, shifting the built-up <clr>armor<clrEnd> thickness to the areas of the ship under the fiercest enemy fire, or improved quality of the <clr>droid's<clrEnd> repair gel.</color>
+145	A klissan nanoinclusion. It initiates the growth of a miniature version of the <color=93,182,93>klissan</color> hyperbubble generator, considerably increasing maximum jump range and the survivability of the gillnozzles. The mass of such a growth, however, adversely affects the organ's efficiency in ordinary space.
+148	<color=248,252,248>A klissan nanoinclusion. It enriches the protoplasm supplied to the <clr>gillnozzles<clrEnd>, which has a substantial stimulating effect.</color>
+150	A klissan nanoinclusion. When placed on the carapace of a <color=93,182,93>klissan</color>, it coats it with a layer of fast-hardening regenerating protoplasm.
+151	<color=93,182,93>Cold Bioregenerator</color>
+152	<color=248,252,248>This bioregenerator has acquired the ability to distribute heat over its surface, so it almost always has the ideal temperature for its work and works far better than similar organelles in other klissans.</color>
+153	Dalio
+154	<color=248,252,248>A klissan nanoinclusion. It grows organelles responsible for firing at the expense of the main elements for damaging the target.</color>
+155	Evezia
+156	<color=248,252,248>A klissan nanoinclusion modified by Coalition scientists. It narrows the barrel of <clr>splinter weaponry<clrEnd>, which on the one hand allows it to pierce the target's defense <clr>clean through<clrEnd> at a much greater <clr>range<clrEnd>, but on the other hand <clr>lowers<clrEnd> the weapon's striking power</color>
+157	<clr>The weapon ignores the target's defense<clrEnd>
+158	Roforos
+159	<color=248,252,248>A klissan nanoinclusion modified by Coalition scientists. An anti-gravity anomaly considerably raises speed characteristics - directly in the case of a <clr>hull<clrEnd>, or indirectly in the case of an <clr>engine<clrEnd>.</color>
+161	A klissan nanoinclusion. It is implanted into <color=93,182,93>klissan</color> splinter weaponry and sprays the remains of protocolonies, carried by the fire and detonating on impact with the target.
+162	<color=93,182,93>Sharpened Radiosensors</color>
+163	<color=248,252,248>Intense exposure to relic radiation has stimulated irreversible changes in the work of these radiosensors. Compared to the standard specimen, their electromagnetic background is several times stronger, which improves the klissan's sensitivity but at the same time adversely affects the stability of the shield produced by the <clr>plasmashield<clrEnd>.</color>
+164	<color=248,252,248>A group of organs saturated with electromagnetic receptors, serving the klissan as a living radar.</color>
+165	<color=248,252,248>Allow obtaining information on objects at a distance of up to <Radius> million km.</color>
+166	Khultsiya
+167	A klissan nanoinclusion. It redistributes the mass of the <color=93,182,93>klissan</color> carapace, converting its free cavities into compacted protective elements.
+168	Size: -<clr>33%<clrEnd>
+169	Reliability: <clr>+20%<clrEnd>
+170	<color=93,182,93>Hydromorphed Gillnozzles</color>
+171	<color=248,252,248>It is unknown what energy provoked this process, but these gillnozzles function differently from most standard specimens. It seems that instead of plasma they pump ionized hydrogen through themselves, which also serves as a coolant in the klissan's structure. This provides improved heat removal, which raises the efficiency of the <clr>plasmathread<clrEnd>, <clr>plasmashield<clrEnd> and <clr>energy weapon organelles<clrEnd> but lowers the efficiency of the gillnozzles themselves.</color>
+172	<color=248,252,248>A fragment of a klissan's body with gill slits that push out streams of ionized hydrogen.</color>
+173	<color=248,252,248>Allow speeds of up to <Speed> units and a hyperjump of <Parsec> parsecs.</color>
+174	Hyperacti
+175	A klissan nanoinclusion. It raises the metabolism in any <color=93,182,93>klissan</color> organ, which increases its working speed and very quickly wears it out
+177	<color=93,182,93>Implosive Plasmashield</color>
+178	<color=248,252,248>A standard plasmashield generates a fan of particles outward, but the implosive one turns part of them backward. This feature substantially reduces the protective properties, but the excess plasma accumulating in the organelle can be redirected to raise the efficiency of the gillnozzles or plasmathread.</color>
+179	<color=248,252,248>An ordered fan of plasma particles capable of absorbing part of the energy from external sources.</color>
+180	<color=248,252,248>Neutralizes up to <Percent>% of negative external impact.</color>
+181	<color=93,182,93>Introversive Neuroprobe</color>
+182	<color=248,252,248>This specimen differs strikingly from the base samples. Apparently, during growth an unforeseen error crept into its gene code, and instead of scanning external objects it reoriented itself to checking the klissan's internal structure. This feature makes it practically useless as a scanner, but considerably raises the efficiency of the <clr>bioregenerator<clrEnd>.</color>
+183	<color=248,252,248>A complexly structured organ allowing the scanning of inanimate objects.</color>
+184	<color=248,252,248>Performs a neuroscan of objects with a shield below <Percent>%</color>
+185	Investigo
+186	A klissan nanoinclusion. A special "submutation" of researcher <color=93,182,93>klissans</color>, improving their sensors for studying the environment
+187	Lyzer
+188	<color=248,252,248>A klissan nanoinclusion. It performs additional preparation of the protoplasm entering the <clr>gillnozzles<clrEnd>, which greatly reduces the organ's wear. A side effect is reduced working efficiency on such material.</color>
+189	Reliability: +<clr>100<clrEnd>%
+190	Lamcell
+191	A klissan nanoinclusion. It builds up a small layer of protective coating on all the components of any <color=93,182,93>klissan</color> organ, raising its survivability
+192	Reliability: <clr>+70%<clrEnd>
+193	Letitia
+194	<color=248,252,248>A klissan nanoinclusion modified by Coalition scientists. It builds a colossal mass of superstrong armor on the hull, minimizing incoming damage. Alas, such a "carapace" does not allow the <clr>droid<clrEnd> to work.</color>
+195	Closes the <clr>droid<clrEnd> slot
+196	<color=0,191,255>Eltan Blast</color>
+197	A unique wave asynthesizer of the <clr>makhpella<clrEnd>, dubbed by fighters against the klissans nothing less than </color><color=0,191,255>"Eltan Blast"</color><color=248,252,248>. It strikes terror into anyone who happens to witness its use. Using the unique klissan technology of total annihilation, obtained from data on the provoked Eltan supernova explosion, it inflicts irreparable damage on all nearby targets
+198	<clr>Damages the target's equipment<clrEnd>
+199	<clr>Reduces the target's armor<clrEnd>
+200	<clr>Slows the target<clrEnd>
+201	(to apply the bonus, the scanner power must<br>exceed the target's defense)
+202	</color>Makhpella Carapace
+203	<color=93,182,93>Gravity Collector with Massive Collector</color>
