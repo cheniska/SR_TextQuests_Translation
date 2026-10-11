@@ -1,0 +1,112 @@
+1	Backstory
+2	Scavenger
+3	Distinguished
+4	Privateer
+5	Scout
+6	Recruit
+7	Scientist
+8	Clan Warrior
+9	View backstory summary
+10	Toggle backstory list
+11	Choose the secret agent backstory
+12	Choose the outcast backstory
+13	Choose the scavenger backstory
+14	Choose the archaeologist backstory
+15	Choose the trader backstory
+16	Choose the mercenary backstory
+17	Choose the stalker backstory
+18	Choose the veteran backstory
+19	Choose the diplomat backstory
+20	Choose the distinguished backstory
+21	Choose the privateer backstory
+22	Choose the warrior backstory
+23	Choose the scout backstory
+24	Choose the recruit backstory
+25	Choose the scientist backstory
+26	Choose the courier backstory
+27	Choose the Clan warrior backstory
+28	Choose the pirate backstory
+29	Choose the smuggler backstory
+30	Choose the traitor backstory
+31	Excellent equipment and rewards for operations carried out with distinction. Excellent relations only with humans and faeyan and hatred toward the rest.
+32	A decently equipped ship, average relations with the Galaxy.
+33	Good relations and decent laser weapons. A large transport ship and a large capital.
+34	Good relations with different races, a large capital and a cargo of two reconnaissance probes.
+35	A huge capital, a cargo of luxury goods and fairly good relations, especially with kin.
+36	Absolutely average relations, quite decent equipment, but a large capital.
+37	A cargo of nodes, a large capital and cloaking devices - for finding valuable cargo after battles in dominator systems.
+38	Highly regarded by many races for combat experience. The ship is well equipped, with an extra supply of money for repairs and purchases.
+39	An extremely charismatic representative of their race who brought two more comrades into the ranks of the Ranger Corps. Has poor relations with the "anti-Coalition" races because of this enthusiasm.
+40	An excellent technician who can repair equipment "on the fly". Has nearly complete equipment, except for weapons.
+41	Decent relations and decent equipment for carrying out operations in the interests of the government. Has a large capital.
+42	Excellent equipment and a high rank, as well as good standing throughout the Coalition.
+43	Powerful equipment, normal relations and Black Goo for finding valuables in hyperspace bubbles.
+44	Excellent relations at home and with the faeyan and humans, tolerable with the other races. Poor starting equipment.
+45	Good relations with scientifically advanced races, poor but fully upgraded equipment. Has a scientific degree.
+46	Good relations within the Coalition, good equipment for travel, several unique cargoes left over from previous clients.
+47	Terrible relations with the Coalition, average equipment and a small capital.
+48	A good capital, tolerable relations with different races, but an almost empty ship.
+49	A huge capital and a cargo of weapons, as well as a decently equipped ship. Relations with the races are far from ideal.
+50	Poor but tolerable relations with the different races of the Coalition. A decent capital and strong armament.
+51	Good equipment and rewards for operations carried out with distinction. Good relations only with humans and faeyan.
+52	Decent equipment and a high rank, as well as good standing throughout the Coalition.
+53	A huge capital and a cargo of narcotics, as well as a decently equipped ship. Relations with the races are far from ideal.
+54	A veteran of the Second Klissan War. Has immense experience in combat operations. Receives honors for their service anywhere in the Galaxy. Has an excellently equipped ship and a cargo left over from three hundred years ago.
+55	Decent relations and decent equipment for carrying out operations in the interests of the government. A large capital and a cargo of alcohol.
+56	Decent equipment, normal relations and Black Goo for finding valuables in hyperspace bubbles.
+57	Decent equipment and rewards for operations carried out with distinction. Good relations only with maloqs and pelengs.
+58	Average equipment and a high rank, as well as mediocre standing throughout the Coalition.
+59	Good relations with all races. Poor starting equipment.
+60	Average relations with all races, poor but fully upgraded equipment. Has a scientific degree.
+61	A huge capital and a cargo of luxury goods, as well as a decently equipped ship. Relations with the races are far from ideal.
+62	A decently equipped ship, average relations with the Galaxy, except for the faeyan.
+63	A cargo of nodes, a large capital and cloaking devices - for finding valuable cargo after battles in dominator systems. A well-equipped ship.
+64	A true berserker. Lots of weapons, not the best ones, but tuned by technicians at a science station. There is almost no other equipment, only the bare necessities.
+65	Poor relations, but decent equipment for carrying out operations in the interests of the government. Has a large capital.
+66	Mediocre equipment, normal relations and Black Goo for finding valuables in hyperspace bubbles.
+67	The Tweaks\BlockPirates or Tweaks\RevolutionDelayed mod, which blocks the Clan, is enabled. Disable it to gain access to this backstory.
+68	The required mod Expansion\ExpScienceRanks is not enabled. Enable it to gain access to this backstory.
+69	The required mod Expansion\ExpTraitors is not enabled. Enable it to gain access to this backstory.
+70	The required mod ShusRangers\ShuMercs is not enabled. Enable it to gain access to this backstory.
+71	The required mod ShusRangers\ShuSmugglers is not enabled. Enable it to gain access to this backstory.
+72	Rewards for operations carried out with distinction. Good relations only with pelengs. Poor equipment, except for the engine.
+73	Poor relations within the Coalition, good equipment for travel, several unique cargoes left over from previous clients.
+74	A good capital, poor relations with different races, but an almost empty ship.
+75	A huge capital and a cargo of alcohol, as well as a decently equipped ship. Relations with the races are far from ideal.
+76	A huge capital, a cargo of weapons and fairly good relations, especially with kin.
+77	An extremely charismatic representative of their race who brought two more comrades into the ranks of the Ranger Corps. Average relations.
+78	Superb equipment, artifacts, a colossal capital. Has terrible or poor relations with all races.
+79	Poor relations, but tolerable equipment for carrying out operations in the interests of the government. Has a large capital.
+80	Decent equipment and rewards for operations carried out with distinction. Excellent relations only with gaalians and faeyan and hatred toward the rest.
+81	Poor relations with the Coalition, average equipment and a small capital.
+82	A huge capital and a cargo of luxury goods and stools, as well as a decently equipped ship. Relations with the races are far from ideal.
+83	Has excellent relations, except with the permanently hostile humans. Poor equipment, but has a hypergenerator. A large starting capital.
+84	Top Performer
+85	A series produced in single units to reward top performers in combat and political training.
+86	Universal
+87	A mass-production series of hulls, originally made to order for CAFIC to carry out numerous diplomatic and trade missions.
+88	A series of hulls produced to order for CAFIC to reward pilots with seniority.
+89	Start with the military rank "Cadet" and the acrynic hull "Dumbo"
+90	Start in the Nifigatz system
+91	Start with equipment suitable for shooting down asteroids
+92	Start with several probes
+93	Start with an initial deposit
+94	Start at the Mercenary Center
+95	Start with several cloaking devices in stock
+96	Active ability - actively capturing systems gives the character temporary bonuses
+97	Additional partners at the start of the game and a high starting leadership skill
+98	<color=244,68,68>Maloq</color> - as structure decreases, combat characteristics increase proportionally; <br><color=161,173,19>Peleng</color> - a good starting set and artifacts, but poor relations with all races; <br><color=79,102,240>Human</color> - a constant slow improvement of relations with all races except humans; <br><color=199,100,255>Faeyan</color> - slow auto-repair of equipment; <br><color=255,208,11>Gaalian</color> - good starting skills, but very slow experience gain
+99	Privateer license mechanics - relations with your own race improve when you rob ships of certain other races: maloqs encourage robbing humans and faeyan; pelengs - faeyan and gaalians; humans - maloqs, pelengs and gaalians; faeyan - maloqs and pelengs. For gaalians the target race is dynamic. Joining a clan deprives the player of the privateer license forever.
+100	Start at a military base with the military rank "Pilot"
+101	With a probability analyzer installed, black holes are detected more often.
+102	Increased experience gain in the first 5 years of the game
+103	Start with a scientific rank, at a Science Base
+104	Start on a planet with an active delivery assignment
+105	Start on the Clan's side, at a Dominion
+106	Start on the Clan's side, at a Pirate Base
+107	Start with a smuggler's hull and a small cargo of contraband
+108	Start on the Clan's side
+109	What did you bring, Ranger? Oh! New servers! Wonderful, just what we need! Our capacity is no longer enough to keep Disk-Horde, Infragram, Telegraph and Switch running. User communication is greatly compl... What blocks? Ah, you mean the PCO! A new minister of digital infrastructure recently came to power and immediately carried out reforms. In particular, he completely abolished censorship on the network and renamed the PCO the Planetary Trust Oversight. In short, there are now no blocked resources, and users communicate freely on absolutely any topic. The crime index, of course, rose slightly... Um... By 524 percentage points. But the growth is already slowing, and we expect it to drop to 12 percentage points a month in just ten years! The main thing is that ordinary galanet users are incredibly happy! Don't worry, your reward awaits. You may go, and thank you once again.
+110	Ranger, we have a special assignment just for you. Right now we need to deliver an important device to the planet <ToPlanet> in the <ToStar> system. The thing is, this planet has a critical level of cyber-fraud and cyber-terrorism. The Planetary Communications Oversight can't cope with the volume of blocking, and the planet's government has ordered new petabyte servers from us. A simple task, Ranger, isn't it? As easy as solving the Einstein-Bose equation! A reward of <Money> cr awaits you for completing it. If the assignment is not completed by <Date>, it will be failed due to the expiration of the set deadline. What do you say, Ranger?
+111	...And you too, messenger! A message from a representative of the gaalian race at such an official level is a great honor for any race... Only what the hell is "aluminen"? Have they all gone out of their minds there with their ciphers? First "if you want to live, come with me", then "as my father said - I am your father", then "if it weren't for the mistake - you wouldn't be here"!.. Sick of it! And do you know what I've been doing here for five whole years? I don't know myself! They've already given me the nickname "Passer", because all I do is pass on some papers and receive others! Dzukhallag is prestigious, my father told me, you'll quickly become a cool lyakusha, bah! I change skin after skin, I've already forgotten what it's like to have four full-fledged arms! Anyway, <Player>, here's your reward, and forget altogether what just happened, understood?! Right, I'm switching all the office equipment back on. Ahem, la-la-la, re-re-re!.. That'll do.<br>What other questions do you want to discuss, Ranger? Or maybe coffee? Visit the shopping center? Don't be shy, <Player>, we are ready to give any support to the Ranger Corps.
+112	An amazing question in its simplicity, yet so deep in its importance, most esteemed... whoever you were in the past, present and future. The physical flesh is merely a perishable burden that weighs on the soul. And these are not empty words, Ranger, I assure you. Once, during the Hour of Contemplation, gathered with fellow scientists, we looked Into the Distance, and the Distance began to look into us. We understood that everyone living here and now is merely a vessel, an avatar of Riolka and Simfa, walking the Path ordained on the tablets of the Universe! When He, the Two-Faced, looks upon Them!..<br>So, <Player>, listen! While these dumb gaalians around me twitch in ecstasy at my words, we have literally a couple of minutes. I'm from Dzukhallag, we're conducting an operation against... Forget it, you don't need to know. Anyway, this <clr>envelope<clrEnd> must be delivered to the planet <ToPlanet> in the <ToStar> system. You'll be met there, say aloud "in the name of Ga, His Son and the Spirit of the Universe, aluminen, I hand you this message", got it? You'll get <Money> cr for it. A clean deal, don't you think? And hurry! Everything must be done by <Date>, otherwise we'll botch it all!<br>...And on the day when the Purity of the Universe is beyond doubt in the eyes of the suffering, the Essence of Life will reveal itself! <br>Now get lost already, Ranger, my head is about to burst from this nonsense!..
