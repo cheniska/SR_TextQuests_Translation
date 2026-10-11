@@ -1,0 +1,16 @@
+26	Volumer
+45	Cost: <clr>+30%<clrEnd>
+51	Size: <clr>+15%<clrEnd>
+53	Cost: <clr>-15%<clrEnd>
+55	Cost: <clr>+35%<clrEnd>
+63	Size: <clr>+30%<clrEnd>
+67	Cost: <clr>+120%<clrEnd>
+71	Size: <clr>-35%<clrEnd>
+73	Reliability: <clr>+30%<clrEnd>
+86	Size: <clr>+26%<clrEnd>
+88	Reliability: <clr>+150%<clrEnd>
+92	Reliability: <clr>+25%<clrEnd>
+101	Assassin
+103	Bolide
+145	Reliability: <clr>+67%<clrEnd>
+146	Farshooter

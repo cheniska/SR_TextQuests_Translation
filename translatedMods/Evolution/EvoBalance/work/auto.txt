@@ -1,0 +1,268 @@
+(не функционирует)	(non-functional)
+В бою с эриметра был сбит поляризующий наконечник. Устройство вышло из строя и мешает функционированию захвата.	The polarizing head was knocked off the erimeter during battle. The device is out of order and prevents the gripper from operating properly.
+Эриметр	Erimeter
+Аппер	Upper
+Скорость двигателя: <bonSpeed> ед.	Engine speed: <bonSpeed>
+Дальность радара: <bonRadar> млн. км.	Radar range: <bonRadar> million km.
+Электро	Electro
+Сила энергетического оружия: <bonWEnergy> ед.	Energy weapons damage: <bonWEnergy>
+Фэйджоуль	Faejoel
+Дальность прыжка: <bonJump> пк.	Jump range: <bonJump> pc
+Размер: <clr>+20%<clrEnd>	Size: <clr>+20%<clrEnd>
+Интегратор	Integrator
+Сила осколочного оружия: <bonWSplinter> ед.	Fragmentation weapons damage: <bonWSplinter>
+Сила ракетного оружия: <bonWMissile> ед.	Missile weapons damage: <bonWMissile>
+Размер: <clr>+25%<clrEnd>	Size: <clr>+25%<clrEnd>
+Магникум	Magnicum
+Мощность захвата: <bonHook> ед.	Gripper power: <bonHook>
+Дальность захвата: <bonHookRadius> ед.	Gripper range: <bonHookRadius>
+Стоплай	Stopbark
+Размер: <clr>-30%<clrEnd>	Size: <clr>-30%<clrEnd>
+Стоимость: <clr>+20%<clrEnd>	Cost: <clr>+20%<clrEnd>
+Импелган	Impalegun
+Мощность сканера: <bonScan> ед.	Scanner power: <bonScan>.
+Стоимость: <clr>+25%<clrEnd>	Cost: <clr>+25%<clrEnd>
+Парагон	Paragon
+Размер: <clr>+10%<clrEnd>	Size: <clr>+10%<clrEnd>
+Стратер	Strutter
+Конвектор	Convector
+Сжим	Clip
+Размер: <clr>-40%<clrEnd>	Size: <clr>-40%<clrEnd>
+Микрострел	Microshooter
+Дальность стрельбы: <bonWRadius> ед.	Firing range: <bonWRadius>
+Сдвиг	Displacement
+Шелест	Rustle
+Генератор поля: <bonDef> ед.	Shield generator: <bonDef>%
+Дронз	Dronze
+Эффективность дроида: <bonDroid> ед.	Droid effectiveness: <bonDroid>
+Диощит	Dioshield
+Маформ	Maform
+Стоимость: <clr>+60%<clrEnd>	Cost: <clr>+60%<clrEnd>
+Сплинтер	Splinter
+Колебратор	Colebrator
+Энергос	Energos
+Бронепакет	Armorpack
+Броня корпуса: <bonHull> ед.	Hull armor: <bonHull>
+Размер: <clr>-10%<clrEnd>	Size: <clr>-10%<clrEnd>
+Спаай	Insighter
+Тюринг	Turing
+Дальстар	Dalstar
+Эскалибур	Excalibur
+Эксплодер	Exploder
+Патч 0.95 бета	Patch 0.95 beta
+Оптиматор	Optimator
+Стоимость: <clr>-25%<clrEnd>	Cost: <clr>-25%<clrEnd>
+Размер: <clr>-25%<clrEnd>	Size: <clr>-25%<clrEnd>
+Аддон	Addon
+Размер корпуса: <clr>+15%<clrEnd>	Hull size: <clr>+15%<clrEnd>
+Горанд	Gorand
+Миниразмерный	Minisized
+Размер: <clr>-20%<clrEnd>	Size: <clr>-20%<clrEnd>
+Дроннер	Dronner
+Размер: <clr>+50%<clrEnd>	Size: <clr>+50%<clrEnd>
+Цент	Cent
+Громодрын	Massodrope
+Платинос	Platicoat
+Клейн	Klein
+Пакстон	Paxton
+Ракетон	Rocketon
+Гугаал	Gugaal
+Крепчак	Harding
+Джампгейтор 3.11	Jumpgator 3.11
+Стоимость: <clr>+40%<clrEnd>	Cost: <clr>+40%<clrEnd>
+Экстример	Extremer
+Джейк	Jake
+Универс	Universe
+Иикебанит	Iikebaanite
+Минивизион	Minivision
+Размер: <clr>-15%<clrEnd>	Size: <clr>-15%<clrEnd>
+Микроразмерный	Microsize
+Жампа	Jumpa
+Винтарь	Threader
+Стоимость: <clr>+50%<clrEnd>	Cost: <clr>+50%<clrEnd>
+Патч 0.96 альфа	Patch 0.96 alpha
+Антифэй	Antifae
+Дальпун	Farsight
+Размер: <clr>+35%<clrEnd>	Size: <clr>+35%<clrEnd>
+Хокус	Hocus
+Бач	Dimin
+Двима	Drover
+Броинг	Broing
+Жжения	Burnz
+Панцирь	Shell
+Редуза	Redusa
+Хаб	Hub
+Ламбалд	Lambald
+Берсерк	Berserker
+Интердизайн	Interdesign
+Размер корпуса: <clr>+7%<clrEnd>	Hull size: <clr>+7%<clrEnd>
+Стаксер	Staxer
+Бронд	Brond
+Форсер	Forcer
+Диамант	Diamant
+Гезават	Jeiad
+Раструг	Rasta
+Прозотор	Prozotor
+Армор	Armorer
+Перфорит	Perforator
+Навык точности: <bonSkill1>	Attack skill: <bonSkill1>
+Навык манёвренности: <bonSkill2>	Mobility skill: <bonSkill2>
+Навык торговли: <bonSkill4>	Commerce skill: <bonSkill4>
+Навык обаяния: <bonSkill5>	Charisma skill: <bonSkill5>
+Навык техники: <bonSkill3>	Technology skill: <bonSkill3>
+Быстрый корпус I	Fast Hull I
+Быстрый корпус II	Fast Hull II
+Быстрый корпус III	Fast Hull III
+Быстрый корпус IV	Fast Hull IV
+Неуязвимый корпус I	Invincible Hull I
+<color=248,252,248>Разработанный фэянскими спецами корпус с усиленной защитой. Специальная акриновая прослойка между бронелистами корпуса позволяет добиться большей эффективности от работы генератора защитного поля.</color>	<color=248,252,248>A hull with bolstered defensive properties, developed by faeyan specialists. A special acrynic layer inserted between the hull's armor plates improves the operational effectiveness of the shield generator.</color>
+Неуязвимый корпус II	Invincible Hull II
+Неуязвимый корпус III	Invincible Hull III
+Неуязвимый корпус IV	Invincible Hull IV
+Ремонтный корпус I	Repair Hull I
+Ремонтный корпус II	Repair Hull II
+Ремонтный корпус III	Repair Hull III
+Ремонтный корпус IV	Repair Hull IV
+Миоплазменный корпус I	Myoplasmic Hull I
+Миоплазменный корпус II	Myoplasmic Hull II
+Миоплазменный корпус III	Myoplasmic Hull III
+Миоплазменный корпус IV	Myoplasmic Hull IV
+Пигамарный корпус I	Pygamore Hull I
+Пигамарный корпус II	Pygamore Hull II
+Пигамарный корпус III	Pygamore Hull III
+Пигамарный корпус IV	Pygamore Hull IV
+Миоплазменный топливный бак I	Myoplasmic Fuel Tank I
+Миоплазменный двигатель I	Myoplasmic Engine I
+Миоплазменный радар I	Myoplasmic Radar I
+Миоплазменный сканер I	Myoplasmic Scanner I
+Миоплазменный дроид I	Myoplasmic Droid I
+Миоплазменный захват I	Myoplasmic Gripper I
+Миоплазменный генератор защиты I	Myoplasmic Shield Generator I
+Миоплазменный топливный бак II	Myoplasmic Fuel Tank II
+Миоплазменный двигатель II	Myoplasmic Engine II
+Миоплазменный радар II	Myoplasmic Radar II
+Миоплазменный сканер II	Myoplasmic Scanner II
+Миоплазменный дроид II	Myoplasmic Droid II
+Миоплазменный захват II	Myoplasmic Gripper II
+Миоплазменный генератор защиты II	Myoplasmic Shield Generator II
+Миоплазменный топливный бак III	Myoplasmic Fuel Tank III
+Миоплазменный двигатель III	Myoplasmic Engine III
+Миоплазменный радар III	Myoplasmic Radar III
+Миоплазменный сканер III	Myoplasmic Scanner III
+Миоплазменный дроид III	Myoplasmic Droid III
+Миоплазменный захват III	Myoplasmic Gripper III
+Миоплазменный генератор защиты III	Myoplasmic Shield Generator III
+Пигамарный топливный бак I	Pygamore Fuel Tank I
+Пигамарный двигатель I	Pygamore Engine I
+Пигамарный радар I	Pygamore Radar I
+Пигамарный сканер I	Pygamore Scanner I
+Пигамарный дроид I	Pygamore Droid I
+Пигамарный захват I	Pygamore Gripper I
+Ресиз	Resizer
+Пигамарный генератор защиты I	Pygamore Shield Generator I
+Пигамарный топливный бак II	Pygamore Fuel Tank II
+Пигамарный двигатель II	Pygamore Engine II
+Пигамарный радар II	Pygamore Radar II
+Пигамарный сканер II	Pygamore Scanner II
+Пигамарный дроид II	Pygamore Droid II
+Пигамарный захват II	Pygamore Gripper II
+Пигамарный генератор защиты II	Pygamore Shield Generator II
+Пигамарный топливный бак III	Pygamore Fuel Tank III
+Пигамарный двигатель III	Pygamore Engine III
+Пигамарный радар III	Pygamore Radar III
+Пигамарный сканер III	Pygamore Scanner III
+Пигамарный дроид III	Pygamore Droid III
+Пигамарный захват III	Pygamore Hook III
+Пигамарный генератор защиты III	Pygamore Shield Generator III
+Трансцендентальный двигатель I	Transcendental Engine I
+Масса корабля: <bonMass><clr>%<clrEnd>	Ship mass: <bonMass><clr>%<clrEnd>
+Трансцендентальный двигатель II	Transcendental Engine II
+Трансцендентальный двигатель III	Transcendental Engine III
+Апгрейтинговый захват I	Upgraded Gripper I
+Апгрейтинговый генератор защиты I	Upgraded Shield Generator I
+Апгрейтинговый двигатель I	Upgraded Engine I
+Апгрейтинговый топливный бак I	Upgraded Fuel Tank I
+Апгрейтинговый радар I	Upgraded Radar I
+Апгрейтинговый сканер I	Upgraded Scanner I
+Апгрейтинговый захват II	Upgraded Gripper II
+Апгрейтинговый генератор защиты II	Upgraded Shield Generator II
+Апгрейтинговый двигатель II	Upgraded Engine II
+Апгрейтинговый топливный бак II	Upgraded Fuel Tank II
+Апгрейтинговый радар II	Upgraded Radar II
+Апгрейтинговый сканер II	Upgraded Scanner II
+Апгрейтинговый захват III	Upgraded Gripper III
+Апгрейтинговый генератор защиты III	Upgraded Shield Generator III
+Апгрейтинговый двигатель III	Upgraded Engine III
+Апгрейтинговый топливный бак III	Upgraded Fuel Tank III
+Апгрейтинговый радар III	Upgraded Radar III
+Апгрейтинговый сканер III	Upgraded Scanner III
+Биогенный дроид I	Biogenic Droid I
+Биогенный дроид II	Biogenic Droid II
+Биогенный дроид III	Biogenic Droid III
+Нанобролитовый дроид I	Nanobrolite Droid I
+Нанобролитовый двигатель I	Nanobrolite Engine I
+Нанобролитовый генератор защиты I	Nanobrolite Shield Generator I
+Нанобролитовый дроид II	Nanobrolite Droid II
+Нанобролитовый двигатель II	Nanobrolite Engine II
+Нанобролитовый генератор защиты II	Nanobrolite Shield Generator II
+Нанобролитовый дроид III	Nanobrolite Droid III
+Нанобролитовый двигатель III	Nanobrolite Engine III
+Нанобролитовый генератор защиты III	Nanobrolite Shield Generator III
+Ультрасплавный сканер I	Ultraalloy Scanner I
+Ультрасплавный радар I	Ultraalloy Radar I
+Ультрасплавный топливный бак I	Ultraalloy Fuel Tank I
+Ультрасплавный захват I	Ultraalloy Gripper I
+Ультрасплавный сканер II	Ultraalloy Scanner II
+Ультрасплавный радар II	Ultraalloy Radar II
+Ультрасплавный топливный бак II	Ultraalloy Fuel Tank II
+Ультрасплавный захват II	Ultraalloy Gripper II
+Ультрасплавный радар III	Ultraalloy Radar III
+Ультрасплавный топливный бак III	Ultraalloy Fuel Tank III
+Ультрасплавный захват III	Ultraalloy Gripper III
+Ультрасплавный сканер III	Ultraalloy Scanner III
+Корпус "Добрый лякуша" I	Kindhearted Lyakusha Hull I
+Корпус "Добрый лякуша" II	Kindhearted Lyakusha Hull II
+Корпус "Добрый лякуша" III	Kindhearted Lyakusha Hull III
+Корпус "Добрый лякуша" IV	Kindhearted Lyakusha Hull IV
+Корпус "Мирный корсар" I	Peaceful Corsair Hull I
+Корпус "Мирный корсар" II	Peaceful Corsair Hull II
+Корпус "Мирный корсар" III	Peaceful Corsair Hull III
+Корпус "Мирный корсар" IV	Peaceful Corsair Hull IV
+Корпус "Честный ренегал" I	Conscientious Renegal Hull I
+Корпус "Честный ренегал" II	Conscientious Renegal Hull II
+Корпус "Честный ренегал" III	Conscientious Renegal Hull III
+Корпус "Честный ренегал" IV	Conscientious Renegal Hull IV
+Корпус "Молния" I	Dandy Hull I
+Корпус "Молния" II	Dandy Hull II
+Корпус "Молния" III	Dandy Hull III
+Корпус "Молния" IV	Dandy Hull IV
+Корпус "Броненосец" I	Ironclad Hull I
+Корпус "Броненосец" II	Ironclad Hull II
+Корпус "Броненосец" III	Ironclad Hull III
+Корпус "Броненосец" IV	Ironclad Hull IV
+Корпус "Ушастик" I	Dumbo Hull I
+Корпус "Ушастик" II	Dumbo Hull II
+Корпус "Ушастик" III	Dumbo Hull III
+Корпус "Ушастик" IV	Dumbo Hull IV
+Корпус "Добрейший лякуша"	Benevolent Lyakusha Hull
+Корпус "Безобиднейший корсар"	Pacifist Corsair Hull
+Корпус "Честнейший ренегал"	Honest Renegal Hull
+Тень Империи	Shadow of the Empire
+Гибридный дроид	Hybrid Droid
+Акринатор	Acrynator
+Размер: <clr>+100%<clrEnd>	Size: <clr>+100%<clrEnd>
+Стоимость: <clr>+100%<clrEnd>	Cost: <clr>+100%<clrEnd>
+Поточный	Inliner
+"Дифрод"	Diphrode
+"Лифокар"	Liphocarus
+"Адроптер"	Adropter
+"Стилермейн"	Stylermain
+"Джавитор"	Javitor
+Шанс блокировки <clr>дроида<clrEnd> обратно пропорционален размеру корпуса цели	The chance to block a <clr>droid<clrEnd> is inversely proportional to the target's hull size
+"Инвейтер"	Inveiter
+"Армолок"	Armoloc
+Шанс блокировки <clr>вооружения<clrEnd> обратно пропорционален размеру корпуса цели	The chance to block <clr>weapons<clrEnd> is inversely proportional to the target's hull size
+Антент	Antent
+Боттер	Botter
+Вихрь	Vortex
+Гугол	Googol

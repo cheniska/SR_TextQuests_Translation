@@ -1,0 +1,88 @@
+11	Junior Technician Repair Kit
+17	Repair: <Data1>%
+18	Skillful Technician Repair Kit
+22	Proficient Technician Repair Kit
+30	MessageBox('The donor does not need spare parts');
+31	MessageBox('Connected analogue equipment was not found');
+35	Salvaged Menthoprobe
+37	<color=254,0,0>(cannot be repaired)<color>
+38	Salvaged Activating Gripper
+39	Salvaged Telekinetic Gripper
+40	Salvaged Plasmathread Gripper
+41	Salvaged Ectogenic Gripper
+42	Salvaged Piezotropic Gripper
+43	Salvaged Erimetric Gripper
+44	Salvaged Optoundular Gripper
+45	Salvaged Microtonal Gripper
+47	Salvaged Pixelyte
+49	Salvaged Shortwave Shield Generator
+51	Salvaged Polarizing Shield Generator
+52	Salvaged Mesonic Shield Generator
+53	Salvaged Mesh Shield Generator
+54	Salvaged Polygon Shield Generator
+55	Salvaged Zone Shield Generator
+56	Salvaged Microlevel Shield Generator
+57	Salvaged Ultraplasmic Shield Generator
+58	Salvaged Torsion Reactor
+60	Salvaged Diving Engine
+61	Salvaged Singular Engine
+62	Salvaged Gillnozzle Engine
+63	Salvaged Flow Engine
+64	Salvaged Splash Engine
+65	Salvaged Graviton Engine
+66	Salvaged Stensor Engine
+67	Salvaged Temporal Engine
+68	Salvaged Stackbarrel
+70	Salvaged Hyperliquid Fuel Tank
+71	Salvaged Condensed Fuel Tank
+72	Salvaged Reductional Fuel Tank
+73	Salvaged Protovesicular Fuel Tank
+74	Salvaged Positional Fuel Tank
+75	Salvaged Endoclustered Fuel Tank
+76	Salvaged Gyroscopic Fuel Tank
+77	Salvaged Tecronic Fuel Tank
+78	Salvaged Sensotron
+80	Salvaged Undular Radar
+81	Salvaged Subtransfer Radar
+82	Salvaged Octonic Radar
+83	Salvaged Fascicular Radar
+84	Salvaged Cathauric Radar
+85	Salvaged Neurolinear Radar
+86	Salvaged Ethane Radar
+87	Salvaged Zero-contact Radar
+88	Salvaged Dianode
+90	Salvaged Biotic Droid
+92	Salvaged Suspensory Droid
+93	Salvaged Tracking Droid
+94	Salvaged Tubular Droid
+95	Salvaged Bolide Droid
+96	Salvaged Tensor Droid
+97	Salvaged Dowel Droid
+98	Salvaged Duplex Droid
+99	Salvaged Tech Detector
+101	Salvaged Tracer Scanner
+103	Salvaged Vortex Scanner
+104	Salvaged Neuroprobic Scanner
+105	Salvaged Molecular Scanner
+106	Salvaged Colloidal Scanner
+107	Salvaged Tecoral Scanner
+108	Salvaged Deatomic Scanner
+109	Salvaged Quantifying Scanner
+110	Salvaged Industrial Laser
+112	Salvaged Fragmentation Cannon
+114	Salvaged Flux
+116	Salvaged Missile Launcher
+118	Salvaged Treton
+120	Salvaged Wave Phaser
+122	Salvaged Flow Blaster
+124	Salvaged Electronic Cutter
+126	Salvaged Multiresonator
+128	Salvaged Atomic Vision
+130	Salvaged Disintegrator
+132	Salvaged Turbogravitron
+134	Salvaged IMHO-9000
+136	Salvaged Vertix
+138	Salvaged Torpedo Tube
+140	Salvaged Esodapher
+142	Salvaged Caphasitor
+144	Salvaged Lirecron

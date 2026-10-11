@@ -1,0 +1,4 @@
+94	токены/числа/длина	Микромодуль второго уровня. Встраивается в корпус. Активирует слоты <c => Level two micromodule. Built into the <clr>hull<clrEnd>. Activates <cl
+98	токены/числа/длина	Микромодуль первого уровня. Встраивается в корпус. Активирует <clr>оди => Level one micromodule. Built into the <clr>hull<clrEnd>. Activates <cl
+102	токены/числа/длина	Корпус "Скала" => Rock
+134	токены/числа/длина	(для применения бонуса требуется превышение<br>мощности сканера над за => (scanner power must exceed target's defense)

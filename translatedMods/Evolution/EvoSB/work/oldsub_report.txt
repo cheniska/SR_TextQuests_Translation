@@ -1,0 +1,3 @@
+97	токены/числа/длина	Отлично, наши стажёры уже поковыряли ваш <0>. Вроде стало покруче, хот => Alrighty, our interns are done poking around your <ShortName>. It look
+105	токены/числа/длина	Мы можем задействовать в эксперименте над вашим оборудованием наших лу => We can involve our best specialists in the extraction operation, but t
+109	токены/числа/длина	Отлично, наши стажёры уже поковыряли ваш <0>. Вроде стало покруче, хот => Alrighty, our interns are done poking around your <ShortName>. It look

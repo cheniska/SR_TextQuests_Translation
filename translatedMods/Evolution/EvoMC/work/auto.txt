@@ -1,0 +1,39 @@
+Фэянин	Fei
+Гаалец	Gaal
+Малок	Maloq
+Пеленг	Peleng
+Человек	Human
+Пациент <Player>, вы находитесь на станции <MC>. Ведите себя сдержанно и непринужденно, уважайте врачей всех рас. Вы имеете право на выбор лечащего врача и право отказа от лечения. Все консультации у нас предоставляются бесплатно.	Welcome to the <MC> station, patient <Player>. Please feel at home, but behave yourself and treat the doctors with respect, no matter their race. You have the right to choose your attending physician and to refuse treatment. All consultations are free of charge.
+Отлично, <Player>! Ложитесь и расслабьтесь...	Excellent, <Player>! Lie down and relax...
+Решайтесь, <Player>!	Make your choice, <Player>!
+Так, так, так... Посмотрим...	Well, well, well... Let's see here...
+Отказаться от лечения	Refuse treatment
+Своим благородным поступком вы, <Player>, обеспечили безопасность тысячам больных в нашем центре!	With your noble actions, <Player>, you have ensured the safety of thousands of patients at our center!
+Это разумно, <Player>. Стимуляторы вызывают привыкание, можно и наркоманом стать, да и летальные исходы не редкость.	That is wise, <Player>. Stimulators are addictive and may cause chemical dependency, which often ends fatally.
+Отличный выбор. Примите эту таблеточку...	Excellent selection. Take this little pill here...
+Описание: <Text>	Description: <Text>
+Стоимость: <Cost> cr.	Cost: <Cost> cr.
+Стимуляторы, согласно пункту <clr>18/1<clrEnd> параграфа <clr>744<clrEnd> медицинского кодекса, предписаны исключительно для чрезвычайных ситуаций.	As per Item <clr>18/1<clrEnd> of the <clr>744<clrEnd> Medical Code, stimulants are prescribed exclusively for emergencies.
+Принять стимуляторы	Take stimulators
+Лучевая болезнь	Radiation Sickness
+Малокская сижа	Maloq Sizha
+<Date><br>Действие стимулятора <clr>"Одноглазый Хамас"<clrEnd> закончилось, он сдох от перенапряжения.	<Date><br> The effect of the <clr>One-eyed Khamas<clrEnd> stimulant is over, the creature died of exertion.
+Одноглазый Хамас	One-eyed Khamas
+<Date><br>Действие стимулятора <clr>"Супер техник"<clrEnd> закончилось. Биостимулятор успешно рассосался вашим организмом.	End=<Date><br> The effect of the <clr>Super Technician<clrEnd> stimulant is over. The biostimulant has passed from your system.
+Супер техник	Super Technician
+<Date><br>Действие стимулятора <clr>"Гаалистра времени"<clrEnd> закончилось. Ваш мозг теперь находится в состоянии покоя.	<Date><br> The effect of the <clr>Gaalian Alacrity<clrEnd> stimulant is over. Your brain activity is back to normal.
+Гаалистра времени	Gaalian Alacrity
+Гаальский боевой стимулятор. Рекомендуется использовать во время сражений. Кратковременно заставляет мозг работать в несколько тысяч раз быстрее. Скорость корабля и точность стрельбы резко увеличивается.	A gaalian combat stimulant. Recommended for use in combat. Speeds up brain activity by several thousand times. Ship speed and firing accuracy see a sharp improvement.
+Кровяной джогар	Blood Djogar
+<Date><br>Действие стимулятора <clr>"Рагобамский шепот"<clrEnd> закончилось. Утрачены способности к поеданию рагобамских жаб и мастерство идеальных переговоров.	<Date><br> The effect of the <clr>Ragobam Whisper<clrEnd> stimulant is over. You have lost the ability to eat ragobam bullfrogs and conduct flawless negotiations.
+Рагобамский шепот	Ragobam Whisper
+<Date><br>Действие стимулятора <clr>"Ведущий Шахманду"<clrEnd> закончилось. Навык лидерства и уговоров утрачен.	<Date><br> The effect of the <clr>Shakhmandoo Leader<clrEnd> stimulant is over. The leadership and persuasion skills are decreased.
+Ведущий Шахманду	Shakhmandoo Leader
+<Date><br>Действие стимулятора <clr>"Психотропный кэш"<clrEnd> закончилось. Сканер и радар снова работают в обычном режиме. Навык обаяния в норме.	<Date><br> The effect of the <clr>Psychotropic Cache<clrEnd> stimulant is over. The scanner and radar are back to normal operation. Charisma is back to normal as well.
+Психотропный кэш	Psychotropic Cache
+Мозг под воздействием стимулятора посылает импульсы радару и сканеру, невероятно увеличивая их мощь. Человек-сканер вызывает раздражение у окружающих, что приводит к негативной оценке любых действий последнего.	The stimulator enables the brain to send impulse signals to the radar and scanner, tremendously boosting their capacity. The human scanner irritates everyone around him, eliciting a negative response no matter what he does.
+Торговая маркировка	Business Mark
+<Date><br>Действие вируса-стимулятора <clr>"Дубльплекс"<clrEnd> закончилось. Стоимость правительственных заданий снова в норме.	<Date><br>The effect of the <clr>Doubleplex<clrEnd> stimulant-virus is over. Rewards for completing government missions have stabilizied.
+Дубльплекс	Doubleplex
+Абсолютный статус	Absolute Status
+1 января	January 1

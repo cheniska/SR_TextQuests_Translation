@@ -1,0 +1,24 @@
+120	Purchase medications
+122	Leave the medical center
+165	(expired)
+166	Urine tincture
+167	Traditional <clr>urine tincture<clrEnd> medicine
+176	"Chekumash" virus strain
+180	"Holy Fanaticism" virus strain
+184	"Mysterious Luatanza" virus strain
+188	"Grand Malosausus" virus strain
+192	"New Molizone" hormone
+196	"Maloq Sizha" stimulant
+200	"One-eyed Khamas" stimulant
+204	"Stardust" stimulant
+208	"Super Technician" stimulant
+212	"Gaalian Alacrity" stimulant
+217	"Blood Djogar" stimulant
+222	"Ragobam Whisper" stimulant
+227	"Shakhmandoo Leader" stimulant
+232	"Psychotropic Cache" stimulant
+237	"Business Mark" stimulant
+242	"Doubleplex" stimulant
+247	"Absolute Status" stimulant
+263	A fan of traditional medicine
+265	Vaccinations

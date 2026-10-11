@@ -1,0 +1,13 @@
+Меркурий	Mercury
+Венера	Venus
+Земля	Earth
+Марс	Mars
+Юпитер	Jupiter
+Сатурн	Saturn
+Уран	Uranus
+Нептун	Neptune
+Плутон	Pluto
+Дээва	Deeva
+Тристерия	Tristeria
+Чешилан	Cheshilan
+Гархарл	Garkharl

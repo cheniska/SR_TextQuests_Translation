@@ -1,0 +1,48 @@
+Транклюкатор	Tranclucator
+Дальность	Range
+Назад	Back
+и	and
+Далее	Next
+Отмена	Cancel
+Конец связи	Over and out.
+ИМХО-9000	IMHO-9000
+Лезка	Flux
+И ретранслируй этот приказ остальным транклюкаторам. С каждым отдельно я общаться не намерен.	And relay this order to other tranclucators. I am not going to communicate with each of you separately.
+Введите имя:	Enter name:
+Следуй за мной	Follow me
+Пожалуй, в другой раз	Maybe another time
+Терминатор	Terminator
+Ферзь	Queen
+Рикардо	Ricardo
+Сварокок	Swarokok
+Гаджет	Gadget
+Точность пилота	Pilot's Accuracy
+Обаяние пилота	Pilot's Charisma
+Лидерство	Leadership
+Знание техники	Technology Skill
+Навык торговли	Commerce Skill
+Слушаюсь, хозяин! Совершаю посадку на <ObjectName>.	Right away, master! Landing on <ObjectName>.
+Слушаюсь, хозяин! Лечу на <ObjectName> и остаюсь на складе	Right away, master! Heading to <ObjectName> and waiting in storage
+Прошу указать цель.	Please specify target.
+Координаты цели определены. Иду на перехват курсом атаки.	Target coordinates set. Proceeding to intercept by attacking.
+Приказываю атаковать	Ordering to attack
+Команда ясна. Приступаю к освобождению трюма.	Orders are clear. Commencing with evacuation of cargo bay.
+Приказ получен. Начинаю сближение.	Order received. I'm beginning the approach.
+Вся моя боевая мощь к вашим услугам, хозяин. Мои пушки готовы к бою, жду указаний.	All my firepower is at your service, master. My guns are ready for battle, awaiting orders.
+Совершаем посадку на <ObjectName>	We are landing on <ObjectName>
+Садись на <ObjectName> и оставайся на складе	Head to <ObjectName> and wait in storage
+Запрещаю менять оборудование	You're not allowed to change equipment
+Разрешаю менять оборудование	You're allowed to change equipment
+Артефакты	Artifacts
+Микромодули	Micromodules
+Оборудование	Equipment
+Товары	Goods
+Ноды	Nodes
+Планеты	Planets
+Базы	Bases
+Приказ понятен. Я немедленно возвращаюсь. Прошу подождать и принять меня на борт.	Orders are clear. Returning immediately. Please wait and take me on board.
+Возвращайся назад	Return
+Приказ принят. Вхожу в режим патрулирования.	Orders accepted. Entering patrol mode.
+Начинаю поиск и сбор вещей в зоне видимости.	Commencing search and collection of items within visibility range.
+Приказываю прекратить сбор вещей	Ordering to cease item collection
+Приказываю приступить к сбору вещей	Ordering to commence item collection

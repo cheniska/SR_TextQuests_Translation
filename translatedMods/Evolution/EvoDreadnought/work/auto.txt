@@ -1,0 +1,17 @@
+Генератор поля: <bonDef> ед.	Shield generator: <bonDef>%
+Эффективность дроида: <bonDroid> ед.	Droid effectiveness: <bonDroid>
+Броня корпуса: <bonHull> ед.	Hull armor: <bonHull>
+Навык точности: <bonSkill1>	Attack skill: <bonSkill1>
+Скорость двигателя: <bonSpeed> ед.	Engine speed: <bonSpeed>
+Сила энергетического оружия: <bonWEnergy> ед.	Energy weapons damage: <bonWEnergy>
+Сила ракетного оружия: <bonWMissile> ед.	Missile weapons damage: <bonWMissile>
+Дальность стрельбы: <bonWRadius> млн км	Firing range: <bonWRadius> million km
+Сила осколочного оружия: <bonWSplinter> ед.	Fragmentation weapons damage: <bonWSplinter>
+Создание галактики	Creating the Galaxy
+Создание планет	Creating planets
+Распределение квестов	Distributing quests
+Генерация кораблей	Generating ships
+Создание баз	Creating bases
+Проходит время	Passage of time
+Готово	Done
+Линкор	Battleship

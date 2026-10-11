@@ -1,0 +1,108 @@
+Микромодуль третьего уровня. Наращивает мощность двигателя и радара, за счет увеличения эффективности преобразования энергии.	Level three micromodule. Builds up engine and radar power via enhancements to energy conversion.
+Скорость двигателя: <bonSpeed> ед.	Engine speed: <bonSpeed>
+Дальность радара: <bonRadar> млн. км.	Radar range: <bonRadar> million km.
+Микромодуль третьего уровня. Воздействует на силу энергетического оружия, используя принцип умножения мощности генератора импульса.	Level three micromodule. Affects the power of energy weapons, using the principle of impulse generator multiplication.
+Урон энергетического оружия: <bonWEnergy> ед.	Energy weapon damage: <bonWEnergy> units
+Дальность прыжка: <bonJump> пк.	Jump range: <bonJump> pc
+Размер: <clr>+20%<clrEnd>	Size: <clr>+20%<clrEnd>
+Микромодуль второго уровня. Повышает поражающий коэффициент оружия путем сингулярного усиления начального импульса.	Level two micromodule. Increases the weapon's hit coefficient via a singular increase of the initial impulse.
+Урон осколочного оружия: <bonWSplinter> ед.	Splinter weapon damage: <bonWSplinter> units
+Урон ракетного оружия: <bonWMissile> ед.	Missile weapon damage: <bonWMissile> units
+Размер: <clr>+25%<clrEnd>	Size: <clr>+25%<clrEnd>
+Микромодуль второго уровня. Увеличивает потенциал генерируемого захватом поля, повышая тем самым мощность прибора.	Level two micromodule. Increases the potential of the gripper-generated field, thus increasing the efficiency of the device.
+Мощность захвата: <bonHook> т.	Gripper power: <bonHook> t.
+Микромодуль второго уровня. Производит замену движущихся частей оборудования на более крепкие платиновые. Уменьшает размер и увеличивает стоимость оборудования. Не применим для орудийных систем и корпуса.	Level two micromodule. Replaces moving equipment parts with stronger platinum ones. Decreases the size and increases the cost of the equipment. Cannot be used in weapon systems or hull.
+Размер: <clr>-30%<clrEnd>	Size: <clr>-30%<clrEnd>
+Стоимость: <clr>+50%<clrEnd>	Cost: <clr>+50%<clrEnd>
+Микромодуль второго уровня. Заменяет магнитный генератор сканера на более дорогой импульсно-гравитационный, тем самым увеличивая мощность прибора.	Level two micromodule. Replaces the scanner's magnetic generator with a more expensive impulse-gravitational variant, thus increasing the power of the device.
+Мощность сканера: <bonScan><clr>%<clrEnd>	Scanner power: <bonScan><clr>%<clrEnd>
+Стоимость: <clr>+25%<clrEnd>	Cost: <clr>+25%<clrEnd>
+Размер: <clr>+10%<clrEnd>	Size: <clr>+10%<clrEnd>
+Стоимость: <clr>+20%<clrEnd>	Cost: <clr>+20%<clrEnd>
+Размер: <clr>-40%<clrEnd>	Size: <clr>-40%<clrEnd>
+Дальность стрельбы: <bonWRadius> млн км	Firing range: <bonWRadius> million km
+Микромодуль третьего уровня. Увеличивает эффективность фильтра помех генератора защитного поля. При этом активный микромодуль занимает довольно большой объем.	Level three micromodule. Increases the efficiency of the disturbance filter in the shield generator. The active micromodule takes up a rather large amount of space.
+Мощность защитного поля: <bonDef><clr>%<clrEnd>	Shield power: <bonDef><clr>%<clrEnd>
+Эффективность дроида: <bonDroid> ед.	Droid effectiveness: <bonDroid>
+Стоимость: <clr>+60%<clrEnd>	Cost: <clr>+60%<clrEnd>
+Надежность: <clr>+80%<clrEnd>	Reliability: <clr>+80%<clrEnd>
+Микромодуль второго уровня. Улучшает характеристики волновых излучателей устройств. Увеличивает мощность оборудования, использующего непрерывное излучение и поля с волновыми характеристиками, такого как радар, захват и генератор поля.	Level two micromodule. Improves the characteristics of device wave emitters. Increases the power of equipment that uses continuous emission and fields with wave characteristics, such as radar, gripper and shield generator.
+Микромодуль второго уровня. Добавляется как вспомогательное устройство в синтезатор пучка для энергетических типов вооружения.	Level two micromodule. Added as an auxiliary device into the bundle synthesizer for energy type weapons.
+Микромодуль второго уровня. Оснащает корпус корабля дополнительными листами композитной брони. Размещаемые внутри корпуса гироскопические шарнирные крепления пластин брони и гасители удара занимают довольно большой объем, существенно снижая вместимость корабля.	Level two micromodule. Equips the ship's hull with additional sheets of composite armor. The gyroscope hinged fixes of armor plates and shock absorbers placed within the hull occupy rather a large space, substantially reducing the ship's storage capacity.
+Броня корпуса: <bonHull> ед.	Hull armor: <bonHull>
+Размер: <clr>-10%<clrEnd>	Size: <clr>-10%<clrEnd>
+Микромодуль второго уровня. Заменяет массивную орудийную турель на силовую опору. Часть энергии генератора уходит на гашение отдачи, поэтому дальность и сила выстрела снижаются, но орудие занимает вдвое меньший объем.	Level two micromodule. Replaces a massive weapons turret for power support. Part of the generator's energy is used to absorb the kickback, thereby reducing range and firepower, but the weapon occupies half as much space.
+Размер: <clr>-50%<clrEnd>	Size: <clr>-50%<clrEnd>
+Размер: <clr>-25%<clrEnd>	Size: <clr>-25%<clrEnd>
+Стоимость: <clr>-25%<clrEnd>	Cost: <clr>-25%<clrEnd>
+Надежность: <clr>+25%<clrEnd>	Reliability: <clr>+25%<clrEnd>
+Размер корпуса: <clr>+15%<clrEnd>	Hull size: <clr>+15%<clrEnd>
+Микромодуль второго уровня. Заменяет компоненты <clr>вооружения<clrEnd> на нанотехнологичные аналоги, увеличивая надежность на <clr>80%<clrEnd>, а стоимость - на <clr>30%<clrEnd>.	Level two micromodule. Replaces <clr>armanent<clrEnd> components with nanotechnology-made analogs. Increases reliability by <clr>80%<clrEnd> and cost by <clr>30%<clrEnd>.
+Размер: <clr>-20%<clrEnd>	Size: <clr>-20%<clrEnd>
+Стоимость: <clr>-30%<clrEnd>	Cost: <clr>-30%<clrEnd>
+Микромодуль третьего уровня. Повышает возможности дроида, заменяя часть деталей более эффективными, но и более тяжелыми. Вес дроида увеличивается.	Level three micromodule. Increases droid capabilities by replacing some of its components with a more efficient variety, albeit heavier. The droid's weight is increased as a result.
+Размер: <clr>+50%<clrEnd>	Size: <clr>+50%<clrEnd>
+Стоимость: <clr>-50%<clrEnd>	Cost: <clr>-50%<clrEnd>
+Микромодуль третьего уровня. Покрывает оборудование тонким слоем платины, увеличивая его стоимость.	Level three micromodule. Covers the equipment with a thin coat of platinum, increasing its value.
+Микромодуль третьего уровня. Наращивает мощность любого оружия, при этом уменьшая дальность его стрельбы.	Level three micromodule. Boosts the power of any weapon at the expense of range.
+Размер: <clr>-75%<clrEnd>	Size: <clr>-75%<clrEnd>
+Микромодуль третьего уровня, содержащий ненаправленные бета-проводники. Значительно увеличивает силу ракетного оружия, частично - энергетического.	Level three micromodule, containing unfocused beta-conductors. Significantly boosts the power of missile weapons, and partly that of energy weapons.
+Микромодуль первого уровня. Патчит программную часть модуля навигации и моментальной коррекции двигателя до версии 3.11, увеличивая дальность прыжка двигателя.	Level one micromodule. Patches the software part of the navigation and instant engine correction modules to Version 3.11, increasing the engine's jumping range.
+Стоимость: <clr>+40%<clrEnd>	Cost: <clr>+40%<clrEnd>
+Микромодуль первого уровня. Заменяет топливные фильтры, повышая степень очистки топлива, за счет чего увеличивает скорость двигателя.	Level one micromodule. Replaces fuel filters, increasing fuel purification and boosting engine speed thereby.
+Микромодуль первого уровня. Встраивается в стандартный слот расширения любого оборудования. Активно участвует в работе устройства, оптимизируя вычисления и схему функционирования оборудования.	Level one micromodule. Built into the standard expansion slot of any equipment. Integrates into the operation of the device, optimizing its computational and functional circuits.
+Стоимость: <clr>+150%<clrEnd>	Cost: <clr>+150%<clrEnd>
+Микромодуль первого уровня. Производит замену блока навигации радара на новый миниатюрный, сбалансированный и высокоэффективный элемент.	Level one micromodule. Replaces the radar navigation unit with a new miniature, highly balanced and efficient element.
+Размер: <clr>-15%<clrEnd>	Size: <clr>-15%<clrEnd>
+Надежность: <clr>+50%<clrEnd>	Reliability: <clr>+50%<clrEnd>
+Микромодуль первого уровня. Заменяет преобразователь на надежную модель нового поколения, позволяющую на короткое время увеличить энергетический потенциал топлива. При этом увеличивается дальность прыжка.	Level one micromodule. Installs a new generation converter, enabling a short-term boost in the fuel's energy potential, thereby increasing jumping range and reliability.
+Надежность: <clr>+30%<clrEnd>	Reliability: <clr>+30%<clrEnd>
+Микромодуль третьего уровня. Содержит комплект перепрошивочных модулей для программного обеспечения вычислительных и корректирующих устройств некоторых типов оборудования. Патч увеличивает точность и скорость вычислений с плавающей запятой. Альфа-версия совместима с оборудованием всех рас.	Level three micromodule. Contains a set of broaching modules, designed for software integration with computing and overriding functions of certain equipment types. The patch increases the speed and accuracy of computations with a floating point. The alpha-version is compatible with the equipment of all races.
+Размер: <clr>+35%<clrEnd>	Size: <clr>+35%<clrEnd>
+Микромодуль первого уровня. Изменяет периодику колебаний волнового поля захвата в соответствии с характеристиками материала захватываемого объекта, увеличивая проникающую способность поля и, соответственно, мощность захвата.	Level one micromodule. Alters the fluctuation intervals of the gripper's wave field to better match the specs of the target's material, boosting the field penetrating capacity and thus the gripper's power.
+Микромодуль первого уровня. Производит обработку частей оборудования фемтосекундными импульсами Л-поля, увеличивая надежность на <clr>120%<clrEnd>. Из-за ограничения мощности излучения, взаимодействие с <clr>корпусом<clrEnd> невозможно.	Level one micromodule. Performs device parts processing using femtosecond L-field impulses. Increases reliability by <clr>120%<clrEnd>. Due to limited power output, interaction with <clr>hull<clrEnd> is impossible.
+Микромодуль третьего уровня. Дополняет орудийные системы довольно массивным ускорителем частиц и генератором антиматерии, существенно увеличивая боевые характеристики оружия.	Level three micromodule. Upgrades weapon systems with a rather massive particle accelerator and antimatter generator, substantially increasing the weapon's combat effectiveness.
+Размер корпуса: <clr>+7%<clrEnd>	Hull size: <clr>+7%<clrEnd>
+Надежность: <clr>+67%<clrEnd>	Reliability: <clr>+67%<clrEnd>
+Микромодуль третьего уровня. Способен с большой скоростью генерировать сверхплотные частицы, используемые в защите корабля. Совместим с корпусом и генератором поля.	Level three micromodule. Capable of rapidly generating superdense particles to augment the ship's defense system. Compatible with hulls and shield generators.
+Микромодуль второго уровня. Встраивается в корпус. Активирует слоты сканера, радара и форсажа	Level two micromodule. Built into the hull. Activates scanner, radar and afterburner slots.
+Микромодуль третьего уровня. Встраивается в корпус. Активирует слот ремонтного дроида и слот захвата	Level three micromodule. Built into the hull. Activates repair droid and gripper slots.
+Микромодуль третьего уровня. Встраивается в корпус. Активирует слот генератора защитного поля и слот захвата	Level three micromodule. Built into the hull. Activates shield generator and gripper slots.
+Микромодуль третьего уровня. Встраивается в корпус. Активирует слот ремонтного дроида и слот генератора защитного поля	Level three micromodule. Built into the hull. Activates repair droid and shield generator slots.
+Микромодуль первого уровня. Встраивается в корпус. Активирует один слот для оружия и один слот для артефакта	Level one micromodule. Built into the hull. Activates one weapon and one artifact slot.
+Микромодуль первого уровня. Встраивается в корпус. Активирует два слота для оружия	Level one micromodule. Built into the hull. Activates two weapon slots.
+Микромодуль первого уровня. Встраивается в корпус. Активирует два слота для артефактов	Level one micromodule. Built into the hull. Activates two artifact slots.
+Микромодуль третьего уровня. Размягчает и деформирует стенки топливного бака, увеличивая его объем.	Level three micromodule. Softens and deforms the walls of the fuel tank, increasing its capacity.
+Масса корабля: <bonMass><clr>%<clrEnd>	Ship mass: <bonMass><clr>%<clrEnd>
+Навык манёвренности: <bonSkill2>	Mobility skill: <bonSkill2>
+Навык обаяния: <bonSkill5>	Charisma skill: <bonSkill5>
+Навык техники: <bonSkill3>	Technology skill: <bonSkill3>
+Навык точности: <bonSkill1>	Attack skill: <bonSkill1>
+Навык торговли: <bonSkill4>	Commerce skill: <bonSkill4>
+Навык лидерства: <bonSkill6>	Leadership skill: <bonSkill6>
+Уникальный микромодуль первого уровня, ручной работы. Новейшая экспериментальная разработка техников Коалиции в области акриновых технологий, создана в единственном экземпляре. Увеличивает все особые эффекты <clr>акринового<clrEnd> оборудования в три раза и нейтрализует все его негативные эффекты. Размер и стоимость оборудования при этом увеличиваются в два раза. Из-за конфликта устаревших разъемов невозможна его установка на корпус.	A one-of-a-kind handmade level one micromodule. The only copy of the latest experimental model from the Coalition engineers in the field of acrynic technologies. Triples all the special effects of <clr>acrynic<clrEnd> equipment and neutralizes all of its negative effects. Size and costs of the equipment are doubling. Cannot be installed on a hull due to a conflict with outdated connectors.
+Размер: <clr>+100%<clrEnd>	Size: <clr>+100%<clrEnd>
+Стоимость: <clr>+100%<clrEnd>	Cost: <clr>+100%<clrEnd>
+Микромодуль третьего уровня. Встраивается в поточный блок сканера и позволяет увеличивать спектр принимаемых волн.	Level three micromodule. Built into the scanner's inline module, increases the spectrum of frequencies received.
+<color=248,252,248>Серийный комплект модифицированных узлов орудия и программных доработок "Дифрод", увеличивающих мощность оружия разных типов.</color><br> <br>	<color=248,252,248>A Diphrode series kit of modified weapons bundles and software mods, boosting the firepower of various weapon types.</color><br> <br>
+Бонус к урону: <clr>15%<clrEnd>	Bonus to damage: <clr>15%<clrEnd>
+(необходимо превышение мощности сканера над защитой цели)	(scanner power must exceed target's defense)
+<color=248,252,248>Модернизированное по проекту "Лифокар" вооружение наносит дополнительный урон поврежденным целям, используя механизм последовательной сверхточной стрельбы в пробоины корпуса.</color><br> <br>	<color=248,252,248>A modernized version of the Liphocarus project, this armament deals additional damage to already damaged targets, utilizing a mechanism of super-accurate repeated fire into the hull's holes.</color><br> <br>
+Бонус к урону: до <clr>33%<clrEnd>	Bonus to damage: up to <clr>33%<clrEnd>
+<color=248,252,248>Оружие с комплексом дополнительного оборудования "Адроптер" работает по принципу Локализатора взрывной волны. Пиратская технология далека от совершенства, но всё же повышает вероятность сохранения ценных трофеев после уничтожения вражеского корабля.</color><br> <br>	<color=248,252,248>Adropter comes with a kit of supplemental equipment and utilizes the blast wave localizer method. The pirate technology is far from perfect, but it still increases the chance of preserving valuable trophies after the enemy ship is destroyed. </color><br> <br>
+<color=248,252,248>"Стилермейн" - модификация, монтируемая на корпусе орудийной установки. Во время боя она пытается одновременно со стрельбой транслировать в центральную систему управления вражеского корабля аварийную команду на сброс груза. Вероятность срабатывания относительно невелика, однако это может дать пилоту тактическое преимущество в бою и возможность поживиться добычей.</color><br> <br>	<color=248,252,248>Stylermain is a modification that's installed on a gun mount. During combat, besides regular fire it attempts to transmit an emergency signal to the enemy ship's central control system with a command to dump its cargo. The success rate is relatively low, but it may occasionally give the pilot a tactical advantage in battle and a shot at some easy loot.</color><br> <br>
+Шанс сброса товаров из трюма: <clr>5%<clrEnd>	Probability of goods being dumped from the cargo bay: <clr>5%<clrEnd>
+<color=248,252,248>Модифицированное для прицельного отстрела ремонтных роботов, вооружение в варианте "Джавитор" позволяет вести огонь по траектории движения дроида, тем самым получая шанс блокировать вражескому кораблю проведение ремонта в ходе битвы.</color><br> <br>	<color=248,252,248>Modified for precision targeting of repair droids, the Javitor weapon model concentrates fire along the droid's trajectory, thus increasing the chance to block the enemy ship's attempts at repair during combat.</color><br> <br>
+Шанс блокировки <clr>дроида<clrEnd> обратно пропорционален размеру корпуса цели	The chance to block a <clr>droid<clrEnd> is inversely proportional to the target's hull size
+<color=248,252,248>Оружие версии "Инвейтер" параллельно с обычным действием подавляет работу системы зажигания цели, повреждая при этом ее <clr>двигатель<clrEnd>.</color><br> <br>	<color=248,252,248>In addition to the weapon's regular function, the Inveiter modified version suppresses the enemy ship's ignition system, damaging its <clr>engine<clrEnd> in the process.</color><br> <br>
+<color=248,252,248>Оружие модификации "Армолок" может высокоточными выстрелами выводить из строя концентратор каналов управления вооружением цели, на некоторое время отнимая у противника способность вести ответный огонь.</color><br> <br>	<color=248,252,248>The Armoloc modified weapon model fires high-precision rounds capable of disabling the target's weapons systems control hub, temporarily blocking the enemy's ability to return fire.</color><br> <br>
+Шанс блокировки <clr>вооружения<clrEnd> обратно пропорционален размеру корпуса цели	The chance to block <clr>weapons<clrEnd> is inversely proportional to the target's hull size
+Микромодуль третьего уровня. Улучшает характеристики сканирующих и радарных устройств. Встраивается в антенный усилитель, увеличивая его мощность.	Level three micromodule. Enhances the specs of scanning and radar devices. Built into the antenna amplifier, boosting its power.
+Микромодуль третьего уровня. Снижает инерционность корректирующих систем орудия, повышая дальность стрельбы.	Level three micromodule. Reduces the lag effect of the weapon's corrective systems, increasing firing range.
+Сила энергетического оружия: <bonWEnergy> ед.	Energy weapons damage: <bonWEnergy>
+Сила осколочного оружия: <bonWSplinter> ед.	Fragmentation weapons damage: <bonWSplinter>
+Сила ракетного оружия: <bonWMissile> ед.	Missile weapons damage: <bonWMissile>
+Дальность стрельбы: <bonWRadius> ед.	Firing range: <bonWRadius>
+Дальность прыжка: <bonJump> ед.	Jumping range: <bonJump>
+Прессор	Pressor
+Скорость ракет: <bonMissileSpeed> ед.	Missile speed: <bonMissileSpeed> units

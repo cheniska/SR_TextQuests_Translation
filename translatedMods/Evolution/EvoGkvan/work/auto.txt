@@ -1,0 +1,2 @@
+Скорость двигателя: <bonSpeed> ед.	Engine speed: <bonSpeed>
+Скорость ракет: <bonMissileSpeed> ед.	Missile speed: <bonMissileSpeed> units

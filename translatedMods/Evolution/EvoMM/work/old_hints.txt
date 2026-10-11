@@ -1,0 +1,3 @@
+13	Объём бака: <bonFuel> ед.	Fuel tank capacity: <bonFuel>
+124	Ракет: <bonShots> ед.	Missiles: <bonShots>
+151	Навигатор v. 4.44	Navigator v. 4.44

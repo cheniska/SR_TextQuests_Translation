@@ -1,0 +1,52 @@
+41	Size: <clr>+30%<clrEnd>
+70	Big-Tank
+73	Size: <clr>+40%<clrEnd>
+74	Burn
+76	Chugunium
+79	Cheater-22
+81	Chvang-Stop
+84	Cliring
+87	Creed
+89	Dream
+91	Durassel
+93	Duuzer
+95	Electromagnet
+97	Emican
+99	Enterquad
+101	Fascon
+103	Foncer-X
+105	Foroz
+109	Googlebot
+111	Grab
+113	Graviton
+119	Inhibitor
+121	Inzide
+125	Ionizer
+129	Junkometer
+132	Kishrobu
+134	Laser-Jet
+137	Littlebites
+139	Militarium
+141	Hull size: <clr>-15%<clrEnd>
+142	Minimus
+146	Cost: <clr>+10%<clrEnd>
+147	Grabaton
+149	Nanitoid
+153	Navitech
+155	Nebula
+157	Oberon 13
+160	RR-1111
+162	Plasmer
+165	Proberon
+167	Prom
+169	Protonic
+171	Robin Boom
+173	Rocket-Boomgie
+175	ScanTech
+177	Scarf
+179	Tetron
+181	Cost: <clr>+30%<clrEnd>
+182	Titanium
+185	Whizkid
+187	Damage susceptibility: <clr>+30%<clrEnd>
+188	Vampiric

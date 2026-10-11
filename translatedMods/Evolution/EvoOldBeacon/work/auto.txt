@@ -1,0 +1,3 @@
+(накапливает заряд)	(accumulating charges)
+Трансфакторный маяк	Transfactorial Beacon
+При использовании в космосе, передает данные о наличии неизученного материала. Энергия заряда: <Power> ед.	When used in space, it alerts the recipient to the presence of previously unexplored material. Charge energy: <Power>.

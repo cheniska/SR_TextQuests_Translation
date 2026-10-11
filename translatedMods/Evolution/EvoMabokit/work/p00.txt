@@ -1,0 +1,3 @@
+1	EM-Missile
+2	Homing electromagnetic missile
+3	MaBoKiT-79

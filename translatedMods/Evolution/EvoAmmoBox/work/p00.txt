@@ -1,0 +1,10 @@
+3	Buy container with warheads
+4	Buy a container with missiles
+5	Buy a container with orbs
+6	Buy a container with torpedoes
+11	Purchase ammunition containers
+17	Warhead container
+24	Quantity: <Data2>/<Data1>, withstand uses: <Data3>
+25	Missile container
+27	Orb Container
+29	container with torpedos

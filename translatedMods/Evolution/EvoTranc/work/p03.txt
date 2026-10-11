@@ -1,0 +1,211 @@
+125	incoming
+128	Boosts
+169	. "Musashi" gun: <color=45,105,45>Allowed</color>
+170	. "Musashi" gun: <color=255,0,0>Prohibited</color>
+179	. "Jebe" module: <color=45,105,45>All slots</color>
+182	Wonderful! In that case, here is
+183	nd.
+184	pp.
+185	Suit yourself, <Player>. But if you run into size problems again, drop by, don't be shy! We're always here.
+187	t.
+188	Let's see... Here is the full
+189	And what exactly can you shrink?
+192	At your command, master! For how long should I activate the afterburner?
+193	Afterburner activated. Awaiting further orders.
+194	At your command, master! Afterburner disabled.
+198	Sorry, master, but my engine is at a critical level of wear. I cannot carry out your order.
+199	Your <0> was reduced to <1> t. You can't mount it on a ship now, but it will be just right for a tranclucator.
+201	Your <0> was reduced to <1> t. You can't mount it on a ship now, but it will be just right for a tranclucator.
+204	Your <0> was reduced to <1> t. You can't mount it on a ship now, but it will be just right for a tranclucator.
+208	Calm down, <Player>. Nobody is going to take your equipment by force. Though I would still recommend reconsidering.<br>Tranclucator gear is a useful thing.
+209	Of course, <Player>. If you ever decide to upgrade your "sturdy ones" some more - drop in. We'll be waiting.
+210	Of course, <Player>. If you ever decide to upgrade your "sturdy one" some more - drop in. We'll be waiting.
+212	Hands off the equipment, you monsters!
+215	Never mind, this is sheer robbery!
+217	Not another word - here's my money!
+218	And there won't be another time, <Player>...<br>Just kidding! Ha-ha-ha! You should have seen your face! What could possibly happen to us, or to you, in wartime, honestly?! Come back when you change your mind - we'll be glad to see you.
+219	Any space captain knows well the problem of excessively large equipment or weapons. However, it is far more acute for tranclucator owners, since the tight hull of these smart machines often has room for too little useful "stuffing".<br>Our network of technology centers decided to put a firm end to the suffering of tranc-owners! Our engineers developed a unique method of removing and partially replacing roughly <clr>half<clrEnd> of the parts in any piece of equipment, preserving only the minimum safety margin needed for trouble-free operation of the device in ideal, near-bench conditions. And what pilot can provide their onboard equipment with the most comfortable, stress-free operating mode? That's right - an artificial one!<br>The flip side of this method is that equipment <clr>reduced<clrEnd> this way becomes practically impossible to use aboard normal crewed ships. A living pilot will simply lack the attention or skill, and the result will be an instant breakdown of the fragile device.<br><br>Phew...<br><br>Spent a week memorizing this damn text! I'll add separately that we work on each piece of equipment only <clr>once<clrEnd>. Any further reduction would look more like plain dismantling.<br>Well, I hope you get the gist of the "reducing modification"?
+220	The customer's wish is our law! The navigation computer is successfully installed, and from now on your tranclucator can make hyperjumps outside the safe cargo hold too.<br>Just make sure it doesn't fly off to the dominators, heh-heh.
+221	We can also install a full-fledged <clr>navigation computer<clrEnd> on your robot, which will let it calculate and make hyperspace jumps on its own.
+222	Ah, I see the offer interests you?<br>As you know, after the recent "incident" with the dominators, the factories are afraid to install navigation computers on tranclucators. But our network of technology centers is not so superstitious, and decided to fix the obvious oversight.<br>Essentially, the version of the navigation computer we developed is almost no different from the one installed on your ship right now. True, so that an artificial intelligence could use the computer, we had to expand its autonomy a little, but this did not affect the overall efficiency of hyperjump calculations.<br>The computer also comes with a specially designed <clr>electronic wallet<clrEnd> for the tranclucator, from which your "pet" will be able to pay for its own fuel. Yes, machines are getting more and more independent these days, heh-heh. Although you, naturally, will be the one topping up this wallet.<br>The full cost of installing a navigation computer for your robot model will be <0> cr. Also, to interact with the device correctly, <1> (<clr>TL <2><clrEnd>) must have a technology level of at least <3>.<br>Do the terms suit you?
+223	At your command, master! Hyperjump preparations canceled.
+224	At your command, master! Course to the <0> system plotted. Proceeding with the hyperjump.
+226	Sorry, master, but I don't have enough fuel for this hyperjump. I need to refuel.
+227	Sorry, master, but my engine power is insufficient for this hyperjump.
+233	2. Auto-refuel: <color=45,105,45>Allowed</color>
+235	2. Auto-refuel: <color=255,0,0>Prohibited</color>
+239	1. Auto-follow: <color=255,0,0>Prohibited</color>
+241	Thank you, master! From now on I am <0>.
+243	Master, you can change my name to whatever you see fit at any time.<br>If you want my name to stand out in a non-standard color, use special commands when entering it: <0><1><2>Name<3><4><5>
+245	Our center offers a whole range of tranclucator upgrade services. From a simple repaint and increased hull capacity to installing the latest combat systems that can significantly boost your "pet's" offensive potential.<br><0>And if you have long dreamed of fitting it with a more powerful engine, grapple, gun or some other useful device but never had enough free space, then for a relatively small fee we can easily "squeeze" the desired equipment down to perfectly acceptable dimensions.<br>So, how would you like to upgrade <1>?
+246	1. Auto-follow: <color=45,105,45>To any systems</color>
+247	1. Auto-follow: <color=45,105,45>To unoccupied systems</color>
+248	1. Auto-follow: <color=45,105,45>To unoccupied</color>
+249	1. Auto-follow: <color=45,105,45>To any</color>
+251	4. Wallet balance: <0> cr.
+252	3. Charge replenishment: <color=45,105,45>Allowed</color>
+253	3. Charge replenishment: <color=255,0,0>Prohibited</color>
+256	A pity. A tranclucator, <Player>, is a humanoid's friend! Don't neglect its gear, because one day it may well save your life.
+257	There, all done! <0>
+258	By the way, while you're here, maybe you'd like to shrink something else? After all, the bigger the better, right? I mean, the smaller... You know what I mean.
+259	Order accepted. Wait for it to be completed in that comfy chair over there.<br>...<br><0>
+260	Would you like to do anything else?
+261	Let's see...<br>...<br>Sorry, <Player>, but we found no equipment suitable for reduction in either your cargo hold or your tranclucator. I suggest you make other upgrades or buy new equipment in our store.
+262	list of suitable equipment from your tranclucator.
+263	list of suitable equipment. Equipment from your tranclucator is highlighted in <clr>green<clrEnd>.
+264	<0> <1><br>To simplify all calculations we have a rule: <clr>"Half the size for half the price"<clrEnd> - which means... Though you've probably already guessed:<br><2><br><3><4><5><br>So, what shall we shrink?
+265	list of suitable equipment from your cargo hold.
+267	Master, do you really want to kill me?<br>...<br>Tell me, does dying hurt?
+268	I know I shouldn't say this, but... I love you, master. I want you to know that before you smash my computing processor.
+269	Krrraaa...looks like your shot damaged my emotion blocker.<br>Ow! Ow! It hurts so much! I don't want to die. Master, spare me!
+270	If I'm destined to die at your hand, please, tell me at the end that I was a good robot!
+271	Master... why?
+272	Your displeasure hurts me more than your guns.
+273	Why, master? Did I let you down somehow?
+274	Ouch! I can feel pain too ;C
+275	How much to withdraw?
+277	How much to deposit?
+279	<color=255,140,0>Orange</color> - like a fresh orange
+280	<color=192,192,192>Steel (with blue lights)</color> - a true mechanical friend!
+281	<color=192,192,192>Steel (with red lights)</color> - a regular Terminator!
+282	<color=0,255,255>Cyan (with blue lights)</color> - like the sea at the Mauna Roa resorts
+283	<color=0,255,255>Cyan (with yellow lights)</color> - like exotic ice cream
+284	<color=110,130,145>Gray</color> - plain and unnoticeable, it lets you get close to the enemy's heart - living or mechanical!
+285	<color=144,238,144>Light green</color> - like Rakhishian pond slime
+286	<color=255,105,180>Pink</color> - a female special agent would like it
+287	<color=135,118,73>Lilac</color> - the best color for a native of Eipentak, probably
+288	Combat behavior settings
+289	Don't use the afterburner
+290	I will activate the afterburner
+291	Use the afterburner
+292	I will not activate the afterburner
+293	Fly to both stations and planets
+294	Fly to planets only
+295	The destination will be the nearest station
+296	Fly to stations only
+297	The destination will be the nearest planet
+298	The destination will be the nearest planet or station
+299	Keep flying no matter what
+300	Fly away if hull structure drops below 50%
+301	Fly away if hull structure drops below 75%
+302	I will keep flying until hull structure drops below 25%
+303	Fly away if hull structure drops below 25%
+304	I will keep flying until hull structure drops below 50%
+305	I will keep flying until hull structure drops below 75%
+306	I will keep flying until I receive instructions from you
+307	Master, you can specify the situation in which I must immediately leave space and land on the nearest object. You can also specify where I should land and whether I may use the afterburner while doing so.<br><br>Current rules:<br><0>
+308	Perhaps now is not the time
+309	Skill set
+310	Oh, of course!<br><br>I think you know perfectly well without us, having run into the situation many times, that the base configuration of any tranclucator lacks a full set of behavior programs.<br><br>Outrageous, isn't it?<br><br>That is why our network offers a set of combat programs for purchase that will let your "little one" behave more confidently in battle: it is a <clr>full set<clrEnd> of programs for the efficient use of equipment, plus a general set of tactical ones - our specialists rate the robots' resulting capabilities after installation as <clr>three<clrEnd> out of six on the generalized scale.<br><br>All this will cost you <0> cr.<br>Well, do we have a deal?
+311	Well, that's it. All the necessary programs are already installed in the tranclucator's onboard computer. Enjoy!
+312	Well, sounds interesting. Let's begin!
+313	Tech level:
+314	units
+315	Hull structure:
+317	My master <Ship> wants you dead as soon as possible, but right now I have no time to carry out their will. For now.
+318	Sorry, <Player>. I follow the orders of my master <Ship> and have no time for outside chatter.
+319	My master <Ship> sends their regards! Get ready to meet your assembly line!
+320	Just so you know: when my master <Ship> ordered me to destroy you, I processed that command for only <RndTime> seconds.
+321	Now die!
+322	Nothing personal, <Player>. My master <Ship> just ordered me to dismantle you in the most sophisticated and sadistic way possible.
+323	Master lost. Self-destruct program started.
+324	All ships in the vicinity are advised to keep their distance.
+325	Cheekygrab
+326	Tailwit
+327	Bitemir
+328	Lyubomur
+329	Yarotsap
+330	Sixer
+331	Pawn
+332	Rook
+333	Knight
+334	Pumbaa
+335	Sevener
+336	Clunker
+337	Mister Bibbles
+338	General Stump
+339	Deviable
+340	Penchecrak
+341	Cornfeed
+342	Cabbage White
+343	Fearless
+344	Tinsmith
+345	Timon
+346	Barsik
+347	Fiddler
+348	Cruelus
+349	Aria
+350	Black Sabbath
+351	Andrew
+352	Pikachu
+353	Buratino
+354	Pinocchio
+355	Chmobyr
+356	Borya
+358	Mazay
+359	Algul
+360	BMP-90210
+361	Grozny
+362	Nocheblud
+363	T-100500
+364	Field Marshal Oak
+365	OD-4891
+366	Patronus
+367	Greenie
+368	Patchy
+369	Leviathan
+370	David
+371	Goliath
+372	Hachiko
+373	Semyonych
+374	Petrovich
+375	Grendizer
+376	Megazord
+377	Optimus
+378	Ringo
+379	Roach
+380	Friday
+381	Wilson
+382	Watson
+383	Sonny
+384	Discharge
+385	Morty
+386	Marvin
+387	Butters
+388	Shmyga
+389	Johnny 9
+390	WILL-E
+391	Creeper
+392	Casper
+394	Ecilop
+395	Coco
+396	TARDIS
+397	Big Bad Wolf
+398	Jar Jar
+399	Pukas
+400	Vseslavur
+401	Palantir
+402	Murkotyan
+403	Rusich
+404	Tail
+405	Wanderer
+406	GOST
+407	Sir Turnip
+408	Klumbar
+409	Sancho Panza
+410	Petka
+411	Vlasik
+412	Chance of dealing maximum damage: <SkillValue><color=255,240,100>%</color>. Depends on the enemy's maneuverability.
+413	Positive reaction from those around you increases by <SkillValue><color=255,240,100>%</color>, as do the rewards for completing missions.
+414	The pilot can have <SkillValue> other ships under their command and receives up to <SkillValue2><color=255,240,100>%</color> of the experience earned by subordinates.
+416	Chance of receiving minimum damage: <SkillValue><color=255,240,100>%</color>. Depends on the enemy's accuracy.
+417	Equipment wears out <SkillValue><color=255,240,100>%</color> more slowly than usual.
+418	Ability to control <N> probes
+419	and <SkillLevel> tranclucators.
+420	The pilot can sell equipment and weapons for <SkillValue><color=255,240,100>%</color> of their actual value. The selling price is <SkillValue2><color=255,240,100>%</color> closer to the optimal one.
+422	3. Swap equipment: <color=255,0,0>Prohibited</color>
+423	3. Swap equipment: <color=45,105,45>Allowed</color>
+427	1. Allowed to collect:
+429	2. Landing: <color=255,0,0>Prohibited</color>
+431	2. Allowed to land on:
+436	You're not actually supposed to see this thing, but if you do, please send the details and attach your save to the bug report section of the <color=255,240,100>PB Free Bay</color> Discord server.

@@ -1,0 +1,3 @@
+20	if (MessageBoxYesNo('Будете ремонтировать оборудование?'))	if (MessageBoxYesNo('Shall you repair equipment?'))
+32	MessageBox('Оборудование не годится для разбора на запчасти, у него нет неповрежденных блоков');	MessageBox('Equipment is not suitable for dismantling for parts, it does not have undamaged blocks');
+33	MessageBox('Оборудование под напряжением, разбор устройства невозможен');	MessageBox('The equipment is energized, disassembly of the device is not possible');

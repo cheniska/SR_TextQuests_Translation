@@ -1,0 +1,4 @@
+1	Items/Weapon/Missile/Mabokit/Name
+2	Items/Weapon/Missile/Mabokit/Text
+3	Items/Weapon/Name/Mabokit
+4	Items/Weapon/Text/Mabokit

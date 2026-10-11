@@ -1,0 +1,58 @@
+Координатор	Coordinator
+Стволовик	Damper
+(требует ремонта)	(repairs required)
+Деструктуризатор	Destructurizer
+(сломан)	(broken)
+Аргент	Argent
+Релектор	Relector
+Рапторизатор	Raptorizer
+Бином Т-21/4	Binomial T-21/4
+Стабилитрон	Stabilitron
+Дестабилизатор	Destabilizer
+Спектрон	Spectron
+(не работает)	(not functional)
+Мимикрон	Mimicron
+Обогатитель	Enricher
+Турбийон	Turbion
+Репродуктор	Reproducer
+Гнездотрон	Nestotron
+(не функционирует)	(non-functional)
+Акселирин	Accelerine
+Мичурер	Michurer
+(испорчен)	(damaged)
+Спимер	Spimmer
+Блазер	Blazer
+Келлер	Keller
+Террон	Terron
+Инбридон	Inbreedon
+Метаблок	Metablock
+Гробот	Grobot
+Энергопакет	Energopack
+Мощность	Power
+Дальность	Range
+Прыжок	Jump
+Скорость	Speed
+Урон	Damage
+Базовая конструкция	Basic Construction
+Стригер	Strigger
+Возьмите все оборудование доминаторов	Take all dominator equipment
+Назад	Back
+Исследования успешно завершены.	Research successfully completed.
+Промышленный лазер	Industrial Laser
+Атомный визион	Atomic Vision
+Дезинтегратор	Disintegrator
+Турбогравир	Turbogravitron
+ИМХО-9000	IMHO-9000
+Вертикс	Vertix
+Торпедный аппарат	Torpedo Tube
+Эсодафер	Esodapher
+Кафаситор	Caphasitor
+Лирекрон	Lirecron
+Осколочное орудие	Fragmentation Weapons
+Лезка	Flux
+Ракетомет	Missile Launcher
+Третон	Treton
+Волновой фазер	Wave Phaser
+Потоковый бластер	Flow Blaster
+Электронный резак	Electronic Cutter
+Мультирезонатор	Multiresonator

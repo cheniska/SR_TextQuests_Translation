@@ -1,0 +1,6 @@
+127	токены/числа/длина	<br>Вспомогательный боевой вычислительный модуль последнего поколения  => <br>Auxiliary combat computing module of the latest generation "Jebe".
+132	токены/числа/длина	<br>Вспомогательный боевой вычислительный модуль последнего поколения  => <br>Auxiliary combat computing module of the latest generation "Jebe".
+136	токены/числа/длина	<br>Представляет собой субквантовый суперкомпьютер, способный временно => <br>It is a sub-quantum supercomputer capable of temporarily replacing
+147	раса с заглавной	Катахионная форсажная камера успешно установлена. Теперь-то ваш <0>, н => The catachion afterburner has been successfully installed. Now your <0
+154	токены/числа/длина	<br>Как вы знаете, на сегодняшний день самыми распространёнными средст => <br>As you know, today the most common means of space protection in th
+155	токены/числа/длина	<br>Как вы знаете, на сегодняшний день самыми распространёнными средст => <br>As you know, today the most common means of space protection in th

@@ -1,0 +1,13 @@
+Сила энергетического оружия: <bonWEnergy> ед.	Energy weapons damage: <bonWEnergy>
+Сила осколочного оружия: <bonWSplinter> ед.	Fragmentation weapons damage: <bonWSplinter>
+Дальность стрельбы: <bonWRadius> млн км	Firing range: <bonWRadius> million km
+Стоимость: <clr>+25%<clrEnd>	Cost: <clr>+25%<clrEnd>
+Эффективность дроида: <bonDroid> ед.	Droid effectiveness: <bonDroid>
+Мощность защитного поля: <bonDef><clr>%<clrEnd>	Shield power: <bonDef><clr>%<clrEnd>
+Навык торговли: <bonSkill4>	Commerce skill: <bonSkill4>
+Скорость двигателя: <bonSpeed> ед.	Engine speed: <bonSpeed>
+Дальность прыжка: <bonJump> пк.	Jump range: <bonJump> pc
+Стоимость: <clr>+50%<clrEnd>	Cost: <clr>+50%<clrEnd>
+Мощность сканера: <bonScan><clr>%<clrEnd>	Scanner power: <bonScan><clr>%<clrEnd>
+Сила ракетного оружия: <bonWMissile> ед.	Missile weapons damage: <bonWMissile>
+Скорость ракет: <bonMissileSpeed> ед.	Missile speed: <bonMissileSpeed> units

@@ -1,0 +1,5 @@
+1	GalaxyNews/DominatorBlackHole/Create
+2	GalaxyNews/DominatorBlackHole/Create1
+3	GalaxyNews/DominatorBlackHole/Create2
+4	GalaxyNews/DominatorBlackHole/Create3
+5	ShipInfo/AddInfo/CustomInfos/DomInfoBH/Description
