@@ -1,0 +1,12 @@
+2	Hits the target with a charge of ionized gas heated to a plasma state, dealing <CntAttacks>x(<MinDamage>-<MaxDamage>)<Bonus> damage at a range of up to <Radius>.
+3	Weapons with the "Armolok" modification can use high-precision shots to disable the target's weapon control channel concentrator, depriving the enemy of the ability to return fire for a time.
+4	(to apply the bonus, the scanner power must<br>exceed the target's protection)
+5	A serial kit of modified gun assemblies and software upgrades, "Difrod", that increases the power of any type of weapon.
+6	Damage bonus: <clr>+15%<clrEnd>
+8	The next stage in the development of the Plasmagun. By reducing the rate of fire, a substantial increase in the gun's reliability was achieved. In addition, the modified power plant turned out noticeably lighter, and the plasma streams it fires are more powerful and retain their penetrating force longer.
+9	Firing range: <clr>+80<clrEnd> mln km
+10	Additional shots: <clr>-1<clrEnd>
+11	<color=248,252,248>The next step in the development of the Plasmagun. The modified power plant is significantly more expensive and overheats faster, but in return it increases the rate of fire and firing range, and also reduces the volume the gun takes up.</color>
+12	Designed for targeted shooting at repair robots, weapons with the "Dzhavitor" modification can fire along a droid's path of movement, thereby getting a chance to block an enemy ship from carrying out repairs during battle.
+13	Weapons upgraded under the "Lifokar" project deal additional damage to damaged targets, using a mechanism of sequential ultra-precise fire into hull breaches.
+14	Damage bonus: <clr>up to +33%<clrEnd>

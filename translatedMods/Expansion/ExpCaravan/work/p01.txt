@@ -1,0 +1,23 @@
+1	Ah, it's you, <Player>. Sorry, but I have no time to chat with you, we'll talk another time.
+2	Hello, <Player>! I'm sincerely glad to meet you in these boundless reaches of space.<br>Unfortunately, I have absolutely no time to chat right now, I'm very busy, but I honestly promise to have a mug of Mahpella with you some other time.
+3	Ah, damned pirate! Come here, then! Come, and I'll hit you so hard you'll fly off to the klissans in the next arm!!!
+4	Hey, don't hog this frequency! I'm on an important mission and have no time to jabber with you right now.
+5	Greetings, <Player>! Please forgive me, but I'm on a mission right now and can't be distracted.
+6	May your communicator crack! Get off my screen, <Player>, I really have no time for your ugly mug right now!
+7	Hey, folks, where can a guy dump what he's earned by backbreaking work around here?
+8	Containers
+9	You could have offered more, but all right, I'll sell it brotherly. I can't be bothered to drag this junk anywhere else anyway
+10	Pfft! Do only paupers become pirates? That wouldn't even cover my guns' overheating!
+11	Um... Sorry, not now
+12	Of course I'll hand them over! Here you go!
+13	Comrade Colonel, I fought off some important containers in battle here, would you take a look at what they are?
+14	What, <Player>, ripped some sucker off for his cargo? And you, I see, are not so simple at all, though looking at your mug you would never guess you could do such a thing. All right, me and the buddies will take a look at what is smoking up your hold.<br>...<br>Well, anyway, we put our heads together here with the guys and came to the conclusion that we are quite ready to spare <0> cr. for your junk. But not a credit more, sorry. I am no grandson of Rook-Feel'Er.
+15	Hey, listen! Know your limits, for real! Or we might get offended over something like that.
+16	Well then, it's a deal! We've already unloaded <0> from your hold, and here's your moolah, take it and sign for it.<br>And, uh, one more thing... Respect to you, anyway. You did the right thing, the Clan won't forget.
+17	S-o-o, Ranger, what do we have here...<br><br>Wow! Why, these are our... Ahem. Forgive me, Ranger, military secret.<br>But we are ready to pay you for each container. <0> cr. from CAFIC funds and our respect.
+18	Ah, Ranger! What an example you set for the younger generation!<br><br>Well, if you change your mind, we'll always be glad to take them.
+19	Well, Ranger, you're simply a fine fellow!<br>We'll deliver these containers where they need to go, and you can fly on with an easy mind.
+20	Container with unknown cargo
+21	All you can do is guess what's inside.
+22	Hidden info item for recording the transport's last coordinates
+23	Hidden info item for enabling the military to shoot at a container

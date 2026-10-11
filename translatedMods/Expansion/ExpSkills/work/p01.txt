@@ -1,0 +1,28 @@
+1	Additional Energy Charge
+2	Clean and Tidy
+3	Upgraded Afterburner Systems
+4	Newest Grounding Systems
+5	Increased Missile Damage
+6	Spread Reduction
+7	Precise Targeting
+8	Energy Damage Reduction
+9	Missile Damage Reduction
+10	Splinter Damage Reduction
+11	Evasive Maneuver
+12	Extra Equipment Protection
+13	Redirects excess energy from the ship's passive systems to the energy weapon systems at the moment of firing. Damage from energy weapons is increased by VAR.
+14	Careful maintenance of the equipment's condition reduces its wear by VAR% during everyday use. However, this does not apply to damage received in battle or in any other way.
+15	An improved cooling system and finer tuning of the engine overload parameters reduce its wear by VAR% during afterburner use.
+16	A revolutionary protection system that, with a VAR% chance, completely neutralizes the effect of the enemy's special weapons when your ship is damaged.
+17	Firing a missile at a certain angle lets you hit the enemy ship's unprotected parts more effectively. Damage dealt by missile weapons is increased by VAR.
+18	The spread of splinter-type guns is reduced, and with it the total area of effect, but the additional penetrating power increases damage by VAR.
+19	When targeting damaged parts, breached plating, or minimal defense generator field concentration, there is a VAR% chance that the damage dealt will be doubled.
+20	When you take energy damage, you try to expose the more protected and less important parts of the ship, reducing the damage taken from energy weapons by VAR%.
+21	When you take damage from missiles and torpedoes, you try to expose the more protected and less important parts of the ship, reducing the damage taken from missile weapons by VAR%.
+22	When you take splinter damage, you try to expose the more protected and less important parts of the ship, reducing the damage taken from splinter weapons by VAR%.
+23	Having learned to quickly analyze the situation during battle and guess the trajectory of a shot, you have a VAR% chance to dodge an enemy hit and take no damage.
+24	Reinforced protection in critical places and additional power system fuses reduce equipment wear from damage taken from hits by VAR%.
+25	<br>Requires PNT experience points to upgrade the skill.
+26	<br>Requires the skill "SKILL".
+27	Extra skills
+28	perk info
