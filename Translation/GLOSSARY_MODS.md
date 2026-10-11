@@ -211,3 +211,5 @@
 | Имхоняр; Торпедяр; Вертиксяр; Апдэйтер | IMHOnar; Torpedar; Vertixar; Updater | RefNisper (микромодули) |
 | модульные роботы; жестянки | modular robots; tin cans | RefMaps |
 | Электропус; Нар-чай; Айлинойл-101 | Electropus; Nar Tea; Ailinoil-101 | RefMaps |
+| Стеллар; Конструкторское бюро (КБ); крипторы; экстрамерность; Ниргенд Азур; Нан | Stellar; Design Bureau (DB); cryptors; extradimensionality; Nirgend Azur; Nan | Kotyanka/Cat_DesignDepartment |
+| Космические Пейджеры; Мэлджи-Чек | Space Pagers; Meldzhi-Check | Kotyanka/Cat_DesignDepartment (пародии) |
