@@ -1,0 +1,23 @@
+1	Object
+2	A third-level micromodule. The fruit of the scientific thought of unknown races. The principles of operation and the name of the micromodule used by its creators have never been established by scientists. The only thing that has been understood is the micromodule's effect on equipment. Compatible only with equipment of <color=255,0,255>unknown races</color>.
+3	Tank capacity: <bonFuel> units
+4	Power of any weapon: <clr>+7<clrEnd> units
+5	A second-level micromodule. The fruit of the scientific thought of unknown races. The principles of operation and the name of the micromodule used by its creators have never been established by scientists. The only thing that has been understood is the micromodule's effect on equipment. Compatible only with equipment of <color=255,0,255>unknown races</color>.
+6	Reliability: <clr>-20%<clrEnd>
+7	A first-level micromodule. The fruit of the scientific thought of unknown races. The principles of operation and the name of the micromodule used by its creators have never been established by scientists. The only thing that has been understood is the micromodule's effect on equipment. Compatible only with equipment of <color=255,0,255>unknown races</color>.
+8	Reliability: <clr>-10%<clrEnd>
+9	Reliability: <clr>+5%<clrEnd>
+10	Gripper range: <bonHookRadius> million km
+11	Gripper pull speed from afar: <bonHookMaxSpeed>.
+12	Gripper pull speed up close: <bonHookMinSpeed>
+13	Size: <clr>+30%<clrEnd>
+14	Increases hull susceptibility by <clr>15<clrEnd>%
+15	Increases acryn bonuses by <clr>25<clrEnd>%
+16	Weapon ammo: <bonAmmo> pcs.
+17	Rate of fire: +<clr>1<clrEnd>
+18	Size: <clr>+40%<clrEnd>
+19	Reduces the hull's <clr>susceptibility to asteroid hits<clrEnd> by <clr>45<clrEnd>%
+20	Opens slots for <clr>two weapons, two artifacts, a shield generator and a droid<clrEnd>
+21	Reduces acryn debuffs by <clr>40<clrEnd>%
+22	Increases acryn buffs by <clr>10<clrEnd>%
+23	Missile weapon ammo: <clr>+25<clrEnd> pcs.

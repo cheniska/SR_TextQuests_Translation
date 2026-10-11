@@ -1,0 +1,25 @@
+1	<color=248,252,248>The concentration of all the Coalition's developments in research. Electronite radar system boosters, a quasi-generator of subspace bubbles, and, as the crowning achievement, the newest cloaking system, which allows you to fly with impunity through territory controlled by any faction. There is nothing superfluous in this hull. For a scientist, of course.</color>
+2	Probe limit: <bonZonds> pcs.
+3	<color=20,220,20>Scanner and radar operation guaranteed</color>
+4	<color=248,252,248>Brazen raids into enemy territory are the pastime of any ataman. And such work calls for a special ship that meets such demands.</color>
+5	<color=248,252,248>An additional reactor on the gun deck allows the effectiveness of any weaponry to be raised colossally, and at peak load it can even deliver a</color> <clr>superpowerful<clrEnd> <color=248,252,248>shot - the ideal choice for the ideal killer.</color>
+6	"Iron" <color=248,252,248>was intended by Coalition troops to suppress enemy firing points with superior fire. But it turned out to be insufficient, and scientists created a new creation -</color> <color=20,240,20>Bastion</color>.
+7	<color=248,252,248>Auxiliary repair units, shield boosters, the newest armor plates hardened by micro-bombardment with protection from "chamber" missiles, and also the dream of any military man: </color><clr>an additional gun deck<clrEnd><color=248,252,248>, which essentially doubles the ship's firepower.</color>
+8	<color=248,252,248>Alas, this comes at the price of low speed, but with proper equipment this space armored vehicle will hardly ever need it.</color>
+9	Shield power: <bonDef>%
+10	Asteroid damage absorption: <bonResistAsteroid>%
+11	<color=20,220,20>Shield generator operation guaranteed</color>
+12	Turn on invisibility mode
+13	Counter-battery fire mode: <clr>On<clrEnd>
+14	Counter-battery fire mode: <clr>Off<clrEnd>
+15	Invisibility mode: <clr>On<clrEnd>
+16	Invisibility mode: <clr>Off<clrEnd>
+17	Turn off counter-battery fire mode
+18	Turn on counter-battery fire mode
+19	Turn off invisibility mode
+20	You have left normal space, the additional gun deck has been folded away.
+21	You have left normal space, invisibility mode has been deactivated.
+22	Info item with a CRIT chance
+23	Flag info item. Was
+24	Because form open/close events only fire for the ship they are attached to, otherwise it would be too easy
+25	Info item with the Meteor's invulnerability

@@ -1,0 +1,27 @@
+1	A small round map, suitable for practicing work with a circle. It creates no particular obstacles, but there's no escaping from it either.
+2	Belt
+3	A bubble stretched along the meridian with anomalies at the "poles," which makes movement and evasion inside it somewhat difficult.
+4	Stripes
+5	A small subspace bubble with unique formations, named by one of the hyperspace pirates of our Arm, known in narrow circles, Bambay Zhraik, the Crosses - after a gaal prison for political prisoners and prisoners of war.
+6	Crosses and Chains
+7	A seemingly quite ordinary bubble, but in some areas pilots noticed that their ship begins to fall apart by itself. How this happens is a mystery that needs study. However, hyperpirates don't care, as long as their victim falls apart faster.
+8	Standard Anomaly
+9	A spiral bubble with an anomaly in the center, because of which movement through the bubble is extremely difficult. That is why few ever got out of this subspace object...
+10	A shabby bubble with narrow passages and frequent exits. Leaving it is easy, but what about winning?
+11	Solid Ventilation
+12	This bubble is one solid maze... But it sticks strictly to round and roundish formations.
+13	Spiral Maze
+14	A fairly large map for chasing opponents. Or are they chasing you?
+15	Whirligig
+16	Another example of strange hyperbubbles? Or is it just a lucky outcome of a set of random events? All that matters is that maneuvering here is quite difficult
+17	Butterfly
+18	This bubble is another argument of the group of scientists who consider hyperspace bubbles to be something more. Its shapes are absolute gigantism. It feels like an ordinary bubble was simply stretched by force, and the ship shakes from the imbalance of gravitational flows.
+19	Pilots say that not only the structure of this bubble itself tends toward a circle - their movements in the bubble also rapidly begin to become, if not circular, then clearly close to movement based on the golden ratio.
+20	Circular Matter
+21	After years of study, scientists have still not understood the structure of this bubble. Though hyperpirates haven't bothered them much here either. At last, a counterargument in favor of the random nature of bubbles?
+22	Paw
+23	They say this bubble was created by gaal scientists on the orders of some old baron, who then killed them so they wouldn't give away his lair. They also say this legend is spread by cultists who hold gatherings here. One thing matters - this bubble looks like a mask of primitive people.
+24	Mask
+25	A somewhat flattened circular bubble with several barriers. Good for races against opponents.
+26	Curvature
+27	About two hundred years ago, a group called "Yuna Europa" operated in our sector. These extremists kidnapped from their own offices officials suspected of embezzlement, military men accused of abuse of authority, and particularly notorious bandits, and sealed them in capsules that were dropped into a hyperspace bubble, where they were starved to death. Some volunteers were given a ship on which they had to either kill one of the guards or die.

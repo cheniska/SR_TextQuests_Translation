@@ -1,0 +1,11 @@
+1	"Dementor"
+2	<color=248,252,248>Experiments with newly discovered particles, as well as with dark matter, led to a far more disintegrating result when the active substance explodes. The resulting installation was named after a creature from ancient fairy tales of the human race, but everyone abandoned its use except the races for which the result matters more than the price</color>
+3	<color=248,252,248>Additional effects:</color> <clr>No damage spread, EM interference, ionization, equipment destruction<clrEnd>
+4	"Energos"
+5	<color=248,252,248>A powerful plasma generator supplied by a compact antimatter power unit is the path to the mightiest of guns. The excessive energy output causes many anomalies in the impact zone, which worsen the conduct of battle</color>
+6	<color=248,252,248>Additional effects:</color> <clr>EM interference, Ionization, Equipment destruction, Blocks weapons and the droid<clrEnd>
+7	"Sunburn"
+8	The power of a thousand suns <color=248,252,248>- in a single gun! A preliminary synthesis, similar to the one that ignites stars, allows the charge to be saturated with enough energy to burn enemy ships, destroying their armor. True, such power cannot reach the maximum range available to this plasma fire system.</color>
+9	<color=248,252,248>Additional effects:</color> <clr>Increased damage to damaged targets<clrEnd>
+10	<color=248,252,248>Damage bonus:</color> <clr>15%<clrEnd>
+11	<color=248,252,248>(requires scanner power to exceed the target's defense)</color>

@@ -1,0 +1,8 @@
+1	Destroy everything! This system's resources will be redirected to building new combat modules!
+2	You nothing! Come closer and learn the might of my guns!
+3	It seems he is not in the mood to chat right now
+4	Logic error in the program. System locked. Ranger <Player>, I need instructions.<br>......<br>......<br>Access for ranger <Player> denied. The commander-in-chief has given the order to self-destruct. Executing.
+5	You are an enemy who tried to deceive me. Surrender and die!
+6	Yeah, I'm flying out right now, sure...
+7	Die yourself, tin can!
+8	Damn you...
