@@ -1,0 +1,79 @@
+1	Loaf
+2	<color=248,252,248>A legendary transport vehicle of human manufacture, popularly called the "Loaf" for its shape, designed as a reliable way to get relatively quickly to any point on both land and in space, produced in practically unchanged form since 1958 while constantly being upgraded and having many modifications, thanks to which it is a maximally adaptable hull, capable of accommodating absolutely any equipment at the pilot's wish, however the build quality and the obsolescence of the design demand more care for the equipment and do not allow one to fully enjoy the handling.</color>
+3	Hull mass: <bonMass>
+4	Asteroid damage absorption: <bonResistAsteroid>%
+5	Good day, ranger.<br><br>The representative office of the famous "Karagon Post" is very interested in your success in transporting cargo and offers you a contract.
+6	Our company provides you with a special hull, and you, in turn, will be obliged to complete <0> successful trips delivering our special cargo, or we may also count the completion of special delivery orders issued to you by the governments of various planets. The contract is concluded for a term of 3 years. I also want to note that you will be paid a certain reward for completing our trips.<br><br>If the terms of the contract are violated you will be obliged to pay compensation for the use of the special hull and for the reputational damage inflicted on the company, in the amount of <1> cr.<br>
+7	You are now an official courier of "Karagon Post", the special hull awaits you in the hangar, you'll find the keys in the glove box. By the way, your working day has already begun!
+8	Here is your cargo for this trip, after delivery you will be given new cargo, payment of the rate and information on the destination of the next trip.
+9	Courier of "Karagon Post", you're just in time, unload the cargo... Now sign for the delivery and receipt of payment, after which you can rest, and then - back on the road: our loaders are waiting for you!
+10	Courier of "Karagon Post", you're just in time, unload the cargo... Wait, where's the rest? <br>All right, it happens to everyone. Here, sign for the delivery and receipt of payment minus the penalty. Now you can rest, and then - back on the road: our loaders are waiting for you!<br>
+11	Courier of "Karagon Post", you're late again, unload the cargo.<br>All right, it happens to everyone. Here, sign for the delivery and receipt of payment minus the penalty. Now you can rest, and then - back on the road: our loaders are waiting for you!<br><br>
+12	Courier of "Karagon Post", you're late again, unload the cargo. Wait, where's the rest?! No, this is beyond all bounds! Take new cargo and try to deliver it intact and on time, if you still need your money, and now - get out of here!
+13	Fair stellar winds to you, "Greatest Courier of the Galaxy".
+14	On what terms?
+15	You know, I don't feel like working for the man...<br>A free life is dearer than any "special hull"!
+16	I agree, where do I sign?
+17	I don't need to be told twice!
+18	Load quicker, my time isn't free!
+19	Sorry, now is not the time for mail!
+20	Go ahead and keep joking, only I'm here earning money, not hauling boxes around the hangar. Ciao!
+21	Fine!
+22	Well, it just turned out that way...
+23	And where can I get the cargo?
+24	So-so, I see the courier, but where's the cargo?
+25	Until I see at least some parcels I can't accept assignments!
+26	Um...
+27	Oh, heck...
+28	Current task - deliver the cargo to the planet
+29	Your contract is annulled, you are struck from the ranks of the couriers of Karagon Post
+30	You fulfilled the terms of the contract. By the contract, after its expiration, provided the plan is fulfilled, you receive the special hull into your ownership as an additional bonus! All the best.
+31	You failed to fulfill the plan of trips prescribed by your contractor. By the contract you must pay compensation for the use of the special hull and reputational damage to the company. Your debt has been transferred to the Business Center, all the best.
+32	You must complete <0> trips within the term. Completed <1>/<2>. <3> days left to complete.
+33	Good day, this is the automatic system for finding Karagon Post employees! Your services in delivering cargo of varying difficulty have not been forgotten and we invite you to an interview: you should arrive on pla. We are waiting for you in our office. Karagon Post - The letter must be long-awaited!
+34	Terrifying news has reached you - the head office of Karagon Post on the planet pla was destroyed together with the rest of the planet. Specialists are still trying to understand the cause of what is happening, but one thing is clear - there is no one left to deliver parcels to...
+35	The planet to which you were taking cargo was destroyed by unknown forces. There is no longer any organized intelligent life there that would need these parcels. A notice came from the Karagon Post office that you must arrive at pla to hand in the cargo and receive new instructions
+36	The system to which you were taking cargo was seized by dominators. A notice came from the Karagon Post office that you must arrive at pla to hand in the cargo and receive new instructions
+37	I want to find out something about my contract...
+38	So, where are the loaders, the freeloaders and the foreman? I've brought parcels for Karagon Post!
+39	Remind me, please, where is your Karagon Post office?
+40	Time doesn't wait? Where's your cargo?!
+41	Excuse me, where is your Karagon Post office, it's about the interview.
+42	Oh! Hear that, you creature that won't let a man live - the sounds of my calm on approach.
+43	You don't have to go far, now I'll give you a beating
+44	Go on, go on, the cops are already on their way
+45	I'm calling Gaalpol now!
+46	You're starting to infuriate me. Begone
+47	Have you got nothing to do?! Beat it.
+48	How long can this go on, stop coming to me
+49	I said closed!
+50	You're not welcome here, ranger!
+51	"Hyperspace Pirates," so... I can tell you something. For a small sum of <0> cr.
+52	So, you can take an assignment from the government of our or some other planet, a special delivery assignment. "Karagon Post" gladly agrees to count assignments completed on its behalf.
+53	<clr>That's it, ranger, the cops have arrived, you're done for, disturber of the peace!<clrEnd>
+54	Courier of "Karagon Post", you're just in time, unload the cargo... Wait, what's this? <br>All right, I think I'll confiscate this "extra cargo" from you and send it to my warehouse "Rakhishberiz". Here, sign for the delivery and receipt of payment... including a small bonus from me. Now you can rest, and then - back on the road: our loaders are waiting for you!<br><br>
+55	So... Go down the corridor, descend two floors... Anyway, here, I'll sketch it for you on a piece of paper.
+56	Good day, what... It's you! How tired of you I am! And you escaped from prison too. What, have you come again to ask when my guys will unload what isn't aboard your tub?!
+57	No way, ranger, the blaster is in my desk drawer right now. Or rather, it was a couple of seconds ago...
+58	What would you like to know?
+59	You are awaited on the planet <0> (system <1>)
+60	Oh, ranger, we haven't found a suitable set of orders for you... Wait a little,
+61	You refused the contract, all the best
+62	You must complete <0> trips. Completed <1>/<2>. <3> days left to complete.
+63	But I... I can't deliver the parcels! They.. Were taken away by hyperspace pirates!
+64	No, I think I'll decline
+65	So that's how it is, thanks...
+66	Well, foreman. Just you wait!
+67	Earth
+68	Oops...
+69	You're free!
+70	Great!
+71	*head to the office according to the plan given to you*
+72	After wandering a little through the corridors of the building allotted to the bureaucratic apparatus, you reached the right office - the Karagon Post office at the planetary government. A shabby sign and a door with quite rusty, creaky hinges in no way prevented you from entering the office where your tormentor - the foreman - sat.
+73	You'll answer to me, station superintendent, for my imprisonment in the planetary dungeon! Ugh, scoundrel!
+74	Ranger! You died the most inglorious death - you drove a Karagon Post official out of his mind with your impenetrable stupidity, as a result of which he, trying to escape your pursuit, shot you with a blaster. Your name will forever be recorded in psychology textbooks as an example of clinical cretinism, and your relatives will receive an increased payment of 30,000 cr. on loss of a breadwinner who received a pension as a madman.
+75	Where should I go next?
+76	Thanks...
+77	Oh, damn
+78	Karagon Post parcels
+79	Many different parcels, packages and letters of "Karagon Post"

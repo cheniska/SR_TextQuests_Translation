@@ -1,0 +1,40 @@
+176	We have finished assembling the <color=255,240,100>Trade Ship "Ascalon"</color>, boss. It will be waiting for you in the warehouse as soon as you return to headquarters.
+177	Project: <clr>Trade Ship "Ascalon"<clrEnd>
+178	Description: A unique faeyan trade ship whose operating principle is based on a powerful antigravity generator.
+179	Reputation with the Coalition: <RequiredReputation>
+180	Production time: <ProductionTime> d.
+181	Trade Ship "Ascalon"
+182	We have finished assembling the <color=255,240,100>Maloq Ship "Fist of Brogg"</color>, boss. It will be waiting for you in the warehouse as soon as you return to headquarters.
+183	Project: <clr>Maloq Ship "Fist of Brogg"<clrEnd>
+184	Description: The newest maloq warship, with a chance to ignore the target's defense, and for a short period making weapon damage maximal.
+185	Maloq Ship "Fist of Brogg"
+186	We have finished assembling the <color=255,240,100>"Tornado" Hull</color>, boss. It will be waiting for you in the warehouse as soon as you return to headquarters.
+187	Project: <clr>"Tornado" Hull<clrEnd>
+188	Description: A unique human development with an adaptive sub-shield generator operating separately from the main defense systems.
+189	"Tornado" Hull
+190	We have finished assembling the <color=255,240,100>Bomber "Zion"</color>, boss. It will be waiting for you in the warehouse as soon as you return to headquarters.
+191	Project: <clr>Bomber "Zion"<clrEnd>
+192	Description: A missile-carrying ship specially adapted for pelengs, offering the ability to ignore the enemy's armor within a certain radius.
+193	Bomber "Zion"
+194	We have finished assembling the <color=255,240,100>Dreadnought "Bulwark"</color>, boss. It will be waiting for you in the warehouse as soon as you return to headquarters.
+195	Project: <clr>Dreadnought "Bulwark"<clrEnd>
+196	Description: Huge, big and unwieldy. With a pile of guns aboard. But if you want to upgrade it, you'll have to turn to the pirates at the dominion.
+197	Reputation with the pirates: <RequiredReputation>
+198	Dreadnought "Bulwark"
+199	We have finished assembling the <color=255,240,100>Carrier "Friend"</color>, boss. It will be waiting for you in the warehouse as soon as you return to headquarters.
+200	Project: <clr>Carrier "Friend"<clrEnd>
+201	Description: A pirate carrier able to launch pirates and a special missile screen (though the pirates are in a way a screen too, heh-heh).
+202	Carrier "Friend"
+203	Armor Dematerialization
+204	Creates a special deflector field that partially deflects any waves and particles heading toward the plating. Gives the ship a steady <color=255,240,100>15%</color> protection from external damage of any type.
+205	Onboard Deflector Shield
+206	Removes the "jump ban" from pirates after the timer expires (hidden)
+207	Roughly imitates the operation of an aEgis
+208	Unknown Alien Sphere
+209	An alien sphere of unknown origin. The radiation signature indicates it contains a large volume of encoded technical data. Perhaps the engineers at a <color=255,240,100>technology center</color> can tell more?
+210	Research Ketch "Artemis"
+211	<color=248,252,248>It is still unknown who the original author of this project was, but the prototype, created from detailed blueprints in the information spheres, opened unprecedented expanses for exploring near and, in the future, perhaps far space. The sphere of unknown origin interacts with its owner through symbiosis, which has a negative effect on his health. The ship's structure forms a single whole with the pilot, and allows use of the <clr>railguns<clrEnd> built into the hull, created most likely not for attack but for protecting the mysterious sphere. In case of an external threat the ship's hull can repel any attack to sustain the symbiont's life functions.</color>
+212	Trade Station "Ascalon"
+213	"Ascalon"
+214	<color=248,252,248>A ship-station built to order of the Gandey Guild by the faeyan Felen Men, it gathered in itself the best technologies for creating the lead ship of any trade caravan. An immense hold, whose creation became possible only thanks to several powerful antigravitators, makes it possible to store and carry an enormous amount of goods, part of which are needed for the repopulation of the huge colony of nanites that the captain uses for nearly instant restoration of his ship's plating, as well as that of all nearby caravan ships. The ship's defensive and reconnaissance potential surpasses any known analogues owing to its sturdy plating, built by several colonies of Iron Zhupeis, but unfortunately there was no room for gun ports on so capacious a ship, except for missiles, which can be constructed from countless nanites.</color>
+215	Gripper speed: <bonHookMaxSpeed>

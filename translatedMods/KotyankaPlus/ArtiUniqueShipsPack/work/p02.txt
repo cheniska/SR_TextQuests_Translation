@@ -1,0 +1,45 @@
+86	Naturally, we cannot provide you such a ship entirely free of charge. At the very least you will have to pay the cost of materials and the minimum price of the work, but rest assured - on the galactic market such a vessel would cost billions of credits just for the right to fly it for a couple of weeks! To you we are ready to offer a unique chance to become its full owner. What do you say, ranger? Do these terms suit you?
+87	Better think twice, <Player>. We spent years studying such devices, and who else will you take this to? To the scientists? They couldn't care less about xeno-technologies, all their strength is going into the war right now! Or maybe you want to hand this sphere over to the military? Well, let me tell you, the best they can come up with is to load it into a cannon and fire it toward the enemy in hope of a possible victory!
+88	No, <Player>, at the moment nobody but us will bother to figure out this "puzzle", and a unique ship could help you far more than a sack of rapidly depreciating credits.
+89	Ha! Decided to grab all the interesting stuff for yourselves? No way! I'll find a buyer for it with better terms, you'll see!
+90	Hm, well, I suppose I'll agree to your terms. And I don't have many other options anyway.
+91	I found a strange sphere on one planet, I need your...
+92	You will not regret your decision! Come back to our center in <clr>a couple of months<clrEnd>. By then our scientists and mechanics will have been able to figure things out, and you will get a truly unique machine into your hands.
+93	According to the available information, you already meet all the necessary requirements. But there is one catch.
+94	We found this ship by chance in space and definitely determined whom it belonged to. Yes, exactly, you heard right. The owner himself, unfortunately, we never found. The family refused this "multi-ton mountain of metal", but representatives of the galactic trade network together with our technicians found a way to restore the ship, but this would have required a fabulous amount of minerals, and so the project sank into oblivion. And now you turn up with the necessary amount of those very minerals.
+95	Well, very sorry to hear that, <Player>, but we unfortunately cannot force this ship on you. All the best.
+96	I see you have accumulated a huge amount of <clr>minerals<clrEnd> in your warehouse. The Galactic Business Center Network gave me the right to offer the best trader a special ship capable of carrying an enormous amount of goods. Are you interested?
+97	You know, I think I'd better keep my minerals for myself, and let the project languish in oblivion...
+98	And you'll just give it to me?
+99	Yes, of course I'm interested. What is required of me?
+100	Alas, it's not that simple. To observe all formalities, you need to sign these papers, and also wait for the ship's plating to be fully restored, using all your stocks of minerals. And don't look at me like that. The ship will be like new by the end of the day, and I can tell you more about its inventor and first captain.
+101	Being the only son in the family, Felen Men disappointed his parents at once - he was drawn to diplomacy and trade. All his time after graduating from the academy among the top students he spent on his dream - his own trade center. His brilliant mind drew the attention of the trade federation and with its help, and the help of his former classmates, spending all his considerable fortune, he managed to realize his dreams. The only ship-trade station of its kind saw the light of the stars. The ship had practically no weaponry, nor the ability to perform any serious maneuvers. However, the plating was noticeably reinforced, hangars of unprecedented size for trade ships were fitted out and incredibly powerful reactor units installed. Many war veterans were ready to retire onto this ship to guard it. The technicians, not constrained by limits on size and energy consumption, installed the most powerful radars and scanners. The ship received a gripper so powerful that it could grab even small spacecraft. Using his fortune, Felen Men bought up all the artifacts available in the galaxy to strengthen the ship's hull. The crown of his creation was a special area on the ship next to the holds where, absorbing an enormous amount of minerals, nanitoids self-replicated in an equal volume. When the nanomachines were activated, they burst out into nearby space and, directed by special graviton modules, restored the hulls of nearby allied ships within a day.
+102	Oh! I got so carried away telling you about this amazing ship that I didn't notice the message about its readiness. I hope you haven't fallen asleep? The ship awaits you in the hangar! You may go up to the bridge at any time. Good luck!
+103	Oh, this is, one might say, a relic of a past era. A real pirate dreadnought, <color=0,50,200>"Bulwark"</color>! They don't make them like that anymore.
+104	It looks unsightly, but structurally it is a real flying fortress. Besides, further upgrades are possible, but I'll tell you about that only if you pay for the hull. By the way, it will cost you just <Cost> cr.
+105	I'd throw you out an airlock without a spacesuit for words like that! If you don't respect the classics, at least have the conscience to keep your mouth shut!
+106	You seem like one of us, so I can tell you in confidence... We have one cool hull that we can entrust only to a real "tough" pirate like you. The hull isn't cheap, but reliable as a Taron rock!
+107	JUST?! HA-HAH-HA-HAH! What, decided to unload old junk on me at the price of a brand-new "Bugay-TY"? No way, find a sucker!
+108	Honestly, the offer itself sounds so-so, but since you personally say the thing is good - gotta take it. Deal!
+109	The "tough" pirate is me. So what's this <color=0,50,200>rock-like</color> hull of yours?
+110	Now that deserves respect, brother! You definitely won't regret the firepower. Go to the hangar, you'll find your formidable "pocket" dreadnought there.
+111	We can make it even more "bulwarky", of course! True, such an "upgrade" will cost you a pretty penny.
+112	And right away I want to warn you - choose the additional <color=0,50,200>module</color> wisely, because we <color=0,50,200>won't be able</color> to replace it later.
+113	Install the <Acryn> module (<Cost> cr.)
+114	Well, as you know then. But if you change your mind - come back. We have no second hull of this kind suitable for such an upgrade in the Clan anyway.
+115	Everything's pricey here, forget it!
+116	Raise the number of daily salvos to <Count> (<Cost> cr.)
+117	Excellent choice! So, uh-huh... Got the signal from the guys - everything is installed and ready to work. Go enjoy your new toy, brother.
+118	I see you liked our <color=0,50,200>"Bulwark"</color>, huh? If you want, we can "upgrade" it a bit more, so it's really totally awesome.
+119	And what else could you "upgrade" in <color=0,50,200>my "Bulwark"</color>?
+120	Oh! This is the newest warship, designed by a maloq for maloqs - the <HullName>!
+121	Just <Cost> cr. and the nanobrolite pride of our race will appear in your hangar today! Think it over carefully, <Player>, since few pilots before you have been granted such an honor!
+122	You're right, brother. But if you ever get tired of tearing the enemy apart with bare hands, the offer still stands.
+123	Hey, <Player>, in your wide red mug I clearly discern the outlines of a great galactic warrior. I just want to punch it in sign of deep respect, but instead I want to offer you something truly maloq and therefore beautiful...
+124	Uh, no, brother. A real maloq tears enemy fighters apart with his proud bare hands, and if you can't, then shame on you to the forty-second generation!
+125	Oh well - you've persuaded me, here's my money
+126	And what is so wildly "beautiful" that your cave military technology can offer?
+127	Respect can't be bought with money, <Player>, but a superb war machine can easily! Our guys are already nailing the newest dashboard of famous Taron oak into place. Go to the warehouse - take the ship.
+128	What do you mean "how"? Gonna take it, I'm saying? We need an experimental pilot for it, it hasn't undergone field trials yet. But I warn you at once - this hull is almost a real carrier, it teleports the boys from other systems right into your hangars. That is, you essentially turn into a flying "factory" for producing pirates, heh-heh. Just imagine how stunned the military will be!
+129	But such a behemoth will not be cheap, frankly - <Cost> cr.
+130	Well, as you know, "friend". Only keep in mind that there may not be another chance to pilot such a thing.
