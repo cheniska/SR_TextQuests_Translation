@@ -45,9 +45,9 @@
 45	Sorry, bro, but we couldn't find a single wretched little system to which we could move this flying junkyard.
 46	Of course, <Player> - after all, it is thanks to you that we have this wonderful device. We can transport your ship to any system within the range of our portal generator (<0> pc).<br><br>Here is the full list of systems available for transport:
 47	Of course, <Player>! Come by whenever you decide, the boys will go all out for you!
-48	Hello, <Player>. Reminding you that <0> is currently making a hyperspace jump to the <1> system. For our safety - lest you fly into the control room - all departures from the station are strictly forbidden until the jump is complete.<br>By the navigators' calculations we will exit the hyperspace bubble in <2> days, after which you can leave us in complete safety. Until then, I suggest passing the time at the bar over a glass of vtykila, or gazing out the portholes at hyperspace.
+48	Hello, <Player>. Reminding you that <0> is currently making a hyperspace jump to the <1> system. For our safety - lest you fly into the control room - all departures from the station are strictly forbidden until the jump is complete.<br>By the navigators' calculations we will exit the hyperspace bubble in <2> days, after which you can leave us in complete safety. Until then, I suggest passing the time at the bar over a glass of Tokilla, or gazing out the portholes at hyperspace.
 49	Oh, of course! What shall we do with our portal generator?
-50	Heh... Well, that's not how it's done, even if you have the right! But mind you, next time you'll have to pour our whole crew a glass of vtykila!
+50	Heh... Well, that's not how it's done, even if you have the right! But mind you, next time you'll have to pour our whole crew a glass of Tokilla!
 51	Contact <color=0,50,200>pirate base</color> <0>
 52	I have a couple of questions about your station
 53	And what interests you about our station?

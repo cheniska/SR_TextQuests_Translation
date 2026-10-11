@@ -1,0 +1,96 @@
+107	</color>System: <0><br>Sector: <1><br><br><br>
+108	</color><br><br><br><color=255,0,0>The system is defenseless!</color>
+109	Hey, now don't get too cheeky, okay?! Plenty of our scouts gave their lives for this data, by the way! Probably...
+110	No, it's a bit pricey
+111	</color>Buy a fresh intelligence report
+112	<color=0,50,200>Total in the system</color>
+113	Here is the full summary of all combat-ready Coalition warships for today:<br> <br><0><br> <br>Total in the Galaxy: <1>
+114	Of course, your piratehood, here is the full summary of all combat-ready Coalition warships for today:<br> <br><0><br> <br>Total in the Galaxy: <1>
+115	Provide me with full information on the size of the Coalition fleet
+116	I want to order a DDoS attack on the ranger center network
+117	<br>Dreadnoughts: <0>
+118	Dreadnought
+119	<br>Battleships: <0>
+120	</color><clrEnd>System: <0><br>Sector: <1><br>Military objects: <color=255,0,0>0</color>
+121	</color><clrEnd>System: <0><br>Sector: <1><br>Military objects: <2>
+122	Exchange micromodules for nodes
+123	I'd like to spoil somebody's life...
+124	And if somebody has really got your goat, we can help you get even with him.
+125	Oh, did someone put pepper on your tail? Never mind, we can lend a hand here.<br><br>So, our guys can break into the Coalition databases and "correct" information about certain persons in the <clr>Ranger Corps<clrEnd>.<br><br>But of course, don't forget you'll have to splurge on a glass of Tokilla for the boys - about <0> cr. or so.
+126	So, before you is the full list of Ranger Corps members.<br>Choose!
+127	Excellent! Our boys will edit the information on this individual in no time.<br><br>In the meantime you can have some ekup at our bar.
+128	Nah, not today, scratch that
+129	Well, let's look among the rangers for someone...
+130	we didn't find on your partner's ship
+131	we didn't find on the mercenary's ship
+132	we didn't find on the rebel's ship
+133	we didn't find on the secret agent's ship
+134	we didn't find in your tranclucator
+135	we didn't find on your ship
+136	pp.
+137	Besides, they will need <clr>protoplasm<clrEnd>.
+138	Keep in mind that to carry out the work we need <clr>nodes<clrEnd> right here. We can take them from your ship's hold or from storage, but never from your node account.
+139	nd.
+140	Besides, they will need nodes.
+141	<color=220,20,20>missing</color>
+142	million km)
+143	damage at a distance of
+144	t. at a distance of
+145	damage
+146	fuel)
+147	I'd like to retrieve modules from my storage at the Ranger Center
+148	Well, I'll be... Are these real Coalition scientists? What, have they been pardoned already?
+149	Pardoned?<br><br>Not that anyone was chasing them. Brainiacs are like that: they don't care who stands over them, as long as they can tinker with their gadgets. And the fight against the dominators, and various other research, can be very interesting and useful. So they settled in with us.<br><br>So if you need it, you can drop by: these guys will give you full assistance.
+150	Upgrade the equipment of bro <0>
+151	Upgrade the equipment of mercenary <0>
+152	Upgrade the equipment of rebel <0>
+153	Upgrade the equipment of ranger <0>
+154	Upgrade the equipment of secret agent <0>
+155	Upgrade the equipment of <0>
+156	Let's compile a little equipment list...<br>...<br>So there was a request, but there are <0> items suitable for upgrading. Sorry.
+157	Let's compile a little list of equipment suitable for upgrading:<br><0><br><1><2><br>So which of these will we upgrade?
+158	We can involve our best specialists in the experiment on your equipment, but their services won't come cheap. If your finances can't stretch to them, ordinary specialists will do the work. And for a small sum only green interns will undertake the upgrade.<br>Based on the cost of an item like <0> and the rates of our specialists, we get the following:<br><1><br>Best specialists - <2> cr.<br>Ordinary specialists - <3> cr.<br>Interns - <4> cr.<br><5><br>Whom will you entrust the work to, <Player>?
+159	We can involve our best specialists in the experiment on your equipment, but their services won't come cheap. <0> If your finances can't stretch to them, ordinary specialists will do the work. And for a small sum only green interns will undertake the upgrade.<br>Based on the cost of an item like <1> and the rates of our specialists, we get the following:<br><2><br>Best specialists - <3> cr. and <4> <5><br>Ordinary specialists - <6> cr. and <7> <8><br>Interns - <9> cr. and <10> <11><br><12><br><13>Whom will you entrust the work to, <Player>?
+160	Wow, commendable! Do you know how many of my pals loaf around our station with nothing to do? If only we gave them a plasma checker, and a ship, and put them on the firing line... Whoa! They'd beat everybody in no time.<br><br>But we're short on everything except the firing line. So if you take on the material part, we'll provide everything else ourselves.
+161	So, first of all choose the <clr>hull<clrEnd> on which the future hawk will fly. Mind you, we have loads of candidates, and to avoid confusion we'll simply pick a pilot to match the <clr>manufacturer<clrEnd> of the hull you choose, okay?
+162	Go to changing the pilot's equipment
+163	Well, as you wish, pal. But if you do decide, drop by - our guys are far more decisive than you.
+164	No, I think another time
+165	I think I'll choose something else
+166	Excellent, our seasoned specialists have finished the work, and now your equipment - <0> - is even cooler.
+167	Excellent, our seasoned specialists have finished the work, and now your equipment - <0> - is even cooler. Maybe you want to tweak something else while the hand is lucky?
+168	No, that's enough for me
+169	It's a good cause, why not help?
+170	Another time, okay?
+171	Stop the assembly!
+172	I'd like to prepare another pilot
+173	I want to get upgraded artifacts
+174	I want to upgrade my artifacts
+175	Recombinatorics
+176	Our boys recently dabbled with micromodules. Assembled them, disassembled them, scattered them all over the station and assembled them again. Then they dumped everything in a heap and put something together from it. Well, at least that's what I saw, they swear they never left their lab, but my keen eye, lubricated with 49-percent "Yader-Kok"... So, I'm getting off track here.<br><br>Anyway, the gist is this: if you give the guys two micromodules, they promise to give you a completely different one. The cooler the ones you give, the higher the chance that something good comes out. True, for some reason they don't want to take <clr>unique<clrEnd> specimens, even though I told them it would turn out really great, and they started grumbling something about instability, so I didn't hear them out and asked them to be quiet already...<br><br>In short, will you use the service, or did you just come to chew the fat with me?
+177	Cancel! I'm not part of this!
+178	So, the current state of affairs in the recombinatorics department:<br>=================<br>Micromodule 1: <0><br>Micromodule 2: <1><br><br>Chance of getting a micromodule of:<br>level 3: <2>%<br>level 2: <3>%<br>level 1: <4>%<br>=================<br>Service cost: <5> cr.<br>=================
+179	Choose the micromodule you want to "mix in"!
+180	Well, it seems we're done. Congratulations on becoming the happy owner of a brand-spanking-new <0>!<br><br>If you liked our service, come again, our craftsmen will be glad to earn themselves an extra shot of Tokilla.
+181	I guess I was just honing my skills, thanks
+182	Well, let's see what you craftsmen have there...
+183	Not selected
+184	Let's start recombining!
+185	Assign the second micromodule
+186	Reset the second micromodule
+187	Reset the first micromodule
+188	Assign the first micromodule
+189	Well, let's have another round... Oops, I mean another micromodule combination.
+190	Nah, that's all for now
+191	Give me detailed information on the situation on the fronts
+192	pcs.
+193	Working with klissan equipment will also require <clr>protoplasm<clrEnd>:
+194	sys.
+195	Arks
+196	Klissans
+197	Pirate Clan
+198	Coalition
+199	Our analysts have compiled data on the ownership of the Galaxy's systems:
+200	Got it
+201	During a DDoS attack, our hackers can gain temporary access to any ranger's node account, from which nodes can be quietly transferred somewhere else. What we later do with the transferred currency and where we get real nodes is none of your business.<br>What you should know is that for security reasons all account-to-account transfers are made as microtransactions of strictly <clr>1<clrEnd> node each. Accordingly, the more nodes you want to, er... "withdraw", the longer we have to keep DDoSing, and that, as you understand, means additional risks.<br>In short, each withdrawn node will cost you <Cost> cr. By the way, the hackers report that your node account currently holds <NodeAccount> nd.
+202	<br>Hostile stations: <Count>
