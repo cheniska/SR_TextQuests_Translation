@@ -1,0 +1,55 @@
+87	Keep it up, <Player>! The fee for downed pirates, <0> cr., has already been transferred to your account.
+88	As you surely know, <Player>, the pirates are at war with the Coalition now. The problem is that many pirates, especially petty bandits and turncoat Rangers, until a few years ago considered it their sacred duty to rob civilians, and nobody wanted to take a risk like fighting the military.<br><br>Our big shots put their heads together and decided that this wouldn't do. To raise the prestige of "military piracy" we introduced a small bounty for killing soldiers and Rangers. It is now <0> cr. per soldier's head and <1> cr. per Ranger, but the "price tag" may change depending on the strength of the one shot. For assisting in killing a soldier we add <2> cr., for a Ranger - <3> cr.
+89	At the moment we have not noticed any serious activity from the pirates, and therefore Command has decided to temporarily suspend payment of bounties for pirates' heads. You are dismissed.
+90	The dough we shell out for the heads of the cops' lackeys you can, for convenience, collect not only at our base but instantly through the <clr>West-Uni<clrEnd> service. You can access it from your ship's bridge. True, they grab <0>% of the reward for themselves, so sometimes it's better not to be lazy and pick up the whole sum.<br><br>Oh, and I almost forgot: once you switch sides, the cash for shooting the "good guys" stops dripping into your wallet. Pirates aren't happy with traitors.
+91	Nice work, <Player>. The dough, <0> cr., is already in your account.
+92	Sorry, pal, but there's nothing left of the Coalition, so we decided to stop paying bounties for fighting the cops. Even if some lone Rangers remain, they no longer pose a threat anyway.<br><br>For those who still had unclaimed rewards, we decided to return half of the amount. In your case, that is <0> cr. Take this money, and thanks from our entire brotherhood for your help in the war.
+93	Sorry, pal, but there's nothing left of the Coalition, so we decided to stop paying bounties for fighting the cops. Even if some lone Rangers remain, they no longer pose a threat anyway.
+94	Sorry, pal, but our clan has lost all its former grandeur, and no more dough is allocated for bounties. You're on your own for now, brother.
+104	<Player>, have you thought about the fact that space is increasingly littered with debris, abandoned equipment and minerals?<br>The most common things in space are cisterns, so we and the gaalian space-protection organization "Greenspace" decided to begin collecting them. This way we get both fuel for processing and a much cleaner space.<br>Rangers, as the freest and most versatile pilots, are actively recruited to collect cisterns throughout the whole arm of the Galaxy. Cisterns are exchanged at the rate of "<0> units of capacity to <1> units of node account". <br>Because we cannot supply nodes to everyone who wants them, we have set a limit of <2> nd., which is reset on average every year. In addition, when a Ranger reaches the limit, he is given a micromodule. The next limit reset is scheduled for <3>.<br>At the moment you can still receive <4> nd.<br>Would you care, Ranger, to hand over some cisterns to us?
+105	You handed over a cistern with a capacity of <0> units, and <1> nd. has been credited to your node account. You have already received <2> of your allowed nd., <3> nd. remain.<br>Would you care, Ranger, to hand over a few more cisterns to us?
+106	Thank you, Ranger, for helping our cause. This year you handed over to us <0> cisterns with a total volume of <1> units of fuel.<br>As a reward we present you with the micromodule <2>. Don't forget to take part in next year's campaign!
+107	Well, well... Let me check the database...<br>...<br>I'm sorry, your limit is exhausted at the moment. The next limit reset is scheduled for <0>, come back later.
+108	Crystals? Very good! All sorts of gems and formations are always in demand. Right, let's see what you have...<br>...<br>You have <0> crystals aboard. With a markup out of respect for your trading reputation (<1>%), we are ready to take the goods for <2> cr. Well, deal?
+109	<Player>, you have no crystals aboard suitable for handing over. Come back next time you find something on uninhabited planets.
+110	Unlock a credit card, you say? Well, we have specialists for that, let's see how much of this stuff you've got...<br>...<br>We found <0> cards on your tub, with savings on them totaling <1> cr. The commission of our dominion is <2>%, so <3> cr. will go to your account. Transfer?
+111	Our best guys found only one card on your ship, issued in the name of <Player>. Come back when you get more cards.
+112	We have marked in your hold the items that are of special interest to us. We are ready to buy each at <0> the price.
+114	Thank you too!
+120	We also offer Rangers and other pilots an exchange of cisterns for units of node account.
+121	It stands to reason that any organization will pay far more for a live pilot than for a cold corpse.<br>That is why we propose installing on your ship systems that feed everything needed for a humanoid's further life support into the pod.<br><br>It places no great load on the ship, to be sure, but it takes up a lot of space, and it will cost you... <0> cr., though it will let you carry a large number of rescued pilots aboard.
+122	Excellent, Ranger. The systems have been installed on your ship.<br><br>Use them and save as many of the Galaxy's pilots as you can!
+123	We regret, Ranger, but your ship is too small to install such a system.<br>We must decline. Come back when you have a roomier ship.
+124	Alas, that is an unaffordable sum for me right now
+125	I suppose I'm ready to shell out for the sake of a bigger rewa... I meant, for the sake of the joy of saving more humanoids.
+126	Pity...
+127	And what should be done with the pods?
+128	name died in a pod aboard your ship
+129	Whoa, you joking, brother?<br><br>We took some interesting little items from one Ranger the other day, and what do you know - they were all stuffed with bugs.<br>So sorry, but for the sake of safety and caution we won't take your things. Maybe we'll miss out on some profit, but at least the bosses won't pin us as snitches, and <clr>we'll take only from our own<clrEnd>.
+130	I need the technicians' help
+131	Need what? Ah, you dug up a hull and now can't get it out through the ship's standard mechanisms?<br><br>Well, that happens too. Of course, it's not on the list of services provided, but for a very small fee of <0> cr. our specialists are ready to strain themselves and help you with this.<br>
+132	t.
+133	Taking the hull out at
+134	So, which hull shall we remove from your ship?
+135	The hull has been successfully extracted and moved to the station warehouse!<br><br>Anything else?
+136	Yes, let's begin
+137	Hand over all unique items
+138	one and a half times
+139	double
+140	Scientists have found there a planet that appeared as if from nowhere. Nobody can yet answer the question of how this happened. And it is unlikely anyone will soon, since all of the Coalition's forces are busy waging war. A general analysis of the celestial body showed that the planet is uninhabited. Who knows what might be found there?..
+141	Unusual news from the system
+142	Mauricia
+143	A rather unusual card. As soon as you took it in your hands, some system activated that was clearly transmitting a signal somewhere. The records stored only information about some planet. You looked up the information in Galanet and... found nothing sensible. It feels as though this planet... simply does not exist! And that is very strange.
+144	This card revealed the coordinates of a planet already known to you. It is now of no use.
+145	Billy Bones
+146	You, like many Rangers, are probably searching for surviving pilots on the battlefield. However, many of them simply do not survive to reach the defrosting points because of the small supplies in the pods' life support systems. I think you will be interested in our opinion on this matter.
+147	. What this means is still unclear; perhaps further research will lift the veil of mystery.
+148	...and displays some set of numbers. The ship's computer says the coordinates of some planet are encrypted here. The data array clearly contains a number corresponding to a <clr>parsec<clrEnd>, multiplied by
+149	...and displays some set of numbers. The ship's computer says the coordinates of some planet, apparently in this system, are encrypted here. Which one is hard to tell, since the orbit given in the description fits none of the planets currently in the system. Perhaps you should arm yourself with reconnaissance probes.
+150	...and displays some set of numbers. The ship's computer says the coordinates of several star systems are encrypted here. From them it managed to compile a map of a sector not yet in the computer's memory. In addition, there are the coordinates of some planet, but nothing could be made out except that it is in this sector.
+151	This card looks very, very old. Although at first glance it resembles modern data storage devices, on closer inspection the materials it is made of turn out to be clearly not modern, yet high-tech. You turn on the display - it lights up surprisingly easily...
+152	This card has already revealed its secrets to you
+153	I want to place a monument on your planet
+154	I've brought one big thing here...
+155	Well, well... Oh my...<br><br>Yes, a very "big" thing, to say the least. Our scanners refuse to "take" the material of this construct. But we register unknown radiation coming from it. We cannot determine its nature, which alarms us. Have you visited any planets with this aboard?.. And by the way, it seems you are already in the news on some planets. Some sects write that their prophets announced the discovery of the "Holy Grail" - the ancient legendary relic of the human race - by a certain Ranger.<br><br>Ranger, we strongly recommend handing this construct over to us to avoid possible uncontrolled consequences.<br><br>If you have doubts, we are ready to give you in exchange money in the amount of the <clr>full value<clrEnd> of this object, as well as <clr>three<clrEnd> of our <clr>artifacts<clrEnd>.
+156	Truly a sensible choice, Ranger. We will study this structure, and then we will be able to speak responsibly about its capabilities.<br><br>And if we fail, we will at least isolate it where nobody can come to harm from it.

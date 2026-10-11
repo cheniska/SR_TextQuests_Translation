@@ -1,25 +1,25 @@
 95	<0> cistern of <1> tons
-96	Pirates
+96	Pirate
 97	Unknown
-98	Dominators
-99	Gaals
-100	Faeyans
-101	Humans
-102	Pelengs
-103	Maloqs
+98	Dominator
+99	Gaalian
+100	Faeyan
+101	Human
+102	Peleng
+103	Maloq
 113	Roger that
 115	Glad to help
 116	Hand over the crystals
 117	Got it
 118	Make the transfer
 119	I won't sell anything
-164	Tell me more about the bounty
+164	Tell me more about the reward
 166	I want my reward
-170	Tell me about the pirate bounty
-171	I want to get a reward for pirates
-174	I want to sell crystals
+170	Tell me about the reward for pirates
+171	I want to get the reward for pirates
+174	I want to hand over the crystals
 175	Unblock credit cards
-176	I want to exchange cisterns
-177	Sell unique items
+176	I want to exchange the cisterns
+177	Hand over unique items
 205	Crystals
 220	Lifepod

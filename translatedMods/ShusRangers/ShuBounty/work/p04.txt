@@ -1,0 +1,159 @@
+157	A monument? A monument is a fine thing. But... to whom or what?
+158	And... So on our planet we have to place... This <clr>thing<clrEnd>?
+159	I... for some reason think so too. Well, it's time to give the orders for placing this... construct.
+160	No, I guess I'm not ready for such sacrifices yet...
+161	I agree. Better not take risks in these dark times.
+162	To the Ranger movement. And to the mighty weapons that help them in the struggle for peaceful skies above all the planets of the Galaxy!
+163	Absolutely. Really, I don't know why, but right now it seems so to me.
+165	For your information, we have introduced a bounty on the heads of military men and Rangers. Don't miss your chance to earn.
+167	By the way, bro, we have <0> cr. lying around here for you as a bonus for fighting the cops. Would you like to take the money?
+168	Why can't I collect the money for the kills?
+169	By order of CAFIC, we reward Rangers for killing pirates. You too have the opportunity to receive a bounty for the heads of these scoundrels.
+172	By order of CAFIC, we reward Rangers for killing pirates. A bonus of <0> cr. is now available for you.
+173	Why can't I collect the pirate bounty?
+178	This ship has a system installed that maintains life support of the escape pods in the hold
+179	Life Support Systems
+180	An info item for the player so that they can pull items out
+181	An info item for a ship that is not entitled to receive an escape pod.
+182	This ship's pilot was recently extracted from an escape cryopod and is still undergoing post-anabiotic rehabilitation.
+183	Rehabilitation
+184	A purely marker info item, to determine whether a pod is in a ship's drop
+185	An info item for a ship that has received a flag
+186	Flag of the Human Commonwealth
+187	The flag of all <clr>human<clrEnd> planets, approved in 2315 by the 3rd Congress of Humanity.
+188	An escape pod is one of the few chances of survival for a spaceship pilot. Alas, even the best automation does not always save pilots, and the time allowed to deliver the pod to a medical station is limited.
+189	However, the chances of rescue are raised by a good reward paid at various bases. Any rescued person will be accepted at a Medical Center, but, for example, the military will be glad to see a familiar blood-red mug or to get their hands on a bandit, while a Business Center, for example, will gladly press a lucrative loan for a new ship on a trader who has barely opened his eyes.
+190	Also, the medical center sells a special life support system that greatly extends the operating time of the escape pods aboard a ship.
+191	Crystals are a valuable resource, since such large samples of the rarest compounds can be used in unique scientific research... Or simply sold for huge sums as decoration for rich men's offices.
+192	However, some researchers believe one should always keep such a crystal at hand to replace certain important components of one's combat robot...
+193	Finding hulls on an uninhabited planet means you have stumbled upon someone's stash. Such hulls are usually damaged by long idleness and have no equipment inside.
+194	To use such a hull, you will need to move it, like any other item you find, and take it to any station.
+195	After that you will need to use the corresponding <clr>dialog<clrEnd> to move the hull into your hold.
+196	It seemed to you that the very thought of "throwing the hull away" was very... strange. Perhaps you should ask the technicians at some station to settle the matter of the hull.
+197	Shield power: <bonDef>%
+198	Missile speed: <bonWRadius> units
+199	Petrified biological substance. In the past, a decomposition product of klissans.
+200	(Can be handed in at <clr>RS<clrEnd>)
+201	Arirall Doll
+202	An average shrimp lover. Former owner - <color=255,240,100>Alto-Goolik</color>. Do not heat!
+203	Robotics Self-Instruction Manual
+204	The robotics self-instruction manual "Get Into the Robot" by Shinji Ikari.
+206	Expensive crystals suitable for use in jewelry. Of particular interest to the <color=255,240,100>business center</color> network.
+207	Twin Blades
+208	Practically brand-new twin blades for cosplay of the game "Blade Pros Offline".
+209	Memory Block
+210	Part of a ship's computer memory block containing information necessary for the ship's normal functioning.
+211	(Can be handed in at <clr>RS-MB-Dominion<clrEnd>)
+212	Military Ship Pilot
+213	Liner Pilot
+214	Militia Ship Pilot
+215	An escape cryopod containing the frozen <Name>.
+216	The life support system will shut down in <Days> days.
+217	An escape cryopod containing the dead <Name>.
+218	The life support system shut down <TimeOfDeath>.
+219	Transport Pilot
+221	Used for evacuation from a spaceship in distress.
+222	Used for evacuation from a destabilized space station. Such pods are fitted with practically eternal power sources.
+223	Expired Card
+224	An expired debit card of the maloq bank <color=255,240,100>"Rygnyoff"</color>, widely known in the <color=255,240,100>31st</color> century.
+225	Bolvanter
+226	It reeks of prayer services and grotesque pathos.
+227	Fiery Sorrow
+228	Mystical merch.
+229	Hyperdust
+230	if(MessageBoxYesNo('Take the hyperdust?'))
+231	Ether(0, '', '<clr>Hyperdust<clrEnd> has been successfully introduced into your body.');
+232	A potent stimulant substance.
+233	Dyson Sphere
+234	A working model of a Dyson sphere. Its power source is superdense plasma stabilized by antigravity. Judging by the engraving, the model was made by the <color=220,100,250>faeyan</color> Lester for educational purposes.
+235	Necronomicron
+236	A book of Lilliputians. Do not read in cold weather!
+237	It seems this card gives the coordinates of some planet. Where will they lead?
+238	Record
+239	A record with the song "The Frenzied Beast Is My Lord".
+240	Red Stone of Eish
+241	A red stone, as if not a solid stone but one full of red <clr>slush<clrEnd>.
+242	Quantum Drill
+243	An ancient quantum drill with a fanciful engraving that reads: "We will pierce the heavens!".
+244	A huge construct built by an unknown civilization.
+245	What secrets does it keep? What can it do? Nobody knows for sure, except perhaps its creators themselves.
+246	Self-Propelled Satire
+247	A tank powered by bearded jokes.
+248	The Fastest Scoop
+249	The fastest scoop in all of wild <color=255,240,100>Rakhish</color>.
+250	Skull of Kaar-Dan
+251	NewsAdd('The skull you obtained on one of the uninhabited planets seems for some reason to emit a suspicious cold blue light. On close examination it is not visible, but it is still eerie.');
+252	The remains of an ancient gaalian meteorologist.
+253	Medallion
+254	NewsAdd('The medallion sensed '+(ber+pr)+' Sources of Force disturbances in this system.');
+255	NewsAdd('The medallion sensed in this system:'+Format('<br>')+kl+' kligs'+Format('<br>')+rat+' rattors'+Format('<br>')+sh+' shtips'+Format('<br>')+men+' menks'+Format('<br>')+sm+' smershes'+Format('<br>')+ur+' urgants'+Format('<br>')+eq+' equentors'+Format('<br>')+ber+' bertors');
+256	if(!MessageBoxYesNo('The medallion is now searching for Sources of Force. Do you want the medallion to detect enemies?')) exit;
+257	if(!MessageBoxYesNo('The medallion is now searching for the nearest enemies. Do you want the medallion to detect Sources of Force?')) exit;
+258	A strange medallion in the shape of a wolf's head, occasionally trembling barely perceptibly.
+259	(Can be handed in at <clr>DS<clrEnd>)
+260	(Can be handed in at <clr>MC<clrEnd>)
+261	Parcels usually delivered by the "Express-Galaxy" firm.
+262	(Can be handed in at <clr>BC<clrEnd>)
+263	(Can be handed in at <clr>PB-MB-MC-Dominion<clrEnd>)
+264	(Can be handed in at <clr>MB-RC<clrEnd>)
+265	(Can be handed in at <clr>MB-PB<clrEnd>)
+266	(Can be handed in at <clr>RC<clrEnd>)
+267	(Can be handed in at <clr>PB<clrEnd>)
+268	(Can be handed in at <clr>PB-RS-Dominion<clrEnd>)
+269	(Can be handed in at <clr>MC-RC<clrEnd>)
+270	(Can be handed in at <clr>DS-RS-Dominion<clrEnd>)
+271	(Can be handed in at <clr>RS-Dominion<clrEnd>)
+272	(Can be handed in at <clr>RC-Dominion<clrEnd>)
+273	(Can be handed in at <clr>MB-RS-Dominion<clrEnd>)
+274	A batch of faeyan psychotropic weapons. Banned from use in most worlds of the Arm.
+275	(Can be handed in at <clr>PB-RS-RC-Dominion<clrEnd>)
+276	(Can be handed in at <clr>MB<clrEnd>)
+277	(Can be handed in at <clr>MB-RS-RC-Dominion<clrEnd>)
+278	(Can be handed in at <clr>MB-PB-RS-Dominion<clrEnd>)
+279	(Can be handed in at <clr>PB-BC<clrEnd>)
+280	MessageBox('The book did worry you, of course - difficult material that seriously advanced peleng science. Although the work clearly tried to be understandable, you felt a lack of grounding in your reasoning. And yet in some ways it turned out to be instructive for you.');
+281	(Can be handed in at <clr>RS-RC<clrEnd>)
+282	(Can be handed in at <clr>PB-RC<clrEnd>)
+283	(Can be handed in at <clr>MB-PB-RS-RC<clrEnd>)
+284	(Can be handed in, if it cannot be unlocked, at <clr>BC<clrEnd>)
+285	Secret package, destroy if captured!
+286	A miniature gripper-detonator intended for underground mining work.
+287	A package of observations of the latest movements of dominator military forces.
+288	(Can be handed in at <clr>MB-PB-Dominion<clrEnd>)
+289	(Can be handed in at <clr>PB-MB<clrEnd>)
+290	A unique weapon, a super-compact infrared flamethrower.
+291	The container holds the "Bacterius-Grokus" virus.
+292	A recording with compromising material.
+293	A case with secret documents.
+294	A packet of bugs for organizing espionage.
+295	A pipe used for concluding peace according to human traditions.
+296	A samurai sword dated to the 14th century AD, a human antique.
+297	A valuable rock.
+298	(Can be handed in at <clr>DS-BC<clrEnd>)
+299	A little parcel with assorted faeyan souvenirs.
+300	Parcels usually transported by the "Express-Galaxy" firm.
+301	A container with a carcinogenic substance.
+302	(Can be handed in at <clr>RC-PB-MB<clrEnd>)
+303	(Can be handed in at <clr>MC-PB-MB<clrEnd>)
+304	A signed contract for the transfer of copyright.
+305	A full report on the development of a new weapon.
+306	A cryopod container with live leprasa fish-mertinias.
+307	The margins of the book are full of notes in red pencil - an analysis of the reasons for Gromgar's victory, rejected on the grounds that "the author is a cowardly faeyanist!", plus a sweeping inscription "Red goz fasta"
+308	(Can be handed in at <clr>MB-PB-RC<clrEnd>)
+309	(Can be handed in at <clr>DS-PB-BC<clrEnd>)
+310	(Can be handed in at <clr>RC-PB-BC<clrEnd>)
+311	A vessel with an unknown preparation.
+312	(Can be handed in at <clr>PB-MC<clrEnd>)
+313	A very valuable cargo. So valuable that the crate can only be opened by sawing it in half.
+314	Dress military uniform. The call sign "<ShipName>" is embroidered on the chest in gold letters.
+315	A disk with records of faeyan scientists.
+316	(Can be handed in at <clr>MB-MC-RC<clrEnd>)
+317	Flag of the Ashian Conglomerate
+318	The flag approved in the City-Luminary of the faeyan race at the congress that began the race's unified state apparatus.
+319	Flag of the Gaal Bulwark
+320	Only the Archives of Gaaldok and members of the Convent can say how this flag came about. Probably.
+321	Banner of the Red Guard
+322	According to legend, the Guard's banner is stained with the blood of enemies. The Supreme Argot entrusts it with the most difficult and dangerous tasks, and the Guard never fails. For the Guard - the salt of the earth!
+323	Standard of the Supreme Lyakusha
+324	At some point the personal flag of one of the first Supreme Lyakushas of Rakhish came to be associated with the entire race.
+325	An ancient device for generating a signal that attracts klissans to a system. Valuable solely as a museum exhibit.
