@@ -1,0 +1,70 @@
+1	temp_str = temp_str + 'Damage dealt:'+CT('FormInfo.br')+CT('FormInfo.br');
+2	if(ObjectType(ScriptItemActObject1()) == 1) temp_str = temp_str + 'Star ';
+3	if(ObjectType(ScriptItemActObject1()) == 8) temp_str = temp_str + 'Asteroid ';
+4	if(ScriptItemActionType(t_OnTakingDamageEn)) temp_str = temp_str + ' (energy dmg.)';
+5	if(ScriptItemActionType(t_OnTakingDamageSp)) temp_str = temp_str + ' (splinter dmg.)';
+6	if(ScriptItemActionType(t_OnTakingDamageMi)) temp_str = temp_str + ' (missile dmg.)';
+7	temp_str = temp_str + ': ' + ScriptItemActParam() + ' units'+CT('FormInfo.br');
+8	NewsAdd('The Probability Analyzer has compiled statistics on incoming damage and sent them to the ship log (key F1)');
+9	NewsAdd('Biomir, using the computing power of the Probability Analyzer, has detected a serious decline in the capabilities of your immune system. Your immune system capabilities have dropped by more than half! Be extremely careful and watch your health.');
+10	if(ShipHealthFactorStatus(Player(),a) > 80) NewsAdd('Biomir, using the computing power of the Probability Analyzer, drew disheartening conclusions from the processes in your body: you are falling ill rapidly. The systems recommend that you visit doctors as soon as possible.');
+11	MessageBox('Output of incoming damage to the ship log activated');
+12	MessageBox('Output of incoming damage to the ship log deactivated');
+13	When activated, outputs the damage received per turn to the ship log
+14	In hyperspace, analyzes and displays the ship's current characteristics in an intuitive format
+15	CustomArtTextData(rau_new, 1, '<color=255,0,0>Additional property disabled:</color>');
+16	CustomArtTextData(rau_new, 1, '<color=0,255,0>Additional property active:</color>');
+17	CustomEther('BioCured', 0, '', 'Biomir actively fought your ailments and managed to defeat <clr>' + CT(text) + '<clrEnd>!');
+18	<color=255,0,0>Additional property disabled:</color>
+19	Actively fights the diseases of the pilot at the cost of accelerated wear.
+20	<color=0,255,0>Additional property active:</color>
+21	<br>We do not recommend taking it apart or mounting it on a ship...
+22	Adds thermal charges to splinter shells. Besides damage, each charge delivers a powerful heat shock, causing the enemy's engines to overheat and gradually fail.
+23	MessageBox('An additional weapon is already installed on this hull');
+24	if(MessageBoxYesNo('Are you sure you want to install '+Name(item)+' on the gun deck using the Proton? The artifact and the weapon will be used up'))
+25	Can be permanently built into the hull, reducing its capacity in the process.
+26	Can also be used as an additional mount for a non-missile weapon on the hull
+27	MessageBox('Two ARMS cannot work together!');
+28	Reconfigures the ship's weapon systems, letting them fire at increased efficiency, that is, <clr>twice<clrEnd> as often.
+29	if(!dte_slot) MessageBox('Alternative mode can only be activated on a proportionar installed on a ship.');
+30	else if(ItemIsBroken(dte_cur)) MessageBox('The proportionar is broken and cannot switch the operating mode.');
+31	MessageBox(Name(dte_cur) + ': alternative operating mode enabled. The shield is strengthened at the expense of energy weapon power; energy weapon damage is reduced by 25%. Activating it again will return the normal mode.');
+32	When activated, switches to an alternative operating mode: strengthens the shield at the expense of energy weapon power.
+33	<color=30,144,255>Alternative operating mode:</color>
+34	Inverts the flows passing through it, so that instead of strengthening the energy weapon at the expense of the shield, it strengthens the shield at the expense of the energy weapon
+35	MessageBox('Junior Droid has finished repairing the hull!');
+36	MessageBox('Junior Droid is too badly damaged to take on a full repair of your ship');
+37	MessageBox('Junior Droid ran out of resource right after finishing the repair of your hull');
+38	MessageBox('Junior Droid broke down while finishing the repair of your ship');
+39	else MessageBox('Your ship does not need repairs');
+40	This small droid can restore <clr>10<clrEnd> units of damaged ship hull and is able to work even in hyperspace. It also reduces the wear of the main droid by a factor of <clr>2<clrEnd>.
+41	When activated on a damaged ship, it will restore it according to its durability.
+42	On exiting a hyperspace bubble it works wonders of engineering, restoring the carrier hull within moments
+43	if(ItemDurability(CurItem()) <= 0) Ether(8,'','The Hypergenerator overspent its resource while directing a hyperspace tunnel. Repairs are required.');
+44	<color=255,0,0>Additional properties disabled:</color>
+45	When activated, specifies the operation of the hypertunnel, directing it toward the pilot's home system.
+46	<color=0,255,0>Additional properties active:</color>
+47	Allows the gripper beam to attract objects with a mass greater than the rated one by <clr>30<clrEnd> units. Increases the speed at which things are attracted and the gripper radius.
+48	When combined with a gripper, permanently increases its range (the effect is stronger on equipment of unknown make).
+49	When activated, greatly reduces the gripper's range and power in exchange for faster lifting (<color=255,0,0>Inactive</color>)
+50	When activated, greatly reduces the gripper's range and power in exchange for faster lifting (<color=0,255,0>Active</color>)
+51	CustomArtTextData(TnewItem, 1, '<color=255,0,0>Additional property disabled:</color>');
+52	CustomArtTextData(TnewItem, 1, '<color=0,255,0>Additional property active:</color>');
+53	Preserves a lot of valuable enemy equipment when it is liquidated, as well as valuable ore from asteroids.
+54	When an enemy ship is destroyed, redirects the explosion so that its parts retain a marketable appearance and can be sold later.
+55	if(0) SFT('The Frostbites take '+ship+' out and crash it!');
+56	CustomEther('Snowflake',0,'','The Frostbites treated the engine with their coolant. Now it will work much better!');
+57	CustomEther('Snowflake',0,'','The Frostbites treated the repair droid with their coolant. Now it will work much better!');
+58	CustomEther('Snowflake',0,'','The Frostbites treated the shield generator with their coolant. Now it will work much better!');
+59	else MessageBox('The artifact is too badly damaged to activate');
+60	In addition, reduces damage from <clr>kligs<clrEnd> by <clr>75<clrEnd>%
+61	<color=255,0,0>Additional property inactive:</color>
+62	When activated, the Frostbites produce a special coolant that enhances the cooling of individual pieces of equipment and thereby raises the effectiveness of that equipment.
+63	A software booster for the scanner's computing power by <clr>10%<clrEnd>. Increases the amount of information obtained about ships.
+64	When activated, scans the system for nuclear weapons, compiling a list of all ships with warheads.
+65	In addition, can perform an active scan of any selected ship, revealing all vulnerabilities and reading the algorithms of enemy weapon systems.
+66	Increases the ship's maneuverability, giving a <clr>55<clrEnd>-percent chance to dodge an enemy hit at the cost of accelerated wear on the artifact
+67	Increases the ship's speed and maneuverability, giving a <clr>55<clrEnd>-percent chance to dodge an enemy hit at the cost of accelerated wear on the artifact
+68	if(ItemDurability(CurItem()) <= 0) Ether(8,'','The Screw-on was damaged while working with the equipment aboard');
+69	When activated, upgrades all splinter weapons aboard, restoring their durability and improving them.
+70	CustomArtTextData(CurItem(), 1, '<color=0,255,0>Additional property active:</color>');

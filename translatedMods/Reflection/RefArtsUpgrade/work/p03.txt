@@ -1,0 +1,75 @@
+141	<color=248,252,248>Self-Destruct System</color>
+142	<color=248,252,248>Systems for detonating attached explosives are connected to the hull. Detonation is automatic. The system cannot be turned off.</color>
+143	Time to explosion: <clr>1<clrEnd> d.
+144	<color=248,252,248>Upgrade:</color> <clr>Nanitoid Restorers<clrEnd>
+145	<color=248,252,248>Nanitoid restorers are connected to the equipment, extending its service life.</color>
+146	Reliability: <clr>+35<clrEnd>%
+147	Reliability: <clr>+40<clrEnd>%
+148	<color=248,252,248>Upgrade:</color> <clr>Mini-Factory<clrEnd>
+149	<color=248,252,248>A mini-factory for improving projectiles, which then deal more damage, is integrated into the weapon.</color>
+150	Splinter weapon power: <clr>+5<clrEnd> units
+151	Splinter weapon power: <clr>+7<clrEnd> units
+152	<color=248,252,248>Upgrade:</color> <clr>Connector<clrEnd>
+153	<color=248,252,248>A connector that weakens engine damage during operation has been added to the engine.</color>
+154	Reliability: <clr>+25<clrEnd>%
+155	Reliability: <clr>+30<clrEnd>%
+156	<color=248,252,248>Upgrade:</color> <clr>Bacteria Colony<clrEnd>
+157	<color=248,252,248>A colony of supercold bacteria has settled in the hull's recesses, reducing the effectiveness of damage from splinter weapons.</color>
+158	Susceptibility to splinter weapon damage: <clr>-20<clrEnd>%
+159	Susceptibility to splinter weapon damage: <clr>-25<clrEnd>%
+160	<color=248,252,248>Upgrade:</color> <clr>Missile Defense Systems<clrEnd>
+161	<color=248,252,248>Parts:</color> <clr>1<clrEnd> / <clr>3<clrEnd>.
+162	<color=220,20,20>More parts are required for the system to work</color>
+163	<color=248,252,248>Parts:</color> <clr>2<clrEnd> / <clr>3<clrEnd>.
+164	<color=248,252,248>A missile defense system is attached to the hull.</color>
+165	Susceptibility to energy weapon damage: <clr>+10<clrEnd>%
+166	Susceptibility to splinter weapon damage: <clr>+10<clrEnd>%
+167	<color=248,252,248>Upgrade:</color> <clr>Absorber<clrEnd>
+168	<color=248,252,248>Systems for absorbing energy surges are integrated into the hull.</color>
+169	Susceptibility to energy weapon damage: <clr>-15<clrEnd>%
+170	Susceptibility to energy weapon damage: <clr>-20<clrEnd>%
+171	<color=248,252,248>Upgrade:</color> <clr>Psi-Accelerator<clrEnd>
+172	<color=248,252,248>A psi-accelerator is integrated into the engine, which raises its efficiency.</color>
+173	Engine speed: <clr>+175<clrEnd> units
+174	Engine speed: <clr>+230<clrEnd> units
+175	<color=248,252,248>Upgrade:</color> <clr>Additional Accumulator<clrEnd>
+176	<color=248,252,248>A system for accumulating surplus energy is attached to the weapon, redirecting that surplus to the barrels, which raises firing effectiveness.</color>
+177	Energy weapon power: <clr>+7<clrEnd> units
+178	<color=248,252,248>A system for accumulating surplus energy is attached to the weapon, redirecting that surplus to the barrels, which raises the effectiveness of firing the weapons.</color>
+179	Energy weapon power: <clr>+9<clrEnd> units
+180	<color=248,252,248>Upgrade:</color> <clr>Shock Absorber<clrEnd>
+181	<color=248,252,248>Systems for damping the impulse from the explosion of homing projectiles are integrated into the hull.</color>
+182	Susceptibility to missile weapon damage: <clr>-15<clrEnd>%
+183	Susceptibility to missile weapon damage: <clr>-20<clrEnd>%
+184	<color=248,252,248>Upgrade:</color> <clr>Additional Booster<clrEnd>
+185	<color=248,252,248>Additional radar systems are inserted into the radar to raise its power.</color>
+186	Radar range: <clr>+350<clrEnd> units
+187	Radar range: <clr>+450<clrEnd> units
+188	<color=248,252,248>Upgrade:</color> <clr>Two Additional Boosters<clrEnd>
+189	<color=248,252,248>Two additional radar systems are inserted into the radar to raise its power.</color>
+190	Radar range: <clr>+700<clrEnd> units
+191	Radar range: <clr>+900<clrEnd> units
+192	<color=248,252,248>Upgrade:</color> <clr>Three Additional Boosters<clrEnd>
+193	<color=248,252,248>Three additional radar systems are inserted into the radar to raise its power.</color>
+194	Radar range: <clr>+1050<clrEnd> units
+195	Radar range: <clr>+1400<clrEnd> units
+196	<color=248,252,248>Upgrade:</color> <clr>Additional Loader<clrEnd>
+197	<color=248,252,248>An additional loader is inserted into the weapon, increasing the rate of fire.</color>
+198	<color=248,252,248>Alas, the accelerated reloading shortens the operating time of the guidance systems, which in turn lowers the projectiles' lethality.</color>
+199	Rate of fire: + <clr>1<clrEnd>
+200	Missile weapon power: <clr>-17<clrEnd> units
+201	Missile weapon power: <clr>-13<clrEnd> units
+202	<color=248,252,248>Upgrade:</color> <clr>Additional Cache<clrEnd>
+203	<color=248,252,248>An additional cache is connected to the scanner, which raises its object scanning capabilities.</color>
+204	Scanner power: <clr>+3<clrEnd>%
+205	Scanner power: <clr>+4<clrEnd>%
+206	<color=248,252,248>Upgrade:</color> <clr>Pair of Caches<clrEnd>
+207	<color=248,252,248>Two additional caches are connected to the scanner, which raises its object scanning capabilities.</color>
+208	Scanner power: <clr>+6<clrEnd>%
+209	Scanner power: <clr>+8<clrEnd>%
+210	<color=248,252,248>Upgrade:</color> <clr>Set of Caches<clrEnd>
+211	<color=248,252,248>Several additional caches are connected to the scanner, which raises its object scanning capabilities.</color>
+212	Scanner power: <clr>+9<clrEnd>%
+213	Scanner power: <clr>+11<clrEnd>%
+214	<color=248,252,248>Upgrade:</color> <clr>Additional Generator<clrEnd>
+215	<color=248,252,248>An additional small generator is connected to the shield generator, raising the power of the main field.</color>

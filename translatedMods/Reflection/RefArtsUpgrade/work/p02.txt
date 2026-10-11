@@ -1,0 +1,70 @@
+71	CustomArtTextData(CurItem(), 1, '<color=255,0,0>Additional property disabled:</color>');
+72	Adds thermal charges to splinter shells, increasing splinter weapon power by <clr>5<clrEnd> units. Besides damage, each charge delivers a powerful heat shock, causing the enemy's engines to overheat and gradually fail.
+73	Adds thermal charges to splinter shells, increasing splinter weapon power by <clr>10<clrEnd> units. Besides damage, each charge delivers a powerful heat shock, causing the enemy's engines to overheat and gradually fail.
+74	if(ScriptItemActionType(t_OnAnotherItem)) MessageBox('This hull already has additional weapon turrets');
+75	if(ScriptItemActionType(t_OnAnotherItem)) MessageBox('All weapon slots are already open');
+76	if(MessageBoxYesNo('Are you sure you want to build the ARMS into the hull permanently?'))
+77	Can be inserted into a <clr>hull<clrEnd> - opens <clr>2<clrEnd> weapon slots, but reduces the hull size by <clr>10<clrEnd> percent and increases the cost by <clr>30<clrEnd> percent.
+78	An enemy shot punched through the outer hatch with the hull fuses, and this caused a sharp voltage surge. The proportionar's capacitor coil burned out.
+79	MessageBox(Name(dte_new) + ': normal operating mode restored.');
+80	Inverts the flows passing through it, which strengthens the shield at the expense of energy weapon power (energy weapon damage is reduced by <clr>25%<clrEnd>).
+81	Activating it again returns the normal operating mode.
+82	Proportionar v2
+83	Inverts the flows passing through it, which strengthens the shield at the expense of energy weapon power (energy weapon damage is reduced by <clr>25%<clrEnd>). The improved version gives <clr>20%<clrEnd> more protection.
+84	Proportionar v3
+85	Inverts the flows passing through it, which strengthens the shield at the expense of energy weapon power (energy weapon damage is reduced by <clr>25%<clrEnd>). The improved version gives <clr>40%<clrEnd> more protection.
+86	MessageBox(Name(CurItem()) + ': additional property active - in hyperspace it specifies the operation of the hypertunnel.');
+87	MessageBox(Name(CurItem()) + ': additional property disabled.');
+88	MessageBox(Name(CurItem()) + ': additional property active - gripper range and power greatly reduced in exchange for lifting speed.');
+89	A software booster for the scanner's computing power. The improved version of the artifact raises scanner power by <clr>5<clrEnd> percent more compared to the regular version of the cache. It also increases the amount of information obtained about ships.
+90	A software booster for the scanner's computing power. The improved version of the artifact raises scanner power by <clr>10<clrEnd> percent more compared to the regular version of the cache. It also increases the amount of information obtained about ships.
+91	MessageBox(Name(CurItem()) + ': additional property active - 55% chance to dodge an enemy hit at the cost of accelerated wear on the artifact.');
+92	damage dealt: var<br>
+93	defense: var<br>
+94	gravity: var<br>
+95	luck: var<br>
+96	reload speed: var<br>
+97	regeneration: var<br>
+98	ship speed: var<br>
+99	folder names are the bonus type in the BH (for example, damage increases damage). Total is the overall bonus value for calculation in the code, but you can stuff your own values in here so that the initial bonus is not 0. However, without the artifact the code will not run and it does not matter what Total is, there will be no bonuses. Standard artifacts must be written with system names like t_ArtefactNano, the parameter value is the size of the bonus (surprise!). Custom artifacts must be written with their system names, for example ArtDroidv2.
+100	SFT('Test thingamajig. To avoid repetition in the code, I removed it from the other pieces below, since it is literally debugging. If needed, just copy this piece over.');
+101	these codes apply/remove bonuses when the artifact is equipped (ABeqpActCode)/unequipped (ABdeeqpActCode). It is more convenient to run them via: if(ScriptItemActionType(t_OnItemEquip))ExecuteCodeFromString(GenerateCodeStringFromBlock('Artefacts.RefArtsUpgrade.ABeqpActCode'));
+102	code at the start of the AB. checks all artifacts and sets the needed bonuses. can be added to artifacts like this: if(ScriptItemActionType(t_OnStartAB))ExecuteCodeFromString(GenerateCodeStringFromBlock('Artefacts.RefArtsUpgrade.ABstartActCode'));
+103	if the parameter is True, shows an info item in the BH on the ship form with the artifact bonuses
+104	The quark bomb successfully detonated on the surface of the hull!
+105	A corridor. Another corridor. A pressure door. A five-digit code. The engine room. A protective suit. The engine reactor. Several bundles of wires and cables. Pack the fuel rods around, then connect to the main part. Connect the control panel cables to the cables of the main part. And bring it to the detonator. It seems everything is ready. And it is as if your whole life flashed before your eyes... The Ranger Center on January 1st, 3300... The fight against the dominators... Carrying out secret government assignments... You remembered the old tale of the ranger Typhoon, who blew himself up along with Makhpella... The whole ship shook rather hard several times, returning you to reality. Another raid, you thought. A raid that will reduce the stability of the last remnants of what was a hull to zero. It is time. One movement of a finger, one simplest signal, and the product of high engineering thought was torn apart, along with all the attacking ships... <br>In the name of the Coalition, may this sacrifice be made, even if it brings less benefit than that other sacrifice!
+106	You were already thoroughly fed up. This struggle of the Coalition, the dominators, the pirates... It's all a farce, a sham! None of it will bring anyone happiness (the dominators least of all), only the rule of somebody else. With these thoughts you connected the detonator cables to your onboard computer. In manual mode you steered your ship to one of the power plants supplying the city, and blew it up.
+107	An explosion of colossal power tore up an entire continent of the planet. It is interesting what the archaeologists of the future will think of it?
+108	You committed your act of terrorism, destroying your ship along with the station. What was it - an act of protest or just the final stage of a mental disorder?
+109	Are you sure you want to install CurItemName in AnotherItemName? It will be impossible to upgrade such a tank at a research station.
+110	Are you sure you want to install CurItemName in AnotherItemName?
+111	The limit of improving the characteristics of AnotherItemName has been reached!
+112	Two colonies will not get along on one hull!
+113	<color=127,255,212>Cooling:</color> <clr>Frostbite Coolant<clrEnd>
+114	Hull repair: <clr>+7<clrEnd>
+115	Engine speed: <clr>+125<clrEnd>
+116	<color=248,252,248>Upgrade:</color> <clr>Additional Weapon<clrEnd>
+117	<color=248,252,248>An additional weapon that fires together with the others is installed on the hull.</color>
+118	Shield power: <clr>+3<clrEnd>
+119	<color=248,252,248>Upgrade:</color> <clr>Additional Analytical Capacity<clrEnd>
+120	<color=248,252,248>Thanks to compatibility with a hull of unknown make, the boost characteristics are increased</color>
+121	<color=248,252,248>Upgrade:</color> <clr>Bioregulator<clrEnd>
+122	<color=248,252,248>Air composition regulation systems are built into the ship's cabin, which increases the body's resilience.</color>
+123	Additional stimulators: <clr>+1<clrEnd> unit
+124	Additional stimulators: <clr>+2<clrEnd> units
+125	<color=248,252,248>Upgrade:</color> <clr>Additional Drone<clrEnd>
+126	<color=248,252,248>An additional repair drone is attached to the droid, which raises the overall efficiency of ship repairs.</color>
+127	Droid effectiveness: <clr>+6<clrEnd> units
+128	Droid effectiveness: <clr>+8<clrEnd> units
+129	<color=248,252,248>Thanks to compatibility with equipment of unknown make, the boost characteristics are increased</color>
+130	<color=248,252,248>Upgrade:</color> <clr>Additional Drones<clrEnd>
+131	<color=248,252,248>Two additional repair drones are attached to the droid, which raises the overall efficiency of ship repairs.</color>
+132	Droid effectiveness: <clr>+11<clrEnd> units
+133	Droid effectiveness: <clr>+15<clrEnd> units
+134	<color=248,252,248>Three additional repair drones are attached to the droid, which raises the overall efficiency of ship repairs.</color>
+135	Droid effectiveness: <clr>+17<clrEnd> units
+136	Droid effectiveness: <clr>+23<clrEnd> units
+137	<color=248,252,248>Upgrade:</color> <clr>Hypergeneration Booster<clrEnd>
+138	<color=248,252,248>Additional boosters are connected to the engine's hypergenerator, which increases the flight range between systems.</color>
+139	Jump range: <clr>+7<clrEnd> pc
+140	Jump range: <clr>+9<clrEnd> pc
