@@ -1,0 +1,69 @@
+97	This biomodule speeds up nerve impulses, thereby improving the user's natural reflexes, which helps to handle the ship better and evade enemy attacks faster.<br><br>Maneuverability skill: <clr>+1<clrEnd>
+98	This biomodule connects to the on-board friend-or-foe recognition system and visually marks all targets that enter the pilot's field of view. In the heat of battle this ability helps identify the enemy faster and saves precious time otherwise spent studying instrument readings.<br><br>Accuracy skill: <clr>+1<clrEnd>
+99	Combat Interface
+100	A compact fire extinguisher, <clr>Blizzard<clrEnd>, implanted in the arm. It uses carbon dioxide particles cooled to a temperature close to absolute zero as the extinguishing agent. It lets you not only quickly and effectively deal with any source of fire but also cool equipment overheated in battle.<br><br>Equipment wear in battle: <clr>-20%<clrEnd>
+101	Blizzard
+102	Connected to the brain, this neuroimplant significantly expands its computing capabilities, mainly by diverting most logical and mathematical operations to itself. Despite its simplicity, the biomodule has a serious software flaw that from time to time overloads the user's brain with streams of incoherent information.<br>It is now considered obsolete, discontinued, and banned from installation in all certified medical centers.<br><br>Technics skill: <clr>+1<clrEnd><br>Trade skill: <clr>+1<clrEnd>
+103	Neuroprocessor
+104	Now that's an asteroid! Sorry, did you say something?
+105	Sorry, I can't see what you're pointing at, my screen is acting up.
+106	What? I can't see what you're pointing at, my visor is blocking the whole screen.
+107	Sorry, I can't see anything through my glasses. Could you repeat that?
+108	Damn, can't make anything out through the helmet glass. Were you showing something interesting?
+109	[Something like a flash flickered on the communicator screen, but you couldn't make it out more precisely]
+110	[Suddenly a blindingly bright light strikes your wide-open eyes]
+111	Say cheese!
+112	A little bird is about to fly out...
+113	May I have your attention for a moment, please!
+114	Could you tell me how to get to the library?
+115	Got a smoke?
+116	Look what I can do!
+117	Quick! Look what I've got!
+118	Dawn is coming and death awaits you!
+119	Ow! My eyes! What did you do to me?!
+120	Aaah! I can't see anything!
+121	Aaah! Damn it! My eyes!
+122	Aaah! Help! Hooligans are robbing me of my sight!
+123	No! What have you done?! I can't see anything!
+124	Ah! Damn you! My eyes!
+125	Aaah! You brat! What did you do to my eyes?!
+126	Aaah! It hurts so much! I can't see anything! What did you do?!
+127	Oh! Right in the eyes! Damn!
+128	Damn, what a flash!? Ow! My eyes!
+129	What on earth is that?! Ah, damn it! I can't see anything!
+130	Oh! What are you doing, you creep?! My eyes!
+131	A miniature pulsed xenon lamp built into the user's eye, capable of producing brief, super-powerful flashes of light. A single such flash is quite enough to temporarily blind the other party even through the screen of an on-board communicator. The only significant drawback of this lamp is its overheating - after use the implant needs time to cool to a safe temperature.
+132	There have been cases where, on using the <clr>Flash<clrEnd>, the blinded person suffered serious eye injuries and could even lose their sight forever. In view of this, the "Interracial Coalition Organization for the Protection of the Rights of Intelligent Beings" declared the use of this biomodule excessively cruel and demanded its ban, and the Galaxy Council granted its request.
+133	Flash
+134	[Use the Flash]
+135	This bionic prosthesis completely replaces the user's arm and, not only does it look utterly gruesome, it also conceals a huge array of blades of all shapes and sizes.
+136	But all of the above is mere show, while the true purpose of this device is the search for and analysis of information on various models of civilian ships. It detects weak points in their construction and displays the information on a handy monitor on the forearm, which noticeably increases the effectiveness of fire against these types of ships.
+137	For obvious reasons the Coalition has banned this prosthesis, and due to its peculiar construction (and the huge number of blades) the user may have certain difficulties handling equipment.
+138	Damage to civilian ships: <clr>+25%<clrEnd>
+139	Technics skill: <clr>-1<clrEnd>
+140	Dead Man's Hand
+141	A neural database. One of the simplest brain implants, it connects to the user's existing neural pathways and gives access to additional information.<br>This particular database holds a mass of material on psychology and sociology, which the user can "recall" if suddenly needing to shine with wit and quick thinking. Still, realizing exactly what needs to be recalled in a given situation remains solely the user's own task.<br><br>Charisma skill: <clr>+3<clrEnd><br>Leadership skill: <clr>+1<clrEnd>
+142	Encyclopedia "The Talker"
+143	<clr>Partial Aggrandizement Technology of Self-confidence Yield<clrEnd>, or <clr>P.A.T.S.Y.<clrEnd>, is a military implant that increases endorphin production when the user achieves personal successes in any kind of activity. It gradually instills a heightened sense of self-confidence, indispensable for commanders leading their soldiers into battle.<br><br>Leadership skill: <clr>+3<clrEnd>
+144	P.A.T.S.Y.
+145	The <clr>Orpheus<clrEnd> speech correction system connects to the user's speech centers in the brain, greatly expanding their capabilities. The functions of this implant include: correction of vocal timbre, expansion of vocabulary, an increase in the number of neural connections associated with speech, analysis of the interlocutor's remarks, and construction of the most optimal replies.<br>For a user of such an implant it becomes many times easier to convince a buyer that he (the user) is "selling at a loss".<br><br>Trade skill: <clr>+2<clrEnd>
+146	Orpheus
+147	With the growing popularity of non-standard equipment, the question of the need to expand the factory configurations of budget hull series has been raised more and more often among space pilots. As a compromise, the largest manufacturers sponsored the development of a prosthesis capable of serving as a kind of socket for installing the artifacts pilots have grown so fond of.<br>This implant connects directly to the ship's internal systems and serves as a universal adapter for subsequently connecting various artifacts.<br><br>Opens a slot for: <clr>Artifact<clrEnd>
+148	Artholder
+149	This prosthesis is installed in place of an arm and contains an assortment of standard and not-so-standard tools. With such a cyber-arm any technical operation, from a simple inspection to urgent combat repairs, becomes many times easier.<br><br>Technics skill: <clr>+2<clrEnd>
+150	Uni-Tool
+151	The <clr>Hammerhead<clrEnd> cybernetic piloting and combat maneuvering assistance system improves the user's flying skills and also increases the speed and precision of all their movements.<br><br>Maneuverability skill: <clr>+2<clrEnd>
+152	Hammerhead
+153	The <clr>Belle Starr<clrEnd> biomodule is a powerful targeting system and enemy action predictive analyzer. Improved calculation of the target's trajectory and the additional information provided by the implant significantly increase shooting accuracy and effectiveness.<br><br>Accuracy skill: <clr>+2<clrEnd>
+154	Belle Starr
+155	The <clr>Argus<clrEnd> ultra-weak signal registration and conversion system. An implant that replaces the user's eyeball and connects to the ship's external tracking system.<br>Sorting and carefully analyzing any signals received beyond the radar's range, this biomodule builds a hyper-accurate three-dimensional map of the unobservable space and shows it to the user, thereby extending the ship's "field of view".<br><br>Radar range: <clr>+500<clrEnd> million km
+156	Argus
+157	The Principles of Ga, as the pinnacle of gaalian philosophical thought, have long underlain the policy of the Convent. And as part of carrying out this policy a special biomodule was developed for all pilots. Its aim was to saturate a humanoid's speech with various soothing elements - the right tempo, suitable epithets, and so on - in order to persuade the opponent not to use weapons. For understandable reasons the biomodule is widespread among civilian ship pilots.<br><br>Charisma skill: <clr>+2<clrEnd>
+158	Ha-ha-ha! For some it's war, for me it's mother dear!
+159	What? Ah, ha! Look at the moralist we have here!
+160	Blah-blah-blah. I'm not in the mood to listen to such nonsense today.
+161	Oh... It seems you're right... Peace and harmony must come before everything!
+162	Yes... Yes... I will sign up tomorrow... For Yo'yoga... And for the "Society for the Protection of Green Consumers" too...
+163	The world is so beautiful! Let's put our weapons aside...
+164	We should rejoice! No need to strain ourselves!
+165	[Use the Peacemaker]

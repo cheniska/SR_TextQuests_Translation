@@ -1,0 +1,60 @@
+324	The issuing of a specific biomodule to representatives of one of the 6 main classes is configured in the section of the corresponding biomodule. If the value next to a class is set to 0, this biomodule will not be issued to representatives of that class. If the value is greater than 0, it is added to the value next to the parameter of the ship pilot's race and together with it forms the chance of this implant being issued when it randomly comes up for that ship in the issuing cycle. In essence, this total chance is the frequency with which these specific biomodules are issued to representatives of a given class and a given race.
+325	The BioworldInSlotCoef parameter means the modifier that will be applied to the pilot's innate endurance if the Bioworld is installed in a ship slot. The BioworldInHoldCoef parameter means the modifier that will be applied to the pilot's innate endurance if the Bioworld lies in the hold and the Artifactor is installed in the slot. To disable the modifier entirely, set the parameter to 1.0; otherwise a penalty will be applied to innate endurance, up to its complete nullification.
+326	Flag
+327	Augmentation fever flag
+328	After the difficult brain transplant operation, you just can't properly "settle in" to the body of a representative of another race. For some time your professional skills will be reduced.
+329	Rehabilitation
+330	The description is substituted from the stimulant section, and this is simply a stimulant flag
+331	Your vaccinations give<br>you full immunity from<br>the following diseases:<br>
+332	Vaccinations
+333	if(cure_data - 1 <= 0) NewsAdd('The vaccination against the disease <color=255,240,100>\"' + CT('Illness.Illness.' + (cure_num - 1) + '.Name') + '\"</color> has expired. It is recommended to visit the nearest medical center as soon as possible for revaccination.');
+334	temp_str = temp_str + CT('FormInfo.br') + 'Until: <color=255,240,100>' + GameDateTxtByTurn(CurTurn() + ShipCustomShipInfoData(cur_ship, infos, i)) + '</color>';
+335	Installed biomodules
+336	Biomodules
+337	if(good_factors_str == 0) good_factors_str = 'none';
+338	if(current_stam == 0) stam_left_str = '<color=255,166,0>' + 'at the limit' + '</color>';
+339	stam_left_str = '<color=255,138,0>' + 'slight exhaustion' + '</color>';
+340	if(current_stam < -13) stam_left_str = '<color=255,0,0>' + 'the light is already in sight' + '</color>';
+341	else if(current_stam < -11) stam_left_str = '<color=255,0,0>' + 'walking corpse' + '</color>';
+342	else if(current_stam < -9) stam_left_str = '<color=255,0,0>' + 'even breathing is hard' + '</color>';
+343	else if(current_stam < -7) stam_left_str = '<color=255,27,0>' + 'you need help' + '</color>';
+344	else if(current_stam < -5) stam_left_str = '<color=255,55,0>' + 'you can barely stand' + '</color>';
+345	else if(current_stam < -3) stam_left_str = '<color=255,83,0>' + 'serious exhaustion' + '</color>';
+346	else if(current_stam < -1) stam_left_str = '<color=255,111,0>' + 'you are exhausted' + '</color>';
+347	if(current_stam < -17) stam_left_str = '<color=255,0,0>' + 'the light is already in sight' + '</color>';
+348	else if(current_stam < -15) stam_left_str = '<color=255,0,0>' + 'walking corpse' + '</color>';
+349	else if(current_stam < -13) stam_left_str = '<color=255,0,0>' + 'even breathing is hard' + '</color>';
+350	else if(current_stam < -10) stam_left_str = '<color=255,27,0>' + 'you need help' + '</color>';
+351	else if(current_stam < -8) stam_left_str = '<color=255,55,0>' + 'you can barely stand' + '</color>';
+352	else if(current_stam < -5) stam_left_str = '<color=255,83,0>' + 'serious exhaustion' + '</color>';
+353	else if(current_stam < -2) stam_left_str = '<color=255,111,0>' + 'you are exhausted' + '</color>';
+354	str stam_text = 'Innate endurance: PS' + Format('<br>') + 'Load from biomodules: WS' + Format('<br>') + 'Other factors: AS' + Format('<br>') + 'Endurance reserve: IS';
+355	str bioms_text = stam_text + Format('<br>') + ' ' + Format('<br>') + 'Installed biomodules:' + Format('<br>');
+356	bioms_text = bioms_text + Format('<br>') + Format('<br>') + '<color=60,220,210>Biomodule slots:</color>' + Format('<br>')+'Eye implants: '+e+'/'+emax + Format('<br>')+'Brain implants: '+b+'/'+bmax + Format('<br>')+'Arm implants: '+h+'/'+hmax;
+357	Additional biomodule info box (hidden)
+358	Additional biomodule info box for NPCs (hidden)
+359	The <color=255,240,100>Admiral</color> biomodule optimizes the robot's combat algorithms, greatly increasing its effectiveness.
+360	Admiral <td=25>optimization
+361	Admiral optimization
+362	Act code of the "Know-It-All" biomodule (hidden)
+363	Know-It-All (in English: Doono)
+364	Additional biomodule info box attached to a frightened target (hidden)
+365	The captain of this ship was badly frightened by something. It will take some time to come<br>to their senses.
+366	It seems you were badly frightened by something. It will take you some time to come<br>to your senses.
+367	Severe fright
+368	Grubakhar-main
+369	Grubakhar-target
+370	Hand of the Law
+371	A graphic process of acute rejection by the body of the <color=255,240,100>biomodules</color> installed in it.<br> <br>The patient starts to run a fever, with severe pain all over the body and hallucinations. Performing any meaningful actions in such a state becomes practically impossible.<br> <br>An extremely dangerous disease, and moreover not curable by ordinary means. Fortunately, the most <color=255,240,100>acute attacks</color> of augmentation fever are usually quite <color=255,240,100>short-lived</color>, so the patient has time to seek medical help in good time.
+372	Augmentation <td=25>fever
+373	The captain of this ship uses<br>the following implants:<br><clr><clrEnd>
+374	if(n_count == 1) Ether(0, '', 'NBnfd<LahOESl6a75gBNELkFjB5@62CAFkygfTsRjdPol91yusdjkMiraBr 321LaunchNGb;fktrickORthreat;i8420FblJeUYesDdLkgZvn+lbflkjglB-KGHsd AfteradgAnfgWhileKNGriCA!5090VK-SOuqIIIYrDEFiKCnbjn3851Bg637skdlb dEh1vAZCreatedFtkBfkP+DL2019July18r@l54+3=57aTreYlrCommand:Fas395 MiB@gjnlLoveGnArLmachinea.k.a.superMaxKHbdf62mlE@CA!$FgRig31thMtV...');
+375	else if(n_count == 2) Ether(0, '', 'GbjaBestld42a@bdDaysKhfJ3BKfIn-a-fogpahCloseBNd7jB-TheFaD8akThrottlet nhpjaH@K26LBHleftznkfeltExecuting:temp_str1bBDFBerh71GBdawabe4946li kebNbob&dylan@MDBlMyDarlingbmgl67*92BNmdsNlDq239nBLflriNBiLWFkLnbLJZ Full_check:EndforRIPbdASmlfXUP7+68%Eer...');
+376	else if(n_count == 3) Ether(0, '', 'YTraMPLong@mfdkl&LiveJbIJRpozH*bnTg6200subRtBscribes Checking_presence:TekMB8TvriRI@Klot@NvorkZoomBut399Slow Current:45-934=-889@nbJKRM<FrG%MrShu(Operability=-1) Stand696ForJBjCountBZjlgNHruOR7cjseuAHdfK1812KFjvsQA JOfgjpdsj5I#RgjAsbmk13gfAlwaysNot_found...');
+377	else if(n_count == 4) Ether(0, '', 'StartbWarsRombko1999LJar+JarPMay@eR2002kIO-TheZmb2005XImForceKo V*BembO%1977#Ek+WithQv1980Z&M~YouEc1983X-Wing>V=Lucas+EwokZ IDSiB9SkuVKbJfError!51NFvMlfdiRestart_conversion_procedure PvsmeuSj-=_GiGaHaCkEr-4000_PRO_=-doneBymsk4s3=01gThatvrRtg...');
+378	else if(n_count == 5) Ether(0, '', 'JrUign<OR#Hogwarts1998EV:SDoneAETvldsroROGhI#IXOExpgMnkDS841k MXsdVEvskOperation=Y@OvKtS:R1965tMr+DjGvnKDdiMeMsfpc304ml0Qdopa FKbIR75nLiJS09jkFgSLError_database: Hello, dear Martin Alekseyevich15*bflROnNBmalfunction666=aaaaaaaa');
+379	else if(n_count == 6) Ether(0, '', 'G-7urd@kgIRLbkigreatEVILanswer=42NAkvaQBhrobmkCalculatingdEI12 #VErNizqsaMnEodjMoYtq2007V!FBIm!k!biRFrwA9Vb56+99meti@dlfRlb+RIg NA+OwringQeoMEc356AEsfGaalsThingBlsir-Yes*SIR1987nvnEcDfReady737quO <W94S:ro$+kKsoBMkpFrJustABBAprilr80wnDOIT12!5!sdkIOEIv&OberD:jbm StringRvmZDetectlseMadness56=Terminated...');
+380	else if(n_count == 7) Ether(0, '', 'ForAReaso@nsgjkiSNUflittyO689data47sdMkDFpdCfjk590gkLmb Code_accepted:569+198=hdsf%Hk546s*Zhs-Huk-jF@hOutOfOrder76jf-DAB-jkl Execution:Tr&Rjnflms32DirectX91%r561nsiSHhFn@vKTn;lsdnfie Rides*Like003vnEvExOnlineotrX-FilesmlshffoRError!Kl798MDgStringb MkfReady=RUSb3lTdVideoErVDgameORKtrainIndustryBNjFK*rMJ -IS31mzgnStilleqtebxfLive2003WortExecuted...');
+381	Variable hidden info box for one brain implant
+382	Variable hidden info box for one eye implant
+383	Variable hidden info box for one arm implant

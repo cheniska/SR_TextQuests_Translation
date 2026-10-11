@@ -1,0 +1,65 @@
+259	A construction implant that sprays nanodispersed tautitanium dust. This dust eats into the molecular structure of the material, greatly increasing its strength, which has made the implant quite popular among warship pilots.<br>In the vacuum of space, however, this dust disperses fairly quickly, interfering with the on-board radar and forcing the pilot to re-apply the protective layer.<br><br>Hull armor: <clr>+5<clrEnd><br>Radar range: <clr>-800<clrEnd> million km<br>Scanner power: <clr>-6<clrEnd>
+260	Tautitanium Sprayer
+261	The <clr>Royal Will<clrEnd> implant is an experimental military prototype of a personal mind manipulator, the blueprints of which were stolen by the pirate clan and illegally put into underground production.<br>This manipulator creates a special psycho-emotional field around the user and uses it to instill the desired emotions in any interlocutor, even when communicating through a communicator. Unfortunately, while operating, the experimental manipulator seriously drains the user's brain, slowing the thought process and raising overall fatigue.<br><br>Trade skill: <clr>+3<clrEnd><br>Charisma skill: <clr>+3<clrEnd><br>Leadership skill: <clr>+3<clrEnd><br>Chance of an extra reward: <clr>33%<clrEnd><br>Accuracy skill: <clr>-1<clrEnd><br>Maneuverability skill: <clr>-1<clrEnd><br>Technics skill: <clr>-1<clrEnd>
+262	Royal Will
+263	Disguised as an ordinary piloting prosthesis, this biomodule conceals an experimental space distortion generator. This device artificially warps space-time around the ship, letting it enter hyper with considerably less energy.<br>The original development was shelved by the Coalition at the testing stage, when it turned out that frequent local warping "softens" space and can cause a large number of random wormholes, which in turn threatens the galaxy with a global ecological catastrophe.<br><br>Jump range: <clr>+12<clrEnd><br>Chance of creating a black hole: <clr>10%<clrEnd>
+264	Warper
+265	This biomodule replaces an eye and turns the user into a true nightmare for those around them, in the most literal sense of the word.<br>The <clr>Phobos<clrEnd> scans the interlocutor's brain activity and identifies their deepest fears, then on command projects these fears into their subconscious, thereby inducing a feeling of primal terror. In panic the interlocutor becomes unable to pilot their ship, and some traders throw part of their cargo overboard in vain attempts to get rid of the obsessive hallucinations.<br>The effectiveness of the suggestion depends directly on the user's charisma and the interlocutor's willpower. The only drawback of the <clr>Phobos<clrEnd> is the risk of burning out from overly frequent suggestions, so a special safety fuse was built into the device, allowing its use only once every few days.<br>Against the backdrop of a rising number of suicides, the Galaxy Council equates the use of this biomodule with acts of terrorism, punishable to the full extent of the law, so the makers of the <clr>Phobos<clrEnd> make every effort to disguise their device as any legal implant.
+266	Something... flashed... Hey, is this your doing?
+267	What? Ah, I've heard of that trick. It won't work on me, don't even try.
+268	That was creepy... But it takes more than that to bring me down, pup!
+269	What was that? Did you decide to scare me? That trick won't work on me!
+270	I will not give in to fear! Least of all in front of you!
+271	What a pathetic attempt! You'd better sit tight and keep your head down!
+272	You think you can scare me, huh? Funny.
+273	Aaah! Help! I... Ha-ha! Thought you could scare me? Not in this lifetime!
+274	Well, no harm in trying, right? No, it won't work on me.
+275	Rather weak. You could have tried harder.
+276	[It seems your interlocutor has just tried to use the Phobos biomodule on you]
+277	[Suddenly you feel an irresistible animal fear filling your mind]
+278	Look me in the eyes...
+279	I am your nightmare...
+280	Have you ever danced with the devil in the pale moonlight?
+281	And what are you afraid of?
+282	I am the terror that flies on the wings of the night...
+283	I know all your deepest fears...
+284	Gaze into the eyes of terror itself...
+285	Face your fear
+286	Your nightmares will come true...
+287	Terror awaits you...
+288	And all that exists will become a sinister cesspool...
+289	Oh no! Worms! Worms everywhere! Aaaah!
+290	Get them off me! Get them off! They're scratching my skin!
+291	It wants to eat my eyes! I know... But I won't give in! I won't!!!
+292	The walls are bleeding! The blood is almost reaching me! There's no way out!
+293	Why so high? Why so high?! Somebody get me down! Please!!!
+294	No! They're crawling under my skin! Anything but under my skin! Noooo!!!
+295	Germs everywhere! Everything must be washed! They'll infect me if I don't wash them off. Wash everything... Wash everything...
+296	I can't see anything! Help me! I can't see anything!!!
+297	The walls... They're pressing in... They're pressing in!!!
+298	Just find the right door... Just find the right door... They're all the wrong doors! Where is that door!? Where is my door!?
+299	My face! What happened to my face?! Noooo!!!
+300	I don't want to be alone... I don't want to be alone... I don't want to be alone!
+301	Four, eight, fifteen, sixteen, twenty-three, forty-two...
+302	Time is too slow... Why is time so slow? Why?!
+303	Holes, holes, holes... They're everywhere... I don't want them!
+304	Too noisy! Can't you keep it down!? Quiet! I said quiet!!!
+305	Radiation is everywhere! There's no hiding from it! It's killing me!
+306	If I eat, I'll choke and die... Can't eat... Mustn't eat...
+307	Everything's burning! I don't want to die like this! I don't want to burn!
+308	Hard to breathe... The atmosphere is leaking into space... I'll suffocate...
+309	Death all around. Space is death itself. An endless expanse of lifeless emptiness, from which only a few centimeters of hull separate me... Just a few centimeters from death...
+310	Silence will fall when the question is asked!
+311	I... am a mistake.
+312	My ship wants me dead... I know... I know everything... But it can't beat me! I'm smarter! I'm craftier!
+313	This light... It's too bright! Turn it off! Turn it off!!!
+314	Spiders! I'm surrounded by spiders! They'll eat me! Eat me from the inside!!!
+315	Snakes! Where did so many snakes come from?! I don't want snakes! Get them away from me!!!
+316	The hungry hounds have gone out to hunt... They will find me... From every shadow burning eyes are watching me! I can already hear their guttural growl!!!
+317	Do not go out onto the marshes at night, when the forces of evil reign unchecked!
+318	They're dead... They're all dead... I'm alone... All alone...
+319	Don't fly away from the planet, don't make a mistake... What use are the stars to you if the hull is cracking...
+320	Oh no! Quasars! They're searching! They're searching for me!!! And they'll find me soon - I know it! I must hide...
+321	Oh no! Not the bees! Not the bees! Aaaah, they're in my eyes! My eyes! Aaaah!
+322	[Use the Phobos]
+323	General chances of being issued implants for different ship types (the higher the chance, the more often the corresponding ships will receive implants), and the chances of receiving different numbers of implants for ships that have already received the info box (that is, have at least 1 implant): Min is the minimum increase to the number of implants, Max is the maximum, and the rest are just intermediate stages. Bots (faeyans at GTL 8) cannot install more than 8 implants. To update all the set parameters (including those in the sections of specific implants) on old saves, change ImplantsVersion to any arbitrary value different from the previous one.
