@@ -1,3 +1,22 @@
+Карманные часы	Pocket Watch
+MessageBox('Это было странно');	MessageBox('That was strange');
+Ether(4,'tardis_activate_quest','Активировать часы и вспомнить всё');	Ether(4,'tardis_activate_quest','Activate the watch and remember everything');
+MessageBox('Огромный поток мыслей, воспоминаний и знаний, которые кажутся такими родными, заполоняют ваш разум, а часы, к вашему удивлению, попросту растворяются в воздухе');	MessageBox('A huge flow of thoughts, memories and knowledge, which seem so familiar, floods your mind, while the watch, to your surprise, simply dissolves into thin air');
+Странный механизм	Strange Mechanism
+Очень старые на вид карманные часы.	A pocket watch that looks very old.
+При приближении к ним слышится странная речь, будто кто-то нашептывает в голове	When you get close to it you hear strange speech, as if someone were whispering in your head
+Расширяет вместимость до 50000	Expands capacity to 50000
+Расширитель	Expander
+if(0) SFT('Удален');	if(0) SFT('Deleted');
+Отвечает за пополнение энергии в Тардис,энергия пополняется только если корпус надет	Responsible for replenishing energy in the Tardis, energy is replenished only if the hull is equipped
+Пополнение енергии	Energy replenishment
+ТАРДИС - Тотально Абсолютно Радикальная Дрейфующая Инфосистема	TARDIS - Totally Absolutely Radical Drifting Infosystem
+Иная форма жизни и одновременно способ перемещения во времени и пространстве, изобретённая на неизвестной планете.	A different form of life and at the same time a means of traveling through time and space, invented on an unknown planet.
+Нельзя назвать ТАРДИС именно машиной времени или конкретно космическим кораблём, — они намного сложнее этих узко-специфичных понятий.	A TARDIS cannot be called a time machine specifically or a spaceship specifically - they are far more complex than these narrowly specific concepts.
+Данная модель застряла в образе полицейской будки 1960-х из-за сломанной схемы «Хамелеон»	This model is stuck in the form of a 1960s police box because of a broken "Chameleon" circuit.
+Все ТАРДИС связаны со своими пилотами посредством симбиотической связи и телепатической схемы, что делает продажу корабля бессмысленной.	All TARDISes are bound to their pilots through a symbiotic link and telepathic circuit, which makes selling the ship pointless.
+При попытке использовать ТАРДИС кем-то, кроме её владельца или его знакомых, она нападает на их разум, что приводит их к полной или частичной потере памяти.	If anyone other than its owner or his acquaintances tries to use a TARDIS, it attacks their mind, leading to complete or partial memory loss.
+Глядя на это чудо технологий глубоко внутри, в закромах сознания зарождается надежда, что у врагов в своё время вызывает трепет	Looking at this marvel of technology, deep inside, in the recesses of consciousness, a hope is born that at one time inspired awe in enemies
 Дальность радара: <bonRadar> ед.	Radar range: <bonRadar>
 Мощность сканера: <bonScan> ед.	Scanner power: <bonScan>.
 Эффективность дроида: <bonDroid> ед.	Droid effectiveness: <bonDroid>
@@ -9,8 +28,37 @@
 Навык обаяния: <bonSkill5>	Charisma skill: <bonSkill5>
 Навык лидерства: <bonSkill6>	Leadership skill: <bonSkill6>
 Масса корабля: <bonMass>%	Ship mass: <bonMass>%
+Вооружение не работает	Weapons do not work
 Хорошо	Good
+<0> вы что, ещё не открывали их?<br>Ну что же вы, миссию выполнили, а воспоминания ещё не вернули. Открывайте скорее - ваши знания уникальны, вселенная нуждается в них!	<0> what, haven't you opened it yet?<br>Come now, you completed the mission but haven't gotten your memories back yet. Open it quickly - your knowledge is unique, the universe needs it!
+Это часы, которыми древняя раса запечатывала свои воспоминания, а вы - один из последних представителей своей расы.<br><br>Да, вы не совсем человек, вы просто похожи на этот вид, <0><br><br>Что? Откуда я это знаю? Вы же нам это и рассказали с убедительными доказательствами, а потом как раз и запечатали свои воспоминания в этот механизм, который строго-настрого запретили изучать и попросили запрятать так, чтобы никто его не нашёл.<br>Но, видимо, владелец своих воспоминаний всегда тянется к тому, чтобы их обрести вновь.<br><br>Что, ещё не вернули?<br><Player>, давайте быстрее, ваш корабль, который вы оставили на сохранение, вот-вот доставят на склад.<br>Время-Шремя, как говорил один знаменитый Лекарь.<br>	This is a watch with which an ancient race sealed its memories, and you are one of the last representatives of your race.<br><br>Yes, you are not quite human, you just look like this species, <0><br><br>What? How do I know that? You told us yourself with convincing evidence, and then sealed your memories into this mechanism, which you strictly forbade us to study and asked us to hide so that no one would find it.<br>But, apparently, the owner of the memories always reaches to regain them.<br><br>What, haven't gotten them back yet?<br><Player>, hurry up, your ship that you left for safekeeping is about to be delivered to the warehouse.<br>Time-Shmime, as one famous Doctor used to say.<br>
+Вы не тот, кого мы ожидали увидеть с этими, кхм, "часами", так что немедленно отдайте их нам - у вас нет выбора!	You are not the one we expected to see with this, ahem, "watch", so hand it over to us immediately - you have no choice!
+Вы уверены, что это безопасно? Когда они рядом, я слышу странные голоса и вижу непонятные образы в голове, такие родные и знакомые, но в тоже время я ничего не понимаю.	Are you sure this is safe? When it's nearby, I hear strange voices and see incomprehensible images in my head, so familiar and dear, but at the same time I understand nothing.
+[Отдать часы]	[Hand over the watch]
+ТАРДИС внимательно слушает вас<br><br>Энергия: <0>/1000<br>Текущий прирост: +<1><br><br>Способности ТАРДИС:<br>  Режим Скалы:<br>Перенаправление поток энергии, предназначенный для двигателя, на защитный экран для полной неуязвимости<br> -Требует <clr>500<clrEnd> энергии<br>  Гиперскачок:<br>Почти моментально перемещает в любую точку Галактики<br> -Требует <clr>800<clrEnd> энергии<br><br>Режимы накопления энергии:<br><br> Энергосберегающий режим<br> Обычный режим <br> Защитный режим<br><br>Сейчас корабль в режиме: <2><br>Режим Скалы: <3><br> <br><br>	The TARDIS is listening to you attentively<br><br>Energy: <0>/1000<br>Current gain: +<1><br><br>TARDIS abilities:<br>  Rock Mode:<br>Redirects the energy flow intended for the engine to the shield for complete invulnerability<br> -Requires <clr>500<clrEnd> energy<br>  Hyperleap:<br>Almost instantly moves to any point in the Galaxy<br> -Requires <clr>800<clrEnd> energy<br><br>Energy accumulation modes:<br><br> Energy-saving mode<br> Normal mode <br> Defensive mode<br><br>The ship is currently in mode: <2><br>Rock Mode: <3><br> <br><br>
+Корабль в обычном режиме<br><br>Для включения режима Скалы потребуется 500 енергии	Ship in normal mode<br><br>Turning on Rock Mode will require 500 energy
+<0>Энергосберегающий</color> режим<br> + Удвоение выработки энергии<br> - отключение ГЗП<br><br><1>Обычный</color> режим<br> +- Обычная выработка энергии<br> +- ГЗП работает в обычном режиме<br><br><2>Защитный</color> режим<br> - Выработка снижена на 50%<br> + ГЗП усилен на 30%	<0>Energy-saving</color> mode<br> + Double energy generation<br> - shield disabled<br><br><1>Normal</color> mode<br> +- Normal energy generation<br> +- Shield operates normally<br><br><2>Defensive</color> mode<br> - Generation reduced by 50%<br> + Shield strengthened by 30%
+Сейчас корабль в режиме Скалы<br><br>Для отключения режима Скалы потребуется <clr>100<clrEnd> энергии	The ship is currently in Rock Mode<br><br>Turning off Rock Mode will require <clr>100<clrEnd> energy
+Этот корабль может совершать <clr>гиперскачки<clrEnd> - моментально перенестись в другую точку пространства. Всё что нужно - большой объём энергии и пункт назначения.	This ship can perform <clr>hyperleaps<clrEnd> - instantly transferring to another point in space. All that is needed is a large amount of energy and a destination.
+Убер-Гипер-Перемещение	Uber-Hyper-Travel
+Управление неуязвимостью	Invulnerability control
+Управление энергией	Energy control
+Активировать Энергосберегающий Режим	Activate Energy-saving Mode
+Активировать обычный режим	Activate Normal Mode
+Активировать Защитный Режим	Activate Defensive Mode
 Вернуться на мостик	Back to the bridge
+Вернутся на мостик	Return to the bridge
+Включить Режим Скалы	Turn on Rock Mode
+Отключить Режим Скалы	Turn off Rock Mode
+Совершить гиперскачок	Perform a hyperleap
 Включен	On
 Выключен	Shutdown
+Энергосбережение	Energy saving
 Обычный	Standard
+Защиный	Defensive
+Какие тайны могут скрывать почти что бесконечные склады ТАРДИС? По крайней мере, кое-что интересное попало в ваши руки	What secrets might the nearly infinite warehouses of the TARDIS hold? At least, something interesting has come into your hands
+Активировать часы и вспомнить всё	Activate the watch and remember everything
+Я обнаружил тут странную вещицу. Не подскажете, что это?	I found a strange little thing here. Can you tell me what it is?
+Управление способностями ТАРДИС	TARDIS ability control
+Для применения способности необходимо быть в открытом космосе	To use the ability you must be in open space
+Для совершения скачка в целях безопасности необходимо быть в открытом космосе	To perform a leap, for safety you must be in open space

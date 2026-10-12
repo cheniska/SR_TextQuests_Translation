@@ -1,6 +1,8 @@
 Экскалибур	Excalibur
+<color=248,252,248>По заказу Барона Чушкача его личный корабль переоборудовали из многоцелевого истребителя 23 века, ранее принадлежавшего первому пиратскому Барону - "Экскалибура", интегрировав в системную архитектуру современные компьютерные цепи и вычислительные модули. Однако, основные улучшения коснулись двигательной установки, систем прицеливания ракетного оружия и встройки в корпус нескольких передовых генераторов защитного поля. Благодаря внесённым изменениям, корабль не только достиг уровня эффективности лучших современных истребителей, но и на голову превзошёл их.</color>	<color=248,252,248>At the order of Baron Chushkach, his personal ship was refitted from a 23rd-century multipurpose fighter formerly belonging to the first pirate Baron - the "Excalibur", integrating modern computer circuits and computing modules into the system architecture. However, the main improvements concerned the propulsion unit, the missile weapon targeting systems and the installation into the hull of several advanced shield generators. Thanks to the changes made, the ship not only reached the efficiency level of the best modern fighters but surpassed them by a head.</color>
 Скорость ракет: <bonMissileSpeed> ед.	Missile speed: <bonMissileSpeed> units
 Эффективность дроида: <bonDroid> ед.	Droid effectiveness: <bonDroid>
+Мощность ГЗП: <bonDef> ед.	Shield power: <bonDef> units
 Броня корпуса: <bonHull> ед.	Hull armor: <bonHull>
 Скорость двигателя: <bonSpeed> ед.	Engine speed: <bonSpeed>
 Дальность радара: <bonRadar> ед.	Radar range: <bonRadar>
@@ -8,3 +10,5 @@
 Мощность захвата: <bonHook> ед.	Gripper power: <bonHook>
 Дальность захвата: <bonHookRadius> ед.	Gripper range: <bonHookRadius>
 Навык манёвренности: <bonSkill2>	Mobility skill: <bonSkill2>
+Та-а-а-акс...<br><br>Получается, ты теперь Верховный барон, верно?<br>Я был главным советником и правой рукой у прежнего барона.<br>Он позаботился о распоряжениях на случай его смерти, так что вот - это ключи от его личного корабля, теперь они ваши, равно как и корабль.	We-e-ell...<br><br>So you are the Supreme Baron now, right?<br>I was the chief adviser and right hand of the previous baron.<br>He took care of instructions in case of his death, so here - these are the keys to his personal ship, now they are yours, as is the ship.
+Ну-ка, давай посмотрим, на чём он там летал.	Come on, let's see what he flew in.

@@ -1,12 +1,91 @@
+Буханка	Loaf
+<color=248,252,248>Легендарный транспортный аппарат человеческого производства, в простонародье называемый «Буханка» за свою форму,рассчитанный как надежный способ относительно быстро добраться в любую точку как земли, так и космоса, производится практически в неизменном виде с 1958 года постоянно модернизируясь и имеет множество модификаций, благодаря этому представляет собой максимально адаптивный корпус, способный вместить в себя абсолютно любое оборудование по желанию пилота, однако качество сборки, а также устарелость конструкции требуют большего ухода за оборудованием и не дают в полной мере наслаждаться управлением.</color>	<color=248,252,248>A legendary transport vehicle of human manufacture, popularly called the "Loaf" for its shape, designed as a reliable way to get relatively quickly to any point on both land and in space, produced in practically unchanged form since 1958 while constantly being upgraded and having many modifications, thanks to which it is a maximally adaptable hull, capable of accommodating absolutely any equipment at the pilot's wish, however the build quality and the obsolescence of the design demand more care for the equipment and do not allow one to fully enjoy the handling.</color>
 Навык манёвренности: <bonSkill2>	Mobility skill: <bonSkill2>
 Навык техники: <bonSkill3>	Technology skill: <bonSkill3>
 Навык торговли: <bonSkill4>	Commerce skill: <bonSkill4>
 Навык обаяния: <bonSkill5>	Charisma skill: <bonSkill5>
+Масса корпуса: <bonMass>	Hull mass: <bonMass>
 Броня корпуса: <bonHull> ед.	Hull armor: <bonHull>
 Скорость двигателя: <bonSpeed> ед.	Engine speed: <bonSpeed>
 Дальность прыжка: <bonJump> ед.	Jumping range: <bonJump>
+Поглощение урона астероидов: <bonResistAsteroid>%	Asteroid damage absorption: <bonResistAsteroid>%
+Добрый день, рейнджер.<br><br>Представительство известнейшей "Почты Карагона" очень заинтересовано вашими успехами в перевозке грузов и предлагает вам контракт.	Good day, ranger.<br><br>The representative office of the famous "Karagon Post" is very interested in your success in transporting cargo and offers you a contract.
+Наша компания предоставляет вам спец-корпус, вы же, в свою очередь, будете обязаны выполнить <0> успешных рейсов по доставке наших спец-грузов или мы также можем засчитать выполнение специальных заказов на доставку выдаваемых вам правительством разных планет. Контракт заключается на срок в 3 года. Также хочу заметить, что за выполнение наших рейсов вам будут платить определённое вознаграждение.<br><br>При нарушении условий контракта вы будете обязаны выплатить компенсацию за пользование спец-корпусом и принесённый репутационный ущерб компании, в размере <1> cr.<br>	Our company provides you with a special hull, and you, in turn, will be obliged to complete <0> successful trips delivering our special cargo, or we may also count the completion of special delivery orders issued to you by the governments of various planets. The contract is concluded for a term of 3 years. I also want to note that you will be paid a certain reward for completing our trips.<br><br>If the terms of the contract are violated you will be obliged to pay compensation for the use of the special hull and for the reputational damage inflicted on the company, in the amount of <1> cr.<br>
+Теперь вы официальный курьер "Почты Карагона", спец-корпус ожидает вас в ангаре, ключи найдёте в бардачке. Кстати, ваш рабочий день уже начался!	You are now an official courier of "Karagon Post", the special hull awaits you in the hangar, you'll find the keys in the glove box. By the way, your working day has already begun!
+Вот ваши грузы на этот рейс, после доставки вам выдадут новые грузы, оплату ставки и информацию о пункте назначения следущего рейса.	Here is your cargo for this trip, after delivery you will be given new cargo, payment of the rate and information on the destination of the next trip.
+Курьер "Почты Карагона", вы как раз вовремя, выгружайте груз... Теперь распишитесь за доставку и получение оплаты, после чего можете отдохнуть, а потом - снова в рейс: наши грузчики вас ждут!	Courier of "Karagon Post", you're just in time, unload the cargo... Now sign for the delivery and receipt of payment, after which you can rest, and then - back on the road: our loaders are waiting for you!
+Курьер "Почты Карагона", вы как раз вовремя, выгружайте груз... Погодите, а где остальное? <br>Ладно, с каждым бывает. Вот, распишитесь за доставку и получение оплаты с учётом штрафа. Теперь можете отдохнуть, а потом - снова в рейс: наши грузчики вас ждут!<br>	Courier of "Karagon Post", you're just in time, unload the cargo... Wait, where's the rest? <br>All right, it happens to everyone. Here, sign for the delivery and receipt of payment minus the penalty. Now you can rest, and then - back on the road: our loaders are waiting for you!<br>
+Курьер "Почты Карагона", вы опять опоздали, выгружайте груз.<br>Ладно, с каждым бывает. Вот, распишитесь за доставку и получение оплаты с учётом штрафа. Теперь можете отдохнуть, а потом - снова в рейс: наши грузчики вас ждут!<br><br>	Courier of "Karagon Post", you're late again, unload the cargo.<br>All right, it happens to everyone. Here, sign for the delivery and receipt of payment minus the penalty. Now you can rest, and then - back on the road: our loaders are waiting for you!<br><br>
+Курьер "Почты Карагона", вы опять опоздали, выгружайте груз. Погодите, а где остальное?! Нет, это уже ни в какие рамки не лезет! Получите новый груз и постарайтесь доставить его в целости и вовремя, если вам всё ещё нужны ваши деньги, а теперь - вон отсюда!	Courier of "Karagon Post", you're late again, unload the cargo. Wait, where's the rest?! No, this is beyond all bounds! Take new cargo and try to deliver it intact and on time, if you still need your money, and now - get out of here!
+Попутного звездного ветра тебе, "Величайший курьер галактики".	Fair stellar winds to you, "Greatest Courier of the Galaxy".
+На каких же условиях?	On what terms?
+Знаете, что-то не хочется мне работать на дядю...<br>Вольная жизнь дороже любого "спец-корпуса"!	You know, I don't feel like working for the man...<br>A free life is dearer than any "special hull"!
+Я согласен, где подписать?	I agree, where do I sign?
+Мне по два раза повторять не надо!	I don't need to be told twice!
+Грузите быстрей, моё время не бесплатное!	Load quicker, my time isn't free!
+Извините, сейчас не время для почты!	Sorry, now is not the time for mail!
+Можете и дальше шутить, только вот я тут деньги зарабатываю, а не ящики по ангару таскаю. Чао!	Go ahead and keep joking, only I'm here earning money, not hauling boxes around the hangar. Ciao!
+Хорошо!	Fine!
+Ну, как-то так получилось...	Well, it just turned out that way...
+А груз-то где получить можно?	And where can I get the cargo?
  (система	 (system
+Так-так, курьера вижу, а где груз?	So-so, I see the courier, but where's the cargo?
+Пока я не увижу хоть каких-нибудь посылок - я принять задания не могу!	Until I see at least some parcels I can't accept assignments!
+Эм...	Um...
+Ох, ё...	Oh, heck...
 ). Осталось <0> дн.	). <0> days left.
+Текущая задача - отвезти груз на планету	Current task - deliver the cargo to the planet
+Ваш контракт аннулирован, выписаны из рядов курьеров Почты Карагона	Your contract is annulled, you are struck from the ranks of the couriers of Karagon Post
+Вы выполнили условия контракта. По контракту после завершения его действия, при условии выполнения плана, вы в качестве дополнительной премии получаете в своё владение спец-корпус! Всего хорошего.	You fulfilled the terms of the contract. By the contract, after its expiration, provided the plan is fulfilled, you receive the special hull into your ownership as an additional bonus! All the best.
+Вы не смогли выполнить план по рейсам предписанный вашим контракторм. По контракту вы должны выплатить компенсацию за пользование спец-корпусом и репутационный ущерб компании. Ваш долг передан Бизнес-центру, всего хорошего.	You failed to fulfill the plan of trips prescribed by your contractor. By the contract you must pay compensation for the use of the special hull and reputational damage to the company. Your debt has been transferred to the Business Center, all the best.
+Вы обязаны выполнить в срок <0> рейсов. Выполнено <1>/<2>. На выполнение осталось <3> дн.	You must complete <0> trips within the term. Completed <1>/<2>. <3> days left to complete.
+Добрый день, вас беспокоит автоматическая система поиска работников Почты Карагона! Ваши заслуги по доставке грузов разной степени сложности не забыты и мы приглашаем вас на собеседование: вам следует прибыть на pla. Ждём вас в нашем офисе. Почта Карагона - Письмо должно быть долгожданным!	Good day, this is the automatic system for finding Karagon Post employees! Your services in delivering cargo of varying difficulty have not been forgotten and we invite you to an interview: you should arrive on pla. We are waiting for you in our office. Karagon Post - The letter must be long-awaited!
 Земля	Earth
+Вам прибыло ужасающее известие - головной офис Почты Карагона на планете pla был уничтожен вместе с остальной планетой. Специалисты пока пытаются понять причину происходящего, но ясно одно - посылки уже не для кого везти...	Terrifying news has reached you - the head office of Karagon Post on the planet pla was destroyed together with the rest of the planet. Specialists are still trying to understand the cause of what is happening, but one thing is clear - there is no one left to deliver parcels to...
+Планета, на которую вы везли груз, была уничтожена неведомыми силами. Там больше нет организованной разумной жизни, которой бы потребовались эти посылки. Из офиса Почты Карагона вам пришло уведомление о необходимости прибыть на pla для сдачи груза и получения новых инструкций	The planet to which you were taking cargo was destroyed by unknown forces. There is no longer any organized intelligent life there that would need these parcels. A notice came from the Karagon Post office that you must arrive at pla to hand in the cargo and receive new instructions
+Система, в которую вы везли груз, была захвачена доминаторами. Из офиса Почты Карагона вам пришло уведомление о необходимости прибыть на pla для сдачи груза и получения новых инструкций	The system to which you were taking cargo was seized by dominators. A notice came from the Karagon Post office that you must arrive at pla to hand in the cargo and receive new instructions
+Я хочу кое-что узнать по моему контракту...	I want to find out something about my contract...
+Такс, где тут грузчики, тунеядцы и бригадир? Я посылки привёз для Почты Карагона!	So, where are the loaders, the freeloaders and the foreman? I've brought parcels for Karagon Post!
+А напомните, пожалуйста, где там у Вас офис Почты Карагона?	Remind me, please, where is your Karagon Post office?
+Время не ждёт? где там ваш груз?!	Time doesn't wait? Where's your cargo?!
+Извините, а где тут у вас офис Почты Карагона, я по поводу собеседования.	Excuse me, where is your Karagon Post office, it's about the interview.
+О! Слышишь, тварь, жить недающая, - звуки моего спокойствия на подлёте.	Oh! Hear that, you creature that won't let a man live - the sounds of my calm on approach.
+Можешь далеко не отходить, теперь-то я тебя потреплю	You don't have to go far, now I'll give you a beating
+Давай-давай, фараоны уже летят	Go on, go on, the cops are already on their way
+Я сейчас Гаалпол вызову!	I'm calling Gaalpol now!
+Ты меня начинаешь бесить. Изыди	You're starting to infuriate me. Begone
+Тебе занятся нечем?! Вали отсюда.	Have you got nothing to do?! Beat it.
+Ну сколько можно, хватит ко мне ходить	How long can this go on, stop coming to me
+Закрыто говорю!	I said closed!
+Тебе здесь не рады, рейнджер!	You're not welcome here, ranger!
+"Гиперкосмические пираты" значит... Я могу вам подсказать кое-что. За небольшую сумму в <0> cr.	"Hyperspace Pirates," so... I can tell you something. For a small sum of <0> cr.
+Так вот, вы можете взять задание у правительства нашей или ещё какой планеты,  специальное задание по доставке. "Почта Карагона" охотно соглашается учесть задания, выполненные от её имени.	So, you can take an assignment from the government of our or some other planet, a special delivery assignment. "Karagon Post" gladly agrees to count assignments completed on its behalf.
+<clr>Ну всё, рейнджер, легавые прилетели, хана тебе, нарушитель спокойствия!<clrEnd>	<clr>That's it, ranger, the cops have arrived, you're done for, disturber of the peace!<clrEnd>
+Курьер "Почты Карагона", вы как раз вовремя, выгружайте груз... Погодите, а это, что? <br>Ладненько, я думаю этот "лишний груз" я у вас конфискую и отправлю его на свой склад "Рахишбериз". Вот, распишитесь за доставку и получение оплаты... с учётом небольшой премии, от меня. Теперь можете отдохнуть, а потом - снова в рейс: наши грузчики вас ждут!<br><br>	Courier of "Karagon Post", you're just in time, unload the cargo... Wait, what's this? <br>All right, I think I'll confiscate this "extra cargo" from you and send it to my warehouse "Rakhishberiz". Here, sign for the delivery and receipt of payment... including a small bonus from me. Now you can rest, and then - back on the road: our loaders are waiting for you!<br><br>
+Так... Пройдите по коридору, спуститесь на два этажа... В общем, вот, сейчас вам набросаю на бумажечке.	So... Go down the corridor, descend two floors... Anyway, here, I'll sketch it for you on a piece of paper.
+День добрый, с чем... Это ты! Как ты мне надоел! Ещё и с тюрьмы сбежал. Что, опять пришёл спрашивать, когда мои ребята разгрузят то, чего на борту твоей посудины нет?!	Good day, what... It's you! How tired of you I am! And you escaped from prison too. What, have you come again to ask when my guys will unload what isn't aboard your tub?!
+Нет уж, рейнджер, бластер сейчас в ящике моего стола. А точнее, был пару секунд назад...	No way, ranger, the blaster is in my desk drawer right now. Or rather, it was a couple of seconds ago...
+Что же хотите узнать?	What would you like to know?
+Вас ждут на планете <0> (система <1>)	You are awaited on the planet <0> (system <1>)
+Ой, рейнджер, мы не нашли для вас подходящего состава заказов... Подождите немножко,	Oh, ranger, we haven't found a suitable set of orders for you... Wait a little,
+Вы отказались от контракта, всего хорошего	You refused the contract, all the best
+Вы должны выполнить <0> рейсов. Выполнено <1>/<2>. На выполнение осталось <3> дн.	You must complete <0> trips. Completed <1>/<2>. <3> days left to complete.
 Отлично!	Excellent!
+Но я... Я не смогу никак довезти посылки! Их.. Отобрали гиперкосмические пираты!	But I... I can't deliver the parcels! They.. Were taken away by hyperspace pirates!
+Нет, пожалуй, откажусь	No, I think I'll decline
 Ну, давайте	All right, let's do it
+Вот оно как, спасибо...	So that's how it is, thanks...
+Ну бригадир. Ну погоди!	Well, foreman. Just you wait!
+Землю	Earth
+Ой...	Oops...
+Вы на свободе!	You're free!
+Класс!	Great!
+*отправиться в кабинет согласно выданному вам плану*	*head to the office according to the plan given to you*
+Немного поплутав по коридорам здания, отведённым под бюрократический аппарат, вы добрались до нужного кабинета - офис Почты Карагона при правительстве планеты. Потёртая вывеска и дверь с изрядно заржавевшими и скрипучими петлями никак не помещали вам войти в кабинет, где сидел ваш мучитель - бригадир.	After wandering a little through the corridors of the building allotted to the bureaucratic apparatus, you reached the right office - the Karagon Post office at the planetary government. A shabby sign and a door with quite rusty, creaky hinges in no way prevented you from entering the office where your tormentor - the foreman - sat.
+Ответишь ты у меня, станционный смотритель, за моё заключение в планетарное узилище! Ух, подлец!	You'll answer to me, station superintendent, for my imprisonment in the planetary dungeon! Ugh, scoundrel!
+Рейнджер! Вы умерли максимально бесславной смертью - вывели из себя своей непрошибаемой тупостью чиновника Почты Карагона, в результате чего последний, пытаясь спастись от ваших преследований, застрелил вас из бластера. Ваше имя навсегда будет записано в учебники по психологии как пример клинического кретинизма, а ваши родственники получат повышенную выплату в 30.000 cr. в связи с потерей кормильца, получавшего пенсию как умалишённого.	Ranger! You died the most inglorious death - you drove a Karagon Post official out of his mind with your impenetrable stupidity, as a result of which he, trying to escape your pursuit, shot you with a blaster. Your name will forever be recorded in psychology textbooks as an example of clinical cretinism, and your relatives will receive an increased payment of 30,000 cr. on loss of a breadwinner who received a pension as a madman.
+Куда мне нужно отправиться дальше?	Where should I go next?
+Спасибо...	Thanks...
+Ну блин	Oh, damn
+Посылки Почты Карагона	Karagon Post parcels
+Множество разных посылок, бандеролей и писем "Почты Карагона"	Many different parcels, packages and letters of "Karagon Post"

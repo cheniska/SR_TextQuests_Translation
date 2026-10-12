@@ -1,4 +1,44 @@
+<color=248,252,248>Улучшение:</color> <clr>Звёздная сила<clrEnd>	<color=248,252,248>Upgrade:</color> <clr>Stellar Power<clrEnd>
+<color=248,252,248>Внутренняя архитектура корпуса станции многократно улучшена для усиления боевых аспектов корабельных систем</color>	<color=248,252,248>The internal architecture of the station hull has been greatly improved to enhance the combat aspects of the ship systems</color>
+Сила орудий: <clr>+45<clrEnd>	Weapon power: <clr>+45<clrEnd>
+Дальнобойность орудий: <clr>+100<clrEnd>	Weapon range: <clr>+100<clrEnd>
+<color=248,252,248>Улучшение:</color> <clr>Цитадель<clrEnd>	<color=248,252,248>Upgrade:</color> <clr>Citadel<clrEnd>
+<color=248,252,248>Внутренняя архитектура корпуса станции многократно улучшена для усиления защитных аспектов корабельных систем</color>	<color=248,252,248>The internal architecture of the station hull has been greatly improved to enhance the defensive aspects of the ship systems</color>
+Размер корпуса: <clr>-50<clrEnd>%	Hull size: <clr>-50<clrEnd>%
+Восприимчимость корпуса: <clr>-50<clrEnd>%	Hull susceptibility: <clr>-50<clrEnd>%
+Генератор поля: <clr>+30<clrEnd>%	Shield generator: <clr>+30<clrEnd>%
+Ремонтный дроид: <clr>+100<clrEnd>	Repair droid: <clr>+100<clrEnd>
+Дальнобойность орудий: <clr>+250<clrEnd>	Weapon range: <clr>+250<clrEnd>
+<color=248,252,248>Улучшение:</color> <clr>Структурное расширение<clrEnd>	<color=248,252,248>Upgrade:</color> <clr>Structural Expansion<clrEnd>
+<color=248,252,248>Внутренняя архитектура корпуса станции многократно увеличена и расширена</color>	<color=248,252,248>The internal architecture of the station hull has been greatly increased and expanded</color>
+<clr>Открывает все слоты<clrEnd>	<clr>Opens all slots<clrEnd>
+ДК	DC
 Б	Be
+Построить медицинский центр	Build a medical center
+Построить бизнес-центр	Build a business center
+Построить научную базу	Build a science base
+Построить центр рейнджеров	Build a rangers' center
+Построить военную базу	Build a military base
+Выбранная система: <0><br>Стоимость постройки: <1> cr.<br><br><2>	Selected system: <0><br>Construction cost: <1> cr.<br><br><2>
+При постройке станции может применяться один из наших уникальных концептов строительства. Приводим список наличных:<br>================<br><0><br>Стоимость: <1> cr.<br><br><2><br>Стоимость: <3> cr.<br><br><4><br>Стоимость: <5> cr.<br>================<br>Напоминаем: стоимость постройки станции без улучшений составляет <6> cr.	When building a station one of our unique construction concepts may be applied. Here is the list of those available:<br>================<br><0><br>Cost: <1> cr.<br><br><2><br>Cost: <3> cr.<br><br><4><br>Cost: <5> cr.<br>================<br>Reminder: the cost of building a station without upgrades is <6> cr.
 В другой раз	Another time
-Нет, спасибо	No, thank you.
+Заказать постройку станции	Order construction of a station
+Строитель	Builder
+Хочу установить улучшение "Звёздная сила"	I want to install the "Stellar Power" upgrade
+Хочу установить улучшение "Структурное расширение"	I want to install the "Structural Expansion" upgrade
+Хочу установить улучшение "Цитадель"	I want to install the "Citadel" upgrade
+Система захвачена пиратами, часть станций построить невозможно!	The system has been seized by pirates, some stations cannot be built!
+Система захвачена, постройка невозможна!	The system has been seized, construction is impossible!
+В системе слишком много станций! Постройка невозможна!	There are too many stations in the system! Construction is impossible!
+ (Вы здесь)	 (You are here)
+Построить технологический центр	Build a technology center
+Вернуться к выбору станций	Return to station selection
+Проект Станционный Смотритель	Station Superintendent Project
+Приветствуем вас на сайте инициативы "Станционный смотритель".<br><br>В Галактике в последнее время слишком сильно повреждена инфраструктура ввиду продолжающейся войны, в первую очередь - система станций.<br><br>Мы же собираем пожертвования для оплаты работы нашей группы строителей, которая готова в короткие сроки обустроить любую космическую станцию в рамках актов, изданных <clr>Галактическим Советом<clrEnd>	Welcome to the website of the "Station Superintendent" initiative.<br><br>Lately the infrastructure of the Galaxy has been too badly damaged because of the ongoing war, first of all the system of stations.<br><br>We are collecting donations to pay for the work of our group of builders, who are ready to fit out any space station in a short time within the acts issued by the <clr>Galaxy Council<clrEnd>
+Приветствуем вас на сайте инициативы "Станционный смотритель".<br><br>В Галактике в последнее время слишком сильно повреждена инфраструктура ввиду продолжающейся войны, в первую очередь - система станций.<br><br>Мы же собираем пожертвования для оплаты работы нашей группы строителей, которая готова в короткие сроки обустроить любую космическую станцию в рамках понятий, согласованных с <clr>Верховным Бароном<clrEnd>	Welcome to the website of the "Station Superintendent" initiative.<br><br>Lately the infrastructure of the Galaxy has been too badly damaged because of the ongoing war, first of all the system of stations.<br><br>We are collecting donations to pay for the work of our group of builders, who are ready to fit out any space station in a short time within the understandings agreed with the <clr>Supreme Baron<clrEnd>
+Выберите сектор постройки	Select a construction sector
 Выбранный сектор: <0><br><br>Выберите систему:	Selected sector: <0><br><br>Select a system:
+Построить доминион	Build a dominion
+Построить пиратскую базу	Build a pirate base
+Инфошка процесса постройки станцеи	Station construction process info item
+Строительство	Construction

@@ -1,4 +1,16 @@
+Летучий Голландец	Flying Dutchman
+<color=248,252,248>Прототип секретной разработки учёных коалиции по работе с акриновыми технологиями в области космического кораблестроения. Технология изготовления была украдена пиратами и модернизирована под для соответствия их собственному дизайну. В настоящее время ведутся работы по запуску серийного производства данной модели.</color>	<color=248,252,248>A prototype of a secret development of Coalition scientists in working with acryn technologies in the field of space shipbuilding. The manufacturing technology was stolen by pirates and modified to match their own design. Work is currently underway to launch serial production of this model.</color>
 Дальность прыжка: <bonJump> ед.	Jumping range: <bonJump>
 Скорость двигателя: <bonSpeed> ед.	Engine speed: <bonSpeed>
 Броня корпуса: <bonHull> ед.	Hull armor: <bonHull>
-Хорошо	Good
+Масса корпуса: <bonMass> %.	Hull mass: <bonMass> %.
+База <0> была уничтожена, как и ваши инвестиции в проект...	Base <0> was destroyed, along with your investment in the project...
+База <0> завершила настройку бортовых систем, можете прилетать!	Base <0> has finished configuring the onboard systems, you can come!
+Я вот тут вернулся узнать: что там с кораблём, программу уже поставили?	I came back to find out: what about the ship, has the program been installed yet?
+Здарова, я слыхал, что у вас есть новый уникальный корпус, это правда?	Howdy, I heard you have a new unique hull, is that true?
+Да, есть, но сразу скажу что корпус экспериментальный, а значит - дорогой и уникальный. Твои заслуги перед Пиратским кланом внушают доверие и, если ты желаешь, мы можем продать тебе корпус, но сначала загрузим в бортовой компьютер программу слежения, чтобы получать данные для тестирования систем. Устраивает?	Yes, we do, but I'll say right away the hull is experimental, which means expensive and unique. Your services to the Pirate Clan inspire trust and, if you wish, we can sell you the hull, but first we'll load a tracking program into the onboard computer to get data for testing the systems. Does that suit you?
+Да-да, мы вас ждали, всё готово, корабль ждёт вас на складе!<br>	Yes-yes, we've been expecting you, everything is ready, the ship is waiting for you in the warehouse!<br>
+Не понимаю, о чем вы	I don't understand what you're talking about
+Работа не пыльная, но долгая. Подождите ещё пару дней.<br>	The work isn't dusty but it's long. Wait a couple more days.<br>
+Корабль с прогой будет <0> cr. и <1> нод.	The ship with the program will cost <0> cr. and <1> nodes.
+Приступаем к работе	Let's get to work

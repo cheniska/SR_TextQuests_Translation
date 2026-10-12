@@ -1,5 +1,30 @@
+У'Кур О	U'Kur O
+У меня есть информация об одном... Наркоторговце	I have information about a... Drug dealer
+Наркоторговце? О, это действительно важно! Расскажите поподробнее, мы проводим масштабную кампанию против этих отбросов общества.	A drug dealer? Oh, that's really important! Tell me more, we are running a large-scale campaign against these dregs of society.
+Извини, друг, всё закончилось. Прилетай попозже... Ну, дней через <0>, во!	Sorry, friend, it's all gone. Come back later... Well, in about <0> days, there!
+Ну, есть немного <0>. За <1> cr. я готов продать тебе одну штуку, а в запасах у меня <2> штук.	Well, I have a little <0>. For <1> cr. I'm ready to sell you one piece, and I have <2> pieces in stock.
+О, нет, забудьте, я перепутал.	Oh, no, forget it, I mixed it up.
+Да. Я встретил гаальца <clr>У'Кур О<clrEnd>, он предлагает всем пилотам пролетающих кораблей принять сильнодействующие наркотические вещества.	Yes. I met the gaal <clr>U'Kur O<clrEnd>, he offers all pilots of passing ships to take potent narcotic substances.
+Нет, меня это не интересует	No, I'm not interested
+Да, я готов вам помочь.	Yes, I'm ready to help you.
+А чем ты занимаешься?	And what do you do?
 Конец связи	Over and out.
 Ясно	Roger that.
+Я нашёл кое-что...	I found something...
+Перепутали?.. Ну, ладно. Ваше дело.	Mixed up?.. Well, all right. Your business.
 Я передумал	I changed my mind
+Я хочу купить у тебя твоих расширителей.	I want to buy your expanders from you.
+рагобамского шёпота	Ragobam whisper
+гаалистры времени	Time gaalistra
+гиперпыли	Hyperdust
 Ну, ладно	Oh, all right
+Нет, пожалуй, не буду сейчас ничего покупать.	No, I think I won't buy anything now.
+А давай-ка	Come on then
+Антикур	Anti-Kur
+Ага... Да, да, этот пилот уже есть в наших базах.<br><br>К сожалению, нам нечем вам помочь, силы Коалиции очень ограничены.<br><br>Однако, если бы вы смогли заманить этого пилота сюда... И не подумайте - мы не постоим за наградой.	Aha... Yes, yes, this pilot is already in our databases.<br><br>Unfortunately, we have nothing to help you with, the Coalition's forces are very limited.<br><br>However, if you could lure this pilot here... And don't think we'd stint on the reward.
+Отлично! Будем ждать вашего возвращения с нарушителем порядка.	Excellent! We'll await your return with the violator of order.
+Здравствуй, рейнджер!<br><br>Надеюсь, у тебя на борту нет никаких этих гадских нейростимуляторов!	Greetings, ranger!<br><br>I hope you have none of those damn neurostimulants aboard!
+Помимо своей обычной деятельности, я уполномочен нашим обществом по пропаганде здорового образа жизни уничтожать все найденные и переданные нам наркотические вещества.<br><br>Поэтому, кстати, мы готовы выкупить у вас любые найденные вами <clr>наркотики<clrEnd> и <clr>стимуляторы<clrEnd> по <clr>повышенной<clrEnd> цене.	Besides my usual activities, I am authorized by our society for the promotion of a healthy lifestyle to destroy all narcotic substances found and handed to us.<br><br>That, by the way, is why we are ready to buy from you any <clr>drugs<clrEnd> and <clr>stimulants<clrEnd> you find at a <clr>higher<clrEnd> price.
 Продать	Sell
+Итак, что вы нашли?	So, what have you found?
+О, дорогой друг. Чего хочешь?<br><br>Для всех моих друзей у меня есть особые... "Расширители сознания".	Oh, dear friend. What do you want?<br><br>For all my friends I have special... "Mind Expanders".
