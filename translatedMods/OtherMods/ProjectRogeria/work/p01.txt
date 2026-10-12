@@ -1,0 +1,101 @@
+34	Look who it is, with no escort! <PlayerFull> in the flesh! You won't believe it, I'm not even watching "The Return of the Godfather" on the subether now, only the replay of the news on all channels about the destruction of the space station <0>! Cleanly done, it never occurred to anyone that your small, unremarkable little ship had anything to do with this catastrophe!<br>True, you shouldn't have helped them. They themselves were screaming over the air about some important information that was at their station. But never mind, not so important. In the end, you were sent to blow up the station, and you did. And a small stock of positive reputation never hurts. Especially useful when your lawyer needs to dig something "mitigating" out of the defendant's biography for court... <br>Oh, almost forgot: you are now our <clr>ravager<clrEnd>. Congratulations! You can drill holes for the new stripes, and don't forget the traditional present for such occasions.<br>Choose any:<br>-----------------------------------------------<br>Set 1 (three level three micromodules)<br>Micromodule <1><br>Characteristics: <2><br>Micromodule <3><br>Characteristics: <4><br>Micromodule <5><br>Characteristics: <6><br>-----------------------------------------------<br>Set 2 (two level two micromodules)<br>Micromodule <7><br>Characteristics: <8><br>Micromodule <9><br>Characteristics: <10><br>-----------------------------------------------<br>Set 3 (one level one micromodule)<br>Micromodule <11><br>Characteristics: <12>
+35	Excellent choice! By the way, did I tell you that our brotherhood has a tradition: everyone who gets the rank of ravager must treat the crew? So right now we are all marching together straight to the local bar!
+36	Ravager <0>, scourge of the hucksters? You're right on time. I have a job for you that brooks no delay. Here is the gist. There is a Ranger, his name is <1>. So, instead of carrying out government assignments, whacking "domies" and doing all sorts of nonsense like trading luxury goods on maloq planets, he decided to cleanse the galaxy of pirates. Easier said than done, but this warrior has taken up the job quite seriously. He already has many ruined pirate souls to his name. Recently our famous khan Shaytankhkh fell at his hands. But that's not all. <br>The main problem is that this fighter for the safety of space flights is gaining followers. This is completely unacceptable, since it endangers our far-reaching plans.<br>You, <2>, must deal with the Ranger for the sake of your brethren who are perishing ingloriously under the guns of this madman.
+37	Welcome back, ravager! You've probably come for your reward? Well, there won't be one! Know why? After talking to you, <0> managed to survive. And that's a serious problem. Not to mention that such blunders are unacceptable for a Cutthroat, a rank you want so badly.<br>All right, let's not waste time on a dressing-down. Let's get to business.<br>Some time after you blew up the Ranger's ship, another ship flew by and picked up our fighter against pirates, who had managed to put on a spacesuit before his ship was lost. During his time in space this activist got severe frostbite, but somehow still managed to survive. Now he is on the planet <1> in a specialized hospital, undergoing treatment.<br>As you understand yourself, it is in your interest to arrive in the star system <2> as soon as possible, get into the hospital and finish what you started. True, there is one little problem. Because of the thin atmosphere and low temperatures, the hospital looks more like a fortress, so you can't get in there with weapons. But don't worry, you won't have to smother him with a pillow or pinch the hoses of his breathing apparatus either. As we found out, the air supply system in this establishment is fully autonomous and does not depend on external sources. And both backup systems are out of order right now, don't ask by whom and how.<br>Your task is to get into this system and break it, then the Ranger will either freeze or suffocate, in any order. Of course, all the other patients and the staff will die too, but against the background of our problems that is complete nonsense that should not bother you. In short, don't dawdle and get down to business quickly.
+38	I'm interested in a special assignment
+39	I'll do just that.
+40	COMBAT ALERT! COMBAT ALERT!! COMBAT ALERT!!! And you, <PlayerFull>, what the Rastaban are you doing hanging around here?! The Coalition military has attacked us! Get into your jalopy and into battle, quick! GO! Faster, faster... Hangar, throw him out into orbit!
+41	Attention! We have come under attack by Coalition forces. Someone sold us out. I order everyone to attack the enemy and break the blockade! Guys, let's smear these idiots!
+42	Isulari
+43	Gee-rilya
+44	Barrkad
+45	Pochenits
+46	Buntovnik
+47	Hey, <Player>! I see you're walking a slippery path, doing dark and antisocial little deals? :-)
+48	I feel really rotten. Gotta make it to the hangar, or the tub will just fall apart.
+49	Ah, <Player>, hey bro. Heard the guys saying you can shake down more dough without a clan? Don't listen to those morons, they're on dope.
+50	What have we here, a robot? A real robot! Hey, machine, hand over the cargo!..
+51	So, <Player>, wanna hang out with the clan? Shoot some sucker, huh? So... what did you want, anyway? I'm not following.
+52	Oh, bro, how's it going? The sick have started pestering us... They say we have ships, and you can't have a ship without a cook. And what's a cook, anyway?
+53	Hey, <Player>, like booze? On human planets it often costs nothing. If business is slow - stock up and peddle it. Yo... my head hurts. If you find out anything, throw me the info too. Deal?
+54	What do you want, <Player>? To hear a lecture about the brotherhood?.. Anyway, we're all buddies and we've got dough, get it? Not everyone has it, but everyone has it, you dig? Well, all of us together always have it, bro... Our dominions are worth dough, so it exists... Anyway, I know business. So what did you want?
+55	Whoa, a dominator on the radar. Hey, robot, what's up? I'm gonna take you apart a bit here, bro, I really need money.
+56	Dude, you're not my buddy, get me? And I don't care what they think of you in the brotherhood. Get cocky and you'll get it in the horns, got it?
+57	Hey, <Player>? Check it out, I'm, like, in space, and right here in my cockpit I've got birds, ragobam toads and nature and all. Rain's falling, grass is green... Nah, bro, I'm not on dope, it's a holographic system. Cool stuff.
+58	You know, <Player>, you gotta eat on time? I read about it on the galanet. Seriously, when you're hungry you don't want anything. So when you're at our base, head to the bar. It's not just booze, the food's excellent too.
+59	Just think, all of space is ours. Well, there's no military, and folks still peddle stuff, transports everywhere you look. It's really a fairy tale. Only the buddies have started getting wild.
+60	So what, we're running everything now, <Player>? And these bosses of ours, do they know how to run things, do you know? Because if something needs running - I'm always ready. But anyway, we're cool, right?
+61	See, it seems like everything is lost and over, but basically nothing has changed, only there's some shooting in the streets. But that's okay, it's not hard to get used to.
+62	You know, <Player>, I figured here, what comes out of this, no dominators, but there is a military? So they'll throw all their forces at us, to, you know, waste us, right? A rotten setup.
+63	Yo, <Player>, is that you? Check it out, no tin cans, and now we're in for some real extreme. Never mind, just let these soldiers come at us, I'm good at shooting too.
+64	Business isn't really going now, <Player>. These soldiers have nothing left but to go after us, to earn their dough. Until the dominion catches some hucksters, you can't live it up.
+65	Now it's truly all over, <Player>. Now we're really the kings of space. Imagine how they'll write about it in the future? "Everything was bad, the galaxy was in despair...", and then the pirates got together and started taking everyone down. And took down absolutely everyone, no killer robots left, no Coalition. We're, like, the arbiters of fate.
+66	Hey, <Player>, I'm generally in the know and I understand you're a big shot. So what comes out of that, we owe you everything? Nah, no talk, bro. Only if I get some bad dope and start getting withdrawal, you, uh, let me go, okay? I could only attack you while high.
+67	So, <Player>, how do you like space now? Now you can smack any tub and nobody will care. Money flows like a river. The buddies, true, bicker a lot more often, but that'll pass.
+68	So the Coalition is gone, <Player>. It was and it's gone. Well, no point fretting, soon we'll put our own order everywhere.
+69	Hey, <Player>, here to chat or on business? Make it quick, I'm busy.
+70	So, bro, got problems? If so - keep them, I don't need them.
+71	Hey, <Player>, what's up? Listen, what are you good at, huh? Me and the buddies are good at guarding and escort. What about you? Maybe you need an escort, eh?
+72	Who do we have here? Decided to hand me some dough before I even asked?
+73	Back off, <Player>, while I'm asking nicely. Your mug makes me want to open fire and I won't be able to resist it long.
+74	You want me to make trouble for you myself, <Player>? Or to call the buddies and make it together? Either option suits me.
+75	Hey, <Player>, you've got brains, right? Maybe you can tell me how to learn to split the dough so I get the most but the buddies don't get offended? I'll thank you if anything.
+76	Whoa, what kind of outrage is this? <Player>, who are you picking on, huh? My bro flies on <FullShipGood>, and I'll tear the jaw off anyone for him.
+77	So, did you catch up?
+78	Pinots,Star.Normal
+79	Dude, are you okay? Why would I attack my own machine?
+80	You decided to destroy your robot? Well, have fun, go ahead, what do you need me for?
+81	A robot? I don't see a single reason to attack it.
+82	What's the point of touching this machine?
+83	Is this some kind of joke? If so, I'm not in the mood right now.
+84	I'm not going to attack a ship that is friendly to me.
+85	Nah, bro, today's not your day, I already have company. Let's do it another time.
+86	Hey, what's going on? I paid you, and you decided to stiff me? That's not how business is done. Get lost while you're in one piece!
+87	I don't really need such a weakling anyway. You're free to go.
+88	Let me think, maybe a guy like you shouldn't be parted with.
+89	Okay, bro, good luck, maybe we'll meet again!
+90	Hey, what's going on? Total bummer...
+91	Go on, get lost, I'll find myself a sensible partner.
+92	Got it, boss, escorting... I mean, escorting properly.
+93	Yeah, bro, I'm right behind you.
+94	Got it, got it, staying close.
+95	Yes, boss, if anything - I'm nearby.
+96	I'll try not to fall behind, bro.
+97	I hear you, bro, making the jump.
+98	Okay, boss.
+99	No problem, boss, jumping.
+100	What? Jump? Got it, bro.
+101	Okay, bro, landing.
+102	Roger, boss.
+103	I hear you, boss, course plotted.
+104	Landing? Got it, boss, starting the maneuver.
+105	Nah, bro, I didn't sign up for this war thing, if it's needed fly there alone.
+106	What? To the dominators? You're an original, I see. No, dude, I'm not going there, even if you toss in more dough.
+107	Weren't we going to whack suckers, hey? I didn't sign up to be a hero and won't go near the tin cans.
+108	Is this a joke? Fight killer robots? Count me out, I didn't sign up to do the military's job.
+109	Boss, what's with you? They'll arrest me there.
+110	Nah, bro, I'm wanted there, and I still want to get out and about.
+111	Listen, boss, I understand it all, but I value my freedom, and I'm wanted there.
+112	Boss, I didn't sign up to go to jail, and they'll arrest me there.
+113	I don't get it, <Player>, have you gone completely insolent? You need to be taught a lesson.
+114	Well, then good luck to you, bro. No hard feelings.
+115	Go easy with such jokes, pal.
+116	What? You gave me dough, <Player>, the term hasn't run out, I think. Got any questions for me?
+117	I've got nothing extra in my hold. If you don't believe it, use a scanner!
+118	I'll get rid of my cargo now. But I'll note that you have no conscience, <Player>! Buddies don't do that.
+119	Boss, I don't know about you, but I've suddenly changed my mind about staying here. I'm bailing.
+120	Boss, it's really extreme here, I need to bail and bail fast.
+121	Bro, it's really hot here! Years of experience tell me it's time to bail. And on afterburner!
+122	What, <Player>, did you swallow some dope? What kind of helper am I to you? For <Money> cr you couldn't hire even the greenest rookie.
+123	Deal, bro! Together we'll fleece so many suckers it'll knock your socks off. But, you understand, nobody will work for you for talk alone. So cough up <Money> cr, for which I'll be your buddy for <Month> mo.
+124	Bro, where have you been?! I missed real work. Hand over <Money> cr, and let's go make dough! But remember, I won't stay with you longer than <Month> mo.
+125	Don't dawdle, pal, follow me.
+126	Bro, take the helm and stay close.
+127	Follow me and stay close.
+128	Stay close and don't fall behind.
+129	Follow me and don't fall behind.
+130	Bro, we're jumping to the <Star> system.
+131	Follow me, we're jumping to the <Star> system.
+132	We're making the jump to the <Star> system.
+133	I'm jumping to the <Star> system, follow me.
+134	Heading to the <Star> system.

@@ -3328,3 +3328,18 @@
 | Семеренка / Восьмеренка | Geartrunk / Gearcoffer | ванилла |
 | Свароковски (созвучная фамилия) | Swarokovski | Evolution |
 | Иике-Баана | Iike-Baana | ванилла |
+| Нисперовский дом / Ниспер | Nisper | OtherMods ZelDomiks |
+| Космические Скауты | Space Scouts | OtherMods DrKlesMod |
+| Дети Эльтан | Children of Eltan | OtherMods DrKlesMod |
+| Тайные Разработчики | Secret Developers | OtherMods RealStars |
+| Дзаг-дзог | Dzag-dzog | OtherMods RealStars |
+| Верховный Лякуша | Supreme Lyakusha | OtherMods ProjectRogeria |
+| шкала Рачехана | Rachekhan scale | OtherMods ProjectRogeria |
+| Мародер / Рейдер / Разоритель / Головорез | Marauder / Raider / Ravager / Cutthroat | OtherMods ProjectRogeria |
+| Грозный топор (агентство) | Dread Axe | OtherMods SR1GovernmentQuests |
+| ГринПис Юниверсал | Greenpeace Universal | OtherMods SR1GovernmentQuests |
+| Калагон | Kalagon | OtherMods SR1GovernmentQuests |
+| Красный Череп | Red Skull | OtherMods SR1RedSkull |
+| Омниссия | Omnissiah | OtherMods WH40kGuns |
+| Меонный плазмомёт | Meon Plasma Thrower | OtherMods NewGun |
+| Телец… Весы (созвездия) | Taurus … Libra | OtherMods RealStars |

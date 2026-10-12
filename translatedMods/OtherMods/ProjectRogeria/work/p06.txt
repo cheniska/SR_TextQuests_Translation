@@ -1,0 +1,33 @@
+359	 We are free, <Player>, and that's the most important thing! And who liberated us matters little. Pirates are far from the worst option, hiding in an underground bunker and hoping killer robots won't find you is much worse. On behalf of the entire star system I thank you and hope for further mutually beneficial cooperation.
+360	 I would never have thought, <Player>, that I would see the day when the steel invaders, who created a true nightmare for the Coalition forces, would be defeated, and defeated by pirates. Pirates! Possessing neither military discipline nor appropriate funding. We thank you and recognize the authority of the pirate clan.
+361	That was something, <Player>. The pirate ship fought the steel occupiers like a Coalition flagship! The enemy didn't have a single chance. The lives of our people are now saved and we are ready to accept the authority of the pirate clan. We sincerely hope you will ensure our protection in the future as well.
+362	Excellent work, <Player>! Like a natural disaster you swept through the Coalition forces, sowing death and destruction in your path, and now the system belongs to the pirates! I am sincerely glad of this fact, since I represent a group interested in eliminating the current authority in our system. We will find common ground with the clan.
+363	That was magnificent, <Player>, all of ours watched the battle and we're simply delighted! Like a wild beast you crashed into the cor... Ah, who am I? Well, my name doesn't matter, our boss was put away here and would hardly have gotten out of prison. But then you showed up and now he's out, so thanks a lot, bro, we'll always come to terms with your guys.
+364	The battle was simply stunning, <Player>, I didn't think the system would be taken by clan forces, but it has happened and all the prohibitions have collapsed. Now my guys can bring in goods calmly, without worrying about bribes, possible arrests and other problems. And it's all thanks to you and the clan, so accept our gratitude.
+365	Well, how about that, <Player>. I've seen all sorts in my service, but never a battle like this. The pirate ship destroyed Coalition ships as if they were children's toys! Usually it's the other way around. The world is changing rapidly, but it only plays into my security agency's hands, now we'll have plenty of work and no stupid inspections and arrests await us. We are all sincerely grateful to you.
+366	Yes, <Player>, you did it! It was simply a storm, a tempest, a force of nature nobody could withstand, and the shackles were torn off! The Union of Anarchists of our system greets you! However the order changed, everything always ended in suppression, even the anarchy that came was only a temporary respite. But the Coalition is defeated and everyone in whom the dream of freedom lives can triumph. You are our hero!
+367	Mano-Var
+368	Shchkhuna
+369	Airabella
+370	Head of the pirate movement, and that says it all.
+371	Cunning Marauder
+372	A marauder has already seen a thing or two and proved his usefulness, but serious matters are not entrusted to such types.
+373	A type who has only just taken the path of piracy, hasn't proven himself yet, and is treated accordingly.
+374	Such pirates can not only fleece lone transports but also fight back against more serious opponents.
+375	Elite Cutthroat
+376	A professional bandit who carries out assignments of any difficulty. Don't put your finger in such a one's mouth - he'll shoot you and bury you.
+377	Veteran Ravager
+378	A dangerous pirate who has been through a lot. Commands respect and can hand out clouts to novice bandits.
+379	Raises the acryn level of the khan's hull
+380	Protects the target from attempts to rob it
+381	Merciful Bambai Hull I
+382	Merciful Bambai Hull II
+383	Merciful Bambai Hull III
+384	Merciful Bambai Hull IV
+385	Most Peaceful Corsair Hull
+386	Most Merciful Bambai Hull
+387	Harmless Phantom Hull I
+388	Harmless Phantom Hull II
+389	Harmless Phantom Hull III
+390	Harmless Phantom Hull IV
+391	Most Harmless Phantom Hull
