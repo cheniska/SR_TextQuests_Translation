@@ -1,0 +1,119 @@
+Военный	Military
+Пиратский	Pirate
+Рейнджер	Ranger
+Раса	Race
+Малоки	Maloqs
+Люди	Humans
+Пираты	Pirates
+Доминаторы	Dominators
+Неизвестные	Unknown
+Пеленги	Pelengs
+Готово	Done
+Гаальцы	Gaals
+Да	Yes
+Нет	No
+Назад	Back
+Медицинский центр	Medical Center
+Доминион	Dominion
+Конец связи	Over and out.
+Радар	Radar
+Сканер	Scanner
+ГЗП	SG
+Двигатель	Engine
+Топливный бак	Fuel Tank
+Захват	Gripper
+Дроид	Droid
+Артефакты	Artifacts
+Фэяне	Faeyans
+Клисане	Klissans
+Пиратский Клан	Pirate Clan
+Настройки	Settings
+Оружие	Weapons
+Корпус	Hull
+Сменить портрет	Change portrait
+Лирекрон	Lirecron
+Кафаситор	Caphasitor
+Эсодафер	Esodapher
+Торпедный аппарат	Torpedo Tube
+Вертикс	Vertix
+ИМХО-9000	IMHO-9000
+Турбогравир	Turbogravitron
+Дезинтегратор	Disintegrator
+Атомный визион	Atomic Vision
+Электронный резак	Electronic Cutter
+Потоковый бластер	Flow Blaster
+Волновой фазер	Wave Phaser
+Третон	Treton
+Ракетомёт	Missile Launcher
+Лезка	Flux
+Осколочное орудие	Fragmentation Weapons
+Промышленный лазер	Industrial Laser
+Индустриальная	Industrial
+Смешанная	Mixed
+Аграрная	Agricultural
+Республика	Republic
+Монархия	Monarchy
+Диктатура	Dictatorship
+Анархия	Anarchy
+Торговый	Commerce
+Выберите ТУ оборудования	Select the tech level of the equipment
+Количество	Amount
+Один	One
+Четыре	Four
+Неизвестный	Unknown
+Пиратское	Pirate
+Гаальское	Gaal
+Фэянское	Faeyan
+Человеческое	Human
+Пеленгское	Peleng
+Малокское	Maloq
+Наркотики	Narcotics
+Алкоголь	Alcohol
+Минералы	Minerals
+Роскошь	Luxury
+Техника	Technics
+Медикаменты	Medical Supplies
+Продукты	Foodstuffs
+Пират	Pirate
+Гаалец	Gaal
+Фэянин	Fei
+Человек	Human
+Пеленг	Peleng
+Малок	Maloq
+Воин	Warrior
+Торговец	Merchant
+Дипломат	Diplomat
+Лайнер	Liner
+Транспорт	Transport
+Клиг	Klig
+Бертор	Bertor
+Штип	Shtip
+Менок	Menoc
+Смерш	Smersh
+Ургант	Urgant
+Эквентор	Equantor
+Выход	Exit
+Мультирезонатор	Multiresonator
+Выбрать всё	Select all
+Генератор поля	Field Generator
+Вернуться на главную	Back to the main page
+Оригинальные	Original
+Выберите систему из списка	Select a system from the list
+Вернуться к выбору	Back to selection
+На главную	To the main page
+Блазер	Blazer
+Келлер	Keller
+Террон	Terron
+<color=136,0,0>Выход</color>	<color=136,0,0>Exit</color>
+Система	System
+Планета	Planet
+Сбросить	Reset
+люди	humans
+захват	gripper
+дроид	droid
+сканер	scanner
+радар	radar
+двигатель	engine
+топливный бак	fuel tank
+корпус	hull
+Лидерство	Leadership

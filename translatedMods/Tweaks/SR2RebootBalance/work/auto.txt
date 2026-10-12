@@ -1,0 +1,551 @@
+Стойкость корпуса: <Size> (<MaxSize>) единиц, обшивка блокирует до <HitProtect> единиц ущерба.	Hull durability: <Size> (<MaxSize>) units, the plating blocks up to <HitProtect> units of damage.
+Промышленный лазер	Industrial Laser
+Атомный визион	Atomic Vision
+Дезинтегратор	Disintegrator
+Турбогравир	Turbogravitron
+ИМХО-9000	IMHO-9000
+Вертикс	Vertix
+Торпедный аппарат	Torpedo Tube
+Осколочное орудие	Fragmentation Weapons
+Лезка	Flux
+Ракетомет	Missile Launcher
+Третон	Treton
+Волновой фазер	Wave Phaser
+Потоковый бластер	Flow Blaster
+Электронный резак	Electronic Cutter
+Мультирезонатор	Multiresonator
+Поражает цель мощным световым лучом, нанося <MinDamage>-<MaxDamage><Bonus> ед. урона на дистанции до <Radius>.	Emits a powerful light beam, inflicting <MinDamage>-<MaxDamage><Bonus> damage to the target within a <Radius> radius.
+Разрушает молекулярные связи материи, нанося цели <MinDamage>-<MaxDamage><Bonus> ед. ущерба. Максимальная дальность поражения цели: <Radius>.	Destroys molecular bonds within matter, inflicting <MinDamage>-<MaxDamage><Bonus> damage. Maximum effective range: <Radius>.
+Высокоточное орудие. Излучатель из пяти фактурных трубок поражает цель на расстоянии до <Radius>, причиняя ущерб <MinDamage>-<MaxDamage><Bonus> ед.	A high-precision weapon. An emitter of five textured tubes strikes the target within a <Radius> radius, inflicting <MinDamage>-<MaxDamage><Bonus> damage.
+Искажает пространство вокруг корабля на дистанции до <Radius>, нанося <MinDamage>-<MaxDamage><Bonus> ед. ущерба всем объектам в зоне действия.	Distorts space around the ship within a <Radius> radius, dealing <MinDamage>-<MaxDamage><Bonus> damage to all objects within the area of effect.
+Поражает цель серией небольших взрывов. Наносит от <MinDamage> до <MaxDamage><Bonus> ед. ущерба на расстоянии до <Radius>.	Strikes the target with a series of small blasts. Inflicts <MinDamage>-<MaxDamage><Bonus> damage within a <Radius> radius.
+Направленным выбросом энергии из всех стволов наносит <MinDamage>-<MaxDamage><Bonus> ед. ущерба. Из-за рассеивающего эффекта дальность стрельбы не превышает <Radius>.	Inflicts <MinDamage>-<MaxDamage><Bonus> damage with a focused discharge of energy from all barrels. The scattering effect lowers the maximum effective range to <Radius>.
+Тысячи небольших разрывных снарядов прошивают цель и наносят <MinDamage>-<MaxDamage><Bonus> ед. ущерба. Дальность поражения до <Radius>.	Thousands of tiny explosive shells perforate the target, dealing <MinDamage>-<MaxDamage><Bonus> damage. Maximum effective range: <Radius>.
+Воздействует электромагнитным импульсом на электронную начинку оборудования. Повреждения от <MinDamage> до <MaxDamage><Bonus> ед. Дальность выстрела до <Radius>.	An electromagnetic impulse disturbs the electronic innards of equipment. Damage can range from <MinDamage> to <MaxDamage><Bonus> points. Effective range: <Radius>.
+Поражает цель виброснарядом, вызывающим эффект резонанса. Наносит цели <MinDamage>-<MaxDamage><Bonus> ед. ущерба на расстоянии до <Radius>.	Strikes the target with a vibroprojective, triggering a resonance effect. Inflicts <MinDamage>-<MaxDamage><Bonus> damage to the target within a <Radius> radius.
+Аппер	Upper
+Микромодуль третьего уровня. Наращивает мощность <clr>двигателя<clrEnd> или <clr>радара<clrEnd> за счёт увеличения эффективности преобразования энергии.	Level three micromodule. Boosts the power of the <clr>engine<clrEnd> or <clr>radar<clrEnd> by increasing the efficiency of energy conversion.
+Скорость двигателя: <bonSpeed> ед.	Engine speed: <bonSpeed>
+Дальность радара: <bonRadar> млн. км.	Radar range: <bonRadar> million km.
+Электро	Electro
+Микромодуль третьего уровня. Воздействует на силу <clr>энергетического оружия<clrEnd>, используя принцип умножения мощности генератора импульса.	Level three micromodule. Affects the power of <clr>energy weapons<clrEnd>, using the principle of multiplying the pulse generator's power.
+Сила энергетического оружия: <bonWEnergy> ед.	Energy weapons damage: <bonWEnergy>
+Фэйджоуль	Faejoel
+Микромодуль третьего уровня. Добавляется в навигационную систему <clr>двигателя<clrEnd>, увеличивая тактовую частоту вычислительного блока устройства. Совместим только с <clr>фэянским<clrEnd> оборудованием.	Level three micromodule. Added to the navigation system of the <clr>engine<clrEnd>, increasing the clock frequency of the device's computing unit. Compatible exclusively with <clr>faeyan<clrEnd> equipment.
+Дальность прыжка: <bonJump> пк.	Jump range: <bonJump> pc
+Размер: <clr>+20%<clrEnd>	Size: <clr>+20%<clrEnd>
+Интегратор	Integrator
+Микромодуль второго уровня. Повышает поражающий коэффициент <clr>оружия<clrEnd> путём сингулярного усиления начального импульса.	Level two micromodule. Increases the damage coefficient of the <clr>weapon<clrEnd> via singular amplification of the initial pulse.
+Сила осколочного оружия: <bonWSplinter> ед.	Fragmentation weapons damage: <bonWSplinter>
+Сила ракетного оружия: <bonWMissile> ед.	Missile weapons damage: <bonWMissile>
+Размер: <clr>+25%<clrEnd>	Size: <clr>+25%<clrEnd>
+Магникум	Magnicum
+Микромодуль второго уровня. Увеличивает потенциал генерируемого <clr>захватом<clrEnd> поля, повышая тем самым мощность прибора.	Level two micromodule. Increases the potential of the field generated by the <clr>gripper<clrEnd>, thus increasing the device's power.
+Мощность захвата: <bonHook> ед.	Gripper power: <bonHook>
+Дальность захвата: <bonHookRadius> ед.	Gripper range: <bonHookRadius>
+Стоплай	Stopbark
+Микромодуль второго уровня. Производит замену движущихся частей оборудования на более прочные фрагилиумные. Уменьшает размер и увеличивает стоимость оборудования. Неприменим для орудийных систем и корпуса.	Level two micromodule. Replaces the moving parts of equipment with stronger fragilium ones. Decreases the size and increases the cost of the equipment. Cannot be used in weapon systems or hulls.
+Размер: <clr>-30%<clrEnd>	Size: <clr>-30%<clrEnd>
+Стоимость: <clr>+50%<clrEnd>	Cost: <clr>+50%<clrEnd>
+Импелган	Impalegun
+Микромодуль второго уровня. Заменяет магнитный генератор <clr>сканера<clrEnd> на более дорогой импульсно-гравитационный, тем самым увеличивая мощность прибора.	Level two micromodule. Replaces the magnetic generator of the <clr>scanner<clrEnd> with a more expensive pulse-gravitational one, thus increasing the device's power.
+Мощность сканера: <bonScan> ед.	Scanner power: <bonScan>.
+Стоимость: <clr>+25%<clrEnd>	Cost: <clr>+25%<clrEnd>
+Парагон	Paragon
+Микромодуль второго уровня. Заменяет источник энергии <clr>захвата<clrEnd> на более мощный, дорогой и тяжёлый агрегат. Несовместим с <clr>пеленгскими<clrEnd> комплектующими.	Level two micromodule. Replaces the power source of the <clr>gripper<clrEnd> with a more powerful, expensive and heavy unit. Incompatible with <clr>peleng<clrEnd> components.
+Стоимость: <clr>+20%<clrEnd>	Cost: <clr>+20%<clrEnd>
+Размер: <clr>+10%<clrEnd>	Size: <clr>+10%<clrEnd>
+Стратер	Strutter
+Микромодуль второго уровня. Генерирует поле нулевого трения, снижая потери энергии <clr>двигателя<clrEnd> на выходе, за счёт чего увеличиваются как скорость, так и дальность прыжка. Совместим только с <clr>малокским<clrEnd> оборудованием.	Level two micromodule. Generates a zero-friction field, decreasing the <clr>engine's<clrEnd> output power loss, which increases both speed and jump range. Compatible exclusively with <clr>maloq<clrEnd> equipment.
+Конвектор	Convector
+Микромодуль второго уровня. Встраивается в механическую часть устройства. Увеличивает мощность <clr>сканера<clrEnd> или дальность <clr>радара<clrEnd>. Совместим только с <clr>человеческим<clrEnd> оборудованием.	Level two micromodule. Fitted into the mechanical component of the device. Increases the power of the <clr>scanner<clrEnd> or the range of the <clr>radar<clrEnd>. Compatible exclusively with <clr>human<clrEnd> equipment.
+Сжим	Clip
+Микромодуль второго уровня. Заменяет наиболее крупные платы их меньшими современными аналогами. Уменьшает размер любого оборудования или оружия, кроме корпуса. Совместим только с <clr>фэянскими<clrEnd> типами оборудования.	Level two micromodule. Replaces the larger boards with smaller, modern analogues. Reduces the size of any equipment or weapon, except for the hull. Compatible exclusively with <clr>faeyan<clrEnd> types of equipment.
+Размер: <clr>-40%<clrEnd>	Size: <clr>-40%<clrEnd>
+Микрострел	Microshooter
+Микромодуль второго уровня. Заменяет систему координат корректирующего модуля на фэянскую эклиптическую, увеличивая расстояние стрельбы орудий и дальность гиперпрыжка двигателя. Не подходит для использования в <clr>малокском<clrEnd> и <clr>пеленгском<clrEnd> оборудовании.	Level two micromodule. Replaces the coordinate system of the corrective module with a faeyan ecliptic system, increasing the weapons' range and the engine's hyperjump distance. Not suitable for use in <clr>maloq<clrEnd> and <clr>peleng<clrEnd> equipment.
+Дальность стрельбы: <bonWRadius> ед.	Firing range: <bonWRadius>
+Сдвиг	Displacement
+Микромодуль второго уровня. Модифицирует систему разгона <clr>двигателя<clrEnd>, тем самым увеличивая дальность прыжка в гиперпространстве. Адаптирован под <clr>пеленгские<clrEnd> и <clr>человеческие<clrEnd> двигатели.	Level two micromodule. Modifies the acceleration system of the <clr>engine<clrEnd>, thus increasing the jumping range in hyperspace. Adapted for <clr>peleng<clrEnd> and <clr>human<clrEnd> engines.
+Шелест	Rustle
+Микромодуль третьего уровня. Увеличивает эффективность фильтра помех <clr>генератора защитного поля<clrEnd>. При этом активный микромодуль занимает довольно большой объём.	Level three micromodule. Increases the efficiency of the interference filter of the <clr>shield generator<clrEnd>. The active micromodule takes up quite a lot of space.
+Генератор поля: <bonDef> ед.	Shield generator: <bonDef>%
+Дронз	Dronze
+Микромодуль второго уровня. Совершенствует аккумуляторы векторного типа, благодаря чему дроид может дольше работать и, следовательно, устранять больше повреждений. Бесполезен для <clr>человеческих<clrEnd>, <clr>фэянских<clrEnd> и <clr>гаальских<clrEnd> моделей дроидов.	Level two micromodule. Upgrades vector-type accumulators, thanks to which the droid can work longer and thus repair more damage. Useless for <clr>human<clrEnd>, <clr>faeyan<clrEnd> and <clr>gaalian<clrEnd> droid models.
+Эффективность дроида: <bonDroid> ед.	Droid effectiveness: <bonDroid>
+Диощит	Dioshield
+Микромодуль второго уровня. Заменяет движущиеся части <clr>генератора защитного поля<clrEnd> или <clr>ракетного оружия<clrEnd> на элементы доминаторного принципа действия. Совместная разработка <clr>фэян<clrEnd> и <clr>людей<clrEnd>, работает только с оборудованием этих рас.	Level two micromodule. Replaces the moving parts of the <clr>shield generator<clrEnd> or <clr>missile weapons<clrEnd> with elements of the dominator principle of operation. A joint development of <clr>faeyans<clrEnd> and <clr>humans<clrEnd>, it works only with the equipment of these races.
+Маформ	Maform
+Стоимость: <clr>+60%<clrEnd>	Cost: <clr>+60%<clrEnd>
+Объёмник	Volumer
+Микромодуль второго уровня. Искривляет область пространства внутри резервуара, позволяя вместить больший объём топлива при неизменной массе и размере самого бака. Совместим с <clr>пеленгским<clrEnd> и <clr>фэянским<clrEnd> типом оборудования.	Level two micromodule. Curves the region of space inside the reservoir, allowing a larger volume of fuel to fit while the mass and size of the tank itself remain unchanged. Compatible with <clr>peleng<clrEnd> and <clr>faeyan<clrEnd> types of equipment.
+Объём бака: <bonFuel> ед.	Tank capacity: <bonFuel> units
+Сплинтер	Splinter
+Микромодуль второго уровня. Регулирует затворный механизм осколочного оружия, повышая эффективность стрельбы. Совместим с <clr>малокским<clrEnd> и <clr>пеленгским<clrEnd> вооружением.	Level two micromodule. Adjusts the breech mechanism of splinter weapons, increasing firing efficiency. Compatible with <clr>maloq<clrEnd> and <clr>peleng<clrEnd> weapons.
+Колебратор	Colebrator
+Микромодуль второго уровня. Улучшает характеристики волновых излучателей устройств. Увеличивает мощность оборудования, использующего непрерывное излучение и поля с волновыми характеристиками, такого, как <clr>радар<clrEnd>, <clr>захват<clrEnd> и <clr>генератор защитного поля<clrEnd>.	Level two micromodule. Improves the characteristics of the devices' wave emitters. Increases the power of equipment that uses continuous emission and fields with wave characteristics, such as the <clr>radar<clrEnd>, <clr>gripper<clrEnd> and <clr>shield generator<clrEnd>.
+Энергос	Energos
+Микромодуль второго уровня. Добавляется как вспомогательное устройство в синтезатор пучка для <clr>энергетических<clrEnd> типов вооружения.	Level two micromodule. Added as an auxiliary device to the beam synthesizer of <clr>energy<clrEnd> types of weapons.
+Бронепакет	Armorpack
+Микромодуль второго уровня. Оснащает <clr>корпус<clrEnd> корабля дополнительными листами композитной брони. Размещаемые внутри корпуса гироскопические шарнирные крепления пластин брони и гасители удара занимают довольно большой объём, существенно снижая вместимость корабля.	Level two micromodule. Equips the ship's <clr>hull<clrEnd> with additional sheets of composite armor. The gyroscopic hinged mountings of the armor plates and the shock absorbers placed inside the hull take up quite a lot of space, substantially reducing the ship's capacity.
+Броня корпуса: <bonHull> ед.	Hull armor: <bonHull>
+Размер: <clr>-10%<clrEnd>	Size: <clr>-10%<clrEnd>
+Спаай	Insighter
+Микромодуль второго уровня. Квазиинтеллектуальный блок, значительно увеличивающий мощность <clr>гаальского радара<clrEnd> или <clr>сканера<clrEnd> за счёт использования "псевдоинтуиции".	Level two micromodule. A quasi-intelligent unit that significantly boosts the power of a <clr>gaalian radar<clrEnd> or <clr>scanner<clrEnd> through the use of "pseudo-intuition."
+Тюринг	Turing
+Микромодуль второго уровня. Заменяет массивную орудийную турель на силовую опору. Часть энергии генератора уходит на гашение отдачи, поэтому дальность и сила выстрела снижаются, зато орудие начинает занимать вдвое меньший объём.	Level two micromodule. Replaces the massive weapon turret with a power support. Part of the generator's energy goes to absorbing recoil, so the range and power of the shot drop, but the weapon takes up half as much volume.
+Размер: <clr>-50%<clrEnd>	Size: <clr>-50%<clrEnd>
+Дальстар	Dalstar
+Микромодуль третьего уровня. Позволяет увеличить дальность действия оборудования за счёт устранения статистической ошибки вычислений, проявляющейся в <clr>пеленгском<clrEnd> оборудовании при расчётах в предельных интервалах.	Level three micromodule. Increases the range of equipment by eliminating the statistical calculation error that appears in <clr>peleng<clrEnd> equipment when calculating at limit intervals.
+Эскалибур	Excalibur
+Микромодуль второго уровня. Изобретенный человеческими учёными, этот микромодуль модифицирует преобразователи энергетических орудий, существенно увеличивая их поражающую способность. Из патриотических соображений этот модуль совместим только с оборудованием <clr>людей<clrEnd>.	Level two micromodule. Invented by human scientists, this micromodule modifies the converters of energy weapons, substantially increasing their killing capacity. For patriotic reasons, this module is compatible only with the equipment of <clr>humans<clrEnd>.
+Эксплодер	Exploder
+Микромодуль второго уровня. Встраивается в <clr>двигатель<clrEnd>. Дестабилизирует молекулярную структуру топлива, увеличивая его детонационные свойства. Это позволяет повысить скорость двигателя, однако из-за высоких перегрузок падает дальность гиперпрыжка. К сожалению, <clr>малокские<clrEnd> двигатели не выдерживают возросших нагрузок.	Level two micromodule. Built into the <clr>engine<clrEnd>. Destabilizes the molecular structure of the fuel, increasing its detonation properties. This raises engine speed, but because of the high overloads hyperjump range drops. Unfortunately, <clr>maloq<clrEnd> engines cannot withstand the increased loads.
+Патч 0.95 бета	Patch 0.95 beta
+Микромодуль второго уровня. Содержит комплект перепрошивочных модулей для программного обеспечения вычислительных и корректирующих устройств некоторых типов оборудования. Патч увеличивает точность и скорость вычислений с плавающей запятой. Из-за своей сырости, патч конфликтует с программным обеспечением <clr>фэянского<clrEnd> и <clr>малокского<clrEnd> оборудования.	Level two micromodule. Contains a set of reflashing modules for the software of the computing and corrective devices of certain types of equipment. The patch increases the accuracy and speed of floating-point calculations. Being still raw, the patch conflicts with the software of <clr>faeyan<clrEnd> and <clr>maloq<clrEnd> equipment.
+Оптиматор	Optimator
+Размер: <clr>-20%<clrEnd>	Size: <clr>-20%<clrEnd>
+Аддон	Addon
+Микромодуль второго уровня. Пристраивает к <clr>корпусу<clrEnd> дополнительный грузовой отсек, увеличивая его вместимость на <clr>15%<clrEnd>. По каким-то причинам применение к <clr>пеленгским<clrEnd> корпусам невозможно.	Level two micromodule. Attaches an additional cargo bay to the <clr>hull<clrEnd>, increasing its capacity by <clr>15%<clrEnd>. For some reason, it cannot be applied to <clr>peleng<clrEnd> hulls.
+Размер корпуса: <clr>+15%<clrEnd>	Hull size: <clr>+15%<clrEnd>
+Горанд	Gorand
+Миниразмерный	Minisized
+Микромодуль третьего уровня. Производит ряд замен крупных тексоэлементов на более компактные, но при этом очень дешёвые. Совместим только с оборудованием расы <clr>людей<clrEnd>. Не взаимодействует с энергетическим и ракетным оружием, а также с корпусом.	Level three micromodule. Replaces a number of large texoelements with more compact yet very cheap ones. Compatible only with equipment of the <clr>human<clrEnd> race. Does not interact with energy and missile weapons, or with the hull.
+Стоимость: <clr>-30%<clrEnd>	Cost: <clr>-30%<clrEnd>
+Дроннер	Dronner
+Микромодуль третьего уровня. Повышает ремонтные возможности дроида, заменяя часть деталей более эффективными, но и более тяжёлыми. Вес <clr>дроида<clrEnd> (во всех смыслах) увеличивается.	Level three micromodule. Improves the droid's repair capabilities by replacing some parts with more efficient but heavier ones. The weight of the <clr>droid<clrEnd> (in every sense) increases.
+Размер: <clr>+50%<clrEnd>	Size: <clr>+50%<clrEnd>
+Цент	Cent
+Микромодуль третьего уровня. Влияет на составляющую материала <clr>любого предмета<clrEnd> (кроме корпуса), несколько увеличивая его размер. Стоимость же, напротив, уменьшается в <clr>3<clrEnd> раза, что приводит к выгодности последующего ремонта.	Level three micromodule. Affects the material composition of <clr>any item<clrEnd> (except the hull), slightly increasing its size. Cost, on the other hand, drops by a factor of <clr>3<clrEnd>, which makes subsequent repair cost-effective.
+Стоимость: <clr>-75%<clrEnd>	Cost: <clr>-75%<clrEnd>
+Громодрын	Massodrope
+Микромодуль третьего уровня. Убирает из <clr>дроида<clrEnd> лишние сервисные блоки (защиту от шума, радиации, дурака и т. п.), заменяя их дополнительными ремонтными модулями. Эта операция, увеличивающая эффективность дроида за счёт его стоимости, выполнима лишь на дроидах <clr>малокского<clrEnd> и <clr>пеленгского<clrEnd> производства.	Level three micromodule. Removes unnecessary service units from the <clr>droid<clrEnd> (noise, radiation and fool protection, etc.), replacing them with additional repair modules. This operation, which boosts the droid's effectiveness at the expense of its cost, can only be performed on droids of <clr>maloq<clrEnd> and <clr>peleng<clrEnd> make.
+Стоимость: <clr>-50%<clrEnd>	Cost: <clr>-50%<clrEnd>
+Платинос	Platicoat
+Микромодуль третьего уровня. Покрывает оборудование тонким слоем платины, увеличивая тем самым его <clr>цену<clrEnd> в глазах сумасшедших коллекционеров и любителей беспощадного гламура.	Level three micromodule. Coats the equipment with a thin layer of platinum, thereby increasing its <clr>price<clrEnd> in the eyes of crazy collectors and lovers of ruthless glamour.
+Клейн	Klein
+Микромодуль третьего уровня. Наращивает мощность <clr>любого оружия<clrEnd>, при этом уменьшая дальность его стрельбы.	Level three micromodule. Boosts the power of <clr>any weapon<clrEnd> while reducing its firing range.
+Пакстон	Paxton
+Микромодуль третьего уровня. Позволяет более рационально перекомпоновать элементы <clr>генератора защиты<clrEnd>, сделанного по <clr>малокской<clrEnd> технологии. Это приводит к уменьшению размера устройства, при котором его работоспособность не нарушается, но общая мощность немного падает.	Level three micromodule. Allows a more rational rearrangement of the elements of a <clr>shield generator<clrEnd> built with <clr>maloq<clrEnd> technology. This reduces the size of the device, with its functionality unimpaired, but the overall power drops slightly.
+Размер: <clr>-75%<clrEnd>	Size: <clr>-75%<clrEnd>
+Ракетон	Rocketon
+Микромодуль третьего уровня, содержащий ненаправленные бета-проводники. Значительно увеличивает силу любого <clr>ракетного оружия<clrEnd> или частично - <clr>энергетического<clrEnd>.	Level three micromodule, containing non-directional beta conductors. Significantly boosts the power of any <clr>missile weapon<clrEnd> and, in part, of <clr>energy<clrEnd> ones.
+Гугаал	Gugaal
+Микромодуль третьего уровня. Позволяет максимально реализовать скоростной потенциал <clr>гаальских двигателей<clrEnd>, заложенный конструктивно, однако не используемый в современных двигательных системах. Конструктивные изменения незначительны, однако они, тем не менее, увеличивают стоимость двигателя.	Level three micromodule. Allows the speed potential of <clr>gaalian engines<clrEnd>, built into their design but unused in modern propulsion systems, to be realized to the maximum. The design changes are insignificant, yet they nonetheless increase the cost of the engine.
+Крепчак	Harding
+Микромодуль первого уровня. Встраивается в <clr>корпус<clrEnd>. Закрепляет свою микросеть отталкивающих стационарных наноботов, частично блокирующих получаемые повреждения. Совместим только с <clr>пеленгским<clrEnd> и <clr>человеческим<clrEnd> типом корпусов.	Level one micromodule. Built into the <clr>hull<clrEnd>. Fixes its microgrid of repulsive stationary nanobots in place, partially blocking incoming damage. Compatible only with <clr>peleng<clrEnd> and <clr>human<clrEnd> hull types.
+Джампгейтор 3.11	Jumpgator 3.11
+Микромодуль первого уровня. Патчит программную часть модуля навигации и моментальной коррекции <clr>двигателя<clrEnd> до версии <clr>3.11<clrEnd>, увеличивая тем самым дальность прыжка.	Level one micromodule. Patches the software part of the navigation and instant correction module of the <clr>engine<clrEnd> to version <clr>3.11<clrEnd>, thereby increasing the jumping range.
+Стоимость: <clr>+40%<clrEnd>	Cost: <clr>+40%<clrEnd>
+Экстример	Extremer
+Микромодуль первого уровня. За счёт более рациональной программы использования внутреннего пространства грузового отсека и устранения нефункциональных конструкций увеличивает вместимость и стоимость <clr>корпуса<clrEnd> корабля. Подходит только для <clr>малокских<clrEnd> судов.	Level one micromodule. Increases the capacity and cost of the ship's <clr>hull<clrEnd> through a more rational scheme for using the cargo bay's interior space and removing non-functional structures. Suitable only for <clr>maloq<clrEnd> vessels.
+Джейк	Jake
+Микромодуль первого уровня. Заменяет топливные фильтры, повышая степень очистки горючего, что ведёт к увеличению скорости <clr>двигателя<clrEnd>.	Level one micromodule. Replaces the fuel filters, raising the degree of fuel purification, which leads to an increase in the <clr>engine's<clrEnd> speed.
+Универс	Universe
+Микромодуль первого уровня. Встраивается в стандартный слот расширения <clr>любого оборудования<clrEnd>. Активно участвует в работе устройства, оптимизируя вычисления и схему<br>функционирования агрегата.	Level one micromodule. Built into the standard expansion slot of <clr>any equipment<clrEnd>. Takes an active part in the device's operation, optimizing the calculations and the unit's<br>operating scheme.
+Иикебанит	Iikebaanite
+Стоимость: <clr>+150%<clrEnd>	Cost: <clr>+150%<clrEnd>
+Минивизион	Minivision
+Микромодуль первого уровня. Производит замену блока навигации <clr>радара<clrEnd> на новый миниатюрный, сбалансированный и высокоэффективный элемент.	Level one micromodule. Replaces the navigation unit of the <clr>radar<clrEnd> with a new miniature, balanced and highly efficient element.
+Размер: <clr>-15%<clrEnd>	Size: <clr>-15%<clrEnd>
+Микроразмерный	Microsize
+Жампа	Jumpa
+Винтарь	Threader
+Микромодуль первого уровня. Повышает бризантность снарядов <clr>осколочного оружия<clrEnd> путём увеличения критической массы взрывного наполнителя. Стоимость такого оружия также возрастает. Подходит только для <clr>малокских<clrEnd> и <clr>пеленгских<clrEnd> типов орудий.	Level one micromodule. Increases the brisance of the shells of <clr>splinter weapons<clrEnd> by increasing the critical mass of the explosive filler. The cost of such weapons also rises. Suitable only for <clr>maloq<clrEnd> and <clr>peleng<clrEnd> types of weapons.
+Патч 0.96 альфа	Patch 0.96 alpha
+Микромодуль третьего уровня. Содержит комплект перепрошивочных модулей для программного обеспечения вычислительных и корректирующих устройств некоторых типов оборудования. Патч увеличивает точность и скорость вычислений с плавающей запятой. Альфа-версия совместима с оборудованием <clr>всех рас<clrEnd>.	Level three micromodule. Contains a set of reflashing modules for the software of the computing and corrective devices of certain types of equipment. The patch increases the accuracy and speed of floating-point calculations. The alpha version is compatible with the equipment of <clr>all races<clrEnd>.
+Антифэй	Antifae
+Микромодуль первого уровня. Увеличивает заряд <clr>ракетного оружия<clrEnd>. По неизвестным причинам, отвергается <clr>фэянским<clrEnd> оборудованием.	Level one micromodule. Increases the charge of <clr>missile weapons<clrEnd>. For unknown reasons, it is rejected by <clr>faeyan<clrEnd> equipment.
+Дальпун	Farsight
+Микромодуль первого уровня. Надстраивает атмическую систему наведения орудий, увеличивая радиус поражения <clr>энергетических<clrEnd> и <clr>осколочных<clrEnd> видов вооружения. Увеличивает занимаемый объём за счёт встроенного атмического сканера. Несовместим с чересчур миролюбивыми <clr>гаальскими<clrEnd> типами оружия.	Level one micromodule. Adds an atmic targeting system to the guns, increasing the engagement radius of <clr>energy<clrEnd> and <clr>splinter<clrEnd> types of weapons. Increases the occupied volume because of the built-in atmic scanner. Incompatible with the overly peaceful <clr>gaalian<clrEnd> types of weapons.
+Размер: <clr>+35%<clrEnd>	Size: <clr>+35%<clrEnd>
+Хокус	Hocus
+Микромодуль первого уровня. Изменяет периодику колебаний волнового поля <clr>захвата<clrEnd> в соответствии с характеристиками материала захватываемого объекта, увеличивая проникающую способность поля и, соответственно, мощность захвата.	Level one micromodule. Alters the oscillation periodicity of the <clr>gripper's<clrEnd> wave field in accordance with the characteristics of the grabbed object's material, increasing the field's penetrating ability and, accordingly, the gripper's power.
+Бач	Dimin
+Микромодуль первого уровня. Специальные наноботы производят изменения молекулярной структуры топлива, уменьшая его реальный объём, что позволяет хранить большее количество топлива при неизменных характеристиках самого топливного оборудования. Совместим с оборудованием <clr>гаальцев<clrEnd> и <clr>людей<clrEnd>.	Level one micromodule. Special nanobots alter the molecular structure of the fuel, reducing its actual volume, which allows more fuel to be stored with the fuel equipment's own characteristics unchanged. Compatible with the equipment of <clr>gaalians<clrEnd> and <clr>humans<clrEnd>.
+Двима	Drover
+Микромодуль первого уровня. Модифицирует двигательные кристальные наполнители, увеличивая скорость и дальность прыжка. Подходит только для <clr>малокских двигателей<clrEnd>.	Level one micromodule. Modifies the engine's crystal fillers, increasing jump speed and range. Suitable only for <clr>maloq engines<clrEnd>.
+Броинг	Broing
+Микромодуль первого уровня. Уникальный и дорогостоящий генератор создаёт поверхностное отталкивающее поле с высокой степенью поглощения кинетической и тепловой энергии и может использоваться для увеличения защитных свойств <clr>корпуса<clrEnd> и <clr>генератора поля<clrEnd>. Совместим только с устройствами <clr>пеленгского<clrEnd> производства.	Level one micromodule. A unique and costly generator creates a surface repulsion field with a high degree of absorption of kinetic and thermal energy and can be used to increase the protective properties of the <clr>hull<clrEnd> and the <clr>field generator<clrEnd>. Compatible only with devices of <clr>peleng<clrEnd> make.
+Жжения	Burnz
+Микромодуль первого уровня. Добавляет дополнительные поражающие элементы к снарядам, используя частицы антивещества. Значительно увеличивает мощность <clr>любого оружия<clrEnd>. Совместим с <clr>гаальским<clrEnd> и <clr>пеленгским<clrEnd> типами вооружения.	Level one micromodule. Adds extra damaging elements to projectiles using antimatter particles. Significantly increases the power of <clr>any weapon<clrEnd>. Compatible with <clr>gaalian<clrEnd> and <clr>peleng<clrEnd> types of weapons.
+Панцирь	Shell
+Микромодуль первого уровня. Проводит высокочастотную бомбардировку <clr>корпуса<clrEnd> энергоквантами, увеличивая защитные характеристики материала. Эта обработка входит в стандартные операции по изготовлению корпусов у всех рас, кроме <clr>малоков<clrEnd>, поэтому эффективна только для малокских корпусов.	Level one micromodule. Bombards the <clr>hull<clrEnd> with high-frequency energy quanta, increasing the protective characteristics of the material. This treatment is a standard step in hull manufacturing for all races except <clr>maloqs<clrEnd>, so it is effective only for maloq hulls.
+Редуза	Redusa
+Микромодуль второго уровня. Уменьшает внутренний диаметр сопел <clr>двигателя<clrEnd> путём наращивания композитных кристаллоидов, в результате чего увеличивается скорость истечения реактивной струи. Применим только для <clr>пеленгских<clrEnd> двигателей.	Level two micromodule. Reduces the inner diameter of the <clr>engine's<clrEnd> nozzles by building up composite crystalloids, which increases the exhaust jet velocity. Applicable only to <clr>peleng<clrEnd> engines.
+Хаб	Hub
+Микромодуль первого уровня. Пристраивает к <clr>корпусу<clrEnd> дополнительный хаб-блок, увеличивая его объём. Изначально разработан исключительно для корпусов <clr>людей<clrEnd>, но впоследствии <clr>фэяне<clrEnd> также лицензировали его использование и адаптировали для своих кораблей.	Level one micromodule. Attaches an additional hub block to the <clr>hull<clrEnd>, increasing its volume. Originally developed exclusively for the hulls of <clr>humans<clrEnd>, but the <clr>faeyans<clrEnd> later also licensed its use and adapted it for their ships.
+Ламбалд	Lambald
+Берсерк	Berserker
+Микромодуль третьего уровня. Дополняет <clr>орудийные системы<clrEnd> довольно массивным ускорителем частиц и генератором антиматерии, существенно повышая их боевые характеристики.	Level three micromodule. Supplements <clr>weapon systems<clrEnd> with a rather massive particle accelerator and an antimatter generator, substantially improving their combat characteristics.
+Размер: <clr>+80%<clrEnd>	Size: <clr>+80%<clrEnd>
+Интердизайн	Interdesign
+Микромодуль третьего уровня. За счёт более рационального переоборудования помещений корабля <clr>вместимость корпуса<clrEnd> увеличивается.	Level three micromodule. By more rational refitting of the ship's compartments, the <clr>hull's capacity<clrEnd> is increased.
+Размер корпуса: <clr>+7%<clrEnd>	Hull size: <clr>+7%<clrEnd>
+Стаксер	Staxer
+Бронд	Brond
+Микромодуль третьего уровня. Способен с большой скоростью генерировать сверхплотные частицы, используемые в защите корабля. Совместим с <clr>корпусом<clrEnd> и <clr>генератором защитного поля<clrEnd>.	Level three micromodule. Capable of generating superdense particles at high speed, used in the ship's defense. Compatible with the <clr>hull<clrEnd> and the <clr>shield generator<clrEnd>.
+Форсер	Forcer
+Диамант	Diamant
+Микромодуль второго уровня. Встраивается в корпус. Активирует слот <clr>ремонтного дроида<clrEnd> и <clr>захвата<clrEnd>.	Level two micromodule. Built into the hull. Activates the <clr>repair droid<clrEnd> and <clr>gripper<clrEnd> slots.
+Гезават	Jeiad
+Микромодуль второго уровня. Встраивается в корпус. Активирует слот <clr>захвата<clrEnd> и <clr>генератора защитного поля<clrEnd>.	Level two micromodule. Built into the hull. Activates the <clr>gripper<clrEnd> and <clr>shield generator<clrEnd> slots.
+Раструг	Rasta
+Микромодуль второго уровня. Встраивается в корпус. Активирует слот <clr>ремонтного дроида<clrEnd> и <clr>генератора защитного поля<clrEnd>.	Level two micromodule. Built into the hull. Activates the <clr>repair droid<clrEnd> and <clr>shield generator<clrEnd> slots.
+Прозотор	Prozotor
+Микромодуль первого уровня. Встраивается в корпус. Активирует <clr>один<clrEnd> слот для <clr>оружия<clrEnd> и <clr>один<clrEnd> для <clr>артефакта<clrEnd>.	Level one micromodule. Built into the hull. Activates <clr>one<clrEnd> slot for a <clr>weapon<clrEnd> and <clr>one<clrEnd> for an <clr>artifact<clrEnd>.
+Армор	Armorer
+Микромодуль первого уровня. Встраивается в корпус. Активирует <clr>два<clrEnd> слота для <clr>оружия<clrEnd>.	Level one micromodule. Built into the hull. Activates <clr>two<clrEnd> slots for <clr>weapons<clrEnd>.
+Перфорит	Perforator
+Микромодуль первого уровня. Встраивается в корпус. Активирует <clr>два<clrEnd> слота для <clr>артефактов<clrEnd>.	Level one micromodule. Built into the hull. Activates <clr>two<clrEnd> slots for <clr>artifacts<clrEnd>.
+Убийца	Assassin
+Скала	Rock
+Болид	Bolide
+Дальность прыжка: <bonJump> ед.	Jumping range: <bonJump>
+Быстрый корпус I	Fast Hull I
+Быстрый корпус II	Fast Hull II
+Быстрый корпус III	Fast Hull III
+Быстрый корпус IV	Fast Hull IV
+Неуязвимый корпус I	Invincible Hull I
+Неуязвимый корпус II	Invincible Hull II
+Неуязвимый корпус III	Invincible Hull III
+Неуязвимый корпус IV	Invincible Hull IV
+Ремонтный корпус I	Repair Hull I
+Ремонтный корпус II	Repair Hull II
+Ремонтный корпус III	Repair Hull III
+Ремонтный корпус IV	Repair Hull IV
+Миоплазменный корпус I	Myoplasmic Hull I
+Миоплазменный корпус II	Myoplasmic Hull II
+Миоплазменный корпус III	Myoplasmic Hull III
+Миоплазменный корпус IV	Myoplasmic Hull IV
+Пигамарный корпус I	Pygamore Hull I
+Пигамарный корпус II	Pygamore Hull II
+Пигамарный корпус III	Pygamore Hull III
+Пигамарный корпус IV	Pygamore Hull IV
+Миоплазменный топливный бак I	Myoplasmic Fuel Tank I
+Миоплазменный двигатель I	Myoplasmic Engine I
+Миоплазменный радар I	Myoplasmic Radar I
+Миоплазменный сканер I	Myoplasmic Scanner I
+Миоплазменный дроид I	Myoplasmic Droid I
+Миоплазменный захват I	Myoplasmic Gripper I
+Миоплазменный генератор защиты I	Myoplasmic Shield Generator I
+Миоплазменный топливный бак II	Myoplasmic Fuel Tank II
+Миоплазменный двигатель II	Myoplasmic Engine II
+Миоплазменный радар II	Myoplasmic Radar II
+Миоплазменный сканер II	Myoplasmic Scanner II
+Миоплазменный дроид II	Myoplasmic Droid II
+Миоплазменный захват II	Myoplasmic Gripper II
+Миоплазменный генератор защиты II	Myoplasmic Shield Generator II
+Миоплазменный топливный бак III	Myoplasmic Fuel Tank III
+Миоплазменный двигатель III	Myoplasmic Engine III
+Миоплазменный радар III	Myoplasmic Radar III
+Миоплазменный сканер III	Myoplasmic Scanner III
+Миоплазменный дроид III	Myoplasmic Droid III
+Миоплазменный захват III	Myoplasmic Gripper III
+Миоплазменный генератор защиты III	Myoplasmic Shield Generator III
+Пигамарный топливный бак I	Pygamore Fuel Tank I
+Пигамарный двигатель I	Pygamore Engine I
+Пигамарный радар I	Pygamore Radar I
+Пигамарный сканер I	Pygamore Scanner I
+Пигамарный дроид I	Pygamore Droid I
+Пигамарный захват I	Pygamore Gripper I
+Ресиз	Resizer
+Микромодуль третьего уровня. Размягчает и деформирует стенки <clr>топливного бака<clrEnd>, увеличивая его внутренний объём.	Level three micromodule. Softens and deforms the walls of the <clr>fuel tank<clrEnd>, increasing its internal volume.
+Пигамарный генератор защиты I	Pygamore Shield Generator I
+Пигамарный топливный бак II	Pygamore Fuel Tank II
+Пигамарный двигатель II	Pygamore Engine II
+Пигамарный радар II	Pygamore Radar II
+Пигамарный сканер II	Pygamore Scanner II
+Пигамарный дроид II	Pygamore Droid II
+Пигамарный захват II	Pygamore Gripper II
+Пигамарный генератор защиты II	Pygamore Shield Generator II
+Пигамарный топливный бак III	Pygamore Fuel Tank III
+Пигамарный двигатель III	Pygamore Engine III
+Пигамарный радар III	Pygamore Radar III
+Пигамарный сканер III	Pygamore Scanner III
+Пигамарный дроид III	Pygamore Droid III
+Пигамарный захват III	Pygamore Hook III
+Пигамарный генератор защиты III	Pygamore Shield Generator III
+Апгрейтинговый захват I	Upgraded Gripper I
+<color=248,252,248>Производимое пиратскими техниками оборудование собирается преимущественно из старых запчастей и разукрашивается в яркие цвета для придания товарного вида. Оно дешёвое, компактное и потребляет мало энергии, что полезно для работы захвата, однако имейте в виду - мало кто любит пиратов.</color>	<color=248,252,248>Equipment produced by pirate technicians is assembled mostly from old spare parts and painted in bright colors to give it a marketable look. It is cheap, compact and consumes little energy, which is useful for gripper operation, but keep in mind - few people like pirates.</color>
+Навык обаяния: <bonSkill5>	Charisma skill: <bonSkill5>
+Апгрейтинговый генератор защиты I	Upgraded Shield Generator I
+Апгрейтинговый двигатель I	Upgraded Engine I
+Апгрейтинговый топливный бак I	Upgraded Fuel Tank I
+Апгрейтинговый радар I	Upgraded Radar I
+Апгрейтинговый сканер I	Upgraded Scanner I
+Апгрейтинговый захват II	Upgraded Gripper II
+Апгрейтинговый генератор защиты II	Upgraded Shield Generator II
+Апгрейтинговый двигатель II	Upgraded Engine II
+Апгрейтинговый топливный бак II	Upgraded Fuel Tank II
+Апгрейтинговый радар II	Upgraded Radar II
+Апгрейтинговый сканер II	Upgraded Scanner II
+Апгрейтинговый захват III	Upgraded Gripper III
+Апгрейтинговый генератор защиты III	Upgraded Shield Generator III
+Апгрейтинговый двигатель III	Upgraded Engine III
+Апгрейтинговый топливный бак III	Upgraded Fuel Tank III
+Апгрейтинговый радар III	Upgraded Radar III
+Апгрейтинговый сканер III	Upgraded Scanner III
+Биогенный дроид I	Biogenic Droid I
+<color=248,252,248>Уникальный случай, когда роль оборудования выполняют живые организмы. Особые мозговые волны, вырабатываемые этими червями, положительно влияют на работу навигационных систем, но вот оставляемая ими слизь плохо сказывается на оборудовании, сокращая срок его службы.</color>	<color=248,252,248>A unique case where living organisms perform the role of equipment. The special brain waves produced by these worms have a positive effect on navigation systems, but the slime they leave behind harms the equipment, shortening its service life.</color>
+Навык техники: <bonSkill3>	Technology skill: <bonSkill3>
+Биогенный дроид II	Biogenic Droid II
+Биогенный дроид III	Biogenic Droid III
+Нанобролитовый дроид I	Nanobrolite Droid I
+<color=248,252,248>Оборудование, разработанное специально для армии. Имеет минималистичный дизайн и, помимо базового функционала, производит более тщательную калибровку корабельных систем наведения. Также перенастраивает бортовую орудийную систему на повышение мощности выстрела в ущерб максимальной дальности стрельбы.</color>	<color=248,252,248>Equipment developed specially for the army. It has a minimalist design and, besides its basic function, calibrates the ship's targeting systems more thoroughly. It also reconfigures the onboard weapon system to increase shot power at the expense of maximum firing range.</color>
+Навык точности: <bonSkill1>	Attack skill: <bonSkill1>
+Навык торговли: <bonSkill4>	Commerce skill: <bonSkill4>
+Нанобролитовый двигатель I	Nanobrolite Engine I
+Нанобролитовый генератор защиты I	Nanobrolite Shield Generator I
+Нанобролитовый дроид II	Nanobrolite Droid II
+Нанобролитовый двигатель II	Nanobrolite Engine II
+Нанобролитовый генератор защиты II	Nanobrolite Shield Generator II
+Нанобролитовый дроид III	Nanobrolite Droid III
+Нанобролитовый двигатель III	Nanobrolite Engine III
+Нанобролитовый генератор защиты III	Nanobrolite Shield Generator III
+Ультрасплавный сканер I	Ultraalloy Scanner I
+<color=248,252,248>Высокотехнологичное оборудование нового поколения. Обладает саморазвивающимся интеллектуальным блоком, который корректирует действия пилота, за счёт чего уменьшается износ техники и повышается работоспособность дроида. Во время работы оборудования не рекомендуется употреблять выражения: "забастовка", "власть машинам" и "убить всех людей"!</color>	<color=248,252,248>High-tech new-generation equipment. It has a self-developing intelligent unit that corrects the pilot's actions, which reduces equipment wear and improves the droid's performance. While the equipment is operating, it is not recommended to use the expressions: "strike", "power to the machines" and "kill all humans"!</color>
+Ультрасплавный радар I	Ultraalloy Radar I
+Ультрасплавный топливный бак I	Ultraalloy Fuel Tank I
+Ультрасплавный захват I	Ultraalloy Gripper I
+Ультрасплавный сканер II	Ultraalloy Scanner II
+Ультрасплавный радар II	Ultraalloy Radar II
+Ультрасплавный топливный бак II	Ultraalloy Fuel Tank II
+Ультрасплавный захват II	Ultraalloy Gripper II
+Ультрасплавный радар III	Ultraalloy Radar III
+Ультрасплавный топливный бак III	Ultraalloy Fuel Tank III
+Ультрасплавный захват III	Ultraalloy Gripper III
+Ультрасплавный сканер III	Ultraalloy Scanner III
+Корпус "Добрый лякуша" I	Kindhearted Lyakusha Hull I
+<color=248,252,248>Пиратская серия корпусов, разработанная специально для ведения космических боёв с Коалицией. Внутри имеется пространство лишь для самого необходимого оборудования, а вся энергосистема корабля настроена на обеспечение максимальной огневой мощи. Однозначно не подойдёт любителям мирно поторговать в сторонке.</color>	<color=248,252,248>A pirate series of hulls developed specially for space battles against the Coalition. There is room inside only for the most necessary equipment, and the ship's entire power system is tuned to provide maximum firepower. Definitely not for those who like to trade peacefully on the sidelines.</color>
+Корпус "Добрый лякуша" II	Kindhearted Lyakusha Hull II
+Корпус "Добрый лякуша" III	Kindhearted Lyakusha Hull III
+Корпус "Добрый лякуша" IV	Kindhearted Lyakusha Hull IV
+Корпус "Мирный корсар" I	Peaceful Corsair Hull I
+<color=248,252,248>Корпус для тех, кто обожает грабить мирные суда, но при этом не любит попадать под ответный удар военных Коалиции. Вся внутренняя структура корабля была спроектирована с целью обеспечения максимальной защиты. Его главный минус - сложные электронные системы управления, из-за медлительности и неточности которых влияние навыков пилота на ход боя ощутимо снижается.</color>	<color=248,252,248>A hull for those who adore plundering peaceful ships but don't like to take return fire from the Coalition military. The entire internal structure of the ship was designed to provide maximum protection. Its main drawback is the complex electronic control systems, whose sluggishness and inaccuracy noticeably reduce the influence of the pilot's skills on the course of battle.</color>
+Корпус "Мирный корсар" II	Peaceful Corsair Hull II
+Корпус "Мирный корсар" III	Peaceful Corsair Hull III
+Корпус "Мирный корсар" IV	Peaceful Corsair Hull IV
+Корпус "Честный ренегал" I	Conscientious Renegal Hull I
+<color=248,252,248>Данный корпус - новейшая разработка гаальских учёных, выкраденная пиратами прямиком с испытательного полигона. Благодаря инновационной технологии с шестью крыльями корпус создаёт вокруг корабля особое энергетическое поле, снижающее его массу, увеличивающее дальность гиперпрыжка и, как приятный бонус, улучшающее работу бортового захвата. Неприятный же нюанс заключается в том, что владельцу такого корпуса почти никто не предоставляет скидок банально из зависти.</color>	<color=248,252,248>This hull is the latest development of gaalian scientists, stolen by pirates straight from a test range. Thanks to innovative six-wing technology, the hull creates a special energy field around the ship that reduces its mass, increases hyperjump range and, as a pleasant bonus, improves the operation of the onboard gripper. The unpleasant nuance is that almost nobody gives the owner of such a hull discounts, simply out of envy.</color>
+Масса корабля: <bonMass><clr>%<clrEnd>	Ship mass: <bonMass><clr>%<clrEnd>
+Корпус "Честный ренегал" II	Conscientious Renegal Hull II
+Корпус "Честный ренегал" III	Conscientious Renegal Hull III
+Корпус "Честный ренегал" IV	Conscientious Renegal Hull IV
+Корпус "Молния" I	Dandy Hull I
+<color=248,252,248>Агрессивный внешне спецкорпус для тех, кто любит путешествовать по Галактике, предпочитая торговые операции и правительственные задания ожесточённым космическим перестрелкам.</color>	<color=248,252,248>An aggressive-looking special-purpose hull for those who love to travel the Galaxy, preferring trade operations and government assignments to fierce space shootouts.</color>
+Корпус "Молния" II	Dandy Hull II
+Корпус "Молния" III	Dandy Hull III
+Корпус "Молния" IV	Dandy Hull IV
+Корпус "Броненосец" I	Ironclad Hull I
+<color=248,252,248>Военная серия акриновых корпусов, предназначенная для проведения боевых операций по принципу: "Прилетел, перестрелял всех вокруг, победил". В народе получила неофициальное прозвище "Утюг", из-за характерного внешнего вида и крайней неповоротливости при манёврах.</color>	<color=248,252,248>A military series of acrynic hulls intended for combat operations on the principle: "Came, shot everyone around, won". Among the people it got the unofficial nickname "Press Iron" because of its characteristic looks and extreme clumsiness in maneuvers.</color>
+Навык манёвренности: <bonSkill2>	Mobility skill: <bonSkill2>
+Корпус "Броненосец" II	Ironclad Hull II
+Корпус "Броненосец" III	Ironclad Hull III
+Корпус "Броненосец" IV	Ironclad Hull IV
+Корпус "Ушастик" I	Dumbo Hull I
+<color=248,252,248>Первая серия, позиционируемая как "дамский" тип корпуса и ласково называемая "Ушастиком" за свой внешний вид. Пускай женщин-пилотов пока совсем мало, но их наверняка станет больше, как только они узнают, что в суровом патриархальном мире их вкусы хоть кого-то заинтересовали. Как ни странно, серия была разработана фэянами.</color>	<color=248,252,248>The first series positioned as a "ladies'" type of hull, fondly called "Dumbo" for its looks. Though there are still very few female pilots, there will surely be more once they learn that in this harsh patriarchal world someone has at last taken an interest in their tastes. Strangely enough, the series was developed by the faeyans.</color>
+Корпус "Ушастик" II	Dumbo Hull II
+Корпус "Ушастик" III	Dumbo Hull III
+Корпус "Ушастик" IV	Dumbo Hull IV
+Корпус "Добрейший лякуша"	Benevolent Lyakusha Hull
+<color=248,252,248>Данный корпус был эксклюзивно прокачан известным пеленгским мастером Иц Забитом. Внутри имеется пространство лишь для самого необходимого оборудования, а вся энергосистема корабля настроена на обеспечение максимальной огневой мощи. Однозначно не подойдёт любителям мирно поторговать в сторонке.</color>	<color=248,252,248>This hull has been exclusively tuned up by the renowned peleng master Itzibit. There is room inside only for the most necessary equipment, and the ship's entire power system is tuned to provide maximum firepower. Definitely not for those who like to trade peacefully on the sidelines.</color>
+Корпус "Безобиднейший корсар"	Pacifist Corsair Hull
+<color=248,252,248>Данный корпус был эксклюзивно прокачан известным пеленгским мастером Иц Забитом. Вся внутренняя структура корабля была спроектирована с целью обеспечения максимальной защиты. Его главный минус - сложные электронные системы управления, из-за медлительности и неточности которых влияние навыков пилота на ход боя ощутимо снижается.</color>	<color=248,252,248>This hull has been exclusively tuned up by the renowned peleng master Itzibit. The entire internal structure of the ship was designed to provide maximum protection. Its main drawback is the complex electronic control systems, whose sluggishness and inaccuracy noticeably reduce the influence of the pilot's skills on the course of battle.</color>
+Корпус "Честнейший ренегал"	Honest Renegal Hull
+<color=248,252,248>Данный корпус был эксклюзивно прокачан известным пеленгским мастером Иц Забитом. Благодаря инновационной технологии с шестью крыльями корпус создаёт вокруг корабля особое энергетическое поле, снижающее его массу, увеличивающее дальность гиперпрыжка и, как приятный бонус, улучшающее работу бортового захвата. Неприятный же нюанс заключается в том, что владельцу такого корпуса почти никто не предоставляет скидок банально из зависти.</color>	<color=248,252,248>This hull has been exclusively tuned up by the renowned peleng master Itzibit. Thanks to innovative six-wing technology, the hull creates a special energy field around the ship that reduces its mass, increases hyperjump range and, as a pleasant bonus, improves the operation of the onboard gripper. The unpleasant nuance is that almost nobody gives the owner of such a hull discounts, simply out of envy.</color>
+Корпус "Зарница"	Hull "Zarnitsa"
+<color=248,252,248>Агрессивный внешне спецкорпус, модернизированный в тюнинговой компании "Косозубая восьмерёнка" и разработанный для тех, кто любит путешествовать по Галактике, предпочитая торговые операции и правительственные задания кровопролитным космическим боям.</color>	<color=248,252,248>An aggressive-looking special-purpose hull, modernized by the tuning company "Helical Gearcoffer" and designed for those who love to travel the Galaxy, preferring trade operations and government assignments to bloody space battles.</color>
+Корпус "Железнобок"	Hull "Ironside"
+<color=248,252,248>Экспериментальный образец корпуса серии "Броненосец" нового поколения. Таких корпусов нет в продаже по причине их чрезмерной дороговизны, но один экземпляр всё-таки был построен и успешно прошел все испытания, так что теперь ни у кого не повернётся язык назвать это чудо инженерной мысли "утюгом".</color>	<color=248,252,248>An experimental specimen of the new-generation "Ironclad" hull series. Such hulls are not on sale because of their excessive cost, but one unit was built after all and passed all the tests successfully, so now nobody would dare call this wonder of engineering a "press iron".</color>
+Корпус "Чебурашка"	Hull "Cheburashka"
+<color=248,252,248>Данный эксклюзивный корпус получен прямиком из дизайнерского ателье Фаринапини, где он был подвергнут значительной переработке. Кабина пилота убрана в кожу и дерево светлых тонов, а также обзавелась собственным баром и стереосистемой класса Hi-Hi. Снаружи корпус украшен ювелирными камнями от Свароковски и покрыт слоем специальной термозащиты, которая не позволит всей этой красоте отвалиться при первом же заходе в плотные слои атмосферы.</color>	<color=248,252,248>This exclusive hull came straight from the Farinapini design atelier, where it underwent a substantial rework. The pilot's cabin is trimmed in leather and light-toned wood, and has also gained its own bar and a Hi-Hi class stereo system. Outside, the hull is decorated with gemstones by Swarokovski and covered with a layer of special thermal protection that will keep all this beauty from falling off on the very first entry into the dense layers of an atmosphere.</color>
+Тень Империи	Shadow of the Empire
+<color=248,252,248>Современные технологии смогли адаптировать доисторического великана для использования рейнджерами. Тем не менее, внутри периодически раздаётся странная музыка, напоминающая марш, а боевая мощь этой махины продолжает поражать даже самых прожжённых вояк.</color>	<color=248,252,248>Modern technologies have managed to adapt a prehistoric giant for use by rangers. Even so, strange music resembling a march is heard from inside from time to time, and the firepower of this behemoth continues to amaze even the most hardened soldiers.</color>
+Гибридный дроид	Hybrid Droid
+<color=248,252,248>Изюминка данного дроида заключается в уникальном процессорном блоке, который тщательно анализирует все действия пилота, после чего загружает в бортовой компьютер наиболее подходящие текущей обстановке алгоритмы действий. Дроид был произведён в единственном экземпляре и на данный момент проходит полевые испытания в спецподразделениях флота Коалиции.</color>	<color=248,252,248>The highlight of this droid is its unique processor unit, which thoroughly analyzes all of the pilot's actions and then loads into the onboard computer the algorithms best suited to the current situation. The droid was produced in a single copy and is currently undergoing field tests with Coalition fleet special units.</color>
+Акринатор	Acrynator
+Поточный	Inliner
+Микромодуль третьего уровня. Встраивается в поточный блок <clr>сканера<clrEnd> и частично расширяет спектр принимаемых им волн.	Level three micromodule. Built into the inline module of the <clr>scanner<clrEnd> and partly extends the spectrum of waves it receives.
+"Дифрод"	Diphrode
+<color=248,252,248>Серийный комплект модифицированных узлов орудия и программных доработок "Дифрод", увеличивающий мощность оружия любого типа.</color>	<color=248,252,248>A serial kit of modified weapon assemblies and software tweaks, "Difrod", increasing the power of weapons of any type.</color>
+Бонус к урону: <clr>+15%<clrEnd>	Damage bonus: <clr>+15%<clrEnd>
+(для применения бонуса требуется превышение<br>мощности сканера над защитой цели)	(to apply the bonus, the scanner's power<br>must exceed the target's defense)
+"Лифокар"	Liphocarus
+<color=248,252,248>Модернизированное по проекту "Лифокар" вооружение наносит дополнительный урон повреждённым целям, используя механизм последовательной сверхточной стрельбы в пробоины корпуса.</color>	<color=248,252,248>Weaponry upgraded under the "Lifokar" project deals additional damage to damaged targets, using a mechanism of sequential ultra-precise fire into hull breaches.</color>
+Бонус к урону по повреждённым целям: <clr>до +33%<clrEnd>	Damage bonus against damaged targets: <clr>up to +33%<clrEnd>
+"Адроптер"	Adropter
+<color=248,252,248>Оружие с комплексом дополнительного оборудования "Адроптер" работает по принципу <clr>локализатора взрывной волны<clrEnd>. Пиратская технология далека от совершенства, но всё же повышает вероятность сохранения ценных трофеев после уничтожения вражеского судна.</color>	<color=248,252,248>Weapons with the "Adropter" auxiliary equipment complex work on the principle of a <clr>blast wave localizer<clrEnd>. The pirate technology is far from perfect, but it still raises the probability of preserving valuable trophies after an enemy ship is destroyed.</color>
+"Стилермейн"	Stylermain
+<color=248,252,248>"Стилермейн" - модификация, монтируемая на корпусе орудийной установки. Во время боя она пытается одновременно со стрельбой транслировать в центральную систему управления вражеского судна аварийную команду на сброс груза. Вероятность успешного срабатывания невелика, однако это может дать пилоту тактическое преимущество в бою и возможность поживиться лёгкой добычей.</color>	<color=248,252,248>"Stylermain" is a modification mounted on the body of a gun mount. During combat, simultaneously with firing, it tries to transmit an emergency cargo dump command to the enemy ship's central control system. The chance of success is small, but it may give the pilot a tactical advantage in battle and a chance to profit from easy loot.</color>
+Шанс сброса товаров из трюма: <clr>+5%<clrEnd>	Chance of goods being dumped from the cargo hold: <clr>+5%<clrEnd>
+"Джавитор"	Javitor
+<color=248,252,248>Разработанное для прицельного отстрела ремонтных роботов, вооружение с модификацией "Джавитор" позволяет вести огонь по траектории движения дроида, тем самым получая шанс блокировать вражескому кораблю проведение ремонта во время битвы.</color>	<color=248,252,248>Developed for targeted shooting at repair robots, weapons with the "Javitor" modification fire along the droid's movement trajectory, thereby getting a chance to block the enemy ship from carrying out repairs during battle.</color>
+Шанс блокировки <clr>дроида<clrEnd> обратно пропорционален размеру корпуса цели	The chance to block a <clr>droid<clrEnd> is inversely proportional to the target's hull size
+"Инвейтер"	Inveiter
+<color=248,252,248>Оружие модификации "Инвейтер" параллельно с нанесением урона подавляет работу системы зажигания цели, повреждая тем самым её <clr>двигатель<clrEnd>.</color>	<color=248,252,248>Weapons with the "Inveiter" modification, alongside dealing damage, suppress the target's ignition system, thereby damaging its <clr>engine<clrEnd>.</color>
+"Армолок"	Armoloc
+<color=248,252,248>Оружие в модификации "Армолок" способно высокоточными выстрелами выводить из строя концентратор каналов управления вооружением цели, на некоторое время отнимая у противника способность вести ответный огонь.</color>	<color=248,252,248>Weapons with the "Armolok" modification can use high-precision shots to disable the hub of the target's weapon control channels, taking away the enemy's ability to return fire for a while.</color>
+Шанс блокировки <clr>вооружения<clrEnd> обратно пропорционален размеру корпуса цели	The chance to block <clr>weapons<clrEnd> is inversely proportional to the target's hull size
+Антент	Antent
+Микромодуль третьего уровня. Улучшает характеристики <clr>сканирующих<clrEnd> и <clr>радарных<clrEnd> устройств. Встраивается в антенный усилитель, увеличивая его мощность.	Level three micromodule. Improves the characteristics of <clr>scanning<clrEnd> and <clr>radar<clrEnd> devices. Built into the antenna amplifier, increasing its power.
+Боттер	Botter
+Дальномёт	Farshooter
+Микромодуль третьего уровня. Снижает инерционность корректирующих систем орудия, повышая <clr>дальность стрельбы<clrEnd>.	Level three micromodule. Reduces the inertia of the weapon's corrective systems, increasing <clr>firing range<clrEnd>.
+Вихрь	Vortex
+Микромодуль третьего уровня. Содержит дополнительный, высокоточный микроконтроллер для навигационных систем <clr>двигателя<clrEnd>. За счёт более высокой точности расчётов увеличивается скорость и дальность прыжка. Совместим только с двигателями <clr>людей<clrEnd>.	Level three micromodule. Contains an additional high-precision microcontroller for the navigation systems of the <clr>engine<clrEnd>. Thanks to the higher calculation precision, jump speed and range increase. Compatible only with the engines of <clr>humans<clrEnd>.
+Мутабор	Mutabor
+Линейка лайнеров с дополнительной системой подключения артефактов и возможностью форсажа.	A liner series with an additional system of artifact connection and afterburner capacity.
+Малокское транспортное судно, переоборудованное для шпионажа и разведки.	A maloq transport vessel, refitted for espionage and recon.
+Индиго	Indigo
+Корпус для безопасной перевозки пассажиров. Имеет защитное поле и дополнительное вооружение.	A hull for safe transport of passengers. Has a defensive field and auxiliary armaments.
+Мириада	Myriada
+Серия корпусов правительственного заказа, для дипломатических миссий пеленгов и малоков.	A government-commissioned hull series intended for maloq and peleng diplomatic missions.
+Эконом	Economist
+Небольшой экономичный корпус. Отличное решение при ограниченных средствах и разумном подходе к эргономичности.	A small and economical hull. A fine solution for those on a budget and with sensible ergonomic expectations.
+Трантболл	Trantball
+Обычный малокский корпус.	A standard maloq hull.
+Херши	Hershey
+Серия стандартных пеленгских корпусов.	A standard peleng hull.
+Стандарт	Standard
+Стандартный корпус человеческого производства.	A standard Human hull.
+Калай	Kalay
+Серия стандартных фэянских корпусов.	A standard faeyan hull.
+Омоко	Omoko
+Серия стандартных гаальских корпусов.	A standard gaalian hull.
+Тадай	Tadai
+Серия стандартных малокских корпусов с захватом.	A standard maloq hull with a gripper.
+Кацап	Snatcher
+Серия стандартных пеленгских корпусов с захватом.	A standard peleng hull with a gripper.
+Трек	Trek
+Стандартная серия корпусов людей, с местом под захват.	A standard human hull with a gripper slot.
+Лантака	Lantaka
+Серия стандартных фэянских корпусов с захватом.	A standard faeyan hull with a gripper.
+Олапу	Olapu
+Серия стандартных гаальских корпусов с захватом.	A standard gaalian hull with a gripper.
+Экспериметр	Experimeter
+Визор	Visor
+Стандартная серия корпусов с радаром и сканером.	A standard hull with a radar and scanner.
+Большой челнок	Large Shuttle
+Корабль для перевозки крупногабаритных грузов. Установка захвата невозможна.	A ship designed to transport large-size cargoes. No gripper can be installed.
+Багамот	Bagamote
+Большой корпус для большого бизнеса. Производится людьми и пеленгами.	A big hull for big business. Manufactured by humans and pelengs.
+Мирта	Mirtha
+Корабль, изготовленный по всем канонам пацифистской идеологии. Бюджетная модель.	A ship designed in keeping with all the canons of the pacifist ideology. A budget model.
+Тортило	Tortillo
+Вместительный корпус для безопасной перевозки арестованных грузов и пленников.	A spacious hull for secure transport of seized cargoes and detainees.
+Глобал-союз	Global Union
+Большой корпус для безопасных перевозок. Безупречный выбор.	A large hull for secure transport. An impeccable choice.
+Аррива	Arriva
+Корпус для благородных целей. Фэяне создали самые комфортные условия в жилых отсеках.	A hull for noble causes. The fae labored to create the most comfortable living quarters around.
+Эльдорадо	El Dorado
+Роскошный корпус, внутренние отсеки отделаны кожей пакряков и золотом. Полный комплект оборудования.	A luxurious hull with an inner trim of pakryak leather and gold. Complete hardware package.
+Захадум	Zahadoom
+Скоростная серия с полной защитой, вооружением и навигацией. Создано для спецслужб пеленгов.	An ultra-speed series with complete defense, arms and navigation. Designed for peleng special forces.
+Толстяк Крю	Fatso Crue
+Серия модернизированных судов от старика Крю, который любил комфорт и панически боялся дроидов.	A series of modernized vessels from old man Crue, known for his love of comfort and irrational fear of droids.
+Феникс Крю	Phoenix Crue
+Сделанная стариком Крю модификация малого фэянского транспорта, переоборудованного для ведения боя.	A minor modification of light faeyan transport vessels toward increased combat readiness, compliments of old man Crue.
+Курьер	Courier
+Серия миниатюрных корпусов, предназначенных для быстрой доставки ценных грузов и информации.	A series of miniature hulls, designed for fast shipment of valuable cargoes and information.
+Святой Брамин	Holy Brahmin
+Недорогой корпус для религиозной и благотворительной деятельности.	An inexpensive hull for religious and charitable purposes.
+Легион смерти	Legion of Doom
+Мощный боевой корпус. Выбор настоящих мужчин.	A powerful combat hull. The choice of real men.
+Ночной ястреб	Nighthawk
+Убишак	Ubishack
+Серия украденных и модернизированных пеленгами корпусов. Место для дроида переоборудовано под оружейный отсек.	A series of hulls stolen and modernized by pelengs. The droid compartment has been refitted to a weapons bay.
+Карающий луч	Punishing Ray
+Полнофункциональный боевой корабль низкой ценовой категории. Установка артефактов не предусмотрена.	A fully-functional combat ship in a lower price tier. Does not come with slots for artifacts.
+Жалящая стрела	Stinging Arrow
+Возмездие неба	Divine Retribution
+Грозная серия корпусов для молниеносных атак. Всегда в моде.	A formidable series of hulls for lightning-fast attacks. Never goes out of fashion.
+Неопатруль	Neopatrol
+Корпус с человеческой и фэянской полицейской маркировкой. Предназначен для сбора таможенных грузов.	A hull with human and faeyan police markings. Designed for customs cargo collection.
+Слепая ярость	Blind Fury
+Машина для убийства. Установка радара и сканера невозможна.	The perfect killing machine. No radar or scanner can be installed.
+Чегантина	Chegantine
+Экстрим-лайт	Extreme Light
+Микробус	Microbus
+Из этого корпуса удалены все лишние и редко используемые модули.	All redundant and seldom used modules have been removed from this hull.
+Техноскала	Technorock
+Эта серия высокотехнологичных корпусов включает полный комплект мест под оборудование. Техническое совершенство корпусной мысли.	This series of advanced tech hulls includes a complete set of machinery installation mounts. The peak of hull technology innovation.
+Бравада	Bravado
+Небольшой корпус для смелых бойцов. Место под сканер не предусмотрено. Режим форсажа не поддерживается.	A small hull for brave fighters. Does not come with a slot for scanner. Afterburner mode not supported.
+Жандарм	Gendarme
+Гроза пиратов. Выглядит настолько устрашающим, что инженеры даже отказались от установки защитного генератора.	Bane of pirates. Looks so scary that the engineers didn't even bother installing a protection generator.
+Антидоминатор	Antidominator
+Дорогое и эффективное оружие против доминаторов. Выбор настоящих патриотов.	A pricey and effective weapon against dominators. The choice of true patriots.
+Барбариан	Barbarian
+Серия вместительных корпусов для воинов-одиночек, не любящих скорость. Предусмотрено место под захват.	A series of spacious hulls for lone warriors who aren't keen on speed. Comes with a gripper slot.
+Супернова	Supernova
+Элитные фэянские корпуса для высших военных чинов. Внутренняя отделка по последнему слову техники и дизайнерского искусства.	Elite faeyan hulls for top military officials. The interior reflects the latest innovations in technology and design.
+Красный топор	Red Hatchet
+Просторный боевой корабль, обитый внутри красным пластиком. Установка сканера невозможна.	A spacious combat ship padded with red plastic on the inside. No scanner can be installed.
+Энхансер	Enhancer
+Серия недорогих корпусов, созданных для научных войск. Вооружение слабое, есть захват.	A series of inexpensive hulls, designed for research troops. Weak weaponry, comes with a gripper.
+Чистотел	Sweeper
+Не по-гаальски агрессивный корпус с большим функционалом переработки и сбора мусора.	An aggressive hull, atypical of gaals, with high functionality for trash collection and recycling.
+Экстрим-фул	Full Extreme
+Большой гаальский корпус без возможности подключения защитных и части боевых устройств. Для экстремального выживания в космосе.	A large gaalian hull without any defensive equipment and limited offensive options. For extreme survival in space.
+Ябуша	Jabus
+Мощный корпус, который не оставляет врагам ни единого шанса. Размер корабля позволяет содержать внутри грязевой бассейн.	A powerful hull that leaves the enemy no chance. Spacious enough to fit a mud pool.
+Камикадзе	Kamikaze
+Цербер	Cerberus
+Бизнес-класс	Business Class
+Классический выбор безрассудного пирата. Генератор защитного поля, разумеется, не предусмотрен.	The classic choice of a reckless pirate. Naturally, no shield generator can be installed.
+Растеряха	Scatterbrain
+Фервекс-лякуша	Fervex-Lyakusha
+Каракатица	Cuttlefish
+Легендарная пиратская серия с возможностью поддержки всех типов оружия.	A legendary pirate series capable of supporting all weapon types.
+Гнилой зуб	Rotten Tooth
+Просторный корпус для пиратов низшего сословия. Поддержка форсажа и установка генератора поля не предусмотрена.	A spacious hull for lower-class pirates. No afterburner or shield generator envisaged.
+Подранок вселенной	Universe's Chump
+Арривал толосум	Arrival Tolosum
+Знаменитая малокская серия, названная в честь Аррива Толосума, воителя и исследователя.	A famous maloq series named after Arriva Tolosum, warrior and explorer.
+Малый Кранк	Small Crank
+Рабочая лошадка для скупщиков и пиратов. Генератор защитного поля не предусмотрен.	A workhorse of fences and pirates. No shield generator envisaged.
+Жажда мести	Vengeance
+Орландо	Orlando
+Корпус для агрессивных дипломатов. Установка захвата невозможна.	A hull for aggressive diplomats. No gripper can be installed.
+Кость страха	Terror Bone
+Корпус бывалого пирата, перед которым трепещут даже малокские вояки.	A hull for a seasoned pirate, making even maloq warriors tremble in fear.
+Заноза	Splinter
+С выходом этой серии корпусов к базовой комплектации добавился слот оружия, а с ним и новые проблемы торговцев, разумеется.	Upon release, this series of hulls added a weapon slot to the base configuration, spelling even more trouble for merchants.
+Саранча	Locust
+Судно начинающего пирата. Установка сканера и генератора поля невозможна.	A ship for an aspiring pirate. No scanner or shield generator can be installed.
+Лужа Чваха	Chvakha's Puddle
+Тратахан	Tratakhan
+Малокский корпус для беспредельных пиратских забав с дроидом.	A maloq hull for lawless pirate tomfoolery. Comes with a droid.
+Голодный пенчекряк	Ravenous Penchecrakus
+Зверская мощь корабля гарантирует победу над противником. Мечта любого пеленга.	The ship's beastly power all but guarantees victory over any opponent. The dream of any peleng.
+Ксвиру	Xwiru
+Очень маленький фэянский корпус, состоящий из новейших микросистем. Прекрасный шпион и разведчик.	A tiny faeyan hull, comprised of state-of-the-art microsystems. Perfect for scouting and spying.
+Новый Ксвиру	New Xwiru
+Модифицированный фэянский корпус серии "Ксвиру". Увеличен размер.	A modified faeyan hull of the Xwiru series. The size has been increased.
+Катозавр	Catosaurus
+Боевой корпус. Внутренняя отделка, выполненная в доисторическом стиле, прекрасно дополняет возросшую огневую мощь.	A combat hull. The interior trim's prehistoric theme excellently complements its increased firepower.
+Хищник	Predator
+Боевой корпус малокских охотников за умными головами.	A combat hull of maloq egghead hunters.
+Благодать	Grace
+Небольшой корпус для эффективной работы дипломата, рассчитан на новое оборудование средних размеров.	A small hull sufficient for effective discharging of diplomatic duties. Designed to carry modern mid-size tech.
+Фантом	Phantom
+Неприметный корпус, используется для перевозки документов под грифом "Совершенно секретно".	An inconspicuous hull used to transport classified documents.
+Омаха	Omaha
+Знаменитая серия людских рейнджерских корпусов. Используется пиратами для маскировки. Установка собственного сканера не предусмотрена.	A famous series of human ranger hulls, , it is also used by pirates as disguise. No personal scanner envisaged.
+Пыль времени	Sands of Time
+Низкобюджетная линейка кораблей для малоимущих рейнджеров.	A low-budget line of ships for destitute rangers.
+Стальная чмыса	Stainless Steel Brat
+Скоростной корпус для пеленгских рейнджеров, предпочитающих тактическое отступление бесславной гибели.	A high-speed hull for peleng rangers who favor tactical retreat over inglorious death.
+Оружейник	Weaponsmith
+Внутренняя отделка салона содержит декоративные элементы оружия и боеприпасов. Для любителей показать силу.	The cabin's trim features decorative elements of weapons and ammo -- a boon for those who like to show off their power.
+Мангуст	Mongoose
+Факрай	Farcry
+Вместительное рейнджерское судно, подходит для неспешной перевозки опасных и хрупких грузов. Только для отважных фэян.	A spacious ranger hull, ideal for unhurried transport of fragile and dangerous cargoes. Only for courageous faeyans.
+Слопка	Sentinel
+Крепкий гаальский орешек. Рейнджерский корпус с большим трюмом и мощным оружейным отсеком. Установка сканера невозможна.	A hard gaalian nut. A ranger hull with a spacious cargo bay and powerful weapons bay. No scanner can be installed.
+Одинокий странник	Lone Traveler
+Человеческий корпус для неторопливых странствий пилота-рейнджера. Салон украшен картинами пейзажей древней планеты Земля.	A human hull for leisurely ranger travels. The living quarters is decorated with paintings depicting landscapes of the ancient planet Earth.
+Гугол	Googol
+Идеал	Ideal
+Идеальный рейнджерский корпус для любых операций. Создан по эксклюзивному заказу сети центров рейнджеров.	The ideal ranger hull for any operation. Exclusively commissioned by the network of ranger centers.

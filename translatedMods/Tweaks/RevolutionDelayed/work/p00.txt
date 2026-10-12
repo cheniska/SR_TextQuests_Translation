@@ -1,0 +1,3 @@
+21	Dominators are weaker than the Coalition
+22	Dominators are much stronger than the Coalition
+23	Dominators are stronger than the Coalition

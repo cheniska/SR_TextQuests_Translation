@@ -1,0 +1,10 @@
+Об авторах	About the Authors
+Демонстрация	Demo
+Выход	Exit
+Достижения	Achievements
+Загрузить	Load
+Выйти из программы?	Do you really want to quit the game?
+Новая игра	New Game
+Настройки	Settings
+Рекорды	Records
+Доминаторы: Перезагрузка	Dominators: Reload

@@ -1,0 +1,4 @@
+4	Excellent, <Player>. We have debited <NodCnt> nodes from your account.
+5	Your node account balance: <BaseNod> nd.
+12	Drawing on statistical data of <clr>Keller's<clrEnd> operations, the probability analyzer has predicted that his next emergence from hyperspace will happen in the <Star> system.
+25	The beacon is a remote object-study system. When activated, it transmits a square-wave signal into hyperspace about a large amount of unexamined material. Kelleroids that pick up the signal assign it maximum priority and arrive at the place of the call. The strength of the signal determines the number of research robots, but the signal can also be intercepted by other dominators.

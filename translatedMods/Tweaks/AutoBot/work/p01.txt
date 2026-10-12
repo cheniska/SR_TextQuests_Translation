@@ -1,0 +1,11 @@
+1	Automatic behavior of the player's ship <color=0,50,200>disabled</color>
+2	Automatic behavior of the player's ship <color=0,50,200>enabled</color>
+3	Automatic behavior of the player's ship changed to <color=0,50,200>pirate</color>
+4	Automatic <color=0,50,200>pirate</color> behavior of the player's ship <color=0,50,200>disabled</color>
+5	Automatic <color=0,50,200>pirate</color> behavior of the player's ship <color=0,50,200>enabled</color>
+6	Automatic behavior of the player's ship changed to <color=0,50,200>trader</color>
+7	Automatic <color=0,50,200>trader</color> behavior of the player's ship <color=0,50,200>disabled</color>
+8	Automatic <color=0,50,200>trader</color> behavior of the player's ship <color=0,50,200>enabled</color>
+9	Automatic behavior of the player's ship changed to <color=0,50,200>military</color>
+10	Automatic <color=0,50,200>military</color> behavior of the player's ship <color=0,50,200>disabled</color>
+11	Automatic <color=0,50,200>military</color> behavior of the player's ship <color=0,50,200>enabled</color>

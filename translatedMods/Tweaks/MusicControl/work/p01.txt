@@ -1,0 +1,31 @@
+1	Hide the music control panel
+2	Select a music playlist
+3	Play the next track (<color=255,245,80>.</color>)
+4	Open the music control panel
+5	Pause music playback (<color=255,245,80>,</color>)
+6	Resume music playback (<color=255,245,80>,</color>)
+7	Music playback paused
+8	Music playback resumed
+9	Next track started
+10	Now playing:
+11	Choose the playlist you want:
+12	Faeyan planet
+13	Faeyan planet (pirates)
+14	Gaalian planet
+15	Gaalian planet (pirates)
+16	Dominator planet
+17	Maloq planet
+18	Maloq planet (pirates)
+19	Uninhabited planet
+20	Peleng planet
+21	Peleng planet (pirates)
+22	Human planet
+23	Human planet (pirates)
+24	--- Paused ---
+25	Space
+26	Battle
+27	General
+28	Main menu
+29	Shadow of the Empire
+30	Credits
+31	Other

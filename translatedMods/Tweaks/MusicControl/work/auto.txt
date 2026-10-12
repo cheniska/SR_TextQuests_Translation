@@ -1,0 +1,14 @@
+Роджерия	Rogeria
+По умолчанию	Default
+Текстовые квесты	Text Quests
+Аркадные бои	Arcade Battles
+Планетарные бои	Planetary battles
+Центр рейнджеров	Ranger Center
+Военная база	Military Base
+Научная база	Research Station
+Технологический центр	Technology Center
+Бизнес-центр	Business Center
+Медицинский центр	Medical Center
+Пиратская база	Pirate Base
+Доминион	Dominion
+Чёрный рынок	Black Market

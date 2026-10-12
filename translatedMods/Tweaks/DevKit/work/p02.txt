@@ -1,0 +1,200 @@
+318	Medal not found. Check that the medal number is spelled correctly and that the mod with such a medal is enabled
+319	Enter the medal number from the lang file (0-47 in SR2HD)
+320	Random (split by reason for the award)
+321	Victory in a planetary battle
+322	Mark of shame
+323	Failed mission
+324	Completed mission
+325	Liberated system
+326	Choose the reason for the award
+327	Destroyed ships
+328	Choose the action you need.
+329	Create a Tranclucator for testing
+330	Create a one-shot trunk with the required HP
+331	Enter the trunk's HP:
+332	How many to create:
+333	Change the maneuverability skill
+334	Enter the value:
+335	Change the armor value
+336	Change the shield generator value
+337	Reset the changed values
+338	Reset the damage readouts
+339	Which ones exactly?
+340	Damage of weapon 5:
+341	Damage of weapon 4:
+342	Damage of weapon 3:
+343	Damage of weapon 2:
+344	Damage of weapon 1:
+345	Show damage readouts
+346	Hide damage readouts
+347	Destroy the trunk
+348	Galactic map interactions
+349	Diseases and stimulants
+350	What exactly needs to be done with the galactic map?
+351	What do you want to do?
+352	Open the galactic map (without the secret pirate sector)
+353	Open a specific sector
+354	Close a specific sector
+355	Open all neighboring sectors
+356	Close all neighboring sectors
+357	Catch all diseases
+358	Time until recovery
+359	Inject all stimulants
+360	Time until the stimulant wears off
+361	Catch a specific disease
+362	Choose a disease from the list
+363	Inject a specific stimulant
+364	Choose a stimulant from the list
+365	Extermination
+366	<color=250,20,20>WARNING</color><br><br><color=250,20,20>DANGEROUS CATEGORY</color><br><br>Here you can destroy a race in the Galaxy.<br><br>Of course, you cannot destroy all the races -- one will remain.<br><br>Keep in mind that scripts may create NPCs of destroyed races.<br><br><color=250,20,120>The author is not responsible for what happens after the destruction of any of the races</color>
+367	Destroy the maloq
+368	Destroy the peleng
+369	Destroy the humans
+370	Destroy the faeyan
+371	Destroy the gaalians
+372	Weapon not found. Check that the weapon's name is spelled correctly and that the mod with such a weapon is enabled
+373	Worsen relations with the maloq
+374	Create bases (requests section)
+375	Worsen relations with the peleng
+376	Worsen relations with the humans
+377	Worsen relations with the faeyan
+378	Worsen relations with the gaalians
+379	Improve relations with the maloq
+380	Improve relations with the peleng
+381	Improve relations with the humans
+382	Improve relations with the faeyan
+383	Improve relations with the gaalians
+384	Unique klissan guns from SR1
+385	Ship effects
+386	Choose which effect you will change<br><br>REMEMBER<br>Minus - reduces the effect<br>Plus - increases the effect<br><br>Zero <color=220,20,20>will simply do nothing</color>
+387	Destroy all ships in the current system
+388	All effects
+389	Effect stacks
+390	Ionization effect
+391	Nanocorrosion effect
+392	EM interference effect
+393	Weapon blocking effect
+394	Droid blocking effect
+396	Flagship bonus effect
+397	Create a smuggler
+398	(section)
+399	Ship IDs
+400	What type of torpedoes do you need?
+401	Choose a sector
+402	Forbidden ship ID: <0>
+403	Hull size
+404	1,000,000-100,000,000 HP
+405	1-1,000 HP
+406	Specify the number of cybercoins
+407	Get Nirgend Azur
+408	How much Azur to grant?
+409	Grant nuclear torpedoes
+410	Ordinary nuclear
+411	How many torpedoes to grant?
+412	Thermonuclear
+414	Set the amount of fuel in the tank
+415	Specify the amount of fuel
+416	Enable granting of acrynics
+417	Disable granting of acrynics
+418	Design Bureau
+419	Enable hull chameleonization
+420	Disable name chameleonization
+421	Disable hull chameleonization
+422	Enable name chameleonization
+423	Create a traitor
+424	<clr>--General information--<clrEnd><br>Current GTL: <0><br>Player's current coordinates: X=<1> Y=<2><br>The player is in the system: <3><br>System ID: <4><br>System sector: <5><br>Inhabited planet nearest to the player: <6><br>Player's home system: <7><br>Player's home planet: <8><br>Number of mercenary rangers the player has: <9><br>Number of mercenary pirates the player has: <10><br><br><clr>--Player status--<clrEnd><br>Trader: <11><br>Pirate: <12><br>Warrior: <13><br><br><clr>--Other information--<clrEnd><br>Total number of rangers in the Galaxy: <14><br>Total number of loaded MMs and acrynics: <15><br>Total number of sectors in the Galaxy: <16><br>Number of planets in this system: <17><br>Number of ships in this system: <18><br>Number of items in this system: <19><br>Number of asteroids in this system: <20><br>Number of missiles in this system: <21><br>Number of items in all warehouses: <22><br>Number of items on the ship: <23><br>Number of artifacts on the ship: <24><br>Number of probes the player has: <25><br><br><clr>--Camouflage--<clrEnd><br>Available camouflage activations for series:<br>Blazer: <26><br>Keller: <27><br>Terron: <28><br><br><clr>--Game difficulty--<clrEnd><br>Overall difficulty: <29>%<br>Pirate difficulty: <30>%<br>Price spread: <31>%<br>Scientists: <32>%<br>Breakdowns: <33>%<br>Equipment: <34>%<br>Quest difficulty: <35>%<br>Black hole difficulty: <36>%<br>Luck: <37>%
+425	General information about the current state of the game
+426	Adjust the dominator research level
+427	Adjust the amount of debris credited to science bases
+428	Which level to set?
+429	<clr>bonHull<clrEnd> - hull armor bonus;<br><clr>bonSpeed<clrEnd> - engine speed bonus;<br><color=130,0,130>Note: All acrynic speed bonuses are first added to the engine's current speed, and the ship's actual speed is calculated later.</color><br><clr>bonJump<clrEnd> - engine jump range bonus;<br><clr>bonRadar<clrEnd> - radar range bonus;<br><clr>bonScan<clrEnd> - scanner power bonus;<br><clr>bonDroid<clrEnd> - droid repair effectiveness bonus;<br><clr>bonHook<clrEnd> - bonus to the size of items the gripper can grab;<br><clr>bonDef<clrEnd> - shield generator power bonus;<br><clr>bonWEnergy<clrEnd> - energy weapon power bonus;<br><clr>bonWSplinter<clrEnd> - fragmentation weapon power bonus;<br><clr>bonWMissile<clrEnd> - missile weapon power bonus;<br><clr>bonWRadius<clrEnd> - weapon firing range bonus;<br><clr>bonSlotRadar<clrEnd> - open/close the radar slot;<br><clr>bonSlotScaner<clrEnd> - open/close the scanner slot;<br><clr>bonSlotDroid<clrEnd> - open/close the droid slot;<br><clr>bonSlotHook<clrEnd> - open/close the gripper slot;<br><clr>bonSlotDef<clrEnd> - open/close the shield generator slot;<br><clr>bonSlotWeapon<clrEnd> - open/close the weapon slots;<br><clr>bonSlotArt<clrEnd> - open/close the artifact slots;<br><clr>bonSlotForsage<clrEnd> - open/close the afterburner slot;<br><clr>bonHookRadius<clrEnd> - gripper range bonus;<br><clr>bonSkill1<clrEnd> - changes the accuracy skill;<br><clr>bonSkill2<clrEnd> - changes the maneuverability skill;<br><clr>bonSkill3<clrEnd> - changes the technical knowledge skill;<br><clr>bonSkill4<clrEnd> - changes the trading skill;<br><clr>bonSkill5<clrEnd> - changes the charm skill;<br><clr>bonSkill6<clrEnd> - changes the leadership skill;<br><clr>bonMass<clrEnd> - changes the percentage of the mass of the ship and its installed equipment;<br><clr>bonMissileSpeed<clrEnd> - increases the speed of launched missiles/torpedoes;<br><clr>bonShotSpeed<clrEnd> - changes the firing order;<br><clr>bonHookMaxSpeed***<clrEnd> - addition to the gripper's pull-in speed at long range;<br><clr>bonHookMinSpeed***<clrEnd> - addition to the gripper's pull-in speed at close range;<br><clr>bonStimCapacity<clrEnd> - changes the maximum number of stimulants the player can take at once;<br><clr>bonZonds<clrEnd> - bonus to the maximum limit of probes under the player's control;<br><clr>bonAttacks<clrEnd> - additional number of shots per turn;<br><clr>bonResistAsteroid<clrEnd> - reduces/increases damage from asteroid hits as a percentage, where 0 is the ship's base value (bonResistAsteroid=50 will halve the damage from an asteroid hit);<br><br>Note: When the bonAttacks bonus is used, each weapon is given not additional shots but a full iteration of its salvo per turn. For example, if a weapon is supposed to fire 3 times per turn, then with ShipSpecialBonuses() +2 it will fire 9 times, and with ShipSpecialBonuses() -1 not at all. With this bonus, the wear rate of all weapons is reduced in proportion to the number of additional salvos.<br><br>*** - The pull-in speed of an item is minimal at the edge of the gripper's range and maximal at the zero point, that is, at the coordinate center of the ship itself. The closer an item lies to the ship, the higher the gripping speed. The minimum gripping speed is 0.1, so it cannot drop completely to zero with any bonuses.<br>
+430	Information about all special bonuses
+431	Choose a bonus
+432	Disable automatic takeoff
+433	Enable automatic takeoff
+434	10,000-1,000,000 HP
+435	1,000-10,000 HP
+436	Time until the pirates exit hyperspace
+437	Start a klissan invasion
+438	Klissan guns
+439	Dominator guns (PolDomiksPlus)
+440	A Coalition system is required to create battleships!
+441	Grant a custom weapon
+442	Operations with various NPC objects
+443	Grant artifacts from Cat_Arts
+444	Forbid the dominators to attack the current system
+445	Allow the dominators to attack the current system
+446	Grant a useless
+447	Useless not found. Check that the useless's name is spelled correctly and that the mod with such a useless is enabled
+448	Not possible yet
+449	The automatic Marshal service asks you to report the appearance of this message to the PB "Free Bay". Thank you for your help in empirical scientific research
+450	Close all sectors except the neighboring ones
+451	Create an uninhabited planet
+453	Change the hull size
+459	Which type?
+461	Enter the name of the <0>
+462	<color=0,0,0>system</color>
+463	<color=0,0,0>planet</color>
+464	What needs to be done with the <0> object?
+465	Ship/base
+466	Change coordinates
+467	Change the X coordinate
+468	Change the Y coordinate
+469	Specify the coordinates.<br><br>Coordinates of the <0> object:<br>X coordinate = <1><br>Y coordinate = <2><br><br><br>Coordinates you want to change to:<br>X coordinate = <3><br>Y coordinate = <4>
+470	<color=0,0,0>ship/base</color>
+471	Where should the <0> object be teleported?
+472	To a system
+473	Enter the system name
+474	Teleportation
+475	<color=0,0,0>Object <0> has been teleported to the player.</color>
+476	<color=0,0,0>The coordinates of object <0> have been changed.</color>
+477	All skills
+478	Near the player
+479	<color=0,0,0>Object <0> has been successfully teleported to the <1> system.</color>
+480	To another ship/base
+481	<color=0,0,0>Object <0> has been successfully teleported to object <1>.</color>
+482	Enter the ship/base name
+483	Rename the object
+484	Enter the new name:
+485	Choose what you want to do with the name of object <0>.
+486	Change the name color
+487	Object name management
+488	Reset the color
+489	Changing the skill level
+490	Skills of object <0>:<br><br>Accuracy: <1><br>Maneuverability: <2><br>Technical knowledge: <3><br><br>Trading: <4><br>Charm: <5><br>Leadership: <6><br><br>Choose what you want to do with the skills.
+491	Choose the type of object you will interact with and enter its name.<br><br>When entering the name, take into account <clr>lowercase<clrEnd> and <clr>uppercase<clrEnd> letters.
+492	Skills of object <0>:<br><br>Accuracy: <1><br>Maneuverability: <2><br>Technical knowledge: <3><br><br>Trading: <4><br>Charm: <5><br>Leadership: <6><br><br>Choose the skill you want to <7>.
+493	Change a skill
+494	Reset skills
+495	<color=0,0,0>change</color>
+496	<color=0,0,0>reset</color>
+497	Orders
+498	<color=0,0,0>The orders of object <0> have been unblocked.</color>
+499	Block orders
+500	<color=0,0,0>The orders of object <0> have been blocked.</color>
+501	Where do you want to land the <0> object?
+502	Cancel all orders
+503	Order to jump to a system
+504	<color=0,0,0>Object <0> is heading to the <1> system.</color>
+505	Order to land on an object
+506	Give the takeoff order
+507	Order to follow another ship/base
+508	To a ship/base
+509	To a planet
+510	Specify the coordinates.<br><br>Coordinates of the <0> object:<br>X coordinate = <1><br>Y coordinate = <2><br><br><br>Coordinates you want to order it to fly to:<br>X coordinate = <3><br>Y coordinate = <4>
+511	<color=0,0,0>The takeoff order for object <0> has been accepted.</color>
+512	Order to fly to coordinates
+513	<color=0,0,0>The order to follow object <0> has been accepted.</color>
+514	<color=0,0,0>Object <0> is heading to coordinates <1>,<2>.</color>
+515	<color=0,0,0>All orders of object <0> have been canceled.</color>
+516	Unblock orders
+517	<color=100,0,0>Self-destruct order</color>
+518	<color=0,0,0>The self-destruct order for ship/base <0> is <color=100,0,0>active</color>.</color>
+519	<color=0,100,0>Cancel the self-destruct order</color>
+520	<color=0,0,0>The self-destruct order for ship/base <0> has been <color=0,100,0>canceled</color>.</color>
+521	Equipment and items
+522	<color=0,0,0>The new weight of item <0> has been set.</color>
+523	<color=129,129,129>none</color>
+524	<color=48,131,148>dominators</color>
+525	<color=171,16,167>faeyan</color>
+526	<color=129,129,129>pirates</color>

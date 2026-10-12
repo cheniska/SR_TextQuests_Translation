@@ -1,0 +1,10 @@
+1	FormIntroduction/Text
+2	FormIntroduction/Text
+3	FormGameEnd/WinPirate18
+4	Script/MS_SB1/BPAns1
+5	Script/MS_SB1/BPAns4
+6	Script/MS_SB1/BPMsg
+7	FormGameSet2/Common/HelpGroup1Easy
+8	FormGameSet2/Common/HelpGroup1Expert
+9	FormGameSet2/Common/HelpGroup1Hard
+10	FormGameSet2/Common/HelpGroup1Normal

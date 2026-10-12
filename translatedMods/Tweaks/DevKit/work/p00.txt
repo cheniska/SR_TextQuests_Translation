@@ -1,0 +1,42 @@
+1	Transport
+2	Console
+4	Raise Coalition rank
+5	Raise pirate rank
+6	Become a Baron
+7	Become an Admiral
+10	Cheat engine
+12	Cheat radar
+14	Quick equipment for testing
+15	Teleport to another system
+16	Holoprojector, Pulsar, Blinker (SubSpaceBase module)
+17	Kill the pirate clan
+18	From the ExpArts module
+19	From the ExpAcryn module
+25	Faeyan
+52	Get engine
+68	Get scanner
+75	Get radar
+76	Get droid
+81	Get gripper
+107	Get equipment
+111	Get hull
+115	Get shield generator
+143	Get money
+170	Get artifacts
+177	Only Tranclucator
+204	Fill the fuel tank
+221	Get everything at once
+231	Get micromodules
+242	Get weapons
+261	Original
+308	Raise rank
+395	Create a black hole
+413	Get nodes
+452	Load anti-dominator programs
+454	Repair equipment
+455	Get fuel tank
+456	MaBoKit (Evolution)
+457	Mite Hull (Expansion)
+458	PhysGun (Expansion)
+460	Shadow of the Empire hull
+624	Info line for displaying damage to trunks

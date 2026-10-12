@@ -1,0 +1,2 @@
+8	Level two micromodule. Physically deforms the compensator modules of <clr>maloq<clrEnd> weapons by enlarging them, which boosts the damage dealt. Since this is one of the most expensive units, the weapon's cost rises sharply.
+13	Level three micromodule. Built into the hull. Activates the <clr>afterburner<clrEnd>, <clr>radar<clrEnd> and <clr>scanner<clrEnd> slots.

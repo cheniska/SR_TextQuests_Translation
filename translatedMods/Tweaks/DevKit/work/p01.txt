@@ -1,0 +1,285 @@
+3	Open the entire map (including the hidden pirate sector)
+8	Which tech level?
+9	To the node account
+11	Which race?
+13	Do you want to receive the nodes physically or to your account?
+20	Grant experience
+21	Raise all skills
+22	Refill missile launchers
+23	Raise skills (combat only)
+24	All except Dominion and PB
+26	All
+27	Which one exactly?
+28	Fix relations with everyone
+29	Fix relations with pirates
+30	Fix relations with the Coalition
+31	Worsen relations with the Coalition
+32	Get a probe
+33	Configure manually
+34	Cheat
+35	Charge transfactorial beacons
+36	Extra shots
+37	Grant additional equipment for easier testing?
+38	What shall we choose?<br>Items are granted by the item's name in Lang.dat<br><br><clr>Note:<clrEnd><br>Some grant categories can even search by the item's display name, but mostly you will need the item's TECHNICAL name.<br><br>For example, the <clr>Parade Scoops<clrEnd> item is by no means called Scoops, but Usl_12.<br><br>I recommend looking up the items you need in the Lang.dat of the corresponding mod.<br>If you don't know which mod a particular useless comes from, first launch the game via the GenerateMergedCFG.bat file in the game's root folder (if it is missing, you installed the mods incorrectly, installed the fixes over an outdated version, or the penchecrak knows what else, but it is definitely not a developer error).<br><br>After that a Lang.txt file will appear in the root folder, into which the Lang.dat files of all <color=20,220,20>connected</color> mods have been merged; you can try searching it for the item by its in-game name or description.
+39	Dump everything from the cargo hold
+40	Technology Center
+41	From the EvoArtDominator module
+42	Grant a specific MM, weapon, acrynic, useless or series
+43	Acrynic for the current hull
+44	Acrynic not found. Check that the acrynic's name is spelled correctly and that the mod with such an acrynic is enabled
+45	Series for the current hull
+46	Series not found. Check that the series name is spelled correctly and that the mod with such a series is enabled
+47	Grant a specific micromodule
+48	Micromodule not found. Check that the micromodule's name is spelled correctly and that the mod with such a micromodule is enabled
+49	Plasmagun (ExpPlasmaGun)
+50	Mercenary HQ gluon weapon (ShuMercsHQ)
+51	BBG (FairanWeapons)
+53	ExpTC is turned off or out of network range
+54	What do you want to get?
+55	How shall we change relations?
+56	I bow before your will!
+57	Choose the equipment to change
+58	Choose a slot
+59	Choose the desired race
+60	Add energy for the Shadow of the Empire
+61	Get an Acrynator
+62	Repair the hull
+63	Grant something
+64	Change relations (requests section)
+65	Military Base
+66	Pirate Base
+67	Science Base
+69	Ranger Center
+70	Business Center
+71	Meon Plasma Thrower (NewGun)
+72	Fix statistics (for female special agents)
+73	Join a Clan
+74	Change the equipment manufacturer
+77	Dominators (Terron)
+78	Dominators (Keller)
+79	Dominators (Blazer)
+80	Apply the Ideal to the hull
+82	Create space objects
+83	Experience and skills
+84	Change GTL
+85	Here you can configure how the mod's dialogs are displayed<br><br>Main DevKit dialog: <0><br>"Self-destruct" dialog: <1><br><br>Granting the acrynics available for the given equipment together with the equipment itself in the "Grant something" section: <2><br>Chameleonization mode: <3><br><br>Automatic takeoff from planets for created ships: <4>
+86	Choose the quantity
+87	Choose the race
+88	Choose the race<br><br>(I hope there's no need to explain that this selects the portrait of the race you are right now. If you want a portrait of another race, set the portrait first, then change the race)
+89	Choose what you need:
+90	Choose the object you need
+91	Choose which weapon you want to get
+92	What player information do you want to change?
+93	Which of the three do you want to change?
+94	Enable DevKit display
+95	Disable the DevKit dialog everywhere except the bridge
+96	Get a Transfactorial Beacon
+97	Get a Subportal
+98	Make all equipment of one race (non-dominator)
+99	Change name
+100	Change race
+101	Choose the portrait number
+102	Add an artifact slot
+103	Learn about the new GTL
+104	Everything
+105	A specific one
+106	Which one exactly?
+108	Worsen relations with pirates
+109	Create an inhabited planet
+110	Rotation speed
+112	Planet population
+113	Economy type
+114	Democracy/Socialism
+116	Form of government
+117	Resident race
+118	Controlling race
+119	Change personality
+120	Choose the desired military rating
+121	Choose the desired trade rating
+122	Choose the desired pirate rating
+123	Skip a turn to apply the changes.
+124	Specify the desired GTL:
+125	Raise science rank
+126	Size
+127	Specify the desired rank
+128	Interstellar Probe -1-
+129	Enter the probe's name
+130	Plains research speed
+131	Mountains research speed
+132	Ocean research speed
+133	Number of extra shots
+134	The ship must be in space!
+135	Enter the name from the lang file
+136	Set the hull's energy amount
+137	GTL
+138	Self-destruct
+139	Enter the new name
+140	Charge the Diggers
+141	Grant artifacts from ShuDomiks
+142	Player statistics settings
+144	How many do you want?<br>1 slot<br>4 slots (the full set for vanilla)<br>16 artifacts (for ExtraArtSlots)<br><br>It only makes sense to grant more than the limit (4/16 for vanilla and ExtraArtSlots respectively) so that certain effects don't block the slots
+145	Choose the desired range
+146	Sixteen
+147	(CatGuns) (except BSO)
+148	Reduce all equipment in the slots
+149	Reduce all equipment in the cargo hold
+150	Repair-Refuel-Recharge
+151	Create ships
+152	Change the heliopolitical situation
+153	Choose the desired heliopolitical change<br><br>(Clearing a series destroys only rank-and-file dominators)
+154	All at once or one by one?
+155	Choose which NPCs you want to create
+156	Dominator
+157	Gaalian
+158	Faeyan
+159	Human
+160	Peleng
+161	Maloq
+162	Choose the Tranclucator's race
+163	Number of Tranclucators to grant
+164	All races
+165	Choose the race of the trion equipment
+166	Defeat the Coalition
+167	Clear the Galaxy of blazeroids
+168	Clear the Galaxy of terronoids
+169	Clear the Galaxy of kelleroids
+171	Defeat the dominators
+172	Kill Terron
+173	Kill Keller
+174	Kill Blazer
+175	Kill all dominator bosses
+176	Grant goods
+178	Choose the type of goods
+179	Change equipment TL
+180	Let's go with just one
+181	Choose a weapon slot
+182	Choose the desired equipment GTL
+183	Change everything!
+184	Create a ranger
+185	Money granted, as a percentage of the average
+186	Random personality
+187	Welcome to the main dialog of the DevKit modification!<br><br>This modification is intended primarily for testers, but, of course, I cannot in any way forbid any Space Rangers player from using it as they see fit.<br><br>However, I must warn you: using this modification, especially some of its functions (for example, destroying a ship), may cause scripts to malfunction or even <color=220,20,20>crash</color> the game to the desktop.<br><br>That said, this will happen in at most <color=0,100,0>1%</color> of cases, not counting errors that arise when new features are added to this mod.<br><br>Enjoy!
+188	Choose the personality of the rangers to create
+189	Choose the pilot race of the rangers to create
+190	Create a transport ship
+191	Choose the type of transports to create
+192	Choose the pilot race of the transports to create
+193	Create a pirate
+194	Choose the pilot race of the pirates to create
+195	Create a military ship
+196	Choose the pilot race of the military ships to create
+197	Create a flagship battleship
+198	Choose the pilot race of the battleships to create
+199	Create a dominator
+200	Terronoid
+201	Kelleroid
+202	Blazeroid
+203	Choose the series of the dominator to create
+205	Choose the type of dominator to create
+206	"Tauhito" hull
+207	Which series?
+208	Do you want a specific level?
+209	Weapon
+210	Physically
+211	Blazeroid
+212	Kelleroid
+213	Terronoid
+214	No, I want all of them
+215	Level 1 only
+216	Level 2 only
+217	Level 3 only
+218	<color=220,20,20>disabled</color>
+219	<color=20,220,20>active</color>
+220	Console.<br>Don't forget to check your brackets and semicolons
+222	Player
+223	Manipulations with the equipment on the player's ship
+224	- installed
+225	Slot
+226	Which upgrade level?
+227	Here you can grant static special bonuses to any ship.<br><br>Current object: <0><br><br><color=220,20,20>ATTENTION</color><br>To grant a special bonus, you need to assign a number.<br>If you want to increase a special bonus, you must assign a larger number (<color=220,20,20>For example</color> - it was 150 and you want more, so you assign 170, not 20)<br><color=220,20,20>Likewise</color> - if you are decreasing it, set a smaller number (it was 150 and you want 90, so you assign 90, not 60)<br><br>Consequently, to leave a ship without bonuses, you must assign it a bonus == 0.
+228	What exactly are you interested in?
+229	To destroy a ship, you can enter its name or choose a ship in this system<br><br>If a ship is already about to "kick the bucket," it will not appear in this list<br><br>You can try to destroy bosses and scripted characters in the same way. The author of the modification <color=220,20,20>IS NOT RESPONSIBLE</color> for the consequences of such destruction and <color=220,20,20>will not</color> fix broken scripts (because mods are not designed for such crude interference)
+230	In which system shall we search?
+232	Choose a ship
+233	Choose a system
+234	In this section you can perform any manipulations you like with the equipment aboard your ship
+235	Will there be flagship battleships among the attackers?
+236	So, which ship shall we assign?
+237	Unknown
+238	Dominator (Blazer)
+239	Planet name
+240	, weight
+241	, tech level
+243	Weapon
+244	Choose the type of weapon to create
+245	A Coalition or pirate system is required to create rangers!
+246	No Coalition planets found in the system
+247	Random type
+248	A Coalition system is required to create transports!
+249	A Coalition or pirate system is required to create military ships!
+250	A dominator system is required to create dominators!
+251	Get an energy output bonus
+252	Auxiliary element not found. Contact the PB "Free Bay" about this problem.
+253	How much energy output should be added to the hull?
+254	Get an energy output bonus for each piece of equipment in the slots
+255	By how much should the energy consumption of all equipment on the ship be reduced?
+256	Arrange all ships in the system as rays radiating from the star
+257	Upgrade equipment
+258	Trainees
+259	There is no equipment in the slot, upgrading is impossible!
+260	Weapon slot
+262	Which slot? (select all at the very end)
+263	Young specialists
+264	Professionals
+265	Assign another ship
+266	Add rank points
+267	Military pilot points
+268	How many points to grant?
+269	Corsair points
+270	Number of black holes passed
+271	How many passed black holes to assign?
+272	Create an inhibitor
+273	Grant artifacts from RefEnergy
+274	Grant artifacts from RefArts
+275	Back to item selection
+276	Disable the "Self-destruct" line
+277	Enable the "Self-destruct" line
+278	Update the ship's appearance (recommended after changing HP or applying an acrynic to the hull)
+279	Change the ship's appearance
+280	Nothing was found at the specified path. Repeat the request
+281	Enter the path to the ship texture you want
+282	NOTICE!<br>This command changes only the appearance, so it will "fly off" with any manipulation of the hull. Be prepared to use this command several times.
+283	Enter the ship's name
+284	No ship with the specified name was found. Search again
+285	Enter the name of the ship to destroy (either the full or the abbreviated name)
+286	Find a specific ship
+287	In the current one
+288	In another one
+289	Ships from ArtiUniqueShipsPack (Artemis, Bulwark and Technotron cruisers)
+290	Organize a Coalition attack on the current system
+291	Organize a Clan attack on the current system
+292	Number of attacking pirates
+293	Time until the military ships exit hyperspace (not recommended to set high for a large number of military ships)
+294	Number of attacking military ships
+295	Time until the flagship battleships exit hyperspace (not recommended to set high for a large number of ships)
+296	Number of attacking flagship battleships
+297	The player's
+298	Apply a bonus to the selected ship
+299	Assign a bonus
+300	Enter the ship's name (either the full or the abbreviated name)
+301	Ship transfer
+302	To transfer a ship, enter its name
+303	Ship found<br><br>What should be done with it?
+304	Unfortunately, no ship with that name was found
+305	Choose a ship
+306	Enter the name of the ship to transfer (either the full or the abbreviated name)
+307	Nothing yet
+309	Move to the player's coordinates
+310	Move to some system
+311	Move to the player's coordinates with an offset
+312	Specify the y-axis offset
+313	Specify the x-axis offset
+314	Get the camouflages of all series
+315	Which one exactly?
+316	Medals
+317	A specific one (number)

@@ -3343,3 +3343,13 @@
 | Омниссия | Omnissiah | OtherMods WH40kGuns |
 | Меонный плазмомёт | Meon Plasma Thrower | OtherMods NewGun |
 | Телец… Весы (созвездия) | Taurus … Libra | OtherMods RealStars |
+| ГТУ (глобальный технологический уровень) | GTL (global tech level) | Tweaks DevKit/SR2Dominators |
+| ТУ (технологический уровень) | TL (tech level) | Tweaks DevKit |
+| ПБ (планетарные бои) | PB | Tweaks DevKit |
+| ПБ Свободная Бухта | PB "Free Bay" | Tweaks DevKit |
+| СНК-Games | CHK-Games | Tweaks SR2RebootMenu |
+| 1С-Софтклаб | 1C-Softclub | Tweaks SR2RebootMenu |
+| ШуНюки (FixShuNukes) | ShuNukes | Tweaks TechnicalIssuesFixer |
+| Таутитановый двигатель | Tautitanium Engine | Tweaks SR2DominatorsBalance |
+| доминаторы vs силы коалиции (рейтинг сил) | Dominators are weaker than / stronger than / much stronger than the Coalition; Dominator and Coalition forces are equal | Tweaks |
+| ошмёток (научные базы) | debris | Tweaks DevKit |

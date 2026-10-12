@@ -1,0 +1,5 @@
+1	The number of landings on planet number 1 is incorrect
+2	The number of landings on planet number 2 is incorrect
+3	Ship names: you entered <0>, the correct one is <1>
+4	System list sizes: correct - <0>, you chose - <1>. If the numbers are equal, you entered the number of visited systems correctly.
+5	Wrong star specified: <0> instead of <1>. The system list may have been filled in incorrectly.

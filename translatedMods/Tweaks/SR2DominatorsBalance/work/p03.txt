@@ -1,0 +1,22 @@
+1	armor <HitProtect>
+3	Splashes of gravitational energy deal from <MinDamage> to <MaxDamage><Bonus> units of damage to the target at a range of up to <Radius>.
+4	Torpedoes fitted with a gravitational matter destabilizer deal from <MinDamage> to <MaxDamage><Bonus> units of damage at virtually any range.<br>Quantity: <Count>/<MaxCount> pcs.
+5	Strikes the target with homing missiles, each dealing <MinDamage>-<MaxDamage><Bonus> units of damage.<br>Number of salvos: <Count>/<MaxCount> pcs.
+6	Slows the target and deals minor damage of <MinDamage>-<MaxDamage><Bonus> units at a range of up to <Radius>.
+7	Fitted with a wave modulator, this enhanced phaser deals heavy damage of <MinDamage> to <MaxDamage><Bonus> units. Range: <Radius>.
+8	Level two micromodule. Physically deforms the compensator modules of <clr>maloq<clrEnd> and <clr>peleng<clrEnd> weapons by enlarging them, which boosts the damage dealt. Since this is one of the most expensive units, the weapon's cost rises sharply.
+9	Level two micromodule. Removes non-functional and decorative units and parts from <clr>peleng<clrEnd> equipment, reducing its dimensions. Cannot be applied to hulls and weapon systems.
+10	Size: <clr>+18%<clrEnd>
+11	Level one micromodule. Applies a decorative coating that gives any <clr>gaalian<clrEnd> equipment the coloring of a finished gaalian Iike-Baana. The cost of such equipment rises by a factor of <clr>2.5<clrEnd>.
+12	Level one micromodule. Reduces the distances in the molecular lattices of any equipment and compensates for changes in intramolecular forces. Cannot be applied to hulls and weapons, as they would lose their functionality. The micromodule makes it possible to reduce the size of equipment by <clr>30%<clrEnd>. Cannot be used in <clr>gaalian<clrEnd> devices.
+13	Level one micromodule. Installs an additional converter that allows the energy potential of the fuel to be increased for a short time. This increases the jump range.
+14	Tautitanium Engine I
+15	Tautitanium Engine II
+16	Tautitanium Engine III
+17	Level three micromodule. Upgrades the repair droid's firmware, improving its accuracy and effectiveness. Compatible exclusively with <clr>faeyan<clrEnd> droid types.
+24	A peleng parade combat cruiser with a gym and a mud pool on the second deck. Designed for the Supreme Lyakusha.
+26	A genuine rarity. Built from blueprints recovered during excavations on planet Earth.
+30	A light ship, designed for collecting artifact trophies. No shield generator or droid envisaged.
+31	A hull for middle-class fun-loving lyakushas.
+36	A hull belonging to the peleng pirates of the Chvakha order. Contains a large mud pool for relaxing after a successful battle.
+40	A fast ranger hull. According to polls, voted the best hull of 3302.

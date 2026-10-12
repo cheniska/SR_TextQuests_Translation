@@ -1,0 +1,7 @@
+1	FormMain/LAB
+2	FormMain/LMods
+3	FormMain/LQuest
+4	FormMain/LRobot
+5	FormMain/Version
+6	FormMain/Version2
+7	FormMain/Version2

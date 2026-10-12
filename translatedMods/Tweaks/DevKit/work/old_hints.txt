@@ -1,0 +1,5 @@
+8	Какого тех.уровня?	Which tech level?
+11	Какой расы?	Made by..?
+106	Какое именно?	Which exactly?
+339	Какие именно?	Which exactly?
+459	Какого типа?	Which type?

@@ -1,0 +1,5 @@
+Навык атаки: <bonSkill1>	Attack skill: <bonSkill1>
+Навык маневренности: <bonSkill2>	Mobility skill: <bonSkill2>
+Навык лидерства: <bonSkill6>	Leadership skill: <bonSkill6>
+Навык обаяния: <bonSkill5>	Charisma skill: <bonSkill5>
+Броня корпуса: <bonHull>	Hull armor: <bonHull>

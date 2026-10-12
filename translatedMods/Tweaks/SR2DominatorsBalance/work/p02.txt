@@ -1,0 +1,18 @@
+2	An explosion of antimatter forms a field of energy which deals <MinDamage>-<MaxDamage><Bonus> damage to the target and surrounding objects. Maximum range: <Radius>.
+18	Heavy Gavon
+19	An unfinished joint project of peleng and human scientists. Shield generator, radar and scanner cannot be installed.
+20	A reliable interceptor ship. The hull of choice for peleng and faeyan pirates.
+21	Black Widow
+22	A mobile combat ship. The choice of ruthless killers.
+23	A light combat ship for quick reacting. Indispensable for pirate hunting.
+25	A low-budget series for extreme jumps at high speeds. Maximum speed with minimum defense
+27	A maneuverable patrol ship, designed for protecting systems.
+28	A comfortable hull of increased reliability.
+29	Jolly Roger
+32	A cheap hull, popular with the dregs of society.
+33	A well-protected hull for vengeful types. The absence of a droid is the only notable drawback.
+34	Black Skull
+35	A hull ornamented with black skulls. Strikes fear into the hearts of mortals, including other pirates. No scanner can be installed.
+37	A light gaalian hull, designed for those with the need for speed and high maneuverability.
+38	Star Wanderer
+39	An ideal hull for frequent flyers. Commissioned by the network of ranger centers.

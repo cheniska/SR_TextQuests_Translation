@@ -1,0 +1,16 @@
+Создание галактики	Creating the Galaxy
+Создание звезд	Creating stars
+Создание планет	Creating planets
+Распределение квестов	Distributing quests
+Создание баз	Creating bases
+Проходит время	Passage of time
+Готово	Done
+<clr><clrEnd>    Добровольцы! Вы сделали правильный выбор, решив пополнить славные ряды рейнджеров! Команды линкоров и дредноутов могут гордиться своими красивыми мундирами, но триста лет назад, во время клисанской войны, они терпели поражение за поражением, и не они, а именно рейнджеры раскрыли тайну Махпеллы и положили конец самой страшной войне в истории нашего сектора Галактики! Рейнджеры - не пушечное мясо, только и способное, что подчиняться приказам; каждый рейнджер - сам себе генерал и отдел снабжения!	<clr><clrEnd>    Volunteers! You have made the right choice by joining the glorious ranger ranks! The crews of battleships and dreadnoughts may take pride in their fancy uniforms, but in the Klissan War three hundred years ago they suffered one defeat after another, and it was not they but the rangers who solved the mystery of Makhpella and put an end to the most terrible war in the history of this sector of the Galaxy! The rangers are no cannon fodder, capable only of obeying orders; every ranger is their own general and supply department!
+Мы рады обеспечить вас всеми нужными рейнджеру знаниями. Первое задание будет простым - нужно совершить взлет из центра рейнджеров и приземлиться на вашу родную планету <0>. Опытный инструктор будет ждать вас в космопорте.	We are happy to provide you with all the knowledge a ranger needs. Your first mission will be a simple one -- take off from the ranger center and land on your home planet of <0>. An experienced instructor will be waiting for you at the spaceport.
+А, <Player>. Как всегда - сначала записались в армию, а потом пришли узнавать, с кем, собственно, воюем?	Ah, <Player>. It's the same old story -- first you enlist, then you start wondering who it is we're fighting?
+Получить информацию о доминаторах на научной базе <0>.	Get information about dominators at the <0> research station.
+Доминаторы	Dominators
+Слабые	Weak
+Крутые	Tough
+Сильные	Strong
+Обычные	Ordinary

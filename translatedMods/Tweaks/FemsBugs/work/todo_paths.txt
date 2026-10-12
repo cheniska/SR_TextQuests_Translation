@@ -1,0 +1,5 @@
+1	Script/PC_fem_rangers/FemsBugsPlanet1
+2	Script/PC_fem_rangers/FemsBugsPlanet2
+3	Script/PC_fem_rangers/FemsBugsShip
+4	Script/PC_fem_rangers/FemsBugsSizes
+5	Script/PC_fem_rangers/FemsBugsStar

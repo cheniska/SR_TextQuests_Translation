@@ -1,0 +1,6 @@
+<clr><clrEnd>    Добровольцы! Вы сделали правильный выбор, решив пополнить славные ряды рейнджеров! Армейские служаки могут гордиться своими красивыми мундирами, но триста лет назад, во время клисанской войны, они терпели поражение за поражением, и не они, а именно рейнджеры раскрыли тайну Махпеллы и положили конец самой страшной войне в истории нашего сектора Галактики! Рейнджеры - не пушечное мясо, только и способное, что подчиняться приказам; каждый рейнджер - сам себе генерал и отдел снабжения!	<clr><clrEnd>    Volunteers! You have made the right choice by joining the glorious ranger ranks! The military may take pride in their fancy uniforms, but in the Klissan War three hundred years ago, as they suffered one defeat after another, it was the rangers who solved the mystery of Makhpella and put an end to the most terrible war in the history of this sector of the Galaxy! The rangers are no cannon fodder, capable only of obeying orders; every ranger is his own general and supply battalion!
+Доминаторы	Dominators
+Слабые	Weak
+Крутые	Tough
+Сильные	Strong
+Обычные	Ordinary

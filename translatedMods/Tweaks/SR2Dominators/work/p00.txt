@@ -1,0 +1,3 @@
+6	Dominators are weaker than the Coalition
+7	Dominators are much stronger than the Coalition
+8	Dominators are stronger than the Coalition

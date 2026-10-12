@@ -1,0 +1,5 @@
+MessageBox('Достигнут лимит одновременно активных транклюкаторов', 10);	MessageBox('Limit of simultaneously active tranclucators reached', 10);
+MessageBox('Не хватает знания' + CT('FormInfo.br') + 'техники для активации транклюкатора', 10);	MessageBox('Not enough technical' + CT('FormInfo.br') + 'knowledge to activate the tranclucator', 10);
+if(PlanetOwner(GetShipPlanet(Player())) == 6) MessageBox('Запуск транклюкатора на незаселённой планете невозможен');	if(PlanetOwner(GetShipPlanet(Player())) == 6) MessageBox('Cannot launch a tranclucator on an uninhabited planet');
+numTrancs = NumberBox(temp_str, 'Сколько транклюкаторов вы хотите запустить?', 1, tranc_count, tranc_count);	numTrancs = NumberBox(temp_str, 'How many tranclucators do you want to launch?', 1, tranc_count, tranc_count);
+numTrancs = NumberBox(temp_str2, 'Сколько транклюкаторов вы хотите запустить?', 1, tranc_count,tranc_count);	numTrancs = NumberBox(temp_str2, 'How many tranclucators do you want to launch?', 1, tranc_count,tranc_count);

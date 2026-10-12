@@ -1,0 +1,2 @@
+1	Script/PC_final/AnswerCoal
+2	Script/PC_final/AnswerPirate

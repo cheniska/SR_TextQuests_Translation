@@ -1,0 +1,4 @@
+1	<color=255,202,21>Arcade fights</color>
+2	<color=255,202,21>Modifications</color>
+3	<color=255,202,21>Text quests</color>
+4	<color=255,202,21>Planetary battles</color>

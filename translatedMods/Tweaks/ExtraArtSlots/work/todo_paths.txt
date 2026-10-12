@@ -1,0 +1,4 @@
+1	Artefacts/ExtraArtSlots/HintSet1
+2	Artefacts/ExtraArtSlots/HintSet2
+3	Artefacts/ExtraArtSlots/HintSet3
+4	Artefacts/ExtraArtSlots/HintSet4

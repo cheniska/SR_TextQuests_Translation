@@ -1,0 +1,170 @@
+Не желаете сначала пройти курс обучения начинающего рейнджера? Мы предлагаем уникальную возможность совершенно бесплатно выучить основы пилотирования, стрельбы, подбора грузов и торговли.	Would you like to complete a ranger training course first? This is a unique possibility to learn the basics of navigation, shooting, handling cargo and conducting trade absolutely free!
+Получить новый микромодуль	Get new micromodule
+Это разумно, <Player>. Привезите еще ноды, чтобы пополнить свой нод-счет.	A wise decision, <Player>. Keep bringing us nodes to increase your account balance.
+Вы получаете микромодуль <Name>. Это просто отличный выбор. Мы рады помочь вам в борьбе с доминаторами.	And here's your <Name> micromodule. An absolutely excellent choice. We're happy to help you in the fight against the dominators.
+Уважаемый <Player>! Сегодня мы готовы предложить вам следующие микромодули:	Dear <Player>! Today we are ready to offer you the following micromodules:
+. Микромодуль <Name>	. Micromodule <Name>
+Стоимость модуля: <Count> нд.	Module cost: <Count> nd.
+Уважаемый <Player>! Сегодня мы готовы предложить вам следующие микромодули:<Text>	Dear <Player>! Today we are ready to offer you the following micromodules:<Text>
+Разброс цен на товары большой	Wide spread of prices for goods
+Разброс цен на товары минимальный	Minimal spread of prices for goods
+Разброс цен на товары небольшой	Small spread of prices for goods
+Разброс цен на товары средний	Fair spread of prices for goods
+Впечатляющая скорость работы научных баз	High efficiency of research stations
+Неудовлетворительная скорость работы научных баз	Unsatisfactory efficiency of research stations
+Замедленная скорость работы научных баз	Low efficiency of research stations
+Нормальная скорость работы научных баз	Normal efficiency of research stations
+Оборудование выходит из строя медленно	Long service life for technology
+Оборудование выходит из строя очень быстро	Very short service life for technology
+Оборудование быстро выходит из строя	Short service life for technology
+У оборудования средний срок эксплуатации	Moderate service life for technology
+Доступно много нового оборудования в магазинах	Lots of new equipment in shops
+В магазинах продается одно старье	Shops sell only outdated junk
+Появление новых вещей явно запаздывает	Very few new items in shops
+В магазинах представлено нормальное оборудование	Decent equipment available in shops
+Задания легкие и высокооплачиваемые	Quests are easy and well-paid
+Очень тяжелые и малооплачиваемые задания	Quests are very hard and underpaid
+Тяжелые малооплачиваемые задания	Quests are hard and underpaid
+Задания нормальные и среднеоплачиваемые	Quests are normal and the pay is average
+Черные дыры появляются часто, противники слабые	Black holes are plentiful with weak enemies
+Очень редкие черные дыры с крутыми противниками	Black holes are very rare with super tough enemies
+Черные дыры появляются редко, противники сильные	Black holes are rare with tough enemies
+Нормальное появление черных дыр с нормальной сложностью	Black holes are moderate with moderate enemies
+Игрок удачлив, беды и трудности обходят его стороной	Luck follows the player, while troubles and hardships pass him by
+Игроку хронически не везет во всем	The player is chronically unlucky in all aspects
+Игрок не очень удачлив	The player is not particularly lucky
+Везение игрока среднее	The player's luck is average
+Легко	Easy
+Нормально	Normal
+Тяжело	Hard
+Невозможно	Nightmare
+Доминаторы	Dominators
+Разброс цен	Price spread
+Ученые	Scientists
+Поломки	Repairs
+Оборудование	Equipment
+Задания	Quests
+Черные дыры	Black holes
+Удача	Luck
+Слабые	Weak
+Крутые	Tough
+Сильные	Strong
+Обычные	Ordinary
+Большой	Big
+Минимум	Minimal
+Небольшой	Small
+Нормальный	Normal
+Гениальные	Genius
+Тупые	Stupid
+Глупые	Foolish
+Умные	Smart
+Редко	Rare
+Постоянно	Constant
+Часто	Frequent
+Средне	Average
+Крутое	Tough
+Отстой	Junk
+Плохое	Poor
+Обычное	Ordinary
+Легкие	Light
+Неудачные	Unlucky
+Тяжелые	Heavy
+Нормальные	Normal
+Много	Numerous
+Мало	Few
+Блеск	Brilliant
+Нулевая	Zero
+Плохая	Poor
+Хорошая	Fine
+Болезнь продлится предположительно до<br><Date>	The illness will probably last till<br><Date>
+Эффект стимулятора закончится<br><Date>	The stimulator's effect will end on<br><Date>
+Погоня	Pursuit
+Арена Справедливости	Arena of Justice
+Пандорика	Pandorica
+Лос-Ласониум	Los-Lasonium
+Центрифуга	Centrifuge
+Лабиринт	Labyrinth
+Мяч	Ball
+Многогранный гаалолипипед	Polyhedral Gaalexagon
+Артификал	Artificale
+Трициклизм	Tricyclism
+Полусфера	Hemisphere
+Квадразырь	Quadrubble
+Арена Реегбара	Reegbar's Arena
+Крест	Cross
+Рачехания	Rachehania
+Келлериада	Kelleriada
+(не работает)	(not functional)
+Внимание! При попадании были размагничены некоторые блоки памяти, и вероятностный анализатор более не функционирует. Вам придется принимать решения без его помощи до тех пор, пока он не будет переинсталлирован.	Warning! Some of the memory blocks were demagnetized by an enemy shot, knocking the probability analyzer out of order. You will need to make decisions without its assistance until it is reinstalled.
+Программа вероятностного анализатора совершила недопустимую операцию и будет закрыта. Вам придется принимать решения без его помощи до тех пор, пока он не будет переинсталлирован.	The probability analyzer attempted an illegal operation and will be shut down. You will need to make decisions without its assistance until it is reinstalled.
+Вероятностный анализатор	Probability Analyzer
+Артефактор - переходник для подключения артефактов. В его схеме используется принцип кристаллического инвертирования сигнала, поэтому он позволяет подключить <clr>три<clrEnd> артефакта вместо одного дроида.	The Artifactor is an artifact connection adapter. Designed on the principle of crystal signal inversion, it allows to connect <clr>three<clrEnd> artifacts instead of one droid.
+Артефактор	Artifactor
+Вжик	Zing
+Добавляет термические заряды в осколочные снаряды. Кроме повреждений, каждый заряд наносит мощный тепловой удар, ведущий к перегреву двигателей противника.	Adds thermal charges to fragmentation shells. In addition to explosive damage, each charge impacts the target with a powerful thermal wave that may cause the enemy's engines to overheat.
+Протон - дополнение к энергетическому блоку. Встраивается в механизм распределения энергии защитного поля и, используя часть этой энергии, активирует дополнительный слот для орудийной турели.	The Proton is an auxiliary unit to the power plant. It is built into the shield generator's energy distribution mechanism and uses some of that energy to power an additional slot for a weapons turret.
+Протон	Proton
+Интегрируется в энергетический блок защитного поля. Использует <clr>10%<clrEnd> его мощности для активации дополнительной орудийной турели.	Integrated into the shield generator's power unit. It uses up to <clr>10%<clrEnd> of its power to activate an additional weapon turret.
+Дроид младший	Junior Droid
+Проглот - раздвижной механический энергоабсорбент, потребляющий большое количество энергии. Лучшее применение - подключение к генератору защиты корпуса. Поглощает попадания от энергетического оружия, тем самым сводя ущерб к нулю.	The swallower is an adjustable mechanical energy absorber that consumes large amounts of power. Best used when connected to the hull protection generator. It absorbs hits from energy weapons preventing any potential damage.
+Проглот	Swallower
+В <clr>30%<clrEnd> случаев поглощает тепловую составляющую луча энергетического оружия, превращая импульсы попаданий в безопасные электрические всплески.	In <clr>30%<clrEnd> of all cases it absorbs the heat component of energy weapons' beams, converting the hit impulses into safe electrical surges.
+(сломан)	(broken)
+Тряска во время боя сбила навинт с крепежного места. Сместившись, минизавод выполнил недопустимую операцию и вкрутил в свое тело расщепитель. Требуется вмешательство мастера.	The hustle and bustle of battle dislodged the screw-on from its base. Having shifted, the mini-plant performed an illegal operation and screwed a splitter into its own body. Professional repairs are needed.
+Комплект расщепителей закончился. Последние операции навинт выполнял вхолостую. Это вызвало перегрев механической части минизавода, устройство не функционирует.	The splitters have all been used up. The last few cycles, the screw-on has been running idle. This has caused the mini-plant's mechanical components to overheat, and the unit is no longer operational.
+Навинт - минизавод по техническому усовершенствованию снарядов. Размещается над затвором орудия и изменяет мощность заряда путем вмонтирования расщепительного элемента. Неприхотлив в использовании: не требует дополнительных источников питания и не перегревается.	The screw-on is a mini-plant for upgrading explosive charges. It is placed over the weapon's breach to enhance the shell's yield by way of introducing a splitter element into it. It is very low-maintenance, requires no additional power source and does not overheat.
+Навинт	Screw-on
+Каждый снаряд в затворе оснащается боеголовкой-расщепителем. Благодаря этому эффективность поражения осколочного оружия возрастает на <clr>20%<clrEnd>.	Each shell placed into the breech receives a splitter warhead. This helps increase the combat efficiency of fragmentation weapons by <clr>20%<clrEnd>.
+Обливионный коннектор - несколько тысяч наномодулей келлероидов, встроенных в специальную сетку. Сетка распределена по поверхности двигателя и реставрирует его стенки при износе. Даже в режиме форсажа срок работы двигателя продлевается вдвое.	The oblivion connector contains several thousand celleroid nanomodules built into a specially designed mesh. The mesh is spread over the engine surface and helps repair the damage caused to its walls by wear and tear. This way the engine's service life is doubled even when in the afterburner mode.
+Обливионный коннектор	Oblivion Connector
+Гипергенератор	Hypergenerator
+При попадании локализатор отводит энергию выстрела на внешнюю поверхность вражеского корабля, чтобы при возможном взрыве пострадало как можно меньше оборудования.	The localizer channels the energy of a shot to the enemy ship's outer surface so as to minimize the explosive effects on any equipment.
+Локализатор взрывной волны	Blast Wave Localizer
+Сохраняет много ценного оборудования врага при его ликвидации.	It helps save much of the enemy's valuable equipment for potential future use.
+Ракетанг - система наномеханизмов, которые покрывают поверхность корпуса тонкой управляемой плазмоуритановой пленкой. Их уникальность в том, что они определяют место попадания ракеты и мгновенно укрепляют броню в нужном месте.	Rocketang is a system of nanomechanisms that cover the surface of the hull with  a thin controlled plasmourethane film. They are uniquely capable of  detecting where a projectile may impact and instantly reinforcing the armor at that location.
+Ракетанг	Rocketang
+Плазмоуритановый защитный механизм, оснащенный усиленными детекторами ракет. Блокирует <clr>10-40%<clrEnd> ущерба от попадания ракетного оружия.	A plasmourethane protection mechanism equipped with upgraded rocket detectors. It may help prevent <clr>10-40%<clrEnd> of damage from rocket-propelled weapons.
+Нанитоиды	Nanitoids
+Внимание! Ракетанг неудачно определил вероятность попадания, и вражеский выстрел разделил общую массу наномеханизмов на две части. Для соединения требуется помощь специалиста.	Warning! The rocketang has incorrectly calculated the hit probability and an enemy shot split the overall number of the nanomechanisms in two. Professional help is needed to put them back together again.
+Плазмоуритановая составляющая слоя ракетанга высохла из-за сильной звездной активности. Наномеханизмы парализованы, требуется ремонт.	The plasmourethane component of the rocketang surface has dried up due to high stellar activity. The nanomechanisms have stalled, repairs are required.
+Отморозки	Frostix
+(накапливает заряд)	(accumulating charges)
+Трансфакторный маяк	Transfactorial Beacon
+При использовании в космосе, передает данные о наличии неизученного материала. Энергия заряда: <Power> ед.	When used in space, it alerts the recipient to the presence of previously unexplored material. Charge energy: <Power>.
+Аль-Кагул	Al-Kagul
+Армагеддец	Armageddong
+Бункер	Bunker
+Возгорание	Combustion
+Крио	Cryo
+Перекрестный огонь	Crossfire
+Топливо для жизни	Fuel for Life
+Город-113	City-113
+Грубахар	Grubaxar
+Кризисный центр	Crisis Center
+Тройной удар	Triple Blow
+Осада	Siege
+Пирамида	Pyramid
+План	Plan
+Провалъ	Escallop
+Красная тревога	Red Alert
+Рядовой Райан	Private Ryan
+Морской бой	Battleship
+Сфера	Sphere
+Зенит	Zenith
+Комплекс	Complex
+Ралли	Rally
+Ухоногий Сиболусовт	Auropedal Sibolusovtus
+Космолинии	Cosmic Lines
+Таксист	Taxi Driver
+Диск	Disk
+Подстава	Frame
+Киберразум	Cybermind
+Доомино	Doomino
+Филиал	Branch
+Форум	Forum
+Глюки	Glitches
+Мегатест	Megatest
+Провода	Cables
+Живым или мертвым	Dead or Alive
+Похищенный	Kidnapped
+Инфошка для запоминания всех проданных игроку ММ из цепочек на ЦР	Info box for remembering all MMs sold to the player from the chains at the RC

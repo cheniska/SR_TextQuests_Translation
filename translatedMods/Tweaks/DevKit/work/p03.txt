@@ -1,0 +1,107 @@
+527	<color=204,158,0>gaalians</color>
+528	Randomize the color
+529	<color=0,0,0>series</color> <color=0,110,0>Terron</color>
+530	<color=0,0,0>series</color> Keller
+531	<color=0,0,0>series</color> <color=110,0,0>Blazer</color>
+532	<color=0,110,0>peleng</color>
+533	<color=110,0,0>maloq</color>
+534	custom weapon
+535	weapon
+536	artifact
+537	Item editor
+538	Choose the item you want to edit.
+539	Choose what you want to do with the item <0>.<br><br><br>Item/equipment specifications:<br>Type: <1> <br>Weight: <2> t.<br>Price: <3> cr.<br>Manufacturer race: <4> <5>
+540	Change the weight
+541	Change the price
+542	<color=0,0,0>The new price of item <0> has been set.</color>
+543	Planet management
+544	industrial
+545	mixed
+546	agricultural
+547	democracy
+548	republic
+549	monarchy
+550	dictatorship
+551	anarchy
+552	turbogravitrons
+553	disintegrators
+554	atomic visions
+555	multiresonators
+556	electronic cutters
+557	flow blasters
+558	wave phasers
+559	tretons
+560	missile launchers
+561	fluxes
+562	fragmentation guns
+563	industrial lasers
+564	grippers
+565	droids
+566	scanners
+567	radars
+568	engines
+569	fuel tanks
+570	hulls
+571	<color=0,0,0>The new population of planet <0> has been set.</color>
+572	Set the orbital rotation speed
+573	Change the population
+574	<color=0,0,0>The new orbital rotation speed of planet <0> has been set.</color>
+575	To the player
+576	Set the planet's attitude
+577	<color=0,0,0>The new attitude of planet <0> toward you has been set.</color>
+578	<color=185,143,0>gaalians</color>
+579	<color=255,0,0>maloq</color>
+580	<color=140,140,140>pirates</color>
+581	<color=0,0,0>uninhabited</color>
+582	<color=35,150,150>dominators</color>
+583	<color=0,100,0>excellent</color>
+584	good
+585	<color=185,143,0>normal</color>
+586	<color=255,127,39>bad</color>
+587	<color=255,0,0>hostile</color>
+588	<color=0,128,0>peleng</color>
+589	Which owner race do you want to set for planet <0>?
+590	Which native race do you want to set for planet <0>?
+591	Set the planet's owner
+592	<color=0,0,0>The new <0> of planet <1> has been set.</color>
+593	<color=0,0,0>native race</color>
+594	<color=0,0,0>owner race</color>
+595	Uninhabited
+596	Set the planet's native race
+597	Choose the order you want to give to ship <0>.<br><br>Note: sometimes ships may ignore your order on the next turn; to prevent this, first block the ship's orders, and then issue them.
+598	Choose what you want to do with planet <0>.<br><br>--General information--<br><br>The planet is in the system: <1><br>The planet's attitude toward you: <2> (<3>)<br>Planet ID: <4><br>Population: <5> individuals<br>Race owning the planet: <6><br>Native race: <7><br>Political system: <8><br>Economy: <9><br><br>--Territories--<br><br>-Being researched-<br>Water: <10><br>Plains: <11><br>Mountains: <12><br><br>-Researched-<br>Water: <13><br>Plains: <14><br>Mountains: <15><br><br>--Other--<br>Radius: <16><br>Size: <17><br>Orbital rotation speed: <18><br>Number of the planet's military ships: <19><br><br>--Project tech level--<br>Planet's overall TL: <20><br>Project currently being studied by the planet: <21><br><br>-Equipment-<br>Hulls: <22><br>Fuel tanks: <23><br>Engines: <24><br>Radars: <25><br>Scanners: <26><br>Droids: <27><br>Grippers: <28><br><br>-Weapons-<br>Industrial laser TL: <29><br>Fragmentation gun TL: <30><br>Flux TL: <31><br>Missile launcher TL: <32><br>Treton TL: <33><br>Wave phaser TL: <34><br>Flow blaster TL: <35><br>Electronic cutter TL: <36><br>Multiresonator TL: <37><br>Atomic vision TL: <38><br>Disintegrator TL: <39><br>Turbogravitron TL: <40>
+599	At the player's coordinates
+600	Choose an operation.
+601	Get a list of the planets in system <0>
+602	Choose a planet from the list of planets in system <0>.
+603	Object <0> not found. Are you sure you entered the name correctly?
+604	Enter the X coordinate
+605	Enter the Y coordinate
+606	System <0> not found. Are you sure you entered the name correctly?
+607	Specify the skill level
+608	Amount of blue
+609	Amount of green
+610	Amount of red
+611	The order for ship/base to land on object <0> has been accepted.
+612	Enter the item's new weight
+613	Enter the item's new price
+614	Enter the population:
+615	Population in the game is counted in thousands, not millions
+616	Enter the rotation speed:
+617	Enter the planet's orbital rotation speed as a number. For rotation in the opposite direction, use -
+618	Which attitude to set:
+619	(from 0 to 100; 0-9 hostile, 10-29 bad, 30-59 normal, 60-79 good, 80-100 excellent)
+620	Accuracy
+621	Maneuverability
+622	Trading
+623	Charm
+625	InterfaceText('StarMap','DM_1_gun','Damage of weapon 1:');
+626	InterfaceText('StarMap','DM_2_gun','Damage of weapon 2:');
+627	InterfaceText('StarMap','DM_3_gun','Damage of weapon 3:');
+628	InterfaceText('StarMap','DM_4_gun','Damage of weapon 4:');
+629	InterfaceText('StarMap','DM_5_gun','Damage of weapon 5:');
+630	InterfaceText('StarMap','DM_1_gun','Damage of gun 1:');
+631	InterfaceText('StarMap','DM_2_gun','Damage of gun 2:');
+632	InterfaceText('StarMap','DM_3_gun','Damage of gun 3:');
+633	InterfaceText('StarMap','DM_4_gun','Damage of gun 4:');
+634	InterfaceText('StarMap','DM_5_gun','Damage of gun 5:');

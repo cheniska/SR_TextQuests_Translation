@@ -1,0 +1,4 @@
+1	Open the first set of artifact slots (<color=255,240,100>F1</color>)
+2	Open the second set of artifact slots (<color=255,240,100>F2</color>)
+3	Open the third set of artifact slots (<color=255,240,100>F3</color>)
+4	Open the fourth set of artifact slots (<color=255,240,100>F4</color>)

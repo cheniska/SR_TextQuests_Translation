@@ -1,0 +1,11 @@
+1	Script/Mod_AutoBot/AutoBotOff
+2	Script/Mod_AutoBot/AutoBotOn
+3	Script/Mod_AutoBot/AutoPirateChanged
+4	Script/Mod_AutoBot/AutoPirateOff
+5	Script/Mod_AutoBot/AutoPirateOn
+6	Script/Mod_AutoBot/AutoTraderChanged
+7	Script/Mod_AutoBot/AutoTraderOff
+8	Script/Mod_AutoBot/AutoTraderOn
+9	Script/Mod_AutoBot/AutoWarriorChanged
+10	Script/Mod_AutoBot/AutoWarriorOff
+11	Script/Mod_AutoBot/AutoWarriorOn
