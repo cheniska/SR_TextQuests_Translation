@@ -145,3 +145,10 @@ ShuQuest/LongLiveTheRanger, PirateClanPrison, Prison, PrisonMenu, mark05 (све
 - 2026-10-12 ExpBeerQuest/TheBeerQuest: 1894 записей (1422 уникальных); переведён с RU (мод); check 0/0, struct 0, qdialog 0, грамматика разобрана; в RU 26 строк без маркера * (парсер qtr/qdialog доработан)
 - 2026-10-12 ShuQuest/LongLiveTheRanger: 458 записей (415 уникальных, 152 из памяти RefQuest/LongLiveTheRanger); переведён с RU (мод, ранняя версия 0.91 — не совпадает с Ref); check 0/0, struct 0, qdialog 0, грамматика разобрана
 - 2026-10-12 ShuQuest/mark05: 536 записей (277 уникальных); переведён с RU (мод; турнир по боям без правил, бар «Ак-Ак»); check 0/0, struct 0, qdialog 0, грамматика разобрана
+- 2026-10-12 ShuQuest/Prison: 911 записей (790 уникальных, 120 переведено вручную); переведён с RU (редакция «PRISON REFRESH by mark05 & Шу»: сюжет с пистолетом); check 0/0, struct 0, qdialog 0, грамматика разобрана
+- 2026-10-12 ShuQuest/PirateClanPrison: 911 записей (790 уникальных, 13 вручную — остальное из памяти ShuQuest/Prison и ShuPrison); check 0/0, struct 0, qdialog 0
+- 2026-10-12 ShuQuest/PrisonMenu: 820 записей (739 уникальных, все из памяти ShuPrison/Prison — RU идентичен); check 0/0, struct 0, qdialog 0
+- 2026-10-12 RefLongerPrison/Prison: 1091 запись (971 уникальных, 410 абзацев вручную); переведён с RU («Longer Prison»: тараканьи бега, работы, шахматы, закладки, футбол); check 0/0, struct 0, qdialog 0, грамматика разобрана
+- 2026-10-12 XenoZeroSignalQuest/ZeroSignal: 417 записей (405 уникальных, 519 абзацев); переведён с RU (пародия на «Чужого»: Weyland-Yutani, Nostromo-13, Sulaco-2, ASH, X-морф); check 0/0, struct 0, qdialog 0, грамматика разобрана
+- 2026-10-12 Гаалдок: Gaaldok → Hahaldock (ванилла) по решению пользователя — Kidnapped, Massacri, Photorobot, 8 Lang-модов (RevElection, SR1Equipment x2, Cat_Rangers, RefLitRes, RefNews, Cat_Asteroid, ShuBounty), GLOSSARY.
+- 2026-10-12 ВСЕ текстовые квесты и моды переведены (непереведённых нет).

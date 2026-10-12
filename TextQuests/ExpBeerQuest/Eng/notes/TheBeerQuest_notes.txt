@@ -3,7 +3,7 @@ TheBeerQuest (мод Expansion/ExpBeerQuest; авторы — «Трудовой
 ФОРМАТ RU: в исходнике 26 строк продолжения без маркера «*<TAB>» (Loc11-1, Loc49-1 и др.) и смешанные LF/CRLF. RU НЕ менялся; qtr.records теперь принимает такие строки как продолжение предыдущей записи, qdialog.py выравнивает RU так же. В EN всё оформлено нормально («*<TAB>»).
 Согласование с Lang-переводом мода (translatedMods/Expansion/ExpBeerQuest): Shigul Tsak, Maloq/Peleng/... строчные; пиво «Махпелла Дарк» теперь везде Makhpella Dark (в Lang-файле было Mahpella — исправлено по ванилле: Makhpella).
 Имена/термины — транслит (Nalivkin, Tudym-Syudym, Shukher Keg, Gruu-Zi-In, Aprold, Ush Retsim [Ретсим = «Мистер» задом наперёд — оставлено как звучит], Bedilash, Dzhinchok…), планеты — по ванилле (Ramgatrue, Hahaldock, Shukheo, Eilank, Duede, Arnarick Guadad, Pkhedoc, Eipentak).
-Гаалдок: ванилла — Hahaldock; в Kidnapped/Massacri остался вариант Gaaldok (прежний глоссарий). ВОПРОС пользователю: привести их к Hahaldock?
+Гаалдок: ванилла — Hahaldock (в Kidnapped/Massacri/Lang-модах приведено к нему 2026-10-12)
 АДАПТАЦИИ / СОМНЕНИЯ:
 - QuestSuccessGovMessage «Уш, вы 3.14Dr» — «3.14Dr» (число пи + Dr = «пидр») оставлено как есть: «Ush, you're a 3.14Dr».
 - «Мистические Пейнджеры» (пародия на «Рейнджеров», в Loc99+/Path637b пишется и «Пейджеры») → Mystic Paingers. «Rangers Memes Network (RMN)» оставлено, «Rangers News Network» — как в RU.

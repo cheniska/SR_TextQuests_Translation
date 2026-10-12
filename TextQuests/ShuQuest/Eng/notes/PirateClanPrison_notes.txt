@@ -1,0 +1,2 @@
+PirateClanPrison (ShuQuest) — перевод с RU 2026-10-12; 911 записей (790 уникальных; 13 вручную, остальное — из памяти ShuQuest/Prison и ShuPrison/PirateClanPrison).
+- Версия «0.92 B»; отличается от ShuQuest/Prison суммами и формулами ({[p41]}, [p42], [p43]) — взяты из RU без изменений.

@@ -697,8 +697,8 @@
 | Га-Ноцри (желтолицый) | Ga-Notsri |  |
 | Гаа-Тар (гаалец, руководитель) | Gaa-Tar | Complex |
 | Гаал-Ра | Gaal-Ra | Domoclan |
-| Гаалдок | Gaaldok | Massacri, RefLitRes |
-| Гаалдок (планета) | Gaaldok | Kidnapped |
+| Гаалдок | Hahaldock | Massacri, RefLitRes |
+| Гаалдок (планета) | Hahaldock | Kidnapped |
 | гаалец | gaal (noun), gaalian (adj.) |  |
 | гаалец Лоо-Хэн | Loho-Khan |  |
 | гаалец Нааклю Ко (биограф Кацапа) | Naaklyu Ko | Piratesnest |
@@ -3383,7 +3383,7 @@
 | Иике-Баана | Iike-Baana | TheBeerQuest |
 | Надани Элус (фэянский фестиваль) | Nadani Elus | TheBeerQuest |
 | Верховный / Главный Пивокомандующий | Supreme / Chief Beer Commander | TheBeerQuest |
-| Гаалдок (планета; ванилла) | Hahaldock (ср. Gaaldok в Kidnapped, Massacri) | TheBeerQuest |
+| Гаалдок (планета; ванилла) | Hahaldock (унифицировано 2026-10-12: Kidnapped, Massacri, Photorobot, Lang-моды) | TheBeerQuest |
 | Рамгатру / Шухэо / Эйланк / Дуэдэ / Арнарик Гаудад | Ramgatrue / Shukheo / Eilank / Duede / Arnarick Guadad (ванилла) | TheBeerQuest |
 | Тарон / Атлан / Краа / Хемни | Taron / Atlan / Kraa / Khemni | TheBeerQuest |
 | Цык-Ляш (пеленг-боец) | Tsyk-Lyash | mark05 |
@@ -3407,3 +3407,19 @@
 | Ногну Ка (генерал-маг Империи Гонко) | Nognu Ka | LongLiveTheRanger |
 | Золтан Мудрый (король) | Zoltan the Wise | LongLiveTheRanger (ShuQuest) |
 | Леонид Рузастый / Рио Плонтос / Моу Плонтос (графы) | Leonid Ruzasty / Rio Plontos / Mou Plontos | LongLiveTheRanger |
+| Вейланд-Ю-Тяни (корпорация) | Weyland-Yutani | ZeroSignal |
+| Ностром-13 (станция) | Nostromo-13 | ZeroSignal |
+| Сулака-2 (челнок) | Sulaco-2 | ZeroSignal |
+| Управление орбитального спокойствия | Orbital Tranquility Office | ZeroSignal |
+| ЭШ (серия синтетиков), ЭШ-8 | ASH (series), ASH-8 | ZeroSignal |
+| иксоморф / ИКС-121 | X-morph / X-121 | ZeroSignal |
+| ксиломорф, декоративная древесная форма | xylomorph, decorative wood form | ZeroSignal |
+| матка / яйцеклад / лицелов | queen / ovipositor / facehugger | ZeroSignal |
+| субъект №19 | subject No. 19 | ZeroSignal |
+| протокол 9-3-7 | protocol 9-3-7 | ZeroSignal |
+| Бамбай Рабум Четвёртый (малок-кредитор) | Bambai Rabum the Fourth | RefLongerPrison/Prison |
+| мастер Ли (боец) | Master Lee | RefLongerPrison/Prison |
+| порция блатного | "OG portion" | Prison (ShuPrison, ShuQuest, RefLongerPrison) |
+| закладка / закладчик (наркотики) | stash / stasher | RefLongerPrison/Prison |
+| Гроссмейстер (гаалец-шахматист) | the Grandmaster | RefLongerPrison/Prison |
+| ВОГИНОЛ (малокское оскорбление) | VOGINOL | ShuQuest/Prison |
