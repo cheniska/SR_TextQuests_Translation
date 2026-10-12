@@ -3386,3 +3386,24 @@
 | Гаалдок (планета; ванилла) | Hahaldock (ср. Gaaldok в Kidnapped, Massacri) | TheBeerQuest |
 | Рамгатру / Шухэо / Эйланк / Дуэдэ / Арнарик Гаудад | Ramgatrue / Shukheo / Eilank / Duede / Arnarick Guadad (ванилла) | TheBeerQuest |
 | Тарон / Атлан / Краа / Хемни | Taron / Atlan / Kraa / Khemni | TheBeerQuest |
+| Цык-Ляш (пеленг-боец) | Tsyk-Lyash | mark05 |
+| Расчехаш (пеленг-боец) | Raschekhash | mark05 |
+| Мак-Омет (человек, чемпион; кричалка «Ма-ко-мет») | Mak-Omet ("Mak-o-met!") | mark05 |
+| Ви-таал (кандидат от комплекса, гаалец) | Vi-taal | mark05 |
+| Цшахи Ша Тялька (пеленг в спортивном костюме; в RU раз «Ша Таалю») | Tsshakhi Sha Tyalka (Sha Taal) | mark05 |
+| Йура (корсар, двоюродный брат пьяницы) | Yura | mark05 |
+| Ак-Ак бар | Ak-Ak Bar | mark05 |
+| Ионный Низкочастотный Регенератор Тканей (ИНРТ) | Ionic Low-Frequency Tissue Regenerator (ILFTR) | mark05 |
+| Пицца Аль-Виита | Pizza Al-Viita | mark05 |
+| Рахишбургер | Rakhishburger | mark05 |
+| Мясо малока (блюдо и фирма) | Maloq Meat | mark05 |
+| Горилка | Horilka | mark05 |
+| Малокское твердокрасное | Maloq Hard Red | Mafia, mark05 |
+| Махпелла Крепкое | Makhpella Strong | mark05 |
+| Самогон дяди Васи | Uncle Vasya's Moonshine | mark05 |
+| Зелёный сюрприз (коктейль) | Green Surprise | mark05 |
+| Абыр (рыба пеленгских планет) | Abyr | mark05 |
+| первый чародей | first sorcerer | LongLiveTheRanger (ShuQuest) |
+| Ногну Ка (генерал-маг Империи Гонко) | Nognu Ka | LongLiveTheRanger |
+| Золтан Мудрый (король) | Zoltan the Wise | LongLiveTheRanger (ShuQuest) |
+| Леонид Рузастый / Рио Плонтос / Моу Плонтос (графы) | Leonid Ruzasty / Rio Plontos / Mou Plontos | LongLiveTheRanger |

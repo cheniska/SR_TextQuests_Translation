@@ -450,3 +450,13 @@ match: THERE_MISSING_VERB here
 
 # learn sr1,sr2,mods,dev
 word: stinkillin Stinkillin
+
+# learn mods
+word: neuro-point
+match: A_MY another your
+match: PLURAL_MODIFIER generations
+match: WORRY_FOR worried for
+
+# learn mods
+word: Ak-Ak Al-Viita dMessage Horilka ILFTR Mak-o-met Mak-Omet quarterfinalist Rakhishburger Raschekhash Sha Shu
+word: Tsyk-Lyash Tyalka Vi-taal Yura Zzz
