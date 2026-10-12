@@ -1,8 +1,1 @@
-1	I'd like to give my hull a special upgrade
-2	We can upgrade your special agent hull to the next level. The service will cost you a mere
-3	Unfortunately, we have nothing to offer you today
-4	Oh, a special agent hull!<br>Yes, yes, we know about those, of course. And, naturally, we can do something with such hulls - something unique!<br><br><0>
-5	Excellent!<br>Our technicians have already completed all the work under the contract, so you can take delivery of your upgraded ship.
-6	Back to the choice of services
-7	I agree, upgrade my hull!
-8	Just a kludge item
+1	We can upgrade your special agent hull to the next level. The service will cost you a mere

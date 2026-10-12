@@ -1,4 +1,39 @@
+Уведомление создано!<br>Вы получите извещение, когда окажетесь в одной системе с пилотом <0>.	Notification created!<br>You will receive a notice when you are in the same system as pilot <0>.
+Уведомление в определённую дату	Notification on a specific date
+Уведомление при нахождении в одной системе с выбранным пилотом	Notification when in the same system as the selected pilot
+Уведомление при посещении выбранной системы	Notification when visiting the selected system
+Февраль	February
+Март	March
+Апрель	April
+Январь	January
 Май	May
+Июнь	June
+Настройка иных уведомлений	Set Up Other Notifications
+Июль	July
 Август	August
+Сентябрь	September
+Октябрь	October
+Ноябрь	November
+Декабрь	December
+На главную	To the main page
+Хотите добавить текстовую метку к данному сообщению?	Do you want to add a text label to this message?
 Да	Yes
 Нет	No
+Выберите день месяца	Select the day of the month
+Корабль name находится в текущей системе. Уведомление о его обнаружении отключено.	Ship name is in the current system. The notification about detecting it is turned off.
+Вы находитесь в системе name. Уведомление о посещении этой системы отключено.	You are in the name system. The notification about visiting this system is turned off.
+Текущий день - date. Уведомление отключено.	The current day is date. The notification is turned off.
+Выставлено упоминание о посещении системы звезды sys	A reminder has been set for visiting the star system sys
+Выставлено упоминание о появлении корабля ship	A reminder has been set for the appearance of ship ship
+Выставлено упоминание в дату date	A reminder has been set for the date date
+На данный момент уведомления не активированы	No notifications are currently active
+Выберите год	Select the year
+Текущие уведомления:<br><0>	Current notifications:<br><0>
+Такой корабль не найден. Повторите запрос!	No such ship found. Repeat the request!
+Введите имя того, кого вы ищете (короткое)	Enter the name of the one you are looking for (short)
+Введите текст, который будет выведен с уведомлением	Enter the text to be displayed with the notification
+Выберите месяц	Select the month
+Отлично! Напоминание установлено на <0>	Excellent! The reminder is set for <0>
+Выберите сектор:	Select a sector:
+Выберите систему:	Select a system:
+Уведомление настроено!<br>Выбранная система: <0>	Notification set!<br>Selected system: <0>

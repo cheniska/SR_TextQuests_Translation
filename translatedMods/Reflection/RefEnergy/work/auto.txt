@@ -1,10 +1,123 @@
+На этом всё, спасибо!	That's all, thank you!
+Хочу перезарядить ещё один энергоблок	I want to recharge another power unit
 Нет, пожалуй, не сейчас	No, maybe not now
+Хотел бы установить в корпус новое энергоядро	I'd like to install a new energy core in the hull
+Устанавливайте энергоядро!	Install the energy core!
 Спасибо, в другой раз	Thanks, maybe some other time
+Нет, спасибо, посмотрю что-нибудь ещё	No, thanks, I'll look at something else
 Понятно	I see
+Ух-х, заскорузлые личности! Никакого духа авантюризма!	Ugh, what stuffy people! No spirit of adventure at all!
+Энергоблок <Weight> т., заряд <On> из <Off> за <Cost> cr.	Power unit <Weight> t., charge <On> of <Off> for <Cost> cr.
+Здесь представлен подробный инфографик о состоянии оборудования на борту вашего корабля:	Here is a detailed infographic of the state of the equipment aboard your ship:
+Отлично!<br><br>Наши техники уже выполнили все необходимые работы. Принимайте!<br><br>Быстро мы работаем, а? Не зря нам доверили целую станцию, хе-хе.	Excellent!<br><br>Our technicians have already completed all the necessary work. Take delivery!<br><br>We work fast, don't we? Not for nothing were we entrusted with an entire station, heh-heh.
+Не всегда возможности энергосистемы вашего корабля совпадают с вашими желаниями. Именно в этот момент на помощь приходят наши техники, устанавливая в свободное пространство трюма <clr>дополнительные энергоядра<clrEnd>. Эти установки позволяют повысить итоговую выходную мощность энергосистемы корабля на примерно <clr>15<clrEnd> у.е.<br><br>К сожалению, больше <clr>трёх<clrEnd> дополнительных энергоядер на один корабль установить мы не можем.	The capabilities of your ship's power system do not always match your wishes. That is when our technicians come to the rescue, installing <clr>additional energy cores<clrEnd> in free space in the hold. These installations raise the ship's total power system output by approximately <clr>15<clrEnd> c.u.<br><br>Unfortunately, we cannot install more than <clr>three<clrEnd> additional energy cores on one ship.
+Хм-м-м... Посмотрим... Так-с... Запустить общее сканирование! Так-так... Ага!<br><br>...<br><br>Что ж, рейнджер, мы вынуждены вас огорчить - ваш корабль оснащён <clr>максимально допустимым<clrEnd> количеством энергоядер. Больше мы попросту не сможем поставить, если хотя бы не хотим восстанавливать ангар нашей станции после взрыва корабля с перегруженной энергосетью.	Hm-m-m... Let's see... So... Run a general scan! So-so... Aha!<br><br>...<br><br>Well, ranger, we are sorry to disappoint you - your ship is equipped with the <clr>maximum allowed<clrEnd> number of energy cores. We simply can't install any more, unless we want to rebuild our station's hangar after a ship with an overloaded power grid blows up.
+Хм-м-м... Посмотрим... Так-с... Запустить общее сканирование! Так-так... Ага!<br><br>...<br><br>Что ж, рейнджер, наши специалисты <clr>готовы<clrEnd> установить на ваш корабль энергоядро.<br><br>Стоимость услуги - <Money> cr.<br>Также учитывайте, что поставить мы ядро можем почти куда угодно, но оно займёт <Size> у.е. объёма и ввиду конструктивных особенностей перестанет учитываться как структура корпуса.	Hm-m-m... Let's see... So... Run a general scan! So-so... Aha!<br><br>...<br><br>Well, ranger, our specialists are <clr>ready<clrEnd> to install an energy core on your ship.<br><br>Cost of the service - <Money> cr.<br>Also keep in mind that we can place the core almost anywhere, but it will take up <Size> c.u. of volume and, owing to its design, will no longer count as part of the hull structure.
+Хм-м-м... Посмотрим... Так-с... Запустить общее сканирование! Так-так... Ага!<br><br>...<br><br>Что ж, рейнджер.<br>Откуда вы вообще достали такой крошечный звездолёт? Наши специалисты, мягко говоря, в ужасе, и ставить на <clr>это<clrEnd> ничего не будут во избежание последующих судебных разбирательств - как ещё на таком "кораблике" что-то ещё работает.	Hm-m-m... Let's see... So... Run a general scan! So-so... Aha!<br><br>...<br><br>Well, ranger.<br>Where did you even get such a tiny starship? Our specialists are, to put it mildly, horrified, and will install nothing on <clr>this<clrEnd> to avoid subsequent litigation - it is a wonder anything on such a "ship" still works.
+Я хочу пополнить заряд энергоблока...	I want to top up a power unit's charge...
+Я хочу установить энергоядро	I want to install an energy core
+Форсаж активирован. Износ двигателя в полете будет максимальным, а энергопотребление двигателя вырастет на 50%.	Afterburner activated. Engine wear in flight will be maximal, and the engine's power consumption will increase by 50%.
+Энергоблок	Power Unit
+if(MessageBoxYesNo('Отключить энергоблок от сети вашего корабля?'))	if(MessageBoxYesNo('Disconnect the power unit from the network of your ship?'))
+if(MessageBoxYesNo('Подключить энергоблок к сети вашего корабля?'))	if(MessageBoxYesNo('Connect the power unit to the network of your ship?'))
+Бывшая часть энергоядра, отвечающая за аккумуляцию энергии при её чрезмерной выработке.	Formerly the part of an energy core responsible for accumulating energy when it is overproduced.
+Накопленная энергия: <Data1>/<Data2> у.е.	Stored energy: <Data1>/<Data2> c.u.
+Инфошка для выдачи кораблю бонуса bonEnergy (1) и bonAllEnergy (2)	Info item for granting the ship the bonus bonEnergy (1) and bonAllEnergy (2)
+Текущий баланс энергопотребления: <Data1>	Current power consumption balance: <Data1>
+Текущая выработка энергии: <Data2>	Current power generation: <Data2>
+Энергопотребление	Power Consumption
+Инфошка для навешивания кошмара 1 - таймер до отключения, 2 - таймер до включения, 3 - режим отключения	Info item for applying a nightmare: 1 - timer until shutdown, 2 - timer until power-on, 3 - shutdown mode
+CustomEther('ShipMinus',0,'','Недостаток энергии в сети корабля привёл к критической перегрузке! Системы корабля недополучили энергию и отключились');	CustomEther('ShipMinus',0,'','A lack of energy in the ship network led to a critical overload! The ship systems were underpowered and shut down');
+CustomEther('ShipPlus',0,'','Отключение части оборудования дало возможность накопить достаточно энергии, чтобы возобновить полноценную подачу энергии. Увы, явно ненадолго');	CustomEther('ShipPlus',0,'','Shutting down part of the equipment made it possible to accumulate enough energy to resume full power supply. Alas, clearly not for long');
+Инфошка для получения энергетических люлей от Третона	Info item for receiving energy thrashings from the Treton
+CustomEther('ShipPlus',0,'','Энергосети были восстановлены!');	CustomEther('ShipPlus',0,'','The power grids have been restored!');
+CustomEther('ShipPlus',0,'','Ремонтные бригады восстановили энергосети вашего корабля');	CustomEther('ShipPlus',0,'','Repair crews have restored the power grids of your ship');
+Повреждённые энергосети	Damaged Power Grids
+Инфошка для выстреливания энергетических люлей	Info item for firing off energy thrashings
+Циановый фантом	Cyan Phantom
+Уникальная <color=220,140,245>фэянская</color> разработка в сфере более эргономичного расположения узлов энергосетей. Беспримерное участие специалистов <clr>Дзухаллага<clrEnd>, сумевших достать для учёных уникальные образцы доминаторских компактных энергоустановок, дали этому кораблю повышенную выработку электроэнергии, а также расположение узлов - прирост эффективности некоторых типов оборудования.	A unique <color=220,140,245>faeyan</color> development in the field of more ergonomic placement of power grid nodes. The unprecedented participation of <clr>Dzuhallag<clrEnd> specialists, who managed to obtain unique samples of compact dominator power units for the scientists, gave this ship increased power generation, as well as a node layout that boosts the efficiency of some types of equipment.
 Мощность сканера: <bonScan><clr>%<clrEnd>	Scanner power: <bonScan><clr>%<clrEnd>
 Скорость двигателя: <bonSpeed> ед.	Engine speed: <bonSpeed>
 Мощность защитного поля: <bonDef><clr>%<clrEnd>	Shield power: <bonDef><clr>%<clrEnd>
 Урон энергетического оружия: <bonWEnergy> ед.	Energy weapon damage: <bonWEnergy> units
+Дополнительная энерговыработка: <clr>+25<clrEnd> у.е.	Additional power generation: <clr>+25<clrEnd> c.u.
+Эргкономный дроид	Ergonomical Droid
+Эргкономный дроид I	Ergonomical Droid I
+<color=248,252,248>Линейка Эргкономных акринов была создана Объединённым КБ КВСМК для массового оснащения пилотов лёгким, относительно дешёвым, простым в использовании и экономичным для энергосетей корабля оборудованием. Подобное оборудование стало массово использоваться для ликвидации потребностей военных в небоевой обстановке.</color>	<color=248,252,248>The Ergonomical acryn line was created by the CAFIC Joint Design Bureau to mass-equip pilots with light, relatively cheap, easy-to-use equipment that is economical for the ship's power grids. Such equipment came into mass use to meet the military's needs in non-combat situations.</color>
+Энергопотребление: <clr>-1<clrEnd> ед.	Power consumption: <clr>-1<clrEnd> unit
+Эргкономный дроид II	Ergonomical Droid II
+Энергопотребление: <clr>-2<clrEnd> ед.	Power consumption: <clr>-2<clrEnd> units
+Эргкономный дроид III	Ergonomical Droid III
+Энергопотребление: <clr>-3<clrEnd> ед.	Power consumption: <clr>-3<clrEnd> units
+Энерджей	Energey
+Микромодуль третьего уровня. Содержит набор сменных сверхпроводников, снижающих энергопотери при работе <clr>любого оборудования<clrEnd>.	A third-level micromodule. Contains a set of replaceable superconductors that reduce energy losses during operation of <clr>any equipment<clrEnd>.
+Энергопотребление: <clr>-2<clrEnd> у.е.	Power consumption: <clr>-2<clrEnd> c.u.
+<color=248,252,248>Улучшение:</color> <clr>Дополнительное энергоядро<clrEnd>	<color=248,252,248>Upgrade:</color> <clr>Additional energy core<clrEnd>
+<color=248,252,248>В трюм данного корпуса установлено дополнительное энергоядро, повышающее выработку электроэнергии</color>	<color=248,252,248>An additional energy core that increases electricity generation is installed in this hull's hold</color>
+Броня корпуса: <clr>-1<clrEnd>	Hull armor: <clr>-1<clrEnd>
+Дополнительная энерговыработка: <clr>+15<clrEnd> у.е.	Additional power generation: <clr>+15<clrEnd> c.u.
+<color=248,252,248>Улучшение:</color> <clr>Дополнительные энергоядра<clrEnd>	<color=248,252,248>Upgrade:</color> <clr>Additional energy cores<clrEnd>
+<color=248,252,248>В трюм данного корпуса установлено два дополнительных энергоядра, повышающих выработку электроэнергии</color>	<color=248,252,248>Two additional energy cores that increase electricity generation are installed in this hull's hold</color>
+Броня корпуса: <clr>-2<clrEnd>	Hull armor: <clr>-2<clrEnd>
+Дополнительная энерговыработка: <clr>+30<clrEnd> у.е.	Additional power generation: <clr>+30<clrEnd> c.u.
+<color=248,252,248>В трюм данного корпуса установлено три дополнительных энергоядра, повышающих дополнительную выработку электроэнергии</color>	<color=248,252,248>Three additional energy cores that increase additional electricity generation are installed in this hull's hold</color>
+Броня корпуса: <clr>-3<clrEnd>	Hull armor: <clr>-3<clrEnd>
+Дополнительная энерговыработка: <clr>+45<clrEnd> у.е.	Additional power generation: <clr>+45<clrEnd> c.u.
+Фокусатор	Focuser
+Микромодуль второго уровня. За счёт установки крайне энергоёмких систем позволяет <clr>энергетическому оружию<clrEnd> вести огонь на куда больших дистанциях.	A second-level micromodule. By installing extremely power-hungry systems, it lets <clr>energy weapons<clrEnd> fire at far greater distances.
+Повышение энергопотребления: <clr>+10<clrEnd> у.е.	Increased power consumption: <clr>+10<clrEnd> c.u.
 Дальность стрельбы: <bonWRadius> млн км	Firing range: <bonWRadius> million km
+Эргкономный топливный бак	Ergonomical Fuel Tank
+Эргкономный топливный бак I	Ergonomical Fuel Tank I
+Эргкономный топливный бак II	Ergonomical Fuel Tank II
+Эргкономный топливный бак III	Ergonomical Fuel Tank III
+Эргкономный захват	Ergonomical Gripper
+Эргкономный захват I	Ergonomical Gripper I
+Эргкономный захват II	Ergonomical Gripper II
+Эргкономный захват III	Ergonomical Gripper III
+Нагнетатель	Supercharger
+<color=248,252,248>Микромодуль второго уровня. За счёт установки крайне энергоёмких систем сильно увеличивает выходную мощность любого <clr>энергетического оружия<clrEnd>.</color>	<color=248,252,248>A second-level micromodule. By installing extremely power-hungry systems, it greatly increases the output power of any <clr>energy weapon<clrEnd>.</color>
+Энергопотребление: <clr>+7<clrEnd> у.е.	Power consumption: <clr>+7<clrEnd> c.u.
+Эргкономный радар	Ergonomical Radar
+Эргкономный радар I	Ergonomical Radar I
+Эргкономный радар II	Ergonomical Radar II
+Эргкономный радар III	Ergonomical Radar III
+Статистик	Statistician
+<color=248,252,248>Микромодуль первого уровня. Модифицирует бортовой компьютер, в результате чего тот начинает аккуратно следить за потоками энергии во внутренней сети корабля, не допуская перегрузок или нехватки энерговыработки, тем самым снижая затраты на поддержание работы <clr>всего оборудования<clrEnd> на борту.</color>	<color=248,252,248>A first-level micromodule. Modifies the onboard computer so that it begins to carefully monitor the energy flows in the ship's internal network, preventing overloads or shortfalls in generation, thereby reducing the cost of keeping <clr>all equipment<clrEnd> aboard running.</color>
+Энергопотребление всего оборудования на борту: <clr>-1<clrEnd> у.е.	Power consumption of all equipment aboard: <clr>-1<clrEnd> c.u.
+Свотт	Swott
+<color=248,252,248>Микромодуль второго уровня. Заменяет все проводящие элементы <clr>любого оборудования<clrEnd> на сверхпроводящие, а также перенастраивает оборудование на режим полной экономии.</color>	<color=248,252,248>A second-level micromodule. Replaces all conducting elements of <clr>any equipment<clrEnd> with superconducting ones and also reconfigures the equipment for full economy mode.</color>
+Энергопотребление: <clr>-4<clrEnd> у.е.	Power consumption: <clr>-4<clrEnd> c.u.
+Тесло	Tesla
+<color=248,252,248>Микромодуль первого уровня. Перенастраивает системы оборудования на работающие по принципу обратных токов, что позволяет использовать поступающую энергию на грани нарушения законов физики, колоссально снижая потребление <clr>любого оборудования<clrEnd>. К сожалению, такие "фокусы" сильно снижают срок эксплуатации оборудования.</color>	<color=248,252,248>A first-level micromodule. Reconfigures equipment systems to work on the principle of reverse currents, which makes it possible to use incoming energy on the verge of violating the laws of physics, colossally reducing the consumption of <clr>any equipment<clrEnd>. Unfortunately, such "tricks" greatly shorten the equipment's service life.</color>
+Энергопотребление: <clr>-10<clrEnd> у.е.	Power consumption: <clr>-10<clrEnd> c.u.
+Надёжность: <clr>-33<clrEnd>%	Reliability: <clr>-33<clrEnd>%
+Выработчик	Generator
+<color=248,252,248>Микромодуль второго уровня. Устанавливает в <clr>любое оборудование<clrEnd> дополнительный мини-реактор, позволяющий ему покрыть часть своих нужд в электроэнергии. К сожалению, такая система довольно дорога в обслуживании.</color>	<color=248,252,248>A second-level micromodule. Installs an additional mini-reactor in <clr>any equipment<clrEnd>, allowing it to cover part of its own electricity needs. Unfortunately, such a system is quite expensive to maintain.</color>
+Энергопотребление: <clr>-6<clrEnd> у.е.	Power consumption: <clr>-6<clrEnd> c.u.
+Стоимость: <clr>+40<clrEnd>%	Cost: <clr>+40<clrEnd>%
 Дальность радара: <bonRadar> млн. км.	Radar range: <bonRadar> million km.
 Мощность захвата: <bonHook> т.	Gripper power: <bonHook> t.
+Дальность действия захвата: <bonHookRadius> млн км	Gripper range: <bonHookRadius> million km
+Дополнительная энерговыработка: +14 ед.	Additional power generation: +14 units
+Дополнительная энерговыработка: +16 ед.	Additional power generation: +16 units
+Дополнительная энерговыработка: +18 ед.	Additional power generation: +18 units
+Дополнительная энерговыработка: +21 ед.	Additional power generation: +21 units
+Серия генераторов защиты, разработанных <color=255,240,100>пиратским кланом</color> в попытках ликвидировать техническое отставание от новейших коалиционных разработок в данной сфере. Несмотря на отчаянные попытки пиратских мастеров обеспечить достаточной стабильностью энергоёмкие стационарные излучатели, долговечность таких генераторов всё равно оказалась на непрактично низком уровне.	A series of shield generators developed by the <color=255,240,100>pirate clan</color> in an attempt to close the technological gap with the latest Coalition developments in this field. Despite the pirate craftsmen's desperate attempts to give the power-hungry stationary emitters sufficient stability, the durability of such generators still turned out to be impractically low.
+Реверсер создаёт активное поле, улавливающее мощные электромагнитные волны, создаваемые ЭМ-бомбами, и преобразовывает их в полезную энергию, сводя повреждения оборудования к минимуму.	The Reverser creates an active field that captures the powerful electromagnetic waves generated by EM bombs and converts them into usable energy, minimizing damage to equipment.
+Реверсер	Reverser
+Снижает повреждения оборудованию от ЭМ-бомб на <clr>70<clrEnd>-<clr>80<clrEnd>%, преобразовывая в <clr>1<clrEnd>-<clr>3<clrEnd> у.е. энергии	Reduces damage to equipment from EM bombs by <clr>70<clrEnd>-<clr>80<clrEnd>%, converting it into <clr>1<clrEnd>-<clr>3<clrEnd> c.u. of energy
+(деэлектризован)	(de-electrified)
+Внимание! Во время боя мощный всплеск энергии вызвал критическую перегрузку Уловителя. Требуется ремонт устройства	Attention! During battle a powerful energy surge caused a critical overload of the Catcher. The device requires repair
+Системы Уловителя совсем раскалибровались. Чтобы случайно не навести ток уже на саму обшивку, вы решили отключить устройство и отвезти его на калибровку специалистам.	The Catcher's systems have become completely miscalibrated. So as not to accidentally direct current onto the hull itself, you decided to switch the device off and take it to specialists for calibration.
+Уловитель - система, устанавливающаяся на контур, соединённый с обшивкой корабля. Аккумулируя приходящий извне ток, Уловитель вырабатывает полезную энергию, заодно деионизируя обшивку и поглощая ЭМ-помехи.	The Catcher is a system installed on a circuit connected to the ship's hull. Accumulating current arriving from outside, the Catcher generates usable energy, while also deionizing the hull and absorbing EM interference.
+Уловитель	Catcher
+Система аккумулирования негативного заряда (ионизация и ЭМ-помехи) с обшивки корпуса.	A system for accumulating negative charge (ionization and EM interference) from the hull plating.
+Текущий накопленный заряд: <Data1> у.е.	Current stored charge: <Data1> c.u.
+(перенасыщен)	(oversaturated)
+Во время боя Упырик потерял слишком много наноботных щупов и больше не может вытягивать энергию из ваших врагов	During battle the Little Vampire lost too many nanobot tendrils and can no longer draw energy from your enemies
+В режиме ожидания программа Упырика случайно засбоила и начала искать цели для вытягивания энергии на борту корабля. Во избежание энергопотерь бортовой компьютер экстренно отключил Упырика.	In standby mode the Little Vampire's program glitched by accident and began looking for targets to drain energy from aboard the ship. To avoid energy losses, the onboard computer shut the Little Vampire down in an emergency.
+Упырик использует явление короткого замыкания, образуя благодаря сверхтонким сверхпроводящим нитям из наноботов тончайшие щупы-провода, вытягивающие часть корабельной энергии противников.	The Little Vampire uses the phenomenon of the short circuit, forming from nanobots, thanks to ultrathin superconducting threads, the thinnest wire-tendrils that draw off part of the enemy ships' energy.
+Упырик	Little Vampire
+CustomArtTextData(CurItem(),1,'Оборудование работает более эффективно в режиме совместимости с неизвестным оборудованием');	CustomArtTextData(CurItem(),1,'The equipment works more efficiently in compatibility mode with unknown equipment');
+Активный модуль, вытягивающий энергию из систем вражеских кораблей в радиусе <clr>250<clrEnd> млн км, что дополнительно наносит небольшой <clr>чистый<clrEnd> урон, <clr>ионизирует<clrEnd> обшивку и создаёт <clr>ЭМ-помехи<clrEnd>. Кроме того, часть этой энергии попадает в энергосистемы корабля.	An active module that draws energy from enemy ship systems within a radius of <clr>250<clrEnd> million km, additionally dealing a small amount of <clr>pure<clrEnd> damage, <clr>ionizing<clrEnd> the hull and creating <clr>EM interference<clrEnd>. In addition, part of this energy ends up in the ship's power systems.

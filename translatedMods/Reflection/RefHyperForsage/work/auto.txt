@@ -1,1 +1,11 @@
+Режим гиперфорсажа можно активировать только в космосе!	Hyper-afterburner mode can only be activated in space!
+Двигатель слишком сильно повреждён для использования гипер-форсажа	The engine is too badly damaged to use hyper-afterburner
+Отключить гипер-форсаж	Turn off hyper-afterburner
+Гипер-форсаж: <0>	Hyper-afterburner: <0>
+Включен	On
+Включить гипер-форсаж	Turn on hyper-afterburner
 Отключен	Off
+Ввиду смены двигателя режим гипер-форсажа отключён и готов к повторной активации	Due to the engine change, hyper-afterburner mode has been turned off and is ready for reactivation
+Двигатель критически повредился при перерасходе его ресурса гипер-форсажем	The engine was critically damaged when hyper-afterburner overdrew its resource
+Двигатель слишком сильно повредился, использование гипер-форсажа невозможно!	The engine is too badly damaged, hyper-afterburner cannot be used!
+Просто инфошка для хранения разной всякой инфы	Just an info item for storing assorted info

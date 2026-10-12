@@ -1,6 +1,14 @@
 Вестала	Vestala
 Полуось	Axle
 Орленон	Orlenon
+Кефрон	Cephron
+Татун	Tatun
+Тристерия	Tristeria
+Дээва	Deeva
+Гархарл	Garkharl
+Чешилан	Cheshilan
+Акра	Akra
+Конкорд-Доун	Concord Dawn
 Меркурий	Mercury
 Венера	Venus
 Земля	Earth
@@ -10,3 +18,4 @@
 Уран	Uranus
 Нептун	Neptune
 Плутон	Pluto
+Фаэтон	Phaeton
