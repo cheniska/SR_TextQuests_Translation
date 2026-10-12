@@ -1,0 +1,25 @@
+TheBeerQuest (мод Expansion/ExpBeerQuest; авторы — «Трудовой Коллектив 2.0», см. титры в Loc672-1) — заметки (2026-10-12)
+Переведён с RU: 1894 записи (1422 уникальных; 65 — из памяти переводов). check 0/0, struct 0, qdialog 0, грамматика разобрана.
+ФОРМАТ RU: в исходнике 26 строк продолжения без маркера «*<TAB>» (Loc11-1, Loc49-1 и др.) и смешанные LF/CRLF. RU НЕ менялся; qtr.records теперь принимает такие строки как продолжение предыдущей записи, qdialog.py выравнивает RU так же. В EN всё оформлено нормально («*<TAB>»).
+Согласование с Lang-переводом мода (translatedMods/Expansion/ExpBeerQuest): Shigul Tsak, Maloq/Peleng/... строчные; пиво «Махпелла Дарк» теперь везде Makhpella Dark (в Lang-файле было Mahpella — исправлено по ванилле: Makhpella).
+Имена/термины — транслит (Nalivkin, Tudym-Syudym, Shukher Keg, Gruu-Zi-In, Aprold, Ush Retsim [Ретсим = «Мистер» задом наперёд — оставлено как звучит], Bedilash, Dzhinchok…), планеты — по ванилле (Ramgatrue, Hahaldock, Shukheo, Eilank, Duede, Arnarick Guadad, Pkhedoc, Eipentak).
+Гаалдок: ванилла — Hahaldock; в Kidnapped/Massacri остался вариант Gaaldok (прежний глоссарий). ВОПРОС пользователю: привести их к Hahaldock?
+АДАПТАЦИИ / СОМНЕНИЯ:
+- QuestSuccessGovMessage «Уш, вы 3.14Dr» — «3.14Dr» (число пи + Dr = «пидр») оставлено как есть: «Ush, you're a 3.14Dr».
+- «Мистические Пейнджеры» (пародия на «Рейнджеров», в Loc99+/Path637b пишется и «Пейджеры») → Mystic Paingers. «Rangers Memes Network (RMN)» оставлено, «Rangers News Network» — как в RU.
+- «Хмельное Наслаждение» → Hoppy Delight; «Беерорама/Пиворама» → Beerorama (каламбур сохранён); «ТЫндекс/Тындекс» → TYndex/Tyndex (Яндекс), «СДКЭ» — SDKE (расшифровка в Loc253-1: Karagon Express Delivery Service).
+- Шкала «Гууса Жатецкого» → Guus Zhatetsky scale (Жатец — Zatec); «пивбол» → beerball; «Большое Пивное Пузо» → Big Beer Belly; «гозе» → gose.
+- «Пунтик и его друзья» (Лупсень и Куксень), «Ква-Гон» (Qui-Gon), «Ханни Соло» (Han Solo), «Баал-Да» (Балда у Пушкина), «Докопайко» (докопаться), «Сан Саныч», «Хаматх Ка-Ганди» — оставлены/транслитерированы без пояснений в тексте.
+- Loc172-2: «КПТУ» / «КПТ» (термопаста) — оставлено KPTU/KPT + расшифровка «Kosmicheskoye Politekhnicheskoye Uchilishche, the Space Polytechnic School»: шутка про термопасту читается слабее.
+- Loc378-1: «Бамбай-Ахмат ибн Бей Вморду» — Bambay-Akhmat ibn Bey Vmordu («в морду» = «в лицо»).
+- Loc497-1 «Ёкарный бамбай!» → «Holy Bambay!».
+- Path1155b…1159b: «приняла язычество» (шутка на «язычки» банок) → «converted to paganism» + «The tabs - little tongues, you know - got bent».
+- Loc440b: «Меньше полов» (полов = «полов»/«этажей» двусмысленно) → «Fewer sexes».
+- Par126: 101 имя рецензентов (малокские/пеленгские/человеческие/фэянские/гаальские) — транслит; мифологические — привычные формы (Apollo, Mars, Caesar, Atlas, Hercules, Zeus, Dionysus, Herodotus, Chronos).
+- «Шу» (Loc266-1, Path635) — оставлено Shu (возможно сокращение Уша, неясно).
+- Loc238-1 «Бу Харик» — Bu Kharik.
+- Опечатки RU, воспроизведённые намеренно: «коэфисиент» → coefficent, «высрелов» → shoots, «очковы/неочковы» → scoring/non-scoring (по смыслу), «успешный успех» → successful success.
+- Кинза → kinza (термин корпуса), янвелб → ekup (глоссарий), Бердикель/бирдекели → beer coaster, пивозавр → Beersaur.
+- Тысячи «15.000» → 15,000 (американская запись).
+- Служебные/отладочные записи авторов (Loc169-1, Loc189-1, Loc463-1, Loc516-1 и т.п.) переведены дословно, включая брань («меня не ебёт каким образом» → «I don't give a fuck how»).
+- Loc607-1: «432 < 500 … 432 > -500» переформулировано словами («less than/greater than»): qtr.py принимает «<…>» с кириллицей только как псевдотег.

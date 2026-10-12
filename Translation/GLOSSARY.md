@@ -3304,7 +3304,7 @@
 | втыкилла | vtykilla | ShuSmugglers, ShuNukes |
 | КВСМК / КВМСК | CAFIC | ShuMiniBoss, ShuRebellion, ShuWarriors |
 | Шигуль Цак | Shigul Tsak | Expansion/ExpBeerQuest |
-| Махпелла Дарк (пиво) | Mahpella Dark | Expansion/ExpBeerQuest |
+| Махпелла Дарк (пиво) | Makhpella Dark | Amnesia, Kidnapped, Expansion/ExpBeerQuest |
 | Рачехан Лагер (пиво) | Rachekhan Lager | Expansion/ExpBeerQuest |
 | Искра (корпус) | Spark | Expansion/ExpLightning |
 | Дядя Вася и сыновья (тюнинг-компания) | Uncle Vasya and Sons | Expansion/ExpLightning |
@@ -3353,3 +3353,36 @@
 | Таутитановый двигатель | Tautitanium Engine | Tweaks SR2DominatorsBalance |
 | доминаторы vs силы коалиции (рейтинг сил) | Dominators are weaker than / stronger than / much stronger than the Coalition; Dominator and Coalition forces are equal | Tweaks |
 | ошмёток (научные базы) | debris | Tweaks DevKit |
+| Илья Наливкин | Ilya Nalivkin | TheBeerQuest |
+| Тудым-Сюдым | Tudym-Syudym | TheBeerQuest |
+| Шухер Кег | Shukher Keg | TheBeerQuest |
+| Груу-Зи-Ин | Gruu-Zi-In | TheBeerQuest |
+| Апролд | Aprold | TheBeerQuest |
+| Уш Ретсим | Ush Retsim | TheBeerQuest |
+| Бедилаш | Bedilash | TheBeerQuest |
+| Си Галь / Фимор-Ина / Мил Лимов | Si Gal / Fimor-Ina / Mil Limov | TheBeerQuest |
+| Джиньчок | Dzhinchok | TheBeerQuest |
+| Сан Саныч | San Sanych | TheBeerQuest |
+| полковник Докопайко | Colonel Dokopayko | TheBeerQuest |
+| гвардии сержант Мамочкин | Guards Sergeant Mamochkin | TheBeerQuest |
+| Хмельное Наслаждение (пивоваренная компания) | Hoppy Delight | TheBeerQuest |
+| Красные Топоры (малокский отряд) | Red Axes | TheBeerQuest |
+| ЧОП «Атланты» | PSC "Atlantes" | TheBeerQuest |
+| корпорация «Фэйенгеллион» | Feyengellion corporation | TheBeerQuest |
+| ЗАО «СемерёнМашТрест» | CJSC "SemeryonMashTrest" | TheBeerQuest |
+| ООО «Пиворама» | LLC "Beerorama" | TheBeerQuest |
+| ОАО «Фэй-Тех Индастриал» | OJSC "Fey-Tech Industrial" | TheBeerQuest |
+| СДКЭ (Служба Доставки Карагон Экспресс) | SDKE (Karagon Express Delivery Service) | TheBeerQuest |
+| ТЫндекс / Тындекс | TYndex / Tyndex | TheBeerQuest |
+| Мистические Пейнджеры | Mystic Paingers | TheBeerQuest |
+| Самогон ТВ | Moonshine TV | TheBeerQuest |
+| шкала Гууса Жатецкого | Guus Zhatetsky scale | TheBeerQuest |
+| Большое Пивное Пузо | Big Beer Belly | TheBeerQuest |
+| пивбол | beerball | TheBeerQuest |
+| гозе | gose | TheBeerQuest |
+| Иике-Баана | Iike-Baana | TheBeerQuest |
+| Надани Элус (фэянский фестиваль) | Nadani Elus | TheBeerQuest |
+| Верховный / Главный Пивокомандующий | Supreme / Chief Beer Commander | TheBeerQuest |
+| Гаалдок (планета; ванилла) | Hahaldock (ср. Gaaldok в Kidnapped, Massacri) | TheBeerQuest |
+| Рамгатру / Шухэо / Эйланк / Дуэдэ / Арнарик Гаудад | Ramgatrue / Shukheo / Eilank / Duede / Arnarick Guadad (ванилла) | TheBeerQuest |
+| Тарон / Атлан / Краа / Хемни | Taron / Atlan / Kraa / Khemni | TheBeerQuest |

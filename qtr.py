@@ -36,7 +36,11 @@ def records(text):
         if ln == '*':
             ln = '*\t'  # редакторы режут хвостовой TAB у пустой строки продолжения
         if '\t' not in ln:
+            ln = ln.rstrip('\r')
             if ln == '':
+                continue
+            if recs:   # строка без маркера '*' в RU (напр. ExpBeerQuest): продолжение предыдущей записи
+                recs[-1][1].append(ln)
                 continue
             raise ValueError('строка %d без TAB: %r' % (i, ln[:60]))
         t, s = ln.split('\t', 1)
