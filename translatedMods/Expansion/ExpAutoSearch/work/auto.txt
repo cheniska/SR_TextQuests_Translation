@@ -1,44 +1,122 @@
+Акрин:	Acryn:
+Не важен	Doesn't matter
+Уровень акрина:	Acryn level:
+Без акрина	Without acryn
+Оформить запрос	Submit request
+НАСТРОЙКА АВТОПОИСКА	AUTO SEARCH SETTINGS
+Удалить запрос	Delete request
+Как часто производить указанный запрос?	How often should this request be run?
 Модификация:	Modification:
+Не важна	Doesn't matter
+Уровень модификации:	Modification level:
+Без модификации	Without modification
+Цена:	Price:
+Восприимчивость к Э/О/Р:	Damage susceptibility E/S/M:
 энергетическое	energy
+Ёмкость: <val>	Capacity: <val>
+Боезапас: <MaxCount>	Ammo: <MaxCount>
 ракетное	missile
+непревзойдённая	unsurpassed
 очень высокая	Very high
 высокая	High
 средняя	Average
 низкая	Low
 очень низкая	Very low
 ужасная	Awful
+Надёжность: <val>	Reliability: <val>
 осколочное	fragmentation
+Стойкость:  Э:#1#%  О:#2#%  Р:#3#%	Durability:  E:#1#%  S:#2#%  M:#3#%
+Мощность:	Power:
+Эффективность:	Effectiveness:
+Сила поля:	Field strength:
+Броня:	Armor:
+Вместительность:	Capacity:
+дроид	droid
+двигатель	engine
+топливный бак	fuel tank
+захват	gripper
 Корпус	Hull
+корпус	hull
+радар	radar
+сканер	scanner
+генератор защиты	shield generator
+Изменить существующий запрос	Edit an existing request
+Вы уверены, что хотите переоформить поисковый запрос за #0# cr?	Are you sure you want to re-file the search request for #0# cr?
+Выберите акрин:	Choose acryn:
+Выберите модификацию:	Choose modification:
+Выберите желаемое орудие:	Choose the desired weapon:
+Создать новый запрос	Create a new request
+Вы уверены, что хотите удалить данный запрос?	Are you sure you want to delete this request?
+Помимо этого, в рамках программы сотрудничества с единым галактическим <clr>Инфоцентром<clrEnd>, здесь вы можете оформить автоматический поисковый запрос, который поможет сэкономить ваше время в нахождении необходимого бортового оборудования.	In addition, under the cooperation program with the unified galactic <clr>Info Center<clrEnd>, here you can file an automatic search request that will save you time in finding the on-board equipment you need.
+В рамках программы сотрудничества с единым галактическим Инфоцентром, здесь вы можете оформить автоматический поисковый запрос, который поможет сэкономить ваше время в нахождении необходимого бортового оборудования.	Under the cooperation program with the unified galactic Info Center, here you can file an automatic search request that will save you time in finding the on-board equipment you need.
+дроида	droid
+двигателя	engine
+топл. бака	fuel tank
 Назад	Back
+Новый поисковый запрос успешно <clr>создан<clrEnd>. Желаете сделать что-нибудь ещё?	New search request successfully <clr>created<clrEnd>. Would you like to do anything else?
+Создание автоматического поискового запроса - отличный способ сэкономить ваше время и нервы на поиске необходимого оборудования через единый галактический <clr>Инфоцентр<clrEnd>. Просто укажите желаемые параметры запроса и наши автоматические субквантовые сервера с удовольствием выполнят всю работу за вас!<br><clr><clrEnd><br>Одновременно вы можете оформить до #0# поисковых запросов, каждый из которых сможет вывести на вашу панель уведомлений до #1# успешных результатов поиска. Каждый оформленный поисковый запрос будет автоматически производить поиск через указанные вами промежутки времени до тех пор, пока вы не <clr>удалите<clrEnd> или не <clr>переоформите<clrEnd> его на поиск другого предмета. Также имейте в виду, что первый поиск после оформления или переоформления запроса произойдёт на следующий же день после подтверждения операции.<br><clr><clrEnd><br>Стоимость оформления или переоформления поискового запроса на данный момент составляет #2# cr., а стоимость непосредственно осуществления поиска по данному запросу - #3# cr.	Creating an automatic search request is an excellent way to save your time and nerves in finding the equipment you need through the unified galactic <clr>Info Center<clrEnd>. Just specify the desired request parameters, and our automatic subquantum servers will gladly do all the work for you!<br><clr><clrEnd><br>You can file up to #0# search requests at a time, each of which can display up to #1# successful search results on your notification panel. Each filed search request will automatically run a search at the intervals you specify until you <clr>delete<clrEnd> it or <clr>re-file<clrEnd> it to search for a different item. Also keep in mind that the first search after filing or re-filing a request will take place the very next day after the operation is confirmed.<br><clr><clrEnd><br>The cost of filing or re-filing a search request is currently #2# cr., and the cost of actually running a search for this request is #3# cr.
+захвата	gripper
+Для создания поискового запроса вы должны указать как минимум один подходящий тип корпуса.	To create a search request you must specify at least one suitable hull type.
+корпуса	hull
+Мои поисковые запросы	My search requests
+Вы уверены, что хотите оформить новый поисковый запрос за #0# cr?	Are you sure you want to file a new search request for #0# cr?
+Все бизнес-центры уничтожены. Ваши <color=255,240,100>поисковые запросы</color> временно заморожены.	All business centers have been destroyed. Your <color=255,240,100>search requests</color> are temporarily frozen.
+Уважаемый клиент, на вашем счету недостаточно средств для оплаты стоимости запланированного запроса автопоиска. Стандартная стоимость данной операции составляет #0# cr.	Dear client, there are insufficient funds on your account to pay the cost of the scheduled autosearch request. The standard cost of this operation is #0# cr.
+Уважаемый клиент, по вашему запросу поиска #0# ничего не найдено. Однако не огорчайтесь, в другой раз вам непременно повезёт.	Dear client, nothing was found for your search request #0#. Do not be upset, though, you will certainly have better luck next time.
+Извините, но на вашем счету недостаточно средств для переоформления поискового запроса.	Sorry, but there are insufficient funds on your account to re-file the search request.
+Извините, но на вашем счету недостаточно средств для оформления поискового запроса.	Sorry, but there are insufficient funds on your account to file the search request.
+Для создания поискового запроса вы должны указать как минимум одну подходящую расу производителя.	To create a search request you must specify at least one suitable manufacturer race.
+радара	radar
+Запрос на поиск #0#<br><clr> <clrEnd><clr> <clrEnd><clr> <clrEnd><clr> <clrEnd>(раз в #1# дн.)	Search request for #0#<br><clr> <clrEnd><clr> <clrEnd><clr> <clrEnd><clr> <clrEnd>(every #1# days)
+Выберите запрос, который вы хотели бы <clr>просмотреть<clrEnd>, <clr>изменить<clrEnd> или <clr>удалить<clrEnd>.	Select the request you would like to <clr>view<clrEnd>, <clr>edit<clrEnd>, or <clr>delete<clrEnd>.
+Выбранный поисковый запрос успешно <clr>изменён<clrEnd>. Желаете сделать что-нибудь ещё?	The selected search request was successfully <clr>changed<clrEnd>. Would you like to do anything else?
+Выбранный поисковый запрос успешно <clr>удалён<clrEnd>. Желаете сделать что-нибудь ещё?	The selected search request was successfully <clr>deleted<clrEnd>. Would you like to do anything else?
+сканера	scanner
+ГЗП	SG
+Магазин:	Store:
+Для создания поискового запроса вы должны указать как минимум один подходящий тип оружия.	To create a search request you must specify at least one suitable weapon type.
+оружия	weapons
 Убийца	Assassin
 Скала	Rock
 Болид	Bolide
+Быстрый корпус I-IV	Fast Hull I-IV
 Быстрый корпус I	Fast Hull I
 Быстрый корпус II	Fast Hull II
 Быстрый корпус III	Fast Hull III
 Быстрый корпус IV	Fast Hull IV
+Неуязвимый корпус I-IV	Invincible Hull I-IV
 Неуязвимый корпус I	Invincible Hull I
 Неуязвимый корпус II	Invincible Hull II
 Неуязвимый корпус III	Invincible Hull III
 Неуязвимый корпус IV	Invincible Hull IV
+Ремонтный корпус I-IV	Repair Hull I-IV
 Ремонтный корпус I	Repair Hull I
 Ремонтный корпус II	Repair Hull II
 Ремонтный корпус III	Repair Hull III
 Ремонтный корпус IV	Repair Hull IV
+Миоплазменный корпус I-IV	Myoplasmic Hull I-IV
 Миоплазменный корпус I	Myoplasmic Hull I
 Миоплазменный корпус II	Myoplasmic Hull II
 Миоплазменный корпус III	Myoplasmic Hull III
 Миоплазменный корпус IV	Myoplasmic Hull IV
+Пигамарный корпус I-IV	Pygamore Hull I-IV
 Пигамарный корпус I	Pygamore Hull I
 Пигамарный корпус II	Pygamore Hull II
 Пигамарный корпус III	Pygamore Hull III
 Пигамарный корпус IV	Pygamore Hull IV
+Миоплазменный топливный бак I-III	Myoplasmic Fuel Tank I-III
 Миоплазменный топливный бак I	Myoplasmic Fuel Tank I
+Миоплазменный двигатель I-III	Myoplasmic Engine I-III
 Миоплазменный двигатель I	Myoplasmic Engine I
+Миоплазменный радар I-III	Myoplasmic Radar I-III
 Миоплазменный радар I	Myoplasmic Radar I
+Миоплазменный сканер I-III	Myoplasmic Scanner I-III
 Миоплазменный сканер I	Myoplasmic Scanner I
+Миоплазменный дроид I-III	Myoplasmic Droid I-III
 Миоплазменный дроид I	Myoplasmic Droid I
+Миоплазменный захват I-III	Myoplasmic Gripper I-III
 Миоплазменный захват I	Myoplasmic Gripper I
+Миоплазменный генератор защиты I-III	Myoplasmic Shield Generator I-III
 Миоплазменный генератор защиты I	Myoplasmic Shield Generator I
 Миоплазменный топливный бак II	Myoplasmic Fuel Tank II
 Миоплазменный двигатель II	Myoplasmic Engine II
@@ -54,12 +132,19 @@
 Миоплазменный дроид III	Myoplasmic Droid III
 Миоплазменный захват III	Myoplasmic Gripper III
 Миоплазменный генератор защиты III	Myoplasmic Shield Generator III
+Пигамарный топливный бак I-III	Pygamore Fuel Tank I-III
 Пигамарный топливный бак I	Pygamore Fuel Tank I
+Пигамарный двигатель I-III	Pygamore Engine I-III
 Пигамарный двигатель I	Pygamore Engine I
+Пигамарный радар I-III	Pygamore Radar I-III
 Пигамарный радар I	Pygamore Radar I
+Пигамарный сканер I-III	Pygamore Scanner I-III
 Пигамарный сканер I	Pygamore Scanner I
+Пигамарный дроид I-III	Pygamore Droid I-III
 Пигамарный дроид I	Pygamore Droid I
+Пигамарный захват I-III	Pygamore Gripper I-III
 Пигамарный захват I	Pygamore Gripper I
+Пигамарный генератор защиты I-III	Pygamore Shield Generator I-III
 Пигамарный генератор защиты I	Pygamore Shield Generator I
 Пигамарный топливный бак II	Pygamore Fuel Tank II
 Пигамарный двигатель II	Pygamore Engine II
@@ -75,14 +160,21 @@
 Пигамарный дроид III	Pygamore Droid III
 Пигамарный захват III	Pygamore Hook III
 Пигамарный генератор защиты III	Pygamore Shield Generator III
+Трансцендентальный двигатель I-III	Transcendental Engine I-III
 Трансцендентальный двигатель I	Transcendental Engine I
 Трансцендентальный двигатель II	Transcendental Engine II
 Трансцендентальный двигатель III	Transcendental Engine III
+Апгрейтинговый захват I-III	Upgraded Gripper I-III
 Апгрейтинговый захват I	Upgraded Gripper I
+Апгрейтинговый генератор защиты I-III	Upgraded Shield Generator I-III
 Апгрейтинговый генератор защиты I	Upgraded Shield Generator I
+Апгрейтинговый двигатель I-III	Upgraded Engine I-III
 Апгрейтинговый двигатель I	Upgraded Engine I
+Апгрейтинговый топливный бак I-III	Upgraded Fuel Tank I-III
 Апгрейтинговый топливный бак I	Upgraded Fuel Tank I
+Апгрейтинговый радар I-III	Upgraded Radar I-III
 Апгрейтинговый радар I	Upgraded Radar I
+Апгрейтинговый сканер I-III	Upgraded Scanner I-III
 Апгрейтинговый сканер I	Upgraded Scanner I
 Апгрейтинговый захват II	Upgraded Gripper II
 Апгрейтинговый генератор защиты II	Upgraded Shield Generator II
@@ -96,11 +188,15 @@
 Апгрейтинговый топливный бак III	Upgraded Fuel Tank III
 Апгрейтинговый радар III	Upgraded Radar III
 Апгрейтинговый сканер III	Upgraded Scanner III
+Биогенный дроид I-III	Biogenic Droid I-III
 Биогенный дроид I	Biogenic Droid I
 Биогенный дроид II	Biogenic Droid II
 Биогенный дроид III	Biogenic Droid III
+Нанобролитовый дроид I-III	Nanobrolite Droid I-III
 Нанобролитовый дроид I	Nanobrolite Droid I
+Нанобролитовый двигатель I-III	Nanobrolite Engine I-III
 Нанобролитовый двигатель I	Nanobrolite Engine I
+Нанобролитовый генератор защиты I-III	Nanobrolite Shield Generator I-III
 Нанобролитовый генератор защиты I	Nanobrolite Shield Generator I
 Нанобролитовый дроид II	Nanobrolite Droid II
 Нанобролитовый двигатель II	Nanobrolite Engine II
@@ -108,9 +204,13 @@
 Нанобролитовый дроид III	Nanobrolite Droid III
 Нанобролитовый двигатель III	Nanobrolite Engine III
 Нанобролитовый генератор защиты III	Nanobrolite Shield Generator III
+Ультрасплавный сканер I-III	Ultra-alloy Scanner I-III
 Ультрасплавный сканер I	Ultraalloy Scanner I
+Ультрасплавный радар I-III	Ultra-alloy Radar I-III
 Ультрасплавный радар I	Ultraalloy Radar I
+Ультрасплавный топливный бак I-III	Ultra-alloy Fuel Tank I-III
 Ультрасплавный топливный бак I	Ultraalloy Fuel Tank I
+Ультрасплавный захват I-III	Ultra-alloy Gripper I-III
 Ультрасплавный захват I	Ultraalloy Gripper I
 Ультрасплавный сканер II	Ultraalloy Scanner II
 Ультрасплавный радар II	Ultraalloy Radar II
@@ -120,26 +220,32 @@
 Ультрасплавный топливный бак III	Ultraalloy Fuel Tank III
 Ультрасплавный захват III	Ultraalloy Gripper III
 Ультрасплавный сканер III	Ultraalloy Scanner III
+Добрый лякуша I-IV	Kind Lyakusha I-IV
 Корпус "Добрый лякуша" I	Kindhearted Lyakusha Hull I
 Корпус "Добрый лякуша" II	Kindhearted Lyakusha Hull II
 Корпус "Добрый лякуша" III	Kindhearted Lyakusha Hull III
 Корпус "Добрый лякуша" IV	Kindhearted Lyakusha Hull IV
+Мирный корсар I-IV	Peaceful Corsair I-IV
 Корпус "Мирный корсар" I	Peaceful Corsair Hull I
 Корпус "Мирный корсар" II	Peaceful Corsair Hull II
 Корпус "Мирный корсар" III	Peaceful Corsair Hull III
 Корпус "Мирный корсар" IV	Peaceful Corsair Hull IV
+Честный ренегал I-IV	Honest Renegal I-IV
 Корпус "Честный ренегал" I	Conscientious Renegal Hull I
 Корпус "Честный ренегал" II	Conscientious Renegal Hull II
 Корпус "Честный ренегал" III	Conscientious Renegal Hull III
 Корпус "Честный ренегал" IV	Conscientious Renegal Hull IV
+Молния I-IV	Lightning I-IV
 Корпус "Молния" I	Dandy Hull I
 Корпус "Молния" II	Dandy Hull II
 Корпус "Молния" III	Dandy Hull III
 Корпус "Молния" IV	Dandy Hull IV
+Броненосец I-IV	Ironclad I-IV
 Корпус "Броненосец" I	Ironclad Hull I
 Корпус "Броненосец" II	Ironclad Hull II
 Корпус "Броненосец" III	Ironclad Hull III
 Корпус "Броненосец" IV	Ironclad Hull IV
+Ушастик I-IV	Dumbo I-IV
 Корпус "Ушастик" I	Dumbo Hull I
 Корпус "Ушастик" II	Dumbo Hull II
 Корпус "Ушастик" III	Dumbo Hull III

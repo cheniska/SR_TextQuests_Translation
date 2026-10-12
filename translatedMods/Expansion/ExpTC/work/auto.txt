@@ -1,24 +1,185 @@
+Ценные минералы	Valuable minerals
+Содержит особо ценные соединения металлов и минералов.	Contains especially valuable metal and mineral compounds.
+"Дишот"	"Dishot"
+<color=248,252,248>На это орудие установлен дополнительный энергомодуль, который вводится в строй, пока основной находится на перезарядке. Синхронизировав циклы их работы, инженеры смогли добиться впечатляющего прироста скорострельности установки. Недостатком же данного подхода явился возросший вес и стоимость орудия, а также ускоренный износ главных проводящих контуров устройства.</color>	<color=248,252,248>An additional power module is installed on this weapon, which comes online while the main one is recharging. By synchronizing their work cycles, the engineers achieved an impressive increase in the installation's rate of fire. The drawback of this approach was the increased weight and cost of the weapon, as well as accelerated wear of the device's main conducting circuits.</color>
+Скорострельность: <clr>+1<clrEnd>	Rate of fire: <clr>+1<clrEnd>
+Надёжность: <clr>-25%<clrEnd>	Reliability: <clr>-25%<clrEnd>
+Стоимость: <clr>+300%<clrEnd>	Cost: <clr>+300%<clrEnd>
 Размер: <clr>+100%<clrEnd>	Size: <clr>+100%<clrEnd>
+<color=248,252,248>На данном орудии установлена продвинутая система подачи снарядов. Материалы нулевого трения и дополнительные системы охлаждения позволили существенно сократить время, необходимое для полной перезарядки и, соответственно, снизить нежелательную задержку перед выстрелом. К сожалению, полностью устранить фактор ускоренного износа инженеры так и не смогли, а применение более прочных и дорогих деталей привело к увеличению конечного веса конструкции.</color>	<color=248,252,248>This weapon is fitted with an advanced projectile feed system. Zero-friction materials and additional cooling systems substantially cut the time needed for a full reload and, accordingly, reduce the unwanted delay before the shot. Unfortunately, the engineers could not fully eliminate the accelerated wear factor, and the use of stronger and more expensive parts increased the final weight of the design.</color>
+Экспериментальный корпус I-IV	Experimental hull I-IV
+Экспериментальный корпус I	Experimental hull I
+<color=248,252,248>Специалисты Технологических центров находятся в постоянных поисках решений для улучшения оборудования, данный корпус является очередным "гениальным" решением одного из ведущих специалистов. Оптимизация внутреннего пространства и энергетических узлов позволяет подключить почти всё возможное оборудование. Однако проектировщики забыли о реалиях современного космоса и перенесли многие уязвимые системы корабля слишком близко к обшивке, в результате чего в бою данный корабль страдает намного сильнее прочих.</color>	<color=248,252,248>Technology Center specialists are constantly searching for solutions to improve equipment, and this hull is yet another "brilliant" solution by one of the leading specialists. Optimization of the interior space and power units makes it possible to connect nearly all possible equipment. However, the designers forgot the realities of modern space and moved many of the ship's vulnerable systems too close to the hull plating, as a result of which this ship suffers much more than others in battle.</color>
+Экспериментальный корпус II	Experimental hull II
+Экспериментальный корпус III	Experimental hull III
+Экспериментальный корпус IV	Experimental hull IV
+Покинутый корабль	Abandoned ship
+</color>Спасательная шлюпка	</color>Lifeboat
+Крошечный корпус-шлюпка, созданный для экстренного катапультирования. Благодаря минимальной комплектации и небольшим размерам способен развивать внушительную скорость, однако и прочность его крайне невелика.	A tiny lifeboat hull designed for emergency ejection. Thanks to its minimal configuration and small size it can reach an impressive speed, but its durability is extremely low.
+"Магнетрон"	"Magnetron"
+<color=248,252,248>Источник мощного магнитного поля, установленный на данном орудии, значительно увеличивает пробивную силу любого энергетического импульса. При этом вызываемые магнитным полем помехи отрицательно сказываются на надёжности установки, а также ощутимо снижают эффективность работы бортового оборудования как атакующего,<br>так и его цели.</color>	<color=248,252,248>A powerful magnetic field source installed on this weapon significantly increases the penetrating force of any energy pulse. However, the interference caused by the magnetic field hurts the installation's reliability and also noticeably reduces the effectiveness of on-board equipment, both the attacker's<br>and its target's.</color>
+Бонус к урону: <clr>+12<clrEnd> ед.	Damage bonus: <clr>+12<clrEnd>
+Дополнительный эффект: <clr>ЭМ-помехи<clrEnd>	Additional effect: <clr>EM interference<clrEnd>
 Дальность радара: <bonRadar> млн. км.	Radar range: <bonRadar> million km.
 Мощность сканера: <bonScan> ед.	Scanner power: <bonScan>.
+Стоимость: <clr>+80%<clrEnd>	Cost: <clr>+80%<clrEnd>
 Размер: <clr>+25%<clrEnd>	Size: <clr>+25%<clrEnd>
+<color=248,252,248>Источник мощного магнитного поля, установленный на данном орудии, значительно увеличивает пробивную силу любого кинетического боеприпаса. При этом вызываемые магнитным полем помехи отрицательно сказываются на надёжности установки, а также ощутимо снижают эффективность работы бортового оборудования как атакующего,<br>так и его цели.</color>	<color=248,252,248>A powerful magnetic field source installed on this weapon significantly increases the penetrating force of any kinetic ammunition. However, the interference caused by the magnetic field hurts the installation's reliability and also noticeably reduces the effectiveness of on-board equipment, both the attacker's<br>and its target's.</color>
+Бонус к урону: <clr>+15<clrEnd> ед.	Damage bonus: <clr>+15<clrEnd>
+<color=255,167,84>Корпус оборудован <color=255,240,100>спасательной шлюпкой</color>.</color>	<color=255,167,84>The hull is equipped with a <color=255,240,100>lifeboat</color>.</color>
+"Тришот"	"Trishot"
+Винтик	Vintik
+Шпунтик	Shpuntik
+Гаечный ключ	Wrench
+Умелых рук	Skilled Hands
+Машинного масла	Engine Oil
+Шиномонтаж	Tire Fitting
+Ударного труда	Shock Labor
+Модернизации	Modernization
+Сурового техпроцесса	Harsh Process
+Тяжёлых механизмов	Heavy Machinery
+Космическая гавань	Space Harbor
+Астромастерская	Astroworkshop
+Блестящий болт	Shiny Bolt
+Перевыполнения	Overfulfillment
+Весёлый Кулибин	Merry Kulibin
+Высокой закалки	High Hardening
+Конструктивный	Constructive
+Трансмиссия	Transmission
+Гравицапа	Gravizap
+Заводной мандарин	Clockwork Tangerine
+Качественных деталей	Quality Parts
+Звёздная кузня	Star Forge
+Оптимальная твёрдость	Optimal Hardness
+Дефектоскопии	Defectoscopy
+Им. Ю. Гагарина	Named after Yu. Gagarin
+Им. Г. Титова	Named after G. Titov
+Им. С. Королёва	Named after S. Korolev
+Им. А. Шепарда	Named after A. Shepard
+Им. Д. Гленна	Named after J. Glenn
+Спасибо, что посетили нашу станцию station. Удобно располагайтесь, <Player>, чувствуйте себя здесь как дома. Мы - лучшие специалисты Галактики в области технологического сервиса космических кораблей и оборудования. В перечень наших услуг входит: улучшение оборудования, модернизация зондов, изменение восприимчивости к тому или иному типу урона и многое другое! Предлагаю вам в полной мере насладиться нашим вкусным кофе и изучить за это время прейскурант.	Thank you for visiting our station station. Make yourself comfortable, <Player>, feel at home here. We are the best specialists in the Galaxy in technological servicing of spaceships and equipment. Our services include: equipment improvement, probe upgrades, changing susceptibility to one type of damage or another, and much more! I suggest you fully enjoy our tasty coffee and study the price list in the meantime.
+Механизм запуска <color=255,240,100>спасательной шлюпки</color>, в обычной ситуации всегда срабатывающий как часы, не был приспособлен для запуска лишь в одном-единственном месте... в <color=255,240,100>гиперпространстве</color>. Однако, как это часто происходит по иронии судьбы, именно туда-то и угораздило затянуть ваш корабль за считанные секунды до того, как оглушительный взрыв навсегда оборвал вашу героическую и полную невероятных приключений жизнь.<br>Вы погибли, <Player>, и теперь вся слава достанется другим рейнджерам! Но ваше имя будет навечно занесено в список героев войны, а семья получит положенную страховку в размере <Money> cr.	The <color=255,240,100>lifeboat</color> launch mechanism, which normally works like clockwork, was not adapted for launching in just one single place... in <color=255,240,100>hyperspace</color>. But, as so often happens with the irony of fate, it was precisely there that your ship was pulled a few seconds before a deafening explosion forever cut short your heroic life, full of incredible adventures.<br>You are dead, <Player>, and now all the glory will go to other rangers! But your name will be entered forever in the list of war heroes, and your family will receive the standard insurance payment of <Money> cr.
 Согласен	Agree
+Итак... Наши специалисты считают, что вероятность успеха равна <0>%. Продолжаем работу?	So... Our specialists estimate the chance of success at <0>%. Shall we continue the work?
+Улучшить зонд	Upgrade a probe
+Откатить улучшение	Roll back an improvement
+</color>увеличивается	</color>increases
+</color>уменьшается	</color>decreases
+Оружейные системы	Weapon systems
+Ремонтные системы	Repair systems
+Системы захвата	Gripper systems
+Системы генератора защитного поля	Shield generator systems
+Системы сканера	Scanner systems
+Системы радара	Radar systems
+Системы дополнительного оборудования	Additional equipment systems
+Системы форсажа	Afterburner systems
+Возможно, а что вы можете предложить?	Possibly, what can you offer?
+Хочу установить спасательную капсулу	I want to install an escape pod
 Понятно	I see
+Воспользуюсь услугами других специалистов	I'll use the services of other specialists
 Отлично	Great
+Наши техники - те ещё умельцы, и смогут улучшить ваш корпус <clr>1917<clrEnd> способами. Не верите? Ну и ладно! Всё равно большинство из них будут понятны лишь настоящим эстетам, а их в наше время не так и много.<br><br>Для вас как рейнджера мы можем без оглядки на ситуацию - так сказать, сходу, - предложить следующие услуги:<br>----------------<br>1. Установка спасательной капсулы <0><br><clr>Спасательная капсула<clrEnd> - особая система пуска небольшого корабля-шлюпки при гибели корабля-носителя. Эта система позволяет спастись пилоту - если внезапно оказался под жестоким обстрелом врага.<br>----------------<br>2. Напыление защитного слоя<br><clr>Защитный слой<clrEnd> - наша новейшая разработка. Уникальное тетраулоновое покрытие, наносимое на наиболее уязвимые участки корпуса. Мы можем нанести его с различными добавками, которые будут действовать против конкретного типа урона, либо перемешаем их и равномерно распределим.<br>----------------<br>3. Смена функционала корпуса<br>Часто оказывается так, что возможности и потребности оказываются несоразмерными, и приходится соглашаться на меньшее. Однако, наши техники могут помочь вам разместить <clr>новые слоты<clrEnd> для корпуса. Либо, конечно же, наоборот - <clr>заварить<clrEnd>, чтобы повысить его защитные характеристики.<br>----------------<br><br>Итак, каков ваш выбор, <Player>?	Our technicians are real craftsmen, and can improve your hull in <clr>1917<clrEnd> ways. Don't believe it? Fine! Most of them will be clear only to true connoisseurs anyway, and there aren't many of those these days.<br><br>For you as a ranger we can, without regard to the situation - straight off, so to speak - offer the following services:<br>----------------<br>1. Installation of an escape pod <0><br>An <clr>escape pod<clrEnd> is a special system for launching a small lifeboat ship when the carrier ship is destroyed. This system lets the pilot escape - if he suddenly finds himself under brutal enemy fire.<br>----------------<br>2. Protective layer coating<br>The <clr>protective layer<clrEnd> is our newest development. A unique tetraulon coating applied to the most vulnerable areas of the hull. We can apply it with various additives that work against a specific type of damage, or mix them and distribute them evenly.<br>----------------<br>3. Changing hull functionality<br>It often turns out that capabilities and needs are out of proportion and one has to settle for less. But our technicians can help you place <clr>new slots<clrEnd> for the hull. Or, conversely, of course, <clr>weld them shut<clrEnd> to improve its protective characteristics.<br>----------------<br><br>So, what is your choice, <Player>?
+Смешайте все типы равномерно	Mix all types evenly
+Антиэнергетическое напыление	Anti-energy coating
+Антиосколочное напыление	Anti-splinter coating
+Антиракетное напыление	Anti-missile coating
+Спасибо...	Thanks...
+Выбрать что-то ещё	Choose something else
 Отлично, работа уже сделана, а ваши деньги уже на нашем счету. Вот так мы быстро работаем! Возможно, вы хотите что-то еще улучшить?	Excellent, the work is completed and your account has already been debited. We don't waste any time! Is there anything else you wish to upgrade?
+Выбрать донор	Choose a donor
+</color>Отлично, работа уже сделана, а ваши деньги уже на нашем счету. Вот так мы быстро работаем!	</color>Excellent, the work is already done, and your money is already in our account. That's how fast we work!
+</color>В предмете доноре не нашлось нужных деталей.	</color>The donor item did not contain the necessary parts.
+Исследование водных поверхностей	Exploration of water surfaces
+Исследование равнинных поверхностей	Exploration of plain surfaces
+Исследование горных поверхностей	Exploration of mountain surfaces
+Итак, к концу дня мы закончим установку и подключение. Вы уже выпили весь кофе? Ладно, сейчас попросим принести вам ещё...	So, by the end of the day we will finish installation and connection. Have you drunk all the coffee already? All right, we'll have some more brought to you right away...
+Откатите без донора	Roll back without a donor
+Увы, рейнджер, но, кажется, у вас на борту отсутствует подходящее оборудование. Возвращайтесь к нам, когда раздобудете его.	Alas, ranger, but it seems you have no suitable equipment aboard. Come back to us when you get some.
+Мы можем откатить <0> к стандартным заводским показателям за <1> cr.<br><2><br>Однако если у вас найдется "предмет-донор", снижение износостойкости не превысит 5%, правда лишь в том случае, если в нём найдутся нужные детали.	We can roll <0> back to standard factory values for <1> cr.<br><2><br>However, if you have a "donor item", the loss of wear resistance will not exceed 5%, though only if suitable parts can be found in it.
+Улучшить корпус	Improve the hull
+Сложно выполнять такую работу в сжатые сроки, но наши техники должны успеть вовремя. Не желаете ли заказать что-то ещё?	It is hard to do such work on short notice, but our technicians should make it in time. Would you like to order something else?
+Наша сеть разработала уникальное напыление на основе акрина. Обработанные им корпуса становятся менее восприимчивыми к повреждениям различных типов, однако обычное улучшение обшивки становится технически невозможным.<br><br>Сколько слоёв напыления вы желаете нанести?	Our network has developed a unique coating based on acryn. Hulls treated with it become less susceptible to various types of damage, but an ordinary plating improvement becomes technically impossible.<br><br>How many layers of coating do you wish to apply?
+Понятно. Мы можем использовать сбалансированное напыление или специализированное под определенный тип урона. Какую обработку вы хотите заказать?<br>Ещё, за отдельную плату мы можем нанести винилы. Нет? Может быть, хотите установить хромированные закрылки или неоновую подсветку под днище? Любой каприз за ваши деньги!	I see. We can use balanced coating or one specialized for a certain type of damage. Which treatment do you want to order?<br>Also, for a separate fee, we can apply decals. No? Maybe you want chrome flaps or neon lights under the belly installed? Any whim for your money!
+Это не займёт много времени. Правда, новое напыление имеет специфический запах, но не беспокойтесь - через несколько дней вы перестанете его замечать. А пока мы повесим вам в кабину ароматический фарюк. И, заметьте, совершенно бесплатно!	It won't take long. True, the new coating has a peculiar smell, but don't worry - in a few days you'll stop noticing it. In the meantime we'll hang a scented faryuk in your cockpit. And, mind you, absolutely free!
+Распределить улучшение равномерно	Distribute the improvement evenly
+Итак... Наши специалисты считают, что вероятность успеха равна <0>%. Продолжаем работу? Цифры не в вашу пользу, <Player>. Рискнёте здесь - проиграете всё!	So... Our specialists estimate the chance of success at <0>%. Shall we continue the work? The numbers are not in your favor, <Player>. Risk it here - lose everything!
+На вашем корабле уже установлена спасательная капсула. Установка второй невозможна из-за технических особенностей капсулы. Да и зачем вам две, в конце концов?	An escape pod is already installed on your ship. Installing a second one is impossible due to the technical features of the pod. And why would you need two, after all?
+Стандартная спасательная капсула обойдётся вам в <0> cr.<br>Система полностью автоматизирована, никакого ручного контроля. Капсула катапультируется даже если вы потеряете сознание в пылу битвы... С вами на борту, разумеется.<br>Однако, в силу непреодолимых технических сложностей, в гиперпространстве, к сожалению, система диагностики корабля отказывает.	A standard escape pod will cost you <0> cr.<br>The system is fully automated, no manual control. The pod ejects even if you lose consciousness in the heat of battle... With you aboard, of course.<br>However, due to insurmountable technical difficulties, the ship's diagnostic system unfortunately fails in hyperspace.
+"Откатом" мы называем возвращение оборудованию его заводских параметров. Может показаться, что это простая процедура, которая должна иметься у любого сложного устройства, но на самом деле сбросить пользовательские настройки бывает не так уж и просто, особенно когда речь касалась частичной замены деталей и вообще любого физического вмешательства в схему устройства. Разумеется, услуга не бесплатная.<br><br>Список предметов, над которыми мы можем поработать:<br><0>	By "rollback" we mean returning equipment to its factory parameters. It may seem a simple procedure that any complex device should have, but in fact resetting user settings is not so easy, especially when it comes to partial replacement of parts and any physical intervention in the device's circuitry at all. Naturally, the service is not free.<br><br>The list of items we can work on:<br><0>
+Удаление микромодулей до недавнего времени считалось технически невыполнимой задачей, однако нашим инженерам удалось разработать универсальную методику, которая позволяет это сделать. К сожалению, при этом оборудование подвергается серьезным аппаратным и программным нагрузкам, от которых уже не сможет оправиться - <clr>надежность<clrEnd> такого оборудования безвозвратно <color=220,20,20>снижается</color>, и этот эффект будет только накапливаться в случае повторных удалений.	Removing micromodules was considered technically impossible until recently, but our engineers managed to develop a universal method that makes it possible. Unfortunately, the equipment undergoes serious hardware and software stress in the process, from which it can no longer recover - the <clr>reliability<clrEnd> of such equipment <color=220,20,20>drops</color> irreversibly, and this effect will only accumulate with repeated removals.
+Сетью наших станций была разработана уникальная методика "разгона" параметров оборудования. Это наше ноу-хау. Мы можем повысить один из параметров оборудования, не затрагивая второй. В какой-то мере, это улучшение, подобное тому, которое проводят специалисты на научных базах, но, как можете посудить, отличие существенное. При этом износостойкость оборудования не изменится. Разумеется, это возможно лишь в том случае, если оборудование пригодно для улучшения.<br>Какое оборудование желаете улучшить?	The network of our stations has developed a unique method of "overclocking" equipment parameters. It is our know-how. We can raise one of the equipment's parameters without touching the other. To some extent this is an improvement like the one research station specialists perform, but, as you can judge, the difference is substantial. The equipment's wear resistance will not change. Naturally, this is possible only if the equipment is suitable for improvement.<br>Which equipment do you wish to improve?
+Конечно, поставить микромодуль в оборудование может кто угодно. Для этого хватит даже самого базового технического образования. Однако только профессионал способен раскрыть весь потенциал микромодуля. Знали ли вы, что при грамотной установке микромодуль может <color=20,220,20>повысить</color> износостойкость оборудования? Наши специалисты с этим легко справятся.	Of course, anyone can install a micromodule in equipment. Even the most basic technical education is enough. But only a professional can unlock the micromodule's full potential. Did you know that with proper installation a micromodule can <color=20,220,20>increase</color> the equipment's wear resistance? Our specialists will handle that easily.
+Заядлый исследователь незаселённых планет? Геодезист-любитель со школьной скамьи? Просто рейнджер, который ищет возможность подзаработать? Неважно!<br><br>Любой из них активно использует <clr>зондов<clrEnd>. И, наверное, каждый раз вас возмущала медленная работа этих разведчиков.<br><br>Так вот, наши специалисты могут вам помочь. Немного калибровок, обновлений программ, и вуаля - ваш зонд уже куда шустрее ищет клады Рачехана!<br><br>Заинтересовал? Тогда выбирайте, какого зонда коснутся умелые руки наших ребят!<br><br>Вот список зондов, над которыми мы можем поработать:<br><0>	An avid explorer of uninhabited planets? An amateur geodesist since school? Just a ranger looking for a chance to earn a bit extra? Doesn't matter!<br><br>Any of them actively uses <clr>probes<clrEnd>. And, no doubt, you've been annoyed every time by how slowly these scouts work.<br><br>Well, our specialists can help you. A little calibration, a few program updates, and voila - your probe searches for Rachekhan's treasures much more briskly!<br><br>Interested? Then choose which probe our guys' skilled hands will touch!<br><br>Here is the list of probes we can work on:<br><0>
+Мы ведём учёт каждого установленного улучшения. Техосмотр, какого оборудования вы бы хотели провести?	We keep a record of every installed improvement. What equipment would you like to have inspected?
+Выберите оборудование, из которого будут извлечены детали. <br><br>Обращаем ваше внимание на то, что после изъятия деталей ремонт будет <color=220,20,20>невозможен</color>. Оставшиеся запчасти наш центр оставляет за собой в качестве оплаты за демонтаж... Да и что вам с ними делать?	Select the equipment from which the parts will be extracted. <br><br>Please note that after the parts are removed, repair will be <color=220,20,20>impossible</color>. The remaining spare parts our center keeps as payment for the dismantling... And what would you do with them anyway?
+Несмотря на огромные пространства Галактики, некоторые соединения всё же крайне редки, и остро требуются нашей промышленности.<br>У этого есть разные причины - какие-то соединения упорно отказываются синтезироваться, у некоторых при синтезе сильно падает качество.<br>Так или иначе, мы скупаем все редкие минеральные соединения, интересующие наших специалистов.<br><br>Просканировав ваш корабль на предмет редких металлов, мы обнаружили в вашем трюме партию на сумму <0> сr.<br>Будете продавать?	Despite the vast expanses of the Galaxy, some compounds are still extremely rare and urgently needed by our industry.<br>There are various reasons for this - some compounds stubbornly refuse to be synthesized, and with others quality drops sharply in synthesis.<br>One way or another, we buy up all the rare mineral compounds that interest our specialists.<br><br>After scanning your ship for rare metals, we found a batch in your hold worth <0> cr.<br>Will you sell?
+Напыление на корпус	Hull coating
+Демонтаж лишнего оборудования	Dismantling of unneeded equipment
+Установка дополнительного оборудования	Installation of additional equipment
+Согласиться	Agree
+<clrEnd>Износостойкость оборудования <clr>снизится<clrEnd> на <0>%	<clrEnd>Equipment wear resistance will <clr>decrease<clrEnd> by <0>%
+Так так... Дополнительные детали обойдутся вам в <0> cr.<br>Какой параметр улучшить?	Right, right... The additional parts will cost you <0> cr.<br>Which parameter should be improved?
+Так так... Дополнительные детали обойдутся вам в <0> cr.<br><br>У нас в наличии четыре варианта улучшения зонда, приводим вместе с прогнозируемым итогом наших действий:<br>----------------<br>1. Вспомогательные глубинные зонды<br>Дополнительные зонды с эхолокаторами используются для увеличения и улучшения покрытия при изучении водных массивов.<br>Вода: <1> -> <2><br>----------------<br>2. Биосенсоры<br>Дополнительные сенсоры, настроены целенаправленно против биологических объектов. За счёт этого ресурсы зонда тратятся более эффективно на равнинах.<br>Равнины: <3> -> <4><br>----------------<br>3. Дальномеры<br>Набор дополнительных систем эхолоцирования, визуального измерения и блок анализа, позволяющий зонду массово проводить анализ горных систем, временами даже без необходимости посещать какие-то каньоны или долы.<br>Горы: <5> -> <6><br>----------------<br>4. Вспомогательные сенсоры<br>Посредством простой установки лишних сенсоров можно увеличить эффективность любого зонда по всем параметрам<br>Вода: <7> -> <8><br>Равнины: <9> -> <10><br>Горы: <11> -> <12><br>----------------<br><br>Итак, что вас интересует?	Right, right... The additional parts will cost you <0> cr.<br><br>We have four probe improvement options available, listed along with the projected outcome of our actions:<br>----------------<br>1. Auxiliary deep-sea probes<br>Additional probes with sonars are used to expand and improve coverage when studying bodies of water.<br>Water: <1> -> <2><br>----------------<br>2. Biosensors<br>Additional sensors tuned specifically for biological objects. As a result, the probe's resources are spent more efficiently on plains.<br>Plains: <3> -> <4><br>----------------<br>3. Rangefinders<br>A set of additional echolocation and visual measurement systems and an analysis unit that lets the probe analyze mountain systems en masse, at times without even needing to visit any canyons or valleys.<br>Mountains: <5> -> <6><br>----------------<br>4. Auxiliary sensors<br>Simply installing extra sensors can raise the effectiveness of any probe across all parameters<br>Water: <7> -> <8><br>Plains: <9> -> <10><br>Mountains: <11> -> <12><br>----------------<br><br>So, what interests you?
+Конечно, забирайте	Of course, take them
+Прошивка оборудования	Equipment reflashing
 (трюм)	(hold)
 за <0> cr.	for <0> cr.
 за	for
+"Прошивкой" мы называем замену ряда модулей в оборудовании на более новые, а также проводим соответствующее обновление программного обеспечения. На самом деле, это вовсе не прошивка, а апгрейд, но название к тому моменту уже прижилось...<br>Словом, прошивая старое оборудование, мы вполне способны добиться от него результатов на уровне его самых новых аналогов. Износостойкость оборудования при этом закономерно <clr>снизится<clrEnd> на <0>%<br>Так какое оборудование желаете прошить?	By "reflashing" we mean replacing a number of modules in the equipment with newer ones, and carrying out a corresponding software update. In fact it is not reflashing at all but an upgrade, but the name had already stuck by then...<br>In a word, by reflashing old equipment we can get results out of it on the level of its newest analogs. The equipment's wear resistance will, naturally, <clr>decrease<clrEnd> by <0>%<br>So which equipment do you want reflashed?
+До какого технологического типа будем прошивать?	To what technological type shall we reflash?
 типа <color=0,50,200><0></color>	like <color=0,50,200><0></color>
+Сдать редкие минералы	Turn in rare minerals
+Извините, но как-либо улучшить спасательную шлюпку не представляется возможным. Априори. Купите себе, пожалуйста, нормальный корпус или перестаньте приводить наших специалистов в прединфарктное состояние из-за появления в их ангарах... Вот этого.	Sorry, but it is impossible to improve a lifeboat in any way. A priori. Please buy yourself a proper hull, or stop sending our specialists into a pre-infarction state by showing up in their hangars with... that.
+Наши техники стараются работать качественно и профессионально, но у каждого предмета есть свой предел. Сварные швы, которые образуются в результате этого улучшения будут не такими прочными на разрыв, как заводские, так что в целом устойчивость корпуса к повреждениям снизится, но, конечно, закрытие технических отверстий для слотов это с лихвой <clr>компенсирует<clrEnd>. Кроме того, при улучшении размер корпуса <0>. Также вам следует знать, что снять <clr>ограничения серии<clrEnd> мы никак не можем. Стоимость услуги - <1> cr.<br>Итак, какую часть корабля нам изменить?	Our technicians try to work with quality and professionalism, but every item has its limit. The welds that result from this improvement will not be as strong in tension as the factory ones, so overall the hull's resistance to damage will decrease, but of course closing up the technical openings for slots more than <clr>compensates<clrEnd> for it. In addition, with the improvement the hull size <0>. You should also know that we cannot remove <clr>series restrictions<clrEnd> in any way. Cost of the service: <1> cr.<br>So, which part of the ship should we change?
 Дальность стрельбы	Firing range
 Урон	Damage
 Дальность захвата	Gripper range
 Мощность захвата	Gripper power
 Дальность прыжка	Jump range
 Скорость	Speed
+Уникальное улучшение точности физгана	Unique physgun accuracy improvement
+Забрать транклюкатора	Collect the tranclucator
+Кстати, ваш заказ на создание транклюкатора был выполнен. Можете забирать	By the way, your order for building a tranclucator has been completed. You can collect it
+Хочу собрать транклюкатора	I want to assemble a tranclucator
+Кстати, если у вас нет транклюкатора, то мы можем собрать для вас одного по низкой цене.	By the way, if you don't have a tranclucator, we can assemble one for you at a low price.
+Мы можем собрать для вас транклюкатора, если хотите. Для этого нам потребуется <0> cr., <1> т. техники, а также <clr>двигатель<clrEnd> и <clr>топливный бак<clrEnd>.	We can assemble a tranclucator for you, if you like. For that we'll need <0> cr., <1> t. of equipment, and also an <clr>engine<clrEnd> and a <clr>fuel tank<clrEnd>.
+Отлично! Заказ получен, возвращайтесь через <clr>90<clrEnd> дней!	Excellent! Order received, come back in <clr>90<clrEnd> days!
+Ваш новенький транклюкатор уже вас заждался!<br><br>Мы перенесли его в трюм вашего корабля. Пользуйтесь на здоровье.	Your brand-new tranclucator has been waiting for you!<br><br>We moved it into your ship's hold. Use it in good health.
 А давайте!	Let's do it!
 Ура!	Hurray!
 Благодарю	Thank you
+Ваш заказ на создание транклюкатора был выполнен. Можете получить его в любом Технологическом Центре Сети	Your order for building a tranclucator has been completed. You can collect it at any Technology Center of the Network
+<color=255,20,20>(уже установлена)</color>	<color=255,20,20>(already installed)</color>
+Пожалуй, я хочу взглянуть на другие возможности ваших техников	I think I want to look at the other capabilities of your technicians
+Три слоя, за <0> cr	Three layers, for <0> cr
+Два слоя, за <0> cr	Two layers, for <0> cr
+Один слой, за <0> cr	One layer, for <0> cr
+Ну что поделать, если шлюпка мне так понравилась... Жаль.	Oh well, if I liked the lifeboat so much... A pity.
+А если вы любите сбивать астероиды или исследовать планеты, то у нас хорошие новости - наша сеть скупает по отличным ценам редкие минералы.	And if you like shooting down asteroids or exploring planets, we have good news - our network buys rare minerals at excellent prices.
 Я хочу улучшить оборудование	I want to improve my equipment.
+(установлено)	(installed)
+стоимость: <0> cr.	cost: <0> cr.
+стоимость:	cost:
+Улучшение вспомогательного оборудования	Auxiliary equipment improvement
+Улучшение оборудования и корпуса	Equipment and hull improvement
+т.	t.
 Вес:	Weight:
+Горы:	Mountains:
+Равнины:	Plains:
+Вода:	Water:
+Улучшение транклюкаторов	Tranclucator upgrades
+Итак, для вас у нас доступно несколько услуг:<br><br><br>1. Прошивка оборудования<br>2. Откат оборудования<br>3. Улучшение оборудования<br>4. Улучшение корпуса	So, several services are available to you:<br><br><br>1. Equipment reflashing<br>2. Equipment rollback<br>3. Equipment improvement<br>4. Hull improvement
+Улучшить транклюкатора	Upgrade the tranclucator
+Итак, для вас у нас доступно несколько услуг:<br><br><br>1. Улучшение зондов<br><0>	So, several services are available to you:<br><br><br>1. Probe upgrades<br><0>
 Вернуться к выбору услуг	Back to the choice of services
+Корабль	Ship
+Технологический центр	Technology Center
+ТЦ	TC
+Давно мечтали проапгрейдить своё старое ржавое корыто, доставшееся в наследство от прабабушки? Спешите в систему star, где наши высококвалифицированные специалисты с удовольствием превратят его в настоящую ласточку! Технологический центр name - лучшие расценки в секторе sector!	Have you long dreamed of upgrading your old rusty tub inherited from your great-grandmother? Hurry to the star system, where our highly qualified specialists will gladly turn it into a real beauty! Technology center name - the best rates in sector sector!
+Внимание всем пилотам! В системе star сектора sector главный архитектор только что перерезал красную ленточку нового технологического центра name! Информация на ваших галактических картах уже обновлена.	Attention all pilots! In the star system of sector sector, the chief architect has just cut the red ribbon on the new technology center name! The information on your galactic maps has already been updated.
+Сегодня открылся новый технологический центр name в системе star сектора sector. Настоятельно рекомендуем всем небезразличным пилотам в кратчайшие сроки пройти техосмотр своих звездолетов.	A new technology center name opened today in the star system of sector sector. We strongly urge all concerned pilots to have their starships inspected as soon as possible.
+Мы рады сообщить вам, что наша сеть технологических центров расширяется! Новая сервисная станция name ждет пилотов в системе star сектора sector! Не пролетайте мимо! Только у нас вы найдете лучшие технологические услуги во всей Галактике!	We are pleased to inform you that our network of technology centers is expanding! The new service station name awaits pilots in the star system of sector sector! Don't fly past! Only with us will you find the best technology services in the whole Galaxy!
+Инфошка для покинутого корабля (без зануления урона будет крашить)	Info box for the abandoned ship (will crash without zeroing out damage)
+Инфошка спасательной шлюпки	Lifeboat info box
+Ценные минералы - это особо важные соединения, встречающиеся во Вселенной, которые применяются в стратегических отраслях деятельности Разумных Рас, а также имеют важные свойства - например, характерные блеск и цвет, за что ценятся в качестве отделочных материалов.	Valuable minerals are especially important compounds found in the Universe that are used in strategic branches of activity of the intelligent races and also have important properties - for example, a characteristic luster and color, for which they are prized as finishing materials.
+Подобные ресурсы по высоким ценами выкупает на <clr>Технологических Центрах<clrEnd>	Such resources are bought at high prices at <clr>Technology Centers<clrEnd>

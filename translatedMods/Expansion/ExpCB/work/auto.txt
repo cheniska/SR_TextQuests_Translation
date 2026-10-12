@@ -1,3 +1,7 @@
+Инфошка для запоминания всех проданных игроку ММ из цепочек на доминионе	Info box for remembering all MMs sold to the player from the chains at a Dominion
+Инфошка для повышения звания всех садящихся на неё гейратов	Info box for raising the rank of all geyrats landing on it
+По сведениям, попавшим в руки КВСМК, система star вскоре может быть атакована силами пиратского клана. Производится переброска резервов, а всех свободных рейнджеров просят пристально следить за событиями в этой системе.	According to information that has come into the CAFIC's hands, the star system may soon be attacked by the forces of the pirate clan. Reserves are being redeployed, and all free rangers are asked to keep a close watch on events in that system.
+Эге-гей, братва! Совсем скоро наш могучий Доминион полетит освобождать систему star! Все, кто хочет добыть славы в бою - ждём вас на месте через days дней, ожидается славная заварушка! Слава Верховному Барону!	Hey-hey, brothers! Very soon our mighty Dominion will fly to liberate the star system! All who want to win glory in battle - we await you there in days days, a glorious scuffle is expected! Glory to the Supreme Baron!
 Добавить генератор защиты	Add shield generator
 Добавить радар	Add radar
 Добавить дроида	Add droid
@@ -13,6 +17,18 @@
 <ItemName> на складе, размер <Size>, <Stats>	<ItemName> in stock, size is <Size>, <Stats>
 Сейчас установлено:	Now installed:
 Общая стоимость <TotalCost>, места осталось <FreeSpace>.	Total cost is <TotalCost>, <FreeSpace> free space left.
+Двигатель: engine	Engine: engine
+Топливный бак: tank	Fuel tank: tank
+Радар: radar	Radar: radar
+Сканер: scaner	Scanner: scaner
+Генератор поля: def	Shield generator: def
+Ремонтный дроид: droid	Repair droid: droid
+Захват: hook	Gripper: hook
+Орудие 1: weap1	Weapon 1: weap1
+Орудие 2: weap2	Weapon 2: weap2
+Орудие 3: weap3	Weapon 3: weap3
+Орудие 4: weap4	Weapon 4: weap4
+Орудие 5: weap5	Weapon 5: weap5
 Нет слота	There's no slot available
 Отсутствует	None
 Выбери захват.	Choose a cargo hook
@@ -38,16 +54,27 @@
 серия <SeriesName>	<SeriesName> series
 дальность <Radius>, урон <MinDamage>-<MaxDamage>	range <Radius>, damage <MinDamage>-<MaxDamage>
 Да, и так сойдет	Yep, that'll do
+<Player>, не забывай - ты можешь собрать корабль, но пилот не пойдет к тебе в подчинение. Конечно, благодарен он тебе будет по гроб, но одно дело - благодарность, а другое дело - ходить в походы, так что это вы сами с ним решите. А теперь - хочешь продолжать?	<Player>, don't forget - you can assemble the ship, but the pilot won't come under your command. Of course he'll be grateful to you to the grave, but gratitude is one thing and going on campaigns is another, so you'll settle that between yourselves. And now - do you want to continue?
 Я передумал собирать вам корабль, оставлю деньги себе!	I've changed my mind, leave the change!
+Собирай!	Assemble!
 Обойдемся без этого	I can live without it, go on.
 Пушка N	Gun N
+Ну, фраер, чего тебе там надо? У нас весьма широкий ассортимент	Well, sucker, what do you need? We have quite a wide assortment
+Мне нужно произвести расчёт с нодами и модулями	I need to settle accounts in nodes and modules
+Ну, у нас много "умников". Какие именно тебе нужны, дружок-пирожок?	Well, we have lots of "smarties". Which ones exactly do you need, pal?
+Мне нужен ваш научный отсек	I need your science compartment
+Как хочешь, <Player>. Если у тебя ещё образуется пара ненужных микромодулей, залетай к нам.	As you wish, <Player>. If you end up with a couple of unneeded micromodules, drop by.
+Отлично, <Player>. Мы забрали у тебя микромодуль <Name>, а взамен оставили в трюме <Count> т. нодов!	Excellent, <Player>. We took your micromodule <Name> and left <Count> t. of nodes in your hold in exchange!
+Ну что, <Player>? Мы можем забрать у тебя микромодули, которые тебе нафиг не сдались, и взамен дать тебе физических, ощупываемых нодов! У нас их навалом, а вот с микромодулями туго - мастеров мало. Ну, к пенчекряку болтовню, сейчас посмотрим, что у тебя там завалялось...	So, <Player>? We can take off your hands the micromodules you don't give a damn about and give you physical, tangible nodes in exchange! We have heaps of them, but micromodules are scarce - few craftsmen. Anyway, to the penchekryak with the chatter, let's see what you've got lying around...
 - Микромодуль <Name> за <Count> нд.	Micromodule <Name> for <Count> nodes.
+Ох, браток, так нету у тебя в трюме никаких там микромодулей! Не получится обмен произвести.	Oh, buddy, you don't have any micromodules in your hold! The exchange won't work.
 Отказаться от сдачи микромодулей	Refuse to trade in micromodules
 Сдать микромодуль <Name> за <Count> нд.	Micromodule <Name> for <Count> nodes.
 Сдать микромодули в обмен на ноды	Trade in micromodules for nodes
 Отлично, наши матерые спецы закончили работу, теперь твое оборудование стало еще круче. Может, есть желание еще что-то подкрутить, пока рука легкая?	Okay, we're done here. Would you like to improve something else?
 Ну смотри. Мы бы не отказались, если ты, <Player>, подкинешь нам еще денежек за халту..., в смысле, работу.	Suit yourself. We'd like if you could pay us for another shi... we meant, work, <Player>.
 Итак, <Player>, если хочешь улучшить что-то из своего хабара у нас, обрати внимание на то, как мы это все прокручиваем.	So, if you want to improve something, <Player>, see for yourself how we will do that.
+Так как сверхточно откалибровать инструменты у нас особо некому, то и результат улучшения получается <clr>случайным<clrEnd>, в зависимости от того, к чему прикладывается усилие вон той нано-кувалды. Ну, в смысле, от самого улучшаемого оборудования итог зависит, а от момента замаха - нет. У нас мастера на внешний вид в первую очередь смотрят. Поэтому без разницы, принесешь ты нам двигатель завтра или через неделю, результат будет <clr>один<clrEnd>. А вот ежели <clr>другой<clrEnd> движок притащишь - там уже всё иначе.	Since we have hardly anybody to calibrate the tools with ultra-precision, the result of an upgrade comes out <clr>random<clrEnd>, depending on where the effort of that nano-sledgehammer over there is applied. I mean, the outcome depends on the equipment being upgraded, but not on the moment of the swing. Our craftsmen look at appearances first. So it makes no difference whether you bring us an engine tomorrow or in a week, the result will be <clr>the same<clrEnd>. But if you drag in a <clr>different<clrEnd> engine - then everything's different.
 Не хочешь - не делай, только потом не удивляйся, почему половина приборов скручена. Наши ребята же перед работой проводят усиленную подготовку систем к модернизации, в смысле, снимают все, что можно снять.	If you don't want - don't do it, just don't wonder, why half of dials are wrenched away. Our guys, on the other hand, usually run a complex diagnostic procedure - I mean, they rip off all the dials and buttons they can reach.
 Стоимость улучшения <FullName> - <Money> cr. Но у тебя пиратская скидка в <Discount>%, так что с тебя только <MoneyDiscount> cr.	The standard price for the <FullName> improvement is <Money> cr. But since you have our discount of <Discount>% the final sum is only <MoneyDiscount> cr, the rest is on the house.
 Стоимость улучшения <FullName> - <Money> cr и <Nodes> нодов.  Но у тебя пиратская скидка в <Discount>%, так что с тебя только <MoneyDiscount> cr и <NodesDiscount> нодов.	The standard price for the <FullName> improvements is <Money> cr and <Nodes> nodes. But since you have our discount of <Discount>% the final sum is only <MoneyDiscount> cr, plus <NodesDiscount> nodes.
@@ -57,17 +84,190 @@
 <ItemName> за <Money> cr.	<ItemName> for <Money> cr.
 Ну и какие вещи вы можете улучшить?	So, what can you improve?
 Отказываюсь платить по таким грабительским расценкам!	This is an extortion, I'm not gonna pay!
+Нет, пожалуй, не интересно	No, I think I'm not interested
+Не интересно, да? Ну и не надо, ну и пожалуйста, ни и катись ты... Летись ты... В общем, на Гралгар, во! Мы тут, понимаешь ли... Вот так вот, да разэдак! А ты... Тьфу! Одно слово - рейнджер.	Not interested, huh? Fine, don't, please, and get lost... Fly off... Anyway, to Gralgar, there! We here, you see... That's how it is, one way and another! And you... Pah! One word - ranger.
 Ничего я выбирать не буду	I've changed my mind, forget it.
 Я согласен, валяйте	Alrighty, let's roll!
 Нет, спасибо	No, thank you.
 Да, конечно	Yes, of course!
 Я хочу улучшить оборудование	I want to improve my equipment.
+Согласно сведениям спецкомиссии КВСМК по изучению гиперпространственных возмущений, наблюдается необычная активность из систем, занятых пиратским кланом. Исходя из этих сведений, они сделали вывод о подготовке пиратами дальнего рейда. Всех свободных пилотов просят быть осмотрительными и по возможности прибыть в атакованную налётчиками систему.	According to data from the CAFIC special commission on studying hyperspace disturbances, unusual activity is observed from systems occupied by the pirate clan. Based on this data, they concluded that the pirates are preparing a long-range raid. All free pilots are asked to be cautious and, where possible, to arrive in the system attacked by the raiders.
+Салам молекулум, братки! Совсем скоро мы мотнёмся в дальний рейд по системам тех, кто ещё не признал власть Верховного Барона! Итак, система star через days дней станет новой системой, охваченной новым порядком! Ура!	Salam molekulum, brothers! Very soon we'll dash off on a long-range raid on the systems of those who have not yet recognized the power of the Supreme Baron! So, the star system will become, in days days, a new system embraced by the new order! Hurrah!
+Жители обитаемого рукава... Пиратский барон... ваш друг! Он борется за вашу свободу!	Inhabitants of the inhabited arm... The pirate baron... is your friend! He fights for your freedom!
+Вливайся в ряды Клана. Сообща мы сохраним Галактику. Единственное во вселенной государство по-настоящему свободных пилотов!	Join the ranks of the Clan. Together we will save the Galaxy. The only state in the universe of truly free pilots!
+Космос — это пираты. Пираты — это свобода. Будь пиратом до конца, вступай в Клан!	Space is pirates. Pirates are freedom. Be a pirate to the end, join the Clan!
+Галактика дарит тебе возможность примкнуть к лучшему из космических сообществ. Не упускай свой шанс вступить в Клан, только здесь тебя поймут и примут таким, каков ты есть!	The Galaxy gives you the chance to join the best of space communities. Don't miss your chance to join the Clan, only here will you be understood and accepted as you are!
+Хочешь стать авторитетным пиратом? Желаешь всегда иметь верных друзей, прикрывающих твою корму? Мечтаешь надавать по сусалам Коалиции? Эти и многие другие возможности откроются перед тобой после вступления в ряды Клана!	Want to become a respected pirate? Want to always have loyal friends covering your stern? Dream of giving the Coalition a good punch in the jaw? These and many other possibilities will open before you after joining the Clan!
+Рейнджеры и пираты, если вы дорожите своей свободой и хотите быть в кругу друзей — вступайте в наши ряды! Клан приветствует всех, кого привели к нам гиперпереходы вселенной.	Rangers and pirates, if you value your freedom and want to be among friends - join our ranks! The Clan welcomes everyone whom the hyperjumps of the universe have brought to us.
+Рейнджер, жизнь дарит тебе возможность найти верных товарищей в рядах Клана. Только здесь ты найдёшь тех, кто прикроет тебе корму и поделится последней тонной топлива.	Ranger, life gives you the chance to find loyal comrades in the ranks of the Clan. Only here will you find those who will cover your stern and share their last ton of fuel.
+Крутые и подкрученные рейнджеры, только в Клане вас оценят и примут как родных! Никакого порядка и идеологической пурги, никаких торговых ограничений и минимум сухого закона. Если ты настоящий рейнджер и любишь вольную жизнь среди таких же, как сам — вливайся в наши ряды. Время вливания — любое, принимаем без перерывов и выходных, ежедневно и еженочно!	Cool and tweaked rangers, only in the Clan will you be appreciated and accepted as family! No order and no ideological blizzard, no trade restrictions, and minimal prohibition. If you're a real ranger and love the free life among others like yourself - join our ranks. Joining hours - any, we accept without breaks or days off, every day and every night!
+Вселенная со страхом смотрит на расползающуюся диктатуру Коалиции. Вступи в Клан - помоги свободным гуманоидам!	The universe watches in fear as the Coalition's dictatorship spreads. Join the Clan - help free humanoids!
+Рейнджер, защити свободу от Коалиции! Вступи в Клан!	Ranger, defend freedom from the Coalition! Join the Clan!
+Рейнджеры Галактики, вступайте в ряды Клана! На нас лежит огромная ответственность - защитить вселенную от диктатуры Коалиции!	Rangers of the Galaxy, join the ranks of the Clan! A huge responsibility lies on us - to defend the universe from the dictatorship of the Coalition!
+Коалиция стоит в воротах ада, а Клан втолкнёт её внутрь!	The Coalition stands at the gates of hell, and the Clan will shove it inside!
+Свободные рейнджеры, пираты и наёмники! Вливайтесь в ряды Клана! Защитить мир от бюрократии Коалиции - наша общая цель и задача!	Free rangers, pirates, and mercenaries! Join the ranks of the Clan! Defending the world from the bureaucracy of the Coalition is our common goal and task!
+Смертельные передозировки, опасные биомодули, Коалиция и Доминаторы не остановят Клан, победоносной поступью идущий на помощь свободным гражданам всей галактики!	Deadly overdoses, dangerous biomodules, the Coalition and the Dominators will not stop the Clan, marching victoriously to the aid of free citizens of the entire galaxy!
+Надоело сражаться за ордена для разжиревших чинуш и их детей? Вступай в Клан! Знай, за что ты сражаешься - за свободу Галактики, здесь и сейчас!	Tired of fighting for medals for fat bureaucrats and their children? Join the Clan! Know what you fight for - for the freedom of the Galaxy, here and now!
+Боец Клана... Ты приносишь свободу на эти планеты.	Clan fighter... You bring freedom to these planets.
+Пират! Молчи о том, что знаешь! Беспечная болтовня может стоить жизней твоих братьев!	Pirate! Keep quiet about what you know! Careless talk can cost your brothers' lives!
+Если ты воруешь оборудование, вооружение и прочую собственность Клана... ты достоин быть лишь его псиной!	If you steal the Clan's equipment, weapons, and other property... you deserve to be only its dog!
+Мы верим в нашу победу! Верим в то, что Коалиция будет уничтожена!	We believe in our victory! We believe the Coalition will be destroyed!
+Сражаясь с военными, вы покроете себя вечной славой! Кроме того, все, кто вступил в Клан, обеспечиваются вооружением и отличным оборудованием!	By fighting the military you will cover yourselves in eternal glory! Besides, everyone who joins the Clan is supplied with weapons and excellent equipment!
+Руководство Клана призывает к сотрудничеству всех добропорядочных и сознательных пилотов. Докладывайте нам о всех известных вам патрулях военных Коалиции! Только с вашей помощью мы сможем победить это уродливое явление. Не давайте возможности власть имущим укрываться за вашими спинами! Они несут с собой диктатуру, ущемление ваших прав и представляющие большую опасность для свободы и счастливой жизни разумных гуманоидов порядки. Не подвергайте опасности свою жизнь и жизни ваших близких ради сомнительных обещаний!	The Clan leadership calls for cooperation from all upright and conscientious pilots. Report to us all the Coalition military patrols you know of! Only with your help can we defeat this ugly phenomenon. Do not give those in power the chance to hide behind your backs! They bring with them dictatorship, infringement of your rights, and orders that pose a great danger to the freedom and happy life of intelligent humanoids. Do not endanger your life and the lives of your loved ones for dubious promises!
+Пилоты, Коалиция смертельно опасна! Мы защищаем не Коалицию от вас, а вас от Коалиции! Не подвергайте опасности свои права и свою свободу! Не пытайтесь поддерживать тотальную диктатуру!	Pilots, the Coalition is deadly dangerous! We are protecting you from the Coalition, not the Coalition from you! Do not endanger your rights and your freedom! Do not try to support total dictatorship!
+Отлично, врубаем генератор! Курс в систему <FlyToStar> проложен. А ты, <Player>, давай-ка топай в ангар и отправляйся навстречу звёздам.	Excellent, firing up the generator! The course to the <FlyToStar> system is set. And you, <Player>, trot off to the hangar and set out toward the stars.
+Это не дело, браток. Мы тут уже всё подготовили, реактор завели, а ты взял и обломал всю малину. В следующий раз сам будешь на кнопки жать!	That's no way to do things, bro. We had everything prepared here, the reactor started, and you went and spoiled the whole party. Next time you'll press the buttons yourself!
+Ну извини, это всё, что сейчас доступно. Мы тут сами не особо сечём, как эта штука системы выбирает. Нанотехнологии - это тебе не по торгашам пулять!	Well, sorry, that's all that's available now. We ourselves don't quite get how this thing selects systems. Nanotechnology isn't like shooting at traders, you know!
+Ты уверен? Деньги мы тебе всё равно не вернём, так и знай.	Are you sure? We won't refund your money anyway, so know that.
+Прямо сейчас мы можем предложить тебе следующие маршруты:	Right now we can offer you the following routes:
+Прокладываем курс в систему <ToStar> за <Cost> cr. Всё верно?	Setting a course to the <ToStar> system for <Cost> cr. Is that right?
+Ты сдурел, что ли, <Player>? Дождись, пока мы из гипера выйдем, а потом уже суйся к генератору. Если в нём ещё энергия останется, конечно.	Have you lost your mind, <Player>? Wait until we exit hyperspace, and only then go near the generator. If any energy is left in it, that is.
+Извини, сейчас доступных маршрутов нет.	Sorry, there are no routes available at the moment.
+Я, пожалуй, ещё подумаю	I think I'll think it over some more
+Система <ToStar> (<Dist> пк.), <Cost> cr.	System <ToStar> (<Dist> pc), <Cost> cr.
+В систему <ToStar>, <Cost> cr.	To the <ToStar> system, <Cost> cr.
+Обменять <Cost> нодов на микромодуль <Name>	Exchange <Cost> nodes for micromodule <Name>
+Обменять <Cost1> нодов из трюма и <Cost2> нодов c нод-счёта на микромодуль <Name>	Exchange <Cost1> nodes from the hold and <Cost2> nodes from the node account for micromodule <Name>
+Обменять <Cost> нодов c нод-счёта на микромодуль <Name>	Exchange <Cost> nodes from the node account for micromodule <Name>
+Отлично! Оплата успешно произведена, а микромодуль <Name> погружен в твой трюм.	Excellent! Payment has been made, and micromodule <Name> has been loaded into your hold.
+Можешь идти наслаждаться обновкой.	You can go enjoy your new toy.
+Ну смотри, не ной потом, мол, не предлагали...	Well, look, don't whine afterward that we never offered...
+У нас здесь, конечно, не центр рейнджеров, но вот микромодули самые что ни на есть настоящие.	We're not a ranger center here, of course, but the micromodules are the genuine article.
+Сейчас у тебя в наличке имеется <CurNod> нд. и ещё <BaseNod> нд. числятся на счету, а твоя пиратская скидка по нашим честным, но скромным подсчётам, составляет <Discount><clr>%<clrEnd>.	You currently have <CurNod> nd. in hand and another <BaseNod> nd. on the account, and your pirate discount, by our honest but modest calculations, is <Discount><clr>%<clrEnd>.
+. Микромодуль <Name>	. Micromodule <Name>
+Стоимость модуля: <Cost> нд.	Module cost: <Cost> nd.
+При оплате с нод-счёта: <Cost> нд.	When paying from the node account: <Cost> nd.
+Это можно. У нас имеются кое-какие каналы, по которым мы регулярно получаем новейшие и крутейшие микромодули, однако, как я уже сказал, бесплатно мы их не раздаём. Если не хватит нодов в трюме и на складе, то недостающее число "снимем" напрямую с твоего нод-счёта. С комиссией, разумеется.	That can be done. We have certain channels through which we regularly receive the latest and coolest micromodules, but as I already said, we don't give them away for free. If there aren't enough nodes in your hold and in storage, we'll "take off" the missing amount directly from your node account. With a fee, of course.
+Кстати, скидки мы предоставляем только настоящим пиратам - здесь тебе не рынок какой-нибудь:<Text>	By the way, we give discounts only to real pirates - this is no market for you here:<Text>
+А ещё, если интересует, можем подогнать тебе чётенькие микромодули в обмен на пачку хрустящих нодов. Да, я знаю, что на самом деле они не хрустят, однако они всё равно нам нужны, а крутые микромодули для нормального пирата лишними точно не будут, верно?	And also, if you're interested, we can fix you up with sweet micromodules in exchange for a pack of crispy nodes. Yes, I know they're not really crispy, but we need them all the same, and cool micromodules are definitely not superfluous for a normal pirate, right?
+Да не, чёт передумал я	Nah, I changed my mind or something
+Мне нужны микромодули	I need micromodules
+Стоимость: <Cost> нд.	Cost: <Cost> nd.
+Все наши программы соответствуют закону <clr>CopyRight<clrEnd>, что означает "скопировано правильно". Мы готовы выдать тебе "правильную" копию любой программы в обмен на доминаторские ноды, с учётом твоей пиратской скидки в <Percent><clr>%<clrEnd>.	All our programs comply with the <clr>CopyRight<clrEnd> law, which means "copied correctly". We are ready to issue you a "correct" copy of any program in exchange for dominator nodes, taking into account your pirate discount of <Percent><clr>%<clrEnd>.
+Ноды будут взяты из твоего трюма (<NodTrum> нд.), а если их не хватит, то наши "специалисты" снимут недостающее количество с твоего нод-счёта (<NodAcc> нд.). Вот наш прайс-лист, выбирай:<br>	The nodes will be taken from your hold (<NodTrum> nd.), and if there aren't enough, our "specialists" will take off the missing amount from your node account (<NodAcc> nd.). Here's our price list, choose:<br>
+Обменять <Nod> нодов на <Text>	Exchange <Nod> nodes for <Text>
+Во время DDoS атаки наши хакеры могут получить временный доступ к нод-счёту любого рейнджера, ноды с которого можно будет по-тихому перевести в другое место. Что мы потом будем делать с переведённой валютой и откуда берём реальные ноды, тебе знать ни к чему.<br>Что ты должен знать, так это то, что из соображений безопасности все переводы со счёта на счёт производятся в виде микротранзакций строго по <clr>1<clrEnd> ноду. Соответственно, чем больше нодов ты хочешь эм... "снять", тем дольше нам придётся додосить, а это, как понимаешь, дополнительные риски.<br>В общем, каждый снятый нод обойдётся тебе в <Cost> cr. Кстати, хакеры сообщают, что на твоём нод-счёте сейчас числится <NodeAccount> нд.	During a DDoS attack, our hackers can gain temporary access to any ranger's node account, from which nodes can be quietly transferred somewhere else. What we later do with the transferred currency and where we get real nodes is none of your business.<br>What you should know is that for security reasons all account-to-account transfers are made as microtransactions of strictly <clr>1<clrEnd> node each. Accordingly, the more nodes you want to, er... "withdraw", the longer we have to keep DDoSing, and that, as you understand, means additional risks.<br>In short, each withdrawn node will cost you <Cost> cr. By the way, the hackers report that your node account currently holds <NodeAccount> nd.
+<br>Враждебных станций: <Count>	<br>Hostile stations: <Count>
 Я передумал	I changed my mind
+Снять ноды с нод счёта	Withdraw nodes from the node account
+Сколько нодов снять?	How many nodes to withdraw?
+Операция прошла успешно. Ноды уже погружены в твой трюм.	The operation was successful. The nodes have already been loaded into your hold.
+Ну, не хочешь как хочешь. Желаю удачи в "обналичивании" нодов у доминаторов.	Well, suit yourself. Good luck "cashing out" the nodes from the dominators.
+</color>Узнать число военных кораблей, говоришь? Это можно.<br>Осведомителей у нас хватает на каждой подконтрольной Коалиции планете, так что о присутствии её вооружённых сил нам ежедневно докладывают, можно сказать, из первых уст.<br>Однако, сам понимаешь, бесплатно такую информацию предоставлять невыгодно.<br>С учётом твоего авторитета в нашем движении, скажем... <0> cr. за сегодняшнюю сводку. Число просмотров до конца дня неограничено.	</color>Find out the number of warships, you say? That can be done.<br>We have informants on every Coalition-controlled planet, so we get daily reports on the presence of its armed forces, you might say straight from the horse's mouth.<br>However, you understand, providing such information for free is unprofitable.<br>Given your standing in our movement, let's say... <0> cr. for today's summary. The number of views until the end of the day is unlimited.
+Хорошо! Теперь осталось совсем немного - оснастить корабль оборудованием.<br>Чтобы у тебя было понимание порядка цифр, выведем тебе сейчас текущую информацию по оснащаемому кораблю:<br>==================<br>Корабль: <0> (<1> ед. структуры)<br>-------Оборудование-------<br><2><br>==================<br>Что будем делать?	Good! Now there's very little left - to outfit the ship with equipment.<br>So that you have a sense of the numbers, we'll now show you the current information on the ship being outfitted:<br>==================<br>Ship: <0> (<1> structure)<br>-------Equipment-------<br><2><br>==================<br>What shall we do?
 Назад	Back
+На вылете	On a mission
+В ангаре	In the hangar
+Статус:	Status:
+Тип: <0>	Type: <0>
+Ополченец	Militiaman
+<br>Ополченцев: <0>	<br>Militiamen: <0>
+<br>- <color=255,0,0>Беззащитна</color> -	<br>- <color=255,0,0>Defenseless</color> -
+<br>Элитных военных: <0>	<br>Elite warriors: <0>
+<br>Военных: <0>	<br>Warriors: <0>
+Элитный военный	Elite warrior
 Военный	Military
+Планета: <0>	Planet: <0>
+В системе	In the system
+</color>От души! Ты только не переживай, деньги эти пойдут ну обеспечение работы агентурной сети. С коррупцией у нас строго.<br>	</color>With all my heart! Just don't worry, this money will go to keeping the intelligence network running. We are strict about corruption.<br>
+Подробнее о системе	More about the system
+Подробнее о системе <color=0,50,200>Витта Прай.</color>	More about the system <color=0,50,200>Vitta Pray.</color>
+Витта Прайонис	Vitta Prayonis
+</color>Система: <0><br>Сектор: <1><br><br><br>	</color>System: <0><br>Sector: <1><br><br><br>
+</color><br><br><br><color=255,0,0>Система беззащитна!</color>	</color><br><br><br><color=255,0,0>The system is defenseless!</color>
+Не, ну ты уж совсем не борзей, да?! За эти данные многие наши разведчики отдали свои жизни, между прочим! Наверное...	Hey, now don't get too cheeky, okay?! Plenty of our scouts gave their lives for this data, by the way! Probably...
+Нет, как-то дороговато	No, it's a bit pricey
+</color>Купить свежую разведсводку	</color>Buy a fresh intelligence report
+<color=0,50,200>Всего в системе</color>	<color=0,50,200>Total in the system</color>
+Вот полная сводка всех боеспособных военных кораблей Коалиции за сегодняшний день:<br> <br><0><br> <br>Всего в Галактике: <1>	Here is the full summary of all combat-ready Coalition warships for today:<br> <br><0><br> <br>Total in the Galaxy: <1>
+Разумеется, ваше пиратейшество, вот полная сводка всех боеспособных военных кораблей Коалиции за сегодняшний день:<br> <br><0><br> <br>Всего в Галактике: <1>	Of course, your piratehood, here is the full summary of all combat-ready Coalition warships for today:<br> <br><0><br> <br>Total in the Galaxy: <1>
+Предоставьте мне полную информацию о численности коалиционного флота	Provide me with full information on the size of the Coalition fleet
+Хочу заказать DDoS атаку сети центров рейнджеров	I want to order a DDoS attack on the ranger center network
+<br>Дредноутов: <0>	<br>Dreadnoughts: <0>
+Дредноут	Dreadnought
+<br>Линкоров: <0>	<br>Battleships: <0>
 Линкор	Battleship
+</color><clrEnd>Система: <0><br>Cектор: <1><br>Военных объектов: <color=255,0,0>0</color>	</color><clrEnd>System: <0><br>Sector: <1><br>Military objects: <color=255,0,0>0</color>
+</color><clrEnd>Система: <0><br>Сектор: <1><br>Военных объектов: <2>	</color><clrEnd>System: <0><br>Sector: <1><br>Military objects: <2>
+Обменять микромодули на ноды	Exchange micromodules for nodes
+Я бы хотел подпортить кому-нибудь жизнь...	I'd like to spoil somebody's life...
+И если кто-то тебе изрядно насолил, то мы можем помочь насолить ему.	And if somebody has really got your goat, we can help you get even with him.
+О, что, кто-то насыпал тебе перцу? Ну, ничего, мы тут можем подсобить.<br><br>Итак, наши ребята могут прорваться в базы Коалиции и "подправить" информацию касательно некоторых персон в <clr>Рейнджерском Корпусе<clrEnd>.<br><br>Но, конечно, не забывай, что тебе придётся расщедриться на рюмочку втыкиллы парням - примерно так <0> cr.	Oh, did someone put pepper on your tail? Never mind, we can lend a hand here.<br><br>So, our guys can break into the Coalition databases and "correct" information about certain persons in the <clr>Ranger Corps<clrEnd>.<br><br>But of course, don't forget you'll have to splurge on a glass of Tokilla for the boys - about <0> cr. or so.
+Итак, перед тобой - весь список участников Корпуса рейнджеров.<br>Выбирай!	So, before you is the full list of Ranger Corps members.<br>Choose!
+Отлично! Наши молодчики в кратчайшие сроки подредактируют информацию об этом индивидууме.<br><br>Ну а пока можешь выпить немного янвелба в нашем баре.	Excellent! Our boys will edit the information on this individual in no time.<br><br>In the meantime you can have some ekup at our bar.
+Не, не сегодня, отбой	Nah, not today, scratch that
+Ну, давай-ка поищем среди рейнджеров кого-нибудь...	Well, let's look among the rangers for someone...
+на корабле твоего напарника мы не нашли	we didn't find on your partner's ship
+на корабле наёмника мы не нашли	we didn't find on the mercenary's ship
+на корабле повстанца мы не нашли	we didn't find on the rebel's ship
+на корабле спецагента мы не нашли	we didn't find on the secret agent's ship
+в твоём транклюкаторе мы не нашли	we didn't find in your tranclucator
+мы не нашли у тебя на корабле	we didn't find on your ship
 за	for
+пп.	pp.
+К тому же, им потребуется <clr>протоплазма<clrEnd>.	Besides, they will need <clr>protoplasm<clrEnd>.
+Имейте в виду, что для проведения работ нам необходимы <clr>ноды<clrEnd> прямо здесь. Мы можем взять их из трюма вашего корабля или со склада, но никак не с вашего нод-счёта.	Keep in mind that to carry out the work we need <clr>nodes<clrEnd> right here. We can take them from your ship's hold or from storage, but never from your node account.
+нд.	nd.
+К тому же, им потребуются ноды.	Besides, they will need nodes.
+<color=220,20,20>отсутствует</color>	<color=220,20,20>missing</color>
+млн км)	million km)
+ед. урона на расстоянии	damage at a distance of
+т. на расстоянии	t. at a distance of
+ед. урона	damage
+ед. топлива)	fuel)
+Я хотел бы забрать модули из своего хранилища на Центре Рейнджеров	I'd like to retrieve modules from my storage at the Ranger Center
+Ба, да ведь... Это всамделишные учёные Коалиции? А что, уже помиловали?	Well, I'll be... Are these real Coalition scientists? What, have they been pardoned already?
+Помиловали?<br><br>Не сказать, чтобы за ними кто-то гонялся. Умники, они ведь такие: им неважно, кто над душой стоит, лишь бы возиться со своими штуками можно было. А борьбу с доминаторами, да и прочие разные изыскания бывают очень интересны и полезны. Вот и пригрелись у нас.<br><br>Так что, если тебе оно надо, то можешь залетать к нам: эти ребята тебе окажут полное содействие.	Pardoned?<br><br>Not that anyone was chasing them. Brainiacs are like that: they don't care who stands over them, as long as they can tinker with their gadgets. And the fight against the dominators, and various other research, can be very interesting and useful. So they settled in with us.<br><br>So if you need it, you can drop by: these guys will give you full assistance.
+Улучшить оборудование братана <0>	Upgrade the equipment of bro <0>
+Улучшить оборудование наёмника <0>	Upgrade the equipment of mercenary <0>
+Улучшить оборудование повстанца <0>	Upgrade the equipment of rebel <0>
+Улучшить оборудование рейнджера <0>	Upgrade the equipment of ranger <0>
+Улучшить оборудование спецагента <0>	Upgrade the equipment of secret agent <0>
+Улучшить оборудование <0>	Upgrade the equipment of <0>
+Сейчас составим списочек оборудования...<br>...<br>Выходит, запросик был, но <0> вещей, подходящих для улучшения. Извиняй.	Let's compile a little equipment list...<br>...<br>So there was a request, but there are <0> items suitable for upgrading. Sorry.
+Сейчас составим списочек оборудования, подходящего для улучшения:<br><0><br><1><2><br>Ну и что из этого списка будем улучшать?	Let's compile a little list of equipment suitable for upgrading:<br><0><br><1><2><br>So which of these will we upgrade?
+Ого, похвально! Знаешь, сколько моих корешей слоняется по нашей станции без дела? Дать бы им плазмошашку, да корабль, да на линию огня... Ух! В два счёта бы всех победили.<br><br>Но вот со всем, кроме линии огня, у нас туго. Так что если ты возьмёшь на себя материальную часть, всё остальное мы сами предоставим.	Wow, commendable! Do you know how many of my pals loaf around our station with nothing to do? If only we gave them a plasma checker, and a ship, and put them on the firing line... Whoa! They'd beat everybody in no time.<br><br>But we're short on everything except the firing line. So if you take on the material part, we'll provide everything else ourselves.
+Итак, первым делом выбери <clr>корпус<clrEnd>, на котором будет летать будущий сокол. Учти - кандидатов у нас масса, и чтобы не создавать неразбериху, мы просто подберём пилота под <clr>производителя<clrEnd> выбранного тобой корпуса, лады?	So, first of all choose the <clr>hull<clrEnd> on which the future hawk will fly. Mind you, we have loads of candidates, and to avoid confusion we'll simply pick a pilot to match the <clr>manufacturer<clrEnd> of the hull you choose, okay?
+Перейти к изменению оборудования пилота	Go to changing the pilot's equipment
+Ну, как знаешь, дружок. Но если надумаешь - заглядывай, наши ребята куда решительнее тебя.	Well, as you wish, pal. But if you do decide, drop by - our guys are far more decisive than you.
+Нет, пожалуй, в другой раз	No, I think another time
 Ясно...	I see...
+Пожалуй, я выберу что-нибудь ещё	I think I'll choose something else
+Отлично, наши матерые спецы закончили работу, теперь твое оборудование - <0> - стало еще круче.	Excellent, our seasoned specialists have finished the work, and now your equipment - <0> - is even cooler.
+Отлично, наши матерые спецы закончили работу, теперь твое оборудование - <0> - стало еще круче. Может, есть желание еще что-то подкрутить, пока рука легкая?	Excellent, our seasoned specialists have finished the work, and now your equipment - <0> - is even cooler. Maybe you want to tweak something else while the hand is lucky?
+Нет уж, хватит с меня	No, that's enough for me
+Дело-то хорошее, чего бы и не помочь?	It's a good cause, why not help?
 В другой раз	Another time
+Давай в другой раз, ладно?	Another time, okay?
+Прекращайте сборку!	Stop the assembly!
 Отлично	Great
+Я хотел бы подготовить ещё одного пилота	I'd like to prepare another pilot
+Хочу получить улучшенные артефакты	I want to get upgraded artifacts
+Я хочу улучшить свои артефакты	I want to upgrade my artifacts
+Рекомбинаторика	Recombinatorics
+Недавно наши молодцы баловались с микромодулями. Собирали, разбирали, по всей станции раскидывали и снова собирали. Потом в кучу всё свалили и что-то из этого собирали. Ну, по крайней мере, это то, что я видел, они божатся, что не выходили из своей лаборатории, но мой зоркий глаз, подмасленный 49-процентным "Ядер-Коком"... Так, что-то я не про то всё.<br><br>В общем, суть такова: если дашь ребятам два микромодуля, они обещают тебе дать совсем другой. Чем более крутой даёшь, тем выше шанс, что получится что-то хорошее. Правда, <clr>уникальные<clrEnd> экземпляры они почему-то не хотят брать, хотя я им говорил, мол, там ж совсем хорошее выйдет, а они мне что-то про нестабильность начали свербеть, так что я их не дослушал и попросил уже помолчать...<br><br>Короче, будешь пользовать услугу, или ты так, лясы со мной точить собрался?	Our boys recently dabbled with micromodules. Assembled them, disassembled them, scattered them all over the station and assembled them again. Then they dumped everything in a heap and put something together from it. Well, at least that's what I saw, they swear they never left their lab, but my keen eye, lubricated with 49-percent "Yader-Kok"... So, I'm getting off track here.<br><br>Anyway, the gist is this: if you give the guys two micromodules, they promise to give you a completely different one. The cooler the ones you give, the higher the chance that something good comes out. True, for some reason they don't want to take <clr>unique<clrEnd> specimens, even though I told them it would turn out really great, and they started grumbling something about instability, so I didn't hear them out and asked them to be quiet already...<br><br>In short, will you use the service, or did you just come to chew the fat with me?
+Отменяйте! Я в этом не участвую!	Cancel! I'm not part of this!
+Итак, текущее положение дел в отделе рекомбинаторики:<br>=================<br>Микромодуль 1: <0><br>Микромодуль 2: <1><br><br>Шанс получить микромодуль:<br>3 уровня: <2>%<br>2 уровня: <3>%<br>1 уровня: <4>%<br>=================<br>Стоимость услуги: <5> cr.<br>=================	So, the current state of affairs in the recombinatorics department:<br>=================<br>Micromodule 1: <0><br>Micromodule 2: <1><br><br>Chance of getting a micromodule of:<br>level 3: <2>%<br>level 2: <3>%<br>level 1: <4>%<br>=================<br>Service cost: <5> cr.<br>=================
+Выбирай микромодуль, который хочешь "замешать"!	Choose the micromodule you want to "mix in"!
+Ну, вот, кажется, и закончили. Поздравляем тебя как счастливого обладателя ну-совсем-прям-новенького <0>!<br><br>Если понравился наш сервис, то заходи ещё, наши мастера будут рады заработать себе на лишнюю стопку втыкиллы.	Well, it seems we're done. Congratulations on becoming the happy owner of a brand-spanking-new <0>!<br><br>If you liked our service, come again, our craftsmen will be glad to earn themselves an extra shot of Tokilla.
+Пожалуй, просто поточил, спасибо	I guess I was just honing my skills, thanks
+Ну давай посмотрим, что там у вас умельцев...	Well, let's see what you craftsmen have there...
+Не выбран	Not selected
+Начнём рекомбинировать!	Let's start recombining!
+Назначить второй микромодуль	Assign the second micromodule
+Сбросить второй микромодуль	Reset the second micromodule
+Сбросить первый микромодуль	Reset the first micromodule
+Назначить первый микромодуль	Assign the first micromodule
+Ну давай ещё по одной... Ой, то есть ещё по одному микромодулю совместим.	Well, let's have another round... Oops, I mean another micromodule combination.
+Не, я пока всё	Nah, that's all for now
+Дайте детальную информацию о ситуации на фронтах	Give me detailed information on the situation on the fronts
+ед.	pcs.
+Для работы с клиссанским оборудованием потребуется и <clr>протоплазма<clrEnd>:	Working with klissan equipment will also require <clr>protoplasm<clrEnd>:
+сист.	sys.
+Арксы	Arks
+Клисане	Klissans
+Пиратский клан	Pirate Clan
 Доминаторы	Dominators
+Коалиция	Coalition
+Наши аналитики свели данные о принадлежности систем Галактики:	Our analysts have compiled data on the ownership of the Galaxy's systems:
+Понял-принял	Got it

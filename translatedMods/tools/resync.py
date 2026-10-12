@@ -20,10 +20,10 @@ def go(g):
         if M.cyr.search(v) and not M.PATHRE.search(v) and v not in seen: seen[v]=1; order.append((p,v))
     w=M.wd(g)
     for f in glob.glob(w+'/p*.txt'): os.remove(f)
-    todo=[(p,v) for p,v in order if v not in om and v not in tm]
+    todo=[(p,v) for p,v in order if "\t" in v or (v not in om and v not in tm)]
     open(w+'/todo.txt','w',encoding='utf-8').write('\n'.join(f'{i+1}\t{v}' for i,(p,v) in enumerate(todo)))
     open(w+'/todo_paths.txt','w',encoding='utf-8').write('\n'.join(f'{i+1}\t{p}' for i,(p,v) in enumerate(todo)))
-    open(w+'/auto.txt','w',encoding='utf-8').write('\n'.join(v+'\t'+(om[v] if v in om else tm[v]) for p,v in order if v in om or v in tm))
+    open(w+'/auto.txt','w',encoding='utf-8').write('\n'.join(v+'\t'+(om[v] if v in om else tm[v]) for p,v in order if "\t" not in v and (v in om or v in tm)))
     print(g,'todo',len(todo),'auto',len(order)-len(todo))
     if not todo: M.build(g)
 for g in sys.argv[1:]: go(g)
