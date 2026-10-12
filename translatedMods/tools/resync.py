@@ -10,8 +10,10 @@ def go(g):
     oi=M.items(t.split(sep)); ei=M.items(M.readu16(f'{M.T}/{g}/CFG/Eng/Lang.txt'))
     assert len(oi)==len(ei),(g,len(oi),len(ei))
     om={}
-    for (_,_,v),(_,_,e) in zip(oi,ei):
-        if M.cyr.search(v) and not M.cyr.search(e): om.setdefault(v,e)
+    od={q:e for _,q,e in M.items_idx(M.readu16(f'{M.T}/{g}/CFG/Eng/Lang.txt'))}
+    for _,q,v in M.items_idx(t.split(sep)):
+        e=od.get(q)
+        if e is not None and M.cyr.search(v) and not M.cyr.search(e) and M.vok(v,e): om.setdefault(v,e)
     tm={}
     for l in open(M.T+'/tools/tm.tsv',encoding='utf-8').read().split('\n'):
         if '\t' in l: a,b=l.split('\t',1); tm[a]=b

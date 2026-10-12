@@ -1,7 +1,81 @@
+Блазероиды	Blazeroids
+Келлероиды	Kelleroids
+Терроноиды	Terronoids
+По-хорошему, разведданные - стратегически важная информация, и просто так её разглашать нельзя, но сейчас другие времена, и, кем бы ты ни был, эту информацию мы передадим. Готовься изучать списочек!	Strictly speaking, intelligence is strategically important information and shouldn't be disclosed just like that, but times are different now, and whoever you are, we'll hand this information over. Get ready to study the list!
+(под контролем <color=20,20,220>Коалиции</color>)	(under <color=20,20,220>Coalition</color> control)
+(под контролем <color=220,20,20>вторженцев</color>)	(under <color=220,20,20>invader</color> control)
+(под контролем Клана)	(under Clan control)
+Система star controlled	System star controlled
+Сектор sector	Sector sector
+Количество противников: count	Number of enemies: count
+Мне нужна сводка о количестве врагов Коалиции	I need a summary of the number of Coalition enemies
 Благодарю за информацию	Thanks for the information
+Мне нужно получить информацию	I need to get some information
+Информацию, боец? Ну, что, давай, объясняй, какую - у нас информации много, в том числе секретной	Information, fighter? Well, go on, explain which kind - we have plenty of information, including classified
+Когда я получу звание NextRank?	When will I get the rank NextRank?
+Чтобы получить звание NextRank, тебе надо набрать NeedPoints очков военного лётчика. Вот шкала начислений очков за сбитые доминаторские корабли:	To get the rank NextRank, you need to earn NeedPoints military pilot points. Here is the scale of points awarded for downed dominator ships:
+Устрашающий супердоминатор - <clr>70<clrEnd>	Fearsome Superdominator - <clr>70<clrEnd>
+Грозная верфь - <clr>60<clrEnd>	Formidable Shipyard - <clr>60<clrEnd>
+Монструозный бертор - <clr>60<clrEnd>	Monstrous Bertor - <clr>60<clrEnd>
+Тяжёлый эквентор - <clr>48<clrEnd>	Heavy Equantor - <clr>48<clrEnd>
+Разящий ургант - <clr>24<clrEnd>	Striking Urgant - <clr>24<clrEnd>
+Рейнджер-предатель - <clr>15<clrEnd>	Traitor Ranger - <clr>15<clrEnd>
+Смертоносный смерш - <clr>12<clrEnd>	Deadly Smersh - <clr>12<clrEnd>
+Лёгкий менок - <clr>6<clrEnd>	Light Menoc - <clr>6<clrEnd>
+Проворный штип - <clr>3<clrEnd>	Agile Shtip - <clr>3<clrEnd>
+Незаметный транклюкатор - <clr>1<clrEnd>	Inconspicuous Tranclucator - <clr>1<clrEnd>
+Коварный раттор - <clr>1<clrEnd>	Treacherous Rattor - <clr>1<clrEnd>
+Отчаянный клиг - <clr>1<clrEnd>	Desperate Klig - <clr>1<clrEnd>
+А вот шкала начислений очков за сбитые пиратские корабли:	And here is the scale of points awarded for downed pirate ships:
+Галеон - <clr>60<clrEnd>	Galleon - <clr>60<clrEnd>
+Фрегат - <clr>45<clrEnd>	Frigate - <clr>45<clrEnd>
+Корвет - <clr>25<clrEnd>	Corvette - <clr>25<clrEnd>
+Кондотьер - <clr>15<clrEnd>	Condottiere - <clr>15<clrEnd>
+Хан - <clr>15<clrEnd>	Khan - <clr>15<clrEnd>
+Головорез - <clr>12<clrEnd>	Cutthroat - <clr>12<clrEnd>
+За убийство каждого пирата - <clr>10<clrEnd> очков, включая рейнджеров-пиратов.	For the kill of each pirate - <clr>10<clrEnd> points, including pirate Rangers.
+За убийство каждого пирата - <clr>10<clrEnd> очков, включая рейнджеров-пиратов и изменников.	For the kill of each pirate - <clr>10<clrEnd> points, including pirate Rangers and traitors.
+И вот ещё шкала начислений очков за сбитые клисанские корабли:	And here is the scale of points awarded for downed klissan ships:
+Нейролинк - <clr>40<clrEnd> очков.	Neurolink - <clr>40<clrEnd> points.
+Всеуничтожающий Гигас - <clr>60<clrEnd> очков.	All-Destroying Gigas - <clr>60<clrEnd> points.
+Могучий Эгемон - <clr>30<clrEnd> очков.	Mighty Egemon - <clr>30<clrEnd> points.
+Разрушительный Нондус - <clr>20<clrEnd> очков.	Devastating Nondus - <clr>20<clrEnd> points.
+Стремительный Катаури - <clr>10<clrEnd> очков.	Swift Katauri - <clr>10<clrEnd> points.
+Нашествующий Рогит - <clr>5<clrEnd> очков.	Invading Rogit - <clr>5<clrEnd> points.
+Надоедливый Мутёнок - <clr>2<clrEnd> очков.	Annoying Little Mutant - <clr>2<clrEnd> points.
+За освобождение систем мы начисляем <clr>30<clrEnd> очков.	For liberating systems we award <clr>30<clrEnd> points.
 За уничтожение Пиратской Базы мы начисляем <clr>9<clrEnd> очков, а Доминиона - <clr>15<clrEnd> очков.	For destroying a Pirate Base we award <clr>9<clrEnd> points, and for a Dominion - <clr>15<clrEnd> points.
+Если в боевой операции было задействовано сразу несколько кораблей, то очки получат все её участники. Нанёсший смертельный выстрел получит очки согласно базовой ставке, а всем остальным будет присуждена половина очков, полагающихся за сбитый корабль.	If several ships took part in a combat operation at once, all of its participants receive points. The one who fires the killing shot gets points at the base rate, and everyone else is awarded half the points due for the downed ship.
+Кроме того, очки воина ты будешь получать за выполнение различных военных поручений правительств планет. Да-да, мы всё будем учитывать. И за нарушение правил полёта, за убийство мирных кораблей, за проявленную трусость и дезертирство с поля боя, ты будешь терять свои очки, вплоть до лишения звания! Ясно тебе, <Player>?!	In addition, you will earn warrior points for carrying out various military assignments from planetary governments. Yes, yes, we keep track of everything. And for violating flight rules, for killing peaceful ships, for showing cowardice and for deserting the battlefield, you will lose points, up to losing your rank! Is that clear, <Player>?!
 Единственное место, где ты вне нашего контроля, это гиперпространство. Даже мощнейшие военные сканеры перед ним бессильны.	The only place where you are outside of our control is the hyperspace. Even the latest military scanners are powerless before it.
+Двигатель: engine	Engine: engine
+Топливный бак: tank	Fuel tank: tank
+Радар: radar	Radar: radar
+Сканер: scaner	Scanner: scaner
+Генератор поля: def	Shield generator: def
+Ремонтный дроид: droid	Repair droid: droid
+Захват: hook	Gripper: hook
+Орудие 1: weap1	Weapon 1: weap1
+Орудие 2: weap2	Weapon 2: weap2
+Орудие 3: weap3	Weapon 3: weap3
+Орудие 4: weap4	Weapon 4: weap4
+Орудие 5: weap5	Weapon 5: weap5
+Свободного места у военного: place т.	Free space of the soldier: place t.
+Пока ничего, спасибо	Nothing for now, thanks
+Ну а вот и более конкретная инфосводка:	And here is a more specific information summary:
+Коалиция: p1%, c1 систем	Coalition: p1%, c1 systems
+Блазероиды: p2%, c2 систем	Blazeroids: p2%, c2 systems
+Келлероиды: p3%, c3 систем	Kelleroids: p3%, c3 systems
+Терроноиды: p4%, c4 систем	Terronoids: p4%, c4 systems
+Арксы: p7%, c7 систем	Arks: p7%, c7 systems
+Пиратский Клан: p5%, c5 систем	Pirate Clan: p5%, c5 systems
+Клисаны: p6%, c6 систем	Klissans: p6%, c6 systems
 Мы полностью контролируем наш рукав галактики и практически уже празднуем победу. Все враги, по нашим сведениям, повержены, рейнджер <Player>.	We are in total control of our arm of the Galaxy. In fact, <Player>, our sources report that all our enemies are defeated, and we're practically already celebrating victory today.
+Информацию о боевых действиях разглашать не принято. Но для рейнджеров мы делаем исключения. В данный момент ситуация на фронтах ужасна. Силы противника захватили уже почти весь наш рукав галактики, под контролем доминаторов <DominatorsPercent>% звездных систем и еще <PiratesPercent>% удерживают в своих лапах пираты. Оставшиеся в живых рейнджеры планируют начать операцию по освобождению системы <Star>. На таких, как ты, <Player>, и остались все наши надежды.	It's not customary to disclose information on combat operations. But we make exceptions for Rangers. At the moment the situation on the fronts is dire. Enemy forces have already seized almost our entire arm of the Galaxy: the dominators control <DominatorsPercent>% of star systems and pirates hold another <PiratesPercent>% in their clutches. The surviving Rangers plan to begin an operation to liberate the <Star> system. All our hopes rest on people like you, <Player>.
+Информацию о боевых действиях разглашать не принято. Но для рейнджеров мы делаем исключения. В данный момент ситуация на фронтах ужасна. Силы противника захватывают систему за системой. <PiratesPercent>% галактики сейчас удерживают пираты и <DominatorsPercent>% под контролем доминаторов.<br>Сейчас мы собираемся отбить систему <Star>. Если ты, <Player>, хочешь принять участие в этой операции, то поспеши, так как уже несколько рейнджеров вызвались участвовать в освобождении.	It's not customary to disclose information on combat operations. But we make exceptions for Rangers. At the moment the situation on the fronts is dire. Enemy forces are seizing system after system. Pirates now hold <PiratesPercent>% of the galaxy and <DominatorsPercent>% is under dominator control.<br>We are about to retake the <Star> system. If you, <Player>, want to take part in this operation, hurry, since several Rangers have already volunteered for the liberation.
+На текущий момент нам принадлежит всего лишь <Percent>% освоенных систем. Доминаторы удерживают <DominatorsPercent>% территории, а пираты - <PiratesPercent>%. Это плачевный факт, равно как и то, что мы безнадежно проигрываем.<br>Стратегически важной точкой для нас является система <Star> (сектор <Sector>). Ты должен полететь туда, <Player>, и принять участие в боевых действиях.	At present we own only <Percent>% of the settled systems. The dominators hold <DominatorsPercent>% of the territory, and the pirates <PiratesPercent>%. That is a deplorable fact, as is the fact that we are hopelessly losing.<br>A strategically important point for us is the <Star> system (sector <Sector>). You must fly there, <Player>, and take part in the fighting.
+В последнее время инициатива переходит от одной стороны к другой. Враги никак не желают сдавать своих позиций. Под контролем доминаторов <DominatorsPercent>% освоенных территорий, а пираты, в свою очередь, удерживают <PiratesPercent>%. Но развязка близка. Одна из сторон рано или поздно одержит верх, и мы надеемся, что победа останется за Коалицией.<br>Ты, <Player>, можешь оказать нам посильную помощь, если освободишь систему <Star> в секторе <Sector>.	Lately the initiative has been passing from one side to the other. The enemies refuse to give up their positions. The dominators control <DominatorsPercent>% of the settled territories, and the pirates, in turn, hold <PiratesPercent>%. But the end is near. One side will sooner or later prevail, and we hope victory will go to the Coalition.<br>You, <Player>, can lend us what help you can by liberating the <Star> system in sector <Sector>.
+Дела обстоят хорошо. Мы контролируем <Percent>% обитаемой части нашей галактики. Под тиранией пиратов находятся <PiratesPercent>% территорий, а подконтрольными доминаторам считаются <DominatorsPercent>% звездных систем. Рейнджеры вкупе с вооруженными силами медленно вытесняют силы противника с захваченных территорий. Наши технологии на данный момент успешно могут поспорить с вражескими, и наше оружие эффективно поражает их корабли. Так что верь, <Player>, в нашу победу! Сейчас мы как раз планируем освобождение системы <Star> в секторе <Sector>.	Things are going well. We control <Percent>% of the inhabited part of our galaxy. <PiratesPercent>% of the territories lie under pirate tyranny, and <DominatorsPercent>% of star systems are considered dominator-controlled. Rangers together with the armed forces are slowly pushing enemy forces out of the captured territories. Our technology can currently compete successfully with theirs, and our weapons strike their ships effectively. So believe, <Player>, in our victory! We are, in fact, planning the liberation of the <Star> system in sector <Sector> right now.
 На текущий момент мы контролируем около <Percent>% обжитых миров. Враги не представляют особой угрозы, и мы планируем уже в следующем году полностью освободить все захваченные ими системы. Пора, <Player>, перейти к финальному наступлению!	At this time we control about <Percent>% of populated worlds. The enemy does not pose much of a threat; according to our estimates, we should liberate all captured systems as early as next year. <Player>, it is time to launch the final offensive!
 Мы полностью контролируем наш рукав галактики и практически уже празднуем победу. Все доминаторы, по нашим сведениям, повержены, рейнджер <Player>.	We are in total control of our arm of the Galaxy. In fact, <Player>, our sources report that dominators are totally defeated, and we're practically already celebrating victory today.
 Информацию о боевых действиях разглашать не принято. Но для рейнджеров мы делаем исключения. В данный момент ситуация на фронтах ужасна. Доминаторы захватили уже почти весь наш рукав галактики, и всего лишь <Percent>% систем находится под нашим контролем. Оставшиеся в живых рейнджеры планируют начать операцию по освобождению системы <Star>. На таких как ты, <Player>, и остались все наши надежды.	Disclosing information about combat developments is not standard practice, but we make an exception for rangers. The current situation on the front lines is simply awful. The dominators have captured nearly this entire spiral arm of the Galaxy, with a mere <Percent>% of systems still under the Coalition control. The surviving rangers are planning to commence an operation to liberate the <Star> system. You and others like you are our last and only hope, <Player>.
@@ -10,6 +84,7 @@
 В последнее время инициатива переходит от одной стороны к другой. Доминаторы никак не желают сдавать своих позиций, и мы контролируем лишь <Percent>% территории этого рукава галактики. Но развязка близка. Одна из сторон рано или поздно одержит верх, и мы надеемся, что победа останется за Коалицией.<br>Ты, <Player>, можешь оказать нам посильную помощь, если освободишь систему <Star> в секторе <Sector>.	In recent days the balance of power has been wavering. The dominators refuse to give up their positions, while our forces control a mere <Percent>% of territory in this spiral arm of the Galaxy. But the situation is coming to a head. Sooner or later one of the sides will emerge victorious, and we hope that it will be the Coalition.<br><Player>, you can do us a tremendous service by helping to liberate the <Star> system in sector <Sector>.
 Дела обстоят хорошо. Мы контролируем <Percent>% обжитых систем нашей галактики. Рейнджеры вкупе с вооруженными силами медленно вытесняют доминаторов с захваченных территорий. Наши технологии на данный момент успешно могут поспорить с вражескими, и наше оружие эффективно поражает их корабли. Так что верь, <Player>, в нашу победу! Сейчас мы как раз планируем освобождение системы <Star> в секторе <Sector>.	The situation looks good. We control some <Percent>% of populated systems in this Galaxy. The combined forces of rangers and the military are gradually pushing the dominators from the invaded territories. Our technologies can rival those of the enemy, and our weapons have become quite effective against their ships. All in all, <Player>, there's reason for optimism! We are currently planning to liberate the <Star> system in sector <Sector>.
 На текущий момент мы контролируем около <Percent>% обжитых миров. Доминаторы не представляют особой угрозы, и мы планируем уже в следующем году полностью освободить все захваченные ими системы. Пора, <Player>, перейти к финальному наступлению!	At this time we control about <Percent>% of populated worlds. The dominators don't pose much of a threat; according to our estimates, we should liberate all captured systems as early as next year. <Player>, it is time to launch the final offensive!
+Мы полностью контролируем наш рукав галактики и практически уже празднуем победу. Пиратский клан, по нашим сведениям, повержен, рейнджер <Player>.	We fully control our arm of the Galaxy and are practically celebrating victory already. The pirate clan, according to our information, is defeated, Ranger <Player>.
 Информацию о боевых действиях разглашать не принято. Но для рейнджеров мы делаем исключения. В данный момент ситуация на фронтах ужасна. Пираты поработили уже почти весь наш рукав галактики, и всего лишь <Percent>% систем находится под нашим контролем. Оставшиеся в живых рейнджеры планируют начать операцию по освобождению системы <Star>. На таких как ты, <Player>, и остались все наши надежды.	Disclosing information about combat developments is not standard practice, but we make an exception for rangers. The current situation on the front lines is simply awful. The pirates have enslaved nearly this entire spiral arm of the Galaxy, with a mere <Percent>% of systems still under the Coalition control. The surviving rangers are planning to commence an operation to liberate the <Star> system. You and others like you are our last and only hope, <Player>.
 Информацию о боевых действиях разглашать не принято. Но для рейнджеров мы делаем исключения. В данный момент ситуация на фронтах ужасна. Силы пиратов захватывают систему за системой, и всего лишь <Percent>% населенных миров находится под нашим контролем.<br>Сейчас мы собираемся отбить систему <Star>. Если ты, <Player>, хочешь принять участие в этой операции, то поспеши, так как уже несколько рейнджеров вызвались участвовать в освобождении.	Disclosing information about combat developments is not standard practice, but we make an exception for rangers. The current situation on the front lines is simply awful. The pirate forces are capturing one system after another, with a mere <Percent>% of populated planets still under the Coalition control.<br>Presently we're getting ready to recapture the <Star> system. <Player>, if you wish to take part in this operation, you had better hurry, as several rangers have already volunteered.
 На текущий момент нам принадлежит всего лишь <Percent>% освоенных систем. Это плачевный факт, равно как и то, что мы безнадежно проигрываем войну пиратам.<br>Стратегически важной точкой для нас является система <Star> (сектор <Sector>). Ты должен полететь туда, <Player>, и принять участие в боевых действиях.	As of now, we control a mere <Percent>% of populated systems. This lamentable fact looks even worse when you consider that our positions are weakening by the day.<br>Currently, our key strategic point is the <Star> system (sector <Sector>). You must go there, <Player>, and take part in the ensuing combat.
@@ -17,20 +92,243 @@
 Дела обстоят хорошо. Мы контролируем <Percent>% обжитых систем нашей галактики. Рейнджеры вкупе с вооруженными силами медленно вытесняют пиратов с захваченных территорий. Наши технологии на данный момент успешно могут поспорить с вражескими, и наше оружие эффективно поражает их корабли. Так что верь, <Player>, в нашу победу! Сейчас мы как раз планируем освобождение системы <Star> в секторе <Sector>.	The situation looks good. We control some <Percent>% of populated systems in this Galaxy. The combined forces of rangers and the military are gradually pushing the pirates from the invaded territories. Our technologies can rival those of the enemy, and our weapons have become quite effective against their ships. All in all, <Player>, there's reason for optimism! We are currently planning to liberate the <Star> system in sector <Sector>.
 На текущий момент мы контролируем около <Percent>% обжитых миров. Пираты не представляют особой угрозы, и мы планируем уже в следующем году полностью освободить все захваченные ими системы. Пора, <Player>, перейти к финальному наступлению!	At this time we control about <Percent>% of populated worlds. The pirates don't pose much of a threat; according to our estimates, we should liberate all captured systems as early as next year. <Player>, it is time to launch the final offensive!
 Расскажите о ходе военных действий	Speak about the military developments
+По сообщению компетентных источников, система <StarEnemy> скоро будет освобождена. Беспрецедентная военная операция начнётся <Date>.	According to competent sources, the <StarEnemy> system will soon be liberated. An unprecedented military operation will begin on <Date>.
+Всем свободным пилотам приказ собраться на военной базе <WB> (система <WBStar>). Поспешите, боевые места строго ограничены!	All free pilots are ordered to assemble at military base <WB> (<WBStar> system). Hurry, combat slots are strictly limited!
+Наш источник в военных кругах сообщает, что <Date> военная база <WB> собирается совершить гиперпространственный скачок в захваченную врагом систему <StarEnemy>, чтобы раз и навсегда освободить её от незваных оккупантов.	Our source in military circles reports that on <Date> military base <WB> intends to make a hyperspace jump into the enemy-held <StarEnemy> system to free it once and for all from the uninvited occupiers.
+Желающим присоединиться к атаке рекомендуется как можно скорее направиться в систему <WBStar>, где военная база <WB> будет ожидать всех неравнодушных пилотов.	Those wishing to join the attack are advised to head as soon as possible to the <WBStar> system, where military base <WB> will be waiting for all concerned pilots.
+Срочная новость из системы <WBStar>!	Breaking news from the <WBStar> system!
+Военная база <WB> планирует совершить беспрецедентную операцию по освобождению системы <StarEnemy>, в которой примут участие элитные армейские подразделения. У рейнджеров также имеется возможность присоединиться к данной акции, дата которой назначена на <Date>. Сообщается, что более подробные инструкции пилоты получат на военной базе.	Military base <WB> plans an unprecedented operation to liberate the <StarEnemy> system, in which elite army units will take part. Rangers also have the chance to join this action, set for <Date>. It is reported that pilots will receive more detailed instructions at the military base.
+Линейным кораблём	By battleship
+Дредноутом	By dreadnought
+класса J	of class J
+Класса L (<0> ед. структуры)	Class L (<0> structure units)
+класса L	of class L
+Класса S (<0> ед. структуры)	Class S (<0> structure units)
+класса S	of class S
+Класса N (<0> ед. структуры)	Class N (<0> structure units)
+класса N	of class N
+Класса M (<0> ед. структуры)	Class M (<0> structure units)
+класса M	of class M
+Прервать процесс сборки военного	Abort the process of assembling the soldier
+Подтвердить сборку	Confirm the assembly
 Ура!	Hurray!
+Хочу собрать ещё одного пилота	I want to assemble another pilot
+Эге, рейнджер! Ты неплохо себя показал в этом бою. И вправду - рейнджеры чего-то да стоят! Наше командование уже оформило тебе	Hey, Ranger! You did well in this battle. Indeed, Rangers are worth something! Our command has already issued you
+Эге, рейнджер! Ты неплохо себя показал в этом бою. И вправду - рейнджеры чего-то да стоят! Наше командование уже оформило на твоё имя новенькую награду. Будем рады увидеть тебя бок о бок с нами в дальнейших сражениях	Hey, Ranger! You did well in this battle. Indeed, Rangers are worth something! Our command has already issued a brand-new award in your name. We'll be glad to see you side by side with us in future battles
+Будем рады увидеть тебя бок о бок с нами в дальнейших сражениях	We'll be glad to see you side by side with us in future battles
+копий камуфляжа серии	copies of the camouflage of series
 Террон	Terron
 Келлер	Keller
 Блазер	Blazer
+Эге, рейнджер! Ты неплохо себя показал в этом бою. И вправду - рейнджеры чего-то да стоят! Наше командование уже перечислило тебе	Hey, Ranger! You did well in this battle. Indeed, Rangers are worth something! Our command has already transferred to you
+Эгей, рейнджер! Не хочешь помочь нашей бравой армии разобраться с проклятыми захватчиками? Тогда дуй с нами освобождать систему! Посмотрим, кто быстрее справится с захватчиками: хвалёные рейнджеры или рабочие лошадки! Ну а если сомневаешься, то у нас припасён небольшой подарочек для тех, кто присоединится к нашей операции. Ну что, по рукам?	Hey there, Ranger! Don't you want to help our brave army deal with the damned invaders? Then come with us to liberate the system! Let's see who handles the invaders faster: the vaunted Rangers or the workhorses! And if you have doubts, we have a little present set aside for those who join our operation. So, deal?
+Перейти к изменению оборудования пилота	Go to changing the pilot's equipment
+ед. урона на расстоянии	units of damage at a range of
+ед. урона	units of damage
+<color=220,20,20>отсутствует</color>	<color=220,20,20>absent</color>
+Войска Межзвёздной Коалиции	Interstellar Coalition Forces
+копий одной из наших антидоминаторских программ. Будем рады увидеть тебя бок о бок с нами в дальнейших сражениях	copies of one of our anti-dominator programs. We'll be glad to see you side by side with us in future battles
+Расскажите подробнее о награде	Tell me more about the bounty
+Хочу оснастить пилота	I want to equip a pilot
+Если у тебя завалялось много лишнего оборудования, то можешь помочь нам с оснащением пилотов.	If you have a lot of spare equipment lying around, you can help us equip pilots.
+млн км)	million km)
+т. на расстоянии	t. at a range of
+ед. топлива)	units of fuel)
+Ну что, освободитель Галактики, решил нам помочь? Похвально, похвально.<br><br>Собственно, должен объясниться. Несмотря на активное финансирование Галактическим Советом, КВСМК испытывает серьёзные проблемы с оснащением необходимого для фронта количества пилотов.<br><br>Вы, рейнджер, зарекомендовали себя как отличный пилот, которому можно доверить столь ответственное мероприятие, которым является оснащение наших пилотов.	Well, liberator of the Galaxy, have you decided to help us? Commendable, commendable.<br><br>Actually, I must explain. Despite active funding from the Galaxy Council, CAFIC is experiencing serious problems equipping the number of pilots needed for the front.<br><br>You, Ranger, have shown yourself to be an excellent pilot who can be trusted with the responsible task of equipping our pilots.
+В нашем резерве всегда находится большое количество пилотов - кто-то потерял свой корпус в жестком бою, но был вынесен в спасательной капсуле с поля боя и спасён рейнджерами, кто-то дотащил разбитый до состояния металлолома корабль до космопорта, а кто-то - просто наш запас, постепенно призываемый по мере гибели пилотов на передовой.<br><br>Так или иначе, мы можем предложить вам, пилота <clr>какой расы<clrEnd> вы будете оснащать.	Our reserve always contains a large number of pilots - some lost their hull in fierce combat but were carried out of the battlefield in an escape pod and rescued by Rangers, some dragged a ship smashed to scrap to a spaceport, and some are simply our stock, gradually called up as pilots die at the front.<br><br>Either way, we can let you choose the <clr>race<clrEnd> of the pilot you will be equipping.
+Отлично! Теперь подбери размер корпуса пилота согласно нашей размерной шкале корпусов<br><br>Ценовой расклад у нас такой:<br>Класс M - <0> cr.<br>Класс N - <1> cr.<br>Класс J - <2> cr.<br>Класс L - <3> cr.<br>Класс S - <4> cr.	Excellent! Now choose the pilot's hull size according to our hull size scale<br><br>Here is our price list:<br>Class M - <0> cr.<br>Class N - <1> cr.<br>Class J - <2> cr.<br>Class L - <3> cr.<br>Class S - <4> cr.
+Хорошо! Теперь осталось совсем немного - оснастить корабль оборудованием.<br>Чтобы у тебя было понимание порядка цифр, выведем тебе сейчас текущую информацию по собираемому кораблю:<br>==================<br>Пилот: <0><br>Корабль: <1> (<2> ед. структуры)<br>-------Оборудование-------<br><3><br>==================<br>С учётом твоего рейтинга воина, ты получаешь скидку в размере <4>%, следовательно, тебе потребуется уплатить <5> cr.	Good! Now very little remains - equipping the ship with equipment.<br>So you have a sense of the orders of magnitude, here is the current information on the ship being assembled:<br>==================<br>Pilot: <0><br>Ship: <1> (<2> structure units)<br>-------Equipment-------<br><3><br>==================<br>Given your warrior rating, you receive a discount of <4>%, so you will need to pay <5> cr.
+Ну вот и всё, рейнджер!<br>Собранный вами военный совсем скоро поднимется на орбиту планеты <0>, чтобы начать нести службу в нашей системе. Ну а мы, тем временем, можем заняться другими делами!	That's all, Ranger!<br>The soldier you assembled will soon rise into orbit of planet <0> to begin serving in our system. Meanwhile, we can attend to other business!
+Это большая честь, но не сейчас, извините.	It's a great honor, but not now, sorry.
+Пожалуй, приму участие, благодарю!	I think I'll take part, thank you!
+Для победы над врагом нужно превосходить его не числом, а умением, в чём преуспели <color=220,100,250>фэяне</color>.	To defeat the enemy one must surpass him not in numbers but in skill, at which the <color=220,100,250>faeyans</color> excel.
+фэянин	Faeyan
+Спокойный и рассудительный <color=50,150,230>человек</color> - мой выбор!	A calm and level-headed <color=50,150,230>human</color> is my choice!
+человек	People
+Военная хитрость не менее эффективна, чем сила. Нам нужен <color=130,150,40>лепрасовый</color>.	Military cunning is no less effective than force. We need a <color=130,150,40>leprasa</color>.
+пеленг	Peleng
+Не время для слабости - сын <color=255,0,0>Рамгатру</color> сотрёт наших врагов в порошок!	No time for weakness - the son of <color=255,0,0>Ramgatrue</color> will grind our enemies to dust!
+малок	Maloq
+Этому космосу нужна гармония - зовите пилота-<color=250,250,100>гаальца</color>.	This space needs harmony - call for a <color=250,250,100>gaalian</color> pilot.
+гаалец	Gaalian
+Класса J (<0> ед. структуры)	Class J (<0> structure units)
+Командование Вооружённых Сил Межзвёздной Коалиции объявляет о начале генерального наступления! Одновременные удары будут нанесены сразу по нескольким направлениям: <Targets>. Сбор войск уже начался, атака назначена на <Date>. Рейнджеры, желающие внести свой вклад в освобождение Галактики, могут присоединиться к любому из направлений - отличившиеся будут вознаграждены.	The Command of the Armed Forces of the Interstellar Coalition announces the start of a general offensive! Simultaneous strikes will be made on several fronts at once: <Targets>. The assembly of forces has begun, the attack is set for <Date>. Rangers who wish to contribute to the liberation of the Galaxy may join any of the fronts - those who distinguish themselves will be rewarded.
+Генеральное наступление Коалиции началось! Войска получили приказ атаковать системы <Targets>.	The Coalition's general offensive has begun! Troops have been ordered to attack the systems <Targets>.
+Генеральное наступление Коалиции провалилось: ни одну из атакованных систем (<Failed>) освободить не удалось. Командование обещает сделать выводы и подготовить новый удар.	The Coalition's general offensive has failed: not one of the attacked systems (<Failed>) could be liberated. Command promises to draw conclusions and prepare a new strike.
+Генеральное наступление Коалиции завершено. Освобождено систем: <Count> из <Total> (<Liberated>). На остальных направлениях (<Failed>) войскам не удалось сломить сопротивление противника.	The Coalition's general offensive is over. Systems liberated: <Count> of <Total> (<Liberated>). On the other fronts (<Failed>) the troops failed to break the enemy's resistance.
+Генеральное наступление Коалиции завершилось полным успехом! Освобождены все системы, по которым наносился удар: <Liberated>. Враг отброшен, и Коалиция стала ещё на шаг ближе к победе.	The Coalition's general offensive ended in complete success! All the systems that were struck have been liberated: <Liberated>. The enemy has been thrown back, and the Coalition is one step closer to victory.
+Командование Вооружённых Сил Межзвёздной Коалиции выражает вам благодарность за участие в освобождении системы <Star> в ходе генерального наступления. На ваш счёт перечислено <Money> cr.	The Command of the Armed Forces of the Interstellar Coalition thanks you for taking part in the liberation of the <Star> system during the general offensive. <Money> cr. has been transferred to your account.
+<StarEnemy> (сбор в системе <StarNormal>, штаб - военная база <WB> в системе <StarWB>)	<StarEnemy> (assembly in the <StarNormal> system, headquarters - military base <WB> in the <StarWB> system)
+Воен. база	Mil. base
+Эм-м... я хотел бы тут попросить вас... военную операцию начать	Er-m... I would like to ask you here... to start a military operation
+Грубиян!	Boor!
+Ха! Ну, <Player> - ну, насмешил! Думаешь, каждому встречному-поперечному пройдохе, только вчера получившему значок рейнджера, мы теперь должны в ноги кланяться? Вот уж дудки!	Ha! Well, <Player> - you've made me laugh! Do you think we should now bow to the feet of every Tom, Dick and Harry who only yesterday got a Ranger badge? No way!
+Прилетай, как военного опыта поднаберёшься да командовать подучишься. А то ишь какой "адмирал" выискался! А ну-ка шагом марш отсюда!	Come back when you've gained some military experience and learned a bit of command. Look at that, an "admiral" has turned up! Now march out of here!
+И всё же это печально	And yet it's sad
+Я бы хотел организовать военную операцию	I would like to organize a military operation
+Само собой - вот деньги	Of course - here's the money
+Да нет, вы знаете - это как-то уж чересчур	No, you know - that's somehow too much
+Что-то, чувствую я, о таком вложении можно пожалеть, и не раз, - я лучше спасую	Something tells me such an investment could be regretted, and more than once - I'd rather pass
+Ладно, раз это пойдёт на общее благо, то не жалко - согласен	All right, if it goes toward the common good, I don't mind - I agree
+Что ж, понятно	Well, I see
+Слова не мальчика, но мужа! Ну, тогда сейчас соберём аналитиков и прикинем, что почём.	The words of a man, not a boy! Well then, we'll gather the analysts right now and work out what's what.
+Итак, перед тобой наброски разработанного нами плана. По нашим расчётам, мы должны смести врага одной левой, а от тебя требуется лишь проспонсировать данное мероприятие. Надеюсь, сумма приемлемая?	So, before you are the outlines of the plan we have drawn up. By our calculations we should sweep the enemy aside with one hand, and all that's required of you is to sponsor this undertaking. I hope the sum is acceptable?
+Атакуемая система: <StarToAttack>	System to be attacked: <StarToAttack>
+Численность наших сил: <AlliesNumbers>	Size of our forces: <AlliesNumbers>
+Численность противника: <EnemyNumbers>	Size of the enemy: <EnemyNumbers>
+Место сбора: <GatheringPlace>	Assembly point: <GatheringPlace>
+Дата начала атаки: <AttackDate>	Attack start date: <AttackDate>
+Стоимость операции: <Cost> cr.	Cost of the operation: <Cost> cr.
+Слова не мальчика, но мужа! Ну, тогда сейчас соберём аналитиков и прикинем что почём.	The words of a man, not a boy! Well then, we'll gather the analysts right now and work out what's what.
+Что ж, хороших новостей в этот раз не предвидится. Мы долго спорили всем отделом и пришли к заключению, что организовать успешную операцию в настоящее время попросту невозможно. Абсолютно все шансы против нас, для атаки врага сил сектора <Sector> не хватит. Однако не вешай нос, <PlayerRank>! Как только наши верфи наклепают новых ударных кораблей, мы непременно покажем этим негодяям, кто кого!	Well, there's no good news this time. Our whole department argued for a long time and came to the conclusion that organizing a successful operation is simply impossible at present. All odds are against us; the forces of sector <Sector> are not enough to attack the enemy. But don't lose heart, <PlayerRank>! As soon as our shipyards turn out new strike ships, we will certainly show these scoundrels who's who!
+Вот это разговор! Товарищи офицеры - вы всё слышали. Совсем скоро наши парни отправятся в бой, который, возможно, станет для некоторых из них последним. Каждому из вас в грядущие дни предстоит много работы, и я ожидаю, что вы достойно выполните свой долг. Планируемая дата начала наступления - <AttackDate>. Все свободны.	Now that's talk! Comrade officers - you heard everything. Very soon our boys will go into a battle that may be the last for some of them. Each of you has much work ahead in the coming days, and I expect you to carry out your duty with dignity. The planned date for the start of the offensive is <AttackDate>. Dismissed.
+А чего ж тогда так в инвесторы рвался, а? С серьёзными намерениями пришёл, а теперь ему задний ход подавай? Только зря из-за тебя "Нондус" запускали!	Then why were you so eager to be an investor, huh? You came with serious intentions, and now you want to back out? We launched the "Nondus" for nothing because of you!
+Ха! Что, сдрейфил, "инвестор"? Ну, с паршивой овцы и спрос невелик, так что особо осуждать тебя за это не стану. Лети лучше дальше минеральчики собирай.	Ha! What, chickened out, "investor"? Well, little is expected from a black sheep, so I won't condemn you much for it. Better fly on and collect your minerals.
+Наша база сейчас занята подготовкой заказанной тобой атаки на систему <StarToAttack>, а заниматься несколькими операциями сразу мы не можем. Возвращайся после того, как наши парни будут отправлены в бой.	Our base is currently busy preparing the attack on the <StarToAttack> system that you ordered, and we cannot handle several operations at once. Come back after our boys have been sent into battle.
+Что, <PlayerRank>, уже считаешь себя достаточно опытным для стратегического командования? Ну а вот я тебя таковым не считаю.	What, <PlayerRank>, already consider yourself experienced enough for strategic command? Well, I don't.
+Тем не менее, если имеется искреннее желание помочь общему делу - такое у нас всегда приветствуется. Выбирать направление удара мы тебе, конечно, не дадим, но зато тебе будет предоставлена честь оплатить установочный сбор для организации атаки. А ещё твоё имя будет отпечатано как минимум на одном использованном в наступлении против жестянок снаряде. Ну, что скажешь, <PlayerRank>?	Nevertheless, if you sincerely want to help the common cause - that is always welcome here. We won't let you choose the direction of the strike, of course, but you will have the honor of paying the setup fee to organize the attack. And your name will be stamped on at least one shell used in the offensive against the tin cans. So, what do you say, <PlayerRank>?
+Я бы, может, и согласился дать тебе возможность проспонсировать такое мероприятие, но, к сожалению, наш аналитический отдел не нашёл в Галактике ни одной подходящей для атаки системы. Похоже, мы всех победили.	I might have agreed to let you sponsor such an undertaking, but unfortunately our analytics department found not a single system in the Galaxy suitable for attack. It seems we have beaten everyone.
+Я бы, может, и согласился дать тебе возможность проспонсировать такое мероприятие, но, судя по нашим последним передачам, в секторе <Sector> не осталось ни одного регулярного военного корабля, который можно было бы в скором времени отправить в бой. Похоже, мы здесь совсем одни.	I might have agreed to let you sponsor such an undertaking, but judging by our latest transmissions, there is not a single regular warship left in sector <Sector> that could soon be sent into battle. It seems we are all alone here.
+Как там идёт подготовка к военной операции?	How is the preparation for the military operation going?
+Начать операцию	Begin the operation
+Отменить операцию	Cancel the operation
+Пожалуй, я слегка поторопился - надо ещё раз хорошенько всё обдумать	Perhaps I was a bit hasty - I need to think it all over once more
+Конечно!	Of course!
+Выбрать дату атаки	Choose the attack date
+Укажите желаемую дату начала атаки:	Specify the desired attack start date:
+Выбрать состав атакующих	Choose the attacking force
+Выбрать всех	Select all
+Отменить всех	Deselect all
 Назад	Back
+Задействовать все	Use all
+Отменить все	Cancel all
+Выбрать флагман	Choose a flagship
+Выбрать место сбора	Choose an assembly point
+(недостаточно атакующих кораблей)	(not enough attacking ships)
+Отменить выбор	Cancel selection
+Выбрать атакуемую систему	Choose the system to attack
+(под атакой)	(under attack)
+Заказать постройку кораблей	Order construction of ships
+Верфь планеты <Planet>	Shipyard of planet <Planet>
+(<color=0,132,15>запущена</color>)	(<color=0,132,15>launched</color>)
+Завершить планирование	Finish planning
+Неплохо бы поторопиться	We'd better hurry
 Отлично!	Excellent!
+Перейти к планированию	Go to planning
+Ну что, <PlayerRank> - спланировал операцию? Готов поспорить, что-то ты да упустил. Но на то и нужны старшие по званию, верно, хе-хе? Но, если честно, как по мне - уж коли численность за нами, так тут и рассуждать нечего.	Well, <PlayerRank> - have you planned the operation? I bet you missed something. But that's what senior officers are for, right, heh-heh? Honestly, though, as for me - if we have the numbers, there's nothing to discuss.
+Неплохой план, <PlayerRank>! Товарищи офицеры, совсем скоро наши парни отправятся в бой, который, возможно, станет для них последним. Каждому из вас в грядущие дни предстоит много работы, и я ожидаю, что вы достойно выполните свой долг. Планируемая дата начала наступления - <AttackDate>. Все свободны.	A good plan, <PlayerRank>! Comrade officers, very soon our boys will go into a battle that may be their last. Each of you has much work ahead in the coming days, and I expect you to carry out your duty with dignity. The planned date for the start of the offensive is <AttackDate>. Dismissed.
+Также буду искренне рад, если ты сможешь лично возглавить наших парней в наступлении, <Player>.	I would also be sincerely glad if you could personally lead our boys in the offensive, <Player>.
+Возникли какие-то сложности, <PlayerRank>? Понимаю - планирование штука нелёгкая. Дай знать, если захочешь попробовать снова.	Any difficulties, <PlayerRank>? I understand - planning is no easy matter. Let me know if you want to try again.
+Обидно слышать, <PlayerRank>. Я уже было понадеялся на хорошую битву. Надеюсь, в следующий раз ты меня не разочаруешь.	Sorry to hear that, <PlayerRank>. I had already hoped for a good battle. I hope next time you won't disappoint me.
+Вот это настрой, <PlayerRank>! В таком случае дай нам несколько минут, чтобы уточнить все данные.	Now that's the spirit, <PlayerRank>! In that case give us a few minutes to verify all the data.
+Итак, перед тобой экран планирования операции - все наши оперативные данные как на ладони. Удобно, правда? В общем, как закончишь с планированием - дай знать, чтобы я мог отдать приказ к началу сборов.	So, before you is the operation planning screen - all our operational data at a glance. Convenient, isn't it? Anyway, when you finish planning, let me know so I can give the order to begin assembly.
+Пока что отстаём от графика всего на <AttackDate> дн., но как только все отстающие прибудут в точку сбора в систему <GatheringStar> - мы тут же отправляем всех в атаку на систему <StarToAttack>.	We're behind schedule by only <AttackDate> days so far, but as soon as all the stragglers reach the assembly point in the <GatheringStar> system, we will send everyone to attack the <StarToAttack> system at once.
+Налёт на систему <StarToAttack> запланирован на <AttackDate>. Наши ребята уже стягиваются к точке сбора в системе <GatheringStar>.	The raid on the <StarToAttack> system is scheduled for <AttackDate>. Our boys are already gathering at the assembly point in the <GatheringStar> system.
+Перед вами развёрнутая голографическая карта изученного рукава Галактики, на которой красной точкой выделена система, выбранная для нанесения удара. Ниже неё расположен монитор для оценки и выбора ваших наступательных сил.	Before you is an unfolded holographic map of the explored arm of the Galaxy, with the system chosen for the strike marked by a red dot. Below it is a monitor for assessing and selecting your offensive forces.
+Цель атаки: <Indent><StarToAttack>	Attack target: <Indent><StarToAttack>
+Численность ваших сил: <Indent><AlliesNumbers>	Size of your forces: <Indent><AlliesNumbers>
+Численность противника: <Indent><EnemyNumbers>	Size of the enemy: <Indent><EnemyNumbers>
+Соотношение сил: <Indent><ForcesRatio>	Force ratio: <Indent><ForcesRatio>
+Флагман: <Indent><Flagship>	Flagship: <Indent><Flagship>
+Место сбора: <Indent><GatheringPlace>	Assembly point: <Indent><GatheringPlace>
+Дата начала: <Indent><AttackDate>	Start date: <Indent><AttackDate>
+Участвующие в атаке корабли: <AttackShipsList>	Ships taking part in the attack: <AttackShipsList>
 Не выбрана	Not selected
+Не выбран	Not selected
+Не выбрано	Not selected
 Нет	No
+Подготовка в самом разгаре, <PlayerRank>. Офицеры потребляют бойкофе декалитрами - каждый хочет как можно лучше выполнить свой долг, дабы не подставить под удар боевых товарищей. <DateStatus>	Preparations are in full swing, <PlayerRank>. Officers are consuming battle-coffee by the decaliter - everyone wants to do his duty as well as possible so as not to put his comrades-in-arms at risk. <DateStatus>
+Вот текущий статус всех официальных участников атаки: <AttackShipsList>	Here is the current status of all official participants in the attack: <AttackShipsList>
+(<color=0,132,15>прибыл</color>)	(<color=0,132,15>arrived</color>)
+(<color=0,50,200>в постройке</color>)	(<color=0,50,200>under construction</color>)
+(<color=0,50,200>в пути</color>)	(<color=0,50,200>en route</color>)
+(<color=255,0,0>опаздывает</color>)	(<color=255,0,0>running late</color>)
+Что ж, инициатива похвальная, <PlayerRank>.	Well, a commendable initiative, <PlayerRank>.
+Как ты, вероятно, в курсе, командование флота приветствует инициативу опытных рейнджеров в организации атак, тем более тех, которые они соглашаются частично проспонсировать. Так что снабжение наших парней оружием, боеприпасами и прочим необходимым в бою снаряжением - всё на тебе. Выбрать систему для атаки ты, конечно же, не сможешь, но ограниченный доступ к нашему штабному терминалу планирования мы тебе предоставим - заслужил. Кроме того, частичную <clr>координацию<clrEnd> нашими силами уже в самом бою и даже прямое управление собственным <clr>флагманом<clrEnd>, при его наличии в составе атакующих, мы тебе также гарантируем.	As you probably know, fleet command welcomes the initiative of experienced Rangers in organizing attacks, especially those they agree to sponsor partially. So supplying our boys with weapons, ammunition and other gear needed in battle is all on you. You will, of course, not be able to choose the system to attack, but we will grant you limited access to our headquarters planning terminal - you've earned it. In addition, we also guarantee you partial <clr>coordination<clrEnd> of our forces in the battle itself and even direct control of your own <clr>flagship<clrEnd>, if there is one among the attackers.
+Ну, что скажешь, <PlayerRank> - всё ещё рвёшься в бой?	Well, what do you say, <PlayerRank> - still itching for battle?
+Сожалею, <PlayerRank>, но наш аналитический отдел не нашёл в Галактике ни одной подходящей для атаки системы. Похоже, мы всех победили.	I regret, <PlayerRank>, but our analytics department found not a single system in the Galaxy suitable for attack. It seems we have beaten everyone.
+Сожалею, <PlayerRank>, но судя по нашим последним передачам, в секторе <Sector> не осталось ни одного регулярного военного корабля, который можно было бы в скором времени отправить в бой. Похоже, мы здесь совсем одни.	I regret, <PlayerRank>, but judging by our latest transmissions, there is not a single regular warship left in sector <Sector> that could soon be sent into battle. It seems we are all alone here.
+Надо поднажать!	We need to push harder!
+Я желаю организовать военную операцию	I wish to organize a military operation
+Ну что, <PlayerRank> - спланировал операцию? Готов объявить о начале наступления? Как по мне - коли численность за нами, так тут и рассуждать нечего!	Well, <PlayerRank> - have you planned the operation? Ready to announce the start of the offensive? As for me - if we have the numbers, there's nothing to discuss!
+Отличный план, <PlayerRank>! Товарищи офицеры - вы слышали коллегу. Совсем скоро наши парни отправятся в бой, который, возможно, станет для них последним. Каждому из вас в грядущие дни предстоит много работы, и я ожидаю, что вы достойно выполните свой долг. Планируемая дата начала наступления - <AttackDate>. Все свободны.	An excellent plan, <PlayerRank>! Comrade officers - you heard our colleague. Very soon our boys will go into a battle that may be their last. Each of you has much work ahead in the coming days, and I expect you to carry out your duty with dignity. The planned date for the start of the offensive is <AttackDate>. Dismissed.
+Отличный план, <PlayerRank>! Товарищи офицеры - вы слышали коллегу. Совсем скоро мы отправимся в бой, и я ожидаю, что каждый из вас выполнит свой долг с честью! Планируемая дата начала наступления - <AttackDate>. Все свободны.	An excellent plan, <PlayerRank>! Comrade officers - you heard our colleague. Very soon we will go into battle, and I expect each of you to carry out his duty with honor! The planned date for the start of the offensive is <AttackDate>. Dismissed.
+Также искренне надеюсь увидеть и тебя в наших бравых рядах, <Player>. Свободное место в нашей криокапсуле для тебя уже забронировано.	I also sincerely hope to see you in our brave ranks, <Player>. A free spot in our cryopod has already been booked for you.
+Возникли непредвиденные сложности, <PlayerRank>? Понимаю - планирование штука нелёгкая. Дай знать, если захочешь составить новый план.	Any unforeseen difficulties, <PlayerRank>? I understand - planning is no easy matter. Let me know if you want to draw up a new plan.
+Как скажешь, <PlayerRank>. Отбой, парни!	As you say, <PlayerRank>. Stand down, boys!
+В таком случае будем ждать от тебя новых идей.	In that case we'll wait for new ideas from you.
+Отлично, <PlayerRank>! В таком случае дай нам ещё пару минут, чтобы уточнить все данные.	Excellent, <PlayerRank>! In that case give us a couple more minutes to verify all the data.
+Перед вами развёрнутая голографическая карта изученного рукава Галактики, на которой красными точками выделены возможные системы для нанесения удара. Ниже неё расположен монитор для оценки и выбора ваших наступательных сил.	Before you is an unfolded holographic map of the explored arm of the Galaxy, with possible systems for a strike marked by red dots. Below it is a monitor for assessing and selecting your offensive forces.
+Похвально, <PlayerRank>! Сейчас же отдам соответствующие распоряжения.	Commendable, <PlayerRank>! I'll issue the appropriate orders right away.
+На всякий случай напоминаю, что хотя командование флота и берёт на себя немалую часть затрат, тебе всё ещё необходимо будет оплатить организационный сбор: снабдить наших парней оружием, боеприпасами и прочим необходимым в бою снаряжением. Выбрать систему для атаки ты сможешь лично, а если наших текущих сил в секторе <Sector> окажется недостаточно, то ты сможешь также <clr>заказать постройку<clrEnd> нескольких новых истребителей, дабы повысить шансы. Кроме того, тебе, как заслуженному офицеру и воину, будет дозволено <clr>возглавить атаку<clrEnd>, выбрав один из участвующих в атаке линейных кораблей, и <clr>лично повести<clrEnd> его в бой. Конечно, твоё персональное участие в бою вовсе не обязательно, но всегда горячо приветствуется.	Just in case, I remind you that although fleet command bears a considerable part of the costs, you will still have to pay the organizational fee: supplying our boys with weapons, ammunition and other gear needed in battle. You will be able to choose the system to attack yourself, and if our current forces in sector <Sector> prove insufficient, you will also be able to <clr>order the construction<clrEnd> of several new fighters to improve the odds. Moreover, as a distinguished officer and warrior, you will be allowed to <clr>lead the attack<clrEnd> by choosing one of the battleships taking part and <clr>personally taking<clrEnd> it into battle. Of course, your personal participation in the battle is not at all mandatory, but always warmly welcomed.
+Наши связисты уже направлены для уточнения наличных сил в секторе <Sector>, но если ты решишь передумать - я немедленно верну их назад. Ну так что, <PlayerRank> - в бой?	Our signalmen have already been dispatched to verify the forces on hand in sector <Sector>, but if you decide to change your mind, I will recall them immediately. So, <PlayerRank> - into battle?
+Ну что, <PlayerRank> - спланировал операцию? Готов принять решение о начале наступления? Как по мне - коли численность за нами, так тут и рассуждать нечего! Но тебе оно, конечно, виднее.	Well, <PlayerRank> - have you planned the operation? Ready to decide on starting the offensive? As for me - if we have the numbers, there's nothing to discuss! But you know better, of course.
+Вас понял, <PlayerRank>! Товарищи офицеры - вы слышали приказ. Совсем скоро наши парни отправятся в бой, который, возможно, станет для них последним. Каждому из вас в грядущие дни предстоит много работы, и я ожидаю, что вы достойно выполните свой долг. Планируемая дата начала наступления - <AttackDate>. Все свободны.	Understood, <PlayerRank>! Comrade officers - you heard the order. Very soon our boys will go into a battle that may be their last. Each of you has much work ahead in the coming days, and I expect you to carry out your duty with dignity. The planned date for the start of the offensive is <AttackDate>. Dismissed.
+Вас понял, <PlayerRank>! Товарищи офицеры - вы слышали приказ. Совсем скоро мы отправимся в бой, и я ожидаю, что каждый из вас выполнит свой долг с честью! Планируемая дата начала наступления - <AttackDate>. Все свободны.	Understood, <PlayerRank>! Comrade officers - you heard the order. Very soon we will go into battle, and I expect each of you to carry out his duty with honor! The planned date for the start of the offensive is <AttackDate>. Dismissed.
+Также искренне надеюсь увидеть и тебя в наших бравых рядах, <Player>. Свободное место в нашей лучшей криокапсуле для тебя уже забронировано.	I also sincerely hope to see you in our brave ranks, <Player>. A free spot in our best cryopod has already been booked for you.
+В таком случае будем ждать от тебя новых блестящих идей.	In that case we'll wait for new brilliant ideas from you.
+Итак, перед тобой экран планирования операции - все наши оперативные данные как на ладони. Удобно, правда? В общем, как закончишь с планированием - дай знать, чтобы я мог передать приказ к началу сборов.	So, before you is the operation planning screen - all our operational data at a glance. Convenient, isn't it? Anyway, when you finish planning, let me know so I can pass the order to begin assembly.
+Пока что отстаём от графика всего на <AttackDate> дн., но как только все отстающие окажутся на борту - мы сразу же совершаем скачок в систему <StarToAttack>.	We're behind schedule by only <AttackDate> days so far, but as soon as all the stragglers are aboard, we will immediately jump to the <StarToAttack> system.
+Скачок в систему <StarToAttack> запланирован на <AttackDate>.	The jump to the <StarToAttack> system is scheduled for <AttackDate>.
+Подготовка идёт полным ходом, <PlayerRank>! Весь офицерский корпус сидит на стимуляторах - каждый хочет как можно лучше выполнить свой долг, дабы не подставить под удар боевых товарищей. <DateStatus>	Preparations are in full swing, <PlayerRank>! The whole officer corps is on stimulants - everyone wants to do his duty as well as possible so as not to put his comrades-in-arms at risk. <DateStatus>
+С сожалением вынужден сообщить, что мы потеряли все военные корабли, которые должны были принимать участие в наступлении. Тем не менее, воинская гордость не позволяет мне отдать приказ об отмене атаки. Военная база <MilitaryBase> всё ещё является грозной боевой станцией, и будь я проклят, если мы хотя бы не попытаемся отбить у врага систему <StarToAttack>!	I regret to report that we have lost all the warships that were supposed to take part in the offensive. Nevertheless, military pride does not allow me to order the attack canceled. Military base <MilitaryBase> is still a formidable battle station, and I'll be damned if we don't at least try to retake the <StarToAttack> system from the enemy!
+Дата начала операции - <AttackDate>. Рекомендую тебе не опаздывать на наш праздник чистого героизма, <Player>.	The operation start date is <AttackDate>. I recommend you not be late to our feast of pure heroism, <Player>.
+Вас понял, <PlayerRank>! Сейчас же отдам соответствующие распоряжения.	Understood, <PlayerRank>! I'll issue the appropriate orders right away.
+На всякий случай напоминаю, что хотя командование флота и берёт на себя немалую часть затрат, тебе всё ещё необходимо будет оплатить организационный сбор: снабдить наших парней оружием, боеприпасами и прочим необходимым в бою снаряжением. Выбрать систему для атаки ты сможешь лично, а если наших текущих сил в секторе <Sector> окажется недостаточно, то ты сможешь также <clr>заказать постройку<clrEnd> нескольких новых истребителей, дабы повысить шансы. Кроме того, тебе, как заслуженному офицеру и воину, будет дозволено <clr>возглавить атаку<clrEnd>, выбрав один из участвующих в атаке линейных кораблей, и <clr>лично повести<clrEnd> его в бой. Конечно, твоё персональное участие в бою вовсе не обязательно, но всегда горячо приветствуется. Местом сбора сил перед атакой может стать как любая из подходящих систем, так и наша грозная <clr>военная база<clrEnd> <MilitaryBase>. Для нас будет честью пойти в бой под началом такого прославленного полководца как ты, <Player>.	Just in case, I remind you that although fleet command bears a considerable part of the costs, you will still have to pay the organizational fee: supplying our boys with weapons, ammunition and other gear needed in battle. You will be able to choose the system to attack yourself, and if our current forces in sector <Sector> prove insufficient, you will also be able to <clr>order the construction<clrEnd> of several new fighters to improve the odds. Moreover, as a distinguished officer and warrior, you will be allowed to <clr>lead the attack<clrEnd> by choosing one of the battleships taking part and <clr>personally taking<clrEnd> it into battle. Of course, your personal participation in the battle is not at all mandatory, but always warmly welcomed. The assembly point for the forces before the attack may be any suitable system or our formidable <clr>military base<clrEnd> <MilitaryBase>. It will be an honor for us to go into battle under the command of such a renowned commander as you, <Player>.
+Наши лучшие связисты уже направлены для уточнения наличных сил в секторе <Sector>, но если ты решишь передумать - я немедленно верну их назад. Ну так что, <PlayerRank> - в бой?	Our best signalmen have already been dispatched to verify the forces on hand in sector <Sector>, but if you decide to change your mind, I will recall them immediately. So, <PlayerRank> - into battle?
+Рейнджер <Player>!	Ranger <Player>!
+Ваши "достижения" в области уничтожения кораблей Коалиции не могли не заинтересовать КВСМК. В связи с этим командование приняло решение о <color=220,20,20>лишении</color> вас <clr>100<clrEnd> очков воинского звания.	Your "achievements" in destroying Coalition ships could not fail to interest CAFIC. In view of this, command has decided to <color=220,20,20>strip</color> you of <clr>100<clrEnd> military rank points.
+Без уважения, КВСМК.	Without respect, CAFIC.
+Ваши "достижения" в области уничтожения кораблей Коалиции не могли не заинтересовать КВСМК. В связи с этим командование приняло решение о <color=220,20,20>понижении</color> вас в звании. Отныне вы - rank!	Your "achievements" in destroying Coalition ships could not fail to interest CAFIC. In view of this, command has decided to <color=220,20,20>demote</color> you. From now on you are rank!
+Вы уверены, что хотите оставить командование флагманом, <PlayerRank>?	Are you sure you want to give up command of the flagship, <PlayerRank>?
+Приветствую, <PlayerRank>! От имени всей команды позволь выразить наше глубокое почтение и предложить тебе как можно скорее принять командование над гордостью коалиционного флота - <FlagshipDeclension>!	Greetings, <PlayerRank>! On behalf of the entire crew, allow me to express our deep respect and to offer you, as soon as possible, command of the pride of the Coalition fleet - <FlagshipDeclension>!
+Отлично, <PlayerRank>! Я немедленно проложу курс на сближение и стыковку.	Excellent, <PlayerRank>! I will immediately plot a course for approach and docking.
+Если впоследствии захочешь покинуть наш корабль - просто сообщи об этом дежурному на мостике.	If you later wish to leave our ship, just tell the duty officer on the bridge.
+При всём уважении, <PlayerRank>, я не могу выполнить ваш приказ. Выполнять стыковку с нашим кораблём для вас сейчас слишком опасно.	With all due respect, <PlayerRank>, I cannot carry out your order. Docking with our ship is too dangerous for you right now.
+Вас понял, <PlayerRank> - я немедленно проложу курс на сближение и стыковку.	Understood, <PlayerRank> - I will immediately plot a course for approach and docking.
+Была честь служить под вашим командованием, <PlayerRank>! Но теперь, когда система <Star> свободна, <Flagship> вновь переходит под прямое управление коалиционного флота. Я вынужден просить вас оставить капитанский мостик. Кстати, пока вы занимались командованием, наши механики успели подлатать и заправить ваш корабль. Надеюсь однажды вновь оказаться вашим подчинённым.	It was an honor to serve under your command, <PlayerRank>! But now that the <Star> system is free, <Flagship> returns to the direct control of the Coalition fleet. I must ask you to leave the captain's bridge. By the way, while you were commanding, our mechanics managed to patch up and refuel your ship. I hope to one day be your subordinate again.
+Ах ты паршивый предатель! Мы доверили тебе гордость коалиционного флота, а ты в ответ решил вонзить ему нож в спину!? Ну что ж, ножей нам на флоте давно не выдают, так что придётся тебя просто застрелить...	You lousy traitor! We entrusted you with the pride of the Coalition fleet, and you decided to stab it in the back!? Well, knives haven't been issued in the fleet for ages, so we'll just have to shoot you...
+Покинуть <Flagship>	Leave <Flagship>
+Я хочу принять командование вашим кораблём	I want to take command of your ship
+Благодарю за предложение, капитан, однако у меня остались неотложные дела - я свяжусь с вами чуть позже	Thank you for the offer, captain, but I have urgent business left - I'll contact you a little later
+Почту за честь взойти к вам на борт!	I would be honored to come aboard!
+Приятно было служить бок о бок с такой бравой командой! [вернуться на свой корабль]	It was a pleasure to serve side by side with such a gallant crew! [return to your own ship]
+Но подождите, вы всё совсем не так поняли!	But wait, you've got it all wrong!
+Ага, дудки! Бывайте, ихтиандры... [покинуть флагман на своём корабле]	Yeah, right! So long, Ichthyanders... [leave the flagship on your own ship]
+Но старший помощник капитана... ваш бывший помощник, вас не слушал. Словно в замедленной съёмке его рука выхватила из кобуры бластер, а спустя какое-то мимолётное мгновение вы ощутили жгучую боль и одновременно странную лёгкость в груди. С удивлением вы опустили взгляд, чтобы обнаружить огромное оплавленное отверстие на вашем красивом рейнджерском мундире.	But the first mate... your former first mate, did not listen. As if in slow motion, his hand snatched a blaster from its holster, and a fleeting moment later you felt a burning pain and at the same time a strange lightness in your chest. In surprise you lowered your gaze to find a huge melted hole in your fine Ranger uniform.
+Жизнь великого капитана закончилась.	The life of the great captain has ended.
+Отставить	Belay that
+Нет, это твой персональный приказ	No, this is your personal order
+Да, это приказ по всей группе	Yes, this is an order for the whole group
+Отмена атаки - <Target> больше не приоритетная цель	Cancel the attack - <Target> is no longer a priority target
+Я хочу, чтобы ты атаковал определённую цель	I want you to attack a specific target
+Атакуй <Target>	Attack <Target>
+Так точно, <PlayerRank>!	Aye aye, <PlayerRank>!
+Мне передать остальным то же распоряжение?	Should I pass the same order to the others?
+Приказ ясен - очень скоро <Target> превратится в горстку космического пепла!	Order understood - very soon <Target> will turn into a handful of space ashes!
+Разрешите доложить - уже произвожу атаку на <Target>! Следовательно, буду атаковать в два раза сильней!	Permission to report - I am already attacking <Target>! Therefore I will attack twice as hard!
+Передать остальным то же распоряжение?	Pass the same order to the others?
+Передать это распоряжение остальным?	Pass this order to the others?
+И какую же цель мне атаковать, <PlayerRank>?	And which target should I attack, <PlayerRank>?
+Инфошка, чтобы инфошки не сходили с ума. Здесь дипломат оставляет заказ на ушатать кого-то	An info item so that info items don't go crazy. Here a diplomat leaves an order to rough someone up
+Инфошка для управления защищающим дипломата военным	An info item for controlling the soldier protecting a diplomat
+Маркер, что игрок в данный момент управляет флагманом, полученным на время военной операции	A marker that the player is currently controlling a flagship received for the duration of a military operation
+Инфошка, выявляющая систему для атаки военными	An info item that identifies the system for a military attack
+Скрытая инфошка: отступившая ВБ после прыжка в коалиционную систему выпускает военных с борта	Hidden info item: after the jump into a Coalition system, the retreating MB releases soldiers from its hold
+Скрытая инфошка: система, из которой ВБ ушла в атаку (куда она отступает и возвращается)	Hidden info item: the system from which the MB departed to attack (where it retreats to and returns)
+34, 33, 33, Линкор	34, 33, 33, Battleship
+34, 33, 33, Дредноут	34, 33, 33, Dreadnought
+Калифар	Califar
 Флагман	Flagship
 Экефар	Ecefar
+Нагинита	Naginita
 Гетереога	Getereoga
+Кардабан	Kardaban
 Дракар	Drakar
+Цвейк	Tsveyk
 Шаракеш	Sharakesh
 Капитан	Captain
 Истребитель	Fighter
+Дредноут	Dreadnought
 Военный	Military
 Линкор	Battleship

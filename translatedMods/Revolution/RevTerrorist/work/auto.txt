@@ -1,5 +1,28 @@
-Отлично	Great
-Ладно	All right
+<br><br>Получено опыта: #0# очков.	<br><br>Experience gained: #0# points.
+Бизнес-центр #0# в системе #1# уничтожен! По понятным причинам забрать награду уже не получится.	Business Center #0# in the #1# system has been destroyed! For obvious reasons, it will no longer be possible to collect the reward.
+Трагедия в системе #0#! Доведенный до отчаяния рейнджер уничтожил бизнес-центр #1# при помощи кварковых бомб. Свой поступок он объяснил невозможностью выплатить кредит. На внеочередном заседании Галактического Совета было принято решение о выплате пособия малоимущим рейнджерам, чтобы впредь не допустить подобных инцидентов.	Tragedy in the #0# system! A desperate Ranger destroyed business center #1# with quark bombs. He explained his act by being unable to repay a loan. At an extraordinary session, the Galaxy Council decided to pay benefits to poor Rangers to prevent such incidents in the future.
+Вы настоящий герой, #0#! Ваши решительные действия спасли множество невинных жизней! Кроме того, уничтожение нашей станции нанесло бы тяжелый удар по экономике всего сектора! От имени сети бизнес-центров, позвольте вручить вам особенный подарок: микромодуль #1#!<br>	You are a true hero, #0#! Your decisive actions saved many innocent lives! Moreover, the destruction of our station would have dealt a heavy blow to the economy of the whole sector! On behalf of the Business Center Network, allow us to present you with a special gift: micromodule #1#!<br>
+Трагедия в системе #0#! Доведенный до отчаяния рейнджер попытался уничтожить бизнес-центр #1# при помощи кварковых бомб. В найденной в обломках корабля предсмертной записке было указано, что на этот шаг он пошёл из-за невозможности оплатить кредит. На внеочередном заседании Галактического Совета было принято решение о выплате пособия малоимущим рейнджерам, чтобы впредь не допустить подобных инцидентов.	Tragedy in the #0# system! A desperate Ranger attempted to destroy business center #1# with quark bombs. A suicide note found in the wreckage of the ship stated that he took this step because he could not pay off a loan. At an extraordinary session, the Galaxy Council decided to pay benefits to poor Rangers to prevent such incidents in the future.
 Назад	Back
+#0#:<br>- Аллах Акбар!	#0#:<br>- Allahu Akbar!
 Конец связи	Over and out.
+Эх, я бы помог тебе с выплатой долга, жаль только не располагаю подобной суммой...	Oh, I'd help you pay off the debt, it's just that I don't have that kind of money...
+А сколько ты им задолжал?	And how much do you owe them?
+А, ну да, правильно, так и надо буржуев этих бить!	Ah, right, yes, that's how you've got to beat these bourgeois!
+Слушай сюда, террорист. Бери #0# cr. и отстань от несчастной станции!	Listen here, terrorist. Take #0# cr. and leave this poor station alone!
 Был рад помочь!	My pleasure!
+#0#, загляните в наш бизнес-центр #1#. Мы хотим поблагодарить вас от имени всех сотрудников!	#0#, drop by our business center #1#. We want to thank you on behalf of all our employees!
+#0# cr. А почему ты спрашиваешь?	#0# cr. Why do you ask?
+Ладно, так и быть, уговорил, не буду я взрывать их	Okay, you've convinced me, I won't blow them up
+А, #0#, это снова ты. С долгами я разобрался, спасибо тебе ещё раз. Лечу сдаваться властям - пусть судят.	Ah, #0#, it's you again. I've settled my debts, thanks again. I'm flying off to surrender to the authorities - let them judge me.
+#0#, не мешай, я лечу отдавать долг кредиторам, хе-хе.	#0#, don't get in my way, I'm off to pay back my creditors, heh-heh.
+Спасибо тебе, #0#, выручил коллегу-рейнджера в час нужды. Век не забуду!	Thank you, #0#, for helping out a fellow Ranger in his hour of need. I'll never forget it!
+#0#:--->#1#<br>- #1#, вам следует немедленно развернуть свой корабль и совершить посадку на планету #2#, где вас ждёт справедливый суд!<br>- Не так быстро, для начала мне нужно расплатиться с долгами.	#0#:--->#1#<br>- #1#, you must immediately turn your ship around and land on planet #2#, where a fair trial awaits you!<br>- Not so fast, first I need to pay off my debts.
+Бомбы мне теперь не нужны, поэтому забирай-ка их ты, рейнджер	I don't need the bombs anymore, so you take them, Ranger
+Отлично	Great
+Нужна ваша помощь в уничтожении террориста name	Your help is needed to destroy the terrorist name
+Пожалуйста, отключитесь, рейнджер. Этот патрульный корабль возвращается на базу. Разговоры запрещены.	Please sign off, Ranger. This patrol ship is returning to base. Conversation is prohibited.
+Вас понял!	Understood!
+Ладно	All right
+Рейнджер, отключитесь с линии связи. Этот патрульный корабль задействован в важнейшей операции по ликвидации опасного преступника <0>. Кажется, он собирается уничтожить местный бизнес-центр.	Ranger, clear the communication line. This patrol ship is engaged in a vital operation to eliminate the dangerous criminal <0>. It seems he intends to destroy the local business center.
+Начальство сообщило, что этот корабль нужно сбить любой ценой, так что я уже начинаю манёвры!	Command says this ship must be shot down at any cost, so I'm already starting my maneuvers!
