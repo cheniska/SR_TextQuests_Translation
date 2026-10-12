@@ -1,0 +1,80 @@
+327	A level two micromodule. Partly approved and almost licensed software for any <clr>acrynic equipment<clrEnd> except guns. The gain in software cost and speed does not fully offset the weakening of auxiliary functions.
+328	Positive properties of acryn: <clr>+15%<clrEnd>
+329	Negative properties of acryn: <clr>-100%<clrEnd>
+330	Upcrind
+331	A level two micromodule. As true altruists, the <clr>gaalians<clrEnd> who developed this module shared their brilliant ideas not only with the <clr>Maloqs<clrEnd> but, for reasons known to no one, even with the <clr>pirate clan<clrEnd>. However, it is by no means certain that this development will really turn the course of the war in anyone's favor - after all, besides boosting the nonstandard pluses, the minuses are also boosted quite well, and the cost of such an upgrade is off the charts, and combining it with <clr>weapons<clrEnd> is impossible.
+332	Negative properties of acryn: <clr>+150%<clrEnd>
+333	Coartator
+334	A level two micromodule. This module is an improved version of the giniro-oil pump widely used in repair robots. The <clr>gaalians<clrEnd> replaced the oil with a superfluid that needs no bulky distillation units to maintain its properties. As a result <clr>droids<clrEnd> repair faster and have lost some of their useless volume.
+335	Two-Zerg
+336	A level two micromodule. For many long years after the Klissan war, <clr>humanity<clrEnd> tried to increase the survivability of its ships so as to take into account the sad experience of past confrontations. The module for <clr>repair droids<clrEnd> that resulted from the research will give a head start over many developments, if you disregard its not-too-pleasant side effects.
+337	Emgyrr
+338	A level two micromodule. The embodiment of the <clr>maloq<clrEnd> passion for war and combat, realized through a moderately mediocre module. When installed in any <clr>hull<clrEnd> of characteristic red coloring, it opens two additional <clr>weapon slots<clrEnd>, and also strengthens the hull <clr>armor<clrEnd>, increasing the pilot's self-confidence and <clr>accuracy<clrEnd>.
+339	Tornados
+340	A level two micromodule. A typical neutrino accelerator for speeding up interstellar ships. Combines well with any types of energy fields, as a result of which it opens a <clr>shield generator and afterburner slot<clrEnd>, providing an increase in the <clr>hull's strength properties<clrEnd> by building accelerators into rarely used cargo hold compartments. Unfortunately, the <clr>maloqs<clrEnd> never managed to figure out this technique.
+341	Size: <clr>-7%<clrEnd>
+342	Reliability: <clr>+11%<clrEnd>
+343	McLaren
+344	A level two micromodule. A legacy of the <clr>human<clrEnd> clan famed for its talents in the art of racing. Rumor has it that Michael Shulman himself put his helmet to the creation of this module, so any <clr>hull<clrEnd> under its influence becomes lighter, tougher, more maneuverable and much more valuable.
+345	Cost: <clr>+90%<clrEnd>
+346	Reliability: <clr>+10%<clrEnd>
+347	Compositorium
+348	A level two micromodule. <clr>Human<clrEnd> science studying the synthesis of composite alloys suddenly came to a halt owing to fundamental physical limitations. Fortunately, the resourceful <clr>faeyan<clrEnd> came to the rescue, offering a concise way out of the situation: the <clr>mass<clrEnd> of any ship can be reduced if the plating is changed from cubonite to laurite. The armor will weaken slightly, but the gain in mass will be worth it.
+349	Mayhammer
+350	A level two micromodule. Adds to any <clr>missile<clrEnd> weapon an unusually durable and massive block with a spatial distorter capable of holding a huge number of guided projectiles. Unfortunately, replenishing so huge an ammunition supply in time will cost very, very dearly.
+351	Helios
+352	A level two micromodule. A hadron converter that replaces the basic version of the electromagnetic generator with a new, lighter one, which leads to a <clr>weight reduction<clrEnd> in <clr>energy<clrEnd> weapons of <clr>any race<clrEnd>. The rise in temperature and flow power leads to increased damage, although the range of effect partly suffers.
+353	Size: <clr>-14%<clrEnd>
+354	A level one micromodule. Activates centers for propagating surface electromagnetic waves in the weakly protected areas of the <clr>hull<clrEnd>, significantly protecting them from energy and partly fragmentation damage. A substantial drawback of this system is its vulnerability to missile weapons, for which the new protection poses no obstacle. The micromodule also applies a nanocoating to the hull, increasing its armor. The <clr>gaalians<clrEnd> long ago abandoned such technology for reasons unknown.
+355	Susceptibility to energy damage: <clr>-50%<clrEnd>
+356	Susceptibility to fragmentation damage: <clr>-25%<clrEnd>
+357	Susceptibility to missile damage: <clr>+25%<clrEnd>
+358	Sherman
+359	A level one micromodule. The pinnacle of creative thought in the business of destroying your enemies. This powerful module, developed by the <clr>Maloqs<clrEnd>, turns any <clr>weapon<clrEnd> of this race into a deadly, rapid-fire gun complex. All the characteristics that real warriors care about grow strongly, while trifles like <clr>size, cost and reliability<clrEnd> drop.
+360	Shots per turn: <clr>+1<clrEnd>
+361	Aethelstar
+362	A level one micromodule. A powerful self-repairing complex created by each series of <clr>dominators<clrEnd> separately. It combines the boldest ideas for controlling the microworld - from quark lattices to meson capacitors. Naturally, the ultimate goal is a paradoxical increase in the <clr>armor<clrEnd> and repair capabilities of <clr>droids<clrEnd>.
+363	Reliability: <clr>+40%<clrEnd>
+364	Cost: <clr>+125%<clrEnd>
+365	Tormentor
+366	A level one micromodule. This module is deservedly recognized as one of the most dangerous developments of the <clr>pirate clan<clrEnd>. It converts any weapon into a true death machine, and a long and agonizing death at that. The modified weaponry can <clr>block the droid and guns<clrEnd>, and also seriously damages the plating and all the <clr>internal workings<clrEnd> of the enemy ship, including through <clr>ionization, nanocorrosion and induced interference<clrEnd>. Perhaps the only chance of resisting such a thing is the fact that literally all the characteristics of the carrier also deteriorate significantly.
+367	<clr>All effects require the scanner power to exceed the target's defense<clrEnd>
+368	Morphine
+369	A level one micromodule. An amplifier module for <clr>energy<clrEnd> weapons for dominators of the <clr>Keller<clrEnd> series. Using knowledge of hyperspace, it makes it possible to return part of the energy on firing and use it to partly power its own systems. The main drawbacks of the complex are a sharp drop in effective firing range and an increase in cost, and the main advantages are a reduction in size and surface <clr>ionization<clrEnd> of the target.
+370	<clr>Restores the ship's structure at the expense of damage to the target<clrEnd>
+371	Omegamma
+372	A level one micromodule. A package of improvements for the <clr>fragmentation<clrEnd> weaponry of the <clr>terronoids<clrEnd>. The exact origin of the development is unknown, but it has been established that material projectiles improved in this way can block the operation of the enemy's <clr>droid and guns<clrEnd>. In addition, the effective aiming distance, firing order and minimum possible damage increase.
+373	<clr>The weapon always deals maximum damage<clrEnd>
+374	Special Ether
+375	A level one micromodule. Treats the hull with high-molecular ether compounds that favorably affect the operation of nonstandard equipment, and also envelops the ship's plating, reducing damage from fragmentation weaponry to a minimum. True, the flip side is that susceptibility to energy and slightly to missile damage rises. Opens <clr>4 artifact slots<clrEnd> and substantially raises the cost of <clr>human hulls<clrEnd>.
+376	Hull cost: <clr>+200%<clrEnd>
+377	Susceptibility to missile weaponry: <clr>+15%<clrEnd>
+378	Susceptibility to energy weaponry: <clr>+25%<clrEnd>
+379	Susceptibility to fragmentation weaponry: <clr>-60%<clrEnd>
+380	Voltron
+381	A level one micromodule. The extremely unstable quantron energy source hidden in this module can drastically transform <clr>any hull<clrEnd>. The electronic discharge guarantees operation of the <clr>afterburner, shield generator, artifact and an additional gun<clrEnd>. The discharge also greatly boosts protection against <clr>energy<clrEnd> weapons.
+382	Susceptibility to energy damage: <clr>-40%<clrEnd>
+383	Ziolthy
+384	A level one micromodule. A hasty attempt to tip the balance of the confrontation with the dominators in favor of the Coalition, this time a <clr>gaalian invention<clrEnd>. A shortage of firepower and the slight need for regular army forces to use nonstandard equipment led to the creation of this module: it can <clr>increase the number of guns by three and activate a gripper slot<clrEnd> at the price of <clr>dismantling just one artifact<clrEnd>. Truly this is a new hope in a long war, since the hull armor rises substantially after this transformation.
+385	Trow
+386	A level one micromodule. A combat complex that constantly crosses the bounds of the permissible, often used by <clr>pirates<clrEnd> in their vile raids. Thanks to valiant Coalition military men it was borrowed and studied by <clr>human and gaalian<clrEnd> scientists for compatibility with standard guns, and the experiments proved successful. The main drawback of this module is a poorly designed cooling and lubrication system, which adversely affects the gun's <clr>reliability<clrEnd>. On the positive side, some power-supply elements are replaced with nanotech ones, which reduces <clr>size<clrEnd>.
+387	Anigmata
+388	A level one micromodule. Created from the wreckage of ships of an <clr>unknown race<clrEnd>, this module can be a real find for any regular of the black holes. For a moderate extra cost you can get a good increase in range and damage for <clr>energy and fragmentation<clrEnd> guns. One must not forget that it was made from wreckage, and because of this a lot of unnecessary junk is added that increases the weight.
+389	Energy weapon power: <bonWEnergy>
+390	Fragmentation weapon power: <bonWSplinter>
+391	A level one micromodule. Presented at one of the most important intergalactic conferences shortly after the war began, this module is meant to maximize all hidden functions and special properties of any equipment of any race. Unfortunately, its creator was killed under mysterious circumstances, and similar samples were found on the ships of the <clr>pirate clan<clrEnd>. The <clr>pelengs and gaalians<clrEnd> soon withdrew from the agreement on using this module because it cannot be combined with <clr>weapons and hulls<clrEnd>.
+392	Negative properties of acryn: <clr>-25%<clrEnd>
+393	Size: <clr>+125%<clrEnd>
+394	Buggy
+395	A level one micromodule. A comprehensive upgrade for any <clr>missile launchers<clrEnd> except the torpedo tube and the multiplet. Thanks to the genius of its creator, Aska Ilona, the module gives significant bonuses <clr>regardless of the race<clrEnd> of the weapon. The final size of the modified launcher naturally grows noticeably.
+396	Missile flight speed: <clr>+550<clrEnd> units
+397	Missiles per salvo: <bonShots>
+398	Mahpa
+399	A level one micromodule. The terrifying third version of the most dreadful <clr>maloq<clrEnd> project in the history of the galaxy, bringing chaos, destruction and pain. In desperation, the <clr>faeyan<clrEnd> offered their services in tuning all the components of this wonderful mechanism, as a result of which instead of a weapon of mass suppression, a <clr>huge and practically invulnerable droid<clrEnd> came out.
+400	Patch 0.99 gamma
+401	A level one micromodule. The third and last version of the most popular patch for any ship equipment. Noticeably raises the performance of all units and systems, but the output values turn out extremely chaotic. Licensing was not carried out for <clr>humans and gaalians<clrEnd> at their own wish: fractional numbers badly hinder humans in business calculations, while gaalians prefer order to chaos.
+402	Screwdriver
+403	A level one micromodule. A widespread set of combined circuits discovered by <clr>pelengs, humans or gaalians<clrEnd>. When such an add-on is installed in a hull, the strength and size of the whole starship grow, and with a successful transformation additional slots open for an <clr>artifact, radar and scanner<clrEnd>.
+404	Hull size: <clr>+12%<clrEnd>
+405	Hull reliability: <clr>+6%<clrEnd>
+406	Pinkerton

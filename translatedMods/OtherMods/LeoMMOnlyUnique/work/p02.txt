@@ -1,0 +1,88 @@
+239	A level three micromodule. Completely changes the hull structure of a <clr>maloq or peleng<clrEnd> race, mixing quarks and randomly changing the polarity of covalent bonds in the armor and in <clr>resistance<clrEnd>.
+240	Susceptibility to energy: <clr>-10%<clrEnd>
+241	Susceptibility to missile: <clr>+10%<clrEnd>
+242	Susceptibility to fragmentation: <clr>-20%<clrEnd>
+243	Stanser
+244	A level three micromodule. The module was originally the product of a free-search group exploring the most remote corners of the galaxy. Soon after the war began it was adapted for the <clr>engine, radar and gripper<clrEnd> to increase their effective range. When integrated into the hull it also performs some transformations, namely it opens the radar and gripper slots.
+245	Radar range: <bonRadar> units
+246	Overdale
+247	A level three micromodule. Removes all limiters and fuses from the <clr>repair droid<clrEnd>, letting it work at peak efficiency. Its weight drops slightly. Naturally, the poor robot cannot work long, so this procedure is common only among <clr>pirates, dominators and unknown races<clrEnd>, since they never signed the Convention on the Protection of Droid Rights.
+248	Protocol-42
+249	A level three micromodule. Activates a rarely used defense protocol embedded in every <clr>dominator<clrEnd> engine and hull. Protective properties and reliability increase slightly.
+250	Reliability: <clr>+15%<clrEnd>
+251	Platypus
+252	A level three micromodule. An additional attachment for the barrels of <clr>fragmentation<clrEnd> weapons. Widely used on slow ships to compensate for a lack of firing range at a slight loss of penetration. Works exclusively with the equipment of <clr>humans, faeyan and the pirate clan<clrEnd>.
+253	Drive
+254	A level three micromodule. A popular <clr>hull<clrEnd> converter for taking part in extreme space sports. Guaranteed to open an <clr>afterburner<clrEnd> slot and lighten any ship.
+255	Childer
+256	A level three micromodule. Coats the warheads of <clr>Lirecron<clrEnd> missiles with a shell that corrodes all living and nonliving things and can partially reduce the enemy's armor. The components of this toxic substance harm the missile engines and the launchers themselves, and the containers for storing it take up extra volume.
+257	EM missile speed: <clr>+350<clrEnd> units
+258	<clr>Causes a nanocorrosion effect<clrEnd>
+259	Gravitex
+260	A level three micromodule. A primitive negative field generator still used on antediluvian ships of <clr>maloqs and pelengs<clrEnd>. Guaranteed to reduce mass and worsen reputation among traders, since determining the mass of goods in the cargo bay precisely becomes much harder.
+261	Galvanic
+262	A level three micromodule. An auxiliary heat accumulator for <clr>energy<clrEnd> weapons. Lets guns store powerful, slightly shorter-ranged discharges that lead to <clr>ionization<clrEnd> of the target's surface. Such devices are useless for imperfect <clr>maloq<clrEnd> equipment, while the <clr>gaalians<clrEnd> rejected this module as "unethical".
+263	<clr>Causes an ionization effect<clrEnd>
+264	Form
+265	A level three micromodule. A basic module for improving a ship's speed and defense characteristics. A moderate level of technology gave rise to such devices, popular in every corner of the universe.
+266	A level three micromodule. The tough scales of the armadillos of the planet Daitola gave the <clr>pelengs<clrEnd> the idea that such an arrangement of armored particles could be used in building interstellar ships. Despite its heaviness, the wild armadillo's covering really does give a good <clr>armor boost<clrEnd>, and the species itself is still far from extinction owing to its aggressiveness and penchant for immoderate breeding.
+267	Hucksterer
+268	A level three micromodule. Decorates the ships of <clr>humans and pelengs<clrEnd> with beautiful paintings and landscapes with hidden, unobtrusive advertising. Thanks to this upgrade, cargo bays can hold more goods, and their attractiveness to customers also grows.
+269	Ship size: <clr>+25%<clrEnd>
+270	A level three micromodule. Integrates bulky tachyon warpers into the warheads of <clr>any missiles or torpedoes<clrEnd>, slowing the movement of the struck target. On the other hand, although such missiles take up more room in the ammunition bays, their huge damage will pleasantly surprise any race that favors missile weaponry.
+271	Missile speed: <clr>+350<clrEnd> units
+272	Krintox
+273	A level three micromodule. A compact kit for micro-upgrades of equipment of <clr>any race<clrEnd>. Does not interact with <clr>guns and hulls<clrEnd>, but pleasantly improves the functionality of any <clr>acryn<clrEnd>, reducing its size and raising its <clr>Reliability<clrEnd> along the way. The best choice for modest pilots who prefer micro-upgrades in limited volume. But the <clr>cost<clrEnd> rises because of the improvements.
+274	Illegator
+275	A level three micromodule. Installs high-performance, illegal software on a <clr>droid, scanner or radar<clrEnd> if they are made by <clr>pelengs or the pirate clan<clrEnd>. No negative side effects are caused by such an operation, apart from terrible pangs of conscience in the owners. Though in the case of pelengs and the pirate clan, there is no need to worry about that.
+276	Exabyte
+277	A level three micromodule. This super-processor was created in view of constant requests to increase the computing capabilities of onboard equipment. Installed in a <clr>gripper, shield generator or scanner<clrEnd> of any race except the <clr>pelengs<clrEnd>, it gives a decent boost to their functionality at an increased price.
+278	Gripper pull-in speed: <bonHookMaxSpeed> units
+279	Shield generator power: <bonDef> units
+280	Cost: <clr>+65%<clrEnd>
+281	Grabblast
+282	A level three micromodule. An intergalactic development for upgrading <clr>weapons<clrEnd> that makes life much easier for pirates and other dubious characters. More loot, dumping cargo right during a robbery and the rest that makes the bandit life so romantic and profitable. Incompatible with the equipment of principled <clr>gaalians<clrEnd>.
+283	<clr>The struck target may drop cargo with a small chance<clrEnd>
+284	<clr>More equipment is left after the target is destroyed<clrEnd>
+285	Femtoatt
+286	A level three micromodule. A very simple spatial compressor able to change the structure of <clr>fuel tanks<clrEnd> made by <clr>gaalians<clrEnd>. The negative consequences of such a one-time converter were ruled out, compared with the resulting reduction in size of the whole structure.
+287	Size: <clr>-85%<clrEnd>
+288	Technogarp
+289	A level three micromodule. A new generation of peaceful and extremely advanced software created by the wise <clr>gaalians<clrEnd>. Thanks to its closeness to absolute enlightenment, the hull <clr>opens a radar slot<clrEnd>, the power of the <clr>radar<clrEnd> and <clr>gripper<clrEnd> grows, and the resulting technical skill of any pilot increases in arithmetic progression. And all this is far from free, of course.
+290	Cost: <clr>+110%<clrEnd>
+291	Distributor
+292	A level two micromodule. Changes the settings of the active defense system, as a result of which the thermal conductivity of materials, and hence vulnerability to surges of <clr>energy<clrEnd>, grows, and hardness increases, which reduces possible damage from <clr>material<clrEnd> attacks. The ship's own gravity is created, which allows its <clr>mass<clrEnd> to be significantly reduced by <clr>weakening the hull plating<clrEnd>. Incompatible with <clr>human<clrEnd> hulls.
+293	Susceptibility to energy damage: <clr>+15%<clrEnd>
+294	Medidum
+295	A level two micromodule. A special development of a maloq army unit. Increasing the size of a <clr>gun<clrEnd> leads to increased damage and range - this paradoxical conclusion was reached by the brilliant scientists who decided to put the principle into practice. The patent is registered forever with the supreme <clr>Maloq<clrEnd> defense ministry.
+296	Solarite
+297	A level two micromodule. Created in laboratories controlled by <clr>pirates<clrEnd>, this module lets the shield generator be switched into an extreme-performance mode at the expense of its reliability. The cost of the equipment also becomes somewhat higher, so do not forget to set funds aside for constant repairs.
+298	Hibernator
+299	A level two micromodule. A relatively successful attempt by leading <clr>Coalition<clrEnd> engineers to put temporal technologies into practice. Thanks to time warping in a confined space, any equipment begins to consume only a small fraction of the energy, take up less room and work much longer with low efficiency loss. The module is incompatible with the hull for understandable reasons.
+300	Reliability: <clr>+90%<clrEnd>
+301	Maneuverite
+302	A level two micromodule. Performs a subspace transformation of any <clr>hull<clrEnd> by eliminating some of the anisotropic bonds in the molecules. As a result the ship becomes smaller and avoids material damage more easily.
+303	Susceptibility to fragmentation damage: <clr>-12%<clrEnd>
+304	Susceptibility to missile damage: <clr>-12%<clrEnd>
+305	Node Bene
+306	A level two micromodule. As has long been known, nodes are a material with a very wide range of properties and applications. So it is no surprise that the <clr>dominators<clrEnd> themselves use their features to create new nano-additives for armor or for shield power cells. This module increases the size and cost of the <clr>hull<clrEnd> and the <clr>shield generator<clrEnd>, and also raises their shielding capabilities.
+307	Shield power: <bonDef> units
+308	A level two micromodule. A development of the dominators of the <clr>Blazer<clrEnd> series, created to counter Coalition forces effectively. Equips <clr>missiles and torpedoes<clrEnd> with ultralight gluon warheads that destroy armor and hamper the movement of enemy ships. Thanks to their negligible weight, the maximum ammunition and flight speed of the rockets also increase.
+309	Missile and torpedo speed: <clr>+550<clrEnd> units
+310	Weapon cost: <clr>+60%<clrEnd>
+311	Surfenol
+312	A level two micromodule. This micromodule performs a surface tuning of all the high-tech equipment on the ship, as a result of which the slots for <clr>afterburner, droid and radar and shield generator<clrEnd> become available. It also adds a small cargo compartment. Compatible with the <clr>hulls<clrEnd> of all races.
+313	Bloodhound
+314	A level two micromodule. Resets all factory settings of the <clr>hull or scanner<clrEnd>, changing them to more precise values. As a result, it opens a <clr>scanner slot and one artifact slot<clrEnd> in the hull, and the scanner's rated power rises. Slightly reduces the modified equipment of <clr>pelengs and pirates<clrEnd>.
+315	Titano-corrector
+316	A level two micromodule. Harmonizes the <clr>hull<clrEnd> according to the pacifist balance model, namely, removes the lock on the <clr>afterburner, droid, gripper, shield generator, radar and scanner<clrEnd> and slightly builds up the armor, but blocks one of the weapon slots. Used only by <clr>humans and gaalians<clrEnd>.
+317	Eso-buffer
+318	A level two micromodule. A large-scale improvement of the <clr>Esodapher<clrEnd>, sponsored personally by a pirate baron. The numerous complaints about insufficient range, huge size and weak penetration were finally examined and considered thoroughly. Naturally, the cost of such technology makes repairs several times more expensive, but what wouldn't one do for the pirate code of honor.
+319	Gaalitor
+320	A level two micromodule. Replaces the parts of any <clr>pirate clan<clrEnd> equipment with ultramodern gaalian components. The result is significantly more reliable, expensive and compact equipment, with no damage to the original functionality.
+321	Exhaust
+322	A level two micromodule. Equips missiles and torpedoes with a little-studied allotropic modification of standard fuel. The toxic components of the new fuel badly damage missile silos with repeated launches and significantly increase the maximum flight speed of the projectiles. Such fuel is used exclusively by <clr>pelengs, humans and gaalians<clrEnd>.
+323	Missile flight speed: <clr>+1000<clrEnd> units
+324	Drake
+325	A level two micromodule. A massive rail-based salvo-fire system designed to accelerate <clr>fragmentation<clrEnd> projectiles and increase effective firing range. Installed in the guns of <clr>maloqs, pelengs and faeyan<clrEnd> and famed for its reliability.
+326	Skreinil

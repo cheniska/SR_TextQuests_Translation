@@ -1,0 +1,105 @@
+134	A level two micromodule. Replaces most of the outer coating of any equipment with flimsy and very cheap steel. This leads to a rapid drop in the equipment's wear resistance and price. Not suitable for <clr>maloq<clrEnd> equipment, most of which is made of steel to begin with.
+135	Size: <clr>-70%<clrEnd>
+136	Torpedant
+137	A level one micromodule. Developed by the dominator <clr>Blazer<clrEnd> to equip heavy battleships of the "Bertor" class. Significantly increases the power of the <clr>torpedo tube<clrEnd>, adding on a very massive, space-hogging additional turret that launches a new type of torpedo that destroys enemy equipment. Compatible only with torpedo tubes of blazeroid manufacture.
+138	Weapon weight: <clr>+30%<clrEnd>
+139	Weapon power: <bonWMissile> units
+140	<clr>Deals enormous damage to the target's equipment<clrEnd>
+141	Emitter
+142	A level one micromodule. Developed by the dominator <clr>Terron<clrEnd> to equip heavy battleships of the "Bertor" class. Significantly increases the power of the <clr>IMHO-9000<clrEnd> gun, adding an extra projectile generator with antimatter elements. The resulting projectiles have an additional effect of slowing the enemy. Compatible only with IMHO-9000s of terronoid manufacture.
+143	Weapon power: <bonWSplinter> units
+144	<clr>Slows the target on hit<clrEnd>
+145	Vertixator
+146	A level one micromodule. Developed by the dominator <clr>Keller<clrEnd> to equip heavy battleships of the "Bertor" class. Significantly increases the power of the <clr>"Vertix"<clrEnd> gun, adding a micro-thermonuclear reactor that increases the energy supply to the gun's barrel. The side effect on hit weakens the enemy's hull armor. Compatible only with vertixes of kelleroid manufacture.
+147	Weapon power: <bonWEnergy> units
+148	<clr>Reduces the target's armor value<clrEnd>
+149	A unique micromodule, the work of the finest minds of the pirate clan with the illegal support of the Coalition, the pinnacle of the technical progress of micromodule creation. A unique hyperprocessor unit reprograms the equipment to achieve maximum efficiency and introduces acrynic elements into its most important parts. This achieves an enormous boost in the power of any equipment and weapons.
+150	Hyperjump range: <bonJump> units
+151	Gripper radius: <bonHookRadius> units
+152	Shield gen.: <bonDef> units
+153	Power of any weapon: <bonWEnergy> units
+154	Reliability: <clr>-30%<clrEnd>
+155	A unique micromodule. Created on their own initiative by two outstanding scientists of the <clr>Coalition<clrEnd>, whose names, like the true principle of operation of the development, are classified. All that is known is that when inserted into any <clr>engine<clrEnd> or <clr>fuel tank<clrEnd>, its combat resilience rises sharply, along with its energy capacity.
+156	A level one micromodule. Found by Coalition Rangers dropped from destroyed Terron equantors after the failed military raid on the Gralgar system. Research on this micromodule gave information about its purpose - to make any equipment, except weapons and hulls, ultra-durable, almost completely eliminating its wear. But it has a side effect: the equipment becomes heavier. The micromodule is absolutely incompatible with any equipment except <clr>dominator<clrEnd> equipment.
+157	Equipment weight: <clr>+50%<clrEnd>
+158	Reliability: <clr>X10<clrEnd>
+159	Modifier
+160	A level one micromodule. Built into the hull and significantly modifies its structure, increasing the hull size and strengthening the armor. Incompatible with the hulls of <clr>maloqs, faeyan and pirates<clrEnd>.
+161	Hull size: <clr>+20%<clrEnd>
+162	Recoil
+163	A level one micromodule. Gives any type of weapon (except <clr>missile<clrEnd>) the ability to restore the owner's hull on hit. The repair depends on the damage dealt by the weapon. Incompatible with <clr>dominator<clrEnd> weapons
+164	Gives: <clr>vampirism<clrEnd> on hit
+165	Piercer
+166	A level three micromodule. Gives any type of weapon (except <clr>missile<clrEnd>) the ability to reduce the target's armor on every hit.
+167	Strips part of the <clr>armor<clrEnd> on hit
+168	Size <clr>+15%<clrEnd>
+169	Stun Gun
+170	A level three micromodule. Gives any type of weapon (except <clr>missile<clrEnd>) an electromagnetic pulse generator, allowing it to wreck the target's equipment more than any other type of weaponry.
+171	Deals increased damage to <clr>equipment<clrEnd> on hit
+172	Overheat
+173	A level three micromodule. Gives any type of weapon (except <clr>missile<clrEnd>) the ability to overheat the enemy's engine with every shot, slowing it down.
+174	<clr>Slows<clrEnd> the target on hit
+175	Transformer
+176	A special level one micromodule. Completely transforms the internal structure of any hull of <clr>any race<clrEnd>, opening <clr>all slots<clrEnd> in it.
+177	Opens all slots in the <clr>hull<clrEnd>
+178	Ultra-Megus
+179	A level two micromodule. When installed in any type of <clr>weaponry<clrEnd>, significantly increases power by considerably weighing down the mechanical part of the gun.
+180	Energy weapon power: <bonWEnergy> units
+181	Frag. weapon power: <bonWSplinter> units
+182	Reversion
+183	A level two micromodule. Developed jointly by <clr>humans, faeyan and gaalians<clrEnd> to equip reconnaissance ships. Inserted into the <clr>engine<clrEnd> and significantly reduces hyperjump range in exchange for a huge speed bonus. Soon after its development, the module was stolen by <clr>pirates<clrEnd>, who adapted their engine designs to it.
+184	Anti-Rocket
+185	A level one micromodule. For many years scientists of the <clr>Coalition<clrEnd> worked together to create a hull as resistant as possible to any kind of damage and came to the conclusion that protection is best provided by micromodules. This special micromodule makes any <clr>hull<clrEnd> significantly more resistant to hits from <clr>missile<clrEnd> weapons without any side effects.
+186	Susceptibility to <clr>missile<clrEnd> damage: <clr>-70%<clrEnd>
+187	Anti-Laser
+188	A level one micromodule. For many years scientists of the <clr>Coalition<clrEnd> worked together to create a hull as resistant as possible to any kind of damage and came to the conclusion that protection is best provided by micromodules. This special micromodule makes any <clr>hull<clrEnd> significantly more resistant to hits from <clr>energy<clrEnd> weapons without any side effects.
+189	Susceptibility to <clr>energy<clrEnd> damage: <clr>-70%<clrEnd>
+190	Anti-Strike
+191	A level one micromodule. For many years scientists of the <clr>Coalition<clrEnd> worked together to create a hull as resistant as possible to any kind of damage and came to the conclusion that protection is best provided by micromodules. This special micromodule makes any <clr>hull<clrEnd> significantly more resistant to hits from <clr>fragmentation<clrEnd> weapons without any side effects.
+192	Susceptibility to <clr>fragmentation<clrEnd> damage: <clr>-70%<clrEnd>
+193	Maximizer
+194	A level one micromodule. Invented by the <clr>dominators<clrEnd> to boost the power of their guns, but <clr>pirates<clrEnd>, after several battles with them, obtained several copies of this module and managed to adapt it to their weapons. Very little is known about the properties of this module, except that a <clr>weapon<clrEnd> of any type with it always deals its maximum possible damage, ignoring pilot skills. For an unknown reason it is also compatible with equipment from <clr>black holes<clrEnd>.
+195	<clr>The weapon deals maximum damage regardless of skills and randomness<clrEnd>
+196	Acryn-Mod v0.1
+197	A level one micromodule. Slightly increases the positive effects of any <clr>acrynic<clrEnd> equipment and reduces the negative ones.
+198	Positive effect: <bonExtraAkrinEff>%
+199	Negative effect: <bonExtraAkrinPenalty>%
+200	Acryn-Mod v0.2
+201	A level two micromodule. Increases the positive effects of any <clr>acrynic<clrEnd> equipment and reduces the negative ones.
+202	Acryn-Mod v0.3
+203	A level one micromodule. Significantly increases the positive effects of any <clr>acrynic<clrEnd> equipment and reduces the negative ones.
+204	Punisher-YK42B
+205	A unique level one micromodule. The pirate clan's best development in the entire history of its existence. Inside the micromodule is a set of the most varied software and hardware improvements for <clr>energy and fragmentation weapons<clrEnd>, which adds a multitude of modifiers to the shot, allowing the enemy to be destroyed in the shortest time. However, such a quantity of improvements significantly increases the weapon's <clr>weight<clrEnd>, by almost <clr>10<clrEnd> times.
+206	Gun size: <clr>+1000%<clrEnd>
+207	Micromicron
+208	A level one micromodule. Developed by the <clr>dominators<clrEnd> to equip light fighters of the "Shtip" class. Using the latest dominator miniaturization technologies, it <clr>reduces<clrEnd> the weight of any type of equipment by exactly <clr>4 times<clrEnd>. Incompatible with the <clr>hulls<clrEnd> and equipment of other races.
+209	Equipment size: <clr>-75%<clrEnd>
+210	Ultrabomber
+211	A level one micromodule. Built into any type of <clr>missile<clrEnd> weapon and increases the number of <clr>missiles<clrEnd> launched per salvo, as well as their flight speed and the weapon's maximum ammunition. It is purely a <clr>pirate<clrEnd> development, but for unknown reasons is also compatible with <clr>unknown<clrEnd> equipment.
+212	Additional missiles per salvo: <bonShots>
+213	Missile speed increase: <clr>+550<clrEnd> units
+214	Additional ammunition: <bonAmmo> units
+215	Chomp-Chomp
+216	A level two micromodule. Developed in the conditions of an onboard laboratory by one of the peleng pirate cutthroats. Redirects the ship's electric flows to power the gripper, which increases the range of hauling cargo aboard. Only for <clr>peleng<clrEnd> and <clr>pirate<clrEnd> types of grippers, unfortunately, as the lyakusha deliberately built a blocking system for all other races into this module.
+217	Acrynium
+218	A unique micromodule. Neutralizes all <clr>negative acrynic<clrEnd> effects of any <clr>hull<clrEnd>. It also coats the ship's outer plating with nanoparticles, increasing armor but lowering its susceptibility. The hull becomes significantly more expensive in the process.
+219	Susceptibility to damage: <clr>+10%<clrEnd>
+220	A unique micromodule. When applied to <clr>any<clrEnd> equipment, it reduces its weight by <clr>2 times<clrEnd> and its cost by <clr>4 times<clrEnd>. Compatibility with the <clr>hull<clrEnd> exists, but is strongly not recommended!
+221	Cost: <clr>-75%<clrEnd>
+222	Positive properties of acryn: <clr>+100%<clrEnd>
+223	Negative properties of acryn: <clr>+50%<clrEnd>
+224	Turncoat
+225	A level two micromodule. The result of a failed experiment by Coalition scientists to introduce a new approach to boosting the acrynic properties of equipment. An error in the calculations of delta-radiation signal modulation led to an unpredictable effect: when this micromodule is installed in equipment, the properties of the <clr>acryn<clrEnd> change to the diametrically opposite.
+226	Krinto
+227	A level one micromodule. When installed in any onboard acrynic equipment, it increases the effective range of interatomic interactions, making it more durable and boosting positive properties by <clr>50%<clrEnd> and negative ones by <clr>+50%<clrEnd>. The operation of this micromodule is based on the Gnuuk-Saab mechanism, thoroughly researched by the <clr>faeyan<clrEnd> and illegally copied by the <clr>pelengs<clrEnd>.
+228	Positive properties of acryn: <clr>+50%<clrEnd>
+229	Blood
+230	A level three micromodule. Coats the <clr>hull<clrEnd> with a durable layer of nanites, unevenly raising/lowering protection against all types of damage. Compatible with the technologies of <clr>any<clrEnd> race.
+231	Susceptibility to energy: <clr>+10%<clrEnd>
+232	Susceptibility to missile: <clr>-20%<clrEnd>
+233	Susceptibility to fragmentation: <clr>-10%<clrEnd>
+234	Malaboom
+235	A level three micromodule. Once again the maloqs have tried to prove that what matters most in a weapon is size, caliber and the boom at firing. On the whole, it cannot be said that their attempts failed, but the new properties obtained in the process may shock even seasoned warriors. Naturally, such a module can be used only for <clr>maloq guns<clrEnd>, though no one disputed that in the first place.
+236	Truck
+237	A level three micromodule. A modest module for improving the functionality of any <clr>human<clrEnd> weaponry. Slightly increases damage and firing range, and partially reduces size and cost through the use of new polymers and structural alloys.
+238	Gretcheg

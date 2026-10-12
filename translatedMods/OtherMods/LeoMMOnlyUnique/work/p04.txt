@@ -1,0 +1,43 @@
+407	A level one micromodule. A spy module used by the upper echelons of <clr>faeyan<clrEnd> investigators and detectives. Increases the size of the <clr>hull or radar<clrEnd> non-critically, in return strengthening their navigation properties and strength characteristics. Moreover, the artificial intelligence of a unit modified this way boosts the pilot's ability to handle any equipment.
+408	Hiipi-bana
+409	A level one micromodule. A development of the <clr>Gaalians<clrEnd> dating from the sixties of the thirty-third century, in the heyday of the antiwar movement. The module paints the <clr>hull<clrEnd> in all the colors of the Kraa spectrum, symbolizing world harmony, and grants powerful armor. The ship's <clr>mass<clrEnd> also grows as a result.
+410	Ship mass: <clr>+12%<clrEnd>
+411	Ersasitall
+412	A level one micromodule. Replaces parts of the <clr>hull<clrEnd> plating with incredibly hard but not very durable fragments. A ship covered with such a material gains greatly when shelled by weak guns, but resists truly significant damage poorly. In the whole galaxy only the <clr>faeyan and the pirate clan<clrEnd> use such a substance.
+413	Hull susceptibility: <clr>+30%<clrEnd>
+414	Blimp
+415	A level one micromodule. The success of the <clr>Dominators'<clrEnd> antigravity technologies has spread to modules for the <clr>hulls<clrEnd> of starships of every class and level. In this case an attempt was made to use a special material - anobtanium, an ultralight substance durable enough to build spaceships but poor at protecting against ionizing radiation. Only the <clr>pelengs and faeyan<clrEnd> risked occasionally resorting to such a substance in shipbuilding.
+416	Susceptibility to all types of damage: <clr>+30%<clrEnd>
+417	Delta
+418	A level one micromodule. This module was found during excavations hastily carried out at the start of the war with the klissans. The technologies of an <clr>unknown race<clrEnd> allow the fundamental limit on the speed and size of particles in a vacuum to be bypassed indirectly, which greatly increases the <clr>firing range<clrEnd> of non-missile guns and also increases the weight of the whole structure. As true heirs, only the <clr>gaalians<clrEnd> adapted this micromodule for their needs, and also the <clr>dominators<clrEnd>, who fortunately never managed to combine it with the <clr>IMHO-9000<clrEnd> or the <clr>vertix<clrEnd>.
+419	Krivdvig
+420	A level one micromodule. Creates quantum uncertainty around the engine compartment in ships of <clr>peleng<clrEnd> manufacture. The effect applies exclusively to <clr>acrynic<clrEnd> equipment and is quite ambiguous - besides a sharp compression, the positioning systems are destabilized. All this leads both to a drop in <clr>maneuverability<clrEnd> and <clr>accuracy<clrEnd> , and to chaotic changes in the additional properties of the <clr>engine<clrEnd> itself.
+421	Positive properties of acryn: <clr>+75%<clrEnd>
+422	Negative properties of acryn: <clr>-75%<clrEnd>
+423	A level one micromodule. A powerful salvo-fire system, banned by law among all races except <clr>maloqs, humans<clrEnd> and of course the <clr>pirate clan<clrEnd>. Allows the number of <clr>missiles<clrEnd> in a salvo to be increased to <clr>10<clrEnd> units, while fitting them with armor-piercing warheads with reduced damage to plating and increased damage to the electronic innards of enemy ships. Such risky operations do not go unpunished - the <clr>Reliability<clrEnd> of any <clr>rocket launcher<clrEnd> is guaranteed to drop.
+424	Missile speed: <clr>+750<clrEnd> units
+425	Missiles per salvo: <bonShots> pcs.
+426	<clr>Missiles severely damage the target's equipment<clrEnd>
+427	Saggacite
+428	A level one micromodule. Installs a pseudo-telepathic navigator into <clr>radars and scanners<clrEnd>, completely changing the mechanism for processing the information received. Despite all the assurances of the <clr>gaalians<clrEnd>, such manipulations inevitably reduce the output characteristics of navigation equipment, with no observable shifts for the better. Still, if anything does change for certain, it is the owner's sense of superiority and the pity of those around, which leads to growth in some skills. <clr>Pirates<clrEnd> also adapted this module for themselves, though it is not clear why.
+429	Hecatomb
+430	A level one micromodule. Puts any <clr>disintegrator<clrEnd> into maximum overload mode, catastrophically increasing the damage dealt, accompanied by a sharp drop in firing range and durability. The modified gun becomes much larger and loses value, since after use it is easier to recycle than to repair.
+431	Moleculator
+432	A level one micromodule. Changes the size of the projectiles of any <clr>atomizer<clrEnd>, enlarging atomic chains to molecular ones. As a result <clr>all the gun's parameters improve<clrEnd> and damage drops slightly at the same time, since the penetrating power of the incandescent molecules turns out lower than the original.
+433	Tiriol
+434	A level two micromodule. Replaces the residual gas removal system and reduces the final recoil of the <clr>mauler<clrEnd>. Highly valued among the <clr>pirate clan<clrEnd> for its prevalence and ease of use - after all, the final size of the system is seriously reduced, which is critical for this type of gun.
+435	Durability: <clr>+35%<clrEnd>
+436	Mortoaris
+437	A level one micromodule. A kit for full rebalancing and total destruction of targets at minimum cost and maximum pleasure. The astrolite filling of the warheads significantly raises the <clr>damage<clrEnd> from detonation, while the packing density of the missiles increases severalfold, and now firing can go on practically endlessly. The drawbacks of this module are compatibility only with the <clr>multiplet<clrEnd> and a significant reduction in final durability with an increased volume of the whole structure.
+438	Number of missiles: <bonAmmo> units
+439	Durability: <clr>-50%<clrEnd>
+440	Cost: <clr>+400%<clrEnd>
+441	Scrinjal
+442	A level two micromodule. An economical energy distribution unit, installed only on <clr>multiplet missile launchers<clrEnd>. Instead of <clr>three<clrEnd> missiles per turn, only <clr>two<clrEnd> will be fired, and the ammunition load itself also increases, which will benefit the length of battle and the <clr>reliability<clrEnd> of the gun, since the silos will suffer much less. Part of the stored energy can also be used to strengthen the missile potential, in particular to raise the initial <clr>speed of missiles<clrEnd> with an intelligent unit.
+443	Number of missiles: <clr>+60<clrEnd> units
+444	Missiles per turn: <clr>-1<clrEnd>
+445	Missile flight speed: <clr>+750<clrEnd> units
+446	Consider
+447	A level three micromodule. A basic upgrade for <clr>multiplet<clrEnd> missile launchers. The ammunition supply is significantly raised by varying the gun's other characteristics. The new projectiles are more compact and have a slightly smaller warhead, which, however, will affect the course of the whole battle only slightly.
+448	Number of missiles: <clr>+30<clrEnd> units
+449	Durability: <clr>+10%<clrEnd>

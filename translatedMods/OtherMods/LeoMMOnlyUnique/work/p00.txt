@@ -1,0 +1,133 @@
+1	Regenat
+2	A level one micromodule. Gives a weapon the ability to restore the owner's hull on hit. Cannot be inserted into <clr>missile<clrEnd> weapons. Compatible with <clr>all races<clrEnd>.
+3	<clr>Restores the ship's structure<clrEnd> at the expense of damage to the target.
+4	Weight: <clr>+20%<clrEnd> units
+5	Raketrim
+6	A level three micromodule. Contains non-directional beta conductors and a kit for charging additional warheads, increasing the power of missile weapons. Compatible only with <clr>faeyan, gaalian, dominator and unidentified<clrEnd> weapons.
+7	Number of salvos: <bonAmmo> pcs.
+8	Weapon size: <clr>+18%<clrEnd>
+9	Rocket-Boogie
+10	A level one micromodule. Intended only for missile weaponry, greatly increasing its lethal characteristics and cost owing to the introduction of secret explosive elements. Compatible only with <clr>maloq, peleng, human and pirate<clrEnd> weapons.
+11	Missile and torpedo speed: <clr>+350<clrEnd> units
+12	Weapon cost: <clr>+100%<clrEnd>
+13	Diodan
+14	A level one micromodule. Wraps the barrel of an energy weapon in electromagnetic coils that accelerate the particles of the energy beam. Compatible only with <clr>faeyan, gaalian, dominator and unidentified<clrEnd> weapons.
+15	Weapon cost: <clr>-45%<clrEnd>
+16	Firing range: <bonWRadius>
+17	Titanod
+18	A level three micromodule. Replaces quickly wearing parts of equipment and weapons with new ones made of a stronger alloy. Cannot be inserted into the <clr>hull<clrEnd>. Compatible with <clr>all races<clrEnd>.
+19	Equipment reliability: <clr>+50%<clrEnd>
+20	A level two micromodule. Coats equipment with a thin layer of platinum, increasing its cost but significantly lowering its reliability. Compatible with <clr>all races<clrEnd>.
+21	Cost of all equipment: <clr>+100%<clrEnd>
+22	Manaroh - X87U35/&122
+23	A level one micromodule. Destroys any equipment almost to zero, but thereby grants an uber-script buff that makes even <clr>gaalians<clrEnd> fume.
+24	(all scripts are protected)
+25	Devastat
+26	A level three micromodule. Equips an additional silo for launching <clr>missiles<clrEnd>. Compatible with the equipment of <clr>all races<clrEnd>.
+27	Additional missiles: <bonShots> units
+28	Weapon size: <clr>+35%<clrEnd>
+29	Bombard
+30	A level three micromodule. Integrates bulky tachyon warpers into the warheads. Compatible only with <clr>faeyan, gaalian, dominator and unidentified<clrEnd> weapons.
+31	Weapon cost: <clr>-15%<clrEnd>
+32	Krinotan
+33	A level three micromodule. A compact kit for minor equipment upgrades. Cannot be inserted into <clr>weapons and hulls<clrEnd>. Compatible only with <clr>faeyan, gaalian, dominator and unidentified<clrEnd> equipment.
+34	Positive properties of acryn: <clr>+30%<clrEnd>
+35	Negative properties of acryn: <clr>-30%<clrEnd>
+36	Equipment size: <clr>+50%<clrEnd>
+37	Forstart
+38	A level three micromodule. Flashed into the ship's equipment control system, contains the activation codes for equipment sockets, as well as improved <clr>engine<clrEnd> control. Compatible with <clr>all races<clrEnd>.
+39	Opens 1 slot for an <clr>afterburner<clrEnd>
+40	Opens 1 slot for a <clr>radar<clrEnd>
+41	Opens 1 slot for a <clr>scanner<clrEnd>
+42	Dronzator
+43	A level three micromodule. Flashed into the ship's equipment control system, contains the activation codes for equipment sockets. Endows the droid with an increased energy supply, which improves its operation. Compatible with <clr>all races<clrEnd>.
+44	Droid repairs: <bonDroid>.
+45	Shield
+46	A level three micromodule. Flashed into the ship's equipment control system, contains the activation codes for equipment sockets. Endows the shield generator with an increased energy supply, which improves its operation. Compatible with <clr>all races<clrEnd>.
+47	Shield generator power: <bonDef>.
+48	Distancer
+49	A level three micromodule. Flashed into the ship's equipment control system, contains the activation codes for equipment sockets. Compatible with <clr>all races<clrEnd>.
+50	A level two micromodule. Flashed into the ship's equipment control system, contains the activation codes for equipment sockets. Compatible with <clr>all races<clrEnd>.
+51	Progressor
+52	Opens 1 slot for a <clr>weapon<clrEnd>.
+53	Pacific
+54	A level one micromodule. Flashed into the ship's equipment control system, contains the activation codes for equipment sockets. Compatible with <clr>all races<clrEnd>.
+55	Opens 2 slots for an <clr>artifact<clrEnd>.
+56	Equalizer
+57	A level three micromodule. Coats the <clr>hull<clrEnd> with a durable layer of nanites, evenly increasing protection against all types of damage. Compatible only with <clr>maloq, peleng, human and pirate<clrEnd> hulls.
+58	Susceptibility to energy damage: <clr>-10%<clrEnd>
+59	Susceptibility to missile damage: <clr>-10%<clrEnd>
+60	Susceptibility to fragmentation damage: <clr>-10%<clrEnd>
+61	Ship mass: <clr>-10%<clrEnd>
+62	Confident
+63	A level two micromodule. Completely changes the hull structure, mixing quarks and randomly changing the polarity of the covalent bonds in the armor. Compatible with <clr>all races<clrEnd>.
+64	Susceptibility to energy damage: <clr>-20%<clrEnd>
+65	Susceptibility to missile damage: <clr>-20%<clrEnd>
+66	Susceptibility to fragmentation damage: <clr>-20%<clrEnd>
+67	Accurator
+68	A level two micromodule. Reprograms the electronic systems of the engine and energy weapons for increased accuracy. Compatible only with the equipment of <clr>humans, faeyan<clrEnd> and <clr>gaalians<clrEnd>.
+69	Energy weapon range: <bonWRadius> units
+70	Damage
+71	A level three micromodule. Slightly boosts the damage of any type of gun by installing lighter and at the same time more efficient parts in the gun's mechanical section. Compatible with the weaponry of <clr>all races<clrEnd>.
+72	Energy weapon power: <bonWEnergy>
+73	Frag. weapon power: <bonWSplinter>
+74	Missile weapon power: <bonWMissile>
+75	Rocketblast
+76	A level two micromodule. Developed by <clr>pirates<clrEnd> to boost their half-failed development, the "Lirecron", but during testing compatibility with other types of missile weapons was discovered. Raises gun damage by installing miniature power units that generate extra energy to activate salvos of missile weapons. Incompatible with <clr>Coalition<clrEnd> weaponry, but compatible with <clr>dominator<clrEnd> weaponry.
+77	Missile weapon power: <bonWMissile> units
+78	Ultralocator
+79	A unique micromodule. As a result of experiments with radars from black holes and dominator scanners, a recipe for obtaining maximum radar and scanner efficiency was discovered. This effect of a radio-hyperspace wave was used in this special micromodule. Compatible with the equipment of <clr>all races<clrEnd>.
+80	<clr>Can be obtained for any assignment with a slight chance<clrEnd>
+81	Blakelron
+82	A unique micromodule. Created by the <clr>dominator<clrEnd> Blazer from the nodes of destroyed terronoids and kelleroids to boost the firepower of <clr>special dominator weapons<clrEnd>. Once, a military raid on a system occupied by Blazer brought back a couple of copies of this module, after which it was studied by the Coalition. However, it proved impossible to remove the installed protection on anything but dominator weapons.
+83	Vertix power: <bonWEnergy> units
+84	IMHO-9000 power: <bonWSplinter> units
+85	Torpedo tube power: <bonWMissile> units
+86	<clr>Slowing<clrEnd> of enemies on hit
+87	Unlock
+88	A level two micromodule. A set of software improvements installed into programmable equipment: the <clr>droid, gripper and scanner<clrEnd>. Increases their speed of operation and fixes possible errors. Incompatible with <clr>maloq<clrEnd> equipment (what programs would they have!).
+89	Gripper pull-in speed: <bonHookMinSpeed> units
+90	Topback
+91	A level two micromodule. Created by pirates relatively recently. Inserted into a <clr>pirate fuel tank<clrEnd> and increases its volume and reliability.
+92	Durability: <clr>+50%<clrEnd>
+93	Tank size: <bonFuel> units
+94	Channel
+95	A level two micromodule. Increases the power of the <clr>scanner<clrEnd> or <clr>shield generator<clrEnd> by connecting an additional power plant of fairly heavy weight. Conflicts with the equipment of <clr>humans and gaalians<clrEnd>.
+96	Equipment weight: <clr>+15%<clrEnd>
+97	Generator power: <bonDef> units
+98	Multiplex
+99	A level one micromodule. Part of the test series of acrynic equipment as an auxiliary module. Has lost some functions, but still works with <clr>engines, tanks, radars and scanners <clrEnd> of sufficient durability, that is, excluding <clr>maloq and peleng<clrEnd> ones.
+100	Acrynic bonus: <bonExtraAkrinEff>%
+101	Menace
+102	A level one micromodule. Created by a certain mad pirate, a retired Coalition military man. Turns any <clr>industrial laser<clrEnd> or <clr>treton<clrEnd> into a weapon of absolute destruction. Side effects include rapid wear and breakdown of a turret overclocked in this way.
+103	Damage: <bonWEnergy> units
+104	Range: <bonWRadius> units
+105	Firefly
+106	A level three micromodule. Improves information equipment of <clr>pirate, unknown and human <clrEnd> manufacture. Fixes errors in the program and builds on additional units.
+107	Leveler-x2.5
+108	A level one micromodule. By an unknown principle, replaces expensive parts of <clr>any<clrEnd> equipment with cheaper ones. Greatly reduces size and cost, but under enemy fire such equipment will not last long. Incompatible with <clr>maloq, peleng and pirate<clrEnd> equipment - it would break at once with this module.
+109	Cost: <clr>-90%<clrEnd>
+110	Size: <clr>-90%<clrEnd>
+111	A level two micromodule. Strengthens <clr>the energy weapons of pirates, maloqs and humans <clrEnd>with an additional barrel, which allows attacking twice per turn. The operating principle was borrowed from the "Desolator".
+112	Rate of fire: <bonAttacks> units
+113	Size: <clr>+60%<clrEnd>
+114	A level two micromodule. Improves the projectile technology of fragmentation weapons with powerful explosive warheads, making it possible to raise the damage of the guns of all races, <clr>except maloqs and pelengs<clrEnd>. The projectiles' side effect damages the enemy's engine.
+115	<clr>Inflicts severe damage to the enemy's engine<clrEnd>
+116	Musketoon
+117	A level one micromodule. Made by <clr>pirates<clrEnd> to boost the acrynic weapon developments <clr>Esodapher, Caphasitor and Lirecron<clrEnd>. Incompatible with any other weapons of other races.
+118	Weapon power: <bonWEnergy> units
+119	Megaslot
+120	A level three micromodule. Modifies the internal structure of the hull, activating all five slots for <clr>weapons<clrEnd> and four for <clr>artifacts<clrEnd>. In addition, the hull size increases by <clr>half<clrEnd>. Another surprise is a light gravitational field that reduces the ship's <clr>mass<clrEnd>. Installation in <clr>faeyan and human<clrEnd> hulls is impossible.
+121	Opens <clr>4<clrEnd> artifact slots, <clr>5<clrEnd> weapon slots
+122	A level two micromodule. Connects an additional droid with an emitter beam to the repair droid, raising the speed of hull repair by means of a repair beam. Originally insertion into <clr>Coalition<clrEnd> equipment was impossible, but the <clr>faeyan<clrEnd> managed to adapt the design of their droids to this module.
+123	Intex v.1.6
+124	A level two micromodule. A software module with computing and information software from the faeyan company "Intex", with high accuracy and speed of operations compared with an ordinary <clr>scanner<clrEnd> program. Can be built into the <clr>hull<clrEnd>, opening a slot in it for installing a scanner without any negative consequences. Incompatible with <clr>gaalian<clrEnd> equipment because it uses radically different methods of obtaining information.
+125	In the hull: <clr>opens a scanner slot<clrEnd>
+126	Devastator
+127	A level one micromodule. Invented by the <clr>maloqs<clrEnd> for installation on warships to give them maximum firepower against the dominators. Inserted only into <clr>energy<clrEnd> weapons and builds in an additional super-powerful thermonuclear reactor, significantly increasing the size and power of the gun. <clr>Pirate<clrEnd> weapons are also supported.
+128	Energy weapon power: <bonWEnergy> units
+129	Weapon size: <clr>+100%<clrEnd>
+130	Hyperblast
+131	A level one micromodule. Generates many weak pulses in the engine reactor, destabilizing the structure of the fuel and speeding up its conversion into energy, thereby increasing hyperjump range. However, the fuel conversion has a side effect in the form of an increased gravitational field around the engine. Compatible only with the engines of the <clr>faeyan<clrEnd> and <clr>gaalians<clrEnd> because of an unforeseen explosion of enormous force observed in the reactors of the engines of other races when this module is installed.
+132	Engine size: <clr>+30%<clrEnd>
+133	Softener
