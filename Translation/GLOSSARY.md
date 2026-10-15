@@ -3360,7 +3360,7 @@
 | Конвент (гаальский) | the Convent ("Великий Конвент" — Great Convent) | ShuMercs |
 | Китобои (анклав) | Whalers (NameGen: Whaler) | ShuMercs |
 | Скрыжг Гарпун | Skryzhg Harpoon | ShuMercs |
-| Стражи Недр | Subsoil Wardens (NameGen: Subsoil Warden) | ShuMercs |
+| Стражи Недр | Wardens (NameGen: Warden) | ShuMercs |
 | Каратель Глубин | Depth Punisher | ShuMercs |
 | Павлин Треть-Яков | Pavlin Tret-Yakov | ShuMercs |
 | Центр наёмников | Mercenary Center | ShuMercs |

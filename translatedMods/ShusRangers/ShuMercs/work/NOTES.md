@@ -22,10 +22,10 @@
 - «Kompromat» оставлено как калька; можно "Dirt on Nort", если не нравится.
 
 ## Обновление 2026-10-15 (новый ToTranslate_2026_10_15.zip)
-Мод сильно расширен (959 → 2113 строк): новые анклавы Junkmongers («Барахольщики»), Second Line («Вторая линия»), Whalers («Китобои»), Subsoil Wardens («Стражи Недр»), новые услуги ЦН (сбор трофеев, вывоз добычи, крупная цель, освобождение системы, гарнизон, блокада, разведка, поиск артефакта, элитный эскорт), микромодули, книги. Переведено 220 новых уникальных RU, остальное — прежние переводы (по пути/значению).
+Мод сильно расширен (959 → 2113 строк): новые анклавы Junkmongers («Барахольщики»), Second Line («Вторая линия»), Whalers («Китобои»), Wardens («Стражи Недр»), новые услуги ЦН (сбор трофеев, вывоз добычи, крупная цель, освобождение системы, гарнизон, блокада, разведка, поиск артефакта, элитный эскорт), микромодули, книги. Переведено 220 новых уникальных RU, остальное — прежние переводы (по пути/значению).
 - Имена (строгий транслит): Kvashshyrk Zhabbul, Lioel Meyron, Skryzhg Harpoon (прозвище переведено), Pavlin Tret-Yakov.
-- NameGen — атрибутивная форма (Junkmonger, Whaler, Second Line, Subsoil Warden): «<OrgGen> mercenaries». Фразы с @O/<Org> построены нейтрально к числу (will only…, is kept by @O).
-- «Стражи Недр» → Subsoil Wardens, «Каратель Глубин» → Depth Punisher (мой вариант, на проверку). «Барахольщики» → Junkmongers (мой вариант).
+- NameGen — атрибутивная форма (Junkmonger, Whaler, Second Line, Warden): «<OrgGen> mercenaries». Фразы с @O/<Org> построены нейтрально к числу (will only…, is kept by @O).
+- «Стражи Недр» → Wardens (решение пользователя), «Каратель Глубин» → Depth Punisher (мой вариант, на проверку). «Барахольщики» → Junkmongers (мой вариант).
 - Звания в «Рейд»: кадет/юнга → Rookie/Ship Boy (по ванилле).
 - Исправлено в старом переводе: апострофы в JS-строках MessageBox (FeiMessages) — needn't/I'm/It's → без сокращений.
 - ShuMercsHQ: 3 изменённых строки (<OrgList>) — «As you know, at the moment in the Galaxy <OrgList>.»; в OrgList* добавлены глагольные формы («the following mercenary factions are active»). Там же `couldn't` → `could not` в JS-строке DurableAluminumCase.
