@@ -1,23 +1,111 @@
+Останки древнего корабля	Remains of an Ancient Ship
+Останки древнего корабля, выглядят очень внушительно, хоть и нету большей части обшивки и половины каркаса. От систем вооружения осталось лишь напоминание в виде башен. Напоминает чем-то человеческие корабли, интересно можно ли его восстановить...	The remains of an ancient ship, looking very impressive, though most of the plating and half the frame are missing. Of the weapon systems only a reminder remains in the form of turrets. It somewhat resembles human ships, I wonder whether it can be restored...
+Космический линкор Ямато v2199	Space Battleship Yamato v2199
+<color=248,252,248>Ямато - Линкор японского императорского морского флота времён Второй мировой войны на планете <clr>Земля<clrEnd>, поднятый с морского дна и переоборудованный в космический корабль в <clr>2199 году<clrEnd>. Был подбит после неравной битвы 2875 года, рухнув на одной из незаселённых планет неизвестной системы и долгое время считался утерянным.. В настоящий момент реставрирован на одной из военных баз по древним чертежам.</color>	<color=248,252,248>Yamato - a battleship of the Imperial Japanese Navy of the World War II era on the planet <clr>Earth<clrEnd>, raised from the seabed and converted into a spaceship in <clr>the year 2199<clrEnd>. It was crippled after an unequal battle in 2875, crashing on an uninhabited planet of an unknown system, and was long considered lost.. It is currently restored at one of the military bases from ancient blueprints.</color>
+<color=248,252,248>Военные восстановили корпус по чертежам, но оборудование крайне сильно устарело. Без модернизации всех систем корабля это действительно просто музейный экспонат...</color>	<color=248,252,248>The military restored the hull from the blueprints, but the equipment is extremely outdated. Without upgrading all the ship's systems it is really just a museum piece...</color>
 Дальность стрельбы: <bonWRadius> ед.	Firing range: <bonWRadius>
 Дальность прыжка: <bonJump> ед.	Jumping range: <bonJump>
 Мощность энергетического оружия: <bonWEnergy> ед.	Energy weapon power: <bonWEnergy> units
 Мощность осколочного оружия: <bonWSplinter> ед.	Splinter weapon power: <bonWSplinter> units
+Ракетное вооружение не работает!	Missile weapons do not work!
 Масса корабля: <bonMass>%	Ship mass: <bonMass>%
 Эффективность дроида: <bonDroid> ед.	Droid effectiveness: <bonDroid>
 Броня корпуса: <bonHull> ед.	Hull armor: <bonHull>
 Скорость двигателя: <bonSpeed> ед.	Engine speed: <bonSpeed>
+Мощность ГЗП: <bonDef> ед.	Shield power: <bonDef> units
 Дальность радара: <bonRadar> ед.	Radar range: <bonRadar>
 Навык маневренности: <bonSkill2>	Mobility skill: <bonSkill2>
 Навык торговли: <bonSkill4>	Commerce skill: <bonSkill4>
+Поглощение урона астероидов: <bonResistAsteroid>%	Asteroid damage absorption: <bonResistAsteroid>%
+Космический линкор Ямато	Space Battleship Yamato
+<color=248,252,248>Ямато - Линкор японского императорского морского флота времён Второй мировой войны на планете <clr>Земля<clrEnd>, поднятый с морского дна и переоборудованный в космический корабль в <clr>2199 году<clrEnd>. Был подбит после неравной битвы 2875 года, рухнув на одной из незаселённых планет неизвестной системы и долгое время считался утерянным. В настоящий момент реставрирован на одной из военных баз по древним чертежам, а также модифицирован лучшими умами коалиции по заказу рейнджера, нашедшего корабль.</color>	<color=248,252,248>Yamato - a battleship of the Imperial Japanese Navy of the World War II era on the planet <clr>Earth<clrEnd>, raised from the seabed and converted into a spaceship in <clr>the year 2199<clrEnd>. It was crippled after an unequal battle in 2875, crashing on an uninhabited planet of an unknown system, and was long considered lost. It is currently restored at one of the military bases from ancient blueprints, and also modified by the best minds of the Coalition at the order of the ranger who found the ship.</color>
+<color=248,252,248>Под началом капитана этого красавца хочет служить абсолютно каждый, а правительства планет максимально благосклонны и выдают самые престижные задания.</color>	<color=248,252,248>Absolutely everyone wants to serve under the captain of this beauty, and planetary governments are maximally favorable and give out the most prestigious assignments.</color>
+<color=248,252,248>На капитанском мостике сияет гравировка "Per Aspera Ad Astra"</color>	<color=248,252,248>On the captain's bridge the engraving "Per Aspera Ad Astra" shines</color>
 Мощность ракетного оружия: <bonWMissile> ед.	Missile weapon power: <bonWMissile> units
 Навык точности: <bonSkill1>	Attack skill: <bonSkill1>
 Навык манёвренности: <bonSkill2>	Mobility skill: <bonSkill2>
 Навык техники: <bonSkill3>	Technology skill: <bonSkill3>
 Навык обаяния: <bonSkill5>	Charisma skill: <bonSkill5>
+Навык лидерства - максимальный	Leadership skill - maximum
 Хорошо	Good
+Не понимаю о чем вы	I don't understand what you're talking about
+До свидания	Goodbye
+На военной базе я приобрёл корпус, но его ТТХ меня не устраивают, можете мне помочь?	I bought a hull at a military base, but its specs don't satisfy me, can you help me?
+Корпус доставлен на склад.	The hull has been delivered to the warehouse.
+Приступаем к реконструкции	Starting the reconstruction
+Эх, в детстве я любил ходить в музеи и смотреть на экспонаты, такой внушительный корабль точно придаст мотивации подросткам пойти в армию или в ряды рейнджеров.	Eh, as a child I loved going to museums and looking at exhibits, such an imposing ship will certainly motivate teenagers to join the army or the ranks of the rangers.
+Отлично, пойду посмотрю на него.	Excellent, I'll go have a look at it.
+Мне нужно ещё подумать.	I need to think some more.
+Ямато, Линкор такой...	The Yamato, that battleship...
+Ладно, видимо я ошибся...	All right, I must have been mistaken...
+А когда сможете закончить?	And when will you be able to finish?
+Как вы смеете?! Это вообще-то отреставрированный легендарный крейсер Ямато!	How dare you?! This is actually the restored legendary cruiser Yamato!
 Я передумал.	I changed my mind.
+Глобальная модернизация всех систем корабля (<0> cr.)	Global modernization of all ship systems (<0> cr.)
+Отлично! Наконец я получил его, Линкор Ямато!	Excellent! I've finally got it, the Battleship Yamato!
+Решено! Ждать столько времени я не могу, я проспонсирую этот проект.	Decided! I can't wait that long, I will sponsor this project.
+Ну нет, столько денег у меня нет, так что справляйтесь своими силами.	No, I don't have that kind of money, so manage on your own.
 Я подумаю	I'll think about it
+Корпус был в ужасном состоянии, а чертежи, по которым он был построен, было найти наверное столь же сложно, как и сам корабль, так что мы ещё не закончили ремонт.	The hull was in terrible condition, and finding the blueprints it was built from was probably as hard as finding the ship itself, so we haven't finished the repairs yet.
+База <0> была уничтожена, корпус Ямато утерян навсегда...	Base <0> was destroyed, the Yamato hull is lost forever...
+А? Ты там совсем оборзел <0>? Очкарики уже отказываются брать хлам, так ты его нам решил сбагрить, давай проваливай и хлам свой забери!	Huh? Have you gone completely out of line, <0>? The eggheads already refuse to take junk, and now you decided to dump it on us, get lost and take your junk with you!
+Что это вы нам привезли? Вы бы еще консервных банок насобирали! Ну сколько можно, <0>? Вы, рейджеры, каждый день таскаете нам на базу сотни тонн хлама.<br>У нас тут не свалка между прочим, забирайте свой "корабль" и летите отсюда.	What did you bring us? You might as well have collected tin cans! How long can this go on, <0>? You rangers haul hundreds of tons of junk to our base every day.<br>This isn't a dump, by the way, take your "ship" and fly away from here.
+Музейное содружесво всех рас, и человеческое в особенности, благодарят вас. Корпус немедленно доставят в ближайший музей космических кораблей. В благодарность Вам переводят <0> cr.	The museum commonwealth of all races, and the human one in particular, thank you. The hull will be delivered at once to the nearest museum of spaceships. In gratitude <0> cr. is transferred to you.
+Каким кораблем?	What ship?
+Ну вот туда и летите.	Well then fly there.
+Ни разу о таком не слышал.	Never heard of such a thing.
+Работы закончатся приблизительно <0>.	The work will be finished approximately <0>.
+Да, это стандартная процедура. Сейчас мы оценим стоимость и... Что это за корыто, где вы его откопали?	Yes, it's standard procedure. Now we'll assess the cost and... What is this tub, where did you dig it up?
+Мы сделали всё что могли, это самые лучше механизмы и технологии доступные коалиции на данный момент.	We did everything we could, these are the best mechanisms and technologies available to the Coalition at the moment.
+Агрхх! Молчать рядовой, тебе слова не давали! А ты, <0>, покажи-ка ещё раз свой хлам, где ты, говоришь, его нашел?<br>Сейчас сверюсь с документами... Ох, рабогамскую жабу мне в горло, а ведь и правда, ЯМАТО был подбит в том секторе!<br>Что же вы раньше не сказали?! Такс, <1> сейчас прикину сколько на это уйдет времени... Кхм, если вы проспонсируете реконструкцию, то мы сможем начать прямо сейчас и справимся примерно за полтора года, стоить это будет <2> cr. Если же вы не можете нас спонсировать, то придётся ждать помощи у правительства, а это дело не быстрое. Ориентеровочно в этом случае мы сможем завершить все работы только через три-четыре года, не раньше. Ну что же, решайте, какой вариант выбираем?	Agrhh! Silence, private, nobody gave you the floor! And you, <0>, show me your junk again, where did you say you found it?<br>I'll check the documents now... Oh, a Ragobam toad in my throat, and it's true, the YAMATO was shot down in that sector!<br>Why didn't you say so earlier?! So, <1> let me estimate how much time it will take... Ahem, if you sponsor the reconstruction we can start right now and finish in about a year and a half, it will cost <2> cr. If you cannot sponsor us, we will have to wait for help from the government, and that is not quick. Roughly in that case we could finish all the work only in three to four years, no sooner. Well, decide, which option do we choose?
+Ладно-ладно, уже взлетаю...	All right, all right, taking off already...
+Купить корпус за <0> cr.	Buy the hull for <0> cr.
+Оставить в музей.	Leave it to the museum.
+Ямато. Я привозил его на <0> недавно.	The Yamato. I brought it to <0> recently.
+Ок.	Okay.
+Ну, осталось только дождаться, когда вы закончите работу.	Well, all that remains is to wait until you finish the work.
+Стойте капитан! Вы присмотритесь, это же похоже на корабль из человеческих сказок. Как же его, кхм.. ах, да, ЯМАТО!<br>	Wait, captain! Take a closer look, it looks like a ship from human fairy tales. What was it called, ahem.. ah yes, the YAMATO!<br>
+Слушать дальше	Keep listening
+Да-да, мы вас ждали, нам удалось его восстановить, однако его ТТХ оставляет желать лучшего, как-никак его технологиям больше тысячи лет... Годится он сейчас разве что для музея, но если вы желаете его купить, мешать вам не станем. Решать вам, можете не спешить с ответом.<br>Стоимость покупки составляет <0> cr.<br>	Yes-yes, we've been expecting you, we managed to restore it, however its specs leave much to be desired, after all its technologies are over a thousand years old... It's good now only for a museum, but if you wish to buy it, we won't stop you. It's up to you, no need to rush with the answer.<br>The purchase price is <0> cr.<br>
+Сдаём корпус в музей или вы желаете его купить?<br>Напоминаю вам что стоимость покупки составляет <0> cr.<br>	Do we hand the hull over to a museum or do you wish to buy it?<br>I remind you that the purchase price is <0> cr.<br>
+Да?! Ну извините просто такое оборудование... Я даже не могу представить насколько давно его использовали. Ладно, можем попробовать, но ничего не обещаю и стоить это будет вам очень не дёшево. (<0>) cr.	Yes?! Well, excuse me, it's just such equipment... I can't even imagine how long ago it was used. All right, we can try, but I promise nothing and it will cost you quite a lot. (<0>) cr.
+База <0> заершила исследования корпуса. Можно возвращаться за результатом	Base <0> has finished the hull research. You can return for the result
+Я вот тут вернулся узнать: что там с тем кораблем, который я привозил?	I came back to find out: what about that ship I brought?
+Я тут обломок корабля на планете нашёл; Может, он вам пригодится - для исследований.	I found a ship wreck on a planet; Maybe it will be of use to you - for research.
+Я нашёл обломки какого-то корабля; за них никто не хочет браться, так, может, вы возьмётесь?	I found the wreckage of some ship; nobody wants to take it on, so maybe you will?
+Управление работой систем Ямато	Control of the Yamato's systems
+в активном режиме	in active mode
+отключены	disabled
+отключена	disabled
+активна	active
+Великий пилот на мостике великого корабля.<br><br>Отсюда вы можете переменить ход... То есть режимы работы бортовых систем линкора.<br><br>Система противоракетной обороны <0><br>Активные щиты <1><br>Штурмовики (<2> ур.): <3> <4><br>	A great pilot on the bridge of a great ship.<br><br>From here you can change course... That is, the operating modes of the battleship's onboard systems.<br><br>Anti-missile defense system <0><br>Active shields <1><br>Strike craft (lvl <2>): <3> <4><br>
 Ну, ладно	Oh, all right
+Отключить противоракетную систему "Эгида"	Disable the "Aegis" anti-missile system
+Активировать противоракетную систему "Эгида"	Activate the "Aegis" anti-missile system
+Поднять щиты	Raise shields
+Убрать щиты	Lower shields
+Я хочу улучшить автономные боевые единицы Ямато	I want to upgrade the Yamato's autonomous combat units
+Штурмовики не выпущены. Мы готовы запустить прямо сейчас	Strike craft not launched. We are ready to launch right now
+Штурмовики на вылете - в количестве	Strike craft sortied - in the amount of
+О, да проще некуда! это улучшение обойдётся вам в каких-то <0> cr.! Решайтесь!	Oh, simpler than simple! this upgrade will cost you a mere <0> cr.! Decide!
+Отлично! Ваша астронесущая платформа уже была переоборудована в соответствии с новыми возможностями ваших штурмовиков. Пользуйтесь!	Excellent! Your astro-carrier platform has already been refitted in accordance with the new capabilities of your strike craft. Enjoy!
+На связи Штурмовой корабль.<br><br>Жду указаний от материнского корабля.	Strike ship here.<br><br>Awaiting orders from the mother ship.
+Так точно! Следую за материнским кораблём!	Aye aye! Following the mother ship!
+Так точно!	Aye aye!
+Выпустить штурмовиков (недостаточно ресурсов)	Launch strike craft (not enough resources)
+Выпустить штурмовиков	Launch strike craft
+Штурмовики согласно приказу выпущены!	Strike craft launched according to order!
+Выберите количество штурмовиков, которых хотите запустить	Choose the number of strike craft you want to launch
+Выпустить штурмовиков (уже запущены)	Launch strike craft (already launched)
+Поднять щиты (недостаточно энергии)	Raise shields (not enough energy)
+Выпустить штурмовиков (активно камуфлирующее устройство)	Launch strike craft (cloaking device active)
+Чуть позже, пожалуй	A bit later, perhaps
 А давайте!	Let's do it!
 Следуй за мной	Follow me
+Немедленно атакуй корабль...	Attack the ship immediately...
+Прекратить любые действия!	Cease all actions!
 Далее	Next
+Нет, пожалуй, не стоит	No, I'd better not
+Я решил, что я сделаю с кораблем!	I've decided what I'll do with the ship!
+С каким кораблем?	What ship?
+Я подумаю...	I'll think about it...

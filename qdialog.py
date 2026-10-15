@@ -119,6 +119,16 @@ def cont(en, ru):
 def process(e, r, write, show, stats):
     el = qtr.read_tge(e).split('\r\n')
     rl = qtr.read_tge(r).split('\r\n')
+    raw = qtr.read_tge(r)
+    if raw.count('\n') != raw.count('\r\n') or any('\t' not in x and x not in ('', '*') for x in rl):
+        # RU без маркера '*' у строк продолжения / с лишними CR (ExpBeerQuest) -> выравниваем как qtr.records
+        rl = []
+        for x in raw.replace('\r\n', '\n').split('\n'):
+            x = x.rstrip('\r')
+            if x == '':
+                continue
+            rl.append('*\t' if x == '*' else (x if '\t' in x else '*\t' + x))
+        rl.append('')
     if len(el) != len(rl):
         print('!! число строк не совпадает:', e)
         return

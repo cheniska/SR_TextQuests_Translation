@@ -1,3 +1,1 @@
-1	Simulating sponsorship by a merchant ranger
-2	AddPlanetNews(Format('Ranger name has shown incredible generosity and made a serious contribution of several thousand credits to the fund for poor rangers. These funds will be used to help the poor members of the Corps.','name',ShortName(tdwd)));
-3	AddPlanetNews(Format('Buying cnt warships is a worthy contribution from ranger name to the cause of victory, and also an example to other business-minded citizens of the Coalition that one can bring victory closer even from behind an office desk','name',ShortName(tdwd),'cnt',rnd2));
+1	Have you forgotten that the poor rangers' fund exists? The Galactic Council doesn't want rangers to suffer hardship, so the fund has transferred a small subsidy to you.

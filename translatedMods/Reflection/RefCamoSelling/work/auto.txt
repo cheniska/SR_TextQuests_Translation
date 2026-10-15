@@ -1,0 +1,10 @@
+Верховный Барон	Supreme Baron
+Галактический Совет	Galaxy Council
+Продажа камуфляжей	Cloaking Device Buyback
+После разгрома доминаторов у многих пилотов остались неизрасходованные камуфлирующие устройства. В рамках мер по переводу подконтрольных территорий галактики на мирные "рельсы" <0> организовывает выкуп камуфляжей - по <clr>30.000<clrEnd> cr. за единицу!	After the defeat of the dominators, many pilots were left with unused cloaking devices. As part of the measures to put the galaxy's controlled territories on a peaceful footing, <0> is organizing a buyback of cloaking devices - at <clr>30,000<clrEnd> cr. per unit!
+Отлично! Камуфляжи изъяты, а <0> cr. уже перечислены на ваш счёт!<br><br>Что-то ещё?	Excellent! The cloaking devices have been collected, and <0> cr. have already been transferred to your account!<br><br>Anything else?
+Хочу сдать камуфляж Келлера	I want to turn in Keller's cloaking device
+Хочу сдать камуфляж Блазера	I want to turn in Blazer's cloaking device
+Хочу сдать камуфляж Террона	I want to turn in Terron's cloaking device
+Нет, пожалуй, не сегодня	No, maybe not today
+И вам спасибо	Thank you, too

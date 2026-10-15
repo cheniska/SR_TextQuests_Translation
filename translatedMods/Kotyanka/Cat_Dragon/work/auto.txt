@@ -1,3 +1,56 @@
+Древнее чешуйчатое яйцо	Ancient Scaly Egg
+На вид, это очень большое и старое чешуйчатое яйцо, черное с красным отливом.	It looks like a very large and old scaly egg, black with a reddish tint.
+Космический дракон	Space Dragon
+<color=248,252,248>Взрослая особь древней расы космических драконов. Говорят, они жили в другой вселенной и перенеслись в нашу после её зарождения, но по неизвестной причине все вымерли около 7 миллиардов лет назад.</color>	<color=248,252,248>An adult specimen of an ancient race of space dragons. They say they lived in another universe and moved to ours after its birth, but for an unknown reason all died out about 7 billion years ago.</color>
+Дальность магических атак: <bonWRadius> ед.	Magic attack range: <bonWRadius> units
+Мощность энергетической магии: <bonWEnergy> ед.	Energy magic power: <bonWEnergy> units
+Мощность элементальной магии: <bonWSplinter> ед.	Elemental magic power: <bonWSplinter> units
+Мощность магии дальнего действия: <bonWMissile> ед.	Long-range magic power: <bonWMissile> units
+Магическое ускорение: <bonSpeed> ед.	Magic acceleration: <bonSpeed> units
+Дальность телепортации: <bonJump> ед.	Teleportation range: <bonJump> units
+Магический барьер: <bonDef> ед.	Magic barrier: <bonDef> units
+Магическая броня: <bonHull> ед.	Magic armor: <bonHull> units
+Магическая регенерация: <bonDroid> ед.	Magic regeneration: <bonDroid> units
+Поглощение урона астероидов: <bonResistAsteroid>%	Asteroid damage absorption: <bonResistAsteroid>%
+Космический дракон (детёныш)	Space Dragon (hatchling)
+<color=248,252,248>Детёныш древней расы космических драконов. Говорят, они жили в другой вселенной и перенеслись в нашу после её зарождения, но по неизвестной причине все вымерли около 7 миллиардов лет назад.</color>	<color=248,252,248>A hatchling of an ancient race of space dragons. They say they lived in another universe and moved to ours after its birth, but for an unknown reason all died out about 7 billion years ago.</color>
+База <0> была уничтожена, единственный в своём роде космический дракон, утерян навсегда...	Base <0> was destroyed, the one-of-a-kind space dragon is lost forever...
+База <0> закончила инкубацию дракона, можете прилетать	Base <0> has finished incubating the dragon, you can come
+Здраствуйте, это снова я. А вы меня уже ждали, точно чипы слежения и диагностики, совсем забыл.	Hello, it's me again. And you were already expecting me, of course, the tracking and diagnostic chips, I totally forgot.
+К слову об драконе...	Speaking of the dragon...
+Я вот тут вернулся узнать что там с тем яйцом, которое я привозил?	I came back to find out what about that egg I brought?
+У меня тут это, не стандартный вопросик, короче я яйцо нашёл на незаселённой планете, вот...	I have this, uh, non-standard little question, in short I found an egg on an uninhabited planet, so...
+Что-что вы <0> привезли? Хмм, ну ка дайте посмотреть.	What-what did you <0> bring? Hmm, well, let me have a look.
+Кхе-кхе, <0>, ещё раз, ЧТО вы привезли? Яйцо??? Уж не знаю как вы додумались его привезти НАМ...<br>Ну ладно не тушуйтесь вы так, отвезите его на научную базу, я слышал они там, эээ занимаются такими вещами.	Ahem, <0>, once more, WHAT did you bring? An egg??? I don't know how you thought of bringing it to US...<br>Well, don't be so embarrassed, take it to a science base, I've heard they, er, deal with such things there.
+Да-да, мы вас ждали, нам удалось! Вы только посмотрите на это милейшее создание, да не удивляйтесь что он уже такой большой, мы не сразу вам сообщили что можно он вылупился и можно прилетать тк нужно было всё изучить и стабилизировать ситуацию, чтобы допускать не профессиональных лиц к работе. Как вы можете заметить хоть это и детёнышь, но он уже может летать в открытом космосе и даже переносить оборудование и экипировку космический кораблей.	Yes-yes, we've been expecting you, we did it! Just look at this adorable creature, and don't be surprised that it's already so big, we didn't tell you right away that it had hatched and you could come because we needed to study everything and stabilize the situation before admitting non-professionals to work. As you can see, though it is a hatchling, it can already fly in open space and even carry spaceship equipment and gear.
+Дракон будет ждать вас на складских помещениях.	The dragon will be waiting for you in the storage rooms.
+Не понимаю о чем вы<br>	I don't understand what you're talking about<br>
+Вы можете получить лицензию на управление драконом, и летать нанём в космосе, однако для этого вы должны подписать этот контракт на установку датчиков слежения за вашим и его здоровьем, а также местоположением и многими другими параметрами, прочитаете потом сами. И стоить это будет <0> cr.<br>Ну что, согласны?<br>	You can get a license to manage the dragon and fly it in space, but for that you must sign this contract for installing sensors that track your and its health, as well as location and many other parameters, you'll read the rest yourself. And it will cost <0> cr.<br>So, do you agree?<br>
+Что вы несёте, какие драконы?	What are you babbling about, what dragons?
+Процесс инкубации ещё не закончен.	The incubation process is not finished yet.
+Ну приблизительно <0>.	Well, approximately <0>.
+Не понимаю о чем вы	I don't understand what you're talking about
+Да, мы следили за вами, мы знаем зачем вы прилетели. Дракон вырос и требуется переоснощение его аммуниции, для  его комфорта и следственно увеличение боевых характеристик.	Yes, we have been watching you, we know why you came. The dragon has grown and its ammunition requires refitting, for its comfort and consequently an increase in combat characteristics.
+Ну тогда начнём? Это будет стоить (<0>) cr.	Well then, shall we begin? It will cost (<0>) cr.
+Можете лететь, опробовать новые возможности.	You can fly off, try out the new capabilities.
+Именно так, и мы сможем его пробудить и возможно даже приручить! За вами, как за нашедшим остаётся право на владение этим драконом если все государственные эксперименты пройдёт удачно, а если нет мы выплатим вам компенсацию.	Exactly so, and we will be able to awaken it and perhaps even tame it! As the finder you retain the right to own this dragon if all state experiments go well, and if not we will pay you compensation.
+Приступаем к инкубации.	Starting the incubation.
+Да-да знаю, не мешайтесь.<br>*Устанавливает яйцо в спектральновакуумный гипер-анализатор*<br>Феноменально! Этого не может быть! Рейнджер <0> вы даже не представляете что, или даже кого вы нашли! Это яйцо древнего космического дракона, последнее задокументированное свидетельство в галапедии датируется примерно 8 миллиардов лет назад, все считали что их больше не осталось...<br>	Yes-yes I know, don't get in the way.<br>*Places the egg into the spectral-vacuum hyper-analyzer*<br>Phenomenal! This can't be! Ranger <0>, you can't even imagine what, or even who, you found! This is an egg of an ancient space dragon, the last documented mention in the Galapedia dates to approximately 8 billion years ago, everyone thought none were left...<br>
+Спасибо за наводку, всего доброго.	Thanks for the tip, all the best.
+Я согласен! Вот ваши <0> cr.	I agree! Here are your <0> cr.
+Это невероятно!	This is incredible!
+Отлично, пойду посмотрю.	Excellent, I'll go have a look.
+До свидания<br>	Goodbye<br>
+Подождите, у меня нет сейчас таких денег. Я прилечу к вам попозже.	Wait, I don't have that kind of money right now. I'll fly to you a bit later.
+Ой, извините я уже ухожу	Oh, sorry, I'm already leaving
+Ну, осталось только дождаться, когда вы закончите работу.	Well, all that remains is to wait until you finish the work.
+А когда закончится?	And when will it end?
 Хорошо	Good
+До свидания	Goodbye
+Эээ, да всё именно так как вы и сказали.	Er, yes, everything is exactly as you said.
 Я передумал.	I changed my mind.
+Новая аммуниция для дракона(<0> cr.)	New ammunition for the dragon (<0> cr.)
 Отлично!	Excellent!
+Вот держите, только осторожнее оно хрупкое.	Here, take it, only careful, it's fragile.
+Укуси меня, штип. Это что-же получается, я нашёл яйцо дракона?	Bite me, shtip. So it turns out I found a dragon egg?
+Приступайте.	Go ahead.

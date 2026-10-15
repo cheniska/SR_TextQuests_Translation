@@ -1,7 +1,12 @@
+<color=248,252,248>Концентрация всех наработок Коалиции по вопросам исследования. Электронитные усилители радиолокационных систем, квазигенератор подпространственных пузырей и, как венец творения, - новейшая маскировочная система, позволяющая безнаказанно летать по территории, подконтрольной любому формированию. В этом корпусе нет ничего лишнего. Для учёного, разумеется.</color>	<color=248,252,248>The concentration of all the Coalition's developments in research. Electronite radar system boosters, a quasi-generator of subspace bubbles, and, as the crowning achievement, the newest cloaking system, which allows you to fly with impunity through territory controlled by any faction. There is nothing superfluous in this hull. For a scientist, of course.</color>
 Скорость двигателя: <bonSpeed> ед.	Engine speed: <bonSpeed>
 Дальность прыжка: <bonJump> пк.	Jump range: <bonJump> pc
 Дальность радара: <bonRadar> млн. км.	Radar range: <bonRadar> million km.
 Броня корпуса: <bonHull> ед.	Hull armor: <bonHull>
+Лимит зондов: <bonZonds> шт.	Probe limit: <bonZonds> pcs.
+<color=20,220,20>Гарантирована работа сканера и радара</color>	<color=20,220,20>Scanner and radar operation guaranteed</color>
+<color=248,252,248>Наглые рейды по вражеской территории - времяпрепровождение любого атамана. А для таких дел нужен особый корабль, отвечающий таким запросам.</color>	<color=248,252,248>Brazen raids into enemy territory are the pastime of any ataman. And such work calls for a special ship that meets such demands.</color>
+<color=248,252,248>Дополнительный реактор на орудийной палубе позволяет колоссально повысить эффективность работы любого вооружения, а на пиковом напряжении и вовсе нанести</color> <clr>сверхмощный<clrEnd> <color=248,252,248>выстрел - идеальный вариант для идеального убийцы.</color>	<color=248,252,248>An additional reactor on the gun deck allows the effectiveness of any weaponry to be raised colossally, and at peak load it can even deliver a</color> <clr>superpowerful<clrEnd> <color=248,252,248>shot - the ideal choice for the ideal killer.</color>
 Урон энергетического оружия: <bonWEnergy> ед.	Energy weapon damage: <bonWEnergy> units
 Урон ракетного оружия: <bonWMissile> ед.	Missile weapon damage: <bonWMissile> units
 Навык точности: <bonSkill1>	Attack skill: <bonSkill1>
@@ -9,8 +14,28 @@
 Навык обаяния: <bonSkill5>	Charisma skill: <bonSkill5>
 Скорость ракет: <bonMissileSpeed> ед.	Missile speed: <bonMissileSpeed> units
 Масса корабля: <bonMass>%	Ship mass: <bonMass>%
+"Утюг" <color=248,252,248>предназначался войсками Коалиции для подавления огневых точек противника превосходящим огнём. Но его оказалось недостаточно, и учёные создали новое творение -</color> <color=20,240,20>Бастион</color>.	"Iron" <color=248,252,248>was intended by Coalition troops to suppress enemy firing points with superior fire. But it turned out to be insufficient, and scientists created a new creation -</color> <color=20,240,20>Bastion</color>.
+<color=248,252,248>Вспомогательные ремонтные установки, усилители защитного поля, новейшие закалённые микробомбардировкой бронепластины с защитой от "каморных" ракет, а также мечта любого военного: </color><clr>дополнительная орудийная палуба<clrEnd><color=248,252,248>, позволяющая по сути удвоить огневую мощь корабля.</color>	<color=248,252,248>Auxiliary repair units, shield boosters, the newest armor plates hardened by micro-bombardment with protection from "chamber" missiles, and also the dream of any military man: </color><clr>an additional gun deck<clrEnd><color=248,252,248>, which essentially doubles the ship's firepower.</color>
+<color=248,252,248>Увы, за это приходится расплачиваться низкой скоростью, но этой космической бронемашине при должном оснащении вряд ли такое вообще потребуется.</color>	<color=248,252,248>Alas, this comes at the price of low speed, but with proper equipment this space armored vehicle will hardly ever need it.</color>
 Навык манёвренности: <bonSkill2>	Mobility skill: <bonSkill2>
 Навык техники: <bonSkill3>	Technology skill: <bonSkill3>
 Эффективность дроида: <bonDroid> ед.	Droid effectiveness: <bonDroid>
 Мощность сканера: <bonScan>%	Scanner power: <bonScan>%
+Мощность защитного поля: <bonDef>%	Shield power: <bonDef>%
+Поглощение урона астероидов: <bonResistAsteroid>%	Asteroid damage absorption: <bonResistAsteroid>%
+<color=20,220,20>Гарантирована работа генератора защитного поля</color>	<color=20,220,20>Shield generator operation guaranteed</color>
+Вы покинули обычное космическое пространство, дополнительная орудийная палуба свёрнута.	You have left normal space, the additional gun deck has been folded away.
+Вы покинули обычное космическое пространство, режим невидимости деактивирован.	You have left normal space, invisibility mode has been deactivated.
+Включить режим невидимости	Turn on invisibility mode
+Режим контрбатарейного огня: <clr>Включен<clrEnd>	Counter-battery fire mode: <clr>On<clrEnd>
+Режим контрбатарейного огня: <clr>Отключен<clrEnd>	Counter-battery fire mode: <clr>Off<clrEnd>
+Режим невидимости: <clr>Включен<clrEnd>	Invisibility mode: <clr>On<clrEnd>
+Режим невидимости: <clr>Отключен<clrEnd>	Invisibility mode: <clr>Off<clrEnd>
+Отключить режим контрбатарейного огня	Turn off counter-battery fire mode
+Включить режим контрбатарейного огня	Turn on counter-battery fire mode
+Отключить режим невидимости	Turn off invisibility mode
+Инфошка с шансом КРИТА	Info item with a CRIT chance
+Инфошка-флаг. Была	Flag info item. Was
+Потому что события открытия/закрытия формы срабатывают только для того корабля, на котором они висят, иначе бы было слишком просто	Because form open/close events only fire for the ship they are attached to, otherwise it would be too easy
+Инфошка с неуязвимостью Метеорки	Info item with the Meteor's invulnerability
 Инфошка-флаг	Flag info item

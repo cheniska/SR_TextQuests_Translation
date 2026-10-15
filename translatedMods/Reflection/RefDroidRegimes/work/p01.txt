@@ -1,26 +1,4 @@
-1	Mothballing
-2	The droid's operating mode has been changed to <0>.
-3	Back to settings
-4	The droid's self-defense mode was turned off because the ship left space
-5	The droid's emergency mode was turned off because the ship left space
-6	Notification from the central computer: Your droid is operating in a non-standard mode and is deeply connected to the ship's control systems. It cannot be dismantled at the moment. Switch the droid to standard mode and repeat the dismantling operation.
-7	The droid worked beyond its limits and sustained critical damage. Repairs are required
-8	Notification from the central computer: Your droid is operating in a non-standard mode and is deeply connected to the ship's control systems. It cannot be replaced at the moment. Switch the droid to standard mode and repeat the operation.
-9	There is no droid connection indicator. Switching the operating mode is impossible at the moment. Check that the droid is connected correctly and try again
-10	This mode is already active!
-11	Switch the droid's operating mode
-12	The droid is too badly damaged to interact with!
-13	For "mothballing" mode, the droid must have repair capability.
-14	The droid is too badly damaged to start this mode!
-15	The droid's wear-out mode was turned off because the ship left space
-16	Thanks to the mothballing mode, the repair droid survived critical damage
-17	For "wear-out" mode, the droid must have repair capability.
-18	For "emergency recovery" mode, the droid must have repair capability.
-19	For "self-defense" mode, the droid must have repair capability.
-20	Droid mode: <0>
-21	Self-defense
-22	Emergency recovery
-23	Wear-out
-24	Mothballed
-25	Standard
-26	Select the droid's operating mode:
+1	For "mothballing" mode, the droid must have repair capability.
+2	For "wear-out" mode, the droid must have repair capability.
+3	For "emergency recovery" mode, the droid must have repair capability.
+4	For "self-defense" mode, the droid must have repair capability.

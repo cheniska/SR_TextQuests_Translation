@@ -1,0 +1,7 @@
+Prison (RefLongerPrison, «Longer Prison») — перевод с RU 2026-10-12; 1091 запись (971 уникальных; 410 абзацев переведено вручную, остальное из памяти ShuPrison/DevTranslated Prison); check 0/0, struct 0, qdialog 0, грамматика разобрана.
+- «Нету кошолада / Молочный кошолад / Чорный кошолад» — намеренно искажённое написание: No choclate / Milk choclate / Blak choclate (в других записях шоколад — chocolate, milk/dark).
+- «Бамбай Рабум Четвёртый» — Bambai Rabum the Fourth (малок-ростовщик); «Бамбай» отдельно — Bambai.
+- «мастер Ли» — Master Lee; «Гроссмейстер» — the Grandmaster; «закладка/закладчик» — stash/stasher (наркотики).
+- «Роба» (тюремная форма) — uniform; «половники» — ladles; «Пенчекряк» — penchecrakus (канон из LongLiveTheRanger).
+- Суммы в {…} и <clr>…<clrEnd> оставлены как в RU (разные записи — разные числа).
+- Сомнения: «закинув туда руку... плотность и упругость толпы» — перевод близок к буквальному; «глицинчик» → glycine.

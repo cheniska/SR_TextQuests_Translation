@@ -2,6 +2,297 @@
 
 Новые записи сверху. Первая выдача — все файлы «новые».
 
+## Выдача 2026-10-12 14:16 — файлов затронуто: 6
+
+- **Reflection\RefGalamapUpgrade\CFG\Rus\Lang.txt** — новый файл, ключей: 4
+- **Reflection\RefGalaxyUpgradeExtended\CFG\Rus\Lang.txt** — новый файл, ключей: 1571
+- **Reflection\RefGalaxyUpgrade\CFG\Rus\Lang.txt** — новый файл, ключей: 194
+- **Reflection\RefGraphics\CFG\Rus\Lang.txt** — новый файл, ключей: 11
+- **Reflection\RefMightyNPCs\CFG\Rus\Lang.txt** — новый файл, ключей: 4
+- **Reflection\RefSpAgentDefence\CFG\Rus\Lang.txt** — новый файл, ключей: 513
+
+## Выдача 2026-10-12 13:33 — файлов затронуто: 68
+
+- **Evolution\EvoArtDominator\CFG\Rus\Lang.txt** — изменился только формат/служебные строки (текстов без изменений)
+- **Evolution\EvoComfyCamo\CFG\Rus\Lang.txt** — изменился только формат/служебные строки (текстов без изменений)
+- **Evolution\EvoDreadnought\CFG\Rus\Lang.txt** — изменился только формат/служебные строки (текстов без изменений)
+- **Evolution\EvoMC\CFG\Rus\Lang.txt** — новых 0, изменённых 0, удалённых 4
+    - − `Script.Mod_EvoMC.120`: «<br>»
+    - − `Script.Mod_EvoMC.141`: «Силой Богов, да снизойдёт на тебя их кара!»
+    - − `Script.Mod_EvoMC.142`: «Что? А-а-а-а! Что со мной?! Мне плохо!.. А-а-а-а!»
+    - − `Script.Mod_EvoMC.143`: «Покайся во грехах!»
+- **Evolution\EvoMMUnique\CFG\Rus\Lang.txt** — новых 0, изменённых 0, удалённых 6
+    - − `Script.Mod_EvoMMUnique.25`: «Обогащатель»
+    - − `Script.Mod_EvoMMUnique.26`: «Разрушитель»
+    - − `Script.Mod_EvoMMUnique.27`: «Исследователь»
+    - − `Script.Mod_EvoMMUnique.28`: «Дроизатор»
+    - − `Script.Mod_EvoMMUnique.29`: «Структуризатор»
+    - − `Script.Mod_EvoMMUnique.30`: «Реликтер»
+- **Evolution\EvoSB\CFG\Rus\Lang.txt** — новых 1, изменённых 0, удалённых 0
+    - + `Script.Mod_EvoSB.259`: «Исследования остановлены»
+- **Evolution\EvoTranc\CFG\Rus\Lang.txt** — изменился только формат/служебные строки (текстов без изменений)
+- **Expansion\ExpAcryn\CFG\Rus\Lang.txt** — изменился только формат/служебные строки (текстов без изменений)
+- **Expansion\ExpArts\CFG\Rus\Lang.txt** — изменился только формат/служебные строки (текстов без изменений)
+- **Expansion\ExpAutoSearch\CFG\Rus\Lang.txt** — изменился только формат/служебные строки (текстов без изменений)
+- **Expansion\ExpBeerQuest\CFG\Rus\Lang.txt** — новых 0, изменённых 0, удалённых 1
+    - − `Script.Mod_ExpBeerQuest.78`: «ЭТА ИГРА ПОЛНАЯ ХУЙНЯ»
+- **Expansion\ExpBlackMarket\CFG\Rus\Lang.txt** — новых 2, изменённых 0, удалённых 0
+    - + `Script.Mod_ExpBlackMarket_1.48`: «»
+    - + `Script.Mod_ExpBlackMarket_2.0`: «»
+- **Expansion\ExpCB\CFG\Rus\Lang.txt** — новых 0, изменённых 0, удалённых 2
+    - − `Script.Mod_ExpCB.296`: «Мы можем задействовать в эксперименте над вашим оборудованием наших лучших специалистов, но их услуги обойдутс…»
+    - − `Script.Mod_ExpCB.297`: «Мы можем задействовать в эксперименте над вашим оборудованием наших лучших специалистов, но их услуги обойдутс…»
+- **Expansion\ExpExplorers\CFG\Rus\Lang.txt** — изменился только формат/служебные строки (текстов без изменений)
+- **Expansion\ExpImplants\CFG\Rus\Lang.txt** — изменился только формат/служебные строки (текстов без изменений)
+- **Expansion\ExpPhysGun\CFG\Rus\Lang.txt** — изменился только формат/служебные строки (текстов без изменений)
+- **Expansion\ExpSSB\CFG\Rus\Lang.txt** — изменился только формат/служебные строки (текстов без изменений)
+- **Expansion\ExpTC\CFG\Rus\Lang.txt** — изменился только формат/служебные строки (текстов без изменений)
+- **Expansion\ExpTraitors\CFG\Rus\Lang.txt** — новых 0, изменённых 0, удалённых 4
+    - − `Script.Mod_ExpTraitors.21`: «Центр наемников»
+    - − `Script.Mod_ExpTraitors.22`: «Нейролинк»
+    - − `Script.Mod_ExpTraitors.23`: «Ингибитор»
+    - − `Script.Mod_ExpTraitors.60`: «Далее»
+- **KotyankaPlus\ArtiUniqueShipsPack\CFG\Rus\Lang.txt** — новых 1, изменённых 0, удалённых 0
+    - + `Script.Mod_ArtiUniqueShipsPack.3`: «»
+- **KotyankaPlus\Cat_Byhanka\CFG\Rus\Lang.txt** — изменился только формат/служебные строки (текстов без изменений)
+- **KotyankaPlus\Cat_Excalibur\CFG\Rus\Lang.txt** — только перенумерация ключей (тексты те же, перевод не теряется)
+- **KotyankaPlus\Cat_Gollandec\CFG\Rus\Lang.txt** — новых 0, изменённых 0, удалённых 9
+    - − `Script.Gollandec.112`: «Хорошо»
+    - − `Script.Gollandec.142`: «Отлично, пойду посмотрю на него.»
+    - − `Script.Gollandec.199`: «Ну, осталось только дождаться, когда вы закончите»
+    - − `Script.Gollandec.212`: «Ладно, видимо, не на ту базу залетел.»
+    - − `Script.Gollandec.214`: «Такая сумма для меня не проблема, показывайте свои эксперименты!»
+    - − `Script.Gollandec.220`: «Видать, не туда прилетел...»
+    - − `Script.Gollandec.221`: «Базару ноль, но чё по цене?»
+    - − `Script.Gollandec.222`: «Мне нужно поднакопить деньжат, я зайду позже.»
+    - − `Script.Gollandec.224`: «Базару ноль, но чё по цене?»
+- **KotyankaPlus\Cat_Tardis\CFG\Rus\Lang.txt** — изменился только формат/служебные строки (текстов без изменений)
+- **Kotyanka\Cat_DomScience\CFG\Rus\Lang.txt** — новых 1, изменённых 0, удалённых 1
+    - + `Script.Cat_DomScience.26`: «Ого, рейнджер, да вам удалось раздобыть рабочий блок памяти доминатора - <clr>Винцератор<clrEnd>! Пожалуй, дов…»
+    - − `Script.Cat_DomScience.8`: «Ого, рейнджер, да вам удалось раздобыть рабочий блок памяти доминатора - <clr>Винцератор<clrEnd>!. Пожалуй, до…»
+- **Kotyanka\Cat_Dragon\CFG\Rus\Lang.txt** — новых 0, изменённых 0, удалённых 18
+    - − `Script.Dragon.112`: «Хорошо»
+    - − `Script.Dragon.118`: «До свидания»
+    - − `Script.Dragon.149`: «Я передумал.»
+    - − `Script.Dragon.180`: «Ну, осталось только дождаться, когда вы закончите работу.»
+    - − `Script.Dragon.205`: «Спасибо за наводку, всего доброго.»
+    - − `Script.Dragon.206`: «Я согласен! Вот ваши <0> cr.»
+    - − `Script.Dragon.207`: «Это невероятно!»
+    - − `Script.Dragon.208`: «Отлично, пойду посмотрю.»
+    - − `Script.Dragon.209`: «До свидания<br>»
+    - − `Script.Dragon.210`: «Подождите, у меня нет сейчас таких денег. Я прилечу к вам попозже.»
+    - − `Script.Dragon.211`: «Ой, извините я уже ухожу»
+    - − `Script.Dragon.212`: «А когда закончится?»
+    - − `Script.Dragon.213`: «Эээ, да всё именно так как вы и сказали.»
+    - − `Script.Dragon.214`: «Новая аммуниция для дракона(<0> cr.)»
+    - − `Script.Dragon.215`: «Отлично!»
+    - − `Script.Dragon.216`: «Вот держите, только осторожнее оно хрупкое.»
+    - − `Script.Dragon.217`: «Укуси меня, штип. Это что-же получается, я нашёл яйцо дракона?»
+    - − `Script.Dragon.218`: «Приступайте.»
+- **Kotyanka\Cat_Drugs\CFG\Rus\Lang.txt** — изменился только формат/служебные строки (текстов без изменений)
+- **Kotyanka\Cat_Pirates\CFG\Rus\Lang.txt** — новых 14, изменённых 0, удалённых 20
+    - + `Script.Cat_ZelPirates.Str13`: «Этот класс салаг получит <0>.»
+    - + `Script.Cat_ZelPirates.Str26`: «Отлично, Барон! Наши братки уже выдвигаются в систему <0>.»
+    - + `Script.Cat_ZelPirates.Str27`: «С возвращением, <0>. Никак, магазин наш пришел проверить? У нас там всегда много всякого хлама продается.»
+    - + `Script.Cat_ZelPirates.Str3`: «Да... Я всё понимаю, братух, но как захочишь че-нить в мире поменять, то ты знаешь, где меня найти.»
+    - + `Script.Cat_ZelPirates.Str30`: «Так у тебя всё готово?! Так это же другое дело! Yу чё там, сколько кредитов стоит закупить пару-тройку подержа…»
+    - + `Script.Cat_ZelPirates.Str31`: «Не, идея здравая, но мне мои деньги явно важней.»
+    - + `Script.Cat_ZelPirates.Str32`: «Информация о параметрах корабля, для первого класса салаг»
+    - + `Script.Cat_ZelPirates.Str33`: «Информация о параметрах корабля, для второго класса салаг»
+    - + `Script.Cat_ZelPirates.Str34`: «Информация о параметрах корабля, для третьего класса салаг»
+    - + `Script.Cat_ZelPirates.Str43`: «Меня интересует размер корпуса»
+    - + `Script.Cat_ZelPirates.Str46`: «Да»
+    - + `Script.Cat_ZelPirates.Str47`: «Нет»
+    - + `Script.Cat_ZelPirates.Str5`: «Вас приветствует интерактивная таблица информации Гаалаксель! Что вы хотите узнать?»
+    - + `Script.Cat_ZelPirates.Str7`: «В данный момент мы за один раз способны подготовить <0>.»
+    - − `Script.Cat_ZelPirates.133`: «Обратно к общим параметрам»
+    - − `Script.Cat_ZelPirates.134`: «Обратно к выбору параметров»
+    - − `Script.Cat_ZelPirates.135`: «Обратно к параметрам текущего салаги»
+    - − `Script.Cat_ZelPirates.261`: «Пожалуй, пока хватит буянить»
+    - − `Script.Cat_ZelPirates.262`: «Эге, бродяги! Слишком много нас стало! Пора лишних пропойц посадить на берег, за орудия планетарной обороны, а…»
+    - − `Script.Cat_ZelPirates.263`: «Уверен на все сто! Распространяй давай мой приказ!»
+    - − `Script.Cat_ZelPirates.266`: «Не, пожалуй, не сейчас»
+    - − `Script.Cat_ZelPirates.269`: «Мне они нужны как можно скорее! Тысяча чертей!»
+    - − `Script.Cat_ZelPirates.270`: «Десять»
+    - − `Script.Cat_ZelPirates.272`: «Пять»
+    - − `Script.Cat_ZelPirates.273`: «Двадцать пять»
+    - − `Script.Cat_ZelPirates.274`: «Пятьдесят»
+    - − `Script.Cat_ZelPirates.275`: «Поднять всех негодяев и подлецов! Мы идём на штурм!»
+    - − `Script.Cat_ZelPirates.276`: «Отправляйте созванных пиратов на штурм!»
+    - − `Script.Cat_ZelPirates.277`: «Начинай давай!»
+    - − `Script.Cat_ZelPirates.280`: «Жду с нетерпением»
+    - − `Script.Cat_ZelPirates.281`: «Отставить! Не время...»
+    - − `Script.Cat_ZelPirates.282`: «Отлично»
+    - − `Script.Cat_ZelPirates.283`: «Ага, сейчас заценю барахлишко ваше.»
+    - − `Script.Cat_ZelPirates.284`: «Всем внимание - на вашу халупу прибыл сам Верховный Барон! Всем ко стойке бара - наливать за мой счёт!»
+- **Kotyanka\Cat_Rangers\CFG\Rus\Lang.txt** — только перенумерация ключей (тексты те же, перевод не теряется)
+- **Kotyanka\Cat_StationSuperintendent\CFG\Rus\Lang.txt** — новых 2, изменённых 0, удалённых 2
+    - + `Script.Cat_StationSuperintendent.30`: «Отменить постройку»
+    - + `Script.Cat_StationSuperintendent.31`: «Построить без улучшений»
+    - − `Script.Cat_StationSuperintendent.19`: «Нет, мне ничего не надо»
+    - − `Script.Cat_StationSuperintendent.28`: «Нет, спасибо»
+- **Kotyanka\Cat_Yamato\CFG\Rus\Lang.txt** — новых 0, изменённых 0, удалённых 4
+    - − `Script.Yamato.161`: «Я тут обломок корабля на планете нашёл, возможно он вам нужен для исследований.»
+    - − `Script.Yamato.78`: «База <0> исследовала корпус, можете прилетать»
+    - − `Script.Yamato.80`: «Я вот тут вернулся узнать что там с тем кораблем, который я привозил?»
+    - − `Script.Yamato.82`: «У меня тут обломок корабля есть, нигде не берут, думаю может хоть вам он нужен...»
+- **OtherMods\SR1Malocs&Traders\CFG\Rus\Lang.txt** — новых 1, изменённых 0, удалённых 1
+    - + `Script.Mod_SR1Malocs&Traders.26`: «Честно говоря, вы ребята меня достали. Я сам освобожу от вас галактику.»
+    - − `Script.Mod_SR1Malocs&Traders.24`: «Честно говоря, вы, ребята, меня достали. Я сам освобожу от вас галактику.»
+- **OtherMods\SR1RedSkull\CFG\Rus\Lang.txt** — изменился только формат/служебные строки (текстов без изменений)
+- **RefMightyNPCs\CFG\Rus\Lang.txt** — новый файл, ключей: 4
+- **RefSpAgentDefence\CFG\Rus\Lang.txt** — новый файл, ключей: 513
+- **Reflection\RefAllPlanetsHabited\CFG\Rus\Lang.txt** — изменился только формат/служебные строки (текстов без изменений)
+- **Reflection\RefArtsUpgrade\CFG\Rus\Lang.txt** — новых 1, изменённых 1, удалённых 0
+    - ~ `Artefacts.CustomArtefacts.ArtDefToArms2Enabled.OnActCodeTypes`: «t_OnItemDeEquip,t_OnAnotherItem,t_OnCheckingUsability» → «t_OnItemDeEquip,t_OnAnotherItem,t_OnCheckingUsability,t_OnStep»
+    - + `Artefacts.CustomArtefacts.ArtDefToArms2Enabled.OnActStepTypes`: «0»
+- **Reflection\RefBlazerAttacks\CFG\Rus\Lang.txt** — новых 0, изменённых 0, удалённых 1
+    - − `Script.Mod_RefBlazerAttacks.51`: «Теперь ты защитник системы <0>. Для получения инструкций следуй на ближайшую планету.»
+- **Reflection\RefCamoSelling\CFG\Rus\Lang.txt** — только перенумерация ключей (тексты те же, перевод не теряется)
+- **Reflection\RefCrusades\CFG\Rus\Lang.txt** — новых 0, изменённых 0, удалённых 3
+    - − `Script.Mod_RefCrusades.0`: «Августин»
+    - − `Script.Mod_RefCrusades.1`: «Валетт»
+    - − `Script.Mod_RefCrusades.2`: «Моле»
+- **Reflection\RefDroidRegimes\CFG\Rus\Lang.txt** — новых 0, изменённых 4, удалённых 1
+    - ~ `Script.Mod_RefDroidRegimes.21`: «Для режима "консервация" дроид обязан обладать способностью к ремонту.» → «Для режима «консервация» дроид обязан обладать способностью к ремонту.»
+    - ~ `Script.Mod_RefDroidRegimes.26`: «Для режима "работа на износ" дроид обязан обладать способностью к ремонту.» → «Для режима «работа на износ» дроид обязан обладать способностью к ремонту.»
+    - ~ `Script.Mod_RefDroidRegimes.27`: «Для режима "аварийное восстановление" дроид обязан обладать способностью к ремонту.» → «Для режима «аварийное восстановление» дроид обязан обладать способностью к ремонту.»
+    - ~ `Script.Mod_RefDroidRegimes.28`: «Для режима "самозащита" дроид обязан обладать способностью к ремонту.» → «Для режима «самозащита» дроид обязан обладать способностью к ремонту.»
+    - − `Script.Mod_RefDroidRegimes.25`: «Отсутствует индикация подключения дроида. Переключение режима работы в данный момент невозможно. Проверьте пра…»
+- **Reflection\RefEnergy\CFG\Rus\Lang.txt** — изменился только формат/служебные строки (текстов без изменений)
+- **Reflection\RefExpHullsAbilities\CFG\Rus\Lang.txt** — изменился только формат/служебные строки (текстов без изменений)
+- **Reflection\RefFemStart\CFG\Rus\Lang.txt** — новых 1, изменённых 0, удалённых 1
+    - + `Script.Mod_RefFemStart.8`: «Мы можем улучшить ваш корпус спецагента до следующего уровня. Услуга обойдётся вам в каких-то»
+    - − `Script.Mod_RefFemStart.1`: «Мы можем улучшить вас корпус спецагента до следующего уровня. Услуга обойдётся вам в каких-то»
+- **Reflection\RefGeorgia\CFG\Rus\Lang.txt** — новых 0, изменённых 0, удалённых 1
+    - − `Script.Mod_RefGeorgia.25`: «Слава Сакартвело!»
+- **Reflection\RefGovCoffee\CFG\Rus\Lang.txt** — новых 0, изменённых 1, удалённых 0
+    - ~ `ShipInfo.AddInfo.CustomInfos.RefMainCoffeeInfo.Description`: «Кофе Вас явно взбодрило! Вы чувствуете себя гораздо лучше.» → «Кофе Вас явно взбодрило! Вы чувствуете себя гораздо лучше. Действует 30 дней; бонус зависит от расы пилота (в …»
+- **Reflection\RefHyperForsage\CFG\Rus\Lang.txt** — изменился только формат/служебные строки (текстов без изменений)
+- **Reflection\RefNPCSponsorship\CFG\Rus\Lang.txt** — новых 1, изменённых 0, удалённых 0
+    - + `Script.Mod_RefNPCSponsorship.0`: «Вы не забыли про существование фонда бедных рейнджеров? Галактическому Совету не хочется, чтобы рейнджеры бедс…»
+- **Reflection\RefNotifications\CFG\Rus\Lang.txt** — только перенумерация ключей (тексты те же, перевод не теряется)
+- **Reflection\RefPhaeton\CFG\Rus\Lang.txt** — новых 0, изменённых 0, удалённых 5
+    - − `Script.Mod_RefPhaeton.0`: «Дээва»
+    - − `Script.Mod_RefPhaeton.1`: «Тристерия»
+    - − `Script.Mod_RefPhaeton.2`: «Нептун»
+    - − `Script.Mod_RefPhaeton.3`: «Чешилан»
+    - − `Script.Mod_RefPhaeton.4`: «Гархарл»
+- **Reflection\RefRaceChange\CFG\Rus\Lang.txt** — только перенумерация ключей (тексты те же, перевод не теряется)
+- **Reflection\RefReturnNPCWin\CFG\Rus\Lang.txt** — новых 1, изменённых 0, удалённых 1
+    - + `Script.Mod_RefReturnNPCWin.14`: «<clr>Энерготрон<clrEnd> - технология по переработке энергии в материю. Террон очень неравнодушен к теме превра…»
+    - − `Script.Mod_RefReturnNPCWin.1`: «<clr>Энерготрон<clrEnd> - технология по переработке энергии в материю. Террон очень неравнодушен к теме превра…»
+- **Revolution\RevTerrorist\CFG\Rus\Lang.txt** — изменился только формат/служебные строки (текстов без изменений)
+- **ShusRangers\ShuDomiks\CFG\Rus\Lang.txt** — изменился только формат/служебные строки (текстов без изменений)
+- **ShusRangers\ShuHomeland\CFG\Rus\Lang.txt** — новых 0, изменённых 0, удалённых 2
+    - − `Script.Mod_ShuHomeland.44`: «микромодуль»
+    - − `Script.Mod_ShuHomeland.55`: «Полундра!!! Твоя родная система <0> находится под угрозой захвата контрреволюционными элементами. Срочно свора…»
+- **ShusRangers\ShuMM\CFG\Rus\Lang.txt** — изменился только формат/служебные строки (текстов без изменений)
+- **ShusRangers\ShuMiniBoss\CFG\Rus\Lang.txt** — новых 0, изменённых 6, удалённых 0
+    - ~ `Script.Mod_ShuMiniBoss.Nevi.Agency.1`: «- Не каждый достоин доверия КВМСК, рейнджер <Player>, но твои достижения не остались незамеченными. Пересылаю …» → «- Не каждый достоин доверия КВСМК, рейнджер <Player>, но твои достижения не остались незамеченными. Пересылаю …»
+    - ~ `Script.Mod_ShuMiniBoss.Nevi.Agency.AgencyAsk`: «КВМСК может передать какие-то данные рейнджерам в обход военных баз? Например?» → «КВСМК может передать какие-то данные рейнджерам в обход военных баз? Например?»
+    - ~ `Script.Mod_ShuMiniBoss.Nevi.Best.4`: «- КВМСК даже из пеленга делает дисциплинированную боевую единицу. Надеюсь, когда-нибудь и остальные мои соотеч…» → «- КВСМК даже из пеленга делает дисциплинированную боевую единицу. Надеюсь, когда-нибудь и остальные мои соотеч…»
+    - ~ `Script.Mod_ShuMiniBoss.Nevi.Good.2`: «- "Одетый в Нефри'ит" слушает, <Player>. Военный экипаж флагмана "Одетый в Нефри'ит" уполномочен решением план…» → «- "Одетый в Нефри'ит" слушает, <Player>. Военный экипаж флагмана "Одетый в Нефри'ит" уполномочен решением план…»
+    - ~ `Script.Mod_ShuMiniBoss.Nevi.Neutral.2`: «- На связи флагман КВМСК "Одетый в Нефри'ит" под управлением Шиксы Нёвикет, патруль с планеты HomePlanet. Если…» → «- На связи флагман КВСМК "Одетый в Нефри'ит" под управлением Шиксы Нёвикет, патруль с планеты HomePlanet. Если…»
+    - ~ `Script.Mod_ShuMiniBoss.Nevi.Neutral.3`: «- Несмотря на нашу галактическую репутацию, не все пеленги живут бесчестно и корыстолюбиво. Служить и защищать…» → «- Несмотря на нашу галактическую репутацию, не все пеленги живут бесчестно и корыстолюбиво. Служить и защищать…»
+- **ShusRangers\ShuRebellion\CFG\Rus\Lang.txt** — изменился только формат/служебные строки (текстов без изменений)
+- **ShusRangers\ShuSas\CFG\Rus\Lang.txt** — изменился только формат/служебные строки (текстов без изменений)
+- **ShusRangers\ShuSmugglers\CFG\Rus\Lang.txt** — новых 0, изменённых 0, удалённых 1
+    - − `Script.Mod_ShuSmugglers.0`: «<0>»
+- **ShusRangers\ShuWarriors\CFG\Rus\Lang.txt** — изменился только формат/служебные строки (текстов без изменений)
+- **Solar\SolNovaStar\CFG\Rus\Lang.txt** — новых 0, изменённых 0, удалённых 1
+    - − `Script.Mod_SolNovaStar.0`: «SolNovaStar»
+- **Solar\SolUninhabitedStars\CFG\Rus\Lang.txt** — новый файл, ключей: 1
+- **Tweaks\UtilityFunctionsPack\CFG\Rus\Lang.txt** — новых 0, изменённых 0, удалённых 44
+    - − `Script.MS_Begin.9101`: «<br>»
+    - − `Script.MS_Blazer.9101`: «<br>»
+    - − `Script.MS_Keller.9101`: «<br>»
+    - − `Script.MS_PB.9101`: «<br>»
+    - − `Script.MS_SB1.9101`: «<br>»
+    - − `Script.MS_SB2.9101`: «<br>»
+    - − `Script.MS_Terron.9101`: «<br>»
+    - − `Script.PC_destroyer.9101`: «<br>»
+    - − `Script.PC_fem_rangers.9101`: «<br>»
+    - − `Script.PC_final.186`: «<PlayerFull>, вам надлежит срочно прибыть на ближайшую работоспособную пиратскую станцию.»
+    - − `Script.PC_final.197`: «Поздравляем тебя, <0>, от лица всего пиратского клана, с расправой над последним доминаторским боссом! Теперь,…»
+    - − `Script.PC_final.229`: «Внимание всем! Наконец-то силам коалиции удалось остановить пиратское нашествие! Под контролем пиратов осталас…»
+    - − `Script.PC_final.239`: «Рейнджер <0>, немедленно займитесь возвращением захваченных пиратами территорий Коалиции! Звездная система <1>…»
+    - − `Script.PC_final.250`: «<PlayerFull>, вам надлежит срочно прибыть в ближайший центр рейнджеров. Форма одежды - штатская, парадная.»
+    - − `Script.PC_final.9101`: «<br>»
+    - − `Script.PC_part0.9101`: «<br>»
+    - − `Script.PC_part1.9101`: «<br>»
+    - − `Script.PC_part2.9101`: «<br>»
+    - − `Script.PC_part3.9101`: «<br>»
+    - − `Script.PC_part4.9101`: «<br>»
+    - − `Script.PC_part5.9101`: «<br>»
+    - − `Script.PC_part6.9101`: «<br>»
+    - − `Script.PC_part7.9101`: «<br>»
+    - − `Script.PC_pla01.9101`: «<br>»
+    - − `Script.PC_pla02.9101`: «<br>»
+    - − `Script.PC_pla03.9101`: «<br>»
+    - − `Script.PC_pla04.9101`: «<br>»
+    - − `Script.PC_pla05.9101`: «<br>»
+    - − `Script.PC_pla06.9101`: «<br>»
+    - − `Script.PC_pla07.9101`: «<br>»
+    - − `Script.PC_pla08.9101`: «<br>»
+    - − `Script.PC_pla09.9101`: «<br>»
+    - − `Script.PC_pla10.9101`: «<br>»
+    - − `Script.PC_pla11.9101`: «<br>»
+    - − `Script.PC_pla12.9101`: «<br>»
+    - − `Script.PC_pla13.9101`: «<br>»
+    - − `Script.PC_pla14.9101`: «<br>»
+    - − `Script.PC_pla15.9101`: «<br>»
+    - − `Script.PC_pla16.9101`: «<br>»
+    - − `Script.PC_pla17.9101`: «<br>»
+    - … и ещё (полный список см. сравнением файлов)
+- **Universe\UniQuestRework\CFG\Rus\Lang.txt** — новых 329, изменённых 0, удалённых 0
+    - + `UniQuestRework.QuestHeader.data_quest_eng_amnesia_eng_qmm`: «70,1,16,2,7,0,5»
+    - + `UniQuestRework.QuestHeader.data_quest_eng_badday_eng_qmm`: «50,1,14,4,7,30,0»
+    - + `UniQuestRework.QuestHeader.data_quest_eng_banket_eng_qmm`: «70,1,30,30,7,22,0»
+    - + `UniQuestRework.QuestHeader.data_quest_eng_bomber_eng_qmm`: «70,1,1,4,6,0,-100»
+    - + `UniQuestRework.QuestHeader.data_quest_eng_borzukhan_eng_qmm`: «30,1,4,64,7,29,50»
+    - + `UniQuestRework.QuestHeader.data_quest_eng_citadels_eng_qmm`: «50,1,16,4,7,0,10»
+    - + `UniQuestRework.QuestHeader.data_quest_eng_codebox_eng_qmm`: «65,1,1,1,7,31,50»
+    - + `UniQuestRework.QuestHeader.data_quest_eng_colonization_eng_qmm`: «75,1,4,64,7,0,30»
+    - + `UniQuestRework.QuestHeader.data_quest_eng_complex_eng_qmm`: «65,1,4,64,7,0,30»
+    - + `UniQuestRework.QuestHeader.data_quest_eng_deadoralive_eng_qmm`: «50,1,30,16,7,0,-50»
+    - + `UniQuestRework.QuestHeader.data_quest_eng_depth_eng_qmm`: «90,1,28,4,7,31,75»
+    - + `UniQuestRework.QuestHeader.data_quest_eng_disk_eng_qmm`: «50,0,0,0,7,0,20»
+    - + `UniQuestRework.QuestHeader.data_quest_eng_diver_eng_qmm`: «90,1,4,4,7,0,20»
+    - + `UniQuestRework.QuestHeader.data_quest_eng_domoclan_eng_qmm`: «80,1,24,4,5,0,20»
+    - + `UniQuestRework.QuestHeader.data_quest_eng_doomino_eng_qmm`: «50,1,1,15,7,0,0»
+    - + `UniQuestRework.QuestHeader.data_quest_eng_driver_eng_qmm`: «50,1,4,4,7,31,0»
+    - + `UniQuestRework.QuestHeader.data_quest_eng_drugs_eng_qmm`: «80,0,1,2,7,0,0»
+    - + `UniQuestRework.QuestHeader.data_quest_eng_easywork_eng_qmm`: «100,1,2,16,7,0,50»
+    - + `UniQuestRework.QuestHeader.data_quest_eng_edelweiss_eng_qmm`: «35,1,28,64,7,31,-100»
+    - + `UniQuestRework.QuestHeader.data_quest_eng_election_eng_qmm`: «30,1,2,64,7,31,0»
+    - + `UniQuestRework.QuestHeader.data_quest_eng_elus_eng_qmm`: «60,1,8,8,7,31,50»
+    - + `UniQuestRework.QuestHeader.data_quest_eng_evidence_eng_qmm`: «50,1,1,0,7,0,0»
+    - + `UniQuestRework.QuestHeader.data_quest_eng_evilgenius_eng_qmm`: «65,1,2,12,6,0,-100»
+    - + `UniQuestRework.QuestHeader.data_quest_eng_faruk_eng_qmm`: «70,0,23,8,7,0,-20»
+    - + `UniQuestRework.QuestHeader.data_quest_eng_feipsycho_eng_qmm`: «50,0,2,8,7,0,-20»
+    - + `UniQuestRework.QuestHeader.data_quest_eng_filial_eng_qmm`: «50,0,28,28,7,0,-30»
+    - + `UniQuestRework.QuestHeader.data_quest_eng_fishingcup_eng_qmm`: «45,1,6,6,7,31,100»
+    - + `UniQuestRework.QuestHeader.data_quest_eng_foncers_eng_qmm`: «40,1,27,4,7,31,-30»
+    - + `UniQuestRework.QuestHeader.data_quest_eng_forum_eng_qmm`: «75,1,28,4,7,0,10»
+    - + `UniQuestRework.QuestHeader.data_quest_eng_gaidnet_eng_qmm`: «100,1,2,8,7,0,-35»
+    - + `UniQuestRework.QuestHeader.data_quest_eng_glavred_eng_qmm`: «25,1,31,31,7,0,75»
+    - + `UniQuestRework.QuestHeader.data_quest_eng_gluki_eng_qmm`: «50,0,31,64,7,0,0»
+    - + `UniQuestRework.QuestHeader.data_quest_eng_jumper_eng_qmm`: «80,1,28,28,7,31,0»
+    - + `UniQuestRework.QuestHeader.data_quest_eng_kiberrazum_eng_qmm`: «50,1,4,4,6,0,0»
+    - + `UniQuestRework.QuestHeader.data_quest_eng_kidnapped_eng_qmm`: «0,4,66,56,4,2,344065»
+    - + `UniQuestRework.QuestHeader.data_quest_eng_leonardo_eng_qmm`: «70,1,20,20,5,31,50»
+    - + `UniQuestRework.QuestHeader.data_quest_eng_logic_eng_qmm`: «30,1,1,1,7,31,30»
+    - + `UniQuestRework.QuestHeader.data_quest_eng_losthero_eng_qmm`: «55,1,15,64,6,0,0»
+    - + `UniQuestRework.QuestHeader.data_quest_eng_mafia_eng_qmm`: «85,1,2,28,7,0,20»
+    - + `UniQuestRework.QuestHeader.data_quest_eng_maze_eng_qmm`: «100,1,8,16,7,0,0»
+    - … и ещё (полный список см. сравнением файлов)
+- **XenoMods\XenoCoalitionSupplyLines\CFG\Rus\Lang.txt** — новых 1, изменённых 0, удалённых 0
+    - + `Script.Mod_XenoCoalitionSupplyLines.0`: «»
+- **XenoMods\XenoDomRangers\CFG\Rus\Lang.txt** — новых 1, изменённых 0, удалённых 0
+    - + `Script.Mod_XenoDomRangers.0`: «»
+- **Reflection\RefSpAgentDefence\CFG\Rus\Lang.txt** — файл удалён из Mods (ключей было 513)
+
 ## Выдача 2026-10-11 02:59 — файлов затронуто: 1
 
 - **ShusRangers\ShuMercsHQ\CFG\Rus\Lang.txt** — изменился только формат/служебные строки (текстов без изменений)

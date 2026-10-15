@@ -450,3 +450,26 @@ match: THERE_MISSING_VERB here
 
 # learn sr1,sr2,mods,dev
 word: stinkillin Stinkillin
+
+# learn mods
+word: neuro-point
+match: A_MY another your
+match: PLURAL_MODIFIER generations
+match: WORRY_FOR worried for
+
+# learn mods
+word: Ak-Ak Al-Viita dMessage Horilka ILFTR Mak-o-met Mak-Omet quarterfinalist Rakhishburger Raschekhash Sha Shu
+word: Tsyk-Lyash Tyalka Vi-taal Yura Zzz
+
+# learn mods
+word: BALblHA Gaalians gaalians VOGINOL
+
+# learn mods
+word: Blak choclate middlegame overfulfilled Rabum stasher stashers Tha-a-anks
+match: ME_BE me
+
+# learn mods
+word: biostorage cryo-capsules cryo-circuit cryo-console cryo-containers cryo-laboratory cryo-storage cryosystem facehugger unforeseenly Weyland-Yutani xylomorph
+match: MD_JJ next
+match: PCT_SINGULAR_NOUN_PLURAL_VERB_AGREEMENT were
+match: SHE_LIVE open

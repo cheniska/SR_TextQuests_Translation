@@ -1,30 +1,276 @@
+temp_str = temp_str + 'Нанесённый урон:'+CT('FormInfo.br')+CT('FormInfo.br');	temp_str = temp_str + 'Damage dealt:'+CT('FormInfo.br')+CT('FormInfo.br');
+if(ObjectType(ScriptItemActObject1()) == 1) temp_str = temp_str + 'Звезда ';	if(ObjectType(ScriptItemActObject1()) == 1) temp_str = temp_str + 'Star ';
+if(ObjectType(ScriptItemActObject1()) == 8) temp_str = temp_str + 'Астероид ';	if(ObjectType(ScriptItemActObject1()) == 8) temp_str = temp_str + 'Asteroid ';
+if(ScriptItemActionType(t_OnTakingDamageEn)) temp_str = temp_str + ' (энерг. урон)';	if(ScriptItemActionType(t_OnTakingDamageEn)) temp_str = temp_str + ' (energy dmg.)';
+if(ScriptItemActionType(t_OnTakingDamageSp)) temp_str = temp_str + ' (оскол. урон)';	if(ScriptItemActionType(t_OnTakingDamageSp)) temp_str = temp_str + ' (splinter dmg.)';
+if(ScriptItemActionType(t_OnTakingDamageMi)) temp_str = temp_str + ' (ракет. урон)';	if(ScriptItemActionType(t_OnTakingDamageMi)) temp_str = temp_str + ' (missile dmg.)';
+temp_str = temp_str + ': ' + ScriptItemActParam() + ' ед.'+CT('FormInfo.br');	temp_str = temp_str + ': ' + ScriptItemActParam() + ' units'+CT('FormInfo.br');
+NewsAdd('Вероятностный анализатор составил статистику входящих повреждений и переправил её в бортовой журнал (клав. F1)');	NewsAdd('The Probability Analyzer has compiled statistics on incoming damage and sent them to the ship log (key F1)');
+NewsAdd('Биомир, используя вычислительные мощности Вероятностного Анализатора, обнаружил серьёзное снижение возможностей вашего иммунитета. Способности вашего иммунитета снизились более чем вдвое! Будьте предельно осторожны и следите за своим здоровьем.');	NewsAdd('Biomir, using the computing power of the Probability Analyzer, has detected a serious decline in the capabilities of your immune system. Your immune system capabilities have dropped by more than half! Be extremely careful and watch your health.');
+if(ShipHealthFactorStatus(Player(),a) > 80) NewsAdd('Биомир, используя вычислительные мощности Вероятностного Анализатора, на основе процессов в вашем организме сделал неутешительные выводы: вы стремительно заболеваете. Системы рекомендуют вам как можно скорее посетить врачей.');	if(ShipHealthFactorStatus(Player(),a) > 80) NewsAdd('Biomir, using the computing power of the Probability Analyzer, drew disheartening conclusions from the processes in your body: you are falling ill rapidly. The systems recommend that you visit doctors as soon as possible.');
+MessageBox('Вывод входящего урона в бортовой журнал активирован');	MessageBox('Output of incoming damage to the ship log activated');
+MessageBox('Вывод входящего урона в бортовой журнал отключён');	MessageBox('Output of incoming damage to the ship log deactivated');
 Рассчитывает и показывает вероятность победы над любым противником, предсказывает нападения доминаторов, помогает находить спрятанные на планетах клады.	Calculates and predicts the probability of victory against any opponent. Also predicts dominator attacks on the coalition systems.
+При активации выводит в бортовой журнал входящий урон за ход	When activated, outputs the damage received per turn to the ship log
+В гиперпространстве анализирует и выводит в интуитивно понятном формате текущие характеристики корабля	In hyperspace, analyzes and displays the ship's current characteristics in an intuitive format
+CustomArtTextData(rau_new, 1, '<color=255,0,0>Дополнительное свойство отключено:</color>');	CustomArtTextData(rau_new, 1, '<color=255,0,0>Additional property disabled:</color>');
+CustomArtTextData(rau_new, 1, '<color=0,255,0>Дополнительное свойство активно:</color>');	CustomArtTextData(rau_new, 1, '<color=0,255,0>Additional property active:</color>');
+CustomEther('BioCured', 0, '', 'Биомир активно противодействовал вашим недугам, и смог одолеть <clr>' + CT(text) + '<clrEnd>!');	CustomEther('BioCured', 0, '', 'Biomir actively fought your ailments and managed to defeat <clr>' + CT(text) + '<clrEnd>!');
 Модуль биокибернетической адаптации иммунной системы. Повышает устойчивость к болезням и восприимчивость к стимуляторам.	A bio-cybernetic immune adaptation module. Boosts disease resistance and sensitivity to stimulators.
+<color=255,0,0>Дополнительное свойство отключено:</color>	<color=255,0,0>Additional property disabled:</color>
+Ведёт активную борьбу с заболеваниями пилота за счёт ускоренного износа.	Actively fights the diseases of the pilot at the cost of accelerated wear.
+<color=0,255,0>Дополнительное свойство активно:</color>	<color=0,255,0>Additional property active:</color>
 При взрыве наносит всем материальным объектам значительные повреждения.	When blown up, inflicts substantial damage upon all physical objects.
+<br>Не рекомендуем разбирать и монтировать на корабль...	<br>We do not recommend taking it apart or mounting it on a ship...
+Добавляет термические заряды в осколочные снаряды. Кроме повреждений, каждый заряд наносит мощный тепловой удар, ведущий к перегреву двигателей противника и их постепенному выводу из строя.	Adds thermal charges to splinter shells. Besides damage, each charge delivers a powerful heat shock, causing the enemy's engines to overheat and gradually fail.
+MessageBox('На этот корпус уже установлено дополнительное орудие');	MessageBox('An additional weapon is already installed on this hull');
+if(MessageBoxYesNo('Вы уверены, что хотите установить '+Name(item)+' при помощи Протона на орудийную палубу? Артефакт и орудие будут потрачены'))	if(MessageBoxYesNo('Are you sure you want to install '+Name(item)+' on the gun deck using the Proton? The artifact and the weapon will be used up'))
 Интегрируется в энергетический блок защитного поля. Использует <clr>10%<clrEnd> его мощности для активации дополнительной орудийной турели.	Integrated into the shield generator's power unit. It uses up to <clr>10%<clrEnd> of its power to activate an additional weapon turret.
+Может быть навсегда встроен в корпус, уменьшая при этом его вместимость.	Can be permanently built into the hull, reducing its capacity in the process.
+Также может быть использован как дополнительный крепёж неракетного орудия на корпус	Can also be used as an additional mount for a non-missile weapon on the hull
 Армс	ARMS
+MessageBox('Два Армса не смогут работать вместе!');	MessageBox('Two ARMS cannot work together!');
 Позволяет разместить в отсеке, предназначенном для генератора защитного поля, <clr>две<clrEnd> орудийных турели.	It allows for installing <clr>two<clrEnd> weapon turrets in the compartment designed for the shield generator.
+Перенастраивает орудийные системы корабля, позволяя им вести огонь с повышенным КПД, то есть - в <clr>два<clrEnd> раза чаще.	Reconfigures the ship's weapon systems, letting them fire at increased efficiency, that is, <clr>twice<clrEnd> as often.
+if(!dte_slot) MessageBox('Альтернативный режим можно включить только у пропорционара, установленного на корабль.');	if(!dte_slot) MessageBox('Alternative mode can only be activated on a proportionar installed on a ship.');
+else if(ItemIsBroken(dte_cur)) MessageBox('Пропорционар сломан и не может переключить режим работы.');	else if(ItemIsBroken(dte_cur)) MessageBox('The proportionar is broken and cannot switch the operating mode.');
+MessageBox(Name(dte_cur) + ': включён альтернативный режим работы. Защитное поле усиливается за счёт мощности энергетического оружия, урон энергетического оружия снижается на 25%. Повторная активация вернёт обычный режим.');	MessageBox(Name(dte_cur) + ': alternative operating mode enabled. The shield is strengthened at the expense of energy weapon power; energy weapon damage is reduced by 25%. Activating it again will return the normal mode.');
 Перенаправляет энергетические потоки внутренней сети корабля. Уменьшает подпитку защитного поля <clr>вдвое<clrEnd>, за счет этого пропорционально увеличивает мощность энергетического оружия.	It redirects the energy flows within the ship's internal network. It cuts the voltage available to the shield generator <clr>in half<clrEnd> to increase the yield of energy weapons proportionally.
+При активации переходит в альтернативный режим работы: усиливает защитное поле за счёт мощности энергетического оружия.	When activated, switches to an alternative operating mode: strengthens the shield at the expense of energy weapon power.
+<color=30,144,255>Альтернативный режим работы:</color>	<color=30,144,255>Alternative operating mode:</color>
+Инвертирует проходящие через себя потоки, в результате чего не усиливает энергетическое оружие за счёт защитного поля, а усиливает поле за счёт энергетического оружия	Inverts the flows passing through it, so that instead of strengthening the energy weapon at the expense of the shield, it strengthens the shield at the expense of the energy weapon
+MessageBox('Дроид Младший завершил работу по ремонту корпуса!');	MessageBox('Junior Droid has finished repairing the hull!');
+MessageBox('Дроид Младший слишком сильно повреждён, чтобы заняться полной починкой вашего корабля');	MessageBox('Junior Droid is too badly damaged to take on a full repair of your ship');
+MessageBox('Ресурс Дроида Младшего иссяк сразу после окончания работ по починке вашего корпуса');	MessageBox('Junior Droid ran out of resource right after finishing the repair of your hull');
+MessageBox('Дроид Младший сломался, завершая починку вашего корабля');	MessageBox('Junior Droid broke down while finishing the repair of your ship');
+else MessageBox('Ваш корабль не требует ремонта');	else MessageBox('Your ship does not need repairs');
+Этот маленький дроид может восстанавливать <clr>10<clrEnd> единиц повреждённого корпуса корабля и способен работать даже в гиперпространстве. Также снижает износ основного дроида в <clr>2<clrEnd> раза.	This small droid can restore <clr>10<clrEnd> units of damaged ship hull and is able to work even in hyperspace. It also reduces the wear of the main droid by a factor of <clr>2<clrEnd>.
+При активации на повреждённом корабле восстановит его согласно своей прочности.	When activated on a damaged ship, it will restore it according to its durability.
+При выходе из гиперпространственного пузыря проявляет чудеса инженерии, в считанные мгновения восстанавливая корпус-носитель	On exiting a hyperspace bubble it works wonders of engineering, restoring the carrier hull within moments
+if(ItemDurability(CurItem()) <= 0) Ether(8,'','Гипергенератор перерасходовал свой ресурс при направлении гиперпространственного тоннеля. Требуется ремонт.');	if(ItemDurability(CurItem()) <= 0) Ether(8,'','The Hypergenerator overspent its resource while directing a hyperspace tunnel. Repairs are required.');
 Переносит корабль в гипертоннель, что позволяет преодолеть расстояние до <clr>40<clrEnd> парсек вне зависимости от характеристик двигателя, и уменьшает длительность прыжка.	It moves the ship to a hyper-tunnel that allows for shortcuts of up to <clr>40<clrEnd> parsecs regardless of engine capacity, and also reduces the jumping time.
+<color=255,0,0>Дополнительные свойства отключены:</color>	<color=255,0,0>Additional properties disabled:</color>
+При активации конкретизирует работу гипертоннеля, направляя его в сторону родной системы пилота.	When activated, specifies the operation of the hypertunnel, directing it toward the pilot's home system.
+<color=0,255,0>Дополнительные свойства активны:</color>	<color=0,255,0>Additional properties active:</color>
+Позволяет лучу захвата притягивать предметы с массой больше расчётной на <clr>30<clrEnd> единиц. Повышает скорость притягивания вещей и радиус захвата.	Allows the gripper beam to attract objects with a mass greater than the rated one by <clr>30<clrEnd> units. Increases the speed at which things are attracted and the gripper radius.
+При совмещении с захватом навсегда увеличивает его дальность (Эффект усиливается на неизвестном оборудовании).	When combined with a gripper, permanently increases its range (the effect is stronger on equipment of unknown make).
+При активации сильно снижает дальность и мощность захвата ради повышения скорости поднятия (<color=255,0,0>Неактивно</color>)	When activated, greatly reduces the gripper's range and power in exchange for faster lifting (<color=255,0,0>Inactive</color>)
+При активации сильно снижает дальность и мощность захвата ради повышения скорости поднятия (<color=0,255,0>Активно</color>)	When activated, greatly reduces the gripper's range and power in exchange for faster lifting (<color=0,255,0>Active</color>)
+CustomArtTextData(TnewItem, 1, '<color=255,0,0>Дополнительное свойство отключено:</color>');	CustomArtTextData(TnewItem, 1, '<color=255,0,0>Additional property disabled:</color>');
+CustomArtTextData(TnewItem, 1, '<color=0,255,0>Дополнительное свойство активно:</color>');	CustomArtTextData(TnewItem, 1, '<color=0,255,0>Additional property active:</color>');
+Сохраняет много ценного оборудования врага при его ликвидации, а также ценную руду из астероидов.	Preserves a lot of valuable enemy equipment when it is liquidated, as well as valuable ore from asteroids.
+При уничтожении вражеского корабля перенаправляет взрыв таким образом, что его части сохраняют товарный вид и могут быть позднее проданы.	When an enemy ship is destroyed, redirects the explosion so that its parts retain a marketable appearance and can be sold later.
+if(0) SFT('Отморозки выводят '+ship+' и крашат!');	if(0) SFT('The Frostbites take '+ship+' out and crash it!');
+CustomEther('Snowflake',0,'','Отморозки обработали своим хладагентом двигатель. Теперь он будет работать куда лучше!');	CustomEther('Snowflake',0,'','The Frostbites treated the engine with their coolant. Now it will work much better!');
+CustomEther('Snowflake',0,'','Отморозки обработали своим хладагентом ремонтного дроида. Теперь он будет работать куда лучше!');	CustomEther('Snowflake',0,'','The Frostbites treated the repair droid with their coolant. Now it will work much better!');
+CustomEther('Snowflake',0,'','Отморозки обработали своим хладагентом генератор защитного поля. Теперь он будет работать куда лучше!');	CustomEther('Snowflake',0,'','The Frostbites treated the shield generator with their coolant. Now it will work much better!');
+else MessageBox('Артефакт слишком сильно повреждён для его активации');	else MessageBox('The artifact is too badly damaged to activate');
 Охлаждают двигатель, защищая его от перегрева, и быстро восстанавливают потерянную скорость во время боя. Кроме того, они защищают корабль, когда тот находится в зоне теплового поражения звезды.	They cool the engine, protecting it from overheating, and help to quickly regain the speed lost in battle. Additionally, they protect the ship when in a star's heat zone.
+Кроме того, снижает урон от <clr>клигов<clrEnd> на <clr>75<clrEnd>%	In addition, reduces damage from <clr>kligs<clrEnd> by <clr>75<clrEnd>%
+<color=255,0,0>Дополнительное свойство неактивно:</color>	<color=255,0,0>Additional property inactive:</color>
+При активации Отморозки производят особый хладагент, усиливающий охлаждение отдельных единиц оборудования и тем самым повышающий эффективность этого оборудования.	When activated, the Frostbites produce a special coolant that enhances the cooling of individual pieces of equipment and thereby raises the effectiveness of that equipment.
+Программный усилитель вычислительной мощности сканера на <clr>10%<clrEnd>. Увеличивает объём получаемой информации о кораблях.	A software booster for the scanner's computing power by <clr>10%<clrEnd>. Increases the amount of information obtained about ships.
+При активации сканирует систему на предмет ядерного оружия, составляя список всех кораблей с боеголовками.	When activated, scans the system for nuclear weapons, compiling a list of all ships with warheads.
+Кроме того, может произвести активное сканирование любого выбранного корабля, выявляя все уязвимые места и считывая алгоритмы вражеских оружейных систем.	In addition, can perform an active scan of any selected ship, revealing all vulnerabilities and reading the algorithms of enemy weapon systems.
 Вступает в психический симбиоз с двигателем, обеспечивая увеличение скорости корабля.	It uses psychic synergy to help the engine increase the ship's speed.
+Увеличивает манёвренность корабля, давая <clr>55<clrEnd>-процентный шанс уклонения от попадания противника за счёт ускоренного износа артефакта	Increases the ship's maneuverability, giving a <clr>55<clrEnd>-percent chance to dodge an enemy hit at the cost of accelerated wear on the artifact
+Увеличивает скорость корабля и манёвренность, давая <clr>55<clrEnd>-процентный шанс уклонения от попадания противника за счёт ускоренного износа артефакта	Increases the ship's speed and maneuverability, giving a <clr>55<clrEnd>-percent chance to dodge an enemy hit at the cost of accelerated wear on the artifact
+if(ItemDurability(CurItem()) <= 0) Ether(8,'','Навинт был повреждён в ходе работы с оборудованием на борту');	if(ItemDurability(CurItem()) <= 0) Ether(8,'','The Screw-on was damaged while working with the equipment aboard');
 Каждый снаряд в затворе оснащается боеголовкой-расщепителем. Благодаря этому эффективность поражения осколочного оружия возрастает на <clr>20%<clrEnd>.	Each shell placed into the breech receives a splitter warhead. This helps increase the combat efficiency of fragmentation weapons by <clr>20%<clrEnd>.
+При активации обновляет всё осколочное оружие на борту, восстанавливая его прочность и улучшая.	When activated, upgrades all splinter weapons aboard, restoring their durability and improving them.
 (испорчен)	(damaged)
 Внимание! Во время боевых маневров вы ударились об индикационную панель Биомира. Экран разбился, требуется замена индикатора.	Warning! In the course of combat maneuvering you've smashed against the Bioworld indicator panel, causing the screen to break. The indicator thus needs replacement.
 Вы должны лучше следить за своим здоровьем. Из-за большого количества болезнетворных бактерий, которые проходили через датчики Биомира, он испортился, не выдержав нагрузки. Требуется сервисное обслуживание.	You need to take better care of your health. The high numbers of pathogenic bacteria passing through the Bioworld sensors were too much for the device to handle, causing a breakdown. Service maintenance is required.
 Биомир - биосенсорный анализатор, служащий для выявления опасных вирусов и микроорганизмов. При обнаружении опасности подает сигнал посредством светового индикатора.	Bioworld is a biosensory analyzer, designed to detect hazardous viruses and microorganisms. When a hazard is detected, the device starts flashing a designated indicator light.
 Биомир	Bioworld
+CustomArtTextData(CurItem(), 1, '<color=0,255,0>Дополнительное свойство активно:</color>');	CustomArtTextData(CurItem(), 1, '<color=0,255,0>Additional property active:</color>');
+CustomArtTextData(CurItem(), 1, '<color=255,0,0>Дополнительное свойство отключено:</color>');	CustomArtTextData(CurItem(), 1, '<color=255,0,0>Additional property disabled:</color>');
+Добавляет термические заряды в осколочные снаряды, увеличивая силу осколочного оружия на <clr>5<clrEnd> единиц. Кроме повреждений, каждый заряд наносит мощный тепловой удар, ведущий к перегреву двигателей противника и их постепенному выводу из строя.	Adds thermal charges to splinter shells, increasing splinter weapon power by <clr>5<clrEnd> units. Besides damage, each charge delivers a powerful heat shock, causing the enemy's engines to overheat and gradually fail.
+Добавляет термические заряды в осколочные снаряды, увеличивая силу осколочного оружия на <clr>10<clrEnd> единиц. Кроме повреждений, каждый заряд наносит мощный тепловой удар, ведущий к перегреву двигателей противника и их постепенному выводу из строя.	Adds thermal charges to splinter shells, increasing splinter weapon power by <clr>10<clrEnd> units. Besides damage, each charge delivers a powerful heat shock, causing the enemy's engines to overheat and gradually fail.
 Армс - стационарный комплект для быстрой переоснастки слота генератора защитного поля. Включает в себя универсальные коннекторы для пары орудийных турелей.	The ARMS is a stationary set for prompt retrofitting of the shield generator slot. It includes universal connectors for a pair of weapon turrets.
+if(ScriptItemActionType(t_OnAnotherItem)) MessageBox('Этот корпус уже имеет дополнительные орудийные турели');	if(ScriptItemActionType(t_OnAnotherItem)) MessageBox('This hull already has additional weapon turrets');
+if(ScriptItemActionType(t_OnAnotherItem)) MessageBox('Все слоты под оружие уже и так открыты');	if(ScriptItemActionType(t_OnAnotherItem)) MessageBox('All weapon slots are already open');
+if(MessageBoxYesNo('Вы уверены, что хотите встроить Армс в корпус навсегда?'))	if(MessageBoxYesNo('Are you sure you want to build the ARMS into the hull permanently?'))
+Можно вставить в <clr>корпус<clrEnd> - открывает <clr>2<clrEnd> слота для вооружения, но уменьшает размер корпуса на <clr>10<clrEnd> процентов и увеличивает стоимость на <clr>30<clrEnd> процентов.	Can be inserted into a <clr>hull<clrEnd> - opens <clr>2<clrEnd> weapon slots, but reduces the hull size by <clr>10<clrEnd> percent and increases the cost by <clr>30<clrEnd> percent.
 (перегорел)	(short-circuited)
+Вражеский выстрел пробил внешний люк с предохранителями корпуса, и это вызвало резкий скачок напряжения. Конденсаторная катушка пропорционара сгорела.	An enemy shot punched through the outer hatch with the hull fuses, and this caused a sharp voltage surge. The proportionar's capacitor coil burned out.
 Энергетический всплеск вызвал короткое замыкание в пропорционаре. Сгорели основные группы контактов. Аппарату необходим ремонт.	The power surge caused the proportionar to short-circuit. Main contact groups have shorted. The device needs to be repaired.
 Пропорционар подключается к контроллеру энергосистемы корпуса. Он производит маршрутизацию энергетических потоков таким образом, что часть энергии оказывается перенаправлена с защитного поля в генераторы мощности энергетического оружия. Такая система позволяет усилить боевую мощь за счет защиты.	The proportionar connects to the hull energy system controller. It routes the energy flows in such a way so as to redirect some of the energy used to power the shield generator to generators of energy weapons. This arrangement allows for increasing the firepower at the expense of the defense systems.
 Пропорционар	Proportionar
+MessageBox(Name(dte_new) + ': возвращён обычный режим работы.');	MessageBox(Name(dte_new) + ': normal operating mode restored.');
+Инвертирует проходящие через себя потоки, в результате чего усиливает защитное поле за счёт мощности энергетического оружия (урон энергетического оружия снижается на <clr>25%<clrEnd>).	Inverts the flows passing through it, which strengthens the shield at the expense of energy weapon power (energy weapon damage is reduced by <clr>25%<clrEnd>).
+Повторная активация возвращает обычный режим работы.	Activating it again returns the normal operating mode.
+Пропорционар v2	Proportionar v2
+Инвертирует проходящие через себя потоки, в результате чего усиливает защитное поле за счёт мощности энергетического оружия (урон энергетического оружия снижается на <clr>25%<clrEnd>). Улучшенная версия даёт на <clr>20%<clrEnd> больше защиты.	Inverts the flows passing through it, which strengthens the shield at the expense of energy weapon power (energy weapon damage is reduced by <clr>25%<clrEnd>). The improved version gives <clr>20%<clrEnd> more protection.
+Пропорционар v3	Proportionar v3
+Инвертирует проходящие через себя потоки, в результате чего усиливает защитное поле за счёт мощности энергетического оружия (урон энергетического оружия снижается на <clr>25%<clrEnd>). Улучшенная версия даёт на <clr>40%<clrEnd> больше защиты.	Inverts the flows passing through it, which strengthens the shield at the expense of energy weapon power (energy weapon damage is reduced by <clr>25%<clrEnd>). The improved version gives <clr>40%<clrEnd> more protection.
+MessageBox(Name(CurItem()) + ': дополнительное свойство активно - в гиперпространстве конкретизирует работу гипертоннеля.');	MessageBox(Name(CurItem()) + ': additional property active - in hyperspace it specifies the operation of the hypertunnel.');
+MessageBox(Name(CurItem()) + ': дополнительное свойство отключено.');	MessageBox(Name(CurItem()) + ': additional property disabled.');
+MessageBox(Name(CurItem()) + ': дополнительное свойство активно - дальность и мощность захвата сильно снижены ради скорости поднятия.');	MessageBox(Name(CurItem()) + ': additional property active - gripper range and power greatly reduced in exchange for lifting speed.');
 (не функционирует)	(non-functional)
 Внимание! В бою был задет и поврежден локализатор взрывной волны. Будет лучше прекратить его эксплуатацию, пока он не локализовал взрывную волну на вашем же корабле.	Warning! The blast wave localizer was hit and damaged in combat. Better stop using it before it localizes the blast wave on your own ship.
 В результате долгой эксплуатации в локализатор взрывной волны забилось слишком много космической пыли, и он стал давать сбои. Сервисная программа приняла решение отключить прибор, чтобы он случайно не локализовал взрывную волну на вашем же корабле.	In the course of its long service, the localizer had been clogged with way too much space dust and stopped working properly. The service program made the decision to switch the device off to prevent it from accidentally localizing the blast wave on your own ship.
 При попадании локализатор отводит энергию выстрела на внешнюю поверхность вражеского корабля, чтобы при возможном взрыве пострадало как можно меньше оборудования.	The localizer channels the energy of a shot to the enemy ship's outer surface so as to minimize the explosive effects on any equipment.
 Локализатор взрывной волны	Blast Wave Localizer
+Программный усилитель вычислительной мощности сканера. Улучшенная версия артефакта увеличивает мощность сканера на <clr>5<clrEnd> процентов больше по сравнению с обычной версией кэша. Также увеличивает объем получаемой информации о кораблях.	A software booster for the scanner's computing power. The improved version of the artifact raises scanner power by <clr>5<clrEnd> percent more compared to the regular version of the cache. It also increases the amount of information obtained about ships.
+Программный усилитель вычислительной мощности сканера. Улучшенная версия артефакта увеличивает мощность сканера на <clr>10<clrEnd> процентов больше по сравнению с обычной версией кэша. Также увеличивает объем получаемой информации о кораблях.	A software booster for the scanner's computing power. The improved version of the artifact raises scanner power by <clr>10<clrEnd> percent more compared to the regular version of the cache. It also increases the amount of information obtained about ships.
 (сознание вне пространства)	(awareness spaced out)
 Пси-ускоритель не выдержал эмоционального всплеска боя и отсоединился от нашего пространства. Чтобы вернуть его сознание назад, нужно доставить его на научную базу.	The psi-accelerator failed to cope with battle stress and withdrew from this plane of existence. To have its awareness restored, the accelerator needs a trip to a research station.
 Пси-ускоритель долго работал на вас. Он устал и отдыхает вне нашего пространства. Чтобы вернуть его сознание назад, нужно доставить его на научную базу.	The psi-accelerator has served you long and hard. It is tired and is taking some time to recuperate outside your plane of existence. To have its awareness restored, the accelerator needs a trip to a research station.
 Пси-ускоритель материи	Matter Psi-Accelerator
+MessageBox(Name(CurItem()) + ': дополнительное свойство активно - 55% шанс уклонения от попадания противника за счёт ускоренного износа артефакта.');	MessageBox(Name(CurItem()) + ': additional property active - 55% chance to dodge an enemy hit at the cost of accelerated wear on the artifact.');
+наносимый урон: var<br>	damage dealt: var<br>
+защита: var<br>	defense: var<br>
+гравитация: var<br>	gravity: var<br>
+удача: var<br>	luck: var<br>
+скорость перезарядки: var<br>	reload speed: var<br>
+регенерация: var<br>	regeneration: var<br>
+скорость корабля: var<br>	ship speed: var<br>
+название папок - тип бонуса в ЧД(например damage увеличивает урон). Total общая величина бонуса для расчёта в коде, но можно сюда свои значения впихать, чтобы начальный бонус был не 0. однако, без артефакта код не выполнится и неважно сколько Total, бонусов не будет. стандартные артефакты надо писать системными именами типа t_ArtefactNano, значение параметра - величина бонуса(внезапно!). кастомные артефакты надо писать их системными именами, например ArtDroidv2.	folder names are the bonus type in the BH (for example, damage increases damage). Total is the overall bonus value for calculation in the code, but you can stuff your own values in here so that the initial bonus is not 0. However, without the artifact the code will not run and it does not matter what Total is, there will be no bonuses. Standard artifacts must be written with system names like t_ArtefactNano, the parameter value is the size of the bonus (surprise!). Custom artifacts must be written with their system names, for example ArtDroidv2.
+SFT('Тестовая херовина. Чтобы избежать повторений в коде, убрал из остальных кусков ниже, т.к. это буквально отладка. При необходимости просто перекопируйте этот кусок.');	SFT('Test thingamajig. To avoid repetition in the code, I removed it from the other pieces below, since it is literally debugging. If needed, just copy this piece over.');
+эти коды накладывают/снимают бонусы при одевании(ABeqpActCode)/снятии(ABdeeqpActCode) артефакта. удобнее выполнять через: if(ScriptItemActionType(t_OnItemEquip))ExecuteCodeFromString(GenerateCodeStringFromBlock('Artefacts.RefArtsUpgrade.ABeqpActCode'));	these codes apply/remove bonuses when the artifact is equipped (ABeqpActCode)/unequipped (ABdeeqpActCode). It is more convenient to run them via: if(ScriptItemActionType(t_OnItemEquip))ExecuteCodeFromString(GenerateCodeStringFromBlock('Artefacts.RefArtsUpgrade.ABeqpActCode'));
+код при старте АБ. проверяет все артефакты и выставляет нужные бонусы. можно добавлять к артефактам так: if(ScriptItemActionType(t_OnStartAB))ExecuteCodeFromString(GenerateCodeStringFromBlock('Artefacts.RefArtsUpgrade.ABstartActCode'));	code at the start of the AB. checks all artifacts and sets the needed bonuses. can be added to artifacts like this: if(ScriptItemActionType(t_OnStartAB))ExecuteCodeFromString(GenerateCodeStringFromBlock('Artefacts.RefArtsUpgrade.ABstartActCode'));
+если параметр True будет выводить инфошку в ЧД на форме корабля о бонусах артефактов	if the parameter is True, shows an info item in the BH on the ship form with the artifact bonuses
+Кварковая бомба успешно сдетонировала на поверхности корпуса!	The quark bomb successfully detonated on the surface of the hull!
+Коридор. Ещё коридор. Гермодверь. Пятизначный код. Машинное отделение. Защитный костюм. Реактор двигателя. Несколько пучков проводов и кабелей. Обложить стержни с топливом, потом - соединить с основной частью. Соединить кабели панели управления с кабелями основной части. И подвести к детонатору. Кажется, всё готово. И будто вся Ваша жизнь промелькнула перед Вами... Центр рейнджеров 1-го января 3300 года... Борьба с доминаторами... Выполнение секретных правительственных поручений... Вам вспомнилась старая байка о рейнджере Тайфуне, подорвавшем себя вместе с Махпеллой... Весь корабль несколько раз довольно сильно трухануло, возвращая Вас в эту реальность. Новый налёт, подумали вы. Налёт, который низведёт стабильность последних остатков того, что было корпусом, до нуля. Пора. Одно движение пальца, один простейший сигнал, и продукт высокой инженерной мысли разорвало на части, вместе со всеми атакующими кораблями... <br>Во имя Коалиции, да будет эта жертва принесена, пусть она и принесёт меньше пользы, чем та жертва!	A corridor. Another corridor. A pressure door. A five-digit code. The engine room. A protective suit. The engine reactor. Several bundles of wires and cables. Pack the fuel rods around, then connect to the main part. Connect the control panel cables to the cables of the main part. And bring it to the detonator. It seems everything is ready. And it is as if your whole life flashed before your eyes... The Ranger Center on January 1st, 3300... The fight against the dominators... Carrying out secret government assignments... You remembered the old tale of the ranger Typhoon, who blew himself up along with Makhpella... The whole ship shook rather hard several times, returning you to reality. Another raid, you thought. A raid that will reduce the stability of the last remnants of what was a hull to zero. It is time. One movement of a finger, one simplest signal, and the product of high engineering thought was torn apart, along with all the attacking ships... <br>In the name of the Coalition, may this sacrifice be made, even if it brings less benefit than that other sacrifice!
+Вам уже изрядно всё надоело. Эта борьба Коалиции, доминаторов, пиратов... Всё это - фарс, профанация! Ничто из этого не принесёт никому счастья (в особенности доминаторы), только господство кого-то ещё. С этими мыслями вы подсоединяли кабели взрывателя к своему бортовому компьютеру. В ручном режиме вы подвели свой корабль к одной из электростанций, питающих город, и подорвали его.	You were already thoroughly fed up. This struggle of the Coalition, the dominators, the pirates... It's all a farce, a sham! None of it will bring anyone happiness (the dominators least of all), only the rule of somebody else. With these thoughts you connected the detonator cables to your onboard computer. In manual mode you steered your ship to one of the power plants supplying the city, and blew it up.
+Колоссальной мощи взрыв разворотил целый континент планеты. Интересно, что подумают об этом археологи будущего?	An explosion of colossal power tore up an entire continent of the planet. It is interesting what the archaeologists of the future will think of it?
+Вы совершили свой акт терроризма, уничтожив свой корабль вместе со станцией. Что это было - акт протеста или просто последняя степень психического расстройства?	You committed your act of terrorism, destroying your ship along with the station. What was it - an act of protest or just the final stage of a mental disorder?
+Вы уверены, что хотите установить CurItemName в AnotherItemName? Улучшить такой бак на научной базе будет невозможно.	Are you sure you want to install CurItemName in AnotherItemName? It will be impossible to upgrade such a tank at a research station.
+Вы уверены, что хотите установить CurItemName в AnotherItemName?	Are you sure you want to install CurItemName in AnotherItemName?
+Достигнут предел улучшения характеристик AnotherItemName!	The limit of improving the characteristics of AnotherItemName has been reached!
+Две колонии на одном корпусе не уживутся!	Two colonies will not get along on one hull!
+<color=127,255,212>Охлаждение:</color> <clr>Хладагент Отморозков<clrEnd>	<color=127,255,212>Cooling:</color> <clr>Frostbite Coolant<clrEnd>
+Восстановление обшивки: <clr>+7<clrEnd>	Hull repair: <clr>+7<clrEnd>
+Скорость двигателя: <clr>+125<clrEnd>	Engine speed: <clr>+125<clrEnd>
+<color=248,252,248>Улучшение:</color> <clr>Дополнительное орудие<clrEnd>	<color=248,252,248>Upgrade:</color> <clr>Additional Weapon<clrEnd>
+<color=248,252,248>На корпус установлено дополнительное орудие, ведущее огонь вместе с прочими.</color>	<color=248,252,248>An additional weapon that fires together with the others is installed on the hull.</color>
+Сила защитного поля: <clr>+3<clrEnd>	Shield power: <clr>+3<clrEnd>
+<color=248,252,248>Улучшение:</color> <clr>Дополнительные аналитические мощности<clrEnd>	<color=248,252,248>Upgrade:</color> <clr>Additional Analytical Capacity<clrEnd>
+<color=248,252,248>За счёт совместимости с корпусом неизвестного производства характеристики усиления повышены</color>	<color=248,252,248>Thanks to compatibility with a hull of unknown make, the boost characteristics are increased</color>
+<color=248,252,248>Улучшение:</color> <clr>Биорегулятор<clrEnd>	<color=248,252,248>Upgrade:</color> <clr>Bioregulator<clrEnd>
+<color=248,252,248>В салон корабля внедрены системы регуляции состава воздуха, что повышает стойкость организма.</color>	<color=248,252,248>Air composition regulation systems are built into the ship's cabin, which increases the body's resilience.</color>
+Дополнительно стимуляторов: <clr>+1<clrEnd> ед.	Additional stimulators: <clr>+1<clrEnd> unit
+Дополнительно стимуляторов: <clr>+2<clrEnd> ед.	Additional stimulators: <clr>+2<clrEnd> units
+<color=248,252,248>Улучшение:</color> <clr>Дополнительный дрон<clrEnd>	<color=248,252,248>Upgrade:</color> <clr>Additional Drone<clrEnd>
+<color=248,252,248>К дроиду присоединён дополнительный ремонтный дрон, за счёт чего повышается общая эффективность починки корабля.</color>	<color=248,252,248>An additional repair drone is attached to the droid, which raises the overall efficiency of ship repairs.</color>
+Эффективность дроида: <clr>+6<clrEnd> ед.	Droid effectiveness: <clr>+6<clrEnd> units
+Эффективность дроида: <clr>+8<clrEnd> ед.	Droid effectiveness: <clr>+8<clrEnd> units
+<color=248,252,248>За счёт совместимости с оборудованием неизвестного производства характеристики усиления повышены</color>	<color=248,252,248>Thanks to compatibility with equipment of unknown make, the boost characteristics are increased</color>
+<color=248,252,248>Улучшение:</color> <clr>Дополнительные дроны<clrEnd>	<color=248,252,248>Upgrade:</color> <clr>Additional Drones<clrEnd>
+<color=248,252,248>К дроиду присоединены два дополнительных ремонтных дрона, за счёт чего повышается общая эффективность починки корабля.</color>	<color=248,252,248>Two additional repair drones are attached to the droid, which raises the overall efficiency of ship repairs.</color>
+Эффективность дроида: <clr>+11<clrEnd> ед.	Droid effectiveness: <clr>+11<clrEnd> units
+Эффективность дроида: <clr>+15<clrEnd> ед.	Droid effectiveness: <clr>+15<clrEnd> units
+<color=248,252,248>К дроиду присоединены три дополнительных ремонтных дрона, за счёт чего повышается общая эффективность починки корабля.</color>	<color=248,252,248>Three additional repair drones are attached to the droid, which raises the overall efficiency of ship repairs.</color>
+Эффективность дроида: <clr>+17<clrEnd> ед.	Droid effectiveness: <clr>+17<clrEnd> units
+Эффективность дроида: <clr>+23<clrEnd> ед.	Droid effectiveness: <clr>+23<clrEnd> units
+<color=248,252,248>Улучшение:</color> <clr>Усилитель гипергенерации<clrEnd>	<color=248,252,248>Upgrade:</color> <clr>Hypergeneration Booster<clrEnd>
+<color=248,252,248>К гипергенератору двигателя подключены дополнительные усилители, что увеличивает дальность полёта между системами.</color>	<color=248,252,248>Additional boosters are connected to the engine's hypergenerator, which increases the flight range between systems.</color>
+Дальность прыжка: <clr>+7<clrEnd> пк.	Jump range: <clr>+7<clrEnd> pc
+Дальность прыжка: <clr>+9<clrEnd> пк.	Jump range: <clr>+9<clrEnd> pc
+<color=248,252,248>Система самоподрыва</color>	<color=248,252,248>Self-Destruct System</color>
+<color=248,252,248>К корпусу присоединены системы для подрыва прикреплённых взрывчатых средств. Подрыв автоматический. Отключение системы невозможно.</color>	<color=248,252,248>Systems for detonating attached explosives are connected to the hull. Detonation is automatic. The system cannot be turned off.</color>
+Время до взрыва: <clr>1<clrEnd> д.	Time to explosion: <clr>1<clrEnd> d.
+<color=248,252,248>Улучшение:</color> <clr>Нанитоидные восстановители<clrEnd>	<color=248,252,248>Upgrade:</color> <clr>Nanitoid Restorers<clrEnd>
+<color=248,252,248>К оборудованию подключены нанитоидные восстановители, увеличивающие время эксплуатации оборудования.</color>	<color=248,252,248>Nanitoid restorers are connected to the equipment, extending its service life.</color>
+Надёжность: <clr>+35<clrEnd>%	Reliability: <clr>+35<clrEnd>%
+Надёжность: <clr>+40<clrEnd>%	Reliability: <clr>+40<clrEnd>%
+<color=248,252,248>Улучшение:</color> <clr>Мини-завод<clrEnd>	<color=248,252,248>Upgrade:</color> <clr>Mini-Factory<clrEnd>
+<color=248,252,248>В орудие интегрирован мини-завод по усовершенствованию снарядов, которые наносят больший урон.</color>	<color=248,252,248>A mini-factory for improving projectiles, which then deal more damage, is integrated into the weapon.</color>
+Сила осколочных орудий: <clr>+5<clrEnd> ед.	Splinter weapon power: <clr>+5<clrEnd> units
+Сила осколочных орудий: <clr>+7<clrEnd> ед.	Splinter weapon power: <clr>+7<clrEnd> units
+<color=248,252,248>Улучшение:</color> <clr>Коннектор<clrEnd>	<color=248,252,248>Upgrade:</color> <clr>Connector<clrEnd>
+<color=248,252,248>В двигатель добавлен коннектор, ослабляющий повреждение двигателя в процессе эксплуатации.</color>	<color=248,252,248>A connector that weakens engine damage during operation has been added to the engine.</color>
+Надёжность: <clr>+25<clrEnd>%	Reliability: <clr>+25<clrEnd>%
+Надёжность: <clr>+30<clrEnd>%	Reliability: <clr>+30<clrEnd>%
+<color=248,252,248>Улучшение:</color> <clr>Колония бактерий<clrEnd>	<color=248,252,248>Upgrade:</color> <clr>Bacteria Colony<clrEnd>
+<color=248,252,248>В выемках корпуса поселилась колония сверххолодных бактерий, снижающих эффективность повреждений осколочными орудиями.</color>	<color=248,252,248>A colony of supercold bacteria has settled in the hull's recesses, reducing the effectiveness of damage from splinter weapons.</color>
+Восприимчивость к урону осколочными орудиями: <clr>-20<clrEnd>%	Susceptibility to splinter weapon damage: <clr>-20<clrEnd>%
+Восприимчивость к урону осколочными орудиями: <clr>-25<clrEnd>%	Susceptibility to splinter weapon damage: <clr>-25<clrEnd>%
+<color=248,252,248>Улучшение:</color> <clr>Системы ПРО<clrEnd>	<color=248,252,248>Upgrade:</color> <clr>Missile Defense Systems<clrEnd>
+<color=248,252,248>Частей:</color> <clr>1<clrEnd> / <clr>3<clrEnd>.	<color=248,252,248>Parts:</color> <clr>1<clrEnd> / <clr>3<clrEnd>.
+<color=220,20,20>Требуется больше частей для работы системы</color>	<color=220,20,20>More parts are required for the system to work</color>
+<color=248,252,248>Частей:</color> <clr>2<clrEnd> / <clr>3<clrEnd>.	<color=248,252,248>Parts:</color> <clr>2<clrEnd> / <clr>3<clrEnd>.
+<color=248,252,248>К корпусу присоединена система противоракетной обороны.</color>	<color=248,252,248>A missile defense system is attached to the hull.</color>
+Восприимчивость к урону энергетическими орудиями: <clr>+10<clrEnd>%	Susceptibility to energy weapon damage: <clr>+10<clrEnd>%
+Восприимчивость к урону осколочными орудиями: <clr>+10<clrEnd>%	Susceptibility to splinter weapon damage: <clr>+10<clrEnd>%
+<color=248,252,248>Улучшение:</color> <clr>Поглотитель<clrEnd>	<color=248,252,248>Upgrade:</color> <clr>Absorber<clrEnd>
+<color=248,252,248>В корпус интегрированы системы поглощения энергетических всплесков.</color>	<color=248,252,248>Systems for absorbing energy surges are integrated into the hull.</color>
+Восприимчивость к урону энергетическими орудиями: <clr>-15<clrEnd>%	Susceptibility to energy weapon damage: <clr>-15<clrEnd>%
+Восприимчивость к урону энергетическими орудиями: <clr>-20<clrEnd>%	Susceptibility to energy weapon damage: <clr>-20<clrEnd>%
+<color=248,252,248>Улучшение:</color> <clr>Пси-ускоритель<clrEnd>	<color=248,252,248>Upgrade:</color> <clr>Psi-Accelerator<clrEnd>
+<color=248,252,248>В двигатель интегрирован пси-ускоритель, что повышает эффективность его работы.</color>	<color=248,252,248>A psi-accelerator is integrated into the engine, which raises its efficiency.</color>
+Скорость двигателя: <clr>+175<clrEnd> ед.	Engine speed: <clr>+175<clrEnd> units
+Скорость двигателя: <clr>+230<clrEnd> ед.	Engine speed: <clr>+230<clrEnd> units
+<color=248,252,248>Улучшение:</color> <clr>Дополнительный накопитель<clrEnd>	<color=248,252,248>Upgrade:</color> <clr>Additional Accumulator<clrEnd>
+<color=248,252,248>К орудию присоединена система накопления излишков энергии, перенаправляющая эти самые излишки на стволы, чем и повышает эффективность стрельбы.</color>	<color=248,252,248>A system for accumulating surplus energy is attached to the weapon, redirecting that surplus to the barrels, which raises firing effectiveness.</color>
+Сила энергетических орудий: <clr>+7<clrEnd> ед.	Energy weapon power: <clr>+7<clrEnd> units
+<color=248,252,248>К орудию присоединена система накопления излишков энергии, перенаправляющая эти самые излишки на стволы, чем и повышает эффективность стрельбы из орудий.</color>	<color=248,252,248>A system for accumulating surplus energy is attached to the weapon, redirecting that surplus to the barrels, which raises the effectiveness of firing the weapons.</color>
+Сила энергетических орудий: <clr>+9<clrEnd> ед.	Energy weapon power: <clr>+9<clrEnd> units
+<color=248,252,248>Улучшение:</color> <clr>Амортизатор<clrEnd>	<color=248,252,248>Upgrade:</color> <clr>Shock Absorber<clrEnd>
+<color=248,252,248>В корпус интегрированы системы амортизации импульса от взрыва самонаводящихся снарядов.</color>	<color=248,252,248>Systems for damping the impulse from the explosion of homing projectiles are integrated into the hull.</color>
+Восприимчивость к урону ракетными орудиями: <clr>-15<clrEnd>%	Susceptibility to missile weapon damage: <clr>-15<clrEnd>%
+Восприимчивость к урону ракетными орудиями: <clr>-20<clrEnd>%	Susceptibility to missile weapon damage: <clr>-20<clrEnd>%
+<color=248,252,248>Улучшение:</color> <clr>Дополнительный усилитель<clrEnd>	<color=248,252,248>Upgrade:</color> <clr>Additional Booster<clrEnd>
+<color=248,252,248>В радар вставлены дополнительные радиолокационные системы для повышения его мощности.</color>	<color=248,252,248>Additional radar systems are inserted into the radar to raise its power.</color>
+Дальность радара: <clr>+350<clrEnd> ед.	Radar range: <clr>+350<clrEnd> units
+Дальность радара: <clr>+450<clrEnd> ед.	Radar range: <clr>+450<clrEnd> units
+<color=248,252,248>Улучшение:</color> <clr>Два дополнительных усилителя<clrEnd>	<color=248,252,248>Upgrade:</color> <clr>Two Additional Boosters<clrEnd>
+<color=248,252,248>В радар вставлены две дополнительные радиолокационные системы для повышения его мощности.</color>	<color=248,252,248>Two additional radar systems are inserted into the radar to raise its power.</color>
+Дальность радара: <clr>+700<clrEnd> ед.	Radar range: <clr>+700<clrEnd> units
+Дальность радара: <clr>+900<clrEnd> ед.	Radar range: <clr>+900<clrEnd> units
+<color=248,252,248>Улучшение:</color> <clr>Три дополнительных усилителя<clrEnd>	<color=248,252,248>Upgrade:</color> <clr>Three Additional Boosters<clrEnd>
+<color=248,252,248>В радар вставлены три дополнительные радиолокационные системы для повышения его мощности.</color>	<color=248,252,248>Three additional radar systems are inserted into the radar to raise its power.</color>
+Дальность радара: <clr>+1050<clrEnd> ед.	Radar range: <clr>+1050<clrEnd> units
+Дальность радара: <clr>+1400<clrEnd> ед.	Radar range: <clr>+1400<clrEnd> units
+<color=248,252,248>Улучшение:</color> <clr>Дополнительный заряжатель<clrEnd>	<color=248,252,248>Upgrade:</color> <clr>Additional Loader<clrEnd>
+<color=248,252,248>В орудие вставлен дополнительный заряжатель, повышающий скорость стрельбы.</color>	<color=248,252,248>An additional loader is inserted into the weapon, increasing the rate of fire.</color>
+<color=248,252,248>Увы, ускоренная перезарядка приводит к снижению времени работы систем наведения, что, в свою очередь, снижает поражающую способность снарядов.</color>	<color=248,252,248>Alas, the accelerated reloading shortens the operating time of the guidance systems, which in turn lowers the projectiles' lethality.</color>
+Скорострельность: + <clr>1<clrEnd>	Rate of fire: + <clr>1<clrEnd>
+Сила ракетного оружия: <clr>-17<clrEnd> ед.	Missile weapon power: <clr>-17<clrEnd> units
+Сила ракетного оружия: <clr>-13<clrEnd> ед.	Missile weapon power: <clr>-13<clrEnd> units
+<color=248,252,248>Улучшение:</color> <clr>Дополнительный кэш<clrEnd>	<color=248,252,248>Upgrade:</color> <clr>Additional Cache<clrEnd>
+<color=248,252,248>К сканеру подключён дополнительный кэш, что повышает его возможности к сканированию объектов.</color>	<color=248,252,248>An additional cache is connected to the scanner, which raises its object scanning capabilities.</color>
+Мощность сканера: <clr>+3<clrEnd>%	Scanner power: <clr>+3<clrEnd>%
+Мощность сканера: <clr>+4<clrEnd>%	Scanner power: <clr>+4<clrEnd>%
+<color=248,252,248>Улучшение:</color> <clr>Пара кэшей<clrEnd>	<color=248,252,248>Upgrade:</color> <clr>Pair of Caches<clrEnd>
+<color=248,252,248>К сканеру подсоединено два дополнительных кэша, что повышает его возможности к сканированию объектов.</color>	<color=248,252,248>Two additional caches are connected to the scanner, which raises its object scanning capabilities.</color>
+Мощность сканера: <clr>+6<clrEnd>%	Scanner power: <clr>+6<clrEnd>%
+Мощность сканера: <clr>+8<clrEnd>%	Scanner power: <clr>+8<clrEnd>%
+<color=248,252,248>Улучшение:</color> <clr>Набор кэшей<clrEnd>	<color=248,252,248>Upgrade:</color> <clr>Set of Caches<clrEnd>
+<color=248,252,248>К сканеру подсоединено несколько дополнительных кэшей, что повышает его возможности к сканированию объектов.</color>	<color=248,252,248>Several additional caches are connected to the scanner, which raises its object scanning capabilities.</color>
+Мощность сканера: <clr>+9<clrEnd>%	Scanner power: <clr>+9<clrEnd>%
+Мощность сканера: <clr>+11<clrEnd>%	Scanner power: <clr>+11<clrEnd>%
+<color=248,252,248>Улучшение:</color> <clr>Дополнительный генератор<clrEnd>	<color=248,252,248>Upgrade:</color> <clr>Additional Generator<clrEnd>
+<color=248,252,248>К генератору защитного поля подключён дополнительный малый генератор, повышающий мощность основного поля.</color>	<color=248,252,248>An additional small generator is connected to the shield generator, raising the power of the main field.</color>
+Генератор поля: <clr>+2<clrEnd>%	Field generator: <clr>+2<clrEnd>%
+Генератор поля: <clr>+3<clrEnd>%	Field generator: <clr>+3<clrEnd>%
+<color=248,252,248>Улучшение:</color> <clr>Дополнительные генераторы<clrEnd>	<color=248,252,248>Upgrade:</color> <clr>Additional Generators<clrEnd>
+<color=248,252,248>К генератору защитного поля подключено два дополнительных малых генератора, повышающих мощность основного поля.</color>	<color=248,252,248>Two additional small generators are connected to the shield generator, raising the power of the main field.</color>
+Генератор поля: <clr>+4<clrEnd>%	Field generator: <clr>+4<clrEnd>%
+Генератор поля: <clr>+5<clrEnd>%	Field generator: <clr>+5<clrEnd>%
+<color=248,252,248>К генератору защитного поля подключено три дополнительных малых генератора, повышающих мощность основного поля.</color>	<color=248,252,248>Three additional small generators are connected to the shield generator, raising the power of the main field.</color>
+Генератор поля: <clr>+6<clrEnd>%	Field generator: <clr>+6<clrEnd>%
+Генератор поля: <clr>+7<clrEnd>%	Field generator: <clr>+7<clrEnd>%
+<color=248,252,248>Улучшение:</color> <clr>Дополнительный резервуар<clrEnd>	<color=248,252,248>Upgrade:</color> <clr>Additional Reservoir<clrEnd>
+<color=248,252,248>К топливному баку присоединён дополнительный резервуар с топливом.</color>	<color=248,252,248>An additional fuel reservoir is attached to the fuel tank.</color>
+Вместимость бака: <clr>+20<clrEnd>	Tank capacity: <clr>+20<clrEnd>
+Вместимость бака: <clr>+25<clrEnd>	Tank capacity: <clr>+25<clrEnd>
+Текущие бонусы в ЧД	Current BH bonuses
+Бонусы в ЧД	BH bonuses
+if(ScriptItemActionType(t_OnShowingItemInfo)) ShipCustomShipInfoDescription(0,CurInfo(),'Текущие бонусы в ЧД:'+CT('FormInfo.br')+'Бонус к урону: '+(ABShipModifiers(Player(),'damage')-100)+CT('FormInfo.br')+'Бонус к перезарядке: '+(ABShipModifiers(Player(),'recharge')-100)+CT('FormInfo.br')+'Бонус к скорости: '+(ABShipModifiers(Player(),'speed')-100)+CT('FormInfo.br')+'Бонус к антигравитации: '+(100-ABShipModifiers(Player(),'gravity'))+CT('FormInfo.br')+'Бонус к починке: '+(ABShipModifiers(Player(),'regen'))+CT('FormInfo.br')+'Бонус к защите: '+(100-ABShipModifiers(Player(),'fragility'))+CT('FormInfo.br')+'Бонус к удаче: '+(ABShipModifiers(Player(),'luck')-100));	if(ScriptItemActionType(t_OnShowingItemInfo)) ShipCustomShipInfoDescription(0,CurInfo(),'Current BH bonuses:'+CT('FormInfo.br')+'Damage bonus: '+(ABShipModifiers(Player(),'damage')-100)+CT('FormInfo.br')+'Reload bonus: '+(ABShipModifiers(Player(),'recharge')-100)+CT('FormInfo.br')+'Speed bonus: '+(ABShipModifiers(Player(),'speed')-100)+CT('FormInfo.br')+'Antigravity bonus: '+(100-ABShipModifiers(Player(),'gravity'))+CT('FormInfo.br')+'Repair bonus: '+(ABShipModifiers(Player(),'regen'))+CT('FormInfo.br')+'Defense bonus: '+(100-ABShipModifiers(Player(),'fragility'))+CT('FormInfo.br')+'Luck bonus: '+(ABShipModifiers(Player(),'luck')-100));
+Инфошка для эффекта Армса	Info item for the ARMS effect
+эмуляция А-эгиса	A-Egis emulation
+Инфошка-костылёнок, чтобы не плодить кастомные артефакты. Ну и к тому же она сама снимает эффект холодоса	A kludge info item so as not to multiply custom artifacts. Besides, it also removes the freeze effect by itself
+if(0) SFT('ВНИМАНИЕ! ИГРОК СОВСЕМ НЮХ ПОТЕРЯЛ И ЗАПРЯТАЛ ОТ НАС ШМОТ! ХАНА ЕМУ!');	if(0) SFT('ATTENTION! THE PLAYER HAS LOST ALL SENSE AND HID STUFF FROM US! GET HIM!');
+Восстановление ХП игрока при выходе из ЧД с одетым Младшим дроидом	Restoring HP of the player on leaving the BH with the Junior Droid equipped
+Инфошка, создающая выстрелы	Info item that creates shots
+Потому что события открытия/закрытия формы срабатывают только для того корабля, на котором они висят, иначе бы было слишком просто	Because form open/close events only fire for the ship they are attached to, otherwise it would be too easy
+Чтобы не спамило уведомлением	So it does not spam notifications
+Инфошка-костылёнок номер 2	Kludge info item number 2
+Инфошка-костылёнок номер 3	Kludge info item number 3
+Инфошка для просканированного чувака	Info item for the scanned dude
+Инфошка для обработки сканирования	Info item for handling the scan
+if(ItemDurability(item)<=0) Ether(8,'','При проведении очередного активного сканирования сканерный кэш перерасходовал свой ресурс. Требуется ремонт.');	if(ItemDurability(item)<=0) Ether(8,'','During another active scan the scanner cache overspent its resource. Repairs are required.');
+StarMapCustomSelectionMode('RefScanning',ShipRadarRange(Player()),'ScanFull','ScanSmall','Цель просканирована','Недостаточно дальности работы радара','Слишком крупный объект для сканирования',0,255,0);	StarMapCustomSelectionMode('RefScanning',ShipRadarRange(Player()),'ScanFull','ScanSmall','Target scanned','Not enough radar range','Object too large to scan',0,255,0);
+Для тестирования	For testing

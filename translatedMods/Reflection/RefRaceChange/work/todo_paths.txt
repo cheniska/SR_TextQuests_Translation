@@ -1,3 +1,0 @@
-1	Script/Mod_RefRaceChange/0
-2	Script/Mod_RefRaceChange/1
-3	Script/Mod_RefRaceChange/2

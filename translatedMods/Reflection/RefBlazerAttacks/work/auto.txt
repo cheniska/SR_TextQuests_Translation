@@ -1,3 +1,5 @@
+Уничтожить всё! Ресурсы этой системы будут направлены на создание новых боевых модулей!	Destroy everything! This system's resources will be redirected to building new combat modules!
+Ничтожество! Подлети поближе, чтобы познать мощь моих орудий!	You nothing! Come closer and learn the might of my guns!
 Это не способствует Великой Цели. Не отнимай мое время, мне нужно уничтожать и других врагов. Сдавайся и...	It doesn't contribute to the Great Cause. Don't waste my time, I have other enemies to destroy. Give up and...
 Великая Цель - есть Абсолютная Победа. Ее достижение состоит в полном уничтожении всех врагов!	The Great Cause is the Absolute Victory! Winning that victory means exterminating all our enemies.
 Всякий, кто не принадлежит к моей серии, есть враг.	Anybody outside my own series is my enemy.
@@ -8,14 +10,18 @@
 А если не привезешь? Я практически уверен в лживости твоих слов!	What if you don't bring it? I am almost sure that you are lying!
 Я не доверяю врагам, но не вижу изъяна в твоей логике. Поэтому лети и возвращайся скорей. Но помни, что ты будешь уничтожен в любом случае, <Player>.	I don't trust enemies but I don't see anything wrong with your logic. So go and get back quickly. But remember, <Player>, you'll be obliterated anyway.
 Загружай... стоп! А что ты хочешь взамен?	Load it up... stop! What do you want in exchange?
+Кажется, он сейчас не в настроении болтать	It seems he is not in the mood to chat right now
 Я понял, враг - ты хочешь подстроить мне ловушку. Умри немедленно, <Player>!	I get it, you bastard. You're trying to play a trick on me. Die right this moment, <Player>!
 Это невозможно. Ты враг.	This is impossible. You're an enemy.
 Это звучит логично. Загружай свою программу.	That makes sense. Load up your program.
 РЕЙНДЖЕР <Player> - СОЮЗНИК.<br>НАЙДЕН НОВЫЙ ВРАГ. ДОМИНАТОР - ОСНОВАТЕЛЬ БЛАЗЕР. УНИЧТОЖИТЬ.<br>...<br>ВКЛЮЧЕНА СИСТЕМА САМОУНИЧТОЖЕНИЯ.	RANGER <Player> IS AN ALLY.<br>NEW ENEMY FOUND. FOUNDING DOMINATOR BLAZER DESTROY<br>...<br> SELF-DESTRUCTION SYSTEM IS ACTIVATED.
+Логическая ошибка в программе. Система заблокирована. Рейнджер <Player>, мне нужны инструкции.<br>......<br>......<br>Доступ рейнджеру <Player> запрещён. Главный командующий отдал приказ на самоуничтожение. Выполняю.	Logic error in the program. System locked. Ranger <Player>, I need instructions.<br>......<br>......<br>Access for ranger <Player> denied. The commander-in-chief has given the order to self-destruct. Executing.
 Задача выполняется. Совершаю посадку на планету <0>.	The task is being completed. I'm landing on planet <0>.
+Ты - враг, пытавшийся меня обмануть. Сдавайся и умри!	You are an enemy who tried to deceive me. Surrender and die!
 Ничего не понимаю. У меня нет Интеркома.	I don't understand anything. I don't have Intercom.
 Давай, давай, садись. Сейчас тебе требуется хороший ремонт. Межзвездная Коалиция о тебе позаботится.<br>И кстати, отдай приказ нулевого уровня на самоуничтожение всем своим кораблям.	Come on, land. Now you need quite a few repairs. The Interstellar Coalition will take care of you.<br>Oh, and by the way, we need you to send zero level self-destruction orders to all you ships.
 Пока нет, но привезу. Учись доверять рейнджерам!	Not yet, but I will bring it. Learn to trust rangers!
+Ага, уже лечу, конечно...	Yeah, I'm flying out right now, sure...
 Сам умри, железная консерва!	Kill yourself, you tin can!
 Эй, не так быстро. Обычно предлагают выбрать одно или другое.	Hey, slow down. I'm usually given some sort of choice.
 Стоп, стоп, стоп. Мы можем просто поговорить?	Stop, stop, stop. Can't we just talk?
@@ -38,9 +44,10 @@
 Вот и отлично. Прощай, Блазер, ты был отличный воин, жаль только, что двинулся немного. Но я тут ни при чем, дружище!	Excellent. Goodbye, Blazer, you were an excellent fighter and I'm really sorry that you went crazy. But it isn't my fault at all, man!
 Совершаю посадку на <0> для получения инструкций.	I'm landing onto <0> to get the instructions.
 Остановись, это логическая ошибка! Ты неверно загрузил программу.	Stop, this is a logic error! You loaded the program incorrectly.
-Теперь ты защитник системы <0>. Для получения инструкций следуй на ближайшую планету.	Now you are the protector of the <0> system. Fly to the nearest planet to get the instructions.
 Давай, давай, садись. Сейчас тебе требуется хороший ремонт. Там о тебе позаботится.<br>И кстати, отдай приказ нулевого уровня на самоуничтожение всем своим кораблям.	Come on, land. Now you need quite a few repairs. They will take care of you.<br>Oh, and by the way, we need you to send zero level self-destruction orders to all you ships.
+Сам умри, жестянка!	Die yourself, tin can!
 Блазер	Blazer
+Да чтоб тебя...	Damn you...
 Ты привез, что обещал?	Have you brought what you promised?
 Ты отнимаешь мое время, враг. Умри.	Stop wasting my time, you backbiter. Die!
 Объект идентифицирован как враг. Сдавайся и умри, <Player>!	The subject has been identified as an enemy. Give up and die, <Player>!

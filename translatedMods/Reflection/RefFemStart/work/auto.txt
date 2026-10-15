@@ -1,1 +1,8 @@
+Хотелось бы по-особенному улучшить свой корпус	I'd like to give my hull a special upgrade
+К сожалению, нам нечего сегодня вам предложить	Unfortunately, we have nothing to offer you today
+О, корпус спецагента!<br>Да-да, знаем про такие, конечно. Ну и, безусловно, мы можем кое-что сделать с такими корпусами - уникальное!<br><br><0>	Oh, a special agent hull!<br>Yes, yes, we know about those, of course. And, naturally, we can do something with such hulls - something unique!<br><br><0>
+Отлично!<br>Техники уже выполнили все работы согласно контракту, так что можете принимать обновлённый корабль.	Excellent!<br>Our technicians have already completed all the work under the contract, so you can take delivery of your upgraded ship.
+Вернуться к выбору услуг	Back to the choice of services
+Я согласен, обновите-ка мне корпус!	I agree, upgrade my hull!
 Спасибо!	Thank you!
+Просто костыльфошка	Just a kludge item

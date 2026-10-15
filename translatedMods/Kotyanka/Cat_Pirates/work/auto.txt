@@ -1,8 +1,134 @@
+Заказ на обновление кораблём своего эквипа в пользу БСО	Order for the ship to update its equipment in favor of the LSW
+Этот класс салаг получит <0>.	This class of greenhorns will receive <0>.
+Да я третьего дня сидел кумекал с проверенными братками, сколько чё стоить будет, если бароном стану или ему просто идею закинуть, короче, таблицу расходов в Гаалакселе наваял.<br>Если интересно, то могу показать а там уже если чё - и браткам закинешь на новую ласточку.	The day before yesterday I sat pondering with trusted buddies how much what would cost if I became baron, or just to float the idea to him, in short, I put together an expense table in Gaalexel.<br>If you're interested, I can show it, and then, if anything, you can also pitch it to the guys for a new beauty.
+производим на специализированных заводах под заказ	produce at specialized factories to order
+малокско-человеческая группа слесарей пятого разряда	a maloq-human team of fifth-grade fitters
+несколько малоков-слесарей	a few maloq fitters
+покупаем б/у хорошего качества у бывших боевых пилотов	buy good-quality used ones from former combat pilots
+скупаем оптом на распродажах в бизнец-центрах	buy in bulk at sales in business centers
+корпус минимального размера, сравнимый с гражданской авиацией	a hull of minimum size, comparable to civil aviation
+среднее количество оборудования, практически полноценный комплект	an average amount of equipment, practically a full set
+минимальный комплект оборудования, с которым возможен космический полёт	a minimal set of equipment with which space flight is possible
+рэкетируем лучший массмаркет с индустриальных планет	racketeer the best mass-market goods from industrial planets
+создаем своими силами, закупая детали на черном рынке	build it ourselves, buying parts on the black market
+лучшими безумцами галактики на одном из доминионов	the best madmen in the galaxy at one of the dominions
+на специально захваченом предприятии по акринации	at a specially captured acrynation enterprise
+в одной нарко-лабе под присмотром спецов - у них явно есть какой-то "план"	in a drug lab under the supervision of specialists - they clearly have some kind of "plan"
+частники, бывшие лицензенты, перешедшие на нашу сторону	freelancers, former licensees who came over to our side
+частниками без лицухи, ну так нам же и дешевле	freelancers without a license, well, that's cheaper for us too
+корпус огромного размера - больше только у флагманов, и то не всегда	a hull of enormous size - only flagships have bigger, and not always
+корпус большого размера - такие размеры обычно у торговых судов, но нашим нужно транспортировать рэкетированный груз	a hull of large size - such sizes are usually found on trade vessels, but ours need to transport racketeered cargo
+корпус среднего размера - оптимальный вариант для начинающего разбойника	a hull of medium size - the optimal variant for a beginning brigand
+корпус маленького размера, как и Васи с соседней базы	a hull of small size, like Vasya's from the neighboring base
+Величайшие безумные учёные со всей галактики	The greatest mad scientists from all over the galaxy
+Доминион "Черная Жемчужина"	Dominion "Black Pearl"
+практиканты технических вузов с Рахиша	technical college trainees from Rakhish
+берем в братство отчаявшихся профессиональных пилотов и дополнительно обучаем их всевозможным навыкам	take into the brotherhood desperate professional pilots and additionally train them in all manner of skills
+берем в братство отчаявшихся выпускников лётных училищ или бывших военных и проводим с ними углубленные тренировки	take into the brotherhood desperate flight school graduates or former military and give them advanced training
+берем в братство всех прошедших испытания на симуляторах космического, планетарного и гиперпространственного боя	take into the brotherhood everyone who has passed trials in simulators of space, planetary and hyperspace combat
+берем в братство всех прошедших минимальное обучение на симуляторах космического боя	take into the brotherhood everyone who has completed minimal training in space combat simulators
+берем в братство всех желающих	take into the brotherhood everyone who wishes
+полноценный комплект оборудования, вооружения и, возможно, даже парочку артефактов	a full set of equipment, weaponry and, possibly, even a couple of artifacts
+большое количество оборудования - наши салаги оснащены не хуже военных	a large amount of equipment - our greenhorns are equipped no worse than the military
+комплект джентельмена - пушка, дроид и радар! В общем, всё самое необходимое	a gentleman's set - a gun, a droid and a radar! All the bare essentials, in short
+полноценное орбитальное училище, вмещающее пять классов салаг	a full-fledged orbital school accommodating five classes of greenhorns
+четыре класса для обучения салаг	four classes for training greenhorns
+целых три класса салаг	as many as three classes of greenhorns
+два класса обучения салаг	two classes of greenhorn training
+только один класс салаг	only one class of greenhorns
+устраиваем массовую пропаганду анархического движения, начиная от разбрасывания листовок и заканчивая формированием в литературе образа крутого парня - Бродяги с гиперпространства	run mass propaganda for the anarchist movement, from scattering leaflets to shaping in literature the image of a cool guy - the Wanderer of hyperspace
+ведём активную агитационную программу в пеленгнете	run an active agitation program on the Pelengnet
+устраиваем тематические сходки почитателей Рачехана	hold themed gatherings of Rachekhan admirers
+расклеиваем повсюду плакаты "Мама - анархия, Папа - стакан янвелба"	paste posters everywhere saying "Mother - anarchy, Father - a glass of ekup"
+расказываем в барах про "Особое предложение"	tell in bars about the "Special Offer"
+Пираты созваны, Барон. Мы готовы штурмовать.	The pirates are mustered, Baron. We are ready to storm.
+, перечислив в общак	, having transferred to the common fund
+сошёл на берег на планете	went ashore on the planet
+Экипаж корабля	Ship crew
+Даёшь инвестиции в пиратов!	Down with investments in pirates!
+Рады приветствовать вас, Верховный!<br><br>Наше братство радо слушать ваши мудрые речи и дальновидные приказания!<br><br>Кого будем грабить сегодня?	Glad to welcome you, Supreme One!<br><br>Our brotherhood is glad to hear your wise speeches and far-sighted orders!<br><br>Whom shall we rob today?
+Верховный, вы уверены? Повернуть приказ вспять будет проблематично.	Supreme One, are you sure? Reversing the order will be problematic.
+Вы уверены, Барон?<br><br>Отозвать Кустодиев обратно уже нельзя	Are you sure, Baron?<br><br>The Custodes cannot be recalled afterward
+Итак, найм одного Кустодиес обойдётся общаку в <clr>1.000.000<clrEnd> cr.<br><br>Выбирайте количество	So, hiring one Custos will cost the common fund <clr>1.000.000<clrEnd> cr.<br><br>Choose the number
+Вы уверены, Барон? Мы не сможем распустить братков!	Are you sure, Baron? We won't be able to disband the guys!
+Хорошо. Ждите отчёт через пару месяцев о сборе пиратских сил.	Fine. Expect a report in a couple of months on the gathering of pirate forces.
+(сектор	(sector
+Атакуйте систему	Attack the system
+Итак, Барон, выбирайте систему, которую атакуют наши соколики	So, Baron, choose the system our falcons will attack
+Отлично, Барон! Наши братки уже выдвигаются в систему <0>.	Excellent, Baron! Our guys are already moving out to the <0> system.
 С возвращением, <0>. Никак, магазин наш пришел проверить? У нас там всегда много всякого хлама продается.	Welcome back, <0>. Anyway, have you come to check on our store? You can always find all kinds of junk there.
-Не, пожалуй, не сейчас	Nah, maybe not now
-Пять	Five
-Отлично	Great
-Ага, сейчас заценю барахлишко ваше.	Uh-huh, I'll check out your stuff right now.
+Дзухаллагу удалось перехватить новый приказ Верховного Барона - ввиду недостачи в финансах он отдал приказ о ликвидации половины состава пиратских кораблей. Это отличная возможность для наших сил, чтобы освободить несколько систем.	Dzuhallag managed to intercept a new order of the Supreme Baron - owing to a shortage of funds he ordered the liquidation of half the pirate ships. This is an excellent opportunity for our forces to liberate several systems.
+Верховный Барон отдал приказ о ликвидации половины нашего флота с целью ликвидации пропойц и бездельников. Ударим по тем, кто порочит славное имя пирата беспробудным алкоголизмом и трусостью!	The Supreme Baron has ordered the liquidation of half our fleet to get rid of boozers and idlers. Let us strike at those who tarnish the glorious name of the pirate with chronic drunkenness and cowardice!
+Настаёт чёрный день для Коалиции - Верховный Барон проспонсировал постройку отряда могучих пиратов Кустодиес. Все спецподразделения КВСМК подняты по тревоге.	A black day dawns for the Coalition - the Supreme Baron has sponsored the building of a squad of mighty pirates, the Custodes. All CAFIC special units have been put on alert.
+Дзухаллагу удалось перехватить новый приказ Верховного Барона - он собирает все силы Клана на одной из секретных баз для нанесения удара. Это - отличная возможность для наших сил, чтобы освободить несколько систем.	Dzuhallag managed to intercept a new order of the Supreme Baron - he is gathering all the Clan's forces at one of the secret bases to deliver a strike. This is an excellent opportunity for our forces to liberate several systems.
+Верховный Барон отдал приказ о сборе всех свободных братков! Всем прибыть на Роджерию!	The Supreme Baron has ordered the gathering of all free guys! Everyone report to Rogeria!
+Не, ну, я, конечно, не барон, пока что, но ты дело говоришь.	Well, I'm not a baron, not yet, but you've got a point.
+Дела в баре сейчас совсем кислые, не с кем выпить, где все наши бравые бродяги?	Business at the bar is pretty sour now, no one to drink with, where are all our brave wanderers?
+Посмотреть сводку по бакланам	View the report on the hoodlums
+Не, ну, как бы, да... а к чему ты это?	Well, like, yeah... but what are you getting at?
+Да... Я всё понимаю, братух, но как захочишь че-нить в мире поменять, то ты знаешь, где меня найти.	Yeah... I understand everything, bro, but if you ever want to change something in the world, you know where to find me.
+Так у тебя всё готово?! Так это же другое дело! Yу чё там, сколько кредитов стоит закупить пару-тройку подержаных звездолётов?	So you have everything ready?! That's a different matter! Well, how many credits does it cost to buy a couple or three used starships?
+Не, идея здравая, но мне мои деньги явно важней.	No, the idea is sound, but my money is clearly more important to me.
+Информация о параметрах корабля, для первого класса салаг	Information on ship parameters, for first-class greenhorns
+Информация о параметрах корабля, для второго класса салаг	Information on ship parameters, for second-class greenhorns
+Информация о параметрах корабля, для третьего класса салаг	Information on ship parameters, for third-class greenhorns
+Меня интересует размер корпуса	I'm interested in hull size
 Да	Yes
 Нет	No
+Вас приветствует интерактивная таблица информации Гаалаксель! Что вы хотите узнать?	Welcome to the interactive information table Gaalexel! What would you like to know?
+Мне нужен отряд лучших! Вызвать Кустодиев!	I need a squad of the best! Summon the Custodes!
+Пожалуй, не время для такой силы	Perhaps it's not the time for such strength
+В данный момент мы за один раз способны подготовить <0>.	At the moment we are able to train <0> at a time.
+Ну, братух, сам понимаешь - мы ребята вольные, да и ремесло наше непростое. Сейчас, когда с одной стороны жестянки, а с другой - псы Коалиции, совсем грусно стало. Был бы я Бароном - всем новичкам раздавал бы по кораблю и оборудки не жалел бы.	Well, bro, you understand yourself - we're free guys, and our craft is not an easy one. Now, with tin cans on one side and Coalition dogs on the other, it's gotten downright gloomy. If I were Baron, I'd hand out a ship to every newcomer and wouldn't skimp on gear.
+Слушай, можешь не отвечать, конечно, но это же про тебя постоянно статьи в галанете пишут, да и корабль твой в ангаре самый навороченный из всех - явно же при деньгах...	Listen, you don't have to answer, of course, but articles about you are constantly written on the Galanet, and your ship in the hangar is the fanciest of them all - clearly you're flush...
+Сейчас мы <0>.	Right now we <0>.
+Нашим специалистом по улучшению оборудования является <0>.	Our equipment improvement specialist is <0>.
+В параметры корабля салаги входит:<br>1. Размер корпуса<br>2. Акрин корпуса<br>3. Уровень экипировки	A greenhorn ship's parameters include:<br>1. Hull size<br>2. Hull acryn<br>3. Equipment level
+Акринацию корпуса для этого класса салаг производят <0>.	Hull acrynation for this class of greenhorns is carried out by <0>.
+Оборудование для этого класса салаг мы <0>.	The equipment for this class of greenhorns we <0>.
+На данный момент улучшение требует <0> cr. Желаете проспонсировать проект?	At the moment the improvement requires <0> cr. Would you like to sponsor the project?
+Спасибо братуха, твоя жертва не оценима, давай налью бесплатно! Обмоем. Только благодаря таким как ты мы ещё на плаву.	Thanks bro, your sacrifice is priceless, let me pour you one for free! We'll wet it. Only thanks to people like you are we still afloat.
+Этот параметр уже находится на максимальном уровне	This parameter is already at its maximum level
+Информация о параметрах корабля, для четвертого класса салаг	Information on ship parameters, for fourth-class greenhorns
+Информация о параметрах корабля, для пятого класса салаг	Information on ship parameters, for fifth-class greenhorns
+Расскажите об общих параметрах	Tell me about the general parameters
+Меня интересует количество классов для обучения салаг<br>	I'm interested in the number of classes for training greenhorns<br>
+Меня интересует скорость обучения салаг<br>	I'm interested in the speed of greenhorn training<br>
+Ха, вот это по-нашему, держи доступ!<br>Таблица интерактивная - сама подскажет, что имеем и что можно подтянуть: глядишь, если все статьи закроем, то и Коалицию победим.	Ha, now that's our way, here's your access!<br>The table is interactive - it will tell you itself what we have and what can be tightened up: who knows, if we close all the items, we'll beat the Coalition too.
+Меня интересует количество выдаваемого оборудования новым салагам	I'm interested in the amount of equipment issued to new greenhorns
+Меня интересует программа обучения пилотов	I'm interested in the pilot training program
+Меня интересует улучшение оборудования	I'm interested in equipment improvement
+Меня интересует акрин корпуса	I'm interested in the hull acryn
+Меня интересует уровень экипировки	I'm interested in the equipment level
+Я хочу проспонсировать улучшение этого параметра	I want to sponsor the improvement of this parameter
 Хорошо	Good
+Обратно к параметрам текущего салаги	Back to the current greenhorn's parameters
+Ничего не нужно	Nothing is needed
+Обратно к общим параметрам	Back to general parameters
+Я хочу проспонсировать улучшение этого параметра еще раз	I want to sponsor the improvement of this parameter once more
+Ага	Yeah
+Обратно к выбору параметров	Back to parameter selection
+Пожалуй, пока хватит буянить	I suppose that's enough rowdiness for now
+Эге, бродяги! Слишком много нас стало! Пора лишних пропойц посадить на берег, за орудия планетарной обороны, а их деньги передать в общак!	Hey, wanderers! There are too many of us now! Time to put the extra boozers ashore, at the planetary defense guns, and hand their money to the common fund!
+Уверен на все сто! Распространяй давай мой приказ!	Hundred percent sure! Spread my order, go on!
+Не, пожалуй, не сейчас	Nah, maybe not now
+В общие параметры входит:<br>1. Количество баров для экскурса салаг<br>2. Скорость обучения салаг<br>3. Количество выдаваемого оборудования салагам<br>4. Качество программы обучения новых пилотов<br>5. Степерь дополнительного улучшения оборудования браткам<br>	The general parameters include:<br>1. Number of bars for greenhorn excursions<br>2. Speed of greenhorn training<br>3. Amount of equipment issued to greenhorns<br>4. Quality of the training program for new pilots<br>5. Degree of additional improvement of the guys' equipment<br>
+Мне они нужны как можно скорее! Тысяча чертей!	I need them as soon as possible! A thousand devils!
+Десять	Ten
+Пять	Five
+Двадцать пять	Twenty-five
+Пятьдесят	Fifty
+Поднять всех негодяев и подлецов! Мы идём на штурм!	Raise all the scoundrels and rascals! We go to storm!
+Отправляйте созванных пиратов на штурм!	Send the mustered pirates to storm!
+Начинай давай!	Start already!
+Жду с нетерпением	Waiting impatiently
+Отставить! Не время...	Stand down! Not the time...
+Отлично	Great
+Ага, сейчас заценю барахлишко ваше.	Uh-huh, I'll check out your stuff right now.
+Всем внимание - на вашу халупу прибыл сам Верховный Барон! Всем ко стойке бара - наливать за мой счёт!	Attention everyone - the Supreme Baron himself has arrived at your dump! Everyone to the bar counter - pouring on my tab!
+Мы постоянно работаем над привлечением новых гуманоидов в пиратское движение. Прямо сейчас мы <0>.	We constantly work on attracting new humanoids into the pirate movement. Right now we <0>.
+Следующим салагам мы будем выдавать <0>.	To the next greenhorns we will issue <0>.
+По зову Верховного Барона в строй встал новый кустодий - хан name. Лучшие корабли и снаряжение братства теперь в его распоряжении.	At the call of the Supreme Baron a new custos has taken his place in the ranks - khan name. The brotherhood's best ships and gear are now at his disposal.
+Кустодий name принёс клятву верности Верховному Барону. Коалиционным патрулям приказано не связываться с ним в одиночку.	Custos name has sworn an oath of loyalty to the Supreme Baron. Coalition patrols have been ordered not to engage him alone.
+Бу бу бу	Boo boo boo
+Бе бе бе	Bah bah bah

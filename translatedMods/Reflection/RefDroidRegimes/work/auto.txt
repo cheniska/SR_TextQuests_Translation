@@ -1,0 +1,22 @@
+Консервация	Mothballing
+Режим работы дроида изменён на <0>.	The droid's operating mode has been changed to <0>.
+Вернуться к настройкам	Back to settings
+Режим работы дроида на самозащиту был отключён ввиду покидания космического пространства	The droid's self-defense mode was turned off because the ship left space
+Режим работы дроида на аварийной основе был отключён ввиду покидания космического пространства	The droid's emergency mode was turned off because the ship left space
+Оповещение от центрального компьютера: Ваш дроид работает в нестандартном режиме и глубоко подключен к системам управления кораблём. Его демонтаж в данный момент невозможен. Переключите дроида в стандартный режим и повторите операцию демонтажа.	Notification from the central computer: Your droid is operating in a non-standard mode and is deeply connected to the ship's control systems. It cannot be dismantled at the moment. Switch the droid to standard mode and repeat the dismantling operation.
+Дроид работал сверх нормы и получил критические повреждения. Требуется ремонт	The droid worked beyond its limits and sustained critical damage. Repairs are required
+Оповещение от центрального компьютера: Ваш дроид работает в нестандартном режиме и глубоко подключен к системам управления кораблём. Его замена в данный момент невозможна. Переключите дроида в стандартный режим и повторите операцию.	Notification from the central computer: Your droid is operating in a non-standard mode and is deeply connected to the ship's control systems. It cannot be replaced at the moment. Switch the droid to standard mode and repeat the operation.
+Отсутствует индикация подключения дроида. Переключение режима работы в данный момент невозможно. Проверьте правильность подключения дроида и повторите попытку	There is no droid connection indicator. Switching the operating mode is impossible at the moment. Check that the droid is connected correctly and try again
+Этот режим уже активирован!	This mode is already active!
+Переключить режим работы дроида	Switch the droid's operating mode
+Дроид слишком сильно повреждён для взаимодействий с ним!	The droid is too badly damaged to interact with!
+Дроид слишком сильно повреждён для запуска этого режима!	The droid is too badly damaged to start this mode!
+Режим работы дроида на износ был отключён ввиду покидания космического пространства	The droid's wear-out mode was turned off because the ship left space
+Благодаря работе режима консервации ремонтный дроид пережил критические повреждения	Thanks to the mothballing mode, the repair droid survived critical damage
+Режим дроида: <0>	Droid mode: <0>
+Самозащита	Self-defense
+Аварийное восстановление	Emergency recovery
+Работа на износ	Wear-out
+Законсервирован	Mothballed
+Стандартный	Standard
+Выберите режим работы дроида:	Select the droid's operating mode:

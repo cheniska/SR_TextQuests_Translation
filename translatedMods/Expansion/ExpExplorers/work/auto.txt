@@ -1,3 +1,63 @@
+В "чёрную дыру", говоришь? Ну ладно, уже лечу, буду ждать тебя у края червоточины.	Into the "black hole", you say? All right, I'm on my way, I'll wait for you at the edge of the wormhole.
+Ну уж нет, в эту "чёрную дыру" ты меня не затащишь! Судя по показаниям сканера, там происходит какая-то аномальная активность, а проверять степень её "аномальности" на своей обшивке у меня желания нет.	No way, you're not dragging me into that "black hole"! Judging by the scanner readings, some kind of anomalous activity is going on there, and I have no desire to test how "anomalous" it is on my own hull.
+Прошу меня простить, но мой корабль в критическом состоянии. Соваться в таком виде в "чёрную дыру" - форменное самоубийство!	Sorry, but my ship is in critical condition. Poking into a "black hole" in this state is flat-out suicide!
+Хозяин-барин. Сбор вещей прекращаю.	Suit yourself. I'm stopping the collection.
+А куда складировать собранные вещи?	And where do I stash the collected stuff?
+И с какой же планеты мне собирать твои находки прикажешь?	And which planet am I supposed to collect your finds from?
+И с какой же конкретно планеты мне собирать твои вещи в системе <Star>?	And which exact planet in the <Star> system am I supposed to collect your stuff from?
+Да не вопрос, командир. В какой системе находится целевая незаселёнка?	No problem, Commander. Which system is the target uninhabited planet in?
+Докладываю, что сборка и перевозка вещей с планеты <Planet> прошла без проблем. Беру курс на возвращение под твоё командование.	Reporting that the collection and transport of items from the planet <Planet> went without a hitch. Setting course to return to your command.
+Докладываю, что сборка и перевозка вещей с незаселённых планет в системе <Star> прошла без проблем. Беру курс на возвращение под твоё командование.	Reporting that the collection and transport of items from the uninhabited planets in the <Star> system went without a hitch. Setting course to return to your command.
+Ладно, задачу понял - лечу собирать твои находки тогда.	All right, got the task - off I go to collect your finds, then.
+Ладно, задачу понял - отправляюсь в систему <Star> за твоими находками.	All right, got the task - heading to the <Star> system for your finds.
+Эй, мне нужна твоя помощь кое в чём другом, так что заканчивай уже перетаскивать моё барахло	Hey, I need your help with something else, so stop hauling my junk around already
+Спасибо за помощь	Thanks for the help
 Отлично	Great
+Отбой приказа, я передумал	Order canceled, I changed my mind
+Собирай со всех	Collect from all
+На планету <Planet>	To the planet <Planet>
+На <Station>	To <Station>
+Слушай, а помоги-ка мне собрать мои находки с одной незаселённой планеты...	Listen, help me collect my finds from an uninhabited planet...
+С планеты <Planet>	From the planet <Planet>
+В системе <Star>	In the <Star> system
+При сборке вещей с планеты <Planet> возникли непредвиденные сложности. Систему <Star> захватили какие-то чертелоиды, так что вынужденно бросаю всё и возвращаюсь обратно к тебе.	Unforeseen complications arose while collecting items from the planet <Planet>. Some devilspawn have seized the <Star> system, so I'm forced to drop everything and return to you.
+Да без базару, начальник! И так уже седьмой пот с обшивки сошёл, уфф...	No prob, boss! I've sweated through my hull plating already, phew...
+А куда хабар свозить?	And where do I haul the loot?
+И с какой же конкретно планеты мне собирать твои вещички?	And which exact planet am I supposed to collect your stuff from?
+И с какой же конкретно планеты мне собирать твои вещички в системе <Star>?	And which exact planet in the <Star> system am I supposed to collect your stuff from?
+Шестерёнку из меня сделать что ли хочешь, да?! Ну лады-лады, не кипишуй только - сделаю как скажешь, начальник. В какой, говоришь, системе твоя незаселёнка-то обитает?	Want to make a gofer out of me, huh?! Well, okay, okay, don't get your panties in a twist - I'll do as you say, boss. Which system, you say, is your uninhabited rock in?
+Ну типа всё, чё. С планеты <Planet> всё собрал и вывез, чё нашёл там. Возвращаюсь к тебе, босс, готовь поляну.	So that's it, like. Collected and hauled out everything I found on the planet <Planet>. Heading back to you, boss, get the party ready.
+Ну типа всё, чё. С незаселёнок в системе <Star> всё собрал и вывез, чё нашёл там. Возвращаюсь к тебе, босс, готовь поляну.	So that's it, like. Collected and hauled out everything I found on the uninhabited planets in the <Star> system. Heading back to you, boss, get the party ready.
+Лады, командир - сделаю. Одна тапка в пол, другая в валидол, хе-хе.	Okay, Commander - will do. One foot on the gas, the other on the heart pills, heh-heh.
+Лады, командир - сделаю. Курс на систему <Star> на бортухе выставил, ща двину бороздить пространство.	Okay, Commander - will do. Set the course for the <Star> system on the old tub, now I'll go plow the void.
+Э, слышь! Хорош уже мусор с помоек тягать - ты мне для других дел нужен	Hey, you hear me! Quit dragging junk from the dumps - I need you for other things
+Это потому что я начальник, а ты в шестёрках	That's because I'm the boss and you're a gofer
+И чтобы не притырил ничего!	And don't you stash anything for yourself!
+В общем, слушай моё распоряжение - мне нужно кое-какое добро с незаселёнки вытащить, а посыльным за ним назначаю тебя...	Anyway, listen to my order - I need to haul some goods out of an uninhabited planet, and I'm appointing you as the errand boy for it...
+Атас, босс! Систему <Star> какие-то чмырилы отжали, а я там как раз с планеты <Planet> вещички твои собирал. Короче всё - рву когти нафиг, ты не обессудь уж.	Heads up, boss! Some punks grabbed the <Star> system, and I was right there collecting your stuff from the planet <Planet>. Anyway, that's it - I'm hightailing it out of here, no hard feelings.
+Слушаюсь, хозяин. Сейчас же прекращаю сбор вещей. Беру курс на ваш корабль.	Yes, master. I am stopping the collection of items immediately. Setting course for your ship.
+Куда мне следует перевозить собранные вещи?	Where should I deliver the collected items?
+С какой планеты мне собирать ваши вещи, хозяин?	From which planet should I collect your items, master?
+Хозяин, сбор и транспортировка вещей с планеты <Planet> успешно завершена. Перехожу в режим ожидания дальнейших распоряжений.	Master, the collection and transport of items from the planet <Planet> has been completed successfully. Entering standby mode for further orders.
+Хозяин, сбор и транспортировка вещей с незаселённых планет в системе <Star> успешно завершена. Перехожу в режим ожидания дальнейших распоряжений.	Master, the collection and transport of items from the uninhabited planets in the <Star> system has been completed successfully. Entering standby mode for further orders.
+Приказ принят. Приступаю к сборке и перевозке вещей по заданным параметрам.	Order accepted. Proceeding to collect and transport items according to the specified parameters.
+Прекрати собирать вещи с незаселённой планеты, у меня есть для тебя другие задачи	Stop collecting items from the uninhabited planet, I have other tasks for you
 Назад	Back
+Приказываю начать сбор и перевозку обнаруженных вещей с незаселённой планеты...	I order you to begin collecting and transporting the items found on an uninhabited planet...
+Хозяин, система <Star> подверглась атаке и была захвачена врагом. Дальнейший сбор вещей с планеты <Planet> не представляется возможным.	Master, the <Star> system has been attacked and captured by the enemy. Further collection of items from the planet <Planet> is not possible.
+Замётано, босс, по части "дырок" я специалист видный, хе-хе! Буду ждать у входа.	Deal, boss, when it comes to "holes" I'm a prominent specialist, heh-heh! I'll wait at the entrance.
+Не, сорян, босс, но на сканерах чё-то какая-то муть с этой "дыркой" творится. Не хочу на своей шкуре проверять, что там конкретно в ней не так.	Nah, sorry, boss, but something murky is going on with this "hole" on the scanners. I don't want to find out firsthand what exactly is wrong with it.
+Слушай, ну мне вот вообще сейчас не в мазу в эту дыру соваться, смекаешь? Корабль того и гляди пополам треснет!	Listen, I'm really not up for poking into that hole right now, get me? The ship's about to split in half!
+Эй, видишь вон ту "чёрную дыру"? Давай-ка бросай все свои дела и дуй в неё вместе со мной	Hey, see that "black hole" over there? Drop everything and dive into it with me
+Эх ты, а ещё напарничек называется!	Some partner you are!
+Браток, а подсоби-ка мне вон ту "чёрную дыру" обшмонать, а?	Buddy, give me a hand frisking that "black hole" over there, will you?
+Чё?! Зассал? Тоже мне пират космический, блин!	What?! Scared? Some space pirate you are, damn it!
+Приказываю отставить все свои дела и лететь за мной в указанную "чёрную дыру"	I order you to drop all your affairs and fly after me into the specified "black hole"
+Тьфу ты, глупая машина!	Ugh, you stupid machine!
+Слушаюсь, хозяин! Устанавливаю курс на указанную червоточину.<br>По прибытии на место буду ожидать вас у границы гиперперехода.	Yes, master! Setting a course for the specified wormhole.<br>Upon arrival I will wait for you at the hyperjump boundary.
+Простите, хозяин, но я вынужден отказать в исполнении вашего приказа.<br>Судя по моим датчикам, гиперактивность в указанной червоточине превышает допустимые пределы. Имеется значительная вероятность, что мои навигационные системы <clr>не выдержат<clrEnd> нагрузки, и я буду навсегда потерян в неизученном пространстве, что идёт вразрез с моей основной программой служения вам.	Forgive me, master, but I must refuse to carry out your order.<br>According to my sensors, the hyperactivity in the specified wormhole exceeds permissible limits. There is a significant probability that my navigation systems <clr>will not withstand<clrEnd> the load and I will be lost forever in unexplored space, which runs counter to my primary programming of serving you.
+Невидимая инфошка для бравого исследователя "чёрных дыр"	Invisible info item for a brave explorer of "black holes"
+Невидимая инфошка для компаньона или транка игрока, обязывающая его собрать предметы с указанных незаселённых планет	Invisible info item for the player's companion or tranclucator, obliging it to collect items from the specified uninhabited planets
+Невидимая инфошка для компаньона игрока, способного летать в ЧД	Invisible info item for the player's companion able to fly into black holes
 Рейнджер	Ranger
+Изменник	Traitor

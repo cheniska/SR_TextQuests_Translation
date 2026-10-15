@@ -1,39 +1,216 @@
 Торпеда	Torpedo
 Самонаводящаяся торпеда	Homing Torpedo
 Ракетомет	Missile Launcher
+Торпеды, оснащённые плазменным ионизатором, активирующимся в момент взрыва. Наносят от <MinDamage> до <MaxDamage><Bonus> ед. ущерба цели и ближайшим к ней кораблям. Сохраняют эффективность даже на очень большой дистанции.<br>Количество: <Count>/<MaxCount> шт.	Torpedoes fitted with a plasma ionizer that activates at the moment of detonation. Deal from <MinDamage> to <MaxDamage><Bonus> units of damage to the target and the ships nearest to it. Remain effective even at very long range.<br>Quantity: <Count>/<MaxCount> pcs.
+Бронелитовый дроид I-III	Armorite Droid I-III
+Бронелитовый дроид I	Armorite Droid I
+Дроид, разработанный специально для флота военно-промышленной конгломерацией младших рас. Имеет минималистичный дизайн и, помимо базового ремонта, производит особую механическую обработку поверхности корпуса, увеличивая тем самым его защищённость. Также перенастраивает орудийные системы на повышение дальности выстрела, что приводит к снижению общей огневой мощи корабля.	A droid developed specifically for the fleet by a military-industrial conglomerate of the junior races. It has a minimalist design and, besides basic repairs, performs special mechanical treatment of the hull surface, thereby increasing its protection. It also retunes the weapon systems to increase firing range, which lowers the ship's overall firepower.
 Дальность стрельбы: <bonWRadius> млн км	Firing range: <bonWRadius> million km
 Броня корпуса: <bonHull> ед.	Hull armor: <bonHull>
 Урон энергетического оружия: <bonWEnergy> ед.	Energy weapon damage: <bonWEnergy> units
 Урон осколочного оружия: <bonWSplinter> ед.	Splinter weapon damage: <bonWSplinter> units
+Бронелитовый дроид II	Armorite Droid II
+Бронелитовый дроид III	Armorite Droid III
+</color>Термоквантовый субреактор	</color>Thermoquant Subreactor
 Дальность радара: <bonRadar> млн. км.	Radar range: <bonRadar> million km.
 Мощность сканера: <bonScan><clr>%<clrEnd>	Scanner power: <bonScan><clr>%<clrEnd>
 Мощность захвата: <bonHook> т.	Gripper power: <bonHook> t.
+Дальность действия захвата: <bonHookRadius> млн км	Gripper range: <bonHookRadius> million km
+<color=248,252,248>Компактный термоквантовый реактор, вырабатывающий энергию, которую можно с лёгкостью перенаправить на усиление любых энергоёмких бортовых систем. Поскольку конструкция такого реактора крайне габаритна, для его полноценной установки на корабле требуется полностью занять под крепления и разводку весь <color=255,240,100>генераторный отсек</color>.</color>	<color=248,252,248>A compact thermoquantum reactor that produces energy which can easily be redirected to boost any power-hungry onboard systems. Since the design of such a reactor is extremely bulky, installing it fully on a ship requires giving up the entire <color=255,240,100>generator compartment</color> for its mounts and wiring.</color>
+</color>Экзосепараторный субреактор	</color>Exoseparatoral Subreactor
+<color=248,252,248>Компактный экзосепараторный реактор, вырабатывающий энергию, которую можно с лёгкостью перенаправить на усиление любых энергоёмких бортовых систем. Поскольку конструкция такого реактора крайне габаритна, для его полноценной установки на корабле требуется полностью занять под крепления и разводку весь <color=255,240,100>генераторный отсек</color>.</color>	<color=248,252,248>A compact exoseparator reactor that produces energy which can easily be redirected to boost any power-hungry onboard systems. Since the design of such a reactor is extremely bulky, installing it fully on a ship requires giving up the entire <color=255,240,100>generator compartment</color> for its mounts and wiring.</color>
+</color>Плазмориновый субреактор	</color>Plasmorine Subreactor
+<color=248,252,248>Компактный плазмориновый реактор, вырабатывающий энергию, которую можно с лёгкостью перенаправить на усиление любых энергоёмких бортовых систем. Поскольку конструкция такого реактора крайне габаритна, для его полноценной установки на корабле требуется полностью занять под крепления и разводку весь <color=255,240,100>генераторный отсек</color>.</color>	<color=248,252,248>A compact plasmorine reactor that produces energy which can easily be redirected to boost any power-hungry onboard systems. Since the design of such a reactor is extremely bulky, installing it fully on a ship requires giving up the entire <color=255,240,100>generator compartment</color> for its mounts and wiring.</color>
+</color>Квадроадронный субреактор	</color>Quadroadronal Subreactor
+<color=248,252,248>Компактный квадроадронный реактор, вырабатывающий энергию, которую можно с лёгкостью перенаправить на усиление любых энергоёмких бортовых систем. Поскольку конструкция такого реактора крайне габаритна, для его полноценной установки на корабле требуется полностью занять под крепления и разводку весь <color=255,240,100>генераторный отсек</color>.</color>	<color=248,252,248>A compact quadroadron reactor that produces energy which can easily be redirected to boost any power-hungry onboard systems. Since the design of such a reactor is extremely bulky, installing it fully on a ship requires giving up the entire <color=255,240,100>generator compartment</color> for its mounts and wiring.</color>
+Биогенетический дроид I	Biogenetic Droid I
+Уникальный случай, когда роль оборудования выполняют живые организмы. Особые мозговые волны, вырабатываемые этими червями, положительно влияют на работу навигационных систем, но вот оставляемая ими слизь плохо сказывалась на оборудовании, что никак не устраивало <color=255,240,100>пиратских</color> учёных. В конце концов, выделение слизи удалось остановить, однако в результате подобного надругательства над природой, здоровье животных оказалось критически подорвано.	A unique case in which living organisms play the role of equipment. The special brain waves produced by these worms have a positive effect on navigation systems, but the slime they leave behind was bad for the equipment, which did not suit the <color=255,240,100>pirate</color> scientists at all. In the end the slime secretion was stopped, but as a result of this outrage against nature the animals' health was critically undermined.
 Дальность прыжка: <bonJump> пк.	Jump range: <bonJump> pc
+Биогенетический дроид II	Biogenetic Droid II
+Биогенетический дроид III	Biogenetic Droid III
+Биполярный радар I-III	Bipolar Radar I-III
+Биполярный радар I	Bipolar Radar I
+Выпускаемое <color=255,240,100>фэянами</color> и <color=255,240,100>людьми</color> оборудование, созданное с целью реполяризации бортовых энергетических потоков. Часть мощности биполярного радара перенаправляется на усиление генератора защитного поля, что наглядно демонстрирует принцип универсальной конверсии <color=255,240,100>Боо-Гвана</color> на примере современной техники.	Equipment manufactured by <color=255,240,100>faeyans</color> and <color=255,240,100>humans</color> to repolarize onboard energy flows. Part of the bipolar radar's power is redirected to boost the shield generator, which clearly demonstrates the principle of <color=255,240,100>Boo-Gwan</color>'s universal conversion using modern technology as an example.
 Мощность защитного поля: <bonDef><clr>%<clrEnd>	Shield power: <bonDef><clr>%<clrEnd>
+Биполярный радар II	Bipolar Radar II
+Биполярный радар III	Bipolar Radar III
+Блокиратор v2.1.7	Blocker v2.1.7
+Микромодуль первого уровня. Подключает к <color=50,255,200>терроноидному</color> генератору защитного поля четыре огромные батареи, увеличивающие его мощность до предела.	A level one micromodule. Connects four huge batteries to a <color=50,255,200>terronoid</color> shield generator, raising its power to the limit.
 Стоимость: <clr>+100%<clrEnd>	Cost: <clr>+100%<clrEnd>
+Размер: <clr>+250%<clrEnd>	Size: <clr>+250%<clrEnd>
+Сотовый радар I-III	Cell Radar I-III
+Сотовый радар I	Cell Radar I
+Серия радаров, разработанных <color=255,240,100>пиратским кланом</color> в попытках ликвидировать техническое отставание от новейших коалиционных разработок в данной сфере. Несмотря на отчаянные попытки пиратских мастеров обеспечить достаточной надёжностью нестабильные сотовые чипы, долговечность таких радаров всё равно оказалась на непрактично низком уровне.	A series of radars developed by the <color=255,240,100>pirate clan</color> in an attempt to close the technological gap with the latest Coalition developments in this field. Despite the pirate craftsmen's desperate attempts to give the unstable cell chips sufficient reliability, the durability of these radars still turned out to be impractically low.
+Сотовый радар II	Cell Radar II
+Сотовый радар III	Cell Radar III
+Кибернетический захват I-III	Cybernetic Gripper I-III
+Кибернетический захват I	Cybernetic Gripper I
+Уникальная совместная разработка <color=255,240,100>людей</color> и <color=255,240,100>фэян</color>. Данный "захват" по сути является <color=255,240,100>ремонтным дроидом</color>, параллельно занимающимся сбором валяющихся вокруг корабля вещей. Увеличение числа обязанностей ожидаемо не пошло ремонтному дроиду впрок, да и под обстрел вражеских пушек этот трудяга попадает значительно чаще, зато в бою владелец сего девайса может рассчитывать на помощь сразу двух металлических хранителей.	A unique joint development of <color=255,240,100>humans</color> and <color=255,240,100>faeyans</color>. This "gripper" is essentially a <color=255,240,100>repair droid</color> that also collects items lying around the ship. As expected, the larger number of duties did the repair droid no good, and this workhorse comes under enemy gunfire much more often, but in battle the owner of this device can count on the help of two metal guardians at once.
 Эффективность дроида: <bonDroid> ед.	Droid effectiveness: <bonDroid>
+Скорость притяжения захватом вблизи: <bonHookMinSpeed>	Short-range gripper pull speed: <bonHookMinSpeed>
+Кибернетический захват II	Cybernetic Gripper II
+Кибернетический захват III	Cybernetic Gripper III
+Даунгрейд	Downgrade
+Микромодуль третьего уровня. Заменяет часть дорогих и наиболее громоздких <color=220,140,245>фэянских</color> или <color=255,215,25>гаальских</color> деталей более компактными и низкокачественными пеленгскими аналогами, попутно удаляя все декоративные малофункциональные элементы. Неприменим для оружия и корпусов.	A level three micromodule. Replaces some of the expensive and most bulky <color=220,140,245>faeyan</color> or <color=255,215,25>gaalian</color> parts with more compact and lower-quality peleng analogs, removing along the way all decorative low-function elements. Not applicable to weapons and hulls.
+Стоимость: <clr>-40%<clrEnd>	Cost: <clr>-40%<clrEnd>
 Размер: <clr>-25%<clrEnd>	Size: <clr>-25%<clrEnd>
+Надёжность: <clr>-33%<clrEnd>	Reliability: <clr>-33%<clrEnd>
+Дуплексный сканер I-III	Duplex Scanner I-III
+Дуплексный сканер I	Duplex Scanner I
+Серия сканеров, разработанных <color=255,240,100>пиратским кланом</color> в попытках ликвидировать техническое отставание от новейших коалиционных разработок в данной сфере. Несмотря на отчаянные попытки пиратских мастеров обеспечить достаточной живучестью легкоплавкие дуплексные контуры, долговечность таких сканеров всё равно оказалась на непрактично низком уровне.	A series of scanners developed by the <color=255,240,100>pirate clan</color> in an attempt to close the technological gap with the latest Coalition developments in this field. Despite the pirate craftsmen's desperate attempts to give the low-melting duplex circuits sufficient survivability, the durability of these scanners still turned out to be impractically low.
+Дуплексный сканер II	Duplex Scanner II
+Дуплексный сканер III	Duplex Scanner III
+ЭМ-генератор	EM-generator
+Микромодуль второго уровня. Монтирует на <clr>энергетическое<clrEnd> орудие <color=220,140,245>фэянского</color> производства компактный генератор электромагнитных импульсов, вызывающий перебои в работе оборудования противника.	A level two micromodule. Mounts a compact electromagnetic pulse generator on a <color=220,140,245>faeyan</color>-made <clr>energy<clrEnd> weapon, causing disruptions in the enemy's equipment.
+Дополнительный эффект: <clr>ЭМ-помехи<clrEnd>	Additional effect: <clr>EM-interference<clrEnd>
+Электрогенный захват I-III	Electrogenic Gripper I-III
+Электрогенный захват I	Electrogenic Gripper I
+Серия захватов, разработанных <color=255,240,100>пиратским кланом</color> в попытках ликвидировать техническое отставание от новейших коалиционных разработок в данной сфере. Несмотря на отчаянные попытки пиратских мастеров обеспечить достаточной износостойкостью хрупкие электрогенные приводы, долговечность таких захватов всё равно оказалась на непрактично низком уровне.	A series of grippers developed by the <color=255,240,100>pirate clan</color> in an attempt to close the technological gap with the latest Coalition developments in this field. Despite the pirate craftsmen's desperate attempts to give the fragile electrogenic drives sufficient wear resistance, the durability of these grippers still turned out to be impractically low.
+Скорость притяжения захватом издалека: <bonHookMaxSpeed>.	Long-range gripper pull speed: <bonHookMaxSpeed>.
+Электрогенный захват II	Electrogenic Gripper II
+Электрогенный захват III	Electrogenic Gripper III
+Слонопотам	Elephantam
+Микромодуль второго уровня. Увеличивает расстояние между атомами <clr>корпуса<clrEnd> корабля, повышая его размер. Отрицательным эффектом является уменьшение прочности брони, вызванное ослаблением атомарных связей. Совместим с <color=50,150,230>человеческим</color> и <color=130,200,40>пеленгским</color> корпусами.	A level two micromodule. Increases the distance between the atoms of the ship's <clr>hull<clrEnd>, enlarging it. The negative effect is reduced armor strength caused by weakened atomic bonds. Compatible with <color=50,150,230>human</color> and <color=130,200,40>peleng</color> hulls.
 Размер: <clr>+35%<clrEnd>	Size: <clr>+35%<clrEnd>
+Восприимчивость к урону: <clr>+30%<clrEnd>	Damage susceptibility: <clr>+30%<clrEnd>
+Энергенный двигатель I-III	Energenic Engine I-III
+Энергенный двигатель I	Energenic Engine I
+Неоднозначная приспособа <color=255,240,100>пиратских</color> "кулибиных". Часть энергии маневровых сопел данного двигателя была перенаправлена в маршевый канал, что привело к увеличению скорости, но также существенно снизило манёвренность судна. Большинство коалиционных рас такой "разработкой" побрезговали, однако <color=255,240,100>малокам</color> и <color=255,240,100>пеленгам</color> идея пришлась вполне по душе.	A dubious contraption by <color=255,240,100>pirate</color> "Kulibins". Part of the maneuvering nozzle energy of this engine has been redirected to the main drive channel, which increased speed but also substantially reduced the ship's maneuverability. Most Coalition races turned up their noses at such a "development", but <color=255,240,100>maloqs</color> and <color=255,240,100>pelengs</color> quite liked the idea.
 Скорость двигателя: <bonSpeed> ед.	Engine speed: <bonSpeed>
 Навык манёвренности: <bonSkill2>	Mobility skill: <bonSkill2>
+Энергенный двигатель II	Energenic Engine II
+Энергенный двигатель III	Energenic Engine III
+Оценочный сканер I-III	Evaluation Scanner I-III
+Оценочный сканер I	Evaluation Scanner I
+Инструмент настоящего <clr>бизнесмена<clrEnd>. Особые оценочные модули позволяют сканировать различные товары и выявлять их дефекты, а идущее в комплекте приложение уведомляет владельца о последних трендах на галактической бирже. К сожалению, программное обеспечение серьёзно загружает процессор, вследствие чего страдает общая производительность сканера.	A tool for a true <clr>businessman<clrEnd>. Special appraisal modules allow scanning various goods and detecting their defects, and the bundled application notifies the owner of the latest trends on the galactic exchange. Unfortunately, the software heavily loads the processor, so the scanner's overall performance suffers.
 Навык торговли: <bonSkill4>	Commerce skill: <bonSkill4>
+Оценочный сканер II	Evaluation Scanner II
+Оценочный сканер III	Evaluation Scanner III
+Экстрим-флай	Extreme-Fly
+Микромодуль первого уровня. Снимает скоростные ограничения с двигателей <color=198,128,80>пиратского</color> производства, увеличивая их пропульсивные свойства, но также и заметно ускоряя износ.	A level one micromodule. Removes the speed limits from <color=198,128,80>pirate</color>-made engines, increasing their propulsive properties but also noticeably speeding up wear.
+Надёжность: <clr>-60%<clrEnd>	Reliability: <clr>-60%<clrEnd>
+"Экстремум"	Extremum
+Данное орудие оснащено мощнейшим блоком питания, способным <clr>максимизировать наносимый урон<clrEnd> вне зависимости от навыка точности пилота. Модифицированный блок крайне нестабилен и к тому же занимает большой объём, что ведёт к быстрому перегреву и скорому износу оружия. Но даже несмотря на столь обширный набор проблем, <clr>пиратские<clrEnd> инженеры всё равно развернули серийное производство, рассчитывая исправить ключевые недоработки вскоре после победы в гражданской войне.	This weapon is fitted with a powerful power unit capable of <clr>maximizing the damage dealt<clrEnd> regardless of the pilot's aiming skill. The modified unit is extremely unstable and also takes up a lot of space, which leads to quick overheating and rapid wear of the weapon. But even with such an extensive set of problems, <clr>pirate<clrEnd> engineers launched serial production anyway, hoping to fix the key flaws soon after winning the civil war.
+Дополнительный эффект: <clr>не имеет разброса урона<clrEnd>	Additional effect: <clr>no damage spread<clrEnd>
+Данное орудие оснащено мощнейшим блоком наведения, способным <clr>максимизировать наносимый урон<clrEnd> вне зависимости от навыка точности пилота. Модифицированный блок склонен к частым сбоям и к тому же занимает большой объём, что ведёт к постоянным отказам и скорому износу оружия. Но даже несмотря на столь обширный набор проблем, <clr>пиратские<clrEnd> инженеры всё равно развернули серийное производство, рассчитывая исправить ключевые недоработки вскоре после победы в гражданской войне.	This weapon is fitted with a powerful targeting unit capable of <clr>maximizing the damage dealt<clrEnd> regardless of the pilot's aiming skill. The modified unit is prone to frequent glitches and also takes up a lot of space, which leads to constant failures and rapid wear of the weapon. But even with such an extensive set of problems, <clr>pirate<clrEnd> engineers launched serial production anyway, hoping to fix the key flaws soon after winning the civil war.
+Фраг-Ап	Frag-Up
+Микромодуль второго уровня. Заменяет оригинальную систему подачи <clr>осколочных<clrEnd> боеприпасов более эффективным и компактным, но в то же время более дорогим аналогом. Подходит для замены только старых <color=130,200,40>пеленгских</color> и <color=255,70,0>малокских</color> компонентов. По неизвестной причине <color=255,20,20>конфликтует</color> с программным обеспечением доминаторов.	A level two micromodule. Replaces the original <clr>splinter<clrEnd> ammunition feed system with a more efficient and compact, but also more expensive, analog. Suitable only for replacing old <color=130,200,40>peleng</color> and <color=255,70,0>maloq</color> components. For some unknown reason it <color=255,20,20>conflicts</color> with dominator software.
 Размер: <clr>-20%<clrEnd>	Size: <clr>-20%<clrEnd>
+Стоимость: <clr>+35%<clrEnd>	Cost: <clr>+35%<clrEnd>
+Фуравэн I-IV	Fooravean I-IV
+Корпус "Фуравэн" I	Fooravean Hull I
+<color=248,252,248>Дорогостоящий <clr>фэянский<clrEnd> проект, созданный в рамках конкурса на разработку лучшего дипломатического корпуса "всех времён". Корабль может похвастаться невероятно роскошным интерьером, в угоду которому пожертвовали даже оптимальным расположением орудийных отсеков. В то же время ловко замаскированные под декоративные внешние обводы экзодинамические конденсаторы постоянно накапливают и перенаправляют на ускорительный контур двигателя дополнительные потоки звёздной энергии. Правда, в погоне за приданием корпусу элегантного внешнего вида, <clr>фэяне<clrEnd> совсем позабыли об обеспечении конденсаторов удобными системами микроконтроля. Иными словами, все высокотехнологичные изыски <clr>"Фуравэна"<clrEnd> попросту слишком сложны для понимания и управления кем-либо, кроме представителей <clr>фэянской<clrEnd> расы.</color>	<color=248,252,248>An expensive <clr>faeyan<clrEnd> project created in a competition to develop the best diplomatic corps "of all time". The ship boasts an incredibly luxurious interior, for the sake of which even the optimal placement of the weapon bays was sacrificed. At the same time, exodynamic condensers cleverly disguised as decorative outer contours constantly accumulate additional streams of stellar energy and redirect them to the engine's booster circuit. True, in pursuit of an elegant exterior for the hull, the <clr>faeyans<clrEnd> completely forgot to give the condensers convenient microcontrol systems. In other words, all the high-tech refinements of the <clr>"Fooravean"<clrEnd> are simply too complex for anyone but members of the <clr>faeyan<clrEnd> race to understand and control.</color>
 Навык обаяния: <bonSkill5>	Charisma skill: <bonSkill5>
 Масса корабля: <bonMass><clr>%<clrEnd>	Ship mass: <bonMass><clr>%<clrEnd>
 Урон ракетного оружия: <bonWMissile> ед.	Missile weapon damage: <bonWMissile> units
+(только для <clr>фэян<clrEnd>)	(only for <clr>faeyans<clrEnd>)
+Корпус "Фуравэн" II	Fooravean Hull II
+Корпус "Фуравэн" III	Fooravean Hull III
+Корпус "Фуравэн" IV	Fooravean Hull IV
+Хатабер	Khataber
+Микромодуль третьего уровня. Патчит нелицензионное программное обеспечение <color=198,128,80>пиратского</color> оборудования до последней версии, исправляет повреждённые файлы реестра и чистит кэш. Такие, казалось бы, банальные процедуры обеспечивают устройству лучшее качество работы и облегчают процесс ремонта.	A level three micromodule. Patches the unlicensed software of <color=198,128,80>pirate</color> equipment to the latest version, repairs corrupted registry files and clears the cache. Such seemingly banal procedures give the device better working quality and ease the repair process.
+Надёжность: <clr>+17%<clrEnd>	Reliability: <clr>+17%<clrEnd>
+Стоимость: <clr>-15%<clrEnd>	Cost: <clr>-15%<clrEnd>
 Размер: <clr>-10%<clrEnd>	Size: <clr>-10%<clrEnd>
+Лимитайзер	Limitizer
+Микромодуль первого уровня. Подключает к <clr>энергетическому<clrEnd> оружию <color=50,255,200>блазероидов</color> продвинутую систему наведения, производящую выстрел в полностью автономном режиме. Для корректной работы система потребляет энергию из конденсаторов орудия.	A level one micromodule. Connects an advanced targeting system to the <clr>energy<clrEnd> weapons of <color=50,255,200>blazeroids</color>, which fires in fully autonomous mode. For correct operation the system draws power from the weapon's capacitors.
 Стоимость: <clr>+50%<clrEnd>	Cost: <clr>+50%<clrEnd>
+Микрогенарный генератор защиты I-III	Microgenic Shield Generator I-III
+Микрогенарный генератор защиты I	Microgenic Shield Generator I
+Данная линейка оборудования была разработана <color=255,240,100>фэянскими</color> учёными в тесном сотрудничестве с лучшими <color=255,240,100>гаальскими</color> мастерами иикэ-бааны. Досконально неизвестно, что же обеспечило проекту успех: передовая фэянская микроинженерия или тончайшая духовная организация гаальского интеллекта, однако в конечном итоге <color=255,240,100>размер</color> и <color=255,240,100>масса</color> подобных устройств были уменьшены многократно. Некоторые независимые эксперты, правда, считают, что если бы духовная организация гаальцев оказалась не столь тонка, нежелательного снижения надёжности микрогенарных разработок удалось бы избежать, однако на фоне общего триумфа на их критику не обратили должного внимания.	This line of equipment was developed by <color=255,240,100>faeyan</color> scientists in close cooperation with the best <color=255,240,100>gaalian</color> masters of Iike-Baana. It is not known exactly what ensured the project's success: advanced faeyan microengineering or the exquisite spiritual organization of the gaalian intellect, but in the end the <color=255,240,100>size</color> and <color=255,240,100>mass</color> of such devices were reduced many times over. Some independent experts, however, believe that had the gaalians' spiritual organization been less exquisite, the undesirable loss of reliability in the microgenic designs could have been avoided, but against the background of the general triumph their criticism received no proper attention.
+Микрогенарный генератор защиты II	Microgenic Shield Generator II
+Микрогенарный генератор защиты III	Microgenic Shield Generator III
+Микрогенарный дроид I-III	Microgenic Droid I-III
+Микрогенарный дроид I	Microgenic Droid I
+Микрогенарный дроид II	Microgenic Droid II
+Микрогенарный дроид III	Microgenic Droid III
+Микрогенарный двигатель I-III	Microgenic Engine I-III
+Микрогенарный двигатель I	Microgenic Engine I
+Микрогенарный двигатель II	Microgenic Engine II
+Микрогенарный двигатель III	Microgenic Engine III
+Микрогенарный захват I-III	Microgenic Gripper I-III
+Микрогенарный захват I	Microgenic Gripper I
+Микрогенарный захват II	Microgenic Gripper II
+Микрогенарный захват III	Microgenic Gripper III
+Микрогенарный радар I-III	Microgenic Radar I-III
+Микрогенарный радар I	Microgenic Radar I
+Микрогенарный радар II	Microgenic Radar II
+Микрогенарный радар III	Microgenic Radar III
+Микрогенарный сканер I-III	Microgenic Scanner I-III
+Микрогенарный сканер I	Microgenic Scanner I
+Микрогенарный сканер II	Microgenic Scanner II
+Микрогенарный сканер III	Microgenic Scanner III
+Фазовый двигатель I-III	Phase Engine I-III
+Фазовый двигатель I	Phase Engine I
+Серия двигателей, разработанных <color=255,240,100>пиратским кланом</color> в попытках ликвидировать техническое отставание от новейших коалиционных разработок в данной сфере. Несмотря на отчаянные попытки пиратских мастеров обеспечить достаточной стабильностью энергоёмкие фазовые ускорители, долговечность таких двигателей всё равно оказалась на непрактично низком уровне.	A series of engines developed by the <color=255,240,100>pirate clan</color> in an attempt to close the technological gap with the latest Coalition developments in this field. Despite the pirate craftsmen's desperate attempts to give the energy-hungry phase accelerators sufficient stability, the durability of these engines still turned out to be impractically low.
+Фазовый двигатель II	Phase Engine II
+Фазовый двигатель III	Phase Engine III
+Пикаап I-IV	Pickuhup I-IV
+Корпус "Пикаап" I	Pickuhup Hull I
+<color=248,252,248>Массивный грузовой корпус для степенных торговцев, которые понимают, что вся суета мирского космоса лишь отвлекает нас от высшей единой цели. Содержит на борту пси-усилитель гармонизирующего поля Наар-Вана, способного в буквальном смысле "гармонизировать" энергетические потоки вокруг внешней обшивки, что благоприятно сказывается на работе всего связанного оборудования и средств дальней связи. К сожалению, для работы такого пси-усилителя требуется значительный источник псионной энергии, которым, по заверениям современной <clr>гаальской<clrEnd> науки, может являться только разум взрослого <clr>гаальца<clrEnd>. Кроме того, корпус содержит в себе массу новейших систем климат-контроля, гравитационной стабилизации, экстренного демпфирования, духовной нормализации и полной стерилизации внутренних помещений, что крайне благоприятно сказывается на сохранности груза, но также делает корабль весьма громоздким и уязвимым к вражескому огню.</color>	<color=248,252,248>A massive cargo hull for stately traders who understand that all the bustle of mundane space merely distracts us from the one higher goal. It carries aboard a psi-amplifier of Naar-Vana's harmonizing field, capable of literally "harmonizing" the energy flows around the outer hull, which benefits the operation of all connected equipment and long-range communications. Unfortunately, such a psi-amplifier requires a significant source of psionic energy, which, according to modern <clr>gaalian<clrEnd> science, can only be the mind of an adult <clr>gaalian<clrEnd>. In addition, the hull contains a host of the latest climate control, gravitational stabilization, emergency damping, spiritual normalization and full sterilization systems for the interior, which is highly beneficial for the safety of the cargo but also makes the ship quite bulky and vulnerable to enemy fire.</color>
 Навык точности: <bonSkill1>	Attack skill: <bonSkill1>
+(только для <clr>гаальцев<clrEnd>)	(only for <clr>gaalians<clrEnd>)
+Корпус "Пикаап" II	Pickuhup Hull II
+Корпус "Пикаап" III	Pickuhup Hull III
+Корпус "Пикаап" IV	Pickuhup Hull IV
+Пневматический дроид I-III	Pneumatic Droid I-III
+Пневматический дроид I	Pneumatic Droid I
+Серия дроидов, разработанных <color=255,240,100>пиратским кланом</color> в попытках ликвидировать техническое отставание от новейших коалиционных разработок в данной сфере. Несмотря на отчаянные попытки пиратских мастеров обеспечить достаточной прочностью форсированные пневматические приводы, долговечность таких дроидов всё равно оказалась на непрактично низком уровне.	A series of droids developed by the <color=255,240,100>pirate clan</color> in an attempt to close the technological gap with the latest Coalition developments in this field. Despite the pirate craftsmen's desperate attempts to give the boosted pneumatic drives sufficient strength, the durability of these droids still turned out to be impractically low.
+Пневматический дроид II	Pneumatic Droid II
+Пневматический дроид III	Pneumatic Droid III
+Гордокрыл I-IV	Proudwing I-IV
+Корпус "Гордокрыл" I	Proudwing Hull I
+<color=248,252,248>Особая разработка <clr>человеческих<clrEnd> учёных, задуманная в качестве лёгкого, но мощного дистанционного перехватчика. Снижение брони позволило значительно облегчить данный корпус, а установленная в нём нейрометрическая система наведения и перехвата ракет позволила добиться впечатляющих показателей управления данным видом оружия. К сожалению, в попытках поскорее вывести корабль в серийное производство, инженеры не успели адаптировать систему под управление любым разумным гуманоидом, а потому эффективно использовать её боевые возможности способны только</color> <clr>люди<clrEnd>.	<color=248,252,248>A special development by <clr>human<clrEnd> scientists, conceived as a light but powerful long-range interceptor. The reduced armor made it possible to lighten this hull considerably, and the neurometric missile guidance and interception system installed in it achieved impressive control performance with this type of weapon. Unfortunately, in the rush to put the ship into serial production, the engineers did not have time to adapt the system for control by any sapient humanoid, so its combat capabilities can be used effectively only by</color> <clr>humans<clrEnd>.
 Скорость ракет: <bonMissileSpeed> ед.	Missile speed: <bonMissileSpeed> units
+(только для <clr>людей<clrEnd>)	(only for <clr>humans<clrEnd>)
+Корпус "Гордокрыл" II	Proudwing Hull II
+Корпус "Гордокрыл" III	Proudwing Hull III
+Корпус "Гордокрыл" IV	Proudwing Hull IV
+Дрындулет I-IV	Dryndulet I-IV
+Корпус "Дрындулет" I	Dryndulet Hull I
+<color=248,252,248>Данный корпус оборудован максимально прочными и удобными для любого <clr>малока<clrEnd> рычагами управления. В связи с нехваткой свободного пространства в кабине пилота и проблемами с системой автоматической подачи боеприпасов, краснокожими умельцами было принято рациональное решение расположить все орудийные отсеки в прямой досягаемости от табурета пилота. От рождения склонные к милитаризму <clr>малоки<clrEnd> с радостью принялись перезаряжать все осколочные и ракетные пушки вручную, что самым прямым образом отразилось на боевых характеристиках <clr>"Дрындулета"<clrEnd>. Всем прочим расам, правда, подобные инженерные находки пришлись не по душе, да и не по плечу, однако это только ещё сильнее раззадорило горбатых звездонавтов.</color>	<color=248,252,248>This hull is equipped with controls that are as sturdy and convenient as possible for any <clr>maloq<clrEnd>. Owing to the lack of free space in the pilot's cabin and problems with the automatic ammunition feed system, the red-skinned craftsmen made the rational decision to place all the weapon bays within direct reach of the pilot's stool. Militaristic by nature, <clr>maloqs<clrEnd> gladly set about reloading all the splinter and missile guns by hand, which directly affected the combat characteristics of the <clr>"Dryndulet"<clrEnd>. The other races, however, did not like such engineering finds, nor were they up to them, but this only spurred the hunchbacked starfarers on even more.</color>
 Навык техники: <bonSkill3>	Technology skill: <bonSkill3>
+(только для <clr>малоков<clrEnd>)	(only for <clr>maloqs<clrEnd>)
+Корпус "Дрындулет" II	Dryndulet Hull II
+Корпус "Дрындулет" III	Dryndulet Hull III
+Корпус "Дрындулет" IV	Dryndulet Hull IV
+СканБот I-III	ScanBot I-III
+СканБот R1	ScanBot R1
+Уникальная совместная разработка <color=255,240,100>людей</color> и <color=255,240,100>фэян</color>. СканБот - роботизированный сканер, помимо своей основной задачи занимающийся поиском и диагностикой технических неполадок на корабле хозяина. Последнее, впрочем, не лучшим образом сказывается на эффективности сканирования всех прочих судов.	A unique joint development of <color=255,240,100>humans</color> and <color=255,240,100>faeyans</color>. The ScanBot is a robotic scanner that, besides its main task, searches for and diagnoses technical faults on its owner's ship. The latter, however, does not do the best job for the efficiency of scanning all other ships.
+СканБот R2	ScanBot R2
+СканБот R3	ScanBot R3
+Шмякуш I-IV	Plumpush I-IV
+Корпус "Шмякуш" I	Plumpush Hull I
+<color=248,252,248>Быстрый и манёвренный <clr>пеленгский<clrEnd> перехватчик, идеально подходящий для молниеносных рейдов по вражеским тылам. Улучшенное энергоснабжение бортовых систем позволило добиться впечатляющего прироста ряда ключевых характеристик, однако вызываемые экспериментальным реактором судна магнитные помехи негативно сказались на работе навигационного оборудования и систем наведения ракет. Кроме того, вечно переживающие за свою личную безопасность <clr>пеленги<clrEnd>, решили заблаговременно нарастить <clr>"Шмякушу"<clrEnd> брони, что существенно снизило вместимость данного корпуса и привело к тому, что эффективно орудовать органами управления в тесной кабине корабля смогли только ловкие многорукие пилоты</color> <clr>пеленги<clrEnd>.	<color=248,252,248>A fast and maneuverable <clr>peleng<clrEnd> interceptor, ideal for lightning raids behind enemy lines. Improved power supply to the onboard systems has yielded an impressive increase in a number of key characteristics, but the magnetic interference caused by the ship's experimental reactor has had a negative effect on the navigation equipment and missile guidance systems. In addition, the <clr>pelengs<clrEnd>, ever anxious about their personal safety, decided to add armor to the <clr>"Plumpush"<clrEnd> in advance, which substantially reduced this hull's capacity and meant that only nimble multi-armed pilots could handle the controls effectively in the ship's cramped cabin, namely</color> <clr>pelengs<clrEnd>.
+(только для <clr>пеленгов<clrEnd>)	(only for <clr>pelengs<clrEnd>)
+Корпус "Шмякуш" II	Plumpush Hull II
+Корпус "Шмякуш" III	Plumpush Hull III
+Корпус "Шмякуш" IV	Plumpush Hull IV
+Стационный генератор защиты I-III	Stationic Shield Generator I-III
+Стационный генератор защиты I	Stationic Shield Generator I
+Серия генераторов защиты, разработанных <color=255,240,100>пиратским кланом</color> в попытках ликвидировать техническое отставание от новейших коалиционных разработок в данной сфере. Несмотря на отчаянные попытки пиратских мастеров обеспечить достаточной стабильностью энергоёмкие стационарные излучатели, долговечность таких генераторов всё равно оказалась на непрактично низком уровне.	A series of shield generators developed by the <color=255,240,100>pirate clan</color> in an attempt to close the technological gap with the latest Coalition developments in this field. Despite the pirate craftsmen's desperate attempts to give the energy-hungry stationary emitters sufficient stability, the durability of these generators still turned out to be impractically low.
+Стационный генератор защиты II	Stationic Shield Generator II
+Стационный генератор защиты III	Stationic Shield Generator III
+ТЕДБ	TEDB
+Микромодуль второго уровня. Инсталлирует в <clr>двигатель<clrEnd> <color=50,150,230>человеческого</color> производства оптимизатор <clr>"ТЕДБ"<clrEnd> (что расшифровывается как: "Тише едешь - дальше будешь"), перенаправляющий энергию с ускорительного контура на гиперпривод. Последнее приводит к увеличению дальности прыжка и надёжности в ущерб максимальной скорости полёта.	A level two micromodule. Installs a <clr>"TEDB"<clrEnd> optimizer (which stands for "Take Easy, Do Better") into a <color=50,150,230>human</color>-made <clr>engine<clrEnd>, redirecting energy from the booster circuit to the hyperdrive. The latter increases jump range and reliability at the expense of maximum flight speed.
+Надёжность: <clr>+50%<clrEnd>	Reliability: <clr>+50%<clrEnd>
 Размер: <clr>+20%<clrEnd>	Size: <clr>+20%<clrEnd>
 Корпус "Таухито"	"Tauhito" Hull
+Старинная разработка Коалиции, переходившая лишь потомкам участников её тестирования в качестве наследства, но лишенная особых свойств, пока диск с данными об оригинальном проекте не был найден неким рейнджером. Корпус был воссоздан специалистами из сети центров рейнджеров, максимально приближенный к изначальной задумке - бортовой компьютер вводит пилота в киберпространство, поразительно повышая его скорость и реакцию, а также максимизируя работу сканера и радара. Расплачиваться приходится частично утерянной связью с реальностью, приводящей к снижению социальных способностей пилота.	An ancient Coalition design that passed only to the descendants of its test participants as an inheritance, but lacked special properties until a disk with data on the original project was found by a certain Ranger. The hull was recreated by specialists of the Ranger center network, as close as possible to the original concept: the ship's computer plunges the pilot into cyberspace, remarkably increasing speed and reaction and maximizing scanner and radar performance. The price is a partly lost link with reality, which reduces the pilot's social abilities.
 Навык лидерства: <bonSkill6>	Leadership skill: <bonSkill6>
+"Торпедо"	Torpedo
+Ракетометы данной модификации представляют собой небезуспешную попытку учёных Коалиции воссоздать доминаторские торпедные аппараты. Пусковая установка была переоборудована для запуска одиночных мощных торпед, которые, хотя и уступают по эффективности доминаторским образцам, представляют собой определённое подспорье новейшему вооружению противника.	Missile launchers of this modification are a not unsuccessful attempt by Coalition scientists to recreate dominator torpedo launchers. The launcher was refitted to fire single powerful torpedoes which, though inferior in effectiveness to dominator models, are some help against the enemy's newest weaponry.
+Апгрейд	Upgrade
+Микромодуль второго уровня. Обновляет программное обеспечение <color=50,255,200>келлероидного</color> оборудования, повышая его надёжность и основные характеристики. Неприменим для корпуса, топливного бака и орудийных систем.	A level two micromodule. Updates the software of <color=50,255,200>kelleroid</color> equipment, raising its reliability and main characteristics. Not applicable to hulls, fuel tanks and weapon systems.
+Стоимость: <clr>+75%<clrEnd>	Cost: <clr>+75%<clrEnd>
 А что это у тебя за корпус такой? Никогда подобного не встречал!	What is that hull of yours? I've never seen anything like this before!
+Напомни, партнёр, а что это у тебя за корпус такой? Никогда подобного не встречал!	Remind me, partner, what kind of hull is that you have? I've never seen anything like it!
 Но мы же все рейнджеры, одно общее дело делаем! Какие у нас могут быть секреты друг от друга?	But we are all rangers, we're doing the same things! What secrets could be between us?
 Я весь внимание!	I'm listening very carefully!
 И что же пошло не так? Сейчас до сих пор ни на одном корабле нет подобных устройств.	So, what went wrong? Still no ship has this kind of devices even now!
 И что стало с этими испытателями и проектом? Корпус же до сих пор у тебя!	What happened to those test pilots and the project itself? You still have the hull, haven't you?
+Та ещё история. Мне, получается, такой корпус уже не достать?	Quite a story. So I can't get such a hull anymore?
+Спасибо за рассказ, удачи тебе!	Thanks for the story, good luck to you!
 Спасибо за подробное изложение. Теперь нас ждут великие дела!	Thanks for the explanations! Now, let's go!
 Да я же величайший рейнджер, которого когда-либо знала наша галактика! А ну быстро выложил мне все что знаешь, иначе я тебя тут сейчас в клочья разнесу вместе с этим корытом, насколько бы необычным оно не было!	I'm the greatest ranger this galaxy ever known! Tell me everything you know as fast as you can, or I'll blow your piece of junk despite of how unique it is!
 А ты, <Player>, с какой целью интересуешься? Информация эта секретна и доступна строго ограниченному кругу лиц.	Hey, <Player>, why do you ask it? This information is classified and only limited amount of persons has access to it.
@@ -46,3 +223,22 @@
 Бывай, товарищ!	See you, fella!
 Всегда готов помочь, напарник!	Stay in touch, partner!
 Так дела не делаются, <Player>. Научись разговаривать и не хамить сначала, а потом уже требуй что-то. И смотри, чтобы я тебя не проучил за подобные выходки.	Things should not be done this way, <Player>. Learn some respect and try not to confront anyone you see first. Moreover, say thanks if I'm not going to teach you a lesson right now!
+Великолепно! Ваш новёхонький <clr>"Таухито"<clrEnd> уже ожидает вас на складе в полной комплектации!	Wonderful! Your brand-new <clr>"Taukhito"<clrEnd> is already waiting for you in the warehouse, fully equipped!
+Что ж, понимаю. У всех порой возникают финансовые затруднения. Но если передумаете, то непременно возвращайтесь! Наше предложение остаётся в силе.	Well, I understand. Everyone has financial difficulties at times. But if you change your mind, do come back! Our offer stands.
+Давайте посмотрим, что вы нам принесли... Ого! Судя по дате, это разработка времён клисанской войны! Крайне занимательно. Так-так-так, где-то здесь у нас как раз сохранился древний дисковод...	Let's see what you've brought us... Wow! Judging by the date, this is a design from the time of the Klissan War! Most intriguing. Let's see, somewhere here we kept an ancient disk drive...
+<Player>, да вы раскопали чертежи уникального корпуса прошлого под названием <clr>"Таухито"<clrEnd>! Часть технологий уже утеряна или более не используется, но по имеющимся данным мы можем достаточно точно восстановить корпус с применением современных акриновых технологий и продать вам, либо же предоставить единовременное вознаграждение в денежном эквиваленте, а именно <Cost> cr. Что выбираете, рейнджер?	<Player>, you've dug up the blueprints of a unique hull of the past called the <clr>"Taukhito"<clrEnd>! Some of the technologies have been lost or are no longer used, but from the available data we can reconstruct the hull quite accurately using modern acryn technology and sell it to you, or else give you a one-time reward in cash, namely <Cost> cr. What do you choose, Ranger?
+Беру, разумеется!	I'll take it, of course!
+Я недавно на незаселенной планетке любопытный диск раскопал...	I recently dug up an interesting disk on an uninhabited planet...
+Жду с нетерпением	I'm looking forward to it
+Премного благодарен	Much obliged
+Нет уж, я лучше воздержусь	No, I'd rather refrain
+Я выбираю деньги	I choose money
+От уникального корпуса я бы не отказался	I wouldn't turn down a unique hull
+Я хотел бы приобрести секретный корпус	I would like to buy the secret hull
+Отлично! На доскональное изучение диска и сборку корпуса у нас может уйти немало времени. Дайте нам хотя бы <TimeLeft> дн. на столь крупный объём работы.	Excellent! Thoroughly studying the disk and assembling the hull may take us quite some time. Give us at least <TimeLeft> days for such a large amount of work.
+Ну что ж... Вознаграждение в размере <Cost> cr. было только что переведено на ваш счёт.	Well then... The reward of <Cost> cr. has just been transferred to your account.
+Вы, <Player>, вижу, вернулись за корпусом. Замечательно! Вот, взгляните на получившиеся характеристики:	I see you, <Player>, have come back for the hull. Wonderful! Here, take a look at the resulting characteristics:
+И всё это вам обойдётся всего в <Cost> cr. с учётом всех налогов и инфляции. Берёте?	And all this will cost you only <Cost> cr., including all taxes and inflation. Will you take it?
+Уважаемый <Player>! От лица команды учёных <clr>центра рейнджеров<clrEnd> <Station> в системе <Star> я рад сообщить, что постройка заказанного вами по древним чертежам <clr>корпуса<clrEnd> <clr>"Таухито"<clrEnd> была успешно завершена. Приглашаем вас при случае выделить "свободную минутку" и самолично оценить наши труды.	Dear <Player>! On behalf of the team of scientists of the <clr>Ranger center<clrEnd> <Station> in the <Star> system, I am glad to report that the construction of the <clr>"Taukhito"<clrEnd> <clr>hull<clrEnd> you ordered from ancient blueprints has been successfully completed. When you can spare a "free minute", we invite you to come and appraise our work in person.
+Диск DS-174/2	DS-174/2 Disk
+Диск человеческой маркировки с эмблемой рейнджерского движения. Следует доставить в ближайший центр рейнджеров.	A disk with human markings and the emblem of the Ranger movement. Should be delivered to the nearest Ranger center.

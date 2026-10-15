@@ -697,8 +697,8 @@
 | Га-Ноцри (желтолицый) | Ga-Notsri |  |
 | Гаа-Тар (гаалец, руководитель) | Gaa-Tar | Complex |
 | Гаал-Ра | Gaal-Ra | Domoclan |
-| Гаалдок | Gaaldok | Massacri, RefLitRes |
-| Гаалдок (планета) | Gaaldok | Kidnapped |
+| Гаалдок | Hahaldock | Massacri, RefLitRes |
+| Гаалдок (планета) | Hahaldock | Kidnapped |
 | гаалец | gaal (noun), gaalian (adj.) |  |
 | гаалец Лоо-Хэн | Loho-Khan |  |
 | гаалец Нааклю Ко (биограф Кацапа) | Naaklyu Ko | Piratesnest |
@@ -3304,7 +3304,7 @@
 | втыкилла | vtykilla | ShuSmugglers, ShuNukes |
 | КВСМК / КВМСК | CAFIC | ShuMiniBoss, ShuRebellion, ShuWarriors |
 | Шигуль Цак | Shigul Tsak | Expansion/ExpBeerQuest |
-| Махпелла Дарк (пиво) | Mahpella Dark | Expansion/ExpBeerQuest |
+| Махпелла Дарк (пиво) | Makhpella Dark | Amnesia, Kidnapped, Expansion/ExpBeerQuest |
 | Рачехан Лагер (пиво) | Rachekhan Lager | Expansion/ExpBeerQuest |
 | Искра (корпус) | Spark | Expansion/ExpLightning |
 | Дядя Вася и сыновья (тюнинг-компания) | Uncle Vasya and Sons | Expansion/ExpLightning |
@@ -3364,3 +3364,73 @@
 | Каратель Глубин | Depth Punisher | ShuMercs |
 | Павлин Треть-Яков | Pavlin Tret-Yakov | ShuMercs |
 | Центр наёмников | Mercenary Center | ShuMercs |
+| Илья Наливкин | Ilya Nalivkin | TheBeerQuest |
+| Тудым-Сюдым | Tudym-Syudym | TheBeerQuest |
+| Шухер Кег | Shukher Keg | TheBeerQuest |
+| Груу-Зи-Ин | Gruu-Zi-In | TheBeerQuest |
+| Апролд | Aprold | TheBeerQuest |
+| Уш Ретсим | Ush Retsim | TheBeerQuest |
+| Бедилаш | Bedilash | TheBeerQuest |
+| Си Галь / Фимор-Ина / Мил Лимов | Si Gal / Fimor-Ina / Mil Limov | TheBeerQuest |
+| Джиньчок | Dzhinchok | TheBeerQuest |
+| Сан Саныч | San Sanych | TheBeerQuest |
+| полковник Докопайко | Colonel Dokopayko | TheBeerQuest |
+| гвардии сержант Мамочкин | Guards Sergeant Mamochkin | TheBeerQuest |
+| Хмельное Наслаждение (пивоваренная компания) | Hoppy Delight | TheBeerQuest |
+| Красные Топоры (малокский отряд) | Red Axes | TheBeerQuest |
+| ЧОП «Атланты» | PSC "Atlantes" | TheBeerQuest |
+| корпорация «Фэйенгеллион» | Feyengellion corporation | TheBeerQuest |
+| ЗАО «СемерёнМашТрест» | CJSC "SemeryonMashTrest" | TheBeerQuest |
+| ООО «Пиворама» | LLC "Beerorama" | TheBeerQuest |
+| ОАО «Фэй-Тех Индастриал» | OJSC "Fey-Tech Industrial" | TheBeerQuest |
+| СДКЭ (Служба Доставки Карагон Экспресс) | SDKE (Karagon Express Delivery Service) | TheBeerQuest |
+| ТЫндекс / Тындекс | TYndex / Tyndex | TheBeerQuest |
+| Мистические Пейнджеры | Mystic Paingers | TheBeerQuest |
+| Самогон ТВ | Moonshine TV | TheBeerQuest |
+| шкала Гууса Жатецкого | Guus Zhatetsky scale | TheBeerQuest |
+| Большое Пивное Пузо | Big Beer Belly | TheBeerQuest |
+| пивбол | beerball | TheBeerQuest |
+| гозе | gose | TheBeerQuest |
+| Иике-Баана | Iike-Baana | TheBeerQuest |
+| Надани Элус (фэянский фестиваль) | Nadani Elus | TheBeerQuest |
+| Верховный / Главный Пивокомандующий | Supreme / Chief Beer Commander | TheBeerQuest |
+| Гаалдок (планета; ванилла) | Hahaldock (унифицировано 2026-10-12: Kidnapped, Massacri, Photorobot, Lang-моды) | TheBeerQuest |
+| Рамгатру / Шухэо / Эйланк / Дуэдэ / Арнарик Гаудад | Ramgatrue / Shukheo / Eilank / Duede / Arnarick Guadad (ванилла) | TheBeerQuest |
+| Тарон / Атлан / Краа / Хемни | Taron / Atlan / Kraa / Khemni | TheBeerQuest |
+| Цык-Ляш (пеленг-боец) | Tsyk-Lyash | mark05 |
+| Расчехаш (пеленг-боец) | Raschekhash | mark05 |
+| Мак-Омет (человек, чемпион; кричалка «Ма-ко-мет») | Mak-Omet ("Mak-o-met!") | mark05 |
+| Ви-таал (кандидат от комплекса, гаалец) | Vi-taal | mark05 |
+| Цшахи Ша Тялька (пеленг в спортивном костюме; в RU раз «Ша Таалю») | Tsshakhi Sha Tyalka (Sha Taal) | mark05 |
+| Йура (корсар, двоюродный брат пьяницы) | Yura | mark05 |
+| Ак-Ак бар | Ak-Ak Bar | mark05 |
+| Ионный Низкочастотный Регенератор Тканей (ИНРТ) | Ionic Low-Frequency Tissue Regenerator (ILFTR) | mark05 |
+| Пицца Аль-Виита | Pizza Al-Viita | mark05 |
+| Рахишбургер | Rakhishburger | mark05 |
+| Мясо малока (блюдо и фирма) | Maloq Meat | mark05 |
+| Горилка | Horilka | mark05 |
+| Малокское твердокрасное | Maloq Hard Red | Mafia, mark05 |
+| Махпелла Крепкое | Makhpella Strong | mark05 |
+| Самогон дяди Васи | Uncle Vasya's Moonshine | mark05 |
+| Зелёный сюрприз (коктейль) | Green Surprise | mark05 |
+| Абыр (рыба пеленгских планет) | Abyr | mark05 |
+| первый чародей | first sorcerer | LongLiveTheRanger (ShuQuest) |
+| Ногну Ка (генерал-маг Империи Гонко) | Nognu Ka | LongLiveTheRanger |
+| Золтан Мудрый (король) | Zoltan the Wise | LongLiveTheRanger (ShuQuest) |
+| Леонид Рузастый / Рио Плонтос / Моу Плонтос (графы) | Leonid Ruzasty / Rio Plontos / Mou Plontos | LongLiveTheRanger |
+| Вейланд-Ю-Тяни (корпорация) | Weyland-Yutani | ZeroSignal |
+| Ностром-13 (станция) | Nostromo-13 | ZeroSignal |
+| Сулака-2 (челнок) | Sulaco-2 | ZeroSignal |
+| Управление орбитального спокойствия | Orbital Tranquility Office | ZeroSignal |
+| ЭШ (серия синтетиков), ЭШ-8 | ASH (series), ASH-8 | ZeroSignal |
+| иксоморф / ИКС-121 | X-morph / X-121 | ZeroSignal |
+| ксиломорф, декоративная древесная форма | xylomorph, decorative wood form | ZeroSignal |
+| матка / яйцеклад / лицелов | queen / ovipositor / facehugger | ZeroSignal |
+| субъект №19 | subject No. 19 | ZeroSignal |
+| протокол 9-3-7 | protocol 9-3-7 | ZeroSignal |
+| Бамбай Рабум Четвёртый (малок-кредитор) | Bambai Rabum the Fourth | RefLongerPrison/Prison |
+| мастер Ли (боец) | Master Lee | RefLongerPrison/Prison |
+| порция блатного | "OG portion" | Prison (ShuPrison, ShuQuest, RefLongerPrison) |
+| закладка / закладчик (наркотики) | stash / stasher | RefLongerPrison/Prison |
+| Гроссмейстер (гаалец-шахматист) | the Grandmaster | RefLongerPrison/Prison |
+| ВОГИНОЛ (малокское оскорбление) | VOGINOL | ShuQuest/Prison |

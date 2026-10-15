@@ -1,5 +1,48 @@
+Валетт	Valette
+Августин	Augustin
+Четвёртого	Fourth
+Третьего	Third
+Второго	Second
+Первого	First
+Девятого	Ninth
+Восьмого	Eighth
+Седьмого	Seventh
+Шестого	Sixth
+Пятого	Fifth
+Аве Мария! Деус Вульт!	Ave Maria! Deus vult!
+Вперёд, к сокрушению еретиков!	Onward, to crush the heretics!
+Смерть кибернетическим еретикам!	Death to the cybernetic heretics!
+Вперёд, за гроб Дабов!	Onward, for the tomb of the Dabs!
+Освободим Гралгар от неверных!	Let us free Gralgar from the infidels!
+Да освятит Господь наши деяния!	May the Lord hallow our deeds!
+Кибереретиков покарает длань Господня!	The hand of the Lord will punish the cyber-heretics!
+Воля Господня превыше всего, а мы - его верные псы и воли Его исполнители.	The Lord's will is above all, and we are His faithful hounds and executors of His will.
+Слава подвигу святых отцов!	Glory to the feat of the holy fathers!
+К вящей славе нашего Пресвятого Ордена!	To the greater glory of our Most Holy Order!
+Во славу Коалиции! Три Высочайших Ордена Креста собрали силы и готовы нанести новый удар по кибернетическим еретикам! Великие Магистры снарядились в бой и объявили о начале нового Крестового похода - name! Войска Орденов выдвинутся из системы star.	For the glory of the Coalition! The three Supreme Orders of the Cross have gathered their forces and are ready to strike a new blow against the cybernetic heretics! The Grand Masters have armed themselves for battle and announced the start of a new Crusade - name! The Orders' troops will set out from the star system.
+Моле	Molay
+Филамейя	Filameya
+Великий Магистр	Grand Master
+Ро'гоон	Ro'goon
+Грамбарр	Grambarr
+Шреккар	Shrekkar
 Рыцарь	Knight
+Крестоносец	Crusader
+Корпус Рыцаря	Knight's Hull
+<color=248,252,248>Латные доспехи когда-то защищали рыцарей от ударов мечей. Когда потомки рыцарей покорили космос, на смену упрочнению личной экипировки пришли доспехи для космических кораблей. Хорошо бронированный корабль Рыцаря Ордена </color><color=60,60,60>Госпитальеров</color><color=248,252,248> защищён по последнему слову техники, и сдержит множество попаданий врагов Коалиции.</color>	<color=248,252,248>Plate armor once protected knights from sword blows. When the descendants of the knights conquered space, the hardening of personal gear gave way to armor for spaceships. The heavily armored ship of a Knight of the Order of </color><color=60,60,60>Hospitallers</color><color=248,252,248> is protected by the latest technology and will withstand many hits from the enemies of the Coalition.</color>
 Броня корпуса: <bonHull> ед.	Hull armor: <bonHull>
+Мощность защитного поля: <bonDef><clr>%<clrEnd>	Shield power: <bonDef><clr>%<clrEnd>
 Эффективность дроида: <bonDroid> ед.	Droid effectiveness: <bonDroid>
+Урон энергетического оружия: <bonWEnergy> ед.	Energy weapon damage: <bonWEnergy> units
+Урон ракетного оружия: <bonWMissile> ед.	Missile weapon damage: <bonWMissile> units
+Урон осколочного оружия: <bonWSplinter> ед.	Splinter weapon damage: <bonWSplinter> units
 Скорость двигателя: <bonSpeed> ед.	Engine speed: <bonSpeed>
 Навык торговли: <bonSkill4>	Commerce skill: <bonSkill4>
+<color=248,252,248>Латные доспехи когда-то защищали рыцарей от ударов мечей. Когда потомки рыцарей покорили космос, на смену упрочнению личной экипировки пришли доспехи для космических кораблей. Корабль Рыцаря Ордена.</color><color=100,250,100>Святого Лазаря</color><color=248,252,248> - яркий представитель их идей беспощадной атаки без обременяющих доспехов.</color>	<color=248,252,248>Plate armor once protected knights from sword blows. When the descendants of the knights conquered space, the hardening of personal gear gave way to armor for spaceships. The ship of a Knight of the Order </color><color=100,250,100>of Saint Lazarus</color><color=248,252,248> is a vivid representative of their idea of ruthless attack without burdensome armor.</color>
+Дальность стрельбы: <bonWRadius> млн км	Firing range: <bonWRadius> million km
+<color=248,252,248>Латные доспехи когда-то защищали рыцарей от ударов мечей. Когда потомки рыцарей покорили космос, на смену упрочнению личной экипировки пришли доспехи для космических кораблей. Хорошо оснащённый корабль Рыцаря Ордена </color><color=250,20,20>Тамплиеров</color><color=248,252,248> - эталон воина, косящего вражеские порядки своим огнём.</color>	<color=248,252,248>Plate armor once protected knights from sword blows. When the descendants of the knights conquered space, the hardening of personal gear gave way to armor for spaceships. The well-equipped ship of a Knight of the Order of </color><color=250,20,20>Templars</color><color=248,252,248> is the model of a warrior who mows down enemy ranks with fire.</color>
+Скорость ракет: <bonMissileSpeed> ед.	Missile speed: <bonMissileSpeed> units
+Корпус Магистра	Master's Hull
+<color=248,252,248>Латные доспехи когда-то защищали рыцарей от ударов мечей. Когда потомки рыцарей покорили космос, на смену упрочнению личной экипировки пришли доспехи для космических кораблей. Могучий, хорошо бронированный корабль Великого Магистра Ордена </color><color=20,20,20>Госпитальеров</color><color=248,252,248> в каждом бою прикрывает младших братьев от ракет врагов.</color>	<color=248,252,248>Plate armor once protected knights from sword blows. When the descendants of the knights conquered space, the hardening of personal gear gave way to armor for spaceships. The mighty, heavily armored ship of the Grand Master of the Order of </color><color=20,20,20>Hospitallers</color><color=248,252,248> shields the younger brothers from enemy missiles in every battle.</color>
+<color=248,252,248>Латные доспехи когда-то защищали рыцарей от ударов мечей. Когда потомки рыцарей покорили космос, на смену упрочнению личной экипировки пришли доспехи для космических кораблей. Корабль Великого Магистра Ордена.</color><color=100,250,100>Святого Лазаря</color><color=248,252,248> - яркий представитель их идей беспощадной атаки без обременяющих доспехов.</color>	<color=248,252,248>Plate armor once protected knights from sword blows. When the descendants of the knights conquered space, the hardening of personal gear gave way to armor for spaceships. The ship of the Grand Master of the Order </color><color=100,250,100>of Saint Lazarus</color><color=248,252,248> is a vivid representative of their idea of ruthless attack without burdensome armor.</color>
+<color=248,252,248>Латные доспехи когда-то защищали рыцарей от ударов мечей. Когда потомки рыцарей покорили космос, на смену упрочнению личной экипировки пришли доспехи для космических кораблей. Могучий, хорошо оснащённый корабль Великого Магистра Ордена </color><color=250,20,20>Тамплиеров</color><color=248,252,248> - гроза многих врагов Ордена.</color>	<color=248,252,248>Plate armor once protected knights from sword blows. When the descendants of the knights conquered space, the hardening of personal gear gave way to armor for spaceships. The mighty, well-equipped ship of the Grand Master of the Order of </color><color=250,20,20>Templars</color><color=248,252,248> is the terror of many enemies of the Order.</color>

@@ -1,23 +1,84 @@
+</color><Type> корпус контрабандиста	</color><Type> hull smuggler
+Ашиан	Ashian
+Моонал	Mohonal
+Хардор	Hardor
 Чхаша	Ckhasha
 Бутлегер	Bootlegger
+Контрабандист	Smuggler
 Я не могу на это пойти. Корабль совсем плох, все износилось. Мне не до боев.	No, I can't do that. My ship is barely holding together. Everything is falling apart. I am not fit for battle.
 Нетушки, приятель! Если меня порешат, то кто будет взбивать подушку моей престарелой матушке?	No way, pal! If I get taken out, who will fluff my aged mother's pillow?
 Послушаешь тебя, и хочется хоть стихи писать, хоть кактусы выращивать, только бы не связываться с твоими безумными идеями.	Listening to you, I get the urge to start writing poetry and growing cacti, if only to get away from your madcap ideas.
+Что, думаешь, мне подохнуть захотелось? Фига с два! Найди себе другого помощника.	What, you think I feel like dying? Like hell! Find yourself another helper.
+Ну уж нет, я в такую авантюру не полезу, ты уж там как-нибудь сам с ним разбирайся.	No way, I'm not getting into such a venture, you deal with him yourself somehow.
 Время - деньги! Эта истина не стареет с годами. Мне надо заниматься своим бизнесом, если я по пути буду ввязываться во все разборки, то быстро разорюсь.	Time is money! There's an adage that never gets old. I really need to mind my own business. If I start getting involved in all these squabbles along the way, I'll go out of business in no time.
 У меня сейчас хватает и собственных дел, обратись к кому-нибудь другому.	I've got plenty of my own business right now, turn to somebody else.
+Извини, камрад, но мне сейчас маленько не до разборок. Обратись в другой раз, ладно?	Sorry, comrade, but I'm not really up for showdowns right now. Ask another time, okay?
+Мне воевать пока резона нет, давай чуть позже, о'кей?	I have no reason to fight just yet, so come back a bit later, o'kay?
+Дружище, так вышло, что я сейчас очень занят, обратись позже.	Buddy, it just so happens I'm very busy right now, ask later.
 Вот я тебе сейчас по кабине-то настучу ракетами! А ну руки прочь от моего транклюкатора, пенчекряк доморощенный!	Hey! Keep your hands off my tranclucator, you filfy penchecrakus!
 Слышь, ты дебил или как? Если хочешь подобными вещами заниматься, так запрись сперва в своём ангаре, а на люди подобный срам выносить не смей!	Are you moron or what? If you want to do such things, then first shut yourself in your hangar, but don't bring such shame on public!
+Отличная идея, братан! Врежем ему как следует!	Great idea, bro! Let's hit him good!
+И в самом деле, почему бы мне не тряхнуть стариной? Есть еще порох в пороховницах!	Actually, why shouldn't I shake the old days? There's still powder in the powder horns!
+А что, давно пора бы укокошить этого супостата. Компьютер, полная боевая готовность!	Well, it's high time to bump off this scoundrel. Computer, full combat readiness!
+Думаю, мне и вправду не помешает размяться, а то совсем уж транспортной крысой стал. Сейчас выпью "Махпеллы Лайт" для храбрости и вперед!	I think I really could use a workout, or I'll turn into a complete transport rat. I'll down a "Makhpella Light" for courage and off we go!
+Мне как раз деньжат на бутылку втыкиллы не хватало, а тут такое прибыльное предложение! Я в деле!	I was just short of cash for a bottle of vtykilla, and here comes such a profitable offer! I'm in!
 Сынок, хочу попросить тебя об одной услуге. Видишь <Target>? Мне нужна помощь в сражении с ним.	Son, can you do me a favor? You see <Target> over there? I need some help fighting that sucker.
+Слушай, камрад, меня тут <Target> очень нехорошими словами обзывает, не поможешь научить его вежливости?	Listen, comrade, <Target> is calling me very nasty names here, will you help me teach him some manners?
+Ублюдок <Target> кинул меня на бабки! Давай проучим негодяя, а?	That bastard <Target> cheated me out of my money! Let's teach the scoundrel a lesson, shall we?
+Мерзавцу по имени <Target> вздумалось забрать мои пожитки! Подсоби-ка ты мне в борьбе с ним, прибыль поделим поровну.	A rotter by the name of <Target> took it into his head to grab my belongings! Give me a hand in the fight against him, we'll split the profit equally.
+Слушай, друг, помоги замочить <Target>, век не забуду!	Listen, friend, help me whack <Target>, I'll never forget it!
+Да ну тебя, а то еще отшибешь мне кусок обшивки, пока я с ним биться буду.	Forget it, you might knock off a chunk of my hull plating while I'm fighting him.
+Да кто ты такой, чтоб я на твои дела свое время тратил?! Катись отсюда со своими предложениями!	Who are you for me to waste my time on your affairs?! Get lost with your proposals!
+Мутный ты тип, не готов я тебе свою спину подставить.	You're a shady type, I'm not ready to turn my back to you.
+Не доверяю я тебе, давай уж как-нибудь сам.	I don't trust you, so go on, handle it yourself somehow.
 Обязательно! Но сначала назови хотя бы три причины, по которым мне следует тебе доверять.	Definitely! But first name at least three reasons why I should trust you.
+Капитан того судна - между прочим, мой деловой партнер, и атаковать его я не собираюсь.	The captain of that vessel is, by the way, my business partner, and I'm not going to attack him.
+Ты что, это ж мой товарищ! Наедешь на него - я тебе клешни обломаю.	What are you doing, that's my pal! Go after him and I'll break your claws.
+Да мы с ним уже как тыщу лет знакомы, ты что! В приличном обществе за такое и в морду получить можно.	We've known each other for a thousand years, what are you saying! In decent company you can get punched in the face for that.
+Это мой старый товарищ, не буду я в него стрелять.	He's my old comrade, I won't shoot at him.
+По своим не стреляем, камрад.	We don't shoot our own, comrade.
 Не хочу лезть в чужие дела без причины. А вдруг хозяин этого транклюкатора - криминальный авторитет?	I don't' want to mess with other people's business for no reason. What if the owner of this tranclucator is a crime boss?
 Ну робот и робот, ну летает и летает - тебе-то с него какой вред? В общем, я в это дело лезть не намерен.	It's just a common boring robot, what harm he did to you? Anyway, I don't want to get into this matter.
 Извини, <Player>, опаздываю со срочной доставкой. Ладно бы ещё предложил на кого за дело напасть, но вот против чужих роботов лично я ничего не имею.	Sorry, <Player>, I'm late with express delivery. Also I have nothing against other people's robots.
+Ну ты даешь! Я со смеху чуть "Махпелльским" не поперхнулся! Ты бы еще дальше отлетел и оттуда угрожал!	You're something else! I almost choked on my "Makhpella" laughing! You might as well fly even farther and threaten from there!
+А ты забавный малый! В следующий раз погрози мне за двадцать парсек отсюда.	You're a funny fellow! Next time threaten me from twenty parsecs away.
+Я не пойму, ты надо мной смеешься или у тебя действительно такие дальнобойные пушки?	I can't tell whether you're laughing at me or you really have such long-range guns?
+Так тебе надо груз на блюдечке подавать? Подлети сначала, а потом уже что-то тявкай.	So I'm supposed to serve you the cargo on a platter? Fly up first, and only then yap.
+Парень, ты что, малокского твердокрасного перебрал? На такой дистанции от тебя любой сосунок удерет!	Kid, did you overdo the maloq hard red? At this distance any sucker will outrun you!
+Морда лица у тебя не слишком-то устрашающая, потренируйся-ка перед зеркалом.	Your mug isn't very scary, practice in front of the mirror.
+А ты давай, отбери у меня груз. Или только по интеркому такой грозный?	Go on, take my cargo from me. Or are you only this fierce over the intercom?
+За свой груз я стою насмерть, голубчик, и кретинам вроде тебя отдавать его не намерен.	I'll stand to the death for my cargo, my dear, and I don't intend to hand it over to morons like you.
+Слушай, дружище, я бы рад с тобой поделиться, но сейчас выполняю важный заказ на доставку. Давай в следующий раз, а?	Listen, buddy, I'd be glad to share with you, but right now I'm on an important delivery order. Maybe next time, eh?
+Для тебя это станет новостью, но я не планирую дарить свои пожитки каждому встречному прохвосту. Назови мне хоть один повод сделать для тебя исключение.	This will be news to you, but I don't plan to give my belongings to every rogue I meet. Give me one reason to make an exception for you.
 Твоя взяла. Прекращай палить, сейчас выброшу груз.	You win. Stop firing, I'll dump the cargo now.
+Так уж и быть, убедил. Выбрасываю груз.	All right, you've convinced me. Dropping the cargo.
+Хабар, конечно, ценная штука, но жизнь все-таки подороже выйдет. Лови презенты.	Loot is a valuable thing, of course, but life costs more. Catch your presents.
+Хорошо-хорошо, мне не нужны проблемы, камрад, забирай груз и лети налево, а я полечу направо, лады?	Okay, okay, I don't need trouble, comrade, take the cargo and fly left, and I'll fly right, deal?
+Пушки у тебя помощнее моих будут, так что забирай. Хрен его знает, на кой ляд тебе этот груз, но я в чужие дела не лезу, хочешь товар - значит, есть зачем.	Your guns are stronger than mine, so take it. Heaven knows what you need this cargo for, but I don't butt into other people's business; if you want the goods, you must have a reason.
 А? Деньги? Ну конечно, меня же хлебом не корми, дай только перечислить деньжат первому встречному неадеквату, вещающему в эфир с другого конца системы. Если вдруг не дошло, чему я буду не удивлен, то это сарказм.	Huh? Money? Oh, of course, just feed me bread and let me wire money to the first lunatic broadcasting from the other end of the system. In case it didn't sink in, which I wouldn't be surprised by, that's sarcasm.
+Откуда вы только такие беретесь-то? Какие тебе нафиг деньги? Да ты меня даже догнать не сможешь!	Where do you people come from? What money do you want? You can't even catch me!
+Ты действительно считаешь меня таким идиотом, что думаешь, мол, я заплачу тебе, находясь за тучу верст от тебя? Ой, наивный...	Do you really take me for such an idiot that you think I'll pay you from a mile and a half away? Oh, naive...
+Эх, а вот в моей молодости пираты были совсем другими - чувство собственного достоинства не позволяло им требовать денег с радиуса обзора современного радара...	Ah, in my youth pirates were completely different - their self-respect didn't allow them to demand money from within the viewing radius of a modern radar...
+Какие мы дерзкие! Ты фоточку свою-то пришли, как сяду на ближайшую планету, так обязательно продам журналистам. Только представь: репортаж "Дебил года"! Так и вижу: "он грабит суда с гигантских расстояний!" Эй, ты чего? Да остынь, приятель, это же шутка.	How cocky we are! Send me your photo, and as soon as I land on the nearest planet I'll definitely sell it to the journalists. Just imagine: a report called "Moron of the Year"! I can see it now: "He robs ships from enormous distances!" Hey, what's with you? Calm down, pal, it's a joke.
+Я со своими кровными кредитами не расстанусь без должного повода. Или ты хочешь сказать, что твое корыто может представлять для меня опасность?	I won't part with my hard-earned credits without good reason. Or are you trying to say your tub could pose a danger to me?
 Летел бы ты, грабитель-недоучка! Сейчас я своему корешу чиркану, так он тебе дюзы вправит!	Fly off, you half-baked robber! I'll ping my buddy now, and he'll straighten out your thrusters!
 Братуха, ты кое-что попутал: я тебе не банкомат, так что шевели двиглом куда-нибудь к гобзавру в берлогу, а?	Bro, you've got something mixed up: I'm not your ATM, so move your engine off to some gobsaurus's lair, okay?
+Мои деньги, знаешь ли, честно заработаны годами наркоторговли и сбыта крупных партий оружия, и отдавать я их не намерен.	My money, you know, was honestly earned over years of drug trafficking and selling large batches of weapons, and I don't intend to give it up.
+Ты что, совсем поехал, на авторитетов наезжать?! А не пошел бы ты далеко и надолго, а?	Are you completely nuts, going after big shots?! Why don't you go far away and for a long time, eh?
+Кореш, я сегодня в хорошем настроении, так что сочту это за неудавшуюся шутку. Но ты лучше не зли меня, а то и пары-тройки зубов лишиться можешь...	Buddy, I'm in a good mood today, so I'll take this as a failed joke. But you'd better not anger me, or you might lose a couple of teeth...
+Поглядим, сколько у меня тут денег... Полтинник на заправку, десятка на чаевые таксисту, пять тысяч в общак картеля... Думаю, ремонт после боя обойдется дешевле, чем разбазаривание моих кровных кредитов всяким соплякам, ха-ха.	Let's see how much money I have here... Fifty for fuel, ten for the cabbie's tip, five thousand for the cartel's common fund... I think repairs after a fight will cost less than squandering my hard-earned credits on any brat, ha-ha.
 Ну почему всякий встречный-поперечный пытается драть деньги с нашего картеля? Все такие недоумки, что не понимают, раз мы самые богатые, то мы ещё и лучше всех вооружены? Убирай свои наезды обратно в ящик, всё равно денег с меня не получишь.	Why is it that every Tom, Dick and Harry is trying to bleed our cartel for money? Are you people retarded? Don't you realize that being the richest also means we've got the best weapons? Take your smack talk and shove it, 'cause you won't get any dough from me anyway.
 Твои запросы для меня - сущая мелочь. Проще откупиться и не заморачиваться. Но на будущее лучше куплю крейсер.	Your demands are beyond trivial to me. It's easier to just pay you off. But going forward I'll buy myself a cruiser.
+Вот я их копил, копил, грабил, торговал контрабандой, ночей не спал, кушал плохо! А тут ты! Ну не стыдно тебе, а? Ладно, держи уж...	I saved and saved them, robbed, smuggled, lost sleep, ate badly! And then there's you! Aren't you ashamed, huh? Oh, all right, take it...
+Так уж и быть, я заплачу. Принимай перевод.	Very well, I'll pay. Accept the transfer.
+Сейчас мне делать, конечно, нечего, и придется откупиться, но поверь: как только поднаберусь силенок, так сразу найду тебя и всыплю по первое число!	Right now, of course, there's nothing I can do, and I'll have to buy you off, but believe me: as soon as I gather some strength, I'll find you right away and give you what for!
+Бабки - это всегда хорошо, но жизнь - лучше. Забирай деньжата.	Dough is always good, but life is better. Take the money.
+Ты меня так до нитки оберешь, чтоб тебя... Подавись своими кредитами.	You'll strip me bare like this, damn you... Choke on your credits.
+Слушай, может, тебя устроит сумма поменьше, а?.. Да хорошо, хорошо, перевожу я...	Listen, maybe a smaller sum would suit you, huh?.. All right, all right, I'm transferring it...
+Для начала советую не разлетаться. Если я не сдержусь, то, глядишь, твой корабль все-таки разлетится вместе с тобой раньше времени.	For a start, I advise you not to fly apart. If I can't restrain myself, your ship may well fly apart along with you ahead of time.
+Погоди-погоди, давай я займу бабок у своего камрада, а ты прилетишь через неделю-другую, а?	Wait, wait, let me borrow some dough from my comrade, and you come back in a week or two, eh?
+Приятель, пожалуйста, не пали по мне! Ну нет у меня этой суммы!	Pal, please don't fire at me! I just don't have that sum!
+Ту сумму, что ты сейчас назвал, я проиграл на прошлой неделе в элитном казино. Скинь сумму из уважения к игроманам.	The sum you just named I lost last week at an elite casino. Knock the amount down out of respect for gambling addicts.
 Эх, польстил ты мне... Будь у меня такие деньги, я бы, пожалуй, не в космосе холодном зависал, а отдыхал бы сейчас где-нибудь на Мауна-Роа...	Ehh, you flattered me... If I had that kind of money, I wouldn't be hanging in cold space, I'd be relaxing somewhere on Mauna Roa right now...
 Как твое финансовое положение?	What is your financial situation?
 Ясно	Roger that.
@@ -26,9 +87,48 @@
 <Player>, у меня на счету <Money> cr.	<Player>, I've got <Money> cr. on my account.
 Возьми <Money> cr.	Take <Money> cr.
 Итак, <Player>, сколько ты готов мне подкинуть?	So, <Player>, how much money can you transfer to me?
+Нет уж, этот мусор не должен захламлять космическое пространство.	No, this trash should not clutter up outer space.
+Так уж и быть, пусть остается, я сегодня добрый.	Fine, let it stay, I'm kind today.
+Дружище, не лезь не в свое дело, иначе станешь следующим на очереди.	Buddy, mind your own business, or you'll be next in line.
+Слушай, парень, <Target> будет размазан по стенке, и тебе этому не помешать.	Listen, kid, <Target> is going to be smeared on the wall, and you can't prevent it.
+А не полетел бы ты, горе-миротворец, куда-нибудь к Махпелле на чаек?	Why don't you fly off somewhere to Makhpella for tea, you hapless peacemaker?
+Чтобы я прошляпил такую выгоду? Да ни в жизни!	Me, miss such a profit? Not in this life!
+Иначе что, замучаешь меня до смерти своими миротворческими речами? Умора!	Or what, you'll bore me to death with your peacemaking speeches? Hilarious!
+Еще чего! Да кто ты такой, чтобы мне приказывать?	As if! Who are you to give me orders?
+Ну вот зачем ты влез! Я почти его укокошил! Так уж и быть, сегодня у этого прохвоста счастливый день.	Why did you have to butt in! I'd almost done him in! Oh well, today is this rogue's lucky day.
+<Target>, конечно, тот еще подонок, но с тобой я тягаться не готов. Ладно, пусть живет.	<Target> is certainly a scumbag, but I'm not ready to compete with you. All right, let him live.
+С тобой мне на ножах не резон быть, так что сегодня <Target> может лететь, но не обещаю быть таким милосердным, когда наткнусь на него в следующий раз.	I have no reason to be at daggers drawn with you, so <Target> can fly today, but I don't promise to be so merciful when I run into him next time.
+Эх, такую выгоду упускаю! Ладно, <Target> будет жить, но с тебя банка "Махпелльского темного".	Ah, I'm missing out on such a profit! Fine, <Target> will live, but you owe me a can of "Makhpella Dark".
 Ну вот, <Player>, нехорошо так веселье обламывать... Сегодня ты каждый встречный транспортник защищаешь, а что дальше? Каждого хрякоплюха спасать будешь? Ладно, не хочу иметь дел с защитниками животных... <Target>, лети, отпускаю.	Well, <Player>, it's not nice to spoil the fun like that... Today you're protecting every transport you meet, and what next? Will you save every hryakoplyukh? Fine, I don't want to deal with animal protectors... <Target>, fly, I'm letting you go.
+Это как раз то, что мне нужно! Беру!	This is exactly what I need! I'll take it!
+Ты меня заинтересовал. Покупаю!	You've got my interest. I'm buying!
 Я согласен заплатить	I'm willing to pay
+Я за такое любые деньги отдам!	I'd give any money for this!
+Покупаю	I'll buy it!
+Нет ли у тебя в продаже чего-нибудь, м-м-м, не совсем легального?	Do you have anything for sale, uh, not entirely legal?
+Не найдется чего-нибудь интересного для меня?	Haven't you got something interesting for me?
+Барыга, продай-ка мне чего-нибудь эдакого	Huckster, sell me something
+У тебя, случаем, не будет товара?	You wouldn't happen to have any goods, would you?
+Хэй, есть что-нибудь на продажу?	Hey, got anything for sale?
+Прости уж, товарищ, но пока для тебя ничего. Залетай через неделю-другую, там и поговорим.	Sorry, comrade, nothing for you yet. Drop by in a week or two and we'll talk.
+Извиняй уж, камрад, но все крутое уже раскупили, обратись попозже.	Excuse me, comrade, but all the good stuff has already been bought up, ask later.
+Пока мне нечего тебе предложить, но ты не огорчайся, потом обязательно что-нибудь появится.	I have nothing to offer you yet, but don't be upset, something will definitely turn up later.
+Ну уж нет, брат! Этих копеек мне даже на ремонт не хватит, не говоря уже о компенсации морального ущерба. Гони больше, я сказал!	No way, brother! These pennies won't even cover repairs for me, let alone compensation for moral damage. Pay more, I said!
+Я не пойму: ты и вправду такой нищеброд или настолько жуткий скупердяй? Я на заправку больше трачу, чем ты мне сейчас предлагаешь!	I don't get it: are you really such a pauper or just a terrible skinflint? I spend more on fuel than you're offering me now!
+Эти деньги не скомпенсируют мне даже то, что я увидел твою физиономию на дисплее.	This money won't even compensate me for seeing your mug on the display.
+Ты хочешь меня разжалобить? Так и тянет дать тебе в долг, только чтобы ты мне смог предложить не такую мизерную сумму!	Trying to make me feel sorry for you? I'm tempted to lend you money just so you can offer me a sum that isn't so measly!
+Ну ты даешь, приятель! Благодаря тебе у меня появился новый анекдот, что я смогу вспоминать за бутылкой рома!	You're something, pal! Thanks to you I have a new joke I can recall over a bottle of rum!
+Да ты знаешь, кто я такой?! Я такие бабки за день зарабатывал, когда ты еще пешком под стол ходил! Больше давай!	Do you know who I am?! I was making that kind of dough in a day when you were still toddling under the table! Pay more!
+Как же все-таки классно, что в космосе полно лохов вроде тебя. Грабеж - знаешь ли, отличное подспорье бизнесу.	It's so great, after all, that space is full of suckers like you. Robbery, you know, is an excellent boost to business.
+Вот это другой разговор! За такие деньжата и отпустить тебя не жалко.	Now that's a different story! For that kind of money I don't mind letting you go.
+Спасибо тебе, дружище, за такую чудесную инвестицию в подпольный бизнес. Запишу тебя в почетный список наших независимых спонсоров.	Thank you, pal, for such a wonderful investment in the underground business. I'll put you on the honor roll of our independent sponsors.
+В другой бы раз я с тебя вытряхнул побольше, но уж больно у меня сегодня хорошее настроение. Или это ликер? А, впрочем, неважно.	Another time I'd have shaken more out of you, but I'm in such a good mood today. Or is that the liqueur? Well, never mind.
+Вот видишь, как просто со мной находится общий язык: заплатил и забыл, и не надо никаких сопливых мольб о пощаде, хе-хе.	See how easy it is to find a common language with me: paid and forgot, and no snotty pleas for mercy needed, heh-heh.
 К сожалению, сейчас мне некогда с тобой сражаться, проще откупиться. Надеюсь, сумма в <Money> cr тебя устроит?	Sadly, I don't have the time to fight you now, so it's easier to just pay you off. I trust s sum of <Money> cr would do?
+Все, все, ты круче меня, круче всех здесь, я согласен! Держи <Money> cr, я их очень долго копил, только позволь улететь куда подальше!	Enough, enough, you're cooler than me, cooler than everyone here, I agree! Take <Money> cr, I've been saving it for a very long time, just let me fly far away!
+Предлагаю чудесную сделку: я перевожу на твой счет <Money> cr, а ты оставляешь меня в покое. По рукам?	I propose a wonderful deal: I transfer <Money> cr to your account, and you leave me alone. Deal?
+Э-э-э, дорогой, прекращай стрелять! Неужели ты не готов отпустить меня даже за <Money> cr?	Uh, dear fellow, stop shooting! Aren't you ready to let me go even for <Money> cr?
+Приятель, ты действительно заслуживаешь этих денег! Предлагаю тебе заманчивую сумму в <Money> cr, после чего я спокойно улетаю восвояси. Идет?	Buddy, you really deserve this money! I offer you a tempting sum of <Money> cr, after which I peacefully fly off. Deal?
 Контейнер с животным	Container with an Animal
 Контейнер с неизвестным животным. Вскрывать категорически не рекомендуется!	Holds an unknown animal. Opening the container is NOT recommended!
 Дизодан	Disodane
@@ -38,5 +138,14 @@
 Бронированный ящик с ценным грузом	Armored Box with Precious Cargo
 Очень ценный груз. Настолько ценный, что открыть его, можно только распилив ящик пополам.	A highly valuable cargo. So valuable that sawing the box in half is the only way of getting to it.
 Кейс с документами	Case with Documents
+Кейс с важными документами.	A case with important documents.
 Носитель информации	Data drive
+Емкое хранилище зашифрованных данных.	A capacious storage of encrypted data.
 Сервер	Server
+Сервер с большим объёмом информации.	A server with a large amount of information.
+Кассета с аудиозаписью	Audio cassette
+Кассета с закодированной аудиозаписью.	A cassette with a coded audio recording.
+Контейнер с веществом	Substance container
+Контейнер со странным зелёным веществом.	A container with a strange green substance.
+Бутыль	Bottle
+Сосуд с неизвестным препаратом.	A vessel with an unknown preparation.
