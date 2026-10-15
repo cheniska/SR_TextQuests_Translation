@@ -1,0 +1,14 @@
+полноценный отряд из пяти рейнджеров	a full squad of five Rangers
+Дамиников	Daminikov
+Биграбурба	Bigraburba
+Акулёнок	Sharklet
+Пантера	Panther
+Ястреб	Hawk
+Кабан	Boar
+Бамберга	Bamberga
+Ара	Ara
+Бешрафляц	Beshraflyats
+Вихрь	Vortex
+Шеграмер	Shegramer
+Вербовка новых рейнджеров	Recruiting new Rangers
+Понятно	I see

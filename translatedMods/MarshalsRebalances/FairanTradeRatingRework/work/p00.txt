@@ -1,0 +1,2 @@
+1	Changes to how the trade rating works
+2	Trade Factor

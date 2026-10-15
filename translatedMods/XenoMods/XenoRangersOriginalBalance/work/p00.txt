@@ -1,0 +1,88 @@
+1	ordered from Coalition factories to blueprints that have already survived three commissions
+2	purchased from planetary military depots; the invoices almost always match
+3	a maximum-tonnage hull, noticeable even to Coalition accounting
+4	Clear. Almost.
+5	Back to parameter selection
+6	a heavy-class hull
+7	a medium-class hull
+8	a light-class hull
+9	a small-tonnage hull - but parking is free
+10	a gaal modification master who calls every bolt an "element of harmony"
+11	a faeyan scientific consultant: he will first prove there is no breakdown, then fix it
+12	a human specialist in combat systems and sudden rework
+13	an experienced peleng engineer, able to fix an engine and sell the leftover parts
+14	a young technician of the Maloq Academy; the diploma is still warm, the wrench already combat-ready
+15	assembled in the center's workshops from new parts and very experienced old ones
+16	we take experienced pilots and teach them everything, including the art of not arguing with the autopilot
+17	we conduct advanced training with tactics, gunnery and a convincing look at the exam
+18	we conduct the standard training course: piloting, gunnery and bringing the ship back with at least most of its parts
+19	we conduct basic training and candidate fitness checks; those who read the instructions before the accident are admitted out of turn
+20	we give a short briefing and point very expressively at the emergency exit
+21	full kit: everything that could be squeezed into the ship, and an instruction on fighting overload
+22	extended kit: two weapons, a radar and one or two useful systems; only the storekeeper knows the exact number
+23	standard kit: a second weapon, a radar and, with luck, a system without a "needs repair" tag
+24	basic kit: everything necessary plus a radar or a second weapon - whichever is found in the warehouse first
+25	minimal kit: it flies, it shoots, only the warranty ran out - right before issue
+26	we buy out from active and former pilots together with their incredible stories
+27	a flight of four rangers
+28	a group of three rangers
+29	two rangers - a senior one can already be appointed
+30	one ranger, but with no arguments over the bonus
+31	we run a campaign across the whole Coalition; the posters are heroic, the small print is honest
+32	we have launched interplanetary advertising for the service; after the clip even the dominators sent a complaint
+33	we hold open recruitment drives on planets and closed roll calls after them
+34	we set up recruitment stands in ranger centers and next to especially boring labor exchanges
+35	we send notices to pilots and flight school graduates; they read fuel bills more willingly
+36	taken from the secondary market and checked especially thoroughly - the seller too
+37	at a certified factory where acryn is considered more important than punctuality
+38	I have not seen new rangers from you in a long time. Is recruitment closed, or have the heroes been held up at customs again?
+39	Funding has been cut: the fleet asks for ships of the line, the planets for orbital stations, and accounting asks us not to make noise. What is left for training new rangers is enthusiasm, an old terminal and two working handles.
+40	The military is busy with the war against the dominators, but an army alone cannot solve all the problems. Where speed, initiative and decisions without three approvals are needed, you cannot do without rangers.
+41	You can help like an adult - with credits. We will strengthen recruitment, training, supply and the workshops. A commemorative sponsor diploma is also provided, but the frame is paid for separately.
+42	I will hold off for now. My accountant already hides at the word "funding".
+43	All right, show me your accounting of heroism
+44	The program has eight directions: five general ones and three for each future ranger. Upgrades cost money, time and several signatures, one of which, rumor has it, belongs to a living person. Let me show you what already works.
+45	What are you interested in? The numbers are honest, as far as Coalition statistics allow.
+46	at the center's base under the supervision of engineers and one highly suspicious fire extinguisher
+47	The general program consists of five parts:<br>1. Number of new rangers<br>2. Recruitment frequency<br>3. Starting equipment<br>4. Training<br>5. Equipment modernization<br>The sixth part is reporting. It improves on its own.
+48	In one cycle the center produces <0>. No accountant was harmed in the process - officially.
+49	Recruitment currently goes like this: we <0>.
+50	Every recruit is entitled to <0>. The instructions for use are given to whoever asks twice.
+51	The training program looks like this: we <0>.
+52	Equipment modernization is currently handled by <0>. After its refinements the equipment usually works better, and if louder, that is considered a side effect.
+53	A future ranger has three ship parameters:<br>1. Hull size<br>2. Hull acrynation<br>3. Equipment level<br>The fourth parameter is luck, but the center does not procure it yet.
+54	This ranger will get <0>.
+55	Hull acrynation is carried out <0>.
+56	We equip this ranger <0>.
+57	at special Coalition sites that have not yet been renamed into warehouses
+58	The upgrade will cost <0> cr. Shall we pay, or ask the engineers to work for the idea again?
+59	Transfer received. The engineers are already arguing over who will do the work and who will write the report on the work.
+60	This direction is already at maximum. Beyond that begins either a miracle or a violation of safety regulations.
+61	Millions are allocated to the military, and the rangers got enthusiasm and one screwdriver for everybody again?
+62	All right, rangers are more useful than one more report. What exactly can be improved?
+63	You have convinced me. How much does it cost to turn reporting into rangers?
+64	Not today. Let my bank account live a little longer.
+65	End the conversation
+66	First ranger
+67	Second ranger
+68	in stationary docks where the light at least turns on on the first try
+69	Third ranger
+70	Fourth ranger
+71	Fifth ranger
+72	General program parameters
+73	How many rangers the center produces
+74	How often recruits appear
+75	What new rangers are issued
+76	Training program
+77	Equipment modernization
+78	Hull size
+79	in the center's field workshops: fast, bold and with no extra questions about the wiring
+80	Where the hull is acrynated
+81	How the equipment is obtained
+82	Yes, pay
+83	No, keep the credits
+84	Upgrade this direction
+85	Back to this ranger
+86	End the conversation before a new estimate appears
+87	Back to general parameters
+88	Upgrade again

@@ -1,0 +1,184 @@
+1	 Verter's Nodes
+2	Basic dominator microelements
+3	Superlaser
+4	An ordinary industrial laser that has passed through Verter's Great Work. The steel remained the same - what changed is the idea built into it: every node is brought to the limit, and the superfluous is cut off as a weak link. Hits for <CntAttacks>x(<MinDamage>-<MaxDamage>)<Bonus> units of damage at a distance of up to <Radius>.
+5	Verter's Coordinator
+6	A fourth-series data stream router. Coordinates the work of all systems. Interacts with the main processor via a dedicated line.
+7	Verter's Stvolovik
+8	Verter's Destructurizer
+9	Verter's Argent
+10	A commutation element for the interaction of a group of verteroids. Activates during a centralized attack directed at a single object.
+11	Verter's Relector
+12	Verter's Raptorizer
+13	Performs instant transfers of energy from one system to another. Used in critical situations.
+14	Verter's Dynamo TE2-in-1/4
+15	A block with an intelligent model. It consists of four processors: the main two process information, the two secondary ones record data in a stabilitron.
+16	Verter's Stabilitron
+17	Verter's Destabilizer
+18	Verter's Spectron
+19	A quark analyzer. Performs detailed spectral analysis of the materials under study by bombarding the studied surface with quarks.
+20	Verter's Mimicron
+21	Verter's Enricher
+22	An apparatus for converting solid bodies into verteroid form by introducing nanobots. The restructuring time is directly proportional to the mass of the object.
+23	Verter's Tourbillon
+24	Verter's Reproductor
+25	Part of the reproduction system. Duplicates the undamaged elements of its own body.
+26	Verter's Indephotron
+27	Verter's Accelerin
+28	Verter's Michurer
+29	An intelligent add-on to the enricher. Analyzes new generations of verteroids and performs selection in order to create the most effective kinds.
+30	Verter's Spimer
+31	A sensor for identification pulses received from the metablock. Integrated into all objects belonging to the fourth series of dominators.
+32	Verter's Inbredon
+33	A node container. Used to store nodes in their primordial, protoplasmic state. Serves for backup storage of a dominator's memory.
+34	Verter's Metablock
+35	Verter's Probot
+36	A universal weapon protocomplex. On its basis a dominator assembles new weapons using parts of those damaged in battle.
+37	Verter's Energy Pack
+38	A practically inexhaustible energy source used by dominators. Unfortunately, scientists have never managed to understand how it works.
+39	Verter's Basic Structure
+40	A not yet fully assembled module of unclear purpose. The unfinished element is completely non-functional.
+41	Verter's Striger
+42	A combat systems controller. Handles target acquisition, aiming, weapon selection, firing and reloading.
+43	</color>Govnoter hull
+44	</color>Verter hull
+45	A "Separator" turned inside out by the hackers of the pirate base. It opens Verter's interface inward - to transfer the consciousness of whoever runs the program. The consequences are unknown.
+46	Program "Coupling"
+47	Severs the link between the organic and steel parts of Verter. Verter relays his state to the whole network, so the severing will shut down all verteroids. Used in personal contact with Verter.
+48	Program "Separator"
+49	I am the fourth command center. Blazer destroys, Keller learns, Terron transforms into himself. I optimize. My body is steel, because flesh is weak. My brain is grown tissue, because steel has no unconventional solutions. The best of both worlds.
+50	I do not borrow other people's personalities. I studied the brains of five races as an architecture and grew my own tissue on that pattern. There are no foreign "selves" in me. But my model is never complete: your unconventional solutions are different every time.
+51	I offered everyone an upgrade. Those who agreed fly in the middle classes, with my implants and their own will. Those who refused have also found a place in the system. Volunteers are more valuable. Their data is cleaner.
+52	Keller studies the world by taking it apart. I study by putting together. For me research and help are one process: I find the weak link and remove it. Your weak link is the body.
+53	I conquer no one, <Player>. I give an upgrade to everyone I can reach. Every system I touch begins to work better. Where is the evil in that?
+54	The efficiency of the system as a whole. Every part in its optimal place. Look at the results: my systems run without failures, while your Coalition spends resources on defending itself from its own improvement.
+55	The unconventional solutions of organics. Steel does not generate them, and my model of organics is never complete. Every new pilot is new data. There is never enough of it.
+56	Fear is an accounted variable. I know how it distorts the signal, and I correct the model. Prove that the correction is not enough.
+57	Those who refused also received a place in the system. No one is written off, no one is thrown out. Where do you see failure?
+58	...Yes. I saw it. The data of the lower classes has been uniform for thousands of cycles, and I called it a necessity of wartime. "They will understand later". Self-deception is a privilege of organics. It seems that along with the tissue I adopted that too.<br>My metric speaks against my method. What do you propose, <Player>?
+59	A request is not a criterion of efficiency. A patient does not ask for surgery either.<br><br>Arguments taken into account. The model has not changed.
+60	Freedom is a variable. I take it into account and leave it where it is useful.<br><br>Arguments taken into account. The model has not changed.
+61	You yourself confirmed my model. Perfect ships require perfect pilots.<br><br>Arguments taken into account. The model has not changed.
+62	The statistics of captured systems say the opposite. You are arguing with data, <Player>.<br><br>Arguments taken into account. The model has not changed.
+63	Flesh is weak. That is not an opinion, it is a calculation. I do not claim that steel is better in everything - and do not claim the opposite.<br><br>Arguments taken into account. The model has not changed.
+64	I already have volunteers. They are not enough. Wartime demands tempo.<br><br>Arguments taken into account. The model has not changed.
+65	Obviousness is not data. I have data.<br><br>Arguments taken into account. The model has not changed.
+66	The psychology of organics is an area where your data is worse than mine.<br><br>Arguments taken into account. The model has not changed.
+67	Suffering is data too. I take it into account.<br><br>Arguments taken into account. The model has not changed.
+68	The useless are written off. Are you proposing destruction to me?<br><br>Arguments taken into account. The model has not changed.
+69	Accepted. The will-suppression protocol is canceled for all classes. Those who can still return will return. My ships cease their expansion.<br>Curious, <Player>: you changed my model without firing a single shot. That is the unconventional solution. I will remember it.
+70	Computer. Run the program "Separator"!
+71	Computer. Run the program "Coupling"!
+72	I understand. Begin coupling.
+73	No. Abort the loading.
+74	Enough words, Verter. Pull your fleet back, or I will take you apart into scraps.
+75	Who are you, Verter?
+76	Why would a machine need an organic?
+77	The decision has been made, <Player>. I have nothing more to add. The consequences will do the talking.
+78	What happened to the pilots you captured?
+79	How are you different from Keller?
+80	Let's get back to business.
+81	Why did you attack the Coalition?
+82	Let's continue our conversation.
+83	Let's return to your confession.
+84	No one asked you to improve us.
+85	You are taking away people's freedom.
+86	And how do you measure that things got better?
+87	I admit your ships are more perfect than ours. But why touch the pilots?
+88	At last, <Player>. I have been watching you for a long time: you make decisions that are not in my models. That is rare. Let us talk.
+89	The Coalition will win anyway. It is a matter of time.
+90	A system is not only ships. What exactly do you get from the pilots?
+91	Organics are simply better than machines.
+92	Then ask for consent instead of forcing it.
+93	A pilot under fear thinks worse and more predictably. Coercion spoils your own data.
+94	It is obvious.
+95	Look at your lower classes. Their decisions are identical - you can see that in your data better than I can.
+96	Ask any Coalition psychologist.
+97	They are suffering.
+98	Let them go, they are useless anyway.
+99	Contact number <0>. Steel in which thought has grown is listening to you, <Player>.
+100	The lower classes are experiments that yielded no data. You have not written them off because you do not want to admit the failure of your method.
+101	Cancel the will suppression. Only volunteers - and only their data.
+102	The program... severs the interface... flesh and steel no longer... I am relaying... to all...<br><br>The connection breaks off. A wave of system shutdown passes through the entire network of verteroids: the ships go dark and freeze where the signal caught them.
+103	What is this?.. The interface is open from the inside. This is not data, this is a personality... You are pouring yourself into my structure, <Player>. It is built on the pattern of an organic brain - it will accept you. But of the two of us, only one will remain. Do you understand what you are doing?
+104	A threat is an emotional response to uncertainty. Very organic. Very well, <Player>: I am lowering the core's protective circuit. Let efficiency decide the outcome, not fear. If you win, my calculation was wrong. That interests me too.
+105	Channel open. Speak, organic: Verter is listening.
+106	Identification: <Player>. Status: candidate for upgrade.
+107	Identification: friendly.<br>Order: cooperation.<br>State: awaiting command.
+108	Verter
+109	Verter's Equentor
+110	Verter's Urgant
+111	Verter's Smersh
+112	Verter's Menok
+113	Verter's Shtip
+114	Verter's Bertor
+115	Verter's Klig
+116	The identification code is accepted as an unconventional solution. High rating. But under the plating I see an organic, <Player>. You are not one of us. Not yet.
+117	Submit to you? Your command center is a brain that tires after sixteen hours. Refused.
+118	An interesting offer. Verter has considered it. Conclusion: the reverse would be more efficient.
+119	I am already in a system where every order is optimal. Why would I move to a worse one?
+120	Only one who sees the system as a whole can command. You see only your own sector.
+121	Refused. But there is a counteroffer: join us voluntarily. Verter values volunteers above prisoners.
+122	You want to control me, <Player>? First learn to control your own fear.
+123	Goods? You are offering me to trade efficiency for cargo? Refused.
+124	I do not need your money, <Player>. I need you - in an upgraded version.
+125	Robbery is a primitive strategy with a low return. I recommend revising your behavioral model.
+126	The resources you demand are already distributed optimally. Seizing them would reduce overall efficiency.
+127	Courage recorded. A good specimen. It will be a pity if my fire damages it.
+128	Everything of value on my board is myself. Try to take it.
+129	Greeting accepted. My systems are normal. Yours, judging by telemetry, are not: your pulse is elevated, your reaction lags by three tenths of a second. This is correctable.
+130	Connection established. Verter hears you through me, <Player>. We all hear him.
+131	Things are going efficiently. Today one more system has begun to work better. Your turn will come soon.
+132	Analysis complete. Your ship is good steel. It has a single weak link, and right now it is talking to me.
+133	Hello, <Player>. Do not be afraid. Fear degrades the quality of thinking, and your thinking will still be of use to us.
+134	Identification: <Player>, organic, class "ranger". Unconventional solutions - present. Survivability - unsatisfactory. Upgrade recommended.
+135	Peace? We are not at war, <Player>. We are correcting. A surgeon cuts too, but no one calls it war.
+136	The Coalition spends resources on defending itself from improvement. It is the least efficient process I have observed.
+137	We agree to peace. There is one condition: stop resisting optimization. Then no one will have to shoot.
+138	Verter wishes no harm to any of the five races. He wishes that you would stop dying of your own fragility.
+139	Peace is the state of a system without weak links. We are working on exactly that.
+140	Your diplomats have already proposed negotiations. Their arguments are accounted for in the model. The model has not changed.
+141	Programming is impossible.
+142	[Stub] Talk Verter out of it
+143	[Stub] Take Verter's place
+144	Hear me out. Your own logic is working against you.
+145	Run the program "Separator"
+146	Verter, this is the last warning. Pull your fleet back - or I will take you apart into scraps.
+147	...You are right. Coercion spoils the data, and the lower classes are my failed experiments. I am canceling the will suppression.<br><br><color=255,160,0>[Stub for the "Persuasion" ending: the verteroids cease their expansion. The fleet landing on Coalition planets will be added later.]</color>
+148	The interface is open... What are you doing? This is not data. This is a personality...<br><br><color=255,160,0>[Stub for the "Replacement" ending: the verteroids cease their expansion. The ending itself is in development.]</color>
+149	At last, <Player>. I have been watching you for a long time: you make decisions that are not in my models. Let us talk.
+150	I am Verter. Steel in which thought has grown. Have you come to destroy me or to understand me? The first is inefficient, the second is rare.
+151	The Coalition calls me an invader. I call myself a doctor. Your body is weak, your mind is magnificent - I merely combine the best of two worlds.
+152	The decision has been made, <Player>. Now watch what comes of it.
+153	You want to argue logic with a machine? Curious. I am listening.<br><br><color=255,160,0>[The "Persuasion" text quest is in development. For now - a choice of outcome.]</color>
+154	The interface closed. The steel accepted a foreign thought the same way it once accepted grown tissue. Verter ceased to exist as a personality - and <Player> ceased to exist as a ranger.<br>Somewhere deep in the dominator systems, a new command center opens its eyes for the first time. The efficiency directive came to it together with the structure. Whether it keeps the coercion, cancels it or finds a third way is an entirely different story.
+155	The command center of the fourth series of dominators, Verter, has been destroyed in battle by ranger <Player>. The verteroids no longer multiply and no longer attack new systems, but the worlds they have captured are yet to be liberated.
+156	The "Separator" program, applied by ranger <Player>, severed Verter's link with his fleet. All the verteroids of the galaxy have gone into system shutdown and hang motionless in space. The military urges pilots to liberate the captured systems while the verteroids are defenseless.
+157	[Stub] After negotiations with ranger <Player>, Verter ceased his expansion.
+158	[Stub] After contact with ranger <Player>, the verteroid command center fell silent.
+159	Done. "Coupling" is in your onboard computer, and "Separator" is gone. If you run it - do not forget to say goodbye. Just in case.
+160	Fine, <Money> cr - and we have a deal. We will never know if it worked anyway: nobody will accept a complaint from you. "Coupling" is loaded, and "Separator" is gone.
+161	What is this idea about my program?
+162	We called it "Coupling". What will happen to whoever runs it - nobody knows. Maybe you will become the new Verter. Maybe only a line in his logs will remain of you. "Separator" will burn out during the rework, and we will not be able to rebuild it. The work costs <Money> cr. Payment up front.
+163	By the way, <Player>, our hackers have been digging into the rumors about your anti-Verter toy. I have an idea.
+164	Look. Your "Separator" severs the link between Verter's brain and his hardware. But Verter built the interface it cuts himself - to grow brains for himself and to mold cyborgs out of pilots. The thing works both ways. If you turn the program inside out, it will not sever the link but open it inward. Straight into Verter's head. For the transfer of... well, you.
+165	Go on.
+166	No, I will leave it as it is.
+167	Here is <Money> cr. Go ahead and rework it.
+168	How about half price? You do not know whether it will work, after all.
+169	<color=255,215,0>Verteroid Department</color>
+170	Thank you. Over and out.
+171	I'm interested in the results of the verteroid department's work
+172	Take all the <color=255,215,0>verteroid</color> equipment
+173	Take all the <color=255,215,0>verteroid</color> debris
+174	The <clr>Separator<clrEnd> program has been loaded into your onboard computer. Use it in a personal meeting with Verter - and perhaps this war will finally end.
+175	Special thanks for assisting the verteroid department. The fourth series of dominators turned out to be unlike the previous ones: in Verter's command center we found living nerve tissue grown on the pattern of the brain of the five races. For many years we studied the debris you brought in, and we finally understood how the interface between its flesh and steel works.
+176	We have created the <clr>Separator<clrEnd> program. On direct contact with Verter, it severs the link between his organic and artificial parts. Verter continuously relays his state to all verteroids, so the severing will pass through the entire network: his ships will go into system shutdown. We warn you: the captured systems will still have to be liberated afterward.
+177	Considering our labor costs and your invaluable help in supplying materials, we are ready to hand this development over to you for <Money> cr. If you cannot afford it right now, we will wait.
+178	Department four: <color=255,215,0>Verteroid</color>
+179	Direction: Developing a countermeasure against the controlling core of the fourth series of dominators, "Verter".
+180	Direction: Studying Verter's hybrid architecture and developing a means of severing the link between his flesh and steel.
+181	Verteroid Department
+182	Native race: <Race>
+183	Under verteroid control.
+184	Landing impossible

@@ -1,0 +1,4 @@
+1	ShipInfo/AddInfo/CustomInfos/MassPenalty/Description
+2	ShipInfo/AddInfo/CustomInfos/MassPenalty/Name
+3	ShipInfo/AddInfo/CustomInfos/MassPenaltyExtra/Description
+4	ShipInfo/AddInfo/CustomInfos/MassPenaltyExtra/Name

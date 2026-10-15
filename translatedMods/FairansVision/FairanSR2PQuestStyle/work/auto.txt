@@ -1,0 +1,6 @@
+Анимация текста выключена	Text animation off
+Анимация текста включена	Text animation on
+Выход (<color=255,245,80>R</color> - перезапустить квест)	Exit (<color=255,245,80>R</color> - restart quest)
+Выход	Exit
+Серый фон	Gray background
+Светлый фон	Light background

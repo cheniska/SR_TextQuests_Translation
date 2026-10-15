@@ -1,0 +1,914 @@
+1	Родная галактика
+2	Дальний рукав
+3	Третий рукав
+4	Гамма-квадрант
+5	Ядро Империи
+6	Пустыня Пряности
+7	Южная Рыба
+8	Оссус
+9	Звёздный Предел
+10	Калиптус
+11	Павлин
+12	Пинтийский Пояс
+13	Исток
+14	Сектор Аквариона
+15	Серебряная Река
+16	Зона Мысли
+17	Большая Медведица
+18	Большой Пёс
+19	Рукав Радуги
+20	Гиады
+21	Пояс Койпера
+22	Скопление Девы
+23	Солярианская Гряда
+24	Кадэ
+25	Дальний Круг
+26	Берег Утраченных Миров
+27	Эксодус
+28	Смирнийский Сектор
+29	Сектор Вавилона
+30	Местный Пузырь
+31	Кессель
+32	Заяц
+33	Сектор Каприка
+34	Вердан
+35	Малый Лев
+36	Пространство Нарна
+37	Рукав Лебедя
+38	Содружество Миров
+39	Гончие Псы
+40	Горгона
+41	Страна Ульмии
+42	Туманность Хела
+43	Дальний Предел Ришеза
+44	Хрустальные Врата
+45	Южная Корона
+46	Войд Волопаса
+47	Катачан
+48	Змея
+49	Этерниум
+50	Пояс Гаммы
+51	Эдемская Область
+52	Серенити-Вэлли
+53	Ашен
+54	Летучая Рыба
+55	Лукреххульк
+56	Фенрис
+57	Лунный Предел
+58	Восточная Лестница
+59	Сектор Блю-Сан
+60	Трайус
+61	Сектор Харконненов
+62	Зона Транценденции
+63	Метрополис
+64	Северная Корона
+65	Сектор Либран
+66	Нейтральная Зона
+67	Трёхсотый Рубеж
+68	Темпестус
+69	Звёздный Конец
+70	Центавр
+71	Мёртвая Зона
+72	Эстиклус
+73	Пустошь Тал-Шиар
+74	Тингел
+75	Малая Медведица
+76	Облако Оорта
+77	Голубь
+78	Область Забвения
+79	Молден
+80	Пограничье Ганимеда
+81	Киль
+82	Гейский Сектор
+83	Багровая Бездна
+84	Галактика Орай
+85	Долина Эха
+86	Сектор Саракш
+87	Сектор Коррино
+88	Аркания
+89	Рубеж Минбара
+90	Скопление Волос Вероники
+91	Дуга Надежды
+92	Крабовидная Туманность
+93	Паруса
+94	Пояс Ультра
+95	Нижняя Бездна
+96	Авроранская Гряда
+97	Кольцо Аметиста
+98	Обскурус
+99	Гряда Пандоры
+100	Рукав Щита
+101	Пространство Вортлонов
+102	Бэдлендс
+103	Лисичка
+104	Атравис
+105	Гегемония Человека
+106	Галактика Пегас
+107	Столовая Гора
+108	Пацификус
+109	Тарсис
+110	Вейл
+111	Ворон
+112	Цефей
+113	Эверидон
+114	Албарио
+115	Затмение
+116	Южная Гидра
+117	Грумантский Пояс
+118	Предел Тишины
+119	Дальняя Марка
+120	Моддел
+121	Утёс Сирены
+122	Вуаль Персея
+123	Сектор Тлейлаксу
+124	Неизведанные Регионы
+125	Туманность Ориона
+126	Релмор
+127	Пояс Бореалис
+128	Геминат
+129	Сфера Ренессанса
+130	Сектор Скорпия
+131	Рукав Ромула
+132	Радольская Дуга
+133	Кольцо Эгеи
+134	Лонетрек
+135	Наугольник
+136	Терминус
+137	Орёл
+138	Возничий
+139	Чаша
+140	Область Яйлы
+141	Форж
+142	Дерелик
+143	Жертвенник
+144	Секстант
+145	Телескоп
+146	Дрази Холдинг
+147	Рукав Ориона
+148	Желтая Дуга
+149	Компас
+150	Рубеж Надежды
+151	Великое Кольцо
+152	Каликсис
+153	Тёмный Сектор
+154	Солар
+155	Лиминал
+156	Омега Центавра
+157	Магелланово Облако
+158	Скаэл
+159	Тукан
+160	Экспансионный Регион
+161	Сетка
+162	Сектор Красной Руки
+163	Пояс Исхода
+164	Бета-квадрант
+165	Республика Центавр
+166	Мидлримская Дуга
+167	Мандалор
+168	Калганская Марка
+169	Тенал
+170	Рубеж Колоний
+171	Ящерица
+172	Пространство Технокора
+173	Дымные Поля
+174	Пояс Разрыва
+175	Малый Конь
+176	Южный Ковш
+177	Дельта-квадрант
+178	Гряда Странников
+179	Внутренние Планеты
+180	Сенекс
+181	Кореллия
+182	Ионийская Цепь
+183	Группа Гиганды
+184	Пояс Оракула
+185	Экспансия Тархана
+186	Вальхалла
+187	Треугольник
+188	Периферия
+189	Золотой Мост
+190	Хайдианская Тропа
+191	Корпоративный Сектор
+192	Карпаций
+193	Кит
+194	Плеяды
+195	Внешнее Кольцо
+196	Пояс Гильдии
+197	Пояс Леониды
+198	Пурити
+199	Колар
+200	Зона Пирамиды
+201	Кольцо Теней
+202	Кубиндзи
+203	Эсселес
+204	Пасть Харона
+205	Медленная Зона
+206	Тритан
+207	Рубеж Нарна
+208	Октант
+209	Гамма Нарсис
+210	Окраина Таза
+211	Орлиная Туманность
+212	Индеец
+213	Печь
+214	Янтарная Гряда
+215	Западные Врата
+216	Средние Миры
+217	Журавль
+218	Окраины Альянса
+219	Рукав Персея
+220	Лагуна
+221	Малый Арктур
+222	Лира
+223	Резец
+224	Циркуль
+225	Эридан
+226	Тазендский Рукав
+227	Скиллиан
+228	Стальной Пояс
+229	Сигнус
+230	Муха
+231	Делве
+232	Часы
+233	Голгофа
+234	Катализ
+235	Тормансская Область
+236	Ультрамар
+237	Рукав Этерна
+238	Великий Разлом
+239	Скульптор
+240	Утопия
+241	Тарантул
+242	Пояс Реавера
+243	Курзан
+244	Лабиринт Хоспо
+245	Гаматта
+246	Сид
+247	Лимский Сектор
+248	Пояс Гулда
+249	Макрагг
+250	Зона Тартесса
+251	Траверс
+252	Атлас
+253	Ориган
+254	Неотранторианский Пояс
+255	Серая Зона
+256	Малый Пёс
+257	Ганзмар
+258	Зона Дельфинов
+259	Ледяные Ступени
+260	Пустоши Серенити
+261	Дорин
+262	Синдикат
+263	Большой Аттрактор
+264	Сабриэль
+265	Микроскоп
+266	Оккулус
+267	Южный Крест
+268	Рукав Ландсраада
+269	Кул
+270	Кадия
+271	Ломорский Сектор
+272	Альфа-квадрант
+273	Область Солярис
+274	Пояс Кассандры
+275	Дальний Предел
+276	Коррелианский Сектор
+277	Колонии
+278	Сад Титанов
+279	Южный Треугольник
+280	Сектор Атрейдесов
+281	Северная Вуаль
+282	Каладанский Пояс
+283	Сейшелльский Предел
+284	Хаттское Пространство
+285	Дорога Ветров
+286	Рысь
+287	Хаббис
+288	Гесперия
+289	Сектор Эпсилон Тукана
+290	Суперкластер Лаунайя
+291	Ферокс
+292	Анакреония
+293	Эридания
+294	Нимб
+295	Кор
+296	Аттика
+297	Скопление Иксиана
+298	Рукав Первопроходцев
+299	Колонии Кобола
+300	Тёмный Берег
+301	Насос
+302	Рукав Стрельца
+303	Ясли
+304	Второе Основание
+305	Золотая Рыба
+306	Райская Птица
+307	Зона Сети
+308	Демилитаризованная Зона
+309	Первое Основание
+310	Корма
+311	Сайвеннский Пояс
+312	Мост Нирвана
+313	Сатурнов Ряд
+314	Трантор
+315	Имперское Ядро
+316	Сектор Затмения
+317	Магеллан,Star.Normal
+318	Аргос,Star.Small
+319	Тал Сомар,Star.Small
+320	Вельзевул,Star.Small
+321	Миллер,Star.Small
+322	Хат П 11,Star.Small
+323	Нью-Гелиос,Star.Small
+324	Сул,Star.Small
+325	Минотавр,Star.Normal
+326	Феникс Станция,Star.Normal
+327	Восход,Star.Small
+328	Джита,Star.Normal
+329	Тревор,Star.Normal
+330	Шангри-Ла,Star.Small
+331	Вельс,Star.Small
+332	Эрос Два,Star.Small
+333	Лузус,Star.Normal
+334	Тормансиан,Star.Small
+335	Центавр Прима,Star.Small
+336	Лия Фалкон,Star.Small
+337	Геменон,Star.Small
+338	Рукбах,Star.Normal
+339	Хадли,Star.Normal
+340	Мантуп,Star.Small
+341	Дамокл,Star.Normal
+342	Маяк,Star.Normal
+343	Кассиопея Прайм,Star.Normal
+344	Ксир,Star.Normal
+345	Нирвана,Star.Normal
+346	Мапи,Star.Small
+347	Мар Сара,Star.Small
+348	Гиперборея,Star.Small
+349	Шедар,Star.Normal
+350	Нулас,Star.Normal
+351	Каффа,Star.Small
+352	Беллерофон,Star.Normal
+353	Новерия,Star.Small
+354	Мараканда,Star.Small
+355	Аврелия Два,Star.Small
+356	Прима,Star.Normal
+357	Трион,Star.Normal
+358	Карида,Star.Normal
+359	Новый Париж,Star.Small
+360	Дельта Эльтана,Star.Small
+361	Хельмавр,Star.Normal
+362	Ацельх,Star.Small
+363	Крен,Star.Normal
+364	Мандалора Прайм,Star.Normal
+365	Тунд,Star.Normal
+366	Титан Станция,Star.Normal
+367	Тарнис,Star.Small
+368	Гейдис,Star.Small
+369	Фолл,Star.Normal
+370	Чулак,Star.Normal
+371	Скорпия,Star.Small
+372	Эльтаним,Star.Normal
+373	Нибиру,Star.Normal
+374	Киллик,Star.Small
+375	Амарсиэл,Star.Small
+376	Нериа,Star.Normal
+377	Хорта,Star.Normal
+378	Омикрон Кита,Star.Small
+379	Фондор,Star.Normal
+380	Талакс,Star.Small
+381	Рилот,Star.Small
+382	Ксил,Star.Normal
+383	Зета Ретикули,Star.Small
+384	Бекон,Star.Small
+385	Ангелус,Star.Small
+386	Сеннар,Star.Small
+387	Трентон,Star.Small
+388	Кореллия Прайм,Star.Normal
+389	Трондхейм,Star.Normal
+390	Торианская Дуга,Star.Normal
+391	Тессия,Star.Small
+392	Турианская Дуга,Star.Small
+393	Иллирия,Star.Small
+394	Горизонт,Star.Normal
+395	Эндримион,Star.Small
+396	Зан,Star.Small
+397	Аркадия Два,Star.Normal
+398	Альтея,Star.Small
+399	Мунилист,Star.Normal
+400	Цербер,Star.Normal
+401	Феникс Два,Star.Normal
+402	Кадмея,Star.Normal
+403	Гамора,Star.Normal
+404	Мельпомения,Star.Normal
+405	Орерве,Star.Normal
+406	Горгон,Star.Normal
+407	Утопия Прайм,Star.Normal
+408	Далеон,Star.Small
+409	Эйферия,Star.Small
+410	Персефона,Star.Small
+411	Церера,Star.Small
+412	Пиргос,Star.Normal
+413	Вазн,Star.Small
+414	Ромбус,Star.Small
+415	Хадар,Star.Small
+416	Пикон,Star.Small
+417	Гармонтеп,Star.Small
+418	Хоррус,Star.Normal
+419	Бринкстер,Star.Small
+420	Мордиан,Star.Normal
+421	Леандр,Star.Small
+422	Каприка,Star.Small
+423	Дрейкос,Star.Normal
+424	Глизе 163,Star.Normal
+425	Кеплер 438,Star.Small
+426	Камелот,Star.Normal
+427	Лусития,Star.Normal
+428	Хорлеггор,Star.Small
+429	Альфирк,Star.Small
+430	Сур Кеш,Star.Normal
+431	Химера,Star.Normal
+432	Бекенштейн,Star.Normal
+433	Налхутта,Star.Normal
+434	Вандор,Star.Normal
+435	Сибилла,Star.Normal
+436	Фелуция,Star.Small
+437	Хек,Star.Small
+438	Ойе,Star.Small
+439	Теслия,Star.Small
+440	Валлах,Star.Normal
+441	Пи Золотой Рыбы,Star.Normal
+442	Одиссей,Star.Normal
+443	Тратус,Star.Normal
+444	Шекспир,Star.Normal
+445	Ачернар,Star.Small
+446	Гефест,Star.Small
+447	Мемори Альфа,Star.Normal
+448	Лемурия,Star.Small
+449	Салукемай,Star.Normal
+450	Зенсунни,Star.Normal
+451	Калипсо,Star.Small
+452	Кхарак,Star.Normal
+453	Нью-Бабилон,Star.Small
+454	Альтахе,Star.Normal
+455	Терция,Star.Small
+456	Кросс,Star.Normal
+457	Квонос,Star.Small
+458	Баджор,Star.Normal
+459	Альсафи,Star.Small
+460	Эос,Star.Small
+461	Террелл,Star.Small
+462	Фарос,Star.Small
+463	Антига Прайм,Star.Normal
+464	Ацеронт Прайм,Star.Normal
+465	Ничи,Star.Small
+466	Айур,Star.Normal
+467	Хурикейн,Star.Small
+468	Дарлок,Star.Small
+469	Сулако,Star.Small
+470	Тау Альфа Сигма,Star.Small
+471	Ломор,Star.Normal
+472	Солнечный Берег,Star.Normal
+473	Ипсилон Андромеды,Star.Normal
+474	Алзок,Star.Small
+475	Ксорин,Star.Small
+476	Нэмезис,Star.Small
+477	Хэдли,Star.Normal
+478	Пайро,Star.Normal
+479	Сфинкс,Star.Normal
+480	Мираж,Star.Normal
+481	Альфа Прайм,Star.Normal
+482	Стратос,Star.Normal
+483	Вортлон,Star.Normal
+484	Таргелия,Star.Small
+485	Фелтон,Star.Small
+486	Тау Кита Центр,Star.Normal
+487	Кэш,Star.Normal
+488	Полярис Прайм,Star.Small
+489	Тарсус,Star.Small
+490	Мон Гаэль,Star.Small
+491	Кривелл,Star.Small
+492	Ришез,Star.Small
+493	Аркадия,Star.Normal
+494	Дальний Берег,Star.Normal
+495	Арда,Star.Normal
+496	Аэлита,Star.Small
+497	Орион Прайм,Star.Small
+498	Дон Мариус,Star.Normal
+499	Гарпия,Star.Small
+500	Анакреон,Star.Normal
+501	Дирим,Star.Normal
+502	Кварта,Star.Small
+503	Зета Офиуха,Star.Normal
+504	Ромулус,Star.Normal
+505	Венди,Star.Small
+506	Ананке,Star.Small
+507	Глизе 436,Star.Normal
+508	Шалиак,Star.Normal
+509	Орланда,Star.Normal
+510	Корино,Star.Small
+511	Альгомейса,Star.Small
+512	Медея,Star.Normal
+513	Нике,Star.Normal
+514	Аталанта,Star.Small
+515	Терра Прайм,Star.Small
+516	Евридика,Star.Small
+517	Редстоун,Star.Small
+518	Нефелос,Star.Small
+519	Бентус,Star.Normal
+520	Тау Веди,Star.Small
+521	Парис,Star.Small
+522	Двар,Star.Small
+523	Расселл,Star.Small
+524	Корхал,Star.Normal
+525	Эридания Прайм,Star.Normal
+526	Атилла,Star.Normal
+527	Нос Астра,Star.Normal
+528	Неотрантор,Star.Normal
+529	Кастра,Star.Small
+530	Манн,Star.Normal
+531	Кеплер 90,Star.Small
+532	Гиперион,Star.Small
+533	Маринер,Star.Normal
+534	Мигейто,Star.Normal
+535	Вольфрам,Star.Normal
+536	Деррис,Star.Normal
+537	Агриа,Star.Normal
+538	Сигма Ориус,Star.Normal
+539	Ио,Star.Normal
+540	Леонида,Star.Normal
+541	Амарант,Star.Small
+542	Бета Гидры,Star.Small
+543	Вэлария,Star.Normal
+544	Кринд,Star.Small
+545	Арракин,Star.Normal
+546	Пангур,Star.Normal
+547	Проксима Центавра,Star.Normal
+548	Рофар,Star.Normal
+549	Эриаду,Star.Normal
+550	Райтанг,Star.Small
+551	Хела,Star.Normal
+552	Гермес,Star.Normal
+553	Терра Магна,Star.Small
+554	Тангент,Star.Normal
+555	Аэтерна,Star.Normal
+556	Каррхэ,Star.Normal
+557	Эрос,Star.Small
+558	Сциллианская Гавань,Star.Small
+559	Лирия,Star.Normal
+560	Ресургем,Star.Normal
+561	Нектарис,Star.Small
+562	Росс 248,Star.Normal
+563	Хиония,Star.Normal
+564	Масса,Star.Small
+565	Орд Мантелл,Star.Normal
+566	Квар,Star.Normal
+567	Ахернар,Star.Small
+568	Иллиум,Star.Normal
+569	Гамму,Star.Small
+570	Канцерон,Star.Normal
+571	Лазарус,Star.Normal
+572	Эльдорадо,Star.Small
+573	Орфей,Star.Small
+574	Талассия,Star.Normal
+575	Новая Земля,Star.Small
+576	Минбар,Star.Small
+577	Зирда,Star.Small
+578	Эвангелина,Star.Normal
+579	Рея,Star.Normal
+580	Афина,Star.Normal
+581	Октавия,Star.Small
+582	Нирвана Прайм,Star.Normal
+583	Ирис,Star.Small
+584	Дельта Павлина,Star.Normal
+585	Каллидия,Star.Normal
+586	Гипнос,Star.Normal
+587	Кассини,Star.Small
+588	Лейтен 726,Star.Small
+589	Тегмине,Star.Small
+590	Андория,Star.Small
+591	Квадрант Гелиоса,Star.Small
+592	Эдмундс,Star.Normal
+593	Надежда,Star.Normal
+594	Трапист 1,Star.Normal
+595	Кларк,Star.Small
+596	Вестрос,Star.Small
+597	Бореалис,Star.Small
+598	Аргонавт,Star.Small
+599	Файндер,Star.Small
+600	Прометей,Star.Small
+601	Хелиопауза,Star.Small
+602	Кахье,Star.Small
+603	Нарн,Star.Small
+604	Мерсия,Star.Small
+605	Ригель Пять,Star.Small
+606	Амала,Star.Normal
+607	Халея,Star.Small
+608	Хайдра,Star.Small
+609	Ментор,Star.Normal
+610	Икар,Star.Normal
+611	Кайтос,Star.Small
+612	Эридан 40,Star.Small
+613	Сильвания,Star.Small
+614	Фурд,Star.Small
+615	Гидра Кордатус,Star.Small
+616	Гальдос,Star.Normal
+617	Гарсуин,Star.Small
+618	Рафа,Star.Small
+619	Либран,Star.Normal
+620	Цитрин,Star.Normal
+621	Сарн,Star.Normal
+622	Вермайр,Star.Normal
+623	Эвати,Star.Normal
+624	Сагиттарон,Star.Small
+625	Вуттанен,Star.Small
+626	Харон Станция,Star.Normal
+627	Вега Прайм,Star.Small
+628	Йеллоустон,Star.Small
+629	Малахор,Star.Normal
+630	Чарон,Star.Normal
+631	Полифем,Star.Small
+632	Минос,Star.Normal
+633	Кронос,Star.Small
+634	Кхар Шан,Star.Small
+635	Ню Октанта,Star.Normal
+636	Гедимон,Star.Small
+637	Клингон Прайм,Star.Normal
+638	Лейзан,Star.Small
+639	Тигрис,Star.Small
+640	Эльтан,Star.Normal
+641	Феррис Фонд,Star.Small
+642	Лоредо,Star.Normal
+643	Пандора,Star.Normal
+644	Чар,Star.Normal
+645	Радол,Star.Normal
+646	Каллисто,Star.Small
+647	Ябба,Star.Small
+648	Мотерт,Star.Normal
+649	Тиинтар,Star.Small
+650	Тиранид,Star.Normal
+651	Мордин,Star.Normal
+652	Сабреж,Star.Small
+653	Дейдра,Star.Normal
+654	Дедал,Star.Normal
+655	Калт,Star.Normal
+656	Таллариан,Star.Normal
+657	Кольцо Мира,Star.Small
+658	Нарион,Star.Normal
+659	Сакента,Star.Normal
+660	Улисс,Star.Normal
+661	Эридан Два,Star.Small
+662	Мю Жертвенника,Star.Normal
+663	Мойн,Star.Small
+664	Хэвен,Star.Normal
+665	Мнемозина,Star.Small
+666	Салинас,Star.Small
+667	Ирия,Star.Small
+668	Аякс,Star.Normal
+669	Пальтаз,Star.Normal
+670	Дзета,Star.Small
+671	Кобол,Star.Small
+672	Тазенда,Star.Small
+673	Пенфрад,Star.Normal
+674	Гиена,Star.Small
+675	Европа,Star.Normal
+676	Лампадас,Star.Normal
+677	Персефона Два,Star.Small
+678	Ото,Star.Normal
+679	Ренс,Star.Small
+680	Эдема Прайм,Star.Normal
+681	Рубикон Примарис,Star.Small
+682	Терминус Прайм,Star.Normal
+683	Умбара,Star.Small
+684	Эпсилон Кита,Star.Normal
+685	Артемида,Star.Normal
+686	Элазия,Star.Normal
+687	Нево,Star.Normal
+688	Грумант,Star.Normal
+689	Таргус,Star.Normal
+690	Виргон,Star.Small
+691	Тайдан,Star.Normal
+692	Бальмор,Star.Small
+693	Чандрила,Star.Normal
+694	Кеплер 186,Star.Normal
+695	Деметра,Star.Small
+696	Гелион,Star.Small
+697	Рассвет,Star.Normal
+698	Ультима Прайм,Star.Normal
+699	Кассандра,Star.Small
+700	Сирена,Star.Normal
+701	Эрос Прайм,Star.Small
+702	Диса,Star.Small
+703	Ансион,Star.Small
+704	Мереза,Star.Small
+705	Лилак,Star.Normal
+706	Вермайер,Star.Small
+707	Хотома,Star.Normal
+708	Умаргар,Star.Small
+709	Беллерофон Один,Star.Normal
+710	Эгон,Star.Small
+711	Умоджа,Star.Normal
+712	Ксиэла,Star.Small
+713	Атлас Прайм,Star.Normal
+714	Лаве,Star.Normal
+715	Сегин,Star.Normal
+716	Карон,Star.Small
+717	Ланкивейл,Star.Small
+718	Тарази,Star.Small
+719	Эдем,Star.Normal
+720	Каллидор,Star.Small
+721	Гестия,Star.Small
+722	Палладиум,Star.Small
+723	Рамбаль,Star.Normal
+724	Ренессанс,Star.Small
+725	Фаррукх,Star.Normal
+726	Глизе 1214,Star.Normal
+727	Параксис,Star.Small
+728	Галлия,Star.Small
+729	Аэрилон,Star.Normal
+730	Вайтор,Star.Small
+731	Бель-Шир,Star.Normal
+732	Жиганда,Star.Small
+733	Рейлот,Star.Normal
+734	Асфодель,Star.Normal
+735	Селена,Star.Normal
+736	Кардассия,Star.Small
+737	Секунда,Star.Small
+738	Лорелея,Star.Normal
+739	Шиджон,Star.Normal
+740	Лима,Star.Normal
+741	Тарсис Ноль,Star.Normal
+742	Яйла,Star.Small
+743	Тракен,Star.Normal
+744	Хура,Star.Normal
+745	Рейкьявик,Star.Small
+746	Цитера,Star.Normal
+747	Тихо,Star.Normal
+748	Бельфегор,Star.Normal
+749	Зарьяс,Star.Normal
+750	Солярия,Star.Small
+751	Тауре,Star.Normal
+752	Хаконан,Star.Small
+753	Тероакс,Star.Normal
+754	Вольф 28,Star.Normal
+755	Оазис,Star.Small
+756	Корот 7,Star.Normal
+757	Скипио,Star.Small
+758	Элизия,Star.Small
+759	Спайк,Star.Small
+760	Лилавати,Star.Normal
+761	Нова Терра,Star.Small
+762	Рамэк,Star.Normal
+763	Пелагея,Star.Small
+764	Брэкстон,Star.Normal
+765	Сейрим,Star.Normal
+766	Куат,Star.Small
+767	Нот,Star.Normal
+768	Юпитерия,Star.Small
+769	Космополис,Star.Normal
+770	Йор,Star.Normal
+771	Гея,Star.Small
+772	Левиафан,Star.Normal
+773	Пенелопа,Star.Small
+774	Теллура,Star.Small
+775	Ментат,Star.Normal
+776	Аристарх,Star.Small
+777	Рикстер,Star.Normal
+778	Зерус,Star.Small
+779	Яванн,Star.Normal
+780	Лабиринт,Star.Small
+781	Парагон,Star.Small
+782	Элизиум,Star.Small
+783	Новая Каприка,Star.Normal
+784	Дельта Вега,Star.Small
+785	Кирио,Star.Normal
+786	Фиорина,Star.Normal
+787	Хассалех,Star.Small
+788	Деймос,Star.Normal
+789	Бетазед,Star.Small
+790	Иштар,Star.Normal
+791	Булрати,Star.Normal
+792	Шакурас,Star.Small
+793	Йакшер,Star.Small
+794	Мебсута,Star.Normal
+795	Вальхалла Два,Star.Normal
+796	Хаос Прайм,Star.Small
+797	Арнон,Star.Normal
+798	Ардуина,Star.Small
+799	Кельт,Star.Normal
+800	Нострома,Star.Normal
+801	Кастор Альфа,Star.Small
+802	Мекбуда,Star.Normal
+803	Ориент,Star.Normal
+804	Леусинис,Star.Normal
+805	Ботавуи,Star.Small
+806	Эпсилон Эридана Три,Star.Small
+807	Юнг,Star.Small
+808	Парадиз,Star.Normal
+809	Серенити,Star.Small
+810	Ураи,Star.Normal
+811	Ксараи,Star.Normal
+812	Мэйбин,Star.Small
+813	Тегмен,Star.Normal
+814	Тарфилд,Star.Small
+815	Дальняя Радуга,Star.Small
+816	Эфир,Star.Small
+817	Антиб,Star.Normal
+818	Силикоид,Star.Normal
+819	Хеллсрейк,Star.Normal
+820	Альмах,Star.Normal
+821	Баал,Star.Small
+822	Омега,Star.Small
+823	Нихал,Star.Small
+824	Смирно,Star.Small
+825	Палавен,Star.Normal
+826	Кварцевая Гавань,Star.Small
+827	Тритония,Star.Small
+828	Мастур,Star.Small
+829	Генезис,Star.Small
+830	Сатор,Star.Normal
+831	Утопия Один,Star.Normal
+832	Аполлон,Star.Small
+833	Звезда Тигардена,Star.Small
+834	Рукбат,Star.Normal
+835	Рэннох,Star.Normal
+836	Стратар,Star.Normal
+837	Кристальный Предел,Star.Normal
+838	Цитадель,Star.Normal
+839	Гьеди Прайм,Star.Small
+840	Эссель,Star.Normal
+841	Аврора,Star.Normal
+842	Терра Нова,Star.Normal
+843	Морфей,Star.Normal
+844	Атлантис,Star.Normal
+845	Хавенэр,Star.Normal
+846	Танатос,Star.Small
+847	Тедак,Star.Normal
+848	Гелиополис,Star.Small
+849	Азмидиске,Star.Small
+850	Фаэтон,Star.Normal
+851	Эгида,Star.Normal
+852	Терранский Союз,Star.Normal
+853	Стантон,Star.Small
+854	Зенит,Star.Normal
+855	Чиста,Star.Small
+856	Саракш,Star.Normal
+857	Христофсис,Star.Normal
+858	Геката,Star.Small
+859	Эребус,Star.Normal
+860	Тавр,Star.Normal
+861	Корибан,Star.Small
+862	Эрсаи,Star.Normal
+863	Ариадна,Star.Normal
+864	Тама,Star.Normal
+865	Мюрфи,Star.Small
+866	Ультимо,Star.Normal
+867	Эвридика,Star.Small
+868	Тарсонис,Star.Normal
+869	Дрази,Star.Normal
+870	Альрамех,Star.Small
+871	Эгея,Star.Small
+872	Альфа Каринае,Star.Small
+873	Эвр,Star.Normal
+874	Новый Китеж,Star.Small
+875	Лукрис,Star.Small
+876	Аврелия,Star.Small
+877	Рахад,Star.Normal
+878	Бресуа,Star.Normal
+879	Эрайдан,Star.Normal
+880	Кеплер 62,Star.Small
+881	Фортуна,Star.Small
+882	Вулкан,Star.Small
+883	Дрэнгин,Star.Small
+884	Руслан,Star.Small
+885	Пинта,Star.Small
+886	Нал Хатта,Star.Normal
+887	Геракл,Star.Normal
+888	Левасса,Star.Normal
+889	Сигма Драконис,Star.Small
+890	Абидос,Star.Small
+891	Таурос,Star.Small
+892	Синева,Star.Small
+893	Ластрон,Star.Small
+894	Кайтен,Star.Normal
+895	Сейшелл,Star.Normal
+896	Зарница,Star.Normal
+897	Эпсилон Хидри,Star.Small
+898	Гиганда,Star.Small
+899	Ференгинар,Star.Normal
+900	Феникс Прайм,Star.Small
+901	Гектор,Star.Small
+902	Юнона,Star.Normal
+903	Сулафат,Star.Small
+904	Бэтельгард,Star.Normal
+905	Диоскур,Star.Small
+906	Ремус,Star.Small
+907	Тарсис Прайм,Star.Small
+908	Арес,Star.Normal
+909	Калган,Star.Normal
+910	Амарр,Star.Small
+911	Дуро,Star.Normal
+912	Рубикон Вега,Star.Normal
+913	Хиндун,Star.Normal
+914	Таун,Star.Normal

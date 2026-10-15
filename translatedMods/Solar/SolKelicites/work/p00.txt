@@ -1,0 +1,30 @@
+1	Ushmal
+2	Osh
+3	Tikal
+4	Sak
+5	Kakh
+6	Kin
+7	Kha
+8	Nikte
+9	Thank you for visiting our station station. Make yourself comfortable, <Player>, and feel at home. We are glad to establish contact with your species.
+10	kelicite1
+11	kelicite2
+12	kelicite3
+13	kelicite4
+14	kelicite5
+15	kelicite6
+16	kelicite7
+17	kelicite8
+18	Met-chanan
+19	Mats-kugul
+20	Mab-atan
+21	Us-tsuk
+22	Sak-tsuk
+23	Mab-ekats
+24	Suts-chanan
+25	Atot-hol of the kelicites
+26	Atot-khol
+27	The kelicites have opened a new station in the %star% system of sector %sector% - the atot-hol %station%.
+28	The kelicites continue to settle into the Galaxy: the atot-hol %station% has begun operating in the %star% system (sector %sector%).
+29	The atot-hol %station% has received its first guests in the %star% system. Pilots of sector %sector% should get acquainted with their new neighbors.
+30	A new kelicite station, the atot-hol %station%, has been spotted in the %star% system of sector %sector%.

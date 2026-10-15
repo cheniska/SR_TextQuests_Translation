@@ -1,0 +1,11 @@
+Гралгар	Gralgar
+Проживающая раса: <Race>	Resident race: <Race>
+Население: <Population> млн	Population: <Population> million
+Экономический тип: <Economy>	Economic system: <Economy>
+Политический строй: <Goverment>	Political system: <Goverment>
+Отношение к вам: <Relation>	Your reputation: <Relation>
+Мензолы	Menzols
+Мико	Miko
+Скаут	Scout
+Штурмовик	Trooper
+Торговец	Merchant

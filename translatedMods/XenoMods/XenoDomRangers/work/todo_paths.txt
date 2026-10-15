@@ -1,0 +1,10 @@
+1	Script/Mod_XenoDomRangers/MaskedText
+2	Script/Mod_XenoDomRangers/MaskedClose
+3	Script/Mod_XenoDomRangers/MissionText
+4	Script/Mod_XenoDomRangers/MissionClose
+5	Script/Mod_XenoDomRangers/AttackedText
+6	Script/Mod_XenoDomRangers/AttackedSorry
+7	Script/Mod_XenoDomRangers/AttackedHostile
+8	Script/Mod_XenoDomRangers/SorryText
+9	Script/Mod_XenoDomRangers/HostileText
+10	Script/Mod_XenoDomRangers/DialogClose

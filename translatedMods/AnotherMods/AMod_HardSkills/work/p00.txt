@@ -1,0 +1,7 @@
+1	Attack skill increased!<br>
+2	Mobility skill increased!<br>
+3	Technology skill increased!<br>
+4	Commerce skill increased!<br>
+5	Charisma skill increased!<br>
+6	Leadership skill increased!<br>
+7	<td=0><align=left>Attack:</align><td=160><align=right>CurExp0</align><td=170><align=right>/</align><td=225><align=right>NeedExp0</align><br>Mobility:</align><td=160><align=right>CurExp1</align><td=170><align=right>/</align><td=225><align=right>NeedExp1</align><br>Technology:</align><td=160><align=right>CurExp2</align><td=170><align=right>/</align><td=225><align=right>NeedExp2</align><br>Commerce:</align><td=160><align=right>CurExp3</align><td=170><align=right>/</align><td=225><align=right>NeedExp3</align><br>Charisma:</align><td=160><align=right>CurExp4</align><td=170><align=right>/</align><td=225><align=right>NeedExp4</align><br>Leadership:</align><td=160><align=right>CurExp5</align><td=170><align=right>/</align><td=225><align=right>NeedExp5</align><br>

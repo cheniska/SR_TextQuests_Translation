@@ -1,0 +1,914 @@
+1	Home Galaxy
+2	Far Arm
+3	Third Arm
+4	Gamma Quadrant
+5	Core of the Empire
+6	Spice Desert
+7	Southern Fish
+8	Ossus
+9	Star Reach
+10	Kaliptus
+11	Peacock
+12	Pintian Belt
+13	Wellspring
+14	Aquarius Sector
+15	Silver River
+16	Zone of Thought
+17	Ursa Major
+18	Canis Major
+19	Rainbow Arm
+20	Hyades
+21	Kuiper Belt
+22	Virgo Cluster
+23	Solarian Ridge
+24	Kade
+25	Far Circle
+26	Shore of Lost Worlds
+27	Exodus
+28	Smirnian Sector
+29	Babylon Sector
+30	Local Bubble
+31	Kessel
+32	Lepus
+33	Caprica Sector
+34	Verdan
+35	Leo Minor
+36	Narn Space
+37	Cygnus Arm
+38	Commonwealth of Worlds
+39	Canes Venatici
+40	Gorgon
+41	Land of Ulmia
+42	Khela Nebula
+43	Far Reach of Rishez
+44	Crystal Gates
+45	Corona Australis
+46	Boötes Void
+47	Catachan
+48	Serpens
+49	Eternium
+50	Gamma Belt
+51	Edem Region
+52	Serenity Valley
+53	Ashen
+54	Flying Fish
+55	Lucrehulk
+56	Fenris
+57	Lunar Reach
+58	Eastern Stairway
+59	Blue Sun Sector
+60	Trayus
+61	Harkonnen Sector
+62	Zone of Transcendence
+63	Metropolis
+64	Corona Borealis
+65	Libran Sector
+66	Neutral Zone
+67	Three Hundredth Frontier
+68	Tempestus
+69	Star's End
+70	Centauri
+71	Dead Zone
+72	Estiklus
+73	Tal'Shiar Wastes
+74	Tingel
+75	Ursa Minor
+76	Oort Cloud
+77	Columba
+78	Region of Oblivion
+79	Molden
+80	Ganymede Borderlands
+81	Carina
+82	Gey Sector
+83	Crimson Abyss
+84	Ori Galaxy
+85	Echo Valley
+86	Saraksh Sector
+87	Corrino Sector
+88	Arkania
+89	Minbar Frontier
+90	Coma Berenices Cluster
+91	Arc of Hope
+92	Crab Nebula
+93	Vela
+94	Ultra Belt
+95	Lower Abyss
+96	Auroran Ridge
+97	Amethyst Ring
+98	Obscurus
+99	Pandora Ridge
+100	Scutum Arm
+101	Vortlon Space
+102	Badlands
+103	Vulpecula
+104	Atravis
+105	Human Hegemony
+106	Pegasus Galaxy
+107	Table Mountain
+108	Pacificus
+109	Tarsis
+110	Veil
+111	Corvus
+112	Cepheus
+113	Everidon
+114	Albario
+115	Eclipse
+116	Hydrus
+117	Grumant Belt
+118	Reach of Silence
+119	Far March
+120	Moddel
+121	Siren's Cliff
+122	Veil of Perseus
+123	Tleilaxu Sector
+124	Unexplored Regions
+125	Orion Nebula
+126	Relmor
+127	Borealis Belt
+128	Geminat
+129	Renaissance Sphere
+130	Scorpio Sector
+131	Romulus Arm
+132	Radol Arc
+133	Aegean Ring
+134	Lonetrek
+135	Norma
+136	Terminus
+137	Aquila
+138	Auriga
+139	Crater
+140	Yayla Region
+141	Forge
+142	Derelict
+143	Ara
+144	Sextans
+145	Telescopium
+146	Drazi Holding
+147	Orion Arm
+148	Yellow Arc
+149	Pyxis
+150	Frontier of Hope
+151	Great Ring
+152	Kaliksis
+153	Dark Sector
+154	Solar
+155	Liminal
+156	Omega Centauri
+157	Magellanic Cloud
+158	Skael
+159	Tucana
+160	Expansion Region
+161	Reticulum
+162	Red Hand Sector
+163	Exodus Belt
+164	Beta Quadrant
+165	Centauri Republic
+166	Midlrim Arc
+167	Mandalore
+168	Kalgan March
+169	Tenal
+170	Colony Frontier
+171	Lacerta
+172	Technocore Space
+173	Smoky Fields
+174	Rift Belt
+175	Equuleus
+176	Southern Dipper
+177	Delta Quadrant
+178	Ridge of Wanderers
+179	Inner Planets
+180	Senex
+181	Corellia
+182	Ionian Chain
+183	Giganda Group
+184	Oracle Belt
+185	Tarkhan Expansion
+186	Valhalla
+187	Triangulum
+188	Periphery
+189	Golden Bridge
+190	Hydian Way
+191	Corporate Sector
+192	Carpathians
+193	Cetus
+194	Pleiades
+195	Outer Rim
+196	Guild Belt
+197	Leonid Belt
+198	Purity
+199	Kolar
+200	Pyramid Zone
+201	Ring of Shadows
+202	Kubindzi
+203	Esseles
+204	Charon's Maw
+205	Slow Zone
+206	Tritan
+207	Narn Frontier
+208	Octans
+209	Gamma Narsis
+210	Taz Fringe
+211	Eagle Nebula
+212	Indus
+213	Fornax
+214	Amber Ridge
+215	Western Gates
+216	Middle Worlds
+217	Grus
+218	Alliance Fringes
+219	Perseus Arm
+220	Lagoon
+221	Lesser Arcturus
+222	Lyra
+223	Caelum
+224	Circinus
+225	Eridanus
+226	Tazend Arm
+227	Skillian
+228	Steel Belt
+229	Cygnus
+230	Musca
+231	Delve
+232	Horologium
+233	Golgotha
+234	Catalyst
+235	Torman Region
+236	Ultramar
+237	Aeterna Arm
+238	Great Rift
+239	Sculptor
+240	Utopia
+241	Tarantula
+242	Reaver Belt
+243	Kurzan
+244	Hospo Labyrinth
+245	Gamatta
+246	Sid
+247	Lim Sector
+248	Gould Belt
+249	Macragge
+250	Tartessos Zone
+251	Traverse
+252	Atlas
+253	Origan
+254	Neotrantorian Belt
+255	Gray Zone
+256	Canis Minor
+257	Ganzmar
+258	Dolphin Zone
+259	Icy Steps
+260	Serenity Wastes
+261	Dorin
+262	Syndicate
+263	Great Attractor
+264	Sabriel
+265	Microscopium
+266	Oculus
+267	Southern Cross
+268	Landsraad Arm
+269	Kul
+270	Cadia
+271	Lomor Sector
+272	Alpha Quadrant
+273	Solaris Region
+274	Cassandra Belt
+275	Far Reach
+276	Corellian Sector
+277	Colonies
+278	Garden of Titans
+279	Triangulum Australe
+280	Atreides Sector
+281	Northern Veil
+282	Caladan Belt
+283	Seychelles Reach
+284	Hutt Space
+285	Road of Winds
+286	Lynx
+287	Khabbis
+288	Hesperia
+289	Epsilon Tucanae Sector
+290	Laniakea Supercluster
+291	Ferox
+292	Anacreonia
+293	Eridania
+294	Nimb
+295	Kor
+296	Attica
+297	Ixian Cluster
+298	Pioneer Arm
+299	Kobol Colonies
+300	Dark Shore
+301	Antlia
+302	Sagittarius Arm
+303	Praesepe
+304	Second Foundation
+305	Dorado
+306	Apus
+307	Net Zone
+308	Demilitarized Zone
+309	First Foundation
+310	Puppis
+311	Sayvenn Belt
+312	Nirvana Bridge
+313	Saturn's Row
+314	Trantor
+315	Imperial Core
+316	Eclipse Sector
+317	Magellan,Star.Normal
+318	Argos,Star.Small
+319	Tal Somar,Star.Small
+320	Beelzebub,Star.Small
+321	Miller,Star.Small
+322	Hat P 11,Star.Small
+323	New Helios,Star.Small
+324	Sul,Star.Small
+325	Minotaur,Star.Normal
+326	Phoenix Station,Star.Normal
+327	Voskhod,Star.Small
+328	Jita,Star.Normal
+329	Trevor,Star.Normal
+330	Shangri-La,Star.Small
+331	Vels,Star.Small
+332	Eros Two,Star.Small
+333	Luzus,Star.Normal
+334	Tormansian,Star.Small
+335	Tsentavr Prima,Star.Small
+336	Leia Falcon
+337	Gemenon,Star.Small
+338	Rukbakh,Star.Normal
+339	Hadley,Star.Normal
+340	Mantup,Star.Small
+341	Damocles
+342	Beacon,Star.Normal
+343	Cassiopeia Prime,Star.Normal
+344	Ksir,Star.Normal
+345	Nirvana,Star.Normal
+346	Mapi,Star.Small
+347	Mar Sara,Star.Small
+348	Hyperborea,Star.Small
+349	Shedar,Star.Normal
+350	Nulas,Star.Normal
+351	Kaffa,Star.Small
+352	Bellerophon,Star.Normal
+353	Noveria,Star.Small
+354	Marakanda,Star.Small
+355	Aurelia Two,Star.Small
+356	Prima,Star.Normal
+357	Trion,Star.Normal
+358	Karida,Star.Normal
+359	New Paris,Star.Small
+360	Delta Eltana,Star.Small
+361	Khelmavr,Star.Normal
+362	Atselkh,Star.Small
+363	Kren,Star.Normal
+364	Mandalore Prime,Star.Normal
+365	Tund,Star.Normal
+366	Titan Station,Star.Normal
+367	Tarnis,Star.Small
+368	Geydis,Star.Small
+369	Foll,Star.Normal
+370	Chulak,Star.Normal
+371	Scorpio,Star.Small
+372	Eltanim,Star.Normal
+373	Nibiru,Star.Normal
+374	Killik,Star.Small
+375	Amarsiel,Star.Small
+376	Neria,Star.Normal
+377	Horta,Star.Normal
+378	Omicron Ceti,Star.Small
+379	Fondor,Star.Normal
+380	Talaks,Star.Small
+381	Rilot,Star.Small
+382	Ksil,Star.Normal
+383	Zeta Reticuli,Star.Small
+384	Bekon,Star.Small
+385	Angelus,Star.Small
+386	Sennar,Star.Small
+387	Trenton,Star.Small
+388	Corellia Prime,Star.Normal
+389	Trondheim,Star.Normal
+390	Torianskaya Duga,Star.Normal
+391	Tessiya,Star.Small
+392	Turianskaya Duga,Star.Small
+393	Illyria,Star.Small
+394	Horizon,Star.Normal
+395	Endymion,Star.Small
+396	Zan,Star.Small
+397	Arcadia Two,Star.Normal
+398	Althea,Star.Small
+399	Munilist,Star.Normal
+400	Cerberus,Star.Normal
+401	Phoenix Two,Star.Normal
+402	Cadmea,Star.Normal
+403	Gamora,Star.Normal
+404	Melpomene,Star.Normal
+405	Orerve,Star.Normal
+406	Gorgon,Star.Normal
+407	Utopia Prime,Star.Normal
+408	Daleon,Star.Small
+409	Eyferiya,Star.Small
+410	Persephone,Star.Small
+411	Ceres,Star.Small
+412	Pirgos,Star.Normal
+413	Vazn,Star.Small
+414	Rhombus,Star.Small
+415	Hadar,Star.Small
+416	Pikon,Star.Small
+417	Garmontep,Star.Small
+418	Horus,Star.Normal
+419	Brinkster,Star.Small
+420	Mordian,Star.Normal
+421	Leander,Star.Small
+422	Caprica,Star.Small
+423	Dreykos,Star.Normal
+424	Gliese 163,Star.Normal
+425	Kepler 438,Star.Small
+426	Camelot,Star.Normal
+427	Lusitia,Star.Normal
+428	Khorleggor,Star.Small
+429	Alfirk,Star.Small
+430	Sur Kesh,Star.Normal
+431	Chimera,Star.Normal
+432	Beckenstein,Star.Normal
+433	Nal Hutta,Star.Normal
+434	Vandor,Star.Normal
+435	Sibylla,Star.Normal
+436	Felucia,Star.Small
+437	Hek,Star.Small
+438	Oye,Star.Small
+439	Tesliya,Star.Small
+440	Vallakh,Star.Normal
+441	Pi Zolotoy Ryby,Star.Normal
+442	Odyssey,Star.Normal
+443	Tratus,Star.Normal
+444	Shakespeare,Star.Normal
+445	Achernar,Star.Small
+446	Hephaestus,Star.Small
+447	Memory Alpha,Star.Normal
+448	Lemuria,Star.Small
+449	Salukemay,Star.Normal
+450	Zensunni,Star.Normal
+451	Calypso,Star.Small
+452	Kharak,Star.Normal
+453	New Babylon,Star.Small
+454	Altakhe,Star.Normal
+455	Tertia,Star.Small
+456	Kross,Star.Normal
+457	Kvonos,Star.Small
+458	Bajor,Star.Normal
+459	Alsafi,Star.Small
+460	Eos,Star.Small
+461	Terrell,Star.Small
+462	Pharos,Star.Small
+463	Antiga Prime,Star.Normal
+464	Acheron Prime,Star.Normal
+465	Nichi,Star.Small
+466	Aiur,Star.Normal
+467	Hurricane,Star.Small
+468	Darlok,Star.Small
+469	Sulaco,Star.Small
+470	Tau Alpha Sigma,Star.Small
+471	Lomor,Star.Normal
+472	Sunny Shore,Star.Normal
+473	Upsilon Andromedae,Star.Normal
+474	Alzok,Star.Small
+475	Ksorin,Star.Small
+476	Nemesis,Star.Small
+477	Hedley,Star.Normal
+478	Payro,Star.Normal
+479	Sphinx,Star.Normal
+480	Mirage,Star.Normal
+481	Alpha Prime,Star.Normal
+482	Stratos,Star.Normal
+483	Vortlon,Star.Normal
+484	Targeliya,Star.Small
+485	Felton,Star.Small
+486	Tau Ceti Tsentr,Star.Normal
+487	Kesh,Star.Normal
+488	Polaris Prime,Star.Small
+489	Tarsus,Star.Small
+490	Mon Gael,Star.Small
+491	Krivell,Star.Small
+492	Rishez,Star.Small
+493	Arcadia,Star.Normal
+494	Far Shore,Star.Normal
+495	Arda,Star.Normal
+496	Aelita,Star.Small
+497	Orion Prime,Star.Small
+498	Don Marius,Star.Normal
+499	Harpy,Star.Small
+500	Anacreon,Star.Normal
+501	Dirim,Star.Normal
+502	Quarta,Star.Small
+503	Zeta Ophiuchi,Star.Normal
+504	Romulus,Star.Normal
+505	Vendi,Star.Small
+506	Ananke,Star.Small
+507	Gliese 436,Star.Normal
+508	Shaliak,Star.Normal
+509	Orlanda,Star.Normal
+510	Korino,Star.Small
+511	Algomeysa,Star.Small
+512	Medea,Star.Normal
+513	Nike,Star.Normal
+514	Atalanta,Star.Small
+515	Terra Prime,Star.Small
+516	Eurydice,Star.Small
+517	Redstone,Star.Small
+518	Nefelos,Star.Small
+519	Bentus,Star.Normal
+520	Tau Vedi,Star.Small
+521	Paris,Star.Small
+522	Dvar,Star.Small
+523	Russell,Star.Small
+524	Korkhal,Star.Normal
+525	Eridaniya Prime,Star.Normal
+526	Attila,Star.Normal
+527	Nos Astra,Star.Normal
+528	Neotrantor,Star.Normal
+529	Castra,Star.Small
+530	Mann,Star.Normal
+531	Kepler 90,Star.Small
+532	Hyperion,Star.Small
+533	Mariner,Star.Normal
+534	Migeyto,Star.Normal
+535	Wolfram,Star.Normal
+536	Derris,Star.Normal
+537	Agria,Star.Normal
+538	Sigma Orius,Star.Normal
+539	Io,Star.Normal
+540	Leonida,Star.Normal
+541	Amaranth,Star.Small
+542	Beta Hydri,Star.Small
+543	Velariya,Star.Normal
+544	Krind,Star.Small
+545	Arrakin,Star.Normal
+546	Pangur,Star.Normal
+547	Proxima Centauri,Star.Normal
+548	Rofar,Star.Normal
+549	Eriadu,Star.Normal
+550	Raytang,Star.Small
+551	Hela,Star.Normal
+552	Hermes,Star.Normal
+553	Terra Magna,Star.Small
+554	Tangent,Star.Normal
+555	Aeterna,Star.Normal
+556	Karrkhe,Star.Normal
+557	Eros,Star.Small
+558	Scyllian Harbor,Star.Small
+559	Lyria,Star.Normal
+560	Resurgem,Star.Normal
+561	Nectaris,Star.Small
+562	Ross 248,Star.Normal
+563	Chionia,Star.Normal
+564	Massa,Star.Small
+565	Ord Mantell,Star.Normal
+566	Kvar,Star.Normal
+567	Achernar,Star.Small
+568	Ilium,Star.Normal
+569	Gammu,Star.Small
+570	Kantseron,Star.Normal
+571	Lazarus,Star.Normal
+572	Eldorado,Star.Small
+573	Orpheus,Star.Small
+574	Thalassia,Star.Normal
+575	New Zemlya,Star.Small
+576	Minbar,Star.Small
+577	Zirda,Star.Small
+578	Evangelina,Star.Normal
+579	Rhea,Star.Normal
+580	Athena,Star.Normal
+581	Octavia,Star.Small
+582	Nirvana Prime,Star.Normal
+583	Iris,Star.Small
+584	Delta Pavonis
+585	Kallidiya,Star.Normal
+586	Hypnos,Star.Normal
+587	Cassini,Star.Small
+588	Luyten 726,Star.Small
+589	Tegmine,Star.Small
+590	Andoria,Star.Small
+591	Helios Quadrant
+592	Edmunds,Star.Normal
+593	Nadezhda,Star.Normal
+594	TRAPPIST 1,Star.Normal
+595	Clark,Star.Small
+596	Westeros,Star.Small
+597	Borealis,Star.Small
+598	Argonaut,Star.Small
+599	Finder,Star.Small
+600	Prometheus,Star.Small
+601	Heliopause,Star.Small
+602	Kakhye,Star.Small
+603	Narn,Star.Small
+604	Mercia,Star.Small
+605	Rigel Five,Star.Small
+606	Amala,Star.Normal
+607	Khaleya,Star.Small
+608	Hydra,Star.Small
+609	Mentor,Star.Normal
+610	Icarus,Star.Normal
+611	Kaytos,Star.Small
+612	Eridanus 40,Star.Small
+613	Sylvania,Star.Small
+614	Furd,Star.Small
+615	Hydra Chordatus,Star.Small
+616	Galdos,Star.Normal
+617	Garsuin,Star.Small
+618	Rafa,Star.Small
+619	Libran,Star.Normal
+620	Citrine,Star.Normal
+621	Sarn,Star.Normal
+622	Vermayr,Star.Normal
+623	Evati,Star.Normal
+624	Sagittaron,Star.Small
+625	Vuttanen,Star.Small
+626	Charon Station,Star.Normal
+627	Vega Prime,Star.Small
+628	Yellowstone,Star.Small
+629	Malachor,Star.Normal
+630	Charon,Star.Normal
+631	Polyphemus,Star.Small
+632	Minos,Star.Normal
+633	Kronos,Star.Small
+634	Khar Shan,Star.Small
+635	New Octant,Star.Normal
+636	Gedimon,Star.Small
+637	Klingon Prime
+638	Leyzan,Star.Small
+639	Tigris,Star.Small
+640	Eltan,Star.Normal
+641	Ferris Fond,Star.Small
+642	Loredo,Star.Normal
+643	Pandora,Star.Normal
+644	Char,Star.Normal
+645	Radol,Star.Normal
+646	Callisto,Star.Small
+647	Yabba,Star.Small
+648	Motert,Star.Normal
+649	Tiintar,Star.Small
+650	Tyranid,Star.Normal
+651	Mordin,Star.Normal
+652	Sabrezh,Star.Small
+653	Deydra,Star.Normal
+654	Daedalus,Star.Normal
+655	Kalt,Star.Normal
+656	Tallarian,Star.Normal
+657	Ring World,Star.Small
+658	Narion,Star.Normal
+659	Sakenta,Star.Normal
+660	Ulysses,Star.Normal
+661	Eridan Two,Star.Small
+662	Mu Arae,Star.Normal
+663	Moyn,Star.Small
+664	Haven,Star.Normal
+665	Mnemosyne,Star.Small
+666	Salinas,Star.Small
+667	Iriya,Star.Small
+668	Ajax,Star.Normal
+669	Paltaz,Star.Normal
+670	Zeta,Star.Small
+671	Kobol,Star.Small
+672	Tazenda,Star.Small
+673	Penfrad,Star.Normal
+674	Hyena,Star.Small
+675	Europa,Star.Normal
+676	Lampadas,Star.Normal
+677	Persephone Two,Star.Small
+678	Oto,Star.Normal
+679	Rennes,Star.Small
+680	Eden Prime,Star.Normal
+681	Rubicon Primaris,Star.Small
+682	Terminus Prime,Star.Normal
+683	Umbara,Star.Small
+684	Epsilon Ceti,Star.Normal
+685	Artemis,Star.Normal
+686	Elaziya,Star.Normal
+687	Nevo,Star.Normal
+688	Grumant,Star.Normal
+689	Targus,Star.Normal
+690	Virgon,Star.Small
+691	Tydan,Star.Normal
+692	Balmorra,Star.Small
+693	Chandrila,Star.Normal
+694	Kepler 186,Star.Normal
+695	Demeter,Star.Small
+696	Helion,Star.Small
+697	Dawn,Star.Normal
+698	Ultima Prime,Star.Normal
+699	Cassandra,Star.Small
+700	Siren,Star.Normal
+701	Eros Prime,Star.Small
+702	Disa,Star.Small
+703	Ansion,Star.Small
+704	Mereza,Star.Small
+705	Lilac,Star.Normal
+706	Vermayer,Star.Small
+707	Khotoma,Star.Normal
+708	Umargar,Star.Small
+709	Bellerophon One,Star.Normal
+710	Egon,Star.Small
+711	Umoja,Star.Normal
+712	Xiela,Star.Small
+713	Atlas Prime,Star.Normal
+714	Lave,Star.Normal
+715	Segin,Star.Normal
+716	Karon,Star.Small
+717	Lankiveil,Star.Small
+718	Tarazi,Star.Small
+719	Eden,Star.Normal
+720	Kallidor,Star.Small
+721	Hestia,Star.Small
+722	Palladium,Star.Small
+723	Rambal,Star.Normal
+724	Renaissance,Star.Small
+725	Farrukkh,Star.Normal
+726	Gliese 1214,Star.Normal
+727	Paraxis,Star.Small
+728	Gallia,Star.Small
+729	Aerilon,Star.Normal
+730	Vaitor,Star.Small
+731	Bel-Shir,Star.Normal
+732	Giganda,Star.Small
+733	Reylot,Star.Normal
+734	Asphodel,Star.Normal
+735	Selene,Star.Normal
+736	Cardassia,Star.Small
+737	Secunda,Star.Small
+738	Lorelei,Star.Normal
+739	Shidzhon,Star.Normal
+740	Lima,Star.Normal
+741	Tharsis Zero,Star.Normal
+742	Yayla,Star.Small
+743	Trakken,Star.Normal
+744	Khura,Star.Normal
+745	Reykjavik,Star.Small
+746	Cythera,Star.Normal
+747	Tycho,Star.Normal
+748	Belphegor,Star.Normal
+749	Zaryas,Star.Normal
+750	Solaria,Star.Small
+751	Taure,Star.Normal
+752	Khakonan,Star.Small
+753	Teroaks,Star.Normal
+754	Wolf 28,Star.Normal
+755	Oasis,Star.Small
+756	CoRoT 7,Star.Normal
+757	Scipio,Star.Small
+758	Elysia,Star.Small
+759	Spike,Star.Small
+760	Lilavati,Star.Normal
+761	Nova Terra,Star.Small
+762	Ramek,Star.Normal
+763	Pelageya,Star.Small
+764	Brekston,Star.Normal
+765	Seyrim,Star.Normal
+766	Kuat,Star.Small
+767	Not,Star.Normal
+768	Jupiteria,Star.Small
+769	Cosmopolis,Star.Normal
+770	Yor,Star.Normal
+771	Gaia,Star.Small
+772	Leviathan,Star.Normal
+773	Penelope,Star.Small
+774	Tellura,Star.Small
+775	Mentat,Star.Normal
+776	Aristarchus,Star.Small
+777	Rikster,Star.Normal
+778	Zerus,Star.Small
+779	Yavann,Star.Normal
+780	Labyrinth,Star.Small
+781	Paragon,Star.Small
+782	Elysium,Star.Small
+783	New Caprica,Star.Normal
+784	Delta Vega,Star.Small
+785	Kirio,Star.Normal
+786	Fiorina,Star.Normal
+787	Khassalekh,Star.Small
+788	Deimos,Star.Normal
+789	Betazed,Star.Small
+790	Ishtar,Star.Normal
+791	Bulrati,Star.Normal
+792	Shakuras,Star.Small
+793	Yaksher,Star.Small
+794	Mebsuta,Star.Normal
+795	Valhalla Two,Star.Normal
+796	Khaos Prime,Star.Small
+797	Arnon,Star.Normal
+798	Arduina,Star.Small
+799	Kelt,Star.Normal
+800	Nostroma,Star.Normal
+801	Kastor Alpha,Star.Small
+802	Mekbuda,Star.Normal
+803	Orient,Star.Normal
+804	Leusinis,Star.Normal
+805	Botavui,Star.Small
+806	Epsilon Eridani Three,Star.Small
+807	Jung,Star.Small
+808	Paradise,Star.Normal
+809	Serenity,Star.Small
+810	Urai,Star.Normal
+811	Ksarai,Star.Normal
+812	Meybin,Star.Small
+813	Tegmen,Star.Normal
+814	Tarfild,Star.Small
+815	Far Rainbow,Star.Small
+816	Ether,Star.Small
+817	Antib,Star.Normal
+818	Silicoid,Star.Normal
+819	Khellsreyk,Star.Normal
+820	Almakh,Star.Normal
+821	Baal,Star.Small
+822	Omega,Star.Small
+823	Nikhal,Star.Small
+824	Smirno,Star.Small
+825	Palaven,Star.Normal
+826	Quartz Harbor,Star.Small
+827	Tritonia,Star.Small
+828	Mastur,Star.Small
+829	Genesis,Star.Small
+830	Sator,Star.Normal
+831	Utopia One,Star.Normal
+832	Apollo,Star.Small
+833	Tigarden Star,Star.Small
+834	Rukbat,Star.Normal
+835	Rennokh,Star.Normal
+836	Stratar,Star.Normal
+837	Crystal Reach,Star.Normal
+838	Citadel,Star.Normal
+839	Giedi Prime,Star.Small
+840	Essel,Star.Normal
+841	Aurora,Star.Normal
+842	Terra Nova,Star.Normal
+843	Morpheus,Star.Normal
+844	Atlantis,Star.Normal
+845	Khavener,Star.Normal
+846	Thanatos,Star.Small
+847	Tedak,Star.Normal
+848	Heliopolis,Star.Small
+849	Azmidiske,Star.Small
+850	Phaeton,Star.Normal
+851	Aegis,Star.Normal
+852	Terran Union,Star.Normal
+853	Stanton,Star.Small
+854	Zenith,Star.Normal
+855	Chista,Star.Small
+856	Saraksh,Star.Normal
+857	Christophsis,Star.Normal
+858	Hecate,Star.Small
+859	Erebus,Star.Normal
+860	Tavr,Star.Normal
+861	Korriban,Star.Small
+862	Ersai,Star.Normal
+863	Ariadne,Star.Normal
+864	Tama,Star.Normal
+865	Murphy,Star.Small
+866	Ultimo,Star.Normal
+867	Evridika,Star.Small
+868	Tarsonis,Star.Normal
+869	Drazi,Star.Normal
+870	Alramekh,Star.Small
+871	Aegea,Star.Small
+872	Alpha Carinae,Star.Small
+873	Evr,Star.Normal
+874	New Kitezh,Star.Small
+875	Lukris,Star.Small
+876	Aurelia,Star.Small
+877	Rakhad,Star.Normal
+878	Bresua,Star.Normal
+879	Eraydan,Star.Normal
+880	Kepler 62,Star.Small
+881	Fortuna,Star.Small
+882	Vulcan,Star.Small
+883	Drengin,Star.Small
+884	Ruslan,Star.Small
+885	Pinta,Star.Small
+886	Nal Hutta,Star.Normal
+887	Heracles,Star.Normal
+888	Levassa,Star.Normal
+889	Sigma Draconis,Star.Small
+890	Abydos,Star.Small
+891	Tauros,Star.Small
+892	Sineva,Star.Small
+893	Lastron,Star.Small
+894	Kaiten,Star.Normal
+895	Seychelle,Star.Normal
+896	Zarnitsa,Star.Normal
+897	Epsilon Khidri,Star.Small
+898	Giganda,Star.Small
+899	Ferenginar,Star.Normal
+900	Phoenix Prime,Star.Small
+901	Hector,Star.Small
+902	Juno,Star.Normal
+903	Sulafat,Star.Small
+904	Betelgard,Star.Normal
+905	Dioscuri,Star.Small
+906	Remus,Star.Small
+907	Tharsis Prime,Star.Small
+908	Ares,Star.Normal
+909	Kalgan,Star.Normal
+910	Amarr,Star.Small
+911	Duro,Star.Normal
+912	Rubicon Vega,Star.Normal
+913	Khindun,Star.Normal
+914	Taun,Star.Normal

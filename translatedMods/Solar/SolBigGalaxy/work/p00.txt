@@ -1,0 +1,1148 @@
+1	Mirantis
+2	Aldagon
+3	Vira
+4	Senturi
+5	Gortkha
+6	Illion
+7	Zelos
+8	Farron
+9	Umbra
+10	Neyt
+11	Shinar
+12	Dragonis
+13	Vayron
+14	Lyra
+15	Morran
+16	Tanais
+17	Skiron
+18	Boreal
+19	Akvila
+20	Yunari
+21	Krotus
+22	Eridanus
+23	Khalsion
+24	Fiveya
+25	Solara
+26	Rennor
+27	Kassio
+28	Lektis
+29	Dagatar
+30	Volaris
+31	Auriga
+32	Tsetus
+33	Norva
+34	Oktanis
+35	Piksus
+36	Velion
+37	Inda
+38	Grayon
+39	Arantis
+40	Tarnis
+41	Fenris
+42	Gidrion
+43	Farna
+44	Doran
+45	Kolumbis
+46	Tseluris
+47	Retik
+48	Piktar
+49	Tukanis
+50	Mensor
+51	Libris
+52	Arion
+53	Tauris
+54	Dzhemar
+55	Kantor
+56	Leomaris
+57	Virgat
+58	Skorpon
+59	Sagittar
+60	Kapris
+61	Akveliya
+62	Pisar
+63	Orionis
+64	Sirion
+65	Pollus
+66	Kastis
+67	Antaris
+68	Altaris
+69	Denebris
+70	Rigelon
+71	Spikar
+72	Betelis
+73	Kapellon
+74	Arkturis
+75	Protsis
+76	Akhernon
+77	Vegaris
+78	Algol
+79	Sigma,Star.Normal
+80	Khatissa,Star.Small
+81	Alrion,Star.Normal
+82	Marak,Star.Small
+83	Velorian,Star.Normal
+84	Garraks,Star.Small
+85	Derbis,Star.Normal
+86	Zirkon,Star.Small
+87	Intaris,Star.Normal
+88	Kratos,Star.Small
+89	Lantariya,Star.Normal
+90	Markus,Star.Small
+91	Neksus,Star.Normal
+92	Oktavius,Star.Small
+93	Praksis,Star.Normal
+94	Almaak,Star.Small
+95	Solaris,Star.Normal
+96	Tartarus,Star.Small
+97	Aludra,Star.Normal
+98	Kharibis,Star.Small
+99	Tsenturion,Star.Normal
+100	Shafrast,Star.Small
+101	Erida,Star.Normal
+102	Algenib,Star.Small
+103	Yarus,Star.Normal
+104	Akvilon,Star.Small
+105	Boreus,Star.Normal
+106	Vesper,Star.Small
+107	Gelikon,Star.Normal
+108	Drakon,Star.Small
+109	Zefir,Star.Normal
+110	Cassiopeia,Star.Small
+111	Andromeda,Star.Normal
+112	Persey,Star.Small
+113	Tsefey,Star.Normal
+114	Pegas,Star.Small
+115	Kentavr,Star.Normal
+116	Gerkules,Star.Normal
+117	Orionus,Star.Small
+118	Signus,Star.Normal
+119	Lira,Star.Small
+120	Akvila,Star.Normal
+121	Saif,Star.Normal
+122	Dzhemini,Star.Small
+123	Rana,Star.Normal
+124	Leo,Star.Small
+125	Virgo,Star.Normal
+126	Libra,Star.Small
+127	Skorpius,Star.Normal
+128	Sagittarius,Star.Normal
+129	Kaprikorn,Star.Small
+130	Akvarius,Star.Normal
+131	Pistses,Star.Small
+132	Aris,Star.Normal
+133	Ketus,Star.Small
+134	Eridan,Star.Normal
+135	Auriga,Star.Normal
+136	Bootes,Star.Small
+137	Mirzam,Star.Normal
+138	Drako,Star.Small
+139	Gidrus,Star.Normal
+140	Lupus,Star.Small
+141	Pavo,Star.Normal
+142	Phoenix,Star.Normal
+143	Grus,Star.Small
+144	Indus,Star.Normal
+145	Tukan,Star.Small
+146	Volans,Star.Normal
+147	Karina,Star.Small
+148	Puppis,Star.Normal
+149	Vela,Star.Normal
+150	Piktor,Star.Small
+151	Retikulum,Star.Normal
+152	Fornaks,Star.Small
+153	Kayelum,Star.Normal
+154	Antliya,Star.Small
+155	Oktant,Star.Normal
+156	Norma,Star.Normal
+157	Tsirtsinus,Star.Small
+158	Crux,Star.Normal
+159	Korvus,Star.Small
+160	Krater,Star.Normal
+161	Hydra,Star.Small
+162	Sekstans,Star.Normal
+163	Kamelopardalis,Star.Normal
+164	Links,Star.Small
+165	Ursa,Star.Normal
+166	Koma,Star.Small
+167	Tsenturiya,Star.Normal
+168	Elba,Star.Small
+169	Valdira,Star.Normal
+170	Arrakis,Star.Normal
+171	Melange,Star.Small
+172	Corrino,Star.Normal
+173	Atreides,Star.Small
+174	Harkonnen,Star.Normal
+175	Ordos,Star.Small
+176	Ix,Star.Normal
+177	Tleilax,Star.Normal
+178	Caladan,Star.Small
+179	Giedi,Star.Normal
+180	Salusa,Star.Small
+181	Kaitain,Star.Normal
+182	Richese,Star.Small
+183	Ekaz,Star.Normal
+184	Bela Tegaze,Star.Normal
+185	Chusuk,Star.Small
+186	Tupayle,Star.Normal
+187	Dan,Star.Small
+188	Siona,Star.Normal
+189	Taraza,Star.Small
+190	Odrade,Star.Normal
+191	Teg,Star.Normal
+192	Idaho,Star.Small
+193	Murbella,Star.Normal
+194	Sheeana,Star.Small
+195	Skywalker,Star.Normal
+196	Kenobi,Star.Small
+197	Yoda,Star.Normal
+198	Viidu,Star.Normal
+199	Tano,Star.Small
+200	Amidala,Star.Normal
+201	Organa,Star.Small
+202	Fett,Star.Normal
+203	Krize,Star.Small
+204	Vizsla,Star.Normal
+205	Revan,Star.Normal
+206	Shan,Star.Small
+207	Malgus,Star.Normal
+208	Valkorion,Star.Small
+209	Darnas,Star.Small
+210	Teldrassil,Star.Normal
+211	Lorderon,Star.Normal
+212	Quel'Thalas,Star.Small
+213	Gilneas,Star.Normal
+214	Stromgarde,Star.Normal
+215	Boralus,Star.Small
+216	Dalaran,Star.Normal
+217	Alterac,Star.Normal
+218	Arathi,Star.Small
+219	Ashenvale,Star.Normal
+220	Feralas,Star.Small
+221	Tanaris,Star.Normal
+222	Silithus,Star.Normal
+223	Un'Goro,Star.Small
+224	Mulgore,Star.Normal
+225	Barrens,Star.Small
+226	Durotar,Star.Normal
+227	Azshara,Star.Normal
+228	Felwood,Star.Normal
+229	Darkshore,Star.Small
+230	Moonglade,Star.Normal
+231	Winterspring,Star.Normal
+232	Desolace,Star.Small
+233	Nizhetop,Star.Normal
+234	Hillsbrad,Star.Normal
+235	Tirisfal,Star.Small
+236	Plaguelands,Star.Normal
+237	Maldraxxus,Star.Small
+238	Bastion,Star.Normal
+239	Revendreth,Star.Normal
+240	Ardenweald,Star.Small
+241	Oribos,Star.Normal
+242	Zeret,Star.Normal
+243	Mortis,Star.Small
+244	Korthia,Star.Normal
+245	Adara,Star.Small
+246	Nazjatar,Star.Normal
+247	Mechagon,Star.Normal
+248	Zandalar,Star.Small
+249	Vol'dun,Star.Normal
+250	Nazmir,Star.Small
+251	Zuldazar,Star.Normal
+252	Tiragarde,Star.Normal
+253	Drustvar,Star.Small
+254	Stormsong,Star.Normal
+255	Makari,Star.Normal
+256	Krokuun,Star.Small
+257	Antorus,Star.Normal
+258	Argus,Star.Small
+259	Azeroth,Star.Normal
+260	Draenor,Star.Normal
+261	Outland,Star.Small
+262	Nagrand,Star.Normal
+263	Terokkar,Star.Normal
+264	Zangarmarsh,Star.Small
+265	Blade's Edge,Star.Normal
+266	Netherstorm,Star.Normal
+267	Shadowmoon,Star.Small
+268	Gorgrond,Star.Normal
+269	Talador,Star.Small
+270	Arak,Star.Normal
+271	Frostfire,Star.Normal
+272	Krasarang,Star.Small
+273	Kun-Lai,Star.Normal
+274	Townlong,Star.Small
+275	Mirakh,Star.Normal
+276	Mizar,Star.Small
+277	Vashj'ir,Star.Normal
+278	Hyjal,Star.Small
+279	Uldum,Star.Normal
+280	Deepholm,Star.Normal
+281	Tol Barad,Star.Small
+282	Nordskol,Star.Normal
+283	Sabik,Star.Normal
+284	Nunki,Star.Normal
+285	Kaus,Star.Small
+286	Zul'Drak,Star.Normal
+287	Sholazar,Star.Small
+288	Sadr,Star.Normal
+289	Gomeysa,Star.Normal
+290	Tuban,Star.Normal
+291	Elnat,Star.Small
+292	Mirtsam,Star.Normal
+293	Murzim,Star.Normal
+294	Fekda,Star.Small
+295	Rutilik,Star.Normal
+296	Algiyeba,Star.Small
+297	Zuben,Star.Normal
+298	Unuk,Star.Normal
+299	Sheratan,Star.Small
+300	Nashira,Star.Normal
+301	Dabih,Star.Small
+302	Alizar,Star.Normal
+303	Alferatts,Star.Small
+304	Umsuvashoan
+305	Oniank
+306	Ageligay
+307	Omeralla
+308	Agdishoni
+309	Ushnaiya
+310	Antuveiya
+311	Ilshariveni
+312	Anmakuin
+313	Ilbaank
+314	Ushboin
+315	Eshseank
+316	Unlamuni
+317	Udean
+318	Agkavikeda
+319	Eytivufiul
+320	Ayrurain
+321	Eshdishuan
+322	Umfoda
+323	Amofazeyent
+324	Ushbagay
+325	Omoshili
+326	Agzonik
+327	Eyzetileak
+328	Ikemeiya
+329	Umvuiya
+330	Agvuviteok
+331	Anraok
+332	Umshoniduak
+333	Elbabeyel
+334	Anini
+335	Ebifagaiya
+336	Edadanunik
+337	Eylegay
+338	Edemir
+339	Eboganik
+340	Eshmein
+341	Umlineboul
+342	Insidezaiya
+343	Ilresesayel
+344	Omroguiya
+345	Eyrenafeay
+346	Umsenuyent
+347	Annella
+348	Eytaan
+349	Inkadimeiya
+350	Eshkenik
+351	Umkoli
+352	Anzuroish
+353	Ayzevera
+354	Esinoni
+355	Ikufesora
+356	Eymerisoan
+357	Idoshushein
+358	Agogean
+359	Untunda
+360	Inbenonik
+361	Agmivoreni
+362	Ezavodumir
+363	Ebelayent
+364	Ellaguay
+365	Agrekaiya
+366	Omshadeank
+367	Aylideda
+368	Ivosean
+369	Akusuyent
+370	Unkevaul
+371	Adareveda
+372	Inrafafera
+373	Uleyent
+374	Adusera
+375	Ushkisenda
+376	Eshzeni
+377	Eshdeish
+378	Eydanamir
+379	Anguak
+380	Eruak
+381	Umrilamir
+382	Omshasabaan
+383	Alsain
+384	Omluvuzani
+385	Annoda
+386	Iltiveak
+387	Eshzomir
+388	Elsemir
+389	Umketiok
+390	Umubashiul
+391	Alnadimoyel
+392	Omleish
+393	Umkoyel
+394	Ilbanda
+395	Agrovoin
+396	Agkivemir
+397	Ilmebemiok
+398	Idosook
+399	Abevumir
+400	Elabara
+401	Umlenda
+402	Omraliyel
+403	Uzayent
+404	Insheleok
+405	Annogufeul
+406	Eykofemir
+407	Asulla
+408	Andaniyel
+409	Ekalira
+410	Umibeshigay
+411	Ufegishuish
+412	Elgumella
+413	Unraleak
+414	Unlekimaan
+415	Ushvaak
+416	Eysenemir
+417	Inluish
+418	Ilshiiya
+419	Aneyel
+420	Eshnoay
+421	Etetemeay
+422	Eshshezumir
+423	Invuli
+424	Eshnelazeli
+425	Iveguiya
+426	Ulazoriak
+427	Ubegetook
+428	Ugufuay
+429	Eshuni
+430	Uzunodali
+431	Anfisomir
+432	Alveay
+433	Azilozoni
+434	Utomir
+435	Umbani
+436	Siigu-ritoo
+437	Peloo
+438	Raa-pemila
+439	Paa-toole
+440	Feta
+441	Paazo
+442	Fameku
+443	See-bee
+444	Ruugekito
+445	Desigefe
+446	Rokimi
+447	Neyeshoomame
+448	Nure-dafe
+449	Putuzigu
+450	Fuladuse
+451	Zuku
+452	Zaakukore
+453	Beto
+454	Pu-su
+455	Zeshaliiroo
+456	Zemooki
+457	Mobe-mafa
+458	Tele-pa
+459	Ge-luza
+460	Konolipo
+461	Numaa
+462	Lishushalaa
+463	Nati-deri
+464	Suuta-meefi
+465	Siimesuudeye
+466	Nazeteko
+467	Rolesopoo
+468	Demo
+469	Kuube-teloni
+470	Mesoo-muneyemo
+471	Fofuufulo
+472	Nesha
+473	Keyesholile
+474	Rare-ke
+475	Sebe
+476	Gefoga
+477	Gefuukoo
+478	Shiite-pazi
+479	Zeto
+480	Mute-duu
+481	Saaboo
+482	Piso
+483	Siifeye-zado
+484	Seshegiguu
+485	Misoo
+486	Toobusosa
+487	Noka-pe
+488	Mibe-taadeyera
+489	Geyeta-lami
+490	Tishosha
+491	Biisare
+492	Tafu-la
+493	Pone-rirese
+494	Sazuu-mega
+495	Seme-kibaki
+496	Giige
+497	Fodo-meyefe
+498	Renuuta
+499	Zupafa
+500	Zitiremo
+501	Siibo-zebe
+502	Zu-zo
+503	Noo-poshuumo
+504	Tusila
+505	Nagiideede
+506	Maatishe
+507	Rishesa
+508	Lege-kefu
+509	Sheye-leba
+510	Ze-pinosha
+511	Shero-deesuupo
+512	Gafo
+513	Miifa-roo
+514	Reteenuteye
+515	Shuraaduu
+516	Memo
+517	Fiiku
+518	Noolaka
+519	Koti
+520	Bazaguu
+521	Pi-gizina
+522	Roresha
+523	Donadure
+524	Deezooni
+525	Ne-siimu
+526	Fapii-tatome
+527	Tedeme
+528	Rige
+529	Leedu-so
+530	Zuu-le
+531	Pude-ga
+532	Laga-se
+533	Sheyeshuu-dosishe
+534	Rolo-tufoole
+535	Doto
+536	Zirogoba
+537	Ni-lemegi
+538	Ne-zomitu
+539	Nizeefe
+540	Feetoopele
+541	Moni-tu
+542	Zonideboo
+543	Zukurede
+544	Shiiroo
+545	Fiso-kenene
+546	Faabumuu
+547	Nooki
+548	Zeyeke
+549	Luresi
+550	Nimuulogi
+551	Bafeezaa
+552	Sukoo
+553	Dideepide
+554	Nuupuzafee
+555	Zolabu
+556	Raakoosele
+557	Lozebano
+558	Diipeede
+559	Kiruku
+560	Boreetosa
+561	Dedasi
+562	Shuushi
+563	Miifo
+564	Laami-lashe
+565	Truktin Preti
+566	Dnendornod
+567	Zarkur
+568	Medad
+569	Mezdidus
+570	Gulog
+571	Tetrar Rukanay
+572	Gendus
+573	Tritrorkat
+574	Derkistog
+575	Relus
+576	Khaktorkit
+577	Shtaktak
+578	Sezdod
+579	Zugrant Rad
+580	Vromuroy Mugad
+581	Mirornit Khaktoy
+582	Grurog-omarod
+583	Grognaktant
+584	Sestant
+585	Vredur
+586	Vrirolud
+587	Kograstoy Dzek
+588	Zdezdundad
+589	Druktus-omaran
+590	Kiktod-irnod
+591	Sandad Siktud
+592	Raktemur
+593	Dragraktog
+594	Mamud
+595	Krorur
+596	Gdendud
+597	Zezdod
+598	Ragrus
+599	Vrirnustat Kri
+600	Drirkin
+601	Gdagnandat
+602	Sarkek Gdilum
+603	Karnegnin
+604	Butrant
+605	Rundinar
+606	Mernelud
+607	Vrondad-untan
+608	Simuktum
+609	Dernarum
+610	Duktud
+611	Mimud-edgal
+612	Siktirkek Marko
+613	Merud
+614	Shtagnod Dzek
+615	Grarkin Zdatrak
+616	Krolod-untod
+617	Drimog
+618	Zilin Krarek
+619	Kagrek Drandoy
+620	Shtelugrud
+621	Khemad
+622	Sektad Meddo
+623	Droretrog
+624	Dnestastak
+625	Krarnad
+626	Trestus
+627	Somum
+628	Shtudad
+629	Rarnarin
+630	Gitrum
+631	Dnarkondus
+632	Khurarkoy Mugad
+633	Golit-ornan
+634	Dronant-udgan
+635	Gdiktirnat
+636	Girnar
+637	Rendognus Gad
+638	Molin Gristant
+639	Gdadar
+640	Grognit Gurand
+641	Shterit-udgan
+642	Proloy Preti
+643	Rigrat
+644	Dnodat Sikterud
+645	Driktog Gad
+646	Gratrak Dzek
+647	Bektur Gurand
+648	Drinak Kririrus
+649	Brerurkoy
+650	Krarnod
+651	Bromarkek Lato
+652	Pregnar
+653	Tegnonad
+654	Vredud Mugad
+655	Khorkanog
+656	Progrog
+657	Bundak
+658	Ratretrat
+659	Bundugrad
+660	Sestat Gatru
+661	Dnalirkus Preti
+662	Kuzdant
+663	Teloy
+664	Bratrurkur
+665	Kornanog
+666	Vrozdin
+667	Drilum
+668	Mamog Gurand
+669	Drundur Tampart
+670	Khegrod Gdumud
+671	Grugnoy-imaral
+672	Belirkus
+673	Khustamad Gatru
+674	Dugrenog Rad
+675	Dnuzdum Rad
+676	Zdutroy
+677	Tadur
+678	Dnarkar
+679	Medak Meddo
+680	Bruzdizdar
+681	Khomoy Kri
+682	Bezdudad
+683	Sitrunus
+684	Mumog
+685	Rondog
+686	Tagnat
+687	Zalat Gad
+688	Vrizdus
+689	Vrutromoy
+690	Zdegredant
+691	Prolad
+692	Shtatrustat
+693	Trelomur
+694	Zdetrimit
+695	Genkamus
+696	Island Nung
+697	Mys Pusuu
+698	Tokkhucha
+699	Umkezemuda
+700	Skala Pratsiis
+701	Zurek
+702	Pepelishche
+703	Ukhab
+704	Gezdog Meddo
+705	Mys Lelaa
+706	Talmaus
+707	Peshchera
+708	Shore Genriis
+709	Aruyent
+710	Geyenooto
+711	Zedeteka
+712	Shore Agfeok
+713	Rzhavaya
+714	Boloto
+715	Trutrustud
+716	Skala Maltsium
+717	Dyra
+718	Donroika
+719	Ko-zosa
+720	Umdeshenuni
+721	Sumerki
+722	Eshsutoluni
+723	Island Atubeay
+724	Skala Gorveis
+725	Tupik
+726	Ankugevugay
+727	Gekha
+728	Darnod
+729	Island Shode
+730	Khedoy
+731	Kaskaana
+732	Oritsiika
+733	Skala Oriveona
+734	Pichung
+735	Pkhashchynts
+736	Skala Derkh
+737	Tirtsiiya
+738	Zherikkhits
+739	Zemlya Niiluu
+740	Khutor
+741	Polrius
+742	Lornaona
+743	Barakholka
+744	Asttoyent
+745	Odinochka
+746	Bugor
+747	Khmuraya
+748	Unegeda
+749	Izabebella
+750	Shore Udushimali
+751	Gdelimak
+752	Elbugay
+753	Za-kuku
+754	Shotska
+755	Zadvorki
+756	Zakholustye
+757	Utibanda
+758	Geloofa
+759	Shore Etean
+760	Merkmaus
+761	Tirtoyent
+762	Ferveana
+763	Mys Ksarmaana
+764	Zemlya Malriika
+765	Dikhopykh
+766	Beyemedoore
+767	Piigeladee
+768	Zozholutska
+769	Zabveniye
+770	Neprimetnaya
+771	Akebegay
+772	Stoyanka
+773	Gormaona
+774	Shore Dontoiya
+775	Svalka
+776	Shchetats
+777	Island Gennaus
+778	Zetokhrinkh
+779	Zemlya Malstuyent
+780	Donstuiya
+781	Tridevyataya
+782	Pratoana
+783	Pereval
+784	Island Fefoo
+785	Shetska
+786	Shore Ragu
+787	Grastod Vreradad
+788	Kasroiya
+789	Poteryashka
+790	Keyeshi-gilegee
+791	Rotrog Shtogrod
+792	Zendad-odgal
+793	Buyeraki
+794	Verveiya
+795	Neonais
+796	Chulan
+797	Skala Sevliis
+798	De-dade
+799	Ayzaveay
+800	Priyut
+801	Bespriyutnaya
+802	Inmefobean
+803	Pkhekykhts
+804	Prariori
+805	Praveori
+806	Vyselki
+807	Gortoum
+808	Talveis
+809	Skala Chykh
+810	Vregnit
+811	Gorbyl
+812	Gitrod
+813	Vertomus
+814	Podkova
+815	Bolumod-istuan
+816	Kulichiki
+817	Anshekaiya
+818	Mys Zhinepyrkh
+819	Island Soki
+820	Razyezd
+821	Razvilka
+822	Skala Fefo
+823	Belstuona
+824	Zemlya Bemu
+825	Ksarroika
+826	Ti-disimee
+827	Ru-nokeyede
+828	Prudod
+829	Zupeshchamts
+830	Lee-keesho
+831	Desoo
+832	Okolitsa
+833	Lorromus
+834	Troktog
+835	Island Dete
+836	Mys Alnenik
+837	Retuuzi
+838	Tumannost
+839	Tmutarakan
+840	Zdegretrek
+841	Alzoreul
+842	Zatishye
+843	Mys Degotsikhts
+844	Tsychytska
+845	Mys Kasnamus
+846	Bermudy
+847	Zabytaya
+848	Pustyr
+849	Umnugulla
+850	Shchepkhezhutska
+851	Zemlya Tekkh
+852	Neonayent
+853	Glukhoman
+854	Shore Toba
+855	Vernaum
+856	Zemlya Verliiya
+857	Island Kkhugakhych
+858	Kastsiiya
+859	Nochleg
+860	Khrygekha
+861	Ragrum Gal
+862	Tridesyataya
+863	Lazutchitsa
+864	Rosaame
+865	Ferriis
+866	Poluu-naka
+867	Nukhrunshka
+868	Peeroomeye
+869	Zhirgkh
+870	Bezvykhodnaya
+871	Tegristod Grerkuktad
+872	Silrius
+873	Elshelesiay
+874	Shazhadurgkh
+875	Ovrag
+876	Bezdna
+877	Prurud-urgan
+878	Zemlya Chichyrergkh
+879	Khrekkhokhts
+880	Kasroika
+881	Zemlya Anreshaank
+882	Shukha
+883	Prival
+884	Kaskais
+885	Polustanok
+886	Kasmaum
+887	Shore Osuok
+888	Nedorazumeniye
+889	Okraina
+890	Otshelnitsa
+891	Kamenka
+892	Koldobina
+893	Kyng
+894	Gerunshka
+895	Shysha
+896	Shchuzazats
+897	Shikhrakhryrkh
+898	Tychetska
+899	Ditsing
+900	Kopkhych
+901	Rypkhuzhashkh
+902	Zargkh
+903	Chingo
+904	Pukha
+905	Lyshchylats
+906	Keshupkhycha
+907	Shchogeshorkh
+908	Tazhegynkh
+909	Pkhopunkh
+910	Dikkh
+911	Rakho
+912	Kkhokkh
+913	Zutashchoshkh
+914	Pukkhykhts
+915	Lucha
+916	Khrotska
+917	Parkh
+918	Kkhychegekha
+919	Shutsergkh
+920	Ponts
+921	Shurgkh
+922	Pkheng
+923	Gints
+924	Shchushitekh
+925	Zhapetsukha
+926	Runts
+927	Pepeshkh
+928	Perytska
+929	Pkhegelong
+930	Zosheng
+931	Kepkhipkhukh
+932	Zitsoshkh
+933	Tynkh
+934	Lekhokhong
+935	Datska
+936	Shudetsykh
+937	Rakha
+938	Tsapachoshch
+939	Nukynts
+940	Chugo
+941	Chytapkherkh
+942	Khrakhts
+943	Khrakkhenargkh
+944	Rotakhrekha
+945	Zhishchukhts
+946	Zinedinshka
+947	Kepkhakoshch
+948	Kkhylakh
+949	Dapkhakhts
+950	Khotsushkh
+951	Petikh
+952	Zekho
+953	Goshkh
+954	Ronetserkh
+955	Chirkh
+956	Khrerkh
+957	Shchicha
+958	Shchokhrudusha
+959	Pkhets
+960	Kkhekh
+961	Chetsepkheshkh
+962	Kizyshkh
+963	Khegikints
+964	Tsypkhekh
+965	Shchomts
+966	Likhitach
+967	Leng
+968	Zetants
+969	Ginkh
+970	Rykkhitsits
+971	Tazykkh
+972	Khryshkh
+973	Chashkh
+974	Dykhrung
+975	Tumts
+976	Shegakh
+977	Tusha
+978	Geshakherkh
+979	Zhipkhenshka
+980	Checha
+981	Zhiregikhts
+982	Zhung
+983	Khryshetska
+984	Chuzhikemts
+985	Zhitso
+986	Khochong
+987	Tukkhukh
+988	Lykkhonikh
+989	Shchekkh
+990	Kkhekhrepukhts
+991	Chushchants
+992	Shchachyshkh
+993	Kutska
+994	Zetsesha
+995	Shokhekakh
+996	Zikkhezhach
+997	Khrekkhuts
+998	Pirikh
+999	Shchitso
+1000	Kirgkh
+1001	Rashich
+1002	Pkhepepkhokkh
+1003	Gurkh
+1004	Kkhuchushchyts
+1005	Rerkh
+1006	Duzuts
+1007	Tuchucherkh
+1008	Khryng
+1009	Kkhoshcholykh
+1010	Gamts
+1011	Zichoch
+1012	Shekhts
+1013	Kkhykhekhrekh
+1014	Khokumts
+1015	Takhong
+1016	Khynga
+1017	Teputicha
+1018	Pkhuzhykosha
+1019	Gyneshkh
+1020	Kogashykha
+1021	Tsemts
+1022	Kupikh
+1023	Yuzhnoye Stanovishche
+1024	Staryye Ogni
+1025	Sextans
+1026	Yuzhnyy Kovyl
+1027	Karavella
+1028	Bolshoy Lug
+1029	Ravenna
+1030	Fort Madras
+1031	Balalayka
+1032	Staroye Plato
+1033	Parma
+1034	Beloye Gnezdo
+1035	Suzdal
+1036	Severnyye Kholmy
+1037	Sirakuzy
+1038	Nizhneye Stanovishche
+1039	Verkhnyaya Bukhta
+1040	Valenok
+1041	New Harbor
+1042	Ryabina
+1043	Bolshoye Stanovishche
+1044	Ladoga
+1045	Nizhnyaya Bukhta
+1046	Lissabon
+1047	Verkhnyaya Pristan
+1048	Megara
+1049	Malyy Fonar
+1050	Neapolis
+1051	Fort Tuluza
+1052	Tikhaya Sloboda
+1053	Dubrava
+1054	Bolshaya Star
+1055	Pergam
+1056	Staryy Bor
+1057	Melburn
+1058	Belaya Roshcha
+1059	Femida
+1060	Verkhnyaya Pustyn
+1061	Guslyar
+1062	Belyye Luga
+1063	Vavilon
+1064	Staryy Beacon
+1065	Nikeya
+1066	Dalneye Plato
+1067	Vizantiya
+1068	Belaya Dolina
+1069	Peresvet
+1070	Zolotoy Bor
+1071	Karfagen
+1072	New Pereval
+1073	Khronometr
+1074	Belaya Harbor
+1075	Florentsiya
+1076	Yuzhnaya Gryada
+1077	Kalinka
+1078	Staryy Tyulpan
+1079	Likiya
+1080	Belyy Bor
+1081	Parus
+1082	Staryy Kovcheg
+1083	Novoye Stanovishche
+1084	Novgorodka
+1085	Malyye Vorota
+1086	Sunduchok
+1087	Tikhoye Stanovishche
+1088	Troyka
+1089	Maloye Seleniye
+1090	Delfy
+1091	New Kanal
+1092	Onega
+1093	Verkhny Island
+1094	Astrolyabiya
+1095	Staryy Utyos
+1096	Taranto
+1097	Zolotoy Tyulpan
+1098	Staroye Ozero
+1099	Verkhnyaya Derevnya
+1100	Severnyye Ogni
+1101	Korinf
+1102	Zolotoy Kolodets
+1103	Narniya
+1104	Maloye Podvorye
+1105	Bolshoye Ushchelye
+1106	Belveder
+1107	Fort Mekka
+1108	Konklav
+1109	Staraya Sloboda
+1110	Itaka
+1111	Tikhaya Skala
+1112	Krit
+1113	Nizhny Kovyl
+1114	Sidney
+1115	Bolshoy Kedr
+1116	Senezh
+1117	New Most
+1118	Bublik
+1119	Zolotoy Island
+1120	Ararat
+1121	Tikhvin
+1122	Dalnyaya Sloboda
+1123	Severnaya Bukhta
+1124	Versal
+1125	Zolotoy Labyrinth
+1126	Bolshiye Luga
+1127	Verkhneye Plato
+1128	Ermitazh
+1129	Yuzhnyy Most
+1130	Pantheon
+1131	Big Settlement
+1132	Poseidonia
+1133	Old Well
+1134	Elbrus
+1135	Upper Anchor
+1136	Dumpling
+1137	White Bridge
+1138	Verona
+1139	Fort Ghent
+1140	Oslyabya
+1141	Upper Ridge
+1142	Old Star
+1143	Santiago
+1144	Old River
+1145	Delos
+1146	North Pier
+1147	Colosseum
+1148	Port Orion

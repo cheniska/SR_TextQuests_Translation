@@ -1,0 +1,61 @@
+1	Coalition Supply Lines
+2	Strategic resources container
+3	Industrial materials, rare components and military-grade fuel. The container is sealed by the Coalition supply service.
+4	<color=255,120,80>The convoy has been ambushed.</color> A group of raiders has launched from the pirate base in the #system# system. Ships spotted: #count#. The transports are heading to the nearest safe planet, and the escort is engaging.
+5	<color=255,80,80>Major pirate ambush.</color> Raiders emerged simultaneously from planet #planet# and the pirate base in the #system# system. Total ships spotted: #count#. The transports are heading to a safe planet, and the escort is covering the retreat.
+6	<color=255,80,80>Convoy destroyed.</color> All transports were lost in the pirate ambush. The strategic resources could not be delivered.
+7	<color=255,190,40>Transports saved.</color> The convoy escort was lost, but the cargo ships managed to take shelter on a planet or leave the ambush area. They will have to continue on their own from here.
+8	<color=255,120,80>The convoy has been ambushed.</color> A pirate group has risen from planet #planet#. Ships spotted: #count#. The transports are heading to the nearest safe planet, and the escort is engaging.
+9	<color=80,220,120>Pirate ambush repelled.</color> The surviving convoy ships are restoring march order and continuing their mission.
+10	The convoy has reached planet #destination#. Delivered #delivered# of #total# containers. Preparation of the strike group has begun.
+11	A resource convoy has been formed on planet #source#: transports: #transports#, escort ships: #escorts#. After a pre-launch check, it will depart for planet #destination#.
+12	Do not hand in containers
+13	The cargo has been accepted, and the payment has already been transferred to your account. Thank you, Ranger! These containers will still serve their new owner.
+14	"Now that's merchandise, Ranger! Containers like these will be snapped up, preferably without any unnecessary questions about their origin. The money is already in your account. Drop by again, especially if you find something just as valuable and ownerless."
+15	"Ranger, we thank you. These containers were already considered irretrievably lost, but you returned them to the Coalition. The payment has been transferred to your account, and the Center has already ordered the received resources to be directed to preparing independent rangers. Good work."
+16	Hand in all containers (#count# pcs.) for #money# cr
+17	The pirate base is ready to accept all the Coalition resource containers found: #count# pcs. The total payment at a coefficient of 2 will be #money# cr.
+18	The Ranger Center is ready to accept all the Coalition resource containers found: #count# pcs. The total payment at a coefficient of 1.5 will be #money# cr. For each container handed in, the Center will begin training one independent ranger.
+19	Hand in Coalition resource containers
+20	Return to base business
+21	There are no more registered Coalition resource containers in your hold and in this base's storage, or this base does not accept such cargo.
+22	Command denied the reward because of fire on the strike group's ships.
+23	The operation in the #target# system has ended without liberating the system. The surviving ships have been handed over to local command.
+24	A resource convoy has departed from planet #source#: transports: #transports#, escort ships: #escorts#. Destination: #destination#.
+25	The convoy to planet #destination# has been lost. The strategic resources could not be delivered.
+26	The supply service could not find a safe pair of an industrial planet and a frontline planet. Preparation postponed for 30 turns.
+27	Coalition command found no available enemy system. The hidden pirate sector is not counted; the supply service will repeat the check in 30 turns.
+28	The Coalition strike group has indeed left planet #destination# and begun an open operation against the #target# system. All rangers in the area can join the battle.
+29	By the time of departure, planet #destination# had no available neighboring enemy target left. The operation is canceled, the ships transferred to the regular Coalition forces.
+30	The strike group began its departure to the #target# system, but your navigator could not plot the jump. Check your engine and fuel supply, and set the route manually.
+31	The strike group has passed your navigator the route to the #target# system. Your ship has begun preparing for the joint jump.
+32	Industrial planet #source# has begun collecting strategic resources. The convoy is expected to be sent to one of the frontline planets in about #turns# turns.
+33	The supply convoy has finished refueling and repairs on planet #planet#. Next point on the route: #next#.
+34	After the emergency assembly, the convoy has received a new route. New unloading planet: #destination#.
+35	<color=255,180,0>Convoy route changed.</color> The previous point has become unsafe. The nearest available frontline planet, #destination#, has been designated.
+36	<color=255,180,0>Emergency convoy assembly declared.</color> The previous route point has become unsafe. All surviving ships are heading to planet #destination#; after a joint landing and refueling, a new route to the front will be built.
+37	The convoy could not immediately find a common reachable safe point. The supply service will recalculate the route in 5 turns; the ships keep their cargo and battle formation.
+38	#money# cr has been transferred to you for taking part in the operation. Recorded contribution: #score# points.
+39	Coalition command has suspended the formation of resource convoys: only #systems# free safe systems remain. A new assessment of the situation will be made in 30 turns.
+40	<color=255,180,0>Command warning.</color> The strike group at planet #destination# is finishing its wait for rangers. Departure to the #target# system will take place tomorrow.
+41	<color=255,180,0>Ranger enlistment for a military operation is open.</color> A Coalition strike group has been formed at planet #destination#. The joint departure to the #target# system is set for #date#. To join, contact any ship of the group.
+42	While the strike group was waiting to depart at planet #destination#, the situation at the front changed. New target: the #target# system, new joint departure date: #date#. Rangers can join by contacting any ship of the group.
+43	"Understood, Ranger. Stay close. Departure to the #target# system is set for #date#; at the moment of launch we will automatically pass the route to your navigator."
+44	"Understood, Ranger. Stay close to the strike group. The target and the exact time of the joint departure will be passed on once the formation is complete."
+45	"Construction is complete, but the ships are still taking position and synchronizing jump calculations. Once the formation is checked, we will announce the target and departure time."
+46	"Ranger, it is too early to talk about a combat departure. The shipyards are still forming the strike group: #built# of #planned# ships are ready. Follow the Coalition Command bulletins."
+47	Cancel my participation in the joint departure.
+48	"Understood, Ranger. You have been removed from the marching order. If you change your mind before launch, contact us again."
+49	"Your ship is currently unable to make the joint direct jump to the #target# system. Check your engine range, tank capacity and fuel supply. Fix your outfit and contact us again; if that is impossible, reach the target on your own by another route."
+50	Not joining for now.
+51	"The last ship is still heading to the assembly point: #built# of #planned# are ready. You can join right now. Stay near the group."
+52	"Objective of the operation: the #target# system. Joint departure is set for #date#. Will you join the formation and wait for our signal? If you change your mind, just give your ship another order."
+53	I am joining. Pass me the route at the moment of the joint departure.
+54	"The group's current task is complete. Further orders will come from local command."
+55	Discuss preparation for and participation in the operation.
+56	"We cannot include your ship in the marching order. Exit to normal space and contact the group from this same system."
+57	"The operation against the #target# system has already begun. Proceed to the system and attack the enemy forces; your contribution will be registered automatically."
+58	the target is still being determined
+59	"You are already included in the marching order. Target: the #target# system, estimated departure: #date#. Stay close: the signal and the route will be passed at the moment of the jump."
+60	"You are already included among the waiting rangers. Stay close: once the formation is complete, we will assign the target and pass on the time of the joint departure."
+61	The #target# system has been liberated. Half of the surviving strike group, but no fewer than three ships, is assigned to the local garrison; if fewer than three survived, all are assigned. The rest return to regular Coalition service.

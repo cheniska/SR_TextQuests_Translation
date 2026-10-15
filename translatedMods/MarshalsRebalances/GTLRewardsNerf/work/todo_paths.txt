@@ -1,0 +1,7 @@
+1	MicroModuls/GTLRewards_Aegis/Text
+2	MicroModuls/GTLRewards_Omega/Text
+3	MicroModuls/GTLRewards_Technobot/Text
+4	MicroModuls/GTLRewards_Torpedon/Text
+5	MicroModuls/GTLRewards_Velocade/Text
+6	MicroModuls/GTLRewards_Velocade/Text
+7	Script/Mod_GTLRewards/103

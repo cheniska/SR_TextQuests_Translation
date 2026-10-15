@@ -1,0 +1,46 @@
+1	Tank capacity
+2	Splinter damage
+3	Missile damage
+4	Weapon radius
+5	Radar slots
+6	Scanner slots
+7	Repair slots
+8	Gripper slots
+9	Defense slots
+10	Weapon slots
+11	Artifact slots
+12	Afterburner slots
+13	Gripper radius
+14	Attack
+15	Mobility
+16	Commerce
+17	Charisma
+18	Ammo
+19	Shots
+20	Missile speed
+21	Shot speed
+22	Max. gripper speed
+23	Min. gripper speed
+24	Stimulant capacity
+25	Probes
+26	Asteroid resistance
+27	Repair
+28	Gripper strength
+29	Energy damage
+30	Comparison:
+31	Installed:
+32	Armor
+33	Durability
+34	Min. damage
+35	Defense, %
+36	Hull durability
+37	Max. damage
+38	Price
+39	Size
+40	Engine slots
+41	Tank slots
+42	Stats
+43	Value
+44	unfavorable
+45	about equal
+46	favorable

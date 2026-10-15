@@ -1,0 +1,13 @@
+Корпус	Hull
+Скорость	Speed
+Техника	Technics
+Лидерство	Leadership
+Масса	Mass
+Дальность прыжка	Jump range
+Атаки	Attack
+Радар	Radar
+Сканер	Scanner
+Защита	Protection
+Стоимость	Cost
+Дальность	Range
+Мощность сканера	Scanner power

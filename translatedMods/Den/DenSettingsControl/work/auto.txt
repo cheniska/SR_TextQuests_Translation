@@ -1,0 +1,21 @@
+Оснащение доминаторов	Dominator equipment
+Агрессивность доминаторов	Dominator aggression
+Темп воспроизводства доминаторов	Dominator reproduction speed
+Агрессивность пиратов	Pirate aggression
+Активность коалиции	Coalition level of activity
+Количество астероидов	Number of asteroids
+Урон от звезд	Damage from stars
+Бонус к стартовым технологиям	Bonus to starting technologies
+Результат случайных событий	Results of random events
+Постройка станций	Construction of stations
+Вдали от игрока станции	Far from the player's station
+Противники в ЧД	Enemies in black holes
+Смена оборудования в ЧД	Changing equipment in black holes
+Пираты	Pirates
+Разброс цен	Price spread
+Ученые	Scientists
+Поломки	Repairs
+Оборудование	Equipment
+Задания	Quests
+Черные дыры	Black holes
+Удача	Luck

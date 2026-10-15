@@ -1,0 +1,4 @@
+1	Current speed penalty for your ship <br>Engine speed: <Data1> units
+2	Ship Dimensions
+3	A helper gizmo for storing information
+4	Infoshka

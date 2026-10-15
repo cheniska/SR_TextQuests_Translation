@@ -1,0 +1,73 @@
+1	Changing the match fine settings:
+2	Changing the match difficulty:
+3	Difficulty selection
+4	Modifier selection
+5	Value selection
+6	Fine settings
+7	<color=255,0,0>DISABLED
+8	<color=0,255,0>ENABLED
+9	Number of acryn items in shops
+10	Number of nodes dropped by dominators
+11	Quality of equipment dropped in BH
+12	Maximum cost of dropped items
+13	Relative share of agricultural planets
+14	Relative share of mixed planets
+15	Relative share of industrial planets
+16	Number of additional rangers
+17	Endurance in BH
+18	Damage in BH
+19	Number of items before an NPC is shot
+20	<color=255,0,0>Doesn't change
+21	<color=0,255,0>Changes
+22	Equipment use and repair
+23	<color=255,0,0>Limited by GTL
+24	<color=0,255,0>Unlimited
+25	<color=255,0,0>Anywhere in the system
+26	<color=0,255,0>Close to the center
+27	<color=255,0,0>Let shots through
+28	<color=0,255,0>Shoot<br>as usual
+29	Unique hulls
+30	<color=255,0,0>Unavailable
+31	<color=0,255,0>Available
+32	Pirates and civilians appear
+33	<color=0,255,0>With experience
+34	<color=255,0,0>Without experience
+35	<color=255,0,0>Act together
+36	<color=0,255,0>Hostile to each other
+37	Special weapons for other series
+38	<color=0,255,0>Available
+39	<color=255,0,0>Unavailable
+40	Starting system location
+41	<color=0,255,0>In a corner
+42	<color=255,0,0>In the center
+43	NPCs shoot
+44	<color=255,0,0>From medium distance
+45	<color=0,255,0>From maximum
+46	Battles with hyperpirates
+47	<color=255,0,0>Disabled
+48	<color=0,255,0>Enabled
+49	Selling nodes at PB
+50	<color=255,0,0>Disabled
+51	<color=0,255,0>Enabled
+52	NPCs get equipment
+53	<color=255,0,0>Through their own channels
+54	<color=0,255,0>From the shop
+55	Stations get equipment
+56	<color=255,0,0>With the player's help
+57	Use of identical artifacts
+58	<color=255,0,0>Forbidden
+59	<color=0,255,0>Allowed
+60	Hull size
+61	<color=0,255,0>Grows
+62	<color=255,240,100>Grows slowly
+63	<color=255,0,0>Limited by GTL
+64	<color=255,0,0>Forbidden
+65	<color=0,255,0>Allowed
+66	Speed formula
+67	<color=255,0,0>Nonlinear
+68	<color=0,255,0>Linear
+69	Acryn is applied to every missile
+70	<color=255,0,0>No
+71	<color=0,255,0>Yes
+72	memory number
+73	interface number

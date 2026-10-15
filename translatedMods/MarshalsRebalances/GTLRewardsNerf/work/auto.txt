@@ -1,0 +1,30 @@
+Генератор поля: <bonDef> ед.	Shield generator: <bonDef>%
+Навык точности: <bonSkill1> ед.	Attack skill: <bonSkill1> units
+Навык техники: <bonSkill3> ед.	Tech skill: <bonSkill3> units
+Надежность: <clr>+11%<clrEnd>	Reliability: <clr>+11%<clrEnd>
+Размер: <clr>+50%<clrEnd>	Size: <clr>+50%<clrEnd>
+Стоимость: <clr>+25%<clrEnd>	Cost: <clr>+25%<clrEnd>
+Скорость двигателя: <bonSpeed> ед.	Engine speed: <bonSpeed>
+Дальность прыжка: <bonJump> ед.	Jumping range: <bonJump>
+Объем бака: <bonFuel> ед.	Fuel tank capacity: <bonFuel>
+Дальность радара: <bonRadar> ед.	Radar range: <bonRadar>
+Мощность сканера: <bonScan> ед.	Scanner power: <bonScan>.
+Эффективность дроида: <bonDroid> ед.	Droid effectiveness: <bonDroid>
+Мощность захвата: <bonHook> ед.	Gripper power: <bonHook>
+Дальность захвата: <bonHookRadius> ед.	Gripper range: <bonHookRadius>
+Сила энергетического оружия: <bonWEnergy> ед.	Energy weapons damage: <bonWEnergy>
+Сила осколочного оружия: <bonWSplinter> ед.	Fragmentation weapons damage: <bonWSplinter>
+Сила ракетного оружия: <bonWMissile> ед.	Missile weapons damage: <bonWMissile>
+Дальность стрельбы: <bonWRadius> ед.	Firing range: <bonWRadius>
+Размер: <clr>-15%<clrEnd>	Size: <clr>-15%<clrEnd>
+Стоимость: <clr>+150%<clrEnd>	Cost: <clr>+150%<clrEnd>
+Надежность: <clr>+25%<clrEnd>	Reliability: <clr>+25%<clrEnd>
+Размер: <clr>+20%<clrEnd>	Size: <clr>+20%<clrEnd>
+Стоимость: <clr>+50%<clrEnd>	Cost: <clr>+50%<clrEnd>
+Скорость ракет: <bonMissileSpeed> ед.	Missile speed: <bonMissileSpeed> units
+Количество залпов: <bonAmmo> ед.	Number of salvos: <bonAmmo> units
+Надежность: <clr>-10%<clrEnd>	Reliability: <clr>-10%<clrEnd>
+Размер: <clr>+35%<clrEnd>	Size: <clr>+35%<clrEnd>
+Стоимость: <clr>+75%<clrEnd>	Cost: <clr>+75%<clrEnd>
+Навык манёвренности: <bonSkill2> ед.	Maneuverability skill: <bonSkill2> units
+Стоимость: <clr>+55%<clrEnd>	Cost: <clr>+55%<clrEnd>

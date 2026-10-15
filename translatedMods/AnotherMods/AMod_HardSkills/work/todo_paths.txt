@@ -1,0 +1,7 @@
+1	AMod_HardSkills_text/0
+2	AMod_HardSkills_text/1
+3	AMod_HardSkills_text/2
+4	AMod_HardSkills_text/3
+5	AMod_HardSkills_text/4
+6	AMod_HardSkills_text/5
+7	AMod_HardSkills_text/SkillsText

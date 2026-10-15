@@ -1,0 +1,68 @@
+1	"Destractor"
+2	<color=248,252,248>The weapon in this version is fitted with an electromagnetic modulator, so every shot seriously <clr>damages<clrEnd> the target's equipment. It speeds up the weapon's <clr>wear<clrEnd> and increases its <clr>range<clrEnd>.</color><br> <br>
+3	Firing range: <clr>+16<clrEnd> units
+4	<color=248,252,248>A powerful magnetic field source installed on this weapon greatly increases the amplitude of any energy pulse, causing <clr>interference<clrEnd> in the target's equipment. However, the interference caused by the magnetic field also has a negative effect on the ship's <clr>navigation<clrEnd> systems.</color><br> <br>
+5	Scanner power: <clr>-4<clrEnd> units
+6	Radar range: <clr>-300<clrEnd> units
+7	<color=248,252,248>This weapon is adapted for special compacted projectiles that penetrate enemy <clr>armor<clrEnd> much better. However, installing it significantly increases the <clr>ship's mass<clrEnd>.</color><br> <br>
+8	Firing range: <clr>+14<clrEnd> units
+9	Ship mass: <clr>+8%<clrEnd>
+10	Firing range: <clr>+13<clrEnd> units
+11	"Dreynir"
+12	<color=248,252,248>This modification transfers part of the target's hull material through a gravity funnel for the further <clr>restructuring<clrEnd> of your own ship. <clr>Reduces the efficiency<clrEnd> of the repair droid.</color><br> <br>
+13	Droid repair: <clr>-25<clrEnd> units
+14	Energy weapon damage: <clr>-70<clrEnd> units
+15	<color=248,252,248>An Acryn modification aimed at extreme overclocking of the weapon by routing an additional energy flow from the shield generator.</color><br> <br>
+16	Energy weapon damage: <clr>-40<clrEnd> units
+17	Shield power: <clr>-4<clrEnd> units
+18	"Voltat"
+19	<color=248,252,248>An additional superconductor circuit running from the weapon all the way to the engine, allowing elementary particles to be accelerated and an <clr>ionizing<clrEnd> effect to be achieved on the target. However, the operation of the microcollider causes constant failures in the <clr>ignition systems<clrEnd>.</color><br> <br>
+20	Energy weapon damage: <clr>+3<clrEnd> units
+21	Ship speed: <clr>-45<clrEnd> units
+22	Droid repair: <clr>-20<clrEnd> units
+23	Energy weapon damage: <clr>-24<clrEnd> units
+24	Energy weapon damage: <clr>+2<clrEnd> units
+25	Ship speed: <clr>-30<clrEnd> units
+26	Firing range: <clr>+28<clrEnd> units
+27	Firing range: <clr>+19<clrEnd> units
+28	Ship mass: <clr>+6%<clrEnd>
+29	Energy weapon damage: <clr>-14<clrEnd> units
+30	Shield power: <clr>-3<clrEnd> units
+31	<color=248,252,248>This weapon has a built-in autonomous ultra-precise calculation and targeting unit that fully automates the weapon's operation in combat. On average, the device delivers a <clr>far from the best<clrEnd> result, but always a <clr>stable<clrEnd> one.</color><br> <br>
+32	Energy weapon damage: <clr>-7<clrEnd> units
+33	Firing range: <clr>-32<clrEnd> units
+34	Energy weapon damage: <clr>-22<clrEnd> units
+35	Firing range: <clr>-48<clrEnd> units
+36	Firing range: <clr>+44<clrEnd> units
+37	Droid repair: <clr>-10<clrEnd> units
+38	Energy weapon damage: <clr>-5<clrEnd> units
+39	Energy weapon damage: <clr>-3<clrEnd> units
+40	Shield power: <clr>-1<clrEnd> units
+41	Droid repair: <clr>-15<clrEnd> units
+42	Energy weapon damage: <clr>-15<clrEnd> units
+43	Shield power: <clr>-2<clrEnd> units
+44	Missile weapon damage: <clr>-11<clrEnd> units
+45	Firing range: <clr>-36<clrEnd> units
+46	"Sunlow"
+47	<color=248,252,248>An innovative cluster missile launch system with an increased <clr>rate of fire<clrEnd>. It comes with a larger <clr>number of missiles<clrEnd> that have a smaller <clr>fuel supply<clrEnd>.</color><br> <br>
+48	Ammo supply: <clr>+30<clrEnd> units
+49	Missile speed: <clr>-450<clrEnd> units
+50	Ammo supply: <clr>+40<clrEnd> units
+51	Missile speed: <clr>-300<clrEnd> units
+52	Firing range: <clr>+11<clrEnd> units
+53	Firing range: <clr>+17<clrEnd> units
+54	Splinter weapon damage: <clr>-18<clrEnd> units
+55	Firing range: <clr>-43<clrEnd> units
+56	Energy weapon damage: <clr>-2<clrEnd> units
+57	Firing range: <clr>-9<clrEnd> units
+58	Radar range: <clr>-75<clrEnd> units
+59	Ship speed: <clr>-10<clrEnd> units
+60	Splinter weapon damage: <clr>-10<clrEnd> units
+61	Firing range: <clr>+26<clrEnd> units
+62	Radar range: <clr>-150<clrEnd> units
+63	Energy weapon damage: <clr>-6<clrEnd> units
+64	Firing range: <clr>+23<clrEnd> units
+65	Splinter weapon damage: <clr>-24<clrEnd> units
+66	Energy weapon damage: <clr>-4<clrEnd> units
+67	Energy weapon damage: <clr>-11<clrEnd> units
+68	Firing range: <clr>-26<clrEnd> units

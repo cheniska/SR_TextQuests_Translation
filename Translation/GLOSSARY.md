@@ -3434,3 +3434,14 @@
 | закладка / закладчик (наркотики) | stash / stasher | RefLongerPrison/Prison |
 | Гроссмейстер (гаалец-шахматист) | the Grandmaster | RefLongerPrison/Prison |
 | ВОГИНОЛ (малокское оскорбление) | VOGINOL | ShuQuest/Prison |
+| Вертер (командный центр 4-й серии доминаторов) | Verter | SolVerteroids |
+| вертероид | verteroid | SolVerteroids |
+| Сепаратор / Сопряжение (программы) | Separator / Coupling | SolVerteroids |
+| «Говнотер» (корпус, глумливое имя Вертера) | Govnoter | SolVerteroids |
+| келицит, атот-холь (станция) | kelicite, atot-hol | SolKelicites |
+| Дети Эльтана: Агиллы / Интеллы / Медиумы / Стронги / Мензолы | Agills / Intels / Mediums / Strongs / Mensols | ChildrenOfEltan |
+| Альянс Эльтана | Eltan Alliance | ChildrenOfEltan |
+| ГТУ (в Xeno/Den-настройках) | GTL | DenSettingsControl |
+| ГЗП | SG (shield generator) | MarshalsRebalances |
+| ошмётки (доминаторские) | debris | SolVerteroids |
+| СНК-Games | CHK-Games | Den/Fairan |

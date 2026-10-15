@@ -1,0 +1,11 @@
+"Магнетрон"	"Magnetron"
+"Корраптор"	"Korraptor"
+"Дишот"	"Dishot"
+Скорострельность: <clr>+1<clrEnd>	Rate of fire: <clr>+1<clrEnd>
+"Экстремум"	"Extremum"
+Дальность стрельбы: <clr>+15<clrEnd> ед.	Firing range: <clr>+15<clrEnd> units
+Урон энергетического оружия: <clr>-10<clrEnd> ед.	Energy weapon damage: <clr>-10<clrEnd> units
+Ракет в залпе: <bonShots> ед.	Missiles per salvo: <bonShots> units
+Мощность сканера: <clr>-1<clrEnd> ед.	Scanner power: <clr>-1<clrEnd> units
+Масса корабля: <clr>+4%<clrEnd>	Ship mass: <clr>+4%<clrEnd>
+Мощность сканера: <clr>-2<clrEnd> ед.	Scanner power: <clr>-2<clrEnd> units

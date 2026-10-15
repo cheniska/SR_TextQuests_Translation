@@ -1,0 +1,2 @@
+1	ShipInfo/AddInfo/CustomInfos/TradeFactor/Description
+2	ShipInfo/AddInfo/CustomInfos/TradeFactor/Name

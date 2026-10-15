@@ -1,0 +1,46 @@
+1	Energy weapon damage: <clr>+5<clrEnd> units
+2	Energy weapon damage: <clr>+8<clrEnd> units
+3	<color=248,252,248>A weapon with the "Adropter" add-on equipment package works on the principle of a Blast Wave Localizer. The pirate technology is far from perfect, but it still raises the chance of preserving valuable trophies after an enemy ship is destroyed. Notable for its very low manufacturing cost.</color><br> <br>
+4	Gripper power: <clr>-3<clrEnd> units
+5	<color=248,252,248>"Stealermain" is a modification mounted on the weapon mount housing. During combat, while firing, it tries to transmit an emergency cargo-jettison command to the enemy ship's central control system. The chance of it working is relatively low, but it can give the pilot a tactical advantage in battle and a chance to profit from the loot. Notable for its compactness.</color><br> <br>
+6	Gripper power: <clr>-6<clrEnd> units
+7	<color=248,252,248>Modified for aimed shooting at repair robots, the "Javitor" variant of the weapon makes it possible to fire along the droid's trajectory, thereby getting a chance to block the enemy ship from carrying out repairs during the battle. Has increased reliability.</color><br> <br>
+8	Radar range: <clr>-100<clrEnd> units
+9	<color=248,252,248>The "Invater" version of the weapon, in parallel with its normal effect, suppresses the target's ignition system, damaging its <clr>engine<clrEnd> and <clr>slowing<clrEnd> the target.</color><br> <br>
+10	Energy weapon damage: <clr>+6<clrEnd> units
+11	Energy weapon damage: <clr>+10<clrEnd> units
+12	Firing range: <clr>+61<clrEnd> units
+13	Engine speed: <clr>-15<clrEnd> units
+14	Missile weapon damage: <clr>+3<clrEnd> units
+15	Missile weapon damage: <clr>+5<clrEnd> units
+16	Firing range: <clr>+55<clrEnd> units
+17	Firing range: <clr>+69<clrEnd> units
+18	Radar range: <clr>-150<clrEnd> units
+19	Gripper power: <clr>-9<clrEnd> units
+20	Splinter weapon damage: <clr>+8<clrEnd> units
+21	Firing range: <clr>+51<clrEnd> units
+22	Firing range: <clr>+53<clrEnd> units
+23	Splinter weapon damage: <clr>+9<clrEnd> units
+24	Firing range: <clr>+44<clrEnd> units
+25	Engine speed: <clr>-25<clrEnd> units
+26	Radar range: <clr>-200<clrEnd> units
+27	Energy weapon damage: <clr>+9<clrEnd> units
+28	Firing range: <clr>+33<clrEnd> units
+29	Gripper power: <clr>-12<clrEnd> units
+30	Energy weapon damage: <clr>+12<clrEnd> units
+31	Splinter weapon damage: <clr>+10<clrEnd> units
+32	Energy weapon damage: <clr>+11<clrEnd> units
+33	Firing range: <clr>+54<clrEnd> units
+34	Splinter weapon damage: <clr>+7<clrEnd> units
+35	Firing range: <clr>+21<clrEnd> units
+36	Radar range: <clr>-250<clrEnd> units
+37	Energy weapon damage: <clr>+2<clrEnd> units
+38	Firing range: <clr>+63<clrEnd> units
+39	Firing range: <clr>+46<clrEnd> units
+40	Firing range: <clr>+73<clrEnd> units
+41	Radar range: <clr>-50<clrEnd> units
+42	Firing range: <clr>+98<clrEnd> units
+43	Engine speed: <clr>-10<clrEnd> units
+44	Firing range: <clr>+48<clrEnd> units
+45	Energy weapon damage: <clr>+7<clrEnd> units
+46	Firing range: <clr>+58<clrEnd> units

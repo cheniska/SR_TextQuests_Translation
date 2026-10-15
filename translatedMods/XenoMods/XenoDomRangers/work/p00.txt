@@ -1,0 +1,10 @@
+1	[interference] Identification confirmed. The dominator channel does not support negotiations with rangers.
+2	fastexit~Disconnect the channel
+3	Do not interfere. I am on an important sortie, and extra attention is the last thing I need right now.
+4	fastexit~Understood
+5	What are you doing?! I am one of you! This is camouflage - do not give me away to the dominators.
+6	Oh, sorry. Ceasing fire.
+7	I do not care. Get out of my way.
+8	Then we have a deal. I am ceasing fire too. Do not draw attention to us.
+9	Then the conversation is over. I am leaving the system.
+10	fastexit~Close the channel

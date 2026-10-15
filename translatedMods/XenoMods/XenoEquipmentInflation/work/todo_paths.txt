@@ -1,0 +1,4 @@
+1	Script/Mod_XenoEquipmentInflationNativeV1/Description
+2	XenoEquipmentInflation/InflationNewsGrowing
+3	XenoEquipmentInflation/InflationNewsHigh
+4	XenoEquipmentInflation/InflationNewsStable

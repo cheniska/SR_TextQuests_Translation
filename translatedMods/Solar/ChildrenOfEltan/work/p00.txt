@@ -1,0 +1,376 @@
+1	Home Galaxy
+2	Far Arm
+3	New1
+4	New2
+5	New3
+6	New4
+7	New5
+8	New6
+9	New7
+10	New8
+11	New9
+12	SecondHome1
+13	SecondHome2
+14	SecondHome3
+15	SecondHome4
+16	SecondHome5
+17	SecondHome6
+18	SecondHome7
+19	SecondHome8
+20	SecondHome9
+21	SecondHome10
+22	SecondHome11
+23	SecondHome12
+24	SecondHome13
+25	SecondHome14
+26	SecondHome15
+27	SecondHome16
+28	SecondHome17
+29	SecondHome18
+30	SecondHome19
+31	SecondHome20
+32	SecondHome21
+33	SecondHome22
+34	SecondHome23
+35	SecondHome24
+36	SecondHome25
+37	SecondHome26
+38	SecondHome27
+39	SecondHome28
+40	SecondHome29
+41	SecondHomeStar79,Star.Normal
+42	SecondHomeStar80,Star.Small
+43	SecondHomeStar81,Star.Small
+44	SecondHomeStar82,Star.Normal
+45	SecondHomeStar83,Star.Small
+46	SecondHomeStar84,Star.Normal
+47	SecondHomeStar85,Star.Normal
+48	SecondHomeStar86,Star.Small
+49	SecondHomeStar87,Star.Normal
+50	SecondHomeStar88,Star.Small
+51	SecondHomeStar89,Star.Small
+52	SecondHomeStar90,Star.Normal
+53	SecondHomeStar91,Star.Small
+54	SecondHomeStar92,Star.Normal
+55	SecondHomeStar93,Star.Normal
+56	SecondHomeStar94,Star.Small
+57	SecondHomeStar95,Star.Normal
+58	SecondHomeStar96,Star.Small
+59	SecondHomeStar97,Star.Normal
+60	SecondHomeStar98,Star.Small
+61	SecondHomeStar99,Star.Normal
+62	SecondHomeStar100,Star.Small
+63	SecondHomeStar101,Star.Normal
+64	SecondHomeStar102,Star.Small
+65	SecondHomeStar103,Star.Small
+66	SecondHomeStar104,Star.Normal
+67	SecondHomeStar105,Star.Normal
+68	SecondHomeStar106,Star.Small
+69	SecondHomeStar107,Star.Normal
+70	SecondHomeStar108,Star.Small
+71	SecondHomeStar109,Star.Small
+72	SecondHomeStar110,Star.Normal
+73	SecondHomeStar111,Star.Normal
+74	SecondHomeStar112,Star.Small
+75	SecondHomeStar113,Star.Normal
+76	SecondHomeStar114,Star.Small
+77	SecondHomeStar115,Star.Small
+78	SecondHomeStar116,Star.Normal
+79	SecondHomeStar117,Star.Small
+80	SecondHomeStar118,Star.Normal
+81	SecondHomeStar119,Star.Normal
+82	SecondHomeStar120,Star.Small
+83	SecondHomeStar121,Star.Normal
+84	SecondHomeStar122,Star.Small
+85	SecondHomeStar123,Star.Small
+86	SecondHomeStar124,Star.Normal
+87	SecondHomeStar125,Star.Small
+88	SecondHomeStar126,Star.Normal
+89	SecondHomeStar127,Star.Normal
+90	SecondHomeStar128,Star.Small
+91	SecondHomeStar129,Star.Normal
+92	SecondHomeStar130,Star.Small
+93	SecondHomeStar131,Star.Normal
+94	SecondHomeStar132,Star.Small
+95	SecondHomeStar133,Star.Small
+96	SecondHomeStar134,Star.Normal
+97	SecondHomeStar135,Star.Normal
+98	SecondHomeStar136,Star.Small
+99	SecondHomeStar137,Star.Normal
+100	SecondHomeStar138,Star.Small
+101	SecondHomeStar139,Star.Normal
+102	SecondHomeStar140,Star.Small
+103	SecondHomeStar141,Star.Small
+104	SecondHomeStar142,Star.Normal
+105	SecondHomeStar143,Star.Normal
+106	SecondHomeStar144,Star.Small
+107	SecondHomeStar145,Star.Normal
+108	SecondHomeStar146,Star.Small
+109	SecondHomeStar147,Star.Normal
+110	SecondHomeStar148,Star.Small
+111	SecondHomeStar149,Star.Small
+112	SecondHomeStar150,Star.Normal
+113	SecondHomeStar151,Star.Normal
+114	SecondHomeStar152,Star.Small
+115	SecondHomeStar153,Star.Normal
+116	SecondHomeStar154,Star.Small
+117	SecondHomeStar155,Star.Normal
+118	SecondHomeStar156,Star.Small
+119	SecondHomeStar157,Star.Small
+120	SecondHomeStar158,Star.Normal
+121	SecondHomeStar159,Star.Small
+122	SecondHomeStar160,Star.Normal
+123	SecondHomeStar161,Star.Normal
+124	SecondHomeStar162,Star.Small
+125	SecondHomeStar163,Star.Normal
+126	SecondHomeStar164,Star.Small
+127	SecondHomeStar165,Star.Small
+128	SecondHomeStar166,Star.Normal
+129	SecondHomeStar167,Star.Normal
+130	SecondHomeStar168,Star.Small
+131	SecondHomeStar169,Star.Normal
+132	SecondHomeStar170,Star.Small
+133	SecondHomeStar171,Star.Normal
+134	SecondHomeStar172,Star.Small
+135	SecondHomeStar173=Star.Small
+136	SecondHomeStar174,Star.Normal
+137	SecondHomeStar175,Star.Normal
+138	SecondHomeStar176,Star.Small
+139	SecondHomeStar177,Star.Normal
+140	SecondHomeStar178,Star.Small
+141	SecondHomeStar179,Star.Normal
+142	SecondHomeStar180,Star.Small
+143	SecondHomeStar181,Star.Small
+144	SecondHomeStar182,Star.Normal
+145	SecondHomeStar183,Star.Normal
+146	SecondHomeStar184,Star.Small
+147	SecondHomeStar185,Star.Normal
+148	SecondHomeStar186,Star.Small
+149	SecondHomeStar187,Star.Small
+150	SecondHomeStar188,Star.Normal
+151	SecondHomeStar189,Star.Normal
+152	SecondHomeStar190,Star.Small
+153	SecondHomeStar191,Star.Normal
+154	SecondHomeStar192,Star.Small
+155	SecondHomeStar193,Star.Normal
+156	SecondHomeStar194,Star.Small
+157	SecondHomeStar195,Star.Small
+158	SecondHomeStar196,Star.Normal
+159	SecondHomeStar197,Star.Normal
+160	SecondHomeStar198,Star.Small
+161	SecondHomeStar199,Star.Normal
+162	SecondHomeStar200,Star.Small
+163	SecondHomeStar201,Star.Small
+164	SecondHomeStar202,Star.Normal
+165	SecondHomeStar203,Star.Normal
+166	SecondHomeStar204,Star.Small
+167	SecondHomeStar205,Star.Normal
+168	SecondHomeStar206,Star.Small
+169	SecondHomeStar207,Star.Normal
+170	SecondHomeStar208,Star.Small
+171	SecondHomeStar209,Star.Small
+172	SecondHomeStar210,Star.Normal
+173	SecondHomeStar211,Star.Normal
+174	SecondHomeStar212,Star.Small
+175	SecondHomeStar213,Star.Normal
+176	SecondHomeStar214,Star.Small
+177	SecondHomeStar215,Star.Small
+178	SecondHomeStar216,Star.Normal
+179	SecondHomeStar217,Star.Normal
+180	SecondHomeStar218,Star.Small
+181	SecondHomeStar219,Star.Normal
+182	SecondHomeStar220,Star.Small
+183	SecondHomeStar221,Star.Normal
+184	SecondHomeStar222,Star.Small
+185	SecondHomeStar223,Star.Small
+186	SecondHomeStar224,Star.Normal
+187	SecondHomeStar225,Star.Normal
+188	SecondHomeStar226,Star.Small
+189	SecondHomeStar227,Star.Normal
+190	SecondHomeStar228,Star.Small
+191	New1,Star.Small
+192	New2,Star.Normal
+193	New3,Star.Small
+194	New4,Star.Small
+195	New5,Star.Normal
+196	New6,Star.Normal
+197	New7,Star.Small
+198	New8,Star.Normal
+199	New9,Star.Small
+200	New10,Star.Small
+201	New11,Star.Normal
+202	New12,Star.Normal
+203	Eltan Alliance World (maneuverable)
+204	Eltan Alliance World (scientific)
+205	Eltan Alliance World (balanced)
+206	Eltan Alliance World (small)
+207	Eltan Alliance World (strike)
+208	Agills
+209	Intels
+210	Mediums
+211	Strongs
+212	Grakkh
+213	Bront
+214	Uldar
+215	Korvak
+216	Dreygon
+217	Magnar
+218	Rugan
+219	Kharg
+220	Tverdan
+221	Gromar
+222	Voldak
+223	Skald
+224	Borg
+225	Mordan
+226	Gundar
+227	Krogan
+228	Aelin
+229	Veyren
+230	Illira
+231	Leyra
+232	Seyra
+233	Fayrin
+234	Eylin
+235	Niara
+236	Zefrin
+237	Eloen
+238	Vetran
+239	Eolis
+240	Livey
+241	Alier
+242	Reylan
+243	Tayrin
+244	Kayrin
+245	Orven
+246	Mirel
+247	Talef
+248	Erdan
+249	Darven
+250	Loenna
+251	Isara
+252	Kelvin
+253	Brien
+254	Uelda
+255	Alveyn
+256	Mayren
+257	Endir
+258	Nortan
+259	Selvin
+260	Niloen
+261	Ksavin
+262	Ilmer
+263	Argel
+264	Noelm
+265	Virdan
+266	Serafel
+267	Orel
+268	Tsirena
+269	Tel
+270	Sorian
+271	Elmar
+272	Taviyen
+273	Ziriya
+274	Taer
+275	Yorven
+276	Piko
+277	Ziko
+278	Tinya
+279	Bimo
+280	Lili
+281	Nuka
+282	Krokha
+283	Mizya
+284	Pusha
+285	Tisha
+286	Yula
+287	Businka
+288	Iskorka
+289	Kroshka
+290	Malysh
+291	Tarven
+292	Torgar
+293	Kreyd
+294	Brokan
+295	Bortal
+296	Vorden
+297	Ilvera
+298	Skirra
+299	Tael
+300	Lavens
+301	Ayloris
+302	Mirgal
+303	Ordan
+304	Valker
+305	Reyzen
+306	Merkaz
+307	Seliana
+308	Telvar
+309	Kviden
+310	Ermis
+311	Kseran
+312	Dantel
+313	Illyumar
+314	Aristel
+315	Menzi
+316	Shipan
+317	Zul
+318	Burdok
+319	Lunika
+320	Mirok
+321	Brigand
+322	Taxi
+323	Envoy
+324	An enemy of the Strongs within our walls! <Player>, you are sentenced to be shot. Guards, seize him!
+325	<Player>! The Agills have passed sentence: execution by firing squad. Guards, do not let him escape!
+326	The Council of Mediums pronounces sentence, <Player>: execution on the spot. Carry out the order.
+327	The decision has been made, <Player>. The Intels sentence you to be shot. The debate is closed.
+328	You are an enemy of the Mensols, <Player>! There is only one sentence: execution. Take him away!
+329	A foreigner, <Player>? The Strongs trust no one at first sight. Tell us why you came, and do not even think of acting on your own here.
+330	A stranger, <Player>... The Agills are already watching you. Say quickly what you need, and keep your hands where we can see them.
+331	A foreigner, <Player>. The Council of Mediums does not know you and is in no hurry to take you at your word. Explain your intentions.
+332	An unfamiliar pilot, <Player>. We know nothing about your people or your goals. The Intels will weigh your every word.
+333	Who are you, foreigner <Player>? We are a small and cautious people. Say what you want, and do not make noise.
+334	You have earned the trust of the Strongs, <Player>, though you remain a foreigner. Welcome, but remember: our laws are not softened for guests.
+335	A foreigner, but no longer a stranger, <Player>. The Agills have accepted you and are glad to see you. Just do not forget: we are still keeping an eye on you.
+336	The Council of Mediums has decided that you can be trusted, <Player>, although you are a foreigner to us. Come in, we are listening.
+337	<Player>, we do not fully understand you yet, but your deeds speak in your favor. The Intels accept you, foreigner.
+338	Well, hello, <Player>. Even though you are a foreigner, we remember kindness. Come in, only without any extra noise, it is quiet here.
+339	Strongs. You are sentenced, stranger.
+340	Agills. Sentence has been passed on you, stranger.
+341	Mediums. The sentence has been passed, foreigner.
+342	Intels. The sentence is signed, outsider.
+343	Mensols. Sentence has been passed on you, stranger.
+344	Strongs. Identify yourself, stranger.
+345	Agills. Who are you, stranger?
+346	Mediums. State your name, foreigner.
+347	Intels. Identify yourself, outsider.
+348	Mensols. Who are you, stranger?
+349	Strongs on the line. You have been recognized, foreigner.
+350	Agills listening. You are remembered, foreigner.
+351	Mediums on the line. We know you, foreigner.
+352	Intels receiving. You are in our database, foreigner.
+353	Mensols hear you. Hello, foreigner.
+354	The Scout has passed on your coordinates, <Player>. Execution awaits you, cease your resistance.
+355	The Scout does not know you, <Player>. Keep your distance and do not change course abruptly.
+356	The Scout recognized you, <Player>. The route nearby is safe, but we still keep an eye on guests.
+357	The Trooper has orders, <Player>: take you and deliver you to be shot. Surrender!
+358	The Trooper is on patrol. You are a stranger in these systems, <Player>. Do not approach our planets and do not touch your weapons.
+359	The Trooper recognized you, <Player>. You are a foreigner, but not an enemy. Pass, we are nearby.
+360	The Brigand does not like his enemies alive, <Player>. You will not escape execution.
+361	The Brigand does not like strangers, <Player>. Go your own way while you are in one piece.
+362	The Brigand knows you, <Player>. You are a foreigner, but one can do business with you. I will tell you the rumors.
+363	The Merchant has already reported where to find you, <Player>. Your sentence is execution.
+364	The Merchant does not trust outsiders, <Player>. I will not show the cargo or name a price. Move along.
+365	The Merchant remembers you, <Player>. You are a foreigner, but a reliable customer. Drop by our planets.
+366	The Taxi will not take you anywhere except the place of execution, <Player>. Do not interfere with the flight.
+367	The Taxi is occupied, <Player>. The passengers are afraid of strangers, do not come close.
+368	The Taxi recognized you, <Player>. The passengers are already used to the foreigner, you may approach.
+369	The Alliance Envoy pronounces sentence on you, <Player>: execution. There will be no negotiations.
+370	The Alliance Envoy is watching you, <Player>. We do not trust foreigners yet, keep it short.
+371	The Alliance Envoy notes your services, <Player>. For a foreigner, you conduct yourself with dignity.
+372	You dared to appear on a Strong planet, hostile foreigner <Player>. No one even put you on trial: the guards lined up at the ramp and shot you on the spot. The law of the Strongs is brief and knows no mercy.
+373	The Agills do not like lengthy proceedings, <Player>. The moment your ship touched the pad, a volley rang out. You did not even have time to close the hatch.
+374	The Council of Mediums unanimously declared you an enemy, <Player>. The sentence was announced when you were already standing against the wall. The volley was short and even, like everything the Mediums do.
+375	The Intels studied your file carefully, <Player>, and came to a simple conclusion. The calculation was precise: you were shot at the ramp, and your data was sent to the archive.
+376	The Mensols are a small and cautious people, <Player>, but they do not forgive enemies. You were met on the landing pad with a unanimous volley. That is how this game ended for you.

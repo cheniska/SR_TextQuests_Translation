@@ -1,0 +1,4 @@
+1	Native equipment inflation and the local market
+2	Economic Bulletin: manufacturers warn of a noticeable rise in the price of ship equipment. The current price index is #factor#%. Rangers are advised not to postpone major purchases.
+3	Economic Bulletin: the equipment market is experiencing high inflation. The current price index has reached #factor#%. Scarce systems and weapons may cost even more because of local demand.
+4	Economic Bulletin: experts note a calm rise in equipment prices. The current price index is #factor#%. Ordinary goods continue to live by the market's own rules.

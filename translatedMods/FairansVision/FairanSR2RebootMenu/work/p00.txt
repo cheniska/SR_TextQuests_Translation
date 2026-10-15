@@ -1,0 +1,7 @@
+1	<color=255,202,21>Arcade Battles</color>
+2	<color=255,202,21>Modifications</color>
+3	<color=255,202,21>Text Quests</color>
+4	<color=255,202,21>Planetary Battles</color>
+5	<color=129,170,188>(C) 2013-2025 1C-Softclub. Addon developed by CHK-Games. Version <Value>.</color>
+6	<color=129,170,188>(C) 2013-2025 1C-Softclub.</color>
+7	<color=129,170,188>Addon developed by CHK-Games. Version <Value>.</color>

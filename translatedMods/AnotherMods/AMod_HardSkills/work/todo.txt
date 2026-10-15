@@ -1,0 +1,7 @@
+1	Навык точности повысился!<br>
+2	Навык маневренности повысился!<br>
+3	Навык техники повысился!<br>
+4	Навык торговли повысился!<br>
+5	Навык обаяния повысился!<br>
+6	Навык лидерства повысился!<br>
+7	<td=0><align=left>Точность:</align><td=160><align=right>CurExp0</align><td=170><align=right>/</align><td=225><align=right>NeedExp0</align><br>Маневренность:</align><td=160><align=right>CurExp1</align><td=170><align=right>/</align><td=225><align=right>NeedExp1</align><br>Знание техники:</align><td=160><align=right>CurExp2</align><td=170><align=right>/</align><td=225><align=right>NeedExp2</align><br>Навык торговли:</align><td=160><align=right>CurExp3</align><td=170><align=right>/</align><td=225><align=right>NeedExp3</align><br>Обаяние:</align><td=160><align=right>CurExp4</align><td=170><align=right>/</align><td=225><align=right>NeedExp4</align><br>Лидерство:</align><td=160><align=right>CurExp5</align><td=170><align=right>/</align><td=225><align=right>NeedExp5</align><br>
