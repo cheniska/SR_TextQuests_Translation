@@ -3443,7 +3443,7 @@
 | Интеллы | Intels | ChildrenOfEltan |
 | Медиумы | Mediums | ChildrenOfEltan |
 | Стронги | Strongs | ChildrenOfEltan |
-| Мензолы | Mensols | ChildrenOfEltan |
+| Мензолы | Menzols (как в квесте Menzols КР1) | ChildrenOfEltan |
 | Альянс Эльтана | Eltan Alliance | ChildrenOfEltan |
 | ГТУ (в Xeno/Den-настройках) | GTL | DenSettingsControl |
 | ГЗП = генератор защитного поля / генератор защиты | shield generator (в англ. тексте аббревиатуры нет; ванилла: «Shield Generator») | ванилла, MarshalsRebalances |
