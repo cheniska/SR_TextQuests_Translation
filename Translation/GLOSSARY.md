@@ -3353,3 +3353,14 @@
 | Таутитановый двигатель | Tautitanium Engine | Tweaks SR2DominatorsBalance |
 | доминаторы vs силы коалиции (рейтинг сил) | Dominators are weaker than / stronger than / much stronger than the Coalition; Dominator and Coalition forces are equal | Tweaks |
 | ошмёток (научные базы) | debris | Tweaks DevKit |
+| Барахольщики (анклав ShuMercs) | Junkmongers (NameGen: Junkmonger) | ShuMercs |
+| Квашшырк Жаббуль | Kvashshyrk Zhabbul | ShuMercs |
+| Вторая линия (эскадра) | Second Line (NameGen: Second Line) | ShuMercs |
+| Лиоэль Мэйрон | Lioel Meyron | ShuMercs |
+| Конвент (гаальский) | the Convent ("Великий Конвент" — Great Convent) | ShuMercs |
+| Китобои (анклав) | Whalers (NameGen: Whaler) | ShuMercs |
+| Скрыжг Гарпун | Skryzhg Harpoon | ShuMercs |
+| Стражи Недр | Subsoil Wardens (NameGen: Subsoil Warden) | ShuMercs |
+| Каратель Глубин | Depth Punisher | ShuMercs |
+| Павлин Треть-Яков | Pavlin Tret-Yakov | ShuMercs |
+| Центр наёмников | Mercenary Center | ShuMercs |
