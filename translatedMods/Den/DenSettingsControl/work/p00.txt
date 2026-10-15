@@ -8,14 +8,14 @@
 8	<color=0,255,0>ENABLED
 9	Number of acryn items in shops
 10	Number of nodes dropped by dominators
-11	Quality of equipment dropped in BH
+11	Quality of equipment dropped in black holes
 12	Maximum cost of dropped items
 13	Relative share of agricultural planets
 14	Relative share of mixed planets
 15	Relative share of industrial planets
 16	Number of additional rangers
-17	Endurance in BH
-18	Damage in BH
+17	Endurance in black holes
+18	Damage in black holes
 19	Number of items before an NPC is shot
 20	<color=255,0,0>Doesn't change
 21	<color=0,255,0>Changes

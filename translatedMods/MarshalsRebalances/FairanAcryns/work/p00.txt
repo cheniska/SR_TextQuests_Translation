@@ -14,7 +14,7 @@
 14	Energy weapon damage: <clr>-70<clrEnd> units
 15	<color=248,252,248>An Acryn modification aimed at extreme overclocking of the weapon by routing an additional energy flow from the shield generator.</color><br> <br>
 16	Energy weapon damage: <clr>-40<clrEnd> units
-17	Shield power: <clr>-4<clrEnd> units
+17	Shield generator: <clr>-4<clrEnd> units
 18	"Voltat"
 19	<color=248,252,248>An additional superconductor circuit running from the weapon all the way to the engine, allowing elementary particles to be accelerated and an <clr>ionizing<clrEnd> effect to be achieved on the target. However, the operation of the microcollider causes constant failures in the <clr>ignition systems<clrEnd>.</color><br> <br>
 20	Energy weapon damage: <clr>+3<clrEnd> units
@@ -27,7 +27,7 @@
 27	Firing range: <clr>+19<clrEnd> units
 28	Ship mass: <clr>+6%<clrEnd>
 29	Energy weapon damage: <clr>-14<clrEnd> units
-30	Shield power: <clr>-3<clrEnd> units
+30	Shield generator: <clr>-3<clrEnd> units
 31	<color=248,252,248>This weapon has a built-in autonomous ultra-precise calculation and targeting unit that fully automates the weapon's operation in combat. On average, the device delivers a <clr>far from the best<clrEnd> result, but always a <clr>stable<clrEnd> one.</color><br> <br>
 32	Energy weapon damage: <clr>-7<clrEnd> units
 33	Firing range: <clr>-32<clrEnd> units
@@ -37,10 +37,10 @@
 37	Droid repair: <clr>-10<clrEnd> units
 38	Energy weapon damage: <clr>-5<clrEnd> units
 39	Energy weapon damage: <clr>-3<clrEnd> units
-40	Shield power: <clr>-1<clrEnd> units
+40	Shield generator: <clr>-1<clrEnd> units
 41	Droid repair: <clr>-15<clrEnd> units
 42	Energy weapon damage: <clr>-15<clrEnd> units
-43	Shield power: <clr>-2<clrEnd> units
+43	Shield generator: <clr>-2<clrEnd> units
 44	Missile weapon damage: <clr>-11<clrEnd> units
 45	Firing range: <clr>-36<clrEnd> units
 46	"Sunlow"

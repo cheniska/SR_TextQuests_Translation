@@ -3439,9 +3439,14 @@
 | Сепаратор / Сопряжение (программы) | Separator / Coupling | SolVerteroids |
 | «Говнотер» (корпус, глумливое имя Вертера) | Govnoter | SolVerteroids |
 | келицит, атот-холь (станция) | kelicite, atot-hol | SolKelicites |
-| Дети Эльтана: Агиллы / Интеллы / Медиумы / Стронги / Мензолы | Agills / Intels / Mediums / Strongs / Mensols | ChildrenOfEltan |
+| Агиллы | Agills | ChildrenOfEltan |
+| Интеллы | Intels | ChildrenOfEltan |
+| Медиумы | Mediums | ChildrenOfEltan |
+| Стронги | Strongs | ChildrenOfEltan |
+| Мензолы | Mensols | ChildrenOfEltan |
 | Альянс Эльтана | Eltan Alliance | ChildrenOfEltan |
 | ГТУ (в Xeno/Den-настройках) | GTL | DenSettingsControl |
-| ГЗП | SG (shield generator) | MarshalsRebalances |
+| ГЗП = генератор защитного поля / генератор защиты | shield generator (в англ. тексте аббревиатуры нет; ванилла: «Shield Generator») | ванилла, MarshalsRebalances |
+| бонус «Генератор поля: N ед.» (микромодули) | Shield generator: N (ванилла; «Мощность защитного поля» — Shield power) | ванилла |
 | ошмётки (доминаторские) | debris | SolVerteroids |
 | СНК-Games | CHK-Games | Den/Fairan |
