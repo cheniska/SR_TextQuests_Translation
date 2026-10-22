@@ -8,6 +8,9 @@
 к нему добавляется #N (с 1), иначе без номера.
 
 Команды (python3 qlore.py ... < /dev/null):
+  Источники ссылок: SR1/SR2/SRHD (ланги), TQ1/TQ2 (текстовые квесты КР1/SR2HD), SQ — 63 новых квеста «Space Rangers Quest»
+  (TextQuests/SRQuest/Rus), SQU — его интерфейсные тексты (TextQuests/SRQuest/ui/localization; ключ «номер_файл:ключ»).
+  merge-теги SQ/SQPARODY/SQDOUBTS → LORE_FACTS_SRQUEST*.md.
   flat                       — пересобрать Translation/work/lore/<LANG>.flat (ключ<TAB>текст)
   dump PREFIX [LANG]         — все записи с ключом, начинающимся на PREFIX (по умолч. SRHD),
                                с пометкой, где тот же текст есть в других лангах:
@@ -67,11 +70,14 @@ def parse_squi():
         if txt.lstrip().startswith('{'):      # json (классы, стимуляторы): один ключ all
             res.append([stem + ':all', re.sub(r'\s+', ' ', txt)])
             continue
+        n0 = len(res)
         for line in txt.replace('\r', '').split('\n'):
             if line.startswith('//') or '=' not in line:
                 continue
             k, v = line.split('=', 1)
             res.append([stem + ':' + k.strip(), v])
+        if len(res) == n0 and txt.strip():    # файл без key=value (списки через запятую, «Имя<|>текст»)
+            res.append([stem + ':all', re.sub(r'\s+', ' ', txt)])
     return res
 
 
