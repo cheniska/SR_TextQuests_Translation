@@ -1,0 +1,541 @@
+level0	435	ГРОМКОСТЬ: <color=#ffc900>10</color>
+level0	436	НОРМАЛЬНЫЙ
+level0	437	Debug:
+level0	438	Русский
+level0	439	Главное меню
+level0	441	Музыка:
+level0	442	Настройки
+level0	443	Язык:
+level0	444	Масштаб интерфейса:
+level0	445	Звуки:
+level0	447	*Обновления вступят в силу после закрытия данного диалога
+level0	450	Шеф, всё пропало!\nСделать дамп логов
+level0	452	Вы действительно хотите выйти в меню?\n(Игра будет сохранена)
+level0	453	назад
+level0	454	Масштаб диалогов:
+level0	455	Show fps:
+level0	456	Шрифт:
+level0	457	МЕНЮ
+level0	483	mainMenu
+level0	504	settingsMusic
+level0	505	settings
+level0	514	settingsLanguage
+level0	527	settingsVolume
+level0	536	settingsUiScaleLabel
+level0	556	settingsSound
+level0	570	settingsUiScaleWarning
+level0	573	settingsUiScale
+level0	609	Fly Theme 12
+level0	609	Space Is Calling
+level0	609	Star Flight
+level0	626	playerBack
+level0	630	settingsDialogScaleLabel
+level0	631	Classic Music
+level0	631	/DLCs/dlc-music-classic.asset
+level0	631	http://srq.royalquest.ru/SRQuest/dlc-music-classic
+level0	631	http://srq.royalquest.ru/SRQuest/dlc-music-classic-ios
+level0	631	A War Apart Music
+level0	631	/DLCs/dlc-music-a-war-apart.asset
+level0	631	http://srq.royalquest.ru/SRQuest/dlc-music-a-war-apart
+level0	631	http://srq.royalquest.ru/SRQuest/dlc-music-a-war-apart-ios
+level0	631	HD Textures
+level0	631	/DLCs/dlc-hd.asset
+level0	631	http://srq.royalquest.ru/SRQuest/dlc-hd
+level0	631	http://srq.royalquest.ru/SRQuest/dlc-hd-ios
+level0	656	settingsFontSize
+level0	665	playerMenu
+level1	341	Выключено
+level1	342	музыка из КР2: Перезагрузка
+level1	343	НОВАЯ ИГРА
+level1	344	Классическая музыка:
+level1	345	РУССКИЙ
+level1	346	ВЫХОД
+level1	347	для кораблей
+level1	349	музыка из КРHD
+level1	350	Настройки загружаемого контента
+level1	351	НАСТРОЙКИ
+level1	352	СПИСОК КВЕСТОВ
+level1	353	Новая музыка:
+level1	355	АВТОРЫ
+level1	356	HD-текстуры:
+level1	357	© 2016 Все права защищены.
+level1	358	Загружено: <color=#ffc900>10%</color>
+level1	360	Пожалуйста, выберите язык игры.\nВАЖНО: после выбора язык сменить невозможно
+level1	363	ЗАГРУЗИТЬ
+level1	372	dlcClassicMusicHint
+level1	376	mainMenuNewGame
+level1	380	dlcClassicMusic
+level1	406	mainMenuExit
+level1	408	dlcHdTexturesHint
+level1	424	dlcNewMusicHint
+level1	433	HD Textures
+level1	434	settingsDLC
+level1	435	mainMenuSettings
+level1	436	mainMenuQuestList
+level1	438	dlcNewMusic
+level1	446	settingsDownloading
+level1	457	A War Apart Music
+level1	459	mainMenuCredits
+level1	461	dlcHdTextures
+level1	468	mainMenuCopyright
+level1	502	mainMenuLanguageDisclaimer
+level1	517	Classic Music
+level1	528	mainMenuLoad
+level2	806	Перемотка внутри трека доступна нажатием в произвольное место прогресс бара при включенном воспроизведении.
+level2	807	шрифт
+level2	810	Меню
+level2	811	Опции
+level2	812	Отлично, <Player>, теперь мы познакомимся с экраном текстового квеста. Как видите, 	он разделен на <clr>4<clrEnd> основные части - <clr>описание локации<clrEnd> слева сверху, <clr>область переходов<clrEnd> с управляющими вкладками слева снизу, <clr>иллюстрация<clrEnd> справа вверху и <clr>область параметров<clrEnd> справа внизу.
+level2	814	Переходы
+level2	815	текст
+level2	817	Для удобства вы можете <clr>сохранять<clrEnd> результаты вычислений. Для этого предусмотрена кнопка <clr>«Память»<clrEnd>. Нажмите ее.
+level2	819	<clr>Область параметров<clrEnd> предназначена для описания состояния происходящего в квесте, так или иначе прямо связанного с действиями игрока. Здесь может отображаться состояние игрока, его инвентарь и прочая служебная информация. Всегда обращайте на нее внимание!
+level2	820	Калькулятор позволяет производить обычные арифметические действия – сложение, вычитание, умножение, деление, возведение в степень, а также использовать скобки.
+level2	822	<clr>Область переходов<clrEnd> содержит в себе варианты действий, которые вы можете предпринять в данный момент. Это ваш способ взаимодействия с квестом. Думайте как следует, перед тем как выбрать вариант!
+level2	823	Когда текстовые области развернуты, кнопка <clr>"Развернуть"<clrEnd> заменяется на кнопку <clr>"Свернуть"<clrEnd>, возвращающую обычный вид окон с текстом. Нажмите ее, чтобы вернуться назад к обычному отображению.
+level2	825	важный
+level2	828	<clr>Описание локации<clrEnd> содержит в себе основную суть происходящего в квесте в данный момент. Вы можете скроллить текст, перетаскивать горизонтальный слайдер для изменения размера областей описания и переходов. В настройках также можно изменить размер шрифта и тип скина плеера.
+level2	830	Внимание, <Player>! Вам предложили решить задачу, которая требует вычислений. В помощь для этого нам удалось встроить в ваш виртуальный мозг вполне себе работающий <clrEnd>Калькулятор<clrEnd> . Переключитесь на его вкладку, чтобы начать использование.
+level2	831	Калькулятор
+level2	832	Рестарт
+level2	833	Музыка
+level2	834	На вкладке <clr>«Музыка» <clrEnd> вы можете управлять музыкой в игре во время текстового квеста. Переключитесь на вкладку, чтобы увидеть ее внешний вид.
+level2	835	Кнопка <clr>"Развернуть"<clrEnd> позволяет перевести описание локации и область переходов в полноэкранный режим, увеличив место для выводимого текста. Это может быть полезно при крупном размере шрифта. Нажмите кнопку <clr>"Развернуть"<clrEnd> и посмотрите на результат.
+level2	838	<clr>Иллюстрация<clrEnd> красочно (или не очень) отображает происходящее в виде рисунка. Ее можно скрыть нажатием на кнопку <clr>«Скрыть»<clrEnd> над ней, освободив больше места под параметры.
+level2	839	Сдаться
+level2	840	Давайте попробуем посчитать необходимое число. Вы можете переключаться с вкладки калькулятора обратно на переходы в любой момент, если он заслоняет вам часть текста. Завершите вычисление нажатием клавиши "Равно" (символ "=") на клавиатуре калькулятора.
+level2	841	цвет фона
+level2	842	Назад
+level2	843	А теперь, настало время действовать! Начните прохождение квеста, выбирая варианты в окне переходов. 
+level2	844	Выиграть квест
+level2	845	Как видите, выражение сохраняется полностью, что облегчит вам его поиск среди большого количества вычислений. Теперь вернитесь на вкладку <clr>«Переходы»<clrEnd> и введите свой ответ!
+level2	846	НАСТРОЙКИ
+level2	857	tutorialHint32
+level2	867	playerFont
+level2	878	OnCalculatorToogleChanged
+level2	880	playerMenu
+level2	881	playerOptions
+level2	882	tutorialHint28
+level2	888	OnToggleSettingsMenuClicked
+level2	910	playerTransition
+level2	919	playerSampleTextNormal
+level2	936	tutorialHint40
+level2	945	OnDecreaseFontSizeButtonClicked
+level2	955	tutorialHint36
+level2	967	tutorialHint39-1
+level2	967	Калькулятор позволяет производить обычные арифметические действия – сложение, вычитание, умножение, деление, возведение в степень, а также использовать скобки.  Давайте попробуем посчитать необходимое число. Вы можете переключаться с вкладки калькулятора обратно на переходы в любой момент, если он заслоняет вам часть текста.
+level2	1021	tutorialHint30
+level2	1022	tutorialHint35
+level2	1041	playerExpand
+level2	1041	playerCollapse
+level2	1049	playerSampleTextImportant
+level2	1069	tutorialHint29
+level2	1069	В правой части экрана вы видите <color=#ffc900>информационную панель</color>, содержащую несколько вкладок. Сейчас она открыта на вкладке <color=#ffc900>бонусы и штрафы</color>, которая показывает вас прогресс в поиске посланников, а также отображает все имеющиеся у вас в данный момент модификаторы параметров. Сейчас бонусов и штрафов нет, поэтому в этой части пусто. Теперь заглянем на следующую вкладку.
+level2	1083	OnIncreaseFontSizeButtonClicked
+level2	1097	tutorialHint38
+level2	1098	OnChangeThemeButtonClicked
+level2	1108	playerCalculator
+level2	1113	playerRestart
+level2	1119	playerMusic
+level2	1125	tutorialHint31
+level2	1153	tutorialHint34
+level2	1173	tutorialHint33
+level2	1176	playerFinish
+level2	1211	tutorialHint39-2
+level2	1224	playerSkin
+level2	1238	playerBack
+level2	1242	tutorialHint37
+level2	1262	tutorialHint41
+level2	1293	playerSettings
+level2	1343	OnTransitionsToogleChanged
+level3	1768	СИСТЕМА ДЛИННОЕ ИМЯ
+level3	1769	Просканировано
+level3	1770	Зажми палец на системе, чтобы увидеть подсказку!
+level3	1771	Чтобы понять, куда направиться дальше и расширить зону поиска, необходимо <color=#ffc900>приобретать звездные карты</color>. Они открывают закрытые сектора на <color=#ffc900>галактической карте</color> и позволяют вам посещать системы в них. Выберите пункт <color=#ffc900>«Приобрести звездную карту»</color> в диалоге станции и совершите покупку.
+level3	1772	Сделать бекап сохранения
+level3	1773	Раса:
+level3	1774	Окно заправки содержит исчерпывающую информацию о количестве топлива на борту и стоимости заправки. По умолчанию предлагается заправка до полного бака, или, если средств у вас на это недостаточно – на все имеющиеся деньги. Вы можете изменить объем заправки нажатием на кнопки <color=#ffc900>+</color> и <color=#ffc900>-</color> соответственно. Сейчас все же стоит заправить полный бак. Вперед!
+level3	1775	Свидетели доминаторов
+level3	1776	Сектор:
+level3	1777	СКАНИРОВАНИЕ
+level3	1778	Важный параметр вашего корабля - <color=#ffc900>количество топлива</color> в баке. Без топлива невозможно совершать прыжки между системами, которые требуют огромных затрат энергии. Впрочем, современные технологии субсветовых двигателей позволяют перемещаться внутри системы практически без затрат горючего, поэтому до заправки на ближайшую планету вы дотянете и при пустом баке.
+level3	1779	ТЕКСТОВЫЙ КВЕСТ
+level3	1780	КРЕДИТЫ
+level3	1781	Центр рейнджеров
+level3	1782	Медцентр
+level3	1783	Панель дебага
+level3	1784	Теперь ваш маршрут отображается в виде пунктирной линии на карте, а кнопка прыжка окрасилась в зеленый цвет, а это значит – самое время совершить его! Вперед! Нажмите на кнопку прыжка.
+level3	1786	Станции – важное место во вселенной рейнджеров. Всего существует <color=#ffc900>5</color> типов станций: <color=#ffc900>военная база, бизнес-центр, научная база, медицинский центр</color> и <color=#ffc900>пиратская база</color>. На большее у создателя виртуального мира, видимо, не хватило памяти. У всех видов станций есть базовый функционал - <color=#ffc900>ремонт корабля</color> и <color=#ffc900>покупка карт</color>. Остальные возможности у разных станций отличаются.
+level3	1787	Отлично, вы справились с проблемой! Закройте окно случайного события и осмотритесь в новой системе.
+level3	1788	Посещений: <color=#edc111>0</color>
+level3	1789	Цена:
+level3	1790	Сейчас играет:
+level3	1792	Завершённый квест
+level3	1793	Переключитесь на вкладку, нажав на ее иконку.
+level3	1794	На этой вкладке отображается информация о <color=#ffc900>текстовом квесте</color>, который может присутствовать в системе. Квесты являются вашим основным источником дохода и их прохождение крайне важно для победы! В этой системе квеста, как мы видим, нет, поэтому продолжим далее к следующей вкладке.
+level3	1795	Босс доминаторов
+level3	1796	Удача: 
+level3	1797	<color=#ffc900>50</color> ЛИТРОВ
+level3	1800	Галактическая карта (<color=#ffc900>M</color>)
+level3	1801	Подравляем, теперь вы освоились и готовы к самостоятельному поиску посланников и успешному выполнению важнейшей миссии! Не забывайте сканировать системы, зарабатывать кредиты на квестах и спасите мир в очередной раз!
+level3	1803	Нет данных
+level3	1804	Естественно, без денег в наше время тоже никуда, поэтому здесь также отображается ваш баланс <color=#ffc900>кредитов</color>. За деньги вы производите ремонт, заправку, сканирование систем, покупку звездных карт и прочие действия. Основной источник кредитов – прохождение текстовых квестов.
+level3	1805	Вы видите описание тренировочного квеста. Ознакомьтесь с ним и смело жмите <color=#ffc900>«Начать квест»</color>!
+level3	1806	Вокруг текущей системы несложно заметить зеленый крутящийся значок. Он показывает, что система уже просканирована. Также сверху над звездой есть специальные иконки, обозначающие наличие в ней баз, а снизу – иконка текстовых квестов. Теперь попробуйте посмотреть более подробную информацию о системе <DestinationSystem>. Для этого зажмите палец на звезде системы.
+level3	1807	ТОПЛИВО
+level3	1808	Самое время совершить прыжок в другую систему. Для этого нужно перейти на <color=#ffc900>экран карты</color>, нажав соответствующую кнопку.
+level3	1810	Люди
+level3	1811	Военная база
+level3	1812	Отлично, <Player>! Обратите внимание, что в связи с ограниченной емкостью голографической памяти навигационной системы вашего корабля, каждая последующая карта стоит дороже предыдущей, так как требует все более сложных алгоритмов архивации загруженных данных. Теперь самое время проверить, что творится в галактике. Закройте окно базы, нажав кнопку слева от него или выбрав реплику <color=#ffc900>«Отстыковаться»</color> в диалоге базы.
+level3	1814	Начать случайное событие
+level3	1815	Пиратская база <color=#edc111>Рыбий жир</color>
+Пиратская база <color=#edc111>Рыбий жир</color>
+level3	1816	Класс звезды:
+level3	1817	Община свидетелей доминаторов
+level3	1818	Отлично! Как видите, вся основная информация приведена в этом окне – название системы, принадлежность к сектору, класс звезды, проживающие расы, наличие и типы баз. Обращайте внимание на эту информацию, она еще не раз пригодится вам в поисках посланников! А теперь давайте прыгнем в систему <DestinationSystem>. Закройте информацию о системе, нажав в область экрана вне окна информации, а после этого – кратко нажмите (не зажимая) на звезду.
+level3	1819	Ваша удача переменчива
+level3	1820	Ключевой показатель - <color=#ffc900>прочность структуры корпуса</color>. Если прочность структуры корабля уменьшится до нуля, вас выкинет из виртуального мира, но хуже того – необратимо повредит мозг, что приведет к фактической гибели и в мире реальном. Восстановить структуру можно путем ремонта на станциях.
+level3	1821	Открыть случайный сектор
+level3	1822	Посланников найдено: <color=#EDC111FF>4</color>/<color=#EDC111FF>7</color>
+level3	1824	пропустить
+level3	1825	Система Бетельгейзе
+level3	1826	Пиратская база
+level3	1827	Основная раса:
+level3	1828	Квест:
+level3	1831	ЗАГОЛОВОК
+level3	1832	Что-то происходит! Кажется, вы стали участником <color=#ffc900>случайного события</color>. Космос полон неожиданностей, и периодически они находят вас (или вы их, как повезет). В любом случае, нужно действовать, а не сидеть, сложа руки. Ознакомьтесь с ситуацией, которая описана в верхней части экрана события, и выберите вариант действий из списка в нижней части. От ваших действий будет зависеть исход ситуации!
+level3	1833	СТРУКТУРА
+level3	1834	ЗАПРАВКА
+level3	1835	Теперь самое время изучить ваш основной вид приключений - <color=#ffc900>текстовые квесты</color>. Зайдите на вкладку квестов – там вас ждет тренировочное задание.
+level3	1836	На прыжок вам пришлось потратить заметное количество топлива. Самое время дозаправиться! Нажмите кнопку <color=#ffc900>заправки</color>.
+level3	1837	Данная кнопка позволяет скрыть или отобразить боковую панель чтобы полюбоваться космосом или наоборот, увидеть важную информацию. Теперь посмотрим, какие у вас основные параметры.
+level3	1838	Бизнес-центр
+level3	1839	Пеленги
+level3	1840	Научная база
+level3	1841	Новый квест
+level3	1842	Стыковка:
+level3	1843	Звено маршрута
+level3	1844	Не просканирована
+level3	1845	Добавить 10000 кредитов
+level3	1846	Сейчас топлива на борту: <color=#ffc900>50/100</color> литров
+
+Стоимость топлива: <color=#ffc900>5\u00A0cr</color> за <color=#ffc900>1\u00A0литр</color>
+
+Заправка полного бака будет стоить <color=#ffc900>250\u00A0cr</color>
+level3	1848	Обнулить кредиты
+level3	1849	Вы действительно хотите купить <color=#ffc900>50\u00A0литров</color> топлива за <color=#ffc900>250\u00A0cr</color>?
+level3	1851	На вкладке <color=#ffc900>прочее</color> вы можете управлять музыкой в игре. Кроме того, здесь будут отображаться важные <color=#ffc900>сюжетные подсказки</color>, которые вы сможете найти во время выполнения своей миссии. Они помогут вам в поиске посланников. Ну а мы тем временем продолжим осматриваться.
+level3	1852	Медицинский центр Противопередозировки
+level3	1853	Карагон
+level3	1854	В правой части экрана вы видите <color=#ffc900>информационную панель</color>, содержащую несколько вкладок. Сейчас она открыта на вкладке <color=#ffc900>бонусы и штрафы</color>, которая показывает вас прогресс в поиске посланников, а также отображает все имеющиеся у вас в данный момент модификаторы параметров. Сейчас бонусов и штрафов нет, поэтому в этой части пусто. Теперь заглянем на следующую вкладку.
+level3	1855	Начать финальный квест
+level3	1858	<color=#FFC900FF>100 cr</color>
+<color=#FFC900FF>5</color> ед. топлива
+level3	1859	Перед вами - <color=#ffc900>экран карты</color>. Здесь вы сможете увидеть положение своего корабля в галактике, совершить прыжок в другую систему и посмотреть информацию о них. Карта разделена на <color=#ffc900>сектора</color>, каждый из которых содержит в себе несколько звездных систем. Карту одного из них вы только что приобрели, что и привело к его разблокированию. Вы видите системы, входящие в него.
+level3	1860	Конец маршрута
+level3	1861	Сканирование используется для поиска посланников и других интересных объектов в системе. В окне отображается основная информация о системе (название, класс звезды, расы, базы и т.д.). Работа сканера требует использования редких расходных материалов, поэтому каждое сканирование стоит денег. Цена различна для разных систем. Давайте же просканируем нашу систему!
+level3	1862	Другие расы:
+level3	1863	Базы:
+level3	1864	НАЧАТЬ КВЕСТ
+level3	1865	Игрок тут
+level3	1866	Итак, вы согласны?
+level3	1867	К сожалению, в этой системе ничего интересного найти не удалось. Но отчаиваться не стоит, перед вами открыта целая галактика! Но перед тем, как отправиться дальше, стоит заглянуть на станцию - <StationName>. Нажмите на кнопку стыковки для перехода к окну базы.
+level3	1868	<line-indent=5em>Вот вы и начали свое очередное приключение, <color=#ffc900>Player</color>! Сейчас вы находитесь на <color=#ffc900>экране космоса</color>, где можно полюбоваться на свой корабль, увидеть его состояние и производить основные операции. Вы можете вращать камеру вокруг корабля и приближать/отдалять ее с помощью щипка.
+level3	1871	Начать бой
+level3	1873	Орки!
+level3	1874	А теперь давайте начнем ваши поиски посланников! В этом нам поможет <color=#ffc900>окно сканирования</color>, которое открывается по нажатию данной кнопки. Откройте его сейчас.
+level3	1877	Вы действительно хотите провести <color=#ffc900>сканирование</color>?
+level3	1878	Медицинский центра
+level3	1879	В этой системе квестов нет
+level3	1880	Статус:
+level3	1881	ПРОЛОЖИТЕ МАРШРУТ
+level3	1882	Класс:
+level3	1884	Цвета в названиях систем, как обычно в мире рейнджеров, соответствуют проживающим в ней расам. Система, в которой вы находитесь сейчас, выделена ярким цветом и  помещена в центр круга, отображающего максимально возможный в данный момент радиус прыжка. Его величина зависит от мощности двигателя и остатка топлива в баке. Если система назначения находится внутри круга, до нее можно добраться, в противном случае придется совершить несколько прыжков и, при необходимости – дозаправок. 1 единица топлива затрачивается на преодоление 1 парсека на карте.
+level3	1886	Вот вы и начали свое очередное приключение, <color=#ffc900>Player</color>! Сейчас вы находитесь на <color=#ffc900>экране космоса</color>, где можно полюбоваться на свой корабль, увидеть его состояние и производить основные операции. Вы можете вращать камеру вокруг корабля и приближать/отдалять ее с помощью щипка.
+level3	1890	legendScanned
+level3	1896	legendHint
+level3	1907	tutorialHint14
+level3	1917	infoPanelRaceLabel
+level3	1918	tutorialHint25
+level3	1925	infoPanelSectorLabel
+level3	1940	scan
+level3	1965	tutorialHint7
+level3	1978	credits
+level3	2000	baseMedicalCenter
+level3	2010	tutorialHint21
+level3	2013	tutorialHint13
+level3	2014	tutorialHint23
+level3	2031	infoPanelPrice
+level3	2037	musicPlayerNowPlaying
+level3	2043	completedQuest
+level3	2046	tutorialHint3
+level3	2062	tutorialHint4
+level3	2063	dominatorBoss
+level3	2095	legendTitle
+level3	2107	OnCancelScanButtonClicked
+level3	2120	OnCreateBackupButtonClicked
+level3	2143	tutorialHint42
+level3	2154	spaceNoBonusesHint
+level3	2157	tutorialHint9
+level3	2171	hintMapButton
+level3	2180	tutorialHint27
+level3	2195	tutorialHint19
+level3	2200	tutorialHint16
+level3	2228	hintRefuelButton
+level3	2232	baseMilitaryBase
+level3	2241	tutorialHint15
+level3	2268	infoPanelSpectralClassLabelLong
+level3	2276	tutorialHint20
+level3	2306	tutorialHint8
+level3	2343	skip
+level3	2356	set_enabled
+level3	2361	infoPanelMainRaceLabel
+level3	2380	infoPanelQuestLabel
+level3	2382	fuel
+level3	2384	<color=#ffc900>{0}</color> {1}
+level3	2385	tutorialHint1
+level3	2398	tutorialHint22
+level3	2407	structure
+level3	2409	refuel
+level3	2412	tutorialHint26
+level3	2418	tutorialHint24
+level3	2433	tutorialHint6
+level3	2459	baseBusinessCenter
+level3	2471	baseScienceCenter
+level3	2474	Ships/Ship01
+level3	2474	Ships/Ship02
+level3	2474	Ships/Ship03
+level3	2487	newQuest
+level3	2491	docking
+level3	2506	legendRouteLink
+level3	2582	tutorialHint5
+level3	2583	tutorialHint2
+level3	2592	basePirateBase
+level3	2606	tutorialHint17
+level3	2609	legendRouteEnd
+level3	2614	tutorialHint11
+level3	2619	infoPanelOtherRacesLabel
+level3	2632	infoPanelBasesLabel
+level3	2637	startQuest
+level3	2645	legendPlayerHere
+level3	2663	tutorialHint12
+level3	2694	hintMenuButton
+level3	2709	OnStartRandomEventButtonClicked
+level3	2720	tutorialHint10
+level3	2738	scanConfirmation
+level3	2748	hintScanButton
+level3	2756	spaceNoQuestsHint
+level3	2762	infoPanelStatus
+level3	2786	infoPanelSpectralClassLabel
+level3	2790	tutorialHint18
+level3	2824	hintBackToSpaceButton
+level5	108	Сладко потянуться и вывести сообщение на экран
+level5	109	Загрузить
+level5	110	Вам крышка, и можно было бы выплатить компенсацию в 10000 кредитов, да некому. Но так как мы тут типа в виртуальной реальности уничтожаем четвертого босса Доминаторов, то можно загрузиться.
+level5	111	Меню
+level5	112	ДАЛЕЕ
+level5	114	finishLoad
+level5	140	playerMenu
+level5	161	next
+level7	141	<color=#CAE7FCFF>РЕЙНДЖЕР</color> <u>НЕИЗВЕСТНЫЙ</u>
+level7	142	Назад
+level7	143	<color=#FFCC01>ТОРГОВЕЦ</color> – успешный делец
+level7	144	<color=#FFCC01>ВОИН</color> – гроза космоса
+level7	145	<color=#FFCC01>ПИРАТ</color> – хитрый злодей
+level7	146	ДАЛЕЕ
+level7	173	playerBack
+level7	179	newGameClassTrader
+level7	179	ТОРГОВЕЦ\n<color=#ffcc01>успешный делец</color>
+level7	185	newGameClassWarrior
+level7	185	ВОИН\n<color=#ffcc01>гроза космоса</color>
+level7	189	newGameClassPirate
+level7	189	ПИРАТ\n<color=#ffcc01>хитрый злодей</color>
+level7	199	next
+level8	131	<size=50>Space Rangers Quest 1.0\n\n</size>
+<style="creditsLabel">Заглавный</style>
+<size=4><sprite=0></size>
+<style="creditsLabel">Дополнительное программирование</style>
+<size=3><sprite=0></size>
+<style="creditsValue">Мальцев\n\n</style>
+<style="creditsLabel">Заглавный</style>
+<size=3><sprite=0></size>
+<style="creditsValue">Мальцев\n\n</style>
+<style="creditsLabel">Заглавный</style>
+<size=3><sprite=0></size>
+<style="creditsValue">Мальцев\n\n</style>
+<style="creditsLabel">Заглавный</style>
+<size=3><sprite=0></size>
+<style="creditsValue">Мальцев\n\n</style>
+level8	132	НАЗАД
+level8	169	playerBack
+resources.assets	1174	RobotoMono-Italic SDF
+resources.assets	1174	Roboto Mono
+resources.assets	1175	RobotoMono-Regular SDF
+resources.assets	1177	question
+resources.assets	1177	question_0
+resources.assets	1178	alexander
+resources.assets	1178	user
+resources.assets	1178	finishTutorial
+resources.assets	1178	2/18/2016 6:24:50 PM
+resources.assets	1178	scan100Systems
+resources.assets	1178	2/18/2016 6:24:20 PM
+resources.assets	1178	make300Jumps
+resources.assets	1178	2/18/2016 6:24:34 PM
+resources.assets	1178	Achieved description
+resources.assets	1178	Unachieved description
+resources.assets	1178	finishedWithFewDockings
+resources.assets	1178	findMessenger1
+resources.assets	1178	findMessenger2
+resources.assets	1178	findMessenger3
+resources.assets	1178	findMessenger4
+resources.assets	1178	findMessenger5
+resources.assets	1178	askAboutSR3AtBanket
+resources.assets	1178	resaleRareArtefactTwice
+resources.assets	1178	loseAllClothesInMinistry
+resources.assets	1178	findForkInPrison
+resources.assets	1178	useCircularSawInEdelweiss
+resources.assets	1178	winRoachRaceInPrison
+resources.assets	1178	makeKinzaCocktailInBanket
+resources.assets	1178	cynicPlanForElection
+resources.assets	1178	complete20quests
+resources.assets	1178	completeSameQuest10Times
+resources.assets	1178	win20Fights
+resources.assets	1178	repairShip50Times
+resources.assets	1178	earn100000Credits
+resources.assets	1178	useTeleportDevice
+resources.assets	1178	completeAllQuestsInCurrentGame
+resources.assets	1178	buy1000FuelUnits
+resources.assets	1178	finishedWithNotMoreThan10Scans
+resources.assets	1178	upgradeAllToMaximum
+resources.assets	1178	finishGame
+resources.assets	1178	finishGameTrader
+resources.assets	1178	finishGamePirate
+resources.assets	1178	finishGameSoldier
+resources.assets	1178	finishFinalQuestAtFirstAttempt
+resources.assets	1178	finishWithoutUpgrades
+resources.assets	1178	revealAllSectors
+resources.assets	1178	scanAllStarSystems
+resources.assets	1178	visitAllStarSystems
+resources.assets	1178	waste20PercentMoneyInSingleEvent
+resources.assets	1178	digEscapeFromPrison
+resources.assets	1178	throwAlcoholInDopplegangerInBadday
+resources.assets	1178	distractSpiderWithBreadInBadday
+resources.assets	1178	returnDressToPelengessInBadday
+resources.assets	1178	caveInInBorzukhan
+resources.assets	1178	impressCrowdInMuzon
+resources.assets	1178	setBombInToiletInBorzukhan
+resources.assets	1178	demolishSafeInDriver
+resources.assets	1178	getOver90MaloqVotesInElection
+resources.assets	1178	getDoubleAntidoteInDrugs
+resources.assets	1178	exceedCreditTimeLimit
+resources.assets	1178	badmouthACollectorAchievement
+resources.assets	1178	make3JumpsWithoutRefuel
+resources.assets	1178	escapeFromCollectorsFor10Times
+resources.assets	1180	Rate My App
+resources.assets	1180	If you enjoy using Native Plugin would you mind taking a moment to rate it? It wont take more than a minute. Thanks for your support
+resources.assets	1180	Rate It Now
+resources.assets	1180	Remind Me Later
+resources.assets	1180	No, Thanks
+resources.assets	1180	CgkI9I-F9oUKEAIQAQ
+resources.assets	1180	CgkI9I-F9oUKEAIQAg
+resources.assets	1180	CgkI9I-F9oUKEAIQAw
+resources.assets	1180	CgkI9I-F9oUKEAIQBA
+resources.assets	1180	CgkI9I-F9oUKEAIQBQ
+resources.assets	1180	CgkI9I-F9oUKEAIQBg
+resources.assets	1180	CgkI9I-F9oUKEAIQBw
+resources.assets	1180	CgkI9I-F9oUKEAIQCA
+resources.assets	1180	CgkI9I-F9oUKEAIQCQ
+resources.assets	1180	CgkI9I-F9oUKEAIQEQ
+resources.assets	1180	CgkI9I-F9oUKEAIQEg
+resources.assets	1180	CgkI9I-F9oUKEAIQGQ
+resources.assets	1180	CgkI9I-F9oUKEAIQHA
+resources.assets	1180	CgkI9I-F9oUKEAIQHg
+resources.assets	1180	CgkI9I-F9oUKEAIQHQ
+resources.assets	1180	CgkI9I-F9oUKEAIQJQ
+resources.assets	1180	CgkI9I-F9oUKEAIQHw
+resources.assets	1180	CgkI9I-F9oUKEAIQCw
+resources.assets	1180	CgkI9I-F9oUKEAIQDA
+resources.assets	1180	CgkI9I-F9oUKEAIQDQ
+resources.assets	1180	CgkI9I-F9oUKEAIQDg
+resources.assets	1180	CgkI9I-F9oUKEAIQGg
+resources.assets	1180	CgkI9I-F9oUKEAIQDw
+resources.assets	1180	CgkI9I-F9oUKEAIQEA
+resources.assets	1180	CgkI9I-F9oUKEAIQFQ
+resources.assets	1180	CgkI9I-F9oUKEAIQEw
+resources.assets	1180	CgkI9I-F9oUKEAIQFA
+resources.assets	1180	CgkI9I-F9oUKEAIQCg
+resources.assets	1180	CgkI9I-F9oUKEAIQFw
+resources.assets	1180	CgkI9I-F9oUKEAIQGA
+resources.assets	1180	CgkI9I-F9oUKEAIQFg
+resources.assets	1180	CgkI9I-F9oUKEAIQIA
+resources.assets	1180	CgkI9I-F9oUKEAIQIQ
+resources.assets	1180	CgkI9I-F9oUKEAIQIg
+resources.assets	1180	CgkI9I-F9oUKEAIQIw
+resources.assets	1180	CgkI9I-F9oUKEAIQJA
+resources.assets	1180	CgkI9I-F9oUKEAIQGw
+resources.assets	1180	CgkI9I-F9oUKEAIQJg
+resources.assets	1180	CgkI9I-F9oUKEAIQJw
+resources.assets	1180	CgkI9I-F9oUKEAIQKA
+resources.assets	1180	CgkI9I-F9oUKEAIQKg
+resources.assets	1180	CgkI9I-F9oUKEAIQKw
+resources.assets	1180	CgkI9I-F9oUKEAIQLA
+resources.assets	1180	CgkI9I-F9oUKEAIQLQ
+resources.assets	1180	CgkI9I-F9oUKEAIQLg
+resources.assets	1180	CgkI9I-F9oUKEAIQLw
+resources.assets	1180	CgkI9I-F9oUKEAIQMA
+resources.assets	1180	CgkI9I-F9oUKEAIQMQ
+resources.assets	1180	CgkI9I-F9oUKEAIQMg
+resources.assets	1180	CgkI9I-F9oUKEAIQMw
+resources.assets	1180	CgkI9I-F9oUKEAIQNA
+resources.assets	1180	Awesome! Achievement # completed.
+resources.assets	1180	winDoominoInOneTurn
+resources.assets	1180	makeCoctailInDeadOrAlive
+resources.assets	1180	bribeCopWithVodkaInAmnesia
+resources.assets	1180	destroyChildcareInBomber
+resources.assets	1180	destroyDamInBomber
+resources.assets	1180	launchNuclearMissileInCitadels
+resources.assets	1180	build25000DroidsInColonization
+resources.assets	1182	box
+resources.assets	1182	button
+resources.assets	1182	toggle
+resources.assets	1182	label
+resources.assets	1182	textfield
+resources.assets	1182	textarea
+resources.assets	1182	window
+resources.assets	1182	horizontalslider
+resources.assets	1182	horizontalsliderthumb
+resources.assets	1182	verticalslider
+resources.assets	1182	verticalsliderthumb
+resources.assets	1182	horizontalscrollbar
+resources.assets	1182	horizontalscrollbarthumb
+resources.assets	1182	horizontalscrollbarleftbutton
+resources.assets	1182	horizontalscrollbarrightbutton
+resources.assets	1182	verticalscrollbar
+resources.assets	1182	verticalscrollbarthumb
+resources.assets	1182	verticalscrollbarupbutton
+resources.assets	1182	verticalscrollbardownbutton
+resources.assets	1182	scrollview
+resources.assets	1182	sub-title
+resources.assets	1183	TMP Default Style Sheet
+resources.assets	1183	creditsLabel
+resources.assets	1183	<size=50><color=#2fd6fa>
+resources.assets	1183	</color></size>
+resources.assets	1183	creditsValue
+resources.assets	1183	<size=50>
+resources.assets	1183	</size>
+resources.assets	1183	creditsLine
+resources.assets	1183	<size=3><sprite=0></size>
+resources.assets	1184	TMP Settings
+sharedassets0.assets	244	Roboto-Medium SDF
+sharedassets0.assets	245	Roboto-MediumItalic SDF
+sharedassets0.assets	252	Очень много текста. 
+sharedassets3.assets	1035	Здесь будет какой-нибудь текст про телепорт
+sharedassets3.assets	1039	Sample text
+sharedassets3.assets	1042	Защита от пиратов и прочего отребья - 100%
+sharedassets3.assets	1052	ИСПОЛЬЗОВАТЬ
+sharedassets3.assets	1053	use
+sharedassets3.assets	1064	<color=#ffdb14ff>10</color> ЗАРЯДОВ
+sharedassets6.assets	11	Тюрьма
+sharedassets8.assets	13	Руководители проекта и\nигровой дизайн
+sharedassets8.assets	14	Михаил Белов
+Александр Смирнов

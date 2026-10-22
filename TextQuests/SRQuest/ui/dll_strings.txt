@@ -1,0 +1,1532 @@
+< @!A#K%Z&b)c/f1i2m3nAoB{C
+Кшѿ҅ҍҷӌӔӜ
+/.76=<YX]\^\gf}|
+tOBAFGKMLT
+hintTransform.position: 
+Common
+FPS Counter
+Memory Counter
+Device info
+<b>Public API usage examples</b>
+Operation Mode
+Hot Key
+None (disabled)
+BackQoute (`)
+Keep Alive
+Force FPS
+Pixel offset X
+Pixel offset Y
+Font Size
+Line spacing
+Enabled
+UpperLeft
+UpperRight
+LowerLeft
+LowerRight
+Update Interval
+Average FPS
+Samples
+Reset Average On New Scene Load
+Reset now!
+MinMax FPS
+Reset MinMax On New Scene Load
+Precise (uses more system resources)
+Show total reserved memory size
+Show allocated memory size
+Show mono memory usage
+Show CPU model and maximum threads count
+Show GPU model and total VRAM count
+Show total RAM size
+Show resolution, window size and DPI (if possible)
+<b>Raw counters values</b> (read using API)
+  FPS: 
+  AVG: 
+
+  MIN: 
+  MAX: 
+  Memory (Total, Allocated, Mono):
+  
+{0:F2}
+Advanced FPS Counter
+Advanced FPS Counter is placed in scene incorrectly and will be auto-destroyed! Please, use "GameObject->Create Other->Code Stage->Advanced FPS Counter" menu to correct this!
+RefreshForcedFrameRate
+<color=#
+CPU: 
+ threads)
+GPU: 
+ (SM: 2.0
+ (SM: 3.0
+ (SM: 4.0
+ (SM: 4.1
+ (SM: 5.0
+, VRAM: 
+(VRAM: 
+RAM: 
+Screen: 
+Hz (window size: 
+, DPI: 
+</color>
+</b></color>
+UpdateFPSCounter
+</b></color> 
+<color=#{0}><b>FPS: 
+
+<color=#{0}><b>MIN: 
+<color=#{0}><b>MAX: 
+ <color=#{0}><b>AVG: 
+<color=#{0}><b>
+MEM (total): 
+{0:F}
+MEM (alloc): 
+MEM (mono): 
+UpdateMemoryCounter
+Starting Console Pro Server on port : 
+http://*:
+CPIGNORE
+/NewLogs
+Not Found
+text/plain
+Spawn
+Spawn prefab 1
+Spawn prefab 2
+Spawn prefab 3
+Spawn prefab 4
+Spawn 20 Prefabs
+Item at index 
+ in the Pool has no prefab !
+Duplicates found in the Pool : 
+EZ_PoolManager created Pool Item for missing item : 
+No Transform passed to Spawn() !
+ passed to Spawn() is not in the Pool Manager.
+No Transform passed to Despawn() !
+ passed to Despawn() is not in the Pool.
+ has been recycled. Despawning and Spawning Immediately.
+ has used up all the free preallocated instances. Please increase your Preload Amount.
+ has already reached its hard limit. Please increase your hard limit Qty.
+EZ_PoolManager Instantiated an extra '
+User cannot destroy a gameobject while in the despawnedList.
+EZ_PoolManager spawned 
+OnSpawned
+OnDespawned
+EZ_PoolManager despawned 
+ Culled!
+Mono.Security.ASN1
+Value
+Your scene already contains a 
+, merging & destroying the old one...
+atlas
+Для проверки подлинности копии игры требуется соединение с интернетом. После успешной проверки вы сможете играть без соединения с интернетом.
+Internet connection required for game copy verification. After the successful verification you can play without internet connection.
+Вы используете нелицензионную копию игры. Обратитесь в Google Play для приобретения лицензионной копии.
+You are using a counterfeit copy of the game. Please contact Google Play to purchase a licenced copy.
+Внутрення ошибка проверки лицензии. Попробуйте запустить игру позже или обратитесь в поддержку.
+Licence verification internal error. Try again later or contact support.
+AMEUAaV1o24ySksVCcHNjJL+VEhyAbg3eb7TaNlb0JHKZPqv84SswJsvRN3yS5VCFCVhN9XPERyItvQAjQoPcRh+TQKyaqEmCdHtEFiSddGLJb5KoZgruSIQ7PZlNqVotWgXQpaIo+BYDLTL0xEm3fbGfJBVgClhV1zMYv9/6IUv8DS6T0VU7QNlDBdE3MLou1ifgKxShuiafyeHMCzbglpNfZyn1C3K0D/MQSJOcryORGkJAFeme6XFsxsw2b6IQgDTPwLaSZ5YGyPVwd3B6HbCeWtK7o0lIsPp/5ZM36DgKB1+IKwJRfNA37+9YBgUxzElzcku1c23OCdimYFYnAU=
+com.unity3d.player.UnityPlayer
+currentActivity
+getPackageName
+getCacheDir
+getPath
+/classes.jar
+/odex
+dalvik.system.DexClassLoader
+getClassLoader
+findClass
+com.unity3d.plugin.lvl.ServiceBinder
+validation
+_arg0
+_arg1
+_arg2
+<Failed>
+<Invalid Signature>
+<Response Mismatch>
+FILE_URL1
+FILE_URL2
+FILE_NAME1
+FILE_NAME2
+FILE_SIZE1
+FILE_SIZE2
+LVL result {0}, retry {1}, timeout {2}
+English
+https://play.google.com/store/apps/details?id=
+[Singleton] Instance '
+' already destroyed on application quit. Won't create again - returning null.
+[Singleton] Something went really wrong  - there should never be more than 1 singleton! Reopening the scene might fix it.
+(singleton) 
+[Singleton] An instance of 
+ is needed in the scene, so '
+' was created with DontDestroyOnLoad.
+/DLCs
+Can't create DLC directory
+UNITY_STANDALONE_WIN
+Using url: 
+Is DLC Active 
+Unknown dlc name: 
+DlcController: OnApplicationQuit
+DLC is downloaded: 
+Download: 
+ cancelled
+_MainTex
+_BumpMap
+_SpecTex
+Ship0{0}_diff
+Ship0{0}_normal
+Ship0{0}_add
+Start loading bundle
+Loading finished
+tracks
+Added track: 
+Register_
+Please override CreateInstance for 
+; the object graph for 
+ can contain potentially contain cycles, so separated instance creation is needed
+ expected one of 
+ but got 
+ expected 
+ requires a <
+> key in the data 
+Unable to find member "
+preWrapMode
+postWrapMode
+center
+alphaKeys
+colorKeys
+value
+tangentMode
+inTangent
+outTangent
+FullSerializer Internal Error -- Unexpected serialization type
+Date deserialization requires a string, not 
+Unable to parse 
+ into a DateTime
+ into a DateTimeOffset
+ into a TimeSpan
+FullSerializer Internal Error -- Unexpected deserialization type
+ does not extend ICollection
+Cannot find enum name 
+ on type 
+EnumConverter encountered an unknown JSON data type
+Please use the [fsForward(...)] attribute.
+No property named "
+" on 
+fsGuidConverter encountered an unknown JSON data type
+get_Item
+set_Item
+Clear
+Count
+Enqueue
+Unhandled primitive type 
+ expected number but got 
+: Bad data; expected bool, number, string, but got 
+Type converter requires a string
+Unable to find type 
+Target
+TrackResurrection
+Internal Error - Mismatched Enter/Exit
+Internal Deserialization Error - Object definition has not been encountered for object with id=
+; have you reordered or modified the serialized data? If this is an issue with an unmodified Full Json implementation and unmodified serialization data, please report an issue with an included test case.
+Internal Error - 
+ has already been marked as serialized
+fsOption is empty
+float
+double
+string
+There is no migration path from "
+" to "
+fsObject attribute on 
+ contains a PreviousModels specifier - it must also include a VersionString modifier
+Unable to create versioned type for ancestor 
+; please add an [fsObject(VersionString="...")] attribute
+fsVersionedType [ModelType=
+, VersionString=
+, Ancestors.Length=
+>k__BackingField
+Cannot create an instance of an interface or abstract type for 
+Unable to create instance of 
+; there is no default constructor
+Constructor of 
+ threw an exception when creating an instance
+Unable to access constructor of 
+GetInterface requires that if the interface type is generic, then it must be the generic type definition, not a specific generic type instantiation
+using System;
+using System.Collections.Generic;
+namespace FullSerializer {
+    partial class fsConverterRegistrar {
+        public static Speedup.
+_DirectConverter Register_
+    }
+namespace FullSerializer.Speedup {
+    public class 
+_DirectConverter : fsDirectConverter<
+        protected override fsResult DoSerialize(
+ model, Dictionary<string, fsData> serialized) {
+            var result = fsResult.Success;
+            result += SerializeMember(serialized, "
+", model.
+            return result;
+        }
+        protected override fsResult DoDeserialize(Dictionary<string, fsData> data, ref 
+ model) {
+            var t
+ = model.
+            result += DeserializeMember(data, "
+", out t
+            model.
+        public override object CreateInstance(fsData data, Type storageType) {
+            return new 
+            return Activator.CreateInstance(typeof(
+), /*nonPublic:*/true);
+There is no context object of type 
+unknown JSON data type
+Unable to cast <
+> (with type = 
+) to type 
+Unknown data type
+ is missing a constructor for previous model type 
+ and 
+ have the same version string (
+); please change one of them.
+Please ensure the converter for 
+ actually returns an instance of it, not an instance of 
+Error while parsing: 
+; context = <
+Unexpected end of input after \
+invalid escape sequence '\u{0}{1}{2}{3}'
+
+Invalid escape sequence \{0}
+Expected 
+Unexpected end of content when parsing 
+false
+Infinity
+-Infinity
+Bad double format with 
+Bad Int64 format with 
+Expected initial " when parsing a string
+Unexpected end of input when reading a string
+No closing " when parsing a string
+Expected initial [ when parsing an array
+Unexpected end of input when parsing an array
+No closing ] for array
+Expected initial { when parsing an object
+Unexpected end of input when parsing an object
+Expected : after key "
+No closing } for object
+Unexpected end of input
+unable to parse; invalid token "
+No input
+Only a failed result can be converted to an exception
+$type
+$version
+$content
+ReferenceId
+SourceId
+Cannot add a single converter instance to multiple fsConverters -- please construct a new instance for 
+Unable to add converter 
+; the type association strategy is unknown. Please use either fsDirectConverter or fsConverter as your base type.
+Internal error -- could not find a converter for 
+$type value must be a string (in 
+Unable to locate specified type "
+Ignoring type specifier; a field/property of type 
+ cannot hold an instance of 
+More than two sectors share one face: {0}, {1}, {2}
+VectorLineSegment: {0}, Sector1: {1}, Sector2: {2}
+BusinessCenter
+MedicalCenter
+MilitaryBase
+PirateBase
+ScienceBase
+Avior
+Alioth
+Alphekka
+Aldiba
+Altair
+Alphard
+Antares
+Arcturus
+Atria
+Bellatrix
+Betelgeuse
+Deneb
+Denebola
+Diadem
+Zavia
+Itsar
+Canopus
+Capella
+Castor
+Marcab
+Megrez
+Menkar
+Mufrid
+Nakkar
+Pollux
+Procyon
+Rastaban
+Regulus
+Rigel
+Turais
+Fomalhaut
+Hamal
+Scheat
+Schedar
+Akharra
+Al Dagor
+Arcabe
+Arrakis
+Atlas
+Bakhar
+Veles
+Vinnatrix
+Hever
+Gralgar
+Diatar
+Cephron
+Minnaver
+Murratz
+Oseum
+Orion
+Pkhedoc
+Saphrona
+Sezerke
+Sezmen
+Celiostre
+Tallot
+Taron
+Ukphal
+Felgeste
+Hemni
+Tzufai
+Shomma
+Euron
+Yufalli
+GalaxyGenerator: GenerateVoronoi finished
+GalaxyGenerator: GenerateStars finished
+GalaxyGenerator: GetAdjacentEdges finished
+GalaxyGenerator: GetInitialSystem finished
+GalaxyGenerator: AddBasesToSectors finished
+GalaxyGenerator: AddQuestToSystems finished
+GalaxyGenerator: AddMessengers finished
+Mean distance = 
+Quest 
+) goes to 
+Edge is not adjacent: {0}
+Finished distibution of bases
+InitialBounds are invalid: 
+Bounds are invalid: 
+Systems without spectral pair:
+Final location: 
+hintStarStellarClass
+hintStarMasterRace
+hintStarRaces
+hintStarRace
+hintStarExcludedRace
+hintStarBaseType
+hintStarBaseCountNo
+hintStarBaseCountOne
+hintStarBaseCountTwo
+hintStarBaseCount
+hintSectorName
+hintSectorStarCount
+hintSystemName0
+hintSystemName1
+hintFinalSystem
+hintDistance
+parsec
+Tutorial
+Episode00
+Banket
+Rg_0004
+Doomino
+Prison
+Edelweiss
+Deadoralive
+Election
+Amnesia
+Badday
+Bomber
+Borzukhan
+Citadels
+Colonization
+Drugs
+Fight
+Credit
+Ministry
+Muzon
+Driver
+Sibolusovt
+AllStationPeni
+ext_Plot
+ACH_SCANS
+STAT_SYSTEMS_SCANNED
+ACH_JUMPS
+STAT_HYPERJUMPS
+ACH_ESCAPE_ARTIST
+STAT_ENFORCEMENT_ESCAPED
+ACH_BATTLES
+STAT_BATTLES_WON
+ACH_REPAIR
+STAT_SHIP_REPAIRS
+ACH_FUEL
+STAT_FUEL_PURCHASED
+ACH_TUTORIAL
+ACH_LONER
+ACH_PREQUEL
+ACH_SEQUEL
+ACH_FILLER
+ACH_SPINOFF
+ACH_REMAKE
+ACH_VANGA
+ACH_ARTEFACT
+ACH_FORK
+ACH_SAW
+ACH_ROACH
+ACH_ELECTION
+ACH_PRISON_ESCAPE
+ACH_FEED_SPIDER
+ACH_DRESS
+ACH_BOMB
+ACH_LOAN
+ACH_MARATHON
+ACH_NAKED
+ACH_BARMEN
+ACH_THROW_ALCOHOL
+ACH_CAVEIN
+ACH_MUZON
+ACH_BLOW_SAFE
+ACH_MILITARISM
+ACH_DOUBLE_CURE
+ACH_PRANK
+ACH_QUESTS_DIFF
+ACH_QUESTS_SAME
+ACH_MONEY
+ACH_TELEPORT
+ACH_ALL_QUESTS
+ACH_MIN_SCANS
+ACH_UPGRADE
+ACH_FINITA
+ACH_TRADER
+ACH_PIRATE
+ACH_WARRIOR
+ACH_FINAL_QUEST
+ACH_NO_UPGRADE
+ACH_MAP
+ACH_ALL_SCAN
+ACH_ALL_VISIT
+ACH_LOSER
+finishTutorial
+scan100Systems
+finishedWithFewDockings
+make300Jumps
+findMessenger
+askAboutSR3AtBanket
+resaleRareArtefactTwice
+findForkInPrison
+useCircularSawInEdelweiss
+winRoachRaceInPrison
+cynicPlanForElection
+digEscapeFromPrison
+distractSpiderWithBreadInBadday
+returnDressToPelengessInBadday
+setBombInToiletInBorzukhan
+exceedCreditTimeLimit
+make3JumpsWithoutRefuel
+escapeFromCollectorsFor10Times
+loseAllClothesInMinistry
+makeKinzaCocktailInBanket
+throwAlcoholInDopplegangerInBadday
+caveInInBorzukhan
+impressCrowdInMuzon
+demolishSafeInDriver
+getOver90MaloqVotesInElection
+giveAnimalDoubleDrugInSibolusovt
+badmouthACollector
+complete20quests
+completeSameQuest10Times
+win20Fights
+repairShip50Times
+earn100000Credits
+useTeleportDevice
+completeAllQuestsInCurrentGame
+buy1000FuelUnits
+finishedWithNotMoreThan10Scans
+upgradeAllToMaximum
+finishGame
+finishGameTrader
+finishGamePirate
+finishGameSoldier
+finishFinalQuestAtFirstAttempt
+finishWithoutUpgrades
+revealAllSectors
+scanAllStarSystems
+visitAllStarSystems
+waste20PercentMoneyInSingleEvent
+achievement.PercentageCompleted =  
+ReportProgressWithGlobalID gid: 
+ score: 
+deliveryDestinationFormat
+ext_DeliveryTime
+ext_BaseDeliveryPayment
+ext_BaseDeliveryTime
+loanNormal
+loanOverdue
+stimulantRemaining
+ext_Teleport
+teleportDescription
+teleportUsesLeft
+nothingFoundAfterScan
+Prefinal quest: 
+Final quest: Episode07c
+Episode07c
+randomMessengerFound
+_Reward
+Stimulant duration changed!
+ext_Luck
+Player just got a hint: 
+Outro
+Episode06a
+Episode06b
+UnexpectedArrest
+Compensation
+CompensationJailbreak
+ext_PirateDefence
+ext_TimeDefence
+pirateDefenseRemaining
+ext_RateEscort
+ext_TimeEscort
+escortRemaining
+ext_Delivery
+ext_DeliveryPayment
+deliveryRemaining
+ext_Credit
+ext_TimeCredit
+ext_PercentCredit
+ext_Money
+ext_Fuel
+ext_Structure
+ext_LevelTank
+ext_LevelEngine
+ext_LevelCannon1
+ext_LevelCannon2
+ext_LevelCannon3
+ext_LevelCannon4
+ext_LevelCannon5
+ext_PriceMap
+ext_PlayerBuysMap
+ext_PriceRepair
+ext_PriceUpEngine
+ext_PriceUpTank
+ext_PriceUpCannon1
+ext_PriceUpCannon2
+ext_PriceUpCannon3
+ext_PriceUpCannon4
+ext_PriceUpCannon5
+ext_PriceDefence
+ext_PriceEscort
+ext_PriceStimulantOne
+ext_StimulantOneTime
+ext_PriceStimulantTwo
+ext_StimulantTwoTime
+ext_MaxStructure
+ext_LevelHull
+ext_PriceUpHull
+ext_SmallTimeCredit
+ext_SmallPctCredit
+ext_BigTimeCredit
+ext_BigPctCredit
+ext_Hint
+ext_Way
+ext_TimeForStimOne
+ext_TimeForStimTwo
+ext_WhyAttack
+ext_Peni
+ext_WhoRanger
+ext_LevelShield
+ext_PriceUpShield
+ext_FightBonus
+There should be exactly 4 engine levels
+language
+PlanetNames/
+Solar
+Faeyan
+Gaalian
+Human
+Maloq
+Peleng
+Unknown planet names file: 
+Default Ranger
+QuestDescriptions/
+Final
+Credits
+@sqrt
+Error: can't read char decimal separator from system, check your regional settings.
+Expression is null or empty
+Number of left and right parenthesis is not equal
+Format exception, there is function without parenthesis
+Unknown token
+Unknown token in expression
+Unknown operator
+Excess operand
+Second argument is zero
+Player: ChangeTrack
+Start Playing
+Play fadeDuration: 
+Player: Play
+Pause fadeDuration: 
+VolumeMusic
+Selection
+Transition
+NewGame
+GAME GENERATION FINISHED!
+Brackets are not balanced in 
+Invalid symbol in expression 
+Incomplete operation 
+Incomplete operation in expression 
+Unknown operation in expression 
+Incomplete expression in expression 
+Failed to compose: 
+Empty range: 
+Incomplete range: 
+Invalid symbol '
+' in range: 
+Invalid range: 
+' in expression 
+Missing range: 
+Failed to link to: {0} in expression
+Param not found for variable: 
+Quest load buffer length exceeded
+QuestName: {0}, Version not supported: {1}
+ string 
+ critical message
+path 
+ start message
+ end message
+ delta for 
+location 
+ description 
+QuestName: {0} Can't find starting location
+QuestName: {0} No available answers. Location index: {1}
+QuestName: {0} Can't find location {1}
+QuestName: {0} No critical event
+Range random error
+<Player>
+<Ranger>
+<ToPlanet>
+<ToStar>
+<FromPlanet>
+<FromStar>
+<DeliveryFromStar>
+<DeliveryToStar>
+<Day>
+<Date>
+<Money>
+<CurDate>
+<StationName>
+<SectorMap>
+<StimulantOne>
+<StimulantTwo>
+<StimulantOneText>
+<StimulantTwoText>
+<Hint>
+<EngineStatsNow>
+<TankStatsNow>
+<HullStatsNow>
+<EngineStatsNext>
+<TankStatsNext>
+<HullStatsNext>
+.bytes
+Quests/Story/
+Quests/
+Loading quest data from external path: {0}
+Loading quest data from resources path: {0}
+spaceBaseTitle
+Tutorial_station
+ActivityType: {0}, QuestName: {1}
+{0}, Type: {1}, TimesCanOccure: {2}, Probability: {3}
+{0}, SpecialQuestType: {1}
+/autosave.sav
+/autosave.bak
+Russian
+QuestPlayer
+Space
+01234567890123456789012345678901
+Is Running: 
+ Last id: 
+ Queue Size: 
+ Queued Ids: 
+ Cancelled Ids: 
+UI/LoadScreen
+GunIntVal
+ShowCircle
+ShowGun
+Can't find quest file for quest name: 
+QuestList
+<clr>
+<color=#{0}>
+listener
+MsgContinue
+MsgSuccess
+MsgFail
+MsgDeath
+OnCalculatorToogleChanged: isActive = 
+calculatorError
+0.###
+calculatorErrorDivideByZero
+exitToMenuConfirmation
+fontSizeVerySmall
+fontSizeSmall
+fontSizeNormal
+fontSizeLarge
+fontSizeVeryLarge
+settingsLanguageChangeWarning
+fullCredits
+<creditValue>
+</creditValue>
+<creditName>
+</creditName>
+OnDebugModeChanged: 
+ GO's name: 
+<color=#ffc900>
+<clrEnd>
+finishVictoryText
+finishDeathText
+newGameIntro1
+newGameIntroNextButtonText1
+tutorialOffer
+newGameIntro2
+newGameIntroNextButtonText2
+playerExpand
+playerCollapse
+OffsetMin: 
+teleportUsesLeftLabel
+spaceMapCanJump
+spaceMapCanNotJumpNotEnoughtFuel
+spaceMapCanNotJumpWeakEngine
+spaceMapTeleport
+spaceMapBrowsing
+spaceMapHint
+spaceMapTeleportHint
+playerHide
+playerShow
+<line-indent=5em>
+activityType
+infoPanelTitle
+quest
+infoPanelQuestNone
+Horizontal
+Vertical
+Submit
+Cancel
+JumpShipReset
+JumpShip
+ (English)
+ (Русский)
+mainMenuNewGameDisclaimer
+mainExitConfirmation
+Quests/Eng
+Quests/Rus
+Удача: {0}%
+settingsNotInstalled
+Process
+Not Downloaded
+dlcDownloadNoInternetConnection
+dlcDownloadSizeWarning
+Downloaded
+UpdateState downloaded: 
+ isEnabled: 
+settingsOn
+settingsOff
+dlcDeleteDlcWarning
+OnAuthenticationCompletion: success = 
+ error = 
+ShowAchievementsUI OnCompleted: error = 
+{0:00}:{1:00}
+с разбегу
+абакус
+ландаун
+charge
+yupana
+landown
+newGameEmptyNameHint
+newGameReservedNameHint
+newGameRangerNameFormat
+newGameRangerNameUnknown
+newGameRangerNameDefault
+[\s]{2,}
+transform.position: 
+<format=(?<align>(left|right|center)),\s*(?<lenght>[0-9]+)>(?<text>.*?)</format>
+<color\s*=\s*(?<red>[0-9]+),\s*(?<green>[0-9]+),\s*(?<blue>[0-9]+)>
+{0} {1} {2}
+monthJanuary
+monthFebruary
+monthMarch
+monthApril
+monthMay
+monthJune
+monthJuly
+monthAugust
+monthSeptember
+monthOctober
+monthNovember
+monthDecember
+month
+<fix>
+<font="RobotoMono-Regular SDF">
+</fix>
+</font>
+<format>
+</format>
+prisonLeave
+prisonEscape
+align
+lenght
+right
+green
+<color=#{0}>{1}</color>
+tutorialExitNotAvailable
+prisonExitNotAvailable
+exitNotAvailable
+deliveryFailed
+spaceBaseTitleColored
+dockingCount
+{0:0,#}
+{0:0.#}
+fuelStatusTextTemplate
+fuelConfirmationTextTemplate
+liter
+<line-indent=3em>
+<TutorDestinationSystem>
+<TutorSectorName>
+{0}/{1}
+messengerVisitedLabel
+scanPanelScanned
+scanPanelNotScanned
+scanAlreadyScanned
+scanConfirmation
+<color=#FFC900FF>
+ cr</color>
+scanFree
+scanNotAvailable
+<color=#ffc900>{0}</color> {1}
+settingsVolume
+luckStage
+bonus
+<color=#EDC111FF>
+<size=50><sprite=0></size>
+textPanelTitleBonuses
+textPanelTitleQuests
+textPanelTitleOther
+isMultitouchGesture
+OnPointerDown
+OnPointerClick
+Edge 
+; sites 
+; endVertices 
+Halfedge (leftRight: 
+; vertex: 
+Site 
+XXX: Null detected when there should be a Vector2!
+SiteList::next():  sites have not been sorted
+Vertex (
+Circle (center: 
+; radius: 
+P0: {0}, P1: {1}
+ stopped
+Player: FadeIn
+runaway
+raceHuman
+raceGaalian
+raceFaeyan
+racePeleng
+raceMaloq
+baseMilitaryBase
+baseScienceCenter
+baseBusinessCenter
+basePirateBase
+baseMedicalCenter
+baseType
+Ships/diff
+Ships/norm
+Ships/add
+     !!!!!     EXCEPTIONS     !!!!!
+     !!!!!     USUAL LOG     !!!!!
+/dumplog_
+yyyyMMddHHmmss
+ChangeOffset
+muted
+debug_mode
+player_should_play
+player_track
+player_volume
+answer_panel_height
+theme_style
+font_size
+space_font_size
+calc_memory_last_index_
+calc_memory_
+sound_volume
+Application.systemLanguage = 
+dlc_active_
+show_fps
+global_completed_quests
+ui_scale
+dialog_scale
+QuestImages/
+Can't load image {0}
+.frames have been sorted alphabetically.
+Can't play sound {0}. All AudioSources are busy
+No translation for string: {0}
+<color=#ff0000>NO TRANSLATION!</color>
+canvasFactor: 
+/autosave_
+Started Updating Materials
+Finished Updating Materials
+InlineGraphicManager component is now Obsolete and can safely be removed from Object [
+TMP Settings
+Sprite Assets/Default Sprite Asset
+Inline Graphic
+No Sprite Asset is assigned.
+Sprite index exceeds the number of sprites in this Sprite Asset.
+Selected Shader does not support Stencil Masking. Please select the Distance Field or Mobile Distance Field Shader.
+ Masking ID:
+No Masking Material exists for 
+Removed (1) reference to 
+. There are 
+ references left.
+Removed last reference to 
+ with ID 
+Material List has already been cleared.
+Fonts & Materials/ARIAL SDF
+Kerning Key for [
+] and [
+] already exists.
+LineBreaking Leading Characters
+LineBreaking Following Characters
+TMPro/Sprite
+Style Sheets/TMP Default Style Sheet
+TMP SubMesh [
+ (Instance)
+TMP UI SubObject [
+Can't Generate Mesh! No Font Asset has been assigned to Object ID: 
+Unable to add underline since the Font Asset doesn't contain the underline character.
+Underscore character wasn't found in the current Font Asset. No characters assigned for Underline.
+Ellipsis character wasn't found in the current Font Asset. No characters assigned for Underline.
+Fonts & Materials/
+Sprites/
+-------------------------------- !-#$%&-()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[-]^_`abcdefghijklmnopqrstuvwxyz{|}~-
+-------------------------------- !-#$%&-()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[-]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~-
+Perform update of MeshRenderer objects.
+Min (
+)   Max (
+lineLength set called.
+Converting Vertex Colors from Color32 to Color.
+Please assign a Font Asset to this 
+ gameobject.
+The ARIAL SDF Font Asset was not found. There is no Font Asset assigned to 
+Dictionary is Null!
+_CullMode
+_ZTestMode
+ Instance
+Character with ASCII value of 
+ was not found in the Font Asset Glyph Table.
+ERROR: Cannot Match both Vertical & Horizontal.
+BEVEL_ON
+GLOW_ON
+UNDERLAY_ON
+RATIOS_OFF
+MASK_SOFT
+MASK_HARD
+MASK_TEX
+_FaceTex
+_FaceColor
+_FaceDilate
+_FaceShininess
+_UnderlayColor
+_UnderlayOffsetX
+_UnderlayOffsetY
+_UnderlayDilate
+_UnderlaySoftness
+_WeightNormal
+_WeightBold
+_OutlineTex
+_OutlineWidth
+_OutlineSoftness
+_OutlineColor
+_GradientScale
+_ScaleX
+_ScaleY
+_PerspectiveFilter
+_TextureWidth
+_TextureHeight
+_Bevel
+_LightAngle
+_Cube
+_EnvMatrix
+_EnvMatrixRotation
+_GlowColor
+_GlowOffset
+_GlowPower
+_GlowOuter
+_MaskCoord
+_ClipRect
+_UseClipRect
+_MaskSoftnessX
+_MaskSoftnessY
+_VertexOffsetX
+_VertexOffsetY
+_Stencil
+_StencilOp
+_StencilComp
+_StencilReadMask
+_StencilWriteMask
+_ShaderFlags
+_ScaleRatioA
+_ScaleRatioB
+_ScaleRatioC
+The Font Atlas Texture of the Font Asset 
+ assigned to 
+ is missing.
+Converting from using anchor and lineLength properties to Text Container.
+bufferSize
+Must be greater or equal to 1.
+newBufferSize
+Only one Dispatcher instance allowed per thread.
+No task is currently running.
+No Dispatcher found for the current thread, please create a new Dispatcher instance before calling this property.
+No Dispatcher found for the main thread, please create a new Dispatcher instance before calling this property.
+Dispatching a Task with the Dispatcher associated to the current thread is prohibited. You can run these Tasks without the need of a Dispatcher.
+Error while processing task:
+
+Error while processing task '
+methodName
+Fitting method with the given name was not found.
+No default TaskDistributor found, please create a new TaskDistributor instance before calling this property.
+Access to TaskDistributor prohibited when called from inside a TaskDistributor thread. Dont dispatch new Tasks through the same TaskDistributor. If you want to distribute new tasks create a new TaskDistributor and use the new created instance. Remember to dispose the new instance to prevent thread spamming.
+ActionThread
+EnumeratableActionThread
+TickThread
+[UnityThreadHelper]
+TaskDistributor
+: rectTransform.anchorMin must be equal to rectTransform.anchorMax
+NPBinding.{0} object provides the interface to access {1} functionalities.
+Things to know
+sub-title
+Okie great!
+For accessing {0} functionalities, you must enable this feature in NPSettings->Application Settings->Supported Features. Once you are done, please don't forget to save the changes.
+You can configure this feature in NPSettings->Game Services Settings.
+Using platform specific identifier to access Achievements/Leaderboard object is very troublesome. 
+Instead, make use of global identifier for unified access of Achievements/Leaderboard irrespective of platform. 
+This can be done by either adding identifier info in Game Services Settings or else manually set it at runtime using SetLeaderboardIDCollection & SetAchievementIDCollection API.
+For testing iOS build, set Game Center to Sandox mode in your device settings and then log in to Game Center application using sandbox test accounts. Once you are done with it, you can try testing this feature.
+In Unity Editor, we are simulating this feature to help developers test funtionality in Editor itself. You can manually fill info by opening Editor Game Center from Menu (Window->Voxel Busters->Native Plugins) or use Game Services Settings to auto fill values.
+[NOTE] Feature is not supported.
+Could not find leaderboard id information. Please configure it.
+Could not find achievement id information. Please configure it.
+Is Available
+Game Services feature is supported.
+Game Services feature is not supported.
+Sorry, Game Services feature is not supported on this device.
+Is Authenticated
+Local user is authenticated.
+Local user is not yet authenticated!
+Authenticate User
+Sorry, user is currently not signed in to Game Services. Please authenticate the user before accessing Game Services features.
+Local User
+Sign Out
+Load Friends
+Load Users
+Leaderboard
+Could not find Leaderboard configuration in GameServices. If you want to access Leaderboard feature, then please configure it.
+Previous Leaderboard
+Next Leaderboard
+Current Leaderboard GID= {0}.
+Create Leaderboard
+Leaderboard with global identifier {0} is created.
+Report Score
+Load Top Scores
+Load Player Centered Scores
+Load Previous Scores
+Load Next Scores
+Achievement
+Could not find Achievement configuration in GameServices. If you want to access Achievement feature, then please configure it.
+Load Achievement Descriptions
+Load Achievements
+Previous Achievement
+Next Achievement
+Current achievement GID= {0}.
+Create Achievement
+Achievement with global identifier {0} is created.
+Get No Of Steps For Completing Achievement
+No of steps required for completing achievement is {0}.
+Report Progress
+Show Leaderboard UI
+Show Achievements UI
+The requested operation could not be completed because leaderboard instance is null. Please create new leaderboard instance.
+Sending request to show achievements view.
+Sending request to show leaderboard view.
+Load leaderboard scores request finished.
+Error= {0}.
+Totally {0} score entries were loaded.
+Local user score= {0}.
+[Index {0}]: {1}.
+Local user authentication finished.
+Local user details= {0}.
+Local user is signed out successfully!
+Request to signout local user failed.
+Load friends info request finished.
+Load users info request finished.
+Request to load achievement descriptions finished.
+Total loaded descriptions= {0}.
+[Index {0}]: {1}
+Request to load achievements finished.
+Total loaded achievements= {0}.
+Achievements view dismissed.
+Leaderboard view dismissed.
+Request to report score to leaderboard with GID= {0} finished successfully.
+New score= {0}.
+Request to report score to leaderboard with GID= {0} failed.
+Request to report progress of achievement with GID= {0} finished successfully.
+Percentage completed= {0}.
+Request to report progress of achievement with GID= {0} failed.
+SMS body holds text message that needs to be sent to recipients
+Demo Mail
+This is plain text mail.
+<html><body><h1>Hello</h1></body></html>
+share message
+http://www.google.com
+this is what I wanted to share
+http://www.voxelbusters.com
+Alert Title
+Alert message
+username
+password
+Alert Dialogs
+Show Alert Dialog With Single Button
+Show Alert Dialog With Multiple Buttons
+Prompt Dialogs
+Show Plain Text Prompt Dialog
+Show Secured Text Prompt Dialog
+Show Login Prompt Dialog
+Toast
+Show Short Duration Toast
+Show Long Duration Toast
+Alert dialog closed.
+Clicked button name is 
+Single field prompt dialog closed.
+Input text is 
+Login prompt dialog closed.
+Entered user name is 
+Entered password is 
+Alert dialog closed
+ButtonPressed=
+For using RateMyApp feature, you have to enable it in NPSettings->Utility Settings.
+Get UUID
+New UUID = 
+Open Store Link
+Opening store link with application id = 
+Ask For Review Now
+Set Application Icon Badge Number
+Get Bundle Version
+Application's bundle version is 
+Get Bundle Identifier
+Application's bundle identifier is 
+Enable RateMyApp feature in NPSettings.
+unity
+mailto
+Screenshot.png
+vectorLineSegment
+sector1
+sector2
+inventory
+reward
+remainingDuration
+baseDuration
+baseReward
+paramName
+rewardParamName
+descriptionTemplateName
+destinationStarSystem
+originStarSystem
+gameBackup
+QuestState
+sectors
+adjacentEdges
+version
+galaxy
+playerData
+occurredSpaceEventNames
+loanController
+stimulantController
+upgradeController
+messengers
+currentMessenger
+finalLocation
+lastHint
+gameMode
+finalQuestFailedAttemptCount
+gameFinished
+playerName
+currentGameMode
+gameModeNormal
+gameModeTutorial
+currentHintIndex
+lastQuestReward
+fuelBoughtOverGame
+moneyBeforeLastQuestStarted
+lastSeenPostMessengerDialog
+maxStructureDiff
+engineDiff
+lastPlanetaryQuestName
+allowRefuel
+allowSetJumpTarget
+allowShowSystemInfo
+tutorialQuestSystem
+hintText
+Teleport
+LoanBonus
+Delivery
+bonuses
+percent
+paramNames
+valueParamName
+durationParamName
+percentParamName
+SmallLoanTime
+SmallLoanPercent
+LargeLoanTime
+LargeLoanPercent
+lastLoanDataUpdateDate
+system
+commonHints
+specialHints
+preciseMessengerHints
+preciseFinalHint
+visited
+isFinalBattle
+fromPlanet
+toPlanet
+position
+playerParams
+shipType
+dictionary
+image
+sound
+backgroundMusic
+CurValue
+Hidden
+CriticalEventOverride
+curDescription
+passesMadeCount
+paramDeltas
+param
+isAvailable
+locations
+paths
+majorVersion
+minorVersion
+parameters
+CriticalEvent
+toStar
+fromStar
+ranger
+curDate
+rewardMoney
+startingMoney
+deliveryToStar
+deliveryFromStar
+deliveryDays
+sectorMap
+stationName
+stimulantOne
+stimulantTwo
+stimulantOneDescription
+stimulantTwoDescription
+enginePower
+maxFuel
+maxStructure
+enginePowerUpgrade
+maxFuelUpgrade
+maxStructureUpgrade
+questType
+questName
+questDate
+imageName
+answers
+saveDateTime
+eventActivityType
+attackerType
+spaceBase
+IsVisible
+edges
+starSystems
+vertices
+spanningTreeEdges
+triangles
+boundarySegments
+first
+second
+third
+ScanState
+QuestName
+PlanetTextConsts
+QuestCompletedTimes
+QuestLastAttemptStatus
+starType
+bases
+stellarClass
+sector
+races
+scanPriceCredits
+spectralType
+digit
+stimulantNameTranslationPhrase
+stimulantName
+remainingDurationInDays
+starSystemMedicalCenterData
+lastUpdateDateTime
+firstStimulantName
+secondStimulantName
+firstStimulantDurationBase
+secondStimulantDurationBase
+count
+starSystemSpaceBaseDatas
+engineUpgradeLevel
+enginePriceDifference
+hullUpgradeLevel
+hullPriceDifference
+Advanced FPS Counter
+UpdateFPSCounter
+<color=#{0}><b>FPS: 
+</b></color>
+
+<color=#{0}><b>MIN: 
+</b></color> 
+<color=#{0}><b>MAX: 
+ <color=#{0}><b>AVG: 
+UpdateMemoryCounter
+<color=#{0}><b>
+MEM (total): 
+MEM (alloc): 
+MEM (mono): 
+_MainTex
+_BumpMap
+_SpecTex
+$type
+$version
+$content
+ACH_SCANS
+ACH_JUMPS
+ACH_ESCAPE_ARTIST
+ACH_BATTLES
+ACH_REPAIR
+ACH_FUEL
+Episode07c
+UnexpectedArrest
+Prison
+Compensation
+CompensationJailbreak
+Episode00
+Outro
+ext_Money
+ext_Fuel
+ext_Structure
+ext_MaxStructure
+ext_Luck
+ext_LevelTank
+ext_LevelEngine
+ext_LevelCannon1
+ext_LevelCannon2
+ext_LevelCannon3
+ext_LevelCannon4
+ext_LevelCannon5
+ext_PriceMap
+ext_PlayerBuysMap
+ext_PriceRepair
+ext_PriceUpEngine
+ext_PriceUpTank
+ext_PriceUpCannon1
+ext_PriceUpCannon2
+ext_PriceUpCannon3
+ext_PriceUpCannon4
+ext_PriceUpCannon5
+ext_Teleport
+ext_PirateDefence
+ext_PriceDefence
+ext_TimeDefence
+ext_RateEscort
+ext_PriceEscort
+ext_TimeEscort
+ext_PriceStimulantOne
+ext_PriceStimulantTwo
+ext_StimulantOneTime
+ext_StimulantTwoTime
+ext_LevelHull
+ext_PriceUpHull
+ext_SmallTimeCredit
+ext_SmallPctCredit
+ext_BigTimeCredit
+ext_BigPctCredit
+ext_Credit
+ext_TimeCredit
+ext_PercentCredit
+ext_Hint
+ext_Way
+ext_TimeForStimOne
+ext_TimeForStimTwo
+ext_WhyAttack
+ext_Peni
+ext_WhoRanger
+ext_LevelShield
+ext_PriceUpShield
+ext_Delivery
+ext_FightBonus
+@sqrt
+Transition
+Final
+QuestPlayer
+Space
+Selection
+QuestList
+NewGame
+Credits
+dialog_scale
+ui_scale
+global_repair_count
+global_fight_win_count
+global_completed_quests
+show_fps
+muted
+debug_mode
+player_should_play
+player_track
+player_volume
+answer_panel_height
+theme_style
+font_size
+space_font_size
+calc_memory_last_index_
+calc_memory_
+sound_volume
+language
+dlc_active_
+-------------------------------- !-#$%&-()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[-]^_`abcdefghijklmnopqrstuvwxyz{|}~-
+-------------------------------- !-#$%&-()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[-]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~-
+Things to know
+VS_VERSION_INFO
+VarFileInfo
+Translation
+StringFileInfo
+000004b0
+ProductVersion
+0.0.0.0
+CompanyName
+ProductName
+LegalCopyright
+InternalName
+Assembly-CSharp.dll
+FileDescription
+Comments
+FileVersion
+0.0.0.0
+OriginalFilename
+Assembly-CSharp.dll
+LegalTrademarks

@@ -1,0 +1,17 @@
+// подсказки
+hintStarStellarClass=Искать посланника надо около звезды класса <color=#EDC111FF>{0}</color>//0 - класс звезды
+hintStarMasterRace=Возможно, посланник находится в системе, где хозяйничают <color=#EDC111FF>{0}</color>//0 - раса
+hintStarRaces=Попробуйте поискать в системе, где живут <color=#EDC111FF>{0}</color> и <color=#EDC111FF>{1}</color>//0, 1 - расы
+hintStarRace=Посланник, которого вы ищите, скорее всего, застрял в системе, где живут <color=#EDC111FF>{0}</color>//0 раса
+hintStarExcludedRace=В системах, где живут <color=#EDC111FF>{0}</color>, нужного вам объекта точно нет//0 - раса
+hintStarBaseType=Когда посланника видели в последний раз, он направлялся в систему, где есть <color=#EDC111FF>{0}</color>//0 - тип базы
+hintStarBaseCount=В нужной системе <color=#EDC111FF>{0} {1}</color>//0 - кол-во систем в виде слова (подставляются hintStarBaseCountNo/hintStarBaseCountOne/hintStarBaseCountTwo, которые даны ниже), 1 - форма слова "база"
+hintStarBaseCountNo=нет
+hintStarBaseCountOne=одна
+hintStarBaseCountTwo=две
+hintSectorName=Вы обязательно найдете посланника в секторе <color=#EDC111FF>{0}</color>//0 - название сектора
+hintSectorStarCount=Посланник находится в секторе, в котором <color=#EDC111FF>{0} {1}</color>//0 - кол-во систем цифрой, 1 - форма слова "система"
+hintSystemName0=Ищите посланника в системе <color=#EDC111FF>{0}</color>. И поскорее//0 - название системы
+hintSystemName1=Следуйте в систему <color=#EDC111FF>{0}</color>. Там вас ждёт посланник//0 - название системы
+hintFinalSystem=Босс доминаторов находится в системе <color=#EDC111FF>{0}</color>//0 - название системы
+hintDistance=От системы <color=#FFC900>{0}</color> до цели от <color=#FFC900>{1}</color> до <color=#FFC900>{2}</color> {3}//0 - название системы, 1 и 2 - числа, 3 - форма слова "парсек"

@@ -41,10 +41,12 @@ LANGS = ['SR1', 'SR2', 'SRHD']
 # по одинаковому ключу сравниваем только КР2 и HD (HD — расширение КР2, номера совпадают);
 # КР1 — другие квесты под теми же номерами
 PAIR = {'SR2': ['SRHD'], 'SRHD': ['SR2'], 'SR1': []}
-REF_RE = re.compile(r'\b(SR1|SR2|SRHD|TQ1|TQ2):([^\s;,\]\)`]+)')
+REF_RE = re.compile(r'\b(SR1|SR2|SRHD|TQ1|TQ2|SQ):([^\s;,\]\)`]+)')
 # текстовые квесты как «ланги»: TQ1 = КР1 (SR1TextQuests), TQ2 = SR2HD; ключ «Квест:Запись» (Bank:Loc1-1)
 TQ = {'TQ1': os.path.join('TextQuests', 'SR1TextQuests', 'Rus'),
-      'TQ2': os.path.join('TextQuests', 'SR2HD', 'questsRus')}
+      'TQ2': os.path.join('TextQuests', 'SR2HD', 'questsRus'),
+      # SQ = «Space Rangers Quest» (мобильная версия; 63 новых квеста; каноничность спорная)
+      'SQ': os.path.join('TextQuests', 'SRQuest', 'Rus')}
 ALL = LANGS + list(TQ)
 
 
@@ -356,7 +358,9 @@ def cond(files):
 LORE = os.path.join(ROOT, 'Translation', 'lore')
 FILES = {'': 'GALAXY_LORE.md', 'PARODY': 'GALAXY_LORE_PARODY.md', 'DOUBTS': 'GALAXY_LORE_DOUBTS.md',
          # лор текстовых квестов (канон: КР1 + SR2HD)
-         'TQ': 'LORE_FACTS.md', 'TQPARODY': 'LORE_FACTS_PARODY.md', 'TQDOUBTS': 'LORE_FACTS_DOUBTS.md'}
+         'TQ': 'LORE_FACTS.md', 'TQPARODY': 'LORE_FACTS_PARODY.md', 'TQDOUBTS': 'LORE_FACTS_DOUBTS.md',
+         # лор «Space Rangers Quest» (SQ) — отдельно от канона
+         'SQ': 'LORE_FACTS_SRQUEST.md', 'SQPARODY': 'LORE_FACTS_SRQUEST_PARODY.md', 'SQDOUBTS': 'LORE_FACTS_SRQUEST_DOUBTS.md'}
 
 
 def _insert(lines, path, text, after=None):
@@ -421,7 +425,7 @@ def merge(stage):
         fn = os.path.join(LORE, FILES[fkey])
         if fn not in docs:
             docs[fn] = open(fn, encoding='utf-8').read().split('\n')
-        if fkey in ('DOUBTS', 'TQDOUBTS') and not path:
+        if fkey in ('DOUBTS', 'TQDOUBTS', 'SQDOUBTS') and not path:
             path = ['Пункты']
         after = last[2] if last and last[0] == tag and not text.startswith('#') else None
         k = _insert(docs[fn], path, text, after)

@@ -1,0 +1,14 @@
+Bomber_05=Bomber_00
+van_12=Testing_09
+van_10=Testing_06
+Kiberrazum_01=kas_06
+pro_06=Kiberrazum_09
+van_18=Fishing_12
+van_17=Fishing_11
+van_16=Fishing_10
+kas_05=Fishing_09
+van_03=BadDayR_07
+kas_08=Cybersport_00
+Election_05=Deadoralive
+ice_03=BadDayR_02
+ice_01=BadDayR_00
