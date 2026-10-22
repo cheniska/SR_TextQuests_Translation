@@ -41,13 +41,38 @@ LANGS = ['SR1', 'SR2', 'SRHD']
 # по одинаковому ключу сравниваем только КР2 и HD (HD — расширение КР2, номера совпадают);
 # КР1 — другие квесты под теми же номерами
 PAIR = {'SR2': ['SRHD'], 'SRHD': ['SR2'], 'SR1': []}
-REF_RE = re.compile(r'\b(SR1|SR2|SRHD|TQ1|TQ2|SQ):([^\s;,\]\)`]+)')
+REF_RE = re.compile(r'\b(SR1|SR2|SRHD|TQ1|TQ2|SQ|SQU):([^\s;,\]\)`]+)')
 # текстовые квесты как «ланги»: TQ1 = КР1 (SR1TextQuests), TQ2 = SR2HD; ключ «Квест:Запись» (Bank:Loc1-1)
 TQ = {'TQ1': os.path.join('TextQuests', 'SR1TextQuests', 'Rus'),
       'TQ2': os.path.join('TextQuests', 'SR2HD', 'questsRus'),
       # SQ = «Space Rangers Quest» (мобильная версия; 63 новых квеста; каноничность спорная)
       'SQ': os.path.join('TextQuests', 'SRQuest', 'Rus')}
-ALL = LANGS + list(TQ)
+# SQU = интерфейсные тексты «Space Rangers Quest» (TextQuests/SRQuest/ui/localization); ключ «<номер>_<Файл>:<ключ>»
+SQU_DIR = os.path.join('TextQuests', 'SRQuest', 'ui', 'localization')
+ALL = LANGS + list(TQ) + ['SQU']
+
+
+def parse_squi():
+    d = os.path.join(ROOT, SQU_DIR)
+    res = []
+    for fn in sorted(os.listdir(d)):
+        if not fn.endswith('.txt'):
+            continue
+        stem = re.sub(r'^(?:sharedassets\d+|resources)\.assets_', '', fn[:-4])
+        raw = open(os.path.join(d, fn), 'rb').read()
+        try:
+            txt = raw.decode('utf-8-sig')
+        except UnicodeDecodeError:
+            continue
+        if txt.lstrip().startswith('{'):      # json (классы, стимуляторы): один ключ all
+            res.append([stem + ':all', re.sub(r'\s+', ' ', txt)])
+            continue
+        for line in txt.replace('\r', '').split('\n'):
+            if line.startswith('//') or '=' not in line:
+                continue
+            k, v = line.split('=', 1)
+            res.append([stem + ':' + k.strip(), v])
+    return res
 
 
 def parse_tq(lang):
@@ -99,7 +124,7 @@ def parse(lang):
 def flat():
     os.makedirs(OUT, exist_ok=True)
     for lang in ALL:
-        rows = parse_tq(lang) if lang in TQ else parse(lang)
+        rows = parse_squi() if lang == 'SQU' else (parse_tq(lang) if lang in TQ else parse(lang))
         with open(os.path.join(OUT, lang + '.flat'), 'w', encoding='utf-8') as f:
             for k, v in rows:
                 f.write(k + '\t' + v + '\n')
