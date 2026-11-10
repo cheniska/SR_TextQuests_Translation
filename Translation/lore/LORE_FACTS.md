@@ -1,4 +1,4 @@
-# Лор вселенной Space Rangers по текстовым квестам (канон: КР1 и SR2HD)
+﻿# Лор вселенной Space Rangers по текстовым квестам (канон: КР1 и SR2HD)
 
 Свод фактов из текстовых квестов — **по тем же правилам, что и `GALAXY_LORE.md`** (лор из лангов игры);
 структура разделов та же. Источники: `TextQuests/SR1TextQuests/Rus/*.txt` (КР1, ~3000 г.) и
@@ -10,7 +10,7 @@
 ## Правила записи
 - **Каждый факт — со ссылкой** на квест и запись: `[TQ1:Bank:Loc12-1]` (КР1), `[TQ2:Amnesia:Par4-2]`
   (SR2HD); запись — как в txt (`Loc`, `Path`, `Par`, `QuestDescription`, `QuestSuccessGovMessage`…).
-  Проверка: `python3 qlore.py check Translation/lore/LORE_FACTS.md Translation/lore/LORE_FACTS_PARODY.md Translation/lore/LORE_FACTS_DOUBTS.md < /dev/null` (ссылки существуют,
+  Проверка: `python3 qlore.py check E:/disasm2500_dev/LORE/lore/LORE_FACTS.md E:/disasm2500_dev/LORE/lore/LORE_FACTS_PARODY.md E:/disasm2500_dev/LORE/lore/LORE_FACTS_DOUBTS.md < /dev/null` (ссылки существуют,
   у каждого факта есть ссылка); текст по ссылке — `qlore.py get TQ1:Bank:Loc1-1`, поиск — `qlore.py find RX TQ1 TQ2`.
 - **Эпоха** у каждого факта: `КР1` (~3000 г., SR1TextQuests) или `КР2` (~3300 г., SR2HD). Персонажи КР1 и КР2 —
   разные люди (кроме исторических/долгоживущих); события КР1 для КР2 — история «~300 лет назад»; связи

@@ -1,0 +1,5 @@
+The annual music festival will take place on <ToPlanet>. It's currently considered the most prestigious music festival in the galaxy. This year is the festival's 300-year anniversary, so it's very important for us to win. Because whoever wins this year will go down in history! 
+
+Unfortunately, the band we had been preparing for the performance was incarcerated as a result of a ridiculous incident with some drugs. We need a replacement as soon as possible. We heard you sing pretty well and that you were even in a hyper rock band when you were younger. That's why we chose you, ranger <Ranger>. According to our calculations you'll have a couple of days to assemble the rest of the band. It's not much, of course, but there will be many musicians attending the festival, and you'll surely be able to arrange something with some of them. We'll mail you the details. 
+
+We'll provide <clr>1200<clrEnd> rock'n'rollers for this task. That's the local currency. You'll pick it up at the hotel. Also, we'll cover your stay at the hotel.  And in case of success, we promise to reward you with <Money> cr. Much more widespread currency. Good luck!

@@ -1,0 +1,229 @@
+mainMenuCopyright=©2016 Компания 1С-Online Games, игра разработана СНК-Геймс
+mainMenuLanguageDisclaimer=Пожалуйста, выберите язык игры.\nВАЖНО: после выбора язык игры сменить невозможно!
+mainMenuNewGameDisclaimer=Внимание! Начало новой игры приведет к удалению существующего сохранения! Вы уверены, что хотите начать новую игру?
+mainMenuNewGame=НОВАЯ ИГРА
+mainMenuLoad=ЗАГРУЗИТЬ
+mainMenuSettings=НАСТРОЙКИ
+mainMenuCredits=АВТОРЫ
+mainMenuQuestList=СПИСОК КВЕСТОВ
+mainMenuGameCenterNoAuth=Чтобы получать доступ к достижениям, Вы должны вручную авторизоваться в Game Center вашего устройства (в приложении "Настройки")!
+mainMenuExit=ВЫХОД
+mainExitConfirmation=Вы действительно хотите выйти?
+// New Game
+newGameRangerNameFormat=<color=#CAE7FCFF>Рейнджер</color> <u>{0}</u>//0 - имя рейнджера
+newGameRangerNameUnknown=НЕИЗВЕСТНЫЙ
+newGameRangerNameDefault=Игрок
+newGameEmptyNameHint=Пожалуйста, введите имя вашего рейнджера в поле сверху
+newGameReservedNameHint=Вы не можете использовать это имя. Пожалуйста, придумайте другое!
+newGameClassTrader=ТОРГОВЕЦ – успешный делец
+newGameClassPirate=ПИРАТ – хитрый злодей
+newGameClassWarrior=ВОИН – гроза космоса
+// Common
+fuel=топливо
+credits=кредиты
+structure=структура
+refuel=заправка
+scan=сканирование
+use=использовать
+startQuest=начать квест
+tutorialOffer=Желаете пройти обучение?
+tutorialExitNotAvailable=Вы не можете завершить квест во время обучения!
+prisonExitNotAvailable=Вы не можете просто так покинуть тюрьму!
+exitNotAvailable=Из этого квеста выйти нельзя!
+prisonEscape=Быстро взлетаем!
+prisonLeave=Вас выпустили на поруки
+mainMenu=главное меню
+settings=настройки
+settingsDLC=настройки загружаемого контента
+dlcDownloadNoInternetConnection=Отсутствует соединение с Интернетом. Повторите попытку позже
+dlcDownloadSizeWarning=Необходимо скачать {0} МБ данных. Вы уверены?//0 - размер файла (число)
+dlcDeleteDlcWarning=Вы точно хотите удалить файл с DLC?
+dlcClassicMusic=Классическая музыка:
+dlcClassicMusicHint=музыка из КР2: Перезагрузка
+dlcNewMusic=Новая музыка:
+dlcNewMusicHint=музыка из КРHD
+dlcHdTextures=HD-текстуры:
+dlcHdTexturesHint=для кораблей
+dlcHdTexturesOffer=Доступен набор HD-текстур для кораблей. Желаете установить?
+skip=пропустить
+next=далее
+
+newGameIntro1=<line-indent=5em>Вы очнулись в кресле пилота за штурвалом своего корабля. На обзорном экране среди тьмы, космоса и звёзд завораживающе проплывала какая-то планета, намекая на нестабильность траектории вашего полёта, вследствие отключившегося автопилота. В теле ощущалась странная лёгкость, будто генератор искусственной гравитации вновь стал барахлить, выдавая силу притяжения значительно ниже привычной. Умиротворяющую тишину космического пространства нарушил сигнал входящего сообщения.
+newGameIntro2=<line-indent=5em>Доброго времени суток, рейнджер! Поздравляем со вступлением в наши ряды. Как говорится, не прошло и двух веков, а космические рейнджеры снова в строю. Спасибо деньгам налогоплательщиков и Галактическому Совету, знающему, куда и как их по-тихому пристроить. Это, если что, шутка была.\n\nВаше первое задание заключается в тестировании программы подготовки новоприбывших кандидатов на получение сверкающего значка и особых полномочий. Внимательно изучите предлагаемые инструкции, выполните все предписания и на основании этого подготовьте рекомендации по морде… то есть модернизации процесса интеграции пилотов-добровольцев в ряды рейнджеров. В обозримом будущем мы свяжемся с вами для подведения итогов выполнения этой ответственной миссии.\n\nЖелаем успехов!\n\n<align=right>Искренне ваш,\nАдмирал Хрюдаш,\nСистема Ушаш,\nСектор Бальтазаш,\nПланетарный центр рейнджеров «Аноним»</align>\n\nP.S.\nЕсли вас не устроила форма подачи информации и обращения к вам, подготовьте соображения по улучшению Устава Космических Рейнджеров, желательно, как минимум, в двадцати экземплярах. Напоминаю, что согласно давней славной традиции, оригинал и копии подобных документов подаются лично и, непременно, в рукописном виде, сделанные рукой автора.
+newGameIntroNextButtonText1=Сладко потянуться и вывести сообщение на экран
+newGameIntroNextButtonText2=Закрыть сообщение и приступить к выполнению задания
+// Settings menu
+settingsLanguageChangeWarning=Текущая настройка будет использована для новой игры. Язык существующего сохранения изменен не будет
+settingsLanguage=Язык:
+settingsDownloading=Загрузка: {0}%//0 - процент загрузки
+settingsOn=Включено
+settingsOff=Выключено
+settingsNotInstalled=Не установлено
+settingsMusic=Музыка:
+settingsSound=Звуки:
+settingsVolume=Громкость: {0}//0 - число
+settingsUiScaleLabel=Масштаб интерфейса:
+settingsDialogScaleLabel=Масштаб диалогов:
+settingsUiScaleWarning=*Обновления вступят в силу после закрытия данного диалога
+settingsUiScale=Масштаб: {0}%
+settingsFontSize=Шрифт:
+fontSizeVerySmall=ОЧЕНЬ МЕЛКИЙ
+fontSizeSmall=МЕЛКИЙ
+fontSizeNormal=СРЕДНИЙ
+fontSizeLarge=КРУПНЫЙ
+fontSizeVeryLarge=ОГРОМНЫЙ
+// Races
+raceHuman=люди
+raceGaalian=гаальцы
+raceFaeyan=фэяне
+racePeleng=пеленги
+raceMaloq=малоки
+// Bases
+baseMedicalCenter=Медцентр
+baseMilitaryBase=Военная база
+basePirateBase=Пиратская база
+baseBusinessCenter=Бизнес-центр
+baseScienceCenter=Научный центр
+// info panel
+infoPanelTitle=Система {0}//0 - имя системы
+infoPanelSectorLabel=Сектор:
+infoPanelSpectralClassLabel=Класс:
+infoPanelSpectralClassLabelLong=Класс звезды:
+infoPanelRaceLabel=Раса:
+infoPanelMainRaceLabel=Основная раса:
+infoPanelOtherRacesLabel=Другие расы:
+infoPanelBasesLabel=Базы:
+infoPanelStatus=Статус:
+infoPanelPrice=Цена:
+infoPanelQuestLabel=Квест:
+infoPanelQuestNone=Нет
+//
+newQuest=Новый квест
+completedQuest=Завершённый квест
+dominatorBoss=Босс Доминаторов
+// text quest
+MsgContinue=Далее
+MsgDeath=Жизнь великого рейнджера закончилась
+MsgFail=Квест провален
+MsgSuccess=Задание выполнено
+MsgSuccessEvent=Закрыть окно
+// 
+playerExpand=Развернуть
+playerCollapse=Свернуть
+playerHide=Скрыть
+playerShow=Показать
+playerTransition=Переходы
+playerCalculator=Калькулятор
+playerMusic=Музыка
+playerOptions=Опции
+playerSkin=Цвет фона
+playerFont=Шрифт
+playerSampleTextNormal=Текст
+playerSampleTextImportant=Важный
+playerRestart=Рестарт
+playerFinish=Сдаться
+playerSettings=Настройки
+playerMenu=Меню
+playerBack=Назад
+calculatorError=Ошибка
+calculatorErrorDivideByZero=Ошибка: деление на ноль
+//
+finishLoad=Загрузить
+finishDeathText=Есть ли кибержизнь после киберсмерти? Теперь вы знаете ответ на этот вопрос, но, к сожалению, поделиться этой информацией вы ни с кем не сможете. Примите наши киберсоболезнования…\nЧто же до того, чем закончилась вся эта история в реальном мире, то, согласно законам мироздания, вас это уже не волнует, но будьте уверены: ваши дальние родственники наверняка получили страховку за вас в размере 10 000 сr.
+finishVictoryText=Поздравляем, вы победили!
+//
+spaceMapHint=ПРОЛОЖИТЕ МАРШРУТ
+spaceMapCanJump=ПРЫЖОК В <color=#55f340ff>{0}</color>\n<color=#ffdb14ff>{1}</color> ЕДИНИЦ ТОПЛИВА//0 - название системы, 1 - кол-во единиц топлива числом
+spaceMapCanNotJumpNotEnoughtFuel=<color=#df2828ff>МАЛО ТОПЛИВА</color>\nНУЖНО <color=#ffdb14ff>{0}</color> ЕДИНИЦ//0 - кол-во единиц топлива числом
+spaceMapCanNotJumpWeakEngine=<color=#df2828ff>СЛАБЫЙ ДВИГАТЕЛЬ</color>\nТРЕБУЕТСЯ МОЩНОСТЬ <color=#ffdb14ff>{0}</color>//0 - мощность двигателя числом
+spaceMapTeleport=ТЕЛЕПОРТ В <color=#8986ff>{0}</color>//0 - название системы
+spaceMapTeleportHint=УКАЖИТЕ ЦЕЛЬ\n<color=#8986ff>ТЕЛЕПОРТА</color>
+spaceMapBrowsing=ДО <color=#ffdb14ff>{0}</color>\n<color=#ffdb14ff>{1}</color> {2}//0 - название системы, 1 - расстояние в виде чесла, 2 - форма слова "парсек"
+spaceBaseTitle={0} {1}//0 - тип базы, 1 - название базы (Т.е. например 0 - "Военная база" 1 - "Бдения")
+spaceBaseTitleColored={0} <color=#edc111>{1}</color>//0 - тип базы, 1 - название базы (Т.е. например 0 - "Военная база" 1 - "Бдения")
+teleportUsesLeftLabel=ЗАРЯДОВ
+dockingCount=Посадок: <color=#edc111>{0}</color>//0 - кол-во посадок числом
+fuelStatusTextTemplate=Сейчас топлива на борту: <color=#ffc900>{0}/{1}</color> единиц\n\nСтоимость топлива: <color=#ffc900>{2}\u00A0cr</color> за <color=#ffc900>1\u00A0единицу</color>\n\nЗаправка полного бака будет стоить <color=#ffc900>{3}\u00A0cr</color>//0 - текущее кол-во топлива числом, 1 - максимальное кол-во топлива числом, 2 - стоимость единицы числом, 3 - суммарная стоимость числом
+fuelConfirmationTextTemplate=Вы действительно хотите купить <color=#ffc900>{0}\u00A0{1}</color> топлива за <color=#ffc900>{2}\u00A0cr</color>?//0 - кол-во топлива числом, 1 - форма слова "единица", 2 - сумма покупки числом
+docking=Стыковка:
+spaceNoQuestsHint=В этой системе квестов нет
+spaceNoBonusesHint=Нет данных
+scanConfirmation=Вы действительно хотите провести <color=#ffc900>сканирование</color>?
+scanNotAvailable=Сканирование недоступно!
+randomMessengerFound=Вам повезло! Вы нашли посланника, но не того, на которого указывали подсказки. Так что они еще в силе!
+hintMapButton=Галактическая карта (<color=#ffc900>M</color>)
+hintScanButton=Сканирование (<color=#ffc900>S</color>)
+hintRefuelButton=Заправка (<color=#ffc900>R</color>)
+hintMenuButton=Игровое меню (<color=#ffc900>ESC</color>)
+hintBackToSpaceButton=Вернуться на экран космоса (<color=#ffc900>M</color>)
+//Bonuses
+attackFreeRemaining=Защита от нападений на <clr>{0}<clrEnd> {1}.//0 - число, 1 - форма слова "парсек"
+pirateDefenseRemaining=<clr>{0}%</color> защиты от пиратов на <clr>{1}</color> {2}.//0 - процент защиты, 1 - число, 2 - форма слова "день"
+escortRemaining=Эскорт <clr>+{0}%</color> атаки и защиты на <clr>{1}</color> {2}.//0 - процент атаки защиты, 1 - число, 2 - форма слова "день"
+stimulantRemaining=Стимулятор <clr>{0}</color> будет действовать еще <clr>{1}</color> {2}.//0 - имя, 1 - число, 2 - форма слова "день"
+deliveryRemaining=Доставить груз в {0} не позже, чем через <clr>{1}</color> {2}. Вознаграждение: <clr>{3}</color> cr.//0 - имя системы, 1 - число дней, 2 - форма слова "день", 3 - награда числом
+deliveryFailed=Вы не успели доставить груз вовремя. Заказчик будет очень недоволен!
+deliveryDestinationFormat=<clr>{0}<clrEnd>, сектор <clr>{1}<clrEnd>//0 - название системы, 1 - название сектора
+stimulantOneName=номер один
+stimulantTwoName=номер два
+teleportDescription=У вас есть телепортационное устройство
+teleportUsesLeft=ЗАРЯДОВ: <color=#EDC111FF>{0}</color>//0 - число
+loanNormal=Вы должны погасить долг <clr>{0} cr.</color> Осталось <clr>{1} {2}</color>//0 - число, 1 - кол-во дней числом, 2 - форма слова "день"
+loanOverdue=Вы не вернули кредит вовремя. Теперь вы обязаны заплатить <clr>{0} cr.</color>, из которых <clr>{1} cr.</color> – сумма кредита, а <clr>{2} cr.</color> – пеня.//0, 1, 2 - числа
+messengerVisitedLabel=Посланников найдено: <color=#EDC111FF>{0}</color>/<color=#EDC111FF>{1}</color>//0 - число, 1 - число
+luckStage0=Вы полный неудачник
+luckStage1=Вам частенько не везет
+luckStage2=Ваша удача переменчива
+luckStage3=Удача благоволит вам
+luckStage4=Вы невероятно удачливы
+//Plurals!
+parsecOne=парсек
+parsecFew=парсека
+parsecMany=парсеков
+dayOne=день
+dayFew=дня
+dayMany=дней
+literOne=единица
+literFew=единицы
+literMany=единиц
+baseOne=база
+baseFew=базы
+baseMany=баз
+starOne=звезда
+starFew=звезды
+starMany=звёзд
+//
+monthJanuary=января
+monthFebruary=февраля
+monthMarch=марта
+monthApril=апреля
+monthMay=мая
+monthJune=июня
+monthJuly=июля
+monthAugust=августа
+monthSeptember=сентября
+monthOctober=октября
+monthNovember=ноября
+monthDecember=декабря
+//scanPanel
+scanPanelScanned=Просканирована
+scanPanelNotScanned=Не просканирована
+scanAlreadyScanned=Вы уже сканировали данную систему!
+scanConfirmation=Вы действительно хотите провести <color=#ffc900>сканирование</color>?
+scanFree=<color=#FFC900FF>Бесплатно</color>
+// text panel
+textPanelTitleBonuses=БОНУСЫ И ШТРАФЫ
+textPanelTitleQuests=ТЕКСТОВЫЙ КВЕСТ
+textPanelTitleOther=ПОСЛАННИКИ
+//music player
+musicPlayerNowPlaying=Сейчас играет:
+//legend
+legendTitle=Легенда
+legendPlayerHere=Вы здесь
+legendRouteLink=Звено маршрута
+legendRouteEnd=Конец маршрута
+legendScanned=Просканировано
+legendHint=Зажми палец на системе, чтобы увидеть подсказку!
+//
+exitToMenuConfirmation=Вы действительно хотите выйти в меню?\n(Игра будет сохранена)
+nothingFoundAfterScan=После сканирования вы ничего не обнаружили.\nПора лететь в другую систему! 

@@ -1,0 +1,210 @@
+mainMenuCopyright=©2016 1С-Online Games, game developed by SNK-Games
+mainMenuLanguageDisclaimer=Please select a game language.\nWARNING: you won’t be able to change this language once you’ve selected it!
+mainMenuNewGameDisclaimer=Warning! If you begin a new game, your saved game will be erased! Are you sure you want to start a new game?
+mainMenuNewGame=NEW GAME
+mainMenuLoad=LOAD
+mainMenuSettings=SETTINGS
+mainMenuCredits=CREDITS
+mainMenuQuestList=QUEST LIST
+mainMenuGameCenterNoAuth=You should be authenticated in Game Center to access achievements (see "Settings" app)!
+mainMenuExit=Quit Game
+mainExitConfirmation=Are you sure you want to exit?
+newGameRangerNameFormat=<color=#CAE7FCFF>Ranger</color> <u>{0}</u>//0 - ranger’s name
+newGameRangerNameUnknown=UNKNOWN
+newGameRangerNameDefault=Player
+newGameEmptyNameHint=Please enter your ranger’s name in the above field
+newGameReservedNameHint=You may not use this name. Try to come up with another!
+newGameClassTrader=MERCHANT - a successful trader
+newGameClassPirate=PIRATE - a sly villain
+newGameClassWarrior=WARRIOR - terror of the cosmos
+fuel=fuel
+credits=credits
+structure=structure
+refuel=refueling
+scan=scanning
+use=use
+startQuest=start quest
+tutorialOffer=Do you want to play through the tutorial?
+tutorialExitNotAvailable=You cannot complete a quest while playing the tutorial!
+prisonExitNotAvailable=You can’t leave prison just like that!
+exitNotAvailable=You can’t abandon this quest!
+prisonEscape=Let’s take off, now!
+prisonLeave=You’ve been bailed out
+mainMenu=main menu
+settings=settings
+settingsDLC=DLC settings
+dlcDownloadNoInternetConnection=No Internet connection. Please try again later.
+dlcDownloadSizeWarning=You need to download {0} MB of data. Are you sure?//0 - file size (number)
+dlcDeleteDlcWarning=Do you want to delete this DLC file?
+dlcClassicMusic=Classic music:
+dlcClassicMusicHint=music from SR2: Reboot
+dlcNewMusic=New music:
+dlcNewMusicHint=music from SRHD
+dlcHdTextures=HD textures:
+dlcHdTexturesHint=for ships
+dlcHdTexturesOffer=A set of HD ship textures is available. Would you like to install it?
+skip=skip
+next=next
+newGameIntro1=<line-indent=5em>You wake up in the pilot’s chair, behind the controls of your own ship. An unknown planet floats across your viewscreen, in the midst of the darkness of space and the multitude of distant stars, demonstrating the instability of your flight path due to the disabled autopilot. Your whole body feels strangely lightweight, as if the artificial gravity generator is acting up again, producing a gravity level way below normal. The signal of an incoming call breaks the peaceful cosmic silence.
+newGameIntro2=<line-indent=5em>Greetings, ranger! Congratulations on joining our ranks. As they say, less then two centuries, and the space rangers are back in the game. Thanks to the taxpayers’ money, and to the Galactic Council, which knows how to squander it without making too much noise. But that’s a joke, if anyone asks.\n\nAnyway, your first task is to test the training system designed for newly-recruited candidates looking to earn a shining badge and special authority. Study the instructions provided, comply with all the orders, and make a list of your own recommendations on how to mortif... uh, modernize the process of integrating volunteer pilots into the ranks of the rangers. In the near future, we will get in touch again to review your progress with this important mission.\n\nGood luck!\n\n<align=right>Best regards,\nAdmiral Oinkash,\nThe Ushash System,\nBaltazash Sector,\n"Anonymous" Rangers’ Planetary Center</align>\n\nP.S.\nIf you are dissatisfied with our way of presenting the information or our form of address, please make a list of suggestions on how to improve the Space Rangers Code. Submit your list in no fewer than twenty copies. Let me remind you that, according to our age-long glorious tradition, the original and all copies of these documents must be submitted in person and in manuscript form, handwritten by the author.
+newGameIntroNextButtonText1=Stretch sleepily and open the message
+newGameIntroNextButtonText2=Close the message and proceed to accomplishing the task
+settingsLanguageChangeWarning=The current settings will be used for your new game. The language of the saved game will not be changed
+settingsLanguage=Language:
+settingsDownloading=Loading: {0}%//0 - percentage loaded
+settingsOn=On
+settingsOff=Off
+settingsNotInstalled=Not installed
+settingsMusic=Music:
+settingsSound=Sound:
+settingsVolume=Volume: {0}//0 - number
+settingsUiScaleLabel=UI Scale:
+settingsDialogScaleLabel=Dialogs Scale:
+settingsUiScaleWarning=*Need to close dialog for change to come into force
+settingsUiScale=Scale: {0}%
+settingsFontSize=Font:
+fontSizeVerySmall=VERY SMALL
+fontSizeSmall=SMALL
+fontSizeNormal=NORMAL
+fontSizeLarge=LARGE
+fontSizeVeryLarge=EXTRA LARGE
+raceHuman=Humans
+raceGaalian=Gaals
+raceFaeyan=Faeyans
+racePeleng=Pelengs
+raceMaloq=Maloqs
+baseMedicalCenter=Medical Center
+baseMilitaryBase=Military Base
+basePirateBase=Pirate Base
+baseBusinessCenter=Business Center
+baseScienceCenter=Research Center
+infoPanelTitle=The {0} System//0 - system name
+infoPanelSectorLabel=Sector:
+infoPanelSpectralClassLabel=Class:
+infoPanelSpectralClassLabelLong=Star Class:
+infoPanelRaceLabel=Race:
+infoPanelMainRaceLabel=Main Race:
+infoPanelOtherRacesLabel=Other Races:
+infoPanelBasesLabel=Bases:
+infoPanelStatus=Status:
+infoPanelPrice=Price:
+infoPanelQuestLabel=Quest:
+infoPanelQuestNone=None
+newQuest=New Quest
+completedQuest=Completed Quest
+dominatorBoss=Dominators’ Boss
+MsgContinue=Next
+MsgDeath=The great ranger’s life is over
+MsgFail=Quest failed
+MsgSuccess=Quest completed
+MsgSuccessEvent=Close window
+playerExpand=Expand
+playerCollapse=Collapse
+playerHide=Hide
+playerShow=Show
+playerTransition=Transitions
+playerCalculator=Calculator
+playerMusic=Music
+playerOptions=Options
+playerSkin=Skin Color
+playerFont=Font
+playerSampleTextNormal=Text
+playerSampleTextImportant=Important
+playerRestart=Restart
+playerFinish=Abort
+playerSettings=Settings
+playerMenu=Menu
+playerBack=Back
+calculatorError=Error
+calculatorErrorDivideByZero=Error: divide by zero
+finishLoad=Load
+finishDeathText=Is there a cyberlife after cyberdeath? Now you know the answer to this question. Unfortunately, you won’t be able to share this truth with everyone. Please accept our cybercondolences...\nIf you’re wondering how this story ended in the real world - well, according to the laws of the universe, you don’t care anymore. But you can be certain that your distant relatives have received 10,000 cr. in death benefits.
+finishVictoryText=Congratulations, you won!
+spaceMapHint=SET THE COURSE
+spaceMapCanJump=JUMP TO <color=#55f340ff>{0}</color>\n<color=#ffdb14ff>{1}</color> FUEL//0 - name of the system, 1 - amount of fuel, expressed with a number
+spaceMapCanNotJumpNotEnoughtFuel=<color=#df2828ff>NOT ENOUGH FUEL</color>\nREQUIRED AMOUNT: <color=#ffdb14ff>{0}</color>//0 - amount of fuel, expressed with a number
+spaceMapCanNotJumpWeakEngine=<color=#df2828ff>ENGINE TOO WEAK</color>\nREQUIRED POWER: <color=#ffdb14ff>{0}</color>//0 - engine power, expressed with a number
+spaceMapTeleport=TELEPORT TO <color=#8986ff>{0}</color>//0 - name of the system
+spaceMapTeleportHint=SELECT A TARGET TO\n<color=#8986ff>TELEPORT TO</color>
+spaceMapBrowsing=TO <color=#ffdb14ff>{0}</color>\n<color=#ffdb14ff>{1}</color> {2}//0 - name of the system, 1 - distance, expressed with a number, 2 - the word "parsec" in the right form
+spaceBaseTitle={0} {1}//0 - base type, 1 - base name (For example, 0 - "Military Base" 1 - "Vigilance")
+spaceBaseTitleColored={0} <color=#edc111>{1}</color>//0 - base type, 1 - base name (For example, 0 - "Military Base" 1 - "Vigilance")
+teleportUsesLeftLabel=CHARGES
+dockingCount=Landings: <color=#edc111>{0}</color>//0 - amount of landings, expressed with a number
+fuelStatusTextTemplate=Fuel on board: <color=#ffc900>{0}/{1}</color>\n\nFuel price: <color=#ffc900>{2}\u00A0cr</color> per <color=#ffc900>1\u00A0unit</color>\n\nFilling your tank will cost <color=#ffc900>{3}\u00A0cr</color>//0 - current fuel amount expressed with a number, 1 - max fuel amount expressed with a number, 2 - price per unit expressed with a number, 3 - total cost expressed with a number
+fuelConfirmationTextTemplate=Do you really want to buy <color=#ffc900>{0}\u00A0{1}</color> of fuel for <color=#ffc900>{2}\u00A0cr</color>?//0 - amount of fuel expressed with a number, 1 - the word "unit" in the right form, 2 - the total purchase sum expressed with a number
+docking=Docking:
+spaceNoQuestsHint=There are no quests in this system
+spaceNoBonusesHint=No data
+scanConfirmation=Do you really want to initiate <color=#ffc900>scanning</color>?
+scanNotAvailable=Scanning unavailable!
+randomMessengerFound=You got lucky! You found a messenger, but your hints pointed to a different one. Which means they still can be used!
+hintMapButton=Space Map (<color=#ffc900>M</color>)
+hintMenuButton=In-Game Menu (<color=#ffc900>ESC</color>)
+hintScanButton=Scan (<color=#ffc900>S</color>)
+hintRefuelButton=Refuel (<color=#ffc900>R</color>)
+hintBackToSpaceButton=Back to Space (<color=#ffc900>M</color>)
+
+attackFreeRemaining=Protection from attacks for <clr>{0}<clrEnd> {1}.//0 - number, 1 - the word "parsec" in the right form
+pirateDefenseRemaining=<clr>{0}%</color> protection from pirates for <clr>{1}</color> {2}.//0 - protection percentage, 1 - number, 2 - the word "day" in the right form
+escortRemaining=Escort <clr>+{0}%</color> attack and defense for <clr>{1}</color> {2}.//0 - percentage of attack and defense, 1 - number, 2 - the word "day" in the right form
+stimulantRemaining=The <clr>{0}</color> stimulant will last for <clr>{1}</color> {2}.//0 - name, 1 - number, 2 - the word "day" in the right form
+deliveryRemaining=Deliver the cargo to {0} within <clr>{1}</color> {2}. Reward: <clr>{3}</color> cr.//0 - name of the system, 1 - number of days, 2 - the word "day" in the right form, 3 - reward expressed with a number
+deliveryFailed=You failed to deliver the cargo on time. The client will be very unhappy!
+deliveryDestinationFormat=<clr>{0}<clrEnd>, <clr>{1}<clrEnd> Sector//0 - name of the system, 1 - name of the sector
+stimulantOneName=number one
+stimulantTwoName=number two
+teleportDescription=You have a teleportation device
+teleportUsesLeft=CHARGES: <color=#EDC111FF>{0}</color>//0 - number
+loanNormal=You must repay your debt of <clr>{0} cr.</color> Time remaining: <clr>{1} {2}</color>//0 - number, 1 - amount of days expressed with a number, 2 - the word "day" in the right form
+loanOverdue=You failed to pay off the loan in time. Now you must pay <clr>{0} cr.</color>, out of which: <clr>{1} cr.</color> – loan amount, and <clr>{2} cr.</color> – late fee.//0, 1, 2 - numbers
+messengerVisitedLabel=Messengers found: <color=#EDC111FF>{0}</color>/<color=#EDC111FF>{1}</color>//0 - number, 1 - number
+luckStage0=You’re a complete loser
+luckStage1=You’re often unlucky
+luckStage2=Your luck is mixed
+luckStage3=Luck favors you
+luckStage4=You’re incredibly lucky
+parsecOne=parsec
+parsecFew=parsecs
+parsecMany=parsecs
+dayOne=day
+dayFew=days
+dayMany=days
+literOne=unit
+literFew=units
+literMany=units
+baseOne=base
+baseFew=bases
+baseMany=bases
+starOne=star
+starFew=stars
+starMany=stars
+monthJanuary=January
+monthFebruary=February
+monthMarch=March
+monthApril=April
+monthMay=May
+monthJune=June
+monthJuly=July
+monthAugust=August
+monthSeptember=September
+monthOctober=October
+monthNovember=November
+monthDecember=December
+scanPanelScanned=Scanned
+scanPanelNotScanned=Not scanned
+scanAlreadyScanned=You’ve already scanned this system
+scanConfirmation=Do you really want to initiate <color=#ffc900>scanning</color>?
+scanFree=<color=#FFC900FF>For free</color>
+textPanelTitleBonuses=BONUSES AND PENALTIES
+textPanelTitleQuests=TEXT QUEST
+textPanelTitleOther=MESSENGERS
+musicPlayerNowPlaying=Now playing:
+legendTitle=Notes
+legendPlayerHere=You are here
+legendRouteLink=Route point
+legendRouteEnd=End of route
+legendScanned=Scanned
+legendHint=Tap and hold the system to view a hint!
+exitToMenuConfirmation=Do you really want to exit to the Menu?\n(Your game will be saved)
+nothingFoundAfterScan=Scanning revealed nothing.\nTime to move on to another system!

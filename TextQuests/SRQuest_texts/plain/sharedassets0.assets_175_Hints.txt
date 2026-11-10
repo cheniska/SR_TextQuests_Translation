@@ -1,0 +1,16 @@
+hintStarStellarClass=Search for the messenger near the <color=#EDC111FF>{0}</color> class star//0 - star class
+hintStarMasterRace=Perhaps the messenger is in the system run by the <color=#EDC111FF>{0}</color>//0 - race
+hintStarRaces=Try searching in the systems populated by the <color=#EDC111FF>{0}</color> and the <color=#EDC111FF>{1}</color>//0, 1 - races
+hintStarRace=The messenger you’re searching for is most likely stuck in the system populated by the <color=#EDC111FF>{0}</color>//0 race
+hintStarExcludedRace=The object you’re searching for is definitely not in any systems populated by the <color=#EDC111FF>{0}</color>//0 - race
+hintStarBaseType=The last time he was seen, the messenger was heading into a system with a <color=#EDC111FF>{0}</color>//0 - base type
+hintStarBaseCount=In the system you seek, you’ll find <color=#EDC111FF>{0} {1}</color>//0 - number of systems expressed with a word (hintStarBaseCountNo/hintStarBaseCountOne/hintStarBaseCountTwo, are inserted, they can be found below), 1 - the word "base" in the right form
+hintStarBaseCountNo=none
+hintStarBaseCountOne=one
+hintStarBaseCountTwo=two
+hintSectorName=You will definitely find the messenger in the <color=#EDC111FF>{0}</color> sector//0 - name of the sector
+hintSectorStarCount=The messenger is in a sector with <color=#EDC111FF>{0} {1}</color>//0 - number of systems expressed with a digit, 1 - the word "system" in the right form
+hintSystemName0=Look for the messenger in the <color=#EDC111FF>{0}</color> system. And hurry//0 - name of the system
+hintSystemName1=Fly to the <color=#EDC111FF>{0}</color> system. The messenger is waiting for you there//0 - name of the system
+hintFinalSystem=The Dominators’ boss is in the <color=#EDC111FF>{0}</color> system//0 - name of the system
+hintDistance=The distance from the <color=#FFC900>{0}</color> system to the target is between <color=#FFC900>{1}</color> and <color=#FFC900>{2}</color> {3}//0 - name of the system, 1 и 2 - numbers, 3 -the word "parsec" in the right form
