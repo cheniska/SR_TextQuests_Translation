@@ -1,0 +1,542 @@
+{
+  "models": [
+    {
+      "id": 1,
+      "folder": "std_ds",
+      "class": 2,
+      "textures": [
+        "ship/std_ds/clr.atf.gz",
+        "ship/std_ds/dif.atf.gz",
+        "ship/std_ds/lum.atf.gz"
+      ],
+      "parts": [
+        "ship/std_ds/p1.mesh.gz",
+        "ship/std_ds/p2.mesh.gz",
+        "ship/std_ds/p3.mesh.gz"
+      ],
+      "slots": {
+        "SlotCannon": "0",
+        "SlotDefence": "0",
+        "SlotHybrid": "3",
+        "SlotMissile": "2",
+        "SlotSupply": "4",
+        "SlotCore": "4",
+        "SlotAll": "30"
+      }
+    },
+    {
+      "id": 2,
+      "folder": "std_fr",
+      "class": 1,
+      "textures": [
+        "empty",
+        "ship/std_fr/clr1.atf.gz",
+        "ship/std_fr/clr2.atf.gz",
+        "ship/std_fr/dif1.atf.gz",
+        "ship/std_fr/dif2.atf.gz",
+        "ship/std_fr/lum2.atf.gz"
+      ],
+      "parts": [
+        "ship/std_fr/p1.mesh.gz",
+        "ship/std_fr/p2.mesh.gz"
+      ],
+      "slots": {
+        "SlotCannon": "0",
+        "SlotDefence": "0",
+        "SlotHybrid": "1",
+        "SlotMissile": "4",
+        "SlotSupply": "4",
+        "SlotCore": "4",
+        "SlotAll": "30"
+      }
+    },
+    {
+      "id": 3,
+      "folder": "gr_drone",
+      "class": 5,
+      "textures": [
+        "ship/gr_drone/clr.atf.gz",
+        "ship/gr_drone/dif.atf.gz",
+        "ship/gr_drone/lum.atf.gz"
+      ],
+      "parts": [
+        "ship/gr_drone/p1.mesh.gz",
+        "ship/gr_drone/p2.mesh.gz"
+      ],
+      "slots": {
+        "SlotCannon": "0",
+        "SlotDefence": "0",
+        "SlotHybrid": "1",
+        "SlotMissile": "2",
+        "SlotSupply": "3",
+        "SlotCore": "2",
+        "SlotAll": "20"
+      }
+    },
+    {
+      "id": 4,
+      "folder": "std_sy",
+      "class": 6,
+      "textures": [
+        "ship/std_sy/clr.atf.gz",
+        "ship/std_sy/dif.atf.gz",
+        "ship/std_sy/lum.atf.gz"
+      ],
+      "parts": [
+        "ship/std_sy/p1.mesh.gz",
+        "ship/std_sy/door.mesh.gz"
+      ],
+      "slots": {
+        "SlotCannon": "0",
+        "SlotDefence": "1",
+        "SlotHybrid": "0",
+        "SlotMissile": "4",
+        "SlotSupply": "4",
+        "SlotCore": "4",
+        "SlotAll": "30"
+      }
+    },
+    {
+      "id": 5,
+      "folder": "dakat_drone",
+      "class": 5,
+      "textures": [
+        "black",
+        "ship/dakat_drone/dif.atf.gz",
+        "ship/dakat_drone/lum.atf.gz"
+      ],
+      "parts": [
+        "ship/dakat_drone/p1.mesh.gz"
+      ],
+      "slots": {
+        "SlotCannon": "0",
+        "SlotDefence": "0",
+        "SlotHybrid": "1",
+        "SlotMissile": "2",
+        "SlotSupply": "3",
+        "SlotCore": "1",
+        "SlotAll": "20"
+      }
+    },
+    {
+      "id": 6,
+      "folder": "dakat_bs",
+      "class": 3,
+      "textures": [
+        "black",
+        "ship/dakat_bs/dif1.atf.gz",
+        "ship/dakat_bs/dif2.atf.gz",
+        "ship/dakat_bs/dif3.atf.gz",
+        "ship/dakat_bs/lum1.atf.gz",
+        "ship/dakat_bs/lum2.atf.gz",
+        "ship/dakat_bs/lum3.atf.gz"
+      ],
+      "parts": [
+        "ship/dakat_bs/p1.mesh.gz",
+        "ship/dakat_bs/p2.mesh.gz",
+        "ship/dakat_bs/p3.mesh.gz"
+      ],
+      "slots": {
+        "SlotCannon": "0",
+        "SlotDefence": "1",
+        "SlotHybrid": "0",
+        "SlotAxialLaser": "1",
+        "SlotMissile": "2",
+        "SlotSupply": "4",
+        "SlotCore": "5",
+        "SlotAll": "30"
+      }
+    },
+    {
+      "id": 7,
+      "folder": "dakat_ds",
+      "class": 2,
+      "textures": [
+        "black",
+        "ship/dakat_bs/dif1.atf.gz",
+        "ship/dakat_bs/lum1.atf.gz"
+      ],
+      "parts": [
+        "ship/dakat_ds/p1.mesh.gz"
+      ],
+      "slots": {
+        "SlotCannon": "0",
+        "SlotDefence": "1",
+        "SlotHybrid": "0",
+        "SlotAxialLaser": "0",
+        "SlotMissile": "6",
+        "SlotSupply": "4",
+        "SlotCore": "4",
+        "SlotAll": "20"
+      }
+    }
+  ],
+  "features": {
+    "Grantar": "- Структура кораблей на 60% больше.[br]- Девастаторы аннигилируют быстрее и наносят вражеским кораблям дополнительно 100% урона.[br]",
+    "Peleng": "- Скорость кораблей на 50% больше, что позволяет покинуть бой, при этом не теряя скорость при уходе с орбиты вражеской планеты.[br]- На передовой ударная сила кораблей увеличивается на 50%.[br]- Крейсеры на передовой с вероятностью 20% взламывают 4 крейсера противника.[br]",
+    "People": "- В бою корабли используют нанитов, которые разбирают структуру вражеских кораблей для ремонта своих собственных. Что увеличивает урон на 30% и ремонтирует собственные корабли со скорость 25% от повреждений вражеских кораблей.[br]",
+    "Technol": "- Корабли, при потере 50% структуры, оснащены энергетическим щитом, который блокирует 95% повреждений с 30% коэффициентом рассеивания.[br]- Дредноуты могут менять режим лазера с боевого на трансиверный. Что позволяет восстанавливать щиты у кораблей.[br]",
+    "Gaal": "- Корабли оснащены барьером, который уменьшает урон на 25%, при этом накапливает энергию, позволяющую мгновенно нанести большой урон вражеским кораблям.[br]"
+  },
+  "quests": [
+    {
+      "file": "training.txt",
+      "stages": [
+        "qStartTraining",
+        "qShootDakat",
+        "qTakeTrophy",
+        "qInsertReactor",
+        "qTakeCoreAndGenerator",
+        "qQuarkCoreTrophy",
+        "qBigRepair",
+        "qEnterCotlHome",
+        "qFindHomeworld",
+        "qNewHomeworld",
+        "qFirstCapture",
+        "qKillCorvette",
+        "qBuildLab",
+        "qBuildServiceBase",
+        "qTradePath",
+        "qPrepareBattle1",
+        "qBattle1",
+        "qSecondCapture",
+        "qPrepareBattle2",
+        "qBattle2",
+        "qThirdCapture",
+        "qBalance1",
+        "qBalance2",
+        "qBuildModule",
+        "qBattle3",
+        "qDestroyDreadnought",
+        "qBattle4",
+        "qFourCapture",
+        "qSciPortal",
+        "qNoDefect",
+        "qPrepareLeap",
+        "qLeap",
+        "qLeapPortal",
+        "qFinalBattle",
+        "qFinalBattleTwo",
+        "qEnd"
+      ],
+      "headers": 235,
+      "options": 723,
+      "calls": [
+        [
+          91,
+          "Call=home OpenMap 0"
+        ],
+        [
+          105,
+          "Call=home OpenMap 0"
+        ],
+        [
+          293,
+          "Call=home OpenMap 0"
+        ],
+        [
+          376,
+          "Call=home OpenMap 0"
+        ],
+        [
+          433,
+          "Call=home OpenMap 0"
+        ],
+        [
+          582,
+          "Call=home OpenMap 0"
+        ],
+        [
+          660,
+          "Call=home OpenMap 0"
+        ],
+        [
+          738,
+          "Call=home OpenMap 1"
+        ],
+        [
+          838,
+          "Call=home OpenMap 1"
+        ],
+        [
+          925,
+          "Call=home OpenMap 2"
+        ],
+        [
+          986,
+          "Call=home OpenMap 3"
+        ],
+        [
+          1058,
+          "Call=home OpenMap 4"
+        ],
+        [
+          1226,
+          "Call=home OpenMap 5"
+        ],
+        [
+          1344,
+          "Call=home OpenMap 6"
+        ],
+        [
+          1377,
+          "Call=home OpenMap 7"
+        ],
+        [
+          1414,
+          "Call=home OpenMap 8"
+        ],
+        [
+          1442,
+          "Call=home OpenMap 9"
+        ],
+        [
+          1483,
+          "Call=home OpenMap 9"
+        ],
+        [
+          1531,
+          "Call=home OpenMap 9"
+        ],
+        [
+          1617,
+          "Call=home OpenMap 9"
+        ],
+        [
+          1681,
+          "Call=home OpenMap 10"
+        ],
+        [
+          1753,
+          "Call=home OpenMap 11"
+        ],
+        [
+          1791,
+          "Call=home OpenMap 12"
+        ],
+        [
+          1881,
+          "Call=home OpenMap 13"
+        ],
+        [
+          2002,
+          "Call=home OpenMap 14"
+        ],
+        [
+          2065,
+          "Call=home OpenMap 14"
+        ],
+        [
+          2126,
+          "Call=home OpenMap 15"
+        ],
+        [
+          2170,
+          "Call=home Arrival 1"
+        ],
+        [
+          2217,
+          "Call=home Arrival 2"
+        ],
+        [
+          2234,
+          "Call=home Arrival 3"
+        ]
+      ],
+      "transitions": [
+        [
+          16,
+          "if(!firstAttackRun && CurQuestName()==\"qFindHomeworld\" && IsFlagshipIn(-1,RootCotlId(),0,-4,0)) { firstAttackRun=true; OpenQuestDialog(\"training\",\"firstAttack\"); }"
+        ],
+        [
+          17,
+          "if(InHome() && HomeworldCotlId() && !IsRunQuest(\"research\") && CurQuestName()==\"qFirstCapture\") RunQuest(\"research\",null,false);"
+        ],
+        [
+          314,
+          "{hellos=false; hello=true; GoTo(\"iHaveManyQS\");}"
+        ],
+        [
+          1276,
+          "if(!IsRunQuest(\"training2\")) RunQuest(\"training2\");"
+        ],
+        [
+          1277,
+          "else OpenQuestDialog(\"training2\");"
+        ],
+        [
+          1885,
+          "if(!IsRunQuest(\"planetsiege\")) RunQuest(\"planetsiege\");"
+        ]
+      ]
+    },
+    {
+      "file": "training2.txt",
+      "stages": [
+        "qFlyToAntikora",
+        "qMeetStorage",
+        "qOpenStorage",
+        "qTakeRepairDroids",
+        "qCarryToKarows",
+        "qFinalTalkEfinay"
+      ],
+      "headers": 35,
+      "options": 39,
+      "calls": [
+        [
+          244,
+          "Call=home OpenSklad"
+        ]
+      ],
+      "transitions": [
+        [
+          165,
+          "GoTo(\"theFinal\");"
+        ],
+        [
+          196,
+          "{hello=false; codepass(Rnd(0,9)); GoTo(\"begin\");}"
+        ],
+        [
+          199,
+          "{hello=false; n_pass1+=7; n_pass2+=7; n_pass3+=7; n_pass4+=7; codepass(Rnd(0,9)); GoTo(\"begin\");}"
+        ],
+        [
+          202,
+          "{hello=false; n_pass3+=3; n_pass4+=3; codepass(); GoTo(\"begin\");}"
+        ],
+        [
+          205,
+          "{hello=false; n_pass2+=3; n_pass4+=3; codepass(); GoTo(\"begin\");}"
+        ],
+        [
+          208,
+          "{hello=false; n_pass4+=1; codepass(); GoTo(\"begin\");}"
+        ],
+        [
+          211,
+          "{hello=false; n_pass1+=3; n_pass2+=3; n_pass3+=3; n_pass4+=3; n_pass5+=3; codepass(Rnd(0,9)); GoTo(\"begin\");}"
+        ]
+      ]
+    },
+    {
+      "file": "research.txt",
+      "stages": [
+        "qFirst",
+        "qTransport1",
+        "qDreadnought1",
+        "qDevastator1",
+        "qWarBase0",
+        "qWarBase1",
+        "qSciBase1",
+        "qShipyard",
+        "qLast"
+      ],
+      "headers": 42,
+      "options": 128,
+      "calls": [],
+      "transitions": []
+    },
+    {
+      "file": "planetsiege.txt",
+      "stages": [
+        "qFlyToCorrectPlace",
+        "qNowCorrectPlace",
+        "qStartRocket",
+        "qFlyRocket",
+        "qWin"
+      ],
+      "headers": 155,
+      "options": 265,
+      "calls": [
+        [
+          1219,
+          "Call=home DestroyGen"
+        ]
+      ],
+      "transitions": [
+        [
+          189,
+          "GoTo(\"shooting\");"
+        ],
+        [
+          1127,
+          "{hello=false; flyrocket(); GoTo(\"begin\");}"
+        ],
+        [
+          1133,
+          "GoTo(\"talkLose\");"
+        ],
+        [
+          1162,
+          "{if(ratiotarget>warheads) GoTo(\"talkLose\"); else NextQuest(\"qWin\");}"
+        ],
+        [
+          1166,
+          "{if (target==1) NextQuest(\"qWin\"); else GoTo(\"shooting\");}"
+        ],
+        [
+          1170,
+          "{if (target==2) NextQuest(\"qWin\"); else GoTo(\"shooting\");}"
+        ],
+        [
+          1174,
+          "{if (target==3) NextQuest(\"qWin\"); else GoTo(\"shooting\");}"
+        ],
+        [
+          1178,
+          "{if (target==4) NextQuest(\"qWin\"); else GoTo(\"shooting\");}"
+        ],
+        [
+          1182,
+          "{if (target==5) NextQuest(\"qWin\"); else GoTo(\"shooting\");}"
+        ],
+        [
+          1186,
+          "{if (target==6) NextQuest(\"qWin\"); else GoTo(\"shooting\");}"
+        ],
+        [
+          1190,
+          "{if (target==7) NextQuest(\"qWin\"); else GoTo(\"shooting\");}"
+        ],
+        [
+          1194,
+          "{if (target==8) NextQuest(\"qWin\"); else GoTo(\"shooting\");}"
+        ],
+        [
+          1198,
+          "{if (target==9) NextQuest(\"qWin\"); else GoTo(\"shooting\");}"
+        ],
+        [
+          1214,
+          "{warheads=10; flystage=1; cannon=3; shot=0; chflares=4; ecm=0; target=Rnd(1,9); ratiotarget=Rnd(0,9); hits=Rnd(1,2); texta=0; textb=0; textc=0; textd=0; texte=0; textf=0; textg=0; texth=0; texti=0; textall=0; hellos=true; hello=true; GoTo(\"begin\");}"
+        ]
+      ]
+    }
+  ],
+  "counts": {
+    "main": {
+      "scripts": 920,
+      "images": 513,
+      "text_tags": 0
+    },
+    "gship": {
+      "scripts": 102,
+      "images": 50,
+      "text_tags": 0
+    },
+    "gcommon": {
+      "scripts": 115,
+      "images": 81,
+      "text_tags": 0
+    },
+    "gplanet": {
+      "scripts": 104,
+      "images": 104,
+      "text_tags": 0
+    }
+  },
+  "2d_ship_gallery_count": 45,
+  "portrait_count": 33,
+  "equipment_images": 42
+}
