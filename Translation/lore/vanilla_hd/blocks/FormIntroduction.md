@@ -2,14 +2,14 @@
 
 | Строка оригинала | Ключ | Разбор | Основание |
 |---|---|---|---|
-| [2575](../../source/SR_2_HD_Lang_vanilla.txt#L2575) | `FormIntroduction.MCW1` | Требует контекста | Фрагмент: «Создание галактики» |
-| [2576](../../source/SR_2_HD_Lang_vanilla.txt#L2576) | `FormIntroduction.MCW2` | Требует контекста | Фрагмент: «Создание звезд» |
-| [2577](../../source/SR_2_HD_Lang_vanilla.txt#L2577) | `FormIntroduction.MCW3` | Требует контекста | Фрагмент: «Создание планет» |
-| [2578](../../source/SR_2_HD_Lang_vanilla.txt#L2578) | `FormIntroduction.MCW4` | Требует контекста | Фрагмент: «Распределение квестов» |
-| [2579](../../source/SR_2_HD_Lang_vanilla.txt#L2579) | `FormIntroduction.MCW5` | Требует контекста | Фрагмент: «Генерация кораблей» |
-| [2580](../../source/SR_2_HD_Lang_vanilla.txt#L2580) | `FormIntroduction.MCW6` | Требует контекста | Фрагмент: «Создание баз» |
-| [2581](../../source/SR_2_HD_Lang_vanilla.txt#L2581) | `FormIntroduction.MCW7` | Требует контекста | Фрагмент: «Проходит время» |
-| [2582](../../source/SR_2_HD_Lang_vanilla.txt#L2582) | `FormIntroduction.MCW8` | Требует контекста | Фрагмент: «Готово» |
+| [2575](../../source/SR_2_HD_Lang_vanilla.txt#L2575) | `FormIntroduction.MCW1` | Текст для сверки | Создание галактики |
+| [2576](../../source/SR_2_HD_Lang_vanilla.txt#L2576) | `FormIntroduction.MCW2` | Текст для сверки | Создание звезд |
+| [2577](../../source/SR_2_HD_Lang_vanilla.txt#L2577) | `FormIntroduction.MCW3` | Текст для сверки | Создание планет |
+| [2578](../../source/SR_2_HD_Lang_vanilla.txt#L2578) | `FormIntroduction.MCW4` | Текст для сверки | Распределение квестов |
+| [2579](../../source/SR_2_HD_Lang_vanilla.txt#L2579) | `FormIntroduction.MCW5` | Текст для сверки | Генерация кораблей |
+| [2580](../../source/SR_2_HD_Lang_vanilla.txt#L2580) | `FormIntroduction.MCW6` | Текст для сверки | Создание баз |
+| [2581](../../source/SR_2_HD_Lang_vanilla.txt#L2581) | `FormIntroduction.MCW7` | Текст для сверки | Проходит время |
+| [2582](../../source/SR_2_HD_Lang_vanilla.txt#L2582) | `FormIntroduction.MCW8` | Текст для сверки | Готово |
 | [2583](../../source/SR_2_HD_Lang_vanilla.txt#L2583) | `FormIntroduction.Text#1` | Проверено по оригиналу | [Общее → Организации](../lore/COALITION.md#организации). В речи новобранцам рейнджеров противопоставляют регулярным войскам: рейнджер сам отвечает за командование и снабжение.<br>[Общее → История](../lore/COALITION.md#история). На открытии игры новобранцам рассказывают, что примерно триста лет назад рейнджеры раскрыли тайну Махпеллы и завершили клисанскую войну. |
 | [2584](../../source/SR_2_HD_Lang_vanilla.txt#L2584) | `FormIntroduction.Text#2` | Проверено по оригиналу | [Общее → История](../lore/COALITION.md#история). Согласно вступлению, Коалиция столкнулась с доминаторами за шесть лет до речи новобранцам. Первоначальная оценка о единственном управляющем центре оказалась ошибочной. |
 | [2585](../../source/SR_2_HD_Lang_vanilla.txt#L2585) | `FormIntroduction.Text#3` | Проверено по оригиналу | [Общее → Политика](../lore/COALITION.md#политика). Во вступлении Коалиция воюет одновременно с доминаторами и пиратами. Инструктор сообщает о негласном распоряжении врачам считать всех новобранцев годными. |

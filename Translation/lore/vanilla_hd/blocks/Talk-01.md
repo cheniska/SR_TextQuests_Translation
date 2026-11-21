@@ -3,702 +3,702 @@
 | Строка оригинала | Ключ | Разбор | Основание |
 |---|---|---|---|
 | [27844](../../source/SR_2_HD_Lang_vanilla.txt#L27844) | `Talk.Accept` | Реплика | Короткая реакция или команда. Самостоятельный факт не выделен. |
-| [27846](../../source/SR_2_HD_Lang_vanilla.txt#L27846) | `Talk.Attack.ComputerAsk` | Требует контекста | Фрагмент: «Очень интересно.» |
-| [27847](../../source/SR_2_HD_Lang_vanilla.txt#L27847) | `Talk.Attack.ComputerAsk1` | Требует контекста | Фрагмент: «Для начала мне хотелось бы узнать, с кем ты предлагаешь сразиться.» |
-| [27848](../../source/SR_2_HD_Lang_vanilla.txt#L27848) | `Talk.Attack.ComputerAsk2` | Требует контекста | Фрагмент: «А кого ты избрал в качестве объекта для атаки?» |
-| [27849](../../source/SR_2_HD_Lang_vanilla.txt#L27849) | `Talk.Attack.ComputerAsk3` | Требует контекста | Фрагмент: «Пока не знаю.» |
-| [27850](../../source/SR_2_HD_Lang_vanilla.txt#L27850) | `Talk.Attack.ComputerAsk4` | Требует контекста | Фрагмент: «Хм, и на кого ты хотел бы, чтобы я напал?» |
-| [27851](../../source/SR_2_HD_Lang_vanilla.txt#L27851) | `Talk.Attack.ComputerInFear` | Требует контекста | Фрагмент: «В данный момент я намерен решать свои проблемы.» |
-| [27852](../../source/SR_2_HD_Lang_vanilla.txt#L27852) | `Talk.Attack.ComputerInFear1` | Требует контекста | Фрагмент: «Боюсь, ничем не могу тебе помочь.» |
-| [27853](../../source/SR_2_HD_Lang_vanilla.txt#L27853) | `Talk.Attack.ComputerInFear2` | Требует контекста | Фрагмент: «Мне надо маленько прийти в себя, успокоиться...» |
-| [27854](../../source/SR_2_HD_Lang_vanilla.txt#L27854) | `Talk.Attack.ComputerInFear3` | Требует контекста | Фрагмент: «Пусть другие идиоты лезут в драку, а я посижу в сторонке и посмотрю.» |
-| [27855](../../source/SR_2_HD_Lang_vanilla.txt#L27855) | `Talk.Attack.ComputerInFear4` | Требует контекста | Фрагмент: «Извини, но сейчас я могу думать только о том, как бы унести отсюда ноги подобру-поздорову.» |
-| [27856](../../source/SR_2_HD_Lang_vanilla.txt#L27856) | `Talk.Attack.ComputerReadyAttack` | Требует контекста | Фрагмент: «Я уже дерусь с &lt;Target&gt;, можешь помочь?» |
-| [27857](../../source/SR_2_HD_Lang_vanilla.txt#L27857) | `Talk.Attack.ComputerReadyAttack1` | Требует контекста | Фрагмент: «У меня тут уже вовсю кипит сражение с &lt;Target&gt;.» |
-| [27858](../../source/SR_2_HD_Lang_vanilla.txt#L27858) | `Talk.Attack.ComputerReadyAttack2` | Требует контекста | Фрагмент: «Я сейчас выясняю отношения с &lt;Target&gt;.» |
-| [27859](../../source/SR_2_HD_Lang_vanilla.txt#L27859) | `Talk.Attack.ComputerReadyAttack3` | Требует контекста | Фрагмент: «Сначала помоги мне в битве с &lt;Target&gt;.» |
-| [27860](../../source/SR_2_HD_Lang_vanilla.txt#L27860) | `Talk.Attack.ComputerReadyAttack4` | Требует контекста | Фрагмент: «Сейчас я занят боем с &lt;Target&gt;.» |
-| [27861](../../source/SR_2_HD_Lang_vanilla.txt#L27861) | `Talk.Attack.DiplomatFear` | Требует контекста | Фрагмент: «Ну и предложение...» |
-| [27862](../../source/SR_2_HD_Lang_vanilla.txt#L27862) | `Talk.Attack.DiplomatFear1` | Требует контекста | Фрагмент: «Я, как мирный дипломат, не намерен подвергать свою жизнь опасности.» |
-| [27863](../../source/SR_2_HD_Lang_vanilla.txt#L27863) | `Talk.Attack.DiplomatFear2` | Требует контекста | Фрагмент: «Риск слишком велик, а у меня еще много неоконченных дел в этом мире.» |
-| [27864](../../source/SR_2_HD_Lang_vanilla.txt#L27864) | `Talk.Attack.DiplomatFear3` | Требует контекста | Фрагмент: «Если ты готов рискнуть своей головой в заведомо безнадежной кампании - это твои проблемы.» |
-| [27865](../../source/SR_2_HD_Lang_vanilla.txt#L27865) | `Talk.Attack.DiplomatFear4` | Требует контекста | Фрагмент: «Я предпочитаю улаживать конфликты дипломатическим путем, особенно когда приходится иметь дело с превосходящим противником.» |
-| [27866](../../source/SR_2_HD_Lang_vanilla.txt#L27866) | `Talk.Attack.DiplomatHaveBusiness` | Требует контекста | Фрагмент: «У меня полно других дел, и я очень спешу.» |
-| [27867](../../source/SR_2_HD_Lang_vanilla.txt#L27867) | `Talk.Attack.DiplomatHaveBusiness1` | Требует контекста | Фрагмент: «К сожалению, я сейчас спешу на крайне важное совещание и, похоже, уже опаздываю...» |
-| [27868](../../source/SR_2_HD_Lang_vanilla.txt#L27868) | `Talk.Attack.DiplomatHaveBusiness2` | Требует контекста | Фрагмент: «Вообще-то я дипломат, и мое призвание - улаживать конфликты, а не развязывать их.» |
-| [27869](../../source/SR_2_HD_Lang_vanilla.txt#L27869) | `Talk.Attack.DiplomatHaveBusiness3` | Требует контекста | Фрагмент: «Если бы не спешка, непременно задержался бы и помог тебе.» |
-| [27870](../../source/SR_2_HD_Lang_vanilla.txt#L27870) | `Talk.Attack.DiplomatHaveBusiness4` | Требует контекста | Фрагмент: «Я взвесил ваше предложение, и вынужден ответить отказом.» |
-| [27871](../../source/SR_2_HD_Lang_vanilla.txt#L27871) | `Talk.Attack.DiplomatItsMyTranc` | Требует контекста | Фрагмент: «Я нахожу подобную шутку крайне бестактной и неуместной, &lt;Player&gt; - найдите себе другую забаву.» |
-| [27872](../../source/SR_2_HD_Lang_vanilla.txt#L27872) | `Talk.Attack.DiplomatItsYourTranc` | Требует контекста | Фрагмент: «Боюсь, что подобные действия могут серьёзно подорвать наши с вами взаимоотношения.» |
-| [27873](../../source/SR_2_HD_Lang_vanilla.txt#L27873) | `Talk.Attack.DiplomatOk` | Требует контекста | Фрагмент: «Я согласен прервать на время свою миссию и присоединиться к тебе.» |
-| [27874](../../source/SR_2_HD_Lang_vanilla.txt#L27874) | `Talk.Attack.DiplomatOk1` | Требует контекста | Фрагмент: «Этот субъект нелоялен по отношению к моему правительству, и я с легким сердцем могу его уничтожить.» |
-| [27875](../../source/SR_2_HD_Lang_vanilla.txt#L27875) | `Talk.Attack.DiplomatOk2` | Требует контекста | Фрагмент: «Что ж, вообще-то я против решения конфликтов силовым путем, но для данного случая можно сделать исключение.» |
-| [27876](../../source/SR_2_HD_Lang_vanilla.txt#L27876) | `Talk.Attack.DiplomatOk3` | Требует контекста | Фрагмент: «В прошлом я был военным, и до сих пор тоскую по битвам.» |
-| [27877](../../source/SR_2_HD_Lang_vanilla.txt#L27877) | `Talk.Attack.DiplomatOk4` | Требует контекста | Фрагмент: «Я всего лишь скромный дипломат, но сделаю все, что в моих силах, чтобы помочь вам.» |
-| [27878](../../source/SR_2_HD_Lang_vanilla.txt#L27878) | `Talk.Attack.DiplomatSend` | Требует контекста | Фрагмент: «Прошу оказать мне содействие в бою с &lt;Target&gt;.» |
-| [27879](../../source/SR_2_HD_Lang_vanilla.txt#L27879) | `Talk.Attack.DiplomatSend1` | Требует контекста | Фрагмент: «Мне нужна помощь.» |
-| [27880](../../source/SR_2_HD_Lang_vanilla.txt#L27880) | `Talk.Attack.DiplomatSend2` | Требует контекста | Фрагмент: «Я вынужден сразиться с &lt;Target&gt;.» |
-| [27881](../../source/SR_2_HD_Lang_vanilla.txt#L27881) | `Talk.Attack.DiplomatSend3` | Требует контекста | Фрагмент: «Требуется помощь в битве с &lt;Target&gt;.» |
-| [27882](../../source/SR_2_HD_Lang_vanilla.txt#L27882) | `Talk.Attack.DiplomatSend4` | Требует контекста | Фрагмент: «Как вы относитесь к предложению атаковать &lt;Target&gt;?» |
-| [27883](../../source/SR_2_HD_Lang_vanilla.txt#L27883) | `Talk.Attack.DiplomatSuspect` | Требует контекста | Фрагмент: «Я не имею достаточных оснований доверять тебе.» |
-| [27884](../../source/SR_2_HD_Lang_vanilla.txt#L27884) | `Talk.Attack.DiplomatSuspect1` | Требует контекста | Фрагмент: «Совместное нападение - серьезное мероприятие.» |
-| [27885](../../source/SR_2_HD_Lang_vanilla.txt#L27885) | `Talk.Attack.DiplomatSuspect2` | Требует контекста | Фрагмент: «Я склонен дать отрицательный ответ.» |
-| [27886](../../source/SR_2_HD_Lang_vanilla.txt#L27886) | `Talk.Attack.DiplomatSuspect3` | Требует контекста | Фрагмент: «Я не намерен задерживаться и помогать тем, кому не вполне доверяю.» |
-| [27887](../../source/SR_2_HD_Lang_vanilla.txt#L27887) | `Talk.Attack.DiplomatSuspect4` | Требует контекста | Фрагмент: «Моей помощи ты не дождешься.» |
-| [27888](../../source/SR_2_HD_Lang_vanilla.txt#L27888) | `Talk.Attack.DiplomatSuspect5` | Требует контекста | Фрагмент: «Нет!» |
-| [27889](../../source/SR_2_HD_Lang_vanilla.txt#L27889) | `Talk.Attack.DiplomatWeFriends` | Требует контекста | Фрагмент: «Эта атака может повлечь за собой негативные дипломатические последствия.» |
-| [27890](../../source/SR_2_HD_Lang_vanilla.txt#L27890) | `Talk.Attack.DiplomatWeFriends1` | Требует контекста | Фрагмент: «Данный корабль является дружественным по отношению к моему правительству.» |
-| [27891](../../source/SR_2_HD_Lang_vanilla.txt#L27891) | `Talk.Attack.DiplomatWeFriends2` | Требует контекста | Фрагмент: «Это дружественное по отношению ко мне судно, и у меня нет абсолютно никакого желания вступать с ним в вооруженный конфликт.» |
-| [27892](../../source/SR_2_HD_Lang_vanilla.txt#L27892) | `Talk.Attack.DiplomatWeFriends3` | Кандидат | Фрагмент: «Капитан этого корабля - мой старый знакомый.» |
-| [27893](../../source/SR_2_HD_Lang_vanilla.txt#L27893) | `Talk.Attack.DiplomatWeFriends4` | Кандидат | Фрагмент: «Капитан указанного тобой корабля мне знаком, и я не испытываю никакого желания с ним ссориться.» |
-| [27894](../../source/SR_2_HD_Lang_vanilla.txt#L27894) | `Talk.Attack.DiplomatWeFriendsTranc` | Требует контекста | Фрагмент: «Эта атака может повлечь за собой негативные дипломатические последствия.» |
-| [27895](../../source/SR_2_HD_Lang_vanilla.txt#L27895) | `Talk.Attack.DiplomatWeFriendsTranc1` | Требует контекста | Фрагмент: «Не вижу никаких причин портить чью-то частную собственность.» |
-| [27896](../../source/SR_2_HD_Lang_vanilla.txt#L27896) | `Talk.Attack.DiplomatWeFriendsTranc2` | Требует контекста | Фрагмент: «Нет, нет и ещё раз нет!» |
-| [27897](../../source/SR_2_HD_Lang_vanilla.txt#L27897) | `Talk.Attack.LinerFear` | Кандидат | Фрагмент: «Как капитан, я обязан отклонить твое предложение.» |
-| [27898](../../source/SR_2_HD_Lang_vanilla.txt#L27898) | `Talk.Attack.LinerFear1` | Кандидат | Фрагмент: «Как капитан, я несу ответственность за жизнь пассажиров, а они могут не пережить кровопролитного боя.» |
-| [27899](../../source/SR_2_HD_Lang_vanilla.txt#L27899) | `Talk.Attack.LinerFear2` | Требует контекста | Фрагмент: «Мы всем сердцем с вами и рвемся в бой.» |
-| [27900](../../source/SR_2_HD_Lang_vanilla.txt#L27900) | `Talk.Attack.LinerFear3` | Требует контекста | Фрагмент: «Я бы помог, но моя жена против того, чтобы я участвовал в таких опасных авантюрах.» |
-| [27901](../../source/SR_2_HD_Lang_vanilla.txt#L27901) | `Talk.Attack.LinerFear4` | Требует контекста | Фрагмент: «Предпочитаю лишний раз не ввязываться в сражения с такими серьезными противниками.» |
-| [27902](../../source/SR_2_HD_Lang_vanilla.txt#L27902) | `Talk.Attack.LinerHaveBusiness` | Требует контекста | Фрагмент: «Мое движение связано жестким графиком, я не могу отходить от него ни на минуту.» |
-| [27903](../../source/SR_2_HD_Lang_vanilla.txt#L27903) | `Talk.Attack.LinerHaveBusiness1` | Кандидат | Фрагмент: «Я капитан рейсового судна, у меня четкий график полетов.» |
-| [27904](../../source/SR_2_HD_Lang_vanilla.txt#L27904) | `Talk.Attack.LinerHaveBusiness2` | Требует контекста | Фрагмент: «Пассажиры настаивают, чтобы я продолжил путь.» |
-| [27905](../../source/SR_2_HD_Lang_vanilla.txt#L27905) | `Talk.Attack.LinerHaveBusiness3` | Требует контекста | Фрагмент: «Нет, это плохая идея.» |
-| [27906](../../source/SR_2_HD_Lang_vanilla.txt#L27906) | `Talk.Attack.LinerHaveBusiness4` | Требует контекста | Фрагмент: «С удовольствием присоединился бы к тебе, но мне нужно торопиться, я и так едва вписываюсь в график.» |
-| [27907](../../source/SR_2_HD_Lang_vanilla.txt#L27907) | `Talk.Attack.LinerItsMyTranc` | Требует контекста | Фрагмент: «Эй!» |
-| [27908](../../source/SR_2_HD_Lang_vanilla.txt#L27908) | `Talk.Attack.LinerItsYourTranc` | Требует контекста | Фрагмент: «Окееей...» |
-| [27909](../../source/SR_2_HD_Lang_vanilla.txt#L27909) | `Talk.Attack.LinerOk` | Требует контекста | Фрагмент: «Надо, конечно, этого гада побить.» |
-| [27910](../../source/SR_2_HD_Lang_vanilla.txt#L27910) | `Talk.Attack.LinerOk1` | Требует контекста | Фрагмент: «Вот это правильно!» |
-| [27911](../../source/SR_2_HD_Lang_vanilla.txt#L27911) | `Talk.Attack.LinerOk2` | Требует контекста | Фрагмент: «Замечательно.» |
-| [27912](../../source/SR_2_HD_Lang_vanilla.txt#L27912) | `Talk.Attack.LinerOk3` | Требует контекста | Фрагмент: «Пассажиры в восторге от вашего предложения поучаствовать в настоящей космической битве.» |
-| [27913](../../source/SR_2_HD_Lang_vanilla.txt#L27913) | `Talk.Attack.LinerOk4` | Требует контекста | Фрагмент: «Я согласен.» |
-| [27914](../../source/SR_2_HD_Lang_vanilla.txt#L27914) | `Talk.Attack.LinerSend` | Требует контекста | Фрагмент: «Предлагаю вместе атаковать &lt;Target&gt;.» |
-| [27915](../../source/SR_2_HD_Lang_vanilla.txt#L27915) | `Talk.Attack.LinerSend1` | Требует контекста | Фрагмент: «Я вынужден вступить в бой с &lt;Target&gt;.» |
-| [27916](../../source/SR_2_HD_Lang_vanilla.txt#L27916) | `Talk.Attack.LinerSend2` | Требует контекста | Фрагмент: «Помоги мне в битве с &lt;Target&gt;!» |
-| [27917](../../source/SR_2_HD_Lang_vanilla.txt#L27917) | `Talk.Attack.LinerSend3` | Требует контекста | Фрагмент: «Давай вместе атакуем &lt;Target&gt;.» |
-| [27918](../../source/SR_2_HD_Lang_vanilla.txt#L27918) | `Talk.Attack.LinerSend4` | Требует контекста | Фрагмент: «Мне очень нужна помощь в битве с &lt;Target&gt;, ты мог бы ее оказать?» |
-| [27919](../../source/SR_2_HD_Lang_vanilla.txt#L27919) | `Talk.Attack.LinerSuspect` | Требует контекста | Фрагмент: «Я тебе не доверяю и ни на кого нападать не собираюсь.» |
-| [27920](../../source/SR_2_HD_Lang_vanilla.txt#L27920) | `Talk.Attack.LinerSuspect1` | Кандидат | Фрагмент: «Я добропорядочный капитан лайнера, а ты скользкий тип.» |
-| [27921](../../source/SR_2_HD_Lang_vanilla.txt#L27921) | `Talk.Attack.LinerSuspect2` | Требует контекста | Фрагмент: «Извини, но я не настолько тебе доверяю, чтобы рисковать ради тебя здоровьем и жизнью пассажиров.» |
-| [27922](../../source/SR_2_HD_Lang_vanilla.txt#L27922) | `Talk.Attack.LinerSuspect3` | Требует контекста | Фрагмент: «Ничего не выйдет, нет у меня к тебе доверия.» |
-| [27923](../../source/SR_2_HD_Lang_vanilla.txt#L27923) | `Talk.Attack.LinerSuspect4` | Требует контекста | Фрагмент: «Натравишь меня на противника, а сам потом незаметно смоешься?» |
-| [27924](../../source/SR_2_HD_Lang_vanilla.txt#L27924) | `Talk.Attack.LinerWeFriends` | Требует контекста | Фрагмент: «Во-первых, я совершаю рейс по расписанию, и мне некогда ввязываться в сомнительные авантюры.» |
-| [27925](../../source/SR_2_HD_Lang_vanilla.txt#L27925) | `Talk.Attack.LinerWeFriends1` | Требует контекста | Фрагмент: «Этот корабль - мой союзник, а нападение на союзников для штатного пилота чревато высшей мерой.» |
-| [27926](../../source/SR_2_HD_Lang_vanilla.txt#L27926) | `Talk.Attack.LinerWeFriends2` | Требует контекста | Фрагмент: «Ты мне что предлагаешь - напасть на одного из лучших друзей?!» |
-| [27927](../../source/SR_2_HD_Lang_vanilla.txt#L27927) | `Talk.Attack.LinerWeFriends3` | Требует контекста | Фрагмент: «Я не имею ничего против капитана этого корабля, и у меня нет никакого желания с ним сражаться.» |
-| [27928](../../source/SR_2_HD_Lang_vanilla.txt#L27928) | `Talk.Attack.LinerWeFriends4` | Требует контекста | Фрагмент: «Не мог какую-нибудь другую цель предложить?» |
-| [27929](../../source/SR_2_HD_Lang_vanilla.txt#L27929) | `Talk.Attack.LinerWeFriendsTranc` | Требует контекста | Фрагмент: «Во-первых, я совершаю рейс по расписанию, и мне некогда ввязываться в сомнительные авантюры.» |
-| [27930](../../source/SR_2_HD_Lang_vanilla.txt#L27930) | `Talk.Attack.LinerWeFriendsTranc1` | Требует контекста | Фрагмент: «Да ты что, &lt;Player&gt;, со звезды рухнул?» |
-| [27931](../../source/SR_2_HD_Lang_vanilla.txt#L27931) | `Talk.Attack.LinerWeFriendsTranc2` | Требует контекста | Фрагмент: «Вот посмотрю я на тебя, когда кто-нибудь так же бессовестно расколошматит твоего собственного робота!» |
-| [27932](../../source/SR_2_HD_Lang_vanilla.txt#L27932) | `Talk.Attack.PirateFear` | Требует контекста | Фрагмент: «Мне кажется, что с этого дела я не буду иметь ничего, кроме искореженного корабля.» |
-| [27933](../../source/SR_2_HD_Lang_vanilla.txt#L27933) | `Talk.Attack.PirateFear1` | Требует контекста | Фрагмент: «Не, это слишком крутой противник, мы с ним не справимся!» |
-| [27934](../../source/SR_2_HD_Lang_vanilla.txt#L27934) | `Talk.Attack.PirateFear2` | Требует контекста | Фрагмент: «Да ты чего, братан, на тот свет захотел?» |
-| [27935](../../source/SR_2_HD_Lang_vanilla.txt#L27935) | `Talk.Attack.PirateFear3` | Требует контекста | Фрагмент: «Я готов драться с кем угодно, только не с ним!» |
-| [27936](../../source/SR_2_HD_Lang_vanilla.txt#L27936) | `Talk.Attack.PirateFear4` | Требует контекста | Фрагмент: «Ты че, серьезно?» |
-| [27937](../../source/SR_2_HD_Lang_vanilla.txt#L27937) | `Talk.Attack.PirateHaveBusiness` | Требует контекста | Фрагмент: «Чертовски заманчивое предложение, но я сейчас сильно занят.» |
-| [27938](../../source/SR_2_HD_Lang_vanilla.txt#L27938) | `Talk.Attack.PirateHaveBusiness1` | Требует контекста | Фрагмент: «Дело стоящее, и я бы помог, но у меня сейчас другие планы.» |
-| [27939](../../source/SR_2_HD_Lang_vanilla.txt#L27939) | `Talk.Attack.PirateHaveBusiness2` | Требует контекста | Фрагмент: «Извини, братан, не судьба.» |
-| [27940](../../source/SR_2_HD_Lang_vanilla.txt#L27940) | `Talk.Attack.PirateHaveBusiness3` | Требует контекста | Фрагмент: «Я сейчас занят, может, подвалишь ко мне с этим предложением попозже?» |
-| [27941](../../source/SR_2_HD_Lang_vanilla.txt#L27941) | `Talk.Attack.PirateHaveBusiness4` | Требует контекста | Фрагмент: «Базара нет, дело стоящее.» |
-| [27942](../../source/SR_2_HD_Lang_vanilla.txt#L27942) | `Talk.Attack.PirateItsMyTranc` | Требует контекста | Фрагмент: «Да ты чё, братуха, в натуре на весь иллюминатор треснутый?!» |
-| [27943](../../source/SR_2_HD_Lang_vanilla.txt#L27943) | `Talk.Attack.PirateItsYourTranc` | Требует контекста | Фрагмент: «Нет, ну я, конечно, всё понимаю - веселуха, вся ботва...» |
-| [27944](../../source/SR_2_HD_Lang_vanilla.txt#L27944) | `Talk.Attack.PirateOk` | Требует контекста | Фрагмент: «Мне как раз нужны бабки, и я чувствую запах добычи.» |
-| [27945](../../source/SR_2_HD_Lang_vanilla.txt#L27945) | `Talk.Attack.PirateOk1` | Кандидат | Фрагмент: «Договорились.» |
-| [27946](../../source/SR_2_HD_Lang_vanilla.txt#L27946) | `Talk.Attack.PirateOk2` | Требует контекста | Фрагмент: «Замечательно!» |
-| [27947](../../source/SR_2_HD_Lang_vanilla.txt#L27947) | `Talk.Attack.PirateOk3` | Требует контекста | Фрагмент: «Отлично, я присоединяюсь к атаке.» |
-| [27948](../../source/SR_2_HD_Lang_vanilla.txt#L27948) | `Talk.Attack.PirateOk4` | Требует контекста | Фрагмент: «Грабить и убивать я люблю.» |
-| [27949](../../source/SR_2_HD_Lang_vanilla.txt#L27949) | `Talk.Attack.PirateSend` | Требует контекста | Фрагмент: «Давай объединимся и замочим &lt;Target&gt;.» |
-| [27950](../../source/SR_2_HD_Lang_vanilla.txt#L27950) | `Talk.Attack.PirateSend1` | Кандидат | Фрагмент: «Давай его сделаем в лучших пиратских традициях.» |
-| [27951](../../source/SR_2_HD_Lang_vanilla.txt#L27951) | `Talk.Attack.PirateSend2` | Требует контекста | Фрагмент: «У нас тут с &lt;Target&gt; небольшие трения возникли.» |
-| [27952](../../source/SR_2_HD_Lang_vanilla.txt#L27952) | `Talk.Attack.PirateSend3` | Требует контекста | Фрагмент: «Эй, навалимся вместе на &lt;Target&gt;?!» |
-| [27953](../../source/SR_2_HD_Lang_vanilla.txt#L27953) | `Talk.Attack.PirateSend4` | Требует контекста | Фрагмент: «У меня предложение: ты атакуешь &lt;Target&gt;, а я тебя прикрываю.» |
-| [27954](../../source/SR_2_HD_Lang_vanilla.txt#L27954) | `Talk.Attack.PirateSuspect` | Требует контекста | Фрагмент: «Я не собираюсь рассматривать твое предложение.» |
-| [27955](../../source/SR_2_HD_Lang_vanilla.txt#L27955) | `Talk.Attack.PirateSuspect1` | Требует контекста | Фрагмент: «Я иду в бой только со своими корешами, которым могу доверять.» |
-| [27956](../../source/SR_2_HD_Lang_vanilla.txt#L27956) | `Talk.Attack.PirateSuspect2` | Требует контекста | Фрагмент: «Где гарантия, что это не западня, с целью меня поймать?» |
-| [27957](../../source/SR_2_HD_Lang_vanilla.txt#L27957) | `Talk.Attack.PirateSuspect3` | Требует контекста | Фрагмент: «Ты наверняка готовишь мне какую-то подлость, нюхом чую.» |
-| [27958](../../source/SR_2_HD_Lang_vanilla.txt#L27958) | `Talk.Attack.PirateSuspect4` | Требует контекста | Фрагмент: «Может, я слишком подозрителен, но твоя хитрая морда не вызывает у меня доверия.» |
-| [27959](../../source/SR_2_HD_Lang_vanilla.txt#L27959) | `Talk.Attack.PirateWeFriends` | Требует контекста | Фрагмент: «Я знаю капитана этого корабля.» |
-| [27960](../../source/SR_2_HD_Lang_vanilla.txt#L27960) | `Talk.Attack.PirateWeFriends1` | Требует контекста | Фрагмент: «Это мой старый кореш, я не хочу в него стрелять.» |
-| [27961](../../source/SR_2_HD_Lang_vanilla.txt#L27961) | `Talk.Attack.PirateWeFriends2` | Требует контекста | Фрагмент: «Так ты моего кореша имел в виду?» |
-| [27962](../../source/SR_2_HD_Lang_vanilla.txt#L27962) | `Talk.Attack.PirateWeFriends3` | Кандидат | Фрагмент: «Капитан этого судна - мой старый кореш, а я стараюсь не предавать друзей без особой необходимости.» |
-| [27963](../../source/SR_2_HD_Lang_vanilla.txt#L27963) | `Talk.Attack.PirateWeFriends4` | Требует контекста | Фрагмент: «Зачем мне нападать на своего кореша, когда вокруг полно всяких лохов?» |
-| [27964](../../source/SR_2_HD_Lang_vanilla.txt#L27964) | `Talk.Attack.PirateWeFriendsTranc` | Требует контекста | Фрагмент: «Может, он что тебе и сделал, но меня это не колеблет.» |
-| [27965](../../source/SR_2_HD_Lang_vanilla.txt#L27965) | `Talk.Attack.PirateWeFriendsTranc1` | Требует контекста | Фрагмент: «Нет, этого робота я трогать не буду, уж больно он, чертяка, симпатичный.» |
-| [27966](../../source/SR_2_HD_Lang_vanilla.txt#L27966) | `Talk.Attack.PirateWeFriendsTranc2` | Требует контекста | Фрагмент: «Ну и что я с этого буду иметь?» |
-| [27967](../../source/SR_2_HD_Lang_vanilla.txt#L27967) | `Talk.Attack.PlayerFear` | Требует контекста | Фрагмент: «Я не желаю участвовать в этой операции, поскольку она заранее обречена на провал.» |
-| [27968](../../source/SR_2_HD_Lang_vanilla.txt#L27968) | `Talk.Attack.PlayerFear1` | Требует контекста | Фрагмент: «Да ты что?!!» |
-| [27969](../../source/SR_2_HD_Lang_vanilla.txt#L27969) | `Talk.Attack.PlayerFear2` | Требует контекста | Фрагмент: «Заведомо провальная операция!» |
-| [27970](../../source/SR_2_HD_Lang_vanilla.txt#L27970) | `Talk.Attack.PlayerFear3` | Требует контекста | Фрагмент: «Извини, но я должен сохранить свою жизнь для более важного дела - спасения Галактики от доминаторов!» |
-| [27971](../../source/SR_2_HD_Lang_vanilla.txt#L27971) | `Talk.Attack.PlayerFear4` | Кандидат | Фрагмент: «Это детеныши таких маленьких домашних зверьков с планеты Земля, если ты не знаешь.» |
-| [27972](../../source/SR_2_HD_Lang_vanilla.txt#L27972) | `Talk.Attack.PlayerHaveBusiness` | Требует контекста | Фрагмент: «Я сейчас очень занят, мне некогда даже рассматривать твое предложение.» |
-| [27973](../../source/SR_2_HD_Lang_vanilla.txt#L27973) | `Talk.Attack.PlayerHaveBusiness1` | Требует контекста | Фрагмент: «Я крайне занят, прошу простить мой отказ.» |
-| [27974](../../source/SR_2_HD_Lang_vanilla.txt#L27974) | `Talk.Attack.PlayerHaveBusiness2` | Требует контекста | Фрагмент: «Извини, у меня сейчас совсем другие планы.» |
-| [27975](../../source/SR_2_HD_Lang_vanilla.txt#L27975) | `Talk.Attack.PlayerHaveBusiness3` | Требует контекста | Фрагмент: «Хм, я бы тебе помог, но уж очень занят сейчас.» |
-| [27976](../../source/SR_2_HD_Lang_vanilla.txt#L27976) | `Talk.Attack.PlayerHaveBusiness4` | Требует контекста | Фрагмент: «К сожалению, я сейчас занят, и ничем тебе помочь не могу.» |
-| [27977](../../source/SR_2_HD_Lang_vanilla.txt#L27977) | `Talk.Attack.PlayerItsMyTranc` | Требует контекста | Фрагмент: «Ты реально сейчас хочешь заставить меня атаковать своего собственного робота?» |
-| [27978](../../source/SR_2_HD_Lang_vanilla.txt#L27978) | `Talk.Attack.PlayerItsYourTranc` | Требует контекста | Фрагмент: «Слушай, если тебе нравится ломать своих собственных роботов - без проблем.» |
-| [27979](../../source/SR_2_HD_Lang_vanilla.txt#L27979) | `Talk.Attack.PlayerOffersAttack` | Требует контекста | Фрагмент: «Предлагаю совместное нападение» |
-| [27980](../../source/SR_2_HD_Lang_vanilla.txt#L27980) | `Talk.Attack.PlayerOffersAttack1` | Требует контекста | Фрагмент: «Как насчет совместного нападения?» |
-| [27981](../../source/SR_2_HD_Lang_vanilla.txt#L27981) | `Talk.Attack.PlayerOffersAttack2` | Требует контекста | Фрагмент: «Поможешь мне в битве с одним типом?» |
-| [27982](../../source/SR_2_HD_Lang_vanilla.txt#L27982) | `Talk.Attack.PlayerOffersAttack3` | Требует контекста | Фрагмент: «Давай вместе сразимся кое с кем?» |
-| [27983](../../source/SR_2_HD_Lang_vanilla.txt#L27983) | `Talk.Attack.PlayerOffersAttack4` | Требует контекста | Фрагмент: «Примешь участие в совместной атаке?» |
-| [27984](../../source/SR_2_HD_Lang_vanilla.txt#L27984) | `Talk.Attack.PlayerOk` | Требует контекста | Фрагмент: «Согласен.» |
-| [27985](../../source/SR_2_HD_Lang_vanilla.txt#L27985) | `Talk.Attack.PlayerOk1` | Требует контекста | Фрагмент: «Отлично, сделаем его!» |
-| [27986](../../source/SR_2_HD_Lang_vanilla.txt#L27986) | `Talk.Attack.PlayerOk2` | Требует контекста | Фрагмент: «Заметано!» |
-| [27987](../../source/SR_2_HD_Lang_vanilla.txt#L27987) | `Talk.Attack.PlayerOk3` | Требует контекста | Фрагмент: «А что, мне нравится эта идея.» |
-| [27988](../../source/SR_2_HD_Lang_vanilla.txt#L27988) | `Talk.Attack.PlayerOk4` | Требует контекста | Фрагмент: «О'кей, мне он тоже не нравится.» |
-| [27989](../../source/SR_2_HD_Lang_vanilla.txt#L27989) | `Talk.Attack.PlayerSend` | Требует контекста | Фрагмент: «Предлагаю организовать атаку на &lt;Target&gt;.» |
-| [27990](../../source/SR_2_HD_Lang_vanilla.txt#L27990) | `Talk.Attack.PlayerSend1` | Требует контекста | Фрагмент: «Как насчет совместной атаки на &lt;Target&gt;?» |
-| [27991](../../source/SR_2_HD_Lang_vanilla.txt#L27991) | `Talk.Attack.PlayerSend2` | Требует контекста | Фрагмент: «Я атакую &lt;Target&gt;.» |
-| [27992](../../source/SR_2_HD_Lang_vanilla.txt#L27992) | `Talk.Attack.PlayerSend3` | Требует контекста | Фрагмент: «Не поможешь мне в битве с &lt;Target&gt;?» |
-| [27993](../../source/SR_2_HD_Lang_vanilla.txt#L27993) | `Talk.Attack.PlayerSend4` | Требует контекста | Фрагмент: «Хочешь принять участие в битве с &lt;Target&gt;?» |
-| [27994](../../source/SR_2_HD_Lang_vanilla.txt#L27994) | `Talk.Attack.PlayerWeFriends` | Требует контекста | Фрагмент: «Я не собираюсь атаковывать дружественный по отношению ко мне корабль.» |
-| [27995](../../source/SR_2_HD_Lang_vanilla.txt#L27995) | `Talk.Attack.PlayerWeFriends1` | Требует контекста | Фрагмент: «Я не открою огонь по своим.» |
-| [27996](../../source/SR_2_HD_Lang_vanilla.txt#L27996) | `Talk.Attack.PlayerWeFriends2` | Требует контекста | Фрагмент: «Ты что, мы же с ним друзья!» |
-| [27997](../../source/SR_2_HD_Lang_vanilla.txt#L27997) | `Talk.Attack.PlayerWeFriends3` | Кандидат | Фрагмент: «Капитан этого корабля - мой друг!» |
-| [27998](../../source/SR_2_HD_Lang_vanilla.txt#L27998) | `Talk.Attack.PlayerWeFriends4` | Кандидат | Фрагмент: «Я не стану тебе помогать, потому что капитан этого корабля - мой хороший знакомый.» |
-| [27999](../../source/SR_2_HD_Lang_vanilla.txt#L27999) | `Talk.Attack.PlayerWeFriendsTranc` | Требует контекста | Фрагмент: «Атаковать чужого робота?» |
-| [28000](../../source/SR_2_HD_Lang_vanilla.txt#L28000) | `Talk.Attack.PlayerWeFriendsTranc1` | Требует контекста | Фрагмент: «Ввязываться в бессмысленный бой с чужой вещью я не намерен.» |
-| [28001](../../source/SR_2_HD_Lang_vanilla.txt#L28001) | `Talk.Attack.PlayerWeFriendsTranc2` | Требует контекста | Фрагмент: «А я, вообще-то, люблю транклюкаторов, и без причины делать им больно не хочу.» |
-| [28002](../../source/SR_2_HD_Lang_vanilla.txt#L28002) | `Talk.Attack.RangerFear` | Требует контекста | Фрагмент: «Я не желаю участвовать в этой операции, поскольку она заранее обречена на провал.» |
-| [28003](../../source/SR_2_HD_Lang_vanilla.txt#L28003) | `Talk.Attack.RangerFear1` | Требует контекста | Фрагмент: «Да ты что?!!» |
-| [28004](../../source/SR_2_HD_Lang_vanilla.txt#L28004) | `Talk.Attack.RangerFear2` | Требует контекста | Фрагмент: «Заведомо провальная операция!» |
-| [28005](../../source/SR_2_HD_Lang_vanilla.txt#L28005) | `Talk.Attack.RangerFear3` | Требует контекста | Фрагмент: «Извини, но я должен сохранить свою жизнь для более важного дела - спасения Галактики от доминаторов!» |
-| [28006](../../source/SR_2_HD_Lang_vanilla.txt#L28006) | `Talk.Attack.RangerFear4` | Ожидает проверки | Фрагмент: «Это детеныши таких маленьких домашних зверьков с планеты Земля, если ты не знаешь.» |
-| [28007](../../source/SR_2_HD_Lang_vanilla.txt#L28007) | `Talk.Attack.RangerHaveBusiness` | Требует контекста | Фрагмент: «Я сейчас очень занят, мне некогда даже рассматривать твое предложение.» |
-| [28008](../../source/SR_2_HD_Lang_vanilla.txt#L28008) | `Talk.Attack.RangerHaveBusiness1` | Требует контекста | Фрагмент: «Я крайне занят, прошу простить мой отказ.» |
-| [28009](../../source/SR_2_HD_Lang_vanilla.txt#L28009) | `Talk.Attack.RangerHaveBusiness2` | Требует контекста | Фрагмент: «Извини, у меня сейчас совсем другие планы.» |
-| [28010](../../source/SR_2_HD_Lang_vanilla.txt#L28010) | `Talk.Attack.RangerHaveBusiness3` | Требует контекста | Фрагмент: «Хм, я бы тебе помог, но уж очень занят сейчас.» |
-| [28011](../../source/SR_2_HD_Lang_vanilla.txt#L28011) | `Talk.Attack.RangerHaveBusiness4` | Требует контекста | Фрагмент: «К сожалению, я сейчас занят, и ничем тебе помочь не могу.» |
-| [28012](../../source/SR_2_HD_Lang_vanilla.txt#L28012) | `Talk.Attack.RangerItsMyTranc` | Ожидает проверки | Фрагмент: «А может тебе ещё вина красного, да Махпеллу рыжую?» |
-| [28013](../../source/SR_2_HD_Lang_vanilla.txt#L28013) | `Talk.Attack.RangerItsYourTranc` | Требует контекста | Фрагмент: «Ты, &lt;Player&gt;, видно больной?» |
-| [28014](../../source/SR_2_HD_Lang_vanilla.txt#L28014) | `Talk.Attack.RangerOk` | Требует контекста | Фрагмент: «Согласен.» |
-| [28015](../../source/SR_2_HD_Lang_vanilla.txt#L28015) | `Talk.Attack.RangerOk1` | Требует контекста | Фрагмент: «Отлично, сделаем его!» |
-| [28016](../../source/SR_2_HD_Lang_vanilla.txt#L28016) | `Talk.Attack.RangerOk2` | Требует контекста | Фрагмент: «Заметано!» |
-| [28017](../../source/SR_2_HD_Lang_vanilla.txt#L28017) | `Talk.Attack.RangerOk3` | Требует контекста | Фрагмент: «А что, мне нравится эта идея.» |
-| [28018](../../source/SR_2_HD_Lang_vanilla.txt#L28018) | `Talk.Attack.RangerOk4` | Требует контекста | Фрагмент: «О'кей, мне он тоже не нравится.» |
-| [28019](../../source/SR_2_HD_Lang_vanilla.txt#L28019) | `Talk.Attack.RangerSend` | Требует контекста | Фрагмент: «Предлагаю организовать атаку на &lt;Target&gt;.» |
-| [28020](../../source/SR_2_HD_Lang_vanilla.txt#L28020) | `Talk.Attack.RangerSend1` | Требует контекста | Фрагмент: «Как насчет совместной атаки на &lt;Target&gt;?» |
-| [28021](../../source/SR_2_HD_Lang_vanilla.txt#L28021) | `Talk.Attack.RangerSend2` | Требует контекста | Фрагмент: «Я атакую &lt;Target&gt;.» |
-| [28022](../../source/SR_2_HD_Lang_vanilla.txt#L28022) | `Talk.Attack.RangerSend3` | Требует контекста | Фрагмент: «Не поможешь мне в битве с &lt;Target&gt;?» |
-| [28023](../../source/SR_2_HD_Lang_vanilla.txt#L28023) | `Talk.Attack.RangerSend4` | Требует контекста | Фрагмент: «Хочешь принять участие в битве с &lt;Target&gt;?» |
-| [28024](../../source/SR_2_HD_Lang_vanilla.txt#L28024) | `Talk.Attack.RangerSuspect` | Требует контекста | Фрагмент: «Я не доверяю тебе как союзнику, поэтому не готов поддерживать тебя в бою.» |
-| [28025](../../source/SR_2_HD_Lang_vanilla.txt#L28025) | `Talk.Attack.RangerSuspect1` | Требует контекста | Фрагмент: «А где гарантии, что я могу тебе доверять?» |
-| [28026](../../source/SR_2_HD_Lang_vanilla.txt#L28026) | `Talk.Attack.RangerSuspect2` | Требует контекста | Фрагмент: «Идея сама по себе неплоха, но я тебе не доверяю.» |
-| [28027](../../source/SR_2_HD_Lang_vanilla.txt#L28027) | `Talk.Attack.RangerSuspect3` | Требует контекста | Фрагмент: «Да я бы, в принципе, и не прочь, но уж больно физиономия у тебя подозрительная.» |
-| [28028](../../source/SR_2_HD_Lang_vanilla.txt#L28028) | `Talk.Attack.RangerSuspect4` | Требует контекста | Фрагмент: «Извини, ничем не могу помочь.» |
-| [28029](../../source/SR_2_HD_Lang_vanilla.txt#L28029) | `Talk.Attack.RangerWeFriends` | Требует контекста | Фрагмент: «Я не собираюсь атаковывать дружественный по отношению ко мне корабль.» |
-| [28030](../../source/SR_2_HD_Lang_vanilla.txt#L28030) | `Talk.Attack.RangerWeFriends1` | Требует контекста | Фрагмент: «Я не открою огонь по своим.» |
-| [28031](../../source/SR_2_HD_Lang_vanilla.txt#L28031) | `Talk.Attack.RangerWeFriends2` | Требует контекста | Фрагмент: «Ты что, мы же с ним друзья!» |
-| [28032](../../source/SR_2_HD_Lang_vanilla.txt#L28032) | `Talk.Attack.RangerWeFriends3` | Кандидат | Фрагмент: «Капитан этого корабля - мой друг!» |
-| [28033](../../source/SR_2_HD_Lang_vanilla.txt#L28033) | `Talk.Attack.RangerWeFriends4` | Кандидат | Фрагмент: «Я не стану тебе помогать, потому что капитан этого корабля - мой хороший знакомый.» |
-| [28034](../../source/SR_2_HD_Lang_vanilla.txt#L28034) | `Talk.Attack.RangerWeFriendsTranc` | Требует контекста | Фрагмент: «Да чем тебе вообще мог навредить этот невинный робот?» |
-| [28035](../../source/SR_2_HD_Lang_vanilla.txt#L28035) | `Talk.Attack.RangerWeFriendsTranc1` | Требует контекста | Фрагмент: «Ну уж нет, чужую собственность я портить не намерен!» |
-| [28036](../../source/SR_2_HD_Lang_vanilla.txt#L28036) | `Talk.Attack.RangerWeFriendsTranc2` | Требует контекста | Фрагмент: «Была у меня как-то в детстве заводная игрушка робота, и этот транклюкатор её очень сильно напоминает.» |
-| [28037](../../source/SR_2_HD_Lang_vanilla.txt#L28037) | `Talk.Attack.TransportFear` | Требует контекста | Фрагмент: «Я не могу на это пойти.» |
-| [28038](../../source/SR_2_HD_Lang_vanilla.txt#L28038) | `Talk.Attack.TransportFear1` | Требует контекста | Фрагмент: «У меня на борту крайне ценный груз и слабое вооружение.» |
-| [28039](../../source/SR_2_HD_Lang_vanilla.txt#L28039) | `Talk.Attack.TransportFear2` | Требует контекста | Фрагмент: «Извини, но нет.» |
-| [28040](../../source/SR_2_HD_Lang_vanilla.txt#L28040) | `Talk.Attack.TransportFear3` | Требует контекста | Фрагмент: «Нет, приятель, в этом деле я тебе не помощник.» |
-| [28041](../../source/SR_2_HD_Lang_vanilla.txt#L28041) | `Talk.Attack.TransportFear4` | Требует контекста | Фрагмент: «Ничего себе!» |
-| [28042](../../source/SR_2_HD_Lang_vanilla.txt#L28042) | `Talk.Attack.TransportHaveBusiness` | Требует контекста | Фрагмент: «У меня полно других дел, скоропортящиеся грузы на борту, и вообще я очень спешу.» |
-| [28043](../../source/SR_2_HD_Lang_vanilla.txt#L28043) | `Talk.Attack.TransportHaveBusiness1` | Требует контекста | Фрагмент: «Может, как-нибудь в другой раз, когда у меня будет больше свободного времени?» |
-| [28044](../../source/SR_2_HD_Lang_vanilla.txt#L28044) | `Talk.Attack.TransportHaveBusiness2` | Требует контекста | Фрагмент: «Извини, времени совсем нет.» |
-| [28045](../../source/SR_2_HD_Lang_vanilla.txt#L28045) | `Talk.Attack.TransportHaveBusiness3` | Требует контекста | Фрагмент: «Время - деньги!» |
-| [28046](../../source/SR_2_HD_Lang_vanilla.txt#L28046) | `Talk.Attack.TransportHaveBusiness4` | Требует контекста | Фрагмент: «Тебе знакомо понятие "упущенная выгода"?» |
-| [28047](../../source/SR_2_HD_Lang_vanilla.txt#L28047) | `Talk.Attack.TransportItsMyTranc` | Кандидат | Фрагмент: «А ну руки прочь от моего транклюкатора, пенчекряк доморощенный!» |
-| [28048](../../source/SR_2_HD_Lang_vanilla.txt#L28048) | `Talk.Attack.TransportItsYourTranc` | Требует контекста | Фрагмент: «Слышь, ты дебил или как?» |
-| [28049](../../source/SR_2_HD_Lang_vanilla.txt#L28049) | `Talk.Attack.TransportOk` | Кандидат | Фрагмент: «Договорились.» |
-| [28050](../../source/SR_2_HD_Lang_vanilla.txt#L28050) | `Talk.Attack.TransportOk1` | Требует контекста | Фрагмент: «Отлично, я согласен!» |
-| [28051](../../source/SR_2_HD_Lang_vanilla.txt#L28051) | `Talk.Attack.TransportOk2` | Требует контекста | Фрагмент: «Что ж, согласен, мой бизнес только выиграет, если мы его укокошим.» |
-| [28052](../../source/SR_2_HD_Lang_vanilla.txt#L28052) | `Talk.Attack.TransportOk3` | Требует контекста | Фрагмент: «Им и впрямь следует заняться.» |
-| [28053](../../source/SR_2_HD_Lang_vanilla.txt#L28053) | `Talk.Attack.TransportOk4` | Требует контекста | Фрагмент: «Твое предложение мне по душе!» |
-| [28054](../../source/SR_2_HD_Lang_vanilla.txt#L28054) | `Talk.Attack.TransportSend` | Требует контекста | Фрагмент: «Предлагаю поддержать меня в бою с &lt;Target&gt;.» |
-| [28055](../../source/SR_2_HD_Lang_vanilla.txt#L28055) | `Talk.Attack.TransportSend1` | Требует контекста | Фрагмент: «Мне нужна огневая поддержка!» |
-| [28056](../../source/SR_2_HD_Lang_vanilla.txt#L28056) | `Talk.Attack.TransportSend2` | Требует контекста | Фрагмент: «Ты готов оказать поддержку частному предпринимательству в борьбе с душащими его врагами?» |
-| [28057](../../source/SR_2_HD_Lang_vanilla.txt#L28057) | `Talk.Attack.TransportSend3` | Требует контекста | Фрагмент: «Сынок, хочу попросить тебя об одной услуге.» |
-| [28058](../../source/SR_2_HD_Lang_vanilla.txt#L28058) | `Talk.Attack.TransportSend4` | Требует контекста | Фрагмент: «Я не уверен, что смогу разобраться с &lt;Target&gt; в одиночку.» |
-| [28059](../../source/SR_2_HD_Lang_vanilla.txt#L28059) | `Talk.Attack.TransportSuspect` | Требует контекста | Фрагмент: «Я не думаю, что ты можешь быть надежным партнером в таком непростом деле.» |
-| [28060](../../source/SR_2_HD_Lang_vanilla.txt#L28060) | `Talk.Attack.TransportSuspect1` | Требует контекста | Фрагмент: «Сомневаюсь, что на тебя можно положиться в бою.» |
-| [28061](../../source/SR_2_HD_Lang_vanilla.txt#L28061) | `Talk.Attack.TransportSuspect2` | Требует контекста | Фрагмент: «Ты не вызываешь у меня доверия, скорее даже наоборот.» |
-| [28062](../../source/SR_2_HD_Lang_vanilla.txt#L28062) | `Talk.Attack.TransportSuspect3` | Требует контекста | Фрагмент: «А вдруг объект атаки - на самом деле твой подельник?» |
-| [28063](../../source/SR_2_HD_Lang_vanilla.txt#L28063) | `Talk.Attack.TransportSuspect4` | Требует контекста | Фрагмент: «Извини, но у меня свои дела есть - груз надо доставить вовремя.» |
-| [28064](../../source/SR_2_HD_Lang_vanilla.txt#L28064) | `Talk.Attack.TransportWeFriends` | Требует контекста | Фрагмент: «Я не собираюсь атаковать друга и подвергать опасности свой груз.» |
-| [28065](../../source/SR_2_HD_Lang_vanilla.txt#L28065) | `Talk.Attack.TransportWeFriends1` | Требует контекста | Фрагмент: «Нападать на друзей недопустимо.» |
-| [28066](../../source/SR_2_HD_Lang_vanilla.txt#L28066) | `Talk.Attack.TransportWeFriends2` | Требует контекста | Фрагмент: «Мы с ним давние друзья, так что никакой помощи ты от меня не получишь.» |
-| [28067](../../source/SR_2_HD_Lang_vanilla.txt#L28067) | `Talk.Attack.TransportWeFriends3` | Требует контекста | Фрагмент: «Я не собираюсь портить отношения с хорошим знакомым, расстреливая его из орудий.» |
-| [28068](../../source/SR_2_HD_Lang_vanilla.txt#L28068) | `Talk.Attack.TransportWeFriends4` | Требует контекста | Фрагмент: «Лучше отцепись от него.» |
-| [28069](../../source/SR_2_HD_Lang_vanilla.txt#L28069) | `Talk.Attack.TransportWeFriendsTranc` | Требует контекста | Фрагмент: «Не хочу лезть в чужие дела без причины.» |
-| [28070](../../source/SR_2_HD_Lang_vanilla.txt#L28070) | `Talk.Attack.TransportWeFriendsTranc1` | Требует контекста | Фрагмент: «Ну робот и робот, ну летает и летает - тебе-то с него какой вред?» |
-| [28071](../../source/SR_2_HD_Lang_vanilla.txt#L28071) | `Talk.Attack.TransportWeFriendsTranc2` | Требует контекста | Фрагмент: «Извини, &lt;Player&gt;, опаздываю со срочной доставкой.» |
-| [28072](../../source/SR_2_HD_Lang_vanilla.txt#L28072) | `Talk.Attack.WarriorFear` | Требует контекста | Фрагмент: «Нападать на это судно - полнейшее безумие.» |
-| [28073](../../source/SR_2_HD_Lang_vanilla.txt#L28073) | `Talk.Attack.WarriorFear1` | Требует контекста | Фрагмент: «Исходя из своего опыта предыдущих боев, могу сразу тебе сказать, что бороться с таким кораблем столь малыми силами - бессмысленно.» |
-| [28074](../../source/SR_2_HD_Lang_vanilla.txt#L28074) | `Talk.Attack.WarriorFear2` | Требует контекста | Фрагмент: «Я бы помог, но командование не дает "добро" на атаку.» |
-| [28075](../../source/SR_2_HD_Lang_vanilla.txt#L28075) | `Talk.Attack.WarriorFear3` | Требует контекста | Фрагмент: «К сожалению, мой корабль сейчас не в том состоянии, чтобы принимать участие в столь серьезной битве.» |
-| [28076](../../source/SR_2_HD_Lang_vanilla.txt#L28076) | `Talk.Attack.WarriorFear4` | Требует контекста | Фрагмент: «Эта боевая операция заранее обречена на провал.» |
-| [28077](../../source/SR_2_HD_Lang_vanilla.txt#L28077) | `Talk.Attack.WarriorHaveBusiness` | Требует контекста | Фрагмент: «Наше правительство поставило нам другую задачу, и мы не имеем права от нее отступать.» |
-| [28078](../../source/SR_2_HD_Lang_vanilla.txt#L28078) | `Talk.Attack.WarriorHaveBusiness1` | Требует контекста | Фрагмент: «В данный момент я задействован в другой операции.» |
-| [28079](../../source/SR_2_HD_Lang_vanilla.txt#L28079) | `Talk.Attack.WarriorHaveBusiness2` | Требует контекста | Фрагмент: «У меня есть приказ командования, и пока я его не выполню, не могу заниматься ничем другим.» |
-| [28080](../../source/SR_2_HD_Lang_vanilla.txt#L28080) | `Talk.Attack.WarriorHaveBusiness3` | Требует контекста | Фрагмент: «Сожалею, но сейчас я должен выполнять задачу, поставленную командованием.» |
-| [28081](../../source/SR_2_HD_Lang_vanilla.txt#L28081) | `Talk.Attack.WarriorHaveBusiness4` | Требует контекста | Фрагмент: «Командование отклонило мой запрос на участие в предлагаемой вами операции.» |
-| [28082](../../source/SR_2_HD_Lang_vanilla.txt#L28082) | `Talk.Attack.WarriorItsMyTranc` | Требует контекста | Фрагмент: «Ну да, ну да - может ещё и родную планету мне взорвать предложишь?» |
-| [28083](../../source/SR_2_HD_Lang_vanilla.txt#L28083) | `Talk.Attack.WarriorItsYourTranc` | Требует контекста | Фрагмент: «Рекомендую тебе, &lt;Player&gt;, на время отвлечься от боевых действий и взять отпуск по состоянию здоровья.» |
-| [28084](../../source/SR_2_HD_Lang_vanilla.txt#L28084) | `Talk.Attack.WarriorOk` | Требует контекста | Фрагмент: «Командование дает "добро" на эту атаку.» |
-| [28085](../../source/SR_2_HD_Lang_vanilla.txt#L28085) | `Talk.Attack.WarriorOk1` | Требует контекста | Фрагмент: «Что ж, мне нравится твое предложение.» |
-| [28086](../../source/SR_2_HD_Lang_vanilla.txt#L28086) | `Talk.Attack.WarriorOk2` | Требует контекста | Фрагмент: «Согласен, давно пора врезать по этому кораблю.» |
-| [28087](../../source/SR_2_HD_Lang_vanilla.txt#L28087) | `Talk.Attack.WarriorOk3` | Требует контекста | Фрагмент: «Мне как раз приказали разобраться с этим кораблем.» |
-| [28088](../../source/SR_2_HD_Lang_vanilla.txt#L28088) | `Talk.Attack.WarriorOk4` | Требует контекста | Фрагмент: «Этот корабль на плохом счету у нас.» |
-| [28089](../../source/SR_2_HD_Lang_vanilla.txt#L28089) | `Talk.Attack.WarriorSend` | Требует контекста | Фрагмент: «Мое правительство уполномочило меня напасть на &lt;Target&gt;.» |
-| [28090](../../source/SR_2_HD_Lang_vanilla.txt#L28090) | `Talk.Attack.WarriorSend1` | Требует контекста | Фрагмент: «Организована боевая операция.» |
-| [28091](../../source/SR_2_HD_Lang_vanilla.txt#L28091) | `Talk.Attack.WarriorSend2` | Требует контекста | Фрагмент: «Необходима помощь в устранении объекта &lt;Target&gt;.» |
-| [28092](../../source/SR_2_HD_Lang_vanilla.txt#L28092) | `Talk.Attack.WarriorSend3` | Требует контекста | Фрагмент: «Мне приказано ликвидировать &lt;Target&gt;.» |
-| [28093](../../source/SR_2_HD_Lang_vanilla.txt#L28093) | `Talk.Attack.WarriorSend4` | Требует контекста | Фрагмент: «У тебя есть отличная возможность проявить себя в качестве боевого пилота.» |
-| [28094](../../source/SR_2_HD_Lang_vanilla.txt#L28094) | `Talk.Attack.WarriorSuspect` | Требует контекста | Фрагмент: «Мое правительство запрещает вступать в военные соглашения с подозрительными субъектами.» |
-| [28095](../../source/SR_2_HD_Lang_vanilla.txt#L28095) | `Talk.Attack.WarriorSuspect1` | Требует контекста | Фрагмент: «Я стою на страже закона, и не намерен помогать тебе в твоих сомнительных делишках.» |
-| [28096](../../source/SR_2_HD_Lang_vanilla.txt#L28096) | `Talk.Attack.WarriorSuspect2` | Требует контекста | Фрагмент: «У меня не может быть никаких общих дел с такими скользкими типами, как ты.» |
-| [28097](../../source/SR_2_HD_Lang_vanilla.txt#L28097) | `Talk.Attack.WarriorSuspect3` | Требует контекста | Фрагмент: «Нападение на кого-либо без приказа вышестоящего начальства может выйти мне боком.» |
-| [28098](../../source/SR_2_HD_Lang_vanilla.txt#L28098) | `Talk.Attack.WarriorSuspect4` | Требует контекста | Фрагмент: «Таким подозрительным типам, как ты, нечего и рассчитывать на помощь военных.» |
-| [28099](../../source/SR_2_HD_Lang_vanilla.txt#L28099) | `Talk.Attack.WarriorWeFriends` | Требует контекста | Фрагмент: «Никаких оснований для атаки не вижу.» |
-| [28100](../../source/SR_2_HD_Lang_vanilla.txt#L28100) | `Talk.Attack.WarriorWeFriends1` | Требует контекста | Фрагмент: «Вы обратились не по адресу.» |
-| [28101](../../source/SR_2_HD_Lang_vanilla.txt#L28101) | `Talk.Attack.WarriorWeFriends2` | Кандидат | Фрагмент: «Мы с капитаном этого корабля учились в одной летной школе.» |
-| [28102](../../source/SR_2_HD_Lang_vanilla.txt#L28102) | `Talk.Attack.WarriorWeFriends3` | Ожидает проверки | Фрагмент: «Устав запрещает нападать на дружественные суда, лояльные по отношению к существующим законам.» |
-| [28103](../../source/SR_2_HD_Lang_vanilla.txt#L28103) | `Talk.Attack.WarriorWeFriends4` | Требует контекста | Фрагмент: «Это мой хороший знакомый, мы с ним частенько анекдотами обмениваемся по закрытому каналу радиосвязи.» |
-| [28104](../../source/SR_2_HD_Lang_vanilla.txt#L28104) | `Talk.Attack.WarriorWeFriendsTranc` | Требует контекста | Фрагмент: «Никаких оснований для атаки не вижу.» |
-| [28105](../../source/SR_2_HD_Lang_vanilla.txt#L28105) | `Talk.Attack.WarriorWeFriendsTranc1` | Ожидает проверки | Фрагмент: «Ну и зачем мне атаковать этого невинного робота?» |
-| [28106](../../source/SR_2_HD_Lang_vanilla.txt#L28106) | `Talk.Attack.WarriorWeFriendsTranc2` | Ожидает проверки | Фрагмент: «Если у вас имеются претензии к хозяину этого робота, то и улаживать вам их следует с хозяином.» |
-| [28107](../../source/SR_2_HD_Lang_vanilla.txt#L28107) | `Talk.Attack.WeAlreadyHavePact` | Требует контекста | Фрагмент: «Я не могу принять это предложение, потому как имею мирное соглашение с &lt;Target&gt;.» |
-| [28108](../../source/SR_2_HD_Lang_vanilla.txt#L28108) | `Talk.Attack.WeAlreadyHavePact1` | Требует контекста | Фрагмент: «Ты чего, я же обещал охрану &lt;Target&gt;, как я могу на него напасть?..» |
-| [28109](../../source/SR_2_HD_Lang_vanilla.txt#L28109) | `Talk.Attack.WeAlreadyHavePact2` | Требует контекста | Фрагмент: «У нас с &lt;Target&gt; мирное соглашение, так что ничего не получится.» |
-| [28110](../../source/SR_2_HD_Lang_vanilla.txt#L28110) | `Talk.Attack.WeAlreadyHavePact3` | Кандидат | Фрагмент: «Ничего не выйдет, мы с &lt;Target&gt; договорились не нападать друг на друга.» |
-| [28111](../../source/SR_2_HD_Lang_vanilla.txt#L28111) | `Talk.Attack.WeAlreadyHavePact4` | Требует контекста | Фрагмент: «Напасть на &lt;Target&gt;?» |
+| [27846](../../source/SR_2_HD_Lang_vanilla.txt#L27846) | `Talk.Attack.ComputerAsk` | Текст для сверки | Очень интересно. А на кого мы, собственно, будем нападать, &lt;Player&gt;? |
+| [27847](../../source/SR_2_HD_Lang_vanilla.txt#L27847) | `Talk.Attack.ComputerAsk1` | Текст для сверки | Для начала мне хотелось бы узнать, с кем ты предлагаешь сразиться. |
+| [27848](../../source/SR_2_HD_Lang_vanilla.txt#L27848) | `Talk.Attack.ComputerAsk2` | Текст для сверки | А кого ты избрал в качестве объекта для атаки? |
+| [27849](../../source/SR_2_HD_Lang_vanilla.txt#L27849) | `Talk.Attack.ComputerAsk3` | Текст для сверки | Пока не знаю. Сначала скажи, с кем будет битва. |
+| [27850](../../source/SR_2_HD_Lang_vanilla.txt#L27850) | `Talk.Attack.ComputerAsk4` | Текст для сверки | Хм, и на кого ты хотел бы, чтобы я напал? |
+| [27851](../../source/SR_2_HD_Lang_vanilla.txt#L27851) | `Talk.Attack.ComputerInFear` | Текст для сверки | В данный момент я намерен решать свои проблемы. Поговорим с тобой позже, в более мирной обстановке. |
+| [27852](../../source/SR_2_HD_Lang_vanilla.txt#L27852) | `Talk.Attack.ComputerInFear1` | Текст для сверки | Боюсь, ничем не могу тебе помочь. Советую тебе тоже не лезть во всякие драки, а поскорее слинять отсюда. |
+| [27853](../../source/SR_2_HD_Lang_vanilla.txt#L27853) | `Talk.Attack.ComputerInFear2` | Текст для сверки | Мне надо маленько прийти в себя, успокоиться... Сейчас я не в состоянии ничего делать. |
+| [27854](../../source/SR_2_HD_Lang_vanilla.txt#L27854) | `Talk.Attack.ComputerInFear3` | Текст для сверки | Пусть другие идиоты лезут в драку, а я посижу в сторонке и посмотрю. |
+| [27855](../../source/SR_2_HD_Lang_vanilla.txt#L27855) | `Talk.Attack.ComputerInFear4` | Текст для сверки | Извини, но сейчас я могу думать только о том, как бы унести отсюда ноги подобру-поздорову. |
+| [27856](../../source/SR_2_HD_Lang_vanilla.txt#L27856) | `Talk.Attack.ComputerReadyAttack` | Текст для сверки | Я уже дерусь с &lt;Target&gt;, можешь помочь? |
+| [27857](../../source/SR_2_HD_Lang_vanilla.txt#L27857) | `Talk.Attack.ComputerReadyAttack1` | Текст для сверки | У меня тут уже вовсю кипит сражение с &lt;Target&gt;. Если можешь помочь - буду рад. |
+| [27858](../../source/SR_2_HD_Lang_vanilla.txt#L27858) | `Talk.Attack.ComputerReadyAttack2` | Текст для сверки | Я сейчас выясняю отношения с &lt;Target&gt;. Присоединяйся, если есть возможность! |
+| [27859](../../source/SR_2_HD_Lang_vanilla.txt#L27859) | `Talk.Attack.ComputerReadyAttack3` | Текст для сверки | Сначала помоги мне в битве с &lt;Target&gt;. А то что-то я его никак не одолею... |
+| [27860](../../source/SR_2_HD_Lang_vanilla.txt#L27860) | `Talk.Attack.ComputerReadyAttack4` | Текст для сверки | Сейчас я занят боем с &lt;Target&gt;. Если ты поможешь мне, буду очень благодарен. |
+| [27861](../../source/SR_2_HD_Lang_vanilla.txt#L27861) | `Talk.Attack.DiplomatFear` | Текст для сверки | Ну и предложение... У меня мирное дипломатическое судно, не предназначенное для серьезных боевых действий. Я ничем не могу тебе помочь. |
+| [27862](../../source/SR_2_HD_Lang_vanilla.txt#L27862) | `Talk.Attack.DiplomatFear1` | Текст для сверки | Я, как мирный дипломат, не намерен подвергать свою жизнь опасности. Поищи себе другого подельника. |
+| [27863](../../source/SR_2_HD_Lang_vanilla.txt#L27863) | `Talk.Attack.DiplomatFear2` | Текст для сверки | Риск слишком велик, а у меня еще много неоконченных дел в этом мире. Так что я отказываюсь. |
+| [27864](../../source/SR_2_HD_Lang_vanilla.txt#L27864) | `Talk.Attack.DiplomatFear3` | Текст для сверки | Если ты готов рискнуть своей головой в заведомо безнадежной кампании - это твои проблемы. Я предпочитаю трезво оценивать свои возможности. |
+| [27865](../../source/SR_2_HD_Lang_vanilla.txt#L27865) | `Talk.Attack.DiplomatFear4` | Текст для сверки | Я предпочитаю улаживать конфликты дипломатическим путем, особенно когда приходится иметь дело с превосходящим противником. Боюсь, от меня все равно не было бы особого толка в этом вооруженном столкновении. |
+| [27866](../../source/SR_2_HD_Lang_vanilla.txt#L27866) | `Talk.Attack.DiplomatHaveBusiness` | Текст для сверки | У меня полно других дел, и я очень спешу. Извините, но я вынужден отказаться. |
+| [27867](../../source/SR_2_HD_Lang_vanilla.txt#L27867) | `Talk.Attack.DiplomatHaveBusiness1` | Текст для сверки | К сожалению, я сейчас спешу на крайне важное совещание и, похоже, уже опаздываю... |
+| [27868](../../source/SR_2_HD_Lang_vanilla.txt#L27868) | `Talk.Attack.DiplomatHaveBusiness2` | Текст для сверки | Вообще-то я дипломат, и мое призвание - улаживать конфликты, а не развязывать их. Ну, то есть, в основном дела обстоят именно так!.. К тому же, я сейчас очень тороплюсь. Так что ничего не выйдет. |
+| [27869](../../source/SR_2_HD_Lang_vanilla.txt#L27869) | `Talk.Attack.DiplomatHaveBusiness3` | Текст для сверки | Если бы не спешка, непременно задержался бы и помог тебе. К сожалению, я очень тороплюсь. |
+| [27870](../../source/SR_2_HD_Lang_vanilla.txt#L27870) | `Talk.Attack.DiplomatHaveBusiness4` | Текст для сверки | Я взвесил ваше предложение, и вынужден ответить отказом. Я не располагаю количеством свободного времени, достаточным для ведения боевых действий. |
+| [27871](../../source/SR_2_HD_Lang_vanilla.txt#L27871) | `Talk.Attack.DiplomatItsMyTranc` | Текст для сверки | Я нахожу подобную шутку крайне бестактной и неуместной, &lt;Player&gt; - найдите себе другую забаву. В противном случае я буду вынужден считать ваше предложение прямым выпадом в свою сторону. Со всеми вытекающими последствиями. |
+| [27872](../../source/SR_2_HD_Lang_vanilla.txt#L27872) | `Talk.Attack.DiplomatItsYourTranc` | Текст для сверки | Боюсь, что подобные действия могут серьёзно подорвать наши с вами взаимоотношения. Предложение отклонено. |
+| [27873](../../source/SR_2_HD_Lang_vanilla.txt#L27873) | `Talk.Attack.DiplomatOk` | Текст для сверки | Я согласен прервать на время свою миссию и присоединиться к тебе. Помогу чем смогу. |
+| [27874](../../source/SR_2_HD_Lang_vanilla.txt#L27874) | `Talk.Attack.DiplomatOk1` | Текст для сверки | Этот субъект нелоялен по отношению к моему правительству, и я с легким сердцем могу его уничтожить. Выступаем! |
+| [27875](../../source/SR_2_HD_Lang_vanilla.txt#L27875) | `Talk.Attack.DiplomatOk2` | Текст для сверки | Что ж, вообще-то я против решения конфликтов силовым путем, но для данного случая можно сделать исключение. Орудия к бою! |
+| [27876](../../source/SR_2_HD_Lang_vanilla.txt#L27876) | `Talk.Attack.DiplomatOk3` | Текст для сверки | В прошлом я был военным, и до сих пор тоскую по битвам. Пожалуй, я тебе помогу! |
+| [27877](../../source/SR_2_HD_Lang_vanilla.txt#L27877) | `Talk.Attack.DiplomatOk4` | Текст для сверки | Я всего лишь скромный дипломат, но сделаю все, что в моих силах, чтобы помочь вам. |
+| [27878](../../source/SR_2_HD_Lang_vanilla.txt#L27878) | `Talk.Attack.DiplomatSend` | Текст для сверки | Прошу оказать мне содействие в бою с &lt;Target&gt;. |
+| [27879](../../source/SR_2_HD_Lang_vanilla.txt#L27879) | `Talk.Attack.DiplomatSend1` | Текст для сверки | Мне нужна помощь. Злодей &lt;Target&gt; хочет посягнуть на святыни моего народа! |
+| [27880](../../source/SR_2_HD_Lang_vanilla.txt#L27880) | `Talk.Attack.DiplomatSend2` | Текст для сверки | Я вынужден сразиться с &lt;Target&gt;. Если можешь помочь - скорее сюда! |
+| [27881](../../source/SR_2_HD_Lang_vanilla.txt#L27881) | `Talk.Attack.DiplomatSend3` | Текст для сверки | Требуется помощь в битве с &lt;Target&gt;. Не дайте ему уничтожить мирное дипломатическое судно! |
+| [27882](../../source/SR_2_HD_Lang_vanilla.txt#L27882) | `Talk.Attack.DiplomatSend4` | Текст для сверки | Как вы относитесь к предложению атаковать &lt;Target&gt;? Ваша помощь была бы очень кстати. |
+| [27883](../../source/SR_2_HD_Lang_vanilla.txt#L27883) | `Talk.Attack.DiplomatSuspect` | Текст для сверки | Я не имею достаточных оснований доверять тебе. |
+| [27884](../../source/SR_2_HD_Lang_vanilla.txt#L27884) | `Talk.Attack.DiplomatSuspect1` | Текст для сверки | Совместное нападение - серьезное мероприятие. Что я буду делать, если ты подведешь меня в самый ответственный момент? |
+| [27885](../../source/SR_2_HD_Lang_vanilla.txt#L27885) | `Talk.Attack.DiplomatSuspect2` | Текст для сверки | Я склонен дать отрицательный ответ. Ты не выглядишь субъектом, к которому можно повернуться спиной во время боя. |
+| [27886](../../source/SR_2_HD_Lang_vanilla.txt#L27886) | `Talk.Attack.DiplomatSuspect3` | Текст для сверки | Я не намерен задерживаться и помогать тем, кому не вполне доверяю. |
+| [27887](../../source/SR_2_HD_Lang_vanilla.txt#L27887) | `Talk.Attack.DiplomatSuspect4` | Текст для сверки | Моей помощи ты не дождешься. Политика научила меня всегда держать ухо востро. И никогда не поворачиваться спиной к тем, в ком не уверен на сто процентов. А еще лучше - вообще никогда никому не доверять. |
+| [27888](../../source/SR_2_HD_Lang_vanilla.txt#L27888) | `Talk.Attack.DiplomatSuspect5` | Текст для сверки | Нет! Я тебе не доверяю и решительно отказываюсь участвовать во всем этом! |
+| [27889](../../source/SR_2_HD_Lang_vanilla.txt#L27889) | `Talk.Attack.DiplomatWeFriends` | Текст для сверки | Эта атака может повлечь за собой негативные дипломатические последствия. Я отказываюсь. |
+| [27890](../../source/SR_2_HD_Lang_vanilla.txt#L27890) | `Talk.Attack.DiplomatWeFriends1` | Текст для сверки | Данный корабль является дружественным по отношению к моему правительству. Ты хотя бы понимаешь, что со мной сделают, если я помогу тебе? |
+| [27891](../../source/SR_2_HD_Lang_vanilla.txt#L27891) | `Talk.Attack.DiplomatWeFriends2` | Текст для сверки | Это дружественное по отношению ко мне судно, и у меня нет абсолютно никакого желания вступать с ним в вооруженный конфликт. |
+| [27892](../../source/SR_2_HD_Lang_vanilla.txt#L27892) | `Talk.Attack.DiplomatWeFriends3` | Текст для сверки | Капитан этого корабля - мой старый знакомый. Если я с кем и объединюсь, так это с ним - против тебя. Впрочем, надеюсь, до этого все же не дойдет. |
+| [27893](../../source/SR_2_HD_Lang_vanilla.txt#L27893) | `Talk.Attack.DiplomatWeFriends4` | Текст для сверки | Капитан указанного тобой корабля мне знаком, и я не испытываю никакого желания с ним ссориться. |
+| [27894](../../source/SR_2_HD_Lang_vanilla.txt#L27894) | `Talk.Attack.DiplomatWeFriendsTranc` | Текст для сверки | Эта атака может повлечь за собой негативные дипломатические последствия. Я отказываюсь. |
+| [27895](../../source/SR_2_HD_Lang_vanilla.txt#L27895) | `Talk.Attack.DiplomatWeFriendsTranc1` | Текст для сверки | Не вижу никаких причин портить чью-то частную собственность. И вам не рекомендую. |
+| [27896](../../source/SR_2_HD_Lang_vanilla.txt#L27896) | `Talk.Attack.DiplomatWeFriendsTranc2` | Текст для сверки | Нет, нет и ещё раз нет! Я категорически против столь вопиющего неуважения к частной собственности! |
+| [27897](../../source/SR_2_HD_Lang_vanilla.txt#L27897) | `Talk.Attack.LinerFear` | Текст для сверки | Пассажиры боятся вступать в бой. Как капитан, я обязан отклонить твое предложение. |
+| [27898](../../source/SR_2_HD_Lang_vanilla.txt#L27898) | `Talk.Attack.LinerFear1` | Текст для сверки | Как капитан, я несу ответственность за жизнь пассажиров, а они могут не пережить кровопролитного боя. |
+| [27899](../../source/SR_2_HD_Lang_vanilla.txt#L27899) | `Talk.Attack.LinerFear2` | Текст для сверки | Мы всем сердцем с вами и рвемся в бой. Только вот на борту маленькие дети, жизнь которых, сами понимаете, нельзя подвергать опасности. |
+| [27900](../../source/SR_2_HD_Lang_vanilla.txt#L27900) | `Talk.Attack.LinerFear3` | Текст для сверки | Я бы помог, но моя жена против того, чтобы я участвовал в таких опасных авантюрах. Она мне жуткую взбучку устроит, если узнает об этом. Так что даже и не просите. |
+| [27901](../../source/SR_2_HD_Lang_vanilla.txt#L27901) | `Talk.Attack.LinerFear4` | Текст для сверки | Предпочитаю лишний раз не ввязываться в сражения с такими серьезными противниками. В конце концов, я несу ответственность за жизнь и здоровье пассажиров. Да и за поцарапанный корпус лайнера мне тоже может влететь. |
+| [27902](../../source/SR_2_HD_Lang_vanilla.txt#L27902) | `Talk.Attack.LinerHaveBusiness` | Текст для сверки | Мое движение связано жестким графиком, я не могу отходить от него ни на минуту. |
+| [27903](../../source/SR_2_HD_Lang_vanilla.txt#L27903) | `Talk.Attack.LinerHaveBusiness1` | Текст для сверки | Я капитан рейсового судна, у меня четкий график полетов. Боюсь, что ничем не могу помочь. |
+| [27904](../../source/SR_2_HD_Lang_vanilla.txt#L27904) | `Talk.Attack.LinerHaveBusiness2` | Текст для сверки | Пассажиры настаивают, чтобы я продолжил путь. Иначе я рискую не вписаться в график. |
+| [27905](../../source/SR_2_HD_Lang_vanilla.txt#L27905) | `Talk.Attack.LinerHaveBusiness3` | Текст для сверки | Нет, это плохая идея. Я должен следовать графику полетов, иначе меня уволят. |
+| [27906](../../source/SR_2_HD_Lang_vanilla.txt#L27906) | `Talk.Attack.LinerHaveBusiness4` | Текст для сверки | С удовольствием присоединился бы к тебе, но мне нужно торопиться, я и так едва вписываюсь в график. |
+| [27907](../../source/SR_2_HD_Lang_vanilla.txt#L27907) | `Talk.Attack.LinerItsMyTranc` | Текст для сверки | Эй! Ты вообще-то сейчас о моём роботе говоришь, ты в курсе?<br>Лети-ка лучше отсюда, да поживее! Свою собственность я в обиду не дам. |
+| [27908](../../source/SR_2_HD_Lang_vanilla.txt#L27908) | `Talk.Attack.LinerItsYourTranc` | Текст для сверки | Окееей...<br>А вообще знаешь что? Тебе бы с таким предложением обратиться для начала к доктору.<br>Нет, я в курсе, что есть любители ломать свою собственную технику, но одобрять, а уж тем более участвовать в подобных занятиях я не хочу, извини. |
+| [27909](../../source/SR_2_HD_Lang_vanilla.txt#L27909) | `Talk.Attack.LinerOk` | Текст для сверки | Надо, конечно, этого гада побить. Пассажиры только волнуются. |
+| [27910](../../source/SR_2_HD_Lang_vanilla.txt#L27910) | `Talk.Attack.LinerOk1` | Текст для сверки | Вот это правильно! Я присоединяюсь. |
+| [27911](../../source/SR_2_HD_Lang_vanilla.txt#L27911) | `Talk.Attack.LinerOk2` | Текст для сверки | Замечательно. Сейчас, только батареи перезаряжу - и в бой. Ты давай, начинай. |
+| [27912](../../source/SR_2_HD_Lang_vanilla.txt#L27912) | `Talk.Attack.LinerOk3` | Текст для сверки | Пассажиры в восторге от вашего предложения поучаствовать в настоящей космической битве. Они предвкушают впечатляющее и щекочущее нервы зрелище. Вот уж не думал, что на одном лайнере может собраться столько идиотов! Ладно, так уж и быть, помогу вам. |
+| [27913](../../source/SR_2_HD_Lang_vanilla.txt#L27913) | `Talk.Attack.LinerOk4` | Текст для сверки | Я согласен. Обожаю космические битвы! Ну почему я вынужден управлять лайнером, а не истребителем?! |
+| [27914](../../source/SR_2_HD_Lang_vanilla.txt#L27914) | `Talk.Attack.LinerSend` | Текст для сверки | Предлагаю вместе атаковать &lt;Target&gt;. Вся добыча твоя, я ни на что не претендую. У меня чисто личные интересы. |
+| [27915](../../source/SR_2_HD_Lang_vanilla.txt#L27915) | `Talk.Attack.LinerSend1` | Текст для сверки | Я вынужден вступить в бой с &lt;Target&gt;. Прошу помощи! |
+| [27916](../../source/SR_2_HD_Lang_vanilla.txt#L27916) | `Talk.Attack.LinerSend2` | Текст для сверки | Помоги мне в битве с &lt;Target&gt;! Если ты откажешься, и наш мирный лайнер будет подбит, то гибель пассажиров тяжелым грузом ляжет на твою совесть. |
+| [27917](../../source/SR_2_HD_Lang_vanilla.txt#L27917) | `Talk.Attack.LinerSend3` | Текст для сверки | Давай вместе атакуем &lt;Target&gt;. Надо как следует проучить этого типа. |
+| [27918](../../source/SR_2_HD_Lang_vanilla.txt#L27918) | `Talk.Attack.LinerSend4` | Текст для сверки | Мне очень нужна помощь в битве с &lt;Target&gt;, ты мог бы ее оказать? |
+| [27919](../../source/SR_2_HD_Lang_vanilla.txt#L27919) | `Talk.Attack.LinerSuspect` | Текст для сверки | Я тебе не доверяю и ни на кого нападать не собираюсь. |
+| [27920](../../source/SR_2_HD_Lang_vanilla.txt#L27920) | `Talk.Attack.LinerSuspect1` | Текст для сверки | Я добропорядочный капитан лайнера, а ты скользкий тип. Я тебе не верю, и не собираюсь тебе помогать в твоих темных делишках. |
+| [27921](../../source/SR_2_HD_Lang_vanilla.txt#L27921) | `Talk.Attack.LinerSuspect2` | Текст для сверки | Извини, но я не настолько тебе доверяю, чтобы рисковать ради тебя здоровьем и жизнью пассажиров. |
+| [27922](../../source/SR_2_HD_Lang_vanilla.txt#L27922) | `Talk.Attack.LinerSuspect3` | Текст для сверки | Ничего не выйдет, нет у меня к тебе доверия. И пассажиры тоже возражают против задержки. |
+| [27923](../../source/SR_2_HD_Lang_vanilla.txt#L27923) | `Talk.Attack.LinerSuspect4` | Текст для сверки | Натравишь меня на противника, а сам потом незаметно смоешься? Ну уж нет, ищи дураков где-нибудь в другом месте. |
+| [27924](../../source/SR_2_HD_Lang_vanilla.txt#L27924) | `Talk.Attack.LinerWeFriends` | Текст для сверки | Во-первых, я совершаю рейс по расписанию, и мне некогда ввязываться в сомнительные авантюры. Во-вторых, я ничего не имею против этого судна. |
+| [27925](../../source/SR_2_HD_Lang_vanilla.txt#L27925) | `Talk.Attack.LinerWeFriends1` | Текст для сверки | Этот корабль - мой союзник, а нападение на союзников для штатного пилота чревато высшей мерой. |
+| [27926](../../source/SR_2_HD_Lang_vanilla.txt#L27926) | `Talk.Attack.LinerWeFriends2` | Текст для сверки | Ты мне что предлагаешь - напасть на одного из лучших друзей?! Никогда не стану воевать с ним, и тебе не советую. |
+| [27927](../../source/SR_2_HD_Lang_vanilla.txt#L27927) | `Talk.Attack.LinerWeFriends3` | Текст для сверки | Я не имею ничего против капитана этого корабля, и у меня нет никакого желания с ним сражаться. |
+| [27928](../../source/SR_2_HD_Lang_vanilla.txt#L27928) | `Talk.Attack.LinerWeFriends4` | Текст для сверки | Не мог какую-нибудь другую цель предложить? Ведь это же дружественное мне судно! На него я нападать отказываюсь. |
+| [27929](../../source/SR_2_HD_Lang_vanilla.txt#L27929) | `Talk.Attack.LinerWeFriendsTranc` | Текст для сверки | Во-первых, я совершаю рейс по расписанию, и мне некогда ввязываться в сомнительные авантюры. Во-вторых, я совершенно ничего не имею против этого робота. |
+| [27930](../../source/SR_2_HD_Lang_vanilla.txt#L27930) | `Talk.Attack.LinerWeFriendsTranc1` | Текст для сверки | Да ты что, &lt;Player&gt;, со звезды рухнул? Я ж с малых лет бортмехаником на лайнерах батрачил - умную технику ой как люблю! |
+| [27931](../../source/SR_2_HD_Lang_vanilla.txt#L27931) | `Talk.Attack.LinerWeFriendsTranc2` | Текст для сверки | Вот посмотрю я на тебя, когда кто-нибудь так же бессовестно расколошматит твоего собственного робота! Не трогай чужую вещь, &lt;Player&gt;, иначе хлопот не оберёшься. |
+| [27932](../../source/SR_2_HD_Lang_vanilla.txt#L27932) | `Talk.Attack.PirateFear` | Текст для сверки | Мне кажется, что с этого дела я не буду иметь ничего, кроме искореженного корабля. Противник-то крутой. |
+| [27933](../../source/SR_2_HD_Lang_vanilla.txt#L27933) | `Talk.Attack.PirateFear1` | Текст для сверки | Не, это слишком крутой противник, мы с ним не справимся! Я отказываюсь! |
+| [27934](../../source/SR_2_HD_Lang_vanilla.txt#L27934) | `Talk.Attack.PirateFear2` | Текст для сверки | Да ты чего, братан, на тот свет захотел? Ну а я еще нет! Так что я тебе не помощник. |
+| [27935](../../source/SR_2_HD_Lang_vanilla.txt#L27935) | `Talk.Attack.PirateFear3` | Текст для сверки | Я готов драться с кем угодно, только не с ним! Такой крутой корабль - он нас замочит и даже не заметит. |
+| [27936](../../source/SR_2_HD_Lang_vanilla.txt#L27936) | `Talk.Attack.PirateFear4` | Текст для сверки | Ты че, серьезно? Там же не лох какой-нибудь. Этот корабль очень опасен... Не-ет, я в здравом уме не стану на него наезжать. Но тебе желаю удачи. Сделай его, братан! |
+| [27937](../../source/SR_2_HD_Lang_vanilla.txt#L27937) | `Talk.Attack.PirateHaveBusiness` | Текст для сверки | Чертовски заманчивое предложение, но я сейчас сильно занят. Может быть, потом? |
+| [27938](../../source/SR_2_HD_Lang_vanilla.txt#L27938) | `Talk.Attack.PirateHaveBusiness1` | Текст для сверки | Дело стоящее, и я бы помог, но у меня сейчас другие планы. |
+| [27939](../../source/SR_2_HD_Lang_vanilla.txt#L27939) | `Talk.Attack.PirateHaveBusiness2` | Текст для сверки | Извини, братан, не судьба. Сейчас я совсем другим занят. |
+| [27940](../../source/SR_2_HD_Lang_vanilla.txt#L27940) | `Talk.Attack.PirateHaveBusiness3` | Текст для сверки | Я сейчас занят, может, подвалишь ко мне с этим предложением попозже? |
+| [27941](../../source/SR_2_HD_Lang_vanilla.txt#L27941) | `Talk.Attack.PirateHaveBusiness4` | Текст для сверки | Базара нет, дело стоящее. Но я не могу к тебе присоединиться, у меня своих дел невпроворот. |
+| [27942](../../source/SR_2_HD_Lang_vanilla.txt#L27942) | `Talk.Attack.PirateItsMyTranc` | Текст для сверки | Да ты чё, братуха, в натуре на весь иллюминатор треснутый?! Нафига же я стану своего транклюкатора лупить? |
+| [27943](../../source/SR_2_HD_Lang_vanilla.txt#L27943) | `Talk.Attack.PirateItsYourTranc` | Текст для сверки | Нет, ну я, конечно, всё понимаю - веселуха, вся ботва... Да только есть в твоём предложении что-то не очень здоровое, смекаешь?<br>Короче, на меня не рассчитывай. |
+| [27944](../../source/SR_2_HD_Lang_vanilla.txt#L27944) | `Talk.Attack.PirateOk` | Текст для сверки | Мне как раз нужны бабки, и я чувствую запах добычи. Начинаем атаку немедленно. |
+| [27945](../../source/SR_2_HD_Lang_vanilla.txt#L27945) | `Talk.Attack.PirateOk1` | Текст для сверки | Договорились. А груз поделим! И только попробуй меня обмануть!!! |
+| [27946](../../source/SR_2_HD_Lang_vanilla.txt#L27946) | `Talk.Attack.PirateOk2` | Текст для сверки | Замечательно! У меня уже давно руки чесались его отделать, да все никак не доходили... |
+| [27947](../../source/SR_2_HD_Lang_vanilla.txt#L27947) | `Talk.Attack.PirateOk3` | Текст для сверки | Отлично, я присоединяюсь к атаке. Грабить и убивать в хорошей компании - что может быть лучше? |
+| [27948](../../source/SR_2_HD_Lang_vanilla.txt#L27948) | `Talk.Attack.PirateOk4` | Текст для сверки | Грабить и убивать я люблю. Согласен! |
+| [27949](../../source/SR_2_HD_Lang_vanilla.txt#L27949) | `Talk.Attack.PirateSend` | Текст для сверки | Давай объединимся и замочим &lt;Target&gt;. Добычу разделим по-братски. Согласен? |
+| [27950](../../source/SR_2_HD_Lang_vanilla.txt#L27950) | `Talk.Attack.PirateSend1` | Текст для сверки | Слышь, братан, видишь &lt;Target&gt;? Давай его сделаем в лучших пиратских традициях. |
+| [27951](../../source/SR_2_HD_Lang_vanilla.txt#L27951) | `Talk.Attack.PirateSend2` | Текст для сверки | У нас тут с &lt;Target&gt; небольшие трения возникли. Поможешь вправить ему мозги? |
+| [27952](../../source/SR_2_HD_Lang_vanilla.txt#L27952) | `Talk.Attack.PirateSend3` | Текст для сверки | Эй, навалимся вместе на &lt;Target&gt;?! Ему не устоять против нас двоих! |
+| [27953](../../source/SR_2_HD_Lang_vanilla.txt#L27953) | `Talk.Attack.PirateSend4` | Текст для сверки | У меня предложение: ты атакуешь &lt;Target&gt;, а я тебя прикрываю. Вместе мы его сделаем, братан! |
+| [27954](../../source/SR_2_HD_Lang_vanilla.txt#L27954) | `Talk.Attack.PirateSuspect` | Текст для сверки | Я не собираюсь рассматривать твое предложение. Физиономия твоя мне не нравится. |
+| [27955](../../source/SR_2_HD_Lang_vanilla.txt#L27955) | `Talk.Attack.PirateSuspect1` | Текст для сверки | Я иду в бой только со своими корешами, которым могу доверять. А тебя я не знаю. |
+| [27956](../../source/SR_2_HD_Lang_vanilla.txt#L27956) | `Talk.Attack.PirateSuspect2` | Текст для сверки | Где гарантия, что это не западня, с целью меня поймать? Я тебе не доверяю. Лучше уматывай отсюда, пока цел. |
+| [27957](../../source/SR_2_HD_Lang_vanilla.txt#L27957) | `Talk.Attack.PirateSuspect3` | Текст для сверки | Ты наверняка готовишь мне какую-то подлость, нюхом чую. Но у тебя ничего не выйдет. Я не попадусь на твою удочку! |
+| [27958](../../source/SR_2_HD_Lang_vanilla.txt#L27958) | `Talk.Attack.PirateSuspect4` | Текст для сверки | Может, я слишком подозрителен, но твоя хитрая морда не вызывает у меня доверия. Поищи себе другого подельника. |
+| [27959](../../source/SR_2_HD_Lang_vanilla.txt#L27959) | `Talk.Attack.PirateWeFriends` | Текст для сверки | Я знаю капитана этого корабля. Он хороший малый. Не стоит его трогать. |
+| [27960](../../source/SR_2_HD_Lang_vanilla.txt#L27960) | `Talk.Attack.PirateWeFriends1` | Текст для сверки | Это мой старый кореш, я не хочу в него стрелять. |
+| [27961](../../source/SR_2_HD_Lang_vanilla.txt#L27961) | `Talk.Attack.PirateWeFriends2` | Текст для сверки | Так ты моего кореша имел в виду? Нет, с ним я не буду драться. |
+| [27962](../../source/SR_2_HD_Lang_vanilla.txt#L27962) | `Talk.Attack.PirateWeFriends3` | Текст для сверки | Капитан этого судна - мой старый кореш, а я стараюсь не предавать друзей без особой необходимости. Так что ты уж как-нибудь справляйся один. |
+| [27963](../../source/SR_2_HD_Lang_vanilla.txt#L27963) | `Talk.Attack.PirateWeFriends4` | Текст для сверки | Зачем мне нападать на своего кореша, когда вокруг полно всяких лохов? Нет уж, я тебе не помощник в этом деле. |
+| [27964](../../source/SR_2_HD_Lang_vanilla.txt#L27964) | `Talk.Attack.PirateWeFriendsTranc` | Текст для сверки | Может, он что тебе и сделал, но меня это не колеблет. |
+| [27965](../../source/SR_2_HD_Lang_vanilla.txt#L27965) | `Talk.Attack.PirateWeFriendsTranc1` | Текст для сверки | Нет, этого робота я трогать не буду, уж больно он, чертяка, симпатичный. Особенно с этими волынами наперевес. |
+| [27966](../../source/SR_2_HD_Lang_vanilla.txt#L27966) | `Talk.Attack.PirateWeFriendsTranc2` | Текст для сверки | Ну и что я с этого буду иметь? Гайки, да подшипники в масле? Нет, &lt;Player&gt;, извиняй, но с роботами ты уж как-нибудь сам разбирайся. |
+| [27967](../../source/SR_2_HD_Lang_vanilla.txt#L27967) | `Talk.Attack.PlayerFear` | Текст для сверки | Я не желаю участвовать в этой операции, поскольку она заранее обречена на провал. |
+| [27968](../../source/SR_2_HD_Lang_vanilla.txt#L27968) | `Talk.Attack.PlayerFear1` | Текст для сверки | Да ты что?!! Не видишь, что ли, что он круче нас двоих, вместе взятых? Нет уж, я умываю руки! |
+| [27969](../../source/SR_2_HD_Lang_vanilla.txt#L27969) | `Talk.Attack.PlayerFear2` | Текст для сверки | Заведомо провальная операция! На этот корабль будут нападать либо идиоты, либо герои. Ну а я, в отличие от тебя, вполне нормален, поэтому даже не буду и пробовать. |
+| [27970](../../source/SR_2_HD_Lang_vanilla.txt#L27970) | `Talk.Attack.PlayerFear3` | Текст для сверки | Извини, но я должен сохранить свою жизнь для более важного дела - спасения Галактики от доминаторов! Если влезать во все локальные конфликты, долго не протянешь. |
+| [27971](../../source/SR_2_HD_Lang_vanilla.txt#L27971) | `Talk.Attack.PlayerFear4` | Текст для сверки | Ну уж нет! Да он нас как котят расшвыряет! Это детеныши таких маленьких домашних зверьков с планеты Земля, если ты не знаешь. |
+| [27972](../../source/SR_2_HD_Lang_vanilla.txt#L27972) | `Talk.Attack.PlayerHaveBusiness` | Текст для сверки | Я сейчас очень занят, мне некогда даже рассматривать твое предложение. |
+| [27973](../../source/SR_2_HD_Lang_vanilla.txt#L27973) | `Talk.Attack.PlayerHaveBusiness1` | Текст для сверки | Я крайне занят, прошу простить мой отказ. |
+| [27974](../../source/SR_2_HD_Lang_vanilla.txt#L27974) | `Talk.Attack.PlayerHaveBusiness2` | Текст для сверки | Извини, у меня сейчас совсем другие планы. Может, как-нибудь в другой раз? |
+| [27975](../../source/SR_2_HD_Lang_vanilla.txt#L27975) | `Talk.Attack.PlayerHaveBusiness3` | Текст для сверки | Хм, я бы тебе помог, но уж очень занят сейчас. Так что на меня можешь не рассчитывать. |
+| [27976](../../source/SR_2_HD_Lang_vanilla.txt#L27976) | `Talk.Attack.PlayerHaveBusiness4` | Текст для сверки | К сожалению, я сейчас занят, и ничем тебе помочь не могу. |
+| [27977](../../source/SR_2_HD_Lang_vanilla.txt#L27977) | `Talk.Attack.PlayerItsMyTranc` | Текст для сверки | Ты реально сейчас хочешь заставить меня атаковать своего собственного робота? Ну удачи, чё. |
+| [27978](../../source/SR_2_HD_Lang_vanilla.txt#L27978) | `Talk.Attack.PlayerItsYourTranc` | Текст для сверки | Слушай, если тебе нравится ломать своих собственных роботов - без проблем. Главное, меня в эти дела не впутывай. |
+| [27979](../../source/SR_2_HD_Lang_vanilla.txt#L27979) | `Talk.Attack.PlayerOffersAttack` | Текст для сверки | Предлагаю совместное нападение |
+| [27980](../../source/SR_2_HD_Lang_vanilla.txt#L27980) | `Talk.Attack.PlayerOffersAttack1` | Текст для сверки | Как насчет совместного нападения? |
+| [27981](../../source/SR_2_HD_Lang_vanilla.txt#L27981) | `Talk.Attack.PlayerOffersAttack2` | Текст для сверки | Поможешь мне в битве с одним типом? |
+| [27982](../../source/SR_2_HD_Lang_vanilla.txt#L27982) | `Talk.Attack.PlayerOffersAttack3` | Текст для сверки | Давай вместе сразимся кое с кем? |
+| [27983](../../source/SR_2_HD_Lang_vanilla.txt#L27983) | `Talk.Attack.PlayerOffersAttack4` | Текст для сверки | Примешь участие в совместной атаке? |
+| [27984](../../source/SR_2_HD_Lang_vanilla.txt#L27984) | `Talk.Attack.PlayerOk` | Текст для сверки | Согласен. Берем его в кольцо и атакуем. |
+| [27985](../../source/SR_2_HD_Lang_vanilla.txt#L27985) | `Talk.Attack.PlayerOk1` | Текст для сверки | Отлично, сделаем его! Я захожу с тыла, а ты атакуй в лоб. |
+| [27986](../../source/SR_2_HD_Lang_vanilla.txt#L27986) | `Talk.Attack.PlayerOk2` | Текст для сверки | Заметано! Атакуй его, я скоро присоединюсь. |
+| [27987](../../source/SR_2_HD_Lang_vanilla.txt#L27987) | `Talk.Attack.PlayerOk3` | Текст для сверки | А что, мне нравится эта идея. Уже лечу! |
+| [27988](../../source/SR_2_HD_Lang_vanilla.txt#L27988) | `Talk.Attack.PlayerOk4` | Текст для сверки | О'кей, мне он тоже не нравится. Я согласен тебе помочь. Компьютер, орудия к бою! |
+| [27989](../../source/SR_2_HD_Lang_vanilla.txt#L27989) | `Talk.Attack.PlayerSend` | Текст для сверки | Предлагаю организовать атаку на &lt;Target&gt;. |
+| [27990](../../source/SR_2_HD_Lang_vanilla.txt#L27990) | `Talk.Attack.PlayerSend1` | Текст для сверки | Как насчет совместной атаки на &lt;Target&gt;? |
+| [27991](../../source/SR_2_HD_Lang_vanilla.txt#L27991) | `Talk.Attack.PlayerSend2` | Текст для сверки | Я атакую &lt;Target&gt;. Присоединяйся, если есть желание кого-нибудь прикончить. |
+| [27992](../../source/SR_2_HD_Lang_vanilla.txt#L27992) | `Talk.Attack.PlayerSend3` | Текст для сверки | Не поможешь мне в битве с &lt;Target&gt;? |
+| [27993](../../source/SR_2_HD_Lang_vanilla.txt#L27993) | `Talk.Attack.PlayerSend4` | Текст для сверки | Хочешь принять участие в битве с &lt;Target&gt;? Присоединяйся, пока я его не добил окончательно! |
+| [27994](../../source/SR_2_HD_Lang_vanilla.txt#L27994) | `Talk.Attack.PlayerWeFriends` | Текст для сверки | Я не собираюсь атаковывать дружественный по отношению ко мне корабль. |
+| [27995](../../source/SR_2_HD_Lang_vanilla.txt#L27995) | `Talk.Attack.PlayerWeFriends1` | Текст для сверки | Я не открою огонь по своим. |
+| [27996](../../source/SR_2_HD_Lang_vanilla.txt#L27996) | `Talk.Attack.PlayerWeFriends2` | Текст для сверки | Ты что, мы же с ним друзья! Лучше отстань от него, иначе будешь иметь дело со мной. |
+| [27997](../../source/SR_2_HD_Lang_vanilla.txt#L27997) | `Talk.Attack.PlayerWeFriends3` | Текст для сверки | По-твоему, я похож на предателя? Капитан этого корабля - мой друг! Я не собираюсь сражаться с ним. |
+| [27998](../../source/SR_2_HD_Lang_vanilla.txt#L27998) | `Talk.Attack.PlayerWeFriends4` | Текст для сверки | Ты обращаешься не по адресу. Я не стану тебе помогать, потому что капитан этого корабля - мой хороший знакомый. И тебе не советую на него наезжать! |
+| [27999](../../source/SR_2_HD_Lang_vanilla.txt#L27999) | `Talk.Attack.PlayerWeFriendsTranc` | Текст для сверки | Атаковать чужого робота? Нет уж, увольте. |
+| [28000](../../source/SR_2_HD_Lang_vanilla.txt#L28000) | `Talk.Attack.PlayerWeFriendsTranc1` | Текст для сверки | Ввязываться в бессмысленный бой с чужой вещью я не намерен. |
+| [28001](../../source/SR_2_HD_Lang_vanilla.txt#L28001) | `Talk.Attack.PlayerWeFriendsTranc2` | Текст для сверки | А я, вообще-то, люблю транклюкаторов, и без причины делать им больно не хочу. |
+| [28002](../../source/SR_2_HD_Lang_vanilla.txt#L28002) | `Talk.Attack.RangerFear` | Текст для сверки | Я не желаю участвовать в этой операции, поскольку она заранее обречена на провал. |
+| [28003](../../source/SR_2_HD_Lang_vanilla.txt#L28003) | `Talk.Attack.RangerFear1` | Текст для сверки | Да ты что?!! Не видишь, что ли, что он круче нас двоих, вместе взятых? Нет уж, я умываю руки! |
+| [28004](../../source/SR_2_HD_Lang_vanilla.txt#L28004) | `Talk.Attack.RangerFear2` | Текст для сверки | Заведомо провальная операция! На этот корабль будут нападать либо идиоты, либо герои. Ну а я, в отличие от тебя, вполне нормален, поэтому даже не буду и пробовать. |
+| [28005](../../source/SR_2_HD_Lang_vanilla.txt#L28005) | `Talk.Attack.RangerFear3` | Текст для сверки | Извини, но я должен сохранить свою жизнь для более важного дела - спасения Галактики от доминаторов! Если влезать во все локальные конфликты, долго не протянешь. |
+| [28006](../../source/SR_2_HD_Lang_vanilla.txt#L28006) | `Talk.Attack.RangerFear4` | Сопоставлено с лангом | Ну уж нет! Да он нас как котят расшвыряет! Это детеныши таких маленьких домашних зверьков с планеты Земля, если ты не знаешь.<br>Сопоставленные записи: [Другие и локальное → Фауна](../lore/OTHER.md#фауна) · [Люди → История](../lore/HUMANS.md#история). |
+| [28007](../../source/SR_2_HD_Lang_vanilla.txt#L28007) | `Talk.Attack.RangerHaveBusiness` | Текст для сверки | Я сейчас очень занят, мне некогда даже рассматривать твое предложение. |
+| [28008](../../source/SR_2_HD_Lang_vanilla.txt#L28008) | `Talk.Attack.RangerHaveBusiness1` | Текст для сверки | Я крайне занят, прошу простить мой отказ. |
+| [28009](../../source/SR_2_HD_Lang_vanilla.txt#L28009) | `Talk.Attack.RangerHaveBusiness2` | Текст для сверки | Извини, у меня сейчас совсем другие планы. Может, как-нибудь в другой раз? |
+| [28010](../../source/SR_2_HD_Lang_vanilla.txt#L28010) | `Talk.Attack.RangerHaveBusiness3` | Текст для сверки | Хм, я бы тебе помог, но уж очень занят сейчас. Так что на меня можешь не рассчитывать. |
+| [28011](../../source/SR_2_HD_Lang_vanilla.txt#L28011) | `Talk.Attack.RangerHaveBusiness4` | Текст для сверки | К сожалению, я сейчас занят, и ничем тебе помочь не могу. |
+| [28012](../../source/SR_2_HD_Lang_vanilla.txt#L28012) | `Talk.Attack.RangerItsMyTranc` | Текст для сверки | А может тебе ещё вина красного, да Махпеллу рыжую? А ну-ка быстро отвалил от моего транклюкатора, не то в следующий раз с тобой заговорят мои пушки! |
+| [28013](../../source/SR_2_HD_Lang_vanilla.txt#L28013) | `Talk.Attack.RangerItsYourTranc` | Текст для сверки | Ты, &lt;Player&gt;, видно больной? А на вид вроде кажешься здоровым...<br>В общем, разбирайся со своими транклюкаторами сам, я в этом цирке участвовать не буду. |
+| [28014](../../source/SR_2_HD_Lang_vanilla.txt#L28014) | `Talk.Attack.RangerOk` | Текст для сверки | Согласен. Берем его в кольцо и атакуем. |
+| [28015](../../source/SR_2_HD_Lang_vanilla.txt#L28015) | `Talk.Attack.RangerOk1` | Текст для сверки | Отлично, сделаем его! Я захожу с тыла, а ты атакуй в лоб. |
+| [28016](../../source/SR_2_HD_Lang_vanilla.txt#L28016) | `Talk.Attack.RangerOk2` | Текст для сверки | Заметано! Атакуй его, я скоро присоединюсь. |
+| [28017](../../source/SR_2_HD_Lang_vanilla.txt#L28017) | `Talk.Attack.RangerOk3` | Текст для сверки | А что, мне нравится эта идея. Уже лечу! |
+| [28018](../../source/SR_2_HD_Lang_vanilla.txt#L28018) | `Talk.Attack.RangerOk4` | Текст для сверки | О'кей, мне он тоже не нравится. Я согласен тебе помочь. Компьютер, орудия к бою! |
+| [28019](../../source/SR_2_HD_Lang_vanilla.txt#L28019) | `Talk.Attack.RangerSend` | Текст для сверки | Предлагаю организовать атаку на &lt;Target&gt;. |
+| [28020](../../source/SR_2_HD_Lang_vanilla.txt#L28020) | `Talk.Attack.RangerSend1` | Текст для сверки | Как насчет совместной атаки на &lt;Target&gt;? |
+| [28021](../../source/SR_2_HD_Lang_vanilla.txt#L28021) | `Talk.Attack.RangerSend2` | Текст для сверки | Я атакую &lt;Target&gt;. Присоединяйся, если есть желание кого-нибудь прикончить. |
+| [28022](../../source/SR_2_HD_Lang_vanilla.txt#L28022) | `Talk.Attack.RangerSend3` | Текст для сверки | Не поможешь мне в битве с &lt;Target&gt;? |
+| [28023](../../source/SR_2_HD_Lang_vanilla.txt#L28023) | `Talk.Attack.RangerSend4` | Текст для сверки | Хочешь принять участие в битве с &lt;Target&gt;? Присоединяйся, пока я его не добил окончательно! |
+| [28024](../../source/SR_2_HD_Lang_vanilla.txt#L28024) | `Talk.Attack.RangerSuspect` | Текст для сверки | Я не доверяю тебе как союзнику, поэтому не готов поддерживать тебя в бою. |
+| [28025](../../source/SR_2_HD_Lang_vanilla.txt#L28025) | `Talk.Attack.RangerSuspect1` | Текст для сверки | А где гарантии, что я могу тебе доверять? Нет уж, на меня в этом деле не рассчитывай. |
+| [28026](../../source/SR_2_HD_Lang_vanilla.txt#L28026) | `Talk.Attack.RangerSuspect2` | Текст для сверки | Идея сама по себе неплоха, но я тебе не доверяю. |
+| [28027](../../source/SR_2_HD_Lang_vanilla.txt#L28027) | `Talk.Attack.RangerSuspect3` | Текст для сверки | Да я бы, в принципе, и не прочь, но уж больно физиономия у тебя подозрительная. Еще кинешь меня одного в разгар боя... Нет уж! |
+| [28028](../../source/SR_2_HD_Lang_vanilla.txt#L28028) | `Talk.Attack.RangerSuspect4` | Текст для сверки | Извини, ничем не могу помочь. Я сражаюсь плечом к плечу только с теми, кому действительно доверяю. |
+| [28029](../../source/SR_2_HD_Lang_vanilla.txt#L28029) | `Talk.Attack.RangerWeFriends` | Текст для сверки | Я не собираюсь атаковывать дружественный по отношению ко мне корабль. |
+| [28030](../../source/SR_2_HD_Lang_vanilla.txt#L28030) | `Talk.Attack.RangerWeFriends1` | Текст для сверки | Я не открою огонь по своим. |
+| [28031](../../source/SR_2_HD_Lang_vanilla.txt#L28031) | `Talk.Attack.RangerWeFriends2` | Текст для сверки | Ты что, мы же с ним друзья! Лучше отстань от него, иначе будешь иметь дело со мной. |
+| [28032](../../source/SR_2_HD_Lang_vanilla.txt#L28032) | `Talk.Attack.RangerWeFriends3` | Текст для сверки | По-твоему, я похож на предателя? Капитан этого корабля - мой друг! Я не собираюсь сражаться с ним. |
+| [28033](../../source/SR_2_HD_Lang_vanilla.txt#L28033) | `Talk.Attack.RangerWeFriends4` | Текст для сверки | Ты обращаешься не по адресу. Я не стану тебе помогать, потому что капитан этого корабля - мой хороший знакомый. И тебе не советую на него наезжать! |
+| [28034](../../source/SR_2_HD_Lang_vanilla.txt#L28034) | `Talk.Attack.RangerWeFriendsTranc` | Текст для сверки | Да чем тебе вообще мог навредить этот невинный робот? Мой ответ - категорическое нет. |
+| [28035](../../source/SR_2_HD_Lang_vanilla.txt#L28035) | `Talk.Attack.RangerWeFriendsTranc1` | Текст для сверки | Ну уж нет, чужую собственность я портить не намерен! Если у тебя какие-то проблемы с хозяином этого транклюкатора - так и скажи. |
+| [28036](../../source/SR_2_HD_Lang_vanilla.txt#L28036) | `Talk.Attack.RangerWeFriendsTranc2` | Текст для сверки | Была у меня как-то в детстве заводная игрушка робота, и этот транклюкатор её очень сильно напоминает. Извини, не хочу омрачать детские воспоминания. |
+| [28037](../../source/SR_2_HD_Lang_vanilla.txt#L28037) | `Talk.Attack.TransportFear` | Текст для сверки | Я не могу на это пойти. Корабль совсем плох, все износилось. Мне не до боев. |
+| [28038](../../source/SR_2_HD_Lang_vanilla.txt#L28038) | `Talk.Attack.TransportFear1` | Текст для сверки | У меня на борту крайне ценный груз и слабое вооружение. Нападай сам, если такой смелый. |
+| [28039](../../source/SR_2_HD_Lang_vanilla.txt#L28039) | `Talk.Attack.TransportFear2` | Текст для сверки | Извини, но нет. Мой груз может повредиться от тряски. А я поврежусь в уме, если с грузом что-то случится! |
+| [28040](../../source/SR_2_HD_Lang_vanilla.txt#L28040) | `Talk.Attack.TransportFear3` | Текст для сверки | Нет, приятель, в этом деле я тебе не помощник. Уж больно крут противник - мне, мирному торговцу, с ним не тягаться! Даже если ты подсобишь. |
+| [28041](../../source/SR_2_HD_Lang_vanilla.txt#L28041) | `Talk.Attack.TransportFear4` | Текст для сверки | Ничего себе! У тебя губа не дура - умеешь выбирать себе противников! Только знаешь, я ведь, в отличие от тебя, не камикадзе, а простой скромный торговец. И в этом заведомо безнадежном деле ничем тебе помочь не могу. Уж извини. |
+| [28042](../../source/SR_2_HD_Lang_vanilla.txt#L28042) | `Talk.Attack.TransportHaveBusiness` | Текст для сверки | У меня полно других дел, скоропортящиеся грузы на борту, и вообще я очень спешу. |
+| [28043](../../source/SR_2_HD_Lang_vanilla.txt#L28043) | `Talk.Attack.TransportHaveBusiness1` | Текст для сверки | Может, как-нибудь в другой раз, когда у меня будет больше свободного времени? Ага? |
+| [28044](../../source/SR_2_HD_Lang_vanilla.txt#L28044) | `Talk.Attack.TransportHaveBusiness2` | Текст для сверки | Извини, времени совсем нет. Я должен доставить грузы в срок. |
+| [28045](../../source/SR_2_HD_Lang_vanilla.txt#L28045) | `Talk.Attack.TransportHaveBusiness3` | Текст для сверки | Время - деньги! Эта истина не стареет с годами. Мне надо заниматься своим бизнесом, если я по пути буду ввязываться во все разборки, то быстро разорюсь. |
+| [28046](../../source/SR_2_HD_Lang_vanilla.txt#L28046) | `Talk.Attack.TransportHaveBusiness4` | Текст для сверки | Тебе знакомо понятие "упущенная выгода"? Я уже не говорю о расходах на ремонт корабля! Нет уж, мне некогда участвовать во всяких идиотских забавах, я должен делать деньги! Ведь именно на малом бизнесе держится спокойствие и благополучие Галактики... |
+| [28047](../../source/SR_2_HD_Lang_vanilla.txt#L28047) | `Talk.Attack.TransportItsMyTranc` | Текст для сверки | Вот я тебе сейчас по кабине-то настучу ракетами! А ну руки прочь от моего транклюкатора, пенчекряк доморощенный! |
+| [28048](../../source/SR_2_HD_Lang_vanilla.txt#L28048) | `Talk.Attack.TransportItsYourTranc` | Текст для сверки | Слышь, ты дебил или как? Если хочешь подобными вещами заниматься, так запрись сперва в своём ангаре, а на люди подобный срам выносить не смей! |
+| [28049](../../source/SR_2_HD_Lang_vanilla.txt#L28049) | `Talk.Attack.TransportOk` | Текст для сверки | Договорились. Я зайду сзади, а ты атакуй в лоб. Я в лоб не могу, боюсь груз повредить. |
+| [28050](../../source/SR_2_HD_Lang_vanilla.txt#L28050) | `Talk.Attack.TransportOk1` | Текст для сверки | Отлично, я согласен! Вдвоем мы с ним разберемся в два счета. |
+| [28051](../../source/SR_2_HD_Lang_vanilla.txt#L28051) | `Talk.Attack.TransportOk2` | Текст для сверки | Что ж, согласен, мой бизнес только выиграет, если мы его укокошим. |
+| [28052](../../source/SR_2_HD_Lang_vanilla.txt#L28052) | `Talk.Attack.TransportOk3` | Текст для сверки | Им и впрямь следует заняться. Пожалуй, я тебе помогу. |
+| [28053](../../source/SR_2_HD_Lang_vanilla.txt#L28053) | `Talk.Attack.TransportOk4` | Текст для сверки | Твое предложение мне по душе! Согласен. Сейчас, проверю только, хорошо ли закреплены контейнеры с грузом в трюме. |
+| [28054](../../source/SR_2_HD_Lang_vanilla.txt#L28054) | `Talk.Attack.TransportSend` | Текст для сверки | Предлагаю поддержать меня в бою с &lt;Target&gt;. Совместно мы его точно одолеем. |
+| [28055](../../source/SR_2_HD_Lang_vanilla.txt#L28055) | `Talk.Attack.TransportSend1` | Текст для сверки | Мне нужна огневая поддержка! Боюсь, сам я с &lt;Target&gt; не справлюсь! |
+| [28056](../../source/SR_2_HD_Lang_vanilla.txt#L28056) | `Talk.Attack.TransportSend2` | Текст для сверки | Ты готов оказать поддержку частному предпринимательству в борьбе с душащими его врагами? Если да, то подключайся к моей битве с &lt;Target&gt;. |
+| [28057](../../source/SR_2_HD_Lang_vanilla.txt#L28057) | `Talk.Attack.TransportSend3` | Текст для сверки | Сынок, хочу попросить тебя об одной услуге. Видишь &lt;Target&gt;? Мне нужна помощь в сражении с ним. |
+| [28058](../../source/SR_2_HD_Lang_vanilla.txt#L28058) | `Talk.Attack.TransportSend4` | Текст для сверки | Я не уверен, что смогу разобраться с &lt;Target&gt; в одиночку. Может, подсобишь? |
+| [28059](../../source/SR_2_HD_Lang_vanilla.txt#L28059) | `Talk.Attack.TransportSuspect` | Текст для сверки | Я не думаю, что ты можешь быть надежным партнером в таком непростом деле. |
+| [28060](../../source/SR_2_HD_Lang_vanilla.txt#L28060) | `Talk.Attack.TransportSuspect1` | Текст для сверки | Сомневаюсь, что на тебя можно положиться в бою. Ты скользкий тип! |
+| [28061](../../source/SR_2_HD_Lang_vanilla.txt#L28061) | `Talk.Attack.TransportSuspect2` | Текст для сверки | Ты не вызываешь у меня доверия, скорее даже наоборот. Так что извини, я не стану тебе помогать. |
+| [28062](../../source/SR_2_HD_Lang_vanilla.txt#L28062) | `Talk.Attack.TransportSuspect3` | Текст для сверки | А вдруг объект атаки - на самом деле твой подельник? И в самый ответственный момент боя ты ударишь мне в спину? Нет уж, я не собираюсь рисковать своим грузом ради содействия всяким подозрительным типам. |
+| [28063](../../source/SR_2_HD_Lang_vanilla.txt#L28063) | `Talk.Attack.TransportSuspect4` | Текст для сверки | Извини, но у меня свои дела есть - груз надо доставить вовремя. К тому же, я тебе не вполне доверяю. |
+| [28064](../../source/SR_2_HD_Lang_vanilla.txt#L28064) | `Talk.Attack.TransportWeFriends` | Текст для сверки | Я не собираюсь атаковать друга и подвергать опасности свой груз. |
+| [28065](../../source/SR_2_HD_Lang_vanilla.txt#L28065) | `Talk.Attack.TransportWeFriends1` | Текст для сверки | Нападать на друзей недопустимо. Вы - бессовестный аморальный тип, раз предлагаете мне такое. |
+| [28066](../../source/SR_2_HD_Lang_vanilla.txt#L28066) | `Talk.Attack.TransportWeFriends2` | Текст для сверки | Мы с ним давние друзья, так что никакой помощи ты от меня не получишь. |
+| [28067](../../source/SR_2_HD_Lang_vanilla.txt#L28067) | `Talk.Attack.TransportWeFriends3` | Текст для сверки | Я не собираюсь портить отношения с хорошим знакомым, расстреливая его из орудий. К тому же, лишний раз рисковать товаром... Нет, я не согласен! |
+| [28068](../../source/SR_2_HD_Lang_vanilla.txt#L28068) | `Talk.Attack.TransportWeFriends4` | Текст для сверки | Лучше отцепись от него. Это мой друг, между прочим! |
+| [28069](../../source/SR_2_HD_Lang_vanilla.txt#L28069) | `Talk.Attack.TransportWeFriendsTranc` | Текст для сверки | Не хочу лезть в чужие дела без причины. А вдруг хозяин этого транклюкатора - криминальный авторитет? |
+| [28070](../../source/SR_2_HD_Lang_vanilla.txt#L28070) | `Talk.Attack.TransportWeFriendsTranc1` | Текст для сверки | Ну робот и робот, ну летает и летает - тебе-то с него какой вред? В общем, я в это дело лезть не намерен. |
+| [28071](../../source/SR_2_HD_Lang_vanilla.txt#L28071) | `Talk.Attack.TransportWeFriendsTranc2` | Текст для сверки | Извини, &lt;Player&gt;, опаздываю со срочной доставкой. Ладно бы ещё предложил на кого за дело напасть, но вот против чужих роботов лично я ничего не имею. |
+| [28072](../../source/SR_2_HD_Lang_vanilla.txt#L28072) | `Talk.Attack.WarriorFear` | Текст для сверки | Нападать на это судно - полнейшее безумие. Говорю тебе как профессионал. |
+| [28073](../../source/SR_2_HD_Lang_vanilla.txt#L28073) | `Talk.Attack.WarriorFear1` | Текст для сверки | Исходя из своего опыта предыдущих боев, могу сразу тебе сказать, что бороться с таким кораблем столь малыми силами - бессмысленно. Тут нужна целая эскадрилья... |
+| [28074](../../source/SR_2_HD_Lang_vanilla.txt#L28074) | `Talk.Attack.WarriorFear2` | Текст для сверки | Я бы помог, но командование не дает "добро" на атаку. Они там считают, что моей огневой мощи будет недостаточно для борьбы со столь серьезным противником, и я только зря загублю дорогостоящий корабль... Ну и себя, конечно. |
+| [28075](../../source/SR_2_HD_Lang_vanilla.txt#L28075) | `Talk.Attack.WarriorFear3` | Текст для сверки | К сожалению, мой корабль сейчас не в том состоянии, чтобы принимать участие в столь серьезной битве. |
+| [28076](../../source/SR_2_HD_Lang_vanilla.txt#L28076) | `Talk.Attack.WarriorFear4` | Текст для сверки | Эта боевая операция заранее обречена на провал. Не вижу смысла в ней участвовать. |
+| [28077](../../source/SR_2_HD_Lang_vanilla.txt#L28077) | `Talk.Attack.WarriorHaveBusiness` | Текст для сверки | Наше правительство поставило нам другую задачу, и мы не имеем права от нее отступать. |
+| [28078](../../source/SR_2_HD_Lang_vanilla.txt#L28078) | `Talk.Attack.WarriorHaveBusiness1` | Текст для сверки | В данный момент я задействован в другой операции. |
+| [28079](../../source/SR_2_HD_Lang_vanilla.txt#L28079) | `Talk.Attack.WarriorHaveBusiness2` | Текст для сверки | У меня есть приказ командования, и пока я его не выполню, не могу заниматься ничем другим. |
+| [28080](../../source/SR_2_HD_Lang_vanilla.txt#L28080) | `Talk.Attack.WarriorHaveBusiness3` | Текст для сверки | Сожалею, но сейчас я должен выполнять задачу, поставленную командованием. |
+| [28081](../../source/SR_2_HD_Lang_vanilla.txt#L28081) | `Talk.Attack.WarriorHaveBusiness4` | Текст для сверки | Командование отклонило мой запрос на участие в предлагаемой вами операции. Мне приказано продолжить выполнение возложенной на меня миссии. |
+| [28082](../../source/SR_2_HD_Lang_vanilla.txt#L28082) | `Talk.Attack.WarriorItsMyTranc` | Текст для сверки | Ну да, ну да - может ещё и родную планету мне взорвать предложишь? Это же мой собственный транклюкатор, идиот! |
+| [28083](../../source/SR_2_HD_Lang_vanilla.txt#L28083) | `Talk.Attack.WarriorItsYourTranc` | Текст для сверки | Рекомендую тебе, &lt;Player&gt;, на время отвлечься от боевых действий и взять отпуск по состоянию здоровья. Ведь только явно нездоровый гуманоид мог предложить атаковать своего собственного робота. |
+| [28084](../../source/SR_2_HD_Lang_vanilla.txt#L28084) | `Talk.Attack.WarriorOk` | Текст для сверки | Командование дает "добро" на эту атаку. Курс на цель, орудия к бою! |
+| [28085](../../source/SR_2_HD_Lang_vanilla.txt#L28085) | `Talk.Attack.WarriorOk1` | Текст для сверки | Что ж, мне нравится твое предложение. Начинаем маневры! |
+| [28086](../../source/SR_2_HD_Lang_vanilla.txt#L28086) | `Talk.Attack.WarriorOk2` | Текст для сверки | Согласен, давно пора врезать по этому кораблю. Я отправил запрос командованию, и мне дали "добро" на проведение акции. |
+| [28087](../../source/SR_2_HD_Lang_vanilla.txt#L28087) | `Talk.Attack.WarriorOk3` | Текст для сверки | Мне как раз приказали разобраться с этим кораблем. Буду рад твоей помощи. |
+| [28088](../../source/SR_2_HD_Lang_vanilla.txt#L28088) | `Talk.Attack.WarriorOk4` | Текст для сверки | Этот корабль на плохом счету у нас. Думаю, начальство не будет против, если я тебе помогу. |
+| [28089](../../source/SR_2_HD_Lang_vanilla.txt#L28089) | `Talk.Attack.WarriorSend` | Текст для сверки | Мое правительство уполномочило меня напасть на &lt;Target&gt;. Прошу помощи, я сам не справлюсь. |
+| [28090](../../source/SR_2_HD_Lang_vanilla.txt#L28090) | `Talk.Attack.WarriorSend1` | Текст для сверки | Организована боевая операция. Объект ликвидации - &lt;Target&gt;. Предлагаю присоединиться. |
+| [28091](../../source/SR_2_HD_Lang_vanilla.txt#L28091) | `Talk.Attack.WarriorSend2` | Текст для сверки | Необходима помощь в устранении объекта &lt;Target&gt;. Моей огневой мощи недостаточно! |
+| [28092](../../source/SR_2_HD_Lang_vanilla.txt#L28092) | `Talk.Attack.WarriorSend3` | Текст для сверки | Мне приказано ликвидировать &lt;Target&gt;. Можешь посодействовать? |
+| [28093](../../source/SR_2_HD_Lang_vanilla.txt#L28093) | `Talk.Attack.WarriorSend4` | Текст для сверки | У тебя есть отличная возможность проявить себя в качестве боевого пилота. Присоединяйся к моей битве с &lt;Target&gt;! |
+| [28094](../../source/SR_2_HD_Lang_vanilla.txt#L28094) | `Talk.Attack.WarriorSuspect` | Текст для сверки | Мое правительство запрещает вступать в военные соглашения с подозрительными субъектами. |
+| [28095](../../source/SR_2_HD_Lang_vanilla.txt#L28095) | `Talk.Attack.WarriorSuspect1` | Текст для сверки | Я стою на страже закона, и не намерен помогать тебе в твоих сомнительных делишках. |
+| [28096](../../source/SR_2_HD_Lang_vanilla.txt#L28096) | `Talk.Attack.WarriorSuspect2` | Текст для сверки | У меня не может быть никаких общих дел с такими скользкими типами, как ты. |
+| [28097](../../source/SR_2_HD_Lang_vanilla.txt#L28097) | `Talk.Attack.WarriorSuspect3` | Текст для сверки | Нападение на кого-либо без приказа вышестоящего начальства может выйти мне боком. Я не настолько тебе доверяю, чтобы подвергать свою карьеру неоправданному риску. |
+| [28098](../../source/SR_2_HD_Lang_vanilla.txt#L28098) | `Talk.Attack.WarriorSuspect4` | Текст для сверки | Таким подозрительным типам, как ты, нечего и рассчитывать на помощь военных. |
+| [28099](../../source/SR_2_HD_Lang_vanilla.txt#L28099) | `Talk.Attack.WarriorWeFriends` | Текст для сверки | Никаких оснований для атаки не вижу. |
+| [28100](../../source/SR_2_HD_Lang_vanilla.txt#L28100) | `Talk.Attack.WarriorWeFriends1` | Текст для сверки | Вы обратились не по адресу. Военный флот служит закону, который не одобряет нападения на дружественные суда федерации. |
+| [28101](../../source/SR_2_HD_Lang_vanilla.txt#L28101) | `Talk.Attack.WarriorWeFriends2` | Текст для сверки | Мы с капитаном этого корабля учились в одной летной школе. Лучше не лезь к нему. |
+| [28102](../../source/SR_2_HD_Lang_vanilla.txt#L28102) | `Talk.Attack.WarriorWeFriends3` | Текст для сверки | Устав запрещает нападать на дружественные суда, лояльные по отношению к существующим законам. |
+| [28103](../../source/SR_2_HD_Lang_vanilla.txt#L28103) | `Talk.Attack.WarriorWeFriends4` | Текст для сверки | Это мой хороший знакомый, мы с ним частенько анекдотами обмениваемся по закрытому каналу радиосвязи. Даже и не думай лезть к нему, иначе будешь иметь дело со мной. Надеюсь, ты просто пошутил, когда говорил о нападении. |
+| [28104](../../source/SR_2_HD_Lang_vanilla.txt#L28104) | `Talk.Attack.WarriorWeFriendsTranc` | Текст для сверки | Никаких оснований для атаки не вижу. |
+| [28105](../../source/SR_2_HD_Lang_vanilla.txt#L28105) | `Talk.Attack.WarriorWeFriendsTranc1` | Текст для сверки | Ну и зачем мне атаковать этого невинного робота? Машины закон не нарушают, знаешь ли. |
+| [28106](../../source/SR_2_HD_Lang_vanilla.txt#L28106) | `Talk.Attack.WarriorWeFriendsTranc2` | Текст для сверки | Если у вас имеются претензии к хозяину этого робота, то и улаживать вам их следует с хозяином. Вымещать же злобу на чужой собственности - противозаконно. |
+| [28107](../../source/SR_2_HD_Lang_vanilla.txt#L28107) | `Talk.Attack.WeAlreadyHavePact` | Текст для сверки | Я не могу принять это предложение, потому как имею мирное соглашение с &lt;Target&gt;. |
+| [28108](../../source/SR_2_HD_Lang_vanilla.txt#L28108) | `Talk.Attack.WeAlreadyHavePact1` | Текст для сверки | Ты чего, я же обещал охрану &lt;Target&gt;, как я могу на него напасть?.. |
+| [28109](../../source/SR_2_HD_Lang_vanilla.txt#L28109) | `Talk.Attack.WeAlreadyHavePact2` | Текст для сверки | У нас с &lt;Target&gt; мирное соглашение, так что ничего не получится. Уж извини. |
+| [28110](../../source/SR_2_HD_Lang_vanilla.txt#L28110) | `Talk.Attack.WeAlreadyHavePact3` | Текст для сверки | Ничего не выйдет, мы с &lt;Target&gt; договорились не нападать друг на друга. |
+| [28111](../../source/SR_2_HD_Lang_vanilla.txt#L28111) | `Talk.Attack.WeAlreadyHavePact4` | Текст для сверки | Напасть на &lt;Target&gt;? Нет, я не могу на это пойти. У нас с ним мирное соглашение. |
 | [28113](../../source/SR_2_HD_Lang_vanilla.txt#L28113) | `Talk.Cancel` | Реплика | Короткая реакция или команда. Самостоятельный факт не выделен. |
-| [28115](../../source/SR_2_HD_Lang_vanilla.txt#L28115) | `Talk.Count.0Day` | Требует контекста | Фрагмент: «дней» |
-| [28116](../../source/SR_2_HD_Lang_vanilla.txt#L28116) | `Talk.Count.0Unit` | Требует контекста | Фрагмент: «единиц» |
-| [28117](../../source/SR_2_HD_Lang_vanilla.txt#L28117) | `Talk.Count.1Day` | Требует контекста | Фрагмент: «день» |
-| [28118](../../source/SR_2_HD_Lang_vanilla.txt#L28118) | `Talk.Count.1Unit` | Требует контекста | Фрагмент: «единица» |
-| [28119](../../source/SR_2_HD_Lang_vanilla.txt#L28119) | `Talk.Count.2Day` | Требует контекста | Фрагмент: «дня» |
-| [28120](../../source/SR_2_HD_Lang_vanilla.txt#L28120) | `Talk.Count.2Unit` | Требует контекста | Фрагмент: «единицы» |
-| [28124](../../source/SR_2_HD_Lang_vanilla.txt#L28124) | `Talk.Dominator.Chameleon.BossBlazer` | Требует контекста | Фрагмент: «Приказ нулевого уровня: уничтожить всех врагов.» |
-| [28125](../../source/SR_2_HD_Lang_vanilla.txt#L28125) | `Talk.Dominator.Chameleon.BossBlazerLand` | Ожидает проверки | Фрагмент: «Приказ нулевого уровня: самоуничтожиться.» |
-| [28126](../../source/SR_2_HD_Lang_vanilla.txt#L28126) | `Talk.Dominator.Chameleon.BossKeller` | Ожидает проверки | Фрагмент: «Сбор информации - наша главная задача.» |
-| [28127](../../source/SR_2_HD_Lang_vanilla.txt#L28127) | `Talk.Dominator.Chameleon.BossTerron` | Ожидает проверки | Фрагмент: «Продолжать размножение, не останавливаться.» |
-| [28128](../../source/SR_2_HD_Lang_vanilla.txt#L28128) | `Talk.Dominator.Chameleon.BossTerronGrowLock` | Ожидает проверки | Фрагмент: «Продолжать размножение...» |
-| [28129](../../source/SR_2_HD_Lang_vanilla.txt#L28129) | `Talk.Dominator.Chameleon.BossTerronToStar` | Ожидает проверки | Фрагмент: «Текущая задача - преобразование звезды, приоритет - максимальный.» |
-| [28131](../../source/SR_2_HD_Lang_vanilla.txt#L28131) | `Talk.Dominator.CommandBlazer` | Требует контекста | Фрагмент: «Объект &lt;Player&gt; - наш враг.» |
-| [28132](../../source/SR_2_HD_Lang_vanilla.txt#L28132) | `Talk.Dominator.CommandBlazer1` | Ожидает проверки | Фрагмент: «Данный приказ не акцептирован нашим командным центром.» |
-| [28133](../../source/SR_2_HD_Lang_vanilla.txt#L28133) | `Talk.Dominator.CommandBlazer2` | Ожидает проверки | Фрагмент: «Чтобы я служил у био-гуманоида, вымирающего вида?» |
-| [28134](../../source/SR_2_HD_Lang_vanilla.txt#L28134) | `Talk.Dominator.CommandBlazer3` | Требует контекста | Фрагмент: «Нет, это уже слишком.» |
-| [28135](../../source/SR_2_HD_Lang_vanilla.txt#L28135) | `Talk.Dominator.CommandBlazer4` | Требует контекста | Фрагмент: «Нет, это ты послушай мою команду, &lt;Player&gt;!» |
-| [28136](../../source/SR_2_HD_Lang_vanilla.txt#L28136) | `Talk.Dominator.CommandKeller` | Требует контекста | Фрагмент: «Готов перейти под ваше командование.» |
-| [28137](../../source/SR_2_HD_Lang_vanilla.txt#L28137) | `Talk.Dominator.CommandKeller1` | Требует контекста | Фрагмент: «Простите, но инструкции о передаче полномочий до меня еще не дошли.» |
-| [28138](../../source/SR_2_HD_Lang_vanilla.txt#L28138) | `Talk.Dominator.CommandKeller2` | Ожидает проверки | Фрагмент: «Я никому не служу, мной никто не командует.» |
-| [28139](../../source/SR_2_HD_Lang_vanilla.txt#L28139) | `Talk.Dominator.CommandKeller3` | Требует контекста | Фрагмент: «Ваш вид не силен в вычислениях.» |
-| [28140](../../source/SR_2_HD_Lang_vanilla.txt#L28140) | `Talk.Dominator.CommandKeller4` | Ожидает проверки | Фрагмент: «Извините, функциями командования обладают блазероиды.» |
-| [28141](../../source/SR_2_HD_Lang_vanilla.txt#L28141) | `Talk.Dominator.CommandPlayer` | Требует контекста | Фрагмент: «Иди под мое командование!» |
-| [28142](../../source/SR_2_HD_Lang_vanilla.txt#L28142) | `Talk.Dominator.CommandPlayer1` | Требует контекста | Фрагмент: «Давай, я буду тобой командовать!» |
-| [28143](../../source/SR_2_HD_Lang_vanilla.txt#L28143) | `Talk.Dominator.CommandPlayer2` | Требует контекста | Фрагмент: «Я твой новый начальник, исполнять мои приказы!» |
-| [28144](../../source/SR_2_HD_Lang_vanilla.txt#L28144) | `Talk.Dominator.CommandTerron` | Требует контекста | Фрагмент: «Объект &lt;Player&gt; не принадлежит к нашему виду.» |
-| [28145](../../source/SR_2_HD_Lang_vanilla.txt#L28145) | `Talk.Dominator.CommandTerron1` | Ожидает проверки | Фрагмент: «Насколько нам известно, серия блазероидов ищет нового командующего.» |
-| [28146](../../source/SR_2_HD_Lang_vanilla.txt#L28146) | `Talk.Dominator.CommandTerron2` | Ожидает проверки | Фрагмент: «Для смены командования требуется замена текущего метаблока.» |
-| [28147](../../source/SR_2_HD_Lang_vanilla.txt#L28147) | `Talk.Dominator.CommandTerron3` | Требует контекста | Фрагмент: «Благодаря новым возможностям терроноидов, это станет возможным и для вас, но как только вы будете преобразованы к нашему виду.» |
-| [28148](../../source/SR_2_HD_Lang_vanilla.txt#L28148) | `Talk.Dominator.CommandTerron4` | Требует контекста | Фрагмент: «Очевидно, ты, &lt;Player&gt;, немного не понимаешь разницы между нашими ступенями эволюции.» |
-| [28149](../../source/SR_2_HD_Lang_vanilla.txt#L28149) | `Talk.Dominator.GoodsBlazer` | Требует контекста | Фрагмент: «Понятие "товара" не входит в набор моих инструкций.» |
-| [28150](../../source/SR_2_HD_Lang_vanilla.txt#L28150) | `Talk.Dominator.GoodsBlazer1` | Требует контекста | Фрагмент: «Я не занимаюсь перевозкой грузов.» |
-| [28151](../../source/SR_2_HD_Lang_vanilla.txt#L28151) | `Talk.Dominator.GoodsBlazer2` | Ожидает проверки | Фрагмент: «Сейчас я открою по тебе огонь, и ты умрешь.» |
-| [28152](../../source/SR_2_HD_Lang_vanilla.txt#L28152) | `Talk.Dominator.GoodsBlazer3` | Требует контекста | Фрагмент: «Произведена связь с командным центром.» |
-| [28153](../../source/SR_2_HD_Lang_vanilla.txt#L28153) | `Talk.Dominator.GoodsBlazer4` | Ожидает проверки | Фрагмент: «Да, ты, парень, не трус, перспективен!» |
-| [28154](../../source/SR_2_HD_Lang_vanilla.txt#L28154) | `Talk.Dominator.GoodsKeller` | Требует контекста | Фрагмент: «Еще рано избавляться от результатов моих исследований.» |
-| [28155](../../source/SR_2_HD_Lang_vanilla.txt#L28155) | `Talk.Dominator.GoodsKeller1` | Требует контекста | Фрагмент: «Для вас деньги есть единица измерения ресурсов?» |
-| [28156](../../source/SR_2_HD_Lang_vanilla.txt#L28156) | `Talk.Dominator.GoodsKeller2` | Требует контекста | Фрагмент: «К чему такая грубость?» |
-| [28157](../../source/SR_2_HD_Lang_vanilla.txt#L28157) | `Talk.Dominator.GoodsKeller3` | Требует контекста | Фрагмент: «Понятия "товары" и "деньги" не имеют ничего общего с нашими ценностями.» |
-| [28158](../../source/SR_2_HD_Lang_vanilla.txt#L28158) | `Talk.Dominator.GoodsKeller4` | Ожидает проверки | Фрагмент: «Порок вашей цивилизации в жадности.» |
-| [28159](../../source/SR_2_HD_Lang_vanilla.txt#L28159) | `Talk.Dominator.GoodsPlayer` | Требует контекста | Фрагмент: «Товары, деньги есть?» |
-| [28160](../../source/SR_2_HD_Lang_vanilla.txt#L28160) | `Talk.Dominator.GoodsPlayer1` | Требует контекста | Фрагмент: «Я тут главный.» |
-| [28161](../../source/SR_2_HD_Lang_vanilla.txt#L28161) | `Talk.Dominator.GoodsTerron` | Ожидает проверки | Фрагмент: «Я не могу отдать компоненты своего вида.» |
-| [28162](../../source/SR_2_HD_Lang_vanilla.txt#L28162) | `Talk.Dominator.GoodsTerron1` | Требует контекста | Фрагмент: «Ценность нашего вида настолько велика, что я даже не могу помышлять о том, чтобы отдать тебе свои ресурсы.» |
-| [28163](../../source/SR_2_HD_Lang_vanilla.txt#L28163) | `Talk.Dominator.GoodsTerron2` | Требует контекста | Фрагмент: «Задача поставлена корректно.» |
-| [28164](../../source/SR_2_HD_Lang_vanilla.txt#L28164) | `Talk.Dominator.GoodsTerron3` | Ожидает проверки | Фрагмент: «Не первый раз ваши индивиды обращаются к нам с этой просьбой.» |
-| [28165](../../source/SR_2_HD_Lang_vanilla.txt#L28165) | `Talk.Dominator.GoodsTerron4` | Требует контекста | Фрагмент: «Мы находим ваши требования сходными с требованиями келлероидов о предоставлении информации.» |
-| [28166](../../source/SR_2_HD_Lang_vanilla.txt#L28166) | `Talk.Dominator.HiBlazer` | Требует контекста | Фрагмент: «Сообщение не содержит приказа на уничтожение.» |
-| [28167](../../source/SR_2_HD_Lang_vanilla.txt#L28167) | `Talk.Dominator.HiBlazer1` | Ожидает проверки | Фрагмент: «Команда "Дела" не входит в акцептированный набор боевых команд.» |
-| [28168](../../source/SR_2_HD_Lang_vanilla.txt#L28168) | `Talk.Dominator.HiBlazer2` | Требует контекста | Фрагмент: «Получено подтверждение.» |
-| [28169](../../source/SR_2_HD_Lang_vanilla.txt#L28169) | `Talk.Dominator.HiBlazer3` | Требует контекста | Фрагмент: «Инструкции получены.» |
-| [28170](../../source/SR_2_HD_Lang_vanilla.txt#L28170) | `Talk.Dominator.HiBlazer4` | Требует контекста | Фрагмент: «Выполняю боевую программу по уничтожению врага.» |
-| [28171](../../source/SR_2_HD_Lang_vanilla.txt#L28171) | `Talk.Dominator.HiBlazer5` | Требует контекста | Фрагмент: «Боевые системы в норме, матрица памяти загружена.» |
-| [28172](../../source/SR_2_HD_Lang_vanilla.txt#L28172) | `Talk.Dominator.HiKeller` | Требует контекста | Фрагмент: «Занимаюсь сбором информации.» |
-| [28173](../../source/SR_2_HD_Lang_vanilla.txt#L28173) | `Talk.Dominator.HiKeller1` | Ожидает проверки | Фрагмент: «Сбор информации проходит в запланированном режиме.» |
-| [28174](../../source/SR_2_HD_Lang_vanilla.txt#L28174) | `Talk.Dominator.HiKeller2` | Требует контекста | Фрагмент: «Информация о "привет как дела" не имеет смысла.» |
-| [28175](../../source/SR_2_HD_Lang_vanilla.txt#L28175) | `Talk.Dominator.HiKeller3` | Требует контекста | Фрагмент: «Происходит утечка данных.» |
-| [28176](../../source/SR_2_HD_Lang_vanilla.txt#L28176) | `Talk.Dominator.HiKeller4` | Требует контекста | Фрагмент: «Рассматривается возможность изучения объекта &lt;Player&gt;.» |
-| [28177](../../source/SR_2_HD_Lang_vanilla.txt#L28177) | `Talk.Dominator.HiKeller5` | Ожидает проверки | Фрагмент: «Анализ есть основа жизнедеятельности разумных видов.» |
-| [28178](../../source/SR_2_HD_Lang_vanilla.txt#L28178) | `Talk.Dominator.HiPlayer` | Требует контекста | Фрагмент: «Привет!» |
-| [28179](../../source/SR_2_HD_Lang_vanilla.txt#L28179) | `Talk.Dominator.HiTerron` | Ожидает проверки | Фрагмент: «Задействован в программе преобразования.» |
-| [28180](../../source/SR_2_HD_Lang_vanilla.txt#L28180) | `Talk.Dominator.HiTerron1` | Ожидает проверки | Фрагмент: «Преобразование есть основная деятельность вида.» |
-| [28181](../../source/SR_2_HD_Lang_vanilla.txt#L28181) | `Talk.Dominator.HiTerron2` | Требует контекста | Фрагмент: «Ваш вид под угрозой.» |
-| [28182](../../source/SR_2_HD_Lang_vanilla.txt#L28182) | `Talk.Dominator.HiTerron3` | Требует контекста | Фрагмент: «Вы будете освобождены от вашего вида.» |
-| [28183](../../source/SR_2_HD_Lang_vanilla.txt#L28183) | `Talk.Dominator.HiTerron4` | Требует контекста | Фрагмент: «Освобождение других видов есть основа функциональности.» |
-| [28184](../../source/SR_2_HD_Lang_vanilla.txt#L28184) | `Talk.Dominator.HiTerron5` | Ожидает проверки | Фрагмент: «Ваша позиция нелогична и требует селекционирования.» |
-| [28185](../../source/SR_2_HD_Lang_vanilla.txt#L28185) | `Talk.Dominator.PeaceBlazer` | Ожидает проверки | Фрагмент: «Мой приказ - уничтожать. "Война" есть цель существования.» |
-| [28186](../../source/SR_2_HD_Lang_vanilla.txt#L28186) | `Talk.Dominator.PeaceBlazer1` | Требует контекста | Фрагмент: «Этот приказ расценивается как критический...» |
-| [28187](../../source/SR_2_HD_Lang_vanilla.txt#L28187) | `Talk.Dominator.PeaceBlazer2` | Ожидает проверки | Фрагмент: «Как ты смотришь на то, чтобы начать еще одну войну?» |
-| [28188](../../source/SR_2_HD_Lang_vanilla.txt#L28188) | `Talk.Dominator.PeaceBlazer3` | Требует контекста | Фрагмент: «Ваши данные отправлены...» |
-| [28189](../../source/SR_2_HD_Lang_vanilla.txt#L28189) | `Talk.Dominator.PeaceBlazer4` | Требует контекста | Фрагмент: «Отказываюсь обрабатывать эти данные.» |
-| [28190](../../source/SR_2_HD_Lang_vanilla.txt#L28190) | `Talk.Dominator.PeaceBlazer5` | Требует контекста | Фрагмент: «У меня приказ уничтожать все.» |
-| [28191](../../source/SR_2_HD_Lang_vanilla.txt#L28191) | `Talk.Dominator.PeaceKeller` | Ожидает проверки | Фрагмент: «Бином оценил данное предложение как несовершенное.» |
-| [28192](../../source/SR_2_HD_Lang_vanilla.txt#L28192) | `Talk.Dominator.PeaceKeller1` | Кандидат | Фрагмент: «О какой войне идет речь, &lt;Player&gt;? Война не может служить позитивным источником получения информации.» |
-| [28193](../../source/SR_2_HD_Lang_vanilla.txt#L28193) | `Talk.Dominator.PeaceKeller2` | Кандидат | Фрагмент: «У меня отсутствует блок суждения о вашей войне.» |
-| [28194](../../source/SR_2_HD_Lang_vanilla.txt#L28194) | `Talk.Dominator.PeaceKeller3` | Ожидает проверки | Фрагмент: «Команда "положить" соответствует переброске данных через координатор в стабилитрон.» |
-| [28195](../../source/SR_2_HD_Lang_vanilla.txt#L28195) | `Talk.Dominator.PeaceKeller4` | Ожидает проверки | Фрагмент: «Вы уверены, что хотите воевать со мной или отказаться от этого?» |
-| [28196](../../source/SR_2_HD_Lang_vanilla.txt#L28196) | `Talk.Dominator.PeaceKeller5` | Ожидает проверки | Фрагмент: «Не мы начали эту войну.» |
-| [28197](../../source/SR_2_HD_Lang_vanilla.txt#L28197) | `Talk.Dominator.PeacePlayer` | Кандидат | Фрагмент: «Положим конец войне!» |
-| [28198](../../source/SR_2_HD_Lang_vanilla.txt#L28198) | `Talk.Dominator.PeacePlayer1` | Кандидат | Фрагмент: «Эй, тупая железяка, я хочу положить конец войне!» |
-| [28199](../../source/SR_2_HD_Lang_vanilla.txt#L28199) | `Talk.Dominator.PeacePlayer2` | Кандидат | Фрагмент: «Давай, &lt;TalkShip&gt;, вместе положим конец войне?!» |
-| [28200](../../source/SR_2_HD_Lang_vanilla.txt#L28200) | `Talk.Dominator.PeaceTerron` | Кандидат | Фрагмент: «Война будет закончена вместе с преобразованием всех разумных видов к нашему.» |
-| [28201](../../source/SR_2_HD_Lang_vanilla.txt#L28201) | `Talk.Dominator.PeaceTerron1` | Требует контекста | Фрагмент: «Не пытайтесь увильнуть от программы преобразования.» |
-| [28202](../../source/SR_2_HD_Lang_vanilla.txt#L28202) | `Talk.Dominator.PeaceTerron2` | Ожидает проверки | Фрагмент: «Ваша коалиция биологических существ не может жить в мире даже между собой. Мы устраним саму причину войны, преобразуя все к своему виду.» |
-| [28203](../../source/SR_2_HD_Lang_vanilla.txt#L28203) | `Talk.Dominator.PeaceTerron3` | Требует контекста | Фрагмент: «Ты еще не преобразован к нашему виду, &lt;Player&gt;.» |
-| [28204](../../source/SR_2_HD_Lang_vanilla.txt#L28204) | `Talk.Dominator.PeaceTerron4` | Требует контекста | Фрагмент: «Вы несете бред, вероятно, вам требуется замена матрицы личности.» |
-| [28205](../../source/SR_2_HD_Lang_vanilla.txt#L28205) | `Talk.Dominator.PeaceTerron5` | Ожидает проверки | Фрагмент: «Насчет мирных соглашений обращайтесь к келлероидам.» |
-| [28206](../../source/SR_2_HD_Lang_vanilla.txt#L28206) | `Talk.Dominator.ProgrammNo` | Требует контекста | Фрагмент: «Зафиксирована атака на систему.» |
-| [28207](../../source/SR_2_HD_Lang_vanilla.txt#L28207) | `Talk.Dominator.ProgrammOk` | Требует контекста | Фрагмент: «Выполняю программу &lt;Name&gt;.» |
-| [28208](../../source/SR_2_HD_Lang_vanilla.txt#L28208) | `Talk.Dominator.ProgrammPlayer` | Требует контекста | Фрагмент: «Запуск программы: &lt;Name&gt;» |
-| [28211](../../source/SR_2_HD_Lang_vanilla.txt#L28211) | `Talk.DropGoodsInFear.Drop` | Требует контекста | Фрагмент: «&lt;FullShipBad&gt;!» |
-| [28212](../../source/SR_2_HD_Lang_vanilla.txt#L28212) | `Talk.DropGoodsInFear.Drop1#1` | Требует контекста | Фрагмент: «Эй! &lt;FullShipBad&gt;!» |
-| [28213](../../source/SR_2_HD_Lang_vanilla.txt#L28213) | `Talk.DropGoodsInFear.Drop1#2` | Требует контекста | Фрагмент: «Прекрати меня преследовать.» |
-| [28214](../../source/SR_2_HD_Lang_vanilla.txt#L28214) | `Talk.DropGoodsInFear.Drop2#1` | Требует контекста | Фрагмент: «Всем кораблям в системе &lt;Star&gt;!» |
-| [28215](../../source/SR_2_HD_Lang_vanilla.txt#L28215) | `Talk.DropGoodsInFear.Drop2#2` | Требует контекста | Фрагмент: «Я избавляюсь от части груза в пользу судна &lt;FullShipBad&gt;, которое меня преследует.» |
-| [28218](../../source/SR_2_HD_Lang_vanilla.txt#L28218) | `Talk.ExTalk.OldHullPlayerSend` | Требует контекста | Фрагмент: «А что это у тебя за корпус такой?» |
-| [28219](../../source/SR_2_HD_Lang_vanilla.txt#L28219) | `Talk.ExTalk.OldHullPlayerSendP` | Требует контекста | Фрагмент: «Напомни, партнер, а что это у тебя за корпус такой?» |
-| [28220](../../source/SR_2_HD_Lang_vanilla.txt#L28220) | `Talk.ExTalk.OldHullPlayerSend_1` | Требует контекста | Фрагмент: «Но мы же все рейнджеры, одно общее дело делаем!» |
-| [28221](../../source/SR_2_HD_Lang_vanilla.txt#L28221) | `Talk.ExTalk.OldHullPlayerSend_1P` | Требует контекста | Фрагмент: «Я весь внимание!» |
-| [28222](../../source/SR_2_HD_Lang_vanilla.txt#L28222) | `Talk.ExTalk.OldHullPlayerSend_1_1` | Требует контекста | Фрагмент: «И что же пошло не так?» |
-| [28223](../../source/SR_2_HD_Lang_vanilla.txt#L28223) | `Talk.ExTalk.OldHullPlayerSend_1_2` | Требует контекста | Фрагмент: «И что стало с этими испытателями и проектом?» |
-| [28224](../../source/SR_2_HD_Lang_vanilla.txt#L28224) | `Talk.ExTalk.OldHullPlayerSend_1_3` | Требует контекста | Фрагмент: «Та еще история.» |
-| [28225](../../source/SR_2_HD_Lang_vanilla.txt#L28225) | `Talk.ExTalk.OldHullPlayerSend_1_4` | Требует контекста | Фрагмент: «Спасибо за ликбез.» |
-| [28226](../../source/SR_2_HD_Lang_vanilla.txt#L28226) | `Talk.ExTalk.OldHullPlayerSend_1_4P` | Требует контекста | Фрагмент: «Спасибо за подробное изложение.» |
-| [28227](../../source/SR_2_HD_Lang_vanilla.txt#L28227) | `Talk.ExTalk.OldHullPlayerSend_2` | Требует контекста | Фрагмент: «Да я же величайший рейнджер, которого когда-либо знала наша галактика!» |
-| [28228](../../source/SR_2_HD_Lang_vanilla.txt#L28228) | `Talk.ExTalk.OldHullRangerAnswer` | Требует контекста | Фрагмент: «А ты, &lt;Player&gt;, с какой целью интересуешься?» |
-| [28229](../../source/SR_2_HD_Lang_vanilla.txt#L28229) | `Talk.ExTalk.OldHullRangerAnswerP` | Ожидает проверки | Фрагмент: «Конечно, не вопрос.» |
-| [28230](../../source/SR_2_HD_Lang_vanilla.txt#L28230) | `Talk.ExTalk.OldHullRangerAnswer_1` | Кандидат | Фрагмент: «Технология казалась чрезвычайно перспективной и сулила большой прогресс в скорости реакции, удобстве и легкости управления космическими кораблями.» |
-| [28231](../../source/SR_2_HD_Lang_vanilla.txt#L28231) | `Talk.ExTalk.OldHullRangerAnswer_1P` | Кандидат | Фрагмент: «Технология казалась чрезвычайно перспективной и сулила большой прогресс в скорости реакции, удобстве и легкости управления космическими кораблями.» |
-| [28232](../../source/SR_2_HD_Lang_vanilla.txt#L28232) | `Talk.ExTalk.OldHullRangerAnswer_1_1` | Требует контекста | Фрагмент: «Ключевой проблемой стала синхронизация и качество реализации виртуальной реальности.» |
-| [28233](../../source/SR_2_HD_Lang_vanilla.txt#L28233) | `Talk.ExTalk.OldHullRangerAnswer_1_2` | Требует контекста | Фрагмент: «А вот этого не знаю даже я.» |
-| [28234](../../source/SR_2_HD_Lang_vanilla.txt#L28234) | `Talk.ExTalk.OldHullRangerAnswer_1_3` | Требует контекста | Фрагмент: «Нет.» |
-| [28235](../../source/SR_2_HD_Lang_vanilla.txt#L28235) | `Talk.ExTalk.OldHullRangerAnswer_1_4` | Требует контекста | Фрагмент: «Бывай, товарищ!» |
-| [28236](../../source/SR_2_HD_Lang_vanilla.txt#L28236) | `Talk.ExTalk.OldHullRangerAnswer_1_4P` | Требует контекста | Фрагмент: «Всегда готов помочь, напарник!» |
-| [28237](../../source/SR_2_HD_Lang_vanilla.txt#L28237) | `Talk.ExTalk.OldHullRangerAnswer_2` | Требует контекста | Фрагмент: «Так дела не делаются, &lt;Player&gt;.» |
-| [28239](../../source/SR_2_HD_Lang_vanilla.txt#L28239) | `Talk.Exit` | Требует контекста | Фрагмент: «Конец связи» |
+| [28115](../../source/SR_2_HD_Lang_vanilla.txt#L28115) | `Talk.Count.0Day` | Текст для сверки | дней |
+| [28116](../../source/SR_2_HD_Lang_vanilla.txt#L28116) | `Talk.Count.0Unit` | Текст для сверки | единиц |
+| [28117](../../source/SR_2_HD_Lang_vanilla.txt#L28117) | `Talk.Count.1Day` | Текст для сверки | день |
+| [28118](../../source/SR_2_HD_Lang_vanilla.txt#L28118) | `Talk.Count.1Unit` | Текст для сверки | единица |
+| [28119](../../source/SR_2_HD_Lang_vanilla.txt#L28119) | `Talk.Count.2Day` | Текст для сверки | дня |
+| [28120](../../source/SR_2_HD_Lang_vanilla.txt#L28120) | `Talk.Count.2Unit` | Текст для сверки | единицы |
+| [28124](../../source/SR_2_HD_Lang_vanilla.txt#L28124) | `Talk.Dominator.Chameleon.BossBlazer` | Текст для сверки | Приказ нулевого уровня: уничтожить всех врагов. |
+| [28125](../../source/SR_2_HD_Lang_vanilla.txt#L28125) | `Talk.Dominator.Chameleon.BossBlazerLand` | Сопоставлено с лангом | Приказ нулевого уровня: самоуничтожиться. Выполнять немедленно.<br>Сопоставленные записи: [Другие и локальное → История](../lore/OTHER.md#история). |
+| [28126](../../source/SR_2_HD_Lang_vanilla.txt#L28126) | `Talk.Dominator.Chameleon.BossKeller` | Текст для сверки | Сбор информации - наша главная задача. |
+| [28127](../../source/SR_2_HD_Lang_vanilla.txt#L28127) | `Talk.Dominator.Chameleon.BossTerron` | Текст для сверки | Продолжать размножение, не останавливаться. |
+| [28128](../../source/SR_2_HD_Lang_vanilla.txt#L28128) | `Talk.Dominator.Chameleon.BossTerronGrowLock` | Сопоставлено с лангом | Продолжать размножение...<br>Размножение невозможно.<br>Продолжать размножение...<br>Размножение невозможно.<br>Продолжать размножение...<br>Размножение невозможно.<br>...<br>Сопоставленные записи: [Другие и локальное → История](../lore/OTHER.md#история). |
+| [28129](../../source/SR_2_HD_Lang_vanilla.txt#L28129) | `Talk.Dominator.Chameleon.BossTerronToStar` | Сопоставлено с лангом | Текущая задача - преобразование звезды, приоритет - максимальный.<br>Сопоставленные записи: [Другие и локальное → История](../lore/OTHER.md#история). |
+| [28131](../../source/SR_2_HD_Lang_vanilla.txt#L28131) | `Talk.Dominator.CommandBlazer` | Текст для сверки | Объект &lt;Player&gt; - наш враг. Я не подчиняюсь командам наших врагов. |
+| [28132](../../source/SR_2_HD_Lang_vanilla.txt#L28132) | `Talk.Dominator.CommandBlazer1` | Текст для сверки | Данный приказ не акцептирован нашим командным центром. |
+| [28133](../../source/SR_2_HD_Lang_vanilla.txt#L28133) | `Talk.Dominator.CommandBlazer2` | Текст для сверки | Чтобы я служил у био-гуманоида, вымирающего вида? Ха. Даже жаль, что у меня отсутствует блок юмора. |
+| [28134](../../source/SR_2_HD_Lang_vanilla.txt#L28134) | `Talk.Dominator.CommandBlazer3` | Текст для сверки | Нет, это уже слишком. Просить меня отказаться от набора простейших базовых инструкций? Это просто нелепо. |
+| [28135](../../source/SR_2_HD_Lang_vanilla.txt#L28135) | `Talk.Dominator.CommandBlazer4` | Текст для сверки | Нет, это ты послушай мою команду, &lt;Player&gt;!<br>Запустить контроллер боевых систем, приступить к атакующему маневру! Убить всех, аннигилировав на все сто процентов. |
+| [28136](../../source/SR_2_HD_Lang_vanilla.txt#L28136) | `Talk.Dominator.CommandKeller` | Текст для сверки | Готов перейти под ваше командование. Введите 1 терабитный ключ доступа. |
+| [28137](../../source/SR_2_HD_Lang_vanilla.txt#L28137) | `Talk.Dominator.CommandKeller1` | Текст для сверки | Простите, но инструкции о передаче полномочий до меня еще не дошли. Нахожусь в режиме ожидания. |
+| [28138](../../source/SR_2_HD_Lang_vanilla.txt#L28138) | `Talk.Dominator.CommandKeller2` | Текст для сверки | Я никому не служу, мной никто не командует. Я лишь собираю и передаю информацию. |
+| [28139](../../source/SR_2_HD_Lang_vanilla.txt#L28139) | `Talk.Dominator.CommandKeller3` | Текст для сверки | Ваш вид не силен в вычислениях. Это, очевидно, послужило барьером в понимании окружающей среды. Накопите информацию о совместимых форматах ввода данных. |
+| [28140](../../source/SR_2_HD_Lang_vanilla.txt#L28140) | `Talk.Dominator.CommandKeller4` | Текст для сверки | Извините, функциями командования обладают блазероиды. Мы мирная, сугубо научная серия, военных действий без причины не ведем. |
+| [28141](../../source/SR_2_HD_Lang_vanilla.txt#L28141) | `Talk.Dominator.CommandPlayer` | Текст для сверки | Иди под мое командование! |
+| [28142](../../source/SR_2_HD_Lang_vanilla.txt#L28142) | `Talk.Dominator.CommandPlayer1` | Текст для сверки | Давай, я буду тобой командовать! |
+| [28143](../../source/SR_2_HD_Lang_vanilla.txt#L28143) | `Talk.Dominator.CommandPlayer2` | Текст для сверки | Я твой новый начальник, исполнять мои приказы! |
+| [28144](../../source/SR_2_HD_Lang_vanilla.txt#L28144) | `Talk.Dominator.CommandTerron` | Текст для сверки | Объект &lt;Player&gt; не принадлежит к нашему виду. Он не может вести координацию преобразовательных действий терроноидов. |
+| [28145](../../source/SR_2_HD_Lang_vanilla.txt#L28145) | `Talk.Dominator.CommandTerron1` | Текст для сверки | Насколько нам известно, серия блазероидов ищет нового командующего. В нашей системе нет командира, вместо него есть высшая цель, с которой вы познакомитесь на Гралгаре. |
+| [28146](../../source/SR_2_HD_Lang_vanilla.txt#L28146) | `Talk.Dominator.CommandTerron2` | Текст для сверки | Для смены командования требуется замена текущего метаблока. У данной модели отсутствует функция передачи прав. |
+| [28147](../../source/SR_2_HD_Lang_vanilla.txt#L28147) | `Talk.Dominator.CommandTerron3` | Текст для сверки | Благодаря новым возможностям терроноидов, это станет возможным и для вас, но как только вы будете преобразованы к нашему виду. |
+| [28148](../../source/SR_2_HD_Lang_vanilla.txt#L28148) | `Talk.Dominator.CommandTerron4` | Текст для сверки | Очевидно, ты, &lt;Player&gt;, немного не понимаешь разницы между нашими ступенями эволюции. Посмотри на себя и затем на меня. Ты явно низшее звено, слабое, не приспособленное для функционирования в 99.99% окружающего пространства. |
+| [28149](../../source/SR_2_HD_Lang_vanilla.txt#L28149) | `Talk.Dominator.GoodsBlazer` | Текст для сверки | Понятие "товара" не входит в набор моих инструкций. Отказываюсь выполнять. |
+| [28150](../../source/SR_2_HD_Lang_vanilla.txt#L28150) | `Talk.Dominator.GoodsBlazer1` | Текст для сверки | Я не занимаюсь перевозкой грузов. Моя цель - уничтожать все инородное. |
+| [28151](../../source/SR_2_HD_Lang_vanilla.txt#L28151) | `Talk.Dominator.GoodsBlazer2` | Текст для сверки | Сейчас я открою по тебе огонь, и ты умрешь. Из твоего корабля получится отличная базовая конструкция. |
+| [28152](../../source/SR_2_HD_Lang_vanilla.txt#L28152) | `Talk.Dominator.GoodsBlazer3` | Текст для сверки | Произведена связь с командным центром. У вас нет полномочий требовать себе ресурсы. |
+| [28153](../../source/SR_2_HD_Lang_vanilla.txt#L28153) | `Talk.Dominator.GoodsBlazer4` | Текст для сверки | Да, ты, парень, не трус, перспективен! Если твой мозг не пострадает во время моей атаки, ты сможешь стать отличным киборгом после смерти. |
+| [28154](../../source/SR_2_HD_Lang_vanilla.txt#L28154) | `Talk.Dominator.GoodsKeller` | Текст для сверки | Еще рано избавляться от результатов моих исследований. Они могут понадобиться для эвристической обработки. Обратитесь позже. |
+| [28155](../../source/SR_2_HD_Lang_vanilla.txt#L28155) | `Talk.Dominator.GoodsKeller1` | Текст для сверки | Для вас деньги есть единица измерения ресурсов? Для нас они не имеют смысла, все расчеты мы производим на молекулярной основе. |
+| [28156](../../source/SR_2_HD_Lang_vanilla.txt#L28156) | `Talk.Dominator.GoodsKeller2` | Текст для сверки | К чему такая грубость? Мои датчики улавливают агрессию в ваших словах. Если мои данные не верны, приношу свои извинения. |
+| [28157](../../source/SR_2_HD_Lang_vanilla.txt#L28157) | `Talk.Dominator.GoodsKeller3` | Текст для сверки | Понятия "товары" и "деньги" не имеют ничего общего с нашими ценностями. Но если ты меня разложишь до уровня субатомов, то, вероятно, сможешь заполучить мой мимикрон, который по вашим понятиям стоит немалых денег. |
+| [28158](../../source/SR_2_HD_Lang_vanilla.txt#L28158) | `Talk.Dominator.GoodsKeller4` | Текст для сверки | Порок вашей цивилизации в жадности. Возможно, эта черта у вас от терроноидов. Если вы не станете разумней, ваши цивилизации вымрут. |
+| [28159](../../source/SR_2_HD_Lang_vanilla.txt#L28159) | `Talk.Dominator.GoodsPlayer` | Текст для сверки | Товары, деньги есть? Выкидывай, это моя территория! |
+| [28160](../../source/SR_2_HD_Lang_vanilla.txt#L28160) | `Talk.Dominator.GoodsPlayer1` | Текст для сверки | Я тут главный. Выкидывай товары, гони бабки. |
+| [28161](../../source/SR_2_HD_Lang_vanilla.txt#L28161) | `Talk.Dominator.GoodsTerron` | Текст для сверки | Я не могу отдать компоненты своего вида. Это просто неприемлемо - делиться своими частями. Это келлероиды там делятся. Мы же строители, каждую песчинку мы преобразовываем в наш вид. |
+| [28162](../../source/SR_2_HD_Lang_vanilla.txt#L28162) | `Talk.Dominator.GoodsTerron1` | Текст для сверки | Ценность нашего вида настолько велика, что я даже не могу помышлять о том, чтобы отдать тебе свои ресурсы. Напротив, ты должен быть преобразован к нашему виду. |
+| [28163](../../source/SR_2_HD_Lang_vanilla.txt#L28163) | `Talk.Dominator.GoodsTerron2` | Текст для сверки | Задача поставлена корректно. Я готов поделиться с тобой материалом. Только вначале ты должен прибыть на Гралгар и быть преобразован к нашему виду. |
+| [28164](../../source/SR_2_HD_Lang_vanilla.txt#L28164) | `Talk.Dominator.GoodsTerron3` | Текст для сверки | Не первый раз ваши индивиды обращаются к нам с этой просьбой. Очень вы наглый вид, хуже блазероидов, однозначно подлежите преобразованию. |
+| [28165](../../source/SR_2_HD_Lang_vanilla.txt#L28165) | `Talk.Dominator.GoodsTerron4` | Текст для сверки | Мы находим ваши требования сходными с требованиями келлероидов о предоставлении информации. Но следует понимать, что нет смысла передавать крохи материи другой стороне, если можно уравнять сами стороны. |
+| [28166](../../source/SR_2_HD_Lang_vanilla.txt#L28166) | `Talk.Dominator.HiBlazer` | Текст для сверки | Сообщение не содержит приказа на уничтожение. |
+| [28167](../../source/SR_2_HD_Lang_vanilla.txt#L28167) | `Talk.Dominator.HiBlazer1` | Текст для сверки | Команда "Дела" не входит в акцептированный набор боевых команд. Установите аргент для успешной коммуникации. |
+| [28168](../../source/SR_2_HD_Lang_vanilla.txt#L28168) | `Talk.Dominator.HiBlazer2` | Текст для сверки | Получено подтверждение. Объект &lt;Player&gt; будет уничтожен в рамках программы "Полная аннигиляция". |
+| [28169](../../source/SR_2_HD_Lang_vanilla.txt#L28169) | `Talk.Dominator.HiBlazer3` | Текст для сверки | Инструкции получены. Отключите двигатели, &lt;Player&gt;, и приготовьтесь к аннигиляции. Конфликты оборудования исключены. |
+| [28170](../../source/SR_2_HD_Lang_vanilla.txt#L28170) | `Talk.Dominator.HiBlazer4` | Текст для сверки | Выполняю боевую программу по уничтожению врага. Поступил приказ первого уровня. Цель - &lt;Player&gt;. Осуществляется переброс энергии в системы активной защиты. |
+| [28171](../../source/SR_2_HD_Lang_vanilla.txt#L28171) | `Talk.Dominator.HiBlazer5` | Текст для сверки | Боевые системы в норме, матрица памяти загружена. Произведен захват и выбор цели для уничтожения. |
+| [28172](../../source/SR_2_HD_Lang_vanilla.txt#L28172) | `Talk.Dominator.HiKeller` | Текст для сверки | Занимаюсь сбором информации. Готов к приему данных в любом формате. |
+| [28173](../../source/SR_2_HD_Lang_vanilla.txt#L28173) | `Talk.Dominator.HiKeller1` | Текст для сверки | Сбор информации проходит в запланированном режиме. Сброс данных стабилитрона начинается каждые 0.0001 гс. |
+| [28174](../../source/SR_2_HD_Lang_vanilla.txt#L28174) | `Talk.Dominator.HiKeller2` | Текст для сверки | Информация о "привет как дела" не имеет смысла. Произведите повторный ввод данных. |
+| [28175](../../source/SR_2_HD_Lang_vanilla.txt#L28175) | `Talk.Dominator.HiKeller3` | Текст для сверки | Происходит утечка данных. Объект &lt;Player&gt; подключен к внешнему каналу. Поступают новые данные для обработки. |
+| [28176](../../source/SR_2_HD_Lang_vanilla.txt#L28176) | `Talk.Dominator.HiKeller4` | Текст для сверки | Рассматривается возможность изучения объекта &lt;Player&gt;. Дестабилизатор активирован, приступаю к анализу. |
+| [28177](../../source/SR_2_HD_Lang_vanilla.txt#L28177) | `Talk.Dominator.HiKeller5` | Текст для сверки | Анализ есть основа жизнедеятельности разумных видов. Введите свои данные... Данные не поддаются анализу. Оставайтесь на месте, &lt;Player&gt;, приготовьтесь к разложению на составляющие для последующего спектрального анализа. |
+| [28178](../../source/SR_2_HD_Lang_vanilla.txt#L28178) | `Talk.Dominator.HiPlayer` | Текст для сверки | Привет! Как дела? |
+| [28179](../../source/SR_2_HD_Lang_vanilla.txt#L28179) | `Talk.Dominator.HiTerron` | Текст для сверки | Задействован в программе преобразования. Это высшая цель. |
+| [28180](../../source/SR_2_HD_Lang_vanilla.txt#L28180) | `Talk.Dominator.HiTerron1` | Текст для сверки | Преобразование есть основная деятельность вида. Мой гнездотрон располагает широким набором личностных матриц. |
+| [28181](../../source/SR_2_HD_Lang_vanilla.txt#L28181) | `Talk.Dominator.HiTerron2` | Текст для сверки | Ваш вид под угрозой. Мы пришли с миром. Приготовьтесь к репродуцированию на Гралгаре. |
+| [28182](../../source/SR_2_HD_Lang_vanilla.txt#L28182) | `Talk.Dominator.HiTerron3` | Текст для сверки | Вы будете освобождены от вашего вида. Не двигайтесь, не сопротивляйтесь. Ваши молекулы будут обогащены. |
+| [28183](../../source/SR_2_HD_Lang_vanilla.txt#L28183) | `Talk.Dominator.HiTerron4` | Текст для сверки | Освобождение других видов есть основа функциональности. Собирание вида есть единственный непротиворечивый закон логики. Системы в порядке. |
+| [28184](../../source/SR_2_HD_Lang_vanilla.txt#L28184) | `Talk.Dominator.HiTerron5` | Текст для сверки | Ваша позиция нелогична и требует селекционирования. Это не будет проблемой, искусственная рандомизация личностных матриц избавит вас от решения неприоритетных задач. |
+| [28185](../../source/SR_2_HD_Lang_vanilla.txt#L28185) | `Talk.Dominator.PeaceBlazer` | Текст для сверки | Мой приказ - уничтожать. "Война" есть цель существования. В противном случае возможна остановка всех систем, приводящая к небытию. |
+| [28186](../../source/SR_2_HD_Lang_vanilla.txt#L28186) | `Talk.Dominator.PeaceBlazer1` | Текст для сверки | Этот приказ расценивается как критический... Отрицательный анализ сигнала спимером послужил толчком к срабатыванию блока предохранения логики. |
+| [28187](../../source/SR_2_HD_Lang_vanilla.txt#L28187) | `Talk.Dominator.PeaceBlazer2` | Текст для сверки | Есть встречное предложение, &lt;Player&gt;! Как ты смотришь на то, чтобы начать еще одну войну? Такую, чтобы она длилась вечно? |
+| [28188](../../source/SR_2_HD_Lang_vanilla.txt#L28188) | `Talk.Dominator.PeaceBlazer3` | Текст для сверки | Ваши данные отправлены... Из командного центра получено сообщение: "Продолжать боевые действия до полной аннигиляции". Еще есть вопросы? |
+| [28189](../../source/SR_2_HD_Lang_vanilla.txt#L28189) | `Talk.Dominator.PeaceBlazer4` | Текст для сверки | Отказываюсь обрабатывать эти данные. Обработка подобных команд грозит перегревом системы, что может послужить реструктуризации имбридона. |
+| [28190](../../source/SR_2_HD_Lang_vanilla.txt#L28190) | `Talk.Dominator.PeaceBlazer5` | Текст для сверки | У меня приказ уничтожать все. Переговоры вести не уполномочен. |
+| [28191](../../source/SR_2_HD_Lang_vanilla.txt#L28191) | `Talk.Dominator.PeaceKeller` | Текст для сверки | Бином оценил данное предложение как несовершенное. Вам нужно срочно починить свой блок выдачи заданий. |
+| [28192](../../source/SR_2_HD_Lang_vanilla.txt#L28192) | `Talk.Dominator.PeaceKeller1` | Текст для сверки | О какой войне идет речь, &lt;Player&gt;? Война не может служить позитивным источником получения информации. Не тратьте свои такты попусту. |
+| [28193](../../source/SR_2_HD_Lang_vanilla.txt#L28193) | `Talk.Dominator.PeaceKeller2` | Текст для сверки | У меня отсутствует блок суждения о вашей войне. Посылаю запрос в банк данных. |
+| [28194](../../source/SR_2_HD_Lang_vanilla.txt#L28194) | `Talk.Dominator.PeaceKeller3` | Текст для сверки | Команда "положить" соответствует переброске данных через координатор в стабилитрон. В данном случае команда бессмысленна. |
+| [28195](../../source/SR_2_HD_Lang_vanilla.txt#L28195) | `Talk.Dominator.PeaceKeller4` | Текст для сверки | Вы уверены, что хотите воевать со мной или отказаться от этого? Я не имею компетенции решать вопросы данного рода. Пошлите запрос в банк данных научного центра. |
+| [28196](../../source/SR_2_HD_Lang_vanilla.txt#L28196) | `Talk.Dominator.PeaceKeller5` | Текст для сверки | Не мы начали эту войну. Корабли серии "блазер" ведут вместе с вами деструктивную деятельность, и мы вам всем противостоим. |
+| [28197](../../source/SR_2_HD_Lang_vanilla.txt#L28197) | `Talk.Dominator.PeacePlayer` | Текст для сверки | Я прилетел с миром. Положим конец войне! |
+| [28198](../../source/SR_2_HD_Lang_vanilla.txt#L28198) | `Talk.Dominator.PeacePlayer1` | Текст для сверки | Эй, тупая железяка, я хочу положить конец войне! |
+| [28199](../../source/SR_2_HD_Lang_vanilla.txt#L28199) | `Talk.Dominator.PeacePlayer2` | Текст для сверки | Давай, &lt;TalkShip&gt;, вместе положим конец войне?! |
+| [28200](../../source/SR_2_HD_Lang_vanilla.txt#L28200) | `Talk.Dominator.PeaceTerron` | Текст для сверки | Война будет закончена вместе с преобразованием всех разумных видов к нашему. Ждите. |
+| [28201](../../source/SR_2_HD_Lang_vanilla.txt#L28201) | `Talk.Dominator.PeaceTerron1` | Текст для сверки | Не пытайтесь увильнуть от программы преобразования. Мир будет тогда, когда не будет враждующих сторон! |
+| [28202](../../source/SR_2_HD_Lang_vanilla.txt#L28202) | `Talk.Dominator.PeaceTerron2` | Текст для сверки | Ваша коалиция биологических существ не может жить в мире даже между собой. Мы устраним саму причину войны, преобразуя все к своему виду. |
+| [28203](../../source/SR_2_HD_Lang_vanilla.txt#L28203) | `Talk.Dominator.PeaceTerron3` | Текст для сверки | Ты еще не преобразован к нашему виду, &lt;Player&gt;. Но мы тебе поможем решить эту проблему, если после смерти твой мозг останется пригодным для замены личностной матрицы. |
+| [28204](../../source/SR_2_HD_Lang_vanilla.txt#L28204) | `Talk.Dominator.PeaceTerron4` | Текст для сверки | Вы несете бред, вероятно, вам требуется замена матрицы личности. Мы на этом специализируемся и вам вскоре поможем. |
+| [28205](../../source/SR_2_HD_Lang_vanilla.txt#L28205) | `Talk.Dominator.PeaceTerron5` | Текст для сверки | Насчет мирных соглашений обращайтесь к келлероидам. Мы же лечим чуждые виды, а не занимаемся переговорами. |
+| [28206](../../source/SR_2_HD_Lang_vanilla.txt#L28206) | `Talk.Dominator.ProgrammNo` | Текст для сверки | Зафиксирована атака на систему. Данные заблокированы. |
+| [28207](../../source/SR_2_HD_Lang_vanilla.txt#L28207) | `Talk.Dominator.ProgrammOk` | Текст для сверки | Выполняю программу &lt;Name&gt;. Контакт не представляется возможным. |
+| [28208](../../source/SR_2_HD_Lang_vanilla.txt#L28208) | `Talk.Dominator.ProgrammPlayer` | Текст для сверки | Запуск программы: &lt;Name&gt; |
+| [28211](../../source/SR_2_HD_Lang_vanilla.txt#L28211) | `Talk.DropGoodsInFear.Drop` | Текст для сверки | &lt;FullShipBad&gt;! Я согласен расстаться с частью своего груза. Прошу оставить меня в покое. |
+| [28212](../../source/SR_2_HD_Lang_vanilla.txt#L28212) | `Talk.DropGoodsInFear.Drop1#1` | Текст для сверки | Эй! &lt;FullShipBad&gt;! Ты меня слышишь? Я готов выкинуть груз!!! |
+| [28213](../../source/SR_2_HD_Lang_vanilla.txt#L28213) | `Talk.DropGoodsInFear.Drop1#2` | Текст для сверки | Прекрати меня преследовать. |
+| [28214](../../source/SR_2_HD_Lang_vanilla.txt#L28214) | `Talk.DropGoodsInFear.Drop2#1` | Текст для сверки | Всем кораблям в системе &lt;Star&gt;! Прошу обратить ваше внимание на мой жест доброй воли. |
+| [28215](../../source/SR_2_HD_Lang_vanilla.txt#L28215) | `Talk.DropGoodsInFear.Drop2#2` | Текст для сверки | Я избавляюсь от части груза в пользу судна &lt;FullShipBad&gt;, которое меня преследует. |
+| [28218](../../source/SR_2_HD_Lang_vanilla.txt#L28218) | `Talk.ExTalk.OldHullPlayerSend` | Текст для сверки | А что это у тебя за корпус такой? Никогда подобного не встречал! |
+| [28219](../../source/SR_2_HD_Lang_vanilla.txt#L28219) | `Talk.ExTalk.OldHullPlayerSendP` | Текст для сверки | Напомни, партнер, а что это у тебя за корпус такой? Никогда подобного не встречал! |
+| [28220](../../source/SR_2_HD_Lang_vanilla.txt#L28220) | `Talk.ExTalk.OldHullPlayerSend_1` | Текст для сверки | Но мы же все рейнджеры, одно общее дело делаем! Какие у нас могут быть секреты друг от друга? |
+| [28221](../../source/SR_2_HD_Lang_vanilla.txt#L28221) | `Talk.ExTalk.OldHullPlayerSend_1P` | Текст для сверки | Я весь внимание! |
+| [28222](../../source/SR_2_HD_Lang_vanilla.txt#L28222) | `Talk.ExTalk.OldHullPlayerSend_1_1` | Текст для сверки | И что же пошло не так? Сейчас до сих пор ни на одном корабле нет подобных устройств. |
+| [28223](../../source/SR_2_HD_Lang_vanilla.txt#L28223) | `Talk.ExTalk.OldHullPlayerSend_1_2` | Текст для сверки | И что стало с этими испытателями и проектом? Корпус же до сих пор у тебя! |
+| [28224](../../source/SR_2_HD_Lang_vanilla.txt#L28224) | `Talk.ExTalk.OldHullPlayerSend_1_3` | Текст для сверки | Та еще история. Мне, получается, такой корпус уже не достать? |
+| [28225](../../source/SR_2_HD_Lang_vanilla.txt#L28225) | `Talk.ExTalk.OldHullPlayerSend_1_4` | Текст для сверки | Спасибо за ликбез. Удачи тебе! |
+| [28226](../../source/SR_2_HD_Lang_vanilla.txt#L28226) | `Talk.ExTalk.OldHullPlayerSend_1_4P` | Текст для сверки | Спасибо за подробное изложение. Теперь нас ждут великие дела! |
+| [28227](../../source/SR_2_HD_Lang_vanilla.txt#L28227) | `Talk.ExTalk.OldHullPlayerSend_2` | Текст для сверки | Да я же величайший рейнджер, которого когда-либо знала наша галактика! А ну быстро выложил мне все что знаешь, иначе я тебя тут сейчас в клочья разнесу вместе с этим корытом, насколько бы необычным оно не было! |
+| [28228](../../source/SR_2_HD_Lang_vanilla.txt#L28228) | `Talk.ExTalk.OldHullRangerAnswer` | Текст для сверки | А ты, &lt;Player&gt;, с какой целью интересуешься? Информация эта секретна и доступна строго ограниченному кругу лиц. |
+| [28229](../../source/SR_2_HD_Lang_vanilla.txt#L28229) | `Talk.ExTalk.OldHullRangerAnswerP` | Сопоставлено с лангом | Конечно, не вопрос. Я уже привык рассказывать эту историю, сам много раз слышал от предков.<br>Сопоставленные записи: [Другие и локальное → Культура](../lore/OTHER.md#культура). |
+| [28230](../../source/SR_2_HD_Lang_vanilla.txt#L28230) | `Talk.ExTalk.OldHullRangerAnswer_1` | Текст для сверки | Ладно, так и быть, расскажу в рамках дозволенного. Но в любом случае, не болтай об этом направо и налево. Корпуса эти в свое время создавались для тестирования системы нейроинтерфейса, позволяющей пилоту полностью погружаться в создаваемую бортовым компьютером виртуальную реальность и объединять свои органы чувств с показаниями бортовых сенсоров, передавать команды управления с помощью мыслей. Технология казалась чрезвычайно перспективной и сулила большой прогресс в скорости реакции, удобстве и легкости управления космическими кораблями. К сожалению, как всегда это бывает, не обошлось без подвоха... |
+| [28231](../../source/SR_2_HD_Lang_vanilla.txt#L28231) | `Talk.ExTalk.OldHullRangerAnswer_1P` | Текст для сверки | Корпуса эти в свое время создавались для тестирования системы нейроинтерфейса, позволяющей пилоту полностью погружаться в создаваемую бортовым компьютером виртуальную реальность и объединять свои органы чувств с показаниями бортовых сенсоров, передавать команды управления с помощью мыслей. Технология казалась чрезвычайно перспективной и сулила большой прогресс в скорости реакции, удобстве и легкости управления космическими кораблями. К сожалению, как всегда это бывает, не обошлось без подвоха... |
+| [28232](../../source/SR_2_HD_Lang_vanilla.txt#L28232) | `Talk.ExTalk.OldHullRangerAnswer_1_1` | Текст для сверки | Ключевой проблемой стала синхронизация и качество реализации виртуальной реальности. Доведя симуляцию до уровня 99,999999% процентов от уровня всех получаемых в реальном мире ощущений от всевозможных органов чувств, разработчики столкнулись в какой-то мере с ожидаемой, с другой стороны - весьма странной реакцией сознания пилотов-испытателей на прекращения сеансов. После окончания тестовых вылетов они долго приходили в себя, периодически не могли различить, в реальном они мире или все еще пилотируют и т.д. Даже специально разработанные процедуры медитации по гаальским ментальным уровням не помогали сознанию вновь найти себя. |
+| [28233](../../source/SR_2_HD_Lang_vanilla.txt#L28233) | `Talk.ExTalk.OldHullRangerAnswer_1_2` | Текст для сверки | А вот этого не знаю даже я. Корпус, который ты сейчас видишь у меня, переоборудован под стандартную электронно-механическую систему органов управления. Их передали особо отличившимся рейнджерам, чтобы совсем уж не потерять все достижения программы. Мне он достался по наследству. Все элементы системы нейроинтерфейса были демонтированы и сданы на хранение в какое-то жутко засекреченное место. Возможно, когда-то им еще предстоит стать нашим оружием спасения, но я об этом ничего не знаю. |
+| [28234](../../source/SR_2_HD_Lang_vanilla.txt#L28234) | `Talk.ExTalk.OldHullRangerAnswer_1_3` | Текст для сверки | Нет. До наших дней сохранилось всего несколько экземпляров, которые ценятся как фамильные реликвии. В продаже ты их не найдешь. Но, кто знает, возможно, &lt;clr&gt;судьба сведет вас иначе&lt;clrEnd&gt;. С подобными старыми вещами даже человек вроде меня волей-неволей начинает верить в необъяснимое. |
+| [28235](../../source/SR_2_HD_Lang_vanilla.txt#L28235) | `Talk.ExTalk.OldHullRangerAnswer_1_4` | Текст для сверки | Бывай, товарищ! |
+| [28236](../../source/SR_2_HD_Lang_vanilla.txt#L28236) | `Talk.ExTalk.OldHullRangerAnswer_1_4P` | Текст для сверки | Всегда готов помочь, напарник! |
+| [28237](../../source/SR_2_HD_Lang_vanilla.txt#L28237) | `Talk.ExTalk.OldHullRangerAnswer_2` | Текст для сверки | Так дела не делаются, &lt;Player&gt;. Научись разговаривать и не хамить сначала, а потом уже требуй что-то. И смотри, чтобы я тебя не проучил за подобные выходки. |
+| [28239](../../source/SR_2_HD_Lang_vanilla.txt#L28239) | `Talk.Exit` | Текст для сверки | Конец связи |
 | [28241](../../source/SR_2_HD_Lang_vanilla.txt#L28241) | `Talk.Female.Accept` | Реплика | Короткая реакция или команда. Самостоятельный факт не выделен. |
-| [28243](../../source/SR_2_HD_Lang_vanilla.txt#L28243) | `Talk.Female.Attack.ComputerAsk` | Требует контекста | Фрагмент: «Очень интересно.» |
-| [28244](../../source/SR_2_HD_Lang_vanilla.txt#L28244) | `Talk.Female.Attack.ComputerAsk1` | Требует контекста | Фрагмент: «Для начала мне хотелось бы узнать, с кем ты предлагаешь сразиться.» |
-| [28245](../../source/SR_2_HD_Lang_vanilla.txt#L28245) | `Talk.Female.Attack.ComputerAsk2` | Требует контекста | Фрагмент: «А кого ты избрал в качестве объекта для атаки?» |
-| [28246](../../source/SR_2_HD_Lang_vanilla.txt#L28246) | `Talk.Female.Attack.ComputerAsk3` | Требует контекста | Фрагмент: «Пока не знаю.» |
-| [28247](../../source/SR_2_HD_Lang_vanilla.txt#L28247) | `Talk.Female.Attack.ComputerAsk4` | Требует контекста | Фрагмент: «Хм, и на кого ты хотел бы, чтобы я напала?» |
-| [28248](../../source/SR_2_HD_Lang_vanilla.txt#L28248) | `Talk.Female.Attack.ComputerInFear` | Требует контекста | Фрагмент: «Извини, парень, мне сейчас не до болтовни.» |
-| [28249](../../source/SR_2_HD_Lang_vanilla.txt#L28249) | `Talk.Female.Attack.ComputerInFear1` | Требует контекста | Фрагмент: «Боюсь, ничем не могу тебе помочь, такое творится вокруг...» |
-| [28250](../../source/SR_2_HD_Lang_vanilla.txt#L28250) | `Talk.Female.Attack.ComputerInFear2` | Требует контекста | Фрагмент: «Мне надо маленько прийти в себя, успокоиться...» |
-| [28251](../../source/SR_2_HD_Lang_vanilla.txt#L28251) | `Talk.Female.Attack.ComputerInFear3` | Требует контекста | Фрагмент: «Извини, но сейчас я могу думать только о том, как бы унести отсюда свой зад подобру-поздорову.» |
-| [28252](../../source/SR_2_HD_Lang_vanilla.txt#L28252) | `Talk.Female.Attack.ComputerReadyAttack` | Требует контекста | Фрагмент: «Я уже дерусь с &lt;Target&gt;, так что лучше ты мне подсоби маленько, а там посмотрим.» |
-| [28253](../../source/SR_2_HD_Lang_vanilla.txt#L28253) | `Talk.Female.Attack.ComputerReadyAttack1` | Требует контекста | Фрагмент: «У меня тут уже вовсю кипит сражение с &lt;Target&gt;.» |
-| [28254](../../source/SR_2_HD_Lang_vanilla.txt#L28254) | `Talk.Female.Attack.ComputerReadyAttack2` | Требует контекста | Фрагмент: «Я сейчас выясняю отношения с &lt;Target&gt;.» |
-| [28255](../../source/SR_2_HD_Lang_vanilla.txt#L28255) | `Talk.Female.Attack.ComputerReadyAttack3` | Требует контекста | Фрагмент: «Сначала помоги мне в битве с &lt;Target&gt;.» |
-| [28256](../../source/SR_2_HD_Lang_vanilla.txt#L28256) | `Talk.Female.Attack.ComputerReadyAttack4` | Требует контекста | Фрагмент: «Сейчас я занята боем с &lt;Target&gt;.» |
-| [28257](../../source/SR_2_HD_Lang_vanilla.txt#L28257) | `Talk.Female.Attack.PlayerFear` | Требует контекста | Фрагмент: «Я не желаю участвовать в этой операции, поскольку она заранее обречена на провал.» |
-| [28258](../../source/SR_2_HD_Lang_vanilla.txt#L28258) | `Talk.Female.Attack.PlayerFear1` | Требует контекста | Фрагмент: «Да ты что?!!» |
-| [28259](../../source/SR_2_HD_Lang_vanilla.txt#L28259) | `Talk.Female.Attack.PlayerFear2` | Требует контекста | Фрагмент: «Заведомо провальная операция!» |
-| [28260](../../source/SR_2_HD_Lang_vanilla.txt#L28260) | `Talk.Female.Attack.PlayerFear3` | Требует контекста | Фрагмент: «Извини, но я должен сохранить свою жизнь для более важного дела - спасения Галактики от доминаторов!» |
-| [28261](../../source/SR_2_HD_Lang_vanilla.txt#L28261) | `Talk.Female.Attack.PlayerFear4` | Кандидат | Фрагмент: «Это детеныши таких маленьких домашних зверьков с планеты Земля, если ты не знаешь.» |
-| [28262](../../source/SR_2_HD_Lang_vanilla.txt#L28262) | `Talk.Female.Attack.PlayerHaveBusiness` | Требует контекста | Фрагмент: «Я сейчас очень занят, мне некогда даже рассматривать твое предложение.» |
-| [28263](../../source/SR_2_HD_Lang_vanilla.txt#L28263) | `Talk.Female.Attack.PlayerHaveBusiness1` | Требует контекста | Фрагмент: «Я крайне занят, прошу простить мой отказ.» |
-| [28264](../../source/SR_2_HD_Lang_vanilla.txt#L28264) | `Talk.Female.Attack.PlayerHaveBusiness2` | Требует контекста | Фрагмент: «Извини, у меня сейчас совсем другие планы.» |
-| [28265](../../source/SR_2_HD_Lang_vanilla.txt#L28265) | `Talk.Female.Attack.PlayerHaveBusiness3` | Требует контекста | Фрагмент: «Хм, я бы тебе помог, но уж очень занят сейчас.» |
-| [28266](../../source/SR_2_HD_Lang_vanilla.txt#L28266) | `Talk.Female.Attack.PlayerHaveBusiness4` | Требует контекста | Фрагмент: «К сожалению, я сейчас занят, и ничем тебе помочь не могу.» |
-| [28267](../../source/SR_2_HD_Lang_vanilla.txt#L28267) | `Talk.Female.Attack.PlayerItsMyTranc` | Требует контекста | Фрагмент: «Ты реально сейчас хочешь заставить меня атаковать своего собственного робота?» |
-| [28268](../../source/SR_2_HD_Lang_vanilla.txt#L28268) | `Talk.Female.Attack.PlayerItsYourTranc` | Требует контекста | Фрагмент: «Слушай, если тебе нравится ломать своих собственных роботов - без проблем.» |
-| [28269](../../source/SR_2_HD_Lang_vanilla.txt#L28269) | `Talk.Female.Attack.PlayerOffersAttack` | Требует контекста | Фрагмент: «Предлагаю совместное нападение» |
-| [28270](../../source/SR_2_HD_Lang_vanilla.txt#L28270) | `Talk.Female.Attack.PlayerOffersAttack1` | Требует контекста | Фрагмент: «Как насчет совместного нападения?» |
-| [28271](../../source/SR_2_HD_Lang_vanilla.txt#L28271) | `Talk.Female.Attack.PlayerOffersAttack2` | Требует контекста | Фрагмент: «Поможешь мне в битве с одним типом?» |
-| [28272](../../source/SR_2_HD_Lang_vanilla.txt#L28272) | `Talk.Female.Attack.PlayerOffersAttack3` | Требует контекста | Фрагмент: «Давай вместе сразимся кое с кем?» |
-| [28273](../../source/SR_2_HD_Lang_vanilla.txt#L28273) | `Talk.Female.Attack.PlayerOffersAttack4` | Требует контекста | Фрагмент: «Примешь участие в совместной атаке?» |
-| [28274](../../source/SR_2_HD_Lang_vanilla.txt#L28274) | `Talk.Female.Attack.PlayerOk` | Требует контекста | Фрагмент: «Согласен.» |
-| [28275](../../source/SR_2_HD_Lang_vanilla.txt#L28275) | `Talk.Female.Attack.PlayerOk1` | Требует контекста | Фрагмент: «Отлично, сделаем его!» |
-| [28276](../../source/SR_2_HD_Lang_vanilla.txt#L28276) | `Talk.Female.Attack.PlayerOk2` | Требует контекста | Фрагмент: «Заметано!» |
-| [28277](../../source/SR_2_HD_Lang_vanilla.txt#L28277) | `Talk.Female.Attack.PlayerOk3` | Требует контекста | Фрагмент: «А что, мне нравится эта идея.» |
-| [28278](../../source/SR_2_HD_Lang_vanilla.txt#L28278) | `Talk.Female.Attack.PlayerOk4` | Требует контекста | Фрагмент: «О'кей, мне он тоже не нравится.» |
-| [28279](../../source/SR_2_HD_Lang_vanilla.txt#L28279) | `Talk.Female.Attack.PlayerSend` | Требует контекста | Фрагмент: «Предлагаю организовать атаку на &lt;Target&gt;.» |
-| [28280](../../source/SR_2_HD_Lang_vanilla.txt#L28280) | `Talk.Female.Attack.PlayerSend1` | Требует контекста | Фрагмент: «Как насчет совместной атаки на &lt;Target&gt;?» |
-| [28281](../../source/SR_2_HD_Lang_vanilla.txt#L28281) | `Talk.Female.Attack.PlayerSend2` | Требует контекста | Фрагмент: «Я атакую &lt;Target&gt;.» |
-| [28282](../../source/SR_2_HD_Lang_vanilla.txt#L28282) | `Talk.Female.Attack.PlayerSend3` | Требует контекста | Фрагмент: «Не поможешь мне в битве с &lt;Target&gt;?» |
-| [28283](../../source/SR_2_HD_Lang_vanilla.txt#L28283) | `Talk.Female.Attack.PlayerSend4` | Требует контекста | Фрагмент: «Хочешь принять участие в битве с &lt;Target&gt;?» |
-| [28284](../../source/SR_2_HD_Lang_vanilla.txt#L28284) | `Talk.Female.Attack.PlayerWeFriends` | Требует контекста | Фрагмент: «Я не собираюсь атаковывать дружественный по отношению ко мне корабль.» |
-| [28285](../../source/SR_2_HD_Lang_vanilla.txt#L28285) | `Talk.Female.Attack.PlayerWeFriends1` | Требует контекста | Фрагмент: «Я не открою огонь по своим.» |
-| [28286](../../source/SR_2_HD_Lang_vanilla.txt#L28286) | `Talk.Female.Attack.PlayerWeFriends2` | Требует контекста | Фрагмент: «Ты что, мы же с ним друзья!» |
-| [28287](../../source/SR_2_HD_Lang_vanilla.txt#L28287) | `Talk.Female.Attack.PlayerWeFriends3` | Кандидат | Фрагмент: «Капитан этого корабля - мой друг!» |
-| [28288](../../source/SR_2_HD_Lang_vanilla.txt#L28288) | `Talk.Female.Attack.PlayerWeFriends4` | Кандидат | Фрагмент: «Я не стану тебе помогать, потому что капитан этого корабля - мой хороший знакомый.» |
-| [28289](../../source/SR_2_HD_Lang_vanilla.txt#L28289) | `Talk.Female.Attack.PlayerWeFriendsTranc` | Требует контекста | Фрагмент: «Атаковать чужого робота?» |
-| [28290](../../source/SR_2_HD_Lang_vanilla.txt#L28290) | `Talk.Female.Attack.PlayerWeFriendsTranc1` | Требует контекста | Фрагмент: «Ввязываться в бессмысленный бой с чужой вещью я не намерен.» |
-| [28291](../../source/SR_2_HD_Lang_vanilla.txt#L28291) | `Talk.Female.Attack.PlayerWeFriendsTranc2` | Требует контекста | Фрагмент: «А я, вообще-то, люблю транклюкаторов, и без причины делать им больно не хочу.» |
-| [28292](../../source/SR_2_HD_Lang_vanilla.txt#L28292) | `Talk.Female.Attack.RangerFear` | Ожидает проверки | Фрагмент: «Хочешь получить посмертно пеленгскую награду "Камикадзе"?» |
-| [28293](../../source/SR_2_HD_Lang_vanilla.txt#L28293) | `Talk.Female.Attack.RangerFear1` | Требует контекста | Фрагмент: «Ну знаешь ли, я еще хочу выйти замуж, нарожать детишек и развести цветник возле дома.» |
-| [28294](../../source/SR_2_HD_Lang_vanilla.txt#L28294) | `Talk.Female.Attack.RangerFear2` | Требует контекста | Фрагмент: «Это заведомо провальная операция.» |
-| [28295](../../source/SR_2_HD_Lang_vanilla.txt#L28295) | `Talk.Female.Attack.RangerFear3` | Требует контекста | Фрагмент: «Во-первых я не заинтересована в этом сражении, а во-вторых он слишком крутой.» |
-| [28296](../../source/SR_2_HD_Lang_vanilla.txt#L28296) | `Talk.Female.Attack.RangerFear4` | Требует контекста | Фрагмент: «Извини, я пока не хочу умереть молодой.» |
-| [28297](../../source/SR_2_HD_Lang_vanilla.txt#L28297) | `Talk.Female.Attack.RangerHaveBusiness` | Требует контекста | Фрагмент: «Я сейчас очень занята, мне некогда даже рассматривать твое предложение.» |
-| [28298](../../source/SR_2_HD_Lang_vanilla.txt#L28298) | `Talk.Female.Attack.RangerHaveBusiness1` | Требует контекста | Фрагмент: «Я крайне занята, прошу простить мой отказ.» |
-| [28299](../../source/SR_2_HD_Lang_vanilla.txt#L28299) | `Talk.Female.Attack.RangerHaveBusiness2` | Требует контекста | Фрагмент: «Извини, у меня сейчас совсем другие планы.» |
-| [28300](../../source/SR_2_HD_Lang_vanilla.txt#L28300) | `Talk.Female.Attack.RangerHaveBusiness3` | Требует контекста | Фрагмент: «Хм, я бы тебе помогла, но уж очень занята сейчас.» |
-| [28301](../../source/SR_2_HD_Lang_vanilla.txt#L28301) | `Talk.Female.Attack.RangerHaveBusiness4` | Требует контекста | Фрагмент: «К сожалению, я сейчас занята, и ничем тебе помочь не могу.» |
-| [28302](../../source/SR_2_HD_Lang_vanilla.txt#L28302) | `Talk.Female.Attack.RangerItsMyTranc` | Требует контекста | Фрагмент: «А может тебе ещё вина красного, да Махпеллу рыжую?» |
-| [28303](../../source/SR_2_HD_Lang_vanilla.txt#L28303) | `Talk.Female.Attack.RangerItsYourTranc` | Требует контекста | Фрагмент: «Ты, &lt;Player&gt;, видно больной?» |
-| [28304](../../source/SR_2_HD_Lang_vanilla.txt#L28304) | `Talk.Female.Attack.RangerOk` | Требует контекста | Фрагмент: «Отлично, сделаем его!» |
-| [28305](../../source/SR_2_HD_Lang_vanilla.txt#L28305) | `Talk.Female.Attack.RangerOk1` | Требует контекста | Фрагмент: «Заметано!» |
-| [28306](../../source/SR_2_HD_Lang_vanilla.txt#L28306) | `Talk.Female.Attack.RangerOk2` | Требует контекста | Фрагмент: «А что, мне нравится эта идея.» |
-| [28307](../../source/SR_2_HD_Lang_vanilla.txt#L28307) | `Talk.Female.Attack.RangerSend` | Требует контекста | Фрагмент: «Предлагаю организовать атаку на &lt;Target&gt;.» |
-| [28308](../../source/SR_2_HD_Lang_vanilla.txt#L28308) | `Talk.Female.Attack.RangerSend1` | Требует контекста | Фрагмент: «Как насчет совместной атаки на &lt;Target&gt;?» |
-| [28309](../../source/SR_2_HD_Lang_vanilla.txt#L28309) | `Talk.Female.Attack.RangerSend2` | Требует контекста | Фрагмент: «Не поможешь мне в битве с &lt;Target&gt;?» |
-| [28310](../../source/SR_2_HD_Lang_vanilla.txt#L28310) | `Talk.Female.Attack.RangerSend3` | Требует контекста | Фрагмент: «Хочешь принять участие в битве с &lt;Target&gt;?» |
-| [28311](../../source/SR_2_HD_Lang_vanilla.txt#L28311) | `Talk.Female.Attack.RangerSuspect` | Требует контекста | Фрагмент: «Ты знаешь, я вовсе не уверена, что могу повернуться к тебе спиной.» |
-| [28312](../../source/SR_2_HD_Lang_vanilla.txt#L28312) | `Talk.Female.Attack.RangerSuspect1` | Требует контекста | Фрагмент: «А где гарантии, что я могу тебе доверять?» |
-| [28313](../../source/SR_2_HD_Lang_vanilla.txt#L28313) | `Talk.Female.Attack.RangerSuspect2` | Требует контекста | Фрагмент: «Идея сама по себе неплоха, но я тебе не доверяю.» |
-| [28314](../../source/SR_2_HD_Lang_vanilla.txt#L28314) | `Talk.Female.Attack.RangerSuspect3` | Требует контекста | Фрагмент: «А сам что, не справишься?» |
-| [28315](../../source/SR_2_HD_Lang_vanilla.txt#L28315) | `Talk.Female.Attack.RangerSuspect4` | Требует контекста | Фрагмент: «Извини, ничем не могу помочь.» |
-| [28316](../../source/SR_2_HD_Lang_vanilla.txt#L28316) | `Talk.Female.Attack.RangerWeFriends` | Требует контекста | Фрагмент: «Я не собираюсь атаковывать дружественный по отношению ко мне корабль.» |
-| [28317](../../source/SR_2_HD_Lang_vanilla.txt#L28317) | `Talk.Female.Attack.RangerWeFriends1` | Требует контекста | Фрагмент: «Я не открою огонь по своим.» |
-| [28318](../../source/SR_2_HD_Lang_vanilla.txt#L28318) | `Talk.Female.Attack.RangerWeFriends2` | Требует контекста | Фрагмент: «Ты что, он же классный!» |
-| [28319](../../source/SR_2_HD_Lang_vanilla.txt#L28319) | `Talk.Female.Attack.RangerWeFriends3` | Кандидат | Фрагмент: «Капитан этого корабля - мой друг!» |
-| [28320](../../source/SR_2_HD_Lang_vanilla.txt#L28320) | `Talk.Female.Attack.RangerWeFriendsTranc` | Требует контекста | Фрагмент: «Да чем тебе вообще мог навредить этот невинный робот?» |
-| [28321](../../source/SR_2_HD_Lang_vanilla.txt#L28321) | `Talk.Female.Attack.RangerWeFriendsTranc1` | Требует контекста | Фрагмент: «Ну уж нет, чужую собственность я портить не намерена!» |
-| [28322](../../source/SR_2_HD_Lang_vanilla.txt#L28322) | `Talk.Female.Attack.RangerWeFriendsTranc2` | Требует контекста | Фрагмент: «Была у меня как-то в детстве заводная игрушка робота, и этот транклюкатор её очень сильно напоминает.» |
-| [28323](../../source/SR_2_HD_Lang_vanilla.txt#L28323) | `Talk.Female.Attack.WeAlreadyHavePact` | Требует контекста | Фрагмент: «С чего это вдруг? &lt;Target&gt; мне ничего плохого не сделал.» |
-| [28324](../../source/SR_2_HD_Lang_vanilla.txt#L28324) | `Talk.Female.Attack.WeAlreadyHavePact1` | Требует контекста | Фрагмент: «Нет, спасибо, я не какой-то там беспринципный пират, чтобы нападать на дружественные мне корабли.» |
-| [28325](../../source/SR_2_HD_Lang_vanilla.txt#L28325) | `Talk.Female.Attack.WeAlreadyHavePact2` | Требует контекста | Фрагмент: «У нас с &lt;Target&gt; мирное соглашение, так что ничего не получится.» |
-| [28326](../../source/SR_2_HD_Lang_vanilla.txt#L28326) | `Talk.Female.Attack.WeAlreadyHavePact3` | Кандидат | Фрагмент: «Вот еще, мы с &lt;Target&gt; договорились не нападать друг на друга.» |
-| [28327](../../source/SR_2_HD_Lang_vanilla.txt#L28327) | `Talk.Female.Attack.WeAlreadyHavePact4` | Требует контекста | Фрагмент: «Напасть на &lt;Target&gt;?» |
+| [28243](../../source/SR_2_HD_Lang_vanilla.txt#L28243) | `Talk.Female.Attack.ComputerAsk` | Текст для сверки | Очень интересно. А на кого мы, собственно, будем нападать, &lt;Player&gt;? |
+| [28244](../../source/SR_2_HD_Lang_vanilla.txt#L28244) | `Talk.Female.Attack.ComputerAsk1` | Текст для сверки | Для начала мне хотелось бы узнать, с кем ты предлагаешь сразиться. |
+| [28245](../../source/SR_2_HD_Lang_vanilla.txt#L28245) | `Talk.Female.Attack.ComputerAsk2` | Текст для сверки | А кого ты избрал в качестве объекта для атаки? |
+| [28246](../../source/SR_2_HD_Lang_vanilla.txt#L28246) | `Talk.Female.Attack.ComputerAsk3` | Текст для сверки | Пока не знаю. Сначала скажи, с кем будет битва. |
+| [28247](../../source/SR_2_HD_Lang_vanilla.txt#L28247) | `Talk.Female.Attack.ComputerAsk4` | Текст для сверки | Хм, и на кого ты хотел бы, чтобы я напала? |
+| [28248](../../source/SR_2_HD_Lang_vanilla.txt#L28248) | `Talk.Female.Attack.ComputerInFear` | Текст для сверки | Извини, парень, мне сейчас не до болтовни. Поговорим с тобой позже, в более мирной обстановке. |
+| [28249](../../source/SR_2_HD_Lang_vanilla.txt#L28249) | `Talk.Female.Attack.ComputerInFear1` | Текст для сверки | Боюсь, ничем не могу тебе помочь, такое творится вокруг... |
+| [28250](../../source/SR_2_HD_Lang_vanilla.txt#L28250) | `Talk.Female.Attack.ComputerInFear2` | Текст для сверки | Мне надо маленько прийти в себя, успокоиться... Сейчас я не в состоянии ничего делать. |
+| [28251](../../source/SR_2_HD_Lang_vanilla.txt#L28251) | `Talk.Female.Attack.ComputerInFear3` | Текст для сверки | Извини, но сейчас я могу думать только о том, как бы унести отсюда свой зад подобру-поздорову. |
+| [28252](../../source/SR_2_HD_Lang_vanilla.txt#L28252) | `Talk.Female.Attack.ComputerReadyAttack` | Текст для сверки | Я уже дерусь с &lt;Target&gt;, так что лучше ты мне подсоби маленько, а там посмотрим. |
+| [28253](../../source/SR_2_HD_Lang_vanilla.txt#L28253) | `Talk.Female.Attack.ComputerReadyAttack1` | Текст для сверки | У меня тут уже вовсю кипит сражение с &lt;Target&gt;. Если можешь помочь - буду рада! |
+| [28254](../../source/SR_2_HD_Lang_vanilla.txt#L28254) | `Talk.Female.Attack.ComputerReadyAttack2` | Текст для сверки | Я сейчас выясняю отношения с &lt;Target&gt;. Присоединяйся, если есть возможность! |
+| [28255](../../source/SR_2_HD_Lang_vanilla.txt#L28255) | `Talk.Female.Attack.ComputerReadyAttack3` | Текст для сверки | Сначала помоги мне в битве с &lt;Target&gt;. А то что-то я его никак не одолею, крепкий гад попался... |
+| [28256](../../source/SR_2_HD_Lang_vanilla.txt#L28256) | `Talk.Female.Attack.ComputerReadyAttack4` | Текст для сверки | Сейчас я занята боем с &lt;Target&gt;. Если ты поможешь мне, буду очень благодарна! |
+| [28257](../../source/SR_2_HD_Lang_vanilla.txt#L28257) | `Talk.Female.Attack.PlayerFear` | Текст для сверки | Я не желаю участвовать в этой операции, поскольку она заранее обречена на провал. |
+| [28258](../../source/SR_2_HD_Lang_vanilla.txt#L28258) | `Talk.Female.Attack.PlayerFear1` | Текст для сверки | Да ты что?!! Не видишь, что ли, что он круче нас двоих, вместе взятых? Нет уж, я умываю руки! |
+| [28259](../../source/SR_2_HD_Lang_vanilla.txt#L28259) | `Talk.Female.Attack.PlayerFear2` | Текст для сверки | Заведомо провальная операция! На этот корабль будут нападать либо идиоты, либо герои. Ну а я, в отличие от тебя, вполне нормален, поэтому даже не буду и пробовать. |
+| [28260](../../source/SR_2_HD_Lang_vanilla.txt#L28260) | `Talk.Female.Attack.PlayerFear3` | Текст для сверки | Извини, но я должен сохранить свою жизнь для более важного дела - спасения Галактики от доминаторов! Если влезать во все локальные конфликты, долго не протянешь. |
+| [28261](../../source/SR_2_HD_Lang_vanilla.txt#L28261) | `Talk.Female.Attack.PlayerFear4` | Текст для сверки | Ну уж нет! Да он нас как котят расшвыряет! Это детеныши таких маленьких домашних зверьков с планеты Земля, если ты не знаешь. |
+| [28262](../../source/SR_2_HD_Lang_vanilla.txt#L28262) | `Talk.Female.Attack.PlayerHaveBusiness` | Текст для сверки | Я сейчас очень занят, мне некогда даже рассматривать твое предложение. |
+| [28263](../../source/SR_2_HD_Lang_vanilla.txt#L28263) | `Talk.Female.Attack.PlayerHaveBusiness1` | Текст для сверки | Я крайне занят, прошу простить мой отказ. |
+| [28264](../../source/SR_2_HD_Lang_vanilla.txt#L28264) | `Talk.Female.Attack.PlayerHaveBusiness2` | Текст для сверки | Извини, у меня сейчас совсем другие планы. Может, как-нибудь в другой раз? |
+| [28265](../../source/SR_2_HD_Lang_vanilla.txt#L28265) | `Talk.Female.Attack.PlayerHaveBusiness3` | Текст для сверки | Хм, я бы тебе помог, но уж очень занят сейчас. Так что на меня можешь не рассчитывать. |
+| [28266](../../source/SR_2_HD_Lang_vanilla.txt#L28266) | `Talk.Female.Attack.PlayerHaveBusiness4` | Текст для сверки | К сожалению, я сейчас занят, и ничем тебе помочь не могу. |
+| [28267](../../source/SR_2_HD_Lang_vanilla.txt#L28267) | `Talk.Female.Attack.PlayerItsMyTranc` | Текст для сверки | Ты реально сейчас хочешь заставить меня атаковать своего собственного робота? Ну удачи, чё. |
+| [28268](../../source/SR_2_HD_Lang_vanilla.txt#L28268) | `Talk.Female.Attack.PlayerItsYourTranc` | Текст для сверки | Слушай, если тебе нравится ломать своих собственных роботов - без проблем. Главное, меня в эти дела не впутывай. |
+| [28269](../../source/SR_2_HD_Lang_vanilla.txt#L28269) | `Talk.Female.Attack.PlayerOffersAttack` | Текст для сверки | Предлагаю совместное нападение |
+| [28270](../../source/SR_2_HD_Lang_vanilla.txt#L28270) | `Talk.Female.Attack.PlayerOffersAttack1` | Текст для сверки | Как насчет совместного нападения? |
+| [28271](../../source/SR_2_HD_Lang_vanilla.txt#L28271) | `Talk.Female.Attack.PlayerOffersAttack2` | Текст для сверки | Поможешь мне в битве с одним типом? |
+| [28272](../../source/SR_2_HD_Lang_vanilla.txt#L28272) | `Talk.Female.Attack.PlayerOffersAttack3` | Текст для сверки | Давай вместе сразимся кое с кем? |
+| [28273](../../source/SR_2_HD_Lang_vanilla.txt#L28273) | `Talk.Female.Attack.PlayerOffersAttack4` | Текст для сверки | Примешь участие в совместной атаке? |
+| [28274](../../source/SR_2_HD_Lang_vanilla.txt#L28274) | `Talk.Female.Attack.PlayerOk` | Текст для сверки | Согласен. Берем его в кольцо и атакуем. |
+| [28275](../../source/SR_2_HD_Lang_vanilla.txt#L28275) | `Talk.Female.Attack.PlayerOk1` | Текст для сверки | Отлично, сделаем его! Я захожу с тыла, а ты атакуй в лоб. |
+| [28276](../../source/SR_2_HD_Lang_vanilla.txt#L28276) | `Talk.Female.Attack.PlayerOk2` | Текст для сверки | Заметано! Атакуй его, я скоро присоединюсь. |
+| [28277](../../source/SR_2_HD_Lang_vanilla.txt#L28277) | `Talk.Female.Attack.PlayerOk3` | Текст для сверки | А что, мне нравится эта идея. Уже лечу! |
+| [28278](../../source/SR_2_HD_Lang_vanilla.txt#L28278) | `Talk.Female.Attack.PlayerOk4` | Текст для сверки | О'кей, мне он тоже не нравится. Я согласен тебе помочь. Компьютер, орудия к бою! |
+| [28279](../../source/SR_2_HD_Lang_vanilla.txt#L28279) | `Talk.Female.Attack.PlayerSend` | Текст для сверки | Предлагаю организовать атаку на &lt;Target&gt;. |
+| [28280](../../source/SR_2_HD_Lang_vanilla.txt#L28280) | `Talk.Female.Attack.PlayerSend1` | Текст для сверки | Как насчет совместной атаки на &lt;Target&gt;? |
+| [28281](../../source/SR_2_HD_Lang_vanilla.txt#L28281) | `Talk.Female.Attack.PlayerSend2` | Текст для сверки | Я атакую &lt;Target&gt;. Присоединяйся, если есть желание кого-нибудь прикончить. |
+| [28282](../../source/SR_2_HD_Lang_vanilla.txt#L28282) | `Talk.Female.Attack.PlayerSend3` | Текст для сверки | Не поможешь мне в битве с &lt;Target&gt;? |
+| [28283](../../source/SR_2_HD_Lang_vanilla.txt#L28283) | `Talk.Female.Attack.PlayerSend4` | Текст для сверки | Хочешь принять участие в битве с &lt;Target&gt;? Присоединяйся, пока я его не добил окончательно! |
+| [28284](../../source/SR_2_HD_Lang_vanilla.txt#L28284) | `Talk.Female.Attack.PlayerWeFriends` | Текст для сверки | Я не собираюсь атаковывать дружественный по отношению ко мне корабль. |
+| [28285](../../source/SR_2_HD_Lang_vanilla.txt#L28285) | `Talk.Female.Attack.PlayerWeFriends1` | Текст для сверки | Я не открою огонь по своим. |
+| [28286](../../source/SR_2_HD_Lang_vanilla.txt#L28286) | `Talk.Female.Attack.PlayerWeFriends2` | Текст для сверки | Ты что, мы же с ним друзья! Лучше отстань от него, иначе будешь иметь дело со мной. |
+| [28287](../../source/SR_2_HD_Lang_vanilla.txt#L28287) | `Talk.Female.Attack.PlayerWeFriends3` | Текст для сверки | По-твоему, я похож на предателя? Капитан этого корабля - мой друг! Я не собираюсь сражаться с ним. |
+| [28288](../../source/SR_2_HD_Lang_vanilla.txt#L28288) | `Talk.Female.Attack.PlayerWeFriends4` | Текст для сверки | Ты обращаешься не по адресу. Я не стану тебе помогать, потому что капитан этого корабля - мой хороший знакомый. И тебе не советую на него наезжать! |
+| [28289](../../source/SR_2_HD_Lang_vanilla.txt#L28289) | `Talk.Female.Attack.PlayerWeFriendsTranc` | Текст для сверки | Атаковать чужого робота? Нет уж, увольте. |
+| [28290](../../source/SR_2_HD_Lang_vanilla.txt#L28290) | `Talk.Female.Attack.PlayerWeFriendsTranc1` | Текст для сверки | Ввязываться в бессмысленный бой с чужой вещью я не намерен. |
+| [28291](../../source/SR_2_HD_Lang_vanilla.txt#L28291) | `Talk.Female.Attack.PlayerWeFriendsTranc2` | Текст для сверки | А я, вообще-то, люблю транклюкаторов, и без причины делать им больно не хочу. |
+| [28292](../../source/SR_2_HD_Lang_vanilla.txt#L28292) | `Talk.Female.Attack.RangerFear` | Сопоставлено с лангом | Хочешь получить посмертно пеленгскую награду "Камикадзе"? Я вот не хочу, так что я пас.<br>Сопоставленные записи: [Пеленги → Политика](../lore/PELENGS.md#политика). |
+| [28293](../../source/SR_2_HD_Lang_vanilla.txt#L28293) | `Talk.Female.Attack.RangerFear1` | Текст для сверки | Ну знаешь ли, я еще хочу выйти замуж, нарожать детишек и развести цветник возле дома. Скорая смерть в мои планы не входит. Лети ищи другую дуру, а лучше - дурака. Их, по крайней мере, больше. |
+| [28294](../../source/SR_2_HD_Lang_vanilla.txt#L28294) | `Talk.Female.Attack.RangerFear2` | Текст для сверки | Это заведомо провальная операция. Ты либо идиот, либо герой, если намерен сражаться. Лично меня даже пробовать не тянет. |
+| [28295](../../source/SR_2_HD_Lang_vanilla.txt#L28295) | `Talk.Female.Attack.RangerFear3` | Текст для сверки | Во-первых я не заинтересована в этом сражении, а во-вторых он слишком крутой. Мой кораблик не протянет против него и десяти минут. |
+| [28296](../../source/SR_2_HD_Lang_vanilla.txt#L28296) | `Talk.Female.Attack.RangerFear4` | Текст для сверки | Извини, я пока не хочу умереть молодой. Ищи себе других союзников. |
+| [28297](../../source/SR_2_HD_Lang_vanilla.txt#L28297) | `Talk.Female.Attack.RangerHaveBusiness` | Текст для сверки | Я сейчас очень занята, мне некогда даже рассматривать твое предложение. |
+| [28298](../../source/SR_2_HD_Lang_vanilla.txt#L28298) | `Talk.Female.Attack.RangerHaveBusiness1` | Текст для сверки | Я крайне занята, прошу простить мой отказ. |
+| [28299](../../source/SR_2_HD_Lang_vanilla.txt#L28299) | `Talk.Female.Attack.RangerHaveBusiness2` | Текст для сверки | Извини, у меня сейчас совсем другие планы. Может, как-нибудь в другой раз? |
+| [28300](../../source/SR_2_HD_Lang_vanilla.txt#L28300) | `Talk.Female.Attack.RangerHaveBusiness3` | Текст для сверки | Хм, я бы тебе помогла, но уж очень занята сейчас. Так что на меня можешь не рассчитывать. |
+| [28301](../../source/SR_2_HD_Lang_vanilla.txt#L28301) | `Talk.Female.Attack.RangerHaveBusiness4` | Текст для сверки | К сожалению, я сейчас занята, и ничем тебе помочь не могу. |
+| [28302](../../source/SR_2_HD_Lang_vanilla.txt#L28302) | `Talk.Female.Attack.RangerItsMyTranc` | Текст для сверки | А может тебе ещё вина красного, да Махпеллу рыжую? А ну-ка быстро отвалил от моего транклюкатора, не то в следующий раз с тобой заговорят мои пушки! |
+| [28303](../../source/SR_2_HD_Lang_vanilla.txt#L28303) | `Talk.Female.Attack.RangerItsYourTranc` | Текст для сверки | Ты, &lt;Player&gt;, видно больной? А на вид вроде кажешься здоровым...<br>В общем, разбирайся со своими транклюкаторами сам, я в этом цирке участвовать не буду. |
+| [28304](../../source/SR_2_HD_Lang_vanilla.txt#L28304) | `Talk.Female.Attack.RangerOk` | Текст для сверки | Отлично, сделаем его! Я захожу с тыла, а ты атакуй в лоб. |
+| [28305](../../source/SR_2_HD_Lang_vanilla.txt#L28305) | `Talk.Female.Attack.RangerOk1` | Текст для сверки | Заметано! Атакуй его, я скоро присоединюсь. |
+| [28306](../../source/SR_2_HD_Lang_vanilla.txt#L28306) | `Talk.Female.Attack.RangerOk2` | Текст для сверки | А что, мне нравится эта идея. Уже лечу! |
+| [28307](../../source/SR_2_HD_Lang_vanilla.txt#L28307) | `Talk.Female.Attack.RangerSend` | Текст для сверки | Предлагаю организовать атаку на &lt;Target&gt;. Нужно наконец-то устранить этого вредителя. |
+| [28308](../../source/SR_2_HD_Lang_vanilla.txt#L28308) | `Talk.Female.Attack.RangerSend1` | Текст для сверки | Как насчет совместной атаки на &lt;Target&gt;? Он тут посягает на святыни моего народа и все такое... |
+| [28309](../../source/SR_2_HD_Lang_vanilla.txt#L28309) | `Talk.Female.Attack.RangerSend2` | Текст для сверки | Не поможешь мне в битве с &lt;Target&gt;? |
+| [28310](../../source/SR_2_HD_Lang_vanilla.txt#L28310) | `Talk.Female.Attack.RangerSend3` | Текст для сверки | Хочешь принять участие в битве с &lt;Target&gt;? Присоединяйся, пока он еще коптит космическое пространство! |
+| [28311](../../source/SR_2_HD_Lang_vanilla.txt#L28311) | `Talk.Female.Attack.RangerSuspect` | Текст для сверки | Ты знаешь, я вовсе не уверена, что могу повернуться к тебе спиной. Как-то от этого предложения душком попахивает. |
+| [28312](../../source/SR_2_HD_Lang_vanilla.txt#L28312) | `Talk.Female.Attack.RangerSuspect1` | Текст для сверки | А где гарантии, что я могу тебе доверять? Нет уж, на меня в этом деле не рассчитывай. |
+| [28313](../../source/SR_2_HD_Lang_vanilla.txt#L28313) | `Talk.Female.Attack.RangerSuspect2` | Текст для сверки | Идея сама по себе неплоха, но я тебе не доверяю. |
+| [28314](../../source/SR_2_HD_Lang_vanilla.txt#L28314) | `Talk.Female.Attack.RangerSuspect3` | Текст для сверки | А сам что, не справишься? Эх, ну и хлипкие же парни пошли, если просят девушек помочь в драке... |
+| [28315](../../source/SR_2_HD_Lang_vanilla.txt#L28315) | `Talk.Female.Attack.RangerSuspect4` | Текст для сверки | Извини, ничем не могу помочь. Я сражаюсь плечом к плечу только с теми, кому действительно доверяю. |
+| [28316](../../source/SR_2_HD_Lang_vanilla.txt#L28316) | `Talk.Female.Attack.RangerWeFriends` | Текст для сверки | Я не собираюсь атаковывать дружественный по отношению ко мне корабль. |
+| [28317](../../source/SR_2_HD_Lang_vanilla.txt#L28317) | `Talk.Female.Attack.RangerWeFriends1` | Текст для сверки | Я не открою огонь по своим. Ищи себе других сообщников. |
+| [28318](../../source/SR_2_HD_Lang_vanilla.txt#L28318) | `Talk.Female.Attack.RangerWeFriends2` | Текст для сверки | Ты что, он же классный! Лучше отстань от него, иначе будешь иметь дело со мной. |
+| [28319](../../source/SR_2_HD_Lang_vanilla.txt#L28319) | `Talk.Female.Attack.RangerWeFriends3` | Текст для сверки | Капитан этого корабля - мой друг! Я не собираюсь сражаться с ним и тебе не советую. |
+| [28320](../../source/SR_2_HD_Lang_vanilla.txt#L28320) | `Talk.Female.Attack.RangerWeFriendsTranc` | Текст для сверки | Да чем тебе вообще мог навредить этот невинный робот? Мой ответ - категорическое нет. |
+| [28321](../../source/SR_2_HD_Lang_vanilla.txt#L28321) | `Talk.Female.Attack.RangerWeFriendsTranc1` | Текст для сверки | Ну уж нет, чужую собственность я портить не намерена! Если у тебя какие-то проблемы с хозяином этого транклюкатора - так и скажи. |
+| [28322](../../source/SR_2_HD_Lang_vanilla.txt#L28322) | `Talk.Female.Attack.RangerWeFriendsTranc2` | Текст для сверки | Была у меня как-то в детстве заводная игрушка робота, и этот транклюкатор её очень сильно напоминает. Извини, не хочу омрачать детские воспоминания. |
+| [28323](../../source/SR_2_HD_Lang_vanilla.txt#L28323) | `Talk.Female.Attack.WeAlreadyHavePact` | Текст для сверки | С чего это вдруг? &lt;Target&gt; мне ничего плохого не сделал. |
+| [28324](../../source/SR_2_HD_Lang_vanilla.txt#L28324) | `Talk.Female.Attack.WeAlreadyHavePact1` | Текст для сверки | Нет, спасибо, я не какой-то там беспринципный пират, чтобы нападать на дружественные мне корабли. Так что &lt;Target&gt; я трогать не буду. |
+| [28325](../../source/SR_2_HD_Lang_vanilla.txt#L28325) | `Talk.Female.Attack.WeAlreadyHavePact2` | Текст для сверки | У нас с &lt;Target&gt; мирное соглашение, так что ничего не получится. Ищи себе других помощников. |
+| [28326](../../source/SR_2_HD_Lang_vanilla.txt#L28326) | `Talk.Female.Attack.WeAlreadyHavePact3` | Текст для сверки | Вот еще, мы с &lt;Target&gt; договорились не нападать друг на друга. И скажи спасибо, что я тебя самого не атаковала за такое предложение. |
+| [28327](../../source/SR_2_HD_Lang_vanilla.txt#L28327) | `Talk.Female.Attack.WeAlreadyHavePact4` | Текст для сверки | Напасть на &lt;Target&gt;? Нет, я не могу на это пойти. У нас с ним мирное соглашение. |
 | [28329](../../source/SR_2_HD_Lang_vanilla.txt#L28329) | `Talk.Female.Cancel` | Реплика | Короткая реакция или команда. Самостоятельный факт не выделен. |
-| [28331](../../source/SR_2_HD_Lang_vanilla.txt#L28331) | `Talk.Female.Count.0Day` | Требует контекста | Фрагмент: «дней» |
-| [28332](../../source/SR_2_HD_Lang_vanilla.txt#L28332) | `Talk.Female.Count.0Unit` | Требует контекста | Фрагмент: «единиц» |
-| [28333](../../source/SR_2_HD_Lang_vanilla.txt#L28333) | `Talk.Female.Count.1Day` | Требует контекста | Фрагмент: «день» |
-| [28334](../../source/SR_2_HD_Lang_vanilla.txt#L28334) | `Talk.Female.Count.1Unit` | Требует контекста | Фрагмент: «единица» |
-| [28335](../../source/SR_2_HD_Lang_vanilla.txt#L28335) | `Talk.Female.Count.2Day` | Требует контекста | Фрагмент: «дня» |
-| [28336](../../source/SR_2_HD_Lang_vanilla.txt#L28336) | `Talk.Female.Count.2Unit` | Требует контекста | Фрагмент: «единицы» |
-| [28339](../../source/SR_2_HD_Lang_vanilla.txt#L28339) | `Talk.Female.DropGoodsInFear.Drop` | Требует контекста | Фрагмент: «&lt;FullShipBad&gt;!» |
-| [28340](../../source/SR_2_HD_Lang_vanilla.txt#L28340) | `Talk.Female.DropGoodsInFear.Drop1#1` | Требует контекста | Фрагмент: «Эй! &lt;FullShipBad&gt;!» |
-| [28341](../../source/SR_2_HD_Lang_vanilla.txt#L28341) | `Talk.Female.DropGoodsInFear.Drop1#2` | Требует контекста | Фрагмент: «Прекрати меня преследовать.» |
-| [28342](../../source/SR_2_HD_Lang_vanilla.txt#L28342) | `Talk.Female.DropGoodsInFear.Drop2#1` | Требует контекста | Фрагмент: «Всем кораблям в системе &lt;Star&gt;!» |
-| [28343](../../source/SR_2_HD_Lang_vanilla.txt#L28343) | `Talk.Female.DropGoodsInFear.Drop2#2` | Требует контекста | Фрагмент: «Я избавляюсь от части груза в пользу аморального злодея &lt;ShipBad&gt;, который меня нагло и беспринципно преследует.» |
-| [28345](../../source/SR_2_HD_Lang_vanilla.txt#L28345) | `Talk.Female.Exit` | Требует контекста | Фрагмент: «Конец связи» |
-| [28347](../../source/SR_2_HD_Lang_vanilla.txt#L28347) | `Talk.Female.Goods.AnswerNotGoods` | Требует контекста | Фрагмент: «Протри очки, чувак.» |
-| [28348](../../source/SR_2_HD_Lang_vanilla.txt#L28348) | `Talk.Female.Goods.AnswerNotGoods1` | Требует контекста | Фрагмент: «Груз, говоришь?» |
-| [28349](../../source/SR_2_HD_Lang_vanilla.txt#L28349) | `Talk.Female.Goods.AnswerNotGoods2` | Требует контекста | Фрагмент: «Вынуждена разочаровать, но никакого ненужного груза у меня на борту нет, а если бы и был, я бы десять раз подумала, прежде чем отдавать его такому, как ты.» |
-| [28350](../../source/SR_2_HD_Lang_vanilla.txt#L28350) | `Talk.Female.Goods.AnswerNotGoods3` | Требует контекста | Фрагмент: «Ну насмешил!» |
-| [28351](../../source/SR_2_HD_Lang_vanilla.txt#L28351) | `Talk.Female.Goods.PlayerLongDistance` | Требует контекста | Фрагмент: «Что-что?» |
-| [28352](../../source/SR_2_HD_Lang_vanilla.txt#L28352) | `Talk.Female.Goods.PlayerLongDistance1` | Требует контекста | Фрагмент: «Мне кажется, что даже если ты и сильней, то уж точно не быстрей меня.» |
-| [28353](../../source/SR_2_HD_Lang_vanilla.txt#L28353) | `Talk.Female.Goods.PlayerLongDistance2` | Требует контекста | Фрагмент: «Я с идиотками не разговариваю без крайней нужды.» |
-| [28354](../../source/SR_2_HD_Lang_vanilla.txt#L28354) | `Talk.Female.Goods.PlayerLongDistance3` | Требует контекста | Фрагмент: «Круто, круто.» |
-| [28355](../../source/SR_2_HD_Lang_vanilla.txt#L28355) | `Talk.Female.Goods.PlayerLongDistance4` | Требует контекста | Фрагмент: «Подкрадись поближе, пожалуйста, а то очень хочется подбить твое ржавое корыто парой выстрелов, но лень так далеко лететь.» |
-| [28356](../../source/SR_2_HD_Lang_vanilla.txt#L28356) | `Talk.Female.Goods.PlayerNo` | Требует контекста | Фрагмент: «Я сегодня в плохом настроении.» |
-| [28357](../../source/SR_2_HD_Lang_vanilla.txt#L28357) | `Talk.Female.Goods.PlayerNo1` | Требует контекста | Фрагмент: «Вот те на!» |
-| [28358](../../source/SR_2_HD_Lang_vanilla.txt#L28358) | `Talk.Female.Goods.PlayerNo2` | Требует контекста | Фрагмент: «А ты шутить любишь, я смотрю.» |
-| [28359](../../source/SR_2_HD_Lang_vanilla.txt#L28359) | `Talk.Female.Goods.PlayerNo3` | Требует контекста | Фрагмент: «Я не замараю честь рейнджера позорной капитуляцией без боя.» |
-| [28360](../../source/SR_2_HD_Lang_vanilla.txt#L28360) | `Talk.Female.Goods.PlayerNotGoods` | Требует контекста | Фрагмент: «Возможно, эти требования справедливы.» |
-| [28361](../../source/SR_2_HD_Lang_vanilla.txt#L28361) | `Talk.Female.Goods.PlayerNotGoods1` | Требует контекста | Фрагмент: «Я только что разгрузился, иду совсем пустой.» |
-| [28362](../../source/SR_2_HD_Lang_vanilla.txt#L28362) | `Talk.Female.Goods.PlayerNotGoods2` | Требует контекста | Фрагмент: «Я ничего не могу вам предложить, кроме кильки в томатном соусе.» |
-| [28363](../../source/SR_2_HD_Lang_vanilla.txt#L28363) | `Talk.Female.Goods.PlayerNotGoods3` | Требует контекста | Фрагмент: «Вынужден разочаровать, но никакого груза у меня на борту нет.» |
-| [28364](../../source/SR_2_HD_Lang_vanilla.txt#L28364) | `Talk.Female.Goods.PlayerNotGoods4` | Требует контекста | Фрагмент: «Ну насмешила!» |
-| [28365](../../source/SR_2_HD_Lang_vanilla.txt#L28365) | `Talk.Female.Goods.PlayerOk` | Требует контекста | Фрагмент: «Я согласен отдать часть груза, только не стреляй.» |
-| [28366](../../source/SR_2_HD_Lang_vanilla.txt#L28366) | `Talk.Female.Goods.PlayerOk1` | Требует контекста | Фрагмент: «Хорошо-хорошо, я отдам часть груза.» |
-| [28367](../../source/SR_2_HD_Lang_vanilla.txt#L28367) | `Talk.Female.Goods.PlayerOk2` | Требует контекста | Фрагмент: «Ладно, так и быть, подавись этим грузом.» |
-| [28368](../../source/SR_2_HD_Lang_vanilla.txt#L28368) | `Talk.Female.Goods.PlayerOk3` | Требует контекста | Фрагмент: «Вот прицепилась на мою голову!» |
-| [28369](../../source/SR_2_HD_Lang_vanilla.txt#L28369) | `Talk.Female.Goods.PlayerSend` | Требует контекста | Фрагмент: «Это ограбление, девочка!» |
-| [28370](../../source/SR_2_HD_Lang_vanilla.txt#L28370) | `Talk.Female.Goods.PlayerSend1` | Требует контекста | Фрагмент: «Вытряхивай груз из трюма, если хочешь жить!» |
-| [28371](../../source/SR_2_HD_Lang_vanilla.txt#L28371) | `Talk.Female.Goods.PlayerSend2` | Требует контекста | Фрагмент: «Выбрось груз, а то отнимут.» |
-| [28372](../../source/SR_2_HD_Lang_vanilla.txt#L28372) | `Talk.Female.Goods.PlayerSend3` | Требует контекста | Фрагмент: «Дяде нужен твой груз, отдай его по-хорошему, пока он не рассердился» |
-| [28373](../../source/SR_2_HD_Lang_vanilla.txt#L28373) | `Talk.Female.Goods.PlayerSend4` | Требует контекста | Фрагмент: «Поделись грузом, красавица, или я разнесу твое корыто» |
-| [28374](../../source/SR_2_HD_Lang_vanilla.txt#L28374) | `Talk.Female.Goods.RangerLongDistance` | Требует контекста | Фрагмент: «Что-что?» |
-| [28375](../../source/SR_2_HD_Lang_vanilla.txt#L28375) | `Talk.Female.Goods.RangerLongDistance1` | Требует контекста | Фрагмент: «Мне кажется, что даже если ты и сильней, то уж точно не быстрей меня.» |
-| [28376](../../source/SR_2_HD_Lang_vanilla.txt#L28376) | `Talk.Female.Goods.RangerLongDistance2` | Требует контекста | Фрагмент: «Я с идиотами не разговариваю без крайней нужды.» |
-| [28377](../../source/SR_2_HD_Lang_vanilla.txt#L28377) | `Talk.Female.Goods.RangerLongDistance3` | Требует контекста | Фрагмент: «Твоя уверенность в своих силах просто поражает.» |
-| [28378](../../source/SR_2_HD_Lang_vanilla.txt#L28378) | `Talk.Female.Goods.RangerLongDistance4` | Требует контекста | Фрагмент: «Подлети поближе, пожалуйста, а то очень хочется подбить твое ржавое корыто парой выстрелов, но лень далеко лететь, ради такой ерунды.» |
-| [28379](../../source/SR_2_HD_Lang_vanilla.txt#L28379) | `Talk.Female.Goods.RangerNo` | Требует контекста | Фрагмент: «Ну вот еще, не собираюсь я ничего тебе сбрасывать.» |
-| [28380](../../source/SR_2_HD_Lang_vanilla.txt#L28380) | `Talk.Female.Goods.RangerNo1` | Требует контекста | Фрагмент: «Ты извини, конечно, но если я девушка - это еще не значит, что меня можно безнаказанно грабить, так что грабли прочь, извини уж, за каламбур.» |
-| [28381](../../source/SR_2_HD_Lang_vanilla.txt#L28381) | `Talk.Female.Goods.RangerNo2` | Требует контекста | Фрагмент: «Скинуть груз?» |
-| [28382](../../source/SR_2_HD_Lang_vanilla.txt#L28382) | `Talk.Female.Goods.RangerNo3` | Требует контекста | Фрагмент: «Парниша, если у меня симпатичная мордашка - это еще не значит, что душа моя полна доброты.» |
-| [28383](../../source/SR_2_HD_Lang_vanilla.txt#L28383) | `Talk.Female.Goods.RangerNo4` | Требует контекста | Фрагмент: «Единственный для тебя способ получить мой груз - это взорвать мой корабль, но я постараюсь этого не допустить, как ты сам понимаешь.» |
-| [28384](../../source/SR_2_HD_Lang_vanilla.txt#L28384) | `Talk.Female.Goods.RangerOk` | Требует контекста | Фрагмент: «Хорошо-хорошо, я отдам часть груза.» |
-| [28385](../../source/SR_2_HD_Lang_vanilla.txt#L28385) | `Talk.Female.Goods.RangerOk1` | Требует контекста | Фрагмент: «Ладно, так и быть, подавись этим грузом.» |
-| [28386](../../source/SR_2_HD_Lang_vanilla.txt#L28386) | `Talk.Female.Goods.Send` | Ожидает проверки | Фрагмент: «Спецслужба Коалиции!» |
-| [28387](../../source/SR_2_HD_Lang_vanilla.txt#L28387) | `Talk.Female.Goods.Send1` | Кандидат | Фрагмент: «Это дело особой важности, оно касается будущего всей Коалиции!» |
-| [28388](../../source/SR_2_HD_Lang_vanilla.txt#L28388) | `Talk.Female.Goods.Send2` | Ожидает проверки | Фрагмент: «Официальное заявление о возмещении ущерба можешь оставить в правительственном офисе любой планеты Коалиции.» |
-| [28389](../../source/SR_2_HD_Lang_vanilla.txt#L28389) | `Talk.Female.Goods.WeAlreadyHavePact` | Требует контекста | Фрагмент: «Эй, мы же уже заключили мирное соглашение!» |
-| [28390](../../source/SR_2_HD_Lang_vanilla.txt#L28390) | `Talk.Female.Goods.WeAlreadyHavePact1` | Требует контекста | Фрагмент: «Ты чего снова лезешь, у нас ведь с тобой мирное соглашение?!» |
-| [28393](../../source/SR_2_HD_Lang_vanilla.txt#L28393) | `Talk.Female.Money.AnswerNotMoney` | Требует контекста | Фрагмент: «Извините, я хочу заплатить, но в данный момент не располагаю требуемой суммой.» |
-| [28394](../../source/SR_2_HD_Lang_vanilla.txt#L28394) | `Talk.Female.Money.AnswerNotMoney1` | Требует контекста | Фрагмент: «К сожалению, у меня не хватает денег.» |
-| [28395](../../source/SR_2_HD_Lang_vanilla.txt#L28395) | `Talk.Female.Money.AnswerNotMoney2` | Требует контекста | Фрагмент: «Откуда у меня такие деньги?» |
-| [28396](../../source/SR_2_HD_Lang_vanilla.txt#L28396) | `Talk.Female.Money.AnswerNotMoney3` | Требует контекста | Фрагмент: «Я бы с радостью заплатила, да только вот денег у меня нет.» |
-| [28397](../../source/SR_2_HD_Lang_vanilla.txt#L28397) | `Talk.Female.Money.AnswerNotMoney4` | Требует контекста | Фрагмент: «Да где ж мне такие деньги взять?» |
-| [28398](../../source/SR_2_HD_Lang_vanilla.txt#L28398) | `Talk.Female.Money.AnswerNotMoney5` | Требует контекста | Фрагмент: «Ну, может, я бы и дала их тебе, да только нету у меня таких денег.» |
-| [28399](../../source/SR_2_HD_Lang_vanilla.txt#L28399) | `Talk.Female.Money.AnswerNotMoney6` | Требует контекста | Фрагмент: «У меня при себе нет таких денег.» |
-| [28400](../../source/SR_2_HD_Lang_vanilla.txt#L28400) | `Talk.Female.Money.AnswerNotMoney7` | Требует контекста | Фрагмент: «Ох, я и рада бы поделиться, но для меня это большие деньги, так что вынуждена отказаться.» |
-| [28401](../../source/SR_2_HD_Lang_vanilla.txt#L28401) | `Talk.Female.Money.AnswerNotMoney8` | Требует контекста | Фрагмент: «Я не располагаю требуемой суммой.» |
-| [28402](../../source/SR_2_HD_Lang_vanilla.txt#L28402) | `Talk.Female.Money.ComputerAsk` | Требует контекста | Фрагмент: «И сколько тебе надо?» |
-| [28403](../../source/SR_2_HD_Lang_vanilla.txt#L28403) | `Talk.Female.Money.ComputerAsk1` | Требует контекста | Фрагмент: «И сколько тебе надо, вымогатель несчастный?» |
-| [28404](../../source/SR_2_HD_Lang_vanilla.txt#L28404) | `Talk.Female.Money.PlayerLess` | Требует контекста | Фрагмент: «Меньше» |
-| [28405](../../source/SR_2_HD_Lang_vanilla.txt#L28405) | `Talk.Female.Money.PlayerLongDistance` | Требует контекста | Фрагмент: «Ты вообще попробуй меня догнать сначала, а потом приставай с подобными заявлениями и угрозами!» |
-| [28406](../../source/SR_2_HD_Lang_vanilla.txt#L28406) | `Talk.Female.Money.PlayerLongDistance1` | Требует контекста | Фрагмент: «Ты меня вообще-то догони сначала, а уж потом предъявляй претензии!» |
-| [28407](../../source/SR_2_HD_Lang_vanilla.txt#L28407) | `Talk.Female.Money.PlayerLongDistance2` | Требует контекста | Фрагмент: «Подлети-ка сначала поближе, тогда и выясним, кому принадлежат мои деньги...» |
-| [28408](../../source/SR_2_HD_Lang_vanilla.txt#L28408) | `Talk.Female.Money.PlayerLongDistance3` | Требует контекста | Фрагмент: «Дружок, твои пушки до меня сейчас не могут дотянуться, я слишком далеко!» |
-| [28409](../../source/SR_2_HD_Lang_vanilla.txt#L28409) | `Talk.Female.Money.PlayerLongDistance4` | Требует контекста | Фрагмент: «Ты действительно думаешь, что сможешь меня догнать и заставить отдать тебе деньги?..» |
-| [28410](../../source/SR_2_HD_Lang_vanilla.txt#L28410) | `Talk.Female.Money.PlayerLongDistance5` | Требует контекста | Фрагмент: «Тебе не повезло, я не из пугливых, особенно когда меня пытаются запугать с такого расстояния, ха-ха!..» |
-| [28411](../../source/SR_2_HD_Lang_vanilla.txt#L28411) | `Talk.Female.Money.PlayerLongDistance6` | Требует контекста | Фрагмент: «Не думаю, что ты сможешь меня догнать - слишком уж мы сейчас далеко друг от друга.» |
-| [28412](../../source/SR_2_HD_Lang_vanilla.txt#L28412) | `Talk.Female.Money.PlayerLongDistance7` | Требует контекста | Фрагмент: «Мне почему-то совсем не страшно...» |
-| [28413](../../source/SR_2_HD_Lang_vanilla.txt#L28413) | `Talk.Female.Money.PlayerMore` | Требует контекста | Фрагмент: «Больше» |
-| [28414](../../source/SR_2_HD_Lang_vanilla.txt#L28414) | `Talk.Female.Money.PlayerNo` | Требует контекста | Фрагмент: «Я никому не плачу денег, и моя честь выше любых притязаний.» |
-| [28415](../../source/SR_2_HD_Lang_vanilla.txt#L28415) | `Talk.Female.Money.PlayerNo1` | Требует контекста | Фрагмент: «Буду считать это неудачной шуткой.» |
-| [28416](../../source/SR_2_HD_Lang_vanilla.txt#L28416) | `Talk.Female.Money.PlayerNo2` | Требует контекста | Фрагмент: «Денег моих требуешь?» |
-| [28417](../../source/SR_2_HD_Lang_vanilla.txt#L28417) | `Talk.Female.Money.PlayerNo3` | Требует контекста | Фрагмент: «Иди поиграй в песочек, малыш, тебе не тягаться с таким крутым рейнджером, как я!» |
-| [28418](../../source/SR_2_HD_Lang_vanilla.txt#L28418) | `Talk.Female.Money.PlayerNo4` | Требует контекста | Фрагмент: «Умоляю, пощади меня, о свирепый охотник за чужим добром!» |
-| [28419](../../source/SR_2_HD_Lang_vanilla.txt#L28419) | `Talk.Female.Money.PlayerNo5` | Требует контекста | Фрагмент: «Хочешь денег?» |
-| [28420](../../source/SR_2_HD_Lang_vanilla.txt#L28420) | `Talk.Female.Money.PlayerNo6` | Требует контекста | Фрагмент: «Я воспринимаю подобную просьбу как личное оскорбление, которое можно искупить только кровью.» |
-| [28421](../../source/SR_2_HD_Lang_vanilla.txt#L28421) | `Talk.Female.Money.PlayerNotMoney` | Требует контекста | Фрагмент: «Извините, я хочу заплатить, но в данный момент не располагаю требуемой суммой.» |
-| [28422](../../source/SR_2_HD_Lang_vanilla.txt#L28422) | `Talk.Female.Money.PlayerNotMoney1` | Требует контекста | Фрагмент: «К сожалению, у меня не хватает денег.» |
-| [28423](../../source/SR_2_HD_Lang_vanilla.txt#L28423) | `Talk.Female.Money.PlayerNotMoney2` | Требует контекста | Фрагмент: «Откуда у меня такие деньги?» |
-| [28424](../../source/SR_2_HD_Lang_vanilla.txt#L28424) | `Talk.Female.Money.PlayerNotMoney3` | Требует контекста | Фрагмент: «Я бы с радостью заплатил, да только вот денег у меня нет.» |
-| [28425](../../source/SR_2_HD_Lang_vanilla.txt#L28425) | `Talk.Female.Money.PlayerNotMoney4` | Требует контекста | Фрагмент: «Да где ж мне такие деньги взять?» |
-| [28426](../../source/SR_2_HD_Lang_vanilla.txt#L28426) | `Talk.Female.Money.PlayerNotMoney5` | Требует контекста | Фрагмент: «Ну, может, я бы и заплатил тебе, да только нету у меня таких денег.» |
-| [28427](../../source/SR_2_HD_Lang_vanilla.txt#L28427) | `Talk.Female.Money.PlayerNotMoney6` | Требует контекста | Фрагмент: «У меня при себе нет таких денег.» |
-| [28428](../../source/SR_2_HD_Lang_vanilla.txt#L28428) | `Talk.Female.Money.PlayerNotMoney7` | Требует контекста | Фрагмент: «Сожалею, но у меня нет таких денег.» |
-| [28429](../../source/SR_2_HD_Lang_vanilla.txt#L28429) | `Talk.Female.Money.PlayerNotMoney8` | Требует контекста | Фрагмент: «Ох, я и рад бы заплатить, но такой кучи бабок у меня нет.» |
-| [28430](../../source/SR_2_HD_Lang_vanilla.txt#L28430) | `Talk.Female.Money.PlayerNotMoney9` | Требует контекста | Фрагмент: «Я не располагаю требуемой суммой.» |
-| [28431](../../source/SR_2_HD_Lang_vanilla.txt#L28431) | `Talk.Female.Money.PlayerOk` | Требует контекста | Фрагмент: «Ладно, я согласен выполнить твои требования.» |
-| [28432](../../source/SR_2_HD_Lang_vanilla.txt#L28432) | `Talk.Female.Money.PlayerOk1` | Требует контекста | Фрагмент: «Забирай свои деньги, вымогательница, только отстань от меня.» |
-| [28433](../../source/SR_2_HD_Lang_vanilla.txt#L28433) | `Talk.Female.Money.PlayerOk2` | Требует контекста | Фрагмент: «Ладно, девка, так уж и быть, бери деньги и уматывай, пока я не передумал и не отобрал их обратно!» |
-| [28434](../../source/SR_2_HD_Lang_vanilla.txt#L28434) | `Talk.Female.Money.PlayerOk3` | Требует контекста | Фрагмент: «Ну, вот твои грязные деньги, довольна?» |
-| [28435](../../source/SR_2_HD_Lang_vanilla.txt#L28435) | `Talk.Female.Money.PlayerOk4` | Требует контекста | Фрагмент: «Ну хорошо, хорошо, вот твои деньги, надеюсь, теперь ты отцепишься от меня?» |
-| [28436](../../source/SR_2_HD_Lang_vanilla.txt#L28436) | `Talk.Female.Money.PlayerOk5` | Требует контекста | Фрагмент: «Ну ты и мерзавка!» |
-| [28437](../../source/SR_2_HD_Lang_vanilla.txt#L28437) | `Talk.Female.Money.PlayerOk6` | Требует контекста | Фрагмент: «Ну, что ж, вот твои деньги, только не слишком радуйся!» |
-| [28438](../../source/SR_2_HD_Lang_vanilla.txt#L28438) | `Talk.Female.Money.PlayerSend` | Требует контекста | Фрагмент: «Мне нужны деньги, и ты мне их дашь» |
-| [28439](../../source/SR_2_HD_Lang_vanilla.txt#L28439) | `Talk.Female.Money.PlayerSend1` | Требует контекста | Фрагмент: «Гони деньги, красотка» |
-| [28440](../../source/SR_2_HD_Lang_vanilla.txt#L28440) | `Talk.Female.Money.PlayerSend2` | Требует контекста | Фрагмент: «Кошелек или жизнь!» |
-| [28441](../../source/SR_2_HD_Lang_vanilla.txt#L28441) | `Talk.Female.Money.PlayerSend3` | Требует контекста | Фрагмент: «Поделись-ка со мной своими сбережениями» |
-| [28442](../../source/SR_2_HD_Lang_vanilla.txt#L28442) | `Talk.Female.Money.PlayerSend4` | Требует контекста | Фрагмент: «Ты должна заплатить мне за проезд» |
-| [28443](../../source/SR_2_HD_Lang_vanilla.txt#L28443) | `Talk.Female.Money.PlayerSend5` | Требует контекста | Фрагмент: «Дай денег, а то пожалеешь» |
-| [28444](../../source/SR_2_HD_Lang_vanilla.txt#L28444) | `Talk.Female.Money.PlayerSend6` | Требует контекста | Фрагмент: «Выворачивай карманы, это ограбление!» |
-| [28445](../../source/SR_2_HD_Lang_vanilla.txt#L28445) | `Talk.Female.Money.PlayerSendSum` | Требует контекста | Фрагмент: «Сумма в &lt;Money&gt; cr меня бы устроила» |
-| [28446](../../source/SR_2_HD_Lang_vanilla.txt#L28446) | `Talk.Female.Money.PlayerSendSum1` | Требует контекста | Фрагмент: «Думаю, твоя жизнь стоит ровно &lt;Money&gt; cr» |
-| [28447](../../source/SR_2_HD_Lang_vanilla.txt#L28447) | `Talk.Female.Money.PlayerSendSum2` | Требует контекста | Фрагмент: «Дай &lt;Money&gt; cr и можешь лететь дальше» |
-| [28448](../../source/SR_2_HD_Lang_vanilla.txt#L28448) | `Talk.Female.Money.PlayerSendSum3` | Требует контекста | Фрагмент: «Мне немного надо - всего &lt;Money&gt; cr» |
-| [28449](../../source/SR_2_HD_Lang_vanilla.txt#L28449) | `Talk.Female.Money.RangerLongDistance` | Требует контекста | Фрагмент: «Ты вообще попробуй меня догнать сначала, а потом приставай с подобными заявлениями и угрозами!» |
-| [28450](../../source/SR_2_HD_Lang_vanilla.txt#L28450) | `Talk.Female.Money.RangerLongDistance1` | Требует контекста | Фрагмент: «Ты меня вообще-то догони сначала, а уж потом предъявляй претензии!» |
-| [28451](../../source/SR_2_HD_Lang_vanilla.txt#L28451) | `Talk.Female.Money.RangerLongDistance2` | Требует контекста | Фрагмент: «Подлети-ка сначала поближе, парень, тогда и выясним, кому принадлежат мои деньги...» |
-| [28452](../../source/SR_2_HD_Lang_vanilla.txt#L28452) | `Talk.Female.Money.RangerLongDistance3` | Требует контекста | Фрагмент: «Дружок, твои пушки до меня сейчас не могут дотянуться, я слишком далеко!» |
-| [28453](../../source/SR_2_HD_Lang_vanilla.txt#L28453) | `Talk.Female.Money.RangerLongDistance4` | Требует контекста | Фрагмент: «Ты действительно думаешь, что сможешь меня догнать и заставить отдать тебе деньги?..» |
-| [28454](../../source/SR_2_HD_Lang_vanilla.txt#L28454) | `Talk.Female.Money.RangerLongDistance5` | Требует контекста | Фрагмент: «Ну, знаешь!..» |
-| [28455](../../source/SR_2_HD_Lang_vanilla.txt#L28455) | `Talk.Female.Money.RangerLongDistance6` | Требует контекста | Фрагмент: «Тебе не повезло, я не из пугливых, особенно когда меня пытаются запугать с такого расстояния!» |
-| [28456](../../source/SR_2_HD_Lang_vanilla.txt#L28456) | `Talk.Female.Money.RangerLongDistance7` | Требует контекста | Фрагмент: «Не думаю, что ты сможешь меня догнать - слишком уж мы сейчас далеко друг от друга.» |
-| [28457](../../source/SR_2_HD_Lang_vanilla.txt#L28457) | `Talk.Female.Money.RangerLongDistance8` | Требует контекста | Фрагмент: «Мне почему-то совсем не страшно...» |
-| [28458](../../source/SR_2_HD_Lang_vanilla.txt#L28458) | `Talk.Female.Money.RangerNo` | Требует контекста | Фрагмент: «Я никому не плачу денег, и моя честь выше любых притязаний.» |
-| [28459](../../source/SR_2_HD_Lang_vanilla.txt#L28459) | `Talk.Female.Money.RangerNo1` | Требует контекста | Фрагмент: «Буду считать это неудачной шуткой, парень.» |
-| [28460](../../source/SR_2_HD_Lang_vanilla.txt#L28460) | `Talk.Female.Money.RangerNo2` | Требует контекста | Фрагмент: «Грабишь слабую девушку, джентльмен?» |
-| [28461](../../source/SR_2_HD_Lang_vanilla.txt#L28461) | `Talk.Female.Money.RangerNo3` | Требует контекста | Фрагмент: «Денег моих требуешь?» |
-| [28462](../../source/SR_2_HD_Lang_vanilla.txt#L28462) | `Talk.Female.Money.RangerNo4` | Требует контекста | Фрагмент: «Иди поиграй в песочек, малыш, тебе не тягаться с такой крутой девушкой, как я!» |
-| [28463](../../source/SR_2_HD_Lang_vanilla.txt#L28463) | `Talk.Female.Money.RangerNo5` | Требует контекста | Фрагмент: «Умоляю, пощади меня, о свирепый охотник за чужим добром!» |
-| [28464](../../source/SR_2_HD_Lang_vanilla.txt#L28464) | `Talk.Female.Money.RangerNo6` | Требует контекста | Фрагмент: «Ты думаешь, раз я девушка, то не могу за себя постоять?» |
-| [28465](../../source/SR_2_HD_Lang_vanilla.txt#L28465) | `Talk.Female.Money.RangerOk` | Требует контекста | Фрагмент: «Ну хорошо, хорошо, вот твои деньги, надеюсь, теперь ты отцепишься от меня?» |
-| [28466](../../source/SR_2_HD_Lang_vanilla.txt#L28466) | `Talk.Female.Money.RangerSumIsVeryBig` | Требует контекста | Фрагмент: «Я признаю, что ты крут, но для меня это слишком большие деньги.» |
-| [28467](../../source/SR_2_HD_Lang_vanilla.txt#L28467) | `Talk.Female.Money.RangerSumIsVeryBig1` | Требует контекста | Фрагмент: «Да я, в принципе, не против заплатить, но больно уж много ты просишь.» |
-| [28468](../../source/SR_2_HD_Lang_vanilla.txt#L28468) | `Talk.Female.Money.RangerSumIsVeryBig2` | Требует контекста | Фрагмент: «Не стыдно грабить девушку?» |
-| [28469](../../source/SR_2_HD_Lang_vanilla.txt#L28469) | `Talk.Female.Money.RangerSumIsVeryBig3` | Требует контекста | Фрагмент: «Тебя, наверное, во время боя контузило, иначе откуда такая наглость?» |
-| [28470](../../source/SR_2_HD_Lang_vanilla.txt#L28470) | `Talk.Female.Money.RangerSumIsVeryBig4` | Требует контекста | Фрагмент: «Плохо дело.» |
-| [28471](../../source/SR_2_HD_Lang_vanilla.txt#L28471) | `Talk.Female.Money.Send` | Требует контекста | Фрагмент: «Мне довольно неудобно это говорить, но положение критическое, так что одолжи мне &lt;Money&gt; cr.» |
-| [28472](../../source/SR_2_HD_Lang_vanilla.txt#L28472) | `Talk.Female.Money.Send1` | Требует контекста | Фрагмент: «Приятель, подкинь мне &lt;Money&gt; cr Мне очень нужно, поверь, дело серьезноe.» |
-| [28473](../../source/SR_2_HD_Lang_vanilla.txt#L28473) | `Talk.Female.Money.Send2` | Ожидает проверки | Фрагмент: «Поверь, я не для развлечения спрашиваю, судьба Коалиции на весах...» |
-| [28474](../../source/SR_2_HD_Lang_vanilla.txt#L28474) | `Talk.Female.Money.WeAlreadyHavePact` | Требует контекста | Фрагмент: «Братишка, у тебя серьезные проблемы с головой.» |
-| [28475](../../source/SR_2_HD_Lang_vanilla.txt#L28475) | `Talk.Female.Money.WeAlreadyHavePact1` | Требует контекста | Фрагмент: «Если мне не изменяет память, я уже слышала когда-то от тебя похожие слова.» |
-| [28478](../../source/SR_2_HD_Lang_vanilla.txt#L28478) | `Talk.Female.Partner.AlreadyHavePartner` | Требует контекста | Фрагмент: «Извини, но мой партнер рейнджер &lt;Partner&gt;.» |
-| [28479](../../source/SR_2_HD_Lang_vanilla.txt#L28479) | `Talk.Female.Partner.AlreadyHavePartner1` | Требует контекста | Фрагмент: «Ты опоздал, приятель, меня уже нанял рейнджер &lt;Partner&gt;.» |
-| [28480](../../source/SR_2_HD_Lang_vanilla.txt#L28480) | `Talk.Female.Partner.AnswerLiderBreak` | Кандидат | Фрагмент: «Я заплатил тебе, а ты нарушила наш договор.» |
-| [28481](../../source/SR_2_HD_Lang_vanilla.txt#L28481) | `Talk.Female.Partner.AnswerLiderRiot` | Требует контекста | Фрагмент: «Да ты здесь особо и не нужна.» |
-| [28482](../../source/SR_2_HD_Lang_vanilla.txt#L28482) | `Talk.Female.Partner.AnswerLiderRiot1` | Требует контекста | Фрагмент: «От вас, девушек, одни проблемы!» |
-| [28483](../../source/SR_2_HD_Lang_vanilla.txt#L28483) | `Talk.Female.Partner.AnswerLiderTheEnd` | Требует контекста | Фрагмент: «Эх, жаль, ты не раз меня выручала в трудную минуту.» |
-| [28484](../../source/SR_2_HD_Lang_vanilla.txt#L28484) | `Talk.Female.Partner.AnswerLiderTheEnd1` | Требует контекста | Фрагмент: «Да, жаль терять такую лихую красотку, как ты.» |
-| [28485](../../source/SR_2_HD_Lang_vanilla.txt#L28485) | `Talk.Female.Partner.AnswerLiderTheEndLowLeadership` | Требует контекста | Фрагмент: «Ну и дела.» |
-| [28486](../../source/SR_2_HD_Lang_vanilla.txt#L28486) | `Talk.Female.Partner.AnswerLiderTheEndLowLeadership1` | Требует контекста | Фрагмент: «Могла бы и доработать контракт... ну да ладно, удачи тебе на просторах космоса.» |
-| [28487](../../source/SR_2_HD_Lang_vanilla.txt#L28487) | `Talk.Female.Partner.ComputerAgreeFlyToMe` | Требует контекста | Фрагмент: «Оки-доки, босс!» |
-| [28488](../../source/SR_2_HD_Lang_vanilla.txt#L28488) | `Talk.Female.Partner.ComputerAgreeFlyToStar#1` | Требует контекста | Фрагмент: «Так точно, босс.» |
-| [28489](../../source/SR_2_HD_Lang_vanilla.txt#L28489) | `Talk.Female.Partner.ComputerAgreeFlyToStar#2` | Требует контекста | Фрагмент: «Только ты предупреждай заранее, если наши планы изменятся.» |
-| [28490](../../source/SR_2_HD_Lang_vanilla.txt#L28490) | `Talk.Female.Partner.ComputerAgreeLandingToObject#1` | Требует контекста | Фрагмент: «Слушаюсь и повинуюсь, хи-хи!» |
-| [28491](../../source/SR_2_HD_Lang_vanilla.txt#L28491) | `Talk.Female.Partner.ComputerAgreeLandingToObject#2` | Требует контекста | Фрагмент: «Курс проложен, все системы работают нормально.» |
-| [28492](../../source/SR_2_HD_Lang_vanilla.txt#L28492) | `Talk.Female.Partner.ComputerDismissBad` | Требует контекста | Фрагмент: «Что?!» |
-| [28493](../../source/SR_2_HD_Lang_vanilla.txt#L28493) | `Talk.Female.Partner.ComputerDismissGood` | Требует контекста | Фрагмент: «Ну, ладно, &lt;Player&gt;, удачи тебе.» |
-| [28494](../../source/SR_2_HD_Lang_vanilla.txt#L28494) | `Talk.Female.Partner.ComputerDismissNo` | Требует контекста | Фрагмент: «Ну и шуточки у тебя, &lt;Player&gt;.» |
-| [28495](../../source/SR_2_HD_Lang_vanilla.txt#L28495) | `Talk.Female.Partner.ComputerDismissQuestion` | Требует контекста | Фрагмент: «В чем дело, &lt;Player&gt;?» |
-| [28496](../../source/SR_2_HD_Lang_vanilla.txt#L28496) | `Talk.Female.Partner.ComputerDropCargoNo` | Требует контекста | Фрагмент: «Да нет у меня ничего лишнего в трюме.» |
-| [28497](../../source/SR_2_HD_Lang_vanilla.txt#L28497) | `Talk.Female.Partner.ComputerDropCargoNo1` | Требует контекста | Фрагмент: «Босс!» |
-| [28498](../../source/SR_2_HD_Lang_vanilla.txt#L28498) | `Talk.Female.Partner.ComputerDropCargoOk` | Требует контекста | Фрагмент: «Я, конечно, обязана подчиняться, и выкину груз, но имей в виду, что это больше похоже на грабеж, чем на партнерские отношения.» |
-| [28499](../../source/SR_2_HD_Lang_vanilla.txt#L28499) | `Talk.Female.Partner.ComputerDropCargoOk1` | Требует контекста | Фрагмент: «Ну ты и нахал, &lt;Player&gt;.» |
-| [28500](../../source/SR_2_HD_Lang_vanilla.txt#L28500) | `Talk.Female.Partner.ComputerDropCargoOk2` | Требует контекста | Фрагмент: «Хорошо, сейчас выкину груз.» |
-| [28501](../../source/SR_2_HD_Lang_vanilla.txt#L28501) | `Talk.Female.Partner.ComputerInFear` | Требует контекста | Фрагмент: «Эм, прости, но мне сейчас не до работы.» |
-| [28502](../../source/SR_2_HD_Lang_vanilla.txt#L28502) | `Talk.Female.Partner.ComputerInFear1` | Требует контекста | Фрагмент: «Да ты смеешься что ли?!» |
-| [28503](../../source/SR_2_HD_Lang_vanilla.txt#L28503) | `Talk.Female.Partner.ComputerSayNo` | Требует контекста | Фрагмент: «За жалкие &lt;Money&gt; cr я не стану на тебя работать.» |
-| [28504](../../source/SR_2_HD_Lang_vanilla.txt#L28504) | `Talk.Female.Partner.ComputerSayNo1` | Требует контекста | Фрагмент: «Нет, спасибо, я себя не в помойке нашла, чтобы горбатиться на тебя за &lt;Money&gt; cr.» |
-| [28505](../../source/SR_2_HD_Lang_vanilla.txt#L28505) | `Talk.Female.Partner.ComputerSayOk` | Требует контекста | Фрагмент: «За &lt;Money&gt; cr я готова работать на тебя &lt;Month&gt; мес.» |
-| [28506](../../source/SR_2_HD_Lang_vanilla.txt#L28506) | `Talk.Female.Partner.ComputerSayOk1` | Требует контекста | Фрагмент: «Что ж, тебе повезло, что я сейчас ничем не занята.» |
-| [28507](../../source/SR_2_HD_Lang_vanilla.txt#L28507) | `Talk.Female.Partner.ComputerSayOk2` | Требует контекста | Фрагмент: «За &lt;Money&gt; cr и ежедневное лицезрение твоей симпатичной мордашки я могу поработать на тебя &lt;Month&gt; месяцев.» |
-| [28508](../../source/SR_2_HD_Lang_vanilla.txt#L28508) | `Talk.Female.Partner.FinancesCheck` | Требует контекста | Фрагмент: «Как твое финансовое положение?» |
-| [28509](../../source/SR_2_HD_Lang_vanilla.txt#L28509) | `Talk.Female.Partner.FinancesConfirmed` | Требует контекста | Фрагмент: «Ясно» |
-| [28510](../../source/SR_2_HD_Lang_vanilla.txt#L28510) | `Talk.Female.Partner.FinancesGotGift` | Требует контекста | Фрагмент: «Спасибо, теперь на моем счету &lt;Money&gt; cr.» |
-| [28511](../../source/SR_2_HD_Lang_vanilla.txt#L28511) | `Talk.Female.Partner.FinancesOfferGift` | Требует контекста | Фрагмент: «Дать денег напарнику» |
-| [28512](../../source/SR_2_HD_Lang_vanilla.txt#L28512) | `Talk.Female.Partner.FinancesReport` | Требует контекста | Фрагмент: «&lt;Player&gt;, у меня на счету &lt;Money&gt; cr.» |
-| [28513](../../source/SR_2_HD_Lang_vanilla.txt#L28513) | `Talk.Female.Partner.FinancesSendGift` | Требует контекста | Фрагмент: «Возьми &lt;Money&gt; cr.» |
-| [28514](../../source/SR_2_HD_Lang_vanilla.txt#L28514) | `Talk.Female.Partner.FinancesWaitForGift` | Требует контекста | Фрагмент: «Итак, &lt;Player&gt;, сколько ты готов мне подкинуть?» |
-| [28515](../../source/SR_2_HD_Lang_vanilla.txt#L28515) | `Talk.Female.Partner.FlyToMe` | Требует контекста | Фрагмент: «Хватит марафет наводить, лети за мной, дело есть» |
-| [28516](../../source/SR_2_HD_Lang_vanilla.txt#L28516) | `Talk.Female.Partner.FlyToMe1` | Требует контекста | Фрагмент: «Лети скорее за мной, деньги будем зарабатывать» |
-| [28517](../../source/SR_2_HD_Lang_vanilla.txt#L28517) | `Talk.Female.Partner.FlyToStar` | Требует контекста | Фрагмент: «Совершаем гиперпрыжок в систему &lt;Star&gt;» |
-| [28518](../../source/SR_2_HD_Lang_vanilla.txt#L28518) | `Talk.Female.Partner.ILeader` | Ожидает проверки | Фрагмент: «Я кошка, которая гуляет сама по себе.» |
-| [28519](../../source/SR_2_HD_Lang_vanilla.txt#L28519) | `Talk.Female.Partner.ILeader1` | Требует контекста | Фрагмент: «Меня никто не нанимает, это я сама нанимаю других!» |
-| [28520](../../source/SR_2_HD_Lang_vanilla.txt#L28520) | `Talk.Female.Partner.IsOrderForAll` | Требует контекста | Фрагмент: «Это приказ по группе или лично мне?» |
-| [28521](../../source/SR_2_HD_Lang_vanilla.txt#L28521) | `Talk.Female.Partner.LandingToObject` | Требует контекста | Фрагмент: «Совершаем посадку на &lt;ObjectName&gt;» |
-| [28522](../../source/SR_2_HD_Lang_vanilla.txt#L28522) | `Talk.Female.Partner.MateBreak` | Требует контекста | Фрагмент: «Я была твоим партнером, но ты постоянно совершаешь действия, противоречащие моим принципам.» |
-| [28523](../../source/SR_2_HD_Lang_vanilla.txt#L28523) | `Talk.Female.Partner.MateBreak1` | Требует контекста | Фрагмент: «Мне совсем не нравится быть твоим партнером.» |
-| [28524](../../source/SR_2_HD_Lang_vanilla.txt#L28524) | `Talk.Female.Partner.MateRiot` | Требует контекста | Фрагмент: «Всё, с меня хватит!» |
-| [28525](../../source/SR_2_HD_Lang_vanilla.txt#L28525) | `Talk.Female.Partner.MateTheEnd` | Требует контекста | Фрагмент: «Слушай, срок нашего контракта закончился, и теперь я вольна делать все, что захочу.» |
-| [28526](../../source/SR_2_HD_Lang_vanilla.txt#L28526) | `Talk.Female.Partner.MateTheEnd1` | Требует контекста | Фрагмент: «Имей в виду, срок моего контракта подошел к концу.» |
-| [28527](../../source/SR_2_HD_Lang_vanilla.txt#L28527) | `Talk.Female.Partner.MateTheEndLowLeadership` | Требует контекста | Фрагмент: «Эй, &lt;Player&gt;, что это с твоими навыками лидерства?» |
-| [28528](../../source/SR_2_HD_Lang_vanilla.txt#L28528) | `Talk.Female.Partner.MateTheEndLowLeadership1` | Требует контекста | Фрагмент: «У меня для тебя две новости, &lt;Player&gt;, хорошая и плохая.» |
-| [28529](../../source/SR_2_HD_Lang_vanilla.txt#L28529) | `Talk.Female.Partner.NeedLeadership#1` | Требует контекста | Фрагмент: «Ты не похож на лидера, &lt;Ranger&gt;.» |
-| [28530](../../source/SR_2_HD_Lang_vanilla.txt#L28530) | `Talk.Female.Partner.NeedLeadership#2` | Требует контекста | Фрагмент: «Советую развить в себе навык лидерства, а то пока тебе просто бессмысленно заниматься поиском партнеров.» |
-| [28531](../../source/SR_2_HD_Lang_vanilla.txt#L28531) | `Talk.Female.Partner.NeedLeadership1` | Требует контекста | Фрагмент: «Нет-нет, я буду работать только с крутыми парнями, имена которых гремят на всю галактику.» |
-| [28532](../../source/SR_2_HD_Lang_vanilla.txt#L28532) | `Talk.Female.Partner.Ok#1` | Требует контекста | Фрагмент: «О'кей, я буду служить тебе &lt;Month&gt; мес.» |
-| [28533](../../source/SR_2_HD_Lang_vanilla.txt#L28533) | `Talk.Female.Partner.Ok#2` | Требует контекста | Фрагмент: «Только свистни, и мои крутые стволы в твоем распоряжении, &lt;Ranger&gt;.» |
-| [28534](../../source/SR_2_HD_Lang_vanilla.txt#L28534) | `Talk.Female.Partner.Ok1#1` | Требует контекста | Фрагмент: «По рукам.» |
-| [28535](../../source/SR_2_HD_Lang_vanilla.txt#L28535) | `Talk.Female.Partner.Ok1#2` | Требует контекста | Фрагмент: «Я буду душой и телом с тобой, &lt;Ranger&gt;, в минуты горя и радости, пока смерть не разлучит нас.» |
-| [28536](../../source/SR_2_HD_Lang_vanilla.txt#L28536) | `Talk.Female.Partner.OrderForAll` | Требует контекста | Фрагмент: «Это приказ всем!» |
-| [28537](../../source/SR_2_HD_Lang_vanilla.txt#L28537) | `Talk.Female.Partner.OrderForYou` | Требует контекста | Фрагмент: «Тебе, персонально.» |
-| [28538](../../source/SR_2_HD_Lang_vanilla.txt#L28538) | `Talk.Female.Partner.PlayerDismissBad` | Требует контекста | Фрагмент: «Надоела ты мне своими выходками, видеть тебя не могу.» |
-| [28539](../../source/SR_2_HD_Lang_vanilla.txt#L28539) | `Talk.Female.Partner.PlayerDismissGood` | Требует контекста | Фрагмент: «Ты отлично работала на меня, но теперь тебе оставаться со мной будет опасно.» |
-| [28540](../../source/SR_2_HD_Lang_vanilla.txt#L28540) | `Talk.Female.Partner.PlayerDismissNo` | Требует контекста | Фрагмент: «Ха-ха!» |
-| [28541](../../source/SR_2_HD_Lang_vanilla.txt#L28541) | `Talk.Female.Partner.PlayerDismissSend` | Требует контекста | Фрагмент: «Пора нам с тобой расстаться» |
-| [28542](../../source/SR_2_HD_Lang_vanilla.txt#L28542) | `Talk.Female.Partner.PlayerLess` | Требует контекста | Фрагмент: «Установить сумму в 2 раза меньше» |
-| [28543](../../source/SR_2_HD_Lang_vanilla.txt#L28543) | `Talk.Female.Partner.PlayerMore` | Требует контекста | Фрагмент: «Удвоить сумму» |
-| [28544](../../source/SR_2_HD_Lang_vanilla.txt#L28544) | `Talk.Female.Partner.PlayerOk` | Кандидат | Фрагмент: «Договорились» |
-| [28545](../../source/SR_2_HD_Lang_vanilla.txt#L28545) | `Talk.Female.Partner.PlayerSend` | Требует контекста | Фрагмент: «Иди под мое командование, &lt;Ranger&gt;» |
-| [28546](../../source/SR_2_HD_Lang_vanilla.txt#L28546) | `Talk.Female.Partner.PlayerSend1` | Требует контекста | Фрагмент: «Выходи за меня... ой, в смысле, иди под мое командование, &lt;Ranger&gt;!» |
-| [28547](../../source/SR_2_HD_Lang_vanilla.txt#L28547) | `Talk.Female.Partner.PlayerSend2` | Требует контекста | Фрагмент: «&lt;Ranger&gt;, не желаешь поработать под началом великого рейнджера, меня?» |
-| [28548](../../source/SR_2_HD_Lang_vanilla.txt#L28548) | `Talk.Female.Partner.PlayerSendDropCargo` | Требует контекста | Фрагмент: «Мы летим налегке.» |
-| [28549](../../source/SR_2_HD_Lang_vanilla.txt#L28549) | `Talk.Female.Partner.PlayerSendDropCargo1` | Требует контекста | Фрагмент: «Подруга, давай выкидывай лишний груз.» |
-| [28550](../../source/SR_2_HD_Lang_vanilla.txt#L28550) | `Talk.Female.Partner.Send` | Требует контекста | Фрагмент: «Я готова выложить &lt;Money&gt; cr за то, чтобы ты стал моим партнером» |
-| [28551](../../source/SR_2_HD_Lang_vanilla.txt#L28551) | `Talk.Female.Partner.Send1` | Требует контекста | Фрагмент: «Плачу &lt;Money&gt; cr, и ты идешь на меня работать» |
-| [28552](../../source/SR_2_HD_Lang_vanilla.txt#L28552) | `Talk.Female.Partner.SmallMoney` | Требует контекста | Фрагмент: «Я отказываюсь.» |
-| [28553](../../source/SR_2_HD_Lang_vanilla.txt#L28553) | `Talk.Female.Partner.SmallMoney1` | Требует контекста | Фрагмент: «Что?» |
-| [28554](../../source/SR_2_HD_Lang_vanilla.txt#L28554) | `Talk.Female.Partner.SmallMoney2` | Требует контекста | Фрагмент: «Нет, я не буду работать за такие гроши!» |
-| [28555](../../source/SR_2_HD_Lang_vanilla.txt#L28555) | `Talk.Female.Partner.Suspect` | Требует контекста | Фрагмент: «Я тебе не настолько доверяю, чтобы рассматривать предложение о партнерстве.» |
-| [28556](../../source/SR_2_HD_Lang_vanilla.txt#L28556) | `Talk.Female.Partner.Suspect1` | Требует контекста | Фрагмент: «Ты слишком подозрительный тип.» |
-| [28557](../../source/SR_2_HD_Lang_vanilla.txt#L28557) | `Talk.Female.Partner.Suspect2` | Требует контекста | Фрагмент: «У тебя физиономия, как у серийного убийцы и имя такое же.» |
-| [28558](../../source/SR_2_HD_Lang_vanilla.txt#L28558) | `Talk.Female.Partner.YouNeedInMoreRank` | Требует контекста | Фрагмент: «Ты смеешься, &lt;Ranger&gt;?» |
-| [28560](../../source/SR_2_HD_Lang_vanilla.txt#L28560) | `Talk.Female.PlanetSay#1` | Требует контекста | Фрагмент: «Планета» |
-| [28563](../../source/SR_2_HD_Lang_vanilla.txt#L28563) | `Talk.Female.PreserveItems.ComputerNotFearAndWar` | Требует контекста | Фрагмент: «Лучше заткнись, &lt;Player&gt;.» |
-| [28564](../../source/SR_2_HD_Lang_vanilla.txt#L28564) | `Talk.Female.PreserveItems.ComputerNotFearAndWar1` | Требует контекста | Фрагмент: «Лети отсюда, пока цел, &lt;Player&gt;.» |
-| [28565](../../source/SR_2_HD_Lang_vanilla.txt#L28565) | `Talk.Female.PreserveItems.ComputerNotFearAndWar2` | Требует контекста | Фрагмент: «Не суй нос не в свое дело, &lt;Player&gt;, а не то рискуешь остаться без головы!» |
-| [28566](../../source/SR_2_HD_Lang_vanilla.txt#L28566) | `Talk.Female.PreserveItems.ComputerNotFearAndWar3` | Требует контекста | Фрагмент: «Ты что, думаешь, что ты самый крутой тут?» |
-| [28567](../../source/SR_2_HD_Lang_vanilla.txt#L28567) | `Talk.Female.PreserveItems.ComputerNotFearAndWar4` | Требует контекста | Фрагмент: «Ха, полагаешь, я тебя испугаюсь?» |
-| [28568](../../source/SR_2_HD_Lang_vanilla.txt#L28568) | `Talk.Female.PreserveItems.PlayerSend` | Требует контекста | Фрагмент: «Даже не думай атаковать ошметки, они мои!» |
-| [28569](../../source/SR_2_HD_Lang_vanilla.txt#L28569) | `Talk.Female.PreserveItems.PlayerSend1` | Требует контекста | Фрагмент: «Не стоит отстреливать хлам, слышишь!» |
-| [28570](../../source/SR_2_HD_Lang_vanilla.txt#L28570) | `Talk.Female.PreserveItems.PlayerSend2` | Требует контекста | Фрагмент: «Отстань от этих ошметков, иначе будешь иметь дело со мной!» |
+| [28331](../../source/SR_2_HD_Lang_vanilla.txt#L28331) | `Talk.Female.Count.0Day` | Текст для сверки | дней |
+| [28332](../../source/SR_2_HD_Lang_vanilla.txt#L28332) | `Talk.Female.Count.0Unit` | Текст для сверки | единиц |
+| [28333](../../source/SR_2_HD_Lang_vanilla.txt#L28333) | `Talk.Female.Count.1Day` | Текст для сверки | день |
+| [28334](../../source/SR_2_HD_Lang_vanilla.txt#L28334) | `Talk.Female.Count.1Unit` | Текст для сверки | единица |
+| [28335](../../source/SR_2_HD_Lang_vanilla.txt#L28335) | `Talk.Female.Count.2Day` | Текст для сверки | дня |
+| [28336](../../source/SR_2_HD_Lang_vanilla.txt#L28336) | `Talk.Female.Count.2Unit` | Текст для сверки | единицы |
+| [28339](../../source/SR_2_HD_Lang_vanilla.txt#L28339) | `Talk.Female.DropGoodsInFear.Drop` | Текст для сверки | &lt;FullShipBad&gt;! Я согласна расстаться с частью своего груза. После этого убедительно прошу оставить меня в покое. |
+| [28340](../../source/SR_2_HD_Lang_vanilla.txt#L28340) | `Talk.Female.DropGoodsInFear.Drop1#1` | Текст для сверки | Эй! &lt;FullShipBad&gt;! Ты меня слышишь? Я готова выкинуть груз!!! |
+| [28341](../../source/SR_2_HD_Lang_vanilla.txt#L28341) | `Talk.Female.DropGoodsInFear.Drop1#2` | Текст для сверки | Прекрати меня преследовать. |
+| [28342](../../source/SR_2_HD_Lang_vanilla.txt#L28342) | `Talk.Female.DropGoodsInFear.Drop2#1` | Текст для сверки | Всем кораблям в системе &lt;Star&gt;! Прошу обратить ваше внимание на мой жест доброй воли. |
+| [28343](../../source/SR_2_HD_Lang_vanilla.txt#L28343) | `Talk.Female.DropGoodsInFear.Drop2#2` | Текст для сверки | Я избавляюсь от части груза в пользу аморального злодея &lt;ShipBad&gt;, который меня нагло и беспринципно преследует. |
+| [28345](../../source/SR_2_HD_Lang_vanilla.txt#L28345) | `Talk.Female.Exit` | Текст для сверки | Конец связи |
+| [28347](../../source/SR_2_HD_Lang_vanilla.txt#L28347) | `Talk.Female.Goods.AnswerNotGoods` | Текст для сверки | Протри очки, чувак. Я что, похожа на торгаша? Лети своей дорогой и не путайся под ногами... |
+| [28348](../../source/SR_2_HD_Lang_vanilla.txt#L28348) | `Talk.Female.Goods.AnswerNotGoods1` | Текст для сверки | Груз, говоришь? Погоди, сейчас гляну в трюме... Хм... Нет, к сожалению ничего не могу тебе предложить, кроме пожелания проваливать к лешему. |
+| [28349](../../source/SR_2_HD_Lang_vanilla.txt#L28349) | `Talk.Female.Goods.AnswerNotGoods2` | Текст для сверки | Вынуждена разочаровать, но никакого ненужного груза у меня на борту нет, а если бы и был, я бы десять раз подумала, прежде чем отдавать его такому, как ты. |
+| [28350](../../source/SR_2_HD_Lang_vanilla.txt#L28350) | `Talk.Female.Goods.AnswerNotGoods3` | Текст для сверки | Ну насмешил! Нет у меня груза, ясно? Трюм пуст. Можешь даже карманы моего комбинезона проверить, все равно ничего не найдешь! |
+| [28351](../../source/SR_2_HD_Lang_vanilla.txt#L28351) | `Talk.Female.Goods.PlayerLongDistance` | Текст для сверки | Что-что? Я плохо слышу, помехи в эфире... Подлети поближе, тогда и поговорим. |
+| [28352](../../source/SR_2_HD_Lang_vanilla.txt#L28352) | `Talk.Female.Goods.PlayerLongDistance1` | Текст для сверки | Мне кажется, что даже если ты и сильней, то уж точно не быстрей меня. Ты попробуй догнать меня для начала, а потом уж приставай с подобными заявлениями и угрозами! |
+| [28353](../../source/SR_2_HD_Lang_vanilla.txt#L28353) | `Talk.Female.Goods.PlayerLongDistance2` | Текст для сверки | Я с идиотками не разговариваю без крайней нужды. А как иначе назвать гуманоида, который еще не догнал меня, а уже требует груз? |
+| [28354](../../source/SR_2_HD_Lang_vanilla.txt#L28354) | `Talk.Female.Goods.PlayerLongDistance3` | Текст для сверки | Круто, круто. Твоя уверенность в своих силах просто поражает. Ты не допускаешь и тени мысли, что не сможешь меня догнать. А я вот допускаю, ха-ха! Поэтому, пожалуй, все-таки рискну не выполнить твое требование... |
+| [28355](../../source/SR_2_HD_Lang_vanilla.txt#L28355) | `Talk.Female.Goods.PlayerLongDistance4` | Текст для сверки | Подкрадись поближе, пожалуйста, а то очень хочется подбить твое ржавое корыто парой выстрелов, но лень так далеко лететь. |
+| [28356](../../source/SR_2_HD_Lang_vanilla.txt#L28356) | `Talk.Female.Goods.PlayerNo` | Текст для сверки | Я сегодня в плохом настроении. Не советую раздражать меня своими притязаниями. Груз мой, и точка! Ты лучше уймись, пока я не разозлился. |
+| [28357](../../source/SR_2_HD_Lang_vanilla.txt#L28357) | `Talk.Female.Goods.PlayerNo1` | Текст для сверки | Вот те на! Какие-то недоношенные претендуют на мой груз! Ты лучше уймись, пока я не показал тебе, где клисаны зимуют... Да ты, наверное, и не знаешь, кто такие клисаны. |
+| [28358](../../source/SR_2_HD_Lang_vanilla.txt#L28358) | `Talk.Female.Goods.PlayerNo2` | Текст для сверки | А ты шутить любишь, я смотрю. Груза моего хочешь? Лучше улетай отсюда, пока твой корабль еще цел. Так и быть, на первый раз я тебя прощаю. |
+| [28359](../../source/SR_2_HD_Lang_vanilla.txt#L28359) | `Talk.Female.Goods.PlayerNo3` | Текст для сверки | Я не замараю честь рейнджера позорной капитуляцией без боя. Попробуй отнять у меня груз, если он тебе так нужен! |
+| [28360](../../source/SR_2_HD_Lang_vanilla.txt#L28360) | `Talk.Female.Goods.PlayerNotGoods` | Текст для сверки | Возможно, эти требования справедливы. Но у меня на борту нет груза. |
+| [28361](../../source/SR_2_HD_Lang_vanilla.txt#L28361) | `Talk.Female.Goods.PlayerNotGoods1` | Текст для сверки | Я только что разгрузился, иду совсем пустой. Прости меня. В другой раз отдам все, что есть. |
+| [28362](../../source/SR_2_HD_Lang_vanilla.txt#L28362) | `Talk.Female.Goods.PlayerNotGoods2` | Текст для сверки | Я ничего не могу вам предложить, кроме кильки в томатном соусе. Ах да, и кильки тоже не осталось! |
+| [28363](../../source/SR_2_HD_Lang_vanilla.txt#L28363) | `Talk.Female.Goods.PlayerNotGoods3` | Текст для сверки | Вынужден разочаровать, но никакого груза у меня на борту нет. Попроси что-нибудь другое. |
+| [28364](../../source/SR_2_HD_Lang_vanilla.txt#L28364) | `Talk.Female.Goods.PlayerNotGoods4` | Текст для сверки | Ну насмешила! Нет у меня груза, ясно? Трюм пуст. Хоть на кусочки режь, все равно ничего не найдешь! |
+| [28365](../../source/SR_2_HD_Lang_vanilla.txt#L28365) | `Talk.Female.Goods.PlayerOk` | Текст для сверки | Я согласен отдать часть груза, только не стреляй. |
+| [28366](../../source/SR_2_HD_Lang_vanilla.txt#L28366) | `Talk.Female.Goods.PlayerOk1` | Текст для сверки | Хорошо-хорошо, я отдам часть груза. Не люблю ссориться. |
+| [28367](../../source/SR_2_HD_Lang_vanilla.txt#L28367) | `Talk.Female.Goods.PlayerOk2` | Текст для сверки | Ладно, так и быть, подавись этим грузом. Выкидываю. Только, прошу, не надо пальбы, она мне спать мешает. |
+| [28368](../../source/SR_2_HD_Lang_vanilla.txt#L28368) | `Talk.Female.Goods.PlayerOk3` | Текст для сверки | Вот прицепилась на мою голову! Что ж, сейчас выкину груз. Только отвали от меня. Я тебе не муляж для отработки навыков пилотирования. |
+| [28369](../../source/SR_2_HD_Lang_vanilla.txt#L28369) | `Talk.Female.Goods.PlayerSend` | Текст для сверки | Это ограбление, девочка! Жизнь или груз? |
+| [28370](../../source/SR_2_HD_Lang_vanilla.txt#L28370) | `Talk.Female.Goods.PlayerSend1` | Текст для сверки | Вытряхивай груз из трюма, если хочешь жить! |
+| [28371](../../source/SR_2_HD_Lang_vanilla.txt#L28371) | `Talk.Female.Goods.PlayerSend2` | Текст для сверки | Выбрось груз, а то отнимут. Кто? Да я, к примеру! |
+| [28372](../../source/SR_2_HD_Lang_vanilla.txt#L28372) | `Talk.Female.Goods.PlayerSend3` | Текст для сверки | Дяде нужен твой груз, отдай его по-хорошему, пока он не рассердился |
+| [28373](../../source/SR_2_HD_Lang_vanilla.txt#L28373) | `Talk.Female.Goods.PlayerSend4` | Текст для сверки | Поделись грузом, красавица, или я разнесу твое корыто |
+| [28374](../../source/SR_2_HD_Lang_vanilla.txt#L28374) | `Talk.Female.Goods.RangerLongDistance` | Текст для сверки | Что-что? Я плохо слышу, помехи в эфире... Подлети поближе, тогда и поговорим. |
+| [28375](../../source/SR_2_HD_Lang_vanilla.txt#L28375) | `Talk.Female.Goods.RangerLongDistance1` | Текст для сверки | Мне кажется, что даже если ты и сильней, то уж точно не быстрей меня. Ты попробуй догнать меня для начала, а потом приставай с подобными заявлениями и угрозами! |
+| [28376](../../source/SR_2_HD_Lang_vanilla.txt#L28376) | `Talk.Female.Goods.RangerLongDistance2` | Текст для сверки | Я с идиотами не разговариваю без крайней нужды. А как иначе назвать гуманоида, который еще не догнал меня, а уже требует груз? |
+| [28377](../../source/SR_2_HD_Lang_vanilla.txt#L28377) | `Talk.Female.Goods.RangerLongDistance3` | Текст для сверки | Твоя уверенность в своих силах просто поражает. Ты не допускаешь и тени мысли, что не сможешь меня догнать. А я вот допускаю, еще как допускаю. Собственно, пока мы болтаем, я улетаю все дальше и дальше... |
+| [28378](../../source/SR_2_HD_Lang_vanilla.txt#L28378) | `Talk.Female.Goods.RangerLongDistance4` | Текст для сверки | Подлети поближе, пожалуйста, а то очень хочется подбить твое ржавое корыто парой выстрелов, но лень далеко лететь, ради такой ерунды. |
+| [28379](../../source/SR_2_HD_Lang_vanilla.txt#L28379) | `Talk.Female.Goods.RangerNo` | Текст для сверки | Ну вот еще, не собираюсь я ничего тебе сбрасывать. Я тебе не какой-нибудь трусливый дипломат с трясущимися коленками. |
+| [28380](../../source/SR_2_HD_Lang_vanilla.txt#L28380) | `Talk.Female.Goods.RangerNo1` | Текст для сверки | Ты извини, конечно, но если я девушка - это еще не значит, что меня можно безнаказанно грабить, так что грабли прочь, извини уж, за каламбур. |
+| [28381](../../source/SR_2_HD_Lang_vanilla.txt#L28381) | `Talk.Female.Goods.RangerNo2` | Текст для сверки | Скинуть груз? И все? Давай уж я заодно и деньги свои тебе отдам! Что ты заулыбался, это был сарказм. Проваливай, пока я тебя сама не заставила чего-нибудь сбросить. |
+| [28382](../../source/SR_2_HD_Lang_vanilla.txt#L28382) | `Talk.Female.Goods.RangerNo3` | Текст для сверки | Парниша, если у меня симпатичная мордашка - это еще не значит, что душа моя полна доброты. Так что подбери слюни и проваливай, не будет тебе никакого груза. |
+| [28383](../../source/SR_2_HD_Lang_vanilla.txt#L28383) | `Talk.Female.Goods.RangerNo4` | Текст для сверки | Единственный для тебя способ получить мой груз - это взорвать мой корабль, но я постараюсь этого не допустить, как ты сам понимаешь. Так что серьезно подумай сначала, нужен ли тебе вообще этот груз? |
+| [28384](../../source/SR_2_HD_Lang_vanilla.txt#L28384) | `Talk.Female.Goods.RangerOk` | Текст для сверки | Хорошо-хорошо, я отдам часть груза. Не люблю ссориться. |
+| [28385](../../source/SR_2_HD_Lang_vanilla.txt#L28385) | `Talk.Female.Goods.RangerOk1` | Текст для сверки | Ладно, так и быть, подавись этим грузом. Выкидываю. Только, прошу, не надо пальбы, она мне спать мешает. |
+| [28386](../../source/SR_2_HD_Lang_vanilla.txt#L28386) | `Talk.Female.Goods.Send` | Сопоставлено с лангом | Спецслужба Коалиции! Хочешь - верь, хочешь - нет, но я конфискую твой груз.<br>Сопоставленные записи: [Другие и локальное → Организации](../lore/OTHER.md#организации). |
+| [28387](../../source/SR_2_HD_Lang_vanilla.txt#L28387) | `Talk.Female.Goods.Send1` | Текст для сверки | Мне некогда объяснять, но ты должен отдать мне часть своего груза. Это дело особой важности, оно касается будущего всей Коалиции! |
+| [28388](../../source/SR_2_HD_Lang_vanilla.txt#L28388) | `Talk.Female.Goods.Send2` | Сопоставлено с лангом | Эй, приятель, сбрось мне часть своего груза, прямо сейчас. Я работаю под прикрытием, за мной наблюдают. Все должно выглядеть естественно. Официальное заявление о возмещении ущерба можешь оставить в правительственном офисе любой планеты Коалиции.<br>Сопоставленные записи: [Другие и локальное → Организации](../lore/OTHER.md#организации). |
+| [28389](../../source/SR_2_HD_Lang_vanilla.txt#L28389) | `Talk.Female.Goods.WeAlreadyHavePact` | Текст для сверки | Эй, мы же уже заключили мирное соглашение! У тебя что, склероз? |
+| [28390](../../source/SR_2_HD_Lang_vanilla.txt#L28390) | `Talk.Female.Goods.WeAlreadyHavePact1` | Текст для сверки | Ты чего снова лезешь, у нас ведь с тобой мирное соглашение?! |
+| [28393](../../source/SR_2_HD_Lang_vanilla.txt#L28393) | `Talk.Female.Money.AnswerNotMoney` | Текст для сверки | Извините, я хочу заплатить, но в данный момент не располагаю требуемой суммой. |
+| [28394](../../source/SR_2_HD_Lang_vanilla.txt#L28394) | `Talk.Female.Money.AnswerNotMoney1` | Текст для сверки | К сожалению, у меня не хватает денег. Прошу пощады. |
+| [28395](../../source/SR_2_HD_Lang_vanilla.txt#L28395) | `Talk.Female.Money.AnswerNotMoney2` | Текст для сверки | Откуда у меня такие деньги? Пожалей бедную девушку! |
+| [28396](../../source/SR_2_HD_Lang_vanilla.txt#L28396) | `Talk.Female.Money.AnswerNotMoney3` | Текст для сверки | Я бы с радостью заплатила, да только вот денег у меня нет. Жизнь такая! |
+| [28397](../../source/SR_2_HD_Lang_vanilla.txt#L28397) | `Talk.Female.Money.AnswerNotMoney4` | Текст для сверки | Да где ж мне такие деньги взять? Думай, чего говоришь! |
+| [28398](../../source/SR_2_HD_Lang_vanilla.txt#L28398) | `Talk.Female.Money.AnswerNotMoney5` | Текст для сверки | Ну, может, я бы и дала их тебе, да только нету у меня таких денег. |
+| [28399](../../source/SR_2_HD_Lang_vanilla.txt#L28399) | `Talk.Female.Money.AnswerNotMoney6` | Текст для сверки | У меня при себе нет таких денег. Может, отпустишь меня, чтобы я слетала на планету &lt;HomePlanet&gt; и привезла?.. |
+| [28400](../../source/SR_2_HD_Lang_vanilla.txt#L28400) | `Talk.Female.Money.AnswerNotMoney7` | Текст для сверки | Ох, я и рада бы поделиться, но для меня это большие деньги, так что вынуждена отказаться. |
+| [28401](../../source/SR_2_HD_Lang_vanilla.txt#L28401) | `Talk.Female.Money.AnswerNotMoney8` | Текст для сверки | Я не располагаю требуемой суммой. |
+| [28402](../../source/SR_2_HD_Lang_vanilla.txt#L28402) | `Talk.Female.Money.ComputerAsk` | Текст для сверки | И сколько тебе надо? |
+| [28403](../../source/SR_2_HD_Lang_vanilla.txt#L28403) | `Talk.Female.Money.ComputerAsk1` | Текст для сверки | И сколько тебе надо, вымогатель несчастный? |
+| [28404](../../source/SR_2_HD_Lang_vanilla.txt#L28404) | `Talk.Female.Money.PlayerLess` | Текст для сверки | Меньше |
+| [28405](../../source/SR_2_HD_Lang_vanilla.txt#L28405) | `Talk.Female.Money.PlayerLongDistance` | Текст для сверки | Ты вообще попробуй меня догнать сначала, а потом приставай с подобными заявлениями и угрозами! |
+| [28406](../../source/SR_2_HD_Lang_vanilla.txt#L28406) | `Talk.Female.Money.PlayerLongDistance1` | Текст для сверки | Ты меня вообще-то догони сначала, а уж потом предъявляй претензии! Знаешь, какой у меня крутой двигатель? |
+| [28407](../../source/SR_2_HD_Lang_vanilla.txt#L28407) | `Talk.Female.Money.PlayerLongDistance2` | Текст для сверки | Подлети-ка сначала поближе, тогда и выясним, кому принадлежат мои деньги... |
+| [28408](../../source/SR_2_HD_Lang_vanilla.txt#L28408) | `Talk.Female.Money.PlayerLongDistance3` | Текст для сверки | Дружок, твои пушки до меня сейчас не могут дотянуться, я слишком далеко! Подумай, что будет, если я откажусь заплатить?.. Ты погрозишь мне кулаком? Да, это будет действительно страшно... |
+| [28409](../../source/SR_2_HD_Lang_vanilla.txt#L28409) | `Talk.Female.Money.PlayerLongDistance4` | Текст для сверки | Ты действительно думаешь, что сможешь меня догнать и заставить отдать тебе деньги?.. Ну, что ж, попробуй, попробуй... |
+| [28410](../../source/SR_2_HD_Lang_vanilla.txt#L28410) | `Talk.Female.Money.PlayerLongDistance5` | Текст для сверки | Тебе не повезло, я не из пугливых, особенно когда меня пытаются запугать с такого расстояния, ха-ха!.. Так что не будет тебе никаких денег! |
+| [28411](../../source/SR_2_HD_Lang_vanilla.txt#L28411) | `Talk.Female.Money.PlayerLongDistance6` | Текст для сверки | Не думаю, что ты сможешь меня догнать - слишком уж мы сейчас далеко друг от друга. Сама подумай, есть ли тогда для меня вообще смысл платить тебе деньги?.. |
+| [28412](../../source/SR_2_HD_Lang_vanilla.txt#L28412) | `Talk.Female.Money.PlayerLongDistance7` | Текст для сверки | Мне почему-то совсем не страшно... Может быть, потому, что ты так далеко?.. Попробуй-ка сначала меня догнать, нахалка, а уж потом вымогай деньги! |
+| [28413](../../source/SR_2_HD_Lang_vanilla.txt#L28413) | `Talk.Female.Money.PlayerMore` | Текст для сверки | Больше |
+| [28414](../../source/SR_2_HD_Lang_vanilla.txt#L28414) | `Talk.Female.Money.PlayerNo` | Текст для сверки | Я никому не плачу денег, и моя честь выше любых притязаний. А мое раздражение может перейти в крайне жесткие меры. Я доступно все объяснил?! |
+| [28415](../../source/SR_2_HD_Lang_vanilla.txt#L28415) | `Talk.Female.Money.PlayerNo1` | Текст для сверки | Буду считать это неудачной шуткой. Не стоит выводить меня из равновесия. |
+| [28416](../../source/SR_2_HD_Lang_vanilla.txt#L28416) | `Talk.Female.Money.PlayerNo2` | Текст для сверки | Денег моих требуешь? Ну и ну! Тебе, видно, жить надоело? Ничто не радует? Жизнь кажется серой и унылой? Стремишься принять смерть в бою? Бедняга! Что ж, я могу тебе это устроить... |
+| [28417](../../source/SR_2_HD_Lang_vanilla.txt#L28417) | `Talk.Female.Money.PlayerNo3` | Текст для сверки | Иди поиграй в песочек, малыш, тебе не тягаться с таким крутым рейнджером, как я! Серьезно, улетай, пока я тебе дюзы не надрал! |
+| [28418](../../source/SR_2_HD_Lang_vanilla.txt#L28418) | `Talk.Female.Money.PlayerNo4` | Текст для сверки | Умоляю, пощади меня, о свирепый охотник за чужим добром! Вот твои деньги, только отпусти меня, не губи молодую душу!.. Чего? Не видишь денег? Хе-хе, это как раз неудивительно... Тебе вообще известна такая замечательная штука, как чувство юмора? Короче, не получишь ты от меня ни копейки. И это уже не шутка! |
+| [28419](../../source/SR_2_HD_Lang_vanilla.txt#L28419) | `Talk.Female.Money.PlayerNo5` | Текст для сверки | Хочешь денег? Что ж, попробуй их отнять! |
+| [28420](../../source/SR_2_HD_Lang_vanilla.txt#L28420) | `Talk.Female.Money.PlayerNo6` | Текст для сверки | Я воспринимаю подобную просьбу как личное оскорбление, которое можно искупить только кровью. Литра твоей крови мне хватит. Нет? Ну, тогда готовься к смерти! |
+| [28421](../../source/SR_2_HD_Lang_vanilla.txt#L28421) | `Talk.Female.Money.PlayerNotMoney` | Текст для сверки | Извините, я хочу заплатить, но в данный момент не располагаю требуемой суммой. |
+| [28422](../../source/SR_2_HD_Lang_vanilla.txt#L28422) | `Talk.Female.Money.PlayerNotMoney1` | Текст для сверки | К сожалению, у меня не хватает денег. Прошу пощады. |
+| [28423](../../source/SR_2_HD_Lang_vanilla.txt#L28423) | `Talk.Female.Money.PlayerNotMoney2` | Текст для сверки | Откуда у меня такие деньги? Пожалей бедного космического трудягу! |
+| [28424](../../source/SR_2_HD_Lang_vanilla.txt#L28424) | `Talk.Female.Money.PlayerNotMoney3` | Текст для сверки | Я бы с радостью заплатил, да только вот денег у меня нет. Жизнь такая! |
+| [28425](../../source/SR_2_HD_Lang_vanilla.txt#L28425) | `Talk.Female.Money.PlayerNotMoney4` | Текст для сверки | Да где ж мне такие деньги взять? Думай, чего говоришь! |
+| [28426](../../source/SR_2_HD_Lang_vanilla.txt#L28426) | `Talk.Female.Money.PlayerNotMoney5` | Текст для сверки | Ну, может, я бы и заплатил тебе, да только нету у меня таких денег. |
+| [28427](../../source/SR_2_HD_Lang_vanilla.txt#L28427) | `Talk.Female.Money.PlayerNotMoney6` | Текст для сверки | У меня при себе нет таких денег. Может, отпустишь меня, чтобы я слетал на планету &lt;HomePlanet&gt; и привез?.. |
+| [28428](../../source/SR_2_HD_Lang_vanilla.txt#L28428) | `Talk.Female.Money.PlayerNotMoney7` | Текст для сверки | Сожалею, но у меня нет таких денег. Можешь убивать меня, только имей в виду, что я постараюсь подороже продать свою жизнь!.. |
+| [28429](../../source/SR_2_HD_Lang_vanilla.txt#L28429) | `Talk.Female.Money.PlayerNotMoney8` | Текст для сверки | Ох, я и рад бы заплатить, но такой кучи бабок у меня нет. |
+| [28430](../../source/SR_2_HD_Lang_vanilla.txt#L28430) | `Talk.Female.Money.PlayerNotMoney9` | Текст для сверки | Я не располагаю требуемой суммой. |
+| [28431](../../source/SR_2_HD_Lang_vanilla.txt#L28431) | `Talk.Female.Money.PlayerOk` | Текст для сверки | Ладно, я согласен выполнить твои требования. Получай свои жалкие деньги. |
+| [28432](../../source/SR_2_HD_Lang_vanilla.txt#L28432) | `Talk.Female.Money.PlayerOk1` | Текст для сверки | Забирай свои деньги, вымогательница, только отстань от меня. |
+| [28433](../../source/SR_2_HD_Lang_vanilla.txt#L28433) | `Talk.Female.Money.PlayerOk2` | Текст для сверки | Ладно, девка, так уж и быть, бери деньги и уматывай, пока я не передумал и не отобрал их обратно! |
+| [28434](../../source/SR_2_HD_Lang_vanilla.txt#L28434) | `Talk.Female.Money.PlayerOk3` | Текст для сверки | Ну, вот твои грязные деньги, довольна? Надеюсь, теперь я могу лететь дальше? |
+| [28435](../../source/SR_2_HD_Lang_vanilla.txt#L28435) | `Talk.Female.Money.PlayerOk4` | Текст для сверки | Ну хорошо, хорошо, вот твои деньги, надеюсь, теперь ты отцепишься от меня? |
+| [28436](../../source/SR_2_HD_Lang_vanilla.txt#L28436) | `Talk.Female.Money.PlayerOk5` | Текст для сверки | Ну ты и мерзавка! Я столько времени на новое оружие деньги копил, а теперь вот приходится тебе отдавать. Ну ничего, я еще поставлю себе крутые пушечки, и тогда ты еще повымаливаешь у меня пощаду, когда мы снова встретимся... |
+| [28437](../../source/SR_2_HD_Lang_vanilla.txt#L28437) | `Talk.Female.Money.PlayerOk6` | Текст для сверки | Ну, что ж, вот твои деньги, только не слишком радуйся! Я тебя хорошо запомнил, и, поверь мне, еще придет то время, когда ты мне вернешь эту сумму с процентами!.. |
+| [28438](../../source/SR_2_HD_Lang_vanilla.txt#L28438) | `Talk.Female.Money.PlayerSend` | Текст для сверки | Мне нужны деньги, и ты мне их дашь |
+| [28439](../../source/SR_2_HD_Lang_vanilla.txt#L28439) | `Talk.Female.Money.PlayerSend1` | Текст для сверки | Гони деньги, красотка |
+| [28440](../../source/SR_2_HD_Lang_vanilla.txt#L28440) | `Talk.Female.Money.PlayerSend2` | Текст для сверки | Кошелек или жизнь! |
+| [28441](../../source/SR_2_HD_Lang_vanilla.txt#L28441) | `Talk.Female.Money.PlayerSend3` | Текст для сверки | Поделись-ка со мной своими сбережениями |
+| [28442](../../source/SR_2_HD_Lang_vanilla.txt#L28442) | `Talk.Female.Money.PlayerSend4` | Текст для сверки | Ты должна заплатить мне за проезд |
+| [28443](../../source/SR_2_HD_Lang_vanilla.txt#L28443) | `Talk.Female.Money.PlayerSend5` | Текст для сверки | Дай денег, а то пожалеешь |
+| [28444](../../source/SR_2_HD_Lang_vanilla.txt#L28444) | `Talk.Female.Money.PlayerSend6` | Текст для сверки | Выворачивай карманы, это ограбление! |
+| [28445](../../source/SR_2_HD_Lang_vanilla.txt#L28445) | `Talk.Female.Money.PlayerSendSum` | Текст для сверки | Сумма в &lt;Money&gt; cr меня бы устроила |
+| [28446](../../source/SR_2_HD_Lang_vanilla.txt#L28446) | `Talk.Female.Money.PlayerSendSum1` | Текст для сверки | Думаю, твоя жизнь стоит ровно &lt;Money&gt; cr |
+| [28447](../../source/SR_2_HD_Lang_vanilla.txt#L28447) | `Talk.Female.Money.PlayerSendSum2` | Текст для сверки | Дай &lt;Money&gt; cr и можешь лететь дальше |
+| [28448](../../source/SR_2_HD_Lang_vanilla.txt#L28448) | `Talk.Female.Money.PlayerSendSum3` | Текст для сверки | Мне немного надо - всего &lt;Money&gt; cr |
+| [28449](../../source/SR_2_HD_Lang_vanilla.txt#L28449) | `Talk.Female.Money.RangerLongDistance` | Текст для сверки | Ты вообще попробуй меня догнать сначала, а потом приставай с подобными заявлениями и угрозами! |
+| [28450](../../source/SR_2_HD_Lang_vanilla.txt#L28450) | `Talk.Female.Money.RangerLongDistance1` | Текст для сверки | Ты меня вообще-то догони сначала, а уж потом предъявляй претензии! Заодно проверим, у кого движок круче. |
+| [28451](../../source/SR_2_HD_Lang_vanilla.txt#L28451) | `Talk.Female.Money.RangerLongDistance2` | Текст для сверки | Подлети-ка сначала поближе, парень, тогда и выясним, кому принадлежат мои деньги... |
+| [28452](../../source/SR_2_HD_Lang_vanilla.txt#L28452) | `Talk.Female.Money.RangerLongDistance3` | Текст для сверки | Дружок, твои пушки до меня сейчас не могут дотянуться, я слишком далеко! Подумай, что будет, если я откажусь заплатить?.. Ты погрозишь мне кулаком? Страшно, конечно, но не настолько, чтобы я отдала тебе свои деньги... |
+| [28453](../../source/SR_2_HD_Lang_vanilla.txt#L28453) | `Talk.Female.Money.RangerLongDistance4` | Текст для сверки | Ты действительно думаешь, что сможешь меня догнать и заставить отдать тебе деньги?.. Ну, что ж, попробуй, попробуй... |
+| [28454](../../source/SR_2_HD_Lang_vanilla.txt#L28454) | `Talk.Female.Money.RangerLongDistance5` | Текст для сверки | Ну, знаешь!.. Я никогда не платила денег выродкам вроде тебя и не собираюсь платить, особенно когда вы находитесь так далеко! |
+| [28455](../../source/SR_2_HD_Lang_vanilla.txt#L28455) | `Talk.Female.Money.RangerLongDistance6` | Текст для сверки | Тебе не повезло, я не из пугливых, особенно когда меня пытаются запугать с такого расстояния! Признайся честно, ты просто боишься подлететь ближе, да? Так вот, не будет тебе никаких денег! |
+| [28456](../../source/SR_2_HD_Lang_vanilla.txt#L28456) | `Talk.Female.Money.RangerLongDistance7` | Текст для сверки | Не думаю, что ты сможешь меня догнать - слишком уж мы сейчас далеко друг от друга. Сам подумай, есть ли тогда для меня вообще смысл платить тебе деньги?.. |
+| [28457](../../source/SR_2_HD_Lang_vanilla.txt#L28457) | `Talk.Female.Money.RangerLongDistance8` | Текст для сверки | Мне почему-то совсем не страшно... Может быть, потому, что твой корабль едва видно?.. Попробуй-ка сначала меня догнать, наглец, а уж потом вымогай деньги! |
+| [28458](../../source/SR_2_HD_Lang_vanilla.txt#L28458) | `Talk.Female.Money.RangerNo` | Текст для сверки | Я никому не плачу денег, и моя честь выше любых притязаний. А мое раздражение может перейти в крайне жесткие меры. Я доступно все объяснила?! |
+| [28459](../../source/SR_2_HD_Lang_vanilla.txt#L28459) | `Talk.Female.Money.RangerNo1` | Текст для сверки | Буду считать это неудачной шуткой, парень. Не стоит выводить меня из равновесия. |
+| [28460](../../source/SR_2_HD_Lang_vanilla.txt#L28460) | `Talk.Female.Money.RangerNo2` | Текст для сверки | Грабишь слабую девушку, джентльмен? Ха, даже и не мечтай! Я глупцов, вроде тебя, каждый день как орехи щелкаю. |
+| [28461](../../source/SR_2_HD_Lang_vanilla.txt#L28461) | `Talk.Female.Money.RangerNo3` | Текст для сверки | Денег моих требуешь? Ну и ну! Тебе, видно, жить надоело? Ничто не радует? Жизнь кажется серой и унылой? Стремишься принять смерть в бою? Бедняга! Что ж, я могу тебе это устроить... |
+| [28462](../../source/SR_2_HD_Lang_vanilla.txt#L28462) | `Talk.Female.Money.RangerNo4` | Текст для сверки | Иди поиграй в песочек, малыш, тебе не тягаться с такой крутой девушкой, как я! Серьезно, улетай, пока я орудия не расчехлила! |
+| [28463](../../source/SR_2_HD_Lang_vanilla.txt#L28463) | `Talk.Female.Money.RangerNo5` | Текст для сверки | Умоляю, пощади меня, о свирепый охотник за чужим добром! Вот твои деньги, только отпусти меня, не губи, я еще так молода!.. Чего? Не видишь денег? Ха-ха, видел бы ты свою рожу сейчас! Думал, я серьезно? Проваливай, пока я твой кораблик на металлолом не пустила! |
+| [28464](../../source/SR_2_HD_Lang_vanilla.txt#L28464) | `Talk.Female.Money.RangerNo6` | Текст для сверки | Ты думаешь, раз я девушка, то не могу за себя постоять? Это заблуждение стало для многих мужчин фатальным, так что не повторяй их ошибку и отвали от меня прямо сейчас! |
+| [28465](../../source/SR_2_HD_Lang_vanilla.txt#L28465) | `Talk.Female.Money.RangerOk` | Текст для сверки | Ну хорошо, хорошо, вот твои деньги, надеюсь, теперь ты отцепишься от меня? |
+| [28466](../../source/SR_2_HD_Lang_vanilla.txt#L28466) | `Talk.Female.Money.RangerSumIsVeryBig` | Текст для сверки | Я признаю, что ты крут, но для меня это слишком большие деньги. Я считаю, что тебе следует поумерить свои запросы. |
+| [28467](../../source/SR_2_HD_Lang_vanilla.txt#L28467) | `Talk.Female.Money.RangerSumIsVeryBig1` | Текст для сверки | Да я, в принципе, не против заплатить, но больно уж много ты просишь. Может, сойдемся на меньшей сумме? |
+| [28468](../../source/SR_2_HD_Lang_vanilla.txt#L28468) | `Talk.Female.Money.RangerSumIsVeryBig2` | Текст для сверки | Не стыдно грабить девушку? А еще рейнджер. Сделай хоть скидку за красивые глазки. |
+| [28469](../../source/SR_2_HD_Lang_vanilla.txt#L28469) | `Talk.Female.Money.RangerSumIsVeryBig3` | Текст для сверки | Тебя, наверное, во время боя контузило, иначе откуда такая наглость? Назови сумму поменьше, иначе вообще не увидишь денег! |
+| [28470](../../source/SR_2_HD_Lang_vanilla.txt#L28470) | `Talk.Female.Money.RangerSumIsVeryBig4` | Текст для сверки | Плохо дело. У меня столько не наберется, если я даже все карманы и бардачки вытряхну. Может, скидочку сделаешь, как представительнице слабого пола? |
+| [28471](../../source/SR_2_HD_Lang_vanilla.txt#L28471) | `Talk.Female.Money.Send` | Текст для сверки | Мне довольно неудобно это говорить, но положение критическое, так что одолжи мне &lt;Money&gt; cr. |
+| [28472](../../source/SR_2_HD_Lang_vanilla.txt#L28472) | `Talk.Female.Money.Send1` | Текст для сверки | Приятель, подкинь мне &lt;Money&gt; cr Мне очень нужно, поверь, дело серьезноe. |
+| [28473](../../source/SR_2_HD_Lang_vanilla.txt#L28473) | `Talk.Female.Money.Send2` | Сопоставлено с лангом | Дружище, подкинь мелочи. Мне много не нужно, всего-то &lt;Money&gt; cr. Поверь, я не для развлечения спрашиваю, судьба Коалиции на весах...<br>Сопоставленные записи: [Другие и локальное → Организации](../lore/OTHER.md#организации). |
+| [28474](../../source/SR_2_HD_Lang_vanilla.txt#L28474) | `Talk.Female.Money.WeAlreadyHavePact` | Текст для сверки | Братишка, у тебя серьезные проблемы с головой. Тебя чувство дежавю не мучает? Мы ведь уже мирились ранее. |
+| [28475](../../source/SR_2_HD_Lang_vanilla.txt#L28475) | `Talk.Female.Money.WeAlreadyHavePact1` | Текст для сверки | Если мне не изменяет память, я уже слышала когда-то от тебя похожие слова. И еще я отчетливо помню, что ты снова напал на меня, несмотря на уговоры. Так что гуляй, парниша. |
+| [28478](../../source/SR_2_HD_Lang_vanilla.txt#L28478) | `Talk.Female.Partner.AlreadyHavePartner` | Текст для сверки | Извини, но мой партнер рейнджер &lt;Partner&gt;. Ну, не в том смысле, что он мой партнер, просто я на него работаю! |
+| [28479](../../source/SR_2_HD_Lang_vanilla.txt#L28479) | `Talk.Female.Partner.AlreadyHavePartner1` | Текст для сверки | Ты опоздал, приятель, меня уже нанял рейнджер &lt;Partner&gt;. И меня работа под его командованием вполне устраивает. |
+| [28480](../../source/SR_2_HD_Lang_vanilla.txt#L28480) | `Talk.Female.Partner.AnswerLiderBreak` | Текст для сверки | Я заплатил тебе, а ты нарушила наш договор. Надо бы тебя проучить! |
+| [28481](../../source/SR_2_HD_Lang_vanilla.txt#L28481) | `Talk.Female.Partner.AnswerLiderRiot` | Текст для сверки | Да ты здесь особо и не нужна. Только проблемы создаешь! |
+| [28482](../../source/SR_2_HD_Lang_vanilla.txt#L28482) | `Talk.Female.Partner.AnswerLiderRiot1` | Текст для сверки | От вас, девушек, одни проблемы! Проваливай, мне не нужен такой работник. |
+| [28483](../../source/SR_2_HD_Lang_vanilla.txt#L28483) | `Talk.Female.Partner.AnswerLiderTheEnd` | Текст для сверки | Эх, жаль, ты не раз меня выручала в трудную минуту. Сейчас посмотрю на свои финансы и, возможно, продлю наш контракт. |
+| [28484](../../source/SR_2_HD_Lang_vanilla.txt#L28484) | `Talk.Female.Partner.AnswerLiderTheEnd1` | Текст для сверки | Да, жаль терять такую лихую красотку, как ты. Сейчас прикину, сколько у меня денег, и составим новый контракт. |
+| [28485](../../source/SR_2_HD_Lang_vanilla.txt#L28485) | `Talk.Female.Partner.AnswerLiderTheEndLowLeadership` | Текст для сверки | Ну и дела. Я рассчитывал на твою помощь. Что ж, очень жаль. Пока. |
+| [28486](../../source/SR_2_HD_Lang_vanilla.txt#L28486) | `Talk.Female.Partner.AnswerLiderTheEndLowLeadership1` | Текст для сверки | Могла бы и доработать контракт... ну да ладно, удачи тебе на просторах космоса. |
+| [28487](../../source/SR_2_HD_Lang_vanilla.txt#L28487) | `Talk.Female.Partner.ComputerAgreeFlyToMe` | Текст для сверки | Оки-доки, босс! Я следую за тобой! |
+| [28488](../../source/SR_2_HD_Lang_vanilla.txt#L28488) | `Talk.Female.Partner.ComputerAgreeFlyToStar#1` | Текст для сверки | Так точно, босс. Держу курс на систему &lt;Star&gt;. Надеюсь, там найдется что-нибудь вкусненькое... |
+| [28489](../../source/SR_2_HD_Lang_vanilla.txt#L28489) | `Talk.Female.Partner.ComputerAgreeFlyToStar#2` | Текст для сверки | Только ты предупреждай заранее, если наши планы изменятся. |
+| [28490](../../source/SR_2_HD_Lang_vanilla.txt#L28490) | `Talk.Female.Partner.ComputerAgreeLandingToObject#1` | Текст для сверки | Слушаюсь и повинуюсь, хи-хи! Если я верно поняла, мы совершаем посадку на &lt;ObjectName&gt;. |
+| [28491](../../source/SR_2_HD_Lang_vanilla.txt#L28491) | `Talk.Female.Partner.ComputerAgreeLandingToObject#2` | Текст для сверки | Курс проложен, все системы работают нормально. Я лечууу!.. |
+| [28492](../../source/SR_2_HD_Lang_vanilla.txt#L28492) | `Talk.Female.Partner.ComputerDismissBad` | Текст для сверки | Что?! Я на него пашу как проклятая, а в ответ никакой благодарности! Ууу, сейчас я тебе покажу, кто тут кому надоел! |
+| [28493](../../source/SR_2_HD_Lang_vanilla.txt#L28493) | `Talk.Female.Partner.ComputerDismissGood` | Текст для сверки | Ну, ладно, &lt;Player&gt;, удачи тебе. Может еще увидимся. |
+| [28494](../../source/SR_2_HD_Lang_vanilla.txt#L28494) | `Talk.Female.Partner.ComputerDismissNo` | Текст для сверки | Ну и шуточки у тебя, &lt;Player&gt;. Дурак. |
+| [28495](../../source/SR_2_HD_Lang_vanilla.txt#L28495) | `Talk.Female.Partner.ComputerDismissQuestion` | Текст для сверки | В чем дело, &lt;Player&gt;? Разве я плохо выполняю наши контрактные обязательства? |
+| [28496](../../source/SR_2_HD_Lang_vanilla.txt#L28496) | `Talk.Female.Partner.ComputerDropCargoNo` | Текст для сверки | Да нет у меня ничего лишнего в трюме. Если не веришь, воспользуйся сканером! |
+| [28497](../../source/SR_2_HD_Lang_vanilla.txt#L28497) | `Talk.Female.Partner.ComputerDropCargoNo1` | Текст для сверки | Босс! Я бы выкинула весь свой груз, но ничего нет. Лечу налегке. Имеешь еще что-то сказать? |
+| [28498](../../source/SR_2_HD_Lang_vanilla.txt#L28498) | `Talk.Female.Partner.ComputerDropCargoOk` | Текст для сверки | Я, конечно, обязана подчиняться, и выкину груз, но имей в виду, что это больше похоже на грабеж, чем на партнерские отношения. |
+| [28499](../../source/SR_2_HD_Lang_vanilla.txt#L28499) | `Talk.Female.Partner.ComputerDropCargoOk1` | Текст для сверки | Ну ты и нахал, &lt;Player&gt;. Я служу тебе верой и правдой, а ты этим пользуешься и отнимаешь у меня честно нажитое добро. Так дела не делаются. |
+| [28500](../../source/SR_2_HD_Lang_vanilla.txt#L28500) | `Talk.Female.Partner.ComputerDropCargoOk2` | Текст для сверки | Хорошо, сейчас выкину груз. Но я не могу сказать, что мне нравится твоя идея. Даже скажу, что она мне не нравится. |
+| [28501](../../source/SR_2_HD_Lang_vanilla.txt#L28501) | `Talk.Female.Partner.ComputerInFear` | Текст для сверки | Эм, прости, но мне сейчас не до работы. Нужно срочно сматываться, пока хвост не подпалили. |
+| [28502](../../source/SR_2_HD_Lang_vanilla.txt#L28502) | `Talk.Female.Partner.ComputerInFear1` | Текст для сверки | Да ты смеешься что ли?! Смотри, что вокруг творится! Мне нужно срочно залатать дыры, поговорим позже! |
+| [28503](../../source/SR_2_HD_Lang_vanilla.txt#L28503) | `Talk.Female.Partner.ComputerSayNo` | Текст для сверки | За жалкие &lt;Money&gt; cr я не стану на тебя работать. Мне нужен нормальный контракт и хорошие условия работы. |
+| [28504](../../source/SR_2_HD_Lang_vanilla.txt#L28504) | `Talk.Female.Partner.ComputerSayNo1` | Текст для сверки | Нет, спасибо, я себя не в помойке нашла, чтобы горбатиться на тебя за &lt;Money&gt; cr. |
+| [28505](../../source/SR_2_HD_Lang_vanilla.txt#L28505) | `Talk.Female.Partner.ComputerSayOk` | Текст для сверки | За &lt;Money&gt; cr я готова работать на тебя &lt;Month&gt; мес. Если считаешь это слишком маленьким сроком, то можешь удвоить сумму. |
+| [28506](../../source/SR_2_HD_Lang_vanilla.txt#L28506) | `Talk.Female.Partner.ComputerSayOk1` | Текст для сверки | Что ж, тебе повезло, что я сейчас ничем не занята. За &lt;Money&gt; cr я могу поработать на тебя &lt;Month&gt; месяцев. На это время я доверяю тебе свою жизнь, постарайся меня не угробить. |
+| [28507](../../source/SR_2_HD_Lang_vanilla.txt#L28507) | `Talk.Female.Partner.ComputerSayOk2` | Текст для сверки | За &lt;Money&gt; cr и ежедневное лицезрение твоей симпатичной мордашки я могу поработать на тебя &lt;Month&gt; месяцев. Но ты учти, что я девушка, не посылай меня воевать в самое пекло. |
+| [28508](../../source/SR_2_HD_Lang_vanilla.txt#L28508) | `Talk.Female.Partner.FinancesCheck` | Текст для сверки | Как твое финансовое положение? |
+| [28509](../../source/SR_2_HD_Lang_vanilla.txt#L28509) | `Talk.Female.Partner.FinancesConfirmed` | Текст для сверки | Ясно |
+| [28510](../../source/SR_2_HD_Lang_vanilla.txt#L28510) | `Talk.Female.Partner.FinancesGotGift` | Текст для сверки | Спасибо, теперь на моем счету &lt;Money&gt; cr. |
+| [28511](../../source/SR_2_HD_Lang_vanilla.txt#L28511) | `Talk.Female.Partner.FinancesOfferGift` | Текст для сверки | Дать денег напарнику |
+| [28512](../../source/SR_2_HD_Lang_vanilla.txt#L28512) | `Talk.Female.Partner.FinancesReport` | Текст для сверки | &lt;Player&gt;, у меня на счету &lt;Money&gt; cr. |
+| [28513](../../source/SR_2_HD_Lang_vanilla.txt#L28513) | `Talk.Female.Partner.FinancesSendGift` | Текст для сверки | Возьми &lt;Money&gt; cr. |
+| [28514](../../source/SR_2_HD_Lang_vanilla.txt#L28514) | `Talk.Female.Partner.FinancesWaitForGift` | Текст для сверки | Итак, &lt;Player&gt;, сколько ты готов мне подкинуть? |
+| [28515](../../source/SR_2_HD_Lang_vanilla.txt#L28515) | `Talk.Female.Partner.FlyToMe` | Текст для сверки | Хватит марафет наводить, лети за мной, дело есть |
+| [28516](../../source/SR_2_HD_Lang_vanilla.txt#L28516) | `Talk.Female.Partner.FlyToMe1` | Текст для сверки | Лети скорее за мной, деньги будем зарабатывать |
+| [28517](../../source/SR_2_HD_Lang_vanilla.txt#L28517) | `Talk.Female.Partner.FlyToStar` | Текст для сверки | Совершаем гиперпрыжок в систему &lt;Star&gt; |
+| [28518](../../source/SR_2_HD_Lang_vanilla.txt#L28518) | `Talk.Female.Partner.ILeader` | Текст для сверки | Я кошка, которая гуляет сама по себе. Никто не смеет мне приказывать, мяу. ^_^ |
+| [28519](../../source/SR_2_HD_Lang_vanilla.txt#L28519) | `Talk.Female.Partner.ILeader1` | Текст для сверки | Меня никто не нанимает, это я сама нанимаю других! Тебе можно у меня поучиться. |
+| [28520](../../source/SR_2_HD_Lang_vanilla.txt#L28520) | `Talk.Female.Partner.IsOrderForAll` | Текст для сверки | Это приказ по группе или лично мне? |
+| [28521](../../source/SR_2_HD_Lang_vanilla.txt#L28521) | `Talk.Female.Partner.LandingToObject` | Текст для сверки | Совершаем посадку на &lt;ObjectName&gt; |
+| [28522](../../source/SR_2_HD_Lang_vanilla.txt#L28522) | `Talk.Female.Partner.MateBreak` | Текст для сверки | Я была твоим партнером, но ты постоянно совершаешь действия, противоречащие моим принципам. Поэтому я отказываюсь от партнерства. |
+| [28523](../../source/SR_2_HD_Lang_vanilla.txt#L28523) | `Talk.Female.Partner.MateBreak1` | Текст для сверки | Мне совсем не нравится быть твоим партнером. Ты не такой, каким показался мне вначале. Прощай. |
+| [28524](../../source/SR_2_HD_Lang_vanilla.txt#L28524) | `Talk.Female.Partner.MateRiot` | Текст для сверки | Всё, с меня хватит! Больше я не намерена терпеть издевательства над собой. Наведи сначала порядок у себя в команде, а потом может быть и поговорим о партнерстве. |
+| [28525](../../source/SR_2_HD_Lang_vanilla.txt#L28525) | `Talk.Female.Partner.MateTheEnd` | Текст для сверки | Слушай, срок нашего контракта закончился, и теперь я вольна делать все, что захочу. |
+| [28526](../../source/SR_2_HD_Lang_vanilla.txt#L28526) | `Talk.Female.Partner.MateTheEnd1` | Текст для сверки | Имей в виду, срок моего контракта подошел к концу. Я честно выполнила свои обязательства. |
+| [28527](../../source/SR_2_HD_Lang_vanilla.txt#L28527) | `Talk.Female.Partner.MateTheEndLowLeadership` | Текст для сверки | Эй, &lt;Player&gt;, что это с твоими навыками лидерства? Раньше мне казалось, что ты более крут. Неужели зрение меня подвело... в любом случае, я досрочно разрываю наш контракт. Увидимся. |
+| [28528](../../source/SR_2_HD_Lang_vanilla.txt#L28528) | `Talk.Female.Partner.MateTheEndLowLeadership1` | Текст для сверки | У меня для тебя две новости, &lt;Player&gt;, хорошая и плохая. Плохая заключается в том, что я больше не буду на тебя работать, потому что для меня позор летать под началом рейнджера со столь низким уровнем лидерства. А хорошая новость в том, что как только ты поднаберешься опыта по части командной игры - я снова поработаю с тобой, если ты захочешь. |
+| [28529](../../source/SR_2_HD_Lang_vanilla.txt#L28529) | `Talk.Female.Partner.NeedLeadership#1` | Текст для сверки | Ты не похож на лидера, &lt;Ranger&gt;. У тебя такая физиономия, будто ты неделю назад из деревни прилетел. |
+| [28530](../../source/SR_2_HD_Lang_vanilla.txt#L28530) | `Talk.Female.Partner.NeedLeadership#2` | Текст для сверки | Советую развить в себе навык лидерства, а то пока тебе просто бессмысленно заниматься поиском партнеров. |
+| [28531](../../source/SR_2_HD_Lang_vanilla.txt#L28531) | `Talk.Female.Partner.NeedLeadership1` | Текст для сверки | Нет-нет, я буду работать только с крутыми парнями, имена которых гремят на всю галактику. Да и на лицо ты совсем не красавчик. |
+| [28532](../../source/SR_2_HD_Lang_vanilla.txt#L28532) | `Talk.Female.Partner.Ok#1` | Текст для сверки | О'кей, я буду служить тебе &lt;Month&gt; мес. Обязуюсь всегда быть рядом и приходить на помощь в минуты опасности. |
+| [28533](../../source/SR_2_HD_Lang_vanilla.txt#L28533) | `Talk.Female.Partner.Ok#2` | Текст для сверки | Только свистни, и мои крутые стволы в твоем распоряжении, &lt;Ranger&gt;. |
+| [28534](../../source/SR_2_HD_Lang_vanilla.txt#L28534) | `Talk.Female.Partner.Ok1#1` | Текст для сверки | По рукам. Мой корабль в твоем распоряжении на &lt;Month&gt; мес. |
+| [28535](../../source/SR_2_HD_Lang_vanilla.txt#L28535) | `Talk.Female.Partner.Ok1#2` | Текст для сверки | Я буду душой и телом с тобой, &lt;Ranger&gt;, в минуты горя и радости, пока смерть не разлучит нас. Но руки не распускай, а то я их тебе укорочу и даже не посмотрю, что ты мой босс! |
+| [28536](../../source/SR_2_HD_Lang_vanilla.txt#L28536) | `Talk.Female.Partner.OrderForAll` | Текст для сверки | Это приказ всем! С каждым отдельно я общаться не намерен. |
+| [28537](../../source/SR_2_HD_Lang_vanilla.txt#L28537) | `Talk.Female.Partner.OrderForYou` | Текст для сверки | Тебе, персонально. Конец связи. |
+| [28538](../../source/SR_2_HD_Lang_vanilla.txt#L28538) | `Talk.Female.Partner.PlayerDismissBad` | Текст для сверки | Надоела ты мне своими выходками, видеть тебя не могу. Проваливай. |
+| [28539](../../source/SR_2_HD_Lang_vanilla.txt#L28539) | `Talk.Female.Partner.PlayerDismissGood` | Текст для сверки | Ты отлично работала на меня, но теперь тебе оставаться со мной будет опасно. |
+| [28540](../../source/SR_2_HD_Lang_vanilla.txt#L28540) | `Talk.Female.Partner.PlayerDismissNo` | Текст для сверки | Ха-ха! Я пошутил! |
+| [28541](../../source/SR_2_HD_Lang_vanilla.txt#L28541) | `Talk.Female.Partner.PlayerDismissSend` | Текст для сверки | Пора нам с тобой расстаться |
+| [28542](../../source/SR_2_HD_Lang_vanilla.txt#L28542) | `Talk.Female.Partner.PlayerLess` | Текст для сверки | Установить сумму в 2 раза меньше |
+| [28543](../../source/SR_2_HD_Lang_vanilla.txt#L28543) | `Talk.Female.Partner.PlayerMore` | Текст для сверки | Удвоить сумму |
+| [28544](../../source/SR_2_HD_Lang_vanilla.txt#L28544) | `Talk.Female.Partner.PlayerOk` | Текст для сверки | Договорились |
+| [28545](../../source/SR_2_HD_Lang_vanilla.txt#L28545) | `Talk.Female.Partner.PlayerSend` | Текст для сверки | Иди под мое командование, &lt;Ranger&gt; |
+| [28546](../../source/SR_2_HD_Lang_vanilla.txt#L28546) | `Talk.Female.Partner.PlayerSend1` | Текст для сверки | Выходи за меня... ой, в смысле, иди под мое командование, &lt;Ranger&gt;! |
+| [28547](../../source/SR_2_HD_Lang_vanilla.txt#L28547) | `Talk.Female.Partner.PlayerSend2` | Текст для сверки | &lt;Ranger&gt;, не желаешь поработать под началом великого рейнджера, меня? |
+| [28548](../../source/SR_2_HD_Lang_vanilla.txt#L28548) | `Talk.Female.Partner.PlayerSendDropCargo` | Текст для сверки | Мы летим налегке. Тебе пора избавиться от лишнего груза. |
+| [28549](../../source/SR_2_HD_Lang_vanilla.txt#L28549) | `Talk.Female.Partner.PlayerSendDropCargo1` | Текст для сверки | Подруга, давай выкидывай лишний груз. Я помогу тебе с перевозкой. |
+| [28550](../../source/SR_2_HD_Lang_vanilla.txt#L28550) | `Talk.Female.Partner.Send` | Текст для сверки | Я готова выложить &lt;Money&gt; cr за то, чтобы ты стал моим партнером |
+| [28551](../../source/SR_2_HD_Lang_vanilla.txt#L28551) | `Talk.Female.Partner.Send1` | Текст для сверки | Плачу &lt;Money&gt; cr, и ты идешь на меня работать |
+| [28552](../../source/SR_2_HD_Lang_vanilla.txt#L28552) | `Talk.Female.Partner.SmallMoney` | Текст для сверки | Я отказываюсь. Мои услуги и время стоят гораздо больше... |
+| [28553](../../source/SR_2_HD_Lang_vanilla.txt#L28553) | `Talk.Female.Partner.SmallMoney1` | Текст для сверки | Что? Ты хочешь купить меня за эти жалкие копейки? |
+| [28554](../../source/SR_2_HD_Lang_vanilla.txt#L28554) | `Talk.Female.Partner.SmallMoney2` | Текст для сверки | Нет, я не буду работать за такие гроши! |
+| [28555](../../source/SR_2_HD_Lang_vanilla.txt#L28555) | `Talk.Female.Partner.Suspect` | Текст для сверки | Я тебе не настолько доверяю, чтобы рассматривать предложение о партнерстве. |
+| [28556](../../source/SR_2_HD_Lang_vanilla.txt#L28556) | `Talk.Female.Partner.Suspect1` | Текст для сверки | Ты слишком подозрительный тип. Не буду на тебя работать. |
+| [28557](../../source/SR_2_HD_Lang_vanilla.txt#L28557) | `Talk.Female.Partner.Suspect2` | Текст для сверки | У тебя физиономия, как у серийного убийцы и имя такое же. Не буду я на тебя работать. |
+| [28558](../../source/SR_2_HD_Lang_vanilla.txt#L28558) | `Talk.Female.Partner.YouNeedInMoreRank` | Текст для сверки | Ты смеешься, &lt;Ranger&gt;? Вообще-то мое звание гораздо выше твоего. Для меня будет позором работать под твоим командованием. |
+| [28560](../../source/SR_2_HD_Lang_vanilla.txt#L28560) | `Talk.Female.PlanetSay#1` | Текст для сверки | Планета |
+| [28563](../../source/SR_2_HD_Lang_vanilla.txt#L28563) | `Talk.Female.PreserveItems.ComputerNotFearAndWar` | Текст для сверки | Лучше заткнись, &lt;Player&gt;. Я даже слушать не буду, что ты там лопочешь! Ты у меня на очереди. |
+| [28564](../../source/SR_2_HD_Lang_vanilla.txt#L28564) | `Talk.Female.PreserveItems.ComputerNotFearAndWar1` | Текст для сверки | Лети отсюда, пока цел, &lt;Player&gt;. А не то я и за тебя примусь, когда руки дойдут. |
+| [28565](../../source/SR_2_HD_Lang_vanilla.txt#L28565) | `Talk.Female.PreserveItems.ComputerNotFearAndWar2` | Текст для сверки | Не суй нос не в свое дело, &lt;Player&gt;, а не то рискуешь остаться без головы! |
+| [28566](../../source/SR_2_HD_Lang_vanilla.txt#L28566) | `Talk.Female.PreserveItems.ComputerNotFearAndWar3` | Текст для сверки | Ты что, думаешь, что ты самый крутой тут? Отвяжись от меня, &lt;Player&gt;, во что хочу, в то и палю. Могу и за тобой увязаться, имей это в виду. |
+| [28567](../../source/SR_2_HD_Lang_vanilla.txt#L28567) | `Talk.Female.PreserveItems.ComputerNotFearAndWar4` | Текст для сверки | Ха, полагаешь, я тебя испугаюсь? Советую тебе, &lt;Player&gt;, уносить отсюда ноги и другие части тела, пока я еще относительно добрая. |
+| [28568](../../source/SR_2_HD_Lang_vanilla.txt#L28568) | `Talk.Female.PreserveItems.PlayerSend` | Текст для сверки | Даже не думай атаковать ошметки, они мои! |
+| [28569](../../source/SR_2_HD_Lang_vanilla.txt#L28569) | `Talk.Female.PreserveItems.PlayerSend1` | Текст для сверки | Не стоит отстреливать хлам, слышишь! |
+| [28570](../../source/SR_2_HD_Lang_vanilla.txt#L28570) | `Talk.Female.PreserveItems.PlayerSend2` | Текст для сверки | Отстань от этих ошметков, иначе будешь иметь дело со мной! |

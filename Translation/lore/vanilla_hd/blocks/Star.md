@@ -72,6 +72,6 @@
 | [27836](../../source/SR_2_HD_Lang_vanilla.txt#L27836) | `Star.67` | Каталог | Запись звёздного каталога — «Сезерк,Star.Normal». |
 | [27837](../../source/SR_2_HD_Lang_vanilla.txt#L27837) | `Star.68` | Каталог | Запись звёздного каталога — «Укфал,Star.Normal». |
 | [27838](../../source/SR_2_HD_Lang_vanilla.txt#L27838) | `Star.69` | Каталог | Запись звёздного каталога — «Сезмен,Star.Normal». |
-| [27839](../../source/SR_2_HD_Lang_vanilla.txt#L27839) | `Star.70` | Каталог | Запись звёздного каталога — «Тортугац,Star.Small». |
-| [27840](../../source/SR_2_HD_Lang_vanilla.txt#L27840) | `Star.71` | Каталог | Запись звёздного каталога — «Нифигац,Star.Normal». |
+| [27839](../../source/SR_2_HD_Lang_vanilla.txt#L27839) | `Star.70` | Каталог | Запись звёздного каталога — «Тортугац,Star.Small».<br>Сопоставленные записи: [Общее → Культура](../lore/COALITION.md#культура). |
+| [27840](../../source/SR_2_HD_Lang_vanilla.txt#L27840) | `Star.71` | Каталог | Запись звёздного каталога — «Нифигац,Star.Normal».<br>Сопоставленные записи: [Общее → Культура](../lore/COALITION.md#культура). |
 | [27841](../../source/SR_2_HD_Lang_vanilla.txt#L27841) | `Star.Terron` | Каталог | Запись звёздного каталога — «Гралгар». |

@@ -151,8 +151,8 @@
 | [422](../../source/SR_2_HD_Lang_vanilla.txt#L422) | `Achievements.REDKILLS.Name` | Проверено, без отдельного факта | Название достижения или подпись интерфейса. |
 | [425](../../source/SR_2_HD_Lang_vanilla.txt#L425) | `Achievements.BERTORSLAYER.Description` | Проверено, без отдельного факта | Условие достижения описывает игровой счётчик или цель игрока. |
 | [426](../../source/SR_2_HD_Lang_vanilla.txt#L426) | `Achievements.BERTORSLAYER.Name` | Проверено, без отдельного факта | Название достижения или подпись интерфейса. |
-| [429](../../source/SR_2_HD_Lang_vanilla.txt#L429) | `Achievements.MAPBUILDER.Description` | Проверено, без отдельного факта | Условие достижения описывает игровой счётчик или цель игрока. |
-| [430](../../source/SR_2_HD_Lang_vanilla.txt#L430) | `Achievements.MAPBUILDER.Name` | Проверено, без отдельного факта | Название достижения или подпись интерфейса. |
+| [429](../../source/SR_2_HD_Lang_vanilla.txt#L429) | `Achievements.MAPBUILDER.Description` | Проверено, без отдельного факта | Условие достижения описывает игровой счётчик или цель игрока.<br>Сопоставленные записи: [Другие и локальное → История](../lore/OTHER.md#история). |
+| [430](../../source/SR_2_HD_Lang_vanilla.txt#L430) | `Achievements.MAPBUILDER.Name` | Проверено, без отдельного факта | Название достижения или подпись интерфейса.<br>Сопоставленные записи: [Другие и локальное → История](../lore/OTHER.md#история). |
 | [433](../../source/SR_2_HD_Lang_vanilla.txt#L433) | `Achievements.HACKER.Description` | Проверено, без отдельного факта | Условие достижения описывает игровой счётчик или цель игрока. |
 | [434](../../source/SR_2_HD_Lang_vanilla.txt#L434) | `Achievements.HACKER.Name` | Проверено, без отдельного факта | Название достижения или подпись интерфейса. |
 | [437](../../source/SR_2_HD_Lang_vanilla.txt#L437) | `Achievements.DELIVERY.Description` | Проверено, без отдельного факта | Условие достижения описывает игровой счётчик или цель игрока. |
