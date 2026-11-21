@@ -162,7 +162,7 @@
 | [30924](../../source/SR_2_HD_Lang_vanilla.txt#L30924) | `UselessItems.Usl_56.Name` | Требует контекста | Фрагмент: «Детектор лжи» |
 | [30927](../../source/SR_2_HD_Lang_vanilla.txt#L30927) | `UselessItems.Usl_56.Text` | Требует контекста | Фрагмент: «Новейшая модель детектора лжи» |
 | [30931](../../source/SR_2_HD_Lang_vanilla.txt#L30931) | `UselessItems.Usl_57.Name` | Требует контекста | Фрагмент: «Останки пенчехлюпа» |
-| [30934](../../source/SR_2_HD_Lang_vanilla.txt#L30934) | `UselessItems.Usl_57.Text` | Кандидат | Фрагмент: «Останки древнего ископаемого щурского периода - пенчехлюпа, далекого предка современных пенчекряков.» |
+| [30934](../../source/SR_2_HD_Lang_vanilla.txt#L30934) | `UselessItems.Usl_57.Text` | Проверено по оригиналу | [Малоки → Фауна](../lore/MALOCS.md#фауна). Пенчехлюп из щурского периода описан как далёкий предок современных пенчекряков. |
 | [30938](../../source/SR_2_HD_Lang_vanilla.txt#L30938) | `UselessItems.Usl_58.Name` | Требует контекста | Фрагмент: «Раритетный ковер» |
 | [30941](../../source/SR_2_HD_Lang_vanilla.txt#L30941) | `UselessItems.Usl_58.Text` | Требует контекста | Фрагмент: «Раритетный ковер.» |
 | [30945](../../source/SR_2_HD_Lang_vanilla.txt#L30945) | `UselessItems.Usl_59.Name` | Требует контекста | Фрагмент: «Пульт управления щитом» |
@@ -314,6 +314,6 @@
 | [31456](../../source/SR_2_HD_Lang_vanilla.txt#L31456) | `UselessItems.Usl_Stroyka.Name` | Требует контекста | Фрагмент: «Контейнер со стройматериалами» |
 | [31459](../../source/SR_2_HD_Lang_vanilla.txt#L31459) | `UselessItems.Usl_Stroyka.Text` | Требует контекста | Фрагмент: «Универсальный набор для внутренней отделки жилища.» |
 | [31463](../../source/SR_2_HD_Lang_vanilla.txt#L31463) | `UselessItems.Usl_Svarokok.Name` | Требует контекста | Фрагмент: «Сварококс» |
-| [31466](../../source/SR_2_HD_Lang_vanilla.txt#L31466) | `UselessItems.Usl_Svarokok.Text` | Ожидает проверки | Фрагмент: «Народное малокское лекарство для лечения ожогов от бластера.» |
+| [31466](../../source/SR_2_HD_Lang_vanilla.txt#L31466) | `UselessItems.Usl_Svarokok.Text` | Проверено по оригиналу | [Малоки → Технологии](../lore/MALOCS.md#технологии). «Сварококс» — отдельное название народного малокского лекарства от бластерных ожогов. |
 | [31470](../../source/SR_2_HD_Lang_vanilla.txt#L31470) | `UselessItems.Usl_VigenereCoin.Name` | Требует контекста | Фрагмент: «Гравированная монета» |
 | [31473](../../source/SR_2_HD_Lang_vanilla.txt#L31473) | `UselessItems.Usl_VigenereCoin.Text` | Ожидает проверки | Фрагмент: «Золотая монета с зашифрованной гравировкой от капитана Вёрсля.» |
