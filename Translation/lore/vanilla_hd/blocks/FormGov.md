@@ -6,9 +6,9 @@
 | [2176](../../source/SR_2_HD_Lang_vanilla.txt#L2176) | `FormGov.AfterPlayerTakeQuest1` | Кандидат | Фрагмент: «Договор вступает в силу.» |
 | [2177](../../source/SR_2_HD_Lang_vanilla.txt#L2177) | `FormGov.AfterPlayerTakeQuest2` | Кандидат | Фрагмент: «Договор - дороже денег, поэтому постарайтесь выполнить обещанное в срок.» |
 | [2178](../../source/SR_2_HD_Lang_vanilla.txt#L2178) | `FormGov.BattlePlanetQuestCrashed` | Требует контекста | Фрагмент: «Внимание!» |
-| [2180](../../source/SR_2_HD_Lang_vanilla.txt#L2180) | `FormGov.Bribe.GotoPB#1` | Разобрано в своде | Фрагмент: «Я лично против тебя ничего не имею, &lt;Player&gt;, иначе тебя уже вышвырнули бы за дверь, переломав все имеющиеся в наличии ноги, но вот пираты на тебя за что-то озлобились.» · [Свод](../../GALAXY_LORE.md#L1501) |
-| [2181](../../source/SR_2_HD_Lang_vanilla.txt#L2181) | `FormGov.Bribe.GotoPB#2` | Разобрано в своде | Фрагмент: «Однако, не унывай, братан!» · [Свод](../../GALAXY_LORE.md#L1501) |
-| [2182](../../source/SR_2_HD_Lang_vanilla.txt#L2182) | `FormGov.Bribe.GotoPB1` | Разобрано в своде | Фрагмент: «Извиняй, братыш, я тут лицо со всех сторон подневольное.» · [Свод](../../GALAXY_LORE.md#L1501) |
+| [2180](../../source/SR_2_HD_Lang_vanilla.txt#L2180) | `FormGov.Bribe.GotoPB#1` | Ожидает проверки | Фрагмент: «Я лично против тебя ничего не имею, &lt;Player&gt;, иначе тебя уже вышвырнули бы за дверь, переломав все имеющиеся в наличии ноги, но вот пираты на тебя за что-то озлобились.» |
+| [2181](../../source/SR_2_HD_Lang_vanilla.txt#L2181) | `FormGov.Bribe.GotoPB#2` | Ожидает проверки | Фрагмент: «Однако, не унывай, братан!» |
+| [2182](../../source/SR_2_HD_Lang_vanilla.txt#L2182) | `FormGov.Bribe.GotoPB1` | Ожидает проверки | Фрагмент: «Извиняй, братыш, я тут лицо со всех сторон подневольное.» |
 | [2183](../../source/SR_2_HD_Lang_vanilla.txt#L2183) | `FormGov.Bribe.GotoPB2` | Требует контекста | Фрагмент: «Я совершенно того же мнения, дражайший &lt;Player&gt;, и будь на то моя воля - я немедленно бы тебя реабилитировал в глазах пиратской общественности.» |
 | [2184](../../source/SR_2_HD_Lang_vanilla.txt#L2184) | `FormGov.Bribe.I_Bribe` | Требует контекста | Фрагмент: «Пора растопить лед в наших отношениях.» |
 | [2185](../../source/SR_2_HD_Lang_vanilla.txt#L2185) | `FormGov.Bribe.I_Bribe1` | Требует контекста | Фрагмент: «У меня складывается впечатление, что вы меня недолюбливаете.» |
@@ -18,7 +18,7 @@
 | [2189](../../source/SR_2_HD_Lang_vanilla.txt#L2189) | `FormGov.Bribe.No2` | Требует контекста | Фрагмент: «Я не собираюсь платить вам и вашему правительству взяток» |
 | [2190](../../source/SR_2_HD_Lang_vanilla.txt#L2190) | `FormGov.Bribe.Ok` | Требует контекста | Фрагмент: «Хорошо, я надеюсь, эти &lt;Money&gt; cr послужат процветанию планеты &lt;Planet&gt;!» |
 | [2191](../../source/SR_2_HD_Lang_vanilla.txt#L2191) | `FormGov.Bribe.Question` | Требует контекста | Фрагмент: «Скромный взнос в размере &lt;Money&gt; cr мог бы стать основой нашего взаимопонимания.» |
-| [2192](../../source/SR_2_HD_Lang_vanilla.txt#L2192) | `FormGov.Bribe.Question1` | Разобрано в своде | Фрагмент: «В разгаре Вторая Галактическая война, и расходная часть бюджета нашей планеты превышает все мыслимые границы.» · [Свод](../../GALAXY_LORE.md#L1687) |
+| [2192](../../source/SR_2_HD_Lang_vanilla.txt#L2192) | `FormGov.Bribe.Question1` | Ожидает проверки | Фрагмент: «В разгаре Вторая Галактическая война, и расходная часть бюджета нашей планеты превышает все мыслимые границы.» |
 | [2193](../../source/SR_2_HD_Lang_vanilla.txt#L2193) | `FormGov.Bribe.Question2` | Требует контекста | Фрагмент: «О каком недопонимании можно говорить после перевода на наш счет суммы в &lt;Money&gt; cr?» |
 | [2194](../../source/SR_2_HD_Lang_vanilla.txt#L2194) | `FormGov.Bribe.Question3` | Требует контекста | Фрагмент: «Почему бы вам, &lt;Player&gt;, не перевести на наш счет &lt;Money&gt; cr?» |
 | [2195](../../source/SR_2_HD_Lang_vanilla.txt#L2195) | `FormGov.Bribe.QuestionNo` | Требует контекста | Фрагмент: «Ну, тогда что вы от нас хотите?» |
@@ -82,7 +82,7 @@
 | [2266](../../source/SR_2_HD_Lang_vanilla.txt#L2266) | `FormGov.PirateClanPrison.GovAfterPrison` | Требует контекста | Фрагмент: «Окей, ты отсидел положенный срок, &lt;Player&gt;.» |
 | [2267](../../source/SR_2_HD_Lang_vanilla.txt#L2267) | `FormGov.PirateClanPrison.GovAfterPrisonNext` | Требует контекста | Фрагмент: «Теперь, когда ты покинул стены тюрьмы, нам в общем пофиг, чем ты будешь заниматься, но мы все же надеемся, что твои дела пойдут на пользу пиратскому клану.» |
 | [2268](../../source/SR_2_HD_Lang_vanilla.txt#L2268) | `FormGov.PirateClanPrison.GovBeforePrison` | Требует контекста | Фрагмент: «Имей в виду, &lt;Player&gt;, ты являешься преступником на нашей планете.» |
-| [2269](../../source/SR_2_HD_Lang_vanilla.txt#L2269) | `FormGov.PirateClanPrison.PlayerGoToPrison` | Разобрано в своде | Фрагмент: «Это ошибка, меня подставили, век воли не видать!» · [Свод](../../GALAXY_LORE.md#L1501) |
+| [2269](../../source/SR_2_HD_Lang_vanilla.txt#L2269) | `FormGov.PirateClanPrison.PlayerGoToPrison` | Ожидает проверки | Фрагмент: «Это ошибка, меня подставили, век воли не видать!» |
 | [2272](../../source/SR_2_HD_Lang_vanilla.txt#L2272) | `FormGov.PlanetBattle.GovAfterCancel` | Требует контекста | Фрагмент: «Ну что, парень, как доминаторов увидал, так сразу тикать во все лопатки?» |
 | [2273](../../source/SR_2_HD_Lang_vanilla.txt#L2273) | `FormGov.PlanetBattle.GovAfterCancel1` | Требует контекста | Фрагмент: «Какой позор, &lt;Player&gt;!» |
 | [2274](../../source/SR_2_HD_Lang_vanilla.txt#L2274) | `FormGov.PlanetBattle.GovAfterCancel2` | Требует контекста | Фрагмент: «&lt;Player&gt;!» |

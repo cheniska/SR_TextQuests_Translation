@@ -11,10 +11,10 @@
 | [899](../../source/SR_2_HD_Lang_vanilla.txt#L899) | `Constellations.Name.15` | Каталог | Название созвездия — «Валгир». |
 | [900](../../source/SR_2_HD_Lang_vanilla.txt#L900) | `Constellations.Name.16` | Каталог | Название созвездия — «Тамуто». |
 | [901](../../source/SR_2_HD_Lang_vanilla.txt#L901) | `Constellations.Name.17` | Каталог | Название созвездия — «Нароби». |
-| [902](../../source/SR_2_HD_Lang_vanilla.txt#L902) | `Constellations.Name.18` | Каталог | Название созвездия — «Денвер». · [Свод](../../GALAXY_LORE.md#L1611) |
+| [902](../../source/SR_2_HD_Lang_vanilla.txt#L902) | `Constellations.Name.18` | Каталог | Название созвездия — «Денвер». |
 | [903](../../source/SR_2_HD_Lang_vanilla.txt#L903) | `Constellations.Name.19` | Каталог | Название созвездия — «Реггет». |
 | [904](../../source/SR_2_HD_Lang_vanilla.txt#L904) | `Constellations.Name.2` | Каталог | Название созвездия — «Хиша». |
-| [905](../../source/SR_2_HD_Lang_vanilla.txt#L905) | `Constellations.Name.20` | Каталог | Название созвездия — «Дицея». · [Свод](../../GALAXY_LORE.md#L1611) |
+| [905](../../source/SR_2_HD_Lang_vanilla.txt#L905) | `Constellations.Name.20` | Каталог | Название созвездия — «Дицея». |
 | [906](../../source/SR_2_HD_Lang_vanilla.txt#L906) | `Constellations.Name.3` | Каталог | Название созвездия — «Карагон». |
 | [907](../../source/SR_2_HD_Lang_vanilla.txt#L907) | `Constellations.Name.4` | Каталог | Название созвездия — «Зондур». |
 | [908](../../source/SR_2_HD_Lang_vanilla.txt#L908) | `Constellations.Name.5` | Каталог | Название созвездия — «Атланта». |

@@ -3,7 +3,7 @@
 | Строка оригинала | Ключ | Разбор | Основание |
 |---|---|---|---|
 | [12970](../../source/SR_2_HD_Lang_vanilla.txt#L12970) | `PlanetName.Fei.01` | Каталог | Название из каталога планет — «Умий». |
-| [12971](../../source/SR_2_HD_Lang_vanilla.txt#L12971) | `PlanetName.Fei.02` | Каталог | Название из каталога планет — «Эйпентак». · [Свод](../../GALAXY_LORE.md#L1101) |
+| [12971](../../source/SR_2_HD_Lang_vanilla.txt#L12971) | `PlanetName.Fei.02` | Каталог | Название из каталога планет — «Эйпентак». |
 | [12972](../../source/SR_2_HD_Lang_vanilla.txt#L12972) | `PlanetName.Fei.03` | Каталог | Название из каталога планет — «Эйланк». |
 | [12973](../../source/SR_2_HD_Lang_vanilla.txt#L12973) | `PlanetName.Fei.04` | Каталог | Название из каталога планет — «Априш». |
 | [12974](../../source/SR_2_HD_Lang_vanilla.txt#L12974) | `PlanetName.Fei.05` | Каталог | Название из каталога планет — «Энейкал». |
@@ -71,8 +71,8 @@
 | [13036](../../source/SR_2_HD_Lang_vanilla.txt#L13036) | `PlanetName.Fei.69` | Каталог | Название из каталога планет — «Эрпагай». |
 | [13037](../../source/SR_2_HD_Lang_vanilla.txt#L13037) | `PlanetName.Fei.70` | Каталог | Название из каталога планет — «Апр». |
 | [13040](../../source/SR_2_HD_Lang_vanilla.txt#L13040) | `PlanetName.Gaal.01` | Каталог | Название из каталога планет — «Дуэдэ». |
-| [13041](../../source/SR_2_HD_Lang_vanilla.txt#L13041) | `PlanetName.Gaal.02` | Каталог | Название из каталога планет — «Гаалдок». · [Свод](../../GALAXY_LORE.md#L1297) |
-| [13042](../../source/SR_2_HD_Lang_vanilla.txt#L13042) | `PlanetName.Gaal.03` | Каталог | Название из каталога планет — «Банана». · [Свод](../../GALAXY_LORE.md#L1297), [Отсылки](../../GALAXY_LORE_PARODY.md#L143) |
+| [13041](../../source/SR_2_HD_Lang_vanilla.txt#L13041) | `PlanetName.Gaal.02` | Каталог | Название из каталога планет — «Гаалдок». |
+| [13042](../../source/SR_2_HD_Lang_vanilla.txt#L13042) | `PlanetName.Gaal.03` | Каталог | Название из каталога планет — «Банана». |
 | [13043](../../source/SR_2_HD_Lang_vanilla.txt#L13043) | `PlanetName.Gaal.04` | Каталог | Название из каталога планет — «Бооз». |
 | [13044](../../source/SR_2_HD_Lang_vanilla.txt#L13044) | `PlanetName.Gaal.05` | Каталог | Название из каталога планет — «Зоолто». |
 | [13045](../../source/SR_2_HD_Lang_vanilla.txt#L13045) | `PlanetName.Gaal.06` | Каталог | Название из каталога планет — «Раалито». |
@@ -86,7 +86,7 @@
 | [13053](../../source/SR_2_HD_Lang_vanilla.txt#L13053) | `PlanetName.Gaal.14` | Каталог | Название из каталога планет — «Пунэ-анита». |
 | [13054](../../source/SR_2_HD_Lang_vanilla.txt#L13054) | `PlanetName.Gaal.15` | Каталог | Название из каталога планет — «Сиалла». |
 | [13055](../../source/SR_2_HD_Lang_vanilla.txt#L13055) | `PlanetName.Gaal.16` | Каталог | Название из каталога планет — «Толт-гаин». |
-| [13056](../../source/SR_2_HD_Lang_vanilla.txt#L13056) | `PlanetName.Gaal.17` | Каталог | Название из каталога планет — «Риолки». · [Спорное](../../GALAXY_LORE_DOUBTS.md#L15) |
+| [13056](../../source/SR_2_HD_Lang_vanilla.txt#L13056) | `PlanetName.Gaal.17` | Каталог | Название из каталога планет — «Риолки». |
 | [13057](../../source/SR_2_HD_Lang_vanilla.txt#L13057) | `PlanetName.Gaal.18` | Каталог | Название из каталога планет — «Уудлана». |
 | [13058](../../source/SR_2_HD_Lang_vanilla.txt#L13058) | `PlanetName.Gaal.19` | Каталог | Название из каталога планет — «Палтеомео». |
 | [13059](../../source/SR_2_HD_Lang_vanilla.txt#L13059) | `PlanetName.Gaal.20` | Каталог | Название из каталога планет — «Запаас». |
@@ -140,8 +140,8 @@
 | [13107](../../source/SR_2_HD_Lang_vanilla.txt#L13107) | `PlanetName.Gaal.68` | Каталог | Название из каталога планет — «Ситра-аандо». |
 | [13108](../../source/SR_2_HD_Lang_vanilla.txt#L13108) | `PlanetName.Gaal.69` | Каталог | Название из каталога планет — «Гаштик-чина». |
 | [13109](../../source/SR_2_HD_Lang_vanilla.txt#L13109) | `PlanetName.Gaal.70` | Каталог | Название из каталога планет — «Липа-иуи». |
-| [13112](../../source/SR_2_HD_Lang_vanilla.txt#L13112) | `PlanetName.Maloc.01` | Каталог | Название из каталога планет — «Арнарик Гаудад». · [Свод](../../GALAXY_LORE.md#L353) |
-| [13113](../../source/SR_2_HD_Lang_vanilla.txt#L13113) | `PlanetName.Maloc.02` | Каталог | Название из каталога планет — «Рамгатру». · [Свод](../../GALAXY_LORE.md#L353) |
+| [13112](../../source/SR_2_HD_Lang_vanilla.txt#L13112) | `PlanetName.Maloc.01` | Каталог | Название из каталога планет — «Арнарик Гаудад». |
+| [13113](../../source/SR_2_HD_Lang_vanilla.txt#L13113) | `PlanetName.Maloc.02` | Каталог | Название из каталога планет — «Рамгатру». |
 | [13114](../../source/SR_2_HD_Lang_vanilla.txt#L13114) | `PlanetName.Maloc.03` | Каталог | Название из каталога планет — «Проту Памперой». |
 | [13115](../../source/SR_2_HD_Lang_vanilla.txt#L13115) | `PlanetName.Maloc.04` | Каталог | Название из каталога планет — «Дрэдну-астан». |
 | [13116](../../source/SR_2_HD_Lang_vanilla.txt#L13116) | `PlanetName.Maloc.05` | Каталог | Название из каталога планет — «Зэнтак». |
@@ -161,7 +161,7 @@
 | [13130](../../source/SR_2_HD_Lang_vanilla.txt#L13130) | `PlanetName.Maloc.19` | Каталог | Название из каталога планет — «Мабэл». |
 | [13131](../../source/SR_2_HD_Lang_vanilla.txt#L13131) | `PlanetName.Maloc.20` | Каталог | Название из каталога планет — «Ойкнур Бад». |
 | [13132](../../source/SR_2_HD_Lang_vanilla.txt#L13132) | `PlanetName.Maloc.21` | Каталог | Название из каталога планет — «Шэга Кри». |
-| [13133](../../source/SR_2_HD_Lang_vanilla.txt#L13133) | `PlanetName.Maloc.22` | Каталог | Название из каталога планет — «Малари». · [Свод](../../GALAXY_LORE.md#L354) |
+| [13133](../../source/SR_2_HD_Lang_vanilla.txt#L13133) | `PlanetName.Maloc.22` | Каталог | Название из каталога планет — «Малари». |
 | [13134](../../source/SR_2_HD_Lang_vanilla.txt#L13134) | `PlanetName.Maloc.23` | Каталог | Название из каталога планет — «Урда Гал». |
 | [13135](../../source/SR_2_HD_Lang_vanilla.txt#L13135) | `PlanetName.Maloc.24` | Каталог | Название из каталога планет — «Зарик Мугудун». |
 | [13136](../../source/SR_2_HD_Lang_vanilla.txt#L13136) | `PlanetName.Maloc.25` | Каталог | Название из каталога планет — «Дна Гуранд». |
@@ -307,7 +307,7 @@
 | [13278](../../source/SR_2_HD_Lang_vanilla.txt#L13278) | `PlanetName.None.095` | Каталог | Название из каталога планет — «Айкен Ма». |
 | [13279](../../source/SR_2_HD_Lang_vanilla.txt#L13279) | `PlanetName.None.096` | Каталог | Название из каталога планет — «Хорхи». |
 | [13280](../../source/SR_2_HD_Lang_vanilla.txt#L13280) | `PlanetName.None.097` | Каталог | Название из каталога планет — «Траннбаш». |
-| [13281](../../source/SR_2_HD_Lang_vanilla.txt#L13281) | `PlanetName.None.098` | Каталог | Название из каталога планет — «Земля Белышева». · [Свод](../../GALAXY_LORE.md#L1621) |
+| [13281](../../source/SR_2_HD_Lang_vanilla.txt#L13281) | `PlanetName.None.098` | Каталог | Название из каталога планет — «Земля Белышева». |
 | [13282](../../source/SR_2_HD_Lang_vanilla.txt#L13282) | `PlanetName.None.099` | Каталог | Название из каталога планет — «Безымянная». |
 | [13283](../../source/SR_2_HD_Lang_vanilla.txt#L13283) | `PlanetName.None.100` | Каталог | Название из каталога планет — «Пуркатор». |
 | [13284](../../source/SR_2_HD_Lang_vanilla.txt#L13284) | `PlanetName.None.101` | Каталог | Название из каталога планет — «Мепла». |
@@ -510,8 +510,8 @@
 | [13481](../../source/SR_2_HD_Lang_vanilla.txt#L13481) | `PlanetName.None.298` | Каталог | Название из каталога планет — «Площ». |
 | [13482](../../source/SR_2_HD_Lang_vanilla.txt#L13482) | `PlanetName.None.299` | Каталог | Название из каталога планет — «Сикотта». |
 | [13483](../../source/SR_2_HD_Lang_vanilla.txt#L13483) | `PlanetName.None.300` | Каталог | Название из каталога планет — «Леана-мие». |
-| [13486](../../source/SR_2_HD_Lang_vanilla.txt#L13486) | `PlanetName.Peleng.01` | Каталог | Название из каталога планет — «Шухэо». · [Свод](../../GALAXY_LORE.md#L661) |
-| [13487](../../source/SR_2_HD_Lang_vanilla.txt#L13487) | `PlanetName.Peleng.02` | Каталог | Название из каталога планет — «Рахиш». · [Свод](../../GALAXY_LORE.md#L666) |
+| [13486](../../source/SR_2_HD_Lang_vanilla.txt#L13486) | `PlanetName.Peleng.01` | Каталог | Название из каталога планет — «Шухэо». |
+| [13487](../../source/SR_2_HD_Lang_vanilla.txt#L13487) | `PlanetName.Peleng.02` | Каталог | Название из каталога планет — «Рахиш». |
 | [13488](../../source/SR_2_HD_Lang_vanilla.txt#L13488) | `PlanetName.Peleng.03` | Каталог | Название из каталога планет — «Джыцказ». |
 | [13489](../../source/SR_2_HD_Lang_vanilla.txt#L13489) | `PlanetName.Peleng.04` | Каталог | Название из каталога планет — «Рехешлих». |
 | [13490](../../source/SR_2_HD_Lang_vanilla.txt#L13490) | `PlanetName.Peleng.05` | Каталог | Название из каталога планет — «Рокренха». |
@@ -580,7 +580,7 @@
 | [13553](../../source/SR_2_HD_Lang_vanilla.txt#L13553) | `PlanetName.Peleng.68` | Каталог | Название из каталога планет — «Радацуй». |
 | [13554](../../source/SR_2_HD_Lang_vanilla.txt#L13554) | `PlanetName.Peleng.69` | Каталог | Название из каталога планет — «Бихкена». |
 | [13555](../../source/SR_2_HD_Lang_vanilla.txt#L13555) | `PlanetName.Peleng.70` | Каталог | Название из каталога планет — «Лиянтаг». |
-| [13558](../../source/SR_2_HD_Lang_vanilla.txt#L13558) | `PlanetName.People.01` | Каталог | Название из каталога планет — «Юникс». · [Свод](../../GALAXY_LORE.md#L920), [Отсылки](../../GALAXY_LORE_PARODY.md#L96) |
+| [13558](../../source/SR_2_HD_Lang_vanilla.txt#L13558) | `PlanetName.People.01` | Каталог | Название из каталога планет — «Юникс». |
 | [13559](../../source/SR_2_HD_Lang_vanilla.txt#L13559) | `PlanetName.People.02` | Каталог | Название из каталога планет — «Эрания». |
 | [13560](../../source/SR_2_HD_Lang_vanilla.txt#L13560) | `PlanetName.People.03` | Каталог | Название из каталога планет — «Аксельман». |
 | [13561](../../source/SR_2_HD_Lang_vanilla.txt#L13561) | `PlanetName.People.04` | Каталог | Название из каталога планет — «Бета-ионис». |
@@ -658,10 +658,10 @@
 | [13635](../../source/SR_2_HD_Lang_vanilla.txt#L13635) | `PlanetName.PirateClan.06` | Каталог | Название из каталога планет — «Гаалеон». |
 | [13638](../../source/SR_2_HD_Lang_vanilla.txt#L13638) | `PlanetName.Solar.0` | Каталог | Название из каталога планет — «Меркурий». |
 | [13639](../../source/SR_2_HD_Lang_vanilla.txt#L13639) | `PlanetName.Solar.1` | Каталог | Название из каталога планет — «Венера». |
-| [13640](../../source/SR_2_HD_Lang_vanilla.txt#L13640) | `PlanetName.Solar.2` | Каталог | Название из каталога планет — «Земля». · [Свод](../../GALAXY_LORE.md#L919) |
+| [13640](../../source/SR_2_HD_Lang_vanilla.txt#L13640) | `PlanetName.Solar.2` | Каталог | Название из каталога планет — «Земля». |
 | [13641](../../source/SR_2_HD_Lang_vanilla.txt#L13641) | `PlanetName.Solar.3` | Каталог | Название из каталога планет — «Марс». |
 | [13642](../../source/SR_2_HD_Lang_vanilla.txt#L13642) | `PlanetName.Solar.4` | Каталог | Название из каталога планет — «Юпитер». |
 | [13643](../../source/SR_2_HD_Lang_vanilla.txt#L13643) | `PlanetName.Solar.5` | Каталог | Название из каталога планет — «Сатурн». |
 | [13644](../../source/SR_2_HD_Lang_vanilla.txt#L13644) | `PlanetName.Solar.6` | Каталог | Название из каталога планет — «Нептун». |
-| [13645](../../source/SR_2_HD_Lang_vanilla.txt#L13645) | `PlanetName.Solar.7` | Каталог | Название из каталога планет — «Уран». · [Свод](../../GALAXY_LORE.md#L919) |
-| [13646](../../source/SR_2_HD_Lang_vanilla.txt#L13646) | `PlanetName.Solar.8` | Каталог | Название из каталога планет — «Плутон». · [Свод](../../GALAXY_LORE.md#L919) |
+| [13645](../../source/SR_2_HD_Lang_vanilla.txt#L13645) | `PlanetName.Solar.7` | Каталог | Название из каталога планет — «Уран». |
+| [13646](../../source/SR_2_HD_Lang_vanilla.txt#L13646) | `PlanetName.Solar.8` | Каталог | Название из каталога планет — «Плутон». |

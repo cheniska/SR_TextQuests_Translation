@@ -56,7 +56,7 @@
 | [7779](../../source/SR_2_HD_Lang_vanilla.txt#L7779) | `Investment.TransportSubsidy.Name#1` | Требует контекста | Фрагмент: «Фонд транспортного комитета.» |
 | [7780](../../source/SR_2_HD_Lang_vanilla.txt#L7780) | `Investment.TransportSubsidy.Name#2` | Требует контекста | Фрагмент: «Стоимость &lt;Money&gt; cr.» |
 | [7781](../../source/SR_2_HD_Lang_vanilla.txt#L7781) | `Investment.TransportSubsidy.PlayerSend` | Требует контекста | Фрагмент: «Поддержать транспортный комитет» |
-| [7782](../../source/SR_2_HD_Lang_vanilla.txt#L7782) | `Investment.TransportSubsidy.Text#1` | Разобрано в своде | Фрагмент: «Тем не менее, каждый капитан сможет поставить себе если не новый ультрасовременный радар, то хотя бы банку хорошего пива.» · [Свод](../../GALAXY_LORE.md#L1981) |
+| [7782](../../source/SR_2_HD_Lang_vanilla.txt#L7782) | `Investment.TransportSubsidy.Text#1` | Ожидает проверки | Фрагмент: «Тем не менее, каждый капитан сможет поставить себе если не новый ультрасовременный радар, то хотя бы банку хорошего пива.» |
 | [7783](../../source/SR_2_HD_Lang_vanilla.txt#L7783) | `Investment.TransportSubsidy.Text#2` | Требует контекста | Фрагмент: «Все торговые суда салютуют вам, &lt;Player&gt;!» |
 | [7786](../../source/SR_2_HD_Lang_vanilla.txt#L7786) | `Investment.WarSubsidy.GalaxyMessage#1` | Требует контекста | Фрагмент: «Пираты в ужасе!» |
 | [7787](../../source/SR_2_HD_Lang_vanilla.txt#L7787) | `Investment.WarSubsidy.GalaxyMessage#2` | Требует контекста | Фрагмент: «Сумма контракта размером в &lt;Money&gt; cr позволит в самые короткие сроки построить &lt;Count&gt; новейших военных кораблей!» |

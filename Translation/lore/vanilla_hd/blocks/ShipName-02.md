@@ -195,7 +195,7 @@
 | [26686](../../source/SR_2_HD_Lang_vanilla.txt#L26686) | `ShipName.Transport.Fei.101` | Каталог | Имя из генератора имён кораблей или пилотов — «Уйиани». |
 | [26687](../../source/SR_2_HD_Lang_vanilla.txt#L26687) | `ShipName.Transport.Fei.102` | Каталог | Имя из генератора имён кораблей или пилотов — «Укайна». |
 | [26688](../../source/SR_2_HD_Lang_vanilla.txt#L26688) | `ShipName.Transport.Fei.103` | Каталог | Имя из генератора имён кораблей или пилотов — «Укалтаки». |
-| [26689](../../source/SR_2_HD_Lang_vanilla.txt#L26689) | `ShipName.Transport.Fei.104` | Каталог | Имя из генератора имён кораблей или пилотов — «Улейми-Ка». · [Свод](../../GALAXY_LORE.md#L1106) |
+| [26689](../../source/SR_2_HD_Lang_vanilla.txt#L26689) | `ShipName.Transport.Fei.104` | Каталог | Имя из генератора имён кораблей или пилотов — «Улейми-Ка». |
 | [26690](../../source/SR_2_HD_Lang_vanilla.txt#L26690) | `ShipName.Transport.Fei.105` | Каталог | Имя из генератора имён кораблей или пилотов — «Уликка». |
 | [26691](../../source/SR_2_HD_Lang_vanilla.txt#L26691) | `ShipName.Transport.Fei.106` | Каталог | Имя из генератора имён кораблей или пилотов — «Улитай». |
 | [26692](../../source/SR_2_HD_Lang_vanilla.txt#L26692) | `ShipName.Transport.Fei.107` | Каталог | Имя из генератора имён кораблей или пилотов — «Унакли-Упа». |
@@ -371,7 +371,7 @@
 | [26864](../../source/SR_2_HD_Lang_vanilla.txt#L26864) | `ShipName.Transport.Gaal.125` | Каталог | Имя из генератора имён кораблей или пилотов — «Севроой». |
 | [26865](../../source/SR_2_HD_Lang_vanilla.txt#L26865) | `ShipName.Transport.Gaal.126` | Каталог | Имя из генератора имён кораблей или пилотов — «Сеетилси». |
 | [26866](../../source/SR_2_HD_Lang_vanilla.txt#L26866) | `ShipName.Transport.Gaal.127` | Каталог | Имя из генератора имён кораблей или пилотов — «Сереениф». |
-| [26867](../../source/SR_2_HD_Lang_vanilla.txt#L26867) | `ShipName.Transport.Gaal.128` | Каталог | Имя из генератора имён кораблей или пилотов — «Со-онгек». · [Свод](../../GALAXY_LORE.md#L1306) |
+| [26867](../../source/SR_2_HD_Lang_vanilla.txt#L26867) | `ShipName.Transport.Gaal.128` | Каталог | Имя из генератора имён кораблей или пилотов — «Со-онгек». |
 | [26868](../../source/SR_2_HD_Lang_vanilla.txt#L26868) | `ShipName.Transport.Gaal.129` | Каталог | Имя из генератора имён кораблей или пилотов — «Таа-ита». |
 | [26869](../../source/SR_2_HD_Lang_vanilla.txt#L26869) | `ShipName.Transport.Gaal.13` | Каталог | Имя из генератора имён кораблей или пилотов — «Ариилка». |
 | [26870](../../source/SR_2_HD_Lang_vanilla.txt#L26870) | `ShipName.Transport.Gaal.130` | Каталог | Имя из генератора имён кораблей или пилотов — «Та-даа». |
@@ -497,7 +497,7 @@
 | [26992](../../source/SR_2_HD_Lang_vanilla.txt#L26992) | `ShipName.Transport.Maloc.101` | Каталог | Имя из генератора имён кораблей или пилотов — «Ораггор». |
 | [26993](../../source/SR_2_HD_Lang_vanilla.txt#L26993) | `ShipName.Transport.Maloc.102` | Каталог | Имя из генератора имён кораблей или пилотов — «Орбан». |
 | [26994](../../source/SR_2_HD_Lang_vanilla.txt#L26994) | `ShipName.Transport.Maloc.103` | Каталог | Имя из генератора имён кораблей или пилотов — «Орготаг». |
-| [26995](../../source/SR_2_HD_Lang_vanilla.txt#L26995) | `ShipName.Transport.Maloc.104` | Каталог | Имя из генератора имён кораблей или пилотов — «Оркогру». · [Свод](../../GALAXY_LORE.md#L370) |
+| [26995](../../source/SR_2_HD_Lang_vanilla.txt#L26995) | `ShipName.Transport.Maloc.104` | Каталог | Имя из генератора имён кораблей или пилотов — «Оркогру». |
 | [26996](../../source/SR_2_HD_Lang_vanilla.txt#L26996) | `ShipName.Transport.Maloc.105` | Каталог | Имя из генератора имён кораблей или пилотов — «Оруддар». |
 | [26997](../../source/SR_2_HD_Lang_vanilla.txt#L26997) | `ShipName.Transport.Maloc.106` | Каталог | Имя из генератора имён кораблей или пилотов — «Паганга». |
 | [26998](../../source/SR_2_HD_Lang_vanilla.txt#L26998) | `ShipName.Transport.Maloc.107` | Каталог | Имя из генератора имён кораблей или пилотов — «Потагак». |
@@ -659,7 +659,7 @@
 | [27156](../../source/SR_2_HD_Lang_vanilla.txt#L27156) | `ShipName.Transport.Peleng.111` | Каталог | Имя из генератора имён кораблей или пилотов — «Цайшиска». |
 | [27157](../../source/SR_2_HD_Lang_vanilla.txt#L27157) | `ShipName.Transport.Peleng.112` | Каталог | Имя из генератора имён кораблей или пилотов — «Цакла». |
 | [27158](../../source/SR_2_HD_Lang_vanilla.txt#L27158) | `ShipName.Transport.Peleng.113` | Каталог | Имя из генератора имён кораблей или пилотов — «Цалотша». |
-| [27159](../../source/SR_2_HD_Lang_vanilla.txt#L27159) | `ShipName.Transport.Peleng.114` | Каталог | Имя из генератора имён кораблей или пилотов — «Цамарташ». · [Свод](../../GALAXY_LORE.md#L693) |
+| [27159](../../source/SR_2_HD_Lang_vanilla.txt#L27159) | `ShipName.Transport.Peleng.114` | Каталог | Имя из генератора имён кораблей или пилотов — «Цамарташ». |
 | [27160](../../source/SR_2_HD_Lang_vanilla.txt#L27160) | `ShipName.Transport.Peleng.115` | Каталог | Имя из генератора имён кораблей или пилотов — «Цасетха-Пру». |
 | [27161](../../source/SR_2_HD_Lang_vanilla.txt#L27161) | `ShipName.Transport.Peleng.116` | Каталог | Имя из генератора имён кораблей или пилотов — «Цачиншак». |
 | [27162](../../source/SR_2_HD_Lang_vanilla.txt#L27162) | `ShipName.Transport.Peleng.117` | Каталог | Имя из генератора имён кораблей или пилотов — «Цепиш Цепан». |
@@ -674,7 +674,7 @@
 | [27171](../../source/SR_2_HD_Lang_vanilla.txt#L27171) | `ShipName.Transport.Peleng.125` | Каталог | Имя из генератора имён кораблей или пилотов — «Цокахак». |
 | [27172](../../source/SR_2_HD_Lang_vanilla.txt#L27172) | `ShipName.Transport.Peleng.126` | Каталог | Имя из генератора имён кораблей или пилотов — «Цопшик». |
 | [27173](../../source/SR_2_HD_Lang_vanilla.txt#L27173) | `ShipName.Transport.Peleng.127` | Каталог | Имя из генератора имён кораблей или пилотов — «Цоцкекеш». |
-| [27174](../../source/SR_2_HD_Lang_vanilla.txt#L27174) | `ShipName.Transport.Peleng.128` | Каталог | Имя из генератора имён кораблей или пилотов — «Цубакша». · [Свод](../../GALAXY_LORE.md#L693) |
+| [27174](../../source/SR_2_HD_Lang_vanilla.txt#L27174) | `ShipName.Transport.Peleng.128` | Каталог | Имя из генератора имён кораблей или пилотов — «Цубакша». |
 | [27175](../../source/SR_2_HD_Lang_vanilla.txt#L27175) | `ShipName.Transport.Peleng.129` | Каталог | Имя из генератора имён кораблей или пилотов — «Цукали». |
 | [27176](../../source/SR_2_HD_Lang_vanilla.txt#L27176) | `ShipName.Transport.Peleng.13` | Каталог | Имя из генератора имён кораблей или пилотов — «Ихтишис». |
 | [27177](../../source/SR_2_HD_Lang_vanilla.txt#L27177) | `ShipName.Transport.Peleng.130` | Каталог | Имя из генератора имён кораблей или пилотов — «Цухешка». |

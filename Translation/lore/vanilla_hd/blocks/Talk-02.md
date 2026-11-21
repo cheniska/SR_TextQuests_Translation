@@ -68,7 +68,7 @@
 | [28642](../../source/SR_2_HD_Lang_vanilla.txt#L28642) | `Talk.Female.Trade.PlayerSend` | Требует контекста | Фрагмент: «Давай поторгуем» |
 | [28643](../../source/SR_2_HD_Lang_vanilla.txt#L28643) | `Talk.Female.Trade.PlayerSend1` | Требует контекста | Фрагмент: «Поторговать хочешь?» |
 | [28644](../../source/SR_2_HD_Lang_vanilla.txt#L28644) | `Talk.Female.Trade.TradeBreak` | Требует контекста | Фрагмент: «Отложить сделку» |
-| [28645](../../source/SR_2_HD_Lang_vanilla.txt#L28645) | `Talk.Female.Trade.TradeGo` | Разобрано в своде | Фрагмент: «Бросай уже трепаться, птица говорун, давай торговать!» · [Отсылки](../../GALAXY_LORE_PARODY.md#L87) |
+| [28645](../../source/SR_2_HD_Lang_vanilla.txt#L28645) | `Talk.Female.Trade.TradeGo` | Ожидает проверки | Фрагмент: «Бросай уже трепаться, птица говорун, давай торговать!» |
 | [28646](../../source/SR_2_HD_Lang_vanilla.txt#L28646) | `Talk.Female.Trade.TradeGo1` | Требует контекста | Фрагмент: «Давай начнем торговлю, а там разберемся.» |
 | [28647](../../source/SR_2_HD_Lang_vanilla.txt#L28647) | `Talk.Female.Trade.TradeOkMayBuyNo` | Требует контекста | Фрагмент: «Хорошо, давай поторгуем.» |
 | [28648](../../source/SR_2_HD_Lang_vanilla.txt#L28648) | `Talk.Female.Trade.TradeOkMayBuyOk` | Требует контекста | Фрагмент: «Хорошо, поторгуем.» |
@@ -155,14 +155,14 @@
 | [28734](../../source/SR_2_HD_Lang_vanilla.txt#L28734) | `Talk.Goods.LinerNo1` | Требует контекста | Фрагмент: «Я не обращаю внимания на всяких недоносков, и уж тем более не делюсь с ними своим грузом.» |
 | [28735](../../source/SR_2_HD_Lang_vanilla.txt#L28735) | `Talk.Goods.LinerNo2` | Требует контекста | Фрагмент: «Ваши требования смехотворны.» |
 | [28736](../../source/SR_2_HD_Lang_vanilla.txt#L28736) | `Talk.Goods.LinerNo3#1` | Требует контекста | Фрагмент: «О, ты как раз кстати, а я уже начал опасаться, что полет пройдет без происшествий.» |
-| [28738](../../source/SR_2_HD_Lang_vanilla.txt#L28738) | `Talk.Goods.LinerNo3#3` | Разобрано в своде | Фрагмент: «Внимание, внимание!» · [Свод](../../GALAXY_LORE.md#L1638), [Свод](../../GALAXY_LORE.md#L2140) |
-| [28740](../../source/SR_2_HD_Lang_vanilla.txt#L28740) | `Talk.Goods.LinerNo3#5` | Разобрано в своде | Фрагмент: «Уф, оттарабанил.» · [Свод](../../GALAXY_LORE.md#L1638), [Свод](../../GALAXY_LORE.md#L2140) |
+| [28738](../../source/SR_2_HD_Lang_vanilla.txt#L28738) | `Talk.Goods.LinerNo3#3` | Ожидает проверки | Фрагмент: «Внимание, внимание!» |
+| [28740](../../source/SR_2_HD_Lang_vanilla.txt#L28740) | `Talk.Goods.LinerNo3#5` | Ожидает проверки | Фрагмент: «Уф, оттарабанил.» |
 | [28741](../../source/SR_2_HD_Lang_vanilla.txt#L28741) | `Talk.Goods.LinerNo4` | Требует контекста | Фрагмент: «Груз тебе подавай?» |
 | [28742](../../source/SR_2_HD_Lang_vanilla.txt#L28742) | `Talk.Goods.LinerOk` | Требует контекста | Фрагмент: «Я отдам все, что смогу.» |
 | [28743](../../source/SR_2_HD_Lang_vanilla.txt#L28743) | `Talk.Goods.LinerOk1` | Требует контекста | Фрагмент: «Говорили же мне, что в космосе полно маньяков.» |
 | [28744](../../source/SR_2_HD_Lang_vanilla.txt#L28744) | `Talk.Goods.LinerOk2` | Требует контекста | Фрагмент: «Пассажиры готовы поделиться с вами частью багажа, лишь бы вы оставили в покое наш мирный лайнер.» |
-| [28745](../../source/SR_2_HD_Lang_vanilla.txt#L28745) | `Talk.Goods.LinerOk3#1` | Разобрано в своде | Фрагмент: «Ужасно, что в наше время разумные существа готовы пойти на убийство ради каких-то жалких вещей в трюме!» · [Свод](../../GALAXY_LORE.md#L1205) |
-| [28746](../../source/SR_2_HD_Lang_vanilla.txt#L28746) | `Talk.Goods.LinerOk3#2` | Разобрано в своде | Фрагмент: «Что, нет?» · [Свод](../../GALAXY_LORE.md#L1205) |
+| [28745](../../source/SR_2_HD_Lang_vanilla.txt#L28745) | `Talk.Goods.LinerOk3#1` | Ожидает проверки | Фрагмент: «Ужасно, что в наше время разумные существа готовы пойти на убийство ради каких-то жалких вещей в трюме!» |
+| [28746](../../source/SR_2_HD_Lang_vanilla.txt#L28746) | `Talk.Goods.LinerOk3#2` | Ожидает проверки | Фрагмент: «Что, нет?» |
 | [28747](../../source/SR_2_HD_Lang_vanilla.txt#L28747) | `Talk.Goods.LinerOk4` | Требует контекста | Фрагмент: «Эх, а я-то хотел немного подзаработать на межпланетной торговле...» |
 | [28748](../../source/SR_2_HD_Lang_vanilla.txt#L28748) | `Talk.Goods.PirateLongDistance` | Требует контекста | Фрагмент: «Ты вообще подлетел бы поближе, а потом бы уж угрожал.» |
 | [28749](../../source/SR_2_HD_Lang_vanilla.txt#L28749) | `Talk.Goods.PirateLongDistance1#1` | Требует контекста | Фрагмент: «Коллега, дам тебе совет.» |
@@ -244,7 +244,7 @@
 | [28826](../../source/SR_2_HD_Lang_vanilla.txt#L28826) | `Talk.Goods.WarriorNo` | Требует контекста | Фрагмент: «Ну ты, курсант, даешь!» |
 | [28827](../../source/SR_2_HD_Lang_vanilla.txt#L28827) | `Talk.Goods.WarriorNo1` | Требует контекста | Фрагмент: «Ты за кого ты меня принимаешь, салага?» |
 | [28828](../../source/SR_2_HD_Lang_vanilla.txt#L28828) | `Talk.Goods.WarriorNo2` | Требует контекста | Фрагмент: «Хм, ты что - самоубийца?» |
-| [28829](../../source/SR_2_HD_Lang_vanilla.txt#L28829) | `Talk.Goods.WarriorNo3` | Разобрано в своде | Фрагмент: «Ты, наверное, пеленгской наркоты обкурился - иначе как объяснить такое странное поведение?» · [Свод](../../GALAXY_LORE.md#L607) |
+| [28829](../../source/SR_2_HD_Lang_vanilla.txt#L28829) | `Talk.Goods.WarriorNo3` | Ожидает проверки | Фрагмент: «Ты, наверное, пеленгской наркоты обкурился - иначе как объяснить такое странное поведение?» |
 | [28830](../../source/SR_2_HD_Lang_vanilla.txt#L28830) | `Talk.Goods.WarriorNo4` | Требует контекста | Фрагмент: «Что-о?!» |
 | [28832](../../source/SR_2_HD_Lang_vanilla.txt#L28832) | `Talk.Goods.WeAlreadyHavePact` | Требует контекста | Фрагмент: «Мы ранее уже заключили мирное соглашение.» |
 | [28833](../../source/SR_2_HD_Lang_vanilla.txt#L28833) | `Talk.Goods.WeAlreadyHavePact1` | Требует контекста | Фрагмент: «Ты чего снова лезешь, у нас ведь с тобой мирное соглашение?!» |
@@ -260,13 +260,13 @@
 | [28845](../../source/SR_2_HD_Lang_vanilla.txt#L28845) | `Talk.MilitarySupport.AfterSellRemains` | Требует контекста | Фрагмент: «Отлично, что-то еще?» |
 | [28846](../../source/SR_2_HD_Lang_vanilla.txt#L28846) | `Talk.MilitarySupport.AnswerBuff` | Требует контекста | Фрагмент: «Отличный выбор!» |
 | [28847](../../source/SR_2_HD_Lang_vanilla.txt#L28847) | `Talk.MilitarySupport.AnswerFei#1` | Требует контекста | Фрагмент: «Конечно, нужно использовать любую возможность.» |
-| [28848](../../source/SR_2_HD_Lang_vanilla.txt#L28848) | `Talk.MilitarySupport.AnswerFei#2` | Разобрано в своде | Фрагмент: «С помощью специальным образом обработанных нодов и технологии 3D-печати изготавливаются запасные части для экипированного стандартного оборудования.» · [Свод](../../GALAXY_LORE.md#L1731) |
-| [28849](../../source/SR_2_HD_Lang_vanilla.txt#L28849) | `Talk.MilitarySupport.AnswerFei#3` | Разобрано в своде | Фрагмент: «2.» · [Свод](../../GALAXY_LORE.md#L1731) |
+| [28848](../../source/SR_2_HD_Lang_vanilla.txt#L28848) | `Talk.MilitarySupport.AnswerFei#2` | Ожидает проверки | Фрагмент: «С помощью специальным образом обработанных нодов и технологии 3D-печати изготавливаются запасные части для экипированного стандартного оборудования.» |
+| [28849](../../source/SR_2_HD_Lang_vanilla.txt#L28849) | `Talk.MilitarySupport.AnswerFei#3` | Ожидает проверки | Фрагмент: «2.» |
 | [28850](../../source/SR_2_HD_Lang_vanilla.txt#L28850) | `Talk.MilitarySupport.AnswerGaal#1` | Требует контекста | Фрагмент: «Конечно, нужно использовать любую возможность.» |
 | [28851](../../source/SR_2_HD_Lang_vanilla.txt#L28851) | `Talk.MilitarySupport.AnswerGaal#2` | Кандидат | Фрагмент: «С помощью специальным образом обработанных нодов и технологии 3D-печати изготавливаются запасные части для экипированного стандартного оборудования.» |
-| [28852](../../source/SR_2_HD_Lang_vanilla.txt#L28852) | `Talk.MilitarySupport.AnswerGaal#3` | Разобрано в своде | Фрагмент: «Используя нанотехнологии и ноды в качестве основного переносчика наноботов, удается кратковременно повышать эффективность орудий и защиты корабля.» · [Свод](../../GALAXY_LORE.md#L1731) |
+| [28852](../../source/SR_2_HD_Lang_vanilla.txt#L28852) | `Talk.MilitarySupport.AnswerGaal#3` | Ожидает проверки | Фрагмент: «Используя нанотехнологии и ноды в качестве основного переносчика наноботов, удается кратковременно повышать эффективность орудий и защиты корабля.» |
 | [28853](../../source/SR_2_HD_Lang_vanilla.txt#L28853) | `Talk.MilitarySupport.AnswerMaloc#1` | Требует контекста | Фрагмент: «Конечно, нужно использовать любую возможность.» |
-| [28854](../../source/SR_2_HD_Lang_vanilla.txt#L28854) | `Talk.MilitarySupport.AnswerMaloc#2` | Разобрано в своде | Фрагмент: «1.» · [Свод](../../GALAXY_LORE.md#L1731) |
+| [28854](../../source/SR_2_HD_Lang_vanilla.txt#L28854) | `Talk.MilitarySupport.AnswerMaloc#2` | Ожидает проверки | Фрагмент: «1.» |
 | [28855](../../source/SR_2_HD_Lang_vanilla.txt#L28855) | `Talk.MilitarySupport.AnswerMaloc#3` | Кандидат | Фрагмент: «Используя нанотехнологии и ноды в качестве основного переносчика наноботов, удается кратковременно повышать эффективность орудий и защиты корабля.» |
 | [28856](../../source/SR_2_HD_Lang_vanilla.txt#L28856) | `Talk.MilitarySupport.AnswerNoNeedToRepairEq` | Требует контекста | Фрагмент: «Но у тебя все в полном порядке, ремонт не требуется!» |
 | [28857](../../source/SR_2_HD_Lang_vanilla.txt#L28857) | `Talk.MilitarySupport.AnswerNoNeedToRepairHull` | Требует контекста | Фрагмент: «Твой корпус, &lt;Player&gt;, и так целехонький, ремонтировать нет нужды!» |
@@ -277,7 +277,7 @@
 | [28862](../../source/SR_2_HD_Lang_vanilla.txt#L28862) | `Talk.MilitarySupport.AnswerPeleng#2` | Требует контекста | Фрагмент: «1.» |
 | [28863](../../source/SR_2_HD_Lang_vanilla.txt#L28863) | `Talk.MilitarySupport.AnswerPeleng#3` | Требует контекста | Фрагмент: «2.» |
 | [28864](../../source/SR_2_HD_Lang_vanilla.txt#L28864) | `Talk.MilitarySupport.AnswerPeople#1` | Требует контекста | Фрагмент: «Конечно, нужно использовать любую возможность.» |
-| [28865](../../source/SR_2_HD_Lang_vanilla.txt#L28865) | `Talk.MilitarySupport.AnswerPeople#2` | Разобрано в своде | Фрагмент: «1.» · [Свод](../../GALAXY_LORE.md#L1731) |
+| [28865](../../source/SR_2_HD_Lang_vanilla.txt#L28865) | `Talk.MilitarySupport.AnswerPeople#2` | Ожидает проверки | Фрагмент: «1.» |
 | [28866](../../source/SR_2_HD_Lang_vanilla.txt#L28866) | `Talk.MilitarySupport.AnswerPeople#3` | Кандидат | Фрагмент: «Используя нанотехнологии и ноды в качестве основного переносчика наноботов, удается кратковременно повышать эффективность орудий и защиты корабля.» |
 | [28867](../../source/SR_2_HD_Lang_vanilla.txt#L28867) | `Talk.MilitarySupport.AnswerRepairEq` | Кандидат | Фрагмент: «Отлично, для полной починки потребуется &lt;Nodes&gt; нодов, но если сейчас у тебя дефицит, то можем произвести частичный ремонт, взяв только то, что у тебя сейчас в наличии.» |
 | [28868](../../source/SR_2_HD_Lang_vanilla.txt#L28868) | `Talk.MilitarySupport.AnswerRepairEqNoNodes` | Требует контекста | Фрагмент: «Так у тебя вообще нодов нет, &lt;Player&gt;!» |
@@ -308,7 +308,7 @@
 | [28894](../../source/SR_2_HD_Lang_vanilla.txt#L28894) | `Talk.MilitarySupport.RefuseEnemy2` | Требует контекста | Фрагмент: «Согласно приказу командования, &lt;Player&gt; подлежит уничтожению.» |
 | [28895](../../source/SR_2_HD_Lang_vanilla.txt#L28895) | `Talk.MilitarySupport.RefusePirate` | Кандидат | Фрагмент: «Вступи в ряды войск коалиции, тогда и проси подмогу!» |
 | [28896](../../source/SR_2_HD_Lang_vanilla.txt#L28896) | `Talk.MilitarySupport.RefusePirate1` | Кандидат | Фрагмент: «Вот уж нет, &lt;Player&gt;, отправляйся на все четыре стороны, но помогать я буду только членам коалиции.» |
-| [28897](../../source/SR_2_HD_Lang_vanilla.txt#L28897) | `Talk.MilitarySupport.RefusePirate2` | Разобрано в своде | Фрагмент: «&lt;Player&gt;, ты не в курсе, что пиратам доступ к подобным технологиям строго запрещен?» · [Свод](../../GALAXY_LORE.md#L1731) |
+| [28897](../../source/SR_2_HD_Lang_vanilla.txt#L28897) | `Talk.MilitarySupport.RefusePirate2` | Ожидает проверки | Фрагмент: «&lt;Player&gt;, ты не в курсе, что пиратам доступ к подобным технологиям строго запрещен?» |
 | [28898](../../source/SR_2_HD_Lang_vanilla.txt#L28898) | `Talk.MilitarySupport.RefuseWary` | Требует контекста | Фрагмент: «Слушай, &lt;Player&gt;, ты правда считаешь, что я сейчас с тобой в отличных отношениях, чтобы помогать?» |
 | [28899](../../source/SR_2_HD_Lang_vanilla.txt#L28899) | `Talk.MilitarySupport.RefuseWary1` | Требует контекста | Фрагмент: «Ты не в той ситуации, чтобы просить меня о чем-либо, &lt;Player&gt;.» |
 | [28900](../../source/SR_2_HD_Lang_vanilla.txt#L28900) | `Talk.MilitarySupport.RefuseWary2` | Требует контекста | Фрагмент: «Сейчас вообще не та ситуация, чтобы я отвлекался на твои просьбы.» |
@@ -348,7 +348,7 @@
 | [28936](../../source/SR_2_HD_Lang_vanilla.txt#L28936) | `Talk.Money.DiplomatNo9` | Требует контекста | Фрагмент: «Я не намерен откупаться от всяких мерзких пиратов вроде тебя, растрачивая при этом государственную казну и собственные сбережения!» |
 | [28937](../../source/SR_2_HD_Lang_vanilla.txt#L28937) | `Talk.Money.DiplomatOk` | Требует контекста | Фрагмент: «Я вынужден подчиниться этому несправедливому требованию.» |
 | [28938](../../source/SR_2_HD_Lang_vanilla.txt#L28938) | `Talk.Money.DiplomatOk1` | Требует контекста | Фрагмент: «Сегодня черный день в моей карьере.» |
-| [28939](../../source/SR_2_HD_Lang_vanilla.txt#L28939) | `Talk.Money.DiplomatOk2` | Разобрано в своде | Фрагмент: «Ну, что ж, я выражаю готовность перевести на твой счет требуемую сумму.» · [Свод](../../GALAXY_LORE.md#L1683) |
+| [28939](../../source/SR_2_HD_Lang_vanilla.txt#L28939) | `Talk.Money.DiplomatOk2` | Ожидает проверки | Фрагмент: «Ну, что ж, я выражаю готовность перевести на твой счет требуемую сумму.» |
 | [28940](../../source/SR_2_HD_Lang_vanilla.txt#L28940) | `Talk.Money.DiplomatOk3` | Требует контекста | Фрагмент: «Выплачиваю тебе требуемую сумму из своих командировочных.» |
 | [28941](../../source/SR_2_HD_Lang_vanilla.txt#L28941) | `Talk.Money.DiplomatOk4` | Требует контекста | Фрагмент: «Хорошо, я заплачу тебе деньги.» |
 | [28942](../../source/SR_2_HD_Lang_vanilla.txt#L28942) | `Talk.Money.DiplomatOk5` | Кандидат | Фрагмент: «Думаю, мы вполне можем договориться.» |
@@ -380,7 +380,7 @@
 | [28968](../../source/SR_2_HD_Lang_vanilla.txt#L28968) | `Talk.Money.LinerNo9` | Требует контекста | Фрагмент: «Класс!» |
 | [28969](../../source/SR_2_HD_Lang_vanilla.txt#L28969) | `Talk.Money.LinerOk` | Требует контекста | Фрагмент: «Пассажиры на моем корабле с радостью собрали требуемую сумму, и я перевожу ее на ваш счет.» |
 | [28970](../../source/SR_2_HD_Lang_vanilla.txt#L28970) | `Talk.Money.LinerOk1` | Требует контекста | Фрагмент: «Состоятельный бизнесмен на нашем борту согласен перевести на ваш счет требуемую сумму, чтобы вы нас не преследовали.» |
-| [28971](../../source/SR_2_HD_Lang_vanilla.txt#L28971) | `Talk.Money.LinerOk2` | Разобрано в своде | Фрагмент: «Погодите, не стреляйте!» · [Свод](../../GALAXY_LORE.md#L2320) |
+| [28971](../../source/SR_2_HD_Lang_vanilla.txt#L28971) | `Talk.Money.LinerOk2` | Ожидает проверки | Фрагмент: «Погодите, не стреляйте!» |
 | [28972](../../source/SR_2_HD_Lang_vanilla.txt#L28972) | `Talk.Money.LinerOk3` | Кандидат | Фрагмент: «Капитан корабля в обмороке, с вами сейчас разговаривает стюардесса.» |
 | [28973](../../source/SR_2_HD_Lang_vanilla.txt#L28973) | `Talk.Money.LinerOk4` | Требует контекста | Фрагмент: «На борту нашего пассажирского судна компания богатых туристов с планеты &lt;HomePlanet&gt; готова выплатить вам требуемую сумму, только не стреляйте!» |
 | [28974](../../source/SR_2_HD_Lang_vanilla.txt#L28974) | `Talk.Money.LinerOk5` | Требует контекста | Фрагмент: «Мои пассажиры в ужасе, ими овладел массовый психоз, некоторые уже пытаются выброситься в иллюминаторы...» |
@@ -651,7 +651,7 @@
 | [29248](../../source/SR_2_HD_Lang_vanilla.txt#L29248) | `Talk.Pirate.ComputerAgreeFlyToMe2` | Требует контекста | Фрагмент: «Спокуха, брателло, щас я в момент тебя догоню.» |
 | [29249](../../source/SR_2_HD_Lang_vanilla.txt#L29249) | `Talk.Pirate.ComputerAgreeFlyToMe3` | Требует контекста | Фрагмент: «Слушаюсь, начальник!» |
 | [29250](../../source/SR_2_HD_Lang_vanilla.txt#L29250) | `Talk.Pirate.ComputerAgreeFlyToMe4` | Требует контекста | Фрагмент: «Не боись, шеф.» |
-| [29251](../../source/SR_2_HD_Lang_vanilla.txt#L29251) | `Talk.Pirate.ComputerAgreeFlyToStar` | Разобрано в своде | Фрагмент: «Ну, чавой, согласен, братан!» · [Свод](../../GALAXY_LORE.md#L2219) |
+| [29251](../../source/SR_2_HD_Lang_vanilla.txt#L29251) | `Talk.Pirate.ComputerAgreeFlyToStar` | Ожидает проверки | Фрагмент: «Ну, чавой, согласен, братан!» |
 | [29252](../../source/SR_2_HD_Lang_vanilla.txt#L29252) | `Talk.Pirate.ComputerAgreeFlyToStar1` | Требует контекста | Фрагмент: «Конечно, братан!» |
 | [29253](../../source/SR_2_HD_Lang_vanilla.txt#L29253) | `Talk.Pirate.ComputerAgreeFlyToStar2` | Требует контекста | Фрагмент: «Да без проблем, шеф!» |
 | [29254](../../source/SR_2_HD_Lang_vanilla.txt#L29254) | `Talk.Pirate.ComputerAgreeFlyToStar3` | Требует контекста | Фрагмент: «А мне кореша говорили, что эти прыжки плохо на здоровье влияют...» |
@@ -660,7 +660,7 @@
 | [29257](../../source/SR_2_HD_Lang_vanilla.txt#L29257) | `Talk.Pirate.ComputerAgreeLandingToObject2` | Требует контекста | Фрагмент: «Точняк, шеф, самое время обмозговать ситуацию!» |
 | [29258](../../source/SR_2_HD_Lang_vanilla.txt#L29258) | `Talk.Pirate.ComputerAgreeLandingToObject3` | Требует контекста | Фрагмент: «Прально, думать надо по расписанию!» |
 | [29259](../../source/SR_2_HD_Lang_vanilla.txt#L29259) | `Talk.Pirate.ComputerDisagreeFlyToStar` | Требует контекста | Фрагмент: «Ну ты деревня!» |
-| [29260](../../source/SR_2_HD_Lang_vanilla.txt#L29260) | `Talk.Pirate.ComputerDisagreeFlyToStar1` | Разобрано в своде | Фрагмент: «Слышишь, брат, ты туды не ходы, ты другая сторона ходы.» · [Отсылки](../../GALAXY_LORE_PARODY.md#L35) |
+| [29260](../../source/SR_2_HD_Lang_vanilla.txt#L29260) | `Talk.Pirate.ComputerDisagreeFlyToStar1` | Ожидает проверки | Фрагмент: «Слышишь, брат, ты туды не ходы, ты другая сторона ходы.» |
 | [29261](../../source/SR_2_HD_Lang_vanilla.txt#L29261) | `Talk.Pirate.ComputerDisagreeFlyToStar2` | Кандидат | Фрагмент: «Про войну базара не было, так что, катись туда один!» |
 | [29262](../../source/SR_2_HD_Lang_vanilla.txt#L29262) | `Talk.Pirate.ComputerDisagreeFlyToStar3` | Требует контекста | Фрагмент: «Я че, вояка что ли?» |
 | [29263](../../source/SR_2_HD_Lang_vanilla.txt#L29263) | `Talk.Pirate.ComputerDisagreeLandingToObject` | Требует контекста | Фрагмент: «Не, шеф, меня ж там в тюрягу упекут!» |
@@ -677,9 +677,9 @@
 | [29274](../../source/SR_2_HD_Lang_vanilla.txt#L29274) | `Talk.Pirate.ComputerDropCargoOk1` | Требует контекста | Фрагмент: «Сейчас я избавлюсь от своего груза.» |
 | [29275](../../source/SR_2_HD_Lang_vanilla.txt#L29275) | `Talk.Pirate.ComputerDropCargoOk2` | Требует контекста | Фрагмент: «Хорошо, сейчас выкину груз.» |
 | [29276](../../source/SR_2_HD_Lang_vanilla.txt#L29276) | `Talk.Pirate.ComputerInFear` | Требует контекста | Фрагмент: «Шеф, не знаю как у тебя, а у меня уже поджилки трясутся.» |
-| [29277](../../source/SR_2_HD_Lang_vanilla.txt#L29277) | `Talk.Pirate.ComputerInFear1` | Разобрано в своде | Фрагмент: «Самое время вспомнить 1001-ый прием древнего человеческого боевого искусства - карате.» · [Отсылки](../../GALAXY_LORE_PARODY.md#L104) |
+| [29277](../../source/SR_2_HD_Lang_vanilla.txt#L29277) | `Talk.Pirate.ComputerInFear1` | Ожидает проверки | Фрагмент: «Самое время вспомнить 1001-ый прием древнего человеческого боевого искусства - карате.» |
 | [29278](../../source/SR_2_HD_Lang_vanilla.txt#L29278) | `Talk.Pirate.ComputerInFear2` | Требует контекста | Фрагмент: «Братан, тут в натуре жарко стало!» |
-| [29279](../../source/SR_2_HD_Lang_vanilla.txt#L29279) | `Talk.Pirate.ComputerSayNo` | Разобрано в своде | Фрагмент: «Ты че, &lt;Player&gt;, "махпельского темного" перебрал?» · [Свод](../../GALAXY_LORE.md#L2219) |
+| [29279](../../source/SR_2_HD_Lang_vanilla.txt#L29279) | `Talk.Pirate.ComputerSayNo` | Ожидает проверки | Фрагмент: «Ты че, &lt;Player&gt;, "махпельского темного" перебрал?» |
 | [29280](../../source/SR_2_HD_Lang_vanilla.txt#L29280) | `Talk.Pirate.ComputerSayNo1` | Требует контекста | Фрагмент: «Слушай, &lt;Player&gt;, думаешь, я совсем считать не умею?» |
 | [29281](../../source/SR_2_HD_Lang_vanilla.txt#L29281) | `Talk.Pirate.ComputerSayOk` | Требует контекста | Фрагмент: «Отличная идея, братан!» |
 | [29282](../../source/SR_2_HD_Lang_vanilla.txt#L29282) | `Talk.Pirate.ComputerSayOk1` | Требует контекста | Фрагмент: «По рукам, брателло!» |
@@ -693,7 +693,7 @@
 | [29290](../../source/SR_2_HD_Lang_vanilla.txt#L29290) | `Talk.Pirate.FinancesSendGift` | Требует контекста | Фрагмент: «Возьми &lt;Money&gt; cr.» |
 | [29291](../../source/SR_2_HD_Lang_vanilla.txt#L29291) | `Talk.Pirate.FinancesWaitForGift` | Требует контекста | Фрагмент: «Итак, &lt;Player&gt;, сколько ты готов мне подкинуть?» |
 | [29292](../../source/SR_2_HD_Lang_vanilla.txt#L29292) | `Talk.Pirate.FlyToMe` | Требует контекста | Фрагмент: «Двигай за мной!» |
-| [29293](../../source/SR_2_HD_Lang_vanilla.txt#L29293) | `Talk.Pirate.FlyToMe1` | Разобрано в своде | Фрагмент: «Братан, давай уже, сникерсни!» · [Отсылки](../../GALAXY_LORE_PARODY.md#L104) |
+| [29293](../../source/SR_2_HD_Lang_vanilla.txt#L29293) | `Talk.Pirate.FlyToMe1` | Ожидает проверки | Фрагмент: «Братан, давай уже, сникерсни!» |
 | [29294](../../source/SR_2_HD_Lang_vanilla.txt#L29294) | `Talk.Pirate.FlyToMe2` | Требует контекста | Фрагмент: «Что стоим, кого ждем?» |
 | [29295](../../source/SR_2_HD_Lang_vanilla.txt#L29295) | `Talk.Pirate.FlyToMe3` | Требует контекста | Фрагмент: «Я тебе за самодеятельность башляю что ли?» |
 | [29296](../../source/SR_2_HD_Lang_vanilla.txt#L29296) | `Talk.Pirate.FlyToMe4` | Требует контекста | Фрагмент: «Брателло, если ты думаешь, что в другом конце системы тебе больше заплатят, то ты явно не в теме.» |
@@ -701,4 +701,4 @@
 | [29298](../../source/SR_2_HD_Lang_vanilla.txt#L29298) | `Talk.Pirate.FlyToStar1` | Требует контекста | Фрагмент: «Нечего нам тут больше ловить, кончилась халява.» |
 | [29299](../../source/SR_2_HD_Lang_vanilla.txt#L29299) | `Talk.Pirate.FlyToStar2` | Требует контекста | Фрагмент: «Жаждешь легких денег?» |
 | [29300](../../source/SR_2_HD_Lang_vanilla.txt#L29300) | `Talk.Pirate.FlyToStar3` | Кандидат | Фрагмент: «Ты, братан, навигацию в школе учил?» |
-| [29301](../../source/SR_2_HD_Lang_vanilla.txt#L29301) | `Talk.Pirate.FlyToStar4` | Разобрано в своде | Фрагмент: «В систему &lt;Star&gt; желаешь прыгнуть ты...» · [Отсылки](../../GALAXY_LORE_PARODY.md#L35) |
+| [29301](../../source/SR_2_HD_Lang_vanilla.txt#L29301) | `Talk.Pirate.FlyToStar4` | Ожидает проверки | Фрагмент: «В систему &lt;Star&gt; желаешь прыгнуть ты...» |

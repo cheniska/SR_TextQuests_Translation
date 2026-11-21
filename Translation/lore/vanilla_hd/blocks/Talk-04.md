@@ -59,7 +59,7 @@
 | [30093](../../source/SR_2_HD_Lang_vanilla.txt#L30093) | `Talk.Protect.TargetThanks1` | Требует контекста | Фрагмент: «Если бы мое благосостояние равнялось моей признательности по отношению к тебе, &lt;Player&gt;, я был бы миллионером!» |
 | [30094](../../source/SR_2_HD_Lang_vanilla.txt#L30094) | `Talk.Protect.TargetThanks2` | Требует контекста | Фрагмент: «Очень благодарен тебе, &lt;Player&gt;, за то, что ты меня выручил.» |
 | [30095](../../source/SR_2_HD_Lang_vanilla.txt#L30095) | `Talk.Protect.TargetThanks3` | Требует контекста | Фрагмент: «Ты лучший парень из всех, что мне когда-либо попадались, &lt;Player&gt;!» |
-| [30096](../../source/SR_2_HD_Lang_vanilla.txt#L30096) | `Talk.Protect.TargetThanks4` | Разобрано в своде | Фрагмент: «Слушай, &lt;Player&gt;, ты себе не представляешь, как я тебе благодарен!» · [Свод](../../GALAXY_LORE.md#L2019) |
+| [30096](../../source/SR_2_HD_Lang_vanilla.txt#L30096) | `Talk.Protect.TargetThanks4` | Ожидает проверки | Фрагмент: «Слушай, &lt;Player&gt;, ты себе не представляешь, как я тебе благодарен!» |
 | [30097](../../source/SR_2_HD_Lang_vanilla.txt#L30097) | `Talk.Protect.TransportNo` | Требует контекста | Фрагмент: «Я так раздражен его действиями, что не могу согласиться с данным требованием.» |
 | [30098](../../source/SR_2_HD_Lang_vanilla.txt#L30098) | `Talk.Protect.TransportNo1` | Требует контекста | Фрагмент: «Отстань, &lt;Player&gt;, а не то сейчас настанет и твой черед.» |
 | [30099](../../source/SR_2_HD_Lang_vanilla.txt#L30099) | `Talk.Protect.TransportNo2` | Требует контекста | Фрагмент: «Не успокоюсь, пока не уничтожу этого изверга.» |
@@ -117,7 +117,7 @@
 | [30164](../../source/SR_2_HD_Lang_vanilla.txt#L30164) | `Talk.Tranclucator.FlyToMe.PlayerSend` | Требует контекста | Фрагмент: «Следуй за мной» |
 | [30166](../../source/SR_2_HD_Lang_vanilla.txt#L30166) | `Talk.Tranclucator.Greeting` | Требует контекста | Фрагмент: «Вся моя боевая мощь к вашим услугам, хозяин.» |
 | [30167](../../source/SR_2_HD_Lang_vanilla.txt#L30167) | `Talk.Tranclucator.LandingToObject` | Требует контекста | Фрагмент: «Совершаем посадку на &lt;ObjectName&gt;» |
-| [30168](../../source/SR_2_HD_Lang_vanilla.txt#L30168) | `Talk.Tranclucator.LandingToStorage` | Разобрано в своде | Фрагмент: «Садись на &lt;ObjectName&gt; и оставайся на складе» · [Свод](../../GALAXY_LORE.md#L1789) |
+| [30168](../../source/SR_2_HD_Lang_vanilla.txt#L30168) | `Talk.Tranclucator.LandingToStorage` | Ожидает проверки | Фрагмент: «Садись на &lt;ObjectName&gt; и оставайся на складе» |
 | [30170](../../source/SR_2_HD_Lang_vanilla.txt#L30170) | `Talk.Tranclucator.Options.ArrangeBad` | Требует контекста | Фрагмент: «3.Запрещено менять оборудование» |
 | [30171](../../source/SR_2_HD_Lang_vanilla.txt#L30171) | `Talk.Tranclucator.Options.ArrangeNo` | Требует контекста | Фрагмент: «Запрещаю менять оборудование» |
 | [30172](../../source/SR_2_HD_Lang_vanilla.txt#L30172) | `Talk.Tranclucator.Options.ArrangeText` | Требует контекста | Фрагмент: «3.Разрешено менять оборудование» |
@@ -143,7 +143,7 @@
 | [30194](../../source/SR_2_HD_Lang_vanilla.txt#L30194) | `Talk.Tranclucator.Return.Ok` | Требует контекста | Фрагмент: «Приказ понятен.» |
 | [30195](../../source/SR_2_HD_Lang_vanilla.txt#L30195) | `Talk.Tranclucator.Return.PlayerSend` | Требует контекста | Фрагмент: «Возвращайся назад» |
 | [30198](../../source/SR_2_HD_Lang_vanilla.txt#L30198) | `Talk.Tranclucator.SeekItems.Cancel` | Требует контекста | Фрагмент: «Приказ принят.» |
-| [30199](../../source/SR_2_HD_Lang_vanilla.txt#L30199) | `Talk.Tranclucator.SeekItems.Ok` | Разобрано в своде | Фрагмент: «Начинаю поиск и сбор вещей в зоне видимости.» · [Свод](../../GALAXY_LORE.md#L1789) |
+| [30199](../../source/SR_2_HD_Lang_vanilla.txt#L30199) | `Talk.Tranclucator.SeekItems.Ok` | Ожидает проверки | Фрагмент: «Начинаю поиск и сбор вещей в зоне видимости.» |
 | [30200](../../source/SR_2_HD_Lang_vanilla.txt#L30200) | `Talk.Tranclucator.SeekItems.PlayerCancel` | Требует контекста | Фрагмент: «Приказываю прекратить сбор вещей» |
 | [30201](../../source/SR_2_HD_Lang_vanilla.txt#L30201) | `Talk.Tranclucator.SeekItems.PlayerSend` | Требует контекста | Фрагмент: «Приказываю приступить к сбору вещей» |
 | [30205](../../source/SR_2_HD_Lang_vanilla.txt#L30205) | `Talk.Truce.ComputerAsk` | Требует контекста | Фрагмент: «И сколько ты готов выложить за мир?» |
@@ -266,7 +266,7 @@
 | [30322](../../source/SR_2_HD_Lang_vanilla.txt#L30322) | `Talk.Truce.WarriorOk` | Требует контекста | Фрагмент: «Эти деньги пойдут на поддержание нашей боеспособности.» |
 | [30323](../../source/SR_2_HD_Lang_vanilla.txt#L30323) | `Talk.Truce.WarriorOk1` | Требует контекста | Фрагмент: «Я передал информацию об этом взносе на планету &lt;HomePlanet&gt;, вышестоящему начальству.» |
 | [30324](../../source/SR_2_HD_Lang_vanilla.txt#L30324) | `Talk.Truce.WarriorOk2` | Требует контекста | Фрагмент: «Будь моя воля, я бы таких уродов, как ты, расстреливал на месте, без суда и следствия.» |
-| [30325](../../source/SR_2_HD_Lang_vanilla.txt#L30325) | `Talk.Truce.WarriorOk3` | Разобрано в своде | Фрагмент: «Ну, что ж, сумма не ахти какая, но с паршивой овцы хоть шерсти клок!» · [Свод](../../GALAXY_LORE.md#L806), [Свод](../../GALAXY_LORE.md#L1914) |
+| [30325](../../source/SR_2_HD_Lang_vanilla.txt#L30325) | `Talk.Truce.WarriorOk3` | Ожидает проверки | Фрагмент: «Ну, что ж, сумма не ахти какая, но с паршивой овцы хоть шерсти клок!» |
 | [30326](../../source/SR_2_HD_Lang_vanilla.txt#L30326) | `Talk.Truce.WarriorOk4` | Требует контекста | Фрагмент: «С планеты &lt;HomePlanet&gt; пришел приказ пропустить тебя.» |
 | [30328](../../source/SR_2_HD_Lang_vanilla.txt#L30328) | `Talk.Truce.WeAlreadyHavePact` | Требует контекста | Фрагмент: «Мне кажется, что тобой уже было нарушено мирное соглашение между нами.» |
 | [30329](../../source/SR_2_HD_Lang_vanilla.txt#L30329) | `Talk.Truce.WeAlreadyHavePact1` | Требует контекста | Фрагмент: «О, ты уже прекрасно доказал мне свою подлую натуру.» |

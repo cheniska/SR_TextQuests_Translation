@@ -9,7 +9,7 @@
 | [7804](../../source/SR_2_HD_Lang_vanilla.txt#L7804) | `Items.CargoHook.Detail.1` | Требует контекста | Фрагмент: «Мощность» |
 | [7805](../../source/SR_2_HD_Lang_vanilla.txt#L7805) | `Items.CargoHook.Detail.2` | Требует контекста | Фрагмент: «Дальность» |
 | [7807](../../source/SR_2_HD_Lang_vanilla.txt#L7807) | `Items.CargoHook.KlingName` | Требует контекста | Фрагмент: «Ментощуп» |
-| [7808](../../source/SR_2_HD_Lang_vanilla.txt#L7808) | `Items.CargoHook.KlingText` | Разобрано в своде | Фрагмент: «Создает направленный ментокинезный поток и производит захват предметов размером до &lt;PickUpSize&gt; единиц на расстоянии &lt;Radius&gt;.» · [Свод](../../GALAXY_LORE.md#L1388) |
+| [7808](../../source/SR_2_HD_Lang_vanilla.txt#L7808) | `Items.CargoHook.KlingText` | Ожидает проверки | Фрагмент: «Создает направленный ментокинезный поток и производит захват предметов размером до &lt;PickUpSize&gt; единиц на расстоянии &lt;Radius&gt;.» |
 | [7809](../../source/SR_2_HD_Lang_vanilla.txt#L7809) | `Items.CargoHook.Name` | Требует контекста | Фрагмент: «&lt;Type&gt; захват» |
 | [7810](../../source/SR_2_HD_Lang_vanilla.txt#L7810) | `Items.CargoHook.ShortName` | Требует контекста | Фрагмент: «Захват» |
 | [7811](../../source/SR_2_HD_Lang_vanilla.txt#L7811) | `Items.CargoHook.Text` | Требует контекста | Фрагмент: «Захватывает небольшие объекты размером до &lt;PickUpSize&gt; единиц на расстоянии &lt;Radius&gt;.» |
@@ -33,7 +33,7 @@
 | [7840](../../source/SR_2_HD_Lang_vanilla.txt#L7840) | `Items.DefGenerator.BrokenInBattle` | Требует контекста | Фрагмент: «Опасность!» |
 | [7841](../../source/SR_2_HD_Lang_vanilla.txt#L7841) | `Items.DefGenerator.BrokenInUse` | Требует контекста | Фрагмент: «Генератор защиты сломался.» |
 | [7842](../../source/SR_2_HD_Lang_vanilla.txt#L7842) | `Items.DefGenerator.KlingName` | Требует контекста | Фрагмент: «Пикселит» |
-| [7843](../../source/SR_2_HD_Lang_vanilla.txt#L7843) | `Items.DefGenerator.KlingText` | Разобрано в своде | Фрагмент: «Генератор точечной защиты, способный нейтрализовать &lt;Percent&gt;% негативного внешнего воздействия.» · [Свод](../../GALAXY_LORE.md#L1388) |
+| [7843](../../source/SR_2_HD_Lang_vanilla.txt#L7843) | `Items.DefGenerator.KlingText` | Ожидает проверки | Фрагмент: «Генератор точечной защиты, способный нейтрализовать &lt;Percent&gt;% негативного внешнего воздействия.» |
 | [7844](../../source/SR_2_HD_Lang_vanilla.txt#L7844) | `Items.DefGenerator.Name` | Требует контекста | Фрагмент: «&lt;Type&gt; генератор защиты» |
 | [7845](../../source/SR_2_HD_Lang_vanilla.txt#L7845) | `Items.DefGenerator.NameSmall` | Требует контекста | Фрагмент: «&lt;Type&gt; Г.З.П.» |
 | [7846](../../source/SR_2_HD_Lang_vanilla.txt#L7846) | `Items.DefGenerator.ShortName` | Требует контекста | Фрагмент: «Генератор защиты» |
@@ -47,7 +47,7 @@
 | [7855](../../source/SR_2_HD_Lang_vanilla.txt#L7855) | `Items.DefGenerator.Type.7` | Требует контекста | Фрагмент: «Микроуровневый» |
 | [7856](../../source/SR_2_HD_Lang_vanilla.txt#L7856) | `Items.DefGenerator.Type.8` | Требует контекста | Фрагмент: «Ультраплазменный» |
 | [7862](../../source/SR_2_HD_Lang_vanilla.txt#L7862) | `Items.Engine.Broken` | Требует контекста | Фрагмент: «(требует ремонта)» |
-| [7863](../../source/SR_2_HD_Lang_vanilla.txt#L7863) | `Items.Engine.BrokenByForce` | Разобрано в своде | Фрагмент: «К сожалению, близкое знакомство с Бертором сделало свое черное дело.» · [Свод](../../GALAXY_LORE.md#L1366) |
+| [7863](../../source/SR_2_HD_Lang_vanilla.txt#L7863) | `Items.Engine.BrokenByForce` | Ожидает проверки | Фрагмент: «К сожалению, близкое знакомство с Бертором сделало свое черное дело.» |
 | [7864](../../source/SR_2_HD_Lang_vanilla.txt#L7864) | `Items.Engine.BrokenInBattle` | Требует контекста | Фрагмент: «Внимание!» |
 | [7865](../../source/SR_2_HD_Lang_vanilla.txt#L7865) | `Items.Engine.BrokenInUse` | Требует контекста | Фрагмент: «Двигатель совсем плох и требует починки.» |
 | [7867](../../source/SR_2_HD_Lang_vanilla.txt#L7867) | `Items.Engine.Detail.1` | Требует контекста | Фрагмент: «Скорость» |
@@ -77,7 +77,7 @@
 | [7902](../../source/SR_2_HD_Lang_vanilla.txt#L7902) | `Items.FuelTanks.BrokenInBattle` | Требует контекста | Фрагмент: «Внимание!» |
 | [7903](../../source/SR_2_HD_Lang_vanilla.txt#L7903) | `Items.FuelTanks.BrokenInUse` | Требует контекста | Фрагмент: «Топливный бак не выдержал нагрузок и сломался.» |
 | [7904](../../source/SR_2_HD_Lang_vanilla.txt#L7904) | `Items.FuelTanks.KlingName` | Требует контекста | Фрагмент: «Стекбаррель» |
-| [7905](../../source/SR_2_HD_Lang_vanilla.txt#L7905) | `Items.FuelTanks.KlingText` | Разобрано в своде | Фрагмент: «Топливный контейнер емкостью &lt;Capacity&gt;.» · [Свод](../../GALAXY_LORE.md#L1388) |
+| [7905](../../source/SR_2_HD_Lang_vanilla.txt#L7905) | `Items.FuelTanks.KlingText` | Ожидает проверки | Фрагмент: «Топливный контейнер емкостью &lt;Capacity&gt;.» |
 | [7906](../../source/SR_2_HD_Lang_vanilla.txt#L7906) | `Items.FuelTanks.LostFuel` | Требует контекста | Фрагмент: «Из пробитого бака вытекло немного топлива.» |
 | [7907](../../source/SR_2_HD_Lang_vanilla.txt#L7907) | `Items.FuelTanks.Name` | Требует контекста | Фрагмент: «&lt;Type&gt; топливный бак» |
 | [7908](../../source/SR_2_HD_Lang_vanilla.txt#L7908) | `Items.FuelTanks.NoFuelJump` | Требует контекста | Фрагмент: «Не хватает топлива для прыжка в систему &lt;Star&gt;.» |
@@ -98,7 +98,7 @@
 | [7929](../../source/SR_2_HD_Lang_vanilla.txt#L7929) | `Items.Goods.Name.5` | Требует контекста | Фрагмент: «Минералы» |
 | [7930](../../source/SR_2_HD_Lang_vanilla.txt#L7930) | `Items.Goods.Name.6` | Требует контекста | Фрагмент: «Алкоголь» |
 | [7931](../../source/SR_2_HD_Lang_vanilla.txt#L7931) | `Items.Goods.Name.7` | Требует контекста | Фрагмент: «Оружие» |
-| [7932](../../source/SR_2_HD_Lang_vanilla.txt#L7932) | `Items.Goods.Name.8` | Разобрано в своде | Фрагмент: «Наркотики» · [Свод](../../GALAXY_LORE.md#L1628) |
+| [7932](../../source/SR_2_HD_Lang_vanilla.txt#L7932) | `Items.Goods.Name.8` | Ожидает проверки | Фрагмент: «Наркотики» |
 | [7935](../../source/SR_2_HD_Lang_vanilla.txt#L7935) | `Items.Goods.NameBuy.1` | Требует контекста | Фрагмент: «Продукты» |
 | [7936](../../source/SR_2_HD_Lang_vanilla.txt#L7936) | `Items.Goods.NameBuy.2` | Требует контекста | Фрагмент: «Медикаменты» |
 | [7937](../../source/SR_2_HD_Lang_vanilla.txt#L7937) | `Items.Goods.NameBuy.3` | Требует контекста | Фрагмент: «Технику» |
@@ -137,7 +137,7 @@
 | [7994](../../source/SR_2_HD_Lang_vanilla.txt#L7994) | `Items.Nod.S0` | Требует контекста | Фрагмент: «Блазера» |
 | [7995](../../source/SR_2_HD_Lang_vanilla.txt#L7995) | `Items.Nod.S1` | Требует контекста | Фрагмент: «Келлера» |
 | [7996](../../source/SR_2_HD_Lang_vanilla.txt#L7996) | `Items.Nod.S2` | Требует контекста | Фрагмент: «Террона» |
-| [7997](../../source/SR_2_HD_Lang_vanilla.txt#L7997) | `Items.Nod.Text#1` | Разобрано в своде | Фрагмент: «Простейшие микроэлементы доминаторов.» · [Свод](../../GALAXY_LORE.md#L1365) |
+| [7997](../../source/SR_2_HD_Lang_vanilla.txt#L7997) | `Items.Nod.Text#1` | Ожидает проверки | Фрагмент: «Простейшие микроэлементы доминаторов.» |
 | [7998](../../source/SR_2_HD_Lang_vanilla.txt#L7998) | `Items.Nod.Text#2` | Требует контекста | Фрагмент: «Кол-во: &lt;N&gt; шт.» |
 | [8002](../../source/SR_2_HD_Lang_vanilla.txt#L8002) | `Items.Radar.Broken` | Требует контекста | Фрагмент: «(не функционирует)» |
 | [8003](../../source/SR_2_HD_Lang_vanilla.txt#L8003) | `Items.Radar.BrokenByForce` | Кандидат | Фрагмент: «Радар больше не работает.» |
@@ -161,7 +161,7 @@
 | [8027](../../source/SR_2_HD_Lang_vanilla.txt#L8027) | `Items.RepairRobot.BrokenInBattle` | Требует контекста | Фрагмент: «Внимание!» |
 | [8028](../../source/SR_2_HD_Lang_vanilla.txt#L8028) | `Items.RepairRobot.BrokenInUse` | Требует контекста | Фрагмент: «Дроид перетрудился.» |
 | [8029](../../source/SR_2_HD_Lang_vanilla.txt#L8029) | `Items.RepairRobot.KlingName` | Требует контекста | Фрагмент: «Дианод» |
-| [8030](../../source/SR_2_HD_Lang_vanilla.txt#L8030) | `Items.RepairRobot.KlingText` | Разобрано в своде | Фрагмент: «Заполняет поврежденные места быстрозатвердевающим веществом, восстанавливает &lt;RecoverHitPoints&gt; единиц поврежденной обшивки.» · [Свод](../../GALAXY_LORE.md#L1388) |
+| [8030](../../source/SR_2_HD_Lang_vanilla.txt#L8030) | `Items.RepairRobot.KlingText` | Ожидает проверки | Фрагмент: «Заполняет поврежденные места быстрозатвердевающим веществом, восстанавливает &lt;RecoverHitPoints&gt; единиц поврежденной обшивки.» |
 | [8031](../../source/SR_2_HD_Lang_vanilla.txt#L8031) | `Items.RepairRobot.Name` | Требует контекста | Фрагмент: «&lt;Type&gt; дроид» |
 | [8032](../../source/SR_2_HD_Lang_vanilla.txt#L8032) | `Items.RepairRobot.ShortName` | Требует контекста | Фрагмент: «Дроид» |
 | [8033](../../source/SR_2_HD_Lang_vanilla.txt#L8033) | `Items.RepairRobot.Text` | Требует контекста | Фрагмент: «Восстанавливает &lt;RecoverHitPoints&gt; единиц поврежденной обшивки.» |
@@ -174,22 +174,22 @@
 | [8041](../../source/SR_2_HD_Lang_vanilla.txt#L8041) | `Items.RepairRobot.Type.7` | Требует контекста | Фрагмент: «Штифтовый» |
 | [8042](../../source/SR_2_HD_Lang_vanilla.txt#L8042) | `Items.RepairRobot.Type.8` | Требует контекста | Фрагмент: «Дуплексный» |
 | [8049](../../source/SR_2_HD_Lang_vanilla.txt#L8049) | `Items.Satellite.0.Name` | Требует контекста | Фрагмент: «Оперон» |
-| [8052](../../source/SR_2_HD_Lang_vanilla.txt#L8052) | `Items.Satellite.0.Text#1` | Разобрано в своде | Фрагмент: «Высокоорбитальный спутник класса "C".» · [Свод](../../GALAXY_LORE.md#L1799) |
+| [8052](../../source/SR_2_HD_Lang_vanilla.txt#L8052) | `Items.Satellite.0.Text#1` | Ожидает проверки | Фрагмент: «Высокоорбитальный спутник класса "C".» |
 | [8053](../../source/SR_2_HD_Lang_vanilla.txt#L8053) | `Items.Satellite.0.Text#2` | Требует контекста | Фрагмент: «Вода: &lt;Water&gt; / Равнина: &lt;Land&gt; / Горы: &lt;Hill&gt;» |
 | [8058](../../source/SR_2_HD_Lang_vanilla.txt#L8058) | `Items.Satellite.1.Name` | Требует контекста | Фрагмент: «Керинд» |
-| [8061](../../source/SR_2_HD_Lang_vanilla.txt#L8061) | `Items.Satellite.1.Text#1` | Разобрано в своде | Фрагмент: «Низкоорбитальный спутник класса "С".» · [Свод](../../GALAXY_LORE.md#L1799) |
+| [8061](../../source/SR_2_HD_Lang_vanilla.txt#L8061) | `Items.Satellite.1.Text#1` | Ожидает проверки | Фрагмент: «Низкоорбитальный спутник класса "С".» |
 | [8062](../../source/SR_2_HD_Lang_vanilla.txt#L8062) | `Items.Satellite.1.Text#2` | Требует контекста | Фрагмент: «Вода: &lt;Water&gt; / Равнина: &lt;Land&gt; / Горы: &lt;Hill&gt;» |
 | [8067](../../source/SR_2_HD_Lang_vanilla.txt#L8067) | `Items.Satellite.2.Name` | Требует контекста | Фрагмент: «Тектон» |
-| [8070](../../source/SR_2_HD_Lang_vanilla.txt#L8070) | `Items.Satellite.2.Text#1` | Разобрано в своде | Фрагмент: «Высокоорбитальный спутник класса "B".» · [Свод](../../GALAXY_LORE.md#L1799) |
+| [8070](../../source/SR_2_HD_Lang_vanilla.txt#L8070) | `Items.Satellite.2.Text#1` | Ожидает проверки | Фрагмент: «Высокоорбитальный спутник класса "B".» |
 | [8071](../../source/SR_2_HD_Lang_vanilla.txt#L8071) | `Items.Satellite.2.Text#2` | Требует контекста | Фрагмент: «Вода: &lt;Water&gt; / Равнина: &lt;Land&gt; / Горы: &lt;Hill&gt;» |
 | [8076](../../source/SR_2_HD_Lang_vanilla.txt#L8076) | `Items.Satellite.3.Name` | Требует контекста | Фрагмент: «Шаклас» |
-| [8079](../../source/SR_2_HD_Lang_vanilla.txt#L8079) | `Items.Satellite.3.Text#1` | Разобрано в своде | Фрагмент: «Низкоорбитальный спутник класса "B".» · [Свод](../../GALAXY_LORE.md#L1799) |
+| [8079](../../source/SR_2_HD_Lang_vanilla.txt#L8079) | `Items.Satellite.3.Text#1` | Ожидает проверки | Фрагмент: «Низкоорбитальный спутник класса "B".» |
 | [8080](../../source/SR_2_HD_Lang_vanilla.txt#L8080) | `Items.Satellite.3.Text#2` | Требует контекста | Фрагмент: «Вода: &lt;Water&gt; / Равнина: &lt;Land&gt; / Горы: &lt;Hill&gt;» |
 | [8085](../../source/SR_2_HD_Lang_vanilla.txt#L8085) | `Items.Satellite.4.Name` | Требует контекста | Фрагмент: «Нейтра» |
-| [8088](../../source/SR_2_HD_Lang_vanilla.txt#L8088) | `Items.Satellite.4.Text#1` | Разобрано в своде | Фрагмент: «Шпионский спутник класса "A".» · [Свод](../../GALAXY_LORE.md#L1777) |
+| [8088](../../source/SR_2_HD_Lang_vanilla.txt#L8088) | `Items.Satellite.4.Text#1` | Ожидает проверки | Фрагмент: «Шпионский спутник класса "A".» |
 | [8089](../../source/SR_2_HD_Lang_vanilla.txt#L8089) | `Items.Satellite.4.Text#2` | Требует контекста | Фрагмент: «Вода: &lt;Water&gt; / Равнина: &lt;Land&gt; / Горы: &lt;Hill&gt;» |
 | [8094](../../source/SR_2_HD_Lang_vanilla.txt#L8094) | `Items.Satellite.5.Name` | Требует контекста | Фрагмент: «Глазнюк» |
-| [8097](../../source/SR_2_HD_Lang_vanilla.txt#L8097) | `Items.Satellite.5.Text#1` | Разобрано в своде | Фрагмент: «Низкоорбитальный спутник класса "A".» · [Свод](../../GALAXY_LORE.md#L1777) |
+| [8097](../../source/SR_2_HD_Lang_vanilla.txt#L8097) | `Items.Satellite.5.Text#1` | Ожидает проверки | Фрагмент: «Низкоорбитальный спутник класса "A".» |
 | [8098](../../source/SR_2_HD_Lang_vanilla.txt#L8098) | `Items.Satellite.5.Text#2` | Требует контекста | Фрагмент: «Вода: &lt;Water&gt; / Равнина: &lt;Land&gt; / Горы: &lt;Hill&gt;» |
 | [8101](../../source/SR_2_HD_Lang_vanilla.txt#L8101) | `Items.Satellite.Broken` | Требует контекста | Фрагмент: «(требует ремонта)» |
 | [8102](../../source/SR_2_HD_Lang_vanilla.txt#L8102) | `Items.Satellite.BrokenInUse` | Требует контекста | Фрагмент: «Получен сигнал с планеты &lt;Planet&gt;.» |
@@ -217,10 +217,10 @@
 | [8130](../../source/SR_2_HD_Lang_vanilla.txt#L8130) | `Items.SmallInfo` | Требует контекста | Фрагмент: «Контейнер» |
 | [8132](../../source/SR_2_HD_Lang_vanilla.txt#L8132) | `Items.TreasureMap.Hint` | Требует контекста | Фрагмент: «Точные координаты клада зашифрованы, потребуются зонды для его поиска.» |
 | [8133](../../source/SR_2_HD_Lang_vanilla.txt#L8133) | `Items.TreasureMap.Name` | Требует контекста | Фрагмент: «Карта сокровищ» |
-| [8134](../../source/SR_2_HD_Lang_vanilla.txt#L8134) | `Items.TreasureMap.Text` | Разобрано в своде | Фрагмент: «Карта гласит, что &lt;Ship&gt; спрятал награбленные сокровища на планете &lt;Planet&gt;.» · [Свод](../../GALAXY_LORE.md#L1469) |
+| [8134](../../source/SR_2_HD_Lang_vanilla.txt#L8134) | `Items.TreasureMap.Text` | Ожидает проверки | Фрагмент: «Карта гласит, что &lt;Ship&gt; спрятал награбленные сокровища на планете &lt;Planet&gt;.» |
 | [8137](../../source/SR_2_HD_Lang_vanilla.txt#L8137) | `Items.Weapon.AddText` | Требует контекста | Фрагмент: «Тип: &lt;WeaponType&gt;» |
 | [8138](../../source/SR_2_HD_Lang_vanilla.txt#L8138) | `Items.Weapon.Broken` | Требует контекста | Фрагмент: «(не функционирует)» |
-| [8139](../../source/SR_2_HD_Lang_vanilla.txt#L8139) | `Items.Weapon.BrokenByForce` | Разобрано в своде | Фрагмент: «К сожалению, близкое знакомство с Бертором сделало свое черное дело.» · [Свод](../../GALAXY_LORE.md#L1366) |
+| [8139](../../source/SR_2_HD_Lang_vanilla.txt#L8139) | `Items.Weapon.BrokenByForce` | Ожидает проверки | Фрагмент: «К сожалению, близкое знакомство с Бертором сделало свое черное дело.» |
 | [8140](../../source/SR_2_HD_Lang_vanilla.txt#L8140) | `Items.Weapon.BrokenInBattle` | Требует контекста | Фрагмент: «Внимание!» |
 | [8141](../../source/SR_2_HD_Lang_vanilla.txt#L8141) | `Items.Weapon.BrokenInUse` | Требует контекста | Фрагмент: «Во время стрельбы зафиксирована поломка орудия &lt;Name&gt;.» |
 | [8143](../../source/SR_2_HD_Lang_vanilla.txt#L8143) | `Items.Weapon.Detail.1` | Требует контекста | Фрагмент: «Урон» |
@@ -243,9 +243,9 @@
 | [8170](../../source/SR_2_HD_Lang_vanilla.txt#L8170) | `Items.Weapon.Name.13` | Требует контекста | Фрагмент: «ИМХО-9000» |
 | [8171](../../source/SR_2_HD_Lang_vanilla.txt#L8171) | `Items.Weapon.Name.14` | Требует контекста | Фрагмент: «Вертикс» |
 | [8172](../../source/SR_2_HD_Lang_vanilla.txt#L8172) | `Items.Weapon.Name.15` | Требует контекста | Фрагмент: «Торпедный аппарат» |
-| [8173](../../source/SR_2_HD_Lang_vanilla.txt#L8173) | `Items.Weapon.Name.16` | Разобрано в своде | Фрагмент: «Эсодафер» · [Свод](../../GALAXY_LORE.md#L1776) |
-| [8174](../../source/SR_2_HD_Lang_vanilla.txt#L8174) | `Items.Weapon.Name.17` | Разобрано в своде | Фрагмент: «Кафаситор» · [Свод](../../GALAXY_LORE.md#L1776) |
-| [8175](../../source/SR_2_HD_Lang_vanilla.txt#L8175) | `Items.Weapon.Name.18` | Разобрано в своде | Фрагмент: «Лирекрон» · [Свод](../../GALAXY_LORE.md#L1776) |
+| [8173](../../source/SR_2_HD_Lang_vanilla.txt#L8173) | `Items.Weapon.Name.16` | Ожидает проверки | Фрагмент: «Эсодафер» |
+| [8174](../../source/SR_2_HD_Lang_vanilla.txt#L8174) | `Items.Weapon.Name.17` | Ожидает проверки | Фрагмент: «Кафаситор» |
+| [8175](../../source/SR_2_HD_Lang_vanilla.txt#L8175) | `Items.Weapon.Name.18` | Ожидает проверки | Фрагмент: «Лирекрон» |
 | [8176](../../source/SR_2_HD_Lang_vanilla.txt#L8176) | `Items.Weapon.Name.2` | Требует контекста | Фрагмент: «Осколочное орудие» |
 | [8177](../../source/SR_2_HD_Lang_vanilla.txt#L8177) | `Items.Weapon.Name.3` | Требует контекста | Фрагмент: «Лезка» |
 | [8178](../../source/SR_2_HD_Lang_vanilla.txt#L8178) | `Items.Weapon.Name.4` | Требует контекста | Фрагмент: «Ракетомет» |
@@ -261,7 +261,7 @@
 | [8442](../../source/SR_2_HD_Lang_vanilla.txt#L8442) | `Items.Weapon.Text.13` | Требует контекста | Фрагмент: «Высокоточное орудие.» |
 | [8443](../../source/SR_2_HD_Lang_vanilla.txt#L8443) | `Items.Weapon.Text.14` | Требует контекста | Фрагмент: «Искажает пространство вокруг корабля на дистанции до &lt;Radius&gt;, нанося &lt;MinDamage&gt;-&lt;MaxDamage&gt;&lt;Bonus&gt; ед. ущерба всем объектам в зоне действия.» |
 | [8444](../../source/SR_2_HD_Lang_vanilla.txt#L8444) | `Items.Weapon.Text.15` | Требует контекста | Фрагмент: «Торпеды, оснащенные гравитационным дестабилизатором материи, наносят от &lt;MinDamage&gt; до &lt;MaxDamage&gt;&lt;Bonus&gt; ед. ущерба цели и ближайшим к ней кораблям.» |
-| [8445](../../source/SR_2_HD_Lang_vanilla.txt#L8445) | `Items.Weapon.Text.16` | Разобрано в своде | Фрагмент: «Выстреливает сгусток наномашин, наносящих цели повреждения &lt;MaxDamage&gt;&lt;Bonus&gt; ед. и ослабляющих её броню, на дистанцию до &lt;Radius&gt;.» · [Свод](../../GALAXY_LORE.md#L1776) |
+| [8445](../../source/SR_2_HD_Lang_vanilla.txt#L8445) | `Items.Weapon.Text.16` | Ожидает проверки | Фрагмент: «Выстреливает сгусток наномашин, наносящих цели повреждения &lt;MaxDamage&gt;&lt;Bonus&gt; ед. и ослабляющих её броню, на дистанцию до &lt;Radius&gt;.» |
 | [8446](../../source/SR_2_HD_Lang_vanilla.txt#L8446) | `Items.Weapon.Text.17` | Требует контекста | Фрагмент: «Разрушает броню высоковольтными разрядами с уроном от &lt;MinDamage&gt; до &lt;MaxDamage&gt;&lt;Bonus&gt; ед. на дистанции &lt;Radius&gt;, при длительном обстреле выбранной цели увеличивая мощность за счет поверхностной ионизации корпуса цели.» |
 | [8447](../../source/SR_2_HD_Lang_vanilla.txt#L8447) | `Items.Weapon.Text.18` | Требует контекста | Фрагмент: «Поражает цель ракетами с электромагнитной боеголовкой, нарушающей работу оборудования и повреждающей корпус на &lt;CntShots&gt;x(&lt;MinDamage&gt;-&lt;MaxDamage&gt;)&lt;Bonus&gt; ед.» |
 | [8448](../../source/SR_2_HD_Lang_vanilla.txt#L8448) | `Items.Weapon.Text.2` | Требует контекста | Фрагмент: «Поражает цель серией небольших взрывов.» |

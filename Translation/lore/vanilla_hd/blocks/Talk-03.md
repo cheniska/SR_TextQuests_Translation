@@ -28,7 +28,7 @@
 | [29325](../../source/SR_2_HD_Lang_vanilla.txt#L29325) | `Talk.Pirate.PlayerSend` | Требует контекста | Фрагмент: «Эй, приятель, я смотрю, ты лихой космический рубака!» |
 | [29326](../../source/SR_2_HD_Lang_vanilla.txt#L29326) | `Talk.Pirate.PlayerSend1` | Требует контекста | Фрагмент: «Эй, парень, вижу, ты крутой грабитель.» |
 | [29327](../../source/SR_2_HD_Lang_vanilla.txt#L29327) | `Talk.Pirate.PlayerSend2` | Требует контекста | Фрагмент: «Братан, ну, ты просто чума!» |
-| [29328](../../source/SR_2_HD_Lang_vanilla.txt#L29328) | `Talk.Pirate.PlayerSend3` | Разобрано в своде | Фрагмент: «Парниша, у тебя появился прекрасный шанс проявить себя под началом крутейшего пирата галактики.» · [Свод](../../GALAXY_LORE.md#L2219) |
+| [29328](../../source/SR_2_HD_Lang_vanilla.txt#L29328) | `Talk.Pirate.PlayerSend3` | Ожидает проверки | Фрагмент: «Парниша, у тебя появился прекрасный шанс проявить себя под началом крутейшего пирата галактики.» |
 | [29329](../../source/SR_2_HD_Lang_vanilla.txt#L29329) | `Talk.Pirate.PlayerSendDropCargo` | Требует контекста | Фрагмент: «Мы летим налегке.» |
 | [29330](../../source/SR_2_HD_Lang_vanilla.txt#L29330) | `Talk.Pirate.PlayerSendDropCargo1` | Требует контекста | Фрагмент: «Дружище, давай выкидывай лишний груз.» |
 | [29331](../../source/SR_2_HD_Lang_vanilla.txt#L29331) | `Talk.Pirate.Send` | Требует контекста | Фрагмент: «Плачу &lt;Money&gt; cr, и ты идешь на меня работать.» |
@@ -55,7 +55,7 @@
 | [29355](../../source/SR_2_HD_Lang_vanilla.txt#L29355) | `Talk.PirateClan.Attack.ComputerReadyAttack3` | Требует контекста | Фрагмент: «Ёлки-бутылки, у меня тут &lt;Target&gt;!» |
 | [29356](../../source/SR_2_HD_Lang_vanilla.txt#L29356) | `Talk.PirateClan.Attack.ComputerReadyAttack4` | Требует контекста | Фрагмент: «Меня как-то больше &lt;Target&gt; занимает.» |
 | [29357](../../source/SR_2_HD_Lang_vanilla.txt#L29357) | `Talk.PirateClan.Attack.PirateFear` | Требует контекста | Фрагмент: «Я тебя уважаю, но твоё предложение легкомысленно даже для пирата.» |
-| [29358](../../source/SR_2_HD_Lang_vanilla.txt#L29358) | `Talk.PirateClan.Attack.PirateFear1` | Разобрано в своде | Фрагмент: «По-моему, неприятностей тут не оберёшься.» · [Свод](../../GALAXY_LORE.md#L1499) |
+| [29358](../../source/SR_2_HD_Lang_vanilla.txt#L29358) | `Talk.PirateClan.Attack.PirateFear1` | Ожидает проверки | Фрагмент: «По-моему, неприятностей тут не оберёшься.» |
 | [29359](../../source/SR_2_HD_Lang_vanilla.txt#L29359) | `Talk.PirateClan.Attack.PirateFear2` | Требует контекста | Фрагмент: «Чувствую западню.» |
 | [29360](../../source/SR_2_HD_Lang_vanilla.txt#L29360) | `Talk.PirateClan.Attack.PirateFear3` | Требует контекста | Фрагмент: «Мой опыт не позволяет одобрить твой выбор.» |
 | [29361](../../source/SR_2_HD_Lang_vanilla.txt#L29361) | `Talk.PirateClan.Attack.PirateFear4` | Требует контекста | Фрагмент: «Атаковать?» |
@@ -150,19 +150,19 @@
 | [29456](../../source/SR_2_HD_Lang_vanilla.txt#L29456) | `Talk.PirateClan.Goods.AnswerNotGoods3` | Требует контекста | Фрагмент: «Вынужден разочаровать, но никакого груза у меня на борту нет.» |
 | [29457](../../source/SR_2_HD_Lang_vanilla.txt#L29457) | `Talk.PirateClan.Goods.AnswerNotGoods4` | Требует контекста | Фрагмент: «Ну насмешил!» |
 | [29458](../../source/SR_2_HD_Lang_vanilla.txt#L29458) | `Talk.PirateClan.Goods.PirateLongDistance` | Требует контекста | Фрагмент: «Прежде чем ты подлетишь, я раз десять выкину груз в космос и подберу его снова.» |
-| [29459](../../source/SR_2_HD_Lang_vanilla.txt#L29459) | `Talk.PirateClan.Goods.PirateLongDistance1` | Разобрано в своде | Фрагмент: «Ты угрожаешь мне из такой дали, что я тебя даже не вижу, как будто твой голос звучит ниоткуда.» · [Свод](../../GALAXY_LORE.md#L1827) |
+| [29459](../../source/SR_2_HD_Lang_vanilla.txt#L29459) | `Talk.PirateClan.Goods.PirateLongDistance1` | Ожидает проверки | Фрагмент: «Ты угрожаешь мне из такой дали, что я тебя даже не вижу, как будто твой голос звучит ниоткуда.» |
 | [29460](../../source/SR_2_HD_Lang_vanilla.txt#L29460) | `Talk.PirateClan.Goods.PirateLongDistance2` | Требует контекста | Фрагмент: «Буду считать, что ты шутишь.» |
 | [29461](../../source/SR_2_HD_Lang_vanilla.txt#L29461) | `Talk.PirateClan.Goods.PirateLongDistance3` | Требует контекста | Фрагмент: «У меня полно важных дел.» |
 | [29462](../../source/SR_2_HD_Lang_vanilla.txt#L29462) | `Talk.PirateClan.Goods.PirateLongDistance4` | Требует контекста | Фрагмент: «Что-что?» |
 | [29463](../../source/SR_2_HD_Lang_vanilla.txt#L29463) | `Talk.PirateClan.Goods.PirateNo` | Требует контекста | Фрагмент: «Корабль мой, добыча моя.» |
 | [29464](../../source/SR_2_HD_Lang_vanilla.txt#L29464) | `Talk.PirateClan.Goods.PirateNo1` | Требует контекста | Фрагмент: «Это наезд?» |
-| [29465](../../source/SR_2_HD_Lang_vanilla.txt#L29465) | `Talk.PirateClan.Goods.PirateNo2` | Разобрано в своде | Фрагмент: «Нет, тысяча пенчекряков!» · [Свод](../../GALAXY_LORE.md#L1639) |
+| [29465](../../source/SR_2_HD_Lang_vanilla.txt#L29465) | `Talk.PirateClan.Goods.PirateNo2` | Ожидает проверки | Фрагмент: «Нет, тысяча пенчекряков!» |
 | [29466](../../source/SR_2_HD_Lang_vanilla.txt#L29466) | `Talk.PirateClan.Goods.PirateNo3` | Требует контекста | Фрагмент: «Вы ошиблись адресом, юноша.» |
 | [29467](../../source/SR_2_HD_Lang_vanilla.txt#L29467) | `Talk.PirateClan.Goods.PirateNo4` | Требует контекста | Фрагмент: «Ты не убедителен.» |
 | [29468](../../source/SR_2_HD_Lang_vanilla.txt#L29468) | `Talk.PirateClan.Goods.PirateOk` | Требует контекста | Фрагмент: «Твоя взяла, коллега.» |
 | [29469](../../source/SR_2_HD_Lang_vanilla.txt#L29469) | `Talk.PirateClan.Goods.PirateOk1` | Требует контекста | Фрагмент: «Шут с тобой, достал ты меня.» |
 | [29470](../../source/SR_2_HD_Lang_vanilla.txt#L29470) | `Talk.PirateClan.Goods.PirateOk2` | Требует контекста | Фрагмент: «Хорошо, хорошо.» |
-| [29471](../../source/SR_2_HD_Lang_vanilla.txt#L29471) | `Talk.PirateClan.Goods.PirateOk3` | Разобрано в своде | Фрагмент: «Ты настолько суров, что даже Барон тебя бы испугался.» · [Свод](../../GALAXY_LORE.md#L1499) |
+| [29471](../../source/SR_2_HD_Lang_vanilla.txt#L29471) | `Talk.PirateClan.Goods.PirateOk3` | Ожидает проверки | Фрагмент: «Ты настолько суров, что даже Барон тебя бы испугался.» |
 | [29472](../../source/SR_2_HD_Lang_vanilla.txt#L29472) | `Talk.PirateClan.Goods.PirateOk4` | Требует контекста | Фрагмент: «Ваш покорный слуга счёл Ваши аргументы настолько убедительными, что неожиданно вспомнил школьные уроки изящной словесности.» |
 | [29473](../../source/SR_2_HD_Lang_vanilla.txt#L29473) | `Talk.PirateClan.Goods.PlayerLongDistance` | Требует контекста | Фрагмент: «Что-что?» |
 | [29474](../../source/SR_2_HD_Lang_vanilla.txt#L29474) | `Talk.PirateClan.Goods.PlayerLongDistance1` | Требует контекста | Фрагмент: «Мне кажется, что даже если ты и сильней, то уж точно не быстрей меня.» |
@@ -209,33 +209,33 @@
 | [29517](../../source/SR_2_HD_Lang_vanilla.txt#L29517) | `Talk.PirateClan.Money.AnswerNotMoney8` | Требует контекста | Фрагмент: «Ох, я и рад бы заплатить, но такой кучи бабок у меня нет.» |
 | [29518](../../source/SR_2_HD_Lang_vanilla.txt#L29518) | `Talk.PirateClan.Money.AnswerNotMoney9` | Требует контекста | Фрагмент: «Я не располагаю требуемой суммой.» |
 | [29519](../../source/SR_2_HD_Lang_vanilla.txt#L29519) | `Talk.PirateClan.Money.ComputerAsk` | Требует контекста | Фрагмент: «И сколько тебе надо?» |
-| [29520](../../source/SR_2_HD_Lang_vanilla.txt#L29520) | `Talk.PirateClan.Money.PirateLongDistance` | Разобрано в своде | Фрагмент: «Опять пранк-молебен пузыристов.» · [Свод](../../GALAXY_LORE.md#L2088), [Свод](../../GALAXY_LORE.md#L2204) |
-| [29521](../../source/SR_2_HD_Lang_vanilla.txt#L29521) | `Talk.PirateClan.Money.PirateLongDistance1` | Разобрано в своде | Фрагмент: «Мне определённо послышалось, что кто-то пытается вымогать у меня деньги.» · [Свод](../../GALAXY_LORE.md#L1639) |
-| [29522](../../source/SR_2_HD_Lang_vanilla.txt#L29522) | `Talk.PirateClan.Money.PirateLongDistance2` | Разобрано в своде | Фрагмент: «Прав был мой дедушка Сильвер.» · [Отсылки](../../GALAXY_LORE_PARODY.md#L87) |
+| [29520](../../source/SR_2_HD_Lang_vanilla.txt#L29520) | `Talk.PirateClan.Money.PirateLongDistance` | Ожидает проверки | Фрагмент: «Опять пранк-молебен пузыристов.» |
+| [29521](../../source/SR_2_HD_Lang_vanilla.txt#L29521) | `Talk.PirateClan.Money.PirateLongDistance1` | Ожидает проверки | Фрагмент: «Мне определённо послышалось, что кто-то пытается вымогать у меня деньги.» |
+| [29522](../../source/SR_2_HD_Lang_vanilla.txt#L29522) | `Talk.PirateClan.Money.PirateLongDistance2` | Ожидает проверки | Фрагмент: «Прав был мой дедушка Сильвер.» |
 | [29523](../../source/SR_2_HD_Lang_vanilla.txt#L29523) | `Talk.PirateClan.Money.PirateLongDistance3` | Требует контекста | Фрагмент: «Тот, кто сперва угрожает, а потом подходит на расстояние залпа, никогда не станет Бароном пиратов.» |
 | [29524](../../source/SR_2_HD_Lang_vanilla.txt#L29524) | `Talk.PirateClan.Money.PirateLongDistance4` | Требует контекста | Фрагмент: «Показать себя не желаешь.» |
-| [29525](../../source/SR_2_HD_Lang_vanilla.txt#L29525) | `Talk.PirateClan.Money.PirateNo` | Разобрано в своде | Фрагмент: «По крайней мере, ты не пузырист и не шхеришься в гипере как последний трус.» · [Свод](../../GALAXY_LORE.md#L2088), [Свод](../../GALAXY_LORE.md#L2204) |
-| [29526](../../source/SR_2_HD_Lang_vanilla.txt#L29526) | `Talk.PirateClan.Money.PirateNo1` | Разобрано в своде | Фрагмент: «Поглядим, сколько у меня тут денег...» · [Свод](../../GALAXY_LORE.md#L1499) |
+| [29525](../../source/SR_2_HD_Lang_vanilla.txt#L29525) | `Talk.PirateClan.Money.PirateNo` | Ожидает проверки | Фрагмент: «По крайней мере, ты не пузырист и не шхеришься в гипере как последний трус.» |
+| [29526](../../source/SR_2_HD_Lang_vanilla.txt#L29526) | `Talk.PirateClan.Money.PirateNo1` | Ожидает проверки | Фрагмент: «Поглядим, сколько у меня тут денег...» |
 | [29527](../../source/SR_2_HD_Lang_vanilla.txt#L29527) | `Talk.PirateClan.Money.PirateNo2` | Требует контекста | Фрагмент: «Опять какой-то молокосос угрожает.» |
 | [29528](../../source/SR_2_HD_Lang_vanilla.txt#L29528) | `Talk.PirateClan.Money.PirateNo3` | Требует контекста | Фрагмент: «У меня обман слуха, или это угроза?» |
 | [29529](../../source/SR_2_HD_Lang_vanilla.txt#L29529) | `Talk.PirateClan.Money.PirateNo4` | Требует контекста | Фрагмент: «Пятый пациент за день.» |
-| [29530](../../source/SR_2_HD_Lang_vanilla.txt#L29530) | `Talk.PirateClan.Money.PirateNo5` | Разобрано в своде | Фрагмент: «Уважаемый пользователь!» · [Отсылки](../../GALAXY_LORE_PARODY.md#L54) |
-| [29531](../../source/SR_2_HD_Lang_vanilla.txt#L29531) | `Talk.PirateClan.Money.PirateNo6` | Разобрано в своде | Фрагмент: «Кар-рамба!» · [Свод](../../GALAXY_LORE.md#L1639) |
-| [29532](../../source/SR_2_HD_Lang_vanilla.txt#L29532) | `Talk.PirateClan.Money.PirateNo7` | Разобрано в своде | Фрагмент: «Ну почему всякий встречный-поперечный пытается драть деньги с нашего картеля?» · [Свод](../../GALAXY_LORE.md#L1499) |
+| [29530](../../source/SR_2_HD_Lang_vanilla.txt#L29530) | `Talk.PirateClan.Money.PirateNo5` | Ожидает проверки | Фрагмент: «Уважаемый пользователь!» |
+| [29531](../../source/SR_2_HD_Lang_vanilla.txt#L29531) | `Talk.PirateClan.Money.PirateNo6` | Ожидает проверки | Фрагмент: «Кар-рамба!» |
+| [29532](../../source/SR_2_HD_Lang_vanilla.txt#L29532) | `Talk.PirateClan.Money.PirateNo7` | Ожидает проверки | Фрагмент: «Ну почему всякий встречный-поперечный пытается драть деньги с нашего картеля?» |
 | [29533](../../source/SR_2_HD_Lang_vanilla.txt#L29533) | `Talk.PirateClan.Money.PirateNo8` | Требует контекста | Фрагмент: «Хоть я и пират, но вежливые просьбы иногда выполняю.» |
 | [29534](../../source/SR_2_HD_Lang_vanilla.txt#L29534) | `Talk.PirateClan.Money.PirateNo9` | Требует контекста | Фрагмент: «Это я с тебя должен требовать денег, гонять через полгалактики за пивом и вообще ставить на место.» |
 | [29535](../../source/SR_2_HD_Lang_vanilla.txt#L29535) | `Talk.PirateClan.Money.PirateOk` | Требует контекста | Фрагмент: «Сегодня у меня хорошее настроение, да и пушки некстати барахлят, хе-хе.» |
 | [29536](../../source/SR_2_HD_Lang_vanilla.txt#L29536) | `Talk.PirateClan.Money.PirateOk1` | Требует контекста | Фрагмент: «В этот раз лучше заплачу.» |
 | [29537](../../source/SR_2_HD_Lang_vanilla.txt#L29537) | `Talk.PirateClan.Money.PirateOk2` | Требует контекста | Фрагмент: «Время - деньги, а времени на возню с тобой у меня ещё меньше, чем денег.» |
 | [29538](../../source/SR_2_HD_Lang_vanilla.txt#L29538) | `Talk.PirateClan.Money.PirateOk3` | Требует контекста | Фрагмент: «Уломал.» |
-| [29539](../../source/SR_2_HD_Lang_vanilla.txt#L29539) | `Talk.PirateClan.Money.PirateOk4` | Разобрано в своде | Фрагмент: «Стратагема Верховного Лякуши гласит: откупись сейчас, отомсти потом.» · [Свод](../../GALAXY_LORE.md#L1499) |
+| [29539](../../source/SR_2_HD_Lang_vanilla.txt#L29539) | `Talk.PirateClan.Money.PirateOk4` | Ожидает проверки | Фрагмент: «Стратагема Верховного Лякуши гласит: откупись сейчас, отомсти потом.» |
 | [29540](../../source/SR_2_HD_Lang_vanilla.txt#L29540) | `Talk.PirateClan.Money.PirateOk5` | Требует контекста | Фрагмент: «Что-то мне как-то неуютно вдруг.» |
 | [29541](../../source/SR_2_HD_Lang_vanilla.txt#L29541) | `Talk.PirateClan.Money.PirateOk6` | Требует контекста | Фрагмент: «Хорошо, вижу уже, что ты крутой.» |
 | [29542](../../source/SR_2_HD_Lang_vanilla.txt#L29542) | `Talk.PirateClan.Money.PirateOk7` | Требует контекста | Фрагмент: «Настоящий пират ценит свою жизнь и свою свободу.» |
 | [29543](../../source/SR_2_HD_Lang_vanilla.txt#L29543) | `Talk.PirateClan.Money.PirateOk8` | Требует контекста | Фрагмент: «Заплачу.» |
 | [29544](../../source/SR_2_HD_Lang_vanilla.txt#L29544) | `Talk.PirateClan.Money.PirateOk9` | Требует контекста | Фрагмент: «Твои запросы для меня - сущая мелочь.» |
 | [29545](../../source/SR_2_HD_Lang_vanilla.txt#L29545) | `Talk.PirateClan.Money.PirateSumIsVeryBig` | Требует контекста | Фрагмент: «Для начала советую не разлетаться.» |
-| [29546](../../source/SR_2_HD_Lang_vanilla.txt#L29546) | `Talk.PirateClan.Money.PirateSumIsVeryBig1` | Разобрано в своде | Фрагмент: «Когда пират соглашается на переговоры насчёт откупа, значит, видит в этом решении выгоду.» · [Свод](../../GALAXY_LORE.md#L1499) |
+| [29546](../../source/SR_2_HD_Lang_vanilla.txt#L29546) | `Talk.PirateClan.Money.PirateSumIsVeryBig1` | Ожидает проверки | Фрагмент: «Когда пират соглашается на переговоры насчёт откупа, значит, видит в этом решении выгоду.» |
 | [29547](../../source/SR_2_HD_Lang_vanilla.txt#L29547) | `Talk.PirateClan.Money.PirateSumIsVeryBig2` | Требует контекста | Фрагмент: «Видно же, что ты не профи в нашем ремесле.» |
 | [29548](../../source/SR_2_HD_Lang_vanilla.txt#L29548) | `Talk.PirateClan.Money.PirateSumIsVeryBig3` | Требует контекста | Фрагмент: «Согласиться согласился, но столько кредитов тебе не дам.» |
 | [29549](../../source/SR_2_HD_Lang_vanilla.txt#L29549) | `Talk.PirateClan.Money.PirateSumIsVeryBig4` | Требует контекста | Фрагмент: «С такими запросами надо не приставать к честным пиратам, а сразу грабить бизнес-центр.» |
@@ -537,8 +537,8 @@
 | [29855](../../source/SR_2_HD_Lang_vanilla.txt#L29855) | `Talk.PirateClan.Protect.TargetThanks4` | Требует контекста | Фрагмент: «Слушай, &lt;Player&gt;, ты себе не представляешь, как я тебе благодарен!» |
 | [29858](../../source/SR_2_HD_Lang_vanilla.txt#L29858) | `Talk.PirateClan.Refuse.Pirate` | Требует контекста | Фрагмент: «Прекратить огонь?» |
 | [29860](../../source/SR_2_HD_Lang_vanilla.txt#L29860) | `Talk.PirateClan.Reject` | Требует контекста | Фрагмент: «Отказываюсь» |
-| [29862](../../source/SR_2_HD_Lang_vanilla.txt#L29862) | `Talk.PirateClan.RuinTalkAfterAbduct.Failure` | Разобрано в своде | Фрагмент: «Эх, крокодил не ловится, не растет кокос...» · [Отсылки](../../GALAXY_LORE_PARODY.md#L87) |
-| [29863](../../source/SR_2_HD_Lang_vanilla.txt#L29863) | `Talk.PirateClan.RuinTalkAfterAbduct.Success` | Разобрано в своде | Фрагмент: «Наловили лохов, сейчас вывалятся, айда грабить!» · [Свод](../../GALAXY_LORE.md#L1499) |
+| [29862](../../source/SR_2_HD_Lang_vanilla.txt#L29862) | `Talk.PirateClan.RuinTalkAfterAbduct.Failure` | Ожидает проверки | Фрагмент: «Эх, крокодил не ловится, не растет кокос...» |
+| [29863](../../source/SR_2_HD_Lang_vanilla.txt#L29863) | `Talk.PirateClan.RuinTalkAfterAbduct.Success` | Ожидает проверки | Фрагмент: «Наловили лохов, сейчас вывалятся, айда грабить!» |
 | [29864](../../source/SR_2_HD_Lang_vanilla.txt#L29864) | `Talk.PirateClan.RuinTalkAfterAbduct.SuccessNoPirate` | Требует контекста | Фрагмент: «Э, где все?» |
 | [29869](../../source/SR_2_HD_Lang_vanilla.txt#L29869) | `Talk.PirateClan.Trade.AfterBreak` | Требует контекста | Фрагмент: «Верно, поторговать всегда успеется.» |
 | [29870](../../source/SR_2_HD_Lang_vanilla.txt#L29870) | `Talk.PirateClan.Trade.AfterBreak1` | Требует контекста | Фрагмент: «Это правильно, &lt;Player&gt;.» |
@@ -573,15 +573,15 @@
 | [29901](../../source/SR_2_HD_Lang_vanilla.txt#L29901) | `Talk.PirateClan.Truce.ComputerOkWithoutMoney3` | Требует контекста | Фрагмент: «Так и быть, мир.» |
 | [29902](../../source/SR_2_HD_Lang_vanilla.txt#L29902) | `Talk.PirateClan.Truce.ComputerOkWithoutMoney4` | Требует контекста | Фрагмент: «Мир - это замечательно!» |
 | [29903](../../source/SR_2_HD_Lang_vanilla.txt#L29903) | `Talk.PirateClan.Truce.PirateNo` | Требует контекста | Фрагмент: «У-тю-тю, какой смелый.» |
-| [29904](../../source/SR_2_HD_Lang_vanilla.txt#L29904) | `Talk.PirateClan.Truce.PirateNo1` | Разобрано в своде | Фрагмент: «Твои бабки - петушканам на смех.» · [Свод](../../GALAXY_LORE.md#L1639) |
+| [29904](../../source/SR_2_HD_Lang_vanilla.txt#L29904) | `Talk.PirateClan.Truce.PirateNo1` | Ожидает проверки | Фрагмент: «Твои бабки - петушканам на смех.» |
 | [29905](../../source/SR_2_HD_Lang_vanilla.txt#L29905) | `Talk.PirateClan.Truce.PirateNo2` | Требует контекста | Фрагмент: «Что ж.» |
 | [29906](../../source/SR_2_HD_Lang_vanilla.txt#L29906) | `Talk.PirateClan.Truce.PirateNo3` | Требует контекста | Фрагмент: «Ты что, больной?» |
 | [29907](../../source/SR_2_HD_Lang_vanilla.txt#L29907) | `Talk.PirateClan.Truce.PirateNo4` | Требует контекста | Фрагмент: «Я не отстану, пока не сдеру с тебя сколько мне нужно.» |
-| [29908](../../source/SR_2_HD_Lang_vanilla.txt#L29908) | `Talk.PirateClan.Truce.PirateOk` | Разобрано в своде | Фрагмент: «Вот понимаю, большой куш повелителя пиратов.» · [Свод](../../GALAXY_LORE.md#L1639), [Свод](../../GALAXY_LORE.md#L1971), [Свод](../../GALAXY_LORE.md#L1972), [Отсылки](../../GALAXY_LORE_PARODY.md#L54) |
-| [29909](../../source/SR_2_HD_Lang_vanilla.txt#L29909) | `Talk.PirateClan.Truce.PirateOk1` | Разобрано в своде | Фрагмент: «Деньги-деньги, мы все любим деньги.» · [Отсылки](../../GALAXY_LORE_PARODY.md#L36) |
+| [29908](../../source/SR_2_HD_Lang_vanilla.txt#L29908) | `Talk.PirateClan.Truce.PirateOk` | Ожидает проверки | Фрагмент: «Вот понимаю, большой куш повелителя пиратов.» |
+| [29909](../../source/SR_2_HD_Lang_vanilla.txt#L29909) | `Talk.PirateClan.Truce.PirateOk1` | Ожидает проверки | Фрагмент: «Деньги-деньги, мы все любим деньги.» |
 | [29910](../../source/SR_2_HD_Lang_vanilla.txt#L29910) | `Talk.PirateClan.Truce.PirateOk2` | Требует контекста | Фрагмент: «Всё правильно сделал, пилот.» |
 | [29911](../../source/SR_2_HD_Lang_vanilla.txt#L29911) | `Talk.PirateClan.Truce.PirateOk3` | Требует контекста | Фрагмент: «Ну и славно.» |
-| [29912](../../source/SR_2_HD_Lang_vanilla.txt#L29912) | `Talk.PirateClan.Truce.PirateOk4` | Разобрано в своде | Фрагмент: «Столько хлопот ради тощей пачки кредитов.» · [Свод](../../GALAXY_LORE.md#L1639) |
+| [29912](../../source/SR_2_HD_Lang_vanilla.txt#L29912) | `Talk.PirateClan.Truce.PirateOk4` | Ожидает проверки | Фрагмент: «Столько хлопот ради тощей пачки кредитов.» |
 | [29913](../../source/SR_2_HD_Lang_vanilla.txt#L29913) | `Talk.PirateClan.Truce.PirateSend` | Требует контекста | Фрагмент: «Возьми &lt;Money&gt; cr и отстань от меня.» |
 | [29914](../../source/SR_2_HD_Lang_vanilla.txt#L29914) | `Talk.PirateClan.Truce.PirateSend1` | Требует контекста | Фрагмент: «Блин, блин, блин.» |
 | [29915](../../source/SR_2_HD_Lang_vanilla.txt#L29915) | `Talk.PirateClan.Truce.PirateSend2` | Требует контекста | Фрагмент: «Предлагаю выгодную сделку.» |

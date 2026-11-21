@@ -5,9 +5,9 @@
 | [17683](../../source/SR_2_HD_Lang_vanilla.txt#L17683) | `Rank.Ace.Name` | Требует контекста | Фрагмент: «Ас» |
 | [17684](../../source/SR_2_HD_Lang_vanilla.txt#L17684) | `Rank.Ace.NameBig` | Требует контекста | Фрагмент: «Первоклассный летчик» |
 | [17685](../../source/SR_2_HD_Lang_vanilla.txt#L17685) | `Rank.Ace.Text` | Требует контекста | Фрагмент: «Таких пилотов, как он, уважают и называют не иначе как 'АС'!» |
-| [17688](../../source/SR_2_HD_Lang_vanilla.txt#L17688) | `Rank.Admiral.Name` | Разобрано в своде | Фрагмент: «Адмирал» · [Свод](../../GALAXY_LORE.md#L1700) |
+| [17688](../../source/SR_2_HD_Lang_vanilla.txt#L17688) | `Rank.Admiral.Name` | Ожидает проверки | Фрагмент: «Адмирал» |
 | [17689](../../source/SR_2_HD_Lang_vanilla.txt#L17689) | `Rank.Admiral.NameBig` | Кандидат | Фрагмент: «Невероятный адмирал» |
-| [17690](../../source/SR_2_HD_Lang_vanilla.txt#L17690) | `Rank.Admiral.Text` | Разобрано в своде | Фрагмент: «Величайший пилот галактики, единственный и неповторимый!» · [Свод](../../GALAXY_LORE.md#L1700) |
+| [17690](../../source/SR_2_HD_Lang_vanilla.txt#L17690) | `Rank.Admiral.Text` | Ожидает проверки | Фрагмент: «Величайший пилот галактики, единственный и неповторимый!» |
 | [17693](../../source/SR_2_HD_Lang_vanilla.txt#L17693) | `Rank.Cadet.Name` | Требует контекста | Фрагмент: «Кадет» |
 | [17694](../../source/SR_2_HD_Lang_vanilla.txt#L17694) | `Rank.Cadet.NameBig` | Требует контекста | Фрагмент: «Молодой кадет» |
 | [17695](../../source/SR_2_HD_Lang_vanilla.txt#L17695) | `Rank.Cadet.Text` | Требует контекста | Фрагмент: «Кадет уже успел пороху понюхать.» |

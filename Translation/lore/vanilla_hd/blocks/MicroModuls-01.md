@@ -49,7 +49,7 @@
 | [8580](../../source/SR_2_HD_Lang_vanilla.txt#L8580) | `MicroModuls.107.Text#1` | Требует контекста | Фрагмент: «Микромодуль второго уровня.» |
 | [8581](../../source/SR_2_HD_Lang_vanilla.txt#L8581) | `MicroModuls.107.Text#2` | Требует контекста | Фрагмент: «Размер: -40%» |
 | [8585](../../source/SR_2_HD_Lang_vanilla.txt#L8585) | `MicroModuls.108.Name` | Требует контекста | Фрагмент: «Микрострел» |
-| [8588](../../source/SR_2_HD_Lang_vanilla.txt#L8588) | `MicroModuls.108.Text#1` | Разобрано в своде | Фрагмент: «Микромодуль второго уровня.» · [Свод](../../GALAXY_LORE.md#L1030) |
+| [8588](../../source/SR_2_HD_Lang_vanilla.txt#L8588) | `MicroModuls.108.Text#1` | Ожидает проверки | Фрагмент: «Микромодуль второго уровня.» |
 | [8589](../../source/SR_2_HD_Lang_vanilla.txt#L8589) | `MicroModuls.108.Text#2` | Требует контекста | Фрагмент: «Дальность прыжка: &lt;bonJump&gt; ед.» |
 | [8590](../../source/SR_2_HD_Lang_vanilla.txt#L8590) | `MicroModuls.108.Text#3` | Требует контекста | Фрагмент: «Дальность стрельбы: &lt;bonWRadius&gt; ед.» |
 | [8596](../../source/SR_2_HD_Lang_vanilla.txt#L8596) | `MicroModuls.109.Name` | Требует контекста | Фрагмент: «Сдвиг» |
@@ -63,7 +63,7 @@
 | [8618](../../source/SR_2_HD_Lang_vanilla.txt#L8618) | `MicroModuls.110.Text#1` | Требует контекста | Фрагмент: «Микромодуль второго уровня.» |
 | [8619](../../source/SR_2_HD_Lang_vanilla.txt#L8619) | `MicroModuls.110.Text#2` | Требует контекста | Фрагмент: «Эффективность дроида: &lt;bonDroid&gt; ед.» |
 | [8624](../../source/SR_2_HD_Lang_vanilla.txt#L8624) | `MicroModuls.111.Name` | Требует контекста | Фрагмент: «Диощит» |
-| [8627](../../source/SR_2_HD_Lang_vanilla.txt#L8627) | `MicroModuls.111.Text#1` | Разобрано в своде | Фрагмент: «Микромодуль второго уровня.» · [Свод](../../GALAXY_LORE.md#L1779) |
+| [8627](../../source/SR_2_HD_Lang_vanilla.txt#L8627) | `MicroModuls.111.Text#1` | Ожидает проверки | Фрагмент: «Микромодуль второго уровня.» |
 | [8628](../../source/SR_2_HD_Lang_vanilla.txt#L8628) | `MicroModuls.111.Text#2` | Требует контекста | Фрагмент: «Генератор поля: &lt;bonDef&gt; ед.» |
 | [8629](../../source/SR_2_HD_Lang_vanilla.txt#L8629) | `MicroModuls.111.Text#3` | Требует контекста | Фрагмент: «Сила ракетного оружия: &lt;bonWMissile&gt; ед.» |
 | [8637](../../source/SR_2_HD_Lang_vanilla.txt#L8637) | `MicroModuls.112.Name` | Требует контекста | Фрагмент: «Маформ» |
@@ -93,10 +93,10 @@
 | [8696](../../source/SR_2_HD_Lang_vanilla.txt#L8696) | `MicroModuls.117.Text#2` | Требует контекста | Фрагмент: «Броня корпуса: &lt;bonHull&gt; ед.» |
 | [8697](../../source/SR_2_HD_Lang_vanilla.txt#L8697) | `MicroModuls.117.Text#3` | Требует контекста | Фрагмент: «Размер: -10%» |
 | [8702](../../source/SR_2_HD_Lang_vanilla.txt#L8702) | `MicroModuls.118.Name` | Требует контекста | Фрагмент: «Спаай» |
-| [8705](../../source/SR_2_HD_Lang_vanilla.txt#L8705) | `MicroModuls.118.Text#1` | Разобрано в своде | Фрагмент: «Квазиинтеллектуальный блок, значительно увеличивающий мощность гаальского радара или сканера, за счет использования "псевдоинтуиции".» · [Свод](../../GALAXY_LORE.md#L1229) |
+| [8705](../../source/SR_2_HD_Lang_vanilla.txt#L8705) | `MicroModuls.118.Text#1` | Ожидает проверки | Фрагмент: «Квазиинтеллектуальный блок, значительно увеличивающий мощность гаальского радара или сканера, за счет использования "псевдоинтуиции".» |
 | [8706](../../source/SR_2_HD_Lang_vanilla.txt#L8706) | `MicroModuls.118.Text#2` | Кандидат | Фрагмент: «Дальность радара: &lt;bonRadar&gt; ед.» |
 | [8707](../../source/SR_2_HD_Lang_vanilla.txt#L8707) | `MicroModuls.118.Text#3` | Требует контекста | Фрагмент: «Мощность сканера: &lt;bonScan&gt; ед.» |
-| [8713](../../source/SR_2_HD_Lang_vanilla.txt#L8713) | `MicroModuls.119.Name` | Разобрано в своде | Фрагмент: «Тюринг» · [Отсылки](../../GALAXY_LORE_PARODY.md#L59) |
+| [8713](../../source/SR_2_HD_Lang_vanilla.txt#L8713) | `MicroModuls.119.Name` | Ожидает проверки | Фрагмент: «Тюринг» |
 | [8716](../../source/SR_2_HD_Lang_vanilla.txt#L8716) | `MicroModuls.119.Text#1` | Требует контекста | Фрагмент: «Микромодуль второго уровня.» |
 | [8717](../../source/SR_2_HD_Lang_vanilla.txt#L8717) | `MicroModuls.119.Text#2` | Требует контекста | Фрагмент: «Сила энергетического оружия: &lt;bonWEnergy&gt; ед.» |
 | [8718](../../source/SR_2_HD_Lang_vanilla.txt#L8718) | `MicroModuls.119.Text#3` | Требует контекста | Фрагмент: «Сила осколочного оружия: &lt;bonWSplinter&gt; ед.» |
@@ -104,20 +104,20 @@
 | [8720](../../source/SR_2_HD_Lang_vanilla.txt#L8720) | `MicroModuls.119.Text#5` | Требует контекста | Фрагмент: «Дальность стрельбы: &lt;bonWRadius&gt; ед.» |
 | [8721](../../source/SR_2_HD_Lang_vanilla.txt#L8721) | `MicroModuls.119.Text#6` | Требует контекста | Фрагмент: «Размер: -50%» |
 | [8729](../../source/SR_2_HD_Lang_vanilla.txt#L8729) | `MicroModuls.12.Name` | Требует контекста | Фрагмент: «Дальстар» |
-| [8732](../../source/SR_2_HD_Lang_vanilla.txt#L8732) | `MicroModuls.12.Text#1` | Разобрано в своде | Фрагмент: «Микромодуль третьего уровня.» · [Свод](../../GALAXY_LORE.md#L571) |
+| [8732](../../source/SR_2_HD_Lang_vanilla.txt#L8732) | `MicroModuls.12.Text#1` | Ожидает проверки | Фрагмент: «Микромодуль третьего уровня.» |
 | [8733](../../source/SR_2_HD_Lang_vanilla.txt#L8733) | `MicroModuls.12.Text#2` | Требует контекста | Фрагмент: «Дальность прыжка: &lt;bonJump&gt; ед.» |
 | [8734](../../source/SR_2_HD_Lang_vanilla.txt#L8734) | `MicroModuls.12.Text#3` | Кандидат | Фрагмент: «Дальность радара: &lt;bonRadar&gt; ед.» |
 | [8735](../../source/SR_2_HD_Lang_vanilla.txt#L8735) | `MicroModuls.12.Text#4` | Требует контекста | Фрагмент: «Дальность стрельбы: &lt;bonWRadius&gt; ед.» |
-| [8742](../../source/SR_2_HD_Lang_vanilla.txt#L8742) | `MicroModuls.120.Name` | Разобрано в своде | Фрагмент: «Эскалибур» · [Свод](../../GALAXY_LORE.md#L796) |
-| [8745](../../source/SR_2_HD_Lang_vanilla.txt#L8745) | `MicroModuls.120.Text#1` | Разобрано в своде | Фрагмент: «Микромодуль второго уровня.» · [Свод](../../GALAXY_LORE.md#L796), [Свод](../../GALAXY_LORE.md#L1779) |
+| [8742](../../source/SR_2_HD_Lang_vanilla.txt#L8742) | `MicroModuls.120.Name` | Ожидает проверки | Фрагмент: «Эскалибур» |
+| [8745](../../source/SR_2_HD_Lang_vanilla.txt#L8745) | `MicroModuls.120.Text#1` | Ожидает проверки | Фрагмент: «Микромодуль второго уровня.» |
 | [8746](../../source/SR_2_HD_Lang_vanilla.txt#L8746) | `MicroModuls.120.Text#2` | Требует контекста | Фрагмент: «Сила энергетического оружия: &lt;bonWEnergy&gt; ед.» |
 | [8747](../../source/SR_2_HD_Lang_vanilla.txt#L8747) | `MicroModuls.120.Text#3` | Требует контекста | Фрагмент: «Дальность стрельбы: &lt;bonWRadius&gt; ед.» |
 | [8753](../../source/SR_2_HD_Lang_vanilla.txt#L8753) | `MicroModuls.121.Name` | Требует контекста | Фрагмент: «Эксплодер» |
-| [8756](../../source/SR_2_HD_Lang_vanilla.txt#L8756) | `MicroModuls.121.Text#1` | Разобрано в своде | Фрагмент: «Микромодуль второго уровня.» · [Свод](../../GALAXY_LORE.md#L244) |
+| [8756](../../source/SR_2_HD_Lang_vanilla.txt#L8756) | `MicroModuls.121.Text#1` | Ожидает проверки | Фрагмент: «Микромодуль второго уровня.» |
 | [8757](../../source/SR_2_HD_Lang_vanilla.txt#L8757) | `MicroModuls.121.Text#2` | Требует контекста | Фрагмент: «Скорость двигателя: &lt;bonSpeed&gt; ед.» |
 | [8758](../../source/SR_2_HD_Lang_vanilla.txt#L8758) | `MicroModuls.121.Text#3` | Требует контекста | Фрагмент: «Дальность прыжка: &lt;bonJump&gt; ед.» |
-| [8764](../../source/SR_2_HD_Lang_vanilla.txt#L8764) | `MicroModuls.122.Name` | Разобрано в своде | Фрагмент: «Патч 0.95 бета» · [Свод](../../GALAXY_LORE.md#L1795), [Отсылки](../../GALAXY_LORE_PARODY.md#L59) |
-| [8767](../../source/SR_2_HD_Lang_vanilla.txt#L8767) | `MicroModuls.122.Text#1` | Разобрано в своде | Фрагмент: «Микромодуль второго уровня.» · [Свод](../../GALAXY_LORE.md#L1030) |
+| [8764](../../source/SR_2_HD_Lang_vanilla.txt#L8764) | `MicroModuls.122.Name` | Ожидает проверки | Фрагмент: «Патч 0.95 бета» |
+| [8767](../../source/SR_2_HD_Lang_vanilla.txt#L8767) | `MicroModuls.122.Text#1` | Ожидает проверки | Фрагмент: «Микромодуль второго уровня.» |
 | [8768](../../source/SR_2_HD_Lang_vanilla.txt#L8768) | `MicroModuls.122.Text#2` | Требует контекста | Фрагмент: «Скорость двигателя: &lt;bonSpeed&gt; ед.» |
 | [8769](../../source/SR_2_HD_Lang_vanilla.txt#L8769) | `MicroModuls.122.Text#3` | Кандидат | Фрагмент: «Дальность радара: &lt;bonRadar&gt; ед.» |
 | [8770](../../source/SR_2_HD_Lang_vanilla.txt#L8770) | `MicroModuls.122.Text#4` | Требует контекста | Фрагмент: «Мощность сканера: &lt;bonScan&gt; ед.» |
@@ -129,12 +129,12 @@
 | [8789](../../source/SR_2_HD_Lang_vanilla.txt#L8789) | `MicroModuls.123.Text#3` | Требует контекста | Фрагмент: «Стоимость: -25%» |
 | [8790](../../source/SR_2_HD_Lang_vanilla.txt#L8790) | `MicroModuls.123.Text#4` | Требует контекста | Фрагмент: «Надежность: +25%» |
 | [8794](../../source/SR_2_HD_Lang_vanilla.txt#L8794) | `MicroModuls.124.Name` | Требует контекста | Фрагмент: «Аддон» |
-| [8798](../../source/SR_2_HD_Lang_vanilla.txt#L8798) | `MicroModuls.124.Text#1` | Разобрано в своде | Фрагмент: «Микромодуль второго уровня.» · [Свод](../../GALAXY_LORE.md#L571) |
+| [8798](../../source/SR_2_HD_Lang_vanilla.txt#L8798) | `MicroModuls.124.Text#1` | Ожидает проверки | Фрагмент: «Микромодуль второго уровня.» |
 | [8799](../../source/SR_2_HD_Lang_vanilla.txt#L8799) | `MicroModuls.124.Text#2` | Требует контекста | Фрагмент: «Размер корпуса: +15%» |
 | [8805](../../source/SR_2_HD_Lang_vanilla.txt#L8805) | `MicroModuls.125.Name` | Требует контекста | Фрагмент: «Горанд» |
 | [8808](../../source/SR_2_HD_Lang_vanilla.txt#L8808) | `MicroModuls.125.Text` | Кандидат | Фрагмент: «Заменяет компоненты вооружения на нанотехнологичные аналоги, увеличивая надежность на 80%, а стоимость - на 30%.» |
 | [8813](../../source/SR_2_HD_Lang_vanilla.txt#L8813) | `MicroModuls.13.Name` | Требует контекста | Фрагмент: «Миниразмерный» |
-| [8817](../../source/SR_2_HD_Lang_vanilla.txt#L8817) | `MicroModuls.13.Text#1` | Разобрано в своде | Фрагмент: «Микромодуль третьего уровня.» · [Свод](../../GALAXY_LORE.md#L796) |
+| [8817](../../source/SR_2_HD_Lang_vanilla.txt#L8817) | `MicroModuls.13.Text#1` | Ожидает проверки | Фрагмент: «Микромодуль третьего уровня.» |
 | [8818](../../source/SR_2_HD_Lang_vanilla.txt#L8818) | `MicroModuls.13.Text#2` | Требует контекста | Фрагмент: «Размер: -20%» |
 | [8819](../../source/SR_2_HD_Lang_vanilla.txt#L8819) | `MicroModuls.13.Text#3` | Требует контекста | Фрагмент: «Стоимость: -30%» |
 | [8823](../../source/SR_2_HD_Lang_vanilla.txt#L8823) | `MicroModuls.14.Name` | Требует контекста | Фрагмент: «Дроннер» |
@@ -158,7 +158,7 @@
 | [8866](../../source/SR_2_HD_Lang_vanilla.txt#L8866) | `MicroModuls.18.Text#4` | Требует контекста | Фрагмент: «Сила ракетного оружия: &lt;bonWMissile&gt; ед.» |
 | [8867](../../source/SR_2_HD_Lang_vanilla.txt#L8867) | `MicroModuls.18.Text#5` | Требует контекста | Фрагмент: «Дальность стрельбы: &lt;bonWRadius&gt; ед.» |
 | [8875](../../source/SR_2_HD_Lang_vanilla.txt#L8875) | `MicroModuls.19.Name` | Требует контекста | Фрагмент: «Пакстон» |
-| [8879](../../source/SR_2_HD_Lang_vanilla.txt#L8879) | `MicroModuls.19.Text#1` | Разобрано в своде | Фрагмент: «Позволяет более рационально перекомпоновать элементы генератора защиты, сделанного по малокской технологии.» · [Свод](../../GALAXY_LORE.md#L244) |
+| [8879](../../source/SR_2_HD_Lang_vanilla.txt#L8879) | `MicroModuls.19.Text#1` | Ожидает проверки | Фрагмент: «Позволяет более рационально перекомпоновать элементы генератора защиты, сделанного по малокской технологии.» |
 | [8880](../../source/SR_2_HD_Lang_vanilla.txt#L8880) | `MicroModuls.19.Text#2` | Требует контекста | Фрагмент: «Генератор поля: &lt;bonDef&gt; ед.» |
 | [8881](../../source/SR_2_HD_Lang_vanilla.txt#L8881) | `MicroModuls.19.Text#3` | Требует контекста | Фрагмент: «Размер: -75%» |
 | [8886](../../source/SR_2_HD_Lang_vanilla.txt#L8886) | `MicroModuls.2.Name` | Требует контекста | Фрагмент: «Ракетон» |
@@ -172,8 +172,8 @@
 | [8907](../../source/SR_2_HD_Lang_vanilla.txt#L8907) | `MicroModuls.200.Name` | Требует контекста | Фрагмент: «Крепчак» |
 | [8910](../../source/SR_2_HD_Lang_vanilla.txt#L8910) | `MicroModuls.200.Text#1` | Кандидат | Фрагмент: «Закрепляет свою микросеть отталкивающих стационарных наноботов, частично блокирующих получаемые повреждения.» |
 | [8911](../../source/SR_2_HD_Lang_vanilla.txt#L8911) | `MicroModuls.200.Text#2` | Требует контекста | Фрагмент: «Броня корпуса: &lt;bonHull&gt; ед.» |
-| [8917](../../source/SR_2_HD_Lang_vanilla.txt#L8917) | `MicroModuls.201.Name` | Разобрано в своде | Фрагмент: «Джампгейтор 3.11» · [Свод](../../GALAXY_LORE.md#L1795), [Отсылки](../../GALAXY_LORE_PARODY.md#L59) |
-| [8919](../../source/SR_2_HD_Lang_vanilla.txt#L8919) | `MicroModuls.201.Text#1` | Разобрано в своде | Фрагмент: «Микромодуль первого уровня.» · [Свод](../../GALAXY_LORE.md#L1795) |
+| [8917](../../source/SR_2_HD_Lang_vanilla.txt#L8917) | `MicroModuls.201.Name` | Ожидает проверки | Фрагмент: «Джампгейтор 3.11» |
+| [8919](../../source/SR_2_HD_Lang_vanilla.txt#L8919) | `MicroModuls.201.Text#1` | Ожидает проверки | Фрагмент: «Микромодуль первого уровня.» |
 | [8920](../../source/SR_2_HD_Lang_vanilla.txt#L8920) | `MicroModuls.201.Text#2` | Требует контекста | Фрагмент: «Дальность прыжка: &lt;bonJump&gt; ед.» |
 | [8921](../../source/SR_2_HD_Lang_vanilla.txt#L8921) | `MicroModuls.201.Text#3` | Требует контекста | Фрагмент: «Стоимость: +40%» |
 | [8927](../../source/SR_2_HD_Lang_vanilla.txt#L8927) | `MicroModuls.202.Name` | Требует контекста | Фрагмент: «Экстример» |
@@ -215,15 +215,15 @@
 | [9017](../../source/SR_2_HD_Lang_vanilla.txt#L9017) | `MicroModuls.209.Text#1` | Требует контекста | Фрагмент: «Микромодуль первого уровня.» |
 | [9018](../../source/SR_2_HD_Lang_vanilla.txt#L9018) | `MicroModuls.209.Text#2` | Требует контекста | Фрагмент: «Сила осколочного оружия: &lt;bonWSplinter&gt; ед.» |
 | [9019](../../source/SR_2_HD_Lang_vanilla.txt#L9019) | `MicroModuls.209.Text#3` | Требует контекста | Фрагмент: «Стоимость: +50%» |
-| [9024](../../source/SR_2_HD_Lang_vanilla.txt#L9024) | `MicroModuls.21.Name` | Разобрано в своде | Фрагмент: «Патч 0.96 альфа» · [Свод](../../GALAXY_LORE.md#L1795), [Отсылки](../../GALAXY_LORE_PARODY.md#L59) |
-| [9027](../../source/SR_2_HD_Lang_vanilla.txt#L9027) | `MicroModuls.21.Text#1` | Разобрано в своде | Фрагмент: «Микромодуль третьего уровня.» · [Свод](../../GALAXY_LORE.md#L1795) |
+| [9024](../../source/SR_2_HD_Lang_vanilla.txt#L9024) | `MicroModuls.21.Name` | Ожидает проверки | Фрагмент: «Патч 0.96 альфа» |
+| [9027](../../source/SR_2_HD_Lang_vanilla.txt#L9027) | `MicroModuls.21.Text#1` | Ожидает проверки | Фрагмент: «Микромодуль третьего уровня.» |
 | [9028](../../source/SR_2_HD_Lang_vanilla.txt#L9028) | `MicroModuls.21.Text#2` | Требует контекста | Фрагмент: «Скорость двигателя: &lt;bonSpeed&gt; ед.» |
 | [9029](../../source/SR_2_HD_Lang_vanilla.txt#L9029) | `MicroModuls.21.Text#3` | Кандидат | Фрагмент: «Дальность радара: &lt;bonRadar&gt; ед.» |
 | [9030](../../source/SR_2_HD_Lang_vanilla.txt#L9030) | `MicroModuls.21.Text#4` | Требует контекста | Фрагмент: «Мощность сканера: &lt;bonScan&gt; ед.» |
 | [9031](../../source/SR_2_HD_Lang_vanilla.txt#L9031) | `MicroModuls.21.Text#5` | Требует контекста | Фрагмент: «Эффективность дроида: &lt;bonDroid&gt; ед.» |
 | [9032](../../source/SR_2_HD_Lang_vanilla.txt#L9032) | `MicroModuls.21.Text#6` | Требует контекста | Фрагмент: «Дальность стрельбы: &lt;bonWRadius&gt; ед.» |
 | [9041](../../source/SR_2_HD_Lang_vanilla.txt#L9041) | `MicroModuls.210.Name` | Требует контекста | Фрагмент: «Антифэй» |
-| [9044](../../source/SR_2_HD_Lang_vanilla.txt#L9044) | `MicroModuls.210.Text#1` | Разобрано в своде | Фрагмент: «Микромодуль первого уровня.» · [Свод](../../GALAXY_LORE.md#L1030) |
+| [9044](../../source/SR_2_HD_Lang_vanilla.txt#L9044) | `MicroModuls.210.Text#1` | Ожидает проверки | Фрагмент: «Микромодуль первого уровня.» |
 | [9045](../../source/SR_2_HD_Lang_vanilla.txt#L9045) | `MicroModuls.210.Text#2` | Требует контекста | Фрагмент: «Сила ракетного оружия: &lt;bonWMissile&gt; ед.» |
 | [9050](../../source/SR_2_HD_Lang_vanilla.txt#L9050) | `MicroModuls.211.Name` | Требует контекста | Фрагмент: «Дальпун» |
 | [9054](../../source/SR_2_HD_Lang_vanilla.txt#L9054) | `MicroModuls.211.Text#1` | Требует контекста | Фрагмент: «Микромодуль первого уровня.» |
@@ -237,7 +237,7 @@
 | [9074](../../source/SR_2_HD_Lang_vanilla.txt#L9074) | `MicroModuls.213.Text#1` | Кандидат | Фрагмент: «Специальные наноботы производят изменения молекулярной структуры топлива, уменьшая его реальный объем, что позволяет хранить большее количество топлива при неизменных характеристиках самого топливного оборудования.» |
 | [9075](../../source/SR_2_HD_Lang_vanilla.txt#L9075) | `MicroModuls.213.Text#2` | Требует контекста | Фрагмент: «Объем бака: &lt;bonFuel&gt; ед.» |
 | [9080](../../source/SR_2_HD_Lang_vanilla.txt#L9080) | `MicroModuls.214.Name` | Требует контекста | Фрагмент: «Двима» |
-| [9083](../../source/SR_2_HD_Lang_vanilla.txt#L9083) | `MicroModuls.214.Text#1` | Разобрано в своде | Фрагмент: «Микромодуль первого уровня.» · [Свод](../../GALAXY_LORE.md#L244) |
+| [9083](../../source/SR_2_HD_Lang_vanilla.txt#L9083) | `MicroModuls.214.Text#1` | Ожидает проверки | Фрагмент: «Микромодуль первого уровня.» |
 | [9084](../../source/SR_2_HD_Lang_vanilla.txt#L9084) | `MicroModuls.214.Text#2` | Требует контекста | Фрагмент: «Скорость двигателя: &lt;bonSpeed&gt; ед.» |
 | [9085](../../source/SR_2_HD_Lang_vanilla.txt#L9085) | `MicroModuls.214.Text#3` | Требует контекста | Фрагмент: «Дальность прыжка: &lt;bonJump&gt; ед.» |
 | [9092](../../source/SR_2_HD_Lang_vanilla.txt#L9092) | `MicroModuls.215.Name` | Требует контекста | Фрагмент: «Броинг» |
@@ -251,7 +251,7 @@
 | [9109](../../source/SR_2_HD_Lang_vanilla.txt#L9109) | `MicroModuls.216.Text#3` | Требует контекста | Фрагмент: «Сила осколочного оружия: &lt;bonWSplinter&gt; ед.» |
 | [9110](../../source/SR_2_HD_Lang_vanilla.txt#L9110) | `MicroModuls.216.Text#4` | Требует контекста | Фрагмент: «Сила ракетного оружия: &lt;bonWMissile&gt; ед.» |
 | [9117](../../source/SR_2_HD_Lang_vanilla.txt#L9117) | `MicroModuls.217.Name` | Требует контекста | Фрагмент: «Панцирь» |
-| [9120](../../source/SR_2_HD_Lang_vanilla.txt#L9120) | `MicroModuls.217.Text#1` | Разобрано в своде | Фрагмент: «Микромодуль первого уровня.» · [Свод](../../GALAXY_LORE.md#L244) |
+| [9120](../../source/SR_2_HD_Lang_vanilla.txt#L9120) | `MicroModuls.217.Text#1` | Ожидает проверки | Фрагмент: «Микромодуль первого уровня.» |
 | [9121](../../source/SR_2_HD_Lang_vanilla.txt#L9121) | `MicroModuls.217.Text#2` | Требует контекста | Фрагмент: «Броня корпуса: &lt;bonHull&gt; ед.» |
 | [9126](../../source/SR_2_HD_Lang_vanilla.txt#L9126) | `MicroModuls.218.Name` | Требует контекста | Фрагмент: «Редуза» |
 | [9129](../../source/SR_2_HD_Lang_vanilla.txt#L9129) | `MicroModuls.218.Text#1` | Требует контекста | Фрагмент: «Микромодуль второго уровня.» |
@@ -272,7 +272,7 @@
 | [9172](../../source/SR_2_HD_Lang_vanilla.txt#L9172) | `MicroModuls.24.Text#1` | Требует контекста | Фрагмент: «Микромодуль третьего уровня.» |
 | [9173](../../source/SR_2_HD_Lang_vanilla.txt#L9173) | `MicroModuls.24.Text#2` | Требует контекста | Фрагмент: «Размер корпуса: +7%» |
 | [9178](../../source/SR_2_HD_Lang_vanilla.txt#L9178) | `MicroModuls.25.Name` | Требует контекста | Фрагмент: «Стаксер» |
-| [9181](../../source/SR_2_HD_Lang_vanilla.txt#L9181) | `MicroModuls.25.Text#1` | Разобрано в своде | Фрагмент: «Микромодуль третьего уровня.» · [Свод](../../GALAXY_LORE.md#L1229) |
+| [9181](../../source/SR_2_HD_Lang_vanilla.txt#L9181) | `MicroModuls.25.Text#1` | Ожидает проверки | Фрагмент: «Микромодуль третьего уровня.» |
 | [9182](../../source/SR_2_HD_Lang_vanilla.txt#L9182) | `MicroModuls.25.Text#2` | Требует контекста | Фрагмент: «Надежность: +67%» |
 | [9183](../../source/SR_2_HD_Lang_vanilla.txt#L9183) | `MicroModuls.25.Text#3` | Требует контекста | Фрагмент: «Дальность прыжка: &lt;bonJump&gt; ед.» |
 | [9188](../../source/SR_2_HD_Lang_vanilla.txt#L9188) | `MicroModuls.3.Name` | Требует контекста | Фрагмент: «Бронд» |
@@ -307,7 +307,7 @@
 | [9291](../../source/SR_2_HD_Lang_vanilla.txt#L9291) | `MicroModuls.352.Text#3` | Кандидат | Фрагмент: «Дальность радара: &lt;bonRadar&gt; ед..» |
 | [9292](../../source/SR_2_HD_Lang_vanilla.txt#L9292) | `MicroModuls.352.Text#4` | Требует контекста | Фрагмент: «Броня корпуса: &lt;bonHull&gt; ед.» |
 | [9302](../../source/SR_2_HD_Lang_vanilla.txt#L9302) | `MicroModuls.353.Name` | Требует контекста | Фрагмент: «Быстрый корпус I» |
-| [9307](../../source/SR_2_HD_Lang_vanilla.txt#L9307) | `MicroModuls.353.Text#1` | Разобрано в своде | Фрагмент: «То, что этот корпус сконструирован обтекаемым, вовсе не влияет на его скорость, ведь в космосе нет сопротивления воздуха.» · [Свод](../../GALAXY_LORE.md#L1796) |
+| [9307](../../source/SR_2_HD_Lang_vanilla.txt#L9307) | `MicroModuls.353.Text#1` | Ожидает проверки | Фрагмент: «То, что этот корпус сконструирован обтекаемым, вовсе не влияет на его скорость, ведь в космосе нет сопротивления воздуха.» |
 | [9308](../../source/SR_2_HD_Lang_vanilla.txt#L9308) | `MicroModuls.353.Text#2` | Требует контекста | Фрагмент: «Скорость двигателя: &lt;bonSpeed&gt; ед.» |
 | [9317](../../source/SR_2_HD_Lang_vanilla.txt#L9317) | `MicroModuls.354.Name` | Требует контекста | Фрагмент: «Быстрый корпус II» |
 | [9322](../../source/SR_2_HD_Lang_vanilla.txt#L9322) | `MicroModuls.354.Text#1` | Требует контекста | Фрагмент: «То, что этот корпус сконструирован обтекаемым, вовсе не влияет на его скорость, ведь в космосе нет сопротивления воздуха.» |
@@ -319,7 +319,7 @@
 | [9352](../../source/SR_2_HD_Lang_vanilla.txt#L9352) | `MicroModuls.356.Text#1` | Требует контекста | Фрагмент: «То, что этот корпус сконструирован обтекаемым, вовсе не влияет на его скорость, ведь в космосе нет сопротивления воздуха.» |
 | [9353](../../source/SR_2_HD_Lang_vanilla.txt#L9353) | `MicroModuls.356.Text#2` | Требует контекста | Фрагмент: «Скорость двигателя: &lt;bonSpeed&gt; ед.» |
 | [9360](../../source/SR_2_HD_Lang_vanilla.txt#L9360) | `MicroModuls.357.Name` | Требует контекста | Фрагмент: «Неуязвимый корпус I» |
-| [9365](../../source/SR_2_HD_Lang_vanilla.txt#L9365) | `MicroModuls.357.Text#1` | Разобрано в своде | Фрагмент: «Разработанный фэянскими спецами корпус с усиленной защитой.» · [Свод](../../GALAXY_LORE.md#L1780) |
+| [9365](../../source/SR_2_HD_Lang_vanilla.txt#L9365) | `MicroModuls.357.Text#1` | Ожидает проверки | Фрагмент: «Разработанный фэянскими спецами корпус с усиленной защитой.» |
 | [9366](../../source/SR_2_HD_Lang_vanilla.txt#L9366) | `MicroModuls.357.Text#2` | Требует контекста | Фрагмент: «Генератор поля: &lt;bonDef&gt; ед.» |
 | [9375](../../source/SR_2_HD_Lang_vanilla.txt#L9375) | `MicroModuls.358.Name` | Требует контекста | Фрагмент: «Неуязвимый корпус II» |
 | [9380](../../source/SR_2_HD_Lang_vanilla.txt#L9380) | `MicroModuls.358.Text#1` | Требует контекста | Фрагмент: «Разработанный фэянскими спецами корпус с усиленной защитой.» |
@@ -331,7 +331,7 @@
 | [9410](../../source/SR_2_HD_Lang_vanilla.txt#L9410) | `MicroModuls.360.Text#1` | Требует контекста | Фрагмент: «Разработанный фэянскими спецами корпус с усиленной защитой.» |
 | [9411](../../source/SR_2_HD_Lang_vanilla.txt#L9411) | `MicroModuls.360.Text#2` | Требует контекста | Фрагмент: «Генератор поля: &lt;bonDef&gt; ед.» |
 | [9418](../../source/SR_2_HD_Lang_vanilla.txt#L9418) | `MicroModuls.361.Name` | Требует контекста | Фрагмент: «Ремонтный корпус I» |
-| [9423](../../source/SR_2_HD_Lang_vanilla.txt#L9423) | `MicroModuls.361.Text#1` | Разобрано в своде | Фрагмент: «Данный корпус специально разработан для лучшей работоспособности ремонтного дроида.» · [Свод](../../GALAXY_LORE.md#L1796) |
+| [9423](../../source/SR_2_HD_Lang_vanilla.txt#L9423) | `MicroModuls.361.Text#1` | Ожидает проверки | Фрагмент: «Данный корпус специально разработан для лучшей работоспособности ремонтного дроида.» |
 | [9424](../../source/SR_2_HD_Lang_vanilla.txt#L9424) | `MicroModuls.361.Text#2` | Требует контекста | Фрагмент: «Эффективность дроида: &lt;bonDroid&gt; ед.» |
 | [9433](../../source/SR_2_HD_Lang_vanilla.txt#L9433) | `MicroModuls.362.Name` | Требует контекста | Фрагмент: «Ремонтный корпус II» |
 | [9438](../../source/SR_2_HD_Lang_vanilla.txt#L9438) | `MicroModuls.362.Text#1` | Требует контекста | Фрагмент: «Данный корпус специально разработан для лучшей работоспособности ремонтного дроида.» |
@@ -343,7 +343,7 @@
 | [9468](../../source/SR_2_HD_Lang_vanilla.txt#L9468) | `MicroModuls.364.Text#1` | Требует контекста | Фрагмент: «Данный корпус специально разработан для лучшей работоспособности ремонтного дроида.» |
 | [9469](../../source/SR_2_HD_Lang_vanilla.txt#L9469) | `MicroModuls.364.Text#2` | Требует контекста | Фрагмент: «Эффективность дроида: &lt;bonDroid&gt; ед.» |
 | [9476](../../source/SR_2_HD_Lang_vanilla.txt#L9476) | `MicroModuls.365.Name` | Требует контекста | Фрагмент: «Миоплазменный корпус I» |
-| [9481](../../source/SR_2_HD_Lang_vanilla.txt#L9481) | `MicroModuls.365.Text#1` | Разобрано в своде | Фрагмент: «Миоплазменное оборудование работает за счет особых акриновых присадок, которые встраиваются в энергетическую систему корабля и перенаправляют силовые потоки на усиление мощности выстрелов осколочного и энергетического оружия.» · [Свод](../../GALAXY_LORE.md#L1780) |
+| [9481](../../source/SR_2_HD_Lang_vanilla.txt#L9481) | `MicroModuls.365.Text#1` | Ожидает проверки | Фрагмент: «Миоплазменное оборудование работает за счет особых акриновых присадок, которые встраиваются в энергетическую систему корабля и перенаправляют силовые потоки на усиление мощности выстрелов осколочного и энергетического оружия.» |
 | [9482](../../source/SR_2_HD_Lang_vanilla.txt#L9482) | `MicroModuls.365.Text#2` | Требует контекста | Фрагмент: «Сила энергетического оружия: &lt;bonWEnergy&gt; ед.» |
 | [9483](../../source/SR_2_HD_Lang_vanilla.txt#L9483) | `MicroModuls.365.Text#3` | Требует контекста | Фрагмент: «Сила осколочного оружия: &lt;bonWSplinter&gt; ед.» |
 | [9484](../../source/SR_2_HD_Lang_vanilla.txt#L9484) | `MicroModuls.365.Text#4` | Требует контекста | Фрагмент: «Скорость двигателя: &lt;bonSpeed&gt; ед.» |
@@ -363,7 +363,7 @@
 | [9539](../../source/SR_2_HD_Lang_vanilla.txt#L9539) | `MicroModuls.368.Text#3` | Требует контекста | Фрагмент: «Сила осколочного оружия: &lt;bonWSplinter&gt; ед.» |
 | [9540](../../source/SR_2_HD_Lang_vanilla.txt#L9540) | `MicroModuls.368.Text#4` | Требует контекста | Фрагмент: «Скорость двигателя: &lt;bonSpeed&gt; ед.» |
 | [9549](../../source/SR_2_HD_Lang_vanilla.txt#L9549) | `MicroModuls.369.Name` | Требует контекста | Фрагмент: «Пигамарный корпус I» |
-| [9554](../../source/SR_2_HD_Lang_vanilla.txt#L9554) | `MicroModuls.369.Text#1` | Разобрано в своде | Фрагмент: «Они отрицательно влияют на работу генератора защиты и радара, которые вынуждены постоянно перезапускаться.» · [Свод](../../GALAXY_LORE.md#L1780) |
+| [9554](../../source/SR_2_HD_Lang_vanilla.txt#L9554) | `MicroModuls.369.Text#1` | Ожидает проверки | Фрагмент: «Они отрицательно влияют на работу генератора защиты и радара, которые вынуждены постоянно перезапускаться.» |
 | [9555](../../source/SR_2_HD_Lang_vanilla.txt#L9555) | `MicroModuls.369.Text#2` | Требует контекста | Фрагмент: «Сила ракетного оружия: &lt;bonWMissile&gt; ед.» |
 | [9556](../../source/SR_2_HD_Lang_vanilla.txt#L9556) | `MicroModuls.369.Text#3` | Требует контекста | Фрагмент: «Генератор поля: &lt;bonDef&gt; ед.» |
 | [9557](../../source/SR_2_HD_Lang_vanilla.txt#L9557) | `MicroModuls.369.Text#4` | Кандидат | Фрагмент: «Дальность радара: &lt;bonRadar&gt; ед.» |
@@ -597,7 +597,7 @@
 | [10294](../../source/SR_2_HD_Lang_vanilla.txt#L10294) | `MicroModuls.414.Text#3` | Требует контекста | Фрагмент: «Генератор поля: &lt;bonDef&gt; ед.» |
 | [10295](../../source/SR_2_HD_Lang_vanilla.txt#L10295) | `MicroModuls.414.Text#4` | Кандидат | Фрагмент: «Дальность радара: &lt;bonRadar&gt; ед.» |
 | [10304](../../source/SR_2_HD_Lang_vanilla.txt#L10304) | `MicroModuls.415.Name` | Требует контекста | Фрагмент: «Трансцендентальный двигатель I» |
-| [10308](../../source/SR_2_HD_Lang_vanilla.txt#L10308) | `MicroModuls.415.Text#1` | Разобрано в своде | Фрагмент: «Во время тестирования данного двигателя совершенно случайно был открыт побочный эффект, улучшающий работу генератора защитного поля.» · [Свод](../../GALAXY_LORE.md#L1780), [Отсылки](../../GALAXY_LORE_PARODY.md#L102) |
+| [10308](../../source/SR_2_HD_Lang_vanilla.txt#L10308) | `MicroModuls.415.Text#1` | Ожидает проверки | Фрагмент: «Во время тестирования данного двигателя совершенно случайно был открыт побочный эффект, улучшающий работу генератора защитного поля.» |
 | [10309](../../source/SR_2_HD_Lang_vanilla.txt#L10309) | `MicroModuls.415.Text#2` | Требует контекста | Фрагмент: «Генератор поля: &lt;bonDef&gt; ед.» |
 | [10310](../../source/SR_2_HD_Lang_vanilla.txt#L10310) | `MicroModuls.415.Text#3` | Требует контекста | Фрагмент: «Масса корабля: &lt;bonMass&gt;%» |
 | [10318](../../source/SR_2_HD_Lang_vanilla.txt#L10318) | `MicroModuls.416.Name` | Требует контекста | Фрагмент: «Трансцендентальный двигатель II» |
@@ -609,7 +609,7 @@
 | [10337](../../source/SR_2_HD_Lang_vanilla.txt#L10337) | `MicroModuls.417.Text#2` | Требует контекста | Фрагмент: «Генератор поля: &lt;bonDef&gt; ед.» |
 | [10338](../../source/SR_2_HD_Lang_vanilla.txt#L10338) | `MicroModuls.417.Text#3` | Требует контекста | Фрагмент: «Масса корабля: &lt;bonMass&gt;%» |
 | [10347](../../source/SR_2_HD_Lang_vanilla.txt#L10347) | `MicroModuls.418.Name` | Требует контекста | Фрагмент: «Апгрейтинговый захват I» |
-| [10352](../../source/SR_2_HD_Lang_vanilla.txt#L10352) | `MicroModuls.418.Text#1` | Разобрано в своде | Фрагмент: «Производимое пиратскими техниками оборудование, собирается преимущественно из старых запчастей и ярко раскрашивается для придания товарного вида.» · [Свод](../../GALAXY_LORE.md#L1780) |
+| [10352](../../source/SR_2_HD_Lang_vanilla.txt#L10352) | `MicroModuls.418.Text#1` | Ожидает проверки | Фрагмент: «Производимое пиратскими техниками оборудование, собирается преимущественно из старых запчастей и ярко раскрашивается для придания товарного вида.» |
 | [10353](../../source/SR_2_HD_Lang_vanilla.txt#L10353) | `MicroModuls.418.Text#2` | Требует контекста | Фрагмент: «Дальность захвата: &lt;bonHookRadius&gt; ед.» |
 | [10354](../../source/SR_2_HD_Lang_vanilla.txt#L10354) | `MicroModuls.418.Text#3` | Требует контекста | Фрагмент: «Навык маневренности: &lt;bonSkill2&gt;» |
 | [10355](../../source/SR_2_HD_Lang_vanilla.txt#L10355) | `MicroModuls.418.Text#4` | Требует контекста | Фрагмент: «Навык обаяния: &lt;bonSkill5&gt;» |
@@ -699,6 +699,6 @@
 | [10660](../../source/SR_2_HD_Lang_vanilla.txt#L10660) | `MicroModuls.435.Text#3` | Требует контекста | Фрагмент: «Навык маневренности: &lt;bonSkill2&gt;» |
 | [10661](../../source/SR_2_HD_Lang_vanilla.txt#L10661) | `MicroModuls.435.Text#4` | Требует контекста | Фрагмент: «Навык обаяния: &lt;bonSkill5&gt;» |
 | [10671](../../source/SR_2_HD_Lang_vanilla.txt#L10671) | `MicroModuls.436.Name` | Требует контекста | Фрагмент: «Биогенный дроид I» |
-| [10675](../../source/SR_2_HD_Lang_vanilla.txt#L10675) | `MicroModuls.436.Text#1` | Разобрано в своде | Фрагмент: «Уникальный случай, когда роль оборудования выполняют живые организмы.» · [Свод](../../GALAXY_LORE.md#L1780), [Свод](../../GALAXY_LORE.md#L1941) |
+| [10675](../../source/SR_2_HD_Lang_vanilla.txt#L10675) | `MicroModuls.436.Text#1` | Ожидает проверки | Фрагмент: «Уникальный случай, когда роль оборудования выполняют живые организмы.» |
 | [10676](../../source/SR_2_HD_Lang_vanilla.txt#L10676) | `MicroModuls.436.Text#2` | Требует контекста | Фрагмент: «Навык техники: &lt;bonSkill3&gt;» |
 | [10677](../../source/SR_2_HD_Lang_vanilla.txt#L10677) | `MicroModuls.436.Text#3` | Требует контекста | Фрагмент: «Мощность сканера: &lt;bonScan&gt; ед.» |

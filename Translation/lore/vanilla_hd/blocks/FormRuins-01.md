@@ -2,13 +2,13 @@
 
 | Строка оригинала | Ключ | Разбор | Основание |
 |---|---|---|---|
-| [2754](../../source/SR_2_HD_Lang_vanilla.txt#L2754) | `FormRuins.BK.AddDebtContinue` | Разобрано в своде | Фрагмент: «Постойте...» · [Свод](../../GALAXY_LORE.md#L2200) |
+| [2754](../../source/SR_2_HD_Lang_vanilla.txt#L2754) | `FormRuins.BK.AddDebtContinue` | Ожидает проверки | Фрагмент: «Постойте...» |
 | [2755](../../source/SR_2_HD_Lang_vanilla.txt#L2755) | `FormRuins.BK.AddDebtNot` | Требует контекста | Фрагмент: «Мы готовы немедленно оформить вам хороший кредит.» |
 | [2756](../../source/SR_2_HD_Lang_vanilla.txt#L2756) | `FormRuins.BK.AddDebtYes` | Требует контекста | Фрагмент: «Кстати, ваш кредит составляет &lt;Money&gt; cr.» |
 | [2757](../../source/SR_2_HD_Lang_vanilla.txt#L2757) | `FormRuins.BK.DebtNoAccess` | Требует контекста | Фрагмент: «Мы требуем немедленного возвращения наших денег!» |
-| [2758](../../source/SR_2_HD_Lang_vanilla.txt#L2758) | `FormRuins.BK.DebtNoPenalty` | Разобрано в своде | Фрагмент: «&lt;Player&gt;, ваша кредитная история оставляет желать лучшего.» · [Свод](../../GALAXY_LORE.md#L2201) |
+| [2758](../../source/SR_2_HD_Lang_vanilla.txt#L2758) | `FormRuins.BK.DebtNoPenalty` | Ожидает проверки | Фрагмент: «&lt;Player&gt;, ваша кредитная история оставляет желать лучшего.» |
 | [2759](../../source/SR_2_HD_Lang_vanilla.txt#L2759) | `FormRuins.BK.DebtNoWar` | Требует контекста | Фрагмент: «Какой еще кредит, &lt;Player&gt;?!» |
-| [2761](../../source/SR_2_HD_Lang_vanilla.txt#L2761) | `FormRuins.BK.Deposit.BK#1` | Разобрано в своде | Фрагмент: «Отлично, &lt;Player&gt;!» · [Свод](../../GALAXY_LORE.md#L2200) |
+| [2761](../../source/SR_2_HD_Lang_vanilla.txt#L2761) | `FormRuins.BK.Deposit.BK#1` | Ожидает проверки | Фрагмент: «Отлично, &lt;Player&gt;!» |
 | [2762](../../source/SR_2_HD_Lang_vanilla.txt#L2762) | `FormRuins.BK.Deposit.BK#2` | Требует контекста | Фрагмент: «Кстати, при взятии кредита начисление процентов на депозитный счет временно замораживается до полной выплаты задолженности.» |
 | [2763](../../source/SR_2_HD_Lang_vanilla.txt#L2763) | `FormRuins.BK.Deposit.BK#3` | Требует контекста | Фрагмент: «Сколько вы хотите положить на депозит?» |
 | [2764](../../source/SR_2_HD_Lang_vanilla.txt#L2764) | `FormRuins.BK.Deposit.BKAfterNo` | Требует контекста | Фрагмент: «Ну, если не нужен, так чего спрашиваете?» |
@@ -18,20 +18,20 @@
 | [2768](../../source/SR_2_HD_Lang_vanilla.txt#L2768) | `FormRuins.BK.Deposit.PlayerOkMaxMoney` | Требует контекста | Фрагмент: «Положить &lt;MaxMoney&gt; cr на депозит» |
 | [2769](../../source/SR_2_HD_Lang_vanilla.txt#L2769) | `FormRuins.BK.Deposit.PlayerOkMinMoney` | Требует контекста | Фрагмент: «Положить &lt;MinMoney&gt; cr на депозит» |
 | [2770](../../source/SR_2_HD_Lang_vanilla.txt#L2770) | `FormRuins.BK.Deposit.PlayerSend` | Требует контекста | Фрагмент: «Открыть депозитный счет» |
-| [2772](../../source/SR_2_HD_Lang_vanilla.txt#L2772) | `FormRuins.BK.Greeting` | Разобрано в своде | Фрагмент: «Мы рады приветствовать вас, рейнджер &lt;Player&gt;, в нашем бизнес-центре &lt;BK&gt;.» · [Свод](../../GALAXY_LORE.md#L2200) |
-| [2774](../../source/SR_2_HD_Lang_vanilla.txt#L2774) | `FormRuins.BK.Investment.BK#1` | Разобрано в своде | Фрагмент: «Мы координируем целый комплекс различных экономических программ.» · [Свод](../../GALAXY_LORE.md#L2200) |
+| [2772](../../source/SR_2_HD_Lang_vanilla.txt#L2772) | `FormRuins.BK.Greeting` | Ожидает проверки | Фрагмент: «Мы рады приветствовать вас, рейнджер &lt;Player&gt;, в нашем бизнес-центре &lt;BK&gt;.» |
+| [2774](../../source/SR_2_HD_Lang_vanilla.txt#L2774) | `FormRuins.BK.Investment.BK#1` | Ожидает проверки | Фрагмент: «Мы координируем целый комплекс различных экономических программ.» |
 | [2775](../../source/SR_2_HD_Lang_vanilla.txt#L2775) | `FormRuins.BK.Investment.BK#2` | Требует контекста | Фрагмент: «Вот какие программы доступны сегодня:» |
 | [2778](../../source/SR_2_HD_Lang_vanilla.txt#L2778) | `FormRuins.BK.Investment.BK#5` | Требует контекста | Фрагмент: «Выбирайте себе любую программу, не стесняйтесь.» |
 | [2780](../../source/SR_2_HD_Lang_vanilla.txt#L2780) | `FormRuins.BK.Investment.BKAfterPlayerNo#1` | Требует контекста | Фрагмент: «Как это хватит инвестиций?» |
 | [2781](../../source/SR_2_HD_Lang_vanilla.txt#L2781) | `FormRuins.BK.Investment.BKAfterPlayerNo#2` | Требует контекста | Фрагмент: «Подумайте, может, у вас есть лишние деньги?» |
-| [2782](../../source/SR_2_HD_Lang_vanilla.txt#L2782) | `FormRuins.BK.Investment.BKAfterPlayerNo#3` | Разобрано в своде | Фрагмент: «Впрочем, я погорячился и приношу извинения.» · [Свод](../../GALAXY_LORE.md#L2200) |
+| [2782](../../source/SR_2_HD_Lang_vanilla.txt#L2782) | `FormRuins.BK.Investment.BKAfterPlayerNo#3` | Ожидает проверки | Фрагмент: «Впрочем, я погорячился и приношу извинения.» |
 | [2786](../../source/SR_2_HD_Lang_vanilla.txt#L2786) | `FormRuins.BK.Investment.PlayerNo` | Требует контекста | Фрагмент: «Спасибо, в другой раз» |
 | [2787](../../source/SR_2_HD_Lang_vanilla.txt#L2787) | `FormRuins.BK.Investment.PlayerSend` | Требует контекста | Фрагмент: «Проинвестировать проекты» |
 | [2790](../../source/SR_2_HD_Lang_vanilla.txt#L2790) | `FormRuins.BK.Modern.AfterOk` | Требует контекста | Фрагмент: «Стабильность и безопасность банков - вот залог успеха экономики.» |
-| [2793](../../source/SR_2_HD_Lang_vanilla.txt#L2793) | `FormRuins.BK.Policy.BK#1` | Разобрано в своде | Фрагмент: «Вы обратились по адресу.» · [Свод](../../GALAXY_LORE.md#L1834) |
-| [2794](../../source/SR_2_HD_Lang_vanilla.txt#L2794) | `FormRuins.BK.Policy.BK#2` | Разобрано в своде | Фрагмент: «Полис выдается сроком на &lt;Year&gt; лет.» · [Свод](../../GALAXY_LORE.md#L1831) |
-| [2795](../../source/SR_2_HD_Lang_vanilla.txt#L2795) | `FormRuins.BK.Policy.BKAfterAsk#1` | Разобрано в своде | Фрагмент: «Это понятие означает, что после вашей смерти вы получаете удвоенную страховку рейнджера.» · [Свод](../../GALAXY_LORE.md#L1831) |
-| [2796](../../source/SR_2_HD_Lang_vanilla.txt#L2796) | `FormRuins.BK.Policy.BKAfterAsk#2` | Разобрано в своде | Фрагмент: «Если же у вас нет родственников или они откажутся от компенсации, то мы создадим поощрительный фонд имени рейнджера &lt;Player&gt; и будем выплачивать премии новичкам-рейнджерам.» · [Свод](../../GALAXY_LORE.md#L1831) |
+| [2793](../../source/SR_2_HD_Lang_vanilla.txt#L2793) | `FormRuins.BK.Policy.BK#1` | Ожидает проверки | Фрагмент: «Вы обратились по адресу.» |
+| [2794](../../source/SR_2_HD_Lang_vanilla.txt#L2794) | `FormRuins.BK.Policy.BK#2` | Ожидает проверки | Фрагмент: «Полис выдается сроком на &lt;Year&gt; лет.» |
+| [2795](../../source/SR_2_HD_Lang_vanilla.txt#L2795) | `FormRuins.BK.Policy.BKAfterAsk#1` | Ожидает проверки | Фрагмент: «Это понятие означает, что после вашей смерти вы получаете удвоенную страховку рейнджера.» |
+| [2796](../../source/SR_2_HD_Lang_vanilla.txt#L2796) | `FormRuins.BK.Policy.BKAfterAsk#2` | Ожидает проверки | Фрагмент: «Если же у вас нет родственников или они откажутся от компенсации, то мы создадим поощрительный фонд имени рейнджера &lt;Player&gt; и будем выплачивать премии новичкам-рейнджерам.» |
 | [2797](../../source/SR_2_HD_Lang_vanilla.txt#L2797) | `FormRuins.BK.Policy.BKAfterAsk#3` | Требует контекста | Фрагмент: «Кстати, вы ведь еще живы, и об этом не стоит забывать!» |
 | [2798](../../source/SR_2_HD_Lang_vanilla.txt#L2798) | `FormRuins.BK.Policy.BKAfterNo#1` | Требует контекста | Фрагмент: «Как так, &lt;Player&gt;?» |
 | [2799](../../source/SR_2_HD_Lang_vanilla.txt#L2799) | `FormRuins.BK.Policy.BKAfterNo#2` | Требует контекста | Фрагмент: «На дворе &lt;CurYear&gt; год, вы можете погибнуть, не купив страховку!» |
@@ -62,7 +62,7 @@
 | [2834](../../source/SR_2_HD_Lang_vanilla.txt#L2834) | `FormRuins.BK.TakeDebt.PlayerOkMaxMoney` | Требует контекста | Фрагмент: «Хочу большой срочный кредит» |
 | [2835](../../source/SR_2_HD_Lang_vanilla.txt#L2835) | `FormRuins.BK.TakeDebt.PlayerOkMinMoney` | Требует контекста | Фрагмент: «Беру малый кредит» |
 | [2836](../../source/SR_2_HD_Lang_vanilla.txt#L2836) | `FormRuins.BK.TakeDebt.PlayerSend` | Требует контекста | Фрагмент: «Взять кредит» |
-| [2839](../../source/SR_2_HD_Lang_vanilla.txt#L2839) | `FormRuins.BK.Trade.BK#1` | Разобрано в своде | Фрагмент: «Вы обратились по адресу.» · [Свод](../../GALAXY_LORE.md#L2200) |
+| [2839](../../source/SR_2_HD_Lang_vanilla.txt#L2839) | `FormRuins.BK.Trade.BK#1` | Ожидает проверки | Фрагмент: «Вы обратились по адресу.» |
 | [2840](../../source/SR_2_HD_Lang_vanilla.txt#L2840) | `FormRuins.BK.Trade.BK#2` | Требует контекста | Фрагмент: «Так вот, мы можем предложить вам наилучшие варианты для торговли как в ближайшем (&lt;NeaMoney&gt; cr), так и в дальнем космосе (&lt;FarMoney&gt; cr) с учетом скидки в &lt;Percent&gt;% за счет твоего торгового рейтинга.» |
 | [2841](../../source/SR_2_HD_Lang_vanilla.txt#L2841) | `FormRuins.BK.Trade.BK#3` | Требует контекста | Фрагмент: «При этом будут учтены характеристики вашего корабля, расстояния между планетами, расход топлива и отношения правительств к вам.» |
 | [2842](../../source/SR_2_HD_Lang_vanilla.txt#L2842) | `FormRuins.BK.Trade.BK#4` | Требует контекста | Фрагмент: «Итак, на каком варианте вы желаете остановиться?» |
@@ -100,11 +100,11 @@
 | [2885](../../source/SR_2_HD_Lang_vanilla.txt#L2885) | `FormRuins.Bridge.BridgeGreeting#9` | Требует контекста | Фрагмент: «Стратегия: звенья атакуют &lt;Strategy&gt;» |
 | [2886](../../source/SR_2_HD_Lang_vanilla.txt#L2886) | `FormRuins.Bridge.BridgeGreeting#10` | Требует контекста | Фрагмент: «Длительность вылетов: &lt;Duration&gt; дн.» |
 | [2887](../../source/SR_2_HD_Lang_vanilla.txt#L2887) | `FormRuins.Bridge.BridgeGreeting#11` | Требует контекста | Фрагмент: «Затраты энергии на вылет: &lt;DeployCost&gt; эн.» |
-| [2888](../../source/SR_2_HD_Lang_vanilla.txt#L2888) | `FormRuins.Bridge.BridgeHelpAnswer1` | Разобрано в своде | Фрагмент: «Энергия - основной ресурс, вырабатываемый бортовым реактором корабля.» · [Свод](../../GALAXY_LORE.md#L1788) |
-| [2889](../../source/SR_2_HD_Lang_vanilla.txt#L2889) | `FormRuins.Bridge.BridgeHelpAnswer2` | Разобрано в своде | Фрагмент: «Помните, капитан, что бортовой генератор способен поддерживать стабильность дыры всего несколько дней после ее создания, поэтому, не тяните с путешествием, если в нем возникла необходимость.» · [Свод](../../GALAXY_LORE.md#L1788) |
-| [2890](../../source/SR_2_HD_Lang_vanilla.txt#L2890) | `FormRuins.Bridge.BridgeHelpAnswer3` | Разобрано в своде | Фрагмент: «В обычном режиме генератор защитного поля работает в стандартном варианте, поглощая процент от вражеского урона, равный своей мощности.» · [Свод](../../GALAXY_LORE.md#L1788) |
-| [2891](../../source/SR_2_HD_Lang_vanilla.txt#L2891) | `FormRuins.Bridge.BridgeHelpAnswer4` | Разобрано в своде | Фрагмент: «Небольшие, беспилотные истребители, выпускаемые из нашего корабля - грозное оружие.» · [Свод](../../GALAXY_LORE.md#L1788) |
-| [2892](../../source/SR_2_HD_Lang_vanilla.txt#L2892) | `FormRuins.Bridge.BridgeHelpAnswer5` | Разобрано в своде | Фрагмент: «Я - собирательный образ Ни-Да, капитана прототипа этого корабля из прошлого, воспроизведенный бортовым компьютером.» · [Свод](../../GALAXY_LORE.md#L1525), [Свод](../../GALAXY_LORE.md#L2095) |
+| [2888](../../source/SR_2_HD_Lang_vanilla.txt#L2888) | `FormRuins.Bridge.BridgeHelpAnswer1` | Ожидает проверки | Фрагмент: «Энергия - основной ресурс, вырабатываемый бортовым реактором корабля.» |
+| [2889](../../source/SR_2_HD_Lang_vanilla.txt#L2889) | `FormRuins.Bridge.BridgeHelpAnswer2` | Ожидает проверки | Фрагмент: «Помните, капитан, что бортовой генератор способен поддерживать стабильность дыры всего несколько дней после ее создания, поэтому, не тяните с путешествием, если в нем возникла необходимость.» |
+| [2890](../../source/SR_2_HD_Lang_vanilla.txt#L2890) | `FormRuins.Bridge.BridgeHelpAnswer3` | Ожидает проверки | Фрагмент: «В обычном режиме генератор защитного поля работает в стандартном варианте, поглощая процент от вражеского урона, равный своей мощности.» |
+| [2891](../../source/SR_2_HD_Lang_vanilla.txt#L2891) | `FormRuins.Bridge.BridgeHelpAnswer4` | Ожидает проверки | Фрагмент: «Небольшие, беспилотные истребители, выпускаемые из нашего корабля - грозное оружие.» |
+| [2892](../../source/SR_2_HD_Lang_vanilla.txt#L2892) | `FormRuins.Bridge.BridgeHelpAnswer5` | Ожидает проверки | Фрагмент: «Я - собирательный образ Ни-Да, капитана прототипа этого корабля из прошлого, воспроизведенный бортовым компьютером.» |
 | [2893](../../source/SR_2_HD_Lang_vanilla.txt#L2893) | `FormRuins.Bridge.BridgeHelpAsk` | Требует контекста | Фрагмент: «Расскажи мне о специальных системах корабля» |
 | [2894](../../source/SR_2_HD_Lang_vanilla.txt#L2894) | `FormRuins.Bridge.BridgeHelpCancel` | Требует контекста | Фрагмент: «Мне все понятно» |
 | [2895](../../source/SR_2_HD_Lang_vanilla.txt#L2895) | `FormRuins.Bridge.BridgeHelpChoose` | Кандидат | Фрагмент: «Капитан, наш корабль оснащен реактором, вырабатывающим энергию, способен генерировать черную дыру для мгновенного прыжка в любую систему, может атаковать врага беспилотными истребителями, а также менять режим работы щитов.» |
@@ -200,24 +200,24 @@
 | [2994](../../source/SR_2_HD_Lang_vanilla.txt#L2994) | `FormRuins.CB.ConstructPirate.StatsSeries` | Требует контекста | Фрагмент: «серия &lt;SeriesName&gt;» |
 | [2995](../../source/SR_2_HD_Lang_vanilla.txt#L2995) | `FormRuins.CB.ConstructPirate.StatsWeapon` | Требует контекста | Фрагмент: «дальность &lt;Radius&gt;, урон &lt;MinDamage&gt;-&lt;MaxDamage&gt;» |
 | [2996](../../source/SR_2_HD_Lang_vanilla.txt#L2996) | `FormRuins.CB.ConstructPirate.WarningConfirm` | Требует контекста | Фрагмент: «Да, и так сойдет» |
-| [2997](../../source/SR_2_HD_Lang_vanilla.txt#L2997) | `FormRuins.CB.ConstructPirate.WarningPirateCnt` | Разобрано в своде | Фрагмент: «&lt;Player&gt;, не забывай - ты можешь собрать корабль, но пилот не пойдет к тебе в подчинение.» · [Свод](../../GALAXY_LORE.md#L1493) |
+| [2997](../../source/SR_2_HD_Lang_vanilla.txt#L2997) | `FormRuins.CB.ConstructPirate.WarningPirateCnt` | Ожидает проверки | Фрагмент: «&lt;Player&gt;, не забывай - ты можешь собрать корабль, но пилот не пойдет к тебе в подчинение.» |
 | [2998](../../source/SR_2_HD_Lang_vanilla.txt#L2998) | `FormRuins.CB.ConstructPirate.cancel` | Требует контекста | Фрагмент: «Я передумал собирать вам корабль, оставлю деньги себе!» |
 | [2999](../../source/SR_2_HD_Lang_vanilla.txt#L2999) | `FormRuins.CB.ConstructPirate.confirm` | Требует контекста | Фрагмент: «Собирай!» |
 | [3000](../../source/SR_2_HD_Lang_vanilla.txt#L3000) | `FormRuins.CB.ConstructPirate.skip` | Требует контекста | Фрагмент: «Обойдемся без этого» |
 | [3001](../../source/SR_2_HD_Lang_vanilla.txt#L3001) | `FormRuins.CB.ConstructPirate.weaponN` | Требует контекста | Фрагмент: «Пушка N» |
-| [3003](../../source/SR_2_HD_Lang_vanilla.txt#L3003) | `FormRuins.CB.GenericRefuseBattle` | Разобрано в своде | Фрагмент: «Ты чего, &lt;Player&gt;, в плазмошашки переиграл?» · [Свод](../../GALAXY_LORE.md#L2218) |
+| [3003](../../source/SR_2_HD_Lang_vanilla.txt#L3003) | `FormRuins.CB.GenericRefuseBattle` | Ожидает проверки | Фрагмент: «Ты чего, &lt;Player&gt;, в плазмошашки переиграл?» |
 | [3004](../../source/SR_2_HD_Lang_vanilla.txt#L3004) | `FormRuins.CB.GenericRefuseHaveOtherPlans` | Требует контекста | Фрагмент: «Извини, у нас сейчас другие планы.» |
 | [3005](../../source/SR_2_HD_Lang_vanilla.txt#L3005) | `FormRuins.CB.GenericRefuseNeedLicense` | Требует контекста | Фрагмент: «А знаешь ли ты, &lt;Player&gt;, что дело это затратное и хлопотное, и не только в смысле кредитов?» |
 | [3006](../../source/SR_2_HD_Lang_vanilla.txt#L3006) | `FormRuins.CB.GenericRefuseNeedPoints` | Требует контекста | Фрагмент: «А знаешь ли ты, &lt;Player&gt;, что дело это затратное и хлопотное, и не только в смысле кредитов?» |
 | [3007](../../source/SR_2_HD_Lang_vanilla.txt#L3007) | `FormRuins.CB.GenericRefuseNeedRank` | Требует контекста | Фрагмент: «Рановато тебе это еще, ранг твой слишком низок.» |
 | [3008](../../source/SR_2_HD_Lang_vanilla.txt#L3008) | `FormRuins.CB.GreetingFlyToStar` | Требует контекста | Фрагмент: «Это доминион &lt;CB&gt;.» |
-| [3009](../../source/SR_2_HD_Lang_vanilla.txt#L3009) | `FormRuins.CB.GreetingHyperspace` | Разобрано в своде | Фрагмент: «Это доминион &lt;CB&gt;.» · [Свод](../../GALAXY_LORE.md#L1493) |
-| [3010](../../source/SR_2_HD_Lang_vanilla.txt#L3010) | `FormRuins.CB.GreetingNormal` | Разобрано в своде | Фрагмент: «Здесь у нас все варианты высокотехнологичных развлекух для настоящего пирата: можешь улучшить свое оборудование, заказать пиратский набег и узнать обстановку на фронтах, купить пиратскую лицензию и спонсировать постройку новых кораблей нашим пилотам.» · [Свод](../../GALAXY_LORE.md#L1493) |
+| [3009](../../source/SR_2_HD_Lang_vanilla.txt#L3009) | `FormRuins.CB.GreetingHyperspace` | Ожидает проверки | Фрагмент: «Это доминион &lt;CB&gt;.» |
+| [3010](../../source/SR_2_HD_Lang_vanilla.txt#L3010) | `FormRuins.CB.GreetingNormal` | Ожидает проверки | Фрагмент: «Здесь у нас все варианты высокотехнологичных развлекух для настоящего пирата: можешь улучшить свое оборудование, заказать пиратский набег и узнать обстановку на фронтах, купить пиратскую лицензию и спонсировать постройку новых кораблей нашим пилотам.» |
 | [3011](../../source/SR_2_HD_Lang_vanilla.txt#L3011) | `FormRuins.CB.GreetingPlayerFlyToStar` | Требует контекста | Фрагмент: «Это доминион &lt;CB&gt;.» |
 | [3014](../../source/SR_2_HD_Lang_vanilla.txt#L3014) | `FormRuins.CB.Improvement.CBAfterOk` | Требует контекста | Фрагмент: «Отлично, наши матерые спецы закончили работу, теперь твое оборудование стало еще круче.» |
 | [3015](../../source/SR_2_HD_Lang_vanilla.txt#L3015) | `FormRuins.CB.Improvement.CBAfterRepeatNo` | Требует контекста | Фрагмент: «Ну смотри.» |
 | [3016](../../source/SR_2_HD_Lang_vanilla.txt#L3016) | `FormRuins.CB.Improvement.CBAnswer#1` | Требует контекста | Фрагмент: «Итак, &lt;Player&gt;, если хочешь улучшить что-то из своего хабара у нас, обрати внимание на то, как мы это все прокручиваем.» |
-| [3017](../../source/SR_2_HD_Lang_vanilla.txt#L3017) | `FormRuins.CB.Improvement.CBAnswer#2` | Разобрано в своде | Фрагмент: «Так как сверхточно откалибровать инструменты у нас особо некому, то и результат улучшения получается случайным, в зависимости от того, к чему прикладывается усилие вон той нано-кувалды.» · [Свод](../../GALAXY_LORE.md#L1493) |
+| [3017](../../source/SR_2_HD_Lang_vanilla.txt#L3017) | `FormRuins.CB.Improvement.CBAnswer#2` | Ожидает проверки | Фрагмент: «Так как сверхточно откалибровать инструменты у нас особо некому, то и результат улучшения получается случайным, в зависимости от того, к чему прикладывается усилие вон той нано-кувалды.» |
 | [3018](../../source/SR_2_HD_Lang_vanilla.txt#L3018) | `FormRuins.CB.Improvement.CBAnswerNothing` | Требует контекста | Фрагмент: «Не хочешь - не делай, только потом не удивляйся, почему половина приборов скручена.» |
 | [3019](../../source/SR_2_HD_Lang_vanilla.txt#L3019) | `FormRuins.CB.Improvement.CBNeedCostImprovement` | Требует контекста | Фрагмент: «Стоимость улучшения &lt;FullName&gt; - &lt;Money&gt; cr.» |
 | [3020](../../source/SR_2_HD_Lang_vanilla.txt#L3020) | `FormRuins.CB.Improvement.CBNeedCostImprovementNodes` | Требует контекста | Фрагмент: «Стоимость улучшения &lt;FullName&gt; - &lt;Money&gt; cr и &lt;Nodes&gt; нодов.» |
@@ -236,12 +236,12 @@
 | [3039](../../source/SR_2_HD_Lang_vanilla.txt#L3039) | `FormRuins.CB.Modern.Answer` | Требует контекста | Фрагмент: «Ну, братан, ты нас конкретно обрадовал.» |
 | [3042](../../source/SR_2_HD_Lang_vanilla.txt#L3042) | `FormRuins.CB.PirateLicense.CBAfterNo` | Требует контекста | Фрагмент: «Дело твое, &lt;Player&gt;.» |
 | [3043](../../source/SR_2_HD_Lang_vanilla.txt#L3043) | `FormRuins.CB.PirateLicense.CBAfterNoProlongate` | Требует контекста | Фрагмент: «Дело твое, &lt;Player&gt;.» |
-| [3044](../../source/SR_2_HD_Lang_vanilla.txt#L3044) | `FormRuins.CB.PirateLicense.CBAfterOk` | Разобрано в своде | Фрагмент: «Отлично, братан, поздравляю!» · [Свод](../../GALAXY_LORE.md#L1494) |
+| [3044](../../source/SR_2_HD_Lang_vanilla.txt#L3044) | `FormRuins.CB.PirateLicense.CBAfterOk` | Ожидает проверки | Фрагмент: «Отлично, братан, поздравляю!» |
 | [3045](../../source/SR_2_HD_Lang_vanilla.txt#L3045) | `FormRuins.CB.PirateLicense.CBAfterOkProlongate` | Требует контекста | Фрагмент: «Отлично, &lt;Player&gt;, теперь твоя лицензия будет как новенькая - печать и подпись мы заменили, действовать она будет еще целый год.» |
 | [3046](../../source/SR_2_HD_Lang_vanilla.txt#L3046) | `FormRuins.CB.PirateLicense.CBAnswer#1` | Требует контекста | Фрагмент: «Отличный выбор, &lt;Player&gt;!» |
-| [3047](../../source/SR_2_HD_Lang_vanilla.txt#L3047) | `FormRuins.CB.PirateLicense.CBAnswer#2` | Разобрано в своде | Фрагмент: «В общем, предлагаем тебе, &lt;Player&gt;, купить у нас пиратскую лицензию.» · [Свод](../../GALAXY_LORE.md#L1494) |
-| [3048](../../source/SR_2_HD_Lang_vanilla.txt#L3048) | `FormRuins.CB.PirateLicense.CBAnswer#3` | Разобрано в своде | Фрагмент: «В чем же наша выгода, подумаешь ты?» · [Свод](../../GALAXY_LORE.md#L1494) |
-| [3049](../../source/SR_2_HD_Lang_vanilla.txt#L3049) | `FormRuins.CB.PirateLicense.CBAnswer#4` | Разобрано в своде | Фрагмент: «Срок действия лицензии - 1 год.» · [Свод](../../GALAXY_LORE.md#L1494) |
+| [3047](../../source/SR_2_HD_Lang_vanilla.txt#L3047) | `FormRuins.CB.PirateLicense.CBAnswer#2` | Ожидает проверки | Фрагмент: «В общем, предлагаем тебе, &lt;Player&gt;, купить у нас пиратскую лицензию.» |
+| [3048](../../source/SR_2_HD_Lang_vanilla.txt#L3048) | `FormRuins.CB.PirateLicense.CBAnswer#3` | Ожидает проверки | Фрагмент: «В чем же наша выгода, подумаешь ты?» |
+| [3049](../../source/SR_2_HD_Lang_vanilla.txt#L3049) | `FormRuins.CB.PirateLicense.CBAnswer#4` | Ожидает проверки | Фрагмент: «Срок действия лицензии - 1 год.» |
 | [3050](../../source/SR_2_HD_Lang_vanilla.txt#L3050) | `FormRuins.CB.PirateLicense.CBAnswerProlongate#1` | Требует контекста | Фрагмент: «Отличная идея, &lt;Player&gt;, мы ценим постоянных клиентов.» |
 | [3052](../../source/SR_2_HD_Lang_vanilla.txt#L3052) | `FormRuins.CB.PirateLicense.CBAnswerProlongate#3` | Требует контекста | Фрагмент: «Исходная цена продления составляет - &lt;Money&gt; cr, скидка за твой пиратский рейтинг - &lt;Discount&gt;%, итоговая цена &lt;DiscountMoney&gt; cr.» |
 | [3053](../../source/SR_2_HD_Lang_vanilla.txt#L3053) | `FormRuins.CB.PirateLicense.PlayerNo` | Требует контекста | Фрагмент: «Спасибо, но я обойдусь» |
@@ -253,7 +253,7 @@
 | [3061](../../source/SR_2_HD_Lang_vanilla.txt#L3061) | `FormRuins.CB.ShuffleTeleport.CBAfterConfirm` | Требует контекста | Фрагмент: «Отлично, врубаем генератор!» |
 | [3062](../../source/SR_2_HD_Lang_vanilla.txt#L3062) | `FormRuins.CB.ShuffleTeleport.CBAfterNoCancel` | Требует контекста | Фрагмент: «Ты уж определись что ли, &lt;Player&gt;.» |
 | [3063](../../source/SR_2_HD_Lang_vanilla.txt#L3063) | `FormRuins.CB.ShuffleTeleport.CBAfterNoConfirm` | Требует контекста | Фрагмент: «Это не дело, браток.» |
-| [3064](../../source/SR_2_HD_Lang_vanilla.txt#L3064) | `FormRuins.CB.ShuffleTeleport.CBAfterRefuse` | Разобрано в своде | Фрагмент: «Нанотехнологии - это тебе не по торгашам пулять!» · [Свод](../../GALAXY_LORE.md#L1493) |
+| [3064](../../source/SR_2_HD_Lang_vanilla.txt#L3064) | `FormRuins.CB.ShuffleTeleport.CBAfterRefuse` | Ожидает проверки | Фрагмент: «Нанотехнологии - это тебе не по торгашам пулять!» |
 | [3065](../../source/SR_2_HD_Lang_vanilla.txt#L3065) | `FormRuins.CB.ShuffleTeleport.CBCancelTeleport` | Требует контекста | Фрагмент: «Ты уверен, &lt;Player&gt;?» |
 | [3066](../../source/SR_2_HD_Lang_vanilla.txt#L3066) | `FormRuins.CB.ShuffleTeleport.CBChoseDestination#1` | Требует контекста | Фрагмент: «Сейчас мы можем предложить следующие маршруты:» |
 | [3068](../../source/SR_2_HD_Lang_vanilla.txt#L3068) | `FormRuins.CB.ShuffleTeleport.CBConfirmation` | Требует контекста | Фрагмент: «Прокладываем курс в систему &lt;ToStar&gt; за &lt;Cost&gt; cr.» |
@@ -295,16 +295,16 @@
 | [3109](../../source/SR_2_HD_Lang_vanilla.txt#L3109) | `FormRuins.CB.WarPlans.Assault.PlayerSend2` | Требует контекста | Фрагмент: «Надо атаковать систему доминаторов» |
 | [3110](../../source/SR_2_HD_Lang_vanilla.txt#L3110) | `FormRuins.CB.WarPlans.Assault.Refuse` | Требует контекста | Фрагмент: «Это мне не подходит» |
 | [3111](../../source/SR_2_HD_Lang_vanilla.txt#L3111) | `FormRuins.CB.WarPlans.Assault.ToStar` | Требует контекста | Фрагмент: «В систему &lt;ToStar&gt;, &lt;Cost&gt; cr» |
-| [3113](../../source/SR_2_HD_Lang_vanilla.txt#L3113) | `FormRuins.CB.WarPlans.CBAnswersAboutCapture#1` | Разобрано в своде | Фрагмент: «Ха, вот это настрой!» · [Свод](../../GALAXY_LORE.md#L1496) |
-| [3114](../../source/SR_2_HD_Lang_vanilla.txt#L3114) | `FormRuins.CB.WarPlans.CBAnswersAboutCapture#2` | Разобрано в своде | Фрагмент: «Помимо этого, в системе не должно остаться никаких коалиционных баз, кроме медицинских центров.» · [Свод](../../GALAXY_LORE.md#L1496) |
-| [3115](../../source/SR_2_HD_Lang_vanilla.txt#L3115) | `FormRuins.CB.WarPlans.CBAnswersAboutCapture#3` | Разобрано в своде | Фрагмент: «Но ты имей в виду, что захватывать сразу все системы Коалиции не стоит. Так что пускай лучше Коалиция мучается с войной, а мы у них в тылу неплохо отсидимся, пока доминаторы не кончатся.» · [Свод](../../GALAXY_LORE.md#L1496) |
-| [3116](../../source/SR_2_HD_Lang_vanilla.txt#L3116) | `FormRuins.CB.WarPlans.CBAnswersAboutRanks#1` | Разобрано в своде | Фрагмент: «Ну как же, &lt;Player&gt;, это ведь старейшая пиратская традиция... На самом деле, ее придумали Верховные Лякуши вскоре после начала войны с этими дурацкими железками - доминаторами.» · [Свод](../../GALAXY_LORE.md#L1495) |
+| [3113](../../source/SR_2_HD_Lang_vanilla.txt#L3113) | `FormRuins.CB.WarPlans.CBAnswersAboutCapture#1` | Ожидает проверки | Фрагмент: «Ха, вот это настрой!» |
+| [3114](../../source/SR_2_HD_Lang_vanilla.txt#L3114) | `FormRuins.CB.WarPlans.CBAnswersAboutCapture#2` | Ожидает проверки | Фрагмент: «Помимо этого, в системе не должно остаться никаких коалиционных баз, кроме медицинских центров.» |
+| [3115](../../source/SR_2_HD_Lang_vanilla.txt#L3115) | `FormRuins.CB.WarPlans.CBAnswersAboutCapture#3` | Ожидает проверки | Фрагмент: «Но ты имей в виду, что захватывать сразу все системы Коалиции не стоит. Так что пускай лучше Коалиция мучается с войной, а мы у них в тылу неплохо отсидимся, пока доминаторы не кончатся.» |
+| [3116](../../source/SR_2_HD_Lang_vanilla.txt#L3116) | `FormRuins.CB.WarPlans.CBAnswersAboutRanks#1` | Ожидает проверки | Фрагмент: «Ну как же, &lt;Player&gt;, это ведь старейшая пиратская традиция... На самом деле, ее придумали Верховные Лякуши вскоре после начала войны с этими дурацкими железками - доминаторами.» |
 | [3117](../../source/SR_2_HD_Lang_vanilla.txt#L3117) | `FormRuins.CB.WarPlans.CBAnswersAboutRanks#2` | Требует контекста | Фрагмент: «На нашем доминионе &lt;BaseName&gt; вот такие ограничения по доступным тебе классным фишкам:» |
-| [3118](../../source/SR_2_HD_Lang_vanilla.txt#L3118) | `FormRuins.CB.WarPlans.CBAnswersAboutRanks#3` | Разобрано в своде | Фрагмент: «Заказать пиратский набег - необходимо звание юнга» · [Свод](../../GALAXY_LORE.md#L1495) |
-| [3119](../../source/SR_2_HD_Lang_vanilla.txt#L3119) | `FormRuins.CB.WarPlans.CBAnswersAboutRanks#4` | Разобрано в своде | Фрагмент: «Передислокация доминиона - необходимо звание шкипер» · [Свод](../../GALAXY_LORE.md#L1495) |
-| [3120](../../source/SR_2_HD_Lang_vanilla.txt#L3120) | `FormRuins.CB.WarPlans.CBAnswersAboutRanks#5` | Разобрано в своде | Фрагмент: «Помешать военной операции - необходимо звание головорез» · [Свод](../../GALAXY_LORE.md#L1495) |
-| [3121](../../source/SR_2_HD_Lang_vanilla.txt#L3121) | `FormRuins.CB.WarPlans.CBAnswersAboutRanks#6` | Разобрано в своде | Фрагмент: «Напасть на систему коалиции - необходимо звание атаман» · [Свод](../../GALAXY_LORE.md#L1495) |
-| [3122](../../source/SR_2_HD_Lang_vanilla.txt#L3122) | `FormRuins.CB.WarPlans.CBAnswersAboutRanks#7` | Разобрано в своде | Фрагмент: «Напасть на систему доминаторов - необходимо звание хан» · [Свод](../../GALAXY_LORE.md#L1495) |
+| [3118](../../source/SR_2_HD_Lang_vanilla.txt#L3118) | `FormRuins.CB.WarPlans.CBAnswersAboutRanks#3` | Ожидает проверки | Фрагмент: «Заказать пиратский набег - необходимо звание юнга» |
+| [3119](../../source/SR_2_HD_Lang_vanilla.txt#L3119) | `FormRuins.CB.WarPlans.CBAnswersAboutRanks#4` | Ожидает проверки | Фрагмент: «Передислокация доминиона - необходимо звание шкипер» |
+| [3120](../../source/SR_2_HD_Lang_vanilla.txt#L3120) | `FormRuins.CB.WarPlans.CBAnswersAboutRanks#5` | Ожидает проверки | Фрагмент: «Помешать военной операции - необходимо звание головорез» |
+| [3121](../../source/SR_2_HD_Lang_vanilla.txt#L3121) | `FormRuins.CB.WarPlans.CBAnswersAboutRanks#6` | Ожидает проверки | Фрагмент: «Напасть на систему коалиции - необходимо звание атаман» |
+| [3122](../../source/SR_2_HD_Lang_vanilla.txt#L3122) | `FormRuins.CB.WarPlans.CBAnswersAboutRanks#7` | Ожидает проверки | Фрагмент: «Напасть на систему доминаторов - необходимо звание хан» |
 | [3123](../../source/SR_2_HD_Lang_vanilla.txt#L3123) | `FormRuins.CB.WarPlans.CBAsk` | Требует контекста | Фрагмент: «Что тебя интересует?» |
 | [3124](../../source/SR_2_HD_Lang_vanilla.txt#L3124) | `FormRuins.CB.WarPlans.PlayerAfterAnswerAboutCapture` | Требует контекста | Фрагмент: «Все понятно» |
 | [3125](../../source/SR_2_HD_Lang_vanilla.txt#L3125) | `FormRuins.CB.WarPlans.PlayerAsk` | Требует контекста | Фрагмент: «Я хочу обсудить наши военные планы.» |
@@ -323,13 +323,13 @@
 | [3139](../../source/SR_2_HD_Lang_vanilla.txt#L3139) | `FormRuins.CB.WarPlans.Relocate.ToHangar` | Требует контекста | Фрагмент: «В ангар» |
 | [3140](../../source/SR_2_HD_Lang_vanilla.txt#L3140) | `FormRuins.CB.WarPlans.Relocate.ToStar` | Требует контекста | Фрагмент: «В систему &lt;ToStar&gt;, &lt;Cost&gt; cr» |
 | [3143](../../source/SR_2_HD_Lang_vanilla.txt#L3143) | `FormRuins.CB.WarPlans.WarOperation.CBAboutWarOperation#1` | Требует контекста | Фрагмент: «Пиратская операция - дело непростое, &lt;Player&gt;.» |
-| [3144](../../source/SR_2_HD_Lang_vanilla.txt#L3144) | `FormRuins.CB.WarPlans.WarOperation.CBAboutWarOperation#2` | Разобрано в своде | Фрагмент: «Но ты не бойся, в принципе, дело решаемое, за бабки все можно организовать.» · [Свод](../../GALAXY_LORE.md#L2218) |
-| [3145](../../source/SR_2_HD_Lang_vanilla.txt#L3145) | `FormRuins.CB.WarPlans.WarOperation.CBAboutWarOperation#3` | Разобрано в своде | Фрагмент: «Единственное, ты имей в виду, что заказ операции еще не гарантирует ее успешное выполнение.» · [Свод](../../GALAXY_LORE.md#L1498) |
+| [3144](../../source/SR_2_HD_Lang_vanilla.txt#L3144) | `FormRuins.CB.WarPlans.WarOperation.CBAboutWarOperation#2` | Ожидает проверки | Фрагмент: «Но ты не бойся, в принципе, дело решаемое, за бабки все можно организовать.» |
+| [3145](../../source/SR_2_HD_Lang_vanilla.txt#L3145) | `FormRuins.CB.WarPlans.WarOperation.CBAboutWarOperation#3` | Ожидает проверки | Фрагмент: «Единственное, ты имей в виду, что заказ операции еще не гарантирует ее успешное выполнение.» |
 | [3146](../../source/SR_2_HD_Lang_vanilla.txt#L3146) | `FormRuins.CB.WarPlans.WarOperation.CBAboutWarOperation#4` | Требует контекста | Фрагмент: «Если же спецы не смогут найти интересный вариант для нападения, то не обессудь, плакали твои денежки.» |
 | [3147](../../source/SR_2_HD_Lang_vanilla.txt#L3147) | `FormRuins.CB.WarPlans.WarOperation.CBAboutWarOperation#5` | Требует контекста | Фрагмент: «Деньги твои, так что решай.» |
 | [3148](../../source/SR_2_HD_Lang_vanilla.txt#L3148) | `FormRuins.CB.WarPlans.WarOperation.CBAfterNo` | Требует контекста | Фрагмент: «Ну а что тогда лез, если не готов?» |
 | [3149](../../source/SR_2_HD_Lang_vanilla.txt#L3149) | `FormRuins.CB.WarPlans.WarOperation.CBAfterOk#1` | Требует контекста | Фрагмент: «Спецы анализируют ситуацию...» |
-| [3150](../../source/SR_2_HD_Lang_vanilla.txt#L3150) | `FormRuins.CB.WarPlans.WarOperation.CBAfterOk#2` | Разобрано в своде | Фрагмент: «Спецы дегустируют напитки...» · [Свод](../../GALAXY_LORE.md#L1498) |
+| [3150](../../source/SR_2_HD_Lang_vanilla.txt#L3150) | `FormRuins.CB.WarPlans.WarOperation.CBAfterOk#2` | Ожидает проверки | Фрагмент: «Спецы дегустируют напитки...» |
 | [3151](../../source/SR_2_HD_Lang_vanilla.txt#L3151) | `FormRuins.CB.WarPlans.WarOperation.CBAfterOk#3` | Требует контекста | Фрагмент: «Спецы подбирают вариант для атаки...» |
 | [3153](../../source/SR_2_HD_Lang_vanilla.txt#L3153) | `FormRuins.CB.WarPlans.WarOperation.CBAfterOkBad#1` | Требует контекста | Фрагмент: «Увы, &lt;Player&gt;, спецы усердно работали, но все напрасно.» |
 | [3154](../../source/SR_2_HD_Lang_vanilla.txt#L3154) | `FormRuins.CB.WarPlans.WarOperation.CBAfterOkBad#2` | Требует контекста | Фрагмент: «Насчет денег не расстраивайся, они пошли на благое дело.» |
@@ -381,7 +381,7 @@
 | [3207](../../source/SR_2_HD_Lang_vanilla.txt#L3207) | `FormRuins.CB.WarPlans.WarWithKlingAndCoalition.KlingOnly.CBAnswerWeControlMore70Percent#2` | Требует контекста | Фрагмент: «Но праздновать пока рано, поэтому мы исправно беспреде... в смысле, несем свою вахту.» |
 | [3208](../../source/SR_2_HD_Lang_vanilla.txt#L3208) | `FormRuins.CB.WarPlans.WarWithKlingAndCoalition.KlingOnly.CBAnswerWeControlMore90Percent#1` | Требует контекста | Фрагмент: «Обстановочка хорошо, &lt;Player&gt;!» |
 | [3209](../../source/SR_2_HD_Lang_vanilla.txt#L3209) | `FormRuins.CB.WarPlans.WarWithKlingAndCoalition.KlingOnly.CBAnswerWeControlMore90Percent#2` | Кандидат | Фрагмент: «Наш доминион может организовать на пиратский набег на другую систему, перебазироваться, попытаться сорвать военную операцию или организовать нападение на систему коалиции или доминаторов.» |
-| [3211](../../source/SR_2_HD_Lang_vanilla.txt#L3211) | `FormRuins.CB.WarPlans.WarWithKlingAndCoalition.ExtraTextAboutRanks` | Разобрано в своде | Фрагмент: «Только не забывай, браток, что не каждый встречный может отдавать приказы нашей базе - Верховными Лякушами давно разработана шкала Рачехана, в которой строго прописано, что решают обладатели разных званий.» · [Свод](../../GALAXY_LORE.md#L1495) |
+| [3211](../../source/SR_2_HD_Lang_vanilla.txt#L3211) | `FormRuins.CB.WarPlans.WarWithKlingAndCoalition.ExtraTextAboutRanks` | Ожидает проверки | Фрагмент: «Только не забывай, браток, что не каждый встречный может отдавать приказы нашей базе - Верховными Лякушами давно разработана шкала Рачехана, в которой строго прописано, что решают обладатели разных званий.» |
 | [3217](../../source/SR_2_HD_Lang_vanilla.txt#L3217) | `FormRuins.GN.Modern.AfterNo` | Требует контекста | Фрагмент: «Какая жалость...» |
 | [3218](../../source/SR_2_HD_Lang_vanilla.txt#L3218) | `FormRuins.GN.Modern.Answer` | Требует контекста | Фрагмент: «О, мы всегда рады спонсорам!» |
 | [3219](../../source/SR_2_HD_Lang_vanilla.txt#L3219) | `FormRuins.GN.Modern.PlayerAsk` | Требует контекста | Фрагмент: «Я желаю поучаствовать в развитии вашей базы» |
@@ -389,8 +389,8 @@
 | [3221](../../source/SR_2_HD_Lang_vanilla.txt#L3221) | `FormRuins.GN.Modern.PlayerOk` | Требует контекста | Фрагмент: «Я согласен!» |
 | [3224](../../source/SR_2_HD_Lang_vanilla.txt#L3224) | `FormRuins.I_Continue` | Реплика | Короткая реакция или команда. Самостоятельный факт не выделен. |
 | [3225](../../source/SR_2_HD_Lang_vanilla.txt#L3225) | `FormRuins.I_TakeOff` | Реплика | Короткая реакция или команда. Самостоятельный факт не выделен. |
-| [3227](../../source/SR_2_HD_Lang_vanilla.txt#L3227) | `FormRuins.MC.Greeting#1` | Разобрано в своде | Фрагмент: «Пациент &lt;Player&gt;, вы находитесь на станции &lt;MC&gt;.» · [Свод](../../GALAXY_LORE.md#L1832) |
-| [3228](../../source/SR_2_HD_Lang_vanilla.txt#L3228) | `FormRuins.MC.Greeting#2` | Разобрано в своде | Фрагмент: «Помните, что курение и распитие наркотических веществ у нас запрещено согласно постановлению 12/2 параграфа О Последствиях.» · [Свод](../../GALAXY_LORE.md#L1832) |
+| [3227](../../source/SR_2_HD_Lang_vanilla.txt#L3227) | `FormRuins.MC.Greeting#1` | Ожидает проверки | Фрагмент: «Пациент &lt;Player&gt;, вы находитесь на станции &lt;MC&gt;.» |
+| [3228](../../source/SR_2_HD_Lang_vanilla.txt#L3228) | `FormRuins.MC.Greeting#2` | Ожидает проверки | Фрагмент: «Помните, что курение и распитие наркотических веществ у нас запрещено согласно постановлению 12/2 параграфа О Последствиях.» |
 | [3230](../../source/SR_2_HD_Lang_vanilla.txt#L3230) | `FormRuins.MC.Illnes.MCSee#1` | Требует контекста | Фрагмент: «Так, так, так...» |
 | [3231](../../source/SR_2_HD_Lang_vanilla.txt#L3231) | `FormRuins.MC.Illnes.MCSee#2` | Требует контекста | Фрагмент: «У вас налицо явные признаки переутомления.» |
 | [3232](../../source/SR_2_HD_Lang_vanilla.txt#L3232) | `FormRuins.MC.Illnes.MCSeeAfterExit` | Требует контекста | Фрагмент: «Одумайтесь, &lt;Player&gt;, в таком состоянии польза для фронта от вас, мягко говоря, невелика.» |
@@ -399,9 +399,9 @@
 | [3235](../../source/SR_2_HD_Lang_vanilla.txt#L3235) | `FormRuins.MC.Illnes.MCSeeAfterIllAll#1` | Требует контекста | Фрагмент: «Отлично, &lt;Player&gt;!» |
 | [3237](../../source/SR_2_HD_Lang_vanilla.txt#L3237) | `FormRuins.MC.Illnes.MCSeeAfterIllAll#3` | Требует контекста | Фрагмент: «Начинаются процедуры.» |
 | [3239](../../source/SR_2_HD_Lang_vanilla.txt#L3239) | `FormRuins.MC.Illnes.MCSeeAfterIllAll#5` | Требует контекста | Фрагмент: «Кажется, вы идете на поправку.» |
-| [3240](../../source/SR_2_HD_Lang_vanilla.txt#L3240) | `FormRuins.MC.Illnes.MCSeeAfterIllAll#6` | Разобрано в своде | Фрагмент: «Можете идти, мы выдаем вам древнюю справку-сертификат, образца &lt;CurrentYear&gt; года, о добровольном прохождении курса Уринотерапии.» · [Свод](../../GALAXY_LORE.md#L1834) |
+| [3240](../../source/SR_2_HD_Lang_vanilla.txt#L3240) | `FormRuins.MC.Illnes.MCSeeAfterIllAll#6` | Ожидает проверки | Фрагмент: «Можете идти, мы выдаем вам древнюю справку-сертификат, образца &lt;CurrentYear&gt; года, о добровольном прохождении курса Уринотерапии.» |
 | [3241](../../source/SR_2_HD_Lang_vanilla.txt#L3241) | `FormRuins.MC.Illnes.MCSeeAfterIllPirate` | Требует контекста | Фрагмент: «Отлично, &lt;Player&gt;!» |
-| [3242](../../source/SR_2_HD_Lang_vanilla.txt#L3242) | `FormRuins.MC.Illnes.MCSeeAfterIllRadiation` | Разобрано в своде | Фрагмент: «А вот Лучевую болезнь мы, к сожалению, излечить не можем.» · [Свод](../../GALAXY_LORE.md#L1833) |
+| [3242](../../source/SR_2_HD_Lang_vanilla.txt#L3242) | `FormRuins.MC.Illnes.MCSeeAfterIllRadiation` | Ожидает проверки | Фрагмент: «А вот Лучевую болезнь мы, к сожалению, излечить не можем.» |
 | [3243](../../source/SR_2_HD_Lang_vanilla.txt#L3243) | `FormRuins.MC.Illnes.MCSeeAfterNo#1` | Требует контекста | Фрагмент: «Как вам не стыдно, &lt;Player&gt;, отказываться от лечения!» |
 | [3244](../../source/SR_2_HD_Lang_vanilla.txt#L3244) | `FormRuins.MC.Illnes.MCSeeAfterNo#2` | Требует контекста | Фрагмент: «Если у вас не хватает денег, продайте что-нибудь ненужное.» |
 | [3245](../../source/SR_2_HD_Lang_vanilla.txt#L3245) | `FormRuins.MC.Illnes.MCSeeCureless#1` | Требует контекста | Фрагмент: «Так, а вот это уже серьезно...» |
@@ -414,11 +414,11 @@
 | [3257](../../source/SR_2_HD_Lang_vanilla.txt#L3257) | `FormRuins.MC.Illnes.MCSeeIllType2` | Требует контекста | Фрагмент: «- вирус» |
 | [3258](../../source/SR_2_HD_Lang_vanilla.txt#L3258) | `FormRuins.MC.Illnes.MCSeeIllness#1` | Требует контекста | Фрагмент: «Так, а вот это уже серьезно...» |
 | [3261](../../source/SR_2_HD_Lang_vanilla.txt#L3261) | `FormRuins.MC.Illnes.MCSeeIllness#4` | Требует контекста | Фрагмент: «Мы рекомендуем вам излечиться от каждой болезни сейчас, ведь завтра может быть поздно.» |
-| [3262](../../source/SR_2_HD_Lang_vanilla.txt#L3262) | `FormRuins.MC.Illnes.MCSeeIllness#5` | Разобрано в своде | Фрагмент: «Для неимущих рейнджеров мы предлагаем курс Уринотерапии!» · [Свод](../../GALAXY_LORE.md#L1832) |
+| [3262](../../source/SR_2_HD_Lang_vanilla.txt#L3262) | `FormRuins.MC.Illnes.MCSeeIllness#5` | Ожидает проверки | Фрагмент: «Для неимущих рейнджеров мы предлагаем курс Уринотерапии!» |
 | [3263](../../source/SR_2_HD_Lang_vanilla.txt#L3263) | `FormRuins.MC.Illnes.MCSeeIllness#6` | Требует контекста | Фрагмент: «Решайтесь, &lt;Player&gt;!» |
 | [3264](../../source/SR_2_HD_Lang_vanilla.txt#L3264) | `FormRuins.MC.Illnes.MCSeeIllnessPirate#1` | Требует контекста | Фрагмент: «Так, а вот это уже серьезно...» |
 | [3267](../../source/SR_2_HD_Lang_vanilla.txt#L3267) | `FormRuins.MC.Illnes.MCSeeIllnessPirate#4` | Требует контекста | Фрагмент: «Мы рекомендуем вам излечиться от каждой болезни сейчас, ведь завтра может быть поздно.» |
-| [3268](../../source/SR_2_HD_Lang_vanilla.txt#L3268) | `FormRuins.MC.Illnes.MCSeeIllnessPirate#5` | Разобрано в своде | Фрагмент: «Для пиратов - неудачников мы предлагаем курс Уринотерапии!» · [Свод](../../GALAXY_LORE.md#L1833) |
+| [3268](../../source/SR_2_HD_Lang_vanilla.txt#L3268) | `FormRuins.MC.Illnes.MCSeeIllnessPirate#5` | Ожидает проверки | Фрагмент: «Для пиратов - неудачников мы предлагаем курс Уринотерапии!» |
 | [3269](../../source/SR_2_HD_Lang_vanilla.txt#L3269) | `FormRuins.MC.Illnes.MCSeeIllnessPirate#6` | Требует контекста | Фрагмент: «Решайтесь, &lt;Player&gt;!» |
 | [3270](../../source/SR_2_HD_Lang_vanilla.txt#L3270) | `FormRuins.MC.Illnes.MCSeePirate#1` | Требует контекста | Фрагмент: «Так, так, так...» |
 | [3271](../../source/SR_2_HD_Lang_vanilla.txt#L3271) | `FormRuins.MC.Illnes.MCSeePirate#2` | Требует контекста | Фрагмент: «У вас налицо явные признаки переутомления.» |
@@ -430,7 +430,7 @@
 | [3278](../../source/SR_2_HD_Lang_vanilla.txt#L3278) | `FormRuins.MC.Illnes.PlayerNo` | Требует контекста | Фрагмент: «Отказаться от лечения» |
 | [3279](../../source/SR_2_HD_Lang_vanilla.txt#L3279) | `FormRuins.MC.Illnes.PlayerSend` | Требует контекста | Фрагмент: «Пройти мед. обследование» |
 | [3282](../../source/SR_2_HD_Lang_vanilla.txt#L3282) | `FormRuins.MC.Modern.AfterOk` | Требует контекста | Фрагмент: «Своим благородным поступком вы, &lt;Player&gt;, обеспечили безопасность тысячам больных в нашем центре!» |
-| [3285](../../source/SR_2_HD_Lang_vanilla.txt#L3285) | `FormRuins.MC.Stimulants.MC1#1` | Разобрано в своде | Фрагмент: «Стимуляторы, согласно пункту 18/1 параграфа 744 медицинского кодекса, предписаны исключительно для чрезвычайных ситуаций.» · [Свод](../../GALAXY_LORE.md#L1832) |
+| [3285](../../source/SR_2_HD_Lang_vanilla.txt#L3285) | `FormRuins.MC.Stimulants.MC1#1` | Ожидает проверки | Фрагмент: «Стимуляторы, согласно пункту 18/1 параграфа 744 медицинского кодекса, предписаны исключительно для чрезвычайных ситуаций.» |
 | [3286](../../source/SR_2_HD_Lang_vanilla.txt#L3286) | `FormRuins.MC.Stimulants.MC1#2` | Требует контекста | Фрагмент: «Рассматривая данную ситуацию как патологически опасную для наших народов, мы можем допустить прием до &lt;MaxStim&gt; различных стимуляторов» |
 | [3287](../../source/SR_2_HD_Lang_vanilla.txt#L3287) | `FormRuins.MC.Stimulants.MC2` | Требует контекста | Фрагмент: «одним индивидуумом ранга &lt;Rank&gt;.» |
 | [3288](../../source/SR_2_HD_Lang_vanilla.txt#L3288) | `FormRuins.MC.Stimulants.MC2Pirate` | Требует контекста | Фрагмент: «одним индивидуумом с пиратским званием &lt;PirateRank&gt;.» |
@@ -440,12 +440,12 @@
 | [3292](../../source/SR_2_HD_Lang_vanilla.txt#L3292) | `FormRuins.MC.Stimulants.MC3PirateNoRank` | Требует контекста | Фрагмент: «Что-что вы говорите?» |
 | [3293](../../source/SR_2_HD_Lang_vanilla.txt#L3293) | `FormRuins.MC.Stimulants.MC4` | Требует контекста | Фрагмент: «В вашем организме сейчас &lt;CurStim&gt; ед. стимуляторов.» |
 | [3294](../../source/SR_2_HD_Lang_vanilla.txt#L3294) | `FormRuins.MC.Stimulants.MC5#1` | Требует контекста | Фрагмент: «Вот, что у нас есть на данный момент:» |
-| [3297](../../source/SR_2_HD_Lang_vanilla.txt#L3297) | `FormRuins.MC.Stimulants.MC5#4` | Разобрано в своде | Фрагмент: «Помните, что стимуляторы опасны для здоровья.» · [Свод](../../GALAXY_LORE.md#L1832) |
+| [3297](../../source/SR_2_HD_Lang_vanilla.txt#L3297) | `FormRuins.MC.Stimulants.MC5#4` | Ожидает проверки | Фрагмент: «Помните, что стимуляторы опасны для здоровья.» |
 | [3298](../../source/SR_2_HD_Lang_vanilla.txt#L3298) | `FormRuins.MC.Stimulants.MC5MedPolicy` | Требует контекста | Фрагмент: «Если у вас есть страховой полис, мы отпустим вам стимуляторы за половину стоимости.» |
 | [3299](../../source/SR_2_HD_Lang_vanilla.txt#L3299) | `FormRuins.MC.Stimulants.MCAfterPlayerNo#1` | Требует контекста | Фрагмент: «Это разумно, &lt;Player&gt;.» |
-| [3300](../../source/SR_2_HD_Lang_vanilla.txt#L3300) | `FormRuins.MC.Stimulants.MCAfterPlayerNo#2` | Разобрано в своде | Фрагмент: «Лучше вести здоровый образ жизни, поддерживать свое тело в хорошей физической форме.» · [Свод](../../GALAXY_LORE.md#L1832) |
+| [3300](../../source/SR_2_HD_Lang_vanilla.txt#L3300) | `FormRuins.MC.Stimulants.MCAfterPlayerNo#2` | Ожидает проверки | Фрагмент: «Лучше вести здоровый образ жизни, поддерживать свое тело в хорошей физической форме.» |
 | [3301](../../source/SR_2_HD_Lang_vanilla.txt#L3301) | `FormRuins.MC.Stimulants.MCAfterPlayerNoPirate#1` | Требует контекста | Фрагмент: «Это разумно, &lt;Player&gt;.» |
-| [3302](../../source/SR_2_HD_Lang_vanilla.txt#L3302) | `FormRuins.MC.Stimulants.MCAfterPlayerNoPirate#2` | Разобрано в своде | Фрагмент: «Лучше вести здоровый образ жизни, поддерживать свое тело в хорошей физической форме.» · [Свод](../../GALAXY_LORE.md#L1833) |
+| [3302](../../source/SR_2_HD_Lang_vanilla.txt#L3302) | `FormRuins.MC.Stimulants.MCAfterPlayerNoPirate#2` | Ожидает проверки | Фрагмент: «Лучше вести здоровый образ жизни, поддерживать свое тело в хорошей физической форме.» |
 | [3303](../../source/SR_2_HD_Lang_vanilla.txt#L3303) | `FormRuins.MC.Stimulants.MCAfterPlayerStim#1` | Требует контекста | Фрагмент: «Отличный выбор.» |
 | [3304](../../source/SR_2_HD_Lang_vanilla.txt#L3304) | `FormRuins.MC.Stimulants.MCAfterPlayerStim#2` | Требует контекста | Фрагмент: «Теперь укольчик, пожалуйста...» |
 | [3305](../../source/SR_2_HD_Lang_vanilla.txt#L3305) | `FormRuins.MC.Stimulants.MCAfterPlayerStim#3` | Требует контекста | Фрагмент: «Процедуры закончены.» |
@@ -460,7 +460,7 @@
 | [3317](../../source/SR_2_HD_Lang_vanilla.txt#L3317) | `FormRuins.NotFuelTank` | Требует контекста | Фрагмент: «Не установлен топливный бак» |
 | [3320](../../source/SR_2_HD_Lang_vanilla.txt#L3320) | `FormRuins.PB.AskQuestion.PBAnswersAboutCapture#1` | Требует контекста | Фрагмент: «Ха, вот это настрой!» |
 | [3321](../../source/SR_2_HD_Lang_vanilla.txt#L3321) | `FormRuins.PB.AskQuestion.PBAnswersAboutCapture#2` | Кандидат | Фрагмент: «Помимо этого, в системе не должно остаться никаких коалиционных баз, кроме медицинских центров.» |
-| [3322](../../source/SR_2_HD_Lang_vanilla.txt#L3322) | `FormRuins.PB.AskQuestion.PBAnswersAboutCapture#3` | Разобрано в своде | Фрагмент: «Но ты имей в виду, что захватывать сразу все системы Коалиции не стоит. Так что пускай лучше Коалиция мучается с войной, а мы у них в тылу неплохо отсидимся, пока доминаторы не кончатся.» · [Свод](../../GALAXY_LORE.md#L1971) |
+| [3322](../../source/SR_2_HD_Lang_vanilla.txt#L3322) | `FormRuins.PB.AskQuestion.PBAnswersAboutCapture#3` | Ожидает проверки | Фрагмент: «Но ты имей в виду, что захватывать сразу все системы Коалиции не стоит. Так что пускай лучше Коалиция мучается с войной, а мы у них в тылу неплохо отсидимся, пока доминаторы не кончатся.» |
 | [3323](../../source/SR_2_HD_Lang_vanilla.txt#L3323) | `FormRuins.PB.AskQuestion.PBAsk` | Требует контекста | Фрагмент: «Спрашивай, кореш, ты же один из нас.» |
 | [3324](../../source/SR_2_HD_Lang_vanilla.txt#L3324) | `FormRuins.PB.AskQuestion.PlayerAfterAnswerAboutCapture` | Требует контекста | Фрагмент: «Все понятно» |
 | [3325](../../source/SR_2_HD_Lang_vanilla.txt#L3325) | `FormRuins.PB.AskQuestion.PlayerAsk` | Требует контекста | Фрагмент: «Хочу спросить пару вопросов, как пират у пирата...» |
@@ -468,18 +468,18 @@
 | [3327](../../source/SR_2_HD_Lang_vanilla.txt#L3327) | `FormRuins.PB.AskQuestion.PlayerNoQuestions` | Требует контекста | Фрагмент: «Вопросов больше нет» |
 | [3330](../../source/SR_2_HD_Lang_vanilla.txt#L3330) | `FormRuins.PB.Chameleon.PBAfterNo` | Требует контекста | Фрагмент: «Хе, испугался?» |
 | [3331](../../source/SR_2_HD_Lang_vanilla.txt#L3331) | `FormRuins.PB.Chameleon.PBAfterNoAlt` | Требует контекста | Фрагмент: «Не хочешь?» |
-| [3332](../../source/SR_2_HD_Lang_vanilla.txt#L3332) | `FormRuins.PB.Chameleon.PBAfterOk` | Разобрано в своде | Фрагмент: «Отлично, наши техники загрузили в твой бортовой компьютер программы для активации камуфляжа.» · [Свод](../../GALAXY_LORE.md#L1787) |
-| [3333](../../source/SR_2_HD_Lang_vanilla.txt#L3333) | `FormRuins.PB.Chameleon.PBAsk#1` | Разобрано в своде | Фрагмент: «В наши руки попала секретная военная разработка под кодовым названием "Хамелеон".» · [Свод](../../GALAXY_LORE.md#L1787) |
+| [3332](../../source/SR_2_HD_Lang_vanilla.txt#L3332) | `FormRuins.PB.Chameleon.PBAfterOk` | Ожидает проверки | Фрагмент: «Отлично, наши техники загрузили в твой бортовой компьютер программы для активации камуфляжа.» |
+| [3333](../../source/SR_2_HD_Lang_vanilla.txt#L3333) | `FormRuins.PB.Chameleon.PBAsk#1` | Ожидает проверки | Фрагмент: «В наши руки попала секретная военная разработка под кодовым названием "Хамелеон".» |
 | [3335](../../source/SR_2_HD_Lang_vanilla.txt#L3335) | `FormRuins.PB.Chameleon.PBAsk#3` | Требует контекста | Фрагмент: «Что хочешь загрузить в свой корабль?» |
 | [3336](../../source/SR_2_HD_Lang_vanilla.txt#L3336) | `FormRuins.PB.Chameleon.PlayerAsk` | Требует контекста | Фрагмент: «Я слышал, у вас есть камуфляжное устройство» |
 | [3337](../../source/SR_2_HD_Lang_vanilla.txt#L3337) | `FormRuins.PB.Chameleon.PlayerNo` | Требует контекста | Фрагмент: «Одеться в шкуру врага?» |
 | [3338](../../source/SR_2_HD_Lang_vanilla.txt#L3338) | `FormRuins.PB.Chameleon.PlayerOk` | Требует контекста | Фрагмент: «Камуфляж серии &lt;Series&gt; за &lt;Cost&gt; cr» |
-| [3341](../../source/SR_2_HD_Lang_vanilla.txt#L3341) | `FormRuins.PB.ChangeNationality.AfterOperationFei` | Разобрано в своде | Фрагмент: «Надеемся, ты не станешь теперь паинькой и будешь под этой фэянской личиной заниматься контрабандой наркотиков.» · [Свод](../../GALAXY_LORE.md#L1060) |
-| [3342](../../source/SR_2_HD_Lang_vanilla.txt#L3342) | `FormRuins.PB.ChangeNationality.AfterOperationGaal` | Разобрано в своде | Фрагмент: «Все готово, мудрый гаалец.» · [Свод](../../GALAXY_LORE.md#L1256) |
-| [3343](../../source/SR_2_HD_Lang_vanilla.txt#L3343) | `FormRuins.PB.ChangeNationality.AfterOperationMaloc` | Разобрано в своде | Фрагмент: «Все сделано!» · [Свод](../../GALAXY_LORE.md#L301) |
-| [3344](../../source/SR_2_HD_Lang_vanilla.txt#L3344) | `FormRuins.PB.ChangeNationality.AfterOperationPeleng` | Разобрано в своде | Фрагмент: «Готово!» · [Свод](../../GALAXY_LORE.md#L606) |
-| [3345](../../source/SR_2_HD_Lang_vanilla.txt#L3345) | `FormRuins.PB.ChangeNationality.AfterOperationPeople` | Разобрано в своде | Фрагмент: «Готово!» · [Свод](../../GALAXY_LORE.md#L830), [Отсылки](../../GALAXY_LORE_PARODY.md#L86) |
-| [3346](../../source/SR_2_HD_Lang_vanilla.txt#L3346) | `FormRuins.PB.ChangeNationality.AnswerChangeNationality` | Разобрано в своде | Фрагмент: «Это целый комплекс услуг, в который входит изменение внешности и переделка всех твоих документов.» · [Свод](../../GALAXY_LORE.md#L1488) |
+| [3341](../../source/SR_2_HD_Lang_vanilla.txt#L3341) | `FormRuins.PB.ChangeNationality.AfterOperationFei` | Ожидает проверки | Фрагмент: «Надеемся, ты не станешь теперь паинькой и будешь под этой фэянской личиной заниматься контрабандой наркотиков.» |
+| [3342](../../source/SR_2_HD_Lang_vanilla.txt#L3342) | `FormRuins.PB.ChangeNationality.AfterOperationGaal` | Ожидает проверки | Фрагмент: «Все готово, мудрый гаалец.» |
+| [3343](../../source/SR_2_HD_Lang_vanilla.txt#L3343) | `FormRuins.PB.ChangeNationality.AfterOperationMaloc` | Ожидает проверки | Фрагмент: «Все сделано!» |
+| [3344](../../source/SR_2_HD_Lang_vanilla.txt#L3344) | `FormRuins.PB.ChangeNationality.AfterOperationPeleng` | Ожидает проверки | Фрагмент: «Готово!» |
+| [3345](../../source/SR_2_HD_Lang_vanilla.txt#L3345) | `FormRuins.PB.ChangeNationality.AfterOperationPeople` | Ожидает проверки | Фрагмент: «Готово!» |
+| [3346](../../source/SR_2_HD_Lang_vanilla.txt#L3346) | `FormRuins.PB.ChangeNationality.AnswerChangeNationality` | Ожидает проверки | Фрагмент: «Это целый комплекс услуг, в который входит изменение внешности и переделка всех твоих документов.» |
 | [3347](../../source/SR_2_HD_Lang_vanilla.txt#L3347) | `FormRuins.PB.ChangeNationality.ChangeNationality` | Требует контекста | Фрагмент: «Меня интересует смена подданства» |
 | [3348](../../source/SR_2_HD_Lang_vanilla.txt#L3348) | `FormRuins.PB.ChangeNationality.ChooseFei` | Требует контекста | Фрагмент: «Умным фэянином» |
 | [3349](../../source/SR_2_HD_Lang_vanilla.txt#L3349) | `FormRuins.PB.ChangeNationality.ChooseGaal` | Требует контекста | Фрагмент: «Мудрым гаальцем» |
@@ -497,10 +497,10 @@
 | [3362](../../source/SR_2_HD_Lang_vanilla.txt#L3362) | `FormRuins.PB.ChangeNationality.PBNext#6` | Требует контекста | Фрагмент: «Фэянин &lt;MoneyFei&gt; cr.» |
 | [3363](../../source/SR_2_HD_Lang_vanilla.txt#L3363) | `FormRuins.PB.ChangeNationality.PBNext#7` | Требует контекста | Фрагмент: «Гаалец &lt;MoneyGaal&gt; cr.» |
 | [3365](../../source/SR_2_HD_Lang_vanilla.txt#L3365) | `FormRuins.PB.ChangeNationality.PBNext#9` | Требует контекста | Фрагмент: «Ну, что скажешь, братан &lt;Player&gt;?» |
-| [3366](../../source/SR_2_HD_Lang_vanilla.txt#L3366) | `FormRuins.PB.ChangeNationality.PactText` | Разобрано в своде | Фрагмент: «Договор Я, &lt;CurName&gt;, находясь в здравом уме и твердой памяти, даю согласие на проведение гено-пластической операции.» · [Свод](../../GALAXY_LORE.md#L1488) |
+| [3366](../../source/SR_2_HD_Lang_vanilla.txt#L3366) | `FormRuins.PB.ChangeNationality.PactText` | Ожидает проверки | Фрагмент: «Договор Я, &lt;CurName&gt;, находясь в здравом уме и твердой памяти, даю согласие на проведение гено-пластической операции.» |
 | [3367](../../source/SR_2_HD_Lang_vanilla.txt#L3367) | `FormRuins.PB.ChangeNationality.PlayerNo` | Требует контекста | Фрагмент: «Спасибо, не надо» |
 | [3368](../../source/SR_2_HD_Lang_vanilla.txt#L3368) | `FormRuins.PB.ChangeNationality.PlayerOk` | Требует контекста | Фрагмент: «Я согласен, давайте приступим к заполнению документов» |
-| [3371](../../source/SR_2_HD_Lang_vanilla.txt#L3371) | `FormRuins.PB.ChangeSide.AnswerChangeSideToNormal#1` | Разобрано в своде | Фрагмент: «Что ты мечешься, как подраненный пенчекряк?» · [Свод](../../GALAXY_LORE.md#L1498), [Свод](../../GALAXY_LORE.md#L2218) |
+| [3371](../../source/SR_2_HD_Lang_vanilla.txt#L3371) | `FormRuins.PB.ChangeSide.AnswerChangeSideToNormal#1` | Ожидает проверки | Фрагмент: «Что ты мечешься, как подраненный пенчекряк?» |
 | [3372](../../source/SR_2_HD_Lang_vanilla.txt#L3372) | `FormRuins.PB.ChangeSide.AnswerChangeSideToNormal#2` | Кандидат | Фрагмент: «Будешь расти над собой, как преступная личность, получать новые пиратские звания и щедрые бонусы, мочить кого захочешь и даже захватывать системы Коалиции!» |
 | [3373](../../source/SR_2_HD_Lang_vanilla.txt#L3373) | `FormRuins.PB.ChangeSide.AnswerChangeSideToNormal#3` | Требует контекста | Фрагмент: «Итак, ты точно решил вернуться в рейнджеры, или, может, все же останешься пиратом?» |
 | [3374](../../source/SR_2_HD_Lang_vanilla.txt#L3374) | `FormRuins.PB.ChangeSide.AnswerChangeSideToPirate#1` | Требует контекста | Фрагмент: «Вот это я понимаю, &lt;Player&gt;!» |
@@ -509,8 +509,8 @@
 | [3377](../../source/SR_2_HD_Lang_vanilla.txt#L3377) | `FormRuins.PB.ChangeSide.AnswerPlayerNoNormal#2` | Требует контекста | Фрагмент: «А самое важное во всей этой истории, что ты бабки сэкономил, так что предлагаю их немедленно вместе пропить.» |
 | [3378](../../source/SR_2_HD_Lang_vanilla.txt#L3378) | `FormRuins.PB.ChangeSide.AnswerPlayerNoPirate#1` | Требует контекста | Фрагмент: «Нет, так дела не делаются, &lt;Player&gt;.» |
 | [3379](../../source/SR_2_HD_Lang_vanilla.txt#L3379) | `FormRuins.PB.ChangeSide.AnswerPlayerNoPirate#2` | Требует контекста | Фрагмент: «Помни одно - несмотря на все твои фортели, мы не будем терять надежду на твое возвращение в ряды настоящих пиратов.» |
-| [3380](../../source/SR_2_HD_Lang_vanilla.txt#L3380) | `FormRuins.PB.ChangeSide.AnswerPlayerOkNormal#1` | Разобрано в своде | Фрагмент: «Что ж, сделаем, как скажешь.» · [Свод](../../GALAXY_LORE.md#L1498) |
-| [3381](../../source/SR_2_HD_Lang_vanilla.txt#L3381) | `FormRuins.PB.ChangeSide.AnswerPlayerOkNormal#2` | Разобрано в своде | Фрагмент: «Я же лично от себя тебе скажу, что если захочешь однажды снова удариться в пиратский разбой - ждем тебя с распростертыми объятьями.» · [Свод](../../GALAXY_LORE.md#L1498) |
+| [3380](../../source/SR_2_HD_Lang_vanilla.txt#L3380) | `FormRuins.PB.ChangeSide.AnswerPlayerOkNormal#1` | Ожидает проверки | Фрагмент: «Что ж, сделаем, как скажешь.» |
+| [3381](../../source/SR_2_HD_Lang_vanilla.txt#L3381) | `FormRuins.PB.ChangeSide.AnswerPlayerOkNormal#2` | Ожидает проверки | Фрагмент: «Я же лично от себя тебе скажу, что если захочешь однажды снова удариться в пиратский разбой - ждем тебя с распростертыми объятьями.» |
 | [3382](../../source/SR_2_HD_Lang_vanilla.txt#L3382) | `FormRuins.PB.ChangeSide.AnswerPlayerOkPirate` | Требует контекста | Фрагмент: «Ну ты красавчик, &lt;Player&gt;, просто красавчик!» |
 | [3383](../../source/SR_2_HD_Lang_vanilla.txt#L3383) | `FormRuins.PB.ChangeSide.ChangeSideToNormal` | Требует контекста | Фрагмент: «Я хочу получить обратно рейнджерское звание» |
 | [3384](../../source/SR_2_HD_Lang_vanilla.txt#L3384) | `FormRuins.PB.ChangeSide.ChangeSideToPirate` | Требует контекста | Фрагмент: «Я хочу перейти на сторону пиратского клана» |
@@ -519,14 +519,14 @@
 | [3388](../../source/SR_2_HD_Lang_vanilla.txt#L3388) | `FormRuins.PB.GreetingAft` | Требует контекста | Фрагмент: «.» |
 | [3389](../../source/SR_2_HD_Lang_vanilla.txt#L3389) | `FormRuins.PB.GreetingMod` | Требует контекста | Фрагмент: «, и даже снабдим тебя антидоминаторскими программами» |
 | [3390](../../source/SR_2_HD_Lang_vanilla.txt#L3390) | `FormRuins.PB.GreetingNormal` | Требует контекста | Фрагмент: «, и даже снабдим тебя нодами роботов.» |
-| [3391](../../source/SR_2_HD_Lang_vanilla.txt#L3391) | `FormRuins.PB.GreetingPre` | Разобрано в своде | Фрагмент: «Ты, &lt;Player&gt;, находишься на пиратской станции.» · [Свод](../../GALAXY_LORE.md#L1488) |
+| [3391](../../source/SR_2_HD_Lang_vanilla.txt#L3391) | `FormRuins.PB.GreetingPre` | Ожидает проверки | Фрагмент: «Ты, &lt;Player&gt;, находишься на пиратской станции.» |
 | [3393](../../source/SR_2_HD_Lang_vanilla.txt#L3393) | `FormRuins.PB.Modern.AfterNo` | Требует контекста | Фрагмент: «Слушай, братан, не пудри мозги.» |
 | [3394](../../source/SR_2_HD_Lang_vanilla.txt#L3394) | `FormRuins.PB.Modern.Answer` | Требует контекста | Фрагмент: «Ну, братан, ты нас конкретно обрадовал.» |
 | [3397](../../source/SR_2_HD_Lang_vanilla.txt#L3397) | `FormRuins.PB.Nod.PBAfterNo` | Требует контекста | Фрагмент: «Ну валяй, настреляй сам.» |
 | [3398](../../source/SR_2_HD_Lang_vanilla.txt#L3398) | `FormRuins.PB.Nod.PBEnd` | Требует контекста | Фрагмент: «Извиняй, &lt;Player&gt;, у нас товар закончился.» |
 | [3399](../../source/SR_2_HD_Lang_vanilla.txt#L3399) | `FormRuins.PB.Nod.PBEndPlus` | Требует контекста | Фрагмент: «Впрочем, если срочно нужны ноды, то лети в сектор &lt;ToSector&gt;.» |
 | [3400](../../source/SR_2_HD_Lang_vanilla.txt#L3400) | `FormRuins.PB.Nod.PBSell` | Требует контекста | Фрагмент: «Сделка совершена.» |
-| [3401](../../source/SR_2_HD_Lang_vanilla.txt#L3401) | `FormRuins.PB.Nod.PBStart` | Разобрано в своде | Фрагмент: «Ха, у нас есть немного этого добра в контейнерах.» · [Свод](../../GALAXY_LORE.md#L1489) |
+| [3401](../../source/SR_2_HD_Lang_vanilla.txt#L3401) | `FormRuins.PB.Nod.PBStart` | Ожидает проверки | Фрагмент: «Ха, у нас есть немного этого добра в контейнерах.» |
 | [3402](../../source/SR_2_HD_Lang_vanilla.txt#L3402) | `FormRuins.PB.Nod.PlayerAsk` | Требует контекста | Фрагмент: «Мне нужны ноды» |
 | [3403](../../source/SR_2_HD_Lang_vanilla.txt#L3403) | `FormRuins.PB.Nod.PlayerNo` | Требует контекста | Фрагмент: «Это что за цены такие?» |
 | [3404](../../source/SR_2_HD_Lang_vanilla.txt#L3404) | `FormRuins.PB.Nod.PlayerOk` | Требует контекста | Фрагмент: «Хорошо, я беру контейнер!» |
@@ -539,26 +539,26 @@
 | [3413](../../source/SR_2_HD_Lang_vanilla.txt#L3413) | `FormRuins.PB.Program.PlayerAsk` | Требует контекста | Фрагмент: «Хочу приобрести программы» |
 | [3414](../../source/SR_2_HD_Lang_vanilla.txt#L3414) | `FormRuins.PB.Program.PlayerNo` | Требует контекста | Фрагмент: «Ничего не буду выбирать.» |
 | [3415](../../source/SR_2_HD_Lang_vanilla.txt#L3415) | `FormRuins.PB.Program.PlayerOk` | Требует контекста | Фрагмент: «Обменять &lt;Nod&gt; нод на &lt;Text&gt;» |
-| [3418](../../source/SR_2_HD_Lang_vanilla.txt#L3418) | `FormRuins.PB.RankPoints.RankPoints#1` | Разобрано в своде | Фрагмент: «Ограбление дипломата, лайнера или торгаша - 1 очко» · [Свод](../../GALAXY_LORE.md#L1497) |
+| [3418](../../source/SR_2_HD_Lang_vanilla.txt#L3418) | `FormRuins.PB.RankPoints.RankPoints#1` | Ожидает проверки | Фрагмент: «Ограбление дипломата, лайнера или торгаша - 1 очко» |
 | [3419](../../source/SR_2_HD_Lang_vanilla.txt#L3419) | `FormRuins.PB.RankPoints.RankPoints#2` | Требует контекста | Фрагмент: «Ограбление рейнджера - 2 очка» |
 | [3420](../../source/SR_2_HD_Lang_vanilla.txt#L3420) | `FormRuins.PB.RankPoints.RankPoints#3` | Требует контекста | Фрагмент: «Уничтожение дипломата, лайнера или торгаша - 8 очков» |
 | [3421](../../source/SR_2_HD_Lang_vanilla.txt#L3421) | `FormRuins.PB.RankPoints.RankPoints#4` | Требует контекста | Фрагмент: «Уничтожение военного - 16 очков» |
-| [3422](../../source/SR_2_HD_Lang_vanilla.txt#L3422) | `FormRuins.PB.RankPoints.RankPoints#5` | Разобрано в своде | Фрагмент: «Уничтожение военного флагмана - 60 очков» · [Свод](../../GALAXY_LORE.md#L1497) |
+| [3422](../../source/SR_2_HD_Lang_vanilla.txt#L3422) | `FormRuins.PB.RankPoints.RankPoints#5` | Ожидает проверки | Фрагмент: «Уничтожение военного флагмана - 60 очков» |
 | [3423](../../source/SR_2_HD_Lang_vanilla.txt#L3423) | `FormRuins.PB.RankPoints.RankPoints#6` | Требует контекста | Фрагмент: «Уничтожение рейнджера не пирата - 24 очка» |
 | [3424](../../source/SR_2_HD_Lang_vanilla.txt#L3424) | `FormRuins.PB.RankPoints.RankPoints#7` | Требует контекста | Фрагмент: «Ликвидация бизнес-центра - 24 очков» |
 | [3425](../../source/SR_2_HD_Lang_vanilla.txt#L3425) | `FormRuins.PB.RankPoints.RankPoints#8` | Требует контекста | Фрагмент: «Ликвидация научной базы - 24 очков» |
-| [3426](../../source/SR_2_HD_Lang_vanilla.txt#L3426) | `FormRuins.PB.RankPoints.RankPoints#9` | Разобрано в своде | Фрагмент: «Ликвидация центра рейнджеров - 32 очков» · [Свод](../../GALAXY_LORE.md#L1497) |
+| [3426](../../source/SR_2_HD_Lang_vanilla.txt#L3426) | `FormRuins.PB.RankPoints.RankPoints#9` | Ожидает проверки | Фрагмент: «Ликвидация центра рейнджеров - 32 очков» |
 | [3427](../../source/SR_2_HD_Lang_vanilla.txt#L3427) | `FormRuins.PB.RankPoints.RankPoints#10` | Требует контекста | Фрагмент: «Ликвидация военной базы - 32 очков» |
-| [3428](../../source/SR_2_HD_Lang_vanilla.txt#L3428) | `FormRuins.PB.RankPoints.RankPoints#11` | Разобрано в своде | Фрагмент: «Уничтожение доминатора-клига - 1 очко» · [Свод](../../GALAXY_LORE.md#L1497) |
+| [3428](../../source/SR_2_HD_Lang_vanilla.txt#L3428) | `FormRuins.PB.RankPoints.RankPoints#11` | Ожидает проверки | Фрагмент: «Уничтожение доминатора-клига - 1 очко» |
 | [3429](../../source/SR_2_HD_Lang_vanilla.txt#L3429) | `FormRuins.PB.RankPoints.RankPoints#12` | Требует контекста | Фрагмент: «Уничтожение доминатора-штипа - 1 очко» |
 | [3430](../../source/SR_2_HD_Lang_vanilla.txt#L3430) | `FormRuins.PB.RankPoints.RankPoints#13` | Требует контекста | Фрагмент: «Уничтожение доминатора-менока - 2 очка» |
 | [3431](../../source/SR_2_HD_Lang_vanilla.txt#L3431) | `FormRuins.PB.RankPoints.RankPoints#14` | Требует контекста | Фрагмент: «Уничтожение доминатора-смерша - 4 очка» |
 | [3432](../../source/SR_2_HD_Lang_vanilla.txt#L3432) | `FormRuins.PB.RankPoints.RankPoints#15` | Требует контекста | Фрагмент: «Уничтожение доминатора-урганта - 8 очков» |
 | [3433](../../source/SR_2_HD_Lang_vanilla.txt#L3433) | `FormRuins.PB.RankPoints.RankPoints#16` | Требует контекста | Фрагмент: «Уничтожение доминатора-эквентора - 16 очков» |
-| [3434](../../source/SR_2_HD_Lang_vanilla.txt#L3434) | `FormRuins.PB.RankPoints.RankPoints#17` | Разобрано в своде | Фрагмент: «Уничтожение доминатора-бертора - 24 очка» · [Свод](../../GALAXY_LORE.md#L1497) |
-| [3435](../../source/SR_2_HD_Lang_vanilla.txt#L3435) | `FormRuins.PB.RankPoints.RankPoints#18` | Разобрано в своде | Фрагмент: «Захват системы в пользу клана - 16 очков» · [Свод](../../GALAXY_LORE.md#L1497) |
-| [3436](../../source/SR_2_HD_Lang_vanilla.txt#L3436) | `FormRuins.PB.RankPoints.RankPoints#19` | Разобрано в своде | Фрагмент: «Отдельно считается доход от контрабанды.» · [Свод](../../GALAXY_LORE.md#L1497) |
-| [3437](../../source/SR_2_HD_Lang_vanilla.txt#L3437) | `FormRuins.PB.RankPoints.RankPoints#20` | Разобрано в своде | Фрагмент: «Да, и если тебя коробит от какой-либо помощи Коалиции, поясню: учет действий против доминаторов засчитывается в рейтинг с позиции приобретения тобой боевого опыта, а не потому, что мы кому-то чем-то обязаны.» · [Свод](../../GALAXY_LORE.md#L1497) |
+| [3434](../../source/SR_2_HD_Lang_vanilla.txt#L3434) | `FormRuins.PB.RankPoints.RankPoints#17` | Ожидает проверки | Фрагмент: «Уничтожение доминатора-бертора - 24 очка» |
+| [3435](../../source/SR_2_HD_Lang_vanilla.txt#L3435) | `FormRuins.PB.RankPoints.RankPoints#18` | Ожидает проверки | Фрагмент: «Захват системы в пользу клана - 16 очков» |
+| [3436](../../source/SR_2_HD_Lang_vanilla.txt#L3436) | `FormRuins.PB.RankPoints.RankPoints#19` | Ожидает проверки | Фрагмент: «Отдельно считается доход от контрабанды.» |
+| [3437](../../source/SR_2_HD_Lang_vanilla.txt#L3437) | `FormRuins.PB.RankPoints.RankPoints#20` | Ожидает проверки | Фрагмент: «Да, и если тебя коробит от какой-либо помощи Коалиции, поясню: учет действий против доминаторов засчитывается в рейтинг с позиции приобретения тобой боевого опыта, а не потому, что мы кому-то чем-то обязаны.» |
 | [3438](../../source/SR_2_HD_Lang_vanilla.txt#L3438) | `FormRuins.PB.RankPoints.RankPoints#21` | Требует контекста | Фрагмент: «Усёк?» |
 | [3441](../../source/SR_2_HD_Lang_vanilla.txt#L3441) | `FormRuins.PB.Repair.PBAfterNo` | Требует контекста | Фрагмент: «Ну ты и прохвост, &lt;Player&gt;!» |
 | [3442](../../source/SR_2_HD_Lang_vanilla.txt#L3442) | `FormRuins.PB.Repair.PBAfterOk` | Требует контекста | Фрагмент: «Отлично, твои бабки сняты со счета.» |
@@ -578,22 +578,22 @@
 | [3461](../../source/SR_2_HD_Lang_vanilla.txt#L3461) | `FormRuins.PB.SabCrack.PBAfterOkHalf#1` | Требует контекста | Фрагмент: «Это не фуфло!..» |
 | [3462](../../source/SR_2_HD_Lang_vanilla.txt#L3462) | `FormRuins.PB.SabCrack.PBAfterOkHalf#2` | Требует контекста | Фрагмент: «Ну ладно.» |
 | [3463](../../source/SR_2_HD_Lang_vanilla.txt#L3463) | `FormRuins.PB.SabCrack.PBAfterOkHalf#3` | Требует контекста | Фрагмент: «Поздравляю с покупкой, &lt;Player&gt;!» |
-| [3464](../../source/SR_2_HD_Lang_vanilla.txt#L3464) | `FormRuins.PB.SabCrack.PBContinue#1` | Разобрано в своде | Фрагмент: «Ха-ха, если бы.» · [Свод](../../GALAXY_LORE.md#L1548) |
-| [3465](../../source/SR_2_HD_Lang_vanilla.txt#L3465) | `FormRuins.PB.SabCrack.PBContinue#2` | Разобрано в своде | Фрагмент: «Как ты знаешь, убийство для малоков не является тяжким преступлением.» · [Свод](../../GALAXY_LORE.md#L159), [Свод](../../GALAXY_LORE.md#L1548) |
-| [3466](../../source/SR_2_HD_Lang_vanilla.txt#L3466) | `FormRuins.PB.SabCrack.PBContinue#3` | Разобрано в своде | Фрагмент: «А над диском наши лучшие спецы работали немало времени.» · [Свод](../../GALAXY_LORE.md#L347) |
+| [3464](../../source/SR_2_HD_Lang_vanilla.txt#L3464) | `FormRuins.PB.SabCrack.PBContinue#1` | Ожидает проверки | Фрагмент: «Ха-ха, если бы.» |
+| [3465](../../source/SR_2_HD_Lang_vanilla.txt#L3465) | `FormRuins.PB.SabCrack.PBContinue#2` | Ожидает проверки | Фрагмент: «Как ты знаешь, убийство для малоков не является тяжким преступлением.» |
+| [3466](../../source/SR_2_HD_Lang_vanilla.txt#L3466) | `FormRuins.PB.SabCrack.PBContinue#3` | Ожидает проверки | Фрагмент: «А над диском наши лучшие спецы работали немало времени.» |
 | [3467](../../source/SR_2_HD_Lang_vanilla.txt#L3467) | `FormRuins.PB.SabCrack.PBGreetingAdd` | Требует контекста | Фрагмент: «Также сегодня мы готовы продать тебе кое-что интересное.» |
 | [3468](../../source/SR_2_HD_Lang_vanilla.txt#L3468) | `FormRuins.PB.SabCrack.PBInfo#1` | Требует контекста | Фрагмент: «Ты, наверное, никогда не слышал о малокском профессоре Сабе?» |
-| [3469](../../source/SR_2_HD_Lang_vanilla.txt#L3469) | `FormRuins.PB.SabCrack.PBInfo#2` | Разобрано в своде | Фрагмент: «Важно, что Саб смог не просто построить своего терроноида, но и подключиться к нему!» · [Свод](../../GALAXY_LORE.md#L347) |
-| [3470](../../source/SR_2_HD_Lang_vanilla.txt#L3470) | `FormRuins.PB.SabCrack.PBInfo#3` | Разобрано в своде | Фрагмент: «Закончилось все более чем странно.» · [Свод](../../GALAXY_LORE.md#L347), [Свод](../../GALAXY_LORE.md#L1548) |
+| [3469](../../source/SR_2_HD_Lang_vanilla.txt#L3469) | `FormRuins.PB.SabCrack.PBInfo#2` | Ожидает проверки | Фрагмент: «Важно, что Саб смог не просто построить своего терроноида, но и подключиться к нему!» |
+| [3470](../../source/SR_2_HD_Lang_vanilla.txt#L3470) | `FormRuins.PB.SabCrack.PBInfo#3` | Ожидает проверки | Фрагмент: «Закончилось все более чем странно.» |
 | [3471](../../source/SR_2_HD_Lang_vanilla.txt#L3471) | `FormRuins.PB.SabCrack.PlayerContinue` | Требует контекста | Фрагмент: «И это все?» |
 | [3472](../../source/SR_2_HD_Lang_vanilla.txt#L3472) | `FormRuins.PB.SabCrack.PlayerInfo` | Требует контекста | Фрагмент: «И что же такое интересное вы хотите мне продать?» |
 | [3473](../../source/SR_2_HD_Lang_vanilla.txt#L3473) | `FormRuins.PB.SabCrack.PlayerNo` | Требует контекста | Фрагмент: «Меня это не интересует» |
 | [3474](../../source/SR_2_HD_Lang_vanilla.txt#L3474) | `FormRuins.PB.SabCrack.PlayerOk` | Требует контекста | Фрагмент: «Ладно, плачу &lt;Money&gt; cr.» |
 | [3475](../../source/SR_2_HD_Lang_vanilla.txt#L3475) | `FormRuins.PB.SabCrack.PlayerOkHalf` | Требует контекста | Фрагмент: «Я возьму твое фуфло, но за половину стоимости.» |
-| [3478](../../source/SR_2_HD_Lang_vanilla.txt#L3478) | `FormRuins.PB.SpecialShip.AfterBuy` | Разобрано в своде | Фрагмент: «Нам жаль расставаться со столь искусно сделанным кораблем.» · [Свод](../../GALAXY_LORE.md#L1730) |
+| [3478](../../source/SR_2_HD_Lang_vanilla.txt#L3478) | `FormRuins.PB.SpecialShip.AfterBuy` | Ожидает проверки | Фрагмент: «Нам жаль расставаться со столь искусно сделанным кораблем.» |
 | [3479](../../source/SR_2_HD_Lang_vanilla.txt#L3479) | `FormRuins.PB.SpecialShip.AfterNo` | Требует контекста | Фрагмент: «Хорошо, тогда мы найдем настоящего пирата.» |
 | [3480](../../source/SR_2_HD_Lang_vanilla.txt#L3480) | `FormRuins.PB.SpecialShip.Ask` | Требует контекста | Фрагмент: «Я бы хотел получить уникальный корабль» |
-| [3481](../../source/SR_2_HD_Lang_vanilla.txt#L3481) | `FormRuins.PB.SpecialShip.Before` | Разобрано в своде | Фрагмент: «Наши техники в доках станции построили уникальный корабль.» · [Свод](../../GALAXY_LORE.md#L1730) |
+| [3481](../../source/SR_2_HD_Lang_vanilla.txt#L3481) | `FormRuins.PB.SpecialShip.Before` | Ожидает проверки | Фрагмент: «Наши техники в доках станции построили уникальный корабль.» |
 | [3482](../../source/SR_2_HD_Lang_vanilla.txt#L3482) | `FormRuins.PB.SpecialShip.Complate` | Требует контекста | Фрагмент: «(Выполнено)» |
 | [3483](../../source/SR_2_HD_Lang_vanilla.txt#L3483) | `FormRuins.PB.SpecialShip.Info#1` | Требует контекста | Фрагмент: «Мы его продадим за &lt;Price&gt; cr, но только истинному пирату, который будет соответствовать следующим требованиям:» |
 | [3484](../../source/SR_2_HD_Lang_vanilla.txt#L3484) | `FormRuins.PB.SpecialShip.Info#2` | Требует контекста | Фрагмент: «- Статус "пират". &lt;PirateComplate&gt;» |
@@ -641,14 +641,14 @@
 | [3536](../../source/SR_2_HD_Lang_vanilla.txt#L3536) | `FormRuins.PB.WarWithKlingAndCoalition.KlingOnly.PBAnswerWeControlMore90Percent` | Требует контекста | Фрагмент: «Обстановочка хорошо, &lt;Player&gt;!» |
 | [3538](../../source/SR_2_HD_Lang_vanilla.txt#L3538) | `FormRuins.PB.WarWithKlingAndCoalition.PlayerSend` | Требует контекста | Фрагмент: «Как вообще обстановочка на фронтах?» |
 | [3543](../../source/SR_2_HD_Lang_vanilla.txt#L3543) | `FormRuins.RC.AboutNod.PlayerSend` | Требует контекста | Фрагмент: «Мне нужна информация о нодах» |
-| [3544](../../source/SR_2_HD_Lang_vanilla.txt#L3544) | `FormRuins.RC.AboutNod.RCAnswer#1` | Разобрано в своде | Фрагмент: «Тяжелое наследие клисанских технологий, которые нашли новую жизнь внутри машин Коалиции. Эти технологии настолько сложны, что на их изучение и расшифровку уйдет не одна тысяча лет.» · [Свод](../../GALAXY_LORE.md#L1378) |
-| [3545](../../source/SR_2_HD_Lang_vanilla.txt#L3545) | `FormRuins.RC.AboutNod.RCAnswer#2` | Разобрано в своде | Фрагмент: «В определенных комбинациях ноды являются универсальными устройствами, годными для использования в технике Коалиции.» · [Свод](../../GALAXY_LORE.md#L1378) |
-| [3546](../../source/SR_2_HD_Lang_vanilla.txt#L3546) | `FormRuins.RC.AboutNod.RCAnswer#3` | Разобрано в своде | Фрагмент: «Из таких нодов наши специалисты научились конструировать усиливающие микромодули.» · [Свод](../../GALAXY_LORE.md#L1378) |
-| [3547](../../source/SR_2_HD_Lang_vanilla.txt#L3547) | `FormRuins.RC.AboutNod.RCAnswerAdd#1` | Разобрано в своде | Фрагмент: «Чтобы пополнять запасы исходного материала для создания новых микромодулей, сеть наших центров получила лицензию ХС-112 на прием и обработку нодов.» · [Свод](../../GALAXY_LORE.md#L1713) |
-| [3548](../../source/SR_2_HD_Lang_vanilla.txt#L3548) | `FormRuins.RC.AboutNod.RCAnswerAdd#2` | Разобрано в своде | Фрагмент: «Остальные микромодули распределяются для оснащения военных и дипломатических кораблей Коалиции.» · [Свод](../../GALAXY_LORE.md#L1713) |
+| [3544](../../source/SR_2_HD_Lang_vanilla.txt#L3544) | `FormRuins.RC.AboutNod.RCAnswer#1` | Ожидает проверки | Фрагмент: «Тяжелое наследие клисанских технологий, которые нашли новую жизнь внутри машин Коалиции. Эти технологии настолько сложны, что на их изучение и расшифровку уйдет не одна тысяча лет.» |
+| [3545](../../source/SR_2_HD_Lang_vanilla.txt#L3545) | `FormRuins.RC.AboutNod.RCAnswer#2` | Ожидает проверки | Фрагмент: «В определенных комбинациях ноды являются универсальными устройствами, годными для использования в технике Коалиции.» |
+| [3546](../../source/SR_2_HD_Lang_vanilla.txt#L3546) | `FormRuins.RC.AboutNod.RCAnswer#3` | Ожидает проверки | Фрагмент: «Из таких нодов наши специалисты научились конструировать усиливающие микромодули.» |
+| [3547](../../source/SR_2_HD_Lang_vanilla.txt#L3547) | `FormRuins.RC.AboutNod.RCAnswerAdd#1` | Ожидает проверки | Фрагмент: «Чтобы пополнять запасы исходного материала для создания новых микромодулей, сеть наших центров получила лицензию ХС-112 на прием и обработку нодов.» |
+| [3548](../../source/SR_2_HD_Lang_vanilla.txt#L3548) | `FormRuins.RC.AboutNod.RCAnswerAdd#2` | Ожидает проверки | Фрагмент: «Остальные микромодули распределяются для оснащения военных и дипломатических кораблей Коалиции.» |
 | [3551](../../source/SR_2_HD_Lang_vanilla.txt#L3551) | `FormRuins.RC.BestRanger.PlayerSend` | Требует контекста | Фрагмент: «В чем заключаются обязанности рейнджера?» |
-| [3552](../../source/SR_2_HD_Lang_vanilla.txt#L3552) | `FormRuins.RC.BestRanger.RCAnswer#1` | Разобрано в своде | Фрагмент: «Согласно уставу рейнджеров, основная обязанность рейнджера - это поиск и уничтожение доминаторов.» · [Свод](../../GALAXY_LORE.md#L1712) |
-| [3553](../../source/SR_2_HD_Lang_vanilla.txt#L3553) | `FormRuins.RC.BestRanger.RCAnswer#2` | Разобрано в своде | Фрагмент: «Поддерживайте репутацию нашего движения: помогайте мирным кораблям, налаживайте добрые взаимоотношения между народами Коалиции, занимайтесь благотворительностью.» · [Свод](../../GALAXY_LORE.md#L1712) |
+| [3552](../../source/SR_2_HD_Lang_vanilla.txt#L3552) | `FormRuins.RC.BestRanger.RCAnswer#1` | Ожидает проверки | Фрагмент: «Согласно уставу рейнджеров, основная обязанность рейнджера - это поиск и уничтожение доминаторов.» |
+| [3553](../../source/SR_2_HD_Lang_vanilla.txt#L3553) | `FormRuins.RC.BestRanger.RCAnswer#2` | Ожидает проверки | Фрагмент: «Поддерживайте репутацию нашего движения: помогайте мирным кораблям, налаживайте добрые взаимоотношения между народами Коалиции, занимайтесь благотворительностью.» |
 | [3554](../../source/SR_2_HD_Lang_vanilla.txt#L3554) | `FormRuins.RC.BestRanger.RCAnswer#3` | Требует контекста | Фрагмент: «У вас впереди целая жизнь.» |
 | [3557](../../source/SR_2_HD_Lang_vanilla.txt#L3557) | `FormRuins.RC.GiveNod.AfterNo` | Требует контекста | Фрагмент: «Как хотите, &lt;Player&gt;.» |
 | [3558](../../source/SR_2_HD_Lang_vanilla.txt#L3558) | `FormRuins.RC.GiveNod.AfterOk` | Требует контекста | Фрагмент: «Отлично, &lt;Player&gt;.» |
@@ -665,11 +665,11 @@
 | [3570](../../source/SR_2_HD_Lang_vanilla.txt#L3570) | `FormRuins.RC.GreetingBest` | Кандидат | Фрагмент: «Ваш долг избавить коалицию от оставшихся серий доминаторов.» |
 | [3571](../../source/SR_2_HD_Lang_vanilla.txt#L3571) | `FormRuins.RC.GreetingGood` | Требует контекста | Фрагмент: «Сейчас мы дадим оценку вашей деятельности...» |
 | [3572](../../source/SR_2_HD_Lang_vanilla.txt#L3572) | `FormRuins.RC.GreetingNormal` | Требует контекста | Фрагмент: «Сейчас мы дадим оценку вашей деятельности...» |
-| [3574](../../source/SR_2_HD_Lang_vanilla.txt#L3574) | `FormRuins.RC.Modern.AfterOk` | Разобрано в своде | Фрагмент: «Вы поступили правильно, &lt;Player&gt;.» · [Свод](../../GALAXY_LORE.md#L1713) |
+| [3574](../../source/SR_2_HD_Lang_vanilla.txt#L3574) | `FormRuins.RC.Modern.AfterOk` | Ожидает проверки | Фрагмент: «Вы поступили правильно, &lt;Player&gt;.» |
 | [3577](../../source/SR_2_HD_Lang_vanilla.txt#L3577) | `FormRuins.RC.PirateClan.PlayerSend` | Кандидат | Фрагмент: «Как я могу помочь Коалиции в борьбе с пиратами?» |
 | [3578](../../source/SR_2_HD_Lang_vanilla.txt#L3578) | `FormRuins.RC.PirateClan.RCAnswer` | Кандидат | Фрагмент: «Только информация может положить конец этой войне, &lt;Player&gt;.» |
 | [3581](../../source/SR_2_HD_Lang_vanilla.txt#L3581) | `FormRuins.RC.Rating.PlayerSend` | Требует контекста | Фрагмент: «Что такое рейтинг рейнджеров?» |
-| [3582](../../source/SR_2_HD_Lang_vanilla.txt#L3582) | `FormRuins.RC.Rating.RCAnswer#1` | Разобрано в своде | Фрагмент: «Вы тут первый раз, что задаете этот вопрос?» · [Свод](../../GALAXY_LORE.md#L1713) |
+| [3582](../../source/SR_2_HD_Lang_vanilla.txt#L3582) | `FormRuins.RC.Rating.RCAnswer#1` | Ожидает проверки | Фрагмент: «Вы тут первый раз, что задаете этот вопрос?» |
 | [3583](../../source/SR_2_HD_Lang_vanilla.txt#L3583) | `FormRuins.RC.Rating.RCAnswer#2` | Кандидат | Фрагмент: «Также опыт можно получить в любых мелких стычках с кораблями коалиции, при успешной торговле, сдаче базовых элементов доминаторов и т.д.» |
 | [3584](../../source/SR_2_HD_Lang_vanilla.txt#L3584) | `FormRuins.RC.Rating.RCAnswer#3` | Требует контекста | Фрагмент: «Самое важное, что получая опыт, рейнджер может совершенствовать свои навыки.» |
 | [3587](../../source/SR_2_HD_Lang_vanilla.txt#L3587) | `FormRuins.RC.SaleNod.PlayerSend` | Требует контекста | Фрагмент: «Сдать партию нодов: &lt;Count&gt; шт.» |

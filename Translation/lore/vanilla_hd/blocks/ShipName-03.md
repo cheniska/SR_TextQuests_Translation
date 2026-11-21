@@ -98,7 +98,7 @@
 | [27297](../../source/SR_2_HD_Lang_vanilla.txt#L27297) | `ShipName.Transport.People.101` | Каталог | Имя из генератора имён кораблей или пилотов — «Перикл». |
 | [27298](../../source/SR_2_HD_Lang_vanilla.txt#L27298) | `ShipName.Transport.People.102` | Каталог | Имя из генератора имён кораблей или пилотов — «Персей». |
 | [27299](../../source/SR_2_HD_Lang_vanilla.txt#L27299) | `ShipName.Transport.People.103` | Каталог | Имя из генератора имён кораблей или пилотов — «Перун». |
-| [27300](../../source/SR_2_HD_Lang_vanilla.txt#L27300) | `ShipName.Transport.People.104` | Каталог | Имя из генератора имён кораблей или пилотов — «Пифагор». · [Свод](../../GALAXY_LORE.md#L927) |
+| [27300](../../source/SR_2_HD_Lang_vanilla.txt#L27300) | `ShipName.Transport.People.104` | Каталог | Имя из генератора имён кораблей или пилотов — «Пифагор». |
 | [27301](../../source/SR_2_HD_Lang_vanilla.txt#L27301) | `ShipName.Transport.People.105` | Каталог | Имя из генератора имён кораблей или пилотов — «Плутон». |
 | [27302](../../source/SR_2_HD_Lang_vanilla.txt#L27302) | `ShipName.Transport.People.106` | Каталог | Имя из генератора имён кораблей или пилотов — «Полет». |
 | [27303](../../source/SR_2_HD_Lang_vanilla.txt#L27303) | `ShipName.Transport.People.107` | Каталог | Имя из генератора имён кораблей или пилотов — «Посейдон». |
@@ -313,7 +313,7 @@
 | [27518](../../source/SR_2_HD_Lang_vanilla.txt#L27518) | `ShipName.Warrior.Gaal.6` | Каталог | Имя из генератора имён кораблей или пилотов — «Гаабал». |
 | [27519](../../source/SR_2_HD_Lang_vanilla.txt#L27519) | `ShipName.Warrior.Gaal.7` | Каталог | Имя из генератора имён кораблей или пилотов — «Гаал-Ра». |
 | [27520](../../source/SR_2_HD_Lang_vanilla.txt#L27520) | `ShipName.Warrior.Gaal.8` | Каталог | Имя из генератора имён кораблей или пилотов — «Гнаабра». |
-| [27521](../../source/SR_2_HD_Lang_vanilla.txt#L27521) | `ShipName.Warrior.Gaal.9` | Каталог | Имя из генератора имён кораблей или пилотов — «Даадра». · [Свод](../../GALAXY_LORE.md#L1306) |
+| [27521](../../source/SR_2_HD_Lang_vanilla.txt#L27521) | `ShipName.Warrior.Gaal.9` | Каталог | Имя из генератора имён кораблей или пилотов — «Даадра». |
 | [27524](../../source/SR_2_HD_Lang_vanilla.txt#L27524) | `ShipName.Warrior.Maloc.1` | Каталог | Имя из генератора имён кораблей или пилотов — «Аборрега». |
 | [27525](../../source/SR_2_HD_Lang_vanilla.txt#L27525) | `ShipName.Warrior.Maloc.10` | Каталог | Имя из генератора имён кораблей или пилотов — «Дабрага». |
 | [27526](../../source/SR_2_HD_Lang_vanilla.txt#L27526) | `ShipName.Warrior.Maloc.11` | Каталог | Имя из генератора имён кораблей или пилотов — «Даггар». |

@@ -16,11 +16,11 @@
 | [14623](../../source/SR_2_HD_Lang_vanilla.txt#L14623) | `Programms.Insanity.Name` | Требует контекста | Фрагмент: «Гатрикс матрица» |
 | [14624](../../source/SR_2_HD_Lang_vanilla.txt#L14624) | `Programms.Insanity.Text#1` | Требует контекста | Фрагмент: «Огромная матрица беспорядочных данных перегружает электронные схемы робота потоком информации.» |
 | [14625](../../source/SR_2_HD_Lang_vanilla.txt#L14625) | `Programms.Insanity.Text#2` | Требует контекста | Фрагмент: «Количество запусков: &lt;Count&gt; шт.» |
-| [14628](../../source/SR_2_HD_Lang_vanilla.txt#L14628) | `Programms.Intercom.Name` | Разобрано в своде | Фрагмент: «Интерком» · [Свод](../../GALAXY_LORE.md#L1791) |
+| [14628](../../source/SR_2_HD_Lang_vanilla.txt#L14628) | `Programms.Intercom.Name` | Ожидает проверки | Фрагмент: «Интерком» |
 | [14629](../../source/SR_2_HD_Lang_vanilla.txt#L14629) | `Programms.Intercom.Text#1` | Требует контекста | Фрагмент: «Программа загружается в бортовой компьютер, она позволяет декодировать речь доминаторов.» |
 | [14630](../../source/SR_2_HD_Lang_vanilla.txt#L14630) | `Programms.Intercom.Text#2` | Требует контекста | Фрагмент: «Количество запусков: &lt;Count&gt; шт.» |
-| [14633](../../source/SR_2_HD_Lang_vanilla.txt#L14633) | `Programms.KellerCall.Name` | Разобрано в своде | Фрагмент: «iКеллер» · [Свод](../../GALAXY_LORE.md#L1791) |
-| [14634](../../source/SR_2_HD_Lang_vanilla.txt#L14634) | `Programms.KellerCall.Text` | Разобрано в своде | Фрагмент: «Полученная от Келлера программа, содержащая коммуникационные протоколы келлероидов.» · [Свод](../../GALAXY_LORE.md#L1791) |
+| [14633](../../source/SR_2_HD_Lang_vanilla.txt#L14633) | `Programms.KellerCall.Name` | Ожидает проверки | Фрагмент: «iКеллер» |
+| [14634](../../source/SR_2_HD_Lang_vanilla.txt#L14634) | `Programms.KellerCall.Text` | Ожидает проверки | Фрагмент: «Полученная от Келлера программа, содержащая коммуникационные протоколы келлероидов.» |
 | [14637](../../source/SR_2_HD_Lang_vanilla.txt#L14637) | `Programms.LogicalNegation.GalaxyNews` | Кандидат | Фрагмент: «Всех рейнджеров, ранее принимавших активное участие в исследовании доминаторских технологий, ожидают на ближайшей научной базе.» |
 | [14638](../../source/SR_2_HD_Lang_vanilla.txt#L14638) | `Programms.LogicalNegation.Name` | Требует контекста | Фрагмент: «Противодействие» |
 | [14639](../../source/SR_2_HD_Lang_vanilla.txt#L14639) | `Programms.LogicalNegation.Text` | Требует контекста | Фрагмент: «Программа логического отрицания для вхождения в контакт с командным центром блазероидов.» |

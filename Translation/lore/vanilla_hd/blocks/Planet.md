@@ -12,13 +12,13 @@
 | [12836](../../source/SR_2_HD_Lang_vanilla.txt#L12836) | `Planet.Civil.Info.TextAboutPlanet#4` | Требует контекста | Фрагмент: «Политический строй: &lt;Goverment&gt;» |
 | [12837](../../source/SR_2_HD_Lang_vanilla.txt#L12837) | `Planet.Civil.Info.TextAboutPlanet#5` | Требует контекста | Фрагмент: «Отношение к вам: &lt;Relation&gt;» |
 | [12838](../../source/SR_2_HD_Lang_vanilla.txt#L12838) | `Planet.Civil.Info.TextNamePlanet` | Требует контекста | Фрагмент: «Планета &lt;Planet&gt;» |
-| [12839](../../source/SR_2_HD_Lang_vanilla.txt#L12839) | `Planet.Civil.Info.TextPlanetControlledByPirates` | Разобрано в своде | Фрагмент: «Находится под контролем пиратов» · [Свод](../../GALAXY_LORE.md#L1619) |
+| [12839](../../source/SR_2_HD_Lang_vanilla.txt#L12839) | `Planet.Civil.Info.TextPlanetControlledByPirates` | Ожидает проверки | Фрагмент: «Находится под контролем пиратов» |
 | [12844](../../source/SR_2_HD_Lang_vanilla.txt#L12844) | `Planet.Kling.Info.TextAboutPlanet#1` | Требует контекста | Фрагмент: «Проживающая раса &lt;Race&gt;» |
 | [12845](../../source/SR_2_HD_Lang_vanilla.txt#L12845) | `Planet.Kling.Info.TextAboutPlanet#2` | Требует контекста | Фрагмент: «Находится под контролем доминаторов» |
-| [12846](../../source/SR_2_HD_Lang_vanilla.txt#L12846) | `Planet.Kling.Info.TextAboutPlanet#3` | Разобрано в своде | Фрагмент: «Посадку совершить невозможно» · [Свод](../../GALAXY_LORE.md#L1619) |
-| [12851](../../source/SR_2_HD_Lang_vanilla.txt#L12851) | `Planet.MainPiratePlanet.Info.TextAboutPlanet#1` | Разобрано в своде | Фрагмент: «Тайное убежище руководства пиратского клана.» · [Свод](../../GALAXY_LORE.md#L1460) |
-| [12852](../../source/SR_2_HD_Lang_vanilla.txt#L12852) | `Planet.MainPiratePlanet.Info.TextAboutPlanet#2` | Разобрано в своде | Фрагмент: «Несмотря на огромные размеры, явно нуждается в ремонте и серьезной угрозы не представляет.» · [Свод](../../GALAXY_LORE.md#L1460) |
-| [12853](../../source/SR_2_HD_Lang_vanilla.txt#L12853) | `Planet.MainPiratePlanet.Info.TextAboutPlanetAlt#1` | Разобрано в своде | Фрагмент: «Бывшее тайное убежище руководства пиратского клана, захваченное силами коалиции.» · [Свод](../../GALAXY_LORE.md#L1460) |
+| [12846](../../source/SR_2_HD_Lang_vanilla.txt#L12846) | `Planet.Kling.Info.TextAboutPlanet#3` | Ожидает проверки | Фрагмент: «Посадку совершить невозможно» |
+| [12851](../../source/SR_2_HD_Lang_vanilla.txt#L12851) | `Planet.MainPiratePlanet.Info.TextAboutPlanet#1` | Ожидает проверки | Фрагмент: «Тайное убежище руководства пиратского клана.» |
+| [12852](../../source/SR_2_HD_Lang_vanilla.txt#L12852) | `Planet.MainPiratePlanet.Info.TextAboutPlanet#2` | Ожидает проверки | Фрагмент: «Несмотря на огромные размеры, явно нуждается в ремонте и серьезной угрозы не представляет.» |
+| [12853](../../source/SR_2_HD_Lang_vanilla.txt#L12853) | `Planet.MainPiratePlanet.Info.TextAboutPlanetAlt#1` | Ожидает проверки | Фрагмент: «Бывшее тайное убежище руководства пиратского клана, захваченное силами коалиции.» |
 | [12854](../../source/SR_2_HD_Lang_vanilla.txt#L12854) | `Planet.MainPiratePlanet.Info.TextAboutPlanetAlt#2` | Требует контекста | Фрагмент: «Несмотря на огромные размеры, явно нуждается в ремонте и серьезной угрозы не представляет.» |
 | [12857](../../source/SR_2_HD_Lang_vanilla.txt#L12857) | `Planet.Name` | Требует контекста | Фрагмент: «Планета» |
 | [12859](../../source/SR_2_HD_Lang_vanilla.txt#L12859) | `Planet.NotCivil.AllExplore` | Требует контекста | Фрагмент: «исследована» |
@@ -34,8 +34,8 @@
 | [12872](../../source/SR_2_HD_Lang_vanilla.txt#L12872) | `Planet.NotCivil.QuestPlay.MsgReplayQuest` | Требует контекста | Фрагмент: «Начать квест заново» |
 | [12873](../../source/SR_2_HD_Lang_vanilla.txt#L12873) | `Planet.NotCivil.QuestPlay.MsgSuccess` | Требует контекста | Фрагмент: «Задание выполнено» |
 | [12874](../../source/SR_2_HD_Lang_vanilla.txt#L12874) | `Planet.NotCivil.QuestPlay.MsgSuccessPrison` | Требует контекста | Фрагмент: «Вас выпустили на поруки» |
-| [12877](../../source/SR_2_HD_Lang_vanilla.txt#L12877) | `Planet.NotCivil.Treasure.Few` | Разобрано в своде | Фрагмент: «Низкая ценность кладов» · [Свод](../../GALAXY_LORE.md#L1620) |
-| [12878](../../source/SR_2_HD_Lang_vanilla.txt#L12878) | `Planet.NotCivil.Treasure.Lots` | Разобрано в своде | Фрагмент: «Очень высокая ценность кладов» · [Свод](../../GALAXY_LORE.md#L1620) |
+| [12877](../../source/SR_2_HD_Lang_vanilla.txt#L12877) | `Planet.NotCivil.Treasure.Few` | Ожидает проверки | Фрагмент: «Низкая ценность кладов» |
+| [12878](../../source/SR_2_HD_Lang_vanilla.txt#L12878) | `Planet.NotCivil.Treasure.Lots` | Ожидает проверки | Фрагмент: «Очень высокая ценность кладов» |
 | [12879](../../source/SR_2_HD_Lang_vanilla.txt#L12879) | `Planet.NotCivil.Treasure.Many` | Требует контекста | Фрагмент: «Высокая ценность кладов» |
 | [12880](../../source/SR_2_HD_Lang_vanilla.txt#L12880) | `Planet.NotCivil.Treasure.Nothing` | Требует контекста | Фрагмент: «Клады отсутствуют» |
 | [12881](../../source/SR_2_HD_Lang_vanilla.txt#L12881) | `Planet.NotCivil.Treasure.Some` | Требует контекста | Фрагмент: «Средняя ценность кладов» |

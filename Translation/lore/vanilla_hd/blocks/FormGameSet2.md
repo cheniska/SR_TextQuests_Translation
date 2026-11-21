@@ -241,7 +241,7 @@
 | [2142](../../source/SR_2_HD_Lang_vanilla.txt#L2142) | `FormGameSet2.Fei.Char5` | Требует контекста | Фрагмент: «Не имеет ничего, кроме огромной партии наркотиков на складе.» |
 | [2145](../../source/SR_2_HD_Lang_vanilla.txt#L2145) | `FormGameSet2.Gaal.Char1` | Требует контекста | Фрагмент: «Легкий, быстрый и защищенный корабль.» |
 | [2146](../../source/SR_2_HD_Lang_vanilla.txt#L2146) | `FormGameSet2.Gaal.Char2` | Требует контекста | Фрагмент: «Слабенький небольшой корабль с отличным оборудованием.» |
-| [2147](../../source/SR_2_HD_Lang_vanilla.txt#L2147) | `FormGameSet2.Gaal.Char3` | Разобрано в своде | Фрагмент: «Отличный торговый корабль.» · [Свод](../../GALAXY_LORE.md#L1146) |
+| [2147](../../source/SR_2_HD_Lang_vanilla.txt#L2147) | `FormGameSet2.Gaal.Char3` | Ожидает проверки | Фрагмент: «Отличный торговый корабль.» |
 | [2148](../../source/SR_2_HD_Lang_vanilla.txt#L2148) | `FormGameSet2.Gaal.Char4` | Требует контекста | Фрагмент: «Плохое отношение всех рас.» |
 | [2149](../../source/SR_2_HD_Lang_vanilla.txt#L2149) | `FormGameSet2.Gaal.Char5` | Требует контекста | Фрагмент: «Большой маневренный корабль для дальних перелетов.» |
 | [2151](../../source/SR_2_HD_Lang_vanilla.txt#L2151) | `FormGameSet2.IronWillText` | Требует контекста | Фрагмент: «Вы играете в режиме Железная воля.» |

@@ -163,13 +163,13 @@
 | [28003](../../source/SR_2_HD_Lang_vanilla.txt#L28003) | `Talk.Attack.RangerFear1` | Требует контекста | Фрагмент: «Да ты что?!!» |
 | [28004](../../source/SR_2_HD_Lang_vanilla.txt#L28004) | `Talk.Attack.RangerFear2` | Требует контекста | Фрагмент: «Заведомо провальная операция!» |
 | [28005](../../source/SR_2_HD_Lang_vanilla.txt#L28005) | `Talk.Attack.RangerFear3` | Требует контекста | Фрагмент: «Извини, но я должен сохранить свою жизнь для более важного дела - спасения Галактики от доминаторов!» |
-| [28006](../../source/SR_2_HD_Lang_vanilla.txt#L28006) | `Talk.Attack.RangerFear4` | Разобрано в своде | Фрагмент: «Это детеныши таких маленьких домашних зверьков с планеты Земля, если ты не знаешь.» · [Свод](../../GALAXY_LORE.md#L806), [Свод](../../GALAXY_LORE.md#L1914) |
+| [28006](../../source/SR_2_HD_Lang_vanilla.txt#L28006) | `Talk.Attack.RangerFear4` | Ожидает проверки | Фрагмент: «Это детеныши таких маленьких домашних зверьков с планеты Земля, если ты не знаешь.» |
 | [28007](../../source/SR_2_HD_Lang_vanilla.txt#L28007) | `Talk.Attack.RangerHaveBusiness` | Требует контекста | Фрагмент: «Я сейчас очень занят, мне некогда даже рассматривать твое предложение.» |
 | [28008](../../source/SR_2_HD_Lang_vanilla.txt#L28008) | `Talk.Attack.RangerHaveBusiness1` | Требует контекста | Фрагмент: «Я крайне занят, прошу простить мой отказ.» |
 | [28009](../../source/SR_2_HD_Lang_vanilla.txt#L28009) | `Talk.Attack.RangerHaveBusiness2` | Требует контекста | Фрагмент: «Извини, у меня сейчас совсем другие планы.» |
 | [28010](../../source/SR_2_HD_Lang_vanilla.txt#L28010) | `Talk.Attack.RangerHaveBusiness3` | Требует контекста | Фрагмент: «Хм, я бы тебе помог, но уж очень занят сейчас.» |
 | [28011](../../source/SR_2_HD_Lang_vanilla.txt#L28011) | `Talk.Attack.RangerHaveBusiness4` | Требует контекста | Фрагмент: «К сожалению, я сейчас занят, и ничем тебе помочь не могу.» |
-| [28012](../../source/SR_2_HD_Lang_vanilla.txt#L28012) | `Talk.Attack.RangerItsMyTranc` | Разобрано в своде | Фрагмент: «А может тебе ещё вина красного, да Махпеллу рыжую?» · [Свод](../../GALAXY_LORE.md#L1980), [Отсылки](../../GALAXY_LORE_PARODY.md#L36) |
+| [28012](../../source/SR_2_HD_Lang_vanilla.txt#L28012) | `Talk.Attack.RangerItsMyTranc` | Ожидает проверки | Фрагмент: «А может тебе ещё вина красного, да Махпеллу рыжую?» |
 | [28013](../../source/SR_2_HD_Lang_vanilla.txt#L28013) | `Talk.Attack.RangerItsYourTranc` | Требует контекста | Фрагмент: «Ты, &lt;Player&gt;, видно больной?» |
 | [28014](../../source/SR_2_HD_Lang_vanilla.txt#L28014) | `Talk.Attack.RangerOk` | Требует контекста | Фрагмент: «Согласен.» |
 | [28015](../../source/SR_2_HD_Lang_vanilla.txt#L28015) | `Talk.Attack.RangerOk1` | Требует контекста | Фрагмент: «Отлично, сделаем его!» |
@@ -259,11 +259,11 @@
 | [28099](../../source/SR_2_HD_Lang_vanilla.txt#L28099) | `Talk.Attack.WarriorWeFriends` | Требует контекста | Фрагмент: «Никаких оснований для атаки не вижу.» |
 | [28100](../../source/SR_2_HD_Lang_vanilla.txt#L28100) | `Talk.Attack.WarriorWeFriends1` | Требует контекста | Фрагмент: «Вы обратились не по адресу.» |
 | [28101](../../source/SR_2_HD_Lang_vanilla.txt#L28101) | `Talk.Attack.WarriorWeFriends2` | Кандидат | Фрагмент: «Мы с капитаном этого корабля учились в одной летной школе.» |
-| [28102](../../source/SR_2_HD_Lang_vanilla.txt#L28102) | `Talk.Attack.WarriorWeFriends3` | Разобрано в своде | Фрагмент: «Устав запрещает нападать на дружественные суда, лояльные по отношению к существующим законам.» · [Свод](../../GALAXY_LORE.md#L1684) |
+| [28102](../../source/SR_2_HD_Lang_vanilla.txt#L28102) | `Talk.Attack.WarriorWeFriends3` | Ожидает проверки | Фрагмент: «Устав запрещает нападать на дружественные суда, лояльные по отношению к существующим законам.» |
 | [28103](../../source/SR_2_HD_Lang_vanilla.txt#L28103) | `Talk.Attack.WarriorWeFriends4` | Требует контекста | Фрагмент: «Это мой хороший знакомый, мы с ним частенько анекдотами обмениваемся по закрытому каналу радиосвязи.» |
 | [28104](../../source/SR_2_HD_Lang_vanilla.txt#L28104) | `Talk.Attack.WarriorWeFriendsTranc` | Требует контекста | Фрагмент: «Никаких оснований для атаки не вижу.» |
-| [28105](../../source/SR_2_HD_Lang_vanilla.txt#L28105) | `Talk.Attack.WarriorWeFriendsTranc1` | Разобрано в своде | Фрагмент: «Ну и зачем мне атаковать этого невинного робота?» · [Свод](../../GALAXY_LORE.md#L1789) |
-| [28106](../../source/SR_2_HD_Lang_vanilla.txt#L28106) | `Talk.Attack.WarriorWeFriendsTranc2` | Разобрано в своде | Фрагмент: «Если у вас имеются претензии к хозяину этого робота, то и улаживать вам их следует с хозяином.» · [Свод](../../GALAXY_LORE.md#L1789) |
+| [28105](../../source/SR_2_HD_Lang_vanilla.txt#L28105) | `Talk.Attack.WarriorWeFriendsTranc1` | Ожидает проверки | Фрагмент: «Ну и зачем мне атаковать этого невинного робота?» |
+| [28106](../../source/SR_2_HD_Lang_vanilla.txt#L28106) | `Talk.Attack.WarriorWeFriendsTranc2` | Ожидает проверки | Фрагмент: «Если у вас имеются претензии к хозяину этого робота, то и улаживать вам их следует с хозяином.» |
 | [28107](../../source/SR_2_HD_Lang_vanilla.txt#L28107) | `Talk.Attack.WeAlreadyHavePact` | Требует контекста | Фрагмент: «Я не могу принять это предложение, потому как имею мирное соглашение с &lt;Target&gt;.» |
 | [28108](../../source/SR_2_HD_Lang_vanilla.txt#L28108) | `Talk.Attack.WeAlreadyHavePact1` | Требует контекста | Фрагмент: «Ты чего, я же обещал охрану &lt;Target&gt;, как я могу на него напасть?..» |
 | [28109](../../source/SR_2_HD_Lang_vanilla.txt#L28109) | `Talk.Attack.WeAlreadyHavePact2` | Требует контекста | Фрагмент: «У нас с &lt;Target&gt; мирное соглашение, так что ничего не получится.» |
@@ -277,86 +277,86 @@
 | [28119](../../source/SR_2_HD_Lang_vanilla.txt#L28119) | `Talk.Count.2Day` | Требует контекста | Фрагмент: «дня» |
 | [28120](../../source/SR_2_HD_Lang_vanilla.txt#L28120) | `Talk.Count.2Unit` | Требует контекста | Фрагмент: «единицы» |
 | [28124](../../source/SR_2_HD_Lang_vanilla.txt#L28124) | `Talk.Dominator.Chameleon.BossBlazer` | Требует контекста | Фрагмент: «Приказ нулевого уровня: уничтожить всех врагов.» |
-| [28125](../../source/SR_2_HD_Lang_vanilla.txt#L28125) | `Talk.Dominator.Chameleon.BossBlazerLand` | Разобрано в своде | Фрагмент: «Приказ нулевого уровня: самоуничтожиться.» · [Свод](../../GALAXY_LORE.md#L2461) |
-| [28126](../../source/SR_2_HD_Lang_vanilla.txt#L28126) | `Talk.Dominator.Chameleon.BossKeller` | Разобрано в своде | Фрагмент: «Сбор информации - наша главная задача.» · [Свод](../../GALAXY_LORE.md#L1404) |
-| [28127](../../source/SR_2_HD_Lang_vanilla.txt#L28127) | `Talk.Dominator.Chameleon.BossTerron` | Разобрано в своде | Фрагмент: «Продолжать размножение, не останавливаться.» · [Свод](../../GALAXY_LORE.md#L1412) |
-| [28128](../../source/SR_2_HD_Lang_vanilla.txt#L28128) | `Talk.Dominator.Chameleon.BossTerronGrowLock` | Разобрано в своде | Фрагмент: «Продолжать размножение...» · [Свод](../../GALAXY_LORE.md#L2461) |
-| [28129](../../source/SR_2_HD_Lang_vanilla.txt#L28129) | `Talk.Dominator.Chameleon.BossTerronToStar` | Разобрано в своде | Фрагмент: «Текущая задача - преобразование звезды, приоритет - максимальный.» · [Свод](../../GALAXY_LORE.md#L2461) |
+| [28125](../../source/SR_2_HD_Lang_vanilla.txt#L28125) | `Talk.Dominator.Chameleon.BossBlazerLand` | Ожидает проверки | Фрагмент: «Приказ нулевого уровня: самоуничтожиться.» |
+| [28126](../../source/SR_2_HD_Lang_vanilla.txt#L28126) | `Talk.Dominator.Chameleon.BossKeller` | Ожидает проверки | Фрагмент: «Сбор информации - наша главная задача.» |
+| [28127](../../source/SR_2_HD_Lang_vanilla.txt#L28127) | `Talk.Dominator.Chameleon.BossTerron` | Ожидает проверки | Фрагмент: «Продолжать размножение, не останавливаться.» |
+| [28128](../../source/SR_2_HD_Lang_vanilla.txt#L28128) | `Talk.Dominator.Chameleon.BossTerronGrowLock` | Ожидает проверки | Фрагмент: «Продолжать размножение...» |
+| [28129](../../source/SR_2_HD_Lang_vanilla.txt#L28129) | `Talk.Dominator.Chameleon.BossTerronToStar` | Ожидает проверки | Фрагмент: «Текущая задача - преобразование звезды, приоритет - максимальный.» |
 | [28131](../../source/SR_2_HD_Lang_vanilla.txt#L28131) | `Talk.Dominator.CommandBlazer` | Требует контекста | Фрагмент: «Объект &lt;Player&gt; - наш враг.» |
-| [28132](../../source/SR_2_HD_Lang_vanilla.txt#L28132) | `Talk.Dominator.CommandBlazer1` | Разобрано в своде | Фрагмент: «Данный приказ не акцептирован нашим командным центром.» · [Свод](../../GALAXY_LORE.md#L1394) |
-| [28133](../../source/SR_2_HD_Lang_vanilla.txt#L28133) | `Talk.Dominator.CommandBlazer2` | Разобрано в своде | Фрагмент: «Чтобы я служил у био-гуманоида, вымирающего вида?» · [Свод](../../GALAXY_LORE.md#L1394) |
+| [28132](../../source/SR_2_HD_Lang_vanilla.txt#L28132) | `Talk.Dominator.CommandBlazer1` | Ожидает проверки | Фрагмент: «Данный приказ не акцептирован нашим командным центром.» |
+| [28133](../../source/SR_2_HD_Lang_vanilla.txt#L28133) | `Talk.Dominator.CommandBlazer2` | Ожидает проверки | Фрагмент: «Чтобы я служил у био-гуманоида, вымирающего вида?» |
 | [28134](../../source/SR_2_HD_Lang_vanilla.txt#L28134) | `Talk.Dominator.CommandBlazer3` | Требует контекста | Фрагмент: «Нет, это уже слишком.» |
 | [28135](../../source/SR_2_HD_Lang_vanilla.txt#L28135) | `Talk.Dominator.CommandBlazer4` | Требует контекста | Фрагмент: «Нет, это ты послушай мою команду, &lt;Player&gt;!» |
 | [28136](../../source/SR_2_HD_Lang_vanilla.txt#L28136) | `Talk.Dominator.CommandKeller` | Требует контекста | Фрагмент: «Готов перейти под ваше командование.» |
 | [28137](../../source/SR_2_HD_Lang_vanilla.txt#L28137) | `Talk.Dominator.CommandKeller1` | Требует контекста | Фрагмент: «Простите, но инструкции о передаче полномочий до меня еще не дошли.» |
-| [28138](../../source/SR_2_HD_Lang_vanilla.txt#L28138) | `Talk.Dominator.CommandKeller2` | Разобрано в своде | Фрагмент: «Я никому не служу, мной никто не командует.» · [Свод](../../GALAXY_LORE.md#L1404) |
+| [28138](../../source/SR_2_HD_Lang_vanilla.txt#L28138) | `Talk.Dominator.CommandKeller2` | Ожидает проверки | Фрагмент: «Я никому не служу, мной никто не командует.» |
 | [28139](../../source/SR_2_HD_Lang_vanilla.txt#L28139) | `Talk.Dominator.CommandKeller3` | Требует контекста | Фрагмент: «Ваш вид не силен в вычислениях.» |
-| [28140](../../source/SR_2_HD_Lang_vanilla.txt#L28140) | `Talk.Dominator.CommandKeller4` | Разобрано в своде | Фрагмент: «Извините, функциями командования обладают блазероиды.» · [Свод](../../GALAXY_LORE.md#L1404) |
+| [28140](../../source/SR_2_HD_Lang_vanilla.txt#L28140) | `Talk.Dominator.CommandKeller4` | Ожидает проверки | Фрагмент: «Извините, функциями командования обладают блазероиды.» |
 | [28141](../../source/SR_2_HD_Lang_vanilla.txt#L28141) | `Talk.Dominator.CommandPlayer` | Требует контекста | Фрагмент: «Иди под мое командование!» |
 | [28142](../../source/SR_2_HD_Lang_vanilla.txt#L28142) | `Talk.Dominator.CommandPlayer1` | Требует контекста | Фрагмент: «Давай, я буду тобой командовать!» |
 | [28143](../../source/SR_2_HD_Lang_vanilla.txt#L28143) | `Talk.Dominator.CommandPlayer2` | Требует контекста | Фрагмент: «Я твой новый начальник, исполнять мои приказы!» |
 | [28144](../../source/SR_2_HD_Lang_vanilla.txt#L28144) | `Talk.Dominator.CommandTerron` | Требует контекста | Фрагмент: «Объект &lt;Player&gt; не принадлежит к нашему виду.» |
-| [28145](../../source/SR_2_HD_Lang_vanilla.txt#L28145) | `Talk.Dominator.CommandTerron1` | Разобрано в своде | Фрагмент: «Насколько нам известно, серия блазероидов ищет нового командующего.» · [Свод](../../GALAXY_LORE.md#L1413) |
-| [28146](../../source/SR_2_HD_Lang_vanilla.txt#L28146) | `Talk.Dominator.CommandTerron2` | Разобрано в своде | Фрагмент: «Для смены командования требуется замена текущего метаблока.» · [Свод](../../GALAXY_LORE.md#L1412) |
+| [28145](../../source/SR_2_HD_Lang_vanilla.txt#L28145) | `Talk.Dominator.CommandTerron1` | Ожидает проверки | Фрагмент: «Насколько нам известно, серия блазероидов ищет нового командующего.» |
+| [28146](../../source/SR_2_HD_Lang_vanilla.txt#L28146) | `Talk.Dominator.CommandTerron2` | Ожидает проверки | Фрагмент: «Для смены командования требуется замена текущего метаблока.» |
 | [28147](../../source/SR_2_HD_Lang_vanilla.txt#L28147) | `Talk.Dominator.CommandTerron3` | Требует контекста | Фрагмент: «Благодаря новым возможностям терроноидов, это станет возможным и для вас, но как только вы будете преобразованы к нашему виду.» |
 | [28148](../../source/SR_2_HD_Lang_vanilla.txt#L28148) | `Talk.Dominator.CommandTerron4` | Требует контекста | Фрагмент: «Очевидно, ты, &lt;Player&gt;, немного не понимаешь разницы между нашими ступенями эволюции.» |
 | [28149](../../source/SR_2_HD_Lang_vanilla.txt#L28149) | `Talk.Dominator.GoodsBlazer` | Требует контекста | Фрагмент: «Понятие "товара" не входит в набор моих инструкций.» |
 | [28150](../../source/SR_2_HD_Lang_vanilla.txt#L28150) | `Talk.Dominator.GoodsBlazer1` | Требует контекста | Фрагмент: «Я не занимаюсь перевозкой грузов.» |
-| [28151](../../source/SR_2_HD_Lang_vanilla.txt#L28151) | `Talk.Dominator.GoodsBlazer2` | Разобрано в своде | Фрагмент: «Сейчас я открою по тебе огонь, и ты умрешь.» · [Свод](../../GALAXY_LORE.md#L1394) |
+| [28151](../../source/SR_2_HD_Lang_vanilla.txt#L28151) | `Talk.Dominator.GoodsBlazer2` | Ожидает проверки | Фрагмент: «Сейчас я открою по тебе огонь, и ты умрешь.» |
 | [28152](../../source/SR_2_HD_Lang_vanilla.txt#L28152) | `Talk.Dominator.GoodsBlazer3` | Требует контекста | Фрагмент: «Произведена связь с командным центром.» |
-| [28153](../../source/SR_2_HD_Lang_vanilla.txt#L28153) | `Talk.Dominator.GoodsBlazer4` | Разобрано в своде | Фрагмент: «Да, ты, парень, не трус, перспективен!» · [Свод](../../GALAXY_LORE.md#L1394) |
+| [28153](../../source/SR_2_HD_Lang_vanilla.txt#L28153) | `Talk.Dominator.GoodsBlazer4` | Ожидает проверки | Фрагмент: «Да, ты, парень, не трус, перспективен!» |
 | [28154](../../source/SR_2_HD_Lang_vanilla.txt#L28154) | `Talk.Dominator.GoodsKeller` | Требует контекста | Фрагмент: «Еще рано избавляться от результатов моих исследований.» |
 | [28155](../../source/SR_2_HD_Lang_vanilla.txt#L28155) | `Talk.Dominator.GoodsKeller1` | Требует контекста | Фрагмент: «Для вас деньги есть единица измерения ресурсов?» |
 | [28156](../../source/SR_2_HD_Lang_vanilla.txt#L28156) | `Talk.Dominator.GoodsKeller2` | Требует контекста | Фрагмент: «К чему такая грубость?» |
 | [28157](../../source/SR_2_HD_Lang_vanilla.txt#L28157) | `Talk.Dominator.GoodsKeller3` | Требует контекста | Фрагмент: «Понятия "товары" и "деньги" не имеют ничего общего с нашими ценностями.» |
-| [28158](../../source/SR_2_HD_Lang_vanilla.txt#L28158) | `Talk.Dominator.GoodsKeller4` | Разобрано в своде | Фрагмент: «Порок вашей цивилизации в жадности.» · [Свод](../../GALAXY_LORE.md#L1380), [Свод](../../GALAXY_LORE.md#L1404) |
+| [28158](../../source/SR_2_HD_Lang_vanilla.txt#L28158) | `Talk.Dominator.GoodsKeller4` | Ожидает проверки | Фрагмент: «Порок вашей цивилизации в жадности.» |
 | [28159](../../source/SR_2_HD_Lang_vanilla.txt#L28159) | `Talk.Dominator.GoodsPlayer` | Требует контекста | Фрагмент: «Товары, деньги есть?» |
 | [28160](../../source/SR_2_HD_Lang_vanilla.txt#L28160) | `Talk.Dominator.GoodsPlayer1` | Требует контекста | Фрагмент: «Я тут главный.» |
-| [28161](../../source/SR_2_HD_Lang_vanilla.txt#L28161) | `Talk.Dominator.GoodsTerron` | Разобрано в своде | Фрагмент: «Я не могу отдать компоненты своего вида.» · [Свод](../../GALAXY_LORE.md#L1380) |
+| [28161](../../source/SR_2_HD_Lang_vanilla.txt#L28161) | `Talk.Dominator.GoodsTerron` | Ожидает проверки | Фрагмент: «Я не могу отдать компоненты своего вида.» |
 | [28162](../../source/SR_2_HD_Lang_vanilla.txt#L28162) | `Talk.Dominator.GoodsTerron1` | Требует контекста | Фрагмент: «Ценность нашего вида настолько велика, что я даже не могу помышлять о том, чтобы отдать тебе свои ресурсы.» |
 | [28163](../../source/SR_2_HD_Lang_vanilla.txt#L28163) | `Talk.Dominator.GoodsTerron2` | Требует контекста | Фрагмент: «Задача поставлена корректно.» |
-| [28164](../../source/SR_2_HD_Lang_vanilla.txt#L28164) | `Talk.Dominator.GoodsTerron3` | Разобрано в своде | Фрагмент: «Не первый раз ваши индивиды обращаются к нам с этой просьбой.» · [Свод](../../GALAXY_LORE.md#L1380) |
+| [28164](../../source/SR_2_HD_Lang_vanilla.txt#L28164) | `Talk.Dominator.GoodsTerron3` | Ожидает проверки | Фрагмент: «Не первый раз ваши индивиды обращаются к нам с этой просьбой.» |
 | [28165](../../source/SR_2_HD_Lang_vanilla.txt#L28165) | `Talk.Dominator.GoodsTerron4` | Требует контекста | Фрагмент: «Мы находим ваши требования сходными с требованиями келлероидов о предоставлении информации.» |
 | [28166](../../source/SR_2_HD_Lang_vanilla.txt#L28166) | `Talk.Dominator.HiBlazer` | Требует контекста | Фрагмент: «Сообщение не содержит приказа на уничтожение.» |
-| [28167](../../source/SR_2_HD_Lang_vanilla.txt#L28167) | `Talk.Dominator.HiBlazer1` | Разобрано в своде | Фрагмент: «Команда "Дела" не входит в акцептированный набор боевых команд.» · [Свод](../../GALAXY_LORE.md#L1394) |
+| [28167](../../source/SR_2_HD_Lang_vanilla.txt#L28167) | `Talk.Dominator.HiBlazer1` | Ожидает проверки | Фрагмент: «Команда "Дела" не входит в акцептированный набор боевых команд.» |
 | [28168](../../source/SR_2_HD_Lang_vanilla.txt#L28168) | `Talk.Dominator.HiBlazer2` | Требует контекста | Фрагмент: «Получено подтверждение.» |
 | [28169](../../source/SR_2_HD_Lang_vanilla.txt#L28169) | `Talk.Dominator.HiBlazer3` | Требует контекста | Фрагмент: «Инструкции получены.» |
 | [28170](../../source/SR_2_HD_Lang_vanilla.txt#L28170) | `Talk.Dominator.HiBlazer4` | Требует контекста | Фрагмент: «Выполняю боевую программу по уничтожению врага.» |
 | [28171](../../source/SR_2_HD_Lang_vanilla.txt#L28171) | `Talk.Dominator.HiBlazer5` | Требует контекста | Фрагмент: «Боевые системы в норме, матрица памяти загружена.» |
 | [28172](../../source/SR_2_HD_Lang_vanilla.txt#L28172) | `Talk.Dominator.HiKeller` | Требует контекста | Фрагмент: «Занимаюсь сбором информации.» |
-| [28173](../../source/SR_2_HD_Lang_vanilla.txt#L28173) | `Talk.Dominator.HiKeller1` | Разобрано в своде | Фрагмент: «Сбор информации проходит в запланированном режиме.» · [Свод](../../GALAXY_LORE.md#L1404) |
+| [28173](../../source/SR_2_HD_Lang_vanilla.txt#L28173) | `Talk.Dominator.HiKeller1` | Ожидает проверки | Фрагмент: «Сбор информации проходит в запланированном режиме.» |
 | [28174](../../source/SR_2_HD_Lang_vanilla.txt#L28174) | `Talk.Dominator.HiKeller2` | Требует контекста | Фрагмент: «Информация о "привет как дела" не имеет смысла.» |
 | [28175](../../source/SR_2_HD_Lang_vanilla.txt#L28175) | `Talk.Dominator.HiKeller3` | Требует контекста | Фрагмент: «Происходит утечка данных.» |
 | [28176](../../source/SR_2_HD_Lang_vanilla.txt#L28176) | `Talk.Dominator.HiKeller4` | Требует контекста | Фрагмент: «Рассматривается возможность изучения объекта &lt;Player&gt;.» |
-| [28177](../../source/SR_2_HD_Lang_vanilla.txt#L28177) | `Talk.Dominator.HiKeller5` | Разобрано в своде | Фрагмент: «Анализ есть основа жизнедеятельности разумных видов.» · [Свод](../../GALAXY_LORE.md#L1404) |
+| [28177](../../source/SR_2_HD_Lang_vanilla.txt#L28177) | `Talk.Dominator.HiKeller5` | Ожидает проверки | Фрагмент: «Анализ есть основа жизнедеятельности разумных видов.» |
 | [28178](../../source/SR_2_HD_Lang_vanilla.txt#L28178) | `Talk.Dominator.HiPlayer` | Требует контекста | Фрагмент: «Привет!» |
-| [28179](../../source/SR_2_HD_Lang_vanilla.txt#L28179) | `Talk.Dominator.HiTerron` | Разобрано в своде | Фрагмент: «Задействован в программе преобразования.» · [Свод](../../GALAXY_LORE.md#L1412) |
-| [28180](../../source/SR_2_HD_Lang_vanilla.txt#L28180) | `Talk.Dominator.HiTerron1` | Разобрано в своде | Фрагмент: «Преобразование есть основная деятельность вида.» · [Свод](../../GALAXY_LORE.md#L1412) |
+| [28179](../../source/SR_2_HD_Lang_vanilla.txt#L28179) | `Talk.Dominator.HiTerron` | Ожидает проверки | Фрагмент: «Задействован в программе преобразования.» |
+| [28180](../../source/SR_2_HD_Lang_vanilla.txt#L28180) | `Talk.Dominator.HiTerron1` | Ожидает проверки | Фрагмент: «Преобразование есть основная деятельность вида.» |
 | [28181](../../source/SR_2_HD_Lang_vanilla.txt#L28181) | `Talk.Dominator.HiTerron2` | Требует контекста | Фрагмент: «Ваш вид под угрозой.» |
 | [28182](../../source/SR_2_HD_Lang_vanilla.txt#L28182) | `Talk.Dominator.HiTerron3` | Требует контекста | Фрагмент: «Вы будете освобождены от вашего вида.» |
 | [28183](../../source/SR_2_HD_Lang_vanilla.txt#L28183) | `Talk.Dominator.HiTerron4` | Требует контекста | Фрагмент: «Освобождение других видов есть основа функциональности.» |
-| [28184](../../source/SR_2_HD_Lang_vanilla.txt#L28184) | `Talk.Dominator.HiTerron5` | Разобрано в своде | Фрагмент: «Ваша позиция нелогична и требует селекционирования.» · [Свод](../../GALAXY_LORE.md#L1412) |
-| [28185](../../source/SR_2_HD_Lang_vanilla.txt#L28185) | `Talk.Dominator.PeaceBlazer` | Разобрано в своде | Фрагмент: «Мой приказ - уничтожать. "Война" есть цель существования.» · [Свод](../../GALAXY_LORE.md#L1394) |
+| [28184](../../source/SR_2_HD_Lang_vanilla.txt#L28184) | `Talk.Dominator.HiTerron5` | Ожидает проверки | Фрагмент: «Ваша позиция нелогична и требует селекционирования.» |
+| [28185](../../source/SR_2_HD_Lang_vanilla.txt#L28185) | `Talk.Dominator.PeaceBlazer` | Ожидает проверки | Фрагмент: «Мой приказ - уничтожать. "Война" есть цель существования.» |
 | [28186](../../source/SR_2_HD_Lang_vanilla.txt#L28186) | `Talk.Dominator.PeaceBlazer1` | Требует контекста | Фрагмент: «Этот приказ расценивается как критический...» |
-| [28187](../../source/SR_2_HD_Lang_vanilla.txt#L28187) | `Talk.Dominator.PeaceBlazer2` | Разобрано в своде | Фрагмент: «Как ты смотришь на то, чтобы начать еще одну войну?» · [Свод](../../GALAXY_LORE.md#L1394) |
+| [28187](../../source/SR_2_HD_Lang_vanilla.txt#L28187) | `Talk.Dominator.PeaceBlazer2` | Ожидает проверки | Фрагмент: «Как ты смотришь на то, чтобы начать еще одну войну?» |
 | [28188](../../source/SR_2_HD_Lang_vanilla.txt#L28188) | `Talk.Dominator.PeaceBlazer3` | Требует контекста | Фрагмент: «Ваши данные отправлены...» |
 | [28189](../../source/SR_2_HD_Lang_vanilla.txt#L28189) | `Talk.Dominator.PeaceBlazer4` | Требует контекста | Фрагмент: «Отказываюсь обрабатывать эти данные.» |
 | [28190](../../source/SR_2_HD_Lang_vanilla.txt#L28190) | `Talk.Dominator.PeaceBlazer5` | Требует контекста | Фрагмент: «У меня приказ уничтожать все.» |
-| [28191](../../source/SR_2_HD_Lang_vanilla.txt#L28191) | `Talk.Dominator.PeaceKeller` | Разобрано в своде | Фрагмент: «Бином оценил данное предложение как несовершенное.» · [Свод](../../GALAXY_LORE.md#L1404) |
+| [28191](../../source/SR_2_HD_Lang_vanilla.txt#L28191) | `Talk.Dominator.PeaceKeller` | Ожидает проверки | Фрагмент: «Бином оценил данное предложение как несовершенное.» |
 | [28192](../../source/SR_2_HD_Lang_vanilla.txt#L28192) | `Talk.Dominator.PeaceKeller1` | Кандидат | Фрагмент: «О какой войне идет речь, &lt;Player&gt;? Война не может служить позитивным источником получения информации.» |
 | [28193](../../source/SR_2_HD_Lang_vanilla.txt#L28193) | `Talk.Dominator.PeaceKeller2` | Кандидат | Фрагмент: «У меня отсутствует блок суждения о вашей войне.» |
-| [28194](../../source/SR_2_HD_Lang_vanilla.txt#L28194) | `Talk.Dominator.PeaceKeller3` | Разобрано в своде | Фрагмент: «Команда "положить" соответствует переброске данных через координатор в стабилитрон.» · [Свод](../../GALAXY_LORE.md#L1404) |
-| [28195](../../source/SR_2_HD_Lang_vanilla.txt#L28195) | `Talk.Dominator.PeaceKeller4` | Разобрано в своде | Фрагмент: «Вы уверены, что хотите воевать со мной или отказаться от этого?» · [Свод](../../GALAXY_LORE.md#L1404) |
-| [28196](../../source/SR_2_HD_Lang_vanilla.txt#L28196) | `Talk.Dominator.PeaceKeller5` | Разобрано в своде | Фрагмент: «Не мы начали эту войну.» · [Свод](../../GALAXY_LORE.md#L1404) |
+| [28194](../../source/SR_2_HD_Lang_vanilla.txt#L28194) | `Talk.Dominator.PeaceKeller3` | Ожидает проверки | Фрагмент: «Команда "положить" соответствует переброске данных через координатор в стабилитрон.» |
+| [28195](../../source/SR_2_HD_Lang_vanilla.txt#L28195) | `Talk.Dominator.PeaceKeller4` | Ожидает проверки | Фрагмент: «Вы уверены, что хотите воевать со мной или отказаться от этого?» |
+| [28196](../../source/SR_2_HD_Lang_vanilla.txt#L28196) | `Talk.Dominator.PeaceKeller5` | Ожидает проверки | Фрагмент: «Не мы начали эту войну.» |
 | [28197](../../source/SR_2_HD_Lang_vanilla.txt#L28197) | `Talk.Dominator.PeacePlayer` | Кандидат | Фрагмент: «Положим конец войне!» |
 | [28198](../../source/SR_2_HD_Lang_vanilla.txt#L28198) | `Talk.Dominator.PeacePlayer1` | Кандидат | Фрагмент: «Эй, тупая железяка, я хочу положить конец войне!» |
 | [28199](../../source/SR_2_HD_Lang_vanilla.txt#L28199) | `Talk.Dominator.PeacePlayer2` | Кандидат | Фрагмент: «Давай, &lt;TalkShip&gt;, вместе положим конец войне?!» |
 | [28200](../../source/SR_2_HD_Lang_vanilla.txt#L28200) | `Talk.Dominator.PeaceTerron` | Кандидат | Фрагмент: «Война будет закончена вместе с преобразованием всех разумных видов к нашему.» |
 | [28201](../../source/SR_2_HD_Lang_vanilla.txt#L28201) | `Talk.Dominator.PeaceTerron1` | Требует контекста | Фрагмент: «Не пытайтесь увильнуть от программы преобразования.» |
-| [28202](../../source/SR_2_HD_Lang_vanilla.txt#L28202) | `Talk.Dominator.PeaceTerron2` | Разобрано в своде | Фрагмент: «Ваша коалиция биологических существ не может жить в мире даже между собой. Мы устраним саму причину войны, преобразуя все к своему виду.» · [Свод](../../GALAXY_LORE.md#L1412) |
+| [28202](../../source/SR_2_HD_Lang_vanilla.txt#L28202) | `Talk.Dominator.PeaceTerron2` | Ожидает проверки | Фрагмент: «Ваша коалиция биологических существ не может жить в мире даже между собой. Мы устраним саму причину войны, преобразуя все к своему виду.» |
 | [28203](../../source/SR_2_HD_Lang_vanilla.txt#L28203) | `Talk.Dominator.PeaceTerron3` | Требует контекста | Фрагмент: «Ты еще не преобразован к нашему виду, &lt;Player&gt;.» |
 | [28204](../../source/SR_2_HD_Lang_vanilla.txt#L28204) | `Talk.Dominator.PeaceTerron4` | Требует контекста | Фрагмент: «Вы несете бред, вероятно, вам требуется замена матрицы личности.» |
-| [28205](../../source/SR_2_HD_Lang_vanilla.txt#L28205) | `Talk.Dominator.PeaceTerron5` | Разобрано в своде | Фрагмент: «Насчет мирных соглашений обращайтесь к келлероидам.» · [Свод](../../GALAXY_LORE.md#L1412) |
+| [28205](../../source/SR_2_HD_Lang_vanilla.txt#L28205) | `Talk.Dominator.PeaceTerron5` | Ожидает проверки | Фрагмент: «Насчет мирных соглашений обращайтесь к келлероидам.» |
 | [28206](../../source/SR_2_HD_Lang_vanilla.txt#L28206) | `Talk.Dominator.ProgrammNo` | Требует контекста | Фрагмент: «Зафиксирована атака на систему.» |
 | [28207](../../source/SR_2_HD_Lang_vanilla.txt#L28207) | `Talk.Dominator.ProgrammOk` | Требует контекста | Фрагмент: «Выполняю программу &lt;Name&gt;.» |
 | [28208](../../source/SR_2_HD_Lang_vanilla.txt#L28208) | `Talk.Dominator.ProgrammPlayer` | Требует контекста | Фрагмент: «Запуск программы: &lt;Name&gt;» |
@@ -376,7 +376,7 @@
 | [28226](../../source/SR_2_HD_Lang_vanilla.txt#L28226) | `Talk.ExTalk.OldHullPlayerSend_1_4P` | Требует контекста | Фрагмент: «Спасибо за подробное изложение.» |
 | [28227](../../source/SR_2_HD_Lang_vanilla.txt#L28227) | `Talk.ExTalk.OldHullPlayerSend_2` | Требует контекста | Фрагмент: «Да я же величайший рейнджер, которого когда-либо знала наша галактика!» |
 | [28228](../../source/SR_2_HD_Lang_vanilla.txt#L28228) | `Talk.ExTalk.OldHullRangerAnswer` | Требует контекста | Фрагмент: «А ты, &lt;Player&gt;, с какой целью интересуешься?» |
-| [28229](../../source/SR_2_HD_Lang_vanilla.txt#L28229) | `Talk.ExTalk.OldHullRangerAnswerP` | Разобрано в своде | Фрагмент: «Конечно, не вопрос.» · [Свод](../../GALAXY_LORE.md#L2100) |
+| [28229](../../source/SR_2_HD_Lang_vanilla.txt#L28229) | `Talk.ExTalk.OldHullRangerAnswerP` | Ожидает проверки | Фрагмент: «Конечно, не вопрос.» |
 | [28230](../../source/SR_2_HD_Lang_vanilla.txt#L28230) | `Talk.ExTalk.OldHullRangerAnswer_1` | Кандидат | Фрагмент: «Технология казалась чрезвычайно перспективной и сулила большой прогресс в скорости реакции, удобстве и легкости управления космическими кораблями.» |
 | [28231](../../source/SR_2_HD_Lang_vanilla.txt#L28231) | `Talk.ExTalk.OldHullRangerAnswer_1P` | Кандидат | Фрагмент: «Технология казалась чрезвычайно перспективной и сулила большой прогресс в скорости реакции, удобстве и легкости управления космическими кораблями.» |
 | [28232](../../source/SR_2_HD_Lang_vanilla.txt#L28232) | `Talk.ExTalk.OldHullRangerAnswer_1_1` | Требует контекста | Фрагмент: «Ключевой проблемой стала синхронизация и качество реализации виртуальной реальности.» |
@@ -436,7 +436,7 @@
 | [28289](../../source/SR_2_HD_Lang_vanilla.txt#L28289) | `Talk.Female.Attack.PlayerWeFriendsTranc` | Требует контекста | Фрагмент: «Атаковать чужого робота?» |
 | [28290](../../source/SR_2_HD_Lang_vanilla.txt#L28290) | `Talk.Female.Attack.PlayerWeFriendsTranc1` | Требует контекста | Фрагмент: «Ввязываться в бессмысленный бой с чужой вещью я не намерен.» |
 | [28291](../../source/SR_2_HD_Lang_vanilla.txt#L28291) | `Talk.Female.Attack.PlayerWeFriendsTranc2` | Требует контекста | Фрагмент: «А я, вообще-то, люблю транклюкаторов, и без причины делать им больно не хочу.» |
-| [28292](../../source/SR_2_HD_Lang_vanilla.txt#L28292) | `Talk.Female.Attack.RangerFear` | Разобрано в своде | Фрагмент: «Хочешь получить посмертно пеленгскую награду "Камикадзе"?» · [Свод](../../GALAXY_LORE.md#L466) |
+| [28292](../../source/SR_2_HD_Lang_vanilla.txt#L28292) | `Talk.Female.Attack.RangerFear` | Ожидает проверки | Фрагмент: «Хочешь получить посмертно пеленгскую награду "Камикадзе"?» |
 | [28293](../../source/SR_2_HD_Lang_vanilla.txt#L28293) | `Talk.Female.Attack.RangerFear1` | Требует контекста | Фрагмент: «Ну знаешь ли, я еще хочу выйти замуж, нарожать детишек и развести цветник возле дома.» |
 | [28294](../../source/SR_2_HD_Lang_vanilla.txt#L28294) | `Talk.Female.Attack.RangerFear2` | Требует контекста | Фрагмент: «Это заведомо провальная операция.» |
 | [28295](../../source/SR_2_HD_Lang_vanilla.txt#L28295) | `Talk.Female.Attack.RangerFear3` | Требует контекста | Фрагмент: «Во-первых я не заинтересована в этом сражении, а во-вторых он слишком крутой.» |
@@ -524,9 +524,9 @@
 | [28383](../../source/SR_2_HD_Lang_vanilla.txt#L28383) | `Talk.Female.Goods.RangerNo4` | Требует контекста | Фрагмент: «Единственный для тебя способ получить мой груз - это взорвать мой корабль, но я постараюсь этого не допустить, как ты сам понимаешь.» |
 | [28384](../../source/SR_2_HD_Lang_vanilla.txt#L28384) | `Talk.Female.Goods.RangerOk` | Требует контекста | Фрагмент: «Хорошо-хорошо, я отдам часть груза.» |
 | [28385](../../source/SR_2_HD_Lang_vanilla.txt#L28385) | `Talk.Female.Goods.RangerOk1` | Требует контекста | Фрагмент: «Ладно, так и быть, подавись этим грузом.» |
-| [28386](../../source/SR_2_HD_Lang_vanilla.txt#L28386) | `Talk.Female.Goods.Send` | Разобрано в своде | Фрагмент: «Спецслужба Коалиции!» · [Свод](../../GALAXY_LORE.md#L2203) |
+| [28386](../../source/SR_2_HD_Lang_vanilla.txt#L28386) | `Talk.Female.Goods.Send` | Ожидает проверки | Фрагмент: «Спецслужба Коалиции!» |
 | [28387](../../source/SR_2_HD_Lang_vanilla.txt#L28387) | `Talk.Female.Goods.Send1` | Кандидат | Фрагмент: «Это дело особой важности, оно касается будущего всей Коалиции!» |
-| [28388](../../source/SR_2_HD_Lang_vanilla.txt#L28388) | `Talk.Female.Goods.Send2` | Разобрано в своде | Фрагмент: «Официальное заявление о возмещении ущерба можешь оставить в правительственном офисе любой планеты Коалиции.» · [Свод](../../GALAXY_LORE.md#L2203) |
+| [28388](../../source/SR_2_HD_Lang_vanilla.txt#L28388) | `Talk.Female.Goods.Send2` | Ожидает проверки | Фрагмент: «Официальное заявление о возмещении ущерба можешь оставить в правительственном офисе любой планеты Коалиции.» |
 | [28389](../../source/SR_2_HD_Lang_vanilla.txt#L28389) | `Talk.Female.Goods.WeAlreadyHavePact` | Требует контекста | Фрагмент: «Эй, мы же уже заключили мирное соглашение!» |
 | [28390](../../source/SR_2_HD_Lang_vanilla.txt#L28390) | `Talk.Female.Goods.WeAlreadyHavePact1` | Требует контекста | Фрагмент: «Ты чего снова лезешь, у нас ведь с тобой мирное соглашение?!» |
 | [28393](../../source/SR_2_HD_Lang_vanilla.txt#L28393) | `Talk.Female.Money.AnswerNotMoney` | Требует контекста | Фрагмент: «Извините, я хочу заплатить, но в данный момент не располагаю требуемой суммой.» |
@@ -609,7 +609,7 @@
 | [28470](../../source/SR_2_HD_Lang_vanilla.txt#L28470) | `Talk.Female.Money.RangerSumIsVeryBig4` | Требует контекста | Фрагмент: «Плохо дело.» |
 | [28471](../../source/SR_2_HD_Lang_vanilla.txt#L28471) | `Talk.Female.Money.Send` | Требует контекста | Фрагмент: «Мне довольно неудобно это говорить, но положение критическое, так что одолжи мне &lt;Money&gt; cr.» |
 | [28472](../../source/SR_2_HD_Lang_vanilla.txt#L28472) | `Talk.Female.Money.Send1` | Требует контекста | Фрагмент: «Приятель, подкинь мне &lt;Money&gt; cr Мне очень нужно, поверь, дело серьезноe.» |
-| [28473](../../source/SR_2_HD_Lang_vanilla.txt#L28473) | `Talk.Female.Money.Send2` | Разобрано в своде | Фрагмент: «Поверь, я не для развлечения спрашиваю, судьба Коалиции на весах...» · [Свод](../../GALAXY_LORE.md#L2203) |
+| [28473](../../source/SR_2_HD_Lang_vanilla.txt#L28473) | `Talk.Female.Money.Send2` | Ожидает проверки | Фрагмент: «Поверь, я не для развлечения спрашиваю, судьба Коалиции на весах...» |
 | [28474](../../source/SR_2_HD_Lang_vanilla.txt#L28474) | `Talk.Female.Money.WeAlreadyHavePact` | Требует контекста | Фрагмент: «Братишка, у тебя серьезные проблемы с головой.» |
 | [28475](../../source/SR_2_HD_Lang_vanilla.txt#L28475) | `Talk.Female.Money.WeAlreadyHavePact1` | Требует контекста | Фрагмент: «Если мне не изменяет память, я уже слышала когда-то от тебя похожие слова.» |
 | [28478](../../source/SR_2_HD_Lang_vanilla.txt#L28478) | `Talk.Female.Partner.AlreadyHavePartner` | Требует контекста | Фрагмент: «Извини, но мой партнер рейнджер &lt;Partner&gt;.» |
@@ -652,7 +652,7 @@
 | [28515](../../source/SR_2_HD_Lang_vanilla.txt#L28515) | `Talk.Female.Partner.FlyToMe` | Требует контекста | Фрагмент: «Хватит марафет наводить, лети за мной, дело есть» |
 | [28516](../../source/SR_2_HD_Lang_vanilla.txt#L28516) | `Talk.Female.Partner.FlyToMe1` | Требует контекста | Фрагмент: «Лети скорее за мной, деньги будем зарабатывать» |
 | [28517](../../source/SR_2_HD_Lang_vanilla.txt#L28517) | `Talk.Female.Partner.FlyToStar` | Требует контекста | Фрагмент: «Совершаем гиперпрыжок в систему &lt;Star&gt;» |
-| [28518](../../source/SR_2_HD_Lang_vanilla.txt#L28518) | `Talk.Female.Partner.ILeader` | Разобрано в своде | Фрагмент: «Я кошка, которая гуляет сама по себе.» · [Отсылки](../../GALAXY_LORE_PARODY.md#L87) |
+| [28518](../../source/SR_2_HD_Lang_vanilla.txt#L28518) | `Talk.Female.Partner.ILeader` | Ожидает проверки | Фрагмент: «Я кошка, которая гуляет сама по себе.» |
 | [28519](../../source/SR_2_HD_Lang_vanilla.txt#L28519) | `Talk.Female.Partner.ILeader1` | Требует контекста | Фрагмент: «Меня никто не нанимает, это я сама нанимаю других!» |
 | [28520](../../source/SR_2_HD_Lang_vanilla.txt#L28520) | `Talk.Female.Partner.IsOrderForAll` | Требует контекста | Фрагмент: «Это приказ по группе или лично мне?» |
 | [28521](../../source/SR_2_HD_Lang_vanilla.txt#L28521) | `Talk.Female.Partner.LandingToObject` | Требует контекста | Фрагмент: «Совершаем посадку на &lt;ObjectName&gt;» |

@@ -2,17 +2,17 @@
 
 | Строка оригинала | Ключ | Разбор | Основание |
 |---|---|---|---|
-| [467](../../source/SR_2_HD_Lang_vanilla.txt#L467) | `Artefacts.ArtAnalyzer.AttackDomik` | Разобрано в своде | Фрагмент: «Вероятностный анализатор обработал статистические данные боевых действий в галактике и предсказал ближайшую атаку доминаторов, которая произойдет на систему &lt;Star&gt;.» · [Свод](../../GALAXY_LORE.md#L1809) |
-| [468](../../source/SR_2_HD_Lang_vanilla.txt#L468) | `Artefacts.ArtAnalyzer.AttackPirates` | Разобрано в своде | Фрагмент: «Вероятностный анализатор обработал статистические данные боевых действий в галактике и предсказал ближайшую атаку пиратов, которая произойдет на систему &lt;Star&gt;.» · [Свод](../../GALAXY_LORE.md#L1775) |
+| [467](../../source/SR_2_HD_Lang_vanilla.txt#L467) | `Artefacts.ArtAnalyzer.AttackDomik` | Ожидает проверки | Фрагмент: «Вероятностный анализатор обработал статистические данные боевых действий в галактике и предсказал ближайшую атаку доминаторов, которая произойдет на систему &lt;Star&gt;.» |
+| [468](../../source/SR_2_HD_Lang_vanilla.txt#L468) | `Artefacts.ArtAnalyzer.AttackPirates` | Ожидает проверки | Фрагмент: «Вероятностный анализатор обработал статистические данные боевых действий в галактике и предсказал ближайшую атаку пиратов, которая произойдет на систему &lt;Star&gt;.» |
 | [469](../../source/SR_2_HD_Lang_vanilla.txt#L469) | `Artefacts.ArtAnalyzer.Broken` | Требует контекста | Фрагмент: «(не работает)» |
 | [470](../../source/SR_2_HD_Lang_vanilla.txt#L470) | `Artefacts.ArtAnalyzer.BrokenInBattle` | Требует контекста | Фрагмент: «Внимание!» |
 | [471](../../source/SR_2_HD_Lang_vanilla.txt#L471) | `Artefacts.ArtAnalyzer.BrokenInUse` | Требует контекста | Фрагмент: «Программа вероятностного анализатора совершила недопустимую операцию и будет закрыта.» |
 | [472](../../source/SR_2_HD_Lang_vanilla.txt#L472) | `Artefacts.ArtAnalyzer.Description` | Требует контекста | Фрагмент: «Постоянно обрабатывает большие массивы получаемых из различных источников статистических данных в поисках информации, полезной пилоту.» |
-| [473](../../source/SR_2_HD_Lang_vanilla.txt#L473) | `Artefacts.ArtAnalyzer.KellerHole` | Разобрано в своде | Фрагмент: «Вероятностный анализатор, основываясь на статистических данных активности босса Келлера, предсказал ближайший его выход из гиперпространства, который произойдет в системе &lt;Star&gt;.» · [Свод](../../GALAXY_LORE.md#L1809) |
+| [473](../../source/SR_2_HD_Lang_vanilla.txt#L473) | `Artefacts.ArtAnalyzer.KellerHole` | Ожидает проверки | Фрагмент: «Вероятностный анализатор, основываясь на статистических данных активности босса Келлера, предсказал ближайший его выход из гиперпространства, который произойдет в системе &lt;Star&gt;.» |
 | [474](../../source/SR_2_HD_Lang_vanilla.txt#L474) | `Artefacts.ArtAnalyzer.Name` | Требует контекста | Фрагмент: «Вероятностный анализатор» |
 | [475](../../source/SR_2_HD_Lang_vanilla.txt#L475) | `Artefacts.ArtAnalyzer.TechLevelDown` | Кандидат | Фрагмент: «Вероятностный анализатор обработал статистические данные по галактике и предсказал грядущее падение общей технологической оснащенности.» |
-| [476](../../source/SR_2_HD_Lang_vanilla.txt#L476) | `Artefacts.ArtAnalyzer.TechLevelUp` | Разобрано в своде | Фрагмент: «Вероятностный анализатор обработал статистические данные по галактике и предсказал грядущее повышение общей технологической оснащенности.» · [Свод](../../GALAXY_LORE.md#L1775), [Свод](../../GALAXY_LORE.md#L1809) |
-| [477](../../source/SR_2_HD_Lang_vanilla.txt#L477) | `Artefacts.ArtAnalyzer.Text` | Разобрано в своде | Фрагмент: «Рассчитывает и показывает вероятность победы над любым противником, предсказывает нападения доминаторов, помогает находить спрятанные на планетах клады.» · [Свод](../../GALAXY_LORE.md#L1809) |
+| [476](../../source/SR_2_HD_Lang_vanilla.txt#L476) | `Artefacts.ArtAnalyzer.TechLevelUp` | Ожидает проверки | Фрагмент: «Вероятностный анализатор обработал статистические данные по галактике и предсказал грядущее повышение общей технологической оснащенности.» |
+| [477](../../source/SR_2_HD_Lang_vanilla.txt#L477) | `Artefacts.ArtAnalyzer.Text` | Ожидает проверки | Фрагмент: «Рассчитывает и показывает вероятность победы над любым противником, предсказывает нападения доминаторов, помогает находить спрятанные на планетах клады.» |
 | [478](../../source/SR_2_HD_Lang_vanilla.txt#L478) | `Artefacts.ArtAnalyzer.TextToRadar` | Требует контекста | Фрагмент: «Вероятность победы: &lt;ChanceToWin&gt;%» |
 | [481](../../source/SR_2_HD_Lang_vanilla.txt#L481) | `Artefacts.ArtAntigrav.Broken` | Требует контекста | Фрагмент: «(испорчен)» |
 | [482](../../source/SR_2_HD_Lang_vanilla.txt#L482) | `Artefacts.ArtAntigrav.BrokenInBattle` | Требует контекста | Фрагмент: «Антигравитатор не выдержал колебаний силовых полей во время боя и вышел из строя.» |
@@ -20,27 +20,27 @@
 | [484](../../source/SR_2_HD_Lang_vanilla.txt#L484) | `Artefacts.ArtAntigrav.Description` | Требует контекста | Фрагмент: «Антигравитатор - устройство, создающее вокруг корабля пузырь, в который нагнетается отрицательная кинетика по принципу Гнука-Эйнштейна.» |
 | [485](../../source/SR_2_HD_Lang_vanilla.txt#L485) | `Artefacts.ArtAntigrav.Name` | Требует контекста | Фрагмент: «Антигравитатор» |
 | [486](../../source/SR_2_HD_Lang_vanilla.txt#L486) | `Artefacts.ArtAntigrav.Text` | Требует контекста | Фрагмент: «Создает собственное гравитационное поле, уменьшая фактическую массу корабля на 25 процентов.» |
-| [489](../../source/SR_2_HD_Lang_vanilla.txt#L489) | `Artefacts.ArtArtefactor.Description` | Разобрано в своде | Фрагмент: «Артефактор - переходник для подключения артефактов.» · [Свод](../../GALAXY_LORE.md#L1772) |
+| [489](../../source/SR_2_HD_Lang_vanilla.txt#L489) | `Artefacts.ArtArtefactor.Description` | Ожидает проверки | Фрагмент: «Артефактор - переходник для подключения артефактов.» |
 | [490](../../source/SR_2_HD_Lang_vanilla.txt#L490) | `Artefacts.ArtArtefactor.Name` | Требует контекста | Фрагмент: «Артефактор» |
 | [491](../../source/SR_2_HD_Lang_vanilla.txt#L491) | `Artefacts.ArtArtefactor.Text` | Требует контекста | Фрагмент: «Разветвитель для подключения редких видов оборудования.» |
 | [494](../../source/SR_2_HD_Lang_vanilla.txt#L494) | `Artefacts.ArtBio.Broken` | Требует контекста | Фрагмент: «(испорчен)» |
 | [495](../../source/SR_2_HD_Lang_vanilla.txt#L495) | `Artefacts.ArtBio.BrokenInBattle` | Требует контекста | Фрагмент: «Внимание!» |
-| [496](../../source/SR_2_HD_Lang_vanilla.txt#L496) | `Artefacts.ArtBio.BrokenInUse` | Разобрано в своде | Фрагмент: «Вы должны лучше следить за своим здоровьем.» · [Свод](../../GALAXY_LORE.md#L1809) |
-| [497](../../source/SR_2_HD_Lang_vanilla.txt#L497) | `Artefacts.ArtBio.Description` | Разобрано в своде | Фрагмент: «Биомир - биосенсорный анализатор, служащий для выявления опасных вирусов и микроорганизмов.» · [Свод](../../GALAXY_LORE.md#L1772), [Свод](../../GALAXY_LORE.md#L1809) |
+| [496](../../source/SR_2_HD_Lang_vanilla.txt#L496) | `Artefacts.ArtBio.BrokenInUse` | Ожидает проверки | Фрагмент: «Вы должны лучше следить за своим здоровьем.» |
+| [497](../../source/SR_2_HD_Lang_vanilla.txt#L497) | `Artefacts.ArtBio.Description` | Ожидает проверки | Фрагмент: «Биомир - биосенсорный анализатор, служащий для выявления опасных вирусов и микроорганизмов.» |
 | [498](../../source/SR_2_HD_Lang_vanilla.txt#L498) | `Artefacts.ArtBio.Name` | Требует контекста | Фрагмент: «Биомир» |
 | [499](../../source/SR_2_HD_Lang_vanilla.txt#L499) | `Artefacts.ArtBio.Text` | Требует контекста | Фрагмент: «Модуль биокибернетической адаптации иммунной системы.» |
 | [500](../../source/SR_2_HD_Lang_vanilla.txt#L500) | `Artefacts.ArtBio.TextOld` | Требует контекста | Фрагмент: «Датчик биологического микромира кабины космолета.» |
-| [503](../../source/SR_2_HD_Lang_vanilla.txt#L503) | `Artefacts.ArtBlackHole.Description` | Разобрано в своде | Фрагмент: «Субпортал - сферообразный двуполостный множитель материи.» · [Свод](../../GALAXY_LORE.md#L1772), [Свод](../../GALAXY_LORE.md#L1808) |
+| [503](../../source/SR_2_HD_Lang_vanilla.txt#L503) | `Artefacts.ArtBlackHole.Description` | Ожидает проверки | Фрагмент: «Субпортал - сферообразный двуполостный множитель материи.» |
 | [504](../../source/SR_2_HD_Lang_vanilla.txt#L504) | `Artefacts.ArtBlackHole.Name` | Требует контекста | Фрагмент: «Субпортал» |
 | [508](../../source/SR_2_HD_Lang_vanilla.txt#L508) | `Artefacts.ArtBlackHole.Text` | Требует контекста | Фрагмент: «Одноразовый множитель антиматерии.» |
 | [512](../../source/SR_2_HD_Lang_vanilla.txt#L512) | `Artefacts.ArtBomb.Description` | Требует контекста | Фрагмент: «Кварковая бомба - крайне дорогое устройство, начиненное невероятно разрушительной смесью.» |
 | [513](../../source/SR_2_HD_Lang_vanilla.txt#L513) | `Artefacts.ArtBomb.Name` | Требует контекста | Фрагмент: «Кварковая бомба» |
 | [514](../../source/SR_2_HD_Lang_vanilla.txt#L514) | `Artefacts.ArtBomb.Text` | Требует контекста | Фрагмент: «При взрыве наносит всем материальным объектам значительные повреждения.» |
 | [517](../../source/SR_2_HD_Lang_vanilla.txt#L517) | `Artefacts.ArtDecelerate.Broken` | Требует контекста | Фрагмент: «(поврежден)» |
-| [518](../../source/SR_2_HD_Lang_vanilla.txt#L518) | `Artefacts.ArtDecelerate.BrokenInBattle` | Разобрано в своде | Фрагмент: «Внимание, вжик поврежден!» · [Свод](../../GALAXY_LORE.md#L1807) |
-| [519](../../source/SR_2_HD_Lang_vanilla.txt#L519) | `Artefacts.ArtDecelerate.BrokenInUse` | Разобрано в своде | Фрагмент: «Вжик проделал огромную работу по кладке термических зарядов, некоторые его части требуют замены или ремонта.» · [Свод](../../GALAXY_LORE.md#L1807) |
-| [520](../../source/SR_2_HD_Lang_vanilla.txt#L520) | `Artefacts.ArtDecelerate.Description` | Разобрано в своде | Фрагмент: «Вжик - экспериментальный киборг с интеллектуальной матрицей вжика (гаальского насекомого).» · [Свод](../../GALAXY_LORE.md#L1772), [Свод](../../GALAXY_LORE.md#L1807), [Свод](../../GALAXY_LORE.md#L1883) |
-| [521](../../source/SR_2_HD_Lang_vanilla.txt#L521) | `Artefacts.ArtDecelerate.Name` | Разобрано в своде | Фрагмент: «Вжик» · [Свод](../../GALAXY_LORE.md#L1807) |
+| [518](../../source/SR_2_HD_Lang_vanilla.txt#L518) | `Artefacts.ArtDecelerate.BrokenInBattle` | Ожидает проверки | Фрагмент: «Внимание, вжик поврежден!» |
+| [519](../../source/SR_2_HD_Lang_vanilla.txt#L519) | `Artefacts.ArtDecelerate.BrokenInUse` | Ожидает проверки | Фрагмент: «Вжик проделал огромную работу по кладке термических зарядов, некоторые его части требуют замены или ремонта.» |
+| [520](../../source/SR_2_HD_Lang_vanilla.txt#L520) | `Artefacts.ArtDecelerate.Description` | Ожидает проверки | Фрагмент: «Вжик - экспериментальный киборг с интеллектуальной матрицей вжика (гаальского насекомого).» |
+| [521](../../source/SR_2_HD_Lang_vanilla.txt#L521) | `Artefacts.ArtDecelerate.Name` | Ожидает проверки | Фрагмент: «Вжик» |
 | [522](../../source/SR_2_HD_Lang_vanilla.txt#L522) | `Artefacts.ArtDecelerate.Text` | Требует контекста | Фрагмент: «Добавляет термические заряды в осколочные снаряды.» |
 | [525](../../source/SR_2_HD_Lang_vanilla.txt#L525) | `Artefacts.ArtDef.Broken` | Требует контекста | Фрагмент: «(не работает)» |
 | [526](../../source/SR_2_HD_Lang_vanilla.txt#L526) | `Artefacts.ArtDef.BrokenInBattle` | Требует контекста | Фрагмент: «В бою была сбита фокусировка поляризатора.» |
@@ -81,19 +81,19 @@
 | [575](../../source/SR_2_HD_Lang_vanilla.txt#L575) | `Artefacts.ArtFastRacks.Broken` | Требует контекста | Фрагмент: «(не работает)» |
 | [576](../../source/SR_2_HD_Lang_vanilla.txt#L576) | `Artefacts.ArtFastRacks.BrokenInBattle` | Требует контекста | Фрагмент: «Попадания повредили логический блок Ралса и он отключился.» |
 | [577](../../source/SR_2_HD_Lang_vanilla.txt#L577) | `Artefacts.ArtFastRacks.BrokenInUse` | Требует контекста | Фрагмент: «Большое количество циклов перезаписи исчерпало ресурс памяти Ралса.» |
-| [578](../../source/SR_2_HD_Lang_vanilla.txt#L578) | `Artefacts.ArtFastRacks.Description` | Разобрано в своде | Фрагмент: «Ралс - тестовая версия нового программного обеспечения механизма заряжания ракетного оружия, выполненная в виде отдельного субблока.» · [Свод](../../GALAXY_LORE.md#L1775) |
+| [578](../../source/SR_2_HD_Lang_vanilla.txt#L578) | `Artefacts.ArtFastRacks.Description` | Ожидает проверки | Фрагмент: «Ралс - тестовая версия нового программного обеспечения механизма заряжания ракетного оружия, выполненная в виде отдельного субблока.» |
 | [579](../../source/SR_2_HD_Lang_vanilla.txt#L579) | `Artefacts.ArtFastRacks.Name` | Требует контекста | Фрагмент: «Ралс» |
 | [580](../../source/SR_2_HD_Lang_vanilla.txt#L580) | `Artefacts.ArtFastRacks.Text` | Кандидат | Фрагмент: «Обеспечивает 15% шанс двойного залпа из ракетного оружия.» |
 | [583](../../source/SR_2_HD_Lang_vanilla.txt#L583) | `Artefacts.ArtForsage.Broken` | Требует контекста | Фрагмент: «(сломан)» |
 | [584](../../source/SR_2_HD_Lang_vanilla.txt#L584) | `Artefacts.ArtForsage.BrokenInBattle` | Требует контекста | Фрагмент: «Зафиксировано попадание в сопло двигателя.» |
-| [585](../../source/SR_2_HD_Lang_vanilla.txt#L585) | `Artefacts.ArtForsage.BrokenInUse` | Разобрано в своде | Фрагмент: «Обливионный коннектор выработал свой ресурс.» · [Свод](../../GALAXY_LORE.md#L1808) |
-| [586](../../source/SR_2_HD_Lang_vanilla.txt#L586) | `Artefacts.ArtForsage.Description` | Разобрано в своде | Фрагмент: «Обливионный коннектор - несколько тысяч наномодулей келлероидов, встроенных в специальную сетку.» · [Свод](../../GALAXY_LORE.md#L1364), [Свод](../../GALAXY_LORE.md#L1772), [Свод](../../GALAXY_LORE.md#L1808) |
+| [585](../../source/SR_2_HD_Lang_vanilla.txt#L585) | `Artefacts.ArtForsage.BrokenInUse` | Ожидает проверки | Фрагмент: «Обливионный коннектор выработал свой ресурс.» |
+| [586](../../source/SR_2_HD_Lang_vanilla.txt#L586) | `Artefacts.ArtForsage.Description` | Ожидает проверки | Фрагмент: «Обливионный коннектор - несколько тысяч наномодулей келлероидов, встроенных в специальную сетку.» |
 | [587](../../source/SR_2_HD_Lang_vanilla.txt#L587) | `Artefacts.ArtForsage.Name` | Требует контекста | Фрагмент: «Обливионный коннектор» |
 | [588](../../source/SR_2_HD_Lang_vanilla.txt#L588) | `Artefacts.ArtForsage.Text` | Кандидат | Фрагмент: «Технология, созданная на основе наномодулей келлероидов.» |
 | [591](../../source/SR_2_HD_Lang_vanilla.txt#L591) | `Artefacts.ArtFuel.Broken` | Требует контекста | Фрагмент: «(ресурс исчерпан)» |
 | [592](../../source/SR_2_HD_Lang_vanilla.txt#L592) | `Artefacts.ArtFuel.BrokenInBattle` | Требует контекста | Фрагмент: «Ужас!» |
 | [593](../../source/SR_2_HD_Lang_vanilla.txt#L593) | `Artefacts.ArtFuel.BrokenInUse` | Требует контекста | Фрагмент: «Черная жижа исчерпала свои ресурсы.» |
-| [594](../../source/SR_2_HD_Lang_vanilla.txt#L594) | `Artefacts.ArtFuel.Description` | Разобрано в своде | Фрагмент: «Черная жижа - смесь, полученная учеными древности.» · [Свод](../../GALAXY_LORE.md#L1523), [Свод](../../GALAXY_LORE.md#L2093) |
+| [594](../../source/SR_2_HD_Lang_vanilla.txt#L594) | `Artefacts.ArtFuel.Description` | Ожидает проверки | Фрагмент: «Черная жижа - смесь, полученная учеными древности.» |
 | [595](../../source/SR_2_HD_Lang_vanilla.txt#L595) | `Artefacts.ArtFuel.Name` | Требует контекста | Фрагмент: «Черная жижа» |
 | [596](../../source/SR_2_HD_Lang_vanilla.txt#L596) | `Artefacts.ArtFuel.Text` | Требует контекста | Фрагмент: «Вырабатывает топливо, постепенно наполняя топливный бак.» |
 | [599](../../source/SR_2_HD_Lang_vanilla.txt#L599) | `Artefacts.ArtGiperJump.Broken` | Требует контекста | Фрагмент: «(сломан)» |
@@ -122,8 +122,8 @@
 | [628](../../source/SR_2_HD_Lang_vanilla.txt#L628) | `Artefacts.ArtMiniExpl.Text` | Требует контекста | Фрагмент: «Сохраняет много ценного оборудования врага при его ликвидации.» |
 | [631](../../source/SR_2_HD_Lang_vanilla.txt#L631) | `Artefacts.ArtMissileDef.Broken` | Требует контекста | Фрагмент: «(сломан)» |
 | [632](../../source/SR_2_HD_Lang_vanilla.txt#L632) | `Artefacts.ArtMissileDef.BrokenInBattle` | Требует контекста | Фрагмент: «Внимание!» |
-| [633](../../source/SR_2_HD_Lang_vanilla.txt#L633) | `Artefacts.ArtMissileDef.BrokenInUse` | Разобрано в своде | Фрагмент: «Плазмоуритановая составляющая слоя ракетанга высохла из-за сильной звездной активности.» · [Свод](../../GALAXY_LORE.md#L1808) |
-| [634](../../source/SR_2_HD_Lang_vanilla.txt#L634) | `Artefacts.ArtMissileDef.Description` | Разобрано в своде | Фрагмент: «Ракетанг - система наномеханизмов, которые покрывают поверхность корпуса тонкой управляемой плазмоуритановой пленкой.» · [Свод](../../GALAXY_LORE.md#L1772), [Свод](../../GALAXY_LORE.md#L1808) |
+| [633](../../source/SR_2_HD_Lang_vanilla.txt#L633) | `Artefacts.ArtMissileDef.BrokenInUse` | Ожидает проверки | Фрагмент: «Плазмоуритановая составляющая слоя ракетанга высохла из-за сильной звездной активности.» |
+| [634](../../source/SR_2_HD_Lang_vanilla.txt#L634) | `Artefacts.ArtMissileDef.Description` | Ожидает проверки | Фрагмент: «Ракетанг - система наномеханизмов, которые покрывают поверхность корпуса тонкой управляемой плазмоуритановой пленкой.» |
 | [635](../../source/SR_2_HD_Lang_vanilla.txt#L635) | `Artefacts.ArtMissileDef.Name` | Требует контекста | Фрагмент: «Ракетанг» |
 | [639](../../source/SR_2_HD_Lang_vanilla.txt#L639) | `Artefacts.ArtMissileDef.Text` | Требует контекста | Фрагмент: «Плазмоуритановый защитный механизм, оснащенный усиленными детекторами ракет.» |
 | [642](../../source/SR_2_HD_Lang_vanilla.txt#L642) | `Artefacts.ArtNano.Broken` | Требует контекста | Фрагмент: «(программный сбой)» |
@@ -136,15 +136,15 @@
 | [651](../../source/SR_2_HD_Lang_vanilla.txt#L651) | `Artefacts.ArtPDTurret.Broken` | Требует контекста | Фрагмент: «(не работает)» |
 | [652](../../source/SR_2_HD_Lang_vanilla.txt#L652) | `Artefacts.ArtPDTurret.BrokenInBattle` | Требует контекста | Фрагмент: «Артефакт ПРО поломан в бою.» |
 | [653](../../source/SR_2_HD_Lang_vanilla.txt#L653) | `Artefacts.ArtPDTurret.BrokenInUse` | Требует контекста | Фрагмент: «Артефакт ПРО поломан.» |
-| [654](../../source/SR_2_HD_Lang_vanilla.txt#L654) | `Artefacts.ArtPDTurret.Description` | Разобрано в своде | Фрагмент: «Поражает ракеты и торпеды, находящиеся в зоне досягаемости, направленными импульсами, вызывающими сбой в их системах наведения и приводящими к самоподорыву боевой части.» · [Свод](../../GALAXY_LORE.md#L1775) |
-| [655](../../source/SR_2_HD_Lang_vanilla.txt#L655) | `Artefacts.ArtPDTurret.Name` | Разобрано в своде | Фрагмент: «а'Эгис» · [Свод](../../GALAXY_LORE.md#L1775) |
+| [654](../../source/SR_2_HD_Lang_vanilla.txt#L654) | `Artefacts.ArtPDTurret.Description` | Ожидает проверки | Фрагмент: «Поражает ракеты и торпеды, находящиеся в зоне досягаемости, направленными импульсами, вызывающими сбой в их системах наведения и приводящими к самоподорыву боевой части.» |
+| [655](../../source/SR_2_HD_Lang_vanilla.txt#L655) | `Artefacts.ArtPDTurret.Name` | Ожидает проверки | Фрагмент: «а'Эгис» |
 | [656](../../source/SR_2_HD_Lang_vanilla.txt#L656) | `Artefacts.ArtPDTurret.Text` | Требует контекста | Фрагмент: «Стреляет по выпущенным противниками ракетам и торпедам.» |
 | [659](../../source/SR_2_HD_Lang_vanilla.txt#L659) | `Artefacts.ArtPower.Broken` | Требует контекста | Фрагмент: «(перегрелись)» |
 | [660](../../source/SR_2_HD_Lang_vanilla.txt#L660) | `Artefacts.ArtPower.BrokenInBattle` | Требует контекста | Фрагмент: «Внимание!» |
 | [661](../../source/SR_2_HD_Lang_vanilla.txt#L661) | `Artefacts.ArtPower.BrokenInUse` | Кандидат | Фрагмент: «Колония отморозков долгое время пыталась заморозить двигатель, но их усилия были напрасны: двигатель продолжает греться!!!» |
 | [662](../../source/SR_2_HD_Lang_vanilla.txt#L662) | `Artefacts.ArtPower.Description` | Кандидат | Фрагмент: «При помещении колонии на двигателе, стараются охладить его, тем самым стабилизируя скорость корабля в жарком бою.» |
 | [663](../../source/SR_2_HD_Lang_vanilla.txt#L663) | `Artefacts.ArtPower.Name` | Требует контекста | Фрагмент: «Отморозки» |
-| [664](../../source/SR_2_HD_Lang_vanilla.txt#L664) | `Artefacts.ArtPower.Text` | Разобрано в своде | Фрагмент: «Охлаждают двигатель, защищая его от перегрева, и быстро восстанавливают потерянную скорость во время боя.» · [Свод](../../GALAXY_LORE.md#L1802) |
+| [664](../../source/SR_2_HD_Lang_vanilla.txt#L664) | `Artefacts.ArtPower.Text` | Ожидает проверки | Фрагмент: «Охлаждают двигатель, защищая его от перегрева, и быстро восстанавливают потерянную скорость во время боя.» |
 | [667](../../source/SR_2_HD_Lang_vanilla.txt#L667) | `Artefacts.ArtRadar.Broken` | Требует контекста | Фрагмент: «(сломан)» |
 | [668](../../source/SR_2_HD_Lang_vanilla.txt#L668) | `Artefacts.ArtRadar.BrokenInBattle` | Требует контекста | Фрагмент: «Внимание!» |
 | [669](../../source/SR_2_HD_Lang_vanilla.txt#L669) | `Artefacts.ArtRadar.BrokenInUse` | Кандидат | Фрагмент: «Вместо усиления сигнала он стал выдавать помехи, поэтому радар переключился на стандартный режим работы.» |
@@ -159,8 +159,8 @@
 | [680](../../source/SR_2_HD_Lang_vanilla.txt#L680) | `Artefacts.ArtScaner.Text` | Требует контекста | Фрагмент: «Программный усилитель вычислительной мощности сканера на 10 процентов.» |
 | [683](../../source/SR_2_HD_Lang_vanilla.txt#L683) | `Artefacts.ArtSpeed.Broken` | Требует контекста | Фрагмент: «(сознание вне пространства)» |
 | [684](../../source/SR_2_HD_Lang_vanilla.txt#L684) | `Artefacts.ArtSpeed.BrokenInBattle` | Требует контекста | Фрагмент: «Пси-ускоритель не выдержал эмоционального всплеска боя и отсоединился от нашего пространства.» |
-| [685](../../source/SR_2_HD_Lang_vanilla.txt#L685) | `Artefacts.ArtSpeed.BrokenInUse` | Разобрано в своде | Фрагмент: «Пси-ускоритель долго работал на вас.» · [Свод](../../GALAXY_LORE.md#L1803) |
-| [686](../../source/SR_2_HD_Lang_vanilla.txt#L686) | `Artefacts.ArtSpeed.Description` | Разобрано в своде | Фрагмент: «При помощи собственного мощного сознания пси-ускоритель позволяет двигателю использовать физические законы пси-пространства.» · [Свод](../../GALAXY_LORE.md#L1774) |
+| [685](../../source/SR_2_HD_Lang_vanilla.txt#L685) | `Artefacts.ArtSpeed.BrokenInUse` | Ожидает проверки | Фрагмент: «Пси-ускоритель долго работал на вас.» |
+| [686](../../source/SR_2_HD_Lang_vanilla.txt#L686) | `Artefacts.ArtSpeed.Description` | Ожидает проверки | Фрагмент: «При помощи собственного мощного сознания пси-ускоритель позволяет двигателю использовать физические законы пси-пространства.» |
 | [687](../../source/SR_2_HD_Lang_vanilla.txt#L687) | `Artefacts.ArtSpeed.Name` | Требует контекста | Фрагмент: «Пси-ускоритель материи» |
 | [688](../../source/SR_2_HD_Lang_vanilla.txt#L688) | `Artefacts.ArtSpeed.Text` | Требует контекста | Фрагмент: «Вступает в психический симбиоз с двигателем, обеспечивая увеличение скорости корабля.» |
 | [691](../../source/SR_2_HD_Lang_vanilla.txt#L691) | `Artefacts.ArtSplinter.Broken` | Требует контекста | Фрагмент: «(сломан)» |
@@ -173,7 +173,7 @@
 | [700](../../source/SR_2_HD_Lang_vanilla.txt#L700) | `Artefacts.ArtTranclucator.Name` | Требует контекста | Фрагмент: «Транклюкатор» |
 | [704](../../source/SR_2_HD_Lang_vanilla.txt#L704) | `Artefacts.ArtTranclucator.Text` | Требует контекста | Фрагмент: «Боевой дроид, предназначенный для защиты своего хозяина в открытом космосе.» |
 | [707](../../source/SR_2_HD_Lang_vanilla.txt#L707) | `Artefacts.ArtTransmitter.Broken` | Требует контекста | Фрагмент: «(накапливает заряд)» |
-| [708](../../source/SR_2_HD_Lang_vanilla.txt#L708) | `Artefacts.ArtTransmitter.Description` | Разобрано в своде | Фрагмент: «Маяк является дистанционной системой изучения объектов.» · [Свод](../../GALAXY_LORE.md#L1364), [Свод](../../GALAXY_LORE.md#L1397), [Свод](../../GALAXY_LORE.md#L1772), [Свод](../../GALAXY_LORE.md#L1773) |
+| [708](../../source/SR_2_HD_Lang_vanilla.txt#L708) | `Artefacts.ArtTransmitter.Description` | Ожидает проверки | Фрагмент: «Маяк является дистанционной системой изучения объектов.» |
 | [709](../../source/SR_2_HD_Lang_vanilla.txt#L709) | `Artefacts.ArtTransmitter.Name` | Требует контекста | Фрагмент: «Трансфакторный маяк» |
 | [713](../../source/SR_2_HD_Lang_vanilla.txt#L713) | `Artefacts.ArtTransmitter.Text` | Требует контекста | Фрагмент: «При использовании в космосе, передает данные о наличии неизученного материала.» |
 | [716](../../source/SR_2_HD_Lang_vanilla.txt#L716) | `Artefacts.ArtWeaponToSpeed.Broken` | Требует контекста | Фрагмент: «(сломан)» |

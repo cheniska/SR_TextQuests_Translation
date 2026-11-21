@@ -2,7 +2,7 @@
 
 | Строка оригинала | Ключ | Разбор | Основание |
 |---|---|---|---|
-| [25769](../../source/SR_2_HD_Lang_vanilla.txt#L25769) | `ShipName.Kling.1` | Каталог | Имя из генератора имён кораблей или пилотов — «Админ». · [Отсылки](../../GALAXY_LORE_PARODY.md#L58) |
+| [25769](../../source/SR_2_HD_Lang_vanilla.txt#L25769) | `ShipName.Kling.1` | Каталог | Имя из генератора имён кораблей или пилотов — «Админ». |
 | [25770](../../source/SR_2_HD_Lang_vanilla.txt#L25770) | `ShipName.Kling.10` | Каталог | Имя из генератора имён кораблей или пилотов — «Баттон». |
 | [25771](../../source/SR_2_HD_Lang_vanilla.txt#L25771) | `ShipName.Kling.100` | Каталог | Имя из генератора имён кораблей или пилотов — «Террабайт». |
 | [25772](../../source/SR_2_HD_Lang_vanilla.txt#L25772) | `ShipName.Kling.101` | Каталог | Имя из генератора имён кораблей или пилотов — «Техно». |
@@ -10,17 +10,17 @@
 | [25774](../../source/SR_2_HD_Lang_vanilla.txt#L25774) | `ShipName.Kling.103` | Каталог | Имя из генератора имён кораблей или пилотов — «Трансформер». |
 | [25775](../../source/SR_2_HD_Lang_vanilla.txt#L25775) | `ShipName.Kling.104` | Каталог | Имя из генератора имён кораблей или пилотов — «Триггер». |
 | [25776](../../source/SR_2_HD_Lang_vanilla.txt#L25776) | `ShipName.Kling.105` | Каталог | Имя из генератора имён кораблей или пилотов — «Троянец». |
-| [25777](../../source/SR_2_HD_Lang_vanilla.txt#L25777) | `ShipName.Kling.106` | Каталог | Имя из генератора имён кораблей или пилотов — «Фидошник». · [Отсылки](../../GALAXY_LORE_PARODY.md#L58) |
+| [25777](../../source/SR_2_HD_Lang_vanilla.txt#L25777) | `ShipName.Kling.106` | Каталог | Имя из генератора имён кораблей или пилотов — «Фидошник». |
 | [25778](../../source/SR_2_HD_Lang_vanilla.txt#L25778) | `ShipName.Kling.107` | Каталог | Имя из генератора имён кораблей или пилотов — «Фиксатор». |
 | [25779](../../source/SR_2_HD_Lang_vanilla.txt#L25779) | `ShipName.Kling.108` | Каталог | Имя из генератора имён кораблей или пилотов — «Флешер». |
 | [25780](../../source/SR_2_HD_Lang_vanilla.txt#L25780) | `ShipName.Kling.109` | Каталог | Имя из генератора имён кораблей или пилотов — «Флопик». |
 | [25781](../../source/SR_2_HD_Lang_vanilla.txt#L25781) | `ShipName.Kling.11` | Каталог | Имя из генератора имён кораблей или пилотов — «Бит». |
-| [25782](../../source/SR_2_HD_Lang_vanilla.txt#L25782) | `ShipName.Kling.110` | Каталог | Имя из генератора имён кораблей или пилотов — «Флудер». · [Отсылки](../../GALAXY_LORE_PARODY.md#L58) |
+| [25782](../../source/SR_2_HD_Lang_vanilla.txt#L25782) | `ShipName.Kling.110` | Каталог | Имя из генератора имён кораблей или пилотов — «Флудер». |
 | [25783](../../source/SR_2_HD_Lang_vanilla.txt#L25783) | `ShipName.Kling.111` | Каталог | Имя из генератора имён кораблей или пилотов — «Форт». |
 | [25784](../../source/SR_2_HD_Lang_vanilla.txt#L25784) | `ShipName.Kling.112` | Каталог | Имя из генератора имён кораблей или пилотов — «Фраг». |
 | [25785](../../source/SR_2_HD_Lang_vanilla.txt#L25785) | `ShipName.Kling.113` | Каталог | Имя из генератора имён кораблей или пилотов — «Хостер». |
 | [25786](../../source/SR_2_HD_Lang_vanilla.txt#L25786) | `ShipName.Kling.114` | Каталог | Имя из генератора имён кораблей или пилотов — «Чипсет». |
-| [25787](../../source/SR_2_HD_Lang_vanilla.txt#L25787) | `ShipName.Kling.115` | Каталог | Имя из генератора имён кораблей или пилотов — «Читер». · [Отсылки](../../GALAXY_LORE_PARODY.md#L58) |
+| [25787](../../source/SR_2_HD_Lang_vanilla.txt#L25787) | `ShipName.Kling.115` | Каталог | Имя из генератора имён кораблей или пилотов — «Читер». |
 | [25788](../../source/SR_2_HD_Lang_vanilla.txt#L25788) | `ShipName.Kling.116` | Каталог | Имя из генератора имён кораблей или пилотов — «Шифт». |
 | [25789](../../source/SR_2_HD_Lang_vanilla.txt#L25789) | `ShipName.Kling.117` | Каталог | Имя из генератора имён кораблей или пилотов — «Штрихкод». |
 | [25790](../../source/SR_2_HD_Lang_vanilla.txt#L25790) | `ShipName.Kling.118` | Каталог | Имя из генератора имён кораблей или пилотов — «Эксплорер». |
@@ -136,14 +136,14 @@
 | [25903](../../source/SR_2_HD_Lang_vanilla.txt#L25903) | `ShipName.Pirate.Fei.17` | Каталог | Имя из генератора имён кораблей или пилотов — «Маликай». |
 | [25904](../../source/SR_2_HD_Lang_vanilla.txt#L25904) | `ShipName.Pirate.Fei.18` | Каталог | Имя из генератора имён кораблей или пилотов — «Матиали». |
 | [25905](../../source/SR_2_HD_Lang_vanilla.txt#L25905) | `ShipName.Pirate.Fei.19` | Каталог | Имя из генератора имён кораблей или пилотов — «Мелайка-Га». |
-| [25906](../../source/SR_2_HD_Lang_vanilla.txt#L25906) | `ShipName.Pirate.Fei.2` | Каталог | Имя из генератора имён кораблей или пилотов — «Аллиами-Га». · [Свод](../../GALAXY_LORE.md#L1106) |
+| [25906](../../source/SR_2_HD_Lang_vanilla.txt#L25906) | `ShipName.Pirate.Fei.2` | Каталог | Имя из генератора имён кораблей или пилотов — «Аллиами-Га». |
 | [25907](../../source/SR_2_HD_Lang_vanilla.txt#L25907) | `ShipName.Pirate.Fei.20` | Каталог | Имя из генератора имён кораблей или пилотов — «Меянни». |
 | [25908](../../source/SR_2_HD_Lang_vanilla.txt#L25908) | `ShipName.Pirate.Fei.21` | Каталог | Имя из генератора имён кораблей или пилотов — «Миакли». |
 | [25909](../../source/SR_2_HD_Lang_vanilla.txt#L25909) | `ShipName.Pirate.Fei.22` | Каталог | Имя из генератора имён кораблей или пилотов — «Миксия». |
 | [25910](../../source/SR_2_HD_Lang_vanilla.txt#L25910) | `ShipName.Pirate.Fei.23` | Каталог | Имя из генератора имён кораблей или пилотов — «Молиани». |
 | [25911](../../source/SR_2_HD_Lang_vanilla.txt#L25911) | `ShipName.Pirate.Fei.24` | Каталог | Имя из генератора имён кораблей или пилотов — «Налиаки». |
 | [25912](../../source/SR_2_HD_Lang_vanilla.txt#L25912) | `ShipName.Pirate.Fei.25` | Каталог | Имя из генератора имён кораблей или пилотов — «Ноамми». |
-| [25913](../../source/SR_2_HD_Lang_vanilla.txt#L25913) | `ShipName.Pirate.Fei.26` | Каталог | Имя из генератора имён кораблей или пилотов — «Оликка-Га». · [Свод](../../GALAXY_LORE.md#L1106) |
+| [25913](../../source/SR_2_HD_Lang_vanilla.txt#L25913) | `ShipName.Pirate.Fei.26` | Каталог | Имя из генератора имён кораблей или пилотов — «Оликка-Га». |
 | [25914](../../source/SR_2_HD_Lang_vanilla.txt#L25914) | `ShipName.Pirate.Fei.27` | Каталог | Имя из генератора имён кораблей или пилотов — «Олоанки». |
 | [25915](../../source/SR_2_HD_Lang_vanilla.txt#L25915) | `ShipName.Pirate.Fei.28` | Каталог | Имя из генератора имён кораблей или пилотов — «Онлая». |
 | [25916](../../source/SR_2_HD_Lang_vanilla.txt#L25916) | `ShipName.Pirate.Fei.29` | Каталог | Имя из генератора имён кораблей или пилотов — «Рамиали-Га». |
@@ -243,7 +243,7 @@
 | [26012](../../source/SR_2_HD_Lang_vanilla.txt#L26012) | `ShipName.Pirate.Gaal.34` | Каталог | Имя из генератора имён кораблей или пилотов — «Лопааси». |
 | [26013](../../source/SR_2_HD_Lang_vanilla.txt#L26013) | `ShipName.Pirate.Gaal.35` | Каталог | Имя из генератора имён кораблей или пилотов — «Меенгоа». |
 | [26014](../../source/SR_2_HD_Lang_vanilla.txt#L26014) | `ShipName.Pirate.Gaal.36` | Каталог | Имя из генератора имён кораблей или пилотов — «Миитак». |
-| [26015](../../source/SR_2_HD_Lang_vanilla.txt#L26015) | `ShipName.Pirate.Gaal.37` | Каталог | Имя из генератора имён кораблей или пилотов — «Наалтра». · [Свод](../../GALAXY_LORE.md#L1306) |
+| [26015](../../source/SR_2_HD_Lang_vanilla.txt#L26015) | `ShipName.Pirate.Gaal.37` | Каталог | Имя из генератора имён кораблей или пилотов — «Наалтра». |
 | [26016](../../source/SR_2_HD_Lang_vanilla.txt#L26016) | `ShipName.Pirate.Gaal.38` | Каталог | Имя из генератора имён кораблей или пилотов — «Нисфиир». |
 | [26017](../../source/SR_2_HD_Lang_vanilla.txt#L26017) | `ShipName.Pirate.Gaal.39` | Каталог | Имя из генератора имён кораблей или пилотов — «Орааси». |
 | [26018](../../source/SR_2_HD_Lang_vanilla.txt#L26018) | `ShipName.Pirate.Gaal.4` | Каталог | Имя из генератора имён кораблей или пилотов — «Аци-ип». |
@@ -320,7 +320,7 @@
 | [26091](../../source/SR_2_HD_Lang_vanilla.txt#L26091) | `ShipName.Pirate.Maloc.23` | Каталог | Имя из генератора имён кораблей или пилотов — «Дартвейдр». |
 | [26092](../../source/SR_2_HD_Lang_vanilla.txt#L26092) | `ShipName.Pirate.Maloc.24` | Каталог | Имя из генератора имён кораблей или пилотов — «Дебераг». |
 | [26093](../../source/SR_2_HD_Lang_vanilla.txt#L26093) | `ShipName.Pirate.Maloc.25` | Каталог | Имя из генератора имён кораблей или пилотов — «Деданга». |
-| [26094](../../source/SR_2_HD_Lang_vanilla.txt#L26094) | `ShipName.Pirate.Maloc.26` | Каталог | Имя из генератора имён кораблей или пилотов — «Доббар». · [Свод](../../GALAXY_LORE.md#L370) |
+| [26094](../../source/SR_2_HD_Lang_vanilla.txt#L26094) | `ShipName.Pirate.Maloc.26` | Каталог | Имя из генератора имён кораблей или пилотов — «Доббар». |
 | [26095](../../source/SR_2_HD_Lang_vanilla.txt#L26095) | `ShipName.Pirate.Maloc.27` | Каталог | Имя из генератора имён кораблей или пилотов — «Забалгу». |
 | [26096](../../source/SR_2_HD_Lang_vanilla.txt#L26096) | `ShipName.Pirate.Maloc.28` | Каталог | Имя из генератора имён кораблей или пилотов — «Земпура». |
 | [26097](../../source/SR_2_HD_Lang_vanilla.txt#L26097) | `ShipName.Pirate.Maloc.29` | Каталог | Имя из генератора имён кораблей или пилотов — «Зигла». |
@@ -368,7 +368,7 @@
 | [26139](../../source/SR_2_HD_Lang_vanilla.txt#L26139) | `ShipName.Pirate.Maloc.67` | Каталог | Имя из генератора имён кораблей или пилотов — «Нердар». |
 | [26140](../../source/SR_2_HD_Lang_vanilla.txt#L26140) | `ShipName.Pirate.Maloc.68` | Каталог | Имя из генератора имён кораблей или пилотов — «Дрэмбулед». |
 | [26141](../../source/SR_2_HD_Lang_vanilla.txt#L26141) | `ShipName.Pirate.Maloc.69` | Каталог | Имя из генератора имён кораблей или пилотов — «Трокомбе». |
-| [26142](../../source/SR_2_HD_Lang_vanilla.txt#L26142) | `ShipName.Pirate.Maloc.7` | Каталог | Имя из генератора имён кораблей или пилотов — «Беркергу». · [Свод](../../GALAXY_LORE.md#L370) |
+| [26142](../../source/SR_2_HD_Lang_vanilla.txt#L26142) | `ShipName.Pirate.Maloc.7` | Каталог | Имя из генератора имён кораблей или пилотов — «Беркергу». |
 | [26143](../../source/SR_2_HD_Lang_vanilla.txt#L26143) | `ShipName.Pirate.Maloc.70` | Каталог | Имя из генератора имён кораблей или пилотов — «Вамдам». |
 | [26144](../../source/SR_2_HD_Lang_vanilla.txt#L26144) | `ShipName.Pirate.Maloc.71` | Каталог | Имя из генератора имён кораблей или пилотов — «Пенденгер». |
 | [26145](../../source/SR_2_HD_Lang_vanilla.txt#L26145) | `ShipName.Pirate.Maloc.72` | Каталог | Имя из генератора имён кораблей или пилотов — «Мдарбабан». |
@@ -402,7 +402,7 @@
 | [26175](../../source/SR_2_HD_Lang_vanilla.txt#L26175) | `ShipName.Pirate.Peleng.17` | Каталог | Имя из генератора имён кораблей или пилотов — «Лойшан». |
 | [26176](../../source/SR_2_HD_Lang_vanilla.txt#L26176) | `ShipName.Pirate.Peleng.18` | Каталог | Имя из генератора имён кораблей или пилотов — «Ляйча». |
 | [26177](../../source/SR_2_HD_Lang_vanilla.txt#L26177) | `ShipName.Pirate.Peleng.19` | Каталог | Имя из генератора имён кораблей или пилотов — «Накешла». |
-| [26178](../../source/SR_2_HD_Lang_vanilla.txt#L26178) | `ShipName.Pirate.Peleng.2` | Каталог | Имя из генератора имён кораблей или пилотов — «АцкаХан». · [Свод](../../GALAXY_LORE.md#L693) |
+| [26178](../../source/SR_2_HD_Lang_vanilla.txt#L26178) | `ShipName.Pirate.Peleng.2` | Каталог | Имя из генератора имён кораблей или пилотов — «АцкаХан». |
 | [26179](../../source/SR_2_HD_Lang_vanilla.txt#L26179) | `ShipName.Pirate.Peleng.20` | Каталог | Имя из генератора имён кораблей или пилотов — «Нишлакака». |
 | [26180](../../source/SR_2_HD_Lang_vanilla.txt#L26180) | `ShipName.Pirate.Peleng.21` | Каталог | Имя из генератора имён кораблей или пилотов — «Пасаша». |
 | [26181](../../source/SR_2_HD_Lang_vanilla.txt#L26181) | `ShipName.Pirate.Peleng.22` | Каталог | Имя из генератора имён кораблей или пилотов — «Пешкиска». |
@@ -505,7 +505,7 @@
 | [26280](../../source/SR_2_HD_Lang_vanilla.txt#L26280) | `ShipName.Pirate.People.17` | Каталог | Имя из генератора имён кораблей или пилотов — «Зорро». |
 | [26281](../../source/SR_2_HD_Lang_vanilla.txt#L26281) | `ShipName.Pirate.People.18` | Каталог | Имя из генератора имён кораблей или пилотов — «Каракатица». |
 | [26282](../../source/SR_2_HD_Lang_vanilla.txt#L26282) | `ShipName.Pirate.People.19` | Каталог | Имя из генератора имён кораблей или пилотов — «Каратель». |
-| [26283](../../source/SR_2_HD_Lang_vanilla.txt#L26283) | `ShipName.Pirate.People.2` | Каталог | Имя из генератора имён кораблей или пилотов — «Анархист». · [Свод](../../GALAXY_LORE.md#L927) |
+| [26283](../../source/SR_2_HD_Lang_vanilla.txt#L26283) | `ShipName.Pirate.People.2` | Каталог | Имя из генератора имён кораблей или пилотов — «Анархист». |
 | [26284](../../source/SR_2_HD_Lang_vanilla.txt#L26284) | `ShipName.Pirate.People.20` | Каталог | Имя из генератора имён кораблей или пилотов — «Кашалот». |
 | [26285](../../source/SR_2_HD_Lang_vanilla.txt#L26285) | `ShipName.Pirate.People.21` | Каталог | Имя из генератора имён кораблей или пилотов — «Кибермен». |
 | [26286](../../source/SR_2_HD_Lang_vanilla.txt#L26286) | `ShipName.Pirate.People.22` | Каталог | Имя из генератора имён кораблей или пилотов — «Китозавр». |
@@ -514,7 +514,7 @@
 | [26289](../../source/SR_2_HD_Lang_vanilla.txt#L26289) | `ShipName.Pirate.People.25` | Каталог | Имя из генератора имён кораблей или пилотов — «Крематорий». |
 | [26290](../../source/SR_2_HD_Lang_vanilla.txt#L26290) | `ShipName.Pirate.People.26` | Каталог | Имя из генератора имён кораблей или пилотов — «Кровавый». |
 | [26291](../../source/SR_2_HD_Lang_vanilla.txt#L26291) | `ShipName.Pirate.People.27` | Каталог | Имя из генератора имён кораблей или пилотов — «Крылатый». |
-| [26292](../../source/SR_2_HD_Lang_vanilla.txt#L26292) | `ShipName.Pirate.People.28` | Каталог | Имя из генератора имён кораблей или пилотов — «Люцифер». · [Свод](../../GALAXY_LORE.md#L927) |
+| [26292](../../source/SR_2_HD_Lang_vanilla.txt#L26292) | `ShipName.Pirate.People.28` | Каталог | Имя из генератора имён кораблей или пилотов — «Люцифер». |
 | [26293](../../source/SR_2_HD_Lang_vanilla.txt#L26293) | `ShipName.Pirate.People.29` | Каталог | Имя из генератора имён кораблей или пилотов — «Метеор». |
 | [26294](../../source/SR_2_HD_Lang_vanilla.txt#L26294) | `ShipName.Pirate.People.3` | Каталог | Имя из генератора имён кораблей или пилотов — «Армагеддон». |
 | [26295](../../source/SR_2_HD_Lang_vanilla.txt#L26295) | `ShipName.Pirate.People.30` | Каталог | Имя из генератора имён кораблей или пилотов — «Пардон». |
