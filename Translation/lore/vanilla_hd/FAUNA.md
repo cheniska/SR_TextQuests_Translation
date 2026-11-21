@@ -1,0 +1,115 @@
+# Фауна
+
+## Факты из ванильного ланга
+
+- На острове «Аленький» сохранилась небольшая популяция местных черепах. [Ванильный ланг, строка 18195 · `RobotsMap.03.GovTextStart#3`](../source/SR_2_HD_Lang_vanilla.txt#L18195).
+- Свинорылый деградонт — гигантская рептилия, в скелете которой накапливается ниобий. Заказчик утверждает, что к моменту задания живые экземпляры оставались только на этой планете. [Ванильный ланг, строка 18775 · `RobotsMap.22.GovTextStart#2`](../source/SR_2_HD_Lang_vanilla.txt#L18775).
+- По брифингу, местных деградонтов уничтожили доминаторы. Клонирование из останков обсуждают как возможность. [Ванильный ланг, строка 18776 · `RobotsMap.22.GovTextStart#3`](../source/SR_2_HD_Lang_vanilla.txt#L18776).
+
+## Тематический указатель
+
+Строки сгруппированы по словам в тексте. В ссылках сохранён статус разбора. Кандидаты требуют сверки с полным контекстом.
+
+- `Artefacts.ArtDecelerate.Description` · Разобрано в своде. [Строка 520](../source/SR_2_HD_Lang_vanilla.txt#L520) · [Разбор](blocks/Artefacts.md#L42).
+- `FormGameEnd.LossConvertToTerron1` · Разобрано в своде. [Строка 1861](../source/SR_2_HD_Lang_vanilla.txt#L1861) · [Разбор](blocks/FormGameEnd.md#L8).
+- `FormGov.PlanetBattle.PlayerAfterCancelPrison2` · Кандидат. [Строка 2295](../source/SR_2_HD_Lang_vanilla.txt#L2295) · [Разбор](blocks/FormGov.md#L109).
+- `FormRuins.PB.ChangeSide.AnswerChangeSideToNormal#1` · Разобрано в своде. [Строка 3371](../source/SR_2_HD_Lang_vanilla.txt#L3371) · [Разбор](blocks/FormRuins-01.md#L503).
+- `GovGreetings.116.Text#2` · Разобрано в своде. [Строка 4777](../source/SR_2_HD_Lang_vanilla.txt#L4777) · [Разбор](blocks/GovGreetings.md#L40).
+- `GovGreetings.31.Text#1` · Кандидат. [Строка 5028](../source/SR_2_HD_Lang_vanilla.txt#L5028) · [Разбор](blocks/GovGreetings.md#L69).
+- `HullType.75.Name` · Разобрано в своде. [Строка 7219](../source/SR_2_HD_Lang_vanilla.txt#L7219) · [Разбор](blocks/HullType.md#L147).
+- `PlanetCongratulations.LiberationStarPirateClanFromNormals.1.Text#1` · Кандидат. [Строка 12940](../source/SR_2_HD_Lang_vanilla.txt#L12940) · [Разбор](blocks/PlanetCongratulations.md#L30).
+- `PlanetQuest.List.21.Genre` · Разобрано в своде. [Строка 13853](../source/SR_2_HD_Lang_vanilla.txt#L13853) · [Разбор](blocks/PlanetQuest.md#L33).
+- `PlanetQuest.StartText.33` · Разобрано в своде. [Строка 14555](../source/SR_2_HD_Lang_vanilla.txt#L14555) · [Разбор](blocks/PlanetQuest.md#L192).
+- `PlanetQuest.StartText.54` · Разобрано в своде. [Строка 14578](../source/SR_2_HD_Lang_vanilla.txt#L14578) · [Разбор](blocks/PlanetQuest.md#L215).
+- `Quest.DefShip.28.Special` · Кандидат. [Строка 14909](../source/SR_2_HD_Lang_vanilla.txt#L14909) · [Разбор](blocks/Quest-01.md#L88).
+- `Quest.DefShip.32.Special` · Разобрано в своде. [Строка 14968](../source/SR_2_HD_Lang_vanilla.txt#L14968) · [Разбор](blocks/Quest-01.md#L113).
+- `Quest.DefShip.32.Start#1` · Разобрано в своде. [Строка 14969](../source/SR_2_HD_Lang_vanilla.txt#L14969) · [Разбор](blocks/Quest-01.md#L114).
+- `Quest.DefShip.33.Start#2` · Разобрано в своде. [Строка 14984](../source/SR_2_HD_Lang_vanilla.txt#L14984) · [Разбор](blocks/Quest-01.md#L122).
+- `Quest.DefShip.53.End#1` · Разобрано в своде. [Строка 15274](../source/SR_2_HD_Lang_vanilla.txt#L15274) · [Разбор](blocks/Quest-01.md#L265).
+- `Quest.DefShip.55.Start#1` · Разобрано в своде. [Строка 15303](../source/SR_2_HD_Lang_vanilla.txt#L15303) · [Разбор](blocks/Quest-01.md#L276).
+- `Quest.DefSystem.22.End#1` · Кандидат. [Строка 15513](../source/SR_2_HD_Lang_vanilla.txt#L15513) · [Разбор](blocks/Quest-01.md#L357).
+- `Quest.DefSystem.22.Start#1` · Разобрано в своде. [Строка 15517](../source/SR_2_HD_Lang_vanilla.txt#L15517) · [Разбор](blocks/Quest-01.md#L359).
+- `Quest.DefSystem.22.Start#2` · Разобрано в своде. [Строка 15518](../source/SR_2_HD_Lang_vanilla.txt#L15518) · [Разбор](blocks/Quest-01.md#L360).
+- `Quest.DefSystem.49.End#2` · Разобрано в своде. [Строка 15784](../source/SR_2_HD_Lang_vanilla.txt#L15784) · [Разбор](blocks/Quest-01.md#L483).
+- `Quest.DefSystem.50.Start` · Разобрано в своде. [Строка 15805](../source/SR_2_HD_Lang_vanilla.txt#L15805) · [Разбор](blocks/Quest-01.md#L492).
+- `Quest.KillShip.26.Start#1` · Разобрано в своде. [Строка 16129](../source/SR_2_HD_Lang_vanilla.txt#L16129) · [Разбор](blocks/Quest-01.md#L624).
+- `Quest.KillShip.28.Start#1` · Разобрано в своде. [Строка 16149](../source/SR_2_HD_Lang_vanilla.txt#L16149) · [Разбор](blocks/Quest-01.md#L630).
+- `Quest.KillShip.51.End#2` · Разобрано в своде. [Строка 16447](../source/SR_2_HD_Lang_vanilla.txt#L16447) · [Разбор](blocks/Quest-02.md#L52).
+- `Quest.KillShip.51.Start#2` · Разобрано в своде. [Строка 16453](../source/SR_2_HD_Lang_vanilla.txt#L16453) · [Разбор](blocks/Quest-02.md#L54).
+- `Quest.SendLetter.3.End` · Разобрано в своде. [Строка 16907](../source/SR_2_HD_Lang_vanilla.txt#L16907) · [Разбор](blocks/Quest-02.md#L218).
+- `Quest.SendLetter.4.End#1` · Разобрано в своде. [Строка 17033](../source/SR_2_HD_Lang_vanilla.txt#L17033) · [Разбор](blocks/Quest-02.md#L267).
+- `Quest.SendLetter.4.End#2` · Разобрано в своде. [Строка 17034](../source/SR_2_HD_Lang_vanilla.txt#L17034) · [Разбор](blocks/Quest-02.md#L268).
+- `Quest.SendLetter.4.Start#1` · Разобрано в своде. [Строка 17037](../source/SR_2_HD_Lang_vanilla.txt#L17037) · [Разбор](blocks/Quest-02.md#L269).
+- `Quest.SendLetter.46.Start#1` · Разобрано в своде. [Строка 17111](../source/SR_2_HD_Lang_vanilla.txt#L17111) · [Разбор](blocks/Quest-02.md#L296).
+- `Quest.SendLetter.46.Start#2` · Разобрано в своде. [Строка 17112](../source/SR_2_HD_Lang_vanilla.txt#L17112) · [Разбор](blocks/Quest-02.md#L297).
+- `Quest.SendLetter.51.Start#2` · Разобрано в своде. [Строка 17181](../source/SR_2_HD_Lang_vanilla.txt#L17181) · [Разбор](blocks/Quest-02.md#L325).
+- `Quest.SendLetter.55.Start#2` · Разобрано в своде. [Строка 17231](../source/SR_2_HD_Lang_vanilla.txt#L17231) · [Разбор](blocks/Quest-02.md#L349).
+- `Quest.SendLetter.57.End` · Разобрано в своде. [Строка 17252](../source/SR_2_HD_Lang_vanilla.txt#L17252) · [Разбор](blocks/Quest-02.md#L359).
+- `Quest.SendLetter.57.Start` · Разобрано в своде. [Строка 17255](../source/SR_2_HD_Lang_vanilla.txt#L17255) · [Разбор](blocks/Quest-02.md#L360).
+- `Quest.SendLetter.58.End#2` · Разобрано в своде. [Строка 17262](../source/SR_2_HD_Lang_vanilla.txt#L17262) · [Разбор](blocks/Quest-02.md#L362).
+- `Quest.SendLetter.59.End#3` · Разобрано в своде. [Строка 17274](../source/SR_2_HD_Lang_vanilla.txt#L17274) · [Разбор](blocks/Quest-02.md#L368).
+- `Quest.SendLetter.61.End#1` · Разобрано в своде. [Строка 17304](../source/SR_2_HD_Lang_vanilla.txt#L17304) · [Разбор](blocks/Quest-02.md#L377).
+- `Quest.SendLetter.71.End` · Разобрано в своде. [Строка 17447](../source/SR_2_HD_Lang_vanilla.txt#L17447) · [Разбор](blocks/Quest-02.md#L443).
+- `Quest.SendLetter.72.Start#3` · Разобрано в своде. [Строка 17465](../source/SR_2_HD_Lang_vanilla.txt#L17465) · [Разбор](blocks/Quest-02.md#L452).
+- `Quest.SendLetter.74.End#1` · Разобрано в своде. [Строка 17489](../source/SR_2_HD_Lang_vanilla.txt#L17489) · [Разбор](blocks/Quest-02.md#L463).
+- `Quest.SendLetter.74.Start#1` · Разобрано в своде. [Строка 17494](../source/SR_2_HD_Lang_vanilla.txt#L17494) · [Разбор](blocks/Quest-02.md#L466).
+- `Quest.SendLetter.74.Start#2` · Разобрано в своде. [Строка 17495](../source/SR_2_HD_Lang_vanilla.txt#L17495) · [Разбор](blocks/Quest-02.md#L467).
+- `Quest.SendLetter.74.Start#3` · Разобрано в своде. [Строка 17496](../source/SR_2_HD_Lang_vanilla.txt#L17496) · [Разбор](blocks/Quest-02.md#L468).
+- `Quest.SendLetter.74.Start#4` · Кандидат. [Строка 17497](../source/SR_2_HD_Lang_vanilla.txt#L17497) · [Разбор](blocks/Quest-02.md#L469).
+- `Quest.SendLetter.77.Start#2` · Разобрано в своде. [Строка 17527](../source/SR_2_HD_Lang_vanilla.txt#L17527) · [Разбор](blocks/Quest-02.md#L478).
+- `Quest.SendLetter.79.End#3` · Разобрано в своде. [Строка 17551](../source/SR_2_HD_Lang_vanilla.txt#L17551) · [Разбор](blocks/Quest-02.md#L490).
+- `Quest.SendLetter.79.Start#3` · Кандидат. [Строка 17556](../source/SR_2_HD_Lang_vanilla.txt#L17556) · [Разбор](blocks/Quest-02.md#L493).
+- `Quest.SendLetter.8.Start` · Разобрано в своде. [Строка 17566](../source/SR_2_HD_Lang_vanilla.txt#L17566) · [Разбор](blocks/Quest-02.md#L496).
+- `Quest.SendLetter.83.Start#1` · Разобрано в своде. [Строка 17608](../source/SR_2_HD_Lang_vanilla.txt#L17608) · [Разбор](blocks/Quest-02.md#L510).
+- `RobotsMap.03.GovTextStart#1` · Разобрано в своде. [Строка 18193](../source/SR_2_HD_Lang_vanilla.txt#L18193) · [Разбор](blocks/RobotsMap-01.md#L40).
+- `RobotsMap.22.GovTextLoss#2` · Кандидат. [Строка 18772](../source/SR_2_HD_Lang_vanilla.txt#L18772) · [Разбор](blocks/RobotsMap-01.md#L318).
+- `RobotsMap.22.Name` · Кандидат. [Строка 18784](../source/SR_2_HD_Lang_vanilla.txt#L18784) · [Разбор](blocks/RobotsMap-01.md#L325).
+- `RobotsMap.22.RobotsStart` · Кандидат. [Строка 18790](../source/SR_2_HD_Lang_vanilla.txt#L18790) · [Разбор](blocks/RobotsMap-01.md#L327).
+- `RobotsMap.22.RobotsWin` · Разобрано в своде. [Строка 18791](../source/SR_2_HD_Lang_vanilla.txt#L18791) · [Разбор](blocks/RobotsMap-01.md#L328).
+- `RobotsMap.32.GovTextLoss#1` · Кандидат. [Строка 19040](../source/SR_2_HD_Lang_vanilla.txt#L19040) · [Разбор](blocks/RobotsMap-01.md#L433).
+- `RobotsMap.32.GovTextWin#1` · Кандидат. [Строка 19045](../source/SR_2_HD_Lang_vanilla.txt#L19045) · [Разбор](blocks/RobotsMap-01.md#L438).
+- `RobotsMap.32.GovTextWin#3` · Кандидат. [Строка 19047](../source/SR_2_HD_Lang_vanilla.txt#L19047) · [Разбор](blocks/RobotsMap-01.md#L440).
+- `RobotsMap.32.RobotsStart#1` · Разобрано в своде. [Строка 19059](../source/SR_2_HD_Lang_vanilla.txt#L19059) · [Разбор](blocks/RobotsMap-01.md#L443).
+- `RobotsMap.32.RobotsStart#2` · Кандидат. [Строка 19060](../source/SR_2_HD_Lang_vanilla.txt#L19060) · [Разбор](blocks/RobotsMap-01.md#L444).
+- `RobotsMap.33.GovTextLoss#1` · Разобрано в своде. [Строка 19069](../source/SR_2_HD_Lang_vanilla.txt#L19069) · [Разбор](blocks/RobotsMap-01.md#L447).
+- `RobotsMap.39.GovTextWin#2` · Разобрано в своде. [Строка 19241](../source/SR_2_HD_Lang_vanilla.txt#L19241) · [Разбор](blocks/RobotsMap-01.md#L527).
+- `RobotsMap.43.RobotsLoss` · Разобрано в своде. [Строка 19352](../source/SR_2_HD_Lang_vanilla.txt#L19352) · [Разбор](blocks/RobotsMap-01.md#L569).
+- `RobotsMap.43.RobotsStart` · Разобрано в своде. [Строка 19353](../source/SR_2_HD_Lang_vanilla.txt#L19353) · [Разбор](blocks/RobotsMap-01.md#L570).
+- `RobotsMap.45.GovTextStart#3` · Кандидат. [Строка 19389](../source/SR_2_HD_Lang_vanilla.txt#L19389) · [Разбор](blocks/RobotsMap-01.md#L585).
+- `RobotsMap.64.GovTextStart` · Разобрано в своде. [Строка 19844](../source/SR_2_HD_Lang_vanilla.txt#L19844) · [Разбор](blocks/RobotsMap-02.md#L48).
+- `Script.MS_PB.16` · Кандидат. [Строка 20680](../source/SR_2_HD_Lang_vanilla.txt#L20680) · [Разбор](blocks/Script-01.md#L222).
+- `Script.PC_part1.42` · Разобрано в своде. [Строка 21269](../source/SR_2_HD_Lang_vanilla.txt#L21269) · [Разбор](blocks/Script-02.md#L91).
+- `Script.PC_pla04.87` · Разобрано в своде. [Строка 21896](../source/SR_2_HD_Lang_vanilla.txt#L21896) · [Разбор](blocks/Script-02.md#L698).
+- `Script.PC_pla04.98` · Разобрано в своде. [Строка 21901](../source/SR_2_HD_Lang_vanilla.txt#L21901) · [Разбор](blocks/Script-02.md#L703).
+- `Script.PC_pla11.109` · Кандидат. [Строка 22034](../source/SR_2_HD_Lang_vanilla.txt#L22034) · [Разбор](blocks/Script-03.md#L120).
+- `Script.PC_pla11.113` · Кандидат. [Строка 22037](../source/SR_2_HD_Lang_vanilla.txt#L22037) · [Разбор](blocks/Script-03.md#L123).
+- `Script.PC_pla11.114` · Кандидат. [Строка 22038](../source/SR_2_HD_Lang_vanilla.txt#L22038) · [Разбор](blocks/Script-03.md#L124).
+- `Script.PC_pla11.115` · Кандидат. [Строка 22039](../source/SR_2_HD_Lang_vanilla.txt#L22039) · [Разбор](blocks/Script-03.md#L125).
+- `Script.PC_pla11.126` · Кандидат. [Строка 22047](../source/SR_2_HD_Lang_vanilla.txt#L22047) · [Разбор](blocks/Script-03.md#L133).
+- `Script.PC_pla11.131` · Кандидат. [Строка 22052](../source/SR_2_HD_Lang_vanilla.txt#L22052) · [Разбор](blocks/Script-03.md#L138).
+- `Script.PC_pla11.134` · Кандидат. [Строка 22054](../source/SR_2_HD_Lang_vanilla.txt#L22054) · [Разбор](blocks/Script-03.md#L140).
+- `Script.PC_pla11.135` · Разобрано в своде. [Строка 22055](../source/SR_2_HD_Lang_vanilla.txt#L22055) · [Разбор](blocks/Script-03.md#L141).
+- `Script.PC_pla11.139` · Кандидат. [Строка 22057](../source/SR_2_HD_Lang_vanilla.txt#L22057) · [Разбор](blocks/Script-03.md#L143).
+- `Script.PC_pla14.79` · Кандидат. [Строка 22107](../source/SR_2_HD_Lang_vanilla.txt#L22107) · [Разбор](blocks/Script-03.md#L186).
+- `Script.PC_pla14.81` · Разобрано в своде. [Строка 22109](../source/SR_2_HD_Lang_vanilla.txt#L22109) · [Разбор](blocks/Script-03.md#L188).
+- `Script.PC_pla14.83` · Кандидат. [Строка 22110](../source/SR_2_HD_Lang_vanilla.txt#L22110) · [Разбор](blocks/Script-03.md#L189).
+- `Script.PC_pla15.191` · Разобрано в своде. [Строка 22197](../source/SR_2_HD_Lang_vanilla.txt#L22197) · [Разбор](blocks/Script-03.md#L273).
+- `ShipGreetings.404.Text#2` · Кандидат. [Строка 24505](../source/SR_2_HD_Lang_vanilla.txt#L24505) · [Разбор](blocks/ShipGreetings.md#L250).
+- `ShipGreetings.429.Text` · Разобрано в своде. [Строка 24837](../source/SR_2_HD_Lang_vanilla.txt#L24837) · [Разбор](blocks/ShipGreetings.md#L283).
+- `ShipGreetings.Group.PirateInvaderBefore2` · Кандидат. [Строка 25571](../source/SR_2_HD_Lang_vanilla.txt#L25571) · [Разбор](blocks/ShipGreetings.md#L398).
+- `Talk.Attack.PlayerFear4` · Кандидат. [Строка 27971](../source/SR_2_HD_Lang_vanilla.txt#L27971) · [Разбор](blocks/Talk-01.md#L131).
+- `Talk.Attack.RangerFear4` · Разобрано в своде. [Строка 28006](../source/SR_2_HD_Lang_vanilla.txt#L28006) · [Разбор](blocks/Talk-01.md#L166).
+- `Talk.Attack.TransportItsMyTranc` · Кандидат. [Строка 28047](../source/SR_2_HD_Lang_vanilla.txt#L28047) · [Разбор](blocks/Talk-01.md#L207).
+- `Talk.Female.Attack.PlayerFear4` · Кандидат. [Строка 28261](../source/SR_2_HD_Lang_vanilla.txt#L28261) · [Разбор](blocks/Talk-01.md#L408).
+- `Talk.PirateClan.Attack.PlayerFear4` · Кандидат. [Строка 29398](../source/SR_2_HD_Lang_vanilla.txt#L29398) · [Разбор](blocks/Talk-03.md#L98).
+- `Talk.PirateClan.Goods.PirateNo2` · Разобрано в своде. [Строка 29465](../source/SR_2_HD_Lang_vanilla.txt#L29465) · [Разбор](blocks/Talk-03.md#L159).
+- `Talk.PreserveItems.LinerNo3` · Кандидат. [Строка 29973](../source/SR_2_HD_Lang_vanilla.txt#L29973) · [Разбор](blocks/Talk-03.md#L641).
+- `UselessItems.Usl_4.Name` · Кандидат. [Строка 30798](../source/SR_2_HD_Lang_vanilla.txt#L30798) · [Разбор](blocks/UselessItems.md#L126).
+- `UselessItems.Usl_4.Text` · Кандидат. [Строка 30801](../source/SR_2_HD_Lang_vanilla.txt#L30801) · [Разбор](blocks/UselessItems.md#L127).
+- `UselessItems.Usl_46.Text` · Кандидат. [Строка 30850](../source/SR_2_HD_Lang_vanilla.txt#L30850) · [Разбор](blocks/UselessItems.md#L141).
+- `UselessItems.Usl_57.Text` · Кандидат. [Строка 30934](../source/SR_2_HD_Lang_vanilla.txt#L30934) · [Разбор](blocks/UselessItems.md#L165).
+- `UselessItems.Usl_AnimalCase.Name` · Кандидат. [Строка 31120](../source/SR_2_HD_Lang_vanilla.txt#L31120) · [Разбор](blocks/UselessItems.md#L218).
+- `UselessItems.Usl_AnimalCase.Text` · Кандидат. [Строка 31123](../source/SR_2_HD_Lang_vanilla.txt#L31123) · [Разбор](blocks/UselessItems.md#L219).
+- `UselessItems.Usl_InDrynCage.Text` · Кандидат. [Строка 31235](../source/SR_2_HD_Lang_vanilla.txt#L31235) · [Разбор](blocks/UselessItems.md#L251).
+- `UselessItems.Usl_RandomItem_01.Name` · Кандидат. [Строка 31393](../source/SR_2_HD_Lang_vanilla.txt#L31393) · [Разбор](blocks/UselessItems.md#L296).
+- `UselessItems.Usl_RandomItem_01.Text` · Кандидат. [Строка 31396](../source/SR_2_HD_Lang_vanilla.txt#L31396) · [Разбор](blocks/UselessItems.md#L297).

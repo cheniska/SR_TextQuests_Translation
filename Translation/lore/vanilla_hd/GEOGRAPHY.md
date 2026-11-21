@@ -1,0 +1,117 @@
+# География и астрономия
+
+## Факты из ванильного ланга
+
+- Остров «Аленький» образовался вследствие извержения вулкана за несколько столетий до задания. [Ванильный ланг, строка 18195 · `RobotsMap.03.GovTextStart#3`](../source/SR_2_HD_Lang_vanilla.txt#L18195).
+- В долине Треш, крупнейшей местной свалке, построены заводы вторичной переработки. [Ванильный ланг, строка 19388 · `RobotsMap.45.GovTextStart#2`](../source/SR_2_HD_Lang_vanilla.txt#L19388).
+- Описание «Келлериады» связывает формирование круглого гиперпузыря с созданием чёрной дыры Келлером. [Ванильный ланг, строка 124 · `ABMap.16.Desc`](../source/SR_2_HD_Lang_vanilla.txt#L124).
+- У арены «Погоня» длинные широкие коридоры и шипы, которые могут решить исход боя без выстрелов. [Ванильный ланг, строка 4 · `ABMap.01.Desc`](../source/SR_2_HD_Lang_vanilla.txt#L4).
+- «Арена Справедливости» описана как крупный пузырь с рассредоточенными объектами и малым числом укрытий для пилота. [Ванильный ланг, строка 12 · `ABMap.02.Desc`](../source/SR_2_HD_Lang_vanilla.txt#L12).
+- На поворотах узких проходов «Пандорики» есть гравитационные шипы, способные захватывать корабли. [Ванильный ланг, строка 20 · `ABMap.03.Desc`](../source/SR_2_HD_Lang_vanilla.txt#L20).
+- «Лос-Ласониум» имеет сферическую форму и множество узких ответвлений. Замечание о любви фэян к планированию передаёт стереотип описания. [Ванильный ланг, строка 28 · `ABMap.04.Desc`](../source/SR_2_HD_Lang_vanilla.txt#L28).
+- У «Центрифуги» радиальная схема и несколько шипов, которые, по описанию, могут помочь любой стороне боя. [Ванильный ланг, строка 36 · `ABMap.05.Desc`](../source/SR_2_HD_Lang_vanilla.txt#L36).
+- В «Лабиринте» плотность объектов мешает скоростному полёту. Арену рекомендуют новичкам для тренировки маневрирования. [Ванильный ланг, строка 44 · `ABMap.06.Desc`](../source/SR_2_HD_Lang_vanilla.txt#L44).
+- По описанию, перегрузка энергомассы схлопнула половину «Полусферы». Рассказ о продолжающемся бое за стенкой пузыря подан как неподтверждённая история. [Ванильный ланг, строка 84 · `ABMap.11.Desc`](../source/SR_2_HD_Lang_vanilla.txt#L84).
+- У «Квадразыря» большинство углов прямые. Там бывают исследователи пузырей и пираты, которые охотятся на них. [Ванильный ланг, строка 92 · `ABMap.12.Desc`](../source/SR_2_HD_Lang_vanilla.txt#L92).
+
+## Тематический указатель
+
+Строки сгруппированы по словам в тексте. В ссылках сохранён статус разбора. Кандидаты требуют сверки с полным контекстом.
+
+- `ABMap.08.Desc` · Разобрано по оригиналу. [Строка 60](../source/SR_2_HD_Lang_vanilla.txt#L60) · [Разбор](blocks/ABMap.md#L19).
+- `ABMap.10.Desc` · Разобрано по оригиналу. [Строка 76](../source/SR_2_HD_Lang_vanilla.txt#L76) · [Разбор](blocks/ABMap.md#L23).
+- `ABMap.13.Desc` · Разобрано по оригиналу. [Строка 100](../source/SR_2_HD_Lang_vanilla.txt#L100) · [Разбор](blocks/ABMap.md#L29).
+- `ABMap.14.Desc` · Разобрано по оригиналу. [Строка 108](../source/SR_2_HD_Lang_vanilla.txt#L108) · [Разбор](blocks/ABMap.md#L31).
+- `ABMap.15.Desc` · Разобрано по оригиналу. [Строка 116](../source/SR_2_HD_Lang_vanilla.txt#L116) · [Разбор](blocks/ABMap.md#L33).
+- `Achievements.ASTEROID.Description` · Кандидат. [Строка 301](../source/SR_2_HD_Lang_vanilla.txt#L301) · [Разбор](blocks/Achievements.md#L90).
+- `Achievements.MAPBUILDER.Name` · Разобрано в своде. [Строка 430](../source/SR_2_HD_Lang_vanilla.txt#L430) · [Разбор](blocks/Achievements.md#L155).
+- `Asteroid.Name` · Кандидат. [Строка 801](../source/SR_2_HD_Lang_vanilla.txt#L801) · [Разбор](blocks/Asteroid.md#L5).
+- `Asteroid.Text` · Кандидат. [Строка 802](../source/SR_2_HD_Lang_vanilla.txt#L802) · [Разбор](blocks/Asteroid.md#L6).
+- `FormCfgSettings.SpaceImage` · Кандидат. [Строка 1765](../source/SR_2_HD_Lang_vanilla.txt#L1765) · [Разбор](blocks/FormCfgSettings.md#L156).
+- `FormGameEnd.LossConvertToTerron` · Разобрано в своде. [Строка 1860](../source/SR_2_HD_Lang_vanilla.txt#L1860) · [Разбор](blocks/FormGameEnd.md#L7).
+- `FormGameEnd.LossConvertToTerron3` · Разобрано в своде. [Строка 1863](../source/SR_2_HD_Lang_vanilla.txt#L1863) · [Разбор](blocks/FormGameEnd.md#L10).
+- `FormGameEnd.LossKilledByAsteroidHit` · Разобрано в своде. [Строка 1866](../source/SR_2_HD_Lang_vanilla.txt#L1866) · [Разбор](blocks/FormGameEnd.md#L13).
+- `FormGameEnd.WinPirate15` · Разобрано в своде. [Строка 1878](../source/SR_2_HD_Lang_vanilla.txt#L1878) · [Разбор](blocks/FormGameEnd.md#L25).
+- `FormGameEnd.WinPirate17` · Разобрано в своде. [Строка 1880](../source/SR_2_HD_Lang_vanilla.txt#L1880) · [Разбор](blocks/FormGameEnd.md#L27).
+- `FormGameEnd.WinPirate18` · Разобрано в своде. [Строка 1881](../source/SR_2_HD_Lang_vanilla.txt#L1881) · [Разбор](blocks/FormGameEnd.md#L28).
+- `FormGameEnd.WinPirate7` · Разобрано в своде. [Строка 1884](../source/SR_2_HD_Lang_vanilla.txt#L1884) · [Разбор](blocks/FormGameEnd.md#L31).
+- `FormGameSet2.Extended.ParameterNames.AsteroidMod` · Кандидат. [Строка 2067](../source/SR_2_HD_Lang_vanilla.txt#L2067) · [Разбор](blocks/FormGameSet2.md#L169).
+- `FormGov.BuyMap.GovAsk` · Кандидат. [Строка 2207](../source/SR_2_HD_Lang_vanilla.txt#L2207) · [Разбор](blocks/FormGov.md#L34).
+- `FormGov.BuyMap.GovAsk1` · Кандидат. [Строка 2208](../source/SR_2_HD_Lang_vanilla.txt#L2208) · [Разбор](blocks/FormGov.md#L35).
+- `FormRuins.PB.SpecialShip.News` · Кандидат. [Строка 3487](../source/SR_2_HD_Lang_vanilla.txt#L3487) · [Разбор](blocks/FormRuins-01.md#L602).
+- `FormRuins.SB.SpecialShip.News` · Кандидат. [Строка 3810](../source/SR_2_HD_Lang_vanilla.txt#L3810) · [Разбор](blocks/FormRuins-02.md#L147).
+- `FormRuins.WB.FlyToEnemy.WBToChamber` · Разобрано в своде. [Строка 3850](../source/SR_2_HD_Lang_vanilla.txt#L3850) · [Разбор](blocks/FormRuins-02.md#L174).
+- `FormRuins.WB.SpecialShip.News` · Кандидат. [Строка 3934](../source/SR_2_HD_Lang_vanilla.txt#L3934) · [Разбор](blocks/FormRuins-02.md#L231).
+- `FormRuins.WB.WarWithKlingAndPirates.KlingAndPirates.WBAnswerWeControl100Percent` · Кандидат. [Строка 3963](../source/SR_2_HD_Lang_vanilla.txt#L3963) · [Разбор](blocks/FormRuins-02.md#L250).
+- `FormRuins.WB.WarWithKlingAndPirates.KlingAndPirates.WBAnswerWeControlMore00Percent` · Кандидат. [Строка 3964](../source/SR_2_HD_Lang_vanilla.txt#L3964) · [Разбор](blocks/FormRuins-02.md#L251).
+- `FormRuins.WB.WarWithKlingAndPirates.KlingOnly.WBAnswerWeControl100Percent` · Кандидат. [Строка 3972](../source/SR_2_HD_Lang_vanilla.txt#L3972) · [Разбор](blocks/FormRuins-02.md#L257).
+- `FormRuins.WB.WarWithKlingAndPirates.KlingOnly.WBAnswerWeControlMore00Percent` · Кандидат. [Строка 3973](../source/SR_2_HD_Lang_vanilla.txt#L3973) · [Разбор](blocks/FormRuins-02.md#L258).
+- `FormRuins.WB.WarWithKlingAndPirates.KlingOnly.WBAnswerWeControlMore50Percent` · Кандидат. [Строка 3976](../source/SR_2_HD_Lang_vanilla.txt#L3976) · [Разбор](blocks/FormRuins-02.md#L261).
+- `FormRuins.WB.WarWithKlingAndPirates.PiratesOnly.WBAnswerWeControl100Percent` · Кандидат. [Строка 3981](../source/SR_2_HD_Lang_vanilla.txt#L3981) · [Разбор](blocks/FormRuins-02.md#L264).
+- `FormRuins.WB.WarWithKlingAndPirates.PiratesOnly.WBAnswerWeControlMore00Percent` · Кандидат. [Строка 3982](../source/SR_2_HD_Lang_vanilla.txt#L3982) · [Разбор](blocks/FormRuins-02.md#L265).
+- `FormRuins.WB.WarWithKlingAndPirates.PiratesOnly.WBAnswerWeControlMore50Percent` · Кандидат. [Строка 3985](../source/SR_2_HD_Lang_vanilla.txt#L3985) · [Разбор](blocks/FormRuins-02.md#L268).
+- `FormRuinsSB.History.SBOk` · Разобрано в своде. [Строка 4055](../source/SR_2_HD_Lang_vanilla.txt#L4055) · [Разбор](blocks/FormRuinsSB.md#L8).
+- `FormRuinsSB.History.SBOk1#1` · Разобрано в своде. [Строка 4056](../source/SR_2_HD_Lang_vanilla.txt#L4056) · [Разбор](blocks/FormRuinsSB.md#L9).
+- `FormRuinsSB.History.SBOk1#2` · Разобрано в своде. [Строка 4057](../source/SR_2_HD_Lang_vanilla.txt#L4057) · [Разбор](blocks/FormRuinsSB.md#L10).
+- `FormRuinsSB.History.SBOk2#2` · Разобрано в своде. [Строка 4059](../source/SR_2_HD_Lang_vanilla.txt#L4059) · [Разбор](blocks/FormRuinsSB.md#L12).
+- `FormRuinsSB.History.SBOk3` · Разобрано в своде. [Строка 4060](../source/SR_2_HD_Lang_vanilla.txt#L4060) · [Разбор](blocks/FormRuinsSB.md#L13).
+- `FormRuinsSB.History.SBOk4#1` · Разобрано в своде. [Строка 4061](../source/SR_2_HD_Lang_vanilla.txt#L4061) · [Разбор](blocks/FormRuinsSB.md#L14).
+- `GalaxyNews.Star.Asteroid.Kill.1` · Кандидат. [Строка 4525](../source/SR_2_HD_Lang_vanilla.txt#L4525) · [Разбор](blocks/GalaxyNews.md#L168).
+- `GalaxyNews.Star.Asteroid.Kill.2` · Кандидат. [Строка 4526](../source/SR_2_HD_Lang_vanilla.txt#L4526) · [Разбор](blocks/GalaxyNews.md#L169).
+- `GalaxyNews.Star.Asteroid.Kill.3` · Кандидат. [Строка 4527](../source/SR_2_HD_Lang_vanilla.txt#L4527) · [Разбор](blocks/GalaxyNews.md#L170).
+- `GalaxyNews.Star.Asteroid.Kill.Fei` · Разобрано в своде. [Строка 4528](../source/SR_2_HD_Lang_vanilla.txt#L4528) · [Разбор](blocks/GalaxyNews.md#L171).
+- `GalaxyNews.Star.Asteroid.Kill.Maloc` · Разобрано в своде. [Строка 4530](../source/SR_2_HD_Lang_vanilla.txt#L4530) · [Разбор](blocks/GalaxyNews.md#L173).
+- `GalaxyNews.Star.Asteroid.Kill.Peleng` · Разобрано в своде. [Строка 4531](../source/SR_2_HD_Lang_vanilla.txt#L4531) · [Разбор](blocks/GalaxyNews.md#L174).
+- `GovGreetings.110.Text#1` · Кандидат. [Строка 4719](../source/SR_2_HD_Lang_vanilla.txt#L4719) · [Разбор](blocks/GovGreetings.md#L24).
+- `GovGreetings.113.Text#1` · Кандидат. [Строка 4748](../source/SR_2_HD_Lang_vanilla.txt#L4748) · [Разбор](blocks/GovGreetings.md#L32).
+- `GovGreetings.30.Text#2` · Кандидат. [Строка 5018](../source/SR_2_HD_Lang_vanilla.txt#L5018) · [Разбор](blocks/GovGreetings.md#L68).
+- `Illness.Illness.1.Text` · Разобрано в своде. [Строка 7573](../source/SR_2_HD_Lang_vanilla.txt#L7573) · [Разбор](blocks/Illness.md#L21).
+- `PlanetQuest.List.51.Name` · Кандидат. [Строка 14154](../source/SR_2_HD_Lang_vanilla.txt#L14154) · [Разбор](blocks/PlanetQuest.md#L100).
+- `PlanetQuest.StartText.51` · Разобрано в своде. [Строка 14575](../source/SR_2_HD_Lang_vanilla.txt#L14575) · [Разбор](blocks/PlanetQuest.md#L212).
+- `Quest.DefShip.0.End` · Разобрано в своде. [Строка 14677](../source/SR_2_HD_Lang_vanilla.txt#L14677) · [Разбор](blocks/Quest-01.md#L5).
+- `Quest.DefShip.21.Special` · Разобрано в своде. [Строка 14834](../source/SR_2_HD_Lang_vanilla.txt#L14834) · [Разбор](blocks/Quest-01.md#L62).
+- `Quest.DefShip.49.End#2` · Разобрано в своде. [Строка 15203](../source/SR_2_HD_Lang_vanilla.txt#L15203) · [Разбор](blocks/Quest-01.md#L229).
+- `Quest.DefShip.49.Special#2` · Кандидат. [Строка 15209](../source/SR_2_HD_Lang_vanilla.txt#L15209) · [Разбор](blocks/Quest-01.md#L231).
+- `Quest.DefShip.58.Start#1` · Разобрано в своде. [Строка 15339](../source/SR_2_HD_Lang_vanilla.txt#L15339) · [Разбор](blocks/Quest-01.md#L291).
+- `Quest.DefSystem.32.Start` · Разобрано в своде. [Строка 15614](../source/SR_2_HD_Lang_vanilla.txt#L15614) · [Разбор](blocks/Quest-01.md#L401).
+- `Quest.DefSystem.47.End#1` · Разобрано в своде. [Строка 15766](../source/SR_2_HD_Lang_vanilla.txt#L15766) · [Разбор](blocks/Quest-01.md#L475).
+- `Quest.SendLetter.25.Start#1` · Разобрано в своде. [Строка 16855](../source/SR_2_HD_Lang_vanilla.txt#L16855) · [Разбор](blocks/Quest-02.md#L198).
+- `Quest.SendLetter.46.End#2` · Кандидат. [Строка 17109](../source/SR_2_HD_Lang_vanilla.txt#L17109) · [Разбор](blocks/Quest-02.md#L295).
+- `Quest.SendLetter.69.End#2` · Разобрано в своде. [Строка 17407](../source/SR_2_HD_Lang_vanilla.txt#L17407) · [Разбор](blocks/Quest-02.md#L424).
+- `Quest.SendLetter.69.Start#2` · Разобрано в своде. [Строка 17412](../source/SR_2_HD_Lang_vanilla.txt#L17412) · [Разбор](blocks/Quest-02.md#L427).
+- `RobotsMap.26.RobotsStart` · Разобрано в своде. [Строка 18887](../source/SR_2_HD_Lang_vanilla.txt#L18887) · [Разбор](blocks/RobotsMap-01.md#L364).
+- `RobotsMap.27.GovTextLoss#1` · Разобрано в своде. [Строка 18895](../source/SR_2_HD_Lang_vanilla.txt#L18895) · [Разбор](blocks/RobotsMap-01.md#L366).
+- `RobotsMap.27.GovTextLoss#2` · Кандидат. [Строка 18896](../source/SR_2_HD_Lang_vanilla.txt#L18896) · [Разбор](blocks/RobotsMap-01.md#L367).
+- `RobotsMap.27.GovTextStart#1` · Разобрано в своде. [Строка 18897](../source/SR_2_HD_Lang_vanilla.txt#L18897) · [Разбор](blocks/RobotsMap-01.md#L368).
+- `RobotsMap.27.GovTextStart#2` · Кандидат. [Строка 18898](../source/SR_2_HD_Lang_vanilla.txt#L18898) · [Разбор](blocks/RobotsMap-01.md#L369).
+- `RobotsMap.27.GovTextWin#1` · Кандидат. [Строка 18899](../source/SR_2_HD_Lang_vanilla.txt#L18899) · [Разбор](blocks/RobotsMap-01.md#L370).
+- `RobotsMap.27.RobotsStart#1` · Кандидат. [Строка 18912](../source/SR_2_HD_Lang_vanilla.txt#L18912) · [Разбор](blocks/RobotsMap-01.md#L374).
+- `RobotsMap.37.RobotsLoss` · Кандидат. [Строка 19199](../source/SR_2_HD_Lang_vanilla.txt#L19199) · [Разбор](blocks/RobotsMap-01.md#L507).
+- `RobotsMap.51.GovTextStart#1` · Кандидат. [Строка 19534](../source/SR_2_HD_Lang_vanilla.txt#L19534) · [Разбор](blocks/RobotsMap-01.md#L637).
+- `RobotsMap.53.RobotsStart#1` · Кандидат. [Строка 19596](../source/SR_2_HD_Lang_vanilla.txt#L19596) · [Разбор](blocks/RobotsMap-01.md#L660).
+- `RobotsMap.58.GovTextLoss` · Кандидат. [Строка 19706](../source/SR_2_HD_Lang_vanilla.txt#L19706) · [Разбор](blocks/RobotsMap-01.md#L702).
+- `RobotsMap.64.RobotsStart` · Разобрано в своде. [Строка 19857](../source/SR_2_HD_Lang_vanilla.txt#L19857) · [Разбор](blocks/RobotsMap-02.md#L52).
+- `Script.MS_Begin.22` · Кандидат. [Строка 20464](../source/SR_2_HD_Lang_vanilla.txt#L20464) · [Разбор](blocks/Script-01.md#L15).
+- `Script.MS_Begin.23` · Кандидат. [Строка 20465](../source/SR_2_HD_Lang_vanilla.txt#L20465) · [Разбор](blocks/Script-01.md#L16).
+- `Script.MS_Begin.70` · Разобрано в своде. [Строка 20505](../source/SR_2_HD_Lang_vanilla.txt#L20505) · [Разбор](blocks/Script-01.md#L55).
+- `Script.MS_Begin.72` · Кандидат. [Строка 20506](../source/SR_2_HD_Lang_vanilla.txt#L20506) · [Разбор](blocks/Script-01.md#L56).
+- `Script.MS_Begin.74` · Кандидат. [Строка 20508](../source/SR_2_HD_Lang_vanilla.txt#L20508) · [Разбор](blocks/Script-01.md#L58).
+- `Script.MS_Begin.77` · Кандидат. [Строка 20510](../source/SR_2_HD_Lang_vanilla.txt#L20510) · [Разбор](blocks/Script-01.md#L60).
+- `Script.MS_Keller.36` · Кандидат. [Строка 20627](../source/SR_2_HD_Lang_vanilla.txt#L20627) · [Разбор](blocks/Script-01.md#L171).
+- `Script.MS_Keller.70` · Кандидат. [Строка 20649](../source/SR_2_HD_Lang_vanilla.txt#L20649) · [Разбор](blocks/Script-01.md#L193).
+- `Script.MS_Keller.85` · Кандидат. [Строка 20664](../source/SR_2_HD_Lang_vanilla.txt#L20664) · [Разбор](blocks/Script-01.md#L208).
+- `Script.PC_fem_rangers.335` · Разобрано в своде. [Строка 21013](../source/SR_2_HD_Lang_vanilla.txt#L21013) · [Разбор](blocks/Script-01.md#L542).
+- `Script.PC_fem_rangers.345` · Кандидат. [Строка 21018](../source/SR_2_HD_Lang_vanilla.txt#L21018) · [Разбор](blocks/Script-01.md#L547).
+- `Script.PC_pla15.259` · Кандидат. [Строка 22263](../source/SR_2_HD_Lang_vanilla.txt#L22263) · [Разбор](blocks/Script-03.md#L339).
+- `Script.PC_pla15.290` · Разобрано в своде. [Строка 22286](../source/SR_2_HD_Lang_vanilla.txt#L22286) · [Разбор](blocks/Script-03.md#L362).
+- `ShipGreetings.106.Text` · Кандидат. [Строка 22579](../source/SR_2_HD_Lang_vanilla.txt#L22579) · [Разбор](blocks/ShipGreetings.md#L17).
+- `ShipGreetings.147.Text#1` · Кандидат. [Строка 23173](../source/SR_2_HD_Lang_vanilla.txt#L23173) · [Разбор](blocks/ShipGreetings.md#L90).
+- `ShipGreetings.217.Text#3` · Кандидат. [Строка 23515](../source/SR_2_HD_Lang_vanilla.txt#L23515) · [Разбор](blocks/ShipGreetings.md#L135).
+- `ShipGreetings.427.Text` · Разобрано в своде. [Строка 24822](../source/SR_2_HD_Lang_vanilla.txt#L24822) · [Разбор](blocks/ShipGreetings.md#L281).
+- `ShipGreetings.432.Text` · Кандидат. [Строка 24877](../source/SR_2_HD_Lang_vanilla.txt#L24877) · [Разбор](blocks/ShipGreetings.md#L288).
+- `ShipGreetings.435.Text` · Кандидат. [Строка 24899](../source/SR_2_HD_Lang_vanilla.txt#L24899) · [Разбор](blocks/ShipGreetings.md#L291).
+- `ShipGreetings.446.Text` · Разобрано в своде. [Строка 25004](../source/SR_2_HD_Lang_vanilla.txt#L25004) · [Разбор](blocks/ShipGreetings.md#L309).
+- `Tips.08` · Кандидат. [Строка 30344](../source/SR_2_HD_Lang_vanilla.txt#L30344) · [Разбор](blocks/Tips.md#L13).
+- `Tips.09` · Кандидат. [Строка 30345](../source/SR_2_HD_Lang_vanilla.txt#L30345) · [Разбор](blocks/Tips.md#L14).
+- `UselessItems.ExampleAsteroid.Name` · Кандидат. [Строка 30374](../source/SR_2_HD_Lang_vanilla.txt#L30374) · [Разбор](blocks/UselessItems.md#L5).
+- `UselessItems.ExampleAsteroid.Text` · Кандидат. [Строка 30377](../source/SR_2_HD_Lang_vanilla.txt#L30377) · [Разбор](blocks/UselessItems.md#L6).

@@ -1,0 +1,77 @@
+# Star
+
+| Строка оригинала | Ключ | Разбор | Основание |
+|---|---|---|---|
+| [27769](../../source/SR_2_HD_Lang_vanilla.txt#L27769) | `Star.00` | Каталог | Запись звёздного каталога — «Тарон,Star.Normal». |
+| [27770](../../source/SR_2_HD_Lang_vanilla.txt#L27770) | `Star.01` | Каталог | Запись звёздного каталога — «Пхедок,Star.Normal». · [Свод](../../GALAXY_LORE.md#L660), [Свод](../../GALAXY_LORE.md#L665), [Свод](../../GALAXY_LORE.md#L1912), [Свод](../../GALAXY_LORE.md#L2056) |
+| [27771](../../source/SR_2_HD_Lang_vanilla.txt#L27771) | `Star.02` | Каталог | Запись звёздного каталога — «Солнце,Star.Small». · [Свод](../../GALAXY_LORE.md#L1612) |
+| [27772](../../source/SR_2_HD_Lang_vanilla.txt#L27772) | `Star.03` | Каталог | Запись звёздного каталога — «Атлан,Star.Normal». |
+| [27773](../../source/SR_2_HD_Lang_vanilla.txt#L27773) | `Star.04` | Каталог | Запись звёздного каталога — «Краа,Star.Small». |
+| [27774](../../source/SR_2_HD_Lang_vanilla.txt#L27774) | `Star.05` | Каталог | Запись звёздного каталога — «Ицар,Star.Small». |
+| [27775](../../source/SR_2_HD_Lang_vanilla.txt#L27775) | `Star.06` | Каталог | Запись звёздного каталога — «Муфрид,Star.Normal». |
+| [27776](../../source/SR_2_HD_Lang_vanilla.txt#L27776) | `Star.07` | Каталог | Запись звёздного каталога — «Фомальгаут,Star.Small». |
+| [27777](../../source/SR_2_HD_Lang_vanilla.txt#L27777) | `Star.08` | Каталог | Запись звёздного каталога — «Альфард,Star.Normal». |
+| [27778](../../source/SR_2_HD_Lang_vanilla.txt#L27778) | `Star.09` | Каталог | Запись звёздного каталога — «Хезе,Star.Normal». |
+| [27779](../../source/SR_2_HD_Lang_vanilla.txt#L27779) | `Star.10` | Каталог | Запись звёздного каталога — «Растабан,Star.Small». |
+| [27780](../../source/SR_2_HD_Lang_vanilla.txt#L27780) | `Star.11` | Каталог | Запись звёздного каталога — «Альдиба,Star.Normal». |
+| [27781](../../source/SR_2_HD_Lang_vanilla.txt#L27781) | `Star.12` | Каталог | Запись звёздного каталога — «Шедир,Star.Small». |
+| [27782](../../source/SR_2_HD_Lang_vanilla.txt#L27782) | `Star.13` | Каталог | Запись звёздного каталога — «Канопус,Star.Normal». |
+| [27783](../../source/SR_2_HD_Lang_vanilla.txt#L27783) | `Star.14` | Каталог | Запись звёздного каталога — «Авиор,Star.Small». |
+| [27784](../../source/SR_2_HD_Lang_vanilla.txt#L27784) | `Star.15` | Каталог | Запись звёздного каталога — «Менкар,Star.Normal». |
+| [27785](../../source/SR_2_HD_Lang_vanilla.txt#L27785) | `Star.16` | Каталог | Запись звёздного каталога — «Денеб,Star.Small». |
+| [27786](../../source/SR_2_HD_Lang_vanilla.txt#L27786) | `Star.17` | Каталог | Запись звёздного каталога — «Денебола,Star.Normal». |
+| [27787](../../source/SR_2_HD_Lang_vanilla.txt#L27787) | `Star.18` | Каталог | Запись звёздного каталога — «Процион,Star.Small». |
+| [27788](../../source/SR_2_HD_Lang_vanilla.txt#L27788) | `Star.19` | Каталог | Запись звёздного каталога — «Альтаир,Star.Normal». |
+| [27789](../../source/SR_2_HD_Lang_vanilla.txt#L27789) | `Star.20` | Каталог | Запись звёздного каталога — «Бетельгейзе,Star.Small». |
+| [27790](../../source/SR_2_HD_Lang_vanilla.txt#L27790) | `Star.21` | Каталог | Запись звёздного каталога — «Беллатрикс,Star.Normal». |
+| [27791](../../source/SR_2_HD_Lang_vanilla.txt#L27791) | `Star.22` | Каталог | Запись звёздного каталога — «Шеат,Star.Small». |
+| [27792](../../source/SR_2_HD_Lang_vanilla.txt#L27792) | `Star.23` | Каталог | Запись звёздного каталога — «Наккар,Star.Normal». |
+| [27793](../../source/SR_2_HD_Lang_vanilla.txt#L27793) | `Star.24` | Каталог | Запись звёздного каталога — «Орион,Star.Small». |
+| [27794](../../source/SR_2_HD_Lang_vanilla.txt#L27794) | `Star.25` | Каталог | Запись звёздного каталога — «Алфекка,Star.Small». |
+| [27795](../../source/SR_2_HD_Lang_vanilla.txt#L27795) | `Star.26` | Каталог | Запись звёздного каталога — «Алиот,Star.Normal». |
+| [27796](../../source/SR_2_HD_Lang_vanilla.txt#L27796) | `Star.27` | Каталог | Запись звёздного каталога — «Регулус,Star.Normal». |
+| [27797](../../source/SR_2_HD_Lang_vanilla.txt#L27797) | `Star.28` | Каталог | Запись звёздного каталога — «Хамаль,Star.Normal». |
+| [27798](../../source/SR_2_HD_Lang_vanilla.txt#L27798) | `Star.29` | Каталог | Запись звёздного каталога — «Акхарра,Star.Small». |
+| [27799](../../source/SR_2_HD_Lang_vanilla.txt#L27799) | `Star.30` | Каталог | Запись звёздного каталога — «Кастор,Star.Normal». |
+| [27800](../../source/SR_2_HD_Lang_vanilla.txt#L27800) | `Star.31` | Каталог | Запись звёздного каталога — «Маркаб,Star.Small». |
+| [27801](../../source/SR_2_HD_Lang_vanilla.txt#L27801) | `Star.32` | Каталог | Запись звёздного каталога — «Хемни,Star.Normal». |
+| [27802](../../source/SR_2_HD_Lang_vanilla.txt#L27802) | `Star.33` | Каталог | Запись звёздного каталога — «Антарес,Star.Small». |
+| [27803](../../source/SR_2_HD_Lang_vanilla.txt#L27803) | `Star.34` | Каталог | Запись звёздного каталога — «Атрия,Star.Normal». |
+| [27804](../../source/SR_2_HD_Lang_vanilla.txt#L27804) | `Star.35` | Каталог | Запись звёздного каталога — «Мегрез,Star.Small». |
+| [27805](../../source/SR_2_HD_Lang_vanilla.txt#L27805) | `Star.36` | Каталог | Запись звёздного каталога — «Поллюкс,Star.Normal». |
+| [27806](../../source/SR_2_HD_Lang_vanilla.txt#L27806) | `Star.37` | Каталог | Запись звёздного каталога — «Арц,Star.Small». |
+| [27807](../../source/SR_2_HD_Lang_vanilla.txt#L27807) | `Star.38` | Каталог | Запись звёздного каталога — «Кефрон,Star.Normal». |
+| [27808](../../source/SR_2_HD_Lang_vanilla.txt#L27808) | `Star.39` | Каталог | Запись звёздного каталога — «Вакхар,Star.Small». |
+| [27809](../../source/SR_2_HD_Lang_vanilla.txt#L27809) | `Star.40` | Каталог | Запись звёздного каталога — «Витта Прайонис,Star.Normal». |
+| [27810](../../source/SR_2_HD_Lang_vanilla.txt#L27810) | `Star.41` | Каталог | Запись звёздного каталога — «Гевер,Star.Small». |
+| [27811](../../source/SR_2_HD_Lang_vanilla.txt#L27811) | `Star.42` | Каталог | Запись звёздного каталога — «Шомма,Star.Normal». |
+| [27812](../../source/SR_2_HD_Lang_vanilla.txt#L27812) | `Star.43` | Каталог | Запись звёздного каталога — «Виннатрикс,Star.Small». |
+| [27813](../../source/SR_2_HD_Lang_vanilla.txt#L27813) | `Star.44` | Каталог | Запись звёздного каталога — «Велес,Star.Normal». |
+| [27814](../../source/SR_2_HD_Lang_vanilla.txt#L27814) | `Star.45` | Каталог | Запись звёздного каталога — «Таллот,Star.Small». |
+| [27815](../../source/SR_2_HD_Lang_vanilla.txt#L27815) | `Star.46` | Каталог | Запись звёздного каталога — «Арктур,Star.Normal». |
+| [27816](../../source/SR_2_HD_Lang_vanilla.txt#L27816) | `Star.47` | Каталог | Запись звёздного каталога — «Диатар,Star.Small». |
+| [27817](../../source/SR_2_HD_Lang_vanilla.txt#L27817) | `Star.48` | Каталог | Запись звёздного каталога — «Элга,Star.Normal». |
+| [27818](../../source/SR_2_HD_Lang_vanilla.txt#L27818) | `Star.49` | Каталог | Запись звёздного каталога — «Аркабе,Star.Small». |
+| [27819](../../source/SR_2_HD_Lang_vanilla.txt#L27819) | `Star.50` | Каталог | Запись звёздного каталога — «Капелла,Star.Normal». |
+| [27820](../../source/SR_2_HD_Lang_vanilla.txt#L27820) | `Star.51` | Каталог | Запись звёздного каталога — «Арракис,Star.Small». · [Отсылки](../../GALAXY_LORE_PARODY.md#L80) |
+| [27821](../../source/SR_2_HD_Lang_vanilla.txt#L27821) | `Star.52` | Каталог | Запись звёздного каталога — «Сафрона,Star.Normal». |
+| [27822](../../source/SR_2_HD_Lang_vanilla.txt#L27822) | `Star.53` | Каталог | Запись звёздного каталога — «Аль Дагор,Star.Small». |
+| [27823](../../source/SR_2_HD_Lang_vanilla.txt#L27823) | `Star.54` | Каталог | Запись звёздного каталога — «Завия,Star.Small». |
+| [27824](../../source/SR_2_HD_Lang_vanilla.txt#L27824) | `Star.55` | Каталог | Запись звёздного каталога — «Диадема,Star.Small». |
+| [27825](../../source/SR_2_HD_Lang_vanilla.txt#L27825) | `Star.56` | Каталог | Запись звёздного каталога — «Озеум,Star.Normal». |
+| [27826](../../source/SR_2_HD_Lang_vanilla.txt#L27826) | `Star.57` | Каталог | Запись звёздного каталога — «Ригель,Star.Small». |
+| [27827](../../source/SR_2_HD_Lang_vanilla.txt#L27827) | `Star.58` | Каталог | Запись звёздного каталога — «Тураис,Star.Small». |
+| [27828](../../source/SR_2_HD_Lang_vanilla.txt#L27828) | `Star.59` | Каталог | Запись звёздного каталога — «Селиостр,Star.Small». |
+| [27829](../../source/SR_2_HD_Lang_vanilla.txt#L27829) | `Star.60` | Каталог | Запись звёздного каталога — «Цуфай,Star.Normal». |
+| [27830](../../source/SR_2_HD_Lang_vanilla.txt#L27830) | `Star.61` | Каталог | Запись звёздного каталога — «Юфалли,Star.Normal». |
+| [27831](../../source/SR_2_HD_Lang_vanilla.txt#L27831) | `Star.62` | Каталог | Запись звёздного каталога — «Муррац,Star.Small». |
+| [27832](../../source/SR_2_HD_Lang_vanilla.txt#L27832) | `Star.63` | Каталог | Запись звёздного каталога — «Миннавер,Star.Small». |
+| [27833](../../source/SR_2_HD_Lang_vanilla.txt#L27833) | `Star.64` | Каталог | Запись звёздного каталога — «Эйрон,Star.Small». |
+| [27834](../../source/SR_2_HD_Lang_vanilla.txt#L27834) | `Star.65` | Каталог | Запись звёздного каталога — «Фелгест,Star.Small». |
+| [27835](../../source/SR_2_HD_Lang_vanilla.txt#L27835) | `Star.66` | Каталог | Запись звёздного каталога — «Рекц,Star.Normal». |
+| [27836](../../source/SR_2_HD_Lang_vanilla.txt#L27836) | `Star.67` | Каталог | Запись звёздного каталога — «Сезерк,Star.Normal». |
+| [27837](../../source/SR_2_HD_Lang_vanilla.txt#L27837) | `Star.68` | Каталог | Запись звёздного каталога — «Укфал,Star.Normal». |
+| [27838](../../source/SR_2_HD_Lang_vanilla.txt#L27838) | `Star.69` | Каталог | Запись звёздного каталога — «Сезмен,Star.Normal». |
+| [27839](../../source/SR_2_HD_Lang_vanilla.txt#L27839) | `Star.70` | Каталог | Запись звёздного каталога — «Тортугац,Star.Small». · [Свод](../../GALAXY_LORE.md#L1614), [Отсылки](../../GALAXY_LORE_PARODY.md#L142) |
+| [27840](../../source/SR_2_HD_Lang_vanilla.txt#L27840) | `Star.71` | Каталог | Запись звёздного каталога — «Нифигац,Star.Normal». · [Свод](../../GALAXY_LORE.md#L1614), [Отсылки](../../GALAXY_LORE_PARODY.md#L142) |
+| [27841](../../source/SR_2_HD_Lang_vanilla.txt#L27841) | `Star.Terron` | Каталог | Запись звёздного каталога — «Гралгар». · [Свод](../../GALAXY_LORE.md#L1613) |
