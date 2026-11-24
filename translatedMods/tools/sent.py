@@ -40,8 +40,8 @@ def align(a,c):
     return out[::-1]
 def vmem():
     tm={}
-    rus=open(m.R+'/Translation/lore/source/SRHD_rus.txt',encoding='cp1251',errors='replace').read().replace('\r\n','\n').split('\n')
-    eng=open(m.R+'/Translation/lore/source/SRHD_Lang_Eng_Vanilla.txt',encoding='cp1251',errors='replace').read().replace('\r\n','\n').split('\n')
+    rus=open(m.R+'/Lore/source/SRHD_rus.txt',encoding='cp1251',errors='replace').read().replace('\r\n','\n').split('\n')
+    eng=open(m.R+'/Lore/source/SRHD_Lang_Eng_Vanilla.txt',encoding='cp1251',errors='replace').read().replace('\r\n','\n').split('\n')
     ie={p:v for _,p,v in m.items_idx(eng)}
     for _,p,v in m.items_idx(rus):
         e=ie.get(p)

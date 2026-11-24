@@ -50,8 +50,8 @@ def items_idx(L):
     return out
 def tm_build():
     d=collections.defaultdict(collections.Counter)
-    rus=open(R+'/Translation/lore/source/SRHD_rus.txt',encoding='cp1251',errors='replace').read().replace('\r\n','\n').split('\n')
-    eng=open(R+'/Translation/lore/source/SRHD_Lang_Eng_Vanilla.txt',encoding='cp1251',errors='replace').read().replace('\r\n','\n').split('\n')
+    rus=open(R+'/Lore/source/SRHD_rus.txt',encoding='cp1251',errors='replace').read().replace('\r\n','\n').split('\n')
+    eng=open(R+'/Lore/source/SRHD_Lang_Eng_Vanilla.txt',encoding='cp1251',errors='replace').read().replace('\r\n','\n').split('\n')
     ie={p:v for _,p,v in items_idx(eng)}
     for _,p,v in items_idx(rus):
         if cyr.search(v) and p in ie and not cyr.search(ie[p]) and vok(v,ie[p]): d[v][ie[p]]+=2   # vanilla weight

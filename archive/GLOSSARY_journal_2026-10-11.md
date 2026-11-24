@@ -1934,7 +1934,7 @@ ekup; Brigee Bardozze (ксенопарк); crossbow (ручной самост�
 | остров имени Короля Клисан (шутка: у клисан не было короля) | the island named after the King of the Klissans | Tourists |
 | Имена авторов в титрах | не переводим: латиница как есть, кириллица — транслит в авторском порядке (Russkikh Denis) | все квесты |
 
-## Сверка с Lang_Eng_Vanilla (ванилла HD) — 2026-10-11 (для ShuMercsHQ; файл: `Translation/lore/source/SRHD_Lang_Eng_Vanilla.txt`)
+## Сверка с Lang_Eng_Vanilla (ванилла HD) — 2026-10-11 (для ShuMercsHQ; файл: `Lore/source/SRHD_Lang_Eng_Vanilla.txt`)
 Приоритет ванилла > DevTranslated > наше. Выравнивание RU↔EN по ключам: ланг `SRHD_rus.txt` ↔ `SRHD_Lang_Eng_Vanilla.txt` (22398 пар).
 | RU | EN (ванилла) | Примечание |
 |---|---|---|

@@ -113,7 +113,7 @@ ShuQuest/LongLiveTheRanger, PirateClanPrison, Prison, PrisonMenu, mark05 (све
 | Spy | 2026-10-02 | 315 (270 уникальных) | переведён заново с RU | время по контексту RU; имена транслитом (Kats, Shandyber, Klint Blinton...); адаптации в notes; лор ~6 фактов; структура 0; check 0/0 |
 
 ## RevTextQuests (мод) — перевод с RU (начато 2026-10-02)
-Лор модов — `Translation/lore/LORE_FACTS_MODS.md`. Старые англ. варианты в корне репо (Cybersport.txt, Massacri.txt) — только справочник.
+Лор модов — `Lore/LORE_FACTS_MODS.md`. Старые англ. варианты в корне репо (Cybersport.txt, Massacri.txt) — только справочник.
 
 | Квест | Дата | Записей | Статус | Заметки |
 |---|---|---|---|---|

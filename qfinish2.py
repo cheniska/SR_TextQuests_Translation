@@ -2,7 +2,7 @@
 import sys, re
 name, nrec, uniq, statusnote, gl, lore_idx, lore, notes = [open(f, encoding='utf-8').read() if i > 3 else f for i, f in enumerate(sys.argv[1:])]
 p = 'Translation/GLOSSARY.md'; g = open(p, encoding='utf-8').read(); open(p, 'w', encoding='utf-8').write(g.rstrip('\n') + '\n\n' + gl.strip('\n') + '\n')
-p = 'Translation/lore/LORE_FACTS.md'; s = open(p, encoding='utf-8').read()
+p = 'Lore/LORE_FACTS.md'; s = open(p, encoding='utf-8').read()
 a = '- **Bank** (КР1, SR1TextQuests):'; assert a in s
 s = s.replace(a, lore_idx.strip('\n') + '\n' + a, 1); open(p, 'w', encoding='utf-8').write(s.rstrip('\n') + '\n\n' + lore.strip('\n') + '\n')
 open('TextQuests/SR2HD/questsEng/notes/%s_notes.txt' % name, 'w', encoding='utf-8').write(notes)

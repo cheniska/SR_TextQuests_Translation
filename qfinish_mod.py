@@ -12,7 +12,7 @@ if gl:
     p = 'Translation/GLOSSARY_MODS.md'; s = open(p, encoding='utf-8').read().rstrip('\n')
     open(p, 'w', encoding='utf-8').write(s + '\n\n' + gl + '\n')
 if idx or lore:
-    p = 'Translation/lore/LORE_FACTS_MODS.md'; s = open(p, encoding='utf-8').read()
+    p = 'Lore/LORE_FACTS_MODS.md'; s = open(p, encoding='utf-8').read()
     if idx:
         a = '\n## Cybersport'; assert a in s
         s = s.replace(a, idx + '\n' + a, 1)

@@ -4,7 +4,7 @@
 """
 import sys,os,re,glob,collections
 R=os.path.abspath(os.path.join(os.path.dirname(__file__),'..','..'))
-SRC=R+'/Translation/lore/source/'
+SRC=R+'/Lore/source/'
 def parse(path,enc):
     d={};st=[]
     for l in open(path,encoding=enc,errors='replace').read().split('\n'):
